@@ -1,0 +1,38 @@
+
+Nov 6, 2014.
+
+Work on converting pw_orig_utf8 to slp1.
+Based on code in missing/
+
+Nov 6:  In addition to changing from hk to slp1,  also 
+  (a) Change ellipsis to space in {}, and in ‹zu›
+  (b) Isolate Page breaks from Sanskrit
+  (c) Isolate periods from Sanskrit.
+
+python26 transcode.py 1 ../../orig/pw_orig_utf8.txt ../../orig/pw_orig_utf8_slp1.txt
+Do the inverse conversion, back to hk:
+python26 transcode.py 2 ../../orig/pw_orig_utf8_slp1.txt pw_orig_utf8_hk.txt
+check the difference:
+diff ../../orig/pw_orig_utf8.txt pw_orig_utf8_hk.txt > difforig
+
+There are 64 differences - see difforig for details.
+Some of these may lead to corrections.
+However, since the number of differences is small, they are not
+considered a material obstacle to proceeding with the use of 
+pw_orig_utf8_slp1.txt.
+
+test
+python26 transcode.py 1 test_orig_utf8.txt test_orig_utf8_slp1.txt
+python26 transcode.py 2 test_orig_utf8_slp1.txt test_orig_utf8_hk.txt
+diff test_orig_utf8.txt test_orig_utf8_hk.txt > temp
+
+Convert the old manualByLine files to slp1 form.
+python26 transcode1.py 1 oldhk/manualByLine01.txt ../manualByLine01_slp1.txt
+
+python26 transcode1.py 2  ../manualByLine01_slp1.txt manualByLine01_hk.txt
+diff oldhk/manualByLine01.txt manualByLine01_hk.txt > diffmanual
+
+There are 13 differences.  
+We may have to adjust ../manualByLine01_slp1.txt manually.
+However, these caused no problems, so are probably ok.
+
