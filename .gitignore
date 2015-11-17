@@ -1,2 +1,4 @@
 # emacs backup filenames end with ~
 *~
+# compiled python
+*.pyc
