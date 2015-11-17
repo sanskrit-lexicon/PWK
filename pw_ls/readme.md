@@ -10,6 +10,6 @@ occuring in the PW dictionary.
    details.
 
 * **pwbib**  contains a Digitization of the lists of works sections from
-  each of 6 volumes of PW.  Digitization pwbib.txt provided by Thomas Malten, 
+  each of 6 volumes of PW.  Digitization pwbib_orig.txt provided by Thomas Malten, 
   from work done in 2003. See readme.md therein for details of reformatting.
 
