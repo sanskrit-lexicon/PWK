@@ -28,7 +28,10 @@
 <e> <s>INIT</s> <in>I4</in> <out>\u00cd</out> </e>
 <e> <s>INIT</s> <in>i4</in> <out>\u00ed</out> </e>
 <e> <s>INIT</s> <in>i5</in> <out>\u0129</out> </e>
+<!--
 <e> <s>INIT</s> <in>I7</in> <out>\u00d4</out> </e>
+-->
+<e> <s>INIT</s> <in>I7</in> <out>\u00ce</out> </e>
 <e> <s>INIT</s> <in>i7</in> <out>\u00ee</out> </e>
 <e> <s>INIT</s> <in>K4</in> <out>\u1e30</out> </e>
 <e> <s>INIT</s> <in>k4</in> <out>\u1e31</out> </e>

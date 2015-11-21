@@ -9,7 +9,7 @@ AK.	008	+	==	1	AK.	AMARAKOÇA, Ausg. von LOISELEUR DESLONGCHAMPS.
 A7K4A7RA7DARC2A	009	+	==	1	ÂḰÂRÂDARÇA	, Benares 1921 (STENZLER). 
 AMR2T.UP.	010	+	==	1	AMṚT.UP.	AMṚTABINDÛPANISHAD in der Bibl. ind. (GELDNER und ROTH). 
 A7NANDAG.	011	+	==	1	ÂNANDAG.	ÂNADAGIRI, Glossator zu ÇAM7KARÂḰÂRJA'S Comm. zu BṚH. ÂR Up. in der Bibi. ind. (KERN). 
-ANUKRAM. zu R2V.	012	+	==	1	ANUKRAM. zu ṚV.	ANUKRAMAṆIḰ zu ṚV. im Comm. SÂJAṆA'S. 
+ANUKRAM. zu R2V.	012	+	==	1	ANUKRAM. zu ṚV.	ANUKRAMAṆIḰÂ zu ṚV. im Comm. SÂJAṆA'S. 
 A7PAST.	013	+	==	1	ÂPAST.	ÂPASTAMBA'S DHARMASÛTRA, Ausg. von BÜHLER. 
 A7PAST.C2R.	014	+	==	1	ÂPAST.ÇR.	ÂPASTMBA'S ÇRAUTASÛTRA, Hdschr. (GARME und ROTH). 
 A7RJABH.	015	+	==	1	ÂRJABH.	ÂRJABHAṬA Ausg. von KERN (KERN). 
@@ -29,7 +29,7 @@ Beitr. z. k. d. ig. Spr.	028	+	==	1	Beitr. z. k. d. ig. Spr.	Beiträge zur Kunde
 BENF. Chr.	029	+	==	1	BENF. Chr.	BENFEY'S Chrestomathie. 
 BHAG.	030	+	==	1	BHAG.	BHAGAVADGITÂ, Ausg. von SCHLEGEL. 
 BHA7G.P.	031	+	==	1	BHÂG.P.	BHÂGAVATAPURÂṆA. Die 9 ersten Skandha nach BURNOUF's. Ausgabe, wenn nicht ausdrücklich. ed. Bomb. hinzugefügt wird; die letzten Skandha nach der ed. Bomb. In Klammern eingeschlossene Zahlen verweisen auf ed. Bomb. 
-BHA7R.NA7T2JAC2.	032	+	==	1	BHÂR.NÂṬJAÇ.	BHÂRATÔJANÂṬJAÇÂSTRA am Schluss von DAÇAR. In der Bi?? in. 
+BHA7R.NA7T2JAC2.	032	+	==	1	BHÂR.NÂṬJAÇ.	BHÂRATÎJANÂṬJAÇÂSTRA am Schluss von DAÇAR. In der Bi?? in. 
 BHA7SHA7P.	033	+	==	1	BHÂSHÂP.	BHÂSHÂPARIḰḰHED in der Bibl. ind. 
 BHAT2T2.	034	+	==	1	BHAṬṬ.	BHAṬṬIKÂVJA, Calcutta 1828. 
 BHA7VAPR.	035	+	==	1	BHÂVAPR.	BHÂVAPRAḰÂÇA, Calcutta 1875 und Hdschr. (ROTH). 
@@ -67,7 +67,7 @@ C2IC2.	066	+	==	1	ÇIÇ.	ÇIÇUPÂLAVADHA, Calcutta 1815.
 C2IRA-UP.	067	+	==	1	ÇIRA-UP.	ÇIRAUPANISHAD in der Bibl. ind. (GELDNER und ROTH). 
 COLEBR.Alg.	068	+	==	1	COLEBR.Alg.	COLEBROOKE, Algebra with Arithmetic and Mensuration u. s. w. London 1817. 
 COLEBR.Misc.Ess.	069	+	==	1	COLEBR.Misc.Ess.	Miscellaneous Essays by H. T. COLEBROOKE. London. 1837. 
-C2RIP.	070	+	==	1	ÇRIP.	ÇRIPATI. 
+C2RI7P.	070	+	==	1	ÇRÎP.	ÇRÎPATI. 
 C2ULBAS.	071	+	==	1	ÇULBAS.	ÇULBASÛTRA in der Zeitschirft The Pandit IX. X und New Series I (CAPPELLER). 
 C2VETA7C2V. UP.	072	+	==	1	ÇVETÂÇV. UP.	ÇVETÂÇVATAROPANISHAD in der Bibl. ind. 
 DAC2AK.	073	+	==	1	DAÇAK.	DAÇAKUMÂRA, Ausg. von BÜHLER (CAPPELLER). 
@@ -97,7 +97,7 @@ GAN2IT.TRIPR.	096	+	==	1	GAṆIT.TRIPR.	GAṆITA, TRIPRAÇANÂDHIKÂRA (KERN).
 GARBHOP.	097	+	==	1	GARBHOP.	GARBHOPANISHAD in Bibl. ind. (GELDNER und ROTH). 
 GAUD2AP.	098	+	==	1	GAUḌAP.	GAUḌAPÂDA, Commentator der SÂṀKHJAKÂRIKÂ. 
 GAUT.	099	+	==	1	GAUT.	GAUTMA'S DHARMAÇÂSTRA, Ausg. von STENZLER. 
-GIT.	100	+	==	1	GIT.	GITAGOVINA, Ausg. von LASSEN. 
+GI7T.	100	+	==	1	GÎT.	GÎTAGOVINDA, Ausg. von LASSEN. 
 GOBH.	101	+	==	1	GOBH.	GOBHILA'S GṚJASÛTRA in der Bibl. ind. (ROTH). 
 GOLA7DHJ.	102	+	==	1	GOLÂDHJ.	BHÂSKARA'S GOLÂDHJÂJA (KERN). 
 GOLD.	103	+	==	1	GOLD.	GOLDSTÜCKER'S Wörterbuch 
@@ -130,7 +130,7 @@ KA7C2.	129	+	==	1	KÂÇ.	KÂÇIKÂ VṚTTI in der Zeitschrift The PANDIT VII. fg
 KA7D.	130	+	==	1	KÂD.	KÂDAMBARI, Calcutta Saṁvat 1919 (KERN). 
 K4AKR.	131	+	==	1	ḰAKR.	ḰAKRADATTA, Commentator von ḰARAKA und SUÇRUTA, Hdschr. (ROTH). 
 KA7LAK4.	132	+	==	1	KÂLAḰ.	KÂLAḰAKRA, Hdschr. (SCHIEFNER). 
-KA7M.NI7TIS.	133	+	==	1	KÂM.NÔTIS.	KÂMANDAKIJANÔTISÂRA in der Bibl. ind. 
+KA7M.NI7TIS.	133	+	==	1	KÂM.NÎTIS.	KÂMANDAKIJANÎTISÂRA in der Bibl. ind. 
 KAN2.	134	-	==	1	KAṆ.	KAṆÂDA'S VAIÇESHIKADABÇANA in der Bibl. ind. 
 KA7N2D2.	135	-	==	1	KÂṆḌ.	KÂṆḌÛPÂKHJÂNA in LA. 
 K4AN2D2AK.	136	-	==	1	ḰAṆḌAK.	KSHEMIÇVARA'S ḰANDAKAÇIKA (PISCHEL). 
@@ -154,7 +154,7 @@ K4HANDOM.	153	-	==	1	ḰHANDOM.	ḰHANDOMANG7ARI, herusg. von BROCKHAUS in Beric
 K4HA7ND. Up.	154	-	==	1	ḰHÂND. Up.	ḰHÂNDOGJOPANISHAD in der Bibl. ind. 
 KIR.	155	-	==	1	KIR.	KIRÂTÂRG7UNIJA, Calcutta 1814. 
 KR2SHIS.	156	-	==	1	KṚSHIS.	PARÂÇARA'S KṚSHISAṀGERAHA, Calcutta 1862(ROTH). 
-KSHITIC2.	157	-	==	1	KSHITIÇ.	KSHITÇAVAṀÇÂVALÔKÔARITA, Ausg. von PERTSCH. 
+KSHITIC2.	157	-	==	1	KSHITIÇ.	KSHITÇAVAṀÇÂVALÎKÎARITA, Ausg. von PERTSCH. 
 KSHURIKOP.	158	-	==	1	KSHURIKOP.	KSHURIKOPANISHAD in der Bibl. ind. 
 KULL.	159	-	==	1	KULL.	KULLÛKA, Commentator des MANU. 
 KUMA7RAS.	160	-	==	1	KUMÂRAS.	KUMÂRASAṀBHAVA, Ausg. von STENZLER. 
@@ -197,10 +197,10 @@ MUDRA7R.	196	-	==	1	MUDRÂR.	MUDRÂRÂKSHASA, nach zwei Ausgaben, Calcutta 1831 
 NA7GA7N.	197	-	==	1	NÂGÂN.	NAISHADHAḰARITA. 
 NA7R.	198	-	==	1	NÂR.	NÂRADA'S DHARMAÇÂSTRA (JOLLY). 
 NIGH. PR.	199	-	==	1	NIGH. PR.	NIGHAṆṬUPRAKÂÇA (ROTH). 
-NIL.	200	-	==	1	NIL.	A rational Refutation of the Hindu Phisosphical Systems, by NEHEMIAH NILAKAṆṬHA SA'STRI GORE. Translated etc. by RITZ-EDWARD HALL. Calcutta 1862. 
-NILAK. mit einer Zahl	201	-	==	1	NILAK. mit einer Zahl	NIL. 
-NILAK.	202	-	==	1	NILAK.	NILAKAṆṬHA, Commentator des MBH. 
-NILAR. Up.	203	-	==	1	NILAR. Up.	NILARDROPANISHAD in der Bibl. ind. (GELDNER und ROTH). 
+NI7L.	200	-	==	1	NÎL.	A rational Refutation of the Hindu Phisosphical Systems, by NEHEMIAH NILAKAṆṬHA SA'STRI GORE. Translated etc. by RITZ-EDWARD HALL. Calcutta 1862. 
+NI7LAK. mit einer Zahl	201	-	==	1	NÎLAK. mit einer Zahl	NÎL. 
+NI7LAK.	202	-	==	1	NÎLAK.	NÎLAKAṆṬHA, Commentator des MBH. 
+NI7LAR. Up.	203	-	==	1	NÎLAR. Up.	NÎLARDROPANISHAD in der Bibl. ind. (GELDNER und ROTH). 
 NIR.	204	-	==	1	NIR.	NIRUKTA, Ausg. von ROTH (ROTH). 
 NJA7JAM	205	-	==	1	NJÂJAM	G7AIMINIJANJÂJAMÂLÂVISTARA, Ausg. von GOLDSTÜCKER UND Cowell (KERN). 
 NJA7JAS.	206	-	==	1	NJÂJAS.	GOTAMA'S NJÂJADARÇANA in der Bibl. ind. Die Ausg. Calcutta 1828 wird durch Beifügung von (1828) bezeichnet. (KERN). 
@@ -415,7 +415,7 @@ VR2SHABH.	414	-	==	3	VṚSHABH.	VṚSHADÂNUG7A im 3ten und 4ten Bande des Pandi
 WEBER, RA7MAT.	415	-	==	3	WEBER, RÂMAT.	WEBER'S Ausg. RÂMATÂPANIJOPANISHAD. 
 WIND. SANG.	416	-	==	3	WIND. SANG.	FRIDERICI HENR. HUG. WINDISHMANNI SANCARA sive de theologumenis Vedanticorum. 
 BHA7M. V.	417	-	==	3	BHÂM. V.	BHÂMINIVILÂSA, Ausg. von ABELBERGAIGNER(CAPPELLER. ) 
-C2AM5K. VIG7.	418	-	==	4	ÇAṀK. VIG7.	ÇṀKARAVIG7AJA in der Bibl. ind. 
+C2AM5K. VIG7.	418	-	==	4	ÇAṀK. VIG7.	ÇAṀKARAVIG7AJA in der Bibl. ind. 
 CANTOR.	419	-	==	4	CANTOR.	CANTOR, Geschichte der Mathematik (WINDISCH) . 
 GAN2ITA,GRAHAK4K4AH(A7JA7DHIKA7RA)	420	+	xx	4	GAṆITA,GRAHAḰḰAH(ÂJÂDHIKÂRA)	(KERN) . 
 GAN2ITA,SU7RJAGR(AHAN2A7DHIKA7RA)	421	+	xx	4	GAṆITA,SÛRJAGR(AHAṆÂDHIKÂRA)	(KERN) . 

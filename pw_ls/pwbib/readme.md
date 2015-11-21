@@ -17,6 +17,9 @@ python cp1252-to-utf8.py pwbib_orig.txt pwbib_utf8.txt
 python pwbib_parse0.py pwbib0.txt
 This parses the file into 502 relevant lines, with a regular structure, as
 described in  https://github.com/sanskrit-lexicon/PWK/issues/14
+Note: the command line usage above just checks that no anomalies are found.
+The main use of it is as a module to be used by other programs, such as
+pwbib1.py.
 
 **step4** pwbib1 -  first conversion of AS to Unicode.
 python pwbib1.py pwbib0.txt pwbib1.txt
