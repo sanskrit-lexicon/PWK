@@ -22,6 +22,9 @@ def convertrecs(recs,tranin,tranout):
   try:
    rec.abbrvunicode = transcoder.transcoder_processString(rec.abbrv,tranin,tranout)
    rec.titleunicode = transcoder.transcoder_processString(rec.title,tranin,tranout)
+   m = re.search(r'[a-zA-Z][1-9]',rec.abbrvunicode + " " + rec.titleunicode )
+   if m:
+    print "TRANSCODER WARNING: ",m.group(0).encode('utf-8')
   except:
    print "convertrecs problem",n,rec.line.encode('utf-8')
    #exit(1)
