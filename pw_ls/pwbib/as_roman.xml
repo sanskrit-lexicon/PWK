@@ -56,10 +56,17 @@
 <e> <s>INIT</s> <in>u4</in> <out>\u00fa</out> </e>
 <e> <s>INIT</s> <in>U7</in> <out>\u00db</out> </e>
 <e> <s>INIT</s> <in>u7</in> <out>\u00fb</out> </e>
+<!--  old coding removed
 <e> <s>INIT</s> <in>m~</in> <out>\u1e41</out> </e>
 <e> <s>INIT</s> <in>M~</in> <out>\u1e40</out> </e>
+-->
+<!-- 1e40 and 1e41 and latin capital (small) letter m with dot above 
 <e> <s>INIT</s> <in>m5</in> <out>\u1e41</out> </e>
 <e> <s>INIT</s> <in>M5</in> <out>\u1e40</out> </e>
+-->
+<!-- capital and small 'm' with combining tilde (\u0303) -->
+<e> <s>INIT</s> <in>M5</in> <out>\u004d\u0303</out> </e>
+<e> <s>INIT</s> <in>m5</in> <out>\u006d\u0303</out> </e>
 
 
 <!-- number-letter codes that believed NOT to be AS codes -->
