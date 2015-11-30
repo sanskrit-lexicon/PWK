@@ -4,6 +4,7 @@ from lxml import etree # lxml.de
 import re
 import codecs
 import datetime
+import sys
 
 """
 # Abbreviations of PW
@@ -54,12 +55,14 @@ Run `makeabbrv.sh` from pywork/abbrvwork directory to regenerate the lists.
 2. After removing terminal period(.) i.e. `clean = clean.strip('.')` - 3341 entries
 """
 
+xmlfilename = sys.argv[1]  # e.g., ../pw.xml
+print "Using xmlfile",xmlfilename
 # Function to return timestamp
 def printtimestamp():
 	return datetime.datetime.now()
 print "Parsing started at", printtimestamp()
 print
-entries = etree.parse('../pw.xml') # Parse xml
+entries = etree.parse(xmlfilename) # Parse xml
 print "Parsing ended at", printtimestamp()
 print
 
@@ -119,10 +122,19 @@ def removenumbers():
 	cleanfile = codecs.open('abbrvoutput/cleanrefs.txt','w','utf-8')
 	cleanrefs = []
 	for (a,b,c,d) in properrefs:
-		clean = re.sub(u'¨',u'$',a) # Some unicode issues sorted. Not converted them back as of now.
+		# Nov 28, 2015. ejf first remove (...)  and [...]
+                clean = a
+                clean = re.sub(r'(.)\(.*?\)',r'\1',clean)
+                clean = re.sub(r'(.)\[.*?\]',r'\1',clean)                
+		clean = re.sub(u'¨',u'$',clean) # Some unicode issues sorted. Not converted them back as of now.
 		clean = re.sub(u'›',u'$$',clean)
-		clean = re.sub(u'ý',u'^2',clean)
-		clean = re.sub(r'[.]([0-9,.a-z();\^\$]+)$','',clean) # Removed the trailing numbers of cantos / shlokas etc.
+		#clean = re.sub(u'ý',u'^2',clean)
+                clean = re.sub(u'²',u'^2',clean)
+		#clean = re.sub(r'[.]([0-9,.a-z();\^\$]+)$','',clean) # Removed the trailing numbers of cantos / shlokas etc.
+		# Removed the trailing numbers of cantos / shlokas etc.
+		clean = re.sub(r'[.]([0-9,.a-z();\^\$]+)$','',clean) 
+                # ejf.  Replace '.'+digit+<rest> with .
+                clean = re.sub(r'[.][0-9].*$','.',clean)
 		clean = clean.strip('.') # Removed trailing period after the numbers are removed (if any).
 		cleanrefs.append((clean,b,c,d))
 	cl1 = []

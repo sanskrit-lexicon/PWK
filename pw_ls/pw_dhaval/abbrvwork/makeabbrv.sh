@@ -1,4 +1,4 @@
-python abbrv.py
+python abbrv.py ../pw.xml
 echo "Converting the Anglicized Sanskrit to IAST"
 echo 
 python transcoder/as_roman.py abbrvoutput/sortedcrefs.txt abbrvoutput/sortedcrefsiast.txt as roman

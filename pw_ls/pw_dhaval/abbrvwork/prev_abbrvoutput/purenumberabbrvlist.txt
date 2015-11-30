@@ -5326,6 +5326,7 @@ ebend.@vikacaSrI@vikacaSrI@101595
 296,9.@vic@vic@101971
 101,13.@vicArya@vicArya@102020
 139,15)@vicezwita@vicezwita@102078
+500,14@vicCAya@vicCAya@102086
 163,3.@vicCeda@vicCeda@102095
 123,22.@vij@vij@102100
 (139,7@vij@vij@102100
@@ -5358,6 +5359,7 @@ ebend.1,560,8.@vidyAkoSasamASraya@vidyAkoSasamASraya@102666
 69,8.@viDimantrapuraskftam@viDimantrapuraskftam@102939
 970,3.@viDyanta@viDyanta@102994
 212,15.@viDyAtmaka@viDyAtmaka@102998
+108,8.@vinata@vinata@103011
 106,17.@vinatAtanayA@vinatAtanayA@103014
 112,6),@vinA@vi/nA@103059
 ra7g4at.8,2139@vinidrAsu@vinidrAsu@103112
@@ -5491,6 +5493,7 @@ ebend.@veNkaweSvaradIkzita@veNkaweSvaradIkzita@106911
 ebend.@vEraTa@vEraTa@107901
 1,26.@vEroDaka@vEroDaka@107977
 310,17.319,4.@vElakzya@vElakzya@107984
+27,1.@vEvaDika@vEvaDika@107994
 267,25.@vESezya@vESezya@108043
 268,28.269,12.@vESvAnara@vESvAnara/@108100
 26,7.18.@vESvAmitra@vESvAmitra@108113
@@ -5499,6 +5502,7 @@ ebend.@vEraTa@vEraTa@107901
 162,30)@vyajana@vyajana@108259
 7,105,33@vyatikzepa@vyatikzepa@108285
 127,27)@vyaTA@vyaTA/@108319
+476,1.@vyaDana@vyaDana@108333
 164.@vyantara@vyantara@108344
 301,29.@vyapadeSa@vyapadeSa@108353
 314,18.315.@vyalIka@vyalIka@108422
@@ -5532,6 +5536,7 @@ ebend.@vyAvacorI@*vyAvacorI@108773
 241,32.@SakawasArTa@SakawasArTa@109225
 262,24.@Saktidvayavant@Saktidvayavant@109349
 ebend.@Sakradruma@*Sakradruma@109424
+383,10.@Sakvara@Sakvara@109485
 ebend.@SaMkara@SaMkara/@109496
 212,11.12.@SaNkABiyoga@SaNkABiyoga@109545
 134,16.@SaNkin@SaNkin@109550
@@ -5583,7 +5588,9 @@ ebend.@SaraBojirAjan@SaraBojirAjan@110607
 112,12.@SarIrAByaDika@SarIrAByaDika@110731
 ebend.@SarpaRAvant@*SarpaRAvant@110789
 215,18.@SaSavizARa@SaSavizARa@110978
+376,1.@SaSANka@SaSANka@110986
 251,1.@SaSANkavadanA@SaSANkavadanA@110994
+143,4.436.11.@Sasta@Sasta@111084
 241,32.@SAkawAyana@SAkawAyana@111179
 98,9.@SAtin@°SAtin@111472
 238,15.32.@SAnac@SAnac@111489
@@ -5600,6 +5607,7 @@ ebend.@SAntaBaya@SAntaBaya@111509
 17.@SArikAnATa@SArikAnATa@111695
 63.20,51.@SAl@SAl@111775
 10,21,5.11,9.10.@SAlAmuKIya@SAlAmuKIya@111845
+479,7.487,13.@SAli@SAli@111860
 215,12.@SAlikzetra@SAlikzetra@111867
 11,17,1.@SAlIna@SAlIna@111904
 74,1)@SAs@SAs@111981
@@ -5652,6 +5660,7 @@ ebend.@SI@SI@112857
 308,8@SIrzavedanA@SIrzavedanA@113103
 80,11.32.@Sukra@Sukra/@113239
 192,21.@Suklavastra@Suklavastra@113325
+423,5.@SuNga@SuNga@113348
 18,3.@SuNga@SuNga@113348
 104,20.@Sucicarita@Sucicarita@113363
 (53,5.@Sucismita@Sucismita@113399
@@ -5673,7 +5682,6 @@ ebend.@SI@SI@112857
 292,17.322,25.@SeKara@SeKara@114053
 ebend.@SeKara@SeKara@114053
 8,578@Seqa@Seqa@114062
-120.15@SePAli@*SePAli@114073
 235,22@Sezatva@Sezatva@114113
 235,12@Sezatva@Sezatva@114113
 ebend.@SElaniryAsa@*SElaniryAsa@114204
@@ -5701,6 +5709,8 @@ ebend.@SraTAy@SraTAy@114807
 95,23.@Sram@Sram@114841
 60,32.@Sram@Sram@114841
 198,13),@Srama@Sra/ma@114843
+1,302).@SramaRa@SramaRa/@114849
+506,18.@SramaRa@SramaRa/@114849
 1,1,55),@SramaRa@SramaRa/@114849
 302,28.@SravaRapaTa@SravaRapaTa@114882
 (107,26)@SrA@SrA@114929
@@ -6194,6 +6204,7 @@ ebend.@sODAvatAnika@*sODAvatAnika@129922
 252,21.@sOraBa@sOraBa@130085
 102,2.@sOzumRa@sOzumRa@130199
 ebend.@sOsukIya@*sOsukIya@130207
+481,4@skad@skad@130228
 10,65,7.@skaBitvI@skaBitvI/@130309
 306,12.@sKalita@sKalita@130345
 315,7.@sKalita@sKalita@130345
@@ -6397,6 +6408,7 @@ ebend.@harivijaya@harivijaya@133858
 308,22.@has@has@134145
 315,2.@has@has@134145
 215,21.@has@has@134145
+445,3.@hastaka@hastaka@134162
 119,6.@hastaga@hastaga@134167
 328,27@hastagata@hastagata@134168
 110,2.@hastaBrazwa@hastaBrazwa@134198
@@ -6438,6 +6450,7 @@ ebend.@hastaleKI@hastaleKI@134205
 324,30.@hemaSfNga@hemaSfNga@135403
 292,17.@hemAlaMkAra@hemAlaMkAra@135428
 9,17.@hevAka@hevAka@135462
+96,1@hErika@hErika@135521
 105,23.106,6.@hEhaya@hEhaya@135523
 205,5.6.212,13.14.@hoQa@hoQa@135533
 302,20.21@hnu@hnu@135644
