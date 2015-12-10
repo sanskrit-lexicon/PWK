@@ -1,6 +1,9 @@
 
 # pwbib
 
+ Note: sh redo.sh remakes everything.  It uses sortedcref.txt from pw_dhaval
+ directory. 
+
 **step0** pwbib_orig.txt was received from Thomas Malten Nov 16, 2015.  It comprises a
 digitization of the list of works as presented in the 6 volumes of the
 PW dictionary.
