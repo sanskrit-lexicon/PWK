@@ -64,7 +64,8 @@ if __name__ == "__main__":
    bibrec.duplicate = True
   else:
    bibdict[key]=bibrec
-
+ # Cull out entries which are in pwbib1.txt but are absent in sortedcrefs.txt
+ bibminuscref = codecs.open('bibminuscref.txt','w','utf-8')
  # for each bibrec
  for key in bibdict.keys():
   if key in crefdict:
@@ -72,6 +73,20 @@ if __name__ == "__main__":
    crefrec = crefdict[key]
    bibrec.cref = crefrec
    crefrec.bib = bibrec
+  else:
+   print key, '- not found in cref' 
+   bibminuscref.write(key+"\n")
+ 
+ # ull out entries which are in sortedcrefs.txt but are absent in pwbib1.txt
+ crefminusbib = codecs.open('crefminusbib.txt','w','utf-8')
+ crefbibintersect = codecs.open('crefbibintersect.txt','w','utf-8')
+ for key in crefdict.keys():
+  if key not in bibdict:
+   print key, '- not found in bib' 
+   crefminusbib.write(key+"\n")
+  else:
+   print key, '- found in both cref and bib' 
+   crefbibintersect.write(key+"\n")
 
  nmatches = len([x for x in bibrecs if (x.cref != None)])
  print nmatches,"matching abbreviations"
