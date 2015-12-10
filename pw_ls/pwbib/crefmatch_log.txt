@@ -13,6 +13,6 @@ bib duplicate abbrv: HARSHAK4 112 454
 bib duplicate abbrv: C2A7K 051 488
 bib duplicate abbrv: SARASVATIK 476 498
 bib duplicate abbrv: VA7GBH 273 501
-359 matching abbreviations
+360 matching abbreviations
 73275 total abbreviation instances from crefs
-57092 of these accounted for by matching abbreviations
+57327 of these accounted for by matching abbreviations

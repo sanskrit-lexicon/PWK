@@ -217,7 +217,9 @@
 .P. == PA7N2INI. (vol. 1)
 .PAN4K4AD. == PAN4K4ADAN2D2AK4K4HATTRABANDHA, herausg. von WEBER. (vol. 1)
 .PAN4K4AR. == NA7BADA'S PAN4K4ARA7TRA in der Bibl. ind. (vol. 1)
-.PAN4K4AT. OHNE nähere Angabe == PAN4K4ATANTRA, vollständige Ausg. von KOSEGARTEN. Mit Beifügung von ed. Bomb. --die Ausg. von BÜHLER und KIELHORN. (vol. 1)
+; Gasyoun/ejf Dec 10, 2015. Changed next line for parsing
+;.PAN4K4AT. OHNE nähere Angabe == PAN4K4ATANTRA, vollständige Ausg. von KOSEGARTEN. Mit Beifügung von ed. Bomb. --die Ausg. von BÜHLER und KIELHORN. (vol. 1)
+.PAN4K4AT. ==  ohne nähere Angabe PAN4K4ATANTRA, vollständige Ausg. von KOSEGARTEN. Mit Beifügung von ed. Bomb. --die Ausg. von BÜHLER und KIELHORN. (vol. 1)
 .PARA7C2. == PARA7C2ARA'S DHARMAC2A7STRA (STENZLER). (vol. 1)
 .PA7R. GR2HJ. == PA7RASKARA'S GR2HJASU7TRA, Ausg. von STENZLER. (vol. 1)
 .PARIBH. == PARIBHA7SHA7 in PARIBHA7SHENDUC2EKHARA, Ausg. von KIELHORN. (vol. 1)

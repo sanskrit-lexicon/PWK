@@ -74,7 +74,7 @@ if __name__ == "__main__":
    bibrec.cref = crefrec
    crefrec.bib = bibrec
   else:
-   print key, '- not found in cref' 
+   #print key.encode('utf-8'), '- not found in cref' 
    bibminuscref.write(key+"\n")
  
  # ull out entries which are in sortedcrefs.txt but are absent in pwbib1.txt
@@ -82,10 +82,10 @@ if __name__ == "__main__":
  crefbibintersect = codecs.open('crefbibintersect.txt','w','utf-8')
  for key in crefdict.keys():
   if key not in bibdict:
-   print key, '- not found in bib' 
+   #print key.encode('utf-8'), '- not found in bib' 
    crefminusbib.write(key+"\n")
   else:
-   print key, '- found in both cref and bib' 
+   #print key.encode('utf-8'), '- found in both cref and bib' 
    crefbibintersect.write(key+"\n")
 
  nmatches = len([x for x in bibrecs if (x.cref != None)])
