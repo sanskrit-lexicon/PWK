@@ -24,3 +24,8 @@ pwbib1.py.
 **step4** pwbib1 -  first conversion of AS to Unicode.
 python pwbib1.py pwbib0.txt pwbib1.txt
 Some details discussed in https://github.com/sanskrit-lexicon/PWK/issues/14
+
+**step5** crefmatch
+ match pwbib1.txt to sortedcrefs.txt
+python crefmatch.py pwbib1.txt ../pw_dhaval/abbrvwork/abbrvoutput/sortedcrefs.txt  crefmatch.txt
+

@@ -2289,7 +2289,7 @@ KA7D.120,16.@anudinam@anudinam@4447
 MBH.12,274,18.@anudIrRa@anudIrRa@4449
 R2V.6,20,11.@anudeya@anude/ya@4451
 VA7MANA.4,3,17.@anudeSin@anudeSin@4453
-A7C2V.GR2HJ.AS.1,23,20.@anudeSin@anudeSin@4453
+A7C2V.GR2HJ.1,23,20.@anudeSin@anudeSin@4453
 AIT.A7R.311,9@anudgfhRant@anudgfhRant@4456
 KUVALAJ.6,a(7,b).@anudGAwana@anudGAwana@4457
 C2A7K.192.@anudGAta@anudGAta@4458
@@ -10100,7 +10100,7 @@ MAITR.S.2,7,20.@uttarAdvAta@uttarAdvAta/@18243
 DAC2AK.73,11.@uttarADaravivara@uttarADaravivara@18245
 PISCHEL,deGr.pr.20)@uttarADyayanagItA@uttarADyayanagItA@18247
 PA7R.GR2HJ.2,9,10.@uttarApara@uttarApara@18249
-A72V.Grhj.3,7,4.@uttarApara@uttarApara@18249
+A7C2V.GRHJ.3,7,4.@uttarApara@uttarApara@18249
 Ind.St.9,30.@uttarABimuKa@uttarABimuKa@18251
 S.S.S.31.@uttarAyatA@uttarAyatA@18257
 LA7T2J.1,4,9.@uttarArTa@uttarArTa@18261
@@ -13323,7 +13323,7 @@ BHAT2T2.3,19.@kar@kar@24527
 LALIT.224,22.257,4.@kar@kar@24527
 KA7RAN2D2.90,24.@kar@kar@24527
 MAITR.S.1,5,3.@kar@kar@24527
-A7C2.@kar@kar@24527
+KA7C2.@kar@kar@24527
 P.1,3,32.@kar@kar@24527
 Vop.23,25.@kar@kar@24527
 R2.10,127,3.@kar@kar@24527
@@ -15335,7 +15335,7 @@ NIGH.PR.@kukkuworaga@*kukkuworaga@28179
 KA7RAN2D2.61,13.@kukkura@kukkura@28181
 MADANAV.30,307.@kukkuradru@kukkuradru@28182
 Mat.med.306.@kukkuradru@kukkuradru@28182
-A7G4AN.19,43.@kukkuvAc@*kukkuvAc@28183
+RA7G4AN.19,43.@kukkuvAc@*kukkuvAc@28183
 NAISH.2,83.@kukzigata@kukzigata@28186
 RAGH.15,15.@kukzija@kukzija@28187
 Ind.St.15,390.@kukziMBari@kukziMBari@28189
@@ -25169,7 +25169,7 @@ PRASANNAR.43,11.@tripurahan@tripurahan@47599
 HA7SJ.17,14)@tripurahan@tripurahan@47599
 Ind.St.3,325,6)@tripurAtapana@tripurAtapana@47600
 OPP.CAT.1)@tripurAtapana@tripurAtapana@47600
-A7BJAV.78,7)@tripurAntaka@tripurAntaka/@47602
+A7RJAV.78,7@tripurAntaka@tripurAntaka/@47602
 OPP.CAT.1.@tripurArinAwaka@tripurArinAwaka@47605
 VP.^2.,5,118.@tripurIkzetra@tripurIkzetra@47609
 GAUT.@tripuruza@tripuruza@47611
@@ -25505,8 +25505,7 @@ HEMA7DRI.2,58,11.@dakza@da/kza@48395
 K4ARAKA.1,27.6.2.9.@dakza@da/kza@48395
 M.6,10@dakza@da/kza@48395
 TBR.1,5,4,2.@dakzakratu@dakzakratu/@48397
-A7C2B,@dakzakratu@dakzakratu/@48397
-GR2HJ.3,6,7.@dakzakratu@dakzakratu/@48397
+A7C2V.GR2HJ.3,6,7.@dakzakratu@dakzakratu/@48397
 SPR.2678.@dakzatA@dakzatA@48402
 VP.².3,24.@dakzaputra@dakzaputra@48407
 HARSHAK4.71,11.@dakzamaTana@dakzamaTana@48408
@@ -32433,7 +32432,7 @@ A4RSH.Br.@padAsa@padAsa@62828
 MAHI7DH.@padi@pa/di@62830
 NIR.@padi@pa/di@62830
 HEMA7DRI.1,652,18.@padika@padika@62831
-A4RAJABH.2,28.@padI@padI@62833
+A7RAJABH.2,28.@padI@padI@62833
 VP.2,4,221.@paduka@paduka@62834
 TS.PRA7T.@padEkadeSa@padEkadeSa@62836
 P.6,3,52.@padopahata@*padopahata@62838
@@ -33620,7 +33619,7 @@ KA7TJ.C2R.25,914.@paSUKA@paSUKA@65224
 GAL.@paSUdBavA@*paSUdBavA@65225
 Ind.St.15,387.@paScAt@paScA/t@65231
 MEGH.16.@paScAt@paScA/t@65231
-A7C2V.C2R.8,13,35.Man@paScAttara@paScAttara@65235
+A7C2V.C2R.8,13,35.@paScAttara@paScAttara@65235
 KA7D.2,73,3.@paScAttApin@paScAttApin@65237
 KA7TJ.C2R.2,6,8.@paScAttiryakpramARa@paScAttiryakpramARa@65238
 BHA7VAPR.2,27.@paScAtparivezya@paScAtparivezya@65239
@@ -39790,7 +39789,7 @@ BHA7VAPR.1,166.@bfhajjIraka@bfhajjIraka@77436
 RA7G4AN.3,27.@bfhajjIvantI@*bfhajjIvantI@77437
 HARIV.1,7,64.-@bfhata@bfhata@77441
 A7C2V.C2R.5,15,7.@bfhatIkAram@bfhatIkAram@77444
-OPP.CAT.1.@bfhatkaTa@bfhatkaTa@77447
+OPP.CAT.1.@bfhatkaTA@bfhatkaTA@77447
 HA7G4AN.7,89.@bfhatkanda@*bfhatkanda@77448
 TS.PRA7T.@bfhatkapola@bfhatkapola@77449
 HEMA7DRI.2,1,101,6.8.@bfhatkukzi@bfhatkukzi@77457
@@ -41701,7 +41700,7 @@ HEMA7DRI.1,757,7,758,13.@BrAmaRa@BrAmaRa@81285
 RA7G4AN.14,113.@BrAmara@BrAmara@81286
 DHA7TUP.28,102.@Bruq@*Bruq@81308
 Z.D.D.M.G.36,369.@BrUka@BrUka@81312
-MAHA7BH.[K.]2,196,6.fgg.@BrUkuMSa@*BrUkuMSa@81313
+MAHA7BH.[K.].2,196,6.fgg.@BrUkuMSa@*BrUkuMSa@81313
 A7PAST.)@BrUkzepa@BrUkzepa@81317
 HEMA7DRI.1,26,4.20.@BrURa@BrURa/@81320
 VA7MANA.5,2,38.@BrURaBid@BrURaBid@81322
@@ -46134,7 +46133,7 @@ R2V.3,33.11.@yama@yama/@90248
 HEMA7DRI.1,135,23.@yama@yama/@90248
 MBH@yama@yama/@90248
 MAITR.S.1,5,12.@yama@yama/@90248
-A7BSH@yama@yama/@90248
+A7RSH.BR.@yama@yama/@90248
 MAITR.S.1,5,12),@yama@yama/@90248
 K4ARAKA.6,9.-@yamaka@yamaka@90250
 BHA7VAPR.4,82.@yamaka@yamaka@90250
@@ -47789,7 +47788,7 @@ RA7G4AN.13,107.@rasottama@*rasottama@93089
 RA7G4AN.16,37.@rasottama@*rasottama@93089
 RA7G4AN.13,58.@rasodBava@*rasodBava@93091
 RA7G4AN.13,94.@rasodBUta@*rasodBUta@93092
-A7G4AN.7,49.@rasona@rasona@93093
+RA7G4AN.7,49.@rasona@rasona@93093
 VP.1,6,16.@rasollAsa@rasollAsa@93095
 BURNELL.T.@rasollAsaBARa@rasollAsaBARa@93096
 BHA7VAPR.3,44.fgg.@rasOdana@*rasOdana@93100
@@ -47975,7 +47974,7 @@ S.S.S.214.@rAjamfgANka@rAjamfgANka@93455
 BHA7VAPR.4,73.@rAjamfgANka@rAjamfgANka@93455
 Mat.med.34.@rAjamfgANka@rAjamfgANka@93455
 BURNELL.T.@rAjamfgANka@rAjamfgANka@93455
-A7APST.C2R.13,24,8.@rAjaMBavya@rAjaMBavya@93456
+A7PST.C2R.13,24,8.@rAjaMBavya@rAjaMBavya@93456
 HEMA7DRI.1,652,7.655,4.@rAjayakzma@rAjayakzma/@93457
 MAITR.S.2,2,7.@rAjayakzmagfhIta@rAjayakzma/gfhIta@93458
 KA4RAKA.5,9.@rAjayakzmin@rAjayakzmin@93459
@@ -48162,7 +48161,7 @@ BURNELL.T.@rAdDAntamuktAhAra@rAdDAntamuktAhAra@93804
 HEM.PAR.12,143.@rAdDAnna@rAdDAnna@93806
 A7PAST.@rAdDi@rA/dDi@93807
 TAITT.UP.3,10,1),@rAD@rAD@93808
-A7APST.)@rAD@rAD@93808
+A7PST.@rAD@rAD@93808
 MBH.5,33,116.@rAD@rAD@93808
 K4ARAKA.1,7),@rAD@rAD@93808
 DAC2AK.71,13.@rAD@rAD@93808
@@ -49676,7 +49675,7 @@ Verz.d.B.H.No.845@likAbanDa@likAbanDa@96174
 RA7G4AN.9,159.@likuca@likuca@96175
 K4ARAKA.1,26.@likuca@likuca@96175
 RA7G4AN.7,123.@likuca@likuca@96175
-A7G4AN.19,133.@likza@likza@96177
+RA7G4AN.19,133.@likza@likza@96177
 NA7RADA.(A.).2,1,150.@liK@liK@96179
 MBH.11,7,12.@liK@liK@96179
 AIT.A7R.496,4.@liK@liK@96179
@@ -55644,7 +55643,7 @@ RA7G4AN.17,55.@vfttatuRqa@vfttatuRqa@106381
 OPP.CAT.1.@vfttadyumaRi@vfttadyumaRi@106384
 RA7G4AN.7,188.@vfttanizpAvikA@*vfttanizpAvikA@106385
 RA7G4AN.3,131.@vfttapattrA@*vfttapattrA@106386
-A7BJABH.2,10.@vfttapariRAha@vfttapariRAha@106387
+A7RJABH.2,10.@vfttapariRAha@vfttapariRAha@106387
 RA7G4AN.6,123.@vfttaparRI@*vfttaparRI@106388
 RA7G4AN.4,70.@vfttaparRI@*vfttaparRI@106388
 RA7G4AN.9,101.@vfttapuzpa@*vfttapuzpa@106389
@@ -55778,7 +55777,7 @@ BHAT2T2.10,13.@vfntayamaka@vfntayamaka@106631
 BHA7VAPR.1,288.2,10.3,32.@vfntAka@vfntAka@106632
 NIGH.@vfnda@vfnda/@106634
 S.S.S.238.@vfnda@vfnda/@106634
-A7BJABH.2,2.@vfnda@vfnda/@106634
+A7RJABH.2,2.@vfnda@vfnda/@106634
 BHA7VAPR.3,18,43.@vfnda@vfnda/@106634
 VR2SHABH.258.fgg.@vfnda@vfnda/@106634
 S.S.S.118.@vfndagAyaka@vfndagAyaka@106635
@@ -57753,7 +57752,7 @@ RA7G4AN.6,133.@SataparvA@SataparvA@109844
 K4ARAKA.3,6.@SatapAkya@SatapAkya@109848
 RA7G4AN.9,152.@SatapAdI@*SatapAdI@109850
 KA7TJ.6,7,11.@Satapuwa@Satapuwa@109852
-A72V.C2R.9,9,5.@Satapuzkara@Satapuzkara@109854
+A7C2V.C2R.9,9,5.@Satapuzkara@Satapuzkara@109854
 R.4,21,25.6,4,53.112,79.@Satapuzkara@Satapuzkara@109854
 VARA7H.JOGAJ.9,15.@Satapuzpa@Satapuzpa@109855
 VARA7H.JOGAJ.7,6.@Satapuzpa@Satapuzpa@109855
@@ -60344,7 +60343,7 @@ KAUC2.48@Sepya@Sepya@114069
 DA7RILA.@Sepya@Sepya@114069
 RA7G4AN.4,157.@SePAli@*SePAli@114073
 BHA7VAPR.4.1,205.@SePAli@*SePAli@114073
-HARSHAK4.[ed.Bomb.]57,19.@SePAli@*SePAli@114073
+HARSHAK4.[ed.Bomb.].57,19.@SePAli@*SePAli@114073
 KA7D.2,98,7@SePAli@*SePAli@114073
 VA7SAV.265,1@SePAli@*SePAli@114073
 Mat.med.189@SePAli@*SePAli@114073
@@ -61553,7 +61552,7 @@ UTPALA@zawpaYcASikA@zawpaYcASikA@116151
 VARA7H.BR2H.27@zawpaYcASikA@zawpaYcASikA@116151
 BURNELL.T.@zawpaYcASikA@zawpaYcASikA@116151
 TS.3,3,10,2.@zawpad@za/wpad@116153
-A4C2V.GR2HJ.1,7,19.@zawpad@za/wpad@116153
+A7C2V.GR2HJ.1,7,19.@zawpad@za/wpad@116153
 Ind.St.17,179.@zawpad@za/wpad@116153
 S.S.S.164.@zawpad@za/wpad@116153
 RA7G4AN.19,132.@zawpada@za/wpada@116154
@@ -64723,7 +64722,7 @@ KA7D.179,6.7.@saMmarda@saMmarda@121224
 Ind.St.15,398.@saMmardana@saMmardana@121225
 TS.6,6,4,6.@saMmarditos@sa/Mmarditos@121226
 BHAT2T2.5,93.@saMmardin@saMmardin@121227
-A7C2BV.C2R.3,1,14.@saMmahas@saMmahas@121231
+A7C2V.C2R.3,1,14.@saMmahas@saMmahas@121231
 VAITA7N.18,6.@saMmahas@saMmahas@121231
 PAT.@saMmAtar@*saMmAtar@121233
 P.4,1,115.@saMmAtar@*saMmAtar@121233
@@ -71352,7 +71351,7 @@ S.S.S.180.@svaracCidra@svaracCidra@132423
 BURNELL.T.),@svaratattvacamatkAra@svaratattvacamatkAra@132425
 VA7GBH.1,24.@svaraDIta@svaraDIta@132429
 S.S.S.195.@svaranABi@svaranABi@132431
-OPP.CAT.1.@svarapaYcASata@svarapaYcASata@132432
+OPP.CAT.1.@svarapaYcASat@svarapaYcASat@132432
 BURNELL.T.)@svarapariBAzA@svarapariBAzA@132434
 OPP.CAT.1)@svarapariBAzA@svarapariBAzA@132434
 VP.².4,212.@svarapuraMjaya@svarapuraMjaya@132435
@@ -71513,7 +71512,7 @@ K4ARAKA.89,16.@svavacCanna@svavacCanna@132766
 GAUT.12,28.@svavat@svavat@132767
 G4AIM.6,1,17.@svavant@sva/vant@132768
 PAN4K4AT.212,6)@svavargIya@svavargIya@132769
-A7C2A.C2R.1,2,16.@svavargya@svavargya@132770
+A7C2VA.C2R.1,2,16.@svavargya@svavargya@132770
 VA7SAV.74,2.@svavaSa@svavaSa@132772
 R.ed.Bomb.2,.11,.22.@svavaSaMkfta@svavaSaMkfta@132773
 R.2,80,5.@svavAra@svavAra@132778

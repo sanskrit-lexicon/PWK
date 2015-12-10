@@ -1,0 +1,18 @@
+502 records from pwbib1.txt
+2711 records from ../pw_dhaval/abbrvwork/abbrvoutput/sortedcrefs.txt
+bib duplicate abbrv: DHU7RTAS 082 322
+bib duplicate abbrv: HA7SJ 113 335
+bib duplicate abbrv: KA7T2H 141 346
+bib duplicate abbrv: KA7D 130 389
+bib duplicate abbrv: KUMA7RAS 160 396
+bib duplicate abbrv: MBH 189 398
+bib duplicate abbrv: RA7G4AN 229 427
+bib duplicate abbrv: BAUDH 308 437
+bib duplicate abbrv: BHAVISHJOTT.P 036 442
+bib duplicate abbrv: HARSHAK4 112 454
+bib duplicate abbrv: C2A7K 051 488
+bib duplicate abbrv: SARASVATIK 476 498
+bib duplicate abbrv: VA7GBH 273 501
+359 matching abbreviations
+73275 total abbreviation instances from crefs
+57092 of these accounted for by matching abbreviations

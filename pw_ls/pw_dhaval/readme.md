@@ -6,6 +6,26 @@ See [this](http://drdhaval2785.github.io/pw/abbrv/display.html) for output of th
 # Dependencies
 [lxml](http://lxml.de/) to parse pw.xml
 
+  makeabbrv.sh uses pw.xml as data input.  
+  It further is written to assume that pw.xml is in directory
+   GitHub/pwxml,
+  where 'GitHub' is the directory containing the PWK repository.
+  To get pwxml, put the following script in GitHub directory as pwxml_init.sh,
+  and run under 'GitBash' as 'sh pwxml_init.sh.
+  Then, you will be ready to run 'sh makeabbrv.sh' in pw_dhaval/abbrvwork.
+```
+echo "downloading pwxml.zip"
+curl -o pwxml.zip http://www.sanskrit-lexicon.uni-koeln.de/scans/PWScan/2014/downloads/pwxml.zip
+echo "unzipping pwxml.zip to folder xml"
+unzip pwxml.zip
+echo "renaming xml to pwxml"
+rm -r pwxml
+mv xml pwxml
+echo "removing pwxml.zip"
+rm pwxml.zip
+
+```
+
 # Logic
 1. `<ls>something</ls>` tag usually holds the literary source data.
 
