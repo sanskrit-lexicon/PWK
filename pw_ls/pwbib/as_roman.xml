@@ -20,8 +20,6 @@
 <e> <s>INIT</s> <in>e7</in> <out>\u00eb</out> </e>
 <e> <s>INIT</s> <in>G3</in> <out>\u0120</out> </e>
 <e> <s>INIT</s> <in>g3</in> <out>\u0121</out> </e>
-<e> <s>INIT</s> <in>G4</in> <out>\u01f4</out> </e>
-<e> <s>INIT</s> <in>g4</in> <out>\u01f5</out> </e>
 <e> <s>INIT</s> <in>h2</in> <out>\u1e25</out> </e>
 <e> <s>INIT</s> <in>H3</in> <out>\u1e22</out> </e>
 <e> <s>INIT</s> <in>I1</in> <out>\u012a</out> </e>
@@ -289,6 +287,8 @@
 <e> <s>INIT</s> <in>N7</in> <out>Ń</out> </e>  <!-- not used! -->
 <e> <s>INIT</s> <in>SH</in> <out>Ṣ</out> </e>
 <e> <s>INIT</s> <in>G7</in> <out>J</out> </e>
+<e> <s>INIT</s> <in>G4</in> <out>J</out> </e>
+<e> <s>INIT</s> <in>g4</in> <out>j</out> </e>
 
 <!-- not changed, but mentioned in the Github reference -->
 <!-- capital and small 'm' with combining tilde (\u0303) -->

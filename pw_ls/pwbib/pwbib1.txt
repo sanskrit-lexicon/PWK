@@ -18,7 +18,7 @@ A7RSH.BR.	017	+	==	1	ĀRṢ.BR.	ĀRṢEYABRĀHMAṆA, Ausg. von BURNELL.
 A7RUN2. UP.	018	+	==	1	ĀRUṆ. UP.	ĀRUṆEYOPANIṢAD in der Bibl. ind. (GELDNER und ROTH). 
 A7TMOPAN.	019	+	==	1	ĀTMOPAN.	ĀTMOPANIṢAD in der Bibl. ind. (GELDER und ROTH). 
 AV.	020	+	==	1	AV.	ATHARVAVEDA, Ausg. von ROTH und WHITNEY (ROTH). 
-AV.G4JOT.	021	+	==	1	AV.ǴYOT.	ǴYOTIṢA zum AV. , Hdschr. (ROTH). 
+AV.G4JOT.	021	+	==	1	AV.JYOT.	JYOTIṢA zum AV. , Hdschr. (ROTH). 
 AV.PAIPP.	022	+	==	1	AV.PAIPP.	AV. der PAIPPALĀDA-Schule, Hdschr. (ROTH). 
 AV.PARIC2.	023	+	==	1	AV.PARIŚ.	PARIŚIṢṬA zum AV. , Hdschr. (ROTH). 
 AV.PRA7JAC2K4.	024	+	==	1	AV.PRĀYAŚC.	PARIŚCITTA zum AV. , Hdschr. (ROTH). 
@@ -34,10 +34,10 @@ BHA7SHA7P.	033	+	==	1	BHĀṢĀP.	BHĀṢĀPARICCHED in der Bibl. ind.
 BHAT2T2.	034	+	==	1	BHAṬṬ.	BHAṬṬIKĀVYA, Calcutta 1828. 
 BHA7VAPR.	035	+	==	1	BHĀVAPR.	BHĀVAPRACĀŚA, Calcutta 1875 und Hdschr. (ROTH). 
 BHAVISHJOTT.P.	036	+	==	1	BHAVIṢYOTT.P.	BHAVIṢYOTTARAPURĀṬṆA nach Citaten in andern Werken. 
-BHOG4A-K4AR.	037	+	==	1	BHOǴA-CAR.	BHOǴACARITRA, Madras 1862 (STENZLER). 
-BHOG4A-PR.	038	+	==	1	BHOǴA-PR.	BHOǴAPRABANDHA, Benares 1925(KERN). 
+BHOG4A-K4AR.	037	+	==	1	BHOJA-CAR.	BHOJACARITRA, Madras 1862 (STENZLER). 
+BHOG4A-PR.	038	+	==	1	BHOJA-PR.	BHOJAPRABANDHA, Benares 1925(KERN). 
 Bibl.ind.	039	+	==	1	Bibl.ind.	Bibliotheca indica. 
-BIG4AG.	040	+	==	1	BIǴAG.	BIǴAGAṆITA, Calcutta 1846(KERN). 
+BIG4AG.	040	+	==	1	BIJAG.	BIJAGAṆITA, Calcutta 1846(KERN). 
 BRAHMABINDU7P.	041	+	==	1	BRAHMABINDŪP.	BRAHMABINDŪPANIṢAD in der Bibl. ind. (GELDER uns ROTH). 
 BRAHMA-P.	042	+	==	1	BRAHMA-P.	BRAMAPURĀṆA nach Citaten in verschiedenen Werkes. 
 BRAHMAS.	043	+	==	1	BRAHMAS.	BĀDAR. 
@@ -60,7 +60,7 @@ C2A7RN5G. SAM5H.	059	+	==	1	ŚĀRÑG. SAM̃H.	ŚĀRÑGADHARA'S SAM̃HITĀ, Bomba
 C2AT.BR.	060	+	==	1	ŚAT.BR.	ŚATAPATHABRĀHMAṆA, nach WEBER'S Index. 
 Cat.C.PR.	061	+	==	1	Cat.C.PR.	A Catalogue of S. Mss. existing in the central provinces. Ed. by F. KIELHORN. Nagpur 1874(ROTH). 
 Cat.NW.PR.	062	+	==	1	Cat.NW.PR.	A Catalogue of S. Mss. in private libarties of the North-Western Provinves. I. Benares 1874 (ROTH). 
-C2ATR.	063	+	==	1	ŚATR.	ŚATRUM̃ǴAYAHĀTMYA, Ausg. von WEBER. 
+C2ATR.	063	+	==	1	ŚATR.	ŚATRUM̃JAYAHĀTMYA, Ausg. von WEBER. 
 CHILDERS	064	+	==	1	CHILDERS	CHILDERS' Pali-Wörterbuch. 
 Chr.	065	+	==	1	Chr.	BÖHTLINGK'S Sanskrit-Chresthomathie, 2te Aufl. 
 C2IC2.	066	+	==	1	ŚIŚ.	ŚIŚUPĀLAVADHA, Calcutta 1815. 
@@ -80,11 +80,11 @@ DHA7TUP.	079	+	==	1	DHĀTUP.	DHĀTUPĀṬHA, Ausg. von WESTERGAARD.
 DHJA7NAB. UP.	080	+	==	1	DHYĀNAB. UP.	DHYĀNABINDŪPANIṢAD in der Bibl. ind. (GELDNER und ROTH). 
 DHU7RTAN.	081	+	==	1	DHŪRTAN.	DHŪRTANATAKA, Hdschr. (CAPPELLER). 
 DHU7RTAS.	082	+	==	1	DHŪRTAS.	DHŪRTASAMĀGAMA in LASSEN'S Anthologie. 
-DH.V.	083	+	==	1	DH.V.	DHANAM̃ǴAYAVIǴAYA, Calcutta 1871 (CAPPELLER). 
+DH.V.	083	+	==	1	DH.V.	DHANAM̃JAYAVIJAYA, Calcutta 1871 (CAPPELLER). 
 DIVJA7VAD.	084	+	==	1	DIVYĀVAD.	DIVYĀVADĀNA, Hdschr. (SCHIEFNER). 
-G4A7BA7LOP.	085	+	==	1	ǴĀBĀLOP.	ǴĀBĀLOPANIṢAD in der Bibl. ind. (GELDNER und ROTH). 
-G4AIM.	086	+	==	1	ǴAIM.	ǴAIMINI'S Mimām̃sādarśana in der Bibl. ind. 
-G4AIM.BHA7R.	087	+	==	1	ǴAIM.BHĀR.	ǴAIMINI'S BHĀRATA, nach Citaten in Ind. St. <NF> 
+G4A7BA7LOP.	085	+	==	1	JĀBĀLOP.	JĀBĀLOPANIṢAD in der Bibl. ind. (GELDNER und ROTH). 
+G4AIM.	086	+	==	1	JAIM.	JAIMINI'S Mimām̃sādarśana in der Bibl. ind. 
+G4AIM.BHA7R.	087	+	==	1	JAIM.BHĀR.	JAIMINI'S BHĀRATA, nach Citaten in Ind. St. <NF> 
 GAL.	088	+	==	1	GAL.	GALANO's Wörterbuch, Abschrift von WEBER;vgl. Monatsbericht der Kön. Pr. Akad. der Wissensch. 1876, S. 801. fgg. (CAPPELLER). 
 gan2a	089	+	xx	1	gaṇa	im Gaṇapātha zu P. 
 GAN2AR.	090	+	==	1	GAṆAR.	GAṆARATNAMAHODADHI, nach der im Druck befindlichen Ausg. von EGGELING. Nur ein paar Mal gelegentlich citirt. 
@@ -118,7 +118,7 @@ HEM.Pr.Gr. ed. Bomb.	117	+	==	1	HEM.Pr.Gr. ed. Bomb.	HEMACANDRA's Prākrit-Gramm
 HID2.	118	+	==	1	HIḌ.	HIḌIMBAVADHA, Ausg. von Bopp. 
 HIT.	119	+	==	1	HIT.	HITOPADEŚA, Ausg. von SCHLEGEL und LASSEN. 
 HIT. ed. JOHNS.	120	+	==	1	HIT. ed. YOHNS.	HITOPADEŚA, Ausg. von YOHNSON, Lonon und Hertford 1847. 
-JA7G4N4.	121	+	==	1	YĀǴŃ.	YĀǴŃAVALKYA's Gesetzbuch, Ausg. von STENZLER. 
+JA7G4N4.	121	+	==	1	YĀJŃ.	YĀJŃAVALKYA's Gesetzbuch, Ausg. von STENZLER. 
 J.A.O.S.	122	+	==	1	Y.A.O.S.	Yournal of the American Oriental Society. 
 Ind.Antiq.	123	+	==	1	Ind.Antiq.	Indian Antiquary (ROTH). 
 Ind.St.	124	+	==	1	Ind.St.	Indische Studien von WEBER. 
@@ -150,16 +150,16 @@ KAUSH. UP.	149	-	==	1	KAUṢ. UP.	KAUṢITAKIBRĀHMAṆOPANIṢAD in der Bibl. i
 KAUTUKAR.	150	-	==	1	KAUTUKAR.	KATUARANĀKARA, Hdschr. (CAPPELLER). 
 KA7VJAPR.	151	-	==	1	KĀVYAPR.	KĀVYAPRAKĀŚA, Calcutta 1866. Nach Ullāsa und Sūtra citirt, wenn nicht S. (Seite) und Z. (Zeile) hinzungefügt werden. 
 KENOP.	152	-	==	1	KENOP.	KENOPANIṢAD in der Bibl. ind. 
-K4HANDOM.	153	-	==	1	CHANDOM.	CHANDOMANǴARI, herusg. von BROCKHAUS in Berichte über die Verhadlungen der Kön. Sächsischen Gesellschaft der Wissenschaftten zu Leipzig Phil. -hist. Kl. Bd. VI, 1854. 
+K4HANDOM.	153	-	==	1	CHANDOM.	CHANDOMANJARI, herusg. von BROCKHAUS in Berichte über die Verhadlungen der Kön. Sächsischen Gesellschaft der Wissenschaftten zu Leipzig Phil. -hist. Kl. Bd. VI, 1854. 
 K4HA7ND. UP.	154	-	==	1	CHĀND. UP.	CHĀNDOGYOPANIṢAD in der Bibl. ind. 
-KIR.	155	-	==	1	KIR.	KIRĀTĀRǴUNIYA, Calcutta 1814. 
+KIR.	155	-	==	1	KIR.	KIRĀTĀRJUNIYA, Calcutta 1814. 
 KR2SHIS.	156	-	==	1	KṚṢIS.	PARĀŚARA'S KṚṢISAM̃GERAHA, Calcutta 1862(ROTH). 
 KSHITIC2.	157	-	==	1	KṢITIŚ.	KṢITŚAVAM̃ŚĀVALĪKĪARITA, Ausg. von PERTSCH. 
 KSHURIKOP.	158	-	==	1	KṢURIKOP.	KṢURIKOPANIṢAD in der Bibl. ind. 
 KULL.	159	-	==	1	KULL.	KULLŪKA, Commentator des MANU. 
 KUMA7RAS.	160	-	==	1	KUMĀRAS.	KUMĀRASAM̃BHAVA, Ausg. von STENZLER. 
 KUMA7RASV.	161	-	==	1	KUMĀRASV.	KUMĀRASVĀMIN, Commentator des PRATĀPAR. (PISCHEL). 
-KUSUM.	162	-	==	1	KUSUM.	KUSUMĀŃǴALI, Ausg. von COWELL. 
+KUSUM.	162	-	==	1	KUSUM.	KUSUMĀŃJALI, Ausg. von COWELL. 
 KUVALAJ.	163	-	==	1	KUVALAY.	KUVALAYĀNANDA. , nach zwei lithogr. Ausgg. 
 LA.	164	-	==	1	LA.	LASSEN'S Anthologie 3te Ausg. 
 LAGHUR.	165	-	==	1	LAGHUR.	LAGHUKAUMUDI, Ausg. von BALLANTYNE, Benares 1876(CAPPELLER). 
@@ -202,7 +202,7 @@ NI7LAK. mit einer Zahl	201	-	==	1	NĪLAK. mit einer Zahl	NĪL.
 NI7LAK.	202	-	==	1	NĪLAK.	NĪLAKAṆṬHA, Commentator des MBH. 
 NI7LAR. UP.	203	-	==	1	NĪLAR. UP.	NĪLARDROPANIṢAD in der Bibl. ind. (GELDNER und ROTH). 
 NIR.	204	-	==	1	NIR.	NIRUKTA, Ausg. von ROTH (ROTH). 
-NJA7JAM	205	-	==	1	NYĀYAM	ǴAIMINIYANYĀYAMĀLĀVISTARA, Ausg. von GOLDSTÜCKER UND Cowell (KERN). 
+NJA7JAM	205	-	==	1	NYĀYAM	JAIMINIYANYĀYAMĀLĀVISTARA, Ausg. von GOLDSTÜCKER UND Cowell (KERN). 
 NJA7JAS.	206	-	==	1	NYĀYAS.	GOTAMA'S NYĀYADARŚANA in der Bibl. ind. Die Ausg. Calcutta 1828 wird durch Beifügung von (1828) bezeichnet. (KERN). 
 NJ. K.	207	-	==	1	NY. K.	NYĀYAKOSA or Dictionary of the technical Terms of the NYĀYA Philosphy, by BHIMĀCHĀRYA YHALAKIKAR. Bombay 1875. 
 NR2S UP.	208	-	==	1	NṚS UP.	NṚSIM̃HATĀPANIYOPANIṢAD, herausg. von WEBER in Ind. St. 9 und in der Bibl. ind. 
@@ -213,21 +213,21 @@ PAN4K4AT.	212	-	==	1	PAŃCAT.	 ohne nähere Angabe PAŃCATANTRA, vollständige A
 PARA7C2.	213	-	==	1	PARĀŚ.	PARĀŚARA'S DHARMAŚĀSTRA (STENZLER). 
 PA7R. GR2HJ.	214	-	==	1	PĀR. GṚHY.	PĀRASKARA'S GṚHYASŪTRA, Ausg. von STENZLER. 
 PARIBH.	215	-	==	1	PARIBH.	PARIBHĀṢĀ in PARIBHĀṢENDUŚEKHARA, Ausg. von KIELHORN. 
-PAT. ZU P.	216	-	==	1	PAT. ZU P.	PATAŃǴALI ZU PĀṆINI. 
+PAT. ZU P.	216	-	==	1	PAT. ZU P.	PATAŃJALI ZU PĀṆINI. 
 PIN2D2OP.	217	-	==	1	PIṆḌOP.	PIṆḌOPANIṢAD in der Bibl. ind. (GELDNER und ROTH). 
 PISCHEL, de Gr. pr.	218	-	==	1	PISCHEL, de Gr. pr.	PISCHEL, de Grammaticis prācriticis. Vratislaviae 1874. 
 PRAB.	219	-	==	1	PRAB.	PRABODHACANDRODAYA, Ausg. von BROCKHAUS. 
 PRAC2NOP.	220	-	==	1	PRAŚNOP.	PAŚNOPANIṢAD in der Bibl. ind. 
 PRA7JAC2K4ITTAT.	221	-	==	1	PRĀYAŚCITTAT.	PRĀYAŚCITTATATTVA (ROTH). 
 PRAJOGAR.	222	-	==	1	PRAYOGAR.	NĀRĀYAṆABHAṬṬA'S PRAYOGARATNA (STENZLER). 
-PRASANNAR.	223	-	==	1	PRASANNAR.	ǴAYADEVA'S PRASANNARĀGHAVA (KERN). 
+PRASANNAR.	223	-	==	1	PRASANNAR.	JAYADEVA'S PRASANNARĀGHAVA (KERN). 
 PRATA7PAR.	224	-	==	1	PRATĀPAR.	PRATĀPARUDRIYA. 
 PRIJ.	225	-	==	1	PRIY.	PRIYADARŚIKĀ, Calcutta 18?? (CAPPELLER). 
 Procc. A. S. B.	226	-	==	1	Procc. A. S. B.	Proceedings of the Asiatic Society of Bengal. 
 PUSHPAS.	227	-	==	1	PUṢPAS.	PUṢPASŪTRA (WEBER). 
 R.	228	-	==	1	R.	RĀMĀYANA. Das 1ste und 2te Kāṇḍa nach der Ausg. von SCHLEGEL, das 3--6te nach der von GORRESIO, das 7te nach der Bomb. Ausg., wenn nicht ausdrücklich eine andere Ausgabe genannt ist. Eine eingeklammerte Zahl bezieht ist sich auf ed. Bomb. 
-RA7G4AN.	229	-	==	1	RĀǴAN.	RĀǴANIGHAṆṬU, Hdschr. (ROTH). 
-RA7G4AT.	230	-	==	1	RĀǴAT.	RĀǴATARAM̃GIṆI. Die 6 ersten Bücher nach der Ausg. von TROYER. Die Beträge aus dem 7ten und 8ten Buche von KERN. 
+RA7G4AN.	229	-	==	1	RĀJAN.	RĀJANIGHAṆṬU, Hdschr. (ROTH). 
+RA7G4AT.	230	-	==	1	RĀJAT.	RĀJATARAM̃GIṆI. Die 6 ersten Bücher nach der Ausg. von TROYER. Die Beträge aus dem 7ten und 8ten Buche von KERN. 
 RAGH.	231	-	==	1	RAGH.	RAGHUVAM̃ŚA, Ausg. von STENZLER, wenn nicht ed. Calc. hinzuge- fügt wird. 
 RATNAM.	232	-	==	1	RATNAM.	PATANAMĀLĀ. (ROTH). 
 ROXB.	233	-	==	1	ROXB.	Flora indica or description of Indian Plants. By the late WILLIAM ROXBURGH. Serampore 1832 (ROTH). 
@@ -254,7 +254,7 @@ S. S. S.	253	-	==	1	S. S. S.	SAM̃GITASĀRASAM̃GRAHA, Calcutta 1932 (CAPPELLER)
 SUBHA7SHITAR.	254	-	==	1	SUBHĀṢITAR.	SUBHĀṢITARATNĀKARA, Bombay 1872. 
 SUC2R.	255	-	==	1	SUŚR.	SUŚRUTA (ROTRH). 
 SUPARN2. und SUPARN2A7DHJ.	256	-	==	1	SUPARṆ. und SUPARṆĀDHY.	SUPARṆĀDHYA, herausg. von ELIMAR GRUBE in Ind. St. 14. 
-SU7RJAD.	257	+	==	1	SŪRYAD.	SŪRYADEVAYAǴVAN (KERN). 
+SU7RJAD.	257	+	==	1	SŪRYAD.	SŪRYADEVAYAJVAN (KERN). 
 SU7RJAS.	258	-	==	1	SŪRYAS.	SŪRYASDDHĀNTA in der Bibl. ind. 
 SV.	259	-	==	1	SV.	SĀMAVEDA (ROTH). 
 SV. A7R.	260	-	==	1	SV. ĀR.	ĀRAṆYAKA zum SV. (ROTH). 
@@ -267,21 +267,21 @@ TBR.	266	-	==	1	TBR.	TAITTIRIYA BRĀHMAṆA (ROTH).
 TRIK.	267	-	==	1	TRIK.	TRIKĀṆḌAŚEṢA. 
 TS.	268	-	==	1	TS.	TAITTIRYASAM̃HITĀ (ROTH und WEBER). 
 TS. PRA7T.	269	-	==	1	TS. PRĀT.	PRĀTIŚĀKHYA zur TS. , Ausg. von WHITNEY. 
-UG4G4VAL.	270	-	==	1	UǴǴVAL.	UǴǴVALADATTA, Commentator der UṆĀDISŪTRA. 
+UG4G4VAL.	270	-	==	1	UJJVAL.	UJJVALADATTA, Commentator der UṆĀDISŪTRA. 
 UN2A7DIS.	271	-	==	1	UṆĀDIS.	UṆĀDISŪTRA, herausg. von AUFRECHT. 
 UTTARAR.	272	-	==	1	UTTARAR.	UTTARARĀMACRIRA, nach zwei Ausgaben, Calcutta 1831 und 1862. 
 VA7GBH.	273	-	==	1	VĀGBH.	VĀGBHAṬA'S ĀYURVEDARŚANA (ROTH). 
-VAG4BAS.	274	-	==	1	VAǴBAS.	VAǴRASŪCI, Ausg. von WEBER. 
+VAG4BAS.	274	-	==	1	VAJBAS.	VAJRASŪCI, Ausg. von WEBER. 
 VAIDJABH.	275	-	==	1	VAIDYABH.	VAIDYABHĀṢYA (ROTH). 
 VAITA7N.	276	-	==	1	VAITĀN.	VAITĀNASŪTR??, Ausg, von GARBE. 
 VA7JU-P.	277	-	==	1	VĀYU-P.	VĀYUPURĀṆA, nach Citaten in andern Werken. 
 VA7LAKH.	278	-	==	1	VĀLAKH.	VĀLAHILYA, die zwischen ṚV. 8, 84 und 49 eingeschobenen Lieder (ROTH). 
 VA7MANA	279	-	==	1	VĀMANA	VĀMANA'S KĀVYĀLAM̃KĀRAVṚTTI, Ausg. von CAPPELLER. 
 VAM5C2ABR.	280	-	==	1	VAM̃ŚABR.	VAM̃ŚABRĀHMAṆA, Ausg. von BURNELL (ROTH). 
-VARA7H.BR2H.	281	+	==	1	VARĀH.BṚH.	VARĀHAMIHIRA'S BṚHAǴǴĀTAKA (KERN). 
+VARA7H.BR2H.	281	+	==	1	VARĀH.BṚH.	VARĀHAMIHIRA'S BṚHAJJĀTAKA (KERN). 
 VARA7H.BR2H.S.	282	+	==	1	VARĀH.BṚH.S.	VARĀHAMIHIRA'S BṚHATSAM̃HITĀ (KERN). 
 VARA7H.JOGAJ.	283	+	==	1	VARĀH.YOGAY.	VARĀHAMIHIRA'S YOGAYĀTRĀ, herausg. von KERN in Ind. St. 10. 14 und 15. 
-VARA7H.LAGH.	284	+	==	1	VARĀH.LAGH.	VARĀHAMIHIRA'S LAGHUǴĀTAKA. Die zwei ersten Adhjaja herausgegeben von WEBER in Ind. St. 2. 
+VARA7H.LAGH.	284	+	==	1	VARĀH.LAGH.	VARĀHAMIHIRA'S LAGHUJĀTAKA. Die zwei ersten Adhjaja herausgegeben von WEBER in Ind. St. 2. 
 Va7rtt.	285	-	==	1	Vārtt.	Vārttika. 
 VA7S.	286	-	==	1	VĀS.	VĀSANTIKĀ, Hdschr. (CAPPELLER). 
 VA7SAV.	287	-	==	1	VĀSAV.	VĀSAVADATTĀ in der Bibl. ind. 
@@ -289,16 +289,16 @@ VEN2IS.	288	-	==	1	VEṆIS.	VEṆISAM̃HĀRA, Ausg. von GRILL (CAPPELLER).
 Verz. d. B. H.	289	-	==	1	Verz. d. B. H.	WEBER, Verzeichniss der Berliner Handschriften. 
 Verz. d. Oxf. H.	290	-	==	1	Verz. d. Oxf. H.	AUFRECHT, Verzeichniss der Oxforder Handschriften. 
 VET.	291	-	==	1	VET.	VETĀLAPAŃCAVIM̃ŚATI in LA. 
-VIDDH.	292	-	==	1	VIDDH.	VIDDHAŚĀLABHAŃǴIĀKHYANĀṬIKĀ in der Zeitschrift PRATNAKAMRANANDINI(CAPPELLER). 
+VIDDH.	292	-	==	1	VIDDH.	VIDDHAŚĀLABHAŃJIĀKHYANĀṬIKĀ in der Zeitschrift PRATNAKAMRANANDINI(CAPPELLER). 
 VIKR.	293	-	==	1	VIKR.	VIKRAMORVAŚI, Ausg. von BOLLENSEN. 
 VIKRAMA7N5KAK4.	294	-	==	1	VIKRAMĀÑKAC.	VIkRAMĀÑKADEVACARITA, Ausg. von BÜHLER. 
 VISHN2US.	295	-	==	1	VIṢṆUS.	VIṢṆUSŪTRA, zur Herausgabe vorbereitet von Y. YOLLY (YOLLY) 
 VP.	296	-	==	1	VP.	VIṢṆUPURĀṆA ed. Bomb. 
 VP.^2	297	-	==	1	VP.^2	2te Auflage von WILSON's Uebersetzung des VIṢṆUPURĀṆA, herausgegeben von HALL. 
-VS	298	-	==	1	VS	VĀǴASĀNI SAM̃HITĀ (ROTH und WEBER). 
+VS	298	-	==	1	VS	VĀJASĀNI SAM̃HITĀ (ROTH und WEBER). 
 VS. PRA7T.	299	-	==	1	VS. PRĀT.	PRĀTIŚĀKHYA zu VS in Ind. St. 4. 
-WEBER, G4JOT.	300	-	==	1	WEBER, ǴYOT.	WEBER, Ueber den Vedakalender, Namens ǴYOTIṢAM. 
-WEBER, KR2SHN2AG4.	301	-	==	1	WEBER, KṚṢṆAǴ.	WEBER, Ueber die KṚṢṆǴANMĀṢṬAMI. Berlin 1868. 
+WEBER, G4JOT.	300	-	==	1	WEBER, JYOT.	WEBER, Ueber den Vedakalender, Namens JYOTIṢAM. 
+WEBER, KR2SHN2AG4.	301	-	==	1	WEBER, KṚṢṆAJ.	WEBER, Ueber die KṚṢṆJANMĀṢṬAMI. Berlin 1868. 
 WEBER. Max.	302	-	==	1	WEBER. Max.	WEBER, Die vedischen Nachrichten von den naxatra. Berlin 1860. 
 WILSON, Sel. W.	303	-	==	1	WILSON, Sel. W.	Select Works of H. H. WILSON. 
 WISE	304	-	==	1	WISE	Commentary on the Hindu System of Medicine, by T. A. WISE. Calcutta 1845. 
@@ -325,7 +325,7 @@ GAN2IT.BHAGRAH.	324	+	==	2	GAṆIT.BHAGRAH.	GAṆNITI, BHAGRAHAYUTYADHIKĀRA (KE
 GAN2IT.KAKSH.	325	+	==	2	GAṆIT.KAKṢ.	GAṆITA, KAKṢĀDHYĀYA (KERN). 
 GAN2IT.SPASHT2.	326	+	==	2	GAṆIT.SPAṢṬ.	GAṆITA, SPAṢṬĀDHIKĀRA (KERN). 
 GA7R. UP.	327	-	==	2	GĀR. UP.	GĀRUḌOPANIṢAD in der Bibl. ind. 
-G4AT2A7DH.	328	-	==	2	ǴAṬĀDH.	ǴAṬĀDHARA im ŚKDR. 
+G4AT2A7DH.	328	-	==	2	JAṬĀDH.	JAṬĀDHARA im ŚKDR. 
 GOLA7DHJ.BHUV.	329	+	==	2	GOLĀDHY.BHUV.	GOLĀDHYĀYA, BHUVANKOŚA (KERN). 
 GR2HJA7S.	330	-	==	2	GṚHYĀS.	GṚHYĀSAM̃GRAHA in der Bibl. ind. 
 HA7LA.	331	-	xx	2	HĀLA.	Citirt nach der neuen noch im Druck befindlichen Ausgabe von WEBER (CAPPELLER). 
@@ -347,7 +347,7 @@ KA7T2H.	346	-	==	2	KĀṬH.	KĀṬHAKA Hdschr. (v. SCHRÖDER und WEBER).
 KA7T2H. GR2HJ.	347	-	==	2	KĀṬH. GṚHY.	KĀṬHAKAGṚHYASŪTRA, Hdschr. (YOLLY). 
 KAP. S.	348	-	==	2	KAP. S.	KAPIṢṬHALAKAṬHASAM̃HITA, Hdschr. (V. SCHRÖDER). 
 K4U7LIKOP.	349	-	==	2	CŪLIKOP.	KŪLIKOPANIṢAD in der Bibl. ind. (GELDNER). 
-VARA7H.LAGHUG4.	350	+	==	2	VARĀH.LAGHUǴ.	VARĀHAMIHIRA'S LAGHUǴĀTAKA. 
+VARA7H.LAGHUG4.	350	+	==	2	VARĀH.LAGHUJ.	VARĀHAMIHIRA'S LAGHUJĀTAKA. 
 MAGAVJ.	351	-	==	2	MAGAVY.	Ueber zwei Parteischriften zu Gunsten der MAGA, resp. ŚĀKADVIPIYA BRĀHMANA. Von A. WEBER. 
 MAHA7C2.	352	+	==	2	MAHĀŚ.	MAHĀŚĀNTI, Hdschr. (ROTH). 
 MAITR. PADDH.	353	-	==	2	MAITR. PADDH.	PADDHATI ZU MAITR. S. , Hdschr. (V. SCHRÖDER). 
@@ -360,10 +360,10 @@ NIGH.	359	-	==	2	NIGH.	YĀSKA'S NIRUKTA sammt den NIGHAṆṬAVAS, herausgegeben
 NIRN2AJAS.	360	-	==	2	NIRṆAYAS.	NIRṆAYASINDHU. 
 Opp Cat.	361	-	==	2	Opp Cat.	List of Sanskrit Manuscripts in Private libraries of southern India. Compiled, arranged and indexed by GUSTAV OPPERT. 
 PAN4K4AT. ed. orn.	362	-	==	2	PAŃCAT. ed. orn.	KOSEGARTEN, PANITSCHATANTRUM sive quinque partitum de moribus exponens. Pars secunda, textum sanscritum, ornatiorem tenens. 
-RA7G4AV.	363	-	==	2	RĀǴAV.	RĀǴAVALLABHA, nach Citaten ŚKDR. 
+RA7G4AV.	363	-	==	2	RĀJAV.	RĀJAVALLABHA, nach Citaten ŚKDR. 
 SETUB.	364	-	==	2	SETUB.	SETUBANDHA, herausgegeben von SIEGFRIED GOLDSCHMIDT. 
 TAL. BR.	365	-	==	2	TAL. BR.	A legend from the TALAVAKĀRA or YAIMINIYA BRĀHMAṆA of the SĀMAVEDA by A. C. BURNELL, Mangalore 1878. 
-TEG4OB. UP.	366	-	==	2	TEǴOB. UP.	TEǴOBINDŪPANIṢAD in der Bibl. ind. (GELDNER). 
+TEG4OB. UP.	366	-	==	2	TEJOB. UP.	TEJOBINDŪPANIṢAD in der Bibl. ind. (GELDNER). 
 VA7STUV.	367	-	==	2	VĀSTUV.	VIŚVAKARMA'S VĀSTUVIDYĀ, Hdschr (KERN). 
 VIC2VA	368	-	==	2	VIŚVA	VIŚVAKOŚA (PISCHER). 
 VIVA7DAK4.	369	-	==	2	VIVĀDAC.	VIVĀDACINTĀMAṆI, Calcutta {#saMvat#} {#1234#} {#zAkE#} {#5678#} {#vaizakhE. #} 
@@ -400,22 +400,22 @@ MEDHA7T.	399	-	==	3	MEDHĀT.	MEDHĀTITHI, ein Scholiast des MANU (YOLLY).
 MÜLLER, SL.	400	-	==	3	MÜLLER, SL.	A History of Ancient Sanskrit Literature. By MAX MÜLLER. 1859. 
 MUN2D2. UP.	401	-	==	3	MUṆḌ. UP.	MUṆḌAKOPANIṢAD in der Bibl. ind. 
 OLD.	402	-	xx	3	OLD.	Buddha-Buddha. Sein Leben, seine Lehre, seine Gemeinde. Von HERMANN OLDENBERG. Berlin 1881. 
-PRAG4A7PATI,	403	-	xx	3	PRAǴĀPATI,	nach Citaten in verschiendenen juristischen Werken (YOLLY). 
+PRAG4A7PATI,	403	-	xx	3	PRAJĀPATI,	nach Citaten in verschiendenen juristischen Werken (YOLLY). 
 PR. P.	404	-	==	3	PR. P.	PRACAṆḌAPĀṆḌAVA, EIN SCHAUSPIEL. HDSCHR. (CAPPELLER). 
 RA7MAPU7RVAT. UP.	405	-	==	3	RĀMAPŪRVAT. UP.	RĀMAPŪRVATĀPANIYOPANIṢAD in der Bibl. ind. 
 RASAR.	406	-	xx	3	RASAR.	RASARATNĀKARA, Calcutta 1878 (ROTH). 
 RASENDRAK4.	407	-	==	3	RASENDRAC.	RASENDRACINTMAṆI Calcutta 1878 (ROTH). 
 SOMAKARMAPR.	408	-	==	3	SOMAKARMAPR.	SOMAKARMAPRADIPA des RĀMA, Hdschr. (ROTH). 
 SUKHA7V.	409	-	==	3	SUKHĀV.	SUVAPNACNTĀṆI (PISCHEL). 
-VAG4RAK4K4H.	410	-	==	3	VAǴRACCH.	VAǴRACCHDIKĀ, herausgegeben von (F. MAX MÜLLER). 
+VAG4RAK4K4H.	410	-	==	3	VAJRACCH.	VAJRACCHDIKĀ, herausgegeben von (F. MAX MÜLLER). 
 VASISHT2HA,	411	-	xx	3	VASIṢṬHA,	nach der Ausg. von Benares (YOLLY). 
 VET. (U. )	412	-	==	3	VET. (U. )	VETĀLAPAŃCA VIM̃ŚATIKĀ, herausgegeben von HEINRICH UHLE. 
-VJUTP.	413	-	==	3	VYUTP.	VYUPATITI, ein Sanskrit-Tibetisches Wörterbuch aus dem TAŃǴUR (SCHIEFNER). 
-VR2SHABH.	414	-	==	3	VṚṢABH.	VṚṢADĀNUǴA im 3ten und 4ten Bande des Pandit (CAPPELLER). 
+VJUTP.	413	-	==	3	VYUTP.	VYUPATITI, ein Sanskrit-Tibetisches Wörterbuch aus dem TAŃJUR (SCHIEFNER). 
+VR2SHABH.	414	-	==	3	VṚṢABH.	VṚṢADĀNUJA im 3ten und 4ten Bande des Pandit (CAPPELLER). 
 WEBER, RA7MAT.	415	-	==	3	WEBER, RĀMAT.	WEBER'S Ausg. RĀMATĀPANIYOPANIṢAD. 
 WIND. SANG.	416	-	==	3	WIND. SANG.	FRIDERICI HENR. HUG. WINDIṢMANNI SANCARA sive de theologumenis Vedanticorum. 
 BHA7M. V.	417	-	==	3	BHĀM. V.	BHĀMINIVILĀSA, Ausg. von ABELBERGAIGNER(CAPPELLER. ) 
-C2AM5K. VIG4.	418	-	==	4	ŚAM̃K. VIǴ.	ŚAM̃KARAVIǴAYA in der Bibl. ind. 
+C2AM5K. VIG4.	418	-	==	4	ŚAM̃K. VIJ.	ŚAM̃KARAVIJAYA in der Bibl. ind. 
 CANTOR.	419	-	==	4	CANTOR.	CANTOR, Geschichte der Mathematik (WINDISCH) . 
 GAN2ITA,GRAHAK4K4AH(A7JA7DHIKA7RA)	420	+	xx	4	GAṆITA,GRAHACCAH(ĀYĀDHIKĀRA)	(KERN) . 
 GAN2ITA,SU7RJAGR(AHAN2A7DHIKA7RA)	421	+	xx	4	GAṆITA,SŪRYAGR(AHAṆĀDHIKĀRA)	(KERN) . 
@@ -423,15 +423,15 @@ GOVARDH.	422	-	==	4	GOVARDH.	Govardhana's SAPTAŚATI (WEBER) .
 KAN2T2HAC2R. UP.	423	-	==	4	KAṆṬHAŚR. UP.	KAṆṬHAŚRUTYUPANIṢAD in der Bibl. ind. 
 KIELHORN, Rep.	424	-	==	4	KIELHORN, Rep.	Report on the search for Sanskrit Mss. in the Bombay Presidency, during the year 1880-81. by F. KIELHORN(ROTH) . 
 LOKAPR(AKA7C2A)	425	-	xx	4	LOKAPR(AKĀŚA)	(YOLLY) . 
-PRATIG4N4A7S(U7TRA)	426	-	xx	4	PRATIǴŃĀS(ŪTRA)	berausg. von A. WEBER. 
-RA7G4AN.	427	-	xx	4	RĀǴAN.	13 nach der Ausg. von R. GARBE. 
+PRATIG4N4A7S(U7TRA)	426	-	xx	4	PRATIJŃĀS(ŪTRA)	berausg. von A. WEBER. 
+RA7G4AN.	427	-	xx	4	RĀJAN.	13 nach der Ausg. von R. GARBE. 
 SADDH. P.	428	-	==	4	SADDH. P.	SADDHARMAPUṆḌARIKA (KERN) . 
 SVAPNAK4(INTA7MAN2I)	429	-	xx	4	SVAPNAC(INTĀMAṆI)	(PISCHEL) . 
 VIRAM.	430	-	==	4	VIRAM.	VIRAMITRODAYA, Khadirapura 1815(STENZLER) . 
 ALAM5A7RA	431	-	xx	5	ALAM̃ĀRA	(ATNĀKARA) des ŚOBHĀKARA, Deccan. Coll. Hdschr. No. 227 (PISCHER). 
 ALAM5KA7RAS	432	-	xx	5	ALAM̃KĀRAS	(ARVASVA) von RUYYAKA, Deccan Coll. Hdschr. No. 231 (PISCHER). 
 ALAM5KA7RAT	433	-	xx	5	ALAM̃KĀRAT	(ILAKA), Hdschr. (AUFRECHT). 
-ALAM5A7KA7RAV	434	-	xx	5	ALAM̃ĀKĀRAV	(IMARŚIN) von ǴAYARATHA, Deccan Coll. Hdschr. No. 230 (PISCHER). 
+ALAM5A7KA7RAV	434	-	xx	5	ALAM̃ĀKĀRAV	(IMARŚIN) von JAYARATHA, Deccan Coll. Hdschr. No. 230 (PISCHER). 
 ANARGHAR	435	-	xx	5	ANARGHAR	(ĀGHAVA), Calcutta Śaka 1782 (AUFRECHT). 
 ASAHA7JA,	436	-	xx	5	ASAHĀYA,	ein Commentator des NĀRADA (YOLLY). 
 BAUDH.	437	-	xx	5	BAUDH.	(mit Angaben der Abschnitte) nach Mittheilungen von BÜHLER. 
@@ -472,7 +472,7 @@ PRA7JAC2K4ITTAV	471	-	xx	5	PRĀYAŚCITTAV	(IVEKA), Hdschr. (AUFRECHT).
 PRAKRIJA7K (AUMUDI), Hdschr. (AUFRECHT). RA7JENDR. Not.	472	-	==	5	PRAKRIYĀK (AUMUDI), Hdschr. (AUFRECHT). RĀYENDR. Not.	Notices of Sanskrit Mss. by RĀYENDRALLĀLA MITRA. 
 R2ET	473	-	xx	5	ṚET	(ANTER), herausgegeben von BURNELL (STENZLER). 
 SADUKTIK	474	-	xx	5	SADUKTIK	(ARṆĀMṚTA) von ŚRIDHARADĀSA, Hdschr. (AUFRECHT). 
-SAM5KSHEPAC2	475	-	xx	5	SAM̃KṢEPAŚ	(AM̃KARAǴAYA) von MĀDHAVA (AUFRECHT). 
+SAM5KSHEPAC2	475	-	xx	5	SAM̃KṢEPAŚ	(AM̃KARAJAYA) von MĀDHAVA (AUFRECHT). 
 SARASVATIK	476	-	xx	5	SARASVATIK	(AṆṬHĀBHARAṆA), Hdschr. (AUFRECHT). 
 SCHIEFNER, TA7RAN.	477	-	==	5	SCHIEFNER, TĀRAN.	TĀRAŃTHA'S Geschichte des Buddhismus in Indien, aus den Tibetschen übersetzt von ANTON SCHIEFNER. 
 SUCHA7SHITA7V	478	-	xx	5	SUCHĀṢITĀV	(ALI) von VALLABHADEVA, Hdschr. (AUFRECHT). 
@@ -487,7 +487,7 @@ ALAM5KA7RAC2	486	-	xx	6	ALAM̃KĀRAŚ	(EKHARA), lith. Ausg. Benares 1923 (TH. AU
 Bydragen	487	-	xx	6	Bydragen	(tot de Taal-, Land-en Volkenkunde van Nederlandsch Indie) (H. KERN). 
 C2A7K.	488	+	xx	6	ŚĀK.	(Kāśm. ) ist die von K. BURKHARD in den Sitzungsberichten der phil-hist. Klasse der Kais. Ak. d. Ww. in Wien, Bd. 107, veröffentlichte Kaśmirer Śakuntalā-Handschrift (C. CAPELLER). 
 C2UKAS	489	-	xx	6	ŚUKAS	(AM̃DRŚA) in Yournal of the Royal Asiatic Society of Great Britain & Ireland, Bd. XVI. 
-G4A7TAKAM	490	-	xx	6	ǴĀTAKAM	(ĀLĀ), Hdschr. (H. KERN). 
+G4A7TAKAM	490	-	xx	6	JĀTAKAM	(ĀLĀ), Hdschr. (H. KERN). 
 K4ANDRA7LOKA	491	-	xx	6	CANDRĀLOKA	(R. PISCHEL). 
 KA7VJA7L	492	-	xx	6	KĀVYĀL	(AM̃KĀRA des RUDRAṬA) (R. PISCHEL). 
 KSHEM	493	-	xx	6	KṢEM	(ENDRA'S KAVIKAṆṬĀBHARAṆA), herausgegeben von Y. SCHÖNBERG in den Sitzungsberichten der Phil-hist. Klasse der Kais. Ak. d. Ww. in Wien, Bd. 106 (C. CAPPELLER). 
