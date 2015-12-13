@@ -1,15 +1,16 @@
 <fsm start='INIT' inputDecoding='UTF-8' outputEncoding='UTF-8'>
 <!-- Specialized table just for PW.  June 3, 2014
    FOR PW works, added m~ and M~
+   Dec 13, 2015. Modified to produce 'Modern' IAST. 
+   Ref: https://github.com/sanskrit-lexicon/PWK/issues/14#issuecomment-158219761
+   Modified elements at bottom of this file.
 -->
 <e> <s>INIT</s> <in>A1</in> <out>\u0100</out> </e>
 <e> <s>INIT</s> <in>a1</in> <out>\u0101</out> </e>
 <e> <s>INIT</s> <in>A4</in> <out>\u00c1</out> </e>
 <e> <s>INIT</s> <in>a4</in> <out>\u00e1</out> </e>
-<e> <s>INIT</s> <in>A7</in> <out>\u00c2</out> </e>
-<e> <s>INIT</s> <in>a7</in> <out>\u00e2</out> </e>
-<e> <s>INIT</s> <in>C2</in> <out>\u00c7</out> </e>
-<e> <s>INIT</s> <in>c2</in> <out>\u00e7</out> </e>
+
+
 <e> <s>INIT</s> <in>C3</in> <out>\u010a</out> </e>
 <e> <s>INIT</s> <in>c3</in> <out>\u010b</out> </e>
 <e> <s>INIT</s> <in>C4</in> <out>\u0106</out> </e>
@@ -29,13 +30,6 @@
 <e> <s>INIT</s> <in>i4</in> <out>\u00ed</out> </e>
 <e> <s>INIT</s> <in>i5</in> <out>\u0129</out> </e>
 <!--
-<e> <s>INIT</s> <in>I7</in> <out>\u00d4</out> </e>
--->
-<e> <s>INIT</s> <in>I7</in> <out>\u00ce</out> </e>
-<e> <s>INIT</s> <in>i7</in> <out>\u00ee</out> </e>
-<e> <s>INIT</s> <in>K4</in> <out>\u1e30</out> </e>
-<e> <s>INIT</s> <in>k4</in> <out>\u1e31</out> </e>
-<!--
 <e> <s>INIT</s> <in>M5</in> <out>\u004d\u0304</out> </e>
 <e> <s>INIT</s> <in>m5</in> <out>\u006d\u0304</out> </e>
 -->
@@ -54,8 +48,6 @@
 <e> <s>INIT</s> <in>u1</in> <out>\u016b</out> </e>
 <e> <s>INIT</s> <in>U4</in> <out>\u00da</out> </e>
 <e> <s>INIT</s> <in>u4</in> <out>\u00fa</out> </e>
-<e> <s>INIT</s> <in>U7</in> <out>\u00db</out> </e>
-<e> <s>INIT</s> <in>u7</in> <out>\u00fb</out> </e>
 <!--  old coding removed
 <e> <s>INIT</s> <in>m~</in> <out>\u1e41</out> </e>
 <e> <s>INIT</s> <in>M~</in> <out>\u1e40</out> </e>
@@ -64,9 +56,6 @@
 <e> <s>INIT</s> <in>m5</in> <out>\u1e41</out> </e>
 <e> <s>INIT</s> <in>M5</in> <out>\u1e40</out> </e>
 -->
-<!-- capital and small 'm' with combining tilde (\u0303) -->
-<e> <s>INIT</s> <in>M5</in> <out>\u004d\u0303</out> </e>
-<e> <s>INIT</s> <in>m5</in> <out>\u006d\u0303</out> </e>
 
 
 <!-- number-letter codes that believed NOT to be AS codes -->
@@ -282,5 +271,31 @@
 <e> <s>INIT</s> <in>x6</in> <out>x6</out> </e>
 <e> <s>INIT</s> <in>x8</in> <out>x8</out> </e>
 <e> <s>INIT</s> <in>Z4</in> <out>Z4</out> </e>
+
+<!-- Dec 13, 2015 modifications -->
+<e> <s>INIT</s> <in>A7</in> <out>Ā</out> </e>
+<e> <s>INIT</s> <in>a7</in> <out>ā</out> </e> 
+<e> <s>INIT</s> <in>U7</in> <out>Ū</out> </e>
+<e> <s>INIT</s> <in>u7</in> <out>ū</out> </e>
+<e> <s>INIT</s> <in>I7</in> <out>Ī</out> </e>
+<e> <s>INIT</s> <in>i7</in> <out>ī</out> </e>
+<e> <s>INIT</s> <in>C2</in> <out>Ś</out> </e>
+<e> <s>INIT</s> <in>c2</in> <out>ś</out> </e>
+<e> <s>INIT</s> <in>K4</in> <out>C</out> </e>
+<e> <s>INIT</s> <in>k4</in> <out>c</out> </e>
+
+<!-- new conversions -->
+<e> <s>INIT</s> <in>J</in> <out>Y</out> </e>
+<e> <s>INIT</s> <in>N7</in> <out>Ń</out> </e>  <!-- not used! -->
+<e> <s>INIT</s> <in>SH</in> <out>Ṣ</out> </e>
+<e> <s>INIT</s> <in>G7</in> <out>J</out> </e>
+
+<!-- not changed, but mentioned in the Github reference -->
+<!-- capital and small 'm' with combining tilde (\u0303) -->
+<e> <s>INIT</s> <in>M5</in> <out>\u004d\u0303</out> </e>
+<e> <s>INIT</s> <in>m5</in> <out>\u006d\u0303</out> </e>
+<!-- capital and small 'n' with combining tilde (\u0303) -->
+<e> <s>INIT</s> <in>N5</in> <out>\u004e\u0303</out> </e>
+<e> <s>INIT</s> <in>n5</in> <out>\u006e\u0303</out> </e>
 
 </fsm>
