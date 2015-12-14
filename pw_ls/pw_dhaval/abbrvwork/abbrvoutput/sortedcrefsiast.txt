@@ -494,13 +494,12 @@ Dhûrtas.ed.calc@DHU7RTAS.ed.Calc@wopara@wopara@43876@1
 Dhv@DHv@tUlakaRAy@tUlakaRAy@46621@1
 Diçak@DIC2AK@vanamAtaNga@vanamAtaNga@97994@1
 Djânab.up@DJA7NAB.UP@Satapattra@Satapattra°@109827@1
-Donner,piṇḍ@DONNER,Pin2d2@parAcIna@parAcI/na@63485@1
+Donner,piṇḍ@DONNER,PIN2D2@parAcIna@parAcI/na@63485@1
 Dravjav@DRAVJAV@agraja@agraja@732@1
 Du@DU@bala@bala@75942@1
 Durgâdâsa@DURGA7DA7SA@sTURa@sTURa@131096@1
 Durnell.t@DURNELL.T@mantrapraSna@mantrapraSna@83115@1
 Dârila@Da7rila@saMpAtay@saMpAtay@120914@1
-Daçaḱ@Dac2ak4@dehaDArin@dehaDArin@52796@1
 Daçar@Dac2ar@itivftta@itivftta@16780@1
 Daçk@Dac2k@kOwilya@kOwilya@31305@1
 Damajantîk@Damajanti7k@SAradIna@SAradIna@111681@1
@@ -627,7 +626,7 @@ Hâǵan@HA7G4AN@bfhatkanda@*bfhatkanda@77448@1
 Hârîta92,13@HA7RI7TA92,13@somAlaka@*somAlaka@129756@1
 Hâsop@HA7SOP@ciRI@ciRI@39872@1
 Hâst@HA7ST@KarAMSutanaya@KarAMSutanaya@33537@1
-Haeb.anth@HAEB.ANTH@padmajAti@padmajAti@62874@1
+Haeb.anth@HAEB.Anth@padmajAti@padmajAti@62874@1
 Haiv@HAIV@susaMyatta@susaMyatta@128281@1
 Hali@HALI@Bawwamadana@Bawwamadana@78593@1
 Hall,@HALL,@raRastamBa@raRastamBa@92222@1
@@ -894,6 +893,7 @@ Kamalâkara,@KAMALA7KARA,@sakIla@sakIla@117241@1
 Kampaká70@KAMPAKA470@loBin@loBin@96782@1
 Kaṇḍak@KAN2D2AK@BUruh@BUruh@80683@1
 Kaṇṭhaçr.up@KAN2T2HAC2R.Up@prARasaMDAraRa@prARasaMDAraRa@74175@1
+Kap.(ball.)@KAP.(BALL.)@pratyaBijYAyamAnatva@pratyaBijYAyamAnatva@71954@1
 Kar@KAR@kutastarAm@kutastarAm@28513@1
 Karara@KARARA@vibanDa@vibanDa@103543@1
 Karka@KARKA@mUza@mUza@88058@1
@@ -1242,9 +1242,6 @@ Phâvapr@PHA7VAPR@svANgaSIta@svANgaSIta@132923@1
 Phab@PHAB@BavacCid@BavacCid@79030@1
 Phatâpar@PHATA7PAR@rasanirUpaRa@rasanirUpaRa@92962@1
 Piṇḍop@PIN2D2OP@aham@aha/m@13120@1
-Pischel,degr@PISCHEL,deGr@uttarADyayanagItA@uttarADyayanagItA@18247@1
-Pischel.de@PISCHEL.DE@prAkftadIpikA@prAkftadIpikA@73813@1
-Pischel.degr.pr@PISCHEL.deGr.Pr@munipaticaritra@munipaticaritra@87587@1
 Pishel.a.a.o,2,s@PISHEL.a.a.O,2,S@pUtara@pUtara@68818@1
 Pńḱat@PN4K4AT@kal@kal@25349@1
 Ppasasnnar@PPASASNNAR@kas@kas@25906@1
@@ -1463,6 +1460,8 @@ Sâg@Sa7g@vart@vart@98820@1
 Sâh.d@Sa7h.D@prARatva@prARatva/@74093@1
 Sâmav.br@Sa7mav.BR@adfzwadarSana@adfzwadarSana@2516@1
 Sâmav.br@Sa7mav.Br@prARa@prARa/@74074@1
+Saddh@Saddh@vikurvaRa@vikurvaRa@101730@1
+Saddh.p@Saddh.P@pad@pad@62713@1
 Sam4hitopan@Sam4hitopan@dIrGakarzaRa@dIrGakarzaRa@50602@1
 Sam̄nj.up@Sam5nj.Up@apunarAvartana@apunarAvartana@6540@1
 Schol@Schol@SaNKin@SaNKin@109653@1
@@ -1626,10 +1625,11 @@ Viǵń@VIG4N4@homay@homay@135591@1
 Viǵñâneçvar@VIG4N5A7NEC2VAR@svastika@svastika@132838@1
 Viǵñâneçvara@VIG4N5A7NEC2VARA@skandana@skandana@130239@1
 Vigñâneçvar@VIGN5A7NEC2VAR@sTApaka@sTApaka@130950@1
+Vikr.s@VIKR.S@caturaSra@caturaSra@38606@1
+Vikr.drâv@VIKR.dra7v@kaYcukIya@kaYcukIya@23356@1
 Vikram@VIKRAM@vratasaMpAdana@vratasaMpAdana@109081@1
 Vikramâñkaḱ.s@VIKRAMA7N5KAK4.S@vikramalAYCana@vikramalAYCana@101778@1
-Vikror.ed@VIKROR.ED@kaYcukIya@kaYcukIya@23356@1
-Vikror.s@VIKROR.S@caturaSra@caturaSra@38606@1
+Vikror@VIKROR@vA@vA@99767@1
 Viṇîs@VIN2I7S@svEra@svEra@133244@1
 Vinus@VINUS@bastiSIrza@bastiSIrza@76158@1
 Viram@VIRAM@savfdDika@savfdDika@122579@1
@@ -1839,7 +1839,6 @@ Gobh@Gobh@anantarhita@a/nantarhita@3391@2
 Gop.br@Gop.Br@anaBivAduka@anaBivAduka@3553@2
 Govindân@Govinda7n@kOwasTya@kOwasTya@31300@2
 Gṛhjâs@Gr2hja7s@devayoni@devayoni@52451@2
-H.an.:@H.an.:@Sabara@Sabara@110181@2
 Ḣmâdri@H3MA7DRI@mayUKeSa@mayUKeSa@83468@2
 Hâshj@HA7SHJ@eRanABi@eRanABi@22196@2
 Hâvapr@HA7VAPR@kakundara@kakundara@23166@2
@@ -1968,7 +1967,6 @@ Sukhâv@SUKHA7V@ratnatraya@ratnatraya@92363@2
 Sv.i,5,2,1@SV.I,5,2,1@viSvatfpta@viSvatfpta@104812@2
 Sâh@Sa7h@janAnta@janAnta@41554@2
 Sâmav@Sa7mav@kumArin@kumAri/n@28827@2
-Saddh@Saddh@pad@pad@62713@2
 Sam̄hitopan@Sam5hitopan@devatAtas@devatAtas@52244@2
 Sitzungsberichte@Sitzungsberichte@sADya@sADya/@123830@2
 Suçr@Suc2R@AhArya@AhArya^@16550@2
@@ -1992,6 +1990,7 @@ Valtân@VALTA7N@anubrAhmaRika@anubrAhmaRika@4663@2
 Varâh.lagh@VARA7H.LAGH@asTisAra@asTisAra@12944@2
 Varâh.laghuǵ@VARA7H.LAGHUG4@tanukeSa@tanukeSa@44383@2
 Verz.d.b.h.no@VERZ.d.B.H.No@kumAra@kumAra/@28773@2
+Vet@VET@aDika@aDika@2769@2
 Viramâñkaḱ@VIRAMA7N5KAK4@pratiBUBft@pratiBUBft@71310@2
 Vp2@VP2@nicakru@nicakru@58377@2
 Vâmana@Va7mana@CandaHSAstra@CandaHSAstra@40924@2
@@ -2080,6 +2079,7 @@ Nich@NICH@yavyA@(yavyA)@90521@3
 Nish@NISH@fjudfS@fjudfS@21370@3
 Nṛs.tâp.up@NR2S.TA7P.UP@yajus@ya/jus@89441@3
 Nṛs.up.s@NR2S.UP.S@AnandAmfta@AnandAmfta@14680@3
+Pischel@PISCHEL@ruh@ruh@94617@3
 Prasnnar@PRASNNAR@karambita@karambita@24668@3
 Pańḱat@Pan4k4at@diSoBAga@diSoBAga@50430@3
 Ṛ.v@R2.V@vas@vas@99299@3
@@ -2313,10 +2313,8 @@ Kâṭh@Ka7t2h@acittapAjas@acittapAjas@1135@7
 Kâtj@Ka7tj@aparakAla@aparakAla@6038@7
 Mallin@MALLIN@aparicita@aparicita@6129@7
 Mahâbh@Maha7bh@anAjigamizu@anAjigamizu@3831@7
-Mat.med@Mat.Med@kemuka@kemuka@30661@7
 Nîlak@Ni7lak@kAlAnusArin@kAlAnusArin@27341@7
 Paddh@PADDH@Ezwika@Ezwika@22590@7
-Pischel@PISCHEL@kaYcukIya@kaYcukIya@23356@7
 Praçnop@PRAC2NOP@AdAtavya@AdAtavya@14348@7
 Râlar@RA7LAR@toyavAha@toyavAha@47101@7
 Stenzler@STENZLER@Jar@Jar@43714@7
@@ -2357,7 +2355,8 @@ Vs@Vs@annapatIyA@annapatIyA@5551@8
 Anarghar@ANARGHAR@ratnasAnu@ratnasAnu@92444@9
 Bâǵan@BA7G4AN@ajara@aja/ra@1271@9
 Bṛh.âr.up@BR2H.A7R.UP@aDaupAsana@aDaupAsana@2684@9
-Bibl@Bibl@uttIrRavikfti@uttIrRavikfti@18322@9
+Bibl.ind@Bibl.ind@uttIrRavikfti@uttIrRavikfti@18322@9
+Daçak@Dac2ak@kaTya@kaTya@23862@9
 Ǵaim.s@G4AIM.S@anAraBya@anAraBya@3941@9
 Gâtakam@GA7TAKAM@sAtmI@sAtmI@123673@9
 Gauḍap@GAUD2AP@anASrita@anASrita@4011@9
@@ -2373,7 +2372,6 @@ Amṛt.up@AMR2T.UP@atijAgara@atijAgara@1716@10
 Çilâñka@C2ILA7N5KA@pad@pad@62713@10
 Çkdr@C2KDR@amaNgalya@amaNgalya@8064@10
 Çt.br@C2T.BR@advAr@a/dvAr@2658@10
-Daçak@Dac2ak@kaTya@kaTya@23862@10
 Kâbaṇḍ@KA7BAN2D2@divAkaravaralocana@divAkaravaralocana@50285@10
 Kaṭhop@KAT2HOP@i@i@16624@10
 Kâç@Ka7c2@Ajakrandaka@*Ajakrandaka@13847@10
@@ -2404,6 +2402,7 @@ Kuvalaj@KUVALAJ@aNgANgiBAvasaMkara@aNgANgiBAvasaMkara@984@12
 Pr@PR@pratiDI@°pratiDI@71091@12
 R.ed.gorr@R.ed.GORR@ajAtasAra@ajAtasAra@1310@12
 Up@UP@BU@BU@80202@12
+Vet.(u.)@VET.(U.)@prAGUrRika@prAGUrRika@73954@12
 Benf.chr@BENF.CHR@atinizRAta@atinizRAta@1816@13
 Bhâg@Bha7g@UQavayas@UQavayas@20976@13
 Hariv@Hariv@udDUta@udDUta@19084@13
@@ -2415,12 +2414,10 @@ Açvav@AC2VAV@saMBala@saMBala/@121139@14
 Bûhler,@BU7HLER,@nyAyapariSizwa@nyAyapariSizwa@61473@14
 Çatr@C2ATR@upamAnavant@upamAnavant@19814@14
 Çat@C2at@akzI@akzI@373@14
-H.an@H.AN@manorti@*mano''rti@83024@14
 Ḱakr@K4AKR@anubanDya@anubanDya@4656@14
 Lalit@Lalit@atimuktakamalA@atimuktakamalA@1938@14
 Ni3lak@NI3LAK@nezwu@nezwu@61152@14
 Pârçvan@PA7RC2VAN@raTakawyA@raTakawyA@92485@14
-Vet@VET@aDika@aDika@2769@14
 Ak@Ak@akalyARa@akalyARa@116@15
 Ça@C2a@yatobfhatIka@yatobfhatIka@89719@15
 Ǵatakam@G4ATAKAM@sudAsa@sudAsa@126329@15
@@ -2435,7 +2432,6 @@ J.a.o.s@J.A.O.S@akzadfkkarman@akzadfkkarman@268@16
 Ḱraka@K4RAKA@itkawa@itkawa@16786@16
 Kautukar@KAUTUKAR@karahati@karahati@24718@16
 L.k@L.K@UQaraTa@*UQaraTa@20975@16
-Pischel.degr@PISCHEL.deGr@kalpasidDAnta@kalpasidDAnta@25630@16
 S@S@amantraka@amantraka@8098@16
 Tândja-br@TA7NDJA-BR@anugantar@anugantar@4326@16
 Âpast@A7past@apartu@apartu@6195@17
@@ -2472,6 +2468,7 @@ Ratnam@RATNAM@ajaganDA@ajaganDA@1220@21
 Dhûrtas@DHU7RTAS@agrAhyanAmaka@agrAhyanAmaka@796@22
 Gold@GOLD@anapAkaraRa@anapAkaraRa@3495@22
 Kâç.îkh@KA7C2.I7KH@Satatantu@Satatantu@109776@22
+Pischel,degr.pr@PISCHEL,deGr.pr@uttarADyayanagItA@uttarADyayanagItA@18247@22
 Çâçvata@C2A7C2VATA@mahAvidagDa@mahAvidagDa@84991@23
 Bhadrab@BHADRAB@ropaka@ropaka@95011@24
 Sch@SCH@dASakaputra@*dASakaputra@49923@24
@@ -2545,8 +2542,9 @@ Pâr@PA7R@asaMBAzA@asaMBAzA@12477@48
 Sâmav.br@SA7MAV.BR@adfzwarajas@adfzwarajas@2519@48
 Prab@PRAB@atikazwa@atikazwa@1637@49
 Vâstuv@VA7STUV@kapota@kapo/ta@24326@49
+Vikr@VIKR@ativistara@ativistara@2036@49
 Vp2@Vp2@aSrutavarRa@aSrutavarRa@11756@49
-Vikror@VIKROR@ativistara@ativistara@2036@50
+Daçak.(1925)@DAC2AK.(1925)@ganDagrAhin@ganDagrAhin@34486@51
 Ḱhând.up@K4HA7ND.UP@atiSeza@atiSeza@2094@52
 Kap.s@KAP.S@jamaSva@jamaSva@41707@52
 Bâdar@Ba7dar@kiMvizayaka@kiMvizayaka@27732@53
@@ -2588,11 +2586,13 @@ Bhâm.v@BHA7M.V@Bal@Bal@78991@87
 Ḱampaka@K4AMPAKA@mahAvideha@mahAvideha@84992@87
 Dhanv@DHANV@anDaka@anDaka@5499@88
 Mân.çr@MA7N.C2R@jIvataRqula@jIva/taRqula@42983@88
+H.an@H.an@ambucatvara@*ambucatvara@8559@89
 Âçv.gṛhj@A7C2V.GR2HJ@adantajAta@adantajAta@2410@90
 Çâñkh.çr@C2A7N5KH.C2R@anirdizwa@anirdizwa@4136@91
 Dhûrtan@DHU7RTAN@atisuKa@atisuKa@2142@91
 Çâñkh@C2A7N5KH@aGAhan@aGAhan@849@92
 Vasishṭha@VASISHT2HA@dUrebAnDava@dUrebAnDava@51856@92
+H@H@akalkana@*akalkana@110@95
 Kumâras@KUMA7RAS@aKaRqita@aKaRqita@407@95
 Sam̄hitopan@SAM5HITOPAN@amitrahU@amitrahU@8300@95
 Ârjabh@A7RJABH@anAdyanta@anAdyanta@3883@100
@@ -2626,7 +2626,6 @@ Agni-p@AGNI-P@udDAra@udDAra/@19075@154
 Vârtt@VA7RTT@awwa@awwa@1490@156
 Jâǵń@JA7G4N4@akUwa@a/kUwa@180@158
 Kauç@KAUC2@aYj@aYj@1430@160
-H@H@akalkana@*akalkana@110@168
 Nîlak@NI7LAK@anukarza@anukarza@4270@168
 Varâh.bṛh@VARA7H.BR2H@aRqaja@aRqaja@1567@168
 Mân.gṛhj@MA7N.GR2HJ@udyuj@udyuj@19163@170
@@ -2639,7 +2638,7 @@ Mṛḱḱh@MR2K4K4H@agupta@agupta@481@196
 Mahâbh@MAHA7BH@atila@*atila@1995@198
 Ait.br@AIT.BR@akzI@akzI@373@200
 Ragh@RAGH@atinErantarya@atinErantarya@1820@211
-Kap@KAP@acAkzuza@acAkzuza@1122@215
+Kap@KAP@acAkzuza@acAkzuza@1122@214
 R.ed.bomb@R.ed.Bomb@aNgarAga@aNgarAga@963@218
 Vs@VS@akzI@akzI@373@223
 Varâh.jogaj@VARA7H.JOGAJ@ABizeka@ABizeka@15091@230
@@ -2663,15 +2662,15 @@ Vikramâñkaḱ@VIKRAMA7N5KAK4@atiTi@a/tiTi@1743@356
 Tâṇḍja-br@TA7N2D2JA-BR@aMSa@a/MSa@6@370
 Lâṭj@LA7T2J@acazAla@acazAla@1121@377
 Râǵat@RA7G4AT@atiTi@a/tiTi@1743@381
+Daçak@DAC2AK@apASraya@apASraya@6467@385
 Kâç@KA7C2@adrava@adrava@2599@391
 Prasannar@PRASANNAR@ac@ac@1095@392
-Mat@Mat@apAmArga@apAmArga/@6437@400
 Bâdar@BA7DAR@anuSaya@anuSaya@4866@403
 Ârsh.br@A7RSH.BR@aYjas@a/Yjas@1457@406
+Mat.med@Mat.med@apAmArga@apAmArga/@6437@407
 Vâsav@VA7SAV@kaRWAraka@kaRWAraka@23710@410
 Vaitân@VAITA7N@agnizwoma@agnizwoma/@652@416
 Sâj@SA7J@aDvaryu@aDvaryu/@3162@422
-Daçak@DAC2AK@apASraya@apASraya@6467@434
 Çam̄k@C2AM5K@aDaupAsana@aDaupAsana@2684@472
 Ts@TS@aMSaBU@aMSaBU/@14@475
 M@M@aMSaprakalpanA@aMSaprakalpanA@10@480
@@ -2706,6 +2705,6 @@ Gal@GAL@aMSa@a/MSa@6@1694
 Ḱaraka@K4ARAKA@agnyutpAta@agnyutpAta@719@1730
 Opp.cat@OPP.CAT@jijYAsAdarpaRa@jijYAsAdarpaRa@42767@1779
 Ind.st@Ind.St@aMSaka@aMSaka@7@1839
-Spr@SPR@aMSuka@aMSuka@22@2928
+Spr@Spr@aMSuka@aMSuka@22@2928
 Mbh@MBH@akalkaka@akalkaka@108@3285
 Râǵan@RA7G4AN@aMsamUla@aMsamUla@43@5546

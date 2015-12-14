@@ -14,12 +14,51 @@ class Pwbib1(object):
   # compute adjusted key
   key = self.abbrv
   key = re.sub(r' ','',key)
-  key = re.sub(r'[.]$','',key)
+  key = re.sub(r'[.,]*$','',key)
+  # Dec 13, 2015.  Force a few other adjustments
+  # change abbreviation spelling for some
+  changes = [
+   ('OPP.Cat','OPP.CAT'),
+   ('PRATIG4N4A7S(U7TRA)','PRATIG4N4A7S'),
+   ("KUHN'SZ","KUHN'S.Z"),
+   ('C2A7KTA7N(ANDATARAM5GIN2I)','C2A7KTA7N'),
+   ('KAT2HOP(ANISHAD)','KAT2HOP'),
+   ('K4AURAP.(A.)','K4AURAP')
+  ]
+  for (old,new) in changes:
+   if key == old:
+    key = new
+    break
   self.abbrvadj=key
   
 def init_pwbib1(filein):
  with codecs.open(filein,"r","utf-8") as f:
   recs = [Pwbib1(line) for line in f]
+ return recs
+
+pwbib_unusedkeys=[
+ 'MAHA7B','C2RIMA7LA7M','Bydragen','HARISV','gan2a',
+ 'SVAPNAK4(INTA7MAN2I)','LEUMANN,Aup.Gl',
+ 'Ind.Str','MAYR,Ind.Erb'
+]
+def adjust_bibrecs(bibrecs):
+ recs=[] # returned
+ removed=[] 
+ for rec in bibrecs:
+  if rec.abbrvadj  in pwbib_unusedkeys:
+   removed.append(rec)
+  else:
+   recs.append(rec) # keep
+ # write removed to stdout
+ print len(removed),"known unused records removed from pwbib for purposes of matching"
+ for i in xrange(0,len(removed)):
+  rec = removed[i]
+  out = "Case %02d: %s : %s" % (i+1,rec.abbrv,rec.titleunicode)
+  print out.encode('utf-8')
+ print "END OF REMOVALS"
+ print '-'*80
+ print
+ 
  return recs
 
 class Cref(object):
@@ -41,6 +80,9 @@ if __name__ == "__main__":
  bibrecs = init_pwbib1(filebib)
  crefrecs = init_cref(filecref)
  print len(bibrecs),"records from",filebib
+ bibrecs=adjust_bibrecs(bibrecs)
+ print len(bibrecs),"After adjustment,records from",filebib
+
  print len(crefrecs),"records from",filecref
 
  # dictionary on abbrv for crefrecs

@@ -117,6 +117,21 @@ properrefs = segregatepurenumbers()
 print "Completed segretating references at ", printtimestamp()
 print
 
+def clean_special(a,clean):
+ """  a = original abbreviation
+      clean = 'standard' cleaned abbreviation
+      Return an 'adjusted' cleaned abbreviation, which in a few
+      cases differs from 'clean'
+ """
+ cleanadj = clean # usual case
+ starts = ['Mat.med','H.an','DAC2AK.(1925)','VET.(U.)',
+   'VIKR.dra7v','PISCHEL,deGr.pr','Bibl.ind','KAP.(BALL.)']
+ for start in starts:
+  if a.startswith(start):
+   cleanadj = start
+   break
+ return cleanadj
+ 
 def removenumbers():
 	global properrefs
 	cleanfile = codecs.open('abbrvoutput/cleanrefs.txt','w','utf-8')
@@ -136,6 +151,8 @@ def removenumbers():
                 # ejf.  Replace '.'+digit+<rest> with .
                 clean = re.sub(r'[.][0-9].*$','.',clean)
 		clean = clean.strip('.') # Removed trailing period after the numbers are removed (if any).
+                # Dec 13, 2015. Special cleaning
+                clean = clean_special(a,clean)
 		cleanrefs.append((clean,b,c,d))
 	cl1 = []
 	ur1 = []

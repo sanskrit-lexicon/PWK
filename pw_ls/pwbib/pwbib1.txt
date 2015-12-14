@@ -102,7 +102,7 @@ GOBH.	101	+	==	1	GOBH.	GOBHILA'S GṚYASŪTRA in der Bibl. ind. (ROTH).
 GOLA7DHJ.	102	+	==	1	GOLĀDHY.	BHĀSKARA'S GOLĀDHYĀYA (KERN). 
 GOLD.	103	+	==	1	GOLD.	GOLDSTÜCKER'S Wörterbuch 
 GOP.BR.	104	+	==	1	GOP.BR.	GOPATHARĀHMAṆA in der Bibl. ind. (ROTH). 
-GOVINA7N.	105	+	==	1	GOVINĀN.	GOVINĀNANDA, Glossator zu ŚAM̃KARĀCĀRYA'S Comm. zu BĀDAR. (KERN). 
+GOVINDA7N.	105	+	==	1	GOVINDĀN.	GOVINDĀNANDA, Glossator zu ŚAM̃KARĀCĀRYA'S Comm. zu BĀDAR. (KERN). 
 H.	106	+	==	1	H.	HEMACANDRA'S ABHIDHĀNACINTĀMAṆI, Ausg. von BÖHTLINGK und RIEU. 
 HALA7J.	107	+	==	1	HALĀY.	HALĀYUDHA'S Wörterbuch, Ausg. von AUFRECHT. 
 H.an.	108	+	==	1	H.an.	HEMACANDRA'S ANEKĀRTHASAM̃GRAHA. 
@@ -162,7 +162,7 @@ KUMA7RASV.	161	-	==	1	KUMĀRASV.	KUMĀRASVĀMIN, Commentator des PRATĀPAR. (PIS
 KUSUM.	162	-	==	1	KUSUM.	KUSUMĀŃJALI, Ausg. von COWELL. 
 KUVALAJ.	163	-	==	1	KUVALAY.	KUVALAYĀNANDA. , nach zwei lithogr. Ausgg. 
 LA.	164	-	==	1	LA.	LASSEN'S Anthologie 3te Ausg. 
-LAGHUR.	165	-	==	1	LAGHUR.	LAGHUKAUMUDI, Ausg. von BALLANTYNE, Benares 1876(CAPPELLER). 
+LAGHUK.	165	-	==	1	LAGHUK.	LAGHUKAUMUDĪ, Ausg. von BALLANTYNE, Benares 1876(CAPPELLER). 
 LALIT.	166	-	==	1	LALIT.	LALITAVISTARAPURĀṆA in der Bibl. ind. (KERN). 
 LA7T2J.	167	-	==	1	LĀṬY.	LĀṬYĀYANA'S ŚRAUTASŪTRA in der Bibl. ind. 
 LILA7V.	168	-	==	1	LILĀV.	BHĀSKARA'S LILĀVATI, Calcutta 1846(KERN). 
@@ -358,7 +358,7 @@ Mon. d. B. A.	357	-	==	2	Mon. d. B. A.	Monatsberichte der Königlich Preussichen
 NA7DAR. UP.	358	-	==	2	NĀDAR. UP.	NĀDABINŪPANIṢAD in der Bibl. ind. (GELDNER). 
 NIGH.	359	-	==	2	NIGH.	YĀSKA'S NIRUKTA sammt den NIGHAṆṬAVAS, herausgegeben und erläutert von RUDOLPH ROTH. 
 NIRN2AJAS.	360	-	==	2	NIRṆAYAS.	NIRṆAYASINDHU. 
-Opp Cat.	361	-	==	2	Opp Cat.	List of Sanskrit Manuscripts in Private libraries of southern India. Compiled, arranged and indexed by GUSTAV OPPERT. 
+OPP. Cat.	361	-	==	2	OPP. Cat.	List of Sanskrit Manuscripts in Private libraries of southern India. Compiled, arranged and indexed by GUSTAV OPPERT. 
 PAN4K4AT. ed. orn.	362	-	==	2	PAŃCAT. ed. orn.	KOSEGARTEN, PANITSCHATANTRUM sive quinque partitum de moribus exponens. Pars secunda, textum sanscritum, ornatiorem tenens. 
 RA7G4AV.	363	-	==	2	RĀJAV.	RĀJAVALLABHA, nach Citaten ŚKDR. 
 SETUB.	364	-	==	2	SETUB.	SETUBANDHA, herausgegeben von SIEGFRIED GOLDSCHMIDT. 
@@ -378,7 +378,7 @@ BR2HASP.	377	-	==	3	BṚHASP.	BṚHASPATI, nach Citaten in verschiedenen jurisch
 Cat. ALLAR.	378	-	==	3	Cat. ALLAR.	A Catalogue of Sanscrit Manuscripts in Oudh (ROTH). 
 Cat. KIELH.	379	-	==	3	Cat. KIELH.	Cat. C. PR. 
 C2RUT	380	-	==	3	ŚRUT	ŚRUTABODHA in der Zeitschrift für die Kunde des Morgenlandes, Bd. IV. 
-C2UKRN.	381	-	==	3	ŚUKRN.	ŚUKRANITI in OPPERT, On the army organization of the Ancient Hindus S. 107 (WEBER). 
+C2UKRAN.	381	-	==	3	ŚUKRAN.	ŚUKRANITI in OPPERT, On the army organization of the Ancient Hindus S. 107 (WEBER). 
 DEVALA	382	+	xx	3	DEVALA	nach Citaten in verschiedenen juristischen Schriften (YOLLY). 
 DONNER, PIN2D2.	383	-	==	3	DONNER, PIṆḌ.	PIṆḌAPITṚYAYNA, von Dr. O. DONNER. Berlin. 1870. 
 EITEL, Chin. B.	384	-	==	3	EITEL, Chin. B.	Hand-Book for the student of Chinese Buddhism, by Rev. E. l. EITEL. London, 1870. 
@@ -428,7 +428,7 @@ RA7G4AN.	427	-	xx	4	RĀJAN.	13 nach der Ausg. von R. GARBE.
 SADDH. P.	428	-	==	4	SADDH. P.	SADDHARMAPUṆḌARIKA (KERN) . 
 SVAPNAK4(INTA7MAN2I)	429	-	xx	4	SVAPNAC(INTĀMAṆI)	(PISCHEL) . 
 VIRAM.	430	-	==	4	VIRAM.	VIRAMITRODAYA, Khadirapura 1815(STENZLER) . 
-ALAM5A7RA	431	-	xx	5	ALAM̃ĀRA	(ATNĀKARA) des ŚOBHĀKARA, Deccan. Coll. Hdschr. No. 227 (PISCHER). 
+ALAM5KA7RA(TNA7KARA)	431	-	xx	5	ALAM̃KĀRA(TNĀKARA)	des ŚOBHĀKARA, Deccan. Coll. Hdschr. No. 227 (PISCHER). 
 ALAM5KA7RAS	432	-	xx	5	ALAM̃KĀRAS	(ARVASVA) von RUYYAKA, Deccan Coll. Hdschr. No. 231 (PISCHER). 
 ALAM5KA7RAT	433	-	xx	5	ALAM̃KĀRAT	(ILAKA), Hdschr. (AUFRECHT). 
 ALAM5A7KA7RAV	434	-	xx	5	ALAM̃ĀKĀRAV	(IMARŚIN) von JAYARATHA, Deccan Coll. Hdschr. No. 230 (PISCHER). 

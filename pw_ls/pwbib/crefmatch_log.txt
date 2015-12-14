@@ -1,18 +1,35 @@
 502 records from pwbib1.txt
-2711 records from ../pw_dhaval/abbrvwork/abbrvoutput/sortedcrefs.txt
+9 known unused records removed from pwbib for purposes of matching
+Case 01: gan2a : im Gaṇapātha zu P. 
+Case 02: HARISV. : HARISVĀMIN. 
+Case 03: MAHA7B. : MAHĀBHĀṢYA, lith. in Benares. 
+Case 04: MAYR, Ind. Erb. : Das indische Erbrecht von AUREL MAYR, Wien 1873. 
+Case 05: Ind.Str. : WEBER, Indische Streifen. 
+Case 06: SVAPNAK4(INTA7MAN2I) : (PISCHEL) . 
+Case 07: C2RIMA7LA7M : (ĀHĀTMYA), Hdschr. (AUFRECHT). 
+Case 08: LEUMANN, Aup. Gl. : Glossar in. , Das Aupapātika Sūtra, herausgegeben von Dr. ERNST LEUMANN. 
+Case 09: Bydragen : (tot de Taal-, Land-en Volkenkunde van Nederlandsch Indie) (H. KERN). 
+END OF REMOVALS
+--------------------------------------------------------------------------------
+
+493 After adjustment,records from pwbib1.txt
+2710 records from ../pw_dhaval/abbrvwork/abbrvoutput/sortedcrefs.txt
 bib duplicate abbrv: DHU7RTAS 082 322
 bib duplicate abbrv: HA7SJ 113 335
 bib duplicate abbrv: KA7T2H 141 346
 bib duplicate abbrv: KA7D 130 389
+bib duplicate abbrv: K4AURAP 147 394
 bib duplicate abbrv: KUMA7RAS 160 396
 bib duplicate abbrv: MBH 189 398
 bib duplicate abbrv: RA7G4AN 229 427
 bib duplicate abbrv: BAUDH 308 437
 bib duplicate abbrv: BHAVISHJOTT.P 036 442
 bib duplicate abbrv: HARSHAK4 112 454
+bib duplicate abbrv: VASISHT2HA 411 482
 bib duplicate abbrv: C2A7K 051 488
+bib duplicate abbrv: KA7VJA7L 460 492
 bib duplicate abbrv: SARASVATIK 476 498
 bib duplicate abbrv: VA7GBH 273 501
-360 matching abbreviations
-73275 total abbreviation instances from crefs
-57327 of these accounted for by matching abbreviations
+400 matching abbreviations
+73274 total abbreviation instances from crefs
+62947 of these accounted for by matching abbreviations
