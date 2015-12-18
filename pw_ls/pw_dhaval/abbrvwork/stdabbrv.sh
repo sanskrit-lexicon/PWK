@@ -6,7 +6,7 @@ echo 'Creating cref bib intersect file'
 python stdabbrv.py ../../pwbib/crefbibintersect.txt abbrvoutput/sortedcrefs.txt > ../../pwbib/diffstudy/correctionsubmission/cbisub.txt
 
 echo 'Creating cref minus bib HTML file'
-php displayhtml.php ../../pwbib/diffstudy/correctionsubmission/cmbsub.txt ../../pwbib/diffstudy/correctionsubmission/cmbsub.html
+php displayhtml.php ../../pwbib/diffstudy/correctionsubmission/cmbsub.txt ../../pwbib/diffstudy/correctionsubmission/cmbsub.html 2
 echo 'Creating cref bib intersect HTML file'
-php displayhtml.php ../../pwbib/diffstudy/correctionsubmission/cbisub.txt ../../pwbib/diffstudy/correctionsubmission/cbisub.html
+php displayhtml.php ../../pwbib/diffstudy/correctionsubmission/cbisub.txt ../../pwbib/diffstudy/correctionsubmission/cbisub.html 2
 
