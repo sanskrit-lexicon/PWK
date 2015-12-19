@@ -2137,7 +2137,7 @@ ebend.411,16.@ojobalA@ojobalA@22644
 251,7.@kakza@ka/kza@23193
 1,4,3,24.@kakzya@kakzya^@23220
 161,9.@kaNkAla@kaNkAla@23264
-215,19.@kacawatapagajaqaMdaba@kacawatapagajaqaMdaba@23289
+215,19.@kacawatapagajaqadaba@kacawatapagajaqadaba@23289
 313,27@kawukita@kawukita@23472
 44,7@kaWalya@kaWalya@23537
 168,1@kaWoracitta@kaWoracitta@23563
@@ -5099,7 +5099,6 @@ ebend.68,11.83,24.@labDalABa@labDalABa@95742
 259,17.260,15.266,12.@layasTAna@layasTAna@95802
 306,7.@lalAma@lalAma@95832
 (173,13)@lavaRajalaDi@lavaRajalaDi@95893
-37,8,13.@lavaRay@lavaRay@95907
 169,25.@lavaRavAri@lavaRavAri@95908
 142,18.@las@las@95959
 7,3383@lAlasa@lAlasa@96110

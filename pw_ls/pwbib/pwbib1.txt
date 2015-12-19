@@ -179,7 +179,7 @@ MAITRJUP.	178	-	==	1	MAITRYUP.	MAITRYUPANIṢAD in der Bibl. ind. Die Accente, d
 MAITR. S.	179	-	==	1	MAITR. S.	MAITRĀYAṆI SAM̃HITĀ, zur Herausgabe vorbereitet von L. SCHRÖDER. Da die accentuirten Hdschr. nicht gleich zu Anfang zur Hand waren, konnten einige Accente erst in den Nachträgen angegeben werden (SCHRÖDER). 
 MA7LATIM.	180	-	==	1	MĀLATIM.	MĀLATIMĀDHAVA, nach zwei Ausgaben, Calcutta 1830 und Bombay 1876. 
 MA7LAV.	181	-	==	1	MĀLAV.	MĀLAVIKĀGNIMITR, Ausg. von TULLIBERG. 
-MA7N2D2 C2IKSHA7	182	-	==	1	MĀṆḌ ŚIKṢĀ	MĀṆḌŪKI ŚIKṢĀ(WEBER). 
+MA7N2D2. C2IKSHA7	182	-	==	1	MĀṆḌ. ŚIKṢĀ	MĀṆḌŪKI ŚIKṢĀ(WEBER). 
 MA7N. GR2HJ.	183	-	==	1	MĀN. GṚHY.	MĀNAVAGṚHYASŪTRA, nach einer Hdschr. in der Universitätsbibliothek zu Bombay (SCHRÖDER). 
 MA7N. K. S.	184	-	==	1	MĀN. K. S.	MĀNAVAKALPASŪTRA, nach Citaten bei GOLD. 
 MANTRABR.	185	-	==	1	MANTRABR.	MANTRABRĀHMAṆA, Calcutta 1872(ROTH). 
@@ -271,7 +271,7 @@ UG4G4VAL.	270	-	==	1	UJJVAL.	UJJVALADATTA, Commentator der UṆĀDISŪTRA.
 UN2A7DIS.	271	-	==	1	UṆĀDIS.	UṆĀDISŪTRA, herausg. von AUFRECHT. 
 UTTARAR.	272	-	==	1	UTTARAR.	UTTARARĀMACRIRA, nach zwei Ausgaben, Calcutta 1831 und 1862. 
 VA7GBH.	273	-	==	1	VĀGBH.	VĀGBHAṬA'S ĀYURVEDARŚANA (ROTH). 
-VAG4BAS.	274	-	==	1	VAJBAS.	VAJRASŪCI, Ausg. von WEBER. 
+VAG4RAS.	274	-	==	1	VAJRAS.	VAJRASŪCI, Ausg. von WEBER. 
 VAIDJABH.	275	-	==	1	VAIDYABH.	VAIDYABHĀṢYA (ROTH). 
 VAITA7N.	276	-	==	1	VAITĀN.	VAITĀNASŪTR??, Ausg, von GARBE. 
 VA7JU-P.	277	-	==	1	VĀYU-P.	VĀYUPURĀṆA, nach Citaten in andern Werken. 
@@ -285,7 +285,7 @@ VARA7H.LAGH.	284	+	==	1	VARĀH.LAGH.	VARĀHAMIHIRA'S LAGHUJĀTAKA. Die zwei erst
 Va7rtt.	285	-	==	1	Vārtt.	Vārttika. 
 VA7S.	286	-	==	1	VĀS.	VĀSANTIKĀ, Hdschr. (CAPPELLER). 
 VA7SAV.	287	-	==	1	VĀSAV.	VĀSAVADATTĀ in der Bibl. ind. 
-VEN2IS.	288	-	==	1	VEṆIS.	VEṆISAM̃HĀRA, Ausg. von GRILL (CAPPELLER). 
+VEN2I7S.	288	-	==	1	VEṆĪS.	VEṆĪSAM̃HĀRA, Ausg. von GRILL (CAPPELLER). 
 Verz. d. B. H.	289	-	==	1	Verz. d. B. H.	WEBER, Verzeichniss der Berliner Handschriften. 
 Verz. d. Oxf. H.	290	-	==	1	Verz. d. Oxf. H.	AUFRECHT, Verzeichniss der Oxforder Handschriften. 
 VET.	291	-	==	1	VET.	VETĀLAPAŃCAVIM̃ŚATI in LA. 
@@ -400,7 +400,7 @@ MEDHA7T.	399	-	==	3	MEDHĀT.	MEDHĀTITHI, ein Scholiast des MANU (YOLLY).
 MÜLLER, SL.	400	-	==	3	MÜLLER, SL.	A History of Ancient Sanskrit Literature. By MAX MÜLLER. 1859. 
 MUN2D2. UP.	401	-	==	3	MUṆḌ. UP.	MUṆḌAKOPANIṢAD in der Bibl. ind. 
 OLD.	402	-	xx	3	OLD.	Buddha-Buddha. Sein Leben, seine Lehre, seine Gemeinde. Von HERMANN OLDENBERG. Berlin 1881. 
-PRAG4A7PATI,	403	-	xx	3	PRAJĀPATI,	nach Citaten in verschiendenen juristischen Werken (YOLLY). 
+PRAG4A7PATI	403	-	xx	3	PRAJĀPATI	, nach Citaten in verschiendenen juristischen Werken (YOLLY). 
 PR. P.	404	-	==	3	PR. P.	PRACAṆḌAPĀṆḌAVA, EIN SCHAUSPIEL. HDSCHR. (CAPPELLER). 
 RA7MAPU7RVAT. UP.	405	-	==	3	RĀMAPŪRVAT. UP.	RĀMAPŪRVATĀPANIYOPANIṢAD in der Bibl. ind. 
 RASAR.	406	-	xx	3	RASAR.	RASARATNĀKARA, Calcutta 1878 (ROTH). 
@@ -433,7 +433,7 @@ ALAM5KA7RAS	432	-	xx	5	ALAM̃KĀRAS	(ARVASVA) von RUYYAKA, Deccan Coll. Hdschr. 
 ALAM5KA7RAT	433	-	xx	5	ALAM̃KĀRAT	(ILAKA), Hdschr. (AUFRECHT). 
 ALAM5A7KA7RAV	434	-	xx	5	ALAM̃ĀKĀRAV	(IMARŚIN) von JAYARATHA, Deccan Coll. Hdschr. No. 230 (PISCHER). 
 ANARGHAR	435	-	xx	5	ANARGHAR	(ĀGHAVA), Calcutta Śaka 1782 (AUFRECHT). 
-ASAHA7JA,	436	-	xx	5	ASAHĀYA,	ein Commentator des NĀRADA (YOLLY). 
+ASAHA7JA	436	-	xx	5	ASAHĀYA	, ein Commentator des NĀRADA (YOLLY). 
 BAUDH.	437	-	xx	5	BAUDH.	(mit Angaben der Abschnitte) nach Mittheilungen von BÜHLER. 
 Berl. Mon.	438	-	==	5	Berl. Mon.	Monatsbericht der Königlich Preussischen Akademie der Wissenschaften zu Berlin. 
 BHADRAB	439	-	xx	5	BHADRAB	(ĀHUCARITRA), herausgegeben von H. Y. YACOBI in Z. d. d. m. G. 38, 19. fgg. (YACOBI). 
@@ -454,7 +454,7 @@ GAN2ITA,K4ANDRAGR(AHA7DHIKA7RA)	453	+	xx	5	GAṆITA,CANDRAGR(AHĀDHIKĀRA)	(KERN
 HARSHAK4	454	-	xx	5	HARṢAC	(1936), Bomb. Ausg. (KERN). 
 KA7C2IKH	455	-	xx	5	KĀŚIKH	(AṆḌA), HDSCHR. (AUFRECHT). 
 K4AMPAKA	456	-	==	5	CAMPAKA	Ueber das CAMPAKAŚREṢṬHIKATHĀNAKAM, die Geschichte vom Kaufmann CAMPAKA. Herausgegeben von A. WEBER in Sitzungsberichte der Königlich Preussischen Akademie der Wissenschaften zu Berlin. Yahrgang 1883. S. 567. fgg. 885. fgg. Vgl. Mélanges asiatiques tirés du Bulletin de l'Académie Impériale des Sciences de St. Pétersbourg. Tome IX, S. 75. fgg. 
-KATHA7RN2AVA,	457	-	xx	5	KATHĀRṆAVA,	Hdschr. (AUFRECHT). 
+KATHA7RN2AVA	457	-	xx	5	KATHĀRṆAVA	, Hdschr. (AUFRECHT). 
 ka7tj	458	-	xx	5	kātj	(ĀYANA'S)KARM (APRADIPA) (STENZLER). 
 KA7TJ	459	-	xx	5	KĀTY	(ĀYANA'S) PARIBH (ĀṢĀS) IN 'Zwölf Hymnen des Rigveda, herausgegeben von ERNST WIDISCH'S. 169. fgg. 
 KA7VJA7L	460	-	xx	5	KĀVYĀL	(OKALOCANA), Hdschr. (AUFRECHT). 
@@ -466,7 +466,7 @@ MATSJAP	465	-	xx	5	MATSYAP	(URĀṆA), Poona-Ausg. (AUFRECHT).
 M. MÜLLER, Ren.	466	-	==	5	M. MÜLLER, Ren.	The Renaissanśe of Sanskrit Literature in M. MüLLER'S India what can it teach us? S. 281. fgg. Auch die vorangehenden Abschnitte werden so citirt. 
 NA7RADA	467	-	xx	5	NĀRADA	(a. ) bezeichnet die ausführlichere Recension NĀRAD'S (YOLLY). 
 PADDH	468	-	xx	5	PADDH	(ATI) zu MĀN (AVA) GṚHY (ASŪTRA), Hdschr. (v. BRADKE). 
-PADJA7VALI,	469	-	xx	5	PADYĀVALI,	Hdschr. (AUFRECHT). 
+PADJA7VALI7	469	-	xx	5	PADYĀVALĪ	, Hdschr. (AUFRECHT). 
 PA7RC2VAN	470	-	xx	5	PĀRŚVAN	(ĀTHAKĀVYA), Hdschr. (AUFRECHT). 
 PRA7JAC2K4ITTAV	471	-	xx	5	PRĀYAŚCITTAV	(IVEKA), Hdschr. (AUFRECHT). 
 PRAKRIJA7K (AUMUDI), Hdschr. (AUFRECHT). RA7JENDR. Not.	472	-	==	5	PRAKRIYĀK (AUMUDI), Hdschr. (AUFRECHT). RĀYENDR. Not.	Notices of Sanskrit Mss. by RĀYENDRALLĀLA MITRA. 

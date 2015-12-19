@@ -37,9 +37,12 @@ def init_pwbib1(filein):
  return recs
 
 pwbib_unusedkeys=[
+ # Dec 15, 2015
  'MAHA7B','C2RIMA7LA7M','Bydragen','HARISV','gan2a',
  'SVAPNAK4(INTA7MAN2I)','LEUMANN,Aup.Gl',
- 'Ind.Str','MAYR,Ind.Erb'
+ 'Ind.Str','MAYR,Ind.Erb',
+ # Dec 18, 2015
+ 'VA7RA7HAP','PRAG4A7PATI','MAITR.PADDH','KHAN2D2APR','ALAM5KA7RAS',
 ]
 def adjust_bibrecs(bibrecs):
  recs=[] # returned
@@ -47,6 +50,8 @@ def adjust_bibrecs(bibrecs):
  for rec in bibrecs:
   if rec.abbrvadj  in pwbib_unusedkeys:
    removed.append(rec)
+  #elif rec.duplicate:
+  # removed.append(rec)
   else:
    recs.append(rec) # keep
  # write removed to stdout
@@ -80,8 +85,6 @@ if __name__ == "__main__":
  bibrecs = init_pwbib1(filebib)
  crefrecs = init_cref(filecref)
  print len(bibrecs),"records from",filebib
- bibrecs=adjust_bibrecs(bibrecs)
- print len(bibrecs),"After adjustment,records from",filebib
 
  print len(crefrecs),"records from",filecref
 
@@ -93,6 +96,9 @@ if __name__ == "__main__":
    print "cref duplicate abbrv:",key
   else:
    crefdict[key]=crefrec
+ # 
+ bibrecs=adjust_bibrecs(bibrecs)
+ print len(bibrecs),"After adjustment for unused records from",filebib
 
  # dictionary on abbrv for bibrecs
  bibdict = {}
@@ -106,6 +112,7 @@ if __name__ == "__main__":
    bibrec.duplicate = True
   else:
    bibdict[key]=bibrec
+ print len(bibdict.keys()),"pwbib records, after removing duplicates"
  # Cull out entries which are in pwbib1.txt but are absent in sortedcrefs.txt
  bibminuscref = codecs.open('bibminuscref.txt','w','utf-8')
  # for each bibrec
