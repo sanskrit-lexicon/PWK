@@ -62,27 +62,27 @@
 ¯ed.Bomb@aYcana@*aYcana@1426:¯ed.Bomb:n:New resource. Actually this inherits 'R.' (for rAmAyaRa) from its predecessor.
 ¯ZK ‹lesen›)@sku@sku@130331:‹zk lesen›):t:Not sure. But this is not a reference.
 ¯MALLIN. ‹zu› ¯KIR.@aparicita@aparicita@6129:¯MALLIN.‹zu›KIR.:t:I am also not sure. This is a new reference. How to deal with commentaries reference is something I need to understand.
-¯GAUT.A7PAST.°@paNktipAvana@paNktipAvana@61743:¯GAUT.A7PAST.°:n:
-¯MA7RAKA6,13@snehaSarkarA@snehaSarkarA@131380:¯MA7RAKA6,13:n:
-¯Nachträge@kalya@kalya@25667:¯Nachträge:n:
-¯A7RJABH.S@aBra@aBra/@8012:¯A7RJABH.S:n:
-¯MARTR.S@visraMsikA@visra/MsikA@105764:¯MARTR.S:n:
-¯VARA7H.BR2H.DALAJOGA@mAla@mAla@86504:¯VARA7H.BR2H.DALAJOGA:n:
-¯BU6HLER,@varDamAnapurARa@varDamAnapurARa@98892:¯BU6HLER,:n:
-¯HLT@suvistIrRa@suvistIrRa@128049:¯HLT:n:
-¯A7RJA7V@nASira@nASira@58112:¯A7RJA7V:n:
-¯UTPALA.U@maraRa@maraRa@83523:¯UTPALA.U:n:
-¯R2V.häufig@sUra@sU/ra@128884:¯R2V.häufig:n:
-¯R2K4.Roth.Zur@Satarca@Satarca@109918:¯R2K4.Roth.Zur:n:
-¯SCHAöDER@mayUraparvata@mayUraparvata@83483:¯SCHAöDER:n:
-¯AIT.Br@pAdAvanejana@pAdAvanejana@65949:¯AIT.Br:n:
-¯VAG4RAN5K4H@yoniSas@yoniSas@91536:¯VAG4RAN5K4H:n:
-¯C4A7BA7LOP.S@Ap@Ap@14843:¯C4A7BA7LOP.S:n:
-¯KA7D.ed.Bomb@vAYC@vAYC@100166:¯KA7D.ed.Bomb:n:
-¯K4A7D@kandalin@kandalin@24073:¯K4A7D:n:
-¯C2IVA`S@vihuRqana@*vihuRqana@105863:¯C2IVA`S:n:
-¯KAMALA7KARA,@sakIla@sakIla@117241:¯KAMALA7KARA,:n:
-¯Katha7s@AhUtavya@AhUtavya@16585:¯Katha7s:n:
+¯GAUT.A7PAST.° #{pAvana}@paNktipAvana@paNktipAvana@61743:¯GAUT.A7PAST. #{°pAvana}:t:The item belongs to the next Devanagari sub entry.
+¯MA7RAKA6,13@snehaSarkarA@snehaSarkarA@131380:¯K4ARAKA 6,13:t:caraka
+¯Nachträge@kalya@kalya@25667:¯Nachträge:n:Whose supplement ? remains to be decided.
+¯A7RJABH.S@aBra@aBra/@8012:¯A7RJABH. S:t:S refers to page (Seite)
+¯MARTR.S@visraMsikA@visra/MsikA@105764:¯MAITR. S:t:R->I and space
+¯BA7DAR.HEI¯UTPALA ‹zu› ¯VARA7H.BR2H.DALAJOGA ¯BA7DAR. ‹bei› ¯UTPALA ‹zu› ¯VARA7H.BR2H.12,1.@mAla@mAla@86504:¯BA7DAR. ‹bei› ¯UTPALA ‹zu› ¯VARA7H.BR2H.12,1.:t:Duplicated.
+¯BU6HLER, ‹Rep. No. 667.›@varDamAnapurARa@varDamAnapurARa@98892:¯BÜHLER,Rep.No.667.:t:The digitizer has used the suggested format at 315 places.
+¯HLT@suvistIrRa@suvistIrRa@128049:¯HIT:t:
+¯A7RJA7V@nASira@nASira@58112:¯A7RJAV:t:Also seems a new literary resource.
+¯UTPALA.U¯VARA7H.BR2H.@maraRa@maraRa@83523:¯UTPALA ‹zu› ¯VARA7H.BR2H.:t:
+¯R2V.häufig@sUra@sU/ra@128884:¯R2V. häufig:t:spacing. häufig means frequently.
+¯R2K4.Roth.Zur@Satarca@Satarca@109918:R2k4 ¯Roth.Zur:t:Wrong tagging of R2k4.
+¯SCHAöDER@mayUraparvata@mayUraparvata@83483:¯SCHRÖDER:t:Also a new reference.
+¯AIT.Br@pAdAvanejana@pAdAvanejana@65949:¯AIT.BR:t:
+¯VAG4RAN5K4H@yoniSas@yoniSas@91536:¯VAG4RAK5K4H:t:
+¯C4A7BA7LOP.S@Ap@Ap@14843:¯G4A7BA7LOP. S:t:C->G and space before S.
+¯KA7D.ed.Bomb@vAYC@vAYC@100166:¯KA7D.ed.Bomb:n:New reference. pwbib0 has only Calcutta and  some german one.
+¯K4A7D@kandalin@kandalin@24073:¯KA7D:t:
+¯C2IVA`S@vihuRqana@*vihuRqana@105863:C2iva's:t:Not a reference.
+¯KAMALA7KARA,¯C2U7DRADH@sakIla@sakIla@117241:¯KAMALA7KARA,¯C2U7DRADH:n:New reference too.
+¯Katha7s@AhUtavya@AhUtavya@16585:¯KATHA7S:t:Capitalization issue
 ¯MAHA7V@varDana@varDana@98882:¯MAHA7V:n:
 ¯KA7BAN2D2@divAkaravaralocana@divAkaravaralocana@50285:¯KA7BAN2D2:n:
 ¯KR2SHN2AG4@varDApay@varDApay@98906:¯KR2SHN2AG4:n:
