@@ -2093,7 +2093,6 @@ ebend.@ekaSruti@ekaSruti@22000
 161,7.@ekEka@e/kEka@22156
 235,11.@eN@eN@22173
 44,6.@ej@ej@22174
-2,391.@eRaSiras@eRaSiras@22200
 308,14.@eta@eta/@22212
 35,22.36,2.@etad@eta/d@22220
 310,13.@etadavasTa@etadavasTa@22223
@@ -4219,6 +4218,7 @@ ebend.@prakledin@prakledin@70374
 238,19.@pratizeDApavAda@pratizeDApavAda@71569
 2,1,12.@pratizeDya@pratizeDya@71573
 1,50,19.@pratizWa@pratizWa/@71584
+@pratisaMlayana@pratisaMlayana@71614
 248,29.@pratisparDin@pratisparDin@71684
 11,1.@pratihAra@pratihAra@71706
 279,2.280,3.4.@pratIti@pra/tIti@71765

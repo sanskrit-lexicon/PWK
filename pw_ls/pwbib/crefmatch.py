@@ -1,3 +1,4 @@
+# coding=utf-8
 """crefmatch.py
    Dec 4, 2015
 Usage: python crefmatch.py pwbib1.txt ../pw_dhaval/abbrvwork/abbrvoutput/sortedcrefs.txt crefmatch.txt
@@ -23,7 +24,9 @@ class Pwbib1(object):
    ("KUHN'SZ","KUHN'S.Z"),
    ('C2A7KTA7N(ANDATARAM5GIN2I)','C2A7KTA7N'),
    ('KAT2HOP(ANISHAD)','KAT2HOP'),
-   ('K4AURAP.(A.)','K4AURAP')
+   ('K4AURAP.(A.)','K4AURAP'),
+   ('KAP.(BALL.)','KAP'),
+   ('SUPARN2.undSUPARN2A7DHJ','SUPARN2')
   ]
   for (old,new) in changes:
    if key == old:
@@ -43,6 +46,10 @@ pwbib_unusedkeys=[
  'Ind.Str','MAYR,Ind.Erb',
  # Dec 18, 2015
  'VA7RA7HAP','PRAG4A7PATI','MAITR.PADDH','KHAN2D2APR','ALAM5KA7RAS',
+ # Dec 19, 2015 BÜHLER
+ u'BÜHLER,Rep.1872-73',
+ 'DEVI7BHA7G',
+ 'GAN2ITA,MADHJA7M(A7DHJA7JA)','GAN2ITA,K4ANDRAGR(AHA7DHIKA7RA)',
 ]
 def adjust_bibrecs(bibrecs):
  recs=[] # returned

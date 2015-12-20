@@ -126,7 +126,10 @@ def clean_special(a,clean):
  cleanadj = clean # usual case
  starts = ['Mat.med','H.an','DAC2AK.(1925)','VET.(U.)',
    'VIKR.dra7v','PISCHEL,deGr.pr','Bibl.ind','KAP.(BALL.)',
-   'HARIV.LANGL','PAN4K4AT.ed.orn']
+   'HARIV.LANGL','PAN4K4AT.ed.orn',
+   'Lot.delab.l','C2RUT.(BR.)','HAM5SOP','K4AURAP.(A.)',
+   'MED.avj'
+   ]
  for start in starts:
   if a.startswith(start):
    cleanadj = start

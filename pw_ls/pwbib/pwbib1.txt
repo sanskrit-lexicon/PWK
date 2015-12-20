@@ -25,7 +25,7 @@ AV.PRA7JAC2K4.	024	+	==	1	AV.PRĀYAŚC.	PARIŚCITTA zum AV. , Hdschr. (ROTH).
 BA7DAR.	025	+	==	1	BĀDAR.	BĀDARĀYAṆA'S BRAHMASŪTRA in der Bibl. ind. 
 B.A.J.	026	+	==	1	B.A.Y.	Bombay Asiatic Yournal (GELDNER). 
 BA7LAR.	027	+	==	1	BĀLAR.	BĀLARĀMĀYAṆA, Benares 1869 (KERN). 
-Beitr. z. k. d. ig. Spr.	028	+	==	1	Beitr. z. k. d. ig. Spr.	Beiträge zur Kunde der indogermanischen Sprachen. 
+Beitr. z. K. d. ig. Spr.	028	+	==	1	Beitr. z. K. d. ig. Spr.	Beiträge zur Kunde der indogermanischen Sprachen. 
 BENF. Chr.	029	+	==	1	BENF. Chr.	BENFEY'S Chrestomathie. 
 BHAG.	030	+	==	1	BHAG.	BHAGAVADGITĀ, Ausg. von SCHLEGEL. 
 BHA7G.P.	031	+	==	1	BHĀG.P.	BHĀGAVATAPURĀṆA. Die 9 ersten Skandha nach BURNOUF's. Ausgabe, wenn nicht ausdrücklich. ed. Bomb. hinzugefügt wird; die letzten Skandha nach der ed. Bomb. In Klammern eingeschlossene Zahlen verweisen auf ed. Bomb. 
@@ -154,7 +154,7 @@ K4HANDOM.	153	-	==	1	CHANDOM.	CHANDOMANJARI, herusg. von BROCKHAUS in Berichte �
 K4HA7ND. UP.	154	-	==	1	CHĀND. UP.	CHĀNDOGYOPANIṢAD in der Bibl. ind. 
 KIR.	155	-	==	1	KIR.	KIRĀTĀRJUNIYA, Calcutta 1814. 
 KR2SHIS.	156	-	==	1	KṚṢIS.	PARĀŚARA'S KṚṢISAM̃GERAHA, Calcutta 1862(ROTH). 
-KSHITIC2.	157	-	==	1	KṢITIŚ.	KṢITŚAVAM̃ŚĀVALĪKĪARITA, Ausg. von PERTSCH. 
+KSHITI7C2.	157	-	==	1	KṢITĪŚ.	KṢITĪŚAVAM̃ŚĀVALĪCARITA, Ausg. von PERTSCH. 
 KSHURIKOP.	158	-	==	1	KṢURIKOP.	KṢURIKOPANIṢAD in der Bibl. ind. 
 KULL.	159	-	==	1	KULL.	KULLŪKA, Commentator des MANU. 
 KUMA7RAS.	160	-	==	1	KUMĀRAS.	KUMĀRASAM̃BHAVA, Ausg. von STENZLER. 
@@ -174,10 +174,10 @@ MA7DH. KA7LAN.	173	-	==	1	MĀDH. KĀLAN.	MĀDHAVA'S KĀLANIRṆAYA (WEBER).
 MAHA7B.	174	-	==	1	MAHĀB.	MAHĀBHĀṢYA, lith. in Benares. 
 MAHA7BH. (K.)	175	-	==	1	MAHĀBH. (K.)	KIELHORN'S Ausg. des MAHĀBHĀṢYA. 
 MAHA7VIRAK4.	176	-	==	1	MAHĀVIRAC.	MAHĀVIRACARITA, Ausg. von TRITHEN. 
-MAHIDH.	177	-	==	1	MAHIDH.	MAHIDHARA, Commentator der VS. 
+MAHI7DH.	177	-	==	1	MAHĪDH.	MAHĪDHARA, Commentator der VS. 
 MAITRJUP.	178	-	==	1	MAITRYUP.	MAITRYUPANIṢAD in der Bibl. ind. Die Accente, die wegen ihrer Fehlerhaftigkeit oft weggelassen oder durch (!) als verdächtig bezeichnet wurden, hat SCHRÖDER einer Hdschr. entnommen. 
 MAITR. S.	179	-	==	1	MAITR. S.	MAITRĀYAṆI SAM̃HITĀ, zur Herausgabe vorbereitet von L. SCHRÖDER. Da die accentuirten Hdschr. nicht gleich zu Anfang zur Hand waren, konnten einige Accente erst in den Nachträgen angegeben werden (SCHRÖDER). 
-MA7LATIM.	180	-	==	1	MĀLATIM.	MĀLATIMĀDHAVA, nach zwei Ausgaben, Calcutta 1830 und Bombay 1876. 
+MA7LATI7M.	180	-	==	1	MĀLATĪM.	MĀLATĪMĀDHAVA, nach zwei Ausgaben, Calcutta 1830 und Bombay 1876. 
 MA7LAV.	181	-	==	1	MĀLAV.	MĀLAVIKĀGNIMITR, Ausg. von TULLIBERG. 
 MA7N2D2. C2IKSHA7	182	-	==	1	MĀṆḌ. ŚIKṢĀ	MĀṆḌŪKI ŚIKṢĀ(WEBER). 
 MA7N. GR2HJ.	183	-	==	1	MĀN. GṚHY.	MĀNAVAGṚHYASŪTRA, nach einer Hdschr. in der Universitätsbibliothek zu Bombay (SCHRÖDER). 
@@ -299,7 +299,7 @@ VS	298	-	==	1	VS	VĀJASĀNI SAM̃HITĀ (ROTH und WEBER).
 VS. PRA7T.	299	-	==	1	VS. PRĀT.	PRĀTIŚĀKHYA zu VS in Ind. St. 4. 
 WEBER, G4JOT.	300	-	==	1	WEBER, JYOT.	WEBER, Ueber den Vedakalender, Namens JYOTIṢAM. 
 WEBER, KR2SHN2AG4.	301	-	==	1	WEBER, KṚṢṆAJ.	WEBER, Ueber die KṚṢṆJANMĀṢṬAMI. Berlin 1868. 
-WEBER. Max.	302	-	==	1	WEBER. Max.	WEBER, Die vedischen Nachrichten von den naxatra. Berlin 1860. 
+WEBER. Nax.	302	-	==	1	WEBER. Nax.	WEBER, Die vedischen Nachrichten von den naxatra. Berlin 1860. 
 WILSON, Sel. W.	303	-	==	1	WILSON, Sel. W.	Select Works of H. H. WILSON. 
 WISE	304	-	==	1	WISE	Commentary on the Hindu System of Medicine, by T. A. WISE. Calcutta 1845. 
 Z. d. d. m. G.	305	-	==	1	Z. d. d. m. G.	Zeitschrift der deutschen morgenlandischen Gesellschaft 
@@ -315,7 +315,7 @@ C2ILA7N5KA	314	-	==	2	ŚILĀÑKA	ŚILĀÑKA'S Commentar zum ĀCĀRĀÑGASŪTRA, 
 C2KDR.	315	-	==	2	ŚKDR.	ŚABDAKALPADRUMA. 
 C2OBH.	316	-	==	2	ŚOBH.	COBHANAMUNI'S ŚOBHANASTUTAYAS in Z. d. d. m. G. 32, 509. fgg. (YACOBI). 
 C2RUT. (BR. )	317	-	==	2	ŚRUT. (BR. )	ŚRUTABODHA, Ausg. von BROCKHAUS. 
-CUNNIGHAM. Arch. Surv.	318	-	==	2	CUNNIGHAM. Arch. Surv.	CUNNIGHAM, Archaeological Survey of India. 
+CUNNINGHAM, Arch. Surv.	318	-	==	2	CUNNINGHAM, Arch. Surv.	CUNNINGHAM, Archaeological Survey of India. 
 DAC2AK. (1925)	319	-	==	2	DAŚAK. (1925)	DAŚAKUMĀRACARITA, Calcutta 1234 {#saMvatsarE#} (CAPPELLER). 
 DA7J.	320	-	==	2	DĀY.	DĀYABHĀGA, Calcutta 1829. 
 DEC2I7N.	321	-	==	2	DEŚĪN.	HEMACNDRA'S DEŚINĀMĀLĀ, Hdschr. (PISCHEL). 
@@ -417,12 +417,12 @@ WIND. SANG.	416	-	==	3	WIND. SANG.	FRIDERICI HENR. HUG. WINDIṢMANNI SANCARA si
 BHA7M. V.	417	-	==	3	BHĀM. V.	BHĀMINIVILĀSA, Ausg. von ABELBERGAIGNER(CAPPELLER. ) 
 C2AM5K. VIG4.	418	-	==	4	ŚAM̃K. VIJ.	ŚAM̃KARAVIJAYA in der Bibl. ind. 
 CANTOR.	419	-	==	4	CANTOR.	CANTOR, Geschichte der Mathematik (WINDISCH) . 
-GAN2ITA,GRAHAK4K4AH(A7JA7DHIKA7RA)	420	+	xx	4	GAṆITA,GRAHACCAH(ĀYĀDHIKĀRA)	(KERN) . 
-GAN2ITA,SU7RJAGR(AHAN2A7DHIKA7RA)	421	+	xx	4	GAṆITA,SŪRYAGR(AHAṆĀDHIKĀRA)	(KERN) . 
+GAN2ITA,GRAHAK4K4H	420	+	xx	4	GAṆITA,GRAHACCH	(ĀYĀDHIKĀRA) (KERN) . 
+GAN2ITA,SU7RJAGR	421	+	xx	4	GAṆITA,SŪRYAGR	(AHAṆĀDHIKĀRA) (KERN) . 
 GOVARDH.	422	-	==	4	GOVARDH.	Govardhana's SAPTAŚATI (WEBER) . 
 KAN2T2HAC2R. UP.	423	-	==	4	KAṆṬHAŚR. UP.	KAṆṬHAŚRUTYUPANIṢAD in der Bibl. ind. 
 KIELHORN, Rep.	424	-	==	4	KIELHORN, Rep.	Report on the search for Sanskrit Mss. in the Bombay Presidency, during the year 1880-81. by F. KIELHORN(ROTH) . 
-LOKAPR(AKA7C2A)	425	-	xx	4	LOKAPR(AKĀŚA)	(YOLLY) . 
+LOKAPR	425	-	xx	4	LOKAPR	(AKĀŚA) (YOLLY) . 
 PRATIG4N4A7S(U7TRA)	426	-	xx	4	PRATIJŃĀS(ŪTRA)	berausg. von A. WEBER. 
 RA7G4AN.	427	-	xx	4	RĀJAN.	13 nach der Ausg. von R. GARBE. 
 SADDH. P.	428	-	==	4	SADDH. P.	SADDHARMAPUṆḌARIKA (KERN) . 
@@ -438,7 +438,7 @@ BAUDH.	437	-	xx	5	BAUDH.	(mit Angaben der Abschnitte) nach Mittheilungen von BÜ
 Berl. Mon.	438	-	==	5	Berl. Mon.	Monatsbericht der Königlich Preussischen Akademie der Wissenschaften zu Berlin. 
 BHADRAB	439	-	xx	5	BHADRAB	(ĀHUCARITRA), herausgegeben von H. Y. YACOBI in Z. d. d. m. G. 38, 19. fgg. (YACOBI). 
 BHARAT2AKA	440	-	xx	5	BHARAṬAKA	(DVĀTṚM̃ŚIKĀ), Hdschr. (AUFRECHT). 
-BHAVISHJAP(URA7N2A)	441	-	xx	5	BHAVIṢYAP(URĀṆA)	Hdschr. (AUFRECHT). 
+BHAVISHJAP	441	-	xx	5	BHAVIṢYAP	(URĀṆA) Hdschr. (AUFRECHT). 
 BHAVISHJOTT.P.	442	+	xx	5	BHAVIṢYOTT.P.	, auch nach Mittheilungen von AUFRECHT. 
 BURNELL, T.	443	+	==	5	BURNELL, T.	Classified Index to the Sanskrit Mss. in the Palace of Tanjore. By A. C. BURNELL. 
 C2A7C2VATA	444	+	==	5	ŚĀŚVATA	ŚĀŚVATA'S ANEKĀRTHASAMUCCAVA, herausgegeben von THEODOR ZACHARIAE. 
@@ -448,7 +448,7 @@ C2IVA-P	447	-	xx	5	ŚIVA-P	(URĀṆA) (SK. , dschr. No. 126 in verzeichnis der O
 C2RIMA7LA7M	448	-	xx	5	ŚRIMĀLĀM	(ĀHĀTMYA), Hdschr. (AUFRECHT). 
 DARPAD	449	-	xx	5	DARPAD	(ALANA) von KSBEMENDRA, Hdschr. (AUFRECHT). 
 DATTAKAC2	450	-	xx	5	DATTAKAŚ	(IROMAṆI), Calcutta 1867 (YOLLY). 
-DEVIBHA7G	451	-	xx	5	DEVIBHĀG	(AVATAPURĀṆ), Hdschr. (AUFRECHT). 
+DEVI7BHA7G	451	-	xx	5	DEVĪBHĀG	(AVATAPURĀṆA), Hdschr. (AUFRECHT). 
 DRAVJA	452	-	xx	5	DRAVYA	(UDDHITATTVA), Hdschr. (AUFRECHT). 
 GAN2ITA,K4ANDRAGR(AHA7DHIKA7RA)	453	+	xx	5	GAṆITA,CANDRAGR(AHĀDHIKĀRA)	(KERN). 
 HARSHAK4	454	-	xx	5	HARṢAC	(1936), Bomb. Ausg. (KERN). 
