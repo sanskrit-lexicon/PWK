@@ -128,7 +128,11 @@ def clean_special(a,clean):
    'VIKR.dra7v','PISCHEL,deGr.pr','Bibl.ind','KAP.(BALL.)',
    'HARIV.LANGL','PAN4K4AT.ed.orn',
    'Lot.delab.l','C2RUT.(BR.)','HAM5SOP','K4AURAP.(A.)',
-   'MED.avj'
+   'MED.avj','WILSON,Sel.Spec','VA7MANA','ROXB',
+   'GAN2IT.GRAH',  # to catch GAN2IT.GRAHAJ
+   'PRA7JAC2K4ITTAV', # to catch PRA7JAC2K4ITTAVIVEKA
+   'MAHA7BH.(K.)', # so the (K.) won't be dropped.
+   'HANUM.UP',  # so S. will be dropped
    ]
  for start in starts:
   if a.startswith(start):

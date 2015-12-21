@@ -165,7 +165,7 @@ LA.	164	-	==	1	LA.	LASSEN'S Anthologie 3te Ausg.
 LAGHUK.	165	-	==	1	LAGHUK.	LAGHUKAUMUDĪ, Ausg. von BALLANTYNE, Benares 1876(CAPPELLER). 
 LALIT.	166	-	==	1	LALIT.	LALITAVISTARAPURĀṆA in der Bibl. ind. (KERN). 
 LA7T2J.	167	-	==	1	LĀṬY.	LĀṬYĀYANA'S ŚRAUTASŪTRA in der Bibl. ind. 
-LILA7V.	168	-	==	1	LILĀV.	BHĀSKARA'S LILĀVATI, Calcutta 1846(KERN). 
+LI7LA7V.	168	-	==	1	LĪLĀV.	BHĀSKARA'S LĪLĀVATI, Calcutta 1846(KERN). 
 L. K.	169	-	==	1	L. K.	LAGHUK. 
 Lot. de la b. l.	170	-	==	1	Lot. de la b. l.	BURNOUF, Lotus de la bonne loi. 
 M.	171	-	==	1	M.	MĀNAVADHARMAŚĀSTRA. 
@@ -205,7 +205,7 @@ NIR.	204	-	==	1	NIR.	NIRUKTA, Ausg. von ROTH (ROTH).
 NJA7JAM	205	-	==	1	NYĀYAM	JAIMINIYANYĀYAMĀLĀVISTARA, Ausg. von GOLDSTÜCKER UND Cowell (KERN). 
 NJA7JAS.	206	-	==	1	NYĀYAS.	GOTAMA'S NYĀYADARŚANA in der Bibl. ind. Die Ausg. Calcutta 1828 wird durch Beifügung von (1828) bezeichnet. (KERN). 
 NJ. K.	207	-	==	1	NY. K.	NYĀYAKOSA or Dictionary of the technical Terms of the NYĀYA Philosphy, by BHIMĀCHĀRYA YHALAKIKAR. Bombay 1875. 
-NR2S UP.	208	-	==	1	NṚS UP.	NṚSIM̃HATĀPANIYOPANIṢAD, herausg. von WEBER in Ind. St. 9 und in der Bibl. ind. 
+NR2S. UP.	208	-	==	1	NṚS. UP.	NṚSIM̃HATĀPANIYOPANIṢAD, herausg. von WEBER in Ind. St. 9 und in der Bibl. ind. 
 P.	209	-	==	1	P.	PĀṆINI. 
 PAN4K4AD.	210	-	==	1	PAŃCAD.	PAŃCADAṆḌACCHATTRABANDHA, herausg. von WEBER. 
 PAN4K4AR.	211	-	==	1	PAŃCAR.	NĀBADA'S PAŃCARĀTRA in der Bibl. ind. 
@@ -299,7 +299,7 @@ VS	298	-	==	1	VS	VĀJASĀNI SAM̃HITĀ (ROTH und WEBER).
 VS. PRA7T.	299	-	==	1	VS. PRĀT.	PRĀTIŚĀKHYA zu VS in Ind. St. 4. 
 WEBER, G4JOT.	300	-	==	1	WEBER, JYOT.	WEBER, Ueber den Vedakalender, Namens JYOTIṢAM. 
 WEBER, KR2SHN2AG4.	301	-	==	1	WEBER, KṚṢṆAJ.	WEBER, Ueber die KṚṢṆJANMĀṢṬAMI. Berlin 1868. 
-WEBER. Nax.	302	-	==	1	WEBER. Nax.	WEBER, Die vedischen Nachrichten von den naxatra. Berlin 1860. 
+WEBER, Nax.	302	-	==	1	WEBER, Nax.	WEBER, Die vedischen Nachrichten von den naxatra. Berlin 1860. 
 WILSON, Sel. W.	303	-	==	1	WILSON, Sel. W.	Select Works of H. H. WILSON. 
 WISE	304	-	==	1	WISE	Commentary on the Hindu System of Medicine, by T. A. WISE. Calcutta 1845. 
 Z. d. d. m. G.	305	-	==	1	Z. d. d. m. G.	Zeitschrift der deutschen morgenlandischen Gesellschaft 
@@ -352,7 +352,7 @@ MAGAVJ.	351	-	==	2	MAGAVY.	Ueber zwei Parteischriften zu Gunsten der MAGA, resp.
 MAHA7C2.	352	+	==	2	MAHĀŚ.	MAHĀŚĀNTI, Hdschr. (ROTH). 
 MAITR. PADDH.	353	-	==	2	MAITR. PADDH.	PADDHATI ZU MAITR. S. , Hdschr. (V. SCHRÖDER). 
 MA7N. C2R.	354	-	==	2	MĀN. ŚR.	MĀNAVAŚRAUTSŪTRA, Hdschr. (V. SCHRÖDER). 
-MA7N2D2 UP.	355	-	==	2	MĀṆḌ UP.	MĀṆḌŪKYOPANIṢAD in der BIbl. ind. 
+MA7N2D2. UP.	355	-	==	2	MĀṆḌ. UP.	MĀṆḌŪKYOPANIṢAD in der BIbl. ind. 
 MOLESW.	356	-	==	2	MOLESW.	A Dictionary, Marāṭhi and English, compiled by Y. T. MOLESWORTH, Bombay 1857. 
 Mon. d. B. A.	357	-	==	2	Mon. d. B. A.	Monatsberichte der Königlich Preussichen Akademie der Wissenschaften in Berlin. 
 NA7DAR. UP.	358	-	==	2	NĀDAR. UP.	NĀDABINŪPANIṢAD in der Bibl. ind. (GELDNER). 
@@ -371,7 +371,7 @@ VIVEKAV.	370	-	==	2	VIVEKAV.	VIVEKAVILĀSA im Yournal PRATNAKAMRANANDINI.
 VOP.	371	-	==	2	VOP.	VOPADEVA'S MUGDHABODHA, herausgegeben und erklärt von O. BÖHTLINGK. 
 WEBER, Lit.	372	-	==	2	WEBER, Lit.	Akademische Vorlesung über Indische Literaturgeschichte. Von ALBRECHT WEBER. Zweite vermehrte Auflage. 
 WILSON, Sel. Spec.	373	-	==	2	WILSON, Sel. Spec.	WILSON, Select Specimens of the Theatre of the Hindus. 
-APABA7KA	374	-	xx	3	APABĀKA	(YOLLY). 
+APARA7RKA	374	-	xx	3	APARĀRKA	(YOLLY). 
 BHA7M.	375	-	==	3	BHĀM.	BHĀMATI in der Bibl. ind. (STENZLER). 
 BR2HANM.	376	-	==	3	BṚHANM.	BṚHANMANU, nach Citaten in verschiedenen juristischen Büchern(YOLLY). 
 BR2HASP.	377	-	==	3	BṚHASP.	BṚHASPATI, nach Citaten in verschiedenen jurischen Büchern (YOLLY). 
@@ -413,7 +413,7 @@ VET. (U. )	412	-	==	3	VET. (U. )	VETĀLAPAŃCA VIM̃ŚATIKĀ, herausgegeben von 
 VJUTP.	413	-	==	3	VYUTP.	VYUPATITI, ein Sanskrit-Tibetisches Wörterbuch aus dem TAŃJUR (SCHIEFNER). 
 VR2SHABH.	414	-	==	3	VṚṢABH.	VṚṢADĀNUJA im 3ten und 4ten Bande des Pandit (CAPPELLER). 
 WEBER, RA7MAT.	415	-	==	3	WEBER, RĀMAT.	WEBER'S Ausg. RĀMATĀPANIYOPANIṢAD. 
-WIND. SANG.	416	-	==	3	WIND. SANG.	FRIDERICI HENR. HUG. WINDIṢMANNI SANCARA sive de theologumenis Vedanticorum. 
+WIND. SANC.	416	-	==	3	WIND. SANC.	FRIDERICI HENR. HUG. WINDIṢMANNI SANCARA sive de theologumenis Vedanticorum. 
 BHA7M. V.	417	-	==	3	BHĀM. V.	BHĀMINIVILĀSA, Ausg. von ABELBERGAIGNER(CAPPELLER. ) 
 C2AM5K. VIG4.	418	-	==	4	ŚAM̃K. VIJ.	ŚAM̃KARAVIJAYA in der Bibl. ind. 
 CANTOR.	419	-	==	4	CANTOR.	CANTOR, Geschichte der Mathematik (WINDISCH) . 
@@ -428,10 +428,10 @@ RA7G4AN.	427	-	xx	4	RĀJAN.	13 nach der Ausg. von R. GARBE.
 SADDH. P.	428	-	==	4	SADDH. P.	SADDHARMAPUṆḌARIKA (KERN) . 
 SVAPNAK4(INTA7MAN2I)	429	-	xx	4	SVAPNAC(INTĀMAṆI)	(PISCHEL) . 
 VIRAM.	430	-	==	4	VIRAM.	VIRAMITRODAYA, Khadirapura 1815(STENZLER) . 
-ALAM5KA7RA(TNA7KARA)	431	-	xx	5	ALAM̃KĀRA(TNĀKARA)	des ŚOBHĀKARA, Deccan. Coll. Hdschr. No. 227 (PISCHER). 
+ALAM5KA7RAR	431	-	xx	5	ALAM̃KĀRAR	(ATNĀKARA) des ŚOBHĀKARA, Deccan. Coll. Hdschr. No. 227 (PISCHER). 
 ALAM5KA7RAS	432	-	xx	5	ALAM̃KĀRAS	(ARVASVA) von RUYYAKA, Deccan Coll. Hdschr. No. 231 (PISCHER). 
 ALAM5KA7RAT	433	-	xx	5	ALAM̃KĀRAT	(ILAKA), Hdschr. (AUFRECHT). 
-ALAM5A7KA7RAV	434	-	xx	5	ALAM̃ĀKĀRAV	(IMARŚIN) von JAYARATHA, Deccan Coll. Hdschr. No. 230 (PISCHER). 
+ALAM5KA7RAV	434	-	xx	5	ALAM̃KĀRAV	(IMARŚINĪ) von JAYARATHA, Deccan Coll. Hdschr. No. 230 (PISCHER). 
 ANARGHAR	435	-	xx	5	ANARGHAR	(ĀGHAVA), Calcutta Śaka 1782 (AUFRECHT). 
 ASAHA7JA	436	-	xx	5	ASAHĀYA	, ein Commentator des NĀRADA (YOLLY). 
 BAUDH.	437	-	xx	5	BAUDH.	(mit Angaben der Abschnitte) nach Mittheilungen von BÜHLER. 
@@ -442,17 +442,17 @@ BHAVISHJAP	441	-	xx	5	BHAVIṢYAP	(URĀṆA) Hdschr. (AUFRECHT).
 BHAVISHJOTT.P.	442	+	xx	5	BHAVIṢYOTT.P.	, auch nach Mittheilungen von AUFRECHT. 
 BURNELL, T.	443	+	==	5	BURNELL, T.	Classified Index to the Sanskrit Mss. in the Palace of Tanjore. By A. C. BURNELL. 
 C2A7C2VATA	444	+	==	5	ŚĀŚVATA	ŚĀŚVATA'S ANEKĀRTHASAMUCCAVA, herausgegeben von THEODOR ZACHARIAE. 
-C2A7KTA7N(ANDATARAM5GIN2I)	445	+	xx	5	ŚĀKTĀN(ANDATARAM̃GIṆI)	Hdschr. (AUFRECHT). 
+C2A7KTA7N	445	+	xx	5	ŚĀKTĀN	(ANDATARAM̃GIṆI) Hdschr. (AUFRECHT). 
 C2A7RN5G.	446	+	xx	5	ŚĀRÑG.	PADDH. , auch nach Mittheilungen von AUFRECHT. 
 C2IVA-P	447	-	xx	5	ŚIVA-P	(URĀṆA) (SK. , dschr. No. 126 in verzeichnis der Oxforder Handschriften (AUFRECHT). 
 C2RIMA7LA7M	448	-	xx	5	ŚRIMĀLĀM	(ĀHĀTMYA), Hdschr. (AUFRECHT). 
 DARPAD	449	-	xx	5	DARPAD	(ALANA) von KSBEMENDRA, Hdschr. (AUFRECHT). 
 DATTAKAC2	450	-	xx	5	DATTAKAŚ	(IROMAṆI), Calcutta 1867 (YOLLY). 
 DEVI7BHA7G	451	-	xx	5	DEVĪBHĀG	(AVATAPURĀṆA), Hdschr. (AUFRECHT). 
-DRAVJA	452	-	xx	5	DRAVYA	(UDDHITATTVA), Hdschr. (AUFRECHT). 
-GAN2ITA,K4ANDRAGR(AHA7DHIKA7RA)	453	+	xx	5	GAṆITA,CANDRAGR(AHĀDHIKĀRA)	(KERN). 
+DRAVJAC2	452	-	xx	5	DRAVYAŚ	(UDDHITATTVA), Hdschr. (AUFRECHT). 
+GAN2ITA,K4ANDRAGR	453	+	xx	5	GAṆITA,CANDRAGR	(AHĀDHIKĀRA) (KERN). 
 HARSHAK4	454	-	xx	5	HARṢAC	(1936), Bomb. Ausg. (KERN). 
-KA7C2IKH	455	-	xx	5	KĀŚIKH	(AṆḌA), HDSCHR. (AUFRECHT). 
+KA7C2I7KH	455	-	xx	5	KĀŚĪKH	(AṆḌA), HDSCHR. (AUFRECHT). 
 K4AMPAKA	456	-	==	5	CAMPAKA	Ueber das CAMPAKAŚREṢṬHIKATHĀNAKAM, die Geschichte vom Kaufmann CAMPAKA. Herausgegeben von A. WEBER in Sitzungsberichte der Königlich Preussischen Akademie der Wissenschaften zu Berlin. Yahrgang 1883. S. 567. fgg. 885. fgg. Vgl. Mélanges asiatiques tirés du Bulletin de l'Académie Impériale des Sciences de St. Pétersbourg. Tome IX, S. 75. fgg. 
 KATHA7RN2AVA	457	-	xx	5	KATHĀRṆAVA	, Hdschr. (AUFRECHT). 
 ka7tj	458	-	xx	5	kātj	(ĀYANA'S)KARM (APRADIPA) (STENZLER). 
@@ -460,7 +460,7 @@ KA7TJ	459	-	xx	5	KĀTY	(ĀYANA'S) PARIBH (ĀṢĀS) IN 'Zwölf Hymnen des Rigved
 KA7VJA7L	460	-	xx	5	KĀVYĀL	(OKALOCANA), Hdschr. (AUFRECHT). 
 KHAN2D2APR	461	-	xx	5	KHAṆḌAPR	(AŚASTI) im Pandit, Bed. 5 und 6 (AUFRECHT). 
 K4HA7NDOGJAP	462	-	xx	5	CHĀNDOGYAP	(ARIŚIṢṬA) nach Citaten in andern Werken (AUFRECHT). 
-KULA7RN2AVA,	463	-	xx	5	KULĀRṆAVA,	Hdschr. (AUFRECHT). 
+KULA7RN2AVA	463	-	xx	5	KULĀRṆAVA	, Hdschr. (AUFRECHT). 
 LEUMANN, Aup. Gl.	464	-	==	5	LEUMANN, Aup. Gl.	Glossar in. , Das Aupapātika Sūtra, herausgegeben von Dr. ERNST LEUMANN. 
 MATSJAP	465	-	xx	5	MATSYAP	(URĀṆA), Poona-Ausg. (AUFRECHT). 
 M. MÜLLER, Ren.	466	-	==	5	M. MÜLLER, Ren.	The Renaissanśe of Sanskrit Literature in M. MüLLER'S India what can it teach us? S. 281. fgg. Auch die vorangehenden Abschnitte werden so citirt. 
@@ -473,9 +473,9 @@ PRAKRIJA7K (AUMUDI), Hdschr. (AUFRECHT). RA7JENDR. Not.	472	-	==	5	PRAKRIYĀK (A
 R2ET	473	-	xx	5	ṚET	(ANTER), herausgegeben von BURNELL (STENZLER). 
 SADUKTIK	474	-	xx	5	SADUKTIK	(ARṆĀMṚTA) von ŚRIDHARADĀSA, Hdschr. (AUFRECHT). 
 SAM5KSHEPAC2	475	-	xx	5	SAM̃KṢEPAŚ	(AM̃KARAJAYA) von MĀDHAVA (AUFRECHT). 
-SARASVATIK	476	-	xx	5	SARASVATIK	(AṆṬHĀBHARAṆA), Hdschr. (AUFRECHT). 
+SARASVATI7K	476	-	xx	5	SARASVATĪK	(AṆṬHĀBHARAṆA), Hdschr. (AUFRECHT). 
 SCHIEFNER, TA7RAN.	477	-	==	5	SCHIEFNER, TĀRAN.	TĀRAŃTHA'S Geschichte des Buddhismus in Indien, aus den Tibetschen übersetzt von ANTON SCHIEFNER. 
-SUCHA7SHITA7V	478	-	xx	5	SUCHĀṢITĀV	(ALI) von VALLABHADEVA, Hdschr. (AUFRECHT). 
+SUBHA7SHITA7V	478	-	xx	5	SUBHĀṢITĀV	(ALI) von VALLABHADEVA, Hdschr. (AUFRECHT). 
 UTTAMAK4.	479	-	==	5	UTTAMAC.	Ueber das UTTAMACARIKATHĀNAKAM, die Geschichte vom prinzen Trefflichst in Sitzungsserichte der Kön der Kön. Pr. Akademie der Ww: zu Berlin 1884, No. XVII. 
 VA7MANAP	480	-	xx	5	VĀMANAP	(URĀṆA), Hdschr. (AUFRECHT). 
 VA7RA7HAP	481	-	xx	5	VĀRĀHAP	(URĀNA) , Hdschr. (YACOBI). 
@@ -495,8 +495,8 @@ NIDA7NAS	494	-	xx	6	NIDĀNAS	(ŪTRA) (A. WEBER).
 PARAMA7RTHA	495	-	xx	6	PARAMĀRTHA	(ASĀRA) (TH. AUFRECHT). 
 RUDRAT2A7LAM5KA7RAT2	496	-	xx	6	RUDRAṬĀLAM̃KĀRAṬ	(IPPAṆAKA, auch RUDRAṬAVYĀLAM̃KĀRAṬ. genannt) (R. PISCHEL. ) 
 SAHR2DAJA7LOKA	497	-	xx	6	SAHṚDAYĀLOKA	(R. PISCHEL). 
-SARASVATIK	498	-	xx	6	SARASVATIK	(AṆṬHĀBHARAṆA), Calcutta 1883 (CAPPELLER). 
+SARASVATI7K	498	-	xx	6	SARASVATĪK	(AṆṬHĀBHARAṆA), Calcutta 1883 (CAPPELLER). 
 SUBHA7SHITARATNABH	499	-	xx	6	SUBHĀṢITARATNABH	(ĀṆḌĀGĀRA) (TH. AUFRECHT). 
 TATTVAK	500	-	xx	6	TATTVAK	(AUMUDI) (H. Kern). 
 VA7GBH.	501	-	xx	6	VĀGBH.	(AṬA'S ALAM̃KĀRA), Calcutta 1883 (CAPPELLER). 
-WEBER,	502	-	xx	6	WEBER,	(BHAG) (AVATI). 
+WEBER	502	-	xx	6	WEBER	, (BHAG) (AVATI). 

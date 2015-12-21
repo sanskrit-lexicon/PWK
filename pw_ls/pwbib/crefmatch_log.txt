@@ -1,28 +1,36 @@
 502 records from pwbib1.txt
-2696 records from ../pw_dhaval/abbrvwork/abbrvoutput/sortedcrefs.txt
-18 known unused records removed from pwbib for purposes of matching
+2690 records from ../pw_dhaval/abbrvwork/abbrvoutput/sortedcrefs.txt
+26 known unused records removed from pwbib for purposes of matching
 Case 01: gan2a : im Gaṇapātha zu P. 
 Case 02: HARISV. : HARISVĀMIN. 
 Case 03: MAHA7B. : MAHĀBHĀṢYA, lith. in Benares. 
 Case 04: MAYR, Ind. Erb. : Das indische Erbrecht von AUREL MAYR, Wien 1873. 
-Case 05: BÜHLER, Rep. 1872-73 : BÜHLER, Report on Sanskrit Mss. 1872--73. 
-Case 06: Ind.Str. : WEBER, Indische Streifen. 
-Case 07: MAITR. PADDH. : PADDHATI ZU MAITR. S. , Hdschr. (V. SCHRÖDER). 
-Case 08: GAN2ITA,MADHJA7M(A7DHJA7JA) : (KERN). 
-Case 09: PRAG4A7PATI : , nach Citaten in verschiendenen juristischen Werken (YOLLY). 
-Case 10: SVAPNAK4(INTA7MAN2I) : (PISCHEL) . 
-Case 11: ALAM5KA7RAS : (ARVASVA) von RUYYAKA, Deccan Coll. Hdschr. No. 231 (PISCHER). 
-Case 12: C2RIMA7LA7M : (ĀHĀTMYA), Hdschr. (AUFRECHT). 
-Case 13: DEVI7BHA7G : (AVATAPURĀṆA), Hdschr. (AUFRECHT). 
-Case 14: GAN2ITA,K4ANDRAGR(AHA7DHIKA7RA) : (KERN). 
-Case 15: KHAN2D2APR : (AŚASTI) im Pandit, Bed. 5 und 6 (AUFRECHT). 
-Case 16: LEUMANN, Aup. Gl. : Glossar in. , Das Aupapātika Sūtra, herausgegeben von Dr. ERNST LEUMANN. 
-Case 17: VA7RA7HAP : (URĀNA) , Hdschr. (YACOBI). 
-Case 18: Bydragen : (tot de Taal-, Land-en Volkenkunde van Nederlandsch Indie) (H. KERN). 
+Case 05: NI7LAK. mit einer Zahl : NĪL. 
+Case 06: BÜHLER, Rep. 1872-73 : BÜHLER, Report on Sanskrit Mss. 1872--73. 
+Case 07: C2OBH. : COBHANAMUNI'S ŚOBHANASTUTAYAS in Z. d. d. m. G. 32, 509. fgg. (YACOBI). 
+Case 08: Ind.Str. : WEBER, Indische Streifen. 
+Case 09: MAITR. PADDH. : PADDHATI ZU MAITR. S. , Hdschr. (V. SCHRÖDER). 
+Case 10: GAN2ITA,MADHJA7M(A7DHJA7JA) : (KERN). 
+Case 11: KA7TJ. C2RA7DDHAK. : KĀTYĀYANA'S ŚRĀDDHAKALPASŪTRA (STENZLER). 
+Case 12: PRAG4A7PATI : , nach Citaten in verschiendenen juristischen Werken (YOLLY). 
+Case 13: KIELHORN, Rep. : Report on the search for Sanskrit Mss. in the Bombay Presidency, during the year 1880-81. by F. KIELHORN(ROTH) . 
+Case 14: SVAPNAK4(INTA7MAN2I) : (PISCHEL) . 
+Case 15: ALAM5KA7RAS : (ARVASVA) von RUYYAKA, Deccan Coll. Hdschr. No. 231 (PISCHER). 
+Case 16: C2RIMA7LA7M : (ĀHĀTMYA), Hdschr. (AUFRECHT). 
+Case 17: DEVI7BHA7G : (AVATAPURĀṆA), Hdschr. (AUFRECHT). 
+Case 18: KA7VJA7L : (OKALOCANA), Hdschr. (AUFRECHT). 
+Case 19: KHAN2D2APR : (AŚASTI) im Pandit, Bed. 5 und 6 (AUFRECHT). 
+Case 20: K4HA7NDOGJAP : (ARIŚIṢṬA) nach Citaten in andern Werken (AUFRECHT). 
+Case 21: LEUMANN, Aup. Gl. : Glossar in. , Das Aupapātika Sūtra, herausgegeben von Dr. ERNST LEUMANN. 
+Case 22: VA7MANAP : (URĀṆA), Hdschr. (AUFRECHT). 
+Case 23: VA7RA7HAP : (URĀNA) , Hdschr. (YACOBI). 
+Case 24: Bydragen : (tot de Taal-, Land-en Volkenkunde van Nederlandsch Indie) (H. KERN). 
+Case 25: KA7VJA7L : (AM̃KĀRA des RUDRAṬA) (R. PISCHEL). 
+Case 26: SAHR2DAJA7LOKA : (R. PISCHEL). 
 END OF REMOVALS
 --------------------------------------------------------------------------------
 
-484 After adjustment for unused records from pwbib1.txt
+476 After adjustment for unused records from pwbib1.txt
 bib duplicate abbrv: DHU7RTAS 082 322
 bib duplicate abbrv: HA7SJ 113 335
 bib duplicate abbrv: KAP 137 343
@@ -37,10 +45,9 @@ bib duplicate abbrv: BHAVISHJOTT.P 036 442
 bib duplicate abbrv: HARSHAK4 112 454
 bib duplicate abbrv: VASISHT2HA 411 482
 bib duplicate abbrv: C2A7K 051 488
-bib duplicate abbrv: KA7VJA7L 460 492
-bib duplicate abbrv: SARASVATIK 476 498
+bib duplicate abbrv: SARASVATI7K 476 498
 bib duplicate abbrv: VA7GBH 273 501
-467 pwbib records, after removing duplicates
-427 matching abbreviations
-73264 total abbreviation instances from crefs
-63748 of these accounted for by matching abbreviations
+460 pwbib records, after removing duplicates
+445 matching abbreviations
+73256 total abbreviation instances from crefs
+63902 of these accounted for by matching abbreviations
