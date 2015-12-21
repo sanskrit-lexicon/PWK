@@ -24,6 +24,7 @@
 ¯BHA7M.V@Bal@Bal@78991:¯BHA7M.V:n:
 ¯AGNI-P@udDAra@udDAra/@19075:¯AGNI-P:n:
 ¯DAC2AK.(1925)@ganDagrAhin@ganDagrAhin@34486:¯DAC2AK.(1925):n:
+¯BR2HASP@dAnaka@dAnaka@49642:¯BR2HASP:n:
 ¯Spr@aMSuka@aMSuka@22:¯Spr:n:
 ¯KATHA7RN2AVA@haRqaka@haRqaka@133416:¯KATHA7RN2AVA:n:
 ¯C2RI7P@Amara@Amara@15158:¯C2RI7P:n:
@@ -47,6 +48,7 @@
 ¯KAUC2@aYj@aYj@1430:¯KAUC2:n:
 ¯HEMA7DRI@uttarASA@uttarASA@18266:¯HEMA7DRI:n:
 ¯BHAG@akuSala@akuSala@177:¯BHAG:n:
+¯DHU7RTAN@atisuKa@atisuKa@2142:¯DHU7RTAN:n:
 ¯K4AKR@anubanDya@anubanDya@4656:¯K4AKR:n:
 ¯KAT2HOP@i@i@16624:¯KAT2HOP:n:
 ¯AIT.A7R@ac@ac@1095:¯AIT.A7R:n:
@@ -63,7 +65,6 @@
 ¯MAITRJUP@aGrAtar@aGrAtar@865:¯MAITRJUP:n:
 ¯NJA7JAS@atIndriyatva@atIndriyatva@2183:¯NJA7JAS:n:
 ¯MA7N.C2R@jIvataRqula@jIva/taRqula@42983:¯MA7N.C2R:n:
-¯DHU7RTAN@atisuKa@atisuKa@2142:¯DHU7RTAN:n:
 ¯KA7N2D2@akalmaza@akalmaza@113:¯KA7N2D2:n:
 ¯VA7MANA@akzarayamaka@akzarayamaka@320:¯VA7MANA:n:
 ¯C2ULBAS@aMsa@a/Msa@35:¯C2ULBAS:n:
@@ -82,9 +83,11 @@
 ¯KSHITI7C2@udayarAya@udayarAya@18730:¯KSHITI7C2:n:
 ¯VP@akfzwapacya@akfzwapacya/@208:¯VP:n:
 ¯VS@akzI@akzI@373:¯VS:n:
+¯SCHIEFNER,TA7RAN@mahAvihAravAsin@mahAvihAravAsin@85012:¯SCHIEFNER,TA7RAN:n:
 ¯C2AT.BR@akarRa@a/karRa@93:¯C2AT.BR:n:
 ¯C2UKRAN@nAlAstra@nAlAstra@58071:¯C2UKRAN:n:
 ¯MANTRABR@aRujaNGa@aRujaNGa@1540:¯MANTRABR:n:
+¯WILSON,Sel.Spec@jAmadagnyajaya@jAmadagnyajaya@42582:¯WILSON,Sel.Spec:n:
 ¯NIRN2AJAS@kukuRqaka@kukuRqaka@28130:¯NIRN2AJAS:n:
 ¯G4A7BA7LOP@yaTAjAtarUpaDara@yaTAjAtarUpaDara@89822:¯G4A7BA7LOP:n:
 ¯A7RUN2.UP@amantravant@amantravant@8103:¯A7RUN2.UP:n:
@@ -98,6 +101,7 @@
 ¯PAN4K4AT.ed.orn@antaHprakfti@antaHprakfti@5176:¯PAN4K4AT.ed.orn:n:
 ¯TS@aMSaBU@aMSaBU/@14:¯TS:n:
 ¯UG4G4VAL@akzRa@akzRa@392:¯UG4G4VAL:n:
+¯WIND.SANC@paritfptatva@paritfptatva@63851:¯WIND.SANC:n:
 ¯C2ATR@upamAnavant@upamAnavant@19814:¯C2ATR:n:
 ¯SUBHA7SHITARATNABH@viSAlay@viSAlay@104578:¯SUBHA7SHITARATNABH:n:
 ¯CANTOR@mahAkzOhiRI@mahAkzOhiRI@84216:¯CANTOR:n:
@@ -132,6 +136,7 @@
 ¯J.R.A.S@aparinizWAna@aparinizWAna@6139:¯J.R.A.S:n:
 ¯R2V.PRA7T@akftasaMhita@akftasaMhita@191:¯R2V.PRA7T:n:
 ¯WISE@amlADyuzita@amlADyuzita@8689:¯WISE:n:
+¯NR2S.UP@aprARayitavya@aprARayitavya@6974:¯NR2S.UP:n:
 ¯KAP@acAkzuza@acAkzuza@1122:¯KAP:n:
 ¯OPP.CAT@jijYAsAdarpaRa@jijYAsAdarpaRa@42767:¯OPP.CAT:n:
 ¯KIR@anatiSayanIya@anatiSayanIya@3286:¯KIR:n:
@@ -150,6 +155,7 @@
 ¯GOLA7DHJ@anirudDa@anirudDa@4125:¯GOLA7DHJ:n:
 ¯C2IVA-P@SAstrika@SAstrika@112045:¯C2IVA-P:n:
 ¯BHOG4A-K4AR@apakoSa@apakoSa@5825:¯BHOG4A-K4AR:n:
+¯HANUM.UP@kArkaSeya@kArkaSeya@26893:¯HANUM.UP:n:
 ¯L.K@UQaraTa@*UQaraTa@20975:¯L.K:n:
 ¯MATSJAP@rakzaHpAla@rakzaHpAla@91863:¯MATSJAP:n:
 ¯VISHN2US@kAzAyin@kAzAyin@27606:¯VISHN2US:n:
@@ -160,6 +166,7 @@
 ¯LA7T2J@acazAla@acazAla@1121:¯LA7T2J:n:
 ¯BHARAT2AKA@raNkaka@raNkaka@91975:¯BHARAT2AKA:n:
 ¯PARA7C2@ucCizwita@ucCizwita@17825:¯PARA7C2:n:
+¯APARA7RKA@patitatva@patitatva@62510:¯APARA7RKA:n:
 ¯SOMAKARMAPR@Damitra@Damitra@54585:¯SOMAKARMAPR:n:
 ¯H@akalkana@*akalkana@110:¯H:n:
 ¯JA7G4N4@akUwa@a/kUwa@180:¯JA7G4N4:n:
@@ -173,7 +180,6 @@
 ¯HAM5SOP@Kedana@Kedana@33902:¯HAM5SOP:n:
 ¯Beitr.z.K.d.ig.Spr@unmAdayantI@unmAdayantI@19337:¯Beitr.z.K.d.ig.Spr:n:
 ¯DEC2I7N@Kalla@Kalla@33638:¯DEC2I7N:n:
-¯BR2HASP@dAnaka@dAnaka@49642:¯BR2HASP:n:
 ¯C2KDR@amaNgalya@amaNgalya@8064:¯C2KDR:n:
 ¯LAGHUK@jalajAkzI@*jalajAkzI@42025:¯LAGHUK:n:
 ¯NIGH.PR@aNgacaya@*aNgacaya@928:¯NIGH.PR:n:
@@ -193,6 +199,7 @@
 ¯AINSLIE@kAkamArin@kAkamArin@26037:¯AINSLIE:n:
 ¯NI7LAK@anukarza@anukarza@4270:¯NI7LAK:n:
 ¯Cat.NW.PR@adButaviveka@adButaviveka@2565:¯Cat.NW.PR:n:
+¯ROXB@ajamoda@ajamoda@1262:¯ROXB:n:
 ¯Bibl.ind@uttIrRavikfti@uttIrRavikfti@18322:¯Bibl.ind:n:
 ¯A7RJABH@anAdyanta@anAdyanta@3883:¯A7RJABH:n:
 ¯PRASANNAR@ac@ac@1095:¯PRASANNAR:n:
@@ -204,6 +211,7 @@
 ¯PA7R.GR2HJ@akftArGa@akftArGa@194:¯PA7R.GR2HJ:n:
 ¯DH.V@aSanAy@aSanAy@11476:¯DH.V:n:
 ¯RASENDRAK4@tintiqIPala@tintiqIPala@45757:¯RASENDRAK4:n:
+¯MAHA7BH.(K.)@arTarUpa@arTarUpa@9479:¯MAHA7BH.(K.):n:
 ¯C2A7N2D2@antarAla@antarAla@5255:¯C2A7N2D2:n:
 ¯VARA7H.JOGAJ@ABizeka@ABizeka@15091:¯VARA7H.JOGAJ:n:
 ¯GARBHOP@antarAgni@antarAgni@5240:¯GARBHOP:n:
@@ -251,10 +259,12 @@
 ¯Verz.d.Oxf.H@akarmaRya@*akarmaRya@101:¯Verz.d.Oxf.H:n:
 ¯M.MÜLLER,Ren@ratnasiMha@ratnasiMha@92446:¯M.MÜLLER,Ren:n:
 ¯BÜHLER,Rep@palyakaTApuzpAYjali@palyakaTApuzpAYjali@65023:¯BÜHLER,Rep:n:
+¯GAN2ITA,K4ANDRAGR@mah@ma/h@84046:¯GAN2ITA,K4ANDRAGR:n:
 ¯GOVARDH@pAlijvara@pAlijvara@66576:¯GOVARDH:n:
 ¯Ind.St@aMSaka@aMSaka@7:¯Ind.St:n:
 ¯DA7J@ruh@ruh@94617:¯DA7J:n:
 ¯A7C2V.GR2HJ.PARIC2@AkfzRIyA@AkfzRIyA@13481:¯A7C2V.GR2HJ.PARIC2:n:
+¯KA7C2I7KH@sASra@sASra@124730:¯KA7C2I7KH:n:
 ¯GAN2ITA,SU7RJAGR@bARa@bARa/@76609:¯GAN2ITA,SU7RJAGR:n:
 ¯PADDH@Ezwika@Ezwika@22590:¯PADDH:n:
 ¯ALAM5KA7RAT@rAjahaMsIy@rAjahaMsIy@93587:¯ALAM5KA7RAT:n:
@@ -281,10 +291,12 @@
 ¯BHA7SHA7P@anaDyakza@anaDyakza@3313:¯BHA7SHA7P:n:
 ¯KR2SHIS@aNgavyaTA@aNgavyaTA@974:¯KR2SHIS:n:
 ¯VA7STUV@kapota@kapo/ta@24326:¯VA7STUV:n:
+¯SARASVATI7K@yuvarAja@yuvarAja@91199:¯SARASVATI7K:n:
 ¯ALAM5KA7RAC2@samuttejana@samuttejana@120627:¯ALAM5KA7RAC2:n:
 ¯WILSON,Sel.W@AvaSyakabfhadvftta@AvaSyakabfhadvftta@15952:¯WILSON,Sel.W:n:
 ¯C2IC2@agrakara@agrakara@726:¯C2IC2:n:
 ¯VA7LAKH@ayAman@a/yAman@8806:¯VA7LAKH:n:
+¯SUBHA7SHITA7V@viDuray@viDuray@102971:¯SUBHA7SHITA7V:n:
 ¯AIT.BR@akzI@akzI@373:¯AIT.BR:n:
 ¯MAGAVJ@kzitisura@kzitisura@32527:¯MAGAVJ:n:
 ¯JOGAT.UP@aDobindu@aDobindu@3012:¯JOGAT.UP:n:
@@ -305,6 +317,7 @@
 ¯VAG4RAK4K4H@DyA@DyA@55874:¯VAG4RAK4K4H:n:
 ¯DAC2AK@apASraya@apASraya@6467:¯DAC2AK:n:
 ¯BRAHMAS@atiSaya@atiSaya@2069:¯BRAHMAS:n:
+¯HAUG,Acc@ATAyinI@ATAyinI@14326:¯HAUG,Acc:n:
 ¯BRAHMOP@pOkkasa@pOkkasa@69978:¯BRAHMOP:n:
 ¯NJ.K@anavasTiti@anavasTiti@3733:¯NJ.K:n:
 ¯VIC2VA@ca@*ca@38181:¯VIC2VA:n:
@@ -371,6 +384,7 @@
 ¯R@akaru¯Ra@akaru¯Ra@90:¯R:n:
 ¯KA7RIKA7@navakArikA@*navakArikA@57074:¯KA7RIKA7:n:
 ¯A7RSH.BR@aYjas@a/Yjas@1457:¯A7RSH.BR:n:
+¯PRAKRIJA7K@rABasika@*rABasika@93847:¯PRAKRIJA7K:n:
 ¯AMR2T.UP@atijAgara@atijAgara@1716:¯AMR2T.UP:n:
 ¯Cat.KIELH@tfcaBAskara@tfcaBAskara@46664:¯Cat.KIELH:n:
 ¯GOLA7DHJ.BHUV@kiMnaravarza@kiMnaravarza@27865:¯GOLA7DHJ.BHUV:n:
@@ -388,6 +402,7 @@
 ¯MÜLLER,SL@nizkAraRa@nizkAraRa@60109:¯MÜLLER,SL:n:
 ¯OLD@vaSa@va/Sa@99221:¯OLD:n:
 ¯KARMAPR@ovilI@ovilI@22702:¯KARMAPR:n:
+¯LI7LA7V@abaDA@abaDA@7070:¯LI7LA7V:n:
 ¯MUN2D2.UP@ativAdin@ativAdin@2022:¯MUN2D2.UP:n:
 ¯K4ARAKA@agnyutpAta@agnyutpAta@719:¯K4ARAKA:n:
 ¯NA7GA7N@akAruRika@akAruRika@138:¯NA7GA7N:n:
@@ -400,9 +415,11 @@
 ¯A7C2V.C2R@aNkaDAraRA@aNkaDAraRA@874:¯A7C2V.C2R:n:
 ¯VIRAM@savfdDika@savfdDika@122579:¯VIRAM:n:
 ¯LOKAPR@cIraka@cIraka@40364:¯LOKAPR:n:
+¯MA7N2D2.UP@avyavahArya@avyavahArya@11392:¯MA7N2D2.UP:n:
 ¯VJUTP@kulaSulka@*kulaSulka@29200:¯VJUTP:n:
 ¯KA7M.NI7TIS@atuzwa@atuzwa@2196:¯KA7M.NI7TIS:n:
 ¯JOLLY,Schuld@aprakfti@aprakfti@6691:¯JOLLY,Schuld:n:
+¯WEBER,Nax@aSlIlanAman@aSlIlanAman@11781:¯WEBER,Nax:n:
 ¯PRAB@atikazwa@atikazwa@1637:¯PRAB:n:
 ¯DHANV@anDaka@anDaka@5499:¯DHANV:n:
 ¯LALIT@akzaRa@akzaRa@262:¯LALIT:n:
@@ -412,6 +429,7 @@
 ¯VOP@anantarita@a/nantarita@3385:¯VOP:n:
 ¯SU7RJAD@Adivaktar@Adivaktar@14467:¯SU7RJAD:n:
 ¯PRA7JAC2K4ITTAT@atibAla@atibAla@1888:¯PRA7JAC2K4ITTAT:n:
+¯PRA7JAC2K4ITTAV@saMjYapana@saMjYa/pana@117962:¯PRA7JAC2K4ITTAV:n:
 ¯SU7RJAS@aMSuvimarda@aMSuvimarda@33:¯SU7RJAS:n:
 ¯ZACH.Beitr@rajoharaRa@*rajoharaRa@92137:¯ZACH.Beitr:n:
 ¯KAIVALJOP@parAmfta@parAmfta@63549:¯KAIVALJOP:n:
