@@ -1,0 +1,35 @@
+; pwbib_unused.txt
+This file contains the abbreviations of pwbib that are believed to be
+unused in the literary citations of pw.txt.
+Ref: https://github.com/sanskrit-lexicon/PWK/issues/22
+
+21 MAHA7B
+22 C2RIMA7LA7M
+26 Bydragen 
+28 HARISV
+29 gan2a
+33 SVAPNAK4(INTA7MAN2I) 
+14 LEUMANNA,Aup.Gl 
+PWK#20
+38 VA7RA7HAP
+41 PRAG4A7PATI
+43 MAITR.PADDH
+51 KHAN2D2APR
+59 ALAM5KA7RAS
+PWK#21
+65 BÜHLER,Rep.1872-73
+66 DEVI7BHA7G
+76 DEVATA7DHJ.BRA7HM 
+81 Ind.Str.
+90 GAN2ITA,MADHJA7M(A7DHJA7JA) 
+90 GAN2ITA,K4ANDRAGR(AHA7DHIKA7RA) 
+109 KIELHORN,Rep
+PWK#22
+91 KA7TJ.C2RA7DDHAK
+98 VA7MANAP
+116 C2OBH
+119 NI7LAK.miteinerZahl 
+122 SAHR2DAJA7LOKA
+123 KA7VJA7L
+... K4HA7NDOGJAP   Added by ejf.
+NI7LAK.miteinerZahl

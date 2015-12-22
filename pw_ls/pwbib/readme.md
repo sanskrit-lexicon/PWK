@@ -32,3 +32,6 @@ Some details discussed in https://github.com/sanskrit-lexicon/PWK/issues/14
  match pwbib1.txt to sortedcrefs.txt
 python crefmatch.py pwbib1.txt ../pw_dhaval/abbrvwork/abbrvoutput/sortedcrefs.txt  crefmatch.txt
 
+
+**pwbib_unused.txt**  Work file containing abbreviations of pwbib that 
+  are believed to be unused in the literary citations of pw.txt.
