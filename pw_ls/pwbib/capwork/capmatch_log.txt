@@ -1,0 +1,104 @@
+502 records from ../pwbib1.txt
+2662 records from ../../pw_dhaval/abbrvwork/abbrvoutput/sortedcrefs.txt
+26 known unused records removed from pwbib for purposes of matching
+Case 01: gan2a : im Gaṇapātha zu P. 
+Case 02: HARISV. : HARISVĀMIN. 
+Case 03: MAHA7B. : MAHĀBHĀṢYA, lith. in Benares. 
+Case 04: MAYR, Ind. Erb. : Das indische Erbrecht von AUREL MAYR, Wien 1873. 
+Case 05: NI7LAK. mit einer Zahl : NĪL. 
+Case 06: BÜHLER, Rep. 1872-73 : BÜHLER, Report on Sanskrit Mss. 1872--73. 
+Case 07: C2OBH. : COBHANAMUNI'S ŚOBHANASTUTAYAS in Z. d. d. m. G. 32, 509. fgg. (YACOBI). 
+Case 08: Ind.Str. : WEBER, Indische Streifen. 
+Case 09: MAITR. PADDH. : PADDHATI ZU MAITR. S. , Hdschr. (V. SCHRÖDER). 
+Case 10: GAN2ITA,MADHJA7M(A7DHJA7JA) : (KERN). 
+Case 11: KA7TJ. C2RA7DDHAK. : KĀTYĀYANA'S ŚRĀDDHAKALPASŪTRA (STENZLER). 
+Case 12: PRAG4A7PATI : , nach Citaten in verschiendenen juristischen Werken (YOLLY). 
+Case 13: KIELHORN, Rep. : Report on the search for Sanskrit Mss. in the Bombay Presidency, during the year 1880-81. by F. KIELHORN(ROTH) . 
+Case 14: SVAPNAK4(INTA7MAN2I) : (PISCHEL) . 
+Case 15: ALAM5KA7RAS : (ARVASVA) von RUYYAKA, Deccan Coll. Hdschr. No. 231 (PISCHER). 
+Case 16: C2RIMA7LA7M : (ĀHĀTMYA), Hdschr. (AUFRECHT). 
+Case 17: DEVI7BHA7G : (AVATAPURĀṆA), Hdschr. (AUFRECHT). 
+Case 18: KA7VJA7L : (OKALOCANA), Hdschr. (AUFRECHT). 
+Case 19: KHAN2D2APR : (AŚASTI) im Pandit, Bed. 5 und 6 (AUFRECHT). 
+Case 20: K4HA7NDOGJAP : (ARIŚIṢṬA) nach Citaten in andern Werken (AUFRECHT). 
+Case 21: LEUMANN, Aup. Gl. : Glossar in. , Das Aupapātika Sūtra, herausgegeben von Dr. ERNST LEUMANN. 
+Case 22: VA7MANAP : (URĀṆA), Hdschr. (AUFRECHT). 
+Case 23: VA7RA7HAP : (URĀNA) , Hdschr. (YACOBI). 
+Case 24: Bydragen : (tot de Taal-, Land-en Volkenkunde van Nederlandsch Indie) (H. KERN). 
+Case 25: KA7VJA7L : (AM̃KĀRA des RUDRAṬA) (R. PISCHEL). 
+Case 26: SAHR2DAJA7LOKA : (R. PISCHEL). 
+END OF REMOVALS
+--------------------------------------------------------------------------------
+
+476 After adjustment for unused records from ../pwbib1.txt
+48 pwbib0 cases with lower-case letters in abbreviation
+Case 01: ANUKRAM. zu R2V. : ANUKRAMAṆICĀ zu ṚV. im Comm. SĀYAṆA'S. 
+Case 02: Beitr. z. K. d. ig. Spr. : Beiträge zur Kunde der indogermanischen Sprachen. 
+Case 03: BENF. Chr. : BENFEY'S Chrestomathie. 
+Case 04: Bibl.ind. : Bibliotheca indica. 
+Case 05: BÜHLER, Rep. : Detailed Report of a Tour in search of Sanskrit Mss. made. in Kāsmir, Rajputana, and Central India. By G. BÜHLER, Bombay 1877. 
+Case 06: BURN. Intr. : BURNOUF, Introdution a l'historie du Buddhisme Indien. 
+Case 07: Cat.C.PR. : A Catalogue of S. Mss. existing in the central provinces. Ed. by F. KIELHORN. Nagpur 1874(ROTH). 
+Case 08: Cat.NW.PR. : A Catalogue of S. Mss. in private libarties of the North-Western Provinves. I. Benares 1874 (ROTH). 
+Case 09: Chr. : BÖHTLINGK'S Sanskrit-Chresthomathie, 2te Aufl. 
+Case 10: COLEBR.Alg. : COLEBROOKE, Algebra with Arithmetic and Mensuration u. s. w. London 1817. 
+Case 11: COLEBR.Misc.Ess. : Miscellaneous Essays by H. T. COLEBROOKE. London. 1837. 
+Case 12: H.an. : HEMACANDRA'S ANEKĀRTHASAM̃GRAHA. 
+Case 13: HAUG, Acc. : HAUG, Ueber das Wesen und den Werth des vedischen Accents. München 1874. 
+Case 14: HEM.Pr.Gr. ed. Bomb. : HEMACANDRA's Prākrit-Grammatik, Bombay (STENZLER) 
+Case 15: HIT. ed. JOHNS. : HITOPADEŚA, Ausg. von YOHNSON, Lonon und Hertford 1847. 
+Case 16: Ind.Antiq. : Indian Antiquary (ROTH). 
+Case 17: Ind.St. : Indische Studien von WEBER. 
+Case 18: JOLLY,Schuld. : YOLLY, ueber das indische Schuldrecht, in Müchener Philos. Philol. Abh. 1877, S. 287. fgg. 
+Case 19: Lot. de la b. l. : BURNOUF, Lotus de la bonne loi. 
+Case 20: Mat. med. : The Materia medica of the Hindus compiled from Sankr. medical works by UDOY CHAND DUTT Civil Medicinal officer. With a Glossary of Indian Plants by GE. KING. Superint. R. Bot. Garden Calc. and the author. Calcutta 1877. 
+Case 21: MED. avj. : AVYAYĀNEKĀRTHAVARGA am Ende des MEDINIKOŚA. 
+Case 22: PISCHEL, de Gr. pr. : PISCHEL, de Grammaticis prācriticis. Vratislaviae 1874. 
+Case 23: Procc. A. S. B. : Proceedings of the Asiatic Society of Bengal. 
+Case 24: Spr. : Indische Sprüche, herausg. von O. BÖHTLINGK. 2te Aufl. Von 7614 an in Melanges asiatiques, T. VIII, S. 217. fgg. Ebendaselbst S. 203. fgg. stehen die durch "zu Spr. " bezeichneten Varianten. 
+Case 25: Va7rtt. : Vārttika. 
+Case 26: Verz. d. B. H. : WEBER, Verzeichniss der Berliner Handschriften. 
+Case 27: Verz. d. Oxf. H. : AUFRECHT, Verzeichniss der Oxforder Handschriften. 
+Case 28: WEBER, Nax. : WEBER, Die vedischen Nachrichten von den naxatra. Berlin 1860. 
+Case 29: WILSON, Sel. W. : Select Works of H. H. WILSON. 
+Case 30: Z. d. d. m. G. : Zeitschrift der deutschen morgenlandischen Gesellschaft 
+Case 31: Cat. GUJAR. : A Catalogue of Sanskrit Manuscripts contained in the private libraries of GUYARĀT, KĀṬHIĀVĀD, KATCHCHH, SINDH and KHĀDE'S. Compeld unter the superintendence of G. BÜHLER (ROTH). 
+Case 32: Cat. WILLMOT : A Catalogue of Sanskrit Mss. existing in the central provinces, prepared by order of E. WILLMOT Esq. (ROTH). 
+Case 33: CUNNINGHAM, Arch. Surv. : CUNNINGHAM, Archaeological Survey of India. 
+Case 34: J.A.S.Beng. : Yournal of the Asiatic Society of Bengal. Part I. (History, Antiquities, &c. ). 
+Case 35: Mon. d. B. A. : Monatsberichte der Königlich Preussichen Akademie der Wissenschaften in Berlin. 
+Case 36: PAN4K4AT. ed. orn. : KOSEGARTEN, PANITSCHATANTRUM sive quinque partitum de moribus exponens. Pars secunda, textum sanscritum, ornatiorem tenens. 
+Case 37: WEBER, Lit. : Akademische Vorlesung über Indische Literaturgeschichte. Von ALBRECHT WEBER. Zweite vermehrte Auflage. 
+Case 38: WILSON, Sel. Spec. : WILSON, Select Specimens of the Theatre of the Hindus. 
+Case 39: Cat. ALLAR. : A Catalogue of Sanscrit Manuscripts in Oudh (ROTH). 
+Case 40: Cat. KIELH. : Cat. C. PR. 
+Case 41: EITEL, Chin. B. : Hand-Book for the student of Chinese Buddhism, by Rev. E. l. EITEL. London, 1870. 
+Case 42: HAEB. Anth. : HAEBERLIN'S Anthology, Calcutta 1847. 
+Case 43: Berl. Mon. : Monatsbericht der Königlich Preussischen Akademie der Wissenschaften zu Berlin. 
+Case 44: ka7tj : (ĀYANA'S)KARM (APRADIPA) (STENZLER). 
+Case 45: M. MÜLLER, Ren. : The Renaissanśe of Sanskrit Literature in M. MüLLER'S India what can it teach us? S. 281. fgg. Auch die vorangehenden Abschnitte werden so citirt. 
+Case 46: VIKR. dra7v. : KĀLIDĀSA'S VIKRAMORVAŚIYAM nach drāvidischen Handschriften, herausgegeben von RICHARD PISCHERD in. , Monatsbericht der Königlich Preussischen Akademie der Wissenschaften zu Berlin"1875, S. 609. fgg. 
+Case 47: ZACH. Beitr. : Beiträge zur indischen Lexicographie von THEODOR ZACHARIAE. 
+Case 48: Z. f. d. K. d. M. : Zeitschrift für die Kunde des Morgenlandes. 
+END OF REMOVALS
+--------------------------------------------------------------------------------
+
+428 After removal of non-capitalized abbreviations
+bib duplicate abbrv: DHU7RTAS 082 322
+bib duplicate abbrv: HA7SJ 113 335
+bib duplicate abbrv: KAP 137 343
+bib duplicate abbrv: KA7T2H 141 346
+bib duplicate abbrv: KA7D 130 389
+bib duplicate abbrv: K4AURAP 147 394
+bib duplicate abbrv: KUMA7RAS 160 396
+bib duplicate abbrv: MBH 189 398
+bib duplicate abbrv: RA7G4AN 229 427
+bib duplicate abbrv: BAUDH 308 437
+bib duplicate abbrv: BHAVISHJOTT.P 036 442
+bib duplicate abbrv: HARSHAK4 112 454
+bib duplicate abbrv: VASISHT2HA 411 482
+bib duplicate abbrv: C2A7K 051 488
+bib duplicate abbrv: SARASVATI7K 476 498
+bib duplicate abbrv: VA7GBH 273 501
+412 pwbib records, after removing duplicates
+173 records written to capmatch.txt
