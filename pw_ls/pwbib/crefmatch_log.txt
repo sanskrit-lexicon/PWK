@@ -1,5 +1,5 @@
 502 records from pwbib1.txt
-2690 records from ../pw_dhaval/abbrvwork/abbrvoutput/sortedcrefs.txt
+2662 records from ../pw_dhaval/abbrvwork/abbrvoutput/sortedcrefs.txt
 26 known unused records removed from pwbib for purposes of matching
 Case 01: gan2a : im Gaṇapātha zu P. 
 Case 02: HARISV. : HARISVĀMIN. 
@@ -49,5 +49,5 @@ bib duplicate abbrv: SARASVATI7K 476 498
 bib duplicate abbrv: VA7GBH 273 501
 460 pwbib records, after removing duplicates
 445 matching abbreviations
-73256 total abbreviation instances from crefs
-63902 of these accounted for by matching abbreviations
+73111 total abbreviation instances from crefs
+64092 of these accounted for by matching abbreviations
