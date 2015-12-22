@@ -33,19 +33,18 @@ $hrefyear = array("2014","2014","2014","2014","2014","2014","2014","2014","2014"
 $srno = 1;
 $top1 = "<h1>PW - Abbreviations for checking.</h1><p>Note - Check the links and see whether the reference is correct or false. <br/>Open finalabbrv.txt file. When the reference is incorrect, correct the AS data i.e. the first entry before '@'. If the reference is correct, place a ';' before it.</p><p>We would separate those entries into change.txt and nochange.txt by `postprocess.py`.</p><p>Please see <a href='https://github.com/sanskrit-lexicon/CORRECTIONS/tree/master/pw_dhaval'>this</a> for the code and readme.</p><table>";
 $top2 = "<h1>PW - Literary resources</h1><p>Note - Check the links and see whether the reference is correct or false. <br/>Copy paste the content of cbisub.txt or cmbsub.txt to some file and save it. Open that file. Correct the readings in that file as per <a href='https://github.com/sanskrit-lexicon/CORRECTIONS/issues/146#issuecomment-163463468'>Standard Convention</a><table> and submit on <a href='https://github.com/sanskrit-lexicon/PWK/issues'>PWK repository</a>";
-if ($topcontent===1) {
+if ($topcontent==='1') {
 	fputs($file,$top1);	
 }
-elseif ($topcontent===2) {
+elseif ($topcontent==='2') {
 	fputs($file,$top2);
 }
-#fputs($file,$top2);
 for ($i=0;$i<count($input);$i++)
 {
-	if ($topcontent===1) {
+	if ($topcontent==='1') {
 	decoratehtml($input[$i],$file,"PW");
 	}
-	elseif ($topcontent===2) {
+	elseif ($topcontent==='2') {
 	decoratehtml1($input[$i],$file,"PW");
 	}
 	$srno++;
