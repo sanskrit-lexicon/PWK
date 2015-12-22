@@ -1,0 +1,14 @@
+; pwbib_new.txt
+This file contains the literary sources that appear in pw.txt, but 
+that have no corresponding entry in the bibliographies of pw. (pwbib).
+The format is currently informal.
+
+Ref: https://github.com/sanskrit-lexicon/PWK/issues/24
+
+DAMAJANTI7K  (6 times)
+UTPALA (90)
+C2A7N5KH.A7R (1)
+NR2S.TA7P.UP. (3)
+NR2S.UP. (32)
+SIDDH.K.ed.TA7R. (1)
+R2SHIMAN2D2ALASTOTRA (1)
