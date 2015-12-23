@@ -41,7 +41,7 @@ if __name__=="__main__":
 		cref = getcref(abbrv,creflist)
 		[ls,k1,k2,lnum,count] = cref.split('@')
 		output.append((ls,k1,k2,lnum,count))
-	output = sorted(output, key=lambda x:x[4], reverse=True)
+	output = sorted(output, key=lambda x:x[4], reverse=True) # See https://github.com/sanskrit-lexicon/PWK/issues/42 for logic
 	for (ls,k1,k2,lnum,count) in output:
 		#print '¯'.encode('utf-8')
 		line = ls+'@'+k1+'@'+k2+'@'+lnum+':'+ls+':n:'
