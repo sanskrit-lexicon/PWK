@@ -97,10 +97,10 @@
 ¯K4a7d@kaRwakita@kaRwakita@23641:¯K4A7D:t:See https://github.com/sanskrit-lexicon/PWK/issues/35
 ¯VAKA7H@madayantikA@madayantikA@82204:¯VARA7H:t:print unclear
 ¯M4UDRA7R@svajanaganDin@svajanaganDin@132034:¯MUDRA7R:t:
-¯BURNELL.T@maDvaBAzya@maDvaBAzya@82746:¯BURNELL.T:n:
-¯C2A7N5KH@aGAhan@aGAhan@849:¯C2A7N5KH:n:
-¯HEM@cItkfta@cItkfta@40339:¯HEM:n:
-¯K4AMAPAKA@rahitatva@°rahitatva@93133:¯K4AMAPAKA:n:
+¯BURNELL.T@maDvaBAzya@maDvaBAzya@82746:¯BURNELL,T:t:There is only one entry with BURNELL,T. All others are BURNELL.T. But the scan is always BURNELL,T. Therefore converting to it.
+¯C2A7N5KH@aGAhan@aGAhan@849:¯C2A7N5KH:n:stands for SANKAyana, but it is not sure which work it refers to. There are three works by this name - a brAhmaRa, a SrOtasUtra, a gfhyasUtra.
+¯HEM. ‹Par.› ¯@SI@SI@115016:¯HEM.PAR.:t:
+¯K4AMAPAKA@rahitatva@°rahitatva@93133:¯K4AMPAKA:t:Extra A
 ¯LI7LA7V.S@krAkacya@krAkacya@31805:¯LI7LA7V.S:n:
 ¯BA7G4AN@ajara@aja/ra@1271:¯BA7G4AN:n:
 ¯G4AIM.S@anAraBya@anAraBya@3941:¯G4AIM.S:n:
