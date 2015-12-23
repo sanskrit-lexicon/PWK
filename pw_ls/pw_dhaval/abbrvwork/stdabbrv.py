@@ -36,14 +36,15 @@ if __name__=="__main__":
 	creffile = sys.argv[2]
 	abbrvlist = codecs.open(abbrvfile,'r','utf-8').read().split()
 	creflist = codecs.open(creffile,'r','utf-8').read().split()
+	output = []
 	for abbrv in abbrvlist:
 		cref = getcref(abbrv,creflist)
 		[ls,k1,k2,lnum,count] = cref.split('@')
+		output.append((ls,k1,k2,lnum,count))
+	output = sorted(output, key=lambda x:x[4], reverse=True)
+	for (ls,k1,k2,lnum,count) in output:
 		#print '¯'.encode('utf-8')
 		line = ls+'@'+k1+'@'+k2+'@'+lnum+':'+ls+':n:'
 		line = addmacron(line)
 		print line
-	
-	
-	
 	
