@@ -1,10 +1,15 @@
 ; pwbib_new.txt
-This file contains the literary sources that appear in pw.txt, but 
-that have no corresponding entry in the bibliographies of pw. (pwbib).
-The format is currently informal.
-
-Ref: https://github.com/sanskrit-lexicon/PWK/issues/24
-
+;This file contains the literary sources that appear in pw.txt, but 
+;that have no corresponding entry in the bibliographies of pw. (pwbib).
+;
+;Ref: https://github.com/sanskrit-lexicon/PWK/issues/24
+;Format of lines in this file:
+; A line starting with semicolon is a comment
+; Other lines have the pw.txt abbreviation at the beginning of the line
+;   Anything else in such a line should be separated by one or more spaces
+;   from the abbreviation.  
+;   Currently, no other format specifications for rest of line
+; This file may be used as an input to the crefmatch.py program.
 DAMAJANTI7K  (6 times)
 UTPALA (90)
 C2A7N5KH.A7R (1)

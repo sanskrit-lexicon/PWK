@@ -37,7 +37,7 @@ BHAVISHJOTT.P.	036	+	==	1	BHAVIṢYOTT.P.	BHAVIṢYOTTARAPURĀṬṆA nach Citat
 BHOG4A-K4AR.	037	+	==	1	BHOJA-CAR.	BHOJACARITRA, Madras 1862 (STENZLER). 
 BHOG4A-PR.	038	+	==	1	BHOJA-PR.	BHOJAPRABANDHA, Benares 1925(KERN). 
 Bibl.ind.	039	+	==	1	Bibl.ind.	Bibliotheca indica. 
-BIG4AG.	040	+	==	1	BIJAG.	BIJAGAṆITA, Calcutta 1846(KERN). 
+BI7G4AG.	040	+	==	1	BĪJAG.	BĪJAGAṆITA, Calcutta 1846(KERN). 
 BRAHMABINDU7P.	041	+	==	1	BRAHMABINDŪP.	BRAHMABINDŪPANIṢAD in der Bibl. ind. (GELDER uns ROTH). 
 BRAHMA-P.	042	+	==	1	BRAHMA-P.	BRAMAPURĀṆA nach Citaten in verschiedenen Werkes. 
 BRAHMAS.	043	+	==	1	BRAHMAS.	BĀDAR. 
@@ -173,7 +173,7 @@ MADANAV.	172	-	==	1	MADANAV.	MADANAPĀLA'S MADANAVINODA, Benares 1869 und Hdschr
 MA7DH. KA7LAN.	173	-	==	1	MĀDH. KĀLAN.	MĀDHAVA'S KĀLANIRṆAYA (WEBER). 
 MAHA7B.	174	-	==	1	MAHĀB.	MAHĀBHĀṢYA, lith. in Benares. 
 MAHA7BH. (K.)	175	-	==	1	MAHĀBH. (K.)	KIELHORN'S Ausg. des MAHĀBHĀṢYA. 
-MAHA7VIRAK4.	176	-	==	1	MAHĀVIRAC.	MAHĀVIRACARITA, Ausg. von TRITHEN. 
+MAHA7VI7RAK4.	176	-	==	1	MAHĀVĪRAC.	MAHĀVĪRACARITA, Ausg. von TRITHEN. 
 MAHI7DH.	177	-	==	1	MAHĪDH.	MAHĪDHARA, Commentator der VS. 
 MAITRJUP.	178	-	==	1	MAITRYUP.	MAITRYUPANIṢAD in der Bibl. ind. Die Accente, die wegen ihrer Fehlerhaftigkeit oft weggelassen oder durch (!) als verdächtig bezeichnet wurden, hat SCHRÖDER einer Hdschr. entnommen. 
 MAITR. S.	179	-	==	1	MAITR. S.	MAITRĀYAṆI SAM̃HITĀ, zur Herausgabe vorbereitet von L. SCHRÖDER. Da die accentuirten Hdschr. nicht gleich zu Anfang zur Hand waren, konnten einige Accente erst in den Nachträgen angegeben werden (SCHRÖDER). 
