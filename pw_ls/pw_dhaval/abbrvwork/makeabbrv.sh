@@ -1,5 +1,5 @@
-#PW=../../../../pwxml/pw.xml
-PW=../../../../Cologne_localcopy/pw/pywork/pw.xml
+PW=../../../../pwxml/pw.xml
+#PW=../../../../Cologne_localcopy/pw/pywork/pw.xml
 if !([ -e $PW ])
  then
   echo "path to PW does not exist: $PW"
