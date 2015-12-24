@@ -165,7 +165,7 @@ def removenumbers():
 	cl1 = []
 	ur1 = []
 	for (p,q,r,s) in cleanrefs:
-		if p not in ur1:
+		if p not in ur1 and re.sub('[.]S$','',p) not in ur1:
 			cl1.append((p,q,r,s))
 			ur1.append(p)
 	uniquerefs = ur1 # Return only the unique references.
