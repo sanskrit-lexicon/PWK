@@ -131,19 +131,30 @@ ind.› ¯St.@kumudacandra@kumudacandra@28854:¯Ind.St.:t:
 ‹Ins.› ¯St.@vyay@vyay@108390:¯Ind.St.:t:
 ‹(Inst.› ¯St.@sacetana@sacetana@117779:¯Ind.St.:t:
 ‹Int.› ¯St.@svArTin@svArTin@133127:¯Ind.St.:t:
-¯BURN@apAzaRqa@apAzaRqa@6471:¯BHAG:t:
-¯WEBER,PRATIG4N4A7S@pAmAvawika@pAmAvawika@66144:¯WEBER,PRATIG4N4A7S:n:
-¯Maha7bh@anAjigamizu@anAjigamizu@3831:¯MAHI7DH:t:
+¯BURN. ‹INTR.›@azwasAhasraka@azwasAhasraka@12098:¯BURN.Intr.:t:
+¯BURN. ‹Intr. 187.›@vAtahata@vAtahata@100366:¯BURN.Intr.187.:t:
+¯BHA7G.P.5,5,32 ‹bei› ¯BURN.@bIBartsita@bIBartsita@77211:¯BHA7G.P.5,5,32 ‹bei› ¯BHA7G.P.ed.BURN.:p:
+¯BURN@apAzaRqa@apAzaRqa@6471:¯BHA7G.P.ed.BURN.:p:
+¯BURN@hiraRyaraSana@hiraRyaraSana@134852:¯BHA7G.P.ed.BURN.:p:
+‹ed.› ¯BURN.@SunAsIra@Su/nAsI/ra@113531:¯BHA7G.P.ed.BURN.:p:
+¯WEBER,PRATIG4N4A7S@pAmAvawika@pAmAvawika@66144:¯PRATIG4N4A7S:p:There are 7 occurrences of both. pwbib0.txt has kept the later. So changing for consistency.
+¯Maha7bh@anAjigamizu@anAjigamizu@3831:¯MAHA7BH:t:
 ¯C4AIM@acodana@acodana@1155:¯G4AIM:t:
-¯STENZLER@Jar@Jar@43714:¯WEBER:t:
+¯STENZLER@Jar@Jar@43714:¯STENZLER:n:New resource? See https://github.com/sanskrit-lexicon/PWK/issues/24#issuecomment-167118174
 ¯K4ABAKA@pad@pad@62713:¯K4ARAKA:t:
-¯BR@tadanu@tadanu@44301:¯R:t:
-¯Gr2hj@unnIyam@unnIyam@19297:¯Chr:t:
-¯BENFEY@jaJJa@jaJJa@41375:¯BENF.Chr:t:
-¯Hema7dri4@kanyaka@kanyaka@24110:¯Va7rtt:t:
-¯SATJA@anyapUrvikA@anyapUrvikA@5665:¯SA7J:t:
-¯CR@Ezwika@Ezwika@22590:¯R:t:
-¯Bomb@pariBAva@pariBAva@64047:¯BHAG:t:
+¯BR@tadanu@tadanu@44301:¯R:n:Not changed right now. See https://github.com/sanskrit-lexicon/PWK/issues/46. Treat there.
+¯Gr2hj@unnIyam@unnIyam@19297:¯GR2HJ:t:
+¯BENFEY@jaJJa@jaJJa@41375:¯BENFEY:n:It is referring to the author at one place. The work is not specified. So better to retain it.
+¯Hema7dri4@kanyaka@kanyaka@24110:¯HEMA7DRI:t:
+¯SATJA@anyapUrvikA@anyapUrvikA@5665:¯SATJA:n:New resource?
+ ¯CR@Ezwika@Ezwika@22590:C2R.:t:space followed by macron+CR is actually C2R.
+¯A7PAST.¯CR@raGuzyant@raGuzyant@91970:¯A7PAST.CR:t:
+¯MBH.6,2287.LIEST ‹ed› ¯Bomb.@paristoma@paristoma@64409:¯MBH.6,2287.LIEST ¯MBH.ed.Bomb.:p:
+‹wie ed› ¯Bomb.@paryAya@paryAya@64793:‹wie› ¯MBH.ed.Bomb.:p:
+ ‹ed› ¯Bomb.@prakza@prakza@70378: ¯MBH.ed.Bomb.:p:
+‹(vgl. ed› ¯Bomb.@praguRay@praguRay@70447:(‹vgl.› ¯MBH.ed.Bomb.:p:
+‹ed.› ¯Bomb.90,6@yAmakuYjara@yAmakuYjara@90808:¯KA7D.ed.Bomb.90,6:p:
+‹ed› ¯Bomb.@pariBAva@pariBAva@64047:¯PAN4K4AT.ed.Bomb:p:Print change for consistency.
 ¯RAUG4AN@PalAQya@PalAQya@75406:¯RA7G4AN:t:
 ¯A7c2v@aryaman@aryama/n@9810:¯KA7C2:t:
 ¯DURGA@aBivyAharaRa@aBivyAharaRa@7628:¯DARPAD:t:
