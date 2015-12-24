@@ -8,6 +8,7 @@ $header = '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http:
 <head>
       <style>
          table.fixed {table-layout:fixed; width:100%; border:1px solid black;}/*Setting the table width is important!*/
+		 th {border:1px solid black;}
          td.zero {width:50px; border:1px solid black; text-overflow:ellipsis; }
          td.one {width:200px; border:1px solid black; text-overflow:ellipsis; padding: 10px;}
          td.two {width:200px; border:1px solid black;text-overflow:ellipsis; padding: 10px;}
@@ -38,6 +39,7 @@ if ($topcontent==='1') {
 }
 elseif ($topcontent==='2') {
 	fputs($file,$top2);
+	fputs($file,'<tr><th class="zero">Sr.No.</th><th class="zero">L-num</th><th class="one">Abbrv</th><th class="one">Webpage</th><th class="three">PDF link</th><th class="three">Suggested</th></tr>');
 }
 for ($i=0;$i<count($input);$i++)
 {
@@ -70,7 +72,8 @@ function decoratehtml1($text,$file,$dict)
 	$key1 = $split[1];
 	$key2 = $split[2];
 	$lnum = $split[3];
-	fputs($file,'<tr><td class="zero">'.$srno.'</td><td class="zero">'.$lnum.'</td><td class="one">'.$as.'</td><td class="one">'.weblink1($dict,$key1).'</td><td class="three">'.pdflink("PW",$key1).'</td></tr>');
+	$suggest = $split[4];
+	fputs($file,'<tr><td class="zero">'.$srno.'</td><td class="zero">'.$lnum.'</td><td class="one">'.$as.'</td><td class="one">'.weblink1($dict,$key1).'</td><td class="three">'.pdflink("PW",$key1).'</td><td class="three">'.$suggest.'</td></tr>');
 }
 function pdflink($dict,$word)
 {
