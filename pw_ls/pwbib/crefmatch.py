@@ -77,6 +77,7 @@ def adjust_bibrecs(bibrecs):
  
  return recs
 
+
 class Cref(object):
  def __init__(self,line):
   line = line.rstrip('\r\n')
@@ -141,8 +142,7 @@ if __name__ == "__main__":
  crefminusbib = codecs.open('crefminusbib.txt','w','utf-8')
  crefbibintersect = codecs.open('crefbibintersect.txt','w','utf-8')
  for key in crefdict.keys():
-  k1 = re.sub('[.]S[.]*$','',key)
-  if k1 not in bibdict and key not in bibdict:
+  if key not in bibdict:
    #print key.encode('utf-8'), '- not found in bib' 
    crefminusbib.write(key+"\n")
   else:
