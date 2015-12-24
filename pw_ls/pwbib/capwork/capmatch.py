@@ -163,7 +163,7 @@ if __name__ == "__main__":
    bibrec.cref = crefrec
    crefrec.bib = bibrec
  
- # ull out entries which are in sortedcrefs.txt but are absent in pwbib1.txt
+ # Cull out entries which are in sortedcrefs.txt but are absent in pwbib1.txt
  #crefminusbib = codecs.open('crefcap.txt','w','utf-8')
  #crefbibintersect = codecs.open('crefbibintersect.txt','w','utf-8')
  for key in crefdict.keys():
