@@ -101,30 +101,36 @@
 ¯C2A7N5KH@aGAhan@aGAhan@849:¯C2A7N5KH:n:stands for SANKAyana, but it is not sure which work it refers to. There are three works by this name - a brAhmaRa, a SrOtasUtra, a gfhyasUtra.
 ¯HEM. ‹Par.› ¯@SI@SI@115016:¯HEM.PAR.:t:
 ¯K4AMAPAKA@rahitatva@°rahitatva@93133:¯K4AMPAKA:t:Extra A
-¯LI7LA7V.S@krAkacya@krAkacya@31805:¯LI7LA7V.S:n:
 ¯BA7G4AN@ajara@aja/ra@1271:¯RA7G4AN:t:
-¯Vardh@paryAya@paryAya@64793:¯Va7rtt:t:
-¯K4ARARA@udamehin@udamehin@18709:¯K4ARAKA:t:
-¯PAN4K4AT.ed.Bomb@antarvAsika@antarvAsika@5371:¯PAN4K4AT.ed.orn:t:
-¯R.GORR@aDiyoDa@aDiyoDa@2889:¯GOBH:t:
+¯Vardh@paryAya@paryAya@64793:¯MBH.ed.Vardh:t:It is an edition of MBH
+¯K4ARARA@udamehin@udamehin@18709:¯K4ARAKA:p:It is not a typo. Print error.
+¯PAN4K4AT.ed.Bomb@antarvAsika@antarvAsika@5371:¯PAN4K4AT.ed.Bomb:n:Separate resource.
+¯R.GORR@aDiyoDa@aDiyoDa@2889:¯R.:p:pwbib0.txt says that R. stands for rAmAyaRa of GORRESIO. No need to mention it again.
 ¯K4D@aravindinI@aravindinI@9028:¯KA7D:t:
-¯C2a7n5kh@upasTa@upa/sTa@20180:¯C2A7K:t:
-¯BA7DAR.S@anupraveSa@anupraveSa@4632:¯BA7DAR:t:
-¯BHA7G.P.ed.Bomb@anudapAna@anudapAna@4432:¯BHA7G.P.ed.Bomb:n:
+¯C2a7n5kh. ¯Gr2hj.@upasTa@upa/sTa@20180:¯C2A7N5KH.GR2HJ.:t:
+¯BA7DAR.S@anupraveSa@anupraveSa@4632:¯BA7DAR.S:n:Seite thing
+¯BHA7G.P.ed.Bomb@anudapAna@anudapAna@4432:¯BHA7G.P.ed.Bomb:n:There are two editions Burnoff's and Bombay. Both mentioned in the explanation of pwbib0.txt
 ¯A7PST@aniha@aniha@4217:¯A7PAST:t:
-¯A7PAST.GAUT@Atmavant@Atmavant@14243:¯A7PAST.C2R:t:
+¯A7PAST.GAUT@Atmavant@Atmavant@14243:¯A7PAST.GAUT:n:Needs examination.
 ¯H4MA7DRI@udvaMSa@udvaMSa@19185:¯HEMA7DRI:t:
 ¯A7RSHBr@pUrvAtiTa@pUrvAtiTa@69228:¯A7RSH.BR:t:
-¯GR2HJ@digvyAGAraRa@digvyAGAraRa@50109:¯GOBH:t:
-¯MALLIN@aparicita@aparicita@6129:¯LALIT:t:
-¯A7RJABH.S@atyazwi@atyazwi@2280:¯A7RJABH:t:
+¯GR2HJ@digvyAGAraRa@digvyAGAraRa@50109:¯GR2HJ:n:There are multiple occurrences. Handling it as a separate issue.
+¯MALLIN. ‹zu› ¯@aparicita@aparicita@6129:¯MALLIN.zu.:t:It is mallinATa's commentary on some work. Both don't deserve a tag. The commentary-work combination deserves a ls tag.
+¯A7RJABH.S@atyazwi@atyazwi@2280:¯A7RJABH.S:n:Seite thing
 ¯RA7LAR@toyavAha@toyavAha@47101:¯BA7LAR:t:
 ¯HRSHAK4@kadarTanIya@kadarTanIya@23887:¯HARSHAK4:t:
-¯Z@rucika@rucika@94356:¯H:t:
-¯VARDHAMA7NAK4@lohAcArya@lohAcArya@96933:¯VIKRAMA7N5KAK4:t:
-¯C2M5K@kalpitavya@kalpitavya@25642:¯C2AM5K:t:
-¯K4AKRAD@kfzRaka@kfzRaka@30313:¯K4AKR:t:
-¯St@avAcaka@avAcaka@10837:¯SV:t:
+¯Z@rucika@rucika@94356:¯Z:n:Needs investigation. See https://github.com/sanskrit-lexicon/PWK/issues/24#issuecomment-167104886
+¯VARDHAMA7NAK4@lohAcArya@lohAcArya@96933:¯VIKRAMA7N5KAK4:n:New resource.
+¯C2M5K. ‹zu› ¯BA7DAR@kalpitavya@kalpitavya@25642:¯C2AM5K.zu.BA7DAR:t:New resource too.
+¯C2AM5K. ‹zu› ¯BA7DAR@kalpitavya@kalpitavya@25642:¯C2AM5K.zu.BA7DAR:t:
+¯K4AKRAD. ‹zu› ¯SUC2R.@cipiwaka@cipiwaka@40221:¯K4AKR.zu.SUC2R.:t:zu correction and K4AKRAD->K4AKR
+¯K4AKRAD@kfzRaka@kfzRaka@30313:¯KA7D:t:Wrong entry instead of kAdambarI.
+‹Ins.› ¯St.@avAcaka@avAcaka@10837:¯Ind.St.:t:
+ind.› ¯St.@kumudacandra@kumudacandra@28854:¯Ind.St.:t:
+‹Inf.› ¯St.@krama@kra/ma@28854:¯Ind.St.:t:
+‹Ins.› ¯St.@vyay@vyay@108390:¯Ind.St.:t:
+‹(Inst.› ¯St.@sacetana@sacetana@117779:¯Ind.St.:t:
+‹Int.› ¯St.@svArTin@svArTin@133127:¯Ind.St.:t:
 ¯BURN@apAzaRqa@apAzaRqa@6471:¯BHAG:t:
 ¯WEBER,PRATIG4N4A7S@pAmAvawika@pAmAvawika@66144:¯WEBER,PRATIG4N4A7S:n:
 ¯Maha7bh@anAjigamizu@anAjigamizu@3831:¯MAHI7DH:t:
