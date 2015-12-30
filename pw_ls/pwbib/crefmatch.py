@@ -2,6 +2,7 @@
 """crefmatch.py
    Dec 4, 2015
 Usage: python crefmatch.py pwbib1.txt ../pw_dhaval/abbrvwork/abbrvoutput/sortedcrefs.txt crefmatch.txt
+  Dec 22, 2015.  Take into account pwbib_new.txt
 """
 import codecs,sys,re
 
@@ -77,10 +78,36 @@ def adjust_bibrecs(bibrecs):
  
  return recs
 
+### HEAD
+def adjust_crefrecs(crefrecs,pwbibnewrecs):
+ recs=[] # returned
+ newkeys = [rec.abbrv for rec in pwbibnewrecs]
+ removed=[] 
+ for rec in crefrecs:
+  if rec.abbrv  in newkeys:
+   removed.append(rec)
+  #elif rec.duplicate:
+  # removed.append(rec)
+  else:
+   recs.append(rec) # keep
+ # write removed to stdout
+ print len(removed),"known unused records removed from pwbib for purposes of matching"
+ for i in xrange(0,len(removed)):
+  rec = removed[i]
+  out = "Case %02d: %s" % (i+1,rec.line)
+  print out.encode('utf-8')
+ print "END OF REMOVALS from crefrecs"
+ print '-'*80
+ print
+
+ return recs
+##=
+## origin/master
 
 class Cref(object):
  def __init__(self,line):
   line = line.rstrip('\r\n')
+  self.line = line
   (self.abbrv,self.key1,self.key2,self.L,self.count) = re.split('@',line)
   self.bib=None # filled in by matching
 
@@ -89,16 +116,41 @@ def init_cref(filein):
   recs = [Cref(line) for line in f]
  return recs
 
+class Pwbibnew(object):
+ def __init__(self,line):
+  line = line.rstrip('\r\n')
+  self.line=line
+  m = re.search(r'^(.+?) ',line)
+  if not m:
+   print "Pwbibnew ERROR",line.encode('utf-8')
+   exit(1)
+  self.abbrv = m.group(1)
+
+def init_pwbib_new(filein):
+ f = codecs.open(filein,"r","utf-8") 
+ recs=[]
+ for line in f:
+  if line.startswith(';'):
+   continue # comment
+  rec=Pwbibnew(line)
+  recs.append(rec)
+ f.close()
+ return recs
+
 if __name__ == "__main__":
  filebib = sys.argv[1]
  filecref = sys.argv[2]
  fileout = sys.argv[3]
+ filenew = sys.argv[4] # pwbib_new.txt
+ pwbibnewrecs = init_pwbib_new(filenew)
+ print len(pwbibnewrecs),"new resources read from",filenew
 
  bibrecs = init_pwbib1(filebib)
  crefrecs = init_cref(filecref)
  print len(bibrecs),"records from",filebib
-
  print len(crefrecs),"records from",filecref
+ crefrecs = adjust_crefrecs(crefrecs,pwbibnewrecs)
+ print len(crefrecs),"records kept from",filecref,"after adjustment from",filenew
 
  # dictionary on abbrv for crefrecs
  crefdict = {}
