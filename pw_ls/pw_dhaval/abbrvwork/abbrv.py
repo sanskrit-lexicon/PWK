@@ -137,9 +137,42 @@ def clean_special(a,clean):
  for start in starts:
   if a.startswith(start):
    cleanadj = start
-   break
+   return cleanadj
+ #return cleanadj
+ # 2nd method (start,cleanadj) tuples
+ startpairs = [
+  # Roman numeral confusions
+  ('A7RJABH.IX','A7RJABH'),
+  ('A7RJABH.S.X','A7RJABH'),
+  ('A7RJABH.V','A7RJABH'),
+  ('C2A7C2VATA.XI','C2A7C2VATA'),
+  ('C2IC2.I','C2IC2'),
+  ('HIT.I','HIT'),
+  ('KA7D.I','KA7D'),
+  ('MED.V','MED'),
+  ('MEGH.III','MEGH'),
+  ('MEGH.IX','MEGH'),
+  ('MEGH.V','MEGH'),
+  ('MEGH.VIII','MEGH'),
+  ('MEGH.X','MEGH'),
+  ('MEGH.XI','MEGH'),
+  ('MEGH.XII','MEGH'),
+  ('MIT.II','MIT'),
+  ('PAN4K4AT.I','PAN4K4AT'),
+  ('R.V','R'),
+  ('R2V.V','R2V'),
+  ('SV.I','SV'),
+  ('TBR.I','TBR'),
+  ('TS.I','TS'),
+  ('VAM5C2ABR.IX.XXIV','VAM5C2ABR'),
+  ('VAM5C2ABR.X','VAM5C2ABR'),
+ ]
+ for (start,cleanadjman) in startpairs:
+  if a.startswith(start):
+   return cleanadjman
+ # default
  return cleanadj
- 
+
 def removenumbers():
 	global properrefs
 	cleanfile = codecs.open('abbrvoutput/cleanrefs.txt','w','utf-8')
