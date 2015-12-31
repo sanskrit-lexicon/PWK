@@ -26,11 +26,9 @@ UTPALA (90)
 C2A7N5KH.A7R (1)
 NR2S.TA7P.UP. (3)
 NR2S.UP. (32)
-SIDDH.K.ed.TA7R. (1)
 R2SHIMAN2D2ALASTOTRA (1)
 C2A7N5KH (92)
-; Added from ejf local (PWKbad) version. 12/30/2015
-d.Bomb (54)  Not sure how to handle.
+ed.Bomb (54)  Not sure how to handle.
 MALLIN (7)
 Nachträge (1)
 SCHRÖDER (2)
@@ -41,3 +39,9 @@ K4AN2D2IDA7SA (1)
 C2A7N5KH (92)
 ; New additions from PWK/issues/27
 KUMA7RILA (3)
+SIDDH.K.ed.TA7R. (1)
+; WHITNEY refs: 
+;   WHITNEY.,Gr.84,b. under hw jAtya
+;   WHITNEY,Ind.  under hw vizwIma
+;   ¯WHITNEY, ‹Roots u.s.w. 1.›  under hw SI
+WHITNEY (3)

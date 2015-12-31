@@ -133,6 +133,9 @@ def clean_special(a,clean):
    'PRA7JAC2K4ITTAV', # to catch PRA7JAC2K4ITTAVIVEKA
    'MAHA7BH.(K.)', # so the (K.) won't be dropped.
    'HANUM.UP',  # so S. will be dropped
+   # issue 27
+   'R2SHIMAN2D2ALASTOTRA', # so number dropped
+   'BÜHLER,Rep', # so .No dropped
    ]
  for start in starts:
   if a.startswith(start):
@@ -166,6 +169,9 @@ def clean_special(a,clean):
   ('TS.I','TS'),
   ('VAM5C2ABR.IX.XXIV','VAM5C2ABR'),
   ('VAM5C2ABR.X','VAM5C2ABR'),
+  # PWK/issue/27
+  ('VIKR.S','VIKR'),
+  ('LI7LA7V.S','LI7LA7V'),
  ]
  for (start,cleanadjman) in startpairs:
   if a.startswith(start):
