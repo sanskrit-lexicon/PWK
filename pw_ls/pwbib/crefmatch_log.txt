@@ -1,6 +1,6 @@
 22 new resources read from pwbib_new.txt
 502 records from pwbib1.txt
-2222 records from ../pw_dhaval/abbrvwork/abbrvoutput/sortedcrefs.txt
+2182 records from ../pw_dhaval/abbrvwork/abbrvoutput/sortedcrefs.txt
 16 known unused records removed from pwbib for purposes of matching
 Case 01: C2A7N5KH.A7R@saMSlezaRa@saMSlezaRa@116900@1
 Case 02: C2U7DRADH@sakIla@sakIla@117241@1
@@ -9,9 +9,9 @@ Case 04: K4AN2D2IDA7SA@sarvasvAy@°sarvasvAy@122205@1
 Case 05: KA7D.ed.Bomb@vAYC@vAYC@100166@1
 Case 06: Nachträge@kalya@kalya@25667@1
 Case 07: R2SHIMAN2D2ALASTOTRA@smar@smar@131651@1
-Case 08: PANDIT@savfttika@savfttika@122578@2
-Case 09: SCHRÖDER@mEtrAyaRIsaMhitA@mEtrAyaRIsaMhitA@88934@2
-Case 10: KUMA7RILA@aBihotavE@aBihotavE@7769@3
+Case 08: KUMA7RILA@aBihotavE@aBihotavE@7769@3
+Case 09: PANDIT@antarmuKatA@antarmuKatA@5345@3
+Case 10: SCHRÖDER@mayUraparvata@mayUraparvata@83483@3
 Case 11: MALLIN@aparicita@aparicita@6129@7
 Case 12: DAMAJANTI7K@raNku@raNku@91976@10
 Case 13: AUFRECHT@tand@tand@44532@44
@@ -21,7 +21,7 @@ Case 16: UTPALA@aDama@aDama/@2701@116
 END OF REMOVALS from crefrecs
 --------------------------------------------------------------------------------
 
-2206 records kept from ../pw_dhaval/abbrvwork/abbrvoutput/sortedcrefs.txt after adjustment from pwbib_new.txt
+2166 records kept from ../pw_dhaval/abbrvwork/abbrvoutput/sortedcrefs.txt after adjustment from pwbib_new.txt
 31 known unused records removed from pwbib for purposes of matching
 Case 01: gan2a : im Gaṇapātha zu P. 
 Case 02: HARISV. : HARISVĀMIN. 
@@ -76,6 +76,6 @@ bib duplicate abbrv: C2A7K 051 488
 bib duplicate abbrv: SARASVATI7K 476 498
 bib duplicate abbrv: VA7GBH 273 501
 454 pwbib records, after removing duplicates
-450 matching abbreviations
-72778 total abbreviation instances from crefs
-66677 of these accounted for by matching abbreviations
+454 matching abbreviations
+72758 total abbreviation instances from crefs
+66722 of these accounted for by matching abbreviations
