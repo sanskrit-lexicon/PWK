@@ -155,38 +155,49 @@ ind.› ¯St.@kumudacandra@kumudacandra@28854:¯Ind.St.:t:
 ‹(vgl. ed› ¯Bomb.@praguRay@praguRay@70447:(‹vgl.› ¯MBH.ed.Bomb.:p:
 ‹ed.› ¯Bomb.90,6@yAmakuYjara@yAmakuYjara@90808:¯KA7D.ed.Bomb.90,6:p:
 ‹ed› ¯Bomb.@pariBAva@pariBAva@64047:¯PAN4K4AT.ed.Bomb:p:Print change for consistency.
-¯RAUG4AN@PalAQya@PalAQya@75406:¯RA7G4AN:t:
-¯A7c2v@aryaman@aryama/n@9810:¯KA7C2:t:
-¯DURGA@aBivyAharaRa@aBivyAharaRa@7628:¯DARPAD:t:
-¯MÜLLER,Ren@viSveSvarapattana@viSveSvarapattana@105103:¯M.MÜLLER,Ren:t:
-¯HAMA7DRI@maRqala@ma/Rqala@81863:¯HEMA7DRI:t:
-¯BURNOUF@pad@pad@62713:¯BURN.Intr:t:
-¯R2T@kzap@kzap@32296:¯R2V:t:
-¯R.Gorr@kalApaSiras@kalApaSiras@25486:¯RAGH:t:
-¯NJA7JAS.S@aparisaMKyeya@aparisaMKyeya@6167:¯NJA7JAS:t:
+¯RAUG4AN@PalAQya@PalAQya@75406:¯RA7G4AN:t:6 occurrences
+¯A7c2v.c2r@upaSada@upaSada@20034:¯A7C2V.C2R:t:4
+¯A7c2v.gr2hj@godAna@godA/na@36570:¯A7C2V.GR2HJ:t:1
+¯A7c2v. ‹gr2hj› ¯3,15,8@prAjApatya@prAjApatya/@74042:¯A7C2V.GR2HJ.3,15,8:t:1
+¯DURGA ‹zu› ¯NIR@kutsI@kutsI@28551:¯DURGA.zu.NIR:t:New resource. Found 3 times.
+¯DURGA@aBivyAharaRa@aBivyAharaRa@7628:¯DURGA:n:New resource.
+¯M.¯MÜLLER,Ren@viSveSvarapattana@viSveSvarapattana@105103:¯M.MÜLLER,Ren:t:2 occurrences
+¯MÜLLER,Ren@viSveSvarapattana@viSveSvarapattana@105103:¯M.MÜLLER,Ren:t:4
+¯HAMA7DRI@maRqala@ma/Rqala@81863:¯HEMA7DRI:t:9
+¯BURNOUF@pad@pad@62713:¯BURNOUF:n:Seems an alternate for BURN.Intr
+¯R2T@kzap@kzap@32296:¯R2TUS:t:
+¯R.Gorr@kalApaSiras@kalApaSiras@25486:¯R.GORR:t:Capitalization issue
+¯NJA7JAS.S@aparisaMKyeya@aparisaMKyeya@6167:¯NJA7JAS.S:n:Seite issue.
 ¯KAUD@kawaka@kawaka@23375:¯KA7D:t:
-¯TBH@prakzepa@prakzepa@70392:¯MBH:t:
-¯PARIC2@kuww@kuww@28344:¯PARA7C2:t:
-¯C2AN5K@pad@pad@62713:¯C2AM5K:t:
+¯TBH@prakzepa@prakzepa@70392:¯TBR:t:
+¯AV. ¯PARIC2@kuww@kuww@28344:¯AV.PARIC2:t:Wrong split
+‹(Euter) Av.› ¯PARIC2@paridArika@paridArika@63880:‹(Euter)› ¯AV.PARIC2:t:Wrong split
+¯AV.¯Paric@pOrRavatsa@pOrRavatsa@70114:¯AV.PARIC2:t:Wrong split + capitalization error + s-S
+¯AV.¯PARIC2@vAtarAyaRIya@vAtarAyaRIya@100329:¯AV.PARIC2:t:Wrong split
+¯C2AN5K@pad@pad@62713:¯C2AM5K:t:It is usually used as a commentator on something.
 ¯K4RAN2D2@kftsnAgata@kftsnAgata@30144:¯KA7RAN2D2:t:
-¯N@yuj@yuj@91092:¯H:t:
-¯VARA7H.BR2H.S.S@antaHpura@antaHpura@5167:¯VARA7H.BR2H.S:t:
+¯N@yuj@yuj@91092:¯N:n:Not sure
+¯VARA7H.BR2H.S.S@antaHpura@antaHpura@5167:¯VARA7H.BR2H.S.S:n:Seite issue
 ¯RAN5G4AN@PalAmla@*PalAmla@75415:¯RA7G4AN:t:
 ¯MEMA7DRI@ekaviMSati@e/kaviMSati@21944:¯HEMA7DRI:t:
-¯NAISH@atiTitA@atiTitA@1746:¯NIGH:t:
+¯NAISH@atiTitA@atiTitA@1746:¯NAISH:n:Correction in pwbib0.txt .NA7GA7N. and .NAISH. are different sources. Noted separately at https://github.com/sanskrit-lexicon/PWK/issues/38#issuecomment-168293652
 ¯BA7VAPR@aDvara@aDvara/@3142:¯BHA7VAPR:t:
-¯PAN4K4AT.ED@ApyAyana@ApyA/yana@15003:¯PAN4K4AD:t:
-¯Calc@yAtrAkara@yAtrAkara@90728:¯Chr:t:
-¯HEM.Pr.Gr@goRa@goRa@36508:¯HEM.JOG:t:
-¯SPASHT2@GAta@GAta@37898:¯A7PAST:t:
+¯PAN4K4AT.ED@ApyAyana@ApyA/yana@15003:¯PAN4K4AT.ed:t:Capitalization issue
+¯K4ARAKA., ‹ed.› ¯Calc@SAwaka@SAwaka@90728:¯K4ARAKA.ed.Calc:p:Print change for identifying the editions separately.
+¯Calc.2,1964@Siz@Siz@112826:¯MBH.ed.Calc.2,1964:p:Print change for identifying edition.
+¯RA7G4AT. ‹ed.› ¯Calc.@sajAni@sajAni@117836:¯RA7G4AT.ed.Calc.:t:Wrong split
+‹ed.› ¯Calc.6,2834@sutumula@sutumula@:¯MBH.ed.Calc.6,2834:p:Print change for identifying edition.
+‹(ed› ¯Calc.115,20)@yAtrAkara@yAtrAkara@90728:(¯¯K4ARAKA.ed.Calc.115,20):p:Print change for identifying edition.
+¯HEM.Pr.Gr@goRa@goRa@36508:¯HEM.Pr.Gr:n:It is there in pwbib0. HEM.Pr.Gr. ed. Bomb. == HEMAK4ANDRA's Pra7krit-Grammatik, Bombay (STENZLER) (vol. 1)
+¯SPASHT2@GAta@GAta@37898:¯GAN2IT.SPASHT2:p:For consistency and clarity. It is a chapter of the book gaRit.
 ¯PASENDRAK4@SItArirasa@SItArirasa@113012:¯RASENDRAK4:t:
-¯TBR.Comm@ftumuKin@ftumuKin@21524:¯TBR:t:
-¯KA7LIDA7SA@kaTam@kaTa/m@23823:¯KA7RIKA7:t:
+¯TBR.Comm@ftumuKin@ftumuKin@21524:¯TBR.Comm:n:New resource.
+¯KA7LIDA7SA@kaTam@kaTa/m@23823:¯KA7LIDA7SA:n:Name of poet.
 ¯RA74AN@kAkanIlA@*kAkanIlA@26014:¯RA7G4AN:t:
-¯WILSON@cEtraraTa@cEtraraTa@40688:¯WISE:t:
-¯DA7RILA@Sepya@Sepya@114069:¯KA7RIKA7:t:
+¯WILSON@cEtraraTa@cEtraraTa@40688:¯WILSON:n:It needs a separate examination. Noted at https://github.com/sanskrit-lexicon/PWK/issues/50
+¯DA7RILA@Sepya@Sepya@114069:¯DA7RILA:n:New resource? Noted at https://github.com/sanskrit-lexicon/PWK/issues/24#issuecomment-168295134
 ¯CAUT@aw@aw@1476:¯GAUT:t:
-¯RAGH.ed.Calc@anapoQa@anapoQa@3513:¯RAGH.ed.Calc:n:
+¯RAGH.ed.Calc@anapoQa@anapoQa@3513:¯RAGH.ed.Calc:n:Noted in pwbib0.txt entry RAGH
 ¯VIRRAMA7N5KAK4@mEtra@mEtra/@88911:¯VIKRAMA7N5KAK4:t:
 ¯Gop@dIkzita@dIkzita/@50470:¯GAL:t:
 ¯BOLL@apakzalopa@apakzalopa@5842:¯GOLD:t:
