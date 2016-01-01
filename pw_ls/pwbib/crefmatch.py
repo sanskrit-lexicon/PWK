@@ -28,7 +28,9 @@ class Pwbib1(object):
    ('K4AURAP.(A.)','K4AURAP'),
    ('KAP.(BALL.)','KAP'),
    ('SUPARN2.undSUPARN2A7DHJ','SUPARN2'),
-   ('PRAKRIJA7K(AUMUDI),Hdschr.(AUFRECHT).RA7JENDR.Not','PRAKRIJA7K')
+   ('PRAKRIJA7K(AUMUDI),Hdschr.(AUFRECHT).RA7JENDR.Not','PRAKRIJA7K'),
+   ("KA7TJ (A7JANA'S)KARM (APRADI7PA)","KA7TJ.KARM"),
+   ("KA7TJ (A7JANA'S) PARIBH (A7SHA7S)","KA7TJ.PARIBH")
   ]
   for (old,new) in changes:
    if key == old:
@@ -55,6 +57,10 @@ pwbib_unusedkeys=[
  # Dec 20, 2015
  'KA7TJ.C2RA7DDHAK', 'VA7MANAP','C2OBH','NI7LAK.miteinerZahl',
  'SAHR2DAJA7LOKA','KA7VJA7L','K4HA7NDOGJAP','KIELHORN,Rep',
+ # Dec 31, 2015 Ref PWK/issues/37
+  'KA7TJ(A7JANA)', 'DRAVJAC2', 'K4ANDRA7LOKA', 
+  'KA7TJ.KARM','KA7TJ.PARIBH',
+  'SAM5KSHEPAC2','ALAM5KA7RAR',
 ]
 def adjust_bibrecs(bibrecs):
  recs=[] # returned

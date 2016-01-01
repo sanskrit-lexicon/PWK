@@ -1,3 +1,4 @@
+# coding=utf-8
 #!/usr/bin/env python
 # This Python file uses the following encoding: utf-8
 from lxml import etree # lxml.de
@@ -135,12 +136,18 @@ def clean_special(a,clean):
    'HANUM.UP',  # so S. will be dropped
    # issue 27
    'R2SHIMAN2D2ALASTOTRA', # so number dropped
-   'BÜHLER,Rep', # so .No dropped
+   u'BÜHLER,Rep', # so .No dropped
+   'PANDIT', # so IX dropped
    ]
  for start in starts:
-  if a.startswith(start):
-   cleanadj = start
-   return cleanadj
+  try:
+   if a.startswith(start):
+    cleanadj = start
+    return cleanadj
+  except:
+   print "ERROR", start
+   exit(1)
+
  #return cleanadj
  # 2nd method (start,cleanadj) tuples
  startpairs = [
@@ -178,7 +185,7 @@ def clean_special(a,clean):
   ('ANARGHAR.S','ANARGHAR'),
   ('BA7DAR.S','BA7DAR'),
   ('BR2H.A7R.UP.S','BR2H.A7R.UP'),
-  ('BÜHLER,Rep.S','BÜHLER,Rep'),
+  (u'BÜHLER,Rep.S',u'BÜHLER,Rep'),
   ('C2A7N2D2.S','C2A7N2D2'),
   ('C2IRA-UP.S','C2IRA-UP'),
   ('DAC2AR.S','DAC2AR'),
@@ -216,6 +223,8 @@ def clean_special(a,clean):
   ('VAM5C2ABR.S','VAM5C2ABR'),
   ('VIKR.S','VIKR'),
   ('VIKRAMA7N5KAK4.S','VIKRAMA7N5KAK4'),
+  # PWK/issues/37
+  ('SADDH.P.4,','SADDH.P.4'),
  
  ]
  for (start,cleanadjman) in startpairs:
@@ -249,7 +258,10 @@ def removenumbers():
 	cl1 = []
 	ur1 = []
 	for (p,q,r,s) in cleanrefs:
-		if p not in ur1 and re.sub('[.]S$','',p) not in ur1:
+		#if p not in ur1 and re.sub('[.]S$','',p) not in ur1:
+		# Dec 31, 2015 (ejf). Removed the 'S' logic, as it
+		# inhibits matching of 'KAP.S', for instance.
+		if p not in ur1 :
 			cl1.append((p,q,r,s))
 			ur1.append(p)
 	uniquerefs = ur1 # Return only the unique references.

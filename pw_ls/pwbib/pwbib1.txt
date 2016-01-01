@@ -96,7 +96,7 @@ GAN2IT.PRATJABD.	095	+	==	1	GAṆIT.PRATYABD.	GAṆITA, PRATYABDŚUDDI (KERN).
 GAN2IT.TRIPR.	096	+	==	1	GAṆIT.TRIPR.	GAṆITA, TRIPRAŚANĀDHIKĀRA (KERN). 
 GARBHOP.	097	+	==	1	GARBHOP.	GARBHOPANIṢAD in Bibl. ind. (GELDNER und ROTH). 
 GAUD2AP.	098	+	==	1	GAUḌAP.	GAUḌAPĀDA, Commentator der SĀM̃KHYAKĀRIKĀ. 
-GAUT.	099	+	==	1	GAUT.	GAUTMA'S DHARMAŚĀSTRA, Ausg. von STENZLER. 
+GAUT.	099	+	==	1	GAUT.	GAUTAMA'S DHARMAŚĀSTRA, Ausg. von STENZLER. 
 GI7T.	100	+	==	1	GĪT.	GĪTAGOVINDA, Ausg. von LASSEN. 
 GOBH.	101	+	==	1	GOBH.	GOBHILA'S GṚYASŪTRA in der Bibl. ind. (ROTH). 
 GOLA7DHJ.	102	+	==	1	GOLĀDHY.	BHĀSKARA'S GOLĀDHYĀYA (KERN). 
@@ -142,7 +142,7 @@ KA7T2H.	141	-	==	1	KĀṬH.	KĀṬHAKA (WEBER).
 KATHA7S.	142	-	==	1	KATHĀS.	KATHĀSARITSĀGARA, Ausg. von BROCKHAUS. 
 KA7TJ.C2R.	143	-	==	1	KĀTY.ŚR.	KĀTYĀYANA'S ŚRAUTSŪTRA, nach WEBER'S Index. 
 KA7TJ. DH.	144	-	==	1	KĀTY. DH.	KĀTYĀYANA'S DHARMAŚĀSTRA (STENZILER). 
-KA7TJ. SANA7NAS.	145	-	==	1	KĀTY. SANĀNAS.	KĀTYĀYANA'S SNĀNASŪTRA (STENZLER). 
+KA7TJ. SNA7NAS.	145	-	==	1	KĀTY. SNĀNAS.	KĀTYĀYANA'S SNĀNASŪTRA (STENZLER). 
 KAUC2.	146	-	==	1	KAUŚ.	KAUTŚIKA'S SŪTRA zum AV. , Hdschr. (ROTH und WEBER). 
 K4AURAP.	147	-	==	1	CAURAP.	CAURAPAŃCĀŚIKĀ, Ausg. von BOHLEN. 
 KAUSH. A7R.	148	-	==	1	KAUṢ. ĀR.	KAUṢITAKĀRAṆYAKA (WEBER). 
@@ -234,7 +234,7 @@ ROXB.	233	-	==	1	ROXB.	Flora indica or description of Indian Plants. By the late
 R2TUS.	234	-	==	1	ṚTUS.	RṬUSAM̃HĀRA, Ausg. von BOHLEN. 
 R2V.	235	-	==	1	ṚV.	ṚGVEDA (ROTH). 
 R2V. PRA7T.	236	-	==	1	ṚV. PRĀT.	PRĀTIŚĀKHYA zum ṚGVEDA. 
-SADDH. P. 4	237	-	==	1	SADDH. P. 4	das 4te Kapitel des SADDHARMAPUḌṆARIKA, lithographirt in Parabole de l'Enfant egare. Par. PH. ED. FOUCAUX. Paris. 1854. 
+SADDH. P. 4	237	-	==	1	SADDH. P. 4	das 4te Kapitel des SADDHARMAPUḌṆARĪKA, lithographirt in Parabole de l'Enfant egare. Par. PH. ED. FOUCAUX. Paris. 1854. 
 SA7H. D.	238	-	==	1	SĀH. D.	SĀHITYADARPAṆA in der Bibl. ind. 
 SA7J.	239	-	==	1	SĀY.	SĀYAṆA. 
 SA7MAV. BR.	240	-	==	1	SĀMAV. BR.	SĀMAVIDHĀNABRĀHMAṆA, Ausg. von BURNELL. 
@@ -389,7 +389,7 @@ HILLEBR. N.	388	-	==	3	HILLEBR. N.	HILLEBRANDT'S altindisches Neu- und Vollmonds
 KA7D.	389	+	xx	3	KĀD.	Die eingeklammerten Zahlen verweisen auf die Calc. Ausg. 1872. 
 KAIVALJOP.	390	-	==	3	KAIVALYOP.	KAIVALYOPANIṢAD in der Bibl. ind. 
 KAT2HOP(ANISHAD)	391	-	xx	3	KAṬHOP(ANIṢAD)	in der Bibl. ind. 
-KA7TJ(A7JANA)	392	-	xx	3	KĀTY(ĀYANA)	nach Citaten in verschiedenen juristischen Werken(YOLLy). 
+KA7TJ(A7JANA)	392	-	xx	3	KĀTY(ĀYANA)	nach Citaten in verschiedenen juristischen Werken(YOLLY). 
 KA7TJ. C2RA7DDHAK.	393	-	==	3	KĀTY. ŚRĀDDHAK.	KĀTYĀYANA'S ŚRĀDDHAKALPASŪTRA (STENZLER). 
 K4AURAP. (A. )	394	-	==	3	CAURAP. (A. )	CORAPAŃCŚAT, herausgegeben von M. ARIEL im Yornal aistique, 4me serie, Bd. XI, S. 469. fgg. (CAPPELLER). 
 KUHN'S Z.	395	-	==	3	KUHN'S Z.	Zeitschrift für vergleichende Sprachforschung anf dem Gebiete der indogermanischen Sprachen. 
@@ -407,7 +407,7 @@ RASAR.	406	-	xx	3	RASAR.	RASARATNĀKARA, Calcutta 1878 (ROTH).
 RASENDRAK4.	407	-	==	3	RASENDRAC.	RASENDRACINTMAṆI Calcutta 1878 (ROTH). 
 SOMAKARMAPR.	408	-	==	3	SOMAKARMAPR.	SOMAKARMAPRADIPA des RĀMA, Hdschr. (ROTH). 
 SUKHA7V.	409	-	==	3	SUKHĀV.	SUVAPNACNTĀṆI (PISCHEL). 
-VAG4RAK4K4H.	410	-	==	3	VAJRACCH.	VAJRACCHDIKĀ, herausgegeben von (F. MAX MÜLLER). 
+VAG4RAK4K4H.	410	-	==	3	VAJRACCH.	VAJRACCHEDIKĀ, herausgegeben von (F. MAX MÜLLER). 
 VASISHT2HA,	411	-	xx	3	VASIṢṬHA,	nach der Ausg. von Benares (YOLLY). 
 VET. (U. )	412	-	==	3	VET. (U. )	VETĀLAPAŃCA VIM̃ŚATIKĀ, herausgegeben von HEINRICH UHLE. 
 VJUTP.	413	-	==	3	VYUTP.	VYUPATITI, ein Sanskrit-Tibetisches Wörterbuch aus dem TAŃJUR (SCHIEFNER). 
@@ -425,7 +425,7 @@ KIELHORN, Rep.	424	-	==	4	KIELHORN, Rep.	Report on the search for Sanskrit Mss. 
 LOKAPR	425	-	xx	4	LOKAPR	(AKĀŚA) (YOLLY) . 
 PRATIG4N4A7S(U7TRA)	426	-	xx	4	PRATIJŃĀS(ŪTRA)	berausg. von A. WEBER. 
 RA7G4AN.	427	-	xx	4	RĀJAN.	13 nach der Ausg. von R. GARBE. 
-SADDH. P.	428	-	==	4	SADDH. P.	SADDHARMAPUṆḌARIKA (KERN) . 
+SADDH. P.	428	-	==	4	SADDH. P.	SADDHARMAPUṆḌARĪKA (KERN) . 
 SVAPNAK4(INTA7MAN2I)	429	-	xx	4	SVAPNAC(INTĀMAṆI)	(PISCHEL) . 
 VIRAM.	430	-	==	4	VIRAM.	VIRAMITRODAYA, Khadirapura 1815(STENZLER) . 
 ALAM5KA7RAR	431	-	xx	5	ALAM̃KĀRAR	(ATNĀKARA) des ŚOBHĀKARA, Deccan. Coll. Hdschr. No. 227 (PISCHER). 
@@ -455,7 +455,7 @@ HARSHAK4	454	-	xx	5	HARṢAC	(1936), Bomb. Ausg. (KERN).
 KA7C2I7KH	455	-	xx	5	KĀŚĪKH	(AṆḌA), HDSCHR. (AUFRECHT). 
 K4AMPAKA	456	-	==	5	CAMPAKA	Ueber das CAMPAKAŚREṢṬHIKATHĀNAKAM, die Geschichte vom Kaufmann CAMPAKA. Herausgegeben von A. WEBER in Sitzungsberichte der Königlich Preussischen Akademie der Wissenschaften zu Berlin. Yahrgang 1883. S. 567. fgg. 885. fgg. Vgl. Mélanges asiatiques tirés du Bulletin de l'Académie Impériale des Sciences de St. Pétersbourg. Tome IX, S. 75. fgg. 
 KATHA7RN2AVA	457	-	xx	5	KATHĀRṆAVA	, Hdschr. (AUFRECHT). 
-ka7tj	458	-	xx	5	kātj	(ĀYANA'S)KARM (APRADIPA) (STENZLER). 
+KA7TJ	458	-	xx	5	KĀTY	(ĀYANA'S)KARM (APRADĪPA) (STENZLER). 
 KA7TJ	459	-	xx	5	KĀTY	(ĀYANA'S) PARIBH (ĀṢĀS) IN 'Zwölf Hymnen des Rigveda, herausgegeben von ERNST WIDISCH'S. 169. fgg. 
 KA7VJA7L	460	-	xx	5	KĀVYĀL	(OKALOCANA), Hdschr. (AUFRECHT). 
 KHAN2D2APR	461	-	xx	5	KHAṆḌAPR	(AŚASTI) im Pandit, Bed. 5 und 6 (AUFRECHT). 
