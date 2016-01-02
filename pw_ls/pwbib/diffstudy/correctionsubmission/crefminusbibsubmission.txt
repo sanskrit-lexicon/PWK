@@ -223,8 +223,8 @@ den› ¯BRA7HMAN2A@Uza@U/za@21220:den› ¯BRA7HMAN2A:n:Gasyoun should find out
 ¯Hem.¯Par@vyantara@vyantara@108344:¯HEM.PAR:t:
 ¯GAUT.A7past@Arogya@Arogya@15555:¯GAUT.A7PAST:t:It also needs further investigation per https://github.com/sanskrit-lexicon/PWK/issues/45#issuecomment-167225509
 (¯BR.39)@tadanu@tadanu@44301:(¯C2RUT.BR.39):p:An edition of SrutaboDa. See pwbib0.
-Gop.› ¯BR@pitryupavIta@pitryupavIta@67068:GOP.BR:t:
-Ait.› ¯Br@punaraByAkAram@punaraByAkAram@67808:AIT.BR:t:
+‹Gop.› ¯BR@pitryupavIta@pitryupavIta@67068:¯GOP.BR:t:
+‹Ait.› ¯Br@punaraByAkAram@punaraByAkAram@67808:¯AIT.BR:t:
 ¯Vp2@aSrutavarRa@aSrutavarRa@11756:¯Spr:t:
 ¯PA7R@daRqaDAraRa@daRqaDAraRa@48587:¯HA7R:t:
 ¯HALL@atandracandraka@atandracandraka@1600:¯GAL:t:
