@@ -199,19 +199,32 @@ ind.› ¯St.@kumudacandra@kumudacandra@28854:¯Ind.St.:t:
 ¯CAUT@aw@aw@1476:¯GAUT:t:
 ¯RAGH.ed.Calc@anapoQa@anapoQa@3513:¯RAGH.ed.Calc:n:Noted in pwbib0.txt entry RAGH
 ¯VIRRAMA7N5KAK4@mEtra@mEtra/@88911:¯VIKRAMA7N5KAK4:t:
-¯Gop@dIkzita@dIkzita/@50470:¯GAL:t:
-¯BOLL@apakzalopa@apakzalopa@5842:¯GOLD:t:
-¯MUN2D2@plava@plava/@75146:¯KA7N2D2:t:
-¯RAGH.ED.Calc@kuRWI@kuRWI@28437:¯RAGH.ED.Calc:n:
-¯TAITT.PRA7T@avaDitva@avaDitva@10403:¯TAITT.A7R:t:
-¯Ausg@karAwa@karA/wa@24728:¯AK:t:
+¯Gop.br@dIkzita@gIkzita/@50470:¯GOP.BR:t:Capitalization issue
+¯Gop.…BR@……sarpetarajana@sarpetarajana@121669:¯GOP.BR:t:
+¯VIKR. ‹ed.› ¯BOLL@apakzalopa@apakzalopa@5842:¯VIKR.ed.BOLL:t:
+9,16¯BOLL@kAryavinimaya@kAryavinimaya@26993:¯MA7LAV.ed.BOLL.9,16:p:Also a new resource. https://github.com/sanskrit-lexicon/PWK/issues/24#issuecomment-168394964
+21,12¯BOLL@kAryavinimaya@kAryavinimaya@26993:¯MA7LAV.ed.BOLL.21,12:p:Also a new resource. https://github.com/sanskrit-lexicon/PWK/issues/24#issuecomment-168394964
+8,10 ¯BOLL@vastuka@vastuka@:¯MA7LAV.ed.BOLL.8,10:p:Also a new resource. https://github.com/sanskrit-lexicon/PWK/issues/24#issuecomment-168394964
+¯MA7LAV.(ed.¯BOLL.)@vastuvftta@vastuvftta@99604:(¯MA7LAV.ed.BOLL.):p:
+¯MUN2D2.up@plava@plava/@75146:¯MUN2D2.UP.:t:
+¯MUN2D2.¯UP.@BU@BU@80202:¯MUN2D2.UP.:t:
+¯MUN2D2. ‹U. 2 , 2 , 6.›@raTanABi@raTanABi/@92527:¯MUN2D2.UP.2,2,6.:t:
+¯RAGH.ED.Calc@kuRWI@kuRWI@28437:¯RAGH.ed.Calc:t:
+¯TAITT.PRA7T@avaDitva@avaDitva@10403:¯TAITT.PRA7T:n:New resource. Total 5 occurrences. https://github.com/sanskrit-lexicon/PWK/issues/24#issuecomment-168396126
+¯Ausg@karAwa@karA/wa@24728:¯Ausg:n:Name of an author. Need to identify which work of that author.
 ¯RHA7VAPR@ambu@ambu@8547:¯BHA7VAPR:t:
-¯BRA7HMAN2A@Uza@U/za@21220:¯BRAHMA-P:t:
-¯K4HA7ND@lohita@lo/hita@96943:¯K4A7N2:t:
-¯GELDNER@vas@vas@99304:¯GOLD:t:
-¯Hem@grahilI@grahilI@37424:¯H:t:
-¯GAUT.A7past@Arogya@Arogya@15555:¯AIT.A7R:t:
-¯Br@punaraByAkAram@punaraByAkAram@67808:¯AK:t:
+den› ¯BRA7HMAN2A@Uza@U/za@21220:den› ¯BRA7HMAN2A:n:Gasyoun should find out what is meant by these words den?
+¯K4HA7ND. ¯UP.@lohita@lo/hita@96943:¯K4HA7ND.UP.:t:
+¯K4HA7ND.7,1,2.4@sarpadevajana@sarpadevajana/@121595:¯K4HA7ND.UP.7,1,2.4:t:
+¯K4HA7ND.¯UP@sTaRqilya@sTaRqilya@130814:¯K4HA7ND.UP:t:
+¯K4HA7ND.8,3,2@hiraRyaniDi@hiraRyaniDi@134822:¯K4HA7ND.UP.8,3,2:t:
+¯GELDNER@vas@vas@99304:¯GELDNER:n:New resource. Author. Always used after 'nach'
+¯Hem.par@grahilI@grahilI@37424:¯HEM.PAR:t:
+¯Hem.¯Par@vyantara@vyantara@108344:¯HEM.PAR:t:
+¯GAUT.A7past@Arogya@Arogya@15555:¯GAUT.A7PAST:t:It also needs further investigation per https://github.com/sanskrit-lexicon/PWK/issues/45#issuecomment-167225509
+(¯BR.39)@tadanu@tadanu@44301:(¯C2RUT.BR.39):p:An edition of SrutaboDa. See pwbib0.
+Gop.› ¯BR@pitryupavIta@pitryupavIta@67068:GOP.BR:t:
+Ait.› ¯Br@punaraByAkAram@punaraByAkAram@67808:AIT.BR:t:
 ¯Vp2@aSrutavarRa@aSrutavarRa@11756:¯Spr:t:
 ¯PA7R@daRqaDAraRa@daRqaDAraRa@48587:¯HA7R:t:
 ¯HALL@atandracandraka@atandracandraka@1600:¯GAL:t:
