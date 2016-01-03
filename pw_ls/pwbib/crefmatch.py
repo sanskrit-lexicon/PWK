@@ -36,6 +36,11 @@ class Pwbib1(object):
    if key == old:
     key = new
     break
+  # special case. There are two 'MBH' keys in pwbib1. One of them has
+  # a 'type' code of 'xx'. It is the one that needs changing.
+  # this logic may need to be pushed down into pwbib1.py later
+  if (key == 'MBH') and (self.type == 'xx'):
+   key = 'MBH.ed.Vardh'
   self.abbrvadj=key
   
 def init_pwbib1(filein):

@@ -51,5 +51,31 @@ KAMALA7KARA (1) Occurs same pw record as C2U7DRADH
 ; PWK/issues/36
 ; The Pandit : a monthly journal of the Benares college devoted to Sanskrit literature.
 PANDIT (3)
-; PKW/issues/37
+; PWK/issues/37
 DRAVJAV (?)
+; PWK/issues/42
+C2A7N5KH.A7R (1)
+; next is author. No work indicated in pw.txt reference
+C2A7N5KH (7) 
+; PWK/issues/45
+PAN4K4AT.ed.Bomb (9)
+; aliases for pwbib0 'R.' Ramayana entry
+R.GORR  (70, approx.)
+R.ed.GORR (12, approx.)
+R.ed.Bomb. (200, approx.)
+R.Schl (1)
+; alias for pwbib0 'BHA7G.P' BagavatapurARa
+BHA7G.P.ed.Bomb
+; Next possibly is from a work by Buhler (see PWK/issues/45)
+A7PAST.GAUT  (7)
+A7PAST.GR2HJ (1)
+; Next is an author.  Ref PWK/issues/45 for discussion of whether
+; this should remain a separate literary source.
+MALLIN (7)
+ZIMMER (3)
+; One instance of ZACH under hw=hugga.  Not sure how to handle,
+;   so am putting it here for now
+ZACH (1)
+VARDHAMA7NAK4 (7)
+C2AM5K.zu.BA7DAR (376)  This is a large number.
+K4AKR.zu.SUC2R. (5?)
