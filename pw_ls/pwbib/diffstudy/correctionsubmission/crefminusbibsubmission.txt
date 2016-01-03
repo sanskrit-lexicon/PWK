@@ -90,7 +90,7 @@
 ¯K4D@aravindinI@aravindinI@9028:¯KAD:t:
 †A7c2v.› ¯GR2HJ.PARIC@vidAraka@vidAraka@102578:› ¯A7C2V.GR2HJ.PARIC:t:Mis-tagging
 ¯KUSUM.S@anumitsA@anumitsA@4712:¯KUSUM. S:t:Seite separation
-¯K4AN2D2IDA7SA. ‹zu› ¯KA7VJAPR.nach ¯AUFRECHT@sarvasvAy@°sarvasvAy@122205:¯K4AN2D2IDA7SA. ‹zu› ¯KA7VJAPR. ‹nach› ¯AUFRECHT:n:zu issue. Only nach given a bracket and a space before.
+¯K4AN2D2IDA7SA. ‹zu› ¯KA7VJAPR.nach ¯AUFRECHT@sarvasvAy@°sarvasvAy@122205:¯K4AN2D2IDA7SA. ‹zu› ¯KA7VJAPR. ‹nach› ¯AUFRECHT:t:zu issue. Only nach given a bracket and a space before.
 ¯MAR4RK.P@marut@maru/t@83570:¯MA7RK.P:t:
 ¯MABIDH@paripati@pa/ripati@63941:¯MAHI7DH:t:pwbib0.txt has MAHIDH which needs correction. It is mahI and not mahi.
 ¯KA7D.II@aBipAta@aBipAta@7445:¯KA7D. II:t:See https://github.com/sanskrit-lexicon/PWK/issues/36
@@ -120,7 +120,7 @@
 ¯RA7LAR@toyavAha@toyavAha@47101:¯BA7LAR:t:
 ¯HRSHAK4@kadarTanIya@kadarTanIya@23887:¯HARSHAK4:t:
 ¯Z@rucika@rucika@94356:¯Z:n:Needs investigation. See https://github.com/sanskrit-lexicon/PWK/issues/24#issuecomment-167104886
-¯VARDHAMA7NAK4@lohAcArya@lohAcArya@96933:¯VIKRAMA7N5KAK4:n:New resource.
+¯VARDHAMA7NAK4@lohAcArya@lohAcArya@96933:¯VARDHAMA7NAK4:n:New resource.
 ¯C2M5K. ‹zu› ¯BA7DAR@kalpitavya@kalpitavya@25642:¯C2AM5K.zu.BA7DAR:t:New resource too.
 ¯C2AM5K. ‹zu› ¯BA7DAR@kalpitavya@kalpitavya@25642:¯C2AM5K.zu.BA7DAR:t:
 ¯K4AKRAD. ‹zu› ¯SUC2R.@cipiwaka@cipiwaka@40221:¯K4AKR.zu.SUC2R.:t:zu correction and K4AKRAD->K4AKR
@@ -142,7 +142,7 @@ ind.› ¯St.@kumudacandra@kumudacandra@28854:¯Ind.St.:t:
 ¯C4AIM@acodana@acodana@1155:¯G4AIM:t:
 ¯STENZLER@Jar@Jar@43714:¯STENZLER:n:New resource? See https://github.com/sanskrit-lexicon/PWK/issues/24#issuecomment-167118174
 ¯K4ABAKA@pad@pad@62713:¯K4ARAKA:t:
-¯BR@tadanu@tadanu@44301:¯R:n:Not changed right now. See https://github.com/sanskrit-lexicon/PWK/issues/46. Treat there.
+¯BR@tadanu@tadanu@44301:¯BR:n:Not changed right now. See https://github.com/sanskrit-lexicon/PWK/issues/46. Treat there.
 ¯Gr2hj@unnIyam@unnIyam@19297:¯GR2HJ:t:
 ¯BENFEY@jaJJa@jaJJa@41375:¯BENFEY:n:It is referring to the author at one place. The work is not specified. So better to retain it.
 ¯Hema7dri4@kanyaka@kanyaka@24110:¯HEMA7DRI:t:
