@@ -94,13 +94,17 @@ def adjust_crefrecs(crefrecs,pwbibnewrecs):
  recs=[] # returned
  newkeys = [rec.abbrv for rec in pwbibnewrecs]
  removed=[] 
+ remcount = 0  # total count of records removed
+ keepcount = 0 # total count of records kept
  for rec in crefrecs:
   if rec.abbrv  in newkeys:
    removed.append(rec)
+   remcount = remcount + int(rec.count)
   #elif rec.duplicate:
   # removed.append(rec)
   else:
    recs.append(rec) # keep
+   keepcount = keepcount + int(rec.count)
  # write removed to stdout
  print len(removed),"known unused records removed from pwbib for purposes of matching"
  for i in xrange(0,len(removed)):
@@ -109,6 +113,9 @@ def adjust_crefrecs(crefrecs,pwbibnewrecs):
   print out.encode('utf-8')
  print "END OF REMOVALS from crefrecs"
  print '-'*80
+ print remcount," = instance count of cref records removed from cref re pwbib"
+ print keepcount," = instance count of cref records retained"
+ print (remcount + keepcount)," = Total instance count "
  print
 
  return recs
@@ -148,6 +155,32 @@ def init_pwbib_new(filein):
  f.close()
  return recs
 
+def pwbib_abbrv_all(bibrecs,pwbibnewrecs,fileout):
+ allabbrv = {}
+ for rec in bibrecs:
+  abbrvadj = rec.abbrvadj
+  if abbrvadj in allabbrv:
+   pass
+  else:
+   allabbrv[abbrvadj] = 'bibrecs'
+ for abbrvadj in pwbib_unusedkeys:
+  if abbrvadj in allabbrv:
+   pass
+  else:
+   allabbrv[abbrvadj] = 'unused'
+ for rec in pwbibnewrecs:
+  abbrvadj = rec.abbrv
+  if abbrvadj in allabbrv:
+   pass
+  else:
+   allabbrv[abbrvadj] = 'new'
+  
+ f = codecs.open(fileout,"w","utf-8")
+ for k,v in allabbrv.iteritems():
+  f.write('%s\n' % k)
+ f.close()
+ print len(allabbrv),"records written to",fileout
+
 if __name__ == "__main__":
  filebib = sys.argv[1]
  filecref = sys.argv[2]
@@ -157,6 +190,7 @@ if __name__ == "__main__":
  print len(pwbibnewrecs),"new resources read from",filenew
 
  bibrecs = init_pwbib1(filebib)
+ pwbib_abbrv_all(bibrecs,pwbibnewrecs,"pwbib_abbrv_all.txt")
  crefrecs = init_cref(filecref)
  print len(bibrecs),"records from",filebib
  print len(crefrecs),"records from",filecref
