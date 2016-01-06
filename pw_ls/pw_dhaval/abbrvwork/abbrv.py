@@ -138,6 +138,8 @@ def clean_special(a,clean):
    'R2SHIMAN2D2ALASTOTRA', # so number dropped
    u'BÜHLER,Rep', # so .No dropped
    'PANDIT', # so IX dropped
+   # issue 53
+   u'VP.²',  # so ok if next character is a digit
    ]
  for start in starts:
   try:

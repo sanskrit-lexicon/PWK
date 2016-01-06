@@ -68,11 +68,13 @@ pwbib_unusedkeys=[
   'SAM5KSHEPAC2','ALAM5KA7RAR',
 ]
 def adjust_bibrecs(bibrecs):
+ #print "adjust_bibrecs: for purpose of testing, NOT removing the following"
  recs=[] # returned
  removed=[] 
  for rec in bibrecs:
   if rec.abbrvadj  in pwbib_unusedkeys:
    removed.append(rec)
+   #recs.append(rec)  # for testing
   #elif rec.duplicate:
   # removed.append(rec)
   else:

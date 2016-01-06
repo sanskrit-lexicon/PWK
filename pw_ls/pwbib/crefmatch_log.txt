@@ -1,95 +1,120 @@
-38 new resources read from pwbib_new.txt
-522 records written to pwbib_abbrv_all.txt
-502 records from pwbib1.txt
-2103 records from ../pw_dhaval/abbrvwork/abbrvoutput/sortedcrefs.txt
-27 known unused records removed from pwbib for purposes of matching
+59 new resources read from pwbib_new.txt
+545 records written to pwbib_abbrv_all.txt
+503 records from pwbib1.txt
+1505 records from ../pw_dhaval/abbrvwork/abbrvoutput/sortedcrefs.txt
+53 known unused records removed from pwbib for purposes of matching
 Case 01: A7PAST.GR2HJ@hrAd@hrAd@135694@1
-Case 02: C2U7DRADH@sakIla@sakIla@117241@1
-Case 03: DRAVJAV@agraja@agraja@732@1
-Case 04: K4AN2D2IDA7SA@sarvasvAy@°sarvasvAy@122205@1
-Case 05: KA7D.ed.Bomb@vAYC@vAYC@100166@1
-Case 06: Nachträge@kalya@kalya@25667@1
-Case 07: R.Schl@mahArAjANgaRa@mahArAjANgaRa@84880@1
-Case 08: R2SHIMAN2D2ALASTOTRA@smar@smar@131651@1
-Case 09: ZACH@hugga@hugga@134979@1
-Case 10: ZIMMER@pramota@pramo/ta@72847@1
-Case 11: C2A7N5KH@yaTAsUktam@yaTAsUktam@90086@2
-Case 12: C2A7N5KH.A7R@vArkalin@vArkalin@101048@2
-Case 13: KUMA7RILA@aBihotavE@aBihotavE@7769@3
-Case 14: PANDIT@antarmuKatA@antarmuKatA@5345@3
-Case 15: SCHRÖDER@mayUraparvata@mayUraparvata@83483@3
-Case 16: MALLIN@aparicita@aparicita@6129@7
-Case 17: VARDHAMA7NAK4@lohAcArya@lohAcArya@96933@7
-Case 18: PAN4K4AT.ed.Bomb@antarvAsika@antarvAsika@5371@9
-Case 19: A7PAST.GAUT@Atmavant@Atmavant@14243@10
-Case 20: DAMAJANTI7K@raNku@raNku@91976@10
-Case 21: R.ed.GORR@ajAtasAra@ajAtasAra@1310@12
-Case 22: BHA7G.P.ed.Bomb@anudapAna@anudapAna@4432@41
-Case 23: ed.Bomb@aYcana@*aYcana@1426@43
-Case 24: AUFRECHT@tand@tand@44532@44
-Case 25: R.GORR@aDiyoDa@aDiyoDa@2889@97
-Case 26: UTPALA@aDama@aDama/@2701@116
-Case 27: C2AM5K.zu.BA7DAR@aBisaMBava@aBisaMBava@7729@381
+Case 02: BHAR@atyantara@*atyantara@2254@1
+Case 03: C2U7DRADH@sakIla@sakIla@117241@1
+Case 04: DRAVJAV@agraja@agraja@732@1
+Case 05: JOGAJ@ditisutaguru@ditisutaguru@50132@1
+Case 06: K4AN2D2IDA7SA@sarvasvAy@°sarvasvAy@122205@1
+Case 07: KA7D.ed.Bomb@vAYC@vAYC@100166@1
+Case 08: KAMALA7KARA@sakIla@sakIla@117241@1
+Case 09: KUHN@lAkza@lAkza@95981@1
+Case 10: KUHN'S.Beitrr@Srutar@Sruta/r@115351@1
+Case 11: MANU@DA@DA@55032@1
+Case 12: Nachträge@kalya@kalya@25667@1
+Case 13: R.Schl@mahArAjANgaRa@mahArAjANgaRa@84880@1
+Case 14: R2SHIMAN2D2ALASTOTRA@smar@smar@131651@1
+Case 15: SIDDH.K.ed.TA7R@tasTI@*tasTI@45086@1
+Case 16: VAIDJAKA@viSArada@viSArada@104562@1
+Case 17: VISHN2U@sahADyAyin@sahADyAyin@123243@1
+Case 18: WEBER,RA7MAT.Up@vAma@vA/ma@100613@1
+Case 19: ZACH@hugga@hugga@134979@1
+Case 20: ZIMMER@pramota@pramo/ta@72847@1
+Case 21: C2A7N5KH.A7R@vArkalin@vArkalin@101048@2
+Case 22: WHITNEY@SI@SI@112857@2
+Case 23: KUMA7RILA@aBihotavE@aBihotavE@7769@3
+Case 24: PANDIT@antarmuKatA@antarmuKatA@5345@3
+Case 25: PAT@tvakam@*tvakam@48177@3
+Case 26: SCHRÖDER@mayUraparvata@mayUraparvata@83483@3
+Case 27: TANTRAS@kula@ku/la@29092@3
+Case 28: NR2S.TA7P.UP@yajus@ya/jus@89441@4
+Case 29: VJA7SA@karmASaya@karmASaya@25310@4
+Case 30: K4AKR.zu.SUC2R@cipiwaka@cipiwaka@40221@5
+Case 31: HEM.Pr.Gr@goRa@goRa@36508@6
+Case 32: SATJA@anyapUrvikA@anyapUrvikA@5665@6
+Case 33: MALLIN@aparicita@aparicita@6129@7
+Case 34: VARDHAMA7NAK4@lohAcArya@lohAcArya@96933@7
+Case 35: HEM.JOGAC2@prASuka@prASuka@74635@8
+Case 36: A7PAST.GAUT@Atmavant@Atmavant@14243@10
+Case 37: C2A7N5KH@yaTAprakfti@yaTAprakfti@89888@10
+Case 38: DAMAJANTI7K@raNku@raNku@91976@11
+Case 39: KERN@ketumAla@ketumAla@30614@12
+Case 40: R.ed.GORR@ajAtasAra@ajAtasAra@1310@12
+Case 41: SIDDH.K@anAhata@anAhata@4027@18
+Case 42: NAIGH@apus@*apus@6568@22
+Case 43: KAUTUKAS@DarmAnala@DarmAnala@54943@25
+Case 44: KA7VJA7D@adAkziRAtya@adAkziRAtya@2440@27
+Case 45: PAN4K4AT.ed.Bomb@antarvAsika@antarvAsika@5371@39
+Case 46: BHA7G.P.ed.Bomb@anudapAna@anudapAna@4432@41
+Case 47: ed.Bomb@aYcana@*aYcana@1426@43
+Case 48: AUFRECHT@tand@tand@44532@45
+Case 49: HALL@atandracandraka@atandracandraka@1600@47
+Case 50: R.GORR@aDiyoDa@aDiyoDa@2889@97
+Case 51: UTPALA@aDama@aDama/@2701@119
+Case 52: R.ed.Bomb@aNgarAga@aNgarAga@963@234
+Case 53: C2AM5K.zu.BA7DAR@aBisaMBava@aBisaMBava@7729@382
 END OF REMOVALS from crefrecs
 --------------------------------------------------------------------------------
-800  = instance count of cref records removed from cref re pwbib
-71827  = instance count of cref records retained
-72627  = Total instance count 
+1280  = instance count of cref records removed from cref re pwbib
+71170  = instance count of cref records retained
+72450  = Total instance count 
 
-2076 records kept from ../pw_dhaval/abbrvwork/abbrvoutput/sortedcrefs.txt after adjustment from pwbib_new.txt
-31 known unused records removed from pwbib for purposes of matching
+1452 records kept from ../pw_dhaval/abbrvwork/abbrvoutput/sortedcrefs.txt after adjustment from pwbib_new.txt
+30 known unused records removed from pwbib for purposes of matching
 Case 01: gan2a : im Gaṇapātha zu P. 
 Case 02: HARISV. : HARISVĀMIN. 
-Case 03: MAHA7B. : MAHĀBHĀṢYA, lith. in Benares. 
-Case 04: MAYR, Ind. Erb. : Das indische Erbrecht von AUREL MAYR, Wien 1873. 
-Case 05: NI7LAK. mit einer Zahl : NĪL. 
-Case 06: BÜHLER, Rep. 1872-73 : BÜHLER, Report on Sanskrit Mss. 1872--73. 
-Case 07: C2OBH. : COBHANAMUNI'S ŚOBHANASTUTAYAS in Z. d. d. m. G. 32, 509. fgg. (YACOBI). 
-Case 08: Ind.Str. : WEBER, Indische Streifen. 
-Case 09: MAITR. PADDH. : PADDHATI ZU MAITR. S. , Hdschr. (V. SCHRÖDER). 
-Case 10: GAN2ITA,MADHJA7M(A7DHJA7JA) : (KERN). 
-Case 11: KA7TJ(A7JANA) : nach Citaten in verschiedenen juristischen Werken(YOLLY). 
-Case 12: KA7TJ. C2RA7DDHAK. : KĀTYĀYANA'S ŚRĀDDHAKALPASŪTRA (STENZLER). 
-Case 13: PRAG4A7PATI : , nach Citaten in verschiendenen juristischen Werken (YOLLY). 
-Case 14: KIELHORN, Rep. : Report on the search for Sanskrit Mss. in the Bombay Presidency, during the year 1880-81. by F. KIELHORN(ROTH) . 
-Case 15: SVAPNAK4(INTA7MAN2I) : (PISCHEL) . 
-Case 16: ALAM5KA7RAR : (ATNĀKARA) des ŚOBHĀKARA, Deccan. Coll. Hdschr. No. 227 (PISCHER). 
-Case 17: ALAM5KA7RAS : (ARVASVA) von RUYYAKA, Deccan Coll. Hdschr. No. 231 (PISCHER). 
-Case 18: C2RIMA7LA7M : (ĀHĀTMYA), Hdschr. (AUFRECHT). 
-Case 19: DEVI7BHA7G : (AVATAPURĀṆA), Hdschr. (AUFRECHT). 
-Case 20: DRAVJAC2 : (UDDHITATTVA), Hdschr. (AUFRECHT). 
-Case 21: KA7VJA7L : (OKALOCANA), Hdschr. (AUFRECHT). 
-Case 22: KHAN2D2APR : (AŚASTI) im Pandit, Bed. 5 und 6 (AUFRECHT). 
-Case 23: K4HA7NDOGJAP : (ARIŚIṢṬA) nach Citaten in andern Werken (AUFRECHT). 
-Case 24: LEUMANN, Aup. Gl. : Glossar in. , Das Aupapātika Sūtra, herausgegeben von Dr. ERNST LEUMANN. 
-Case 25: SAM5KSHEPAC2 : (AM̃KARAJAYA) von MĀDHAVA (AUFRECHT). 
-Case 26: VA7MANAP : (URĀṆA), Hdschr. (AUFRECHT). 
-Case 27: VA7RA7HAP : (URĀNA) , Hdschr. (YACOBI). 
-Case 28: Bydragen : (tot de Taal-, Land-en Volkenkunde van Nederlandsch Indie) (H. KERN). 
-Case 29: K4ANDRA7LOKA : (R. PISCHEL). 
-Case 30: KA7VJA7L : (AM̃KĀRA des RUDRAṬA) (R. PISCHEL). 
-Case 31: SAHR2DAJA7LOKA : (R. PISCHEL). 
+Case 03: MAYR, Ind. Erb. : Das indische Erbrecht von AUREL MAYR, Wien 1873. 
+Case 04: NI7LAK. mit einer Zahl : NĪL. 
+Case 05: BÜHLER, Rep. 1872-73 : BÜHLER, Report on Sanskrit Mss. 1872--73. 
+Case 06: C2OBH. : COBHANAMUNI'S ŚOBHANASTUTAYAS in Z. d. d. m. G. 32, 509. fgg. (YACOBI). 
+Case 07: Ind.Str. : WEBER, Indische Streifen. 
+Case 08: MAITR. PADDH. : PADDHATI ZU MAITR. S. , Hdschr. (V. SCHRÖDER). 
+Case 09: GAN2ITA,MADHJA7M(A7DHJA7JA) : (KERN). 
+Case 10: KA7TJ(A7JANA) : nach Citaten in verschiedenen juristischen Werken(YOLLY). 
+Case 11: KA7TJ. C2RA7DDHAK. : KĀTYĀYANA'S ŚRĀDDHAKALPASŪTRA (STENZLER). 
+Case 12: PRAG4A7PATI : , nach Citaten in verschiendenen juristischen Werken (YOLLY). 
+Case 13: KIELHORN, Rep. : Report on the search for Sanskrit Mss. in the Bombay Presidency, during the year 1880-81. by F. KIELHORN(ROTH) . 
+Case 14: SVAPNAK4(INTA7MAN2I) : (PISCHEL) . 
+Case 15: ALAM5KA7RAR : (ATNĀKARA) des ŚOBHĀKARA, Deccan. Coll. Hdschr. No. 227 (PISCHER). 
+Case 16: ALAM5KA7RAS : (ARVASVA) von RUYYAKA, Deccan Coll. Hdschr. No. 231 (PISCHER). 
+Case 17: C2RIMA7LA7M : (ĀHĀTMYA), Hdschr. (AUFRECHT). 
+Case 18: DEVI7BHA7G : (AVATAPURĀṆA), Hdschr. (AUFRECHT). 
+Case 19: DRAVJAC2 : (UDDHITATTVA), Hdschr. (AUFRECHT). 
+Case 20: KA7VJA7L : (OKALOCANA), Hdschr. (AUFRECHT). 
+Case 21: KHAN2D2APR : (AŚASTI) im Pandit, Bed. 5 und 6 (AUFRECHT). 
+Case 22: K4HA7NDOGJAP : (ARIŚIṢṬA) nach Citaten in andern Werken (AUFRECHT). 
+Case 23: LEUMANN, Aup. Gl. : Glossar in. , Das Aupapātika Sūtra, herausgegeben von Dr. ERNST LEUMANN. 
+Case 24: SAM5KSHEPAC2 : (AM̃KARAJAYA) von MĀDHAVA (AUFRECHT). 
+Case 25: VA7MANAP : (URĀṆA), Hdschr. (AUFRECHT). 
+Case 26: VA7RA7HAP : (URĀNA) , Hdschr. (YACOBI). 
+Case 27: Bydragen : (tot de Taal-, Land-en Volkenkunde van Nederlandsch Indie) (H. KERN). 
+Case 28: K4ANDRA7LOKA : (R. PISCHEL). 
+Case 29: KA7VJA7L : (AM̃KĀRA des RUDRAṬA) (R. PISCHEL). 
+Case 30: SAHR2DAJA7LOKA : (R. PISCHEL). 
 END OF REMOVALS
 --------------------------------------------------------------------------------
 
-471 After adjustment for unused records from pwbib1.txt
-bib duplicate abbrv: DHU7RTAS 082 322
-bib duplicate abbrv: HA7SJ 113 335
-bib duplicate abbrv: KAP 137 343
-bib duplicate abbrv: KA7T2H 141 346
-bib duplicate abbrv: KA7D 130 389
-bib duplicate abbrv: K4AURAP 147 394
-bib duplicate abbrv: KUMA7RAS 160 396
-bib duplicate abbrv: RA7G4AN 229 427
-bib duplicate abbrv: BAUDH 308 437
-bib duplicate abbrv: BHAVISHJOTT.P 036 442
-bib duplicate abbrv: HARSHAK4 112 454
-bib duplicate abbrv: KA7TJ 458 459
-bib duplicate abbrv: VASISHT2HA 411 482
-bib duplicate abbrv: C2A7K 051 488
-bib duplicate abbrv: SARASVATI7K 476 498
-bib duplicate abbrv: VA7GBH 273 501
-455 pwbib records, after removing duplicates
-455 matching abbreviations
-71827 total abbreviation instances from crefs
-66284 of these accounted for by matching abbreviations
+473 After adjustment for unused records from pwbib1.txt
+bib duplicate abbrv: DHU7RTAS 082 323
+bib duplicate abbrv: HA7SJ 113 336
+bib duplicate abbrv: KAP 137 344
+bib duplicate abbrv: KA7T2H 141 347
+bib duplicate abbrv: KA7D 130 390
+bib duplicate abbrv: K4AURAP 147 395
+bib duplicate abbrv: KUMA7RAS 160 397
+bib duplicate abbrv: RA7G4AN 230 428
+bib duplicate abbrv: BAUDH 309 438
+bib duplicate abbrv: BHAVISHJOTT.P 036 443
+bib duplicate abbrv: HARSHAK4 112 455
+bib duplicate abbrv: KA7TJ 459 460
+bib duplicate abbrv: VASISHT2HA 412 483
+bib duplicate abbrv: C2A7K 051 489
+bib duplicate abbrv: SARASVATI7K 477 499
+bib duplicate abbrv: VA7GBH 274 502
+457 pwbib records, after removing duplicates
+457 matching abbreviations
+71170 total abbreviation instances from crefs
+69062 of these accounted for by matching abbreviations

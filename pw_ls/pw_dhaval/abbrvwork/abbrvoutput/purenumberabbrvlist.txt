@@ -1348,7 +1348,6 @@ ebend.@aSatadakziRa@a/SatadakziRa@11464
 118,9).@aSri@aSri/@11745
 1,6,16)@aSrImant@aSrImant@11750
 283,32@aSruta@a/Sruta@11754
-2.1,152).@aSruta@a/Sruta@11754
 4.@aSrupAtaka@aSrupAtaka@11763
 81,23.@aSruplAvita@aSruplAvita@11766
 10.@aSva@a/Sva@11789
@@ -2460,6 +2459,7 @@ katha7s.18,250.@kftonmAda@kftonmAda@30082
 289,13.@kEvalya@kEvalya@30933
 202,14.@kowi@kowi@31023
 149,2.@kopa@kopa@31095
+29,3,6.@kopa@kopa@31095
 2.790,10.@kozWaka@kozWaka@31222
 (321,23)@kOtuka@kOtuka@31353
 58,16.@kOtukita@kOtukita@31364
@@ -4071,7 +4071,6 @@ ebend.@pitfmeDa@pitfmeDa@66993
 147,27.@pucCAgra@pucCAgra@67535
 51,6.@puYjay@puYjay@67546
 217,12.15.@puRqarIkamuKI@puRqarIkamuKI@67592
-vp.2,4,110.@puRqra@puRqra@67600
 85,2.@puRyatIrTa@puRyatIrTa@67629
 154,5.@puRyAtman@puRyAtman@67678
 135,7.@putraka@putraka@67696
@@ -4277,14 +4276,12 @@ ebend.,@pramAtfkAmaha@pramAtfkAmaha@72776
 138,15.@praSnakaTA@praSnakaTA@73397
 4,93,32.@prazWavah@prazWavah@73436
 294,27@prasaNga@prasaNga@73447
-52.@prasannacandra@prasannacandra@73461
 24,18.@prasava@prasava/@73487
 321,16.@prasAda@prasAda@73516
 315,19.@prasAdana@prasAdana@73519
 (113,24.@prasAdavitta@prasAdavitta@73530
 124,15.@prasidDi@prasidDi@73551
 328,5.@prasidDi@prasidDi@73551
-3,8,227.3,29.@prasuta@pra/suta@73557
 73,40.@prasuti@prasuti@73558
 2,64,40.@prastAra@prastAra@73610
 173,25.@prasTa@prasTa@73628
@@ -5604,7 +5601,6 @@ ebend.@SitikaRWIya@SitikaRWIya@112214
 (179,10)@Siras@Si/ras@112342
 21,6.fgg.@Siras@Si/ras@112342
 321,6.@Sirastra@Sirastra@112348
-1,322.390.@SiromaRi@SiromaRi@112399
 147.@SiromaRi@SiromaRi@112399
 ebend.@SiromaRi@SiromaRi@112399
 138,6.@Sirohftkamala@Sirohftkamala@112424
@@ -5705,7 +5701,6 @@ ebend.142.@SrAvaka@SrAvaka@114979
 83,14.@Sru@Sru@115312
 82,6@Sru@Sru@115312
 19.@Sruta@Sruta/@115320
-1,293.@SrutaBft@SrutaBft@115348
 173,21.@Srutavant@Srutavant@115358
 267,21).@Sruti@Sru/ti@115393
 324,1.@SreyaMs@Sre/yaMs@115473

@@ -24,8 +24,8 @@
 DAMAJANTI7K  (6 times)
 UTPALA (90)
 C2A7N5KH.A7R (1)
-NR2S.TA7P.UP. (3)
-NR2S.UP. (32)
+NR2S.TA7P.UP (3)
+;NR2S.UP (32)   Actually is in pwbib0!. Not a new one.
 R2SHIMAN2D2ALASTOTRA (1)
 C2A7N5KH (92)
 ed.Bomb (54)  Not sure how to handle.
@@ -35,7 +35,7 @@ SCHRÖDER (2)
 C2A7N5KH (92)
 ; New additions from PWK/issues/27
 KUMA7RILA (3)
-SIDDH.K.ed.TA7R. (1)
+SIDDH.K.ed.TA7R (1)
 ; WHITNEY refs: 
 ;   WHITNEY.,Gr.84,b. under hw jAtya
 ;   WHITNEY,Ind.  under hw vizwIma
@@ -62,7 +62,7 @@ PAN4K4AT.ed.Bomb (9)
 ; aliases for pwbib0 'R.' Ramayana entry
 R.GORR  (70, approx.)
 R.ed.GORR (12, approx.)
-R.ed.Bomb. (200, approx.)
+R.ed.Bomb (200, approx.)
 R.Schl (1)
 ; alias for pwbib0 'BHA7G.P' BagavatapurARa
 BHA7G.P.ed.Bomb (?)
@@ -78,4 +78,28 @@ ZIMMER (3)
 ZACH (1)
 VARDHAMA7NAK4 (7)
 C2AM5K.zu.BA7DAR (376)  This is a large number.
-K4AKR.zu.SUC2R. (5?)
+K4AKR.zu.SUC2R (5?)
+; PWK/issues/53
+VAIDJAKA (1)
+SIDDH.K (15)
+SATJA (6)
+VJA7SA (3)
+BHAR (1) Same as BHARATA ?
+KERN (13) 
+TANTRAS (3)
+MANU (1)
+WEBER,RA7MAT.Up (1)  Variant for 'WEBER,RA7MAT'
+ZIMMER,Altind.Leben (1)
+; removed HALL,VP (1) Variant for VP.^2 == 2te Auflage von WILSON's Uebersetzung des VISHN2UPURA7N2A, herausgegeben von HALL.
+HALL (48)  Author
+HEM.JOGAC2 (1) Variant for HEM.JOG
+HEM.Pr.Gr (1) Variant for HEM.Pr.Gr.ed.Bomb
+C2A7J(PISCH.) (1) variant of C2A7K. THIS MAY NOT BE NEEDED FOR MATCHING.
+JOGAJ (1)  Possibly yogayAjYavalkya
+KA7VJA7D (27) Possibly kAvyAdarSa
+KAUTUKAS (25) Possibly kOtukasarvasva
+NAIGH (21) Possibly nEGaRwuka
+PAT (3) pataYjali
+KUHN (1) Author. 
+KUHN'S.Beitrr (1)  Another work by Kuhn?
+VISHN2U (1) headword sahADyAyin.  May be a print error and not a reference.
