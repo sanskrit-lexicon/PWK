@@ -80,7 +80,7 @@
 +.C2RI7P. == C2RI7PATI. (vol. 1)
 +.C2ULBAS. == C2ULBASU7TRA in der Zeitschirft The Pandit IX. X und New Series I (CAPPELLER). (vol. 1)
 +.C2VETA7C2V. UP. == C2VETA7C2VATAROPANISHAD in der Bibl. ind. (vol. 1)
-;Dhaval - The following may be DAC2AKUMA7RAK4ARITA. Not sure
+;Dhaval - The following refers to DAC2AKUMA7RAK4ARITA. Verified by zaaf2.
 +.DAC2AK. == DAC2AKUMA7RA, Ausg. von BÜHLER (CAPPELLER). (vol. 1)
 +.DAC2AR. == DAC2ARU7PA in der Bibl. ind. (vol. 1)
 +.DAIV.BR. == DAIVATABRA7HMAN2A, Calcutta 1875 und Ausg. von BURNELL. Mangalore 1873 (ROTH). (vol. 1)
@@ -101,11 +101,9 @@
 +.GAN2AR. == GAN2ARATNAMAHODADHI, nach der im Druck befindlichen Ausg. von EGGELING. Nur ein paar Mal gelegentlich citirt. (vol. 1)
 +.GAN2IT. == GAN2ITA7DHA7JA in BHA7SKARA'S SIDDHA7NTA C2IROMAN2I, Benares 1866(KERN). (vol. 1)
 +.GAN2IT.ADHIM. == GAN2ITA, ADHIMA7SANIRN2AJA (KERN). (vol. 1)
-;Dhaval: BHAGAN2A7DHJAA7JA ?
-+.GAN2IT.BHAGAN2. == GAN2ITA, BHAGAN2A7DHJA (KERN). (vol. 1)
++.GAN2IT.BHAGAN2. == GAN2ITA, BHAGAN2A7DHJA7JA (KERN). (vol. 1)
 +.GAN2IT.GRAH. == GAN2ITA, GRAHA7NAJADHA7JA (KERN). (vol. 1)
-;Dhaval: PRATJABDAC2UDDI ?
-+.GAN2IT.PRATJABD. == GAN2ITA, PRATJABDC2UDDI (KERN). (vol. 1)
++.GAN2IT.PRATJABD. == GAN2ITA, PRATJABDAC2UDDI (KERN). (vol. 1)
 +.GAN2IT.TRIPR. == GAN2ITA, TRIPRAC2ANA7DHIKA7RA (KERN). (vol. 1)
 +.GARBHOP. == GARBHOPANISHAD in Bibl. ind. (GELDNER und ROTH). (vol. 1)
 +.GAUD2AP. == GAUD2APA7DA, Commentator der SA7M5KHJAKA7RIKA7. (vol. 1)
@@ -146,8 +144,7 @@
 +.KA7M.NI7TIS. == KA7MANDAKI7JANI7TISA7RA in der Bibl. ind. (vol. 1)
 .KAN2. == KAN2A7DA'S VAIC2ESHIKADARC2ANA in der Bibl. ind. (vol. 1)
 .KA7N2D2. == KA7N2D2U7PA7KHJA7NA in LA. (vol. 1)
-;Dhaval: Maybe KSHEMEC2VARA and K4ANDAKAUC2IKA, not sure
-.K4AN2D2AK. == KSHEMIC2VARA'S K4ANDAKAC2IKA (PISCHEL). (vol. 1)
+.K4AN2D2AK. == KSHEMIC2VARA'S K4AN2D2AKAUC2IKA (PISCHEL). (vol. 1)
 .KAP. == KAPILA'S SA7M5KHJAPRAVAK4ANA. Einen vollständigen Index hat WINDISCH ZU Verfügung gestellt. (vol. 1)
 .KA7RIKA7 == Ka7rika7. (vol. 1)
 .K4ARAKA == K4ARAKASAM5HITA7, Calcutta 1929 und 1877 und Hdschr. im Besitz von ROTH (KERN und ROTH). (vol. 1)
@@ -204,8 +201,7 @@
 .MED. == MEDINIKOC2A. (vol. 1)
 .MED. avj. == AVJAJA7NEKA7RTHAVARGA am Ende des MEDINIKOC2A. (vol. 1)
 .MEGH. == MEGHADU7TA, Ausg. von STENZLER. (vol. 1)
-;Dhaval: Question marks need to be examined
-.MIT. == MITA7??SHABA7. Bei zwei Zahlen ist der VJAVAHA7RA7DHJA7JA, Calcutta 1829, gemeint, bei zwei Zahlen mit folgendem {%a%}oder{%b%} nebst Angabe der Zeile -- das vollständige Werk in 4to. (vol. 1)
+.MIT. == MITA7KSHARA7. Bei zwei Zahlen ist der VJAVAHA7RA7DHJA7JA, Calcutta 1829, gemeint, bei zwei Zahlen mit folgendem {%a%}oder{%b%} nebst Angabe der Zeile -- das vollständige Werk in 4to. (vol. 1)
 .M. K. S. == MA7N. K. S. (vol. 1)
 .MR2K4K4H. == MR2K4K4HAKAT2IKA, Ausg. von STENZLER. Comm. zu MR2K4K4H. sind die Auszüge in den Anmerkungen zu meiner Uebersetzung dieses Schauspiels. (vol. 1)
 .MUDRA7R. == MUDRA7RA7KSHASA, nach zwei Ausgaben, Calcutta 1831 und 1926 (CAPPELLER). (vol. 1)
@@ -263,8 +259,7 @@
 .SA7M5KHJAK. == SA7M5KHJAKA7RIKA7, Ausg. von WILSON. (vol. 1)
 .SAM5NJ. UP. == SAM5NJA7SOPANISHAD in der Bibl. ind. (GELDNER und ROTH). (vol. 1)
 .SAM5SK. K. == ANANTADEVA'S SAM5SKA7RAKAUSTUBHA, obl. fol. (vol. 1)
-;Dhaval: SA7RASUNDARI7 or SA7RASUNDARA
-.SA7RAS. == SA7RASUNDARI, ein Commentar zu AK. (vol. 1)
+.SA7RAS. == SA7RASUNDARI7, ein Commentar zu AK. (vol. 1)
 .SA7RA7V. == SA7RA7VALI, citirt bei UTPALA ZU VARA7H. BR2H. (vol. 1)
 .SARVAD. == SARVADARC2ANASAM5GRAHA in der Bibl. ind. (KERN). (vol. 1)
 .SARVOPAN. == SARVOPANISHATSA7RA in der Bibl. ind. (GELDNER und ROTH). (vol. 1)
@@ -295,8 +290,7 @@
 .VA7GBH. == VA7GBHAT2A'S A7JURVEDADARC2ANA (ROTH). (vol. 1)
 .VAG4RAS. == VAG4RASU7K4I, Ausg. von WEBER. (vol. 1)
 .VAIDJABH. == VAIDJABHA7SHJA (ROTH). (vol. 1)
-;Dhaval: Question mark needs to be resolved.
-.VAITA7N. == VAITA7NASU7TR??, Ausg, von GARBE. (vol. 1)
+.VAITA7N. == VAITA7NASU7TRA, Ausg, von GARBE. (vol. 1)
 .VA7JU-P. == VA7JUPURA7N2A, nach Citaten in andern Werken. (vol. 1)
 .VA7LAKH. == VA7LAKHILJA, die zwischen R2V. 8, 84 und 49 eingeschobenen Lieder (ROTH). (vol. 1)
 .VA7MANA == VA7MANA'S KA7VJA7LAM5KA7RAVR2TTI, Ausg. von CAPPELLER. (vol. 1)
@@ -320,8 +314,7 @@
 ; Jan 5, 2016 
 ; old: .VP.^2 == 2te Auflage von WILSON's Uebersetzung des VISHN2UPURA7N2A, herausgegeben von HALL. (vol. 1)
 .VP.² == 2te Auflage von WILSON's Uebersetzung des VISHN2UPURA7N2A, herausgegeben von HALL. (vol. 1)
-;Dhaval: Maybe VA7G4ASANEJI7
-.VS == VA7G4ASA7NI SAM5HITA7 (ROTH und WEBER). (vol. 1)
+.VS == VA7G4ASANEJISAM5HITA7 (ROTH und WEBER). (vol. 1)
 .VS. PRA7T. == PRA7TIC2A7KHJA zu VS in Ind. St. 4. (vol. 1)
 .WEBER, G4JOT. == WEBER, Ueber den Vedakalender, Namens G4JOTISHAM. (vol. 1)
 .WEBER, KR2SHN2AG4. == WEBER, Ueber die KR2SHN2G4ANMA7SHT2AMI7. Berlin 1868. (vol. 1)
@@ -417,7 +410,6 @@
 .KAT2HOP(ANISHAD) in der Bibl. ind. (vol. 3)
 .KA7TJ(A7JANA) nach Citaten in verschiedenen juristischen Werken(JOLLY). (vol. 3)
 .KA7TJ. C2RA7DDHAK. == KA7TJA7JANA'S C2RA7DDHAKALPASU7TRA (STENZLER). (vol. 3)
-;Dhaval: K4AURAPAN4K4A7C2IKA7 ?
 .K4AURAP. (A. ) == K4AURAPAN4K4A7C2AT, herausgegeben von M. ARIEL im Jornal aistique, 4me serie, Bd. XI, S. 469. fgg. (CAPPELLER). (vol. 3)
 .KUHN'S Z. == Zeitschrift für vergleichende Sprachforschung anf dem Gebiete der indogermanischen Sprachen. (vol. 3)
 .KUMA7RAS. 8. FGG. finde man im 1ten Bande Pandit und besonders herausgegeben von TA7RA7NA7THA TARKAVA7CHASPATI, Calcutta 1868. (vol. 3)
