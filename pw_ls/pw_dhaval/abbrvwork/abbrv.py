@@ -227,6 +227,84 @@ def clean_special(a,clean):
   ('VIKRAMA7N5KAK4.S','VIKRAMA7N5KAK4'),
   # PWK/issues/37
   ('SADDH.P.4,','SADDH.P.4'),
+  # PWK/issues/48
+  ('C2AM5K.zu.BA7DAR.S.','C2AM5K.zu.BA7DAR'),
+  ('WILSON,SA7M5KHJAK.S','WILSON,SA7M5KHJAK'),
+  # PWK/issues/57
+  ('Verz.d.B.H.No','Verz.d.B.H'),
+  ('PAN4K4AT.V','PAN4K4AT'),
+  ('VAM5C2ABR.XXXI','VAM5C2ABR'),
+  ('MA7RK.P.Einl','MA7RK.P'),
+  ('S.S.S.Einl','S.S.S'),
+  ('R2V.PRA7T.Einl','R2V.PRA7T'),
+  ('GAN2IT.S','GAN2IT'),
+  (u'BÜHLER,Rep.No',u'BÜHLER,Rep'),
+  ('A7PAST.Uebers.','A7PAST'),
+  ('K4ARAKA.ed.Calc.S','K4ARAKA.ed.Calc'),
+  ('MED.t','MED'), # hw = Gawa
+  ('MED.dh','MED'), # hw = anyavat, aBiDeya
+  ('G4AIM.I.S','G4AIM'),
+  ('BRAHMOP.S','BRAHMOP'),
+  ('AV.PRA7T.S','AV.PRA7T'),
+  ('SUBHA7SHITA7V.Einl','SUBHA7SHITA7V'),
+  ('AMR2T.UP.S','AMR2T.UP'),
+  ('UG4G4VAL.S','UG4G4VAL'),
+  ('R.GORR.Th','R.GORR'),
+  ('NI7LAK.:','NI7LAK'),
+  ("C2AM5KARA's",'C2AM5KARA'),
+  ('KALPAS.S','KALPAS'),
+  ('MAHA7BH.Bd','MAHA7BH'), #assume 'Bd' is an abbreviation
+  ('MED.dh','MED'),  # assume 'dh' is abbreviation
+  ('FOUCAUX.S','FOUCAUX'),
+  ('MAHA7BH.Einl','MAHA7BH'),
+  ('HARIV.Adhj','HARIV'), # Adjh =? abbreviation of aDyAya (chapter)
+  ('C2A7K.(PISCH)','C2A7K.(PISCH)'),  # not sure if needed. so (PISCH) kept
+  ("KIELHORN'S",'KIELHORN'),
+  ("ROTH'S","ROTH"),
+  ("AUFRECHT'S","AUFRECHT"),
+  ('A7RJABH.Einl','A7RJABH'),
+  ("K4AKRADATTA'S","K4AKRADATTA"),
+  ('Mel.asiat','Mel.asiat'), # so asiat won't be dropped
+  ("KERN'S","KERN"),
+  (u"BÜHLER's",u"BÜHLER"),
+  ('R.ed.Bomb.C2l','R.ed.Bomb'),
+  ('DAC2AR.Einl','DAC2AR'), # Einl. =? introduction 
+  ('C2A7K.CH','C2A7K'), # CH assumed to be abbreviation
+  ('Ind.Antiq.No','Ind.Antiq'),
+  ('JACOBI,KALPAS.Intr','JACOBI,KALPAS'),
+  ('WASSILIEW,der.Buddh.S','WASSILIEW,der.Buddh'),
+  ('HIT.IV','HIT'),
+  ('C2A7J(PISCH.)','C2A7J(PISCH.)'),
+  ('ZIMMER,Altind.Leben','ZIMMER,Altind.Leben'),
+  ('KIELH.Rep.(1881)','KIELH.Rep.(1881)'),
+  ('TS.Comm','TS'),
+  ('R2V.V','R2V'),
+  (u"M.MÜLLER'S",u"M.MÜLLER"),
+  ('C2KDR.Hdschr','C2KDR'), # Hdschr = Handschrift = handwriting
+  ('BHA7VAPR.Hdschr','BHA7VAPR'),
+  ('TA7N2D2JA-BR.Hdschr','TA7N2D2JA-BR'),
+  ('A7PAST.C2R.C2l','A7PAST.C2R'), # C2l = Sloka
+  ('HARSHAK4.ed.Bomb','HARSHAK4.ed.Bomb'),
+  ('Verz.d.Pet.H.No','Verz.d.Pet.H'),
+  ("GRASSMANN'S","GRASSMANN"),
+  ('BURNELL,T.No','BURNELL,T'),
+  ('C2A7RN5G.S','C2A7RN5G'),
+  ('NJA7JAM.Einl','NJA7JAM'),
+  ('HEM.PAR.Gr','HEM.PAR.Gr'),
+  ('GILD,Bibl','GILD'),
+  ('VARA7H.BR2H.S.S','VARA7H.BR2H.S'),
+  ('PAN4K4A7C2IKA7(ed.SOLF)','PAN4K4A7C2IKA7(ed.SOLF)'),
+  ('SV.(Calc.Ausg.)','SV.(Calc.Ausg.)'),
+  ('GR2HJA7S.(ed.BLOOMFIELD)','GR2HJA7S.(ed.BLOOMFIELD)'),
+  ('P.,Sch','P'),
+  ('JOLLY,Sch.','JOLLY'),
+  ('C2AT.BR.z.B','C2AT.BR.'), # z.B = zum Beispiel = for example
+  ('NJA7JAS.Comm.S','NJA7JAS'),
+  ('BI7G4AG.C2l','BI7G4AG'),
+  ('NR2S.UP.(Bibl.ind.)','NR2S.UP.(Bibl.ind.)'),
+  ('MED.sh','MED'),
+  ('H.an','H'),
+  ('C2A7K.Ch','C2A7K'),
  
  ]
  for (start,cleanadjman) in startpairs:
