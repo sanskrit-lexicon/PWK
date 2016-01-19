@@ -30,7 +30,8 @@ class Pwbib1(object):
    ('SUPARN2.undSUPARN2A7DHJ','SUPARN2'),
    ('PRAKRIJA7K(AUMUDI),Hdschr.(AUFRECHT).RA7JENDR.Not','PRAKRIJA7K'),
    ("KA7TJ (A7JANA'S)KARM (APRADI7PA)","KA7TJ.KARM"),
-   ("KA7TJ (A7JANA'S) PARIBH (A7SHA7S)","KA7TJ.PARIBH")
+   ("KA7TJ (A7JANA'S) PARIBH (A7SHA7S)","KA7TJ.PARIBH"),
+   ("OLD","OLD.Buddha"), # Jan 17, 2016
   ]
   for (old,new) in changes:
    if key == old:
