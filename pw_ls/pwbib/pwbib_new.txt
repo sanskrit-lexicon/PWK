@@ -103,3 +103,262 @@ PAT (3) pataYjali
 KUHN (1) Author. 
 KUHN'S.Beitrr (1)  Another work by Kuhn?
 VISHN2U (1) headword sahADyAyin.  May be a print error and not a reference.
+; PWK/issues/47
+BHA7G.P.ed.BURN  (4) inferred
+STENZLER (8)  Author of German editions(?)
+BAUDH.GR2HJ.PARIC2 (1) bODAyana gfhyasUtra pariSizwa ?
+BENFEY (5) Author Misc. works, either not specified or parenthetically specified.
+SATUA (5) Author?
+MBH.ed.Bomb (14) 
+M.MÜLLER (2)  Author with no specific work mentioned
+BURNOUF (6) Author with no specific work mentioned
+K4ARAKA.ed.Calc  (1?)
+MBH.ed.Calc (2?)
+RA7G4AT.ed.Calc (1?)
+HEM.Pr.Gr.ed.PISCHEL (1)
+HEM.Pr.Gr (5)
+TBR.Comm (5) 
+KA7LIDA7SA (5) Name of poet.
+WILSON,SA7M5KHJAK (1) variant of SA7M5KHJAK
+WILSON (3)  Author
+; next: DAC2AKUMA7RAK4ARITA, ed. WILSON (GILD. Bibl. 236).  (from PWG)  See issues/50
+DAC2AK.ed.WILSON (1) 
+DA7RILA (5)  mw shows dArila = N. of Sch. on Kauṡ.
+RAGH.ed.Calc (10) Variant reference for  'RAGH' ?
+DHU7RTAS.ed.Calc (1) a specific edition of DUrtasamAgama
+;
+; PWK/issues/51
+;
+MA7LAV.ed.BOLL (4) 
+TAITT.PRA7T (5)
+BRA7HMAN2A (5) May be a generic reference to brAhmaRas 
+; MW on next: उप-लेख [p= 206] : m. " subordinate writing ",
+;  N. of a grammatical work connected with the प्राति-शाख्यs.
+UPALEKHA (1) 
+GELDNER (5)  Author
+; GAUT.A7PAST (approx. 25)  per discussion in issue, this separated as two refs.
+BR2HASPATI (1) Probably variant for BR2HASP.  == BR2HASPATI of pwbib0
+;
+;  PWK/issues/57  Jan 18, 2016
+;
+WHITNEY,Ind (1)
+SMR2TIM (1)
+D.P (1)
+BHA7RADVA7G4A (3)
+DURGA.zu.NIR (4) kutsI , parihiMsA, spfhayitar (one other
+MAHA7N (1)
+KA7N2VA-REC (2) vahas, vArzma
+GOBH.Einl (1)
+C2A7K.PISCH (1)
+WRIGHT,Hist.of.Nep (1)
+MUIR.ST (1)
+HEDRI (1)  print error for HEMA7DRI ? hw = kzIravaha
+PADMAP (1) hw = upasAda
+PATAN4G4ALI (1) hw = sPowa
+KA7C2JAPA (2) hw = gaRq , somaja
+DELBRÜCK (2) hw = rarAvan, sma
+TAWNEY (3)  hw = sajAla, sawAla, buD.  A British Sanskrit translator ?
+C.H.TAWNEY (1) saMpada
+JAVANEC2VARA (4) hw = devapurohita , mahendradevI , BuvanapraRetar, su (pra)
+HULTZSCH (2) hw = satvant, sTUlalakza.  Ref wikipedia
+VR2TTARATNA7KARA (1) hw = rAmaSarman
+KAIJ (4) hw = AtmapaYcama, devayAtu, nArkuwa, nfkuwI. 
+MED.g4 (1) hw = CurikA   
+BHARATA (3) hw = sarpaSiras, mUrCana, mUrC
+GARBE (37)  e.g. vyaNga. Most (all?) ¯GARBE <zu> ¯RA7G4AN
+I7C2OP (2) hw = AtmAvAsya, gA
+VRATARA7G4A (4) hw = Sivapavitraka, sahfzwakam, haritAlikAvrata, harimanTa
+MA7DHAVI7JADHA7TUVR2TTI (1) hw=SilI
+BHA7G (1) hw = ftaMBara
+AC2VAV (1) hw = hasta
+C2A7K.CH (2) hw = DanurgrAha, sadfzwivikzepam
+ANTJESHT2IK (1) hw = heruka
+RUDRAJA7MALA (1) hw = amara
+COLEBR.MISC.Ess (1) hw = rAqa
+KA7C2JAPA (1) hw = SabdAy
+RA7JENDR.Not (1) hw = raGumaRi
+ROTH (3) hw = Satarca, smftimahArRava, varuRaSezas
+KA7TJ.C2R.PADDH (1) hw = sajjIkzAra
+HARADATTA (2) hw = tiryagvAta, vAgvada
+DRAUP (2) hw = nand, nAmya
+Sch (151)  e.g. anadas, anantarita, anAgAmuka etc.
+MALLIKA7MA7RUTA (1) hw = hiRq
+VIG4N4A7NEC2VARA (6) hw = svastika , saMpramApaRa, saMcAraRa, sAvaka, srAva, sTApaka
+SUD (1)? hw = homadarvI
+KA7TANTRA (1) hw = SradDA
+BRA7HMAN2 (2) hw = paramika, vatsabanDA
+K4HANDOGAPARIC2 (1) hw = nam (p. 3180-2, top)
+C2IKSHA7 (5) hw = ASrayasTAna, kareRu, Sirogata, saMkUjita, SiraHsTita
+RA7M.RA7S (1) hw = saMKya
+PUSHPADANTA (1) hw = amaNgalya
+PARAMAHAM5SOP (1) hw = vfttihan
+AV.PADDH (1) hw=heruka
+; I am treating 'MED.dh.number' as the reference MED, is dh an abbreviation?
+;   hw = anyavat, aBiDeya
+OPPERT (1) hw = suBadrAharaRa
+KNAUER (2) hw = viPARwa, SrIrBakza
+AV.PRA7T (21+) hw = anucca, OkAra, aYj, and others
+K4HANDOGOPARIC2 (1) hw = nam  (3180-2)
+R.ed.SCHL. (2) hw = aBiruta, varzarAtra
+AUPAMANJAVA (1) hw = yaTAprayogam
+JAC2NA (1) hw = laYcA
+DURGA (2) hw = jabAru, vayiyu
+JACOBI (2) hw = mfgarAjaDArin, smar
+R2GVIDHA7NA (1) hw = stu (7202-3)
+ROTH (3) hw = stAman, satyatAt, BajeraTa
+BHA7GURI (1) hw = SilI
+SUBHA7SHITARATNABH.PRAK (1) hw = sAhajika
+SIDDH.K.ed.TA7RA7N (1) hw = pratyAyana  TA7RA7N prob = TA7RA7NA7THA mentioned twice in pwbib titles
+R2V.ed.M (1) hw = iq
+A7NANDAGIRI (1) hw = BUmikA.  Alias (full-form) of abbrv. A7NANDAG
+C2AM5KARA (1) hw = paYcakleSaBeda
+LALLA (2) hw = kzitinandana, stamberama
+VIVEK (1) hw = vizamaya  (same as VIVEKAV ?)
+JOLLY (4) hw = SilAPalaka, sad, spfSa, svabrAhmaRyA  (Author)
+MAD (1) hw = arkapuzpI
+HIRAN2JAKEC2IN (1) hw = sezwi
+; in hw = SambawI, MAHA7BH.Bd.2,S.10. Assume 'Bd' is abbreviation ?
+; in hw = tantray, ¯MED.dh.3  assume 'dh' is abbreviation ?
+ATHARVAC2IKHOP (1) hw = saMDartar
+UVAT2A (2) hw = nipur, pratiDura (author)
+FOUCAUX (1) hw = saMdaMSaka
+PETERSON (2) hw = suBAzitaratnasaMdoha, suraBicUla
+; re 'Bijdragen 1885, S.20' hw=vEzRugupta, not capitalized like references, 
+;    but looks like one otherwise. Currently not coded as reference.
+LA (1) hw=BAvacezwita
+MA7LATI7M.ed.Bomb.  (13+) hw =praguRa, preNKol, kAmpilyaka, etc.
+DURGA7DA7SA.zu.VOP (1) sTURa
+RUDOLF_MEYER (1) fgviDAna  (Note use of 'underscore' as a space substitute, similar to use of ellipsis elsewhere)
+KAP.(BALL.) (1) hw = pratyaBijYAyamAnatva
+VEDA7NTASA7RA (1) vyAvivftsu
+KHILA (1) nityapuzwa
+GARGA (5) suvfdDa , apradIpa, jyoti, saMDi, sunanda
+K4AURAP.(A.) (14) nakzatreSa, etc.  Same as 'K4AURAP' ? 
+GAN2.BHAGRAHAJ (1) sAyaka  (same as GAN2IT.BHAGRAH ?)
+ANUPADAS (4) hw = atIrTa, vAla, halezA, hiraRyakfzRala
+C2A7K.(PISCH) (1) ekarasa
+NERIOSENGH (2) laYcA, vipratAraka
+KIELHORN (2) vaqQ, SambawI
+C2A7K.PISCH (2) duHKaBAgin, svEra  (no doubt same as C2A7K.(PISCH)
+BÜHLER (4) vAgguda, paropavAsa, vAgvada , pad
+HARSHAK4.(C2aka_1936) (1) yazwigrAma
+AC2VAV (14) saMBala, sAndra, etc.
+Kön.Pr.Ak (1) hel
+K4KRADATTA (1) pAcima
+SCHÖNBERG,KSHEM (1) salladra  (alias of 'KSHEM' of pwbib0)
+SCHÖNBERG,KSH  (2) SaSivaMSa  (variant of above)
+PULASTJA (1) SivagaNgA
+GAN2IT.KAKSHA7DH (1) hutASa  (likely variant spelling of GAN2IT.KAKSH)
+SA7MA7NJAN (1) sAhajika
+SPEYER (1) hw = vAdin
+Mel.asiat (1) hw = sadrasa
+RICE (1) saYcu
+G4AIMINI (1) vyapavarga
+PAN4K4AT.ed.KOSEG (4) Barts, yuj, saptaBUmika, har
+NALOD (13) kas, mahin, rodas, las, etc.
+MAHA7VASTU.ed.SENART (1) lokottaravAdin
+MAHA7VASTU (3) Sam, SamaTa, SAkyamuni
+VIKR.ed.PISCH (1) apakzalopa
+VIKR.ed.BOLL (1) apakzalopa
+C2A7K.ed.PISCH (3) aBisaMDi, locanAYcala, vAdanamAruta
+VI7RAMITROD (1) SalAkira
+PA7N2INI (1) vEkarRa
+AV.G4JOTISHA (1) vijaya
+AV.ANUKR (1) yudDopakaraRa
+VA7SISHT2HA (1) vArdDuzi
+RA7MADA7SA (1) cumbaka
+ROTH (1) hvar
+PARA7C2ARA (1) svayaMkfzwa (prob. variant for PARA7C2)
+KA7TJ.C2R.PADDH (2) SyAmAka, SyAmAkezwi
+ATHARVAPADDH (1) saMpAtay
+R2GVIDHA7NA (1) stu
+VIG4N4 (1) homay
+HODGSON,Ess (1) vajrAcArya
+HODGSON,Essays (1) yAtnika
+MAN2IMA7LA7 (1) somaBUBuj
+; in 'C2A7K.CH.119,3.' (hw sakOtUhalam), is 'CH' an abbreviation?
+JACOBI,KALPAS (2) cUrRi , cUrRikAra
+WASSILIEW,der.Buddh (1) saMvfti (WASSILIEW,der.Buddh.S.321.fgg.)
+Ind (2) jIvAditya, trividyA  (Perhaps = Ind.St or Ind.Str ?)
+VISHN2UK4ANDRA (1) kusuta
+MAN2ITTHA (1) Buj
+BHAR.NA7T2JAC2 (1) upasTAyika
+KIELH.Rep.(1881) (1) paryuzaRAdaSaSatakavftti (How related to KIELHORN,Rep ?)
+G.GORR (1) sTUla
+PARIBHA7SHENDUC2EKHARA (1) sAmba
+GAN2IT.GRAHA7N (1) Sakra (prob.= GAN2IT.GRAH)
+PISCHEL (4) ruh, vacasyu, vaDUmant, pUtara
+AV.PAR (2) avantyaka, Avantyaka  (same as AV.PARIC2 ?)
+VALL (1) sakarRaka
+JA7SKA (2) viSvakadrAkarza, SirimbiWa
+UPAVANAVINODA (1) Sarkarila
+HARSHAK4.ed.Bomb (3) vAlaka , SESunAri , vAtika
+ST.JULIEN (1) sAtavAha
+Verz.d.Pet.H (1) vizRupaYjara
+KAIJAT2A (1) dezwavya
+RA7GA (1) kuqAyikA
+NÖLDEKE (1) sPara
+MBH.ed.Vardham (1) prob. same as MBH.ed.Vardh
+HA7RI7TA (1) somAlaka
+GRASSMANN (26) trayaDA, anftadeva, etc.
+DHANURV (1) siMhakarRa
+PADMA-P (1) rama
+SHAD2GURUC2ISHJA (1) samADAyaka
+VIG4N5A7NEC2VARA (1) skandana
+JOLLY,Tagore_Law_Lecture (1) sapiRqa  (Use of underscore for space)
+NIRGHAN2T2U (2) mfgadarpa, mfgodBava
+CSOMA (1) ceraka
+VARISHT2HA (1) rakzodEvata
+KAIJAT2A (1) SvoBUti
+GILD (1) Sabdakalpa
+MA7HABH (1) kar (p. 2019-1)  Is this mis-spelling of MAHA7BH ?
+K4ANDRAGRAH (1) suKArTa
+C2A7K.ed.PREMAK4 (1) avalogita
+TRIVIKRAMA (1) pUtara
+BURNELL (1) maWa , mADavAcArya (usu. is BURNELL,T.)
+PAN4K4A7C2IKA7(ed.SOLF) (1) samudDura
+GR2HJA7S.(ed.BLOOMFIELD) (2) rajasa , star
+BLOOMFIELD (1) var  (p. 6021-2)
+; Sch.   I changed coding so this is just German text, not marked as resource.
+;   Reason - It abbreviates Scholiast, some (un-named) commentator.
+KAHI7RASV (1) prABAkara
+MA7DHAVI7JADHA7T (1) saMmata
+VIT2T2HALA (1) rABasika
+SA7DHANAM (1) lokaDAtvISvarI
+Verz.d.Cambr.H (3) vAlabanDa , vyantarapaNkti, sUcIpaNki
+VARA7H (1) avagARa
+UTPALINI (1) vfza
+EGGELING (1) vahas  (wikipedia)
+WHITNEY,Gr (2) gamizRu , jAtya
+C2U7LAPA7N2I7 (1) saMjYapana
+PRA7JAC2K4ITTAVIVEKA (1) saMjYapana (prob. = PRA7JAC2K4ITTAV of pwbib)
+MA7N2D2AVJA (2) timi, lawaha
+HIOUEN-THSANG (1) SrutaviMSatikowi
+WASSILJEW (1) SrAvaka
+MADHUS (1) ArAdupakAraka
+G4JOT (1) kAlAnupUrva
+ANUPADA (1) ArcABin
+VA7D2I (1) hfdaya
+VIG4AJAGAN2I7 (1) vAstava
+Sa7g (1) vart ? Not sure a resource, since not capitalized in print.
+TANTRASA7RA (1) SAktika
+GAN2IT.PARVASAM5BH (1) viyant
+LANMAN (1) svan
+VARARUK4I (1) lAhala
+VA7GBHAT2A (1) harahAra
+MA7NAVA (1) upabila
+VIC2VAPR (1) BAHkUwa
+P.W (1) yajus
+JANTRA7DHJ (1) pravAtavya
+RA7JAM (1) mUrRa
+PAIT2HI7NASI (1) sarvaloha
+COWELL (2) vAyubIja , vAribIja
+PV.PRA7T (1) Bakti   (print error for AV.PRA7T ?)
+NR2S.UP.(Bibl.ind.) (1) Opala
+VA7GBHAT2A (1) harAvAsa
+ARG4 (3) graB , vaSaMkara, Sliz
+RUDRAT2A,KA7VJA7LAM5KA7RA (1) saMdazwaka
+PARA7C2ARASMR2TI (1) SivagaNgA
+MAC2 (1) aByArohaRIya
+SA7MAVIDH.BR (1) avaleKana
+TANTRASA7RA (1) hAkinI
