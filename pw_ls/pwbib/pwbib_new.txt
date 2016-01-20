@@ -148,7 +148,7 @@ BHA7RADVA7G4A (3)
 DURGA.zu.NIR (4) kutsI , parihiMsA, spfhayitar (one other
 MAHA7N (1)
 KA7N2VA-REC (2) vahas, vArzma
-GOBH.Einl (1)
+; GOBH.Einl (1)  Einl = Introduction. No need for this as a resource
 C2A7K.PISCH (1)
 WRIGHT,Hist.of.Nep (1)
 MUIR.ST (1)
@@ -199,7 +199,7 @@ OPPERT (1) hw = suBadrAharaRa
 KNAUER (2) hw = viPARwa, SrIrBakza
 AV.PRA7T (21+) hw = anucca, OkAra, aYj, and others
 K4HANDOGOPARIC2 (1) hw = nam  (3180-2)
-R.ed.SCHL. (2) hw = aBiruta, varzarAtra
+R.ed.SCHL (2) hw = aBiruta, varzarAtra
 AUPAMANJAVA (1) hw = yaTAprayogam
 JAC2NA (1) hw = laYcA
 DURGA (2) hw = jabAru, vayiyu
@@ -226,7 +226,7 @@ PETERSON (2) hw = suBAzitaratnasaMdoha, suraBicUla
 ; re 'Bijdragen 1885, S.20' hw=vEzRugupta, not capitalized like references, 
 ;    but looks like one otherwise. Currently not coded as reference.
 LA (1) hw=BAvacezwita
-MA7LATI7M.ed.Bomb.  (13+) hw =praguRa, preNKol, kAmpilyaka, etc.
+MA7LATI7M.ed.Bomb  (13+) hw =praguRa, preNKol, kAmpilyaka, etc.
 DURGA7DA7SA.zu.VOP (1) sTURa
 RUDOLF_MEYER (1) fgviDAna  (Note use of 'underscore' as a space substitute, similar to use of ellipsis elsewhere)
 KAP.(BALL.) (1) hw = pratyaBijYAyamAnatva
@@ -327,7 +327,7 @@ VIT2T2HALA (1) rABasika
 SA7DHANAM (1) lokaDAtvISvarI
 Verz.d.Cambr.H (3) vAlabanDa , vyantarapaNkti, sUcIpaNki
 VARA7H (1) avagARa
-UTPALINI (1) vfza
+UTPALINI7 (1) vfza
 EGGELING (1) vahas  (wikipedia)
 WHITNEY,Gr (2) gamizRu , jAtya
 C2U7LAPA7N2I7 (1) saMjYapana
@@ -362,3 +362,9 @@ PARA7C2ARASMR2TI (1) SivagaNgA
 MAC2 (1) aByArohaRIya
 SA7MAVIDH.BR (1) avaleKana
 TANTRASA7RA (1) hAkinI
+; PWK/issues/59
+BHA7G.ed.Bomb (1) kuyAjYika
+BH (1) vaNKara
+K4AKRADATTA (1) pAcima
+KLUGE (1) paSutfp
+Wiener.Ak (1) hastijanaprakASa
