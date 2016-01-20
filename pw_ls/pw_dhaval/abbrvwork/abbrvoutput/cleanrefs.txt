@@ -520,7 +520,7 @@ BR2HANM@pAlaka@pAlaka@66543
 GOVARDH@pAlijvara@pAlijvara@66576
 HEM.Pr.Gr.ed.PISCHEL@pUtara@pUtara@68818
 TRIVIKRAMA@pUtara@pUtara@68818
-PISHEL@pUtara@pUtara@68818
+PISCHEL@pUtara@pUtara@68818
 GAN2ITA,GRAHAK4K4H@pfzatka@pfzatka@69606
 KAP.(BALL.)@pratyaBijYAyamAnatva@pratyaBijYAyamAnatva@71954
 SIDDH.K.ed.TA7RA7N@pratyAyana@pratyAyana@72086
@@ -543,7 +543,7 @@ SMR2TIM@Bidura@Bidura@79812
 MAN2ITTHA@Buj@Buj@80051
 A7NANDAGIRI@BUmikA@BUmikA@80503
 BURNELL@maWa@maWa@81696
-VIRAM@matsin@matsin@82016
+VI7RAM@matsin@matsin@82016
 BURNELL,T@maDvaBAzya@maDvaBAzya@82746
 SCHRÖDER@mayUraparvata@mayUraparvata@83483
 C2AM5K.VIG4@marUnDa@marUnDa@83642
@@ -590,7 +590,6 @@ VIT2T2HALA@rABasika@*rABasika@93847
 PRAKRIJA7K@rABasika@*rABasika@93847
 VR2TTARATNA7KARA@rAmaSarman@rAmaSarman@93968
 R2KT@rucika@rucika@94356
-PISCHEL@ruh@ruh@94617
 DA7J@ruh@ruh@94617
 UTTAMAK4@rohaRa@ro/haRa@95122
 NERIOSENGH@laYcA@laYcA@95631
@@ -642,7 +641,6 @@ KULA7RN2AVA@vEdyAy@vEdyAy@107727
 G4AIMINI@vyapavarga@vyapavarga@108367
 ALAM5KA7RAC2@vyAnamra@vyAnamra@108684
 VEDA7NTASA7RA@vyAvivftsu@vyAvivftsu@108786
-BÜHLER.Rep.No@vyAsAzwaka@vyAsAzwaka@108828
 GILD@Sabdakalpa@Sabdakalpa@110207
 MAHA7VASTU@Sam@Sam@110319
 PARAMA7RTHA@Sarkaraka@Sarkaraka@110745
@@ -694,6 +692,7 @@ MA7DHAVI7JADHA7T@saMmata@saMmata@121208
 PAIT2HI7NASI@sarvaloha@sarvaloha@122053
 K4AN2D2IDA7SA@sarvasvAy@°sarvasvAy@122205
 SCHÖNBERG,KSHEM@salladra@salladra@122448
+VI7RAMITRODAJA@savfdDika@savfdDika@122579
 VISHN2U@sahADyAyin@sahADyAyin@123243
 ST.JULIEN@sAtavAha@sAtavAha@123644
 PARIBHA7SHENDUC2EKHARA@sAmba@sAmba@124230
@@ -712,7 +711,7 @@ VIG4N5A7NEC2VARA@skandana@skandana@130239
 R2GVIDHA7NA@stu@stu@130530
 A7PAST.GR2HJ@sTagara@sTagara@130801
 DURGA7DA7SA.zu.VOP@sTURa@sTURa@131096
-G.GORB@sTUla@sTUla/@131118
+G.GORR@sTUla@sTUla/@131118
 NÖLDEKE@sPara@*sPara@131518
 PATAN4G4ALI@sPowa@sPowa@131614
 R2SHIMAN2D2ALASTOTRA@smar@smar@131651
@@ -731,6 +730,6 @@ BHAVISHJAP@hfdaya@hf/daya@135108
 VA7D2I@hfdaya@hf/daya@135108
 ANTJESHT2IK@heruka@heruka@135444
 AV.PADDH@heruka@heruka@135444
-Monatsberichte@hel@hel@135445
+Kön.Pr.Ak@hel@hel@135445
 SUD@homadarvI@homadarvI@135579
 VIG4N4@homay@homay@135591

@@ -39185,7 +39185,7 @@ GAN2AR.4,291.@pUtara@pUtara@68818
 HEM.Pr.Gr.ed.PISCHEL.1,170.@pUtara@pUtara@68818
 HEM.PAR.1,230.@pUtara@pUtara@68818
 TRIVIKRAMA@pUtara@pUtara@68818
-PISHEL.@pUtara@pUtara@68818
+PISCHEL@pUtara@pUtara@68818
 2,S.40@pUtara@pUtara@68818
 1,170@pUtara@pUtara@68818
 RA7G4AN.8,99.@pUti@pU/ti@68821
@@ -46130,7 +46130,7 @@ S.S.S.30@matsara@matsara/@82012
 S.S.S.31.@matsarIkftA@matsarIkftA@82015
 NA7RADA.@matsin@matsin@82016
 MIT.2,62,b,12@matsin@matsin@82016
-VIRAM.139,a,16.@matsin@matsin@82016
+VI7RAM.139,a,16.@matsin@matsin@82016
 HEMA7DRI.1,126,8.@matsya@ma/tsya@82017
 12,13.@matsya@ma/tsya@82017
 RA7G4AN.4,108.@matsyaganDa@matsyaganDa@82020
@@ -47146,7 +47146,7 @@ VP.22,197.@mallaga@mallaga@83891
 OPP.CAT.1.@mallawasUtra@mallawasUtra@83894
 S.S.S.211.@mallatAla@mallatAla@83895
 B.A.J.10,47.54.@malladeva@malladeva@83897
-PISHEL@mallanATa@mallanATa@83900
+PISCHEL,deGr.pr.27.@mallanATa@mallanATa@83900
 HARIV.10407.@mallapriya@mallapriya@83903
 BA7LAR.216,12.@mallaBawItUrya@mallaBawItUrya@83904
 HARIV.10407.@mallaBAvana@mallaBAvana@83905
@@ -49545,7 +49545,7 @@ VISHN2US.43,27.@mfzwASana@mfzwASana@88553
 MAITR.S.1,4,7(54,14).@mfzwi@mf/zwi@88554
 MAITR.S.2,7,8(84,3).@mfsmfsA@mfsmfsA/@88556
 VA7MANA.5,2,11@me@me@88557
-PISHEL@me@me@88557
+PISCHEL@me@me@88557
 Z.d.d.m.G.35,715@me@me@88557
 R2V.5,12,3.@me@me@88557
 Spr.7698.@me@me@88558
@@ -61783,7 +61783,7 @@ OPP.CAT.1),@vyAsasUtra@vyAsasUtra@108822
 OPP.CAT.1),@vyAsasUtra@vyAsasUtra@108822
 BURNELL,T.)@vyAsasUtra@vyAsasUtra@108822
 BURNELL,T.@vyAsasmfti@vyAsasmfti@108824
-BÜHLER.Rep.No.45@vyAsAzwaka@vyAsAzwaka@108828
+BÜHLER,Rep.No.45@vyAsAzwaka@vyAsAzwaka@108828
 Ind.Antiq.5,210.6,15.7,85.9,239.13,78.@vyAseDa@vyAseDa@108831
 KA7VJAPR.175,6.@vyAhatatva@vyAhatatva@108833
 SA7H.D.227,3.@vyAhatatva@vyAhatatva@108833
@@ -70558,7 +70558,7 @@ NIR.5,4.@savftta@savftta@122577
 SARVAD.@savfttika@savfttika@122578
 PANDIT.9,216,a.@savfttika@savfttika@122578
 BR2HASP.@savfdDika@savfdDika@122579
-VIRAM.@savfdDika@savfdDika@122579
+VI7RAMITRODAJA.@savfdDika@savfdDika@122579
 GAUT.23,10.@savfzaRa@savfzaRa@122581
 A7PAST.1,25,1.2,26,10.@savfzaRa@savfzaRa@122581
 Chr.88,23.@savfzaRa@savfzaRa@122581
@@ -75646,7 +75646,7 @@ AC2VAV.3,59,89.@sTUraka@sTUraka@131111
 TS.5,7,11,1@sTUragudA@sTUragudA/@131112
 M.8,323@sTUrikA@sTUrikA@131115
 C2IC2.18,22.@sTUrIpfzWa@sTUrIpfzWa@131117
-G.GORB.2,114@sTUla@sTUla/@131118
+G.GORR.2,114,5@sTUla@sTUla/@131118
 6,89,18@sTUla@sTUla/@131118
 HEMA7DRI.2,a,100,12.@sTUlatomarin@sTUlatomarin@131142
 BHA7VAPR.1,209.@sTUladarBa@*sTUladarBa@131147
@@ -78314,7 +78314,7 @@ KATHA7S.55,158.fg.@heramBa@heramBa@135442
 ANTJESHT2IK.@heruka@heruka@135444
 AV.PADDH@heruka@heruka@135444
 KAUC2.82,26.@heruka@heruka@135444
-Monatsberichte@hel@hel@135445
+Kön.Pr.Ak.d.Ww.1880,S.38.@hel@hel@135445
 Ind.St.15,378.@hel@hel@135445
 BURNELL,T.@helarAja@helarAja@135449
 DH.V.9,9.@helA@helA@135450

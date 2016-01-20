@@ -316,7 +316,7 @@ def clean_special(a,clean):
   ('C.H.TAWNEY','C.H.TAWNEY'),
   ('PAN4K4AT.ed.Bomb.I','PAN4K4AT.ed.Bomb'),
   ('NJA7JAS.S','NJA7JAS'),
-
+  (u'Kön.Pr.Ak.d.Ww',u'Kön.Pr.Ak')
  ]
  for (start,cleanadjman) in startpairs:
   if a.startswith(start):
