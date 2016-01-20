@@ -240,7 +240,7 @@ def clean_special(a,clean):
   ('MA7RK.P.Einl','MA7RK.P'),
   ('S.S.S.Einl','S.S.S'),
   ('R2V.PRA7T.Einl','R2V.PRA7T'),
-  ('GAN2IT.S','GAN2IT'),
+  ('GAN2IT.S.','GAN2IT'), # Could be same as GAN2IT.SPASHT2
   (u'BÜHLER,Rep.No',u'BÜHLER,Rep'),
   ('A7PAST.Uebers.','A7PAST'),
   ('K4ARAKA.ed.Calc.S','K4ARAKA.ed.Calc'),
@@ -291,7 +291,7 @@ def clean_special(a,clean):
   ('Verz.d.Pet.H.No','Verz.d.Pet.H'),
   ("GRASSMANN'S","GRASSMANN"),
   ('BURNELL,T.No','BURNELL,T'),
-  ('C2A7RN5G.S','C2A7RN5G'),
+  ('C2A7RN5G.S.','C2A7RN5G'), # could be same as C2A7RN5G.SAM5H
   ('NJA7JAM.Einl','NJA7JAM'),
   ('HEM.PAR.Gr','HEM.PAR.Gr'),
   ('GILD,Bibl','GILD'),

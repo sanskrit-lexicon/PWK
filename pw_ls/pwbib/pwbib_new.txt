@@ -225,7 +225,7 @@ FOUCAUX (1) hw = saMdaMSaka
 PETERSON (2) hw = suBAzitaratnasaMdoha, suraBicUla
 ; re 'Bijdragen 1885, S.20' hw=vEzRugupta, not capitalized like references, 
 ;    but looks like one otherwise. Currently not coded as reference.
-LA (1) hw=BAvacezwita
+; LA (1) hw=BAvacezwita  Already in pwbib0
 MA7LATI7M.ed.Bomb  (13+) hw =praguRa, preNKol, kAmpilyaka, etc.
 DURGA7DA7SA.zu.VOP (1) sTURa
 RUDOLF_MEYER (1) fgviDAna  (Note use of 'underscore' as a space substitute, similar to use of ellipsis elsewhere)
@@ -370,4 +370,4 @@ KLUGE (1) paSutfp
 Wiener.Ak (1) hastijanaprakASa
 ;
 VI7RAMITRODAJA (1) savfdDika
-VI7RAM (1) matsin
+; VI7RAM (1) matsin already in pwbib0
