@@ -922,7 +922,6 @@ ebend.@apfTagvivekya@apfTagvivekya@6608
 184,14.@apratipAdana@apratipAdana@6757
 102,20.@apratibadDa@apratibadDa@6761
 48,5.@apratimukta@apratimukta@6775
-1,53.5,1,5.8.@apratizeDa@apratizeDa@6803
 279,1.@apratIti@apratIti@6832
 ebend.@apratyakza@apratyakza@6839
 111,15.@apratyakzita@apratyakzita@6840
@@ -3310,6 +3309,7 @@ ebend.@dA@dA@49511
 68,24.@dA@dA@49511
 8,7.@dA@dA@49511
 134,13.@dA@dA@49517
+6,2,85,Sch.@dAkzikawa@*dAkzikawa@49534
 130,22.@dAtavya@dAtavya@49602
 132,20.@dAyAda@dAyAda/@49769
 193,8.@dAyApavartana@dAyApavartana@49774
@@ -4106,6 +4106,7 @@ ebend.@puzpitAkza@puzpitAkza@68719
 296,17@pUjAsatkAra@pUjAsatkAra@68782
 295,20.296,6.@pUjopakaraRa@pUjopakaraRa@68786
 174,11.@pUtamUrti@pUtamUrti@68816
+2,S.40@pUtara@pUtara@68818
 1,170@pUtara@pUtara@68818
 239,7.@pUraka@pUraka@68896
 2,21.@pUraRa@pUraRa@68898
@@ -5166,6 +5167,7 @@ ebend.7,65).@vanakanda@*vanakanda@97900
 6,73.76.86.7,163.@vanavAsin@vanavAsin@98037
 142,12.@vanEkadeSa@vanEkadeSa@98148
 219,3.@vanopeta@vanopeta@98153
+1,53(Thl.2,S.20).@vandra@*vandra@98187
 217,24.@vap@vap@98219
 321,7.@vam@vam@98269
 @vayam@vaya/m@98291

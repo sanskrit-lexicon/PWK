@@ -101,7 +101,7 @@ KAUTUKAS (25) Possibly kOtukasarvasva
 NAIGH (21) Possibly nEGaRwuka
 PAT (3) pataYjali
 KUHN (1) Author. 
-KUHN'S.Beitrr (1)  Another work by Kuhn?
+KUHN'S.Beitr (1)  Another work by Kuhn?
 VISHN2U (1) headword sahADyAyin.  May be a print error and not a reference.
 ; PWK/issues/47
 BHA7G.P.ed.BURN  (4) inferred
@@ -368,3 +368,6 @@ BH (1) vaNKara
 K4AKRADATTA (1) pAcima
 KLUGE (1) paSutfp
 Wiener.Ak (1) hastijanaprakASa
+;
+VI7RAMITRODAJA (1) savfdDika
+VI7RAM (1) matsin

@@ -1,8 +1,8 @@
-298 new resources read from pwbib_new.txt
-772 records written to pwbib_abbrv_all.txt
+304 new resources read from pwbib_new.txt
+777 records written to pwbib_abbrv_all.txt
 503 records from pwbib1.txt
-792 records from ../pw_dhaval/abbrvwork/abbrvoutput/sortedcrefs.txt
-264 known unused records removed from pwbib for purposes of matching
+736 records from ../pw_dhaval/abbrvwork/abbrvoutput/sortedcrefs.txt
+276 known unused records removed from pwbib for purposes of matching
 Case 01: A7NANDAGIRI@BUmikA@BUmikA@80503@1
 Case 02: ANTJESHT2IK@heruka@heruka@135444@1
 Case 03: ANUPADA@ArcABin@ArcABin@15601@1
@@ -13,268 +13,280 @@ Case 07: AV.ANUKR@yudDopakaraRa@yudDopakaraRa@91142@1
 Case 08: AV.G4JOTISHA@vijaya@vijaya/@102117@1
 Case 09: AV.PADDH@heruka@heruka@135444@1
 Case 10: BAUDH.GR2HJ.PARIC2@svanujA@svanujA@132149@1
-Case 11: BHA7G@ftaMBara@ftaMBara@21461@1
-Case 12: BHA7GURI@SilI@*SilI@112504@1
-Case 13: BHAR.NA7T2JAC2@upasTAyika@upasTAyika@20198@1
-Case 14: BLOOMFIELD@var@var@98342@1
-Case 15: BR2HASPATI@yogakzemavant@yogakzemavant@91320@1
-Case 16: BURNELL@maWa@maWa@81696@1
-Case 17: C2A7J(PISCH.)@parihara@parihara@64437@1
-Case 18: C2A7K.(PISCH)@ekarasa@ekarasa@21896@1
-Case 19: C2A7K.ed.PREMAK4@avalogita@avalogita@10665@1
-Case 20: C2AM5KARA@paYcakleSaBeda@paYcakleSaBeda@61821@1
-Case 21: C2U7DRADH@sakIla@sakIla@117241@1
-Case 22: C2U7LAPA7N2I7@saMjYapana@saMjYa/pana@117962@1
-Case 23: CSOMA@ceraka@ceraka@40619@1
-Case 24: D.P@prAggrAmam@*prAggrAmam@73897@1
-Case 25: DAC2AK.ed.WILSON@cEtraraTa@cEtraraTa@40688@1
-Case 26: DHANURV@siMhakarRa@siMhakarRa@124834@1
-Case 27: DHU7RTAS.ed.Calc@wopara@wopara@43876@1
-Case 28: DRAVJAV@agraja@agraja@732@1
-Case 29: DURGA7DA7SA.zu.VOP@sTURa@sTURa@131096@1
-Case 30: EGGELING@vahas@va/has@99689@1
-Case 31: FOUCAUX@saMdaMSaka@saMdaMSaka@118958@1
-Case 32: G4AIMINI@vyapavarga@vyapavarga@108367@1
-Case 33: G4JOT@kAlAnupUrva@kAlAnupUrva@27338@1
-Case 34: GAN2.BHAGRAHAJ@sAyaka@sA/yaka@124282@1
-Case 35: GAN2IT.KAKSHA7DH@hutASa@hutASa@135012@1
-Case 36: GAN2IT.PARVASAM5BH@viyant@viyant@103922@1
-Case 37: GILD@Sabdakalpa@Sabdakalpa@110207@1
-Case 38: GR2HJA7S.(ed.BLOOMFIELD)@rajasa@rajasa/@92104@1
-Case 39: HA7RI7TA@somAlaka@*somAlaka@129756@1
-Case 40: HEDRI@kzIravaha@kzIravaha@32658@1
-Case 41: HEM.Pr.Gr.ed.PISCHEL@pUtara@pUtara@68818@1
-Case 42: HIOUEN-THSANG@SrutaviMSatikowi@*SrutaviMSatikowi@115361@1
-Case 43: HIRAN2JAKEC2IN@sezwi@sezwi@129324@1
-Case 44: HODGSON,Ess@vajrAcArya@vajrAcArya@97560@1
-Case 45: HODGSON,Essays@yAtnika@yAtnika@90725@1
-Case 46: JAC2NA@laYcA@laYcA@95631@1
-Case 47: JANTRA7DHJ@pravAtavya@pravAtavya@73148@1
-Case 48: JOGAJ@ditisutaguru@ditisutaguru@50132@1
-Case 49: JOLLY,Tagore_Law_Lecture@sapiRqa@sapiRqa@119339@1
-Case 50: K4AN2D2IDA7SA@sarvasvAy@°sarvasvAy@122205@1
-Case 51: K4ANDRAGRAH@suKArTa@suKArTa@125905@1
-Case 52: K4HANDOGAPARIC2@nam@nam@56698@1
-Case 53: K4HANDOGOPARIC2@nam@nam@56698@1
-Case 54: KA7TANTRA@SradDA@SradDA/@114812@1
-Case 55: KAMALA7KARA@sakIla@sakIla@117241@1
-Case 56: KAP.(BALL.)@pratyaBijYAyamAnatva@pratyaBijYAyamAnatva@71954@1
-Case 57: KHILA@nityapuzwa@nityapuzwa@58469@1
-Case 58: KIELH.Rep.(1881)@paryuzaRAdaSaSatakavftti@paryuzaRAdaSaSatakavftti@64844@1
-Case 59: KUHN@lAkza@lAkza@95981@1
-Case 60: LANMAN@svan@svan@132127@1
-Case 61: MA7DHAVI7JADHA7T@saMmata@saMmata@121208@1
-Case 62: MA7DHAVI7JADHA7TUVR2TTI@SilI@*SilI@112504@1
-Case 63: MA7NAVA@upabila@upabila@19768@1
-Case 64: MAC2@aByArohaRIya@aByArohaRIya@7946@1
-Case 65: MAD@arkapuzpI@arkapuzpI@9263@1
-Case 66: MADHUS@ArAdupakAraka@ArAdupakAraka@15482@1
-Case 67: MAHA7N@hataviDi@hataviDi@133436@1
-Case 68: MAHA7VASTU.ed.SENART@lokottaravAdin@lokottaravAdin@96709@1
-Case 69: MALLIKA7MA7RUTA@hiRq@hiRq@134592@1
-Case 70: MAN2IMA7LA7@somaBUBuj@somaBUBuj@129620@1
-Case 71: MAN2ITTHA@Buj@Buj@80051@1
-Case 72: MBH.ed.Vardham@DvajAroha@DvajAroha@56037@1
-Case 73: MUIR.ST@hu@hu@134973@1
-Case 74: Mel.asiat@sadrasa@sadrasa@118694@1
-Case 75: NR2S.UP.(Bibl.ind.)@Opala@Opala@22961@1
-Case 76: Nachträge@kalya@kalya@25667@1
-Case 77: OPPERT@suBadrAharaRa@suBadrAharaRa@127069@1
-Case 78: P.W@yajus@ya/jus@89441@1
-Case 79: PA7N2INI@vEkarRa@vEkarRa/@107489@1
-Case 80: PADMA-P@rama@rama@92728@1
-Case 81: PADMAP@upasAda@upasAda@20139@1
-Case 82: PAIT2HI7NASI@sarvaloha@sarvaloha@122053@1
-Case 83: PAN4K4A7C2IKA7(ed.SOLF)@samudDura@samudDura@120694@1
-Case 84: PARA7C2ARA@svayaMkfzwa@svayaMkfzwa@132320@1
-Case 85: PARA7C2ARASMR2TI@SivagaNgA@SivagaNgA@112572@1
-Case 86: PARAMAHAM5SOP@vfttihan@°vfttihan@106441@1
-Case 87: PARIBHA7SHENDUC2EKHARA@sAmba@sAmba@124230@1
-Case 88: PATAN4G4ALI@sPowa@sPowa@131614@1
-Case 89: PULASTJA@SivagaNgA@SivagaNgA@112572@1
-Case 90: PUSHPADANTA@amaNgalya@amaNgalya@8064@1
-Case 91: R.Schl@mahArAjANgaRa@mahArAjANgaRa@84880@1
-Case 92: R2SHIMAN2D2ALASTOTRA@smar@smar@131651@1
-Case 93: R2V.ed.M@iq@iq@16718@1
-Case 94: RA7G4AT.ed.Calc@sajAni@sajAni@117836@1
-Case 95: RA7GA@kuqAyikA@kuqAyikA@28385@1
-Case 96: RA7JAM@mUrRa@mUrRa/@87887@1
-Case 97: RA7JENDR.Not@raGumaRi@raGumaRi@91955@1
-Case 98: RA7M.RA7S@saMKya@saMKya@117553@1
-Case 99: RA7MADA7SA@cumbaka@cumbaka@40456@1
-Case 100: RICE@saYcu@saYcu@117918@1
-Case 101: RUDOLF_MEYER@fgviDAna@fgviDAna@21326@1
-Case 102: RUDRAJA7MALA@amara@ama/ra@8111@1
-Case 103: RUDRAT2A,KA7VJA7LAM5KA7RA@saMdazwaka@saMdazwaka@118970@1
-Case 104: SA7DHANAM@lokaDAtvISvarI@lokaDAtvISvarI@96561@1
-Case 105: SA7MA7NJAN@sAhajika@sAhajika@124769@1
-Case 106: SA7MAVIDH.BR@avaleKana@avaleKana@10646@1
-Case 107: SCHÖNBERG,KSH@SaSivaMSa@SaSivaMSa@111040@1
-Case 108: SCHÖNBERG,KSHEM@salladra@salladra@122448@1
-Case 109: SHAD2GURUC2ISHJA@samADAyaka@samADAyaka@120227@1
-Case 110: SIDDH.K.ed.TA7R@tasTI@*tasTI@45086@1
-Case 111: SIDDH.K.ed.TA7RA7N@pratyAyana@pratyAyana@72086@1
-Case 112: SMR2TIM@Bidura@Bidura@79812@1
-Case 113: SPEYER@vAdin@vAdin@100501@1
-Case 114: ST.JULIEN@sAtavAha@sAtavAha@123644@1
-Case 115: SUBHA7SHITARATNABH.PRAK@sAhajika@sAhajika@124769@1
-Case 116: SUD@homadarvI@homadarvI@135579@1
-Case 117: Sa7g@vart@vart@98820@1
-Case 118: TRIVIKRAMA@pUtara@pUtara@68818@1
-Case 119: UPALEKHA@yaTAsaMhitam@yaTAsaMhitam@90055@1
-Case 120: UPAVANAVINODA@Sarkarila@Sarkarila@110763@1
-Case 121: VA7D2I@hfdaya@hf/daya@135108@1
-Case 122: VA7SISHT2HA@vArdDuzi@vArdDuzi@101126@1
-Case 123: VAIDJAKA@viSArada@viSArada@104562@1
-Case 124: VALL@sakarRaka@sakarRaka@117186@1
-Case 125: VARA7H@avagARa@avagARa@10243@1
-Case 126: VARARUK4I@lAhala@*lAhala@96170@1
-Case 127: VARISHT2HA@rakzodEvata@rakzodEvata@91918@1
-Case 128: VEDA7NTASA7RA@vyAvivftsu@vyAvivftsu@108786@1
-Case 129: VI7RAMITROD@SalAkira@SalAkira@110862@1
-Case 130: VIC2VAPR@BAHkUwa@BAHkUwa@79242@1
-Case 131: VIG4AJAGAN2I7@vAstava@vAstava@101452@1
-Case 132: VIG4N4@homay@homay@135591@1
-Case 133: VIG4N5A7NEC2VARA@skandana@skandana@130239@1
-Case 134: VIKR.ed.BOLL@apakzalopa@apakzalopa@5842@1
-Case 135: VIKR.ed.PISCH@apakzalopa@apakzalopa@5842@1
-Case 136: VISHN2U@sahADyAyin@sahADyAyin@123243@1
-Case 137: VISHN2UK4ANDRA@kusuta@kusuta@29545@1
-Case 138: VIT2T2HALA@rABasika@*rABasika@93847@1
-Case 139: VIVEK@vizamaya@vizamaya@105210@1
-Case 140: VR2TTARATNA7KARA@rAmaSarman@rAmaSarman@93968@1
-Case 141: Verz.d.Pet.H@vizRupaYjara@vizRupaYjara@105490@1
-Case 142: WASSILIEW,der.Buddh@saMvfti@saMvfti@116777@1
-Case 143: WASSILJEW@SrAvaka@SrAvaka@114979@1
-Case 144: WEBER,RA7MAT.Up@vAma@vA/ma@100613@1
-Case 145: WHITNEY,Ind@vizwIma@vizwIma/@105426@1
-Case 146: WILSON,SA7M5KHJAK@avivekin@avivekin@11157@1
-Case 147: WRIGHT,Hist.of.Nep@kAhala@kAhala@27701@1
-Case 148: ZACH@hugga@hugga@134979@1
-Case 149: ZIMMER@pramota@pramo/ta@72847@1
-Case 150: AV.PAR@avantyaka@*avantyaka@10473@2
-Case 151: BHAR@aNkacCeda@aNkacCeda@871@2
-Case 152: BRA7HMAN2@paramika@paramika@63329@2
-Case 153: C2A7N5KH@vizApavAdin@vizApavAdin@105329@2
-Case 154: C2A7N5KH.A7R@vArkalin@vArkalin@101048@2
-Case 155: COWELL@vAyubIja@vAyubIja@100787@2
-Case 156: DELBRÜCK@rarAvan@ra/rAvan@92808@2
-Case 157: DRAUP@nand@nand@56516@2
-Case 158: DURGA@jabAru@ja/bAru@41694@2
-Case 159: HARADATTA@tiryagvAta@tiryagvAta@45904@2
-Case 160: HULTZSCH@satvant@satva/nt@118414@2
-Case 161: I7C2OP@AtmAvAsya@AtmAvAsya@14295@2
-Case 162: Ind@jIvAditya@jIvAditya@43092@2
-Case 163: JA7SKA@viSvakadrAkarza@viSvakadrAkarza@104742@2
-Case 164: JACOBI@mfgarAjaDArin@mfgarAjaDArin@88162@2
-Case 165: JACOBI,KALPAS@cUrRi@cUrRi@40549@2
-Case 166: KA7D.ed.Bomb@yAmakuYjara@yAmakuYjara@90808@2
-Case 167: KA7N2VA-REC@vahas@va/has@99689@2
-Case 168: KAHI7RASV@prABAkara@prABAkara@74449@2
-Case 169: KAIJAT2A@dezwavya@dezwavya@52775@2
-Case 170: LALLA@kzitinandana@kzitinandana@32509@2
-Case 171: MA7HABH@kar@kar@24527@2
-Case 172: MA7N2D2AVJA@timi@timi@45771@2
-Case 173: MANU@ka@ka/@23118@2
-Case 174: NERIOSENGH@laYcA@laYcA@95631@2
-Case 175: NIRGHAN2T2U@mfgadarpa@*mfgadarpa@88114@2
-Case 176: PETERSON@suBAzitaratnasaMdoha@suBAzitaratnasaMdoha@127092@2
-Case 177: R2GVIDHA7NA@stu@stu@130530@2
-Case 178: TANTRASA7RA@SAktika@SAktika@111279@2
-Case 179: UVAT2A@nipur@nipu/r@58663@2
-Case 180: VA7GBHAT2A@harahAra@harahAra@133619@2
-Case 181: WHITNEY@SI@SI@112857@2
-Case 182: WHITNEY,Gr@gamizRu@gamizRu/@34693@2
-Case 183: ZIMMER,Altind.Leben@SArada@SArada/@111669@2
-Case 184: ARG4@graB@graB@37314@3
-Case 185: BHA7RADVA7G4A@vart@vart@98820@3
-Case 186: BHARATA@mUrC@mUrC@87878@3
-Case 187: C2A7K.PISCH@duHKaBAgin@duHKaBAgin@50787@3
-Case 188: C2A7K.ed.PISCH@aBisaMDi@aBisaMDi@7716@3
-Case 189: HARSHAK4.ed.Bomb@vAtika@vAtika@100414@3
-Case 190: KA7C2JAPA@gaRq@*gaRq@34304@3
-Case 191: KA7TJ.C2R.PADDH@SyAmAka@SyAmA/ka@114705@3
-Case 192: KIELHORN@vaqQ@*vaqQ@97667@3
-Case 193: KUMA7RILA@aBihotavE@aBihotavE@7769@3
-Case 194: MAHA7VASTU@Sam@Sam@110319@3
-Case 195: PAN4K4AT.ed.KOSEG@Barts@Barts@78974@3
-Case 196: PANDIT@antarmuKatA@antarmuKatA@5345@3
-Case 197: PAT@tvakam@*tvakam@48177@3
-Case 198: PISCHEL@ruh@ruh@94617@3
-Case 199: SCHRÖDER@mayUraparvata@mayUraparvata@83483@3
-Case 200: TANTRAS@kula@ku/la@29092@3
-Case 201: TAWNEY@buD@buD@77335@3
-Case 202: Verz.d.Cambr.H@vAlabanDa@vAlabanDa@101222@3
-Case 203: ANUPADAS@atIrTa@a/tIrTa@2185@4
-Case 204: BHA7G.P.ed.BURN@apAzaRqa@apAzaRqa@6471@4
-Case 205: JAVANEC2VARA@devapurohita@devapurohita@52363@4
-Case 206: JOLLY@SilAPalaka@SilAPalaka@112473@4
-Case 207: KAIJ@AtmapaYcama@*AtmapaYcama@14196@4
-Case 208: M.MÜLLER@graB@graB@37314@4
-Case 209: MA7LAV.ed.BOLL@kAryavinimaya@kAryavinimaya@26993@4
-Case 210: MBH.ed.Calc@Akarza@Akarza@13360@4
-Case 211: VJA7SA@karmASaya@karmASaya@25310@4
-Case 212: VRATARA7G4A@Sivapavitraka@Sivapavitraka@112627@4
-Case 213: WILSON@tAlita@*tAlita@45564@4
-Case 214: BENFEY@jaJJa@jaJJa@41375@5
-Case 215: C2IKSHA7@ASrayasTAna@ASrayasTAna@16221@5
-Case 216: DURGA.zu.NIR@aBivyAharaRa@aBivyAharaRa@7628@5
-Case 217: GARGA@apradIpa@apradIpa@6865@5
-Case 218: GELDNER@vas@vas@99304@5
-Case 219: HEM.Pr.Gr@goRa@goRa@36508@5
-Case 220: K4AKR.zu.SUC2R@cipiwaka@cipiwaka@40221@5
-Case 221: KA7LIDA7SA@kaTam@kaTa/m@23823@5
-Case 222: NR2S.TA7P.UP@mUlAgra@mUlAgra@88025@5
-Case 223: BURNOUF@pad@pad@62713@6
-Case 224: DA7RILA@Sepya@Sepya@114069@6
-Case 225: ROTH@BajeraTa@Baje/raTa@78553@6
-Case 226: SATJA@anyapUrvikA@anyapUrvikA@5665@6
-Case 227: TAITT.PRA7T@avaDitva@avaDitva@10403@6
-Case 228: VIG4N4A7NEC2VARA@saMcAraRa@saMcAraRa@117899@6
-Case 229: BRA7HMAN2A@Uza@U/za@21220@7
-Case 230: MALLIN@aparicita@aparicita@6129@7
-Case 231: TBR.Comm@anuzWitatva@anuzWitatva@4919@7
-Case 232: VARDHAMA7NAK4@lohAcArya@lohAcArya@96933@7
-Case 233: HEM.JOGAC2@prASuka@prASuka@74635@8
-Case 234: STENZLER@Jar@Jar@43714@8
-Case 235: K4ARAKA.ed.Calc@pramATin@pramATin@72780@9
-Case 236: A7PAST.GAUT@Atmavant@Atmavant@14243@10
-Case 237: RAGH.ed.Calc@anapoQa@anapoQa@3513@10
-Case 238: A7PAST.GR2HJ@sTagara@sTagara@130801@12
-Case 239: R.ed.GORR@ajAtasAra@ajAtasAra@1310@12
-Case 240: DAMAJANTI7K@raNku@raNku@91976@13
-Case 241: KERN@ketumAla@ketumAla@30614@13
-Case 242: NALOD@kas@kas@25906@13
-Case 243: K4AURAP.(A.)@nakzatreSa@nakzatreSa@56236@14
-Case 244: AC2VAV@saMBala@saMBala/@121139@15
-Case 245: SIDDH.K@anAhata@anAhata@4027@18
-Case 246: BÜHLER@pad@pad@62713@19
-Case 247: NAIGH@apus@*apus@6568@23
-Case 248: AV.PRA7T@aYj@aYj@1430@24
-Case 249: MBH.ed.Bomb@anDa@anDa/@5498@24
-Case 250: Sch@dASakaputra@*dASakaputra@49923@24
-Case 251: KAUTUKAS@DarmAnala@DarmAnala@54943@25
-Case 252: GRASSMANN@anftadeva@a/nftadeva@5063@26
-Case 253: KA7VJA7D@adAkziRAtya@adAkziRAtya@2440@29
-Case 254: GARBE@banDujIvin@*banDujIvin@75801@38
-Case 255: ed.Bomb@aYcana@*aYcana@1426@42
-Case 256: BHA7G.P.ed.Bomb@anudapAna@anudapAna@4432@44
-Case 257: PAN4K4AT.ed.Bomb@antarvAsika@antarvAsika@5371@47
-Case 258: AUFRECHT@tand@tand@44532@48
-Case 259: HALL@atandracandraka@atandracandraka@1600@50
-Case 260: LA@aDika@aDika@2769@68
-Case 261: R.GORR@aDiyoDa@aDiyoDa@2889@107
-Case 262: UTPALA@aDama@aDama/@2701@122
-Case 263: R.ed.Bomb@aNgarAga@aNgarAga@963@236
-Case 264: C2AM5K.zu.BA7DAR@aBisaMBava@aBisaMBava@7729@390
+Case 11: BH@vaNKara@vaNKara@97336@1
+Case 12: BHA7G@ftaMBara@ftaMBara@21461@1
+Case 13: BHA7G.ed.Bomb@kuyAjYika@kuyAjYika@28967@1
+Case 14: BHA7GURI@SilI@*SilI@112504@1
+Case 15: BHAR@atyantara@*atyantara@2254@1
+Case 16: BHAR.NA7T2JAC2@upasTAyika@upasTAyika@20198@1
+Case 17: BLOOMFIELD@var@var@98342@1
+Case 18: BR2HASPATI@yogakzemavant@yogakzemavant@91320@1
+Case 19: C.H.TAWNEY@saMpada@saMpada@120881@1
+Case 20: C2A7J(PISCH.)@parihara@parihara@64437@1
+Case 21: C2A7K.(PISCH)@ekarasa@ekarasa@21896@1
+Case 22: C2A7K.ed.PREMAK4@avalogita@avalogita@10665@1
+Case 23: C2AM5KARA@paYcakleSaBeda@paYcakleSaBeda@61821@1
+Case 24: C2U7DRADH@sakIla@sakIla@117241@1
+Case 25: C2U7LAPA7N2I7@saMjYapana@saMjYa/pana@117962@1
+Case 26: CSOMA@ceraka@ceraka@40619@1
+Case 27: D.P@prAggrAmam@*prAggrAmam@73897@1
+Case 28: DAC2AK.ed.WILSON@cEtraraTa@cEtraraTa@40688@1
+Case 29: DHANURV@siMhakarRa@siMhakarRa@124834@1
+Case 30: DHU7RTAS.ed.Calc@wopara@wopara@43876@1
+Case 31: DRAVJAV@agraja@agraja@732@1
+Case 32: DURGA7DA7SA.zu.VOP@sTURa@sTURa@131096@1
+Case 33: EGGELING@vahas@va/has@99689@1
+Case 34: FOUCAUX@saMdaMSaka@saMdaMSaka@118958@1
+Case 35: G4AIMINI@vyapavarga@vyapavarga@108367@1
+Case 36: G4JOT@kAlAnupUrva@kAlAnupUrva@27338@1
+Case 37: GAN2.BHAGRAHAJ@sAyaka@sA/yaka@124282@1
+Case 38: GAN2IT.KAKSHA7DH@hutASa@hutASa@135012@1
+Case 39: GAN2IT.PARVASAM5BH@viyant@viyant@103922@1
+Case 40: GILD@Sabdakalpa@Sabdakalpa@110207@1
+Case 41: GR2HJA7S.(ed.BLOOMFIELD)@rajasa@rajasa/@92104@1
+Case 42: HA7RI7TA@somAlaka@*somAlaka@129756@1
+Case 43: HEDRI@kzIravaha@kzIravaha@32658@1
+Case 44: HEM.Pr.Gr.ed.PISCHEL@pUtara@pUtara@68818@1
+Case 45: HIOUEN-THSANG@SrutaviMSatikowi@*SrutaviMSatikowi@115361@1
+Case 46: HIRAN2JAKEC2IN@sezwi@sezwi@129324@1
+Case 47: HODGSON,Ess@vajrAcArya@vajrAcArya@97560@1
+Case 48: HODGSON,Essays@yAtnika@yAtnika@90725@1
+Case 49: JAC2NA@laYcA@laYcA@95631@1
+Case 50: JANTRA7DHJ@pravAtavya@pravAtavya@73148@1
+Case 51: JOGAJ@ditisutaguru@ditisutaguru@50132@1
+Case 52: JOLLY,Tagore_Law_Lecture@sapiRqa@sapiRqa@119339@1
+Case 53: K4AKRADATTA@pAcima@pAcima@65430@1
+Case 54: K4AN2D2IDA7SA@sarvasvAy@°sarvasvAy@122205@1
+Case 55: K4ANDRAGRAH@suKArTa@suKArTa@125905@1
+Case 56: K4HANDOGAPARIC2@nam@nam@56698@1
+Case 57: K4HANDOGOPARIC2@nam@nam@56698@1
+Case 58: KA7TANTRA@SradDA@SradDA/@114812@1
+Case 59: KAMALA7KARA@sakIla@sakIla@117241@1
+Case 60: KAP.(BALL.)@pratyaBijYAyamAnatva@pratyaBijYAyamAnatva@71954@1
+Case 61: KHILA@nityapuzwa@nityapuzwa@58469@1
+Case 62: KIELH.Rep.(1881)@paryuzaRAdaSaSatakavftti@paryuzaRAdaSaSatakavftti@64844@1
+Case 63: KLUGE@paSutfp@paSutf/p@65159@1
+Case 64: KUHN@lAkza@lAkza@95981@1
+Case 65: KUHN'S.Beitr@Srutar@Sruta/r@115351@1
+Case 66: LANMAN@svan@svan@132127@1
+Case 67: MA7DHAVI7JADHA7T@saMmata@saMmata@121208@1
+Case 68: MA7DHAVI7JADHA7TUVR2TTI@SilI@*SilI@112504@1
+Case 69: MA7NAVA@upabila@upabila@19768@1
+Case 70: MAC2@aByArohaRIya@aByArohaRIya@7946@1
+Case 71: MAD@arkapuzpI@arkapuzpI@9263@1
+Case 72: MADHUS@ArAdupakAraka@ArAdupakAraka@15482@1
+Case 73: MAHA7N@hataviDi@hataviDi@133436@1
+Case 74: MAHA7VASTU.ed.SENART@lokottaravAdin@lokottaravAdin@96709@1
+Case 75: MALLIKA7MA7RUTA@hiRq@hiRq@134592@1
+Case 76: MAN2IMA7LA7@somaBUBuj@somaBUBuj@129620@1
+Case 77: MAN2ITTHA@Buj@Buj@80051@1
+Case 78: MBH.ed.Vardham@DvajAroha@DvajAroha@56037@1
+Case 79: MUIR.ST@hu@hu@134973@1
+Case 80: Mel.asiat@sadrasa@sadrasa@118694@1
+Case 81: NR2S.UP.(Bibl.ind.)@Opala@Opala@22961@1
+Case 82: Nachträge@kalya@kalya@25667@1
+Case 83: NÖLDEKE@sPara@*sPara@131518@1
+Case 84: OPPERT@suBadrAharaRa@suBadrAharaRa@127069@1
+Case 85: P.W@yajus@ya/jus@89441@1
+Case 86: PA7N2INI@vEkarRa@vEkarRa/@107489@1
+Case 87: PADMA-P@rama@rama@92728@1
+Case 88: PADMAP@upasAda@upasAda@20139@1
+Case 89: PAIT2HI7NASI@sarvaloha@sarvaloha@122053@1
+Case 90: PAN4K4A7C2IKA7(ed.SOLF)@samudDura@samudDura@120694@1
+Case 91: PARA7C2ARA@svayaMkfzwa@svayaMkfzwa@132320@1
+Case 92: PARA7C2ARASMR2TI@SivagaNgA@SivagaNgA@112572@1
+Case 93: PARAMAHAM5SOP@vfttihan@°vfttihan@106441@1
+Case 94: PARIBHA7SHENDUC2EKHARA@sAmba@sAmba@124230@1
+Case 95: PATAN4G4ALI@sPowa@sPowa@131614@1
+Case 96: PULASTJA@SivagaNgA@SivagaNgA@112572@1
+Case 97: PUSHPADANTA@amaNgalya@amaNgalya@8064@1
+Case 98: R.Schl@mahArAjANgaRa@mahArAjANgaRa@84880@1
+Case 99: R.ed.SCHL@aBiruta@aBiruta@7559@1
+Case 100: R2SHIMAN2D2ALASTOTRA@smar@smar@131651@1
+Case 101: R2V.ed.M@iq@iq@16718@1
+Case 102: RA7G4AT.ed.Calc@sajAni@sajAni@117836@1
+Case 103: RA7GA@kuqAyikA@kuqAyikA@28385@1
+Case 104: RA7JAM@mUrRa@mUrRa/@87887@1
+Case 105: RA7JENDR.Not@raGumaRi@raGumaRi@91955@1
+Case 106: RA7M.RA7S@saMKya@saMKya@117553@1
+Case 107: RA7MADA7SA@cumbaka@cumbaka@40456@1
+Case 108: RICE@saYcu@saYcu@117918@1
+Case 109: RUDOLF_MEYER@fgviDAna@fgviDAna@21326@1
+Case 110: RUDRAJA7MALA@amara@ama/ra@8111@1
+Case 111: RUDRAT2A,KA7VJA7LAM5KA7RA@saMdazwaka@saMdazwaka@118970@1
+Case 112: SA7DHANAM@lokaDAtvISvarI@lokaDAtvISvarI@96561@1
+Case 113: SA7MA7NJAN@sAhajika@sAhajika@124769@1
+Case 114: SA7MAVIDH.BR@avaleKana@avaleKana@10646@1
+Case 115: SCHÖNBERG,KSH@SaSivaMSa@SaSivaMSa@111040@1
+Case 116: SCHÖNBERG,KSHEM@salladra@salladra@122448@1
+Case 117: SHAD2GURUC2ISHJA@samADAyaka@samADAyaka@120227@1
+Case 118: SIDDH.K.ed.TA7R@tasTI@*tasTI@45086@1
+Case 119: SIDDH.K.ed.TA7RA7N@pratyAyana@pratyAyana@72086@1
+Case 120: SMR2TIM@Bidura@Bidura@79812@1
+Case 121: SPEYER@vAdin@vAdin@100501@1
+Case 122: ST.JULIEN@sAtavAha@sAtavAha@123644@1
+Case 123: SUBHA7SHITARATNABH.PRAK@sAhajika@sAhajika@124769@1
+Case 124: SUD@homadarvI@homadarvI@135579@1
+Case 125: Sa7g@vart@vart@98820@1
+Case 126: TRIVIKRAMA@pUtara@pUtara@68818@1
+Case 127: UPALEKHA@yaTAsaMhitam@yaTAsaMhitam@90055@1
+Case 128: UPAVANAVINODA@Sarkarila@Sarkarila@110763@1
+Case 129: UTPALINI7@vfza@vfza@106664@1
+Case 130: VA7D2I@hfdaya@hf/daya@135108@1
+Case 131: VA7SISHT2HA@vArdDuzi@vArdDuzi@101126@1
+Case 132: VAIDJAKA@viSArada@viSArada@104562@1
+Case 133: VALL@sakarRaka@sakarRaka@117186@1
+Case 134: VARA7H@avagARa@avagARa@10243@1
+Case 135: VARARUK4I@lAhala@*lAhala@96170@1
+Case 136: VARISHT2HA@rakzodEvata@rakzodEvata@91918@1
+Case 137: VEDA7NTASA7RA@vyAvivftsu@vyAvivftsu@108786@1
+Case 138: VI7RAMITROD@SalAkira@SalAkira@110862@1
+Case 139: VIC2VAPR@BAHkUwa@BAHkUwa@79242@1
+Case 140: VIG4AJAGAN2I7@vAstava@vAstava@101452@1
+Case 141: VIG4N4@homay@homay@135591@1
+Case 142: VIG4N5A7NEC2VARA@skandana@skandana@130239@1
+Case 143: VIKR.ed.BOLL@apakzalopa@apakzalopa@5842@1
+Case 144: VIKR.ed.PISCH@apakzalopa@apakzalopa@5842@1
+Case 145: VISHN2U@sahADyAyin@sahADyAyin@123243@1
+Case 146: VISHN2UK4ANDRA@kusuta@kusuta@29545@1
+Case 147: VIT2T2HALA@rABasika@*rABasika@93847@1
+Case 148: VIVEK@vizamaya@vizamaya@105210@1
+Case 149: VR2TTARATNA7KARA@rAmaSarman@rAmaSarman@93968@1
+Case 150: Verz.d.Pet.H@vizRupaYjara@vizRupaYjara@105490@1
+Case 151: WASSILIEW,der.Buddh@saMvfti@saMvfti@116777@1
+Case 152: WASSILJEW@SrAvaka@SrAvaka@114979@1
+Case 153: WEBER,RA7MAT.Up@vAma@vA/ma@100613@1
+Case 154: WHITNEY,Ind@vizwIma@vizwIma/@105426@1
+Case 155: WILSON,SA7M5KHJAK@avivekin@avivekin@11157@1
+Case 156: WRIGHT,Hist.of.Nep@kAhala@kAhala@27701@1
+Case 157: Wiener.Ak@hastijanaprakASa@hastijanaprakASa@134265@1
+Case 158: ZACH@hugga@hugga@134979@1
+Case 159: ZIMMER@pramota@pramo/ta@72847@1
+Case 160: AV.PAR@avantyaka@*avantyaka@10473@2
+Case 161: BRA7HMAN2@paramika@paramika@63329@2
+Case 162: BURNELL@maWa@maWa@81696@2
+Case 163: C2A7N5KH@vizApavAdin@vizApavAdin@105329@2
+Case 164: C2A7N5KH.A7R@vArkalin@vArkalin@101048@2
+Case 165: COWELL@vAyubIja@vAyubIja@100787@2
+Case 166: DELBRÜCK@rarAvan@ra/rAvan@92808@2
+Case 167: DRAUP@nand@nand@56516@2
+Case 168: DURGA@jabAru@ja/bAru@41694@2
+Case 169: HARADATTA@tiryagvAta@tiryagvAta@45904@2
+Case 170: HULTZSCH@satvant@satva/nt@118414@2
+Case 171: I7C2OP@AtmAvAsya@AtmAvAsya@14295@2
+Case 172: Ind@jIvAditya@jIvAditya@43092@2
+Case 173: JA7SKA@viSvakadrAkarza@viSvakadrAkarza@104742@2
+Case 174: JACOBI@mfgarAjaDArin@mfgarAjaDArin@88162@2
+Case 175: JACOBI,KALPAS@cUrRi@cUrRi@40549@2
+Case 176: KA7D.ed.Bomb@yAmakuYjara@yAmakuYjara@90808@2
+Case 177: KA7N2VA-REC@vahas@va/has@99689@2
+Case 178: KAHI7RASV@prABAkara@prABAkara@74449@2
+Case 179: KAIJAT2A@dezwavya@dezwavya@52775@2
+Case 180: KNAUER@viPARwa@°viPARwa@103541@2
+Case 181: LALLA@kzitinandana@kzitinandana@32509@2
+Case 182: MA7HABH@kar@kar@24527@2
+Case 183: MA7N2D2AVJA@timi@timi@45771@2
+Case 184: MANU@ka@ka/@23118@2
+Case 185: NERIOSENGH@laYcA@laYcA@95631@2
+Case 186: NIRGHAN2T2U@mfgadarpa@*mfgadarpa@88114@2
+Case 187: PETERSON@suBAzitaratnasaMdoha@suBAzitaratnasaMdoha@127092@2
+Case 188: R2GVIDHA7NA@stu@stu@130530@2
+Case 189: TANTRASA7RA@SAktika@SAktika@111279@2
+Case 190: UVAT2A@nipur@nipu/r@58663@2
+Case 191: VA7GBHAT2A@harahAra@harahAra@133619@2
+Case 192: WHITNEY@SI@SI@112857@2
+Case 193: WHITNEY,Gr@gamizRu@gamizRu/@34693@2
+Case 194: ZIMMER,Altind.Leben@SArada@SArada/@111669@2
+Case 195: ARG4@graB@graB@37314@3
+Case 196: BHA7RADVA7G4A@vart@vart@98820@3
+Case 197: BHARATA@mUrC@mUrC@87878@3
+Case 198: C2A7K.PISCH@duHKaBAgin@duHKaBAgin@50787@3
+Case 199: C2A7K.ed.PISCH@aBisaMDi@aBisaMDi@7716@3
+Case 200: HARSHAK4.ed.Bomb@vAtika@vAtika@100414@3
+Case 201: KA7C2JAPA@gaRq@*gaRq@34304@3
+Case 202: KA7TJ.C2R.PADDH@SyAmAka@SyAmA/ka@114705@3
+Case 203: KIELHORN@vaqQ@*vaqQ@97667@3
+Case 204: KUMA7RILA@aBihotavE@aBihotavE@7769@3
+Case 205: MAHA7VASTU@Sam@Sam@110319@3
+Case 206: PANDIT@antarmuKatA@antarmuKatA@5345@3
+Case 207: PAT@tvakam@*tvakam@48177@3
+Case 208: PISCHEL@ruh@ruh@94617@3
+Case 209: SCHRÖDER@mayUraparvata@mayUraparvata@83483@3
+Case 210: TANTRAS@kula@ku/la@29092@3
+Case 211: TAWNEY@buD@buD@77335@3
+Case 212: Verz.d.Cambr.H@vAlabanDa@vAlabanDa@101222@3
+Case 213: ANUPADAS@atIrTa@a/tIrTa@2185@4
+Case 214: BHA7G.P.ed.BURN@apAzaRqa@apAzaRqa@6471@4
+Case 215: JAVANEC2VARA@devapurohita@devapurohita@52363@4
+Case 216: JOLLY@SilAPalaka@SilAPalaka@112473@4
+Case 217: KAIJ@AtmapaYcama@*AtmapaYcama@14196@4
+Case 218: M.MÜLLER@graB@graB@37314@4
+Case 219: MA7LAV.ed.BOLL@kAryavinimaya@kAryavinimaya@26993@4
+Case 220: MBH.ed.Calc@Akarza@Akarza@13360@4
+Case 221: PAN4K4AT.ed.KOSEG@Barts@Barts@78974@4
+Case 222: VJA7SA@karmASaya@karmASaya@25310@4
+Case 223: VRATARA7G4A@Sivapavitraka@Sivapavitraka@112627@4
+Case 224: WILSON@tAlita@*tAlita@45564@4
+Case 225: BENFEY@jaJJa@jaJJa@41375@5
+Case 226: C2IKSHA7@ASrayasTAna@ASrayasTAna@16221@5
+Case 227: DURGA.zu.NIR@aBivyAharaRa@aBivyAharaRa@7628@5
+Case 228: GARGA@apradIpa@apradIpa@6865@5
+Case 229: GELDNER@vas@vas@99304@5
+Case 230: K4AKR.zu.SUC2R@cipiwaka@cipiwaka@40221@5
+Case 231: KA7LIDA7SA@kaTam@kaTa/m@23823@5
+Case 232: NR2S.TA7P.UP@mUlAgra@mUlAgra@88025@5
+Case 233: BURNOUF@pad@pad@62713@6
+Case 234: DA7RILA@Sepya@Sepya@114069@6
+Case 235: HEM.Pr.Gr@goRa@goRa@36508@6
+Case 236: SATJA@anyapUrvikA@anyapUrvikA@5665@6
+Case 237: TAITT.PRA7T@avaDitva@avaDitva@10403@6
+Case 238: VIG4N4A7NEC2VARA@saMcAraRa@saMcAraRa@117899@6
+Case 239: BRA7HMAN2A@Uza@U/za@21220@7
+Case 240: MALLIN@aparicita@aparicita@6129@7
+Case 241: ROTH@BajeraTa@Baje/raTa@78553@7
+Case 242: TBR.Comm@anuzWitatva@anuzWitatva@4919@7
+Case 243: VARDHAMA7NAK4@lohAcArya@lohAcArya@96933@7
+Case 244: HEM.JOGAC2@prASuka@prASuka@74635@8
+Case 245: STENZLER@Jar@Jar@43714@8
+Case 246: K4ARAKA.ed.Calc@pramATin@pramATin@72780@9
+Case 247: A7PAST.GAUT@Atmavant@Atmavant@14243@10
+Case 248: RAGH.ed.Calc@anapoQa@anapoQa@3513@10
+Case 249: A7PAST.GR2HJ@sTagara@sTagara@130801@12
+Case 250: R.ed.GORR@ajAtasAra@ajAtasAra@1310@12
+Case 251: DAMAJANTI7K@raNku@raNku@91976@13
+Case 252: KERN@ketumAla@ketumAla@30614@13
+Case 253: NALOD@kas@kas@25906@13
+Case 254: K4AURAP.(A.)@nakzatreSa@nakzatreSa@56236@14
+Case 255: AC2VAV@saMBala@saMBala/@121139@15
+Case 256: MA7LATI7M.ed.Bomb@kAmpilyaka@kAmpilyaka@26708@18
+Case 257: SIDDH.K@anAhata@anAhata@4027@18
+Case 258: BÜHLER@pad@pad@62713@19
+Case 259: NAIGH@apus@*apus@6568@23
+Case 260: Sch@dASakaputra@*dASakaputra@49923@24
+Case 261: KAUTUKAS@DarmAnala@DarmAnala@54943@25
+Case 262: MBH.ed.Bomb@anDa@anDa/@5498@25
+Case 263: GRASSMANN@anftadeva@a/nftadeva@5063@26
+Case 264: AV.PRA7T@aYj@aYj@1430@27
+Case 265: KA7VJA7D@adAkziRAtya@adAkziRAtya@2440@29
+Case 266: GARBE@banDana@ba/nDana@75775@39
+Case 267: ed.Bomb@aYcana@*aYcana@1426@42
+Case 268: BHA7G.P.ed.Bomb@anudapAna@anudapAna@4432@44
+Case 269: AUFRECHT@uRAdi@uRAdi@17945@49
+Case 270: PAN4K4AT.ed.Bomb@antarvAsika@antarvAsika@5371@49
+Case 271: HALL@atandracandraka@atandracandraka@1600@50
+Case 272: LA@aDika@aDika@2769@68
+Case 273: R.GORR@aDiyoDa@aDiyoDa@2889@107
+Case 274: UTPALA@aDama@aDama/@2701@122
+Case 275: R.ed.Bomb@aNgarAga@aNgarAga@963@236
+Case 276: C2AM5K.zu.BA7DAR@aBisaMBava@aBisaMBava@7729@390
 END OF REMOVALS from crefrecs
 --------------------------------------------------------------------------------
-1968  = instance count of cref records removed from cref re pwbib
-70112  = instance count of cref records retained
-72080  = Total instance count 
+2009  = instance count of cref records removed from cref re pwbib
+70061  = instance count of cref records retained
+72070  = Total instance count 
 
-528 records kept from ../pw_dhaval/abbrvwork/abbrvoutput/sortedcrefs.txt after adjustment from pwbib_new.txt
-30 known unused records removed from pwbib for purposes of matching
+460 records kept from ../pw_dhaval/abbrvwork/abbrvoutput/sortedcrefs.txt after adjustment from pwbib_new.txt
+28 known unused records removed from pwbib for purposes of matching
 Case 01: gan2a : im Gaṇapātha zu P. 
 Case 02: HARISV. : HARISVĀMIN. 
 Case 03: MAYR, Ind. Erb. : Das indische Erbrecht von AUREL MAYR, Wien 1873. 
@@ -294,21 +306,19 @@ Case 16: ALAM5KA7RAS : (ARVASVA) von RUYYAKA, Deccan Coll. Hdschr. No. 231 (PISC
 Case 17: C2RIMA7LA7M : (ĀHĀTMYA), Hdschr. (AUFRECHT). 
 Case 18: DEVI7BHA7G : (AVATAPURĀṆA), Hdschr. (AUFRECHT). 
 Case 19: DRAVJAC2 : (UDDHITATTVA), Hdschr. (AUFRECHT). 
-Case 20: KA7VJA7L : (OKALOCANA), Hdschr. (AUFRECHT). 
-Case 21: KHAN2D2APR : (AŚASTI) im Pandit, Bed. 5 und 6 (AUFRECHT). 
-Case 22: K4HA7NDOGJAP : (ARIŚIṢṬA) nach Citaten in andern Werken (AUFRECHT). 
-Case 23: LEUMANN, Aup. Gl. : Glossar in. , Das Aupapātika Sūtra, herausgegeben von Dr. ERNST LEUMANN. 
-Case 24: SAM5KSHEPAC2 : (AM̃KARAJAYA) von MĀDHAVA (AUFRECHT). 
-Case 25: VA7MANAP : (URĀṆA), Hdschr. (AUFRECHT). 
-Case 26: VA7RA7HAP : (URĀNA) , Hdschr. (YACOBI). 
-Case 27: Bydragen : (tot de Taal-, Land-en Volkenkunde van Nederlandsch Indie) (H. KERN). 
-Case 28: K4ANDRA7LOKA : (R. PISCHEL). 
-Case 29: KA7VJA7L : (AM̃KĀRA des RUDRAṬA) (R. PISCHEL). 
-Case 30: SAHR2DAJA7LOKA : (R. PISCHEL). 
+Case 20: KHAN2D2APR : (AŚASTI) im Pandit, Bed. 5 und 6 (AUFRECHT). 
+Case 21: K4HA7NDOGJAP : (ARIŚIṢṬA) nach Citaten in andern Werken (AUFRECHT). 
+Case 22: LEUMANN, Aup. Gl. : Glossar in. , Das Aupapātika Sūtra, herausgegeben von Dr. ERNST LEUMANN. 
+Case 23: SAM5KSHEPAC2 : (AM̃KARAJAYA) von MĀDHAVA (AUFRECHT). 
+Case 24: VA7MANAP : (URĀṆA), Hdschr. (AUFRECHT). 
+Case 25: VA7RA7HAP : (URĀNA) , Hdschr. (YACOBI). 
+Case 26: Bydragen : (tot de Taal-, Land-en Volkenkunde van Nederlandsch Indie) (H. KERN). 
+Case 27: K4ANDRA7LOKA : (R. PISCHEL). 
+Case 28: SAHR2DAJA7LOKA : (R. PISCHEL). 
 END OF REMOVALS
 --------------------------------------------------------------------------------
 
-473 After adjustment for unused records from pwbib1.txt
+475 After adjustment for unused records from pwbib1.txt
 bib duplicate abbrv: DHU7RTAS 082 323
 bib duplicate abbrv: HA7SJ 113 336
 bib duplicate abbrv: KAP 137 344
@@ -320,12 +330,12 @@ bib duplicate abbrv: RA7G4AN 230 428
 bib duplicate abbrv: BAUDH 309 438
 bib duplicate abbrv: BHAVISHJOTT.P 036 443
 bib duplicate abbrv: HARSHAK4 112 455
-bib duplicate abbrv: KA7TJ 459 460
 bib duplicate abbrv: VASISHT2HA 412 483
 bib duplicate abbrv: C2A7K 051 489
+bib duplicate abbrv: KA7VJA7L 461 493
 bib duplicate abbrv: SARASVATI7K 477 499
 bib duplicate abbrv: VA7GBH 274 502
-457 pwbib records, after removing duplicates
-453 matching abbreviations
-70112 total abbreviation instances from crefs
-70006 of these accounted for by matching abbreviations
+459 pwbib records, after removing duplicates
+455 matching abbreviations
+70061 total abbreviation instances from crefs
+70053 of these accounted for by matching abbreviations

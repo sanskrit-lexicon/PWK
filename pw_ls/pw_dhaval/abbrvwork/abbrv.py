@@ -105,6 +105,9 @@ def segregatepurenumbers():
 			n.write(a+"@"+b+"@"+c+"@"+d+"\n") # Store one in a line in the storage file.
 		elif re.match(r'^([0-9a-z()&.,]+)$',a): # Same
 			n.write(a+"@"+b+"@"+c+"@"+d+"\n") # Store one in a line in the storage file.
+		elif re.match(r'^[0-9]',a): # Jan 19, 2016. ejf. Start with digit
+			n.write(a+"@"+b+"@"+c+"@"+d+"\n") # Store one in a line in the storage file.
+                        #print "DBG: pure ref",a.encode('utf-8')
 		else:
 			propfile.write(a+"@"+b+"@"+c+"@"+d+"\n") # Store one in a line in the storage file.
 			properrefs.append((a,b,c,d)) # Append to the list
@@ -298,14 +301,22 @@ def clean_special(a,clean):
   ('GR2HJA7S.(ed.BLOOMFIELD)','GR2HJA7S.(ed.BLOOMFIELD)'),
   ('P.,Sch','P'),
   ('JOLLY,Sch.','JOLLY'),
-  ('C2AT.BR.z.B','C2AT.BR.'), # z.B = zum Beispiel = for example
+  ('C2AT.BR.z.B','C2AT.BR'), # z.B = zum Beispiel = for example
   ('NJA7JAS.Comm.S','NJA7JAS'),
   ('BI7G4AG.C2l','BI7G4AG'),
   ('NR2S.UP.(Bibl.ind.)','NR2S.UP.(Bibl.ind.)'),
   ('MED.sh','MED'),
   ('H.an','H'),
   ('C2A7K.Ch','C2A7K'),
- 
+  # PWK/issues/59
+  ('Va7rtt.,Sch','Va7rtt'),
+  ('MA7LATI7M.ed.Bomb.S','MA7LATI7M.ed.Bomb'),
+  ('PAN4K4AT.ed.KOSEG.Ausg','PAN4K4AT.ed.KOSEG'),
+  ('GOBH.Einl.S','GOBH'),
+  ('C.H.TAWNEY','C.H.TAWNEY'),
+  ('PAN4K4AT.ed.Bomb.I','PAN4K4AT.ed.Bomb'),
+  ('NJA7JAS.S','NJA7JAS'),
+
  ]
  for (start,cleanadjman) in startpairs:
   if a.startswith(start):
@@ -335,6 +346,10 @@ def removenumbers():
                 # Dec 13, 2015. Special cleaning
                 clean = clean_special(a,clean)
 		cleanrefs.append((clean,b,c,d))
+                # Jan 19, 2016 debug
+                if clean =="C2AT.BR.":
+                 out = "@".join((clean,a,b,c,d))
+                 print "DBG:",out.encode('utf-8')
 	cl1 = []
 	ur1 = []
 	for (p,q,r,s) in cleanrefs:
