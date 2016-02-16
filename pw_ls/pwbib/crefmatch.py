@@ -166,11 +166,20 @@ class Pwbibnew(object):
 def init_pwbib_new(filein):
  f = codecs.open(filein,"r","utf-8") 
  recs=[]
+ n=0 # line number. Used in duplicate checking
+ abbrvs={}
  for line in f:
+  n = n+1
   if line.startswith(';'):
    continue # comment
   rec=Pwbibnew(line)
   recs.append(rec)
+  # check for duplicates
+  abbrv = rec.abbrv
+  if abbrv in abbrvs:
+   print n,abbrv,abbrvs[abbrv],"duplicate in",filein
+  else:
+   abbrvs[abbrv]=n
  f.close()
  return recs
 

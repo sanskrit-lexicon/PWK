@@ -32,7 +32,7 @@ ed.Bomb (54)  Not sure how to handle.
 MALLIN (7)
 Nachträge (1)
 SCHRÖDER (2)
-C2A7N5KH (92)
+; C2A7N5KH (92) duplicate
 ; New additions from PWK/issues/27
 KUMA7RILA (3)
 SIDDH.K.ed.TA7R (1)
@@ -54,9 +54,9 @@ PANDIT (3)
 ; PWK/issues/37
 DRAVJAV (?)
 ; PWK/issues/43
-C2A7N5KH.A7R (1)
+;C2A7N5KH.A7R (1) duplicate
 ; next is author. No work indicated in pw.txt reference
-C2A7N5KH (7) 
+; C2A7N5KH (7)  duplicate
 ; PWK/issues/45
 PAN4K4AT.ed.Bomb (9)
 ; aliases for pwbib0 'R.' Ramayana entry
@@ -71,7 +71,7 @@ A7PAST.GAUT  (7)
 A7PAST.GR2HJ (1)
 ; Next is an author.  Ref PWK/issues/45 for discussion of whether
 ; this should remain a separate literary source.
-MALLIN (7)
+; MALLIN (7) duplicate
 ZIMMER (3)
 ; One instance of ZACH under hw=hugga.  Not sure how to handle,
 ;   so am putting it here for now
@@ -116,7 +116,7 @@ K4ARAKA.ed.Calc  (1?)
 MBH.ed.Calc (2?)
 RA7G4AT.ed.Calc (1?)
 HEM.Pr.Gr.ed.PISCHEL (1)
-HEM.Pr.Gr (5)
+; HEM.Pr.Gr (5) duplicate
 TBR.Comm (5) 
 KA7LIDA7SA (5) Name of poet.
 WILSON,SA7M5KHJAK (1) variant of SA7M5KHJAK
@@ -175,7 +175,7 @@ C2A7K.CH (2) hw = DanurgrAha, sadfzwivikzepam
 ANTJESHT2IK (1) hw = heruka
 RUDRAJA7MALA (1) hw = amara
 COLEBR.MISC.Ess (1) hw = rAqa
-KA7C2JAPA (1) hw = SabdAy
+; KA7C2JAPA (1) hw = SabdAy duplicate
 RA7JENDR.Not (1) hw = raGumaRi
 ROTH (3) hw = Satarca, smftimahArRava, varuRaSezas
 KA7TJ.C2R.PADDH (1) hw = sajjIkzAra
@@ -205,7 +205,7 @@ JAC2NA (1) hw = laYcA
 DURGA (2) hw = jabAru, vayiyu
 JACOBI (2) hw = mfgarAjaDArin, smar
 R2GVIDHA7NA (1) hw = stu (7202-3)
-ROTH (3) hw = stAman, satyatAt, BajeraTa
+; ROTH (3) hw = stAman, satyatAt, BajeraTa duplicate
 BHA7GURI (1) hw = SilI
 SUBHA7SHITARATNABH.PRAK (1) hw = sAhajika
 SIDDH.K.ed.TA7RA7N (1) hw = pratyAyana  TA7RA7N prob = TA7RA7NA7THA mentioned twice in pwbib titles
@@ -239,10 +239,10 @@ ANUPADAS (4) hw = atIrTa, vAla, halezA, hiraRyakfzRala
 C2A7K.(PISCH) (1) ekarasa
 NERIOSENGH (2) laYcA, vipratAraka
 KIELHORN (2) vaqQ, SambawI
-C2A7K.PISCH (2) duHKaBAgin, svEra  (no doubt same as C2A7K.(PISCH)
+; C2A7K.PISCH (2) duHKaBAgin, svEra  (no doubt same as C2A7K.(PISCH) duplicate
 BÜHLER (4) vAgguda, paropavAsa, vAgvada , pad
 HARSHAK4.(C2aka_1936) (1) yazwigrAma
-AC2VAV (14) saMBala, sAndra, etc.
+; AC2VAV (14) saMBala, sAndra, etc. duplicate
 Kön.Pr.Ak (1) hel
 K4KRADATTA (1) pAcima
 SCHÖNBERG,KSHEM (1) salladra  (alias of 'KSHEM' of pwbib0)
@@ -267,11 +267,11 @@ AV.G4JOTISHA (1) vijaya
 AV.ANUKR (1) yudDopakaraRa
 VA7SISHT2HA (1) vArdDuzi
 RA7MADA7SA (1) cumbaka
-ROTH (1) hvar
+; ROTH (1) hvar duplicate
 PARA7C2ARA (1) svayaMkfzwa (prob. variant for PARA7C2)
-KA7TJ.C2R.PADDH (2) SyAmAka, SyAmAkezwi
+; KA7TJ.C2R.PADDH (2) SyAmAka, SyAmAkezwi duplicate
 ATHARVAPADDH (1) saMpAtay
-R2GVIDHA7NA (1) stu
+; R2GVIDHA7NA (1) stu duplicate
 VIG4N4 (1) homay
 HODGSON,Ess (1) vajrAcArya
 HODGSON,Essays (1) yAtnika
@@ -309,7 +309,7 @@ JOLLY,Tagore_Law_Lecture (1) sapiRqa  (Use of underscore for space)
 NIRGHAN2T2U (2) mfgadarpa, mfgodBava
 CSOMA (1) ceraka
 VARISHT2HA (1) rakzodEvata
-KAIJAT2A (1) SvoBUti
+; KAIJAT2A (1) SvoBUti duplicate
 GILD (1) Sabdakalpa
 MA7HABH (1) kar (p. 2019-1)  Is this mis-spelling of MAHA7BH ?
 K4ANDRAGRAH (1) suKArTa
@@ -355,13 +355,13 @@ PAIT2HI7NASI (1) sarvaloha
 COWELL (2) vAyubIja , vAribIja
 PV.PRA7T (1) Bakti   (print error for AV.PRA7T ?)
 NR2S.UP.(Bibl.ind.) (1) Opala
-VA7GBHAT2A (1) harAvAsa
+; VA7GBHAT2A (1) harAvAsa duplicate
 ARG4 (3) graB , vaSaMkara, Sliz
 RUDRAT2A,KA7VJA7LAM5KA7RA (1) saMdazwaka
 PARA7C2ARASMR2TI (1) SivagaNgA
 MAC2 (1) aByArohaRIya
 SA7MAVIDH.BR (1) avaleKana
-TANTRASA7RA (1) hAkinI
+; TANTRASA7RA (1) hAkinI duplicate
 ; PWK/issues/59
 BHA7G.ed.Bomb (1) kuyAjYika
 BH (1) vaNKara

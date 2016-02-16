@@ -1,5 +1,5 @@
 28 Records from pwbib_unused.txt
-302 new resources read from pwbib_new.txt
+287 new resources read from pwbib_new.txt
 774 records written to pwbib_abbrv_all.txt
 503 records from pwbib1.txt
 737 records from ../pw_dhaval/abbrvwork/abbrvoutput/sortedcrefs.txt
