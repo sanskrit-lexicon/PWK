@@ -48,10 +48,11 @@ def init_pwbib1(filein):
  with codecs.open(filein,"r","utf-8") as f:
   recs = [Pwbib1(line) for line in f]
  return recs
-
-pwbib_unusedkeys=[
+pwbib_unusedkeys=[] # Feb 15, 2016. Will be initialized from pwbib_unused.txt
+prev_pwbib_unusedkeys=[ # Feb 15, 2016. Removed this from use. 
  # Dec 15, 2015
- 'MAHA7B','C2RIMA7LA7M','Bydragen','HARISV','gan2a',
+ #'MAHA7B', Removed Feb 15, 2016. Not in pwbib0
+ 'C2RIMA7LA7M','Bydragen','HARISV','gan2a',
  'SVAPNAK4(INTA7MAN2I)','LEUMANN,Aup.Gl',
  'Ind.Str','MAYR,Ind.Erb',
  # Dec 18, 2015
@@ -59,7 +60,8 @@ pwbib_unusedkeys=[
  # Dec 19, 2015 
  u'BÜHLER,Rep.1872-73',
  'DEVI7BHA7G',
- 'GAN2ITA,MADHJA7M(A7DHJA7JA)','GAN2ITA,K4ANDRAGR(AHA7DHIKA7RA)',
+ 'GAN2ITA,MADHJA7M(A7DHJA7JA)',
+   # 'GAN2ITA,K4ANDRAGR(AHA7DHIKA7RA)', removed Feb 15, 2016
  # Dec 20, 2015
  'KA7TJ.C2RA7DDHAK', 'VA7MANAP','C2OBH','NI7LAK.miteinerZahl',
  'SAHR2DAJA7LOKA',
@@ -68,23 +70,34 @@ pwbib_unusedkeys=[
  # Dec 31, 2015 Ref PWK/issues/37
   'KA7TJ(A7JANA)', 'DRAVJAC2', 'K4ANDRA7LOKA', 
   # 'KA7TJ.KARM', # is used. Jan 19, 2016
-  'KA7TJ.PARIBH',
+  #  'KA7TJ.PARIBH',  Removed Feb 15, 2016
   'SAM5KSHEPAC2','ALAM5KA7RAR',
 ]
 def adjust_bibrecs(bibrecs):
  #print "adjust_bibrecs: for purpose of testing, NOT removing the following"
  recs=[] # returned
  removed=[] 
+ unused_found=[]
  for rec in bibrecs:
   if rec.abbrvadj  in pwbib_unusedkeys:
    removed.append(rec)
+   if rec.abbrvadj not in unused_found:
+    unused_found.append(rec.abbrvadj)
    #recs.append(rec)  # for testing
   #elif rec.duplicate:
   # removed.append(rec)
   else:
    recs.append(rec) # keep
+ # Check that unused_found == pwbib_unusedkeys.
+ if len(unused_found) != len(pwbib_unusedkeys):
+  unused_notfound = [x for x in pwbib_unusedkeys if (x not in unused_found)]
+  print "These putative elements of pwbib_unusedkeys were not found:"
+  print unused_notfound
+ else:
+  print "All of pwbib_unusedkeys are accounted for"
+
  # write removed to stdout
- print len(removed),"known unused records removed from pwbib for purposes of matching"
+ print "adjust_bibrecs:",len(removed),"known unused records removed from pwbib for purposes of matching"
  for i in xrange(0,len(removed)):
   rec = removed[i]
   out = "Case %02d: %s : %s" % (i+1,rec.abbrv,rec.titleunicode)
@@ -112,7 +125,7 @@ def adjust_crefrecs(crefrecs,pwbibnewrecs):
    recs.append(rec) # keep
    keepcount = keepcount + int(rec.count)
  # write removed to stdout
- print len(removed),"known unused records removed from pwbib for purposes of matching"
+ print "adjust_crefrecs:",len(removed),"records with known NEW abbreviations removed from crefrecs for purposes of matching"
  for i in xrange(0,len(removed)):
   rec = removed[i]
   out = "Case %02d: %s" % (i+1,rec.line)
@@ -187,12 +200,29 @@ def pwbib_abbrv_all(bibrecs,pwbibnewrecs,fileout):
  f.close()
  print len(allabbrv),"records written to",fileout
 
+def init_pwbib_unused(filein):
+ with codecs.open(filein,"r","utf-8") as f:
+  recs = [x.rstrip() for x in f if (not x.startswith(';'))]
+ print len(recs),"Records from",filein
+ if set(recs) != set(prev_pwbib_unusedkeys):
+  print len(prev_pwbib_unusedkeys)," keys from prev_pwbib_unusedkeys"
+  srecs = sorted(recs)
+  prevrecs = sorted(prev_pwbib_unusedkeys)
+  import difflib
+  o = difflib.HtmlDiff()
+  html =o.make_file(srecs,prevrecs)
+  print html.encode('utf-8')
+  exit(1)
+ return recs
+
 if __name__ == "__main__":
  filebib = sys.argv[1]
  filecref = sys.argv[2]
  fileout = sys.argv[3]
  filenew = sys.argv[4] # pwbib_new.txt
+ fileunused = sys.argv[5] #pwbib_unused.txt
  pwbibnewrecs = init_pwbib_new(filenew)
+ pwbib_unusedkeys = init_pwbib_unused(fileunused) # pwbib_unusedkeys is global
  print len(pwbibnewrecs),"new resources read from",filenew
 
  bibrecs = init_pwbib1(filebib)

@@ -1,8 +1,9 @@
+28 Records from pwbib_unused.txt
 302 new resources read from pwbib_new.txt
-777 records written to pwbib_abbrv_all.txt
+774 records written to pwbib_abbrv_all.txt
 503 records from pwbib1.txt
 737 records from ../pw_dhaval/abbrvwork/abbrvoutput/sortedcrefs.txt
-278 known unused records removed from pwbib for purposes of matching
+adjust_crefrecs: 278 records with known NEW abbreviations removed from crefrecs for purposes of matching
 Case 01: A7NANDAGIRI@BUmikA@BUmikA@80503@1
 Case 02: ANTJESHT2IK@heruka@heruka@135444@1
 Case 03: ANUPADA@ArcABin@ArcABin@15601@1
@@ -288,7 +289,8 @@ END OF REMOVALS from crefrecs
 72070  = Total instance count 
 
 459 records kept from ../pw_dhaval/abbrvwork/abbrvoutput/sortedcrefs.txt after adjustment from pwbib_new.txt
-28 known unused records removed from pwbib for purposes of matching
+All of pwbib_unusedkeys are accounted for
+adjust_bibrecs: 28 known unused records removed from pwbib for purposes of matching
 Case 01: gan2a : im Gaṇapātha zu P. 
 Case 02: HARISV. : HARISVĀMIN. 
 Case 03: MAYR, Ind. Erb. : Das indische Erbrecht von AUREL MAYR, Wien 1873. 

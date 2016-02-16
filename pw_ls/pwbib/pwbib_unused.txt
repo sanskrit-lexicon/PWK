@@ -1,35 +1,47 @@
 ; pwbib_unused.txt
-This file contains the abbreviations of pwbib that are believed to be
-unused in the literary citations of pw.txt.
-Ref: https://github.com/sanskrit-lexicon/PWK/issues/22
-
-21 MAHA7B
-22 C2RIMA7LA7M
-26 Bydragen 
-28 HARISV
-29 gan2a
-33 SVAPNAK4(INTA7MAN2I) 
-14 LEUMANNA,Aup.Gl 
-PWK#20
-38 VA7RA7HAP
-41 PRAG4A7PATI
-43 MAITR.PADDH
-51 KHAN2D2APR
-59 ALAM5KA7RAS
-PWK#21
-65 BÜHLER,Rep.1872-73
-66 DEVI7BHA7G
-76 DEVATA7DHJ.BRA7HM 
-81 Ind.Str.
-90 GAN2ITA,MADHJA7M(A7DHJA7JA) 
-90 GAN2ITA,K4ANDRAGR(AHA7DHIKA7RA) 
-109 KIELHORN,Rep
-PWK#22
-91 KA7TJ.C2RA7DDHAK
-98 VA7MANAP
-116 C2OBH
-119 NI7LAK.miteinerZahl 
-122 SAHR2DAJA7LOKA
-123 KA7VJA7L
-... K4HA7NDOGJAP   Added by ejf.
-NI7LAK.miteinerZahl
+;This file contains the abbreviations of pwbib that are believed to be
+;unused in the literary citations of pw.txt.
+;Ref: https://github.com/sanskrit-lexicon/PWK/issues/22
+; Feb 16, 2016. This file is now used by crefmatch.py, which previously
+; used an internal list of these.
+; Lines beginning with a semicolon are comments 
+; the other lines have two fields, separated by a space
+; the first field is a record number within 
+; The ending period of abbreviations is REMOVED, as a convention.
+; MAHA7B removed Feb 15, 2016. Not in pwbib
+C2RIMA7LA7M
+Bydragen 
+HARISV
+gan2a
+SVAPNAK4(INTA7MAN2I) 
+LEUMANN,Aup.Gl 
+;PWK#20
+VA7RA7HAP
+PRAG4A7PATI
+MAITR.PADDH
+KHAN2D2APR
+ALAM5KA7RAS
+;PWK#21
+BÃœHLER,Rep.1872-73
+DEVI7BHA7G
+;DEVATA7DHJ.BRA7HM 
+Ind.Str
+GAN2ITA,MADHJA7M(A7DHJA7JA) 
+; GAN2ITA,K4ANDRAGR(AHA7DHIKA7RA)   Removed Feb 15, 2016
+KIELHORN,Rep
+;PWK#22
+KA7TJ.C2RA7DDHAK
+VA7MANAP
+C2OBH
+NI7LAK.miteinerZahl 
+SAHR2DAJA7LOKA
+; KA7VJA7L
+K4HA7NDOGJAP
+;
+MAYR,Ind.Erb
+KA7TJ(A7JANA)
+DRAVJAC2
+K4ANDRA7LOKA
+; KA7TJ.PARIBH   Removed Feb 15, 2016
+SAM5KSHEPAC2
+ALAM5KA7RAR
