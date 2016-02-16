@@ -324,27 +324,34 @@ def clean_special(a,clean):
  # default
  return cleanadj
 
+# Feb 16, 2016 (ejf).  Refactor, so that all the 'cleaning' logic
+# for one element (a,b,c,d) of properrefs is done in this function.
+# The reason is so that another program can re-use these details.
+def clean_one_properref(a,b,c,d):
+ # Nov 28, 2015. ejf first remove (...)  and [...]
+ clean = a
+ clean = re.sub(r'(.)\(.*?\)',r'\1',clean)
+ clean = re.sub(r'(.)\[.*?\]',r'\1',clean)  
+ clean = re.sub(u'¨',u'$',clean) # Some unicode issues sorted. Not converted them back as of now.
+ clean = re.sub(u'›',u'$$',clean)
+ #clean = re.sub(u'ý',u'^2',clean)
+ clean = re.sub(u'²',u'^2',clean)
+ #clean = re.sub(r'[.]([0-9,.a-z();\^\$]+)$','',clean) # Removed the trailing numbers of cantos / shlokas etc.
+ # Removed the trailing numbers of cantos / shlokas etc.
+ clean = re.sub(r'[.]([0-9,.a-z();\^\$]+)$','',clean) 
+ # ejf.  Replace '.'+digit+<rest> with .
+ clean = re.sub(r'[.][0-9].*$','.',clean)
+ clean = clean.strip('.') # Removed trailing period after the numbers are removed (if any).
+ # Dec 13, 2015. Special cleaning
+ clean = clean_special(a,clean)
+ return clean
+
 def removenumbers():
 	global properrefs
 	cleanfile = codecs.open('abbrvoutput/cleanrefs.txt','w','utf-8')
 	cleanrefs = []
 	for (a,b,c,d) in properrefs:
-		# Nov 28, 2015. ejf first remove (...)  and [...]
-                clean = a
-                clean = re.sub(r'(.)\(.*?\)',r'\1',clean)
-                clean = re.sub(r'(.)\[.*?\]',r'\1',clean)                
-		clean = re.sub(u'¨',u'$',clean) # Some unicode issues sorted. Not converted them back as of now.
-		clean = re.sub(u'›',u'$$',clean)
-		#clean = re.sub(u'ý',u'^2',clean)
-                clean = re.sub(u'²',u'^2',clean)
-		#clean = re.sub(r'[.]([0-9,.a-z();\^\$]+)$','',clean) # Removed the trailing numbers of cantos / shlokas etc.
-		# Removed the trailing numbers of cantos / shlokas etc.
-		clean = re.sub(r'[.]([0-9,.a-z();\^\$]+)$','',clean) 
-                # ejf.  Replace '.'+digit+<rest> with .
-                clean = re.sub(r'[.][0-9].*$','.',clean)
-		clean = clean.strip('.') # Removed trailing period after the numbers are removed (if any).
-                # Dec 13, 2015. Special cleaning
-                clean = clean_special(a,clean)
+		clean=clean_one_properref(a,b,c,d)
 		cleanrefs.append((clean,b,c,d))
                 # Jan 19, 2016 debug
                 if clean =="C2AT.BR.":
