@@ -1,0 +1,790 @@
+ACV.CR:A7C2V.C2R:001:1:155:ĀŚVALĀYANA's ŚRAUTSŪTRA in der Bibl. ind. 
+ACV.GRHJ:A7C2V.GR2HJ:002:1:97:ĀŚVALĀYANA'S GṚHYASŪTRA; Ausg. von STENZLER. 
+ACV.GRHJ.PARIC:A7C2V.GR2HJ.PARIC2:003:1:7:PARIŚIṢṬA ZU ĀŚV. GṚHY. in der Bibl. ind. 
+ACVAV:AC2VAV:613:new:15:saMBala,121139;sAndra,123930;sAmBala,124244;sIvana,125594;surUhaka,127688;sOBikzya,129994;stanin,130399;stabDagAtra,130418;stuva,130568;sTARuroga,130891
+AGNI-P:AGNI-P:004:1:163:AGNIPURĀṆA in der Bibl. ind. 
+AINSLIE:AINSLIE:307:2:2:AINSLIE, Materi indica. London 1826. 
+AIT.AR:AIT.A7R:005:1:182:AITAREYĀRAṆYAKA in der Bibl. ind. In der Regel citirt nach Seite und Zeile (KERN und ROTH). 
+AIT.BR:AIT.BR:006:1:212:AITAREYABRĀHMAṆA, Ausg. von HAUG. 
+AIT.UP:AIT.UP:007:1:10:AITAREYOPANIṢAD in der Bibl. ind. 
+AK:AK:008:1:49:AMARAKOŚA, Ausg. von LOISELEUR DESLONGCHAMPS. 
+AKARADARCA:A7K4A7RA7DARC2A:009:1:2:, Benares 1921 (STENZLER). 
+ALAMKARAC:ALAM5KA7RAC2:487:6:3:(EKHARA), lith. Ausg. Benares 1923 (TH. AUFRECHT UND R. PI-AUCITY (ĀLAM̃KĀRA)) (R. PISCHEL). 
+ALAMKARAR:ALAM5KA7RAR:432:5:0:(ATNĀKARA) des ŚOBHĀKARA, Deccan. Coll. Hdschr. No. 227 (PISCHER). 
+ALAMKARAS:ALAM5KA7RAS:433:5:0:(ARVASVA) von RUYYAKA, Deccan Coll. Hdschr. No. 231 (PISCHER). 
+ALAMKARAT:ALAM5KA7RAT:434:5:5:(ILAKA), Hdschr. (AUFRECHT). 
+ALAMKARAV:ALAM5KA7RAV:435:5:1:(IMARŚINĪ) von JAYARATHA, Deccan Coll. Hdschr. No. 230 (PISCHER). 
+AMRT.UP:AMR2T.UP:010:1:16:AMṚTABINDŪPANIṢAD in der Bibl. ind. (GELDNER und ROTH). 
+ANANDAG:A7NANDAG:011:1:2:ĀNANDAGIRI, Glossator zu ŚAM̃KARĀCĀRYA'S Comm. zu BṚH. ĀR Up. in der Bibi. ind. (KERN). 
+ANANDAGIRI:A7NANDAGIRI:649:new:1:BUmikA,80503
+ANANDAL:A7NANDAL:308:2:2:ĀNANDALAHARI in HAEBELIN's Anthologie. 
+ANARGHAR:ANARGHAR:436:5:16:(ĀGHAVA), Calcutta Śaka 1782 (AUFRECHT). 
+ANTJESHTIK:ANTJESHT2IK:615:new:1:heruka,135444
+ANUKR.ZURV:ANUKR.zuR2V:012:1:1:ANUKRAMAṆIKĀ zu ṚV. im Comm. SĀYAṆA'S. 
+ANUPADA:ANUPADA:762:new:1:ArcABin,15601
+ANUPADAS:ANUPADAS:669:new:4:atIrTa,2185;vAla,101205;halezA,134034;hiraRyakfzRala,134790
+APARARKA:APARA7RKA:375:3:3:(YOLLY). 
+APAST:A7PAST:013:1:975:ĀPASTAMBA'S DHARMASŪTRA, Ausg. von BÜHLER. 
+APAST.CR:A7PAST.C2R:014:1:1099:ĀPASTMBA'S ŚRAUTASŪTRA, Hdschr. (GARME und ROTH). 
+APAST.GAUT:A7PAST.GAUT:530:new:10:Atmavant,14243;upasaMgrahaRa,20101;jyezWasAman,43507;trEvidya,48072;Darmavyatikrama,54867;niveSa,59827;patanIya,62483;pAdaprakzAlana,65861;vatsatantI,97725;Sukta,113221
+APAST.GRHJ:A7PAST.GR2HJ:531:new:12:sTagara,130801;sTARu,130883;svanujA,132149;svAhAkAra,133163;svizwakft,133192;har,133572;hA,134349;hfdayadeSa,135129;hfdayasaMsarga,135153;hemantapratyavarohaRa,135362
+ARG:ARG4:780:new:3:graB,37314;vaSaMkara,99233;Sliz,115630
+ARJABH:A7RJABH:015:1:127:ĀRYABHAṬA Ausg. von KERN (KERN). 
+ARJAV:A7RJAV:016:1:69:ĀRYAVIDYĀSUDHĀKARA, Bombay 1868 (KERN). 
+ARSH.BR:A7RSH.BR:017:1:443:ĀRṢEYABRĀHMAṆA, Ausg. von BURNELL. 
+ARUN.UP:A7RUN2.UP:018:1:4:ĀRUṆEYOPANIṢAD in der Bibl. ind. (GELDNER und ROTH). 
+ASAHAJA:ASAHA7JA:437:5:4:, ein Commentator des NĀRADA (YOLLY). 
+ATHARVACIKHOP:ATHARVAC2IKHOP:656:new:1:saMDartar,119036
+ATHARVAPADDH:ATHARVAPADDH:700:new:1:saMpAtay,120914
+ATMOPAN:A7TMOPAN:019:1:1:ĀTMOPANIṢAD in der Bibl. ind. (GELDER und ROTH). 
+AUFRECHT:AUFRECHT:518:new:49:uRAdi,17945;tand,44532;pIWADyakza,67278;puzkara,68487;mar,83515;yajYapArSva,89503;yAmaki,90806;yuyu,91165;yotrapramAda,91495;rapas,92705
+AUPAMANJAVA:AUPAMANJAVA:640:new:1:yaTAprayogam,89902
+AV:AV:020:1:648:ATHARVAVEDA, Ausg. von ROTH und WHITNEY (ROTH). 
+AV.ANUKR:AV.ANUKR:696:new:1:yudDopakaraRa,91142
+AV.GJOT:AV.G4JOT:021:1:8:JYOTIṢA zum AV. , Hdschr. (ROTH). 
+AV.GJOTISHA:AV.G4JOTISHA:695:new:1:vijaya,102117
+AV.PADDH:AV.PADDH:634:new:1:heruka,135444
+AV.PAIPP:AV.PAIPP:022:1:65:AV. der PAIPPALĀDA-Schule, Hdschr. (ROTH). 
+AV.PAR:AV.PAR:716:new:2:avantyaka,10473;Avantyaka,15908
+AV.PARIC:AV.PARIC2:023:1:37:PARIŚIṢṬA zum AV. , Hdschr. (ROTH). 
+AV.PRAJACK:AV.PRA7JAC2K4:024:1:20:PRĀYAŚCITTA zum AV. , Hdschr. (ROTH). 
+AV.PRAT:AV.PRA7T:637:new:27:aYj,1430;anawka,3237;ananudarSana,3324;ananunAsika,3326;aniNga,4050;aniNgya,4053;anucca,4364;anupradAna,4622;anekAkzara,5110;apravIRa,6930
+B.A.J:B.A.J:026:1:93:Bombay Asiatic Yournal (GELDNER). 
+BADAR:BA7DAR:025:1:88:BĀDARĀYAṆA'S BRAHMASŪTRA in der Bibl. ind. 
+BALAR:BA7LAR:027:1:1195:BĀLARĀMĀYAṆA, Benares 1869 (KERN). 
+BAUDH:BAUDH:309:2:119:BAUDHĀYANA, nach Citaten in andern Werken. 
+BAUDH:BAUDH:438:5:0:(mit Angaben der Abschnitte) nach Mittheilungen von BÜHLER. 
+BAUDH.GRHJ.PARIC:BAUDH.GR2HJ.PARIC2:561:new:1:svanujA,132149
+BEITR.Z.K.D.IG.SPR:Beitr.z.K.d.ig.Spr:028:1:1:Beiträge zur Kunde der indogermanischen Sprachen. 
+BENF.CHR:BENF.Chr:029:1:20:BENFEY'S Chrestomathie. 
+BENFEY:BENFEY:562:new:5:jaJJa,41375;na,56115;puruDasman,68175;mur,87638;vam,98270
+BERL.MON:Berl.Mon:439:5:1:Monatsbericht der Königlich Preussischen Akademie der Wissenschaften zu Berlin. 
+BH:BH:786:new:1:vaNKara,97336
+BHADRAB:BHADRAB:440:5:35:(ĀHUCARITRA), herausgegeben von H. Y. YACOBI in Z. d. d. m. G. 38, 19. fgg. (YACOBI). 
+BHAG:BHAG:030:1:70:BHAGAVADGITĀ, Ausg. von SCHLEGEL. 
+BHAG:BHA7G:612:new:1:ftaMBara,21461
+BHAG.ED.BOMB:BHA7G.ed.Bomb:785:new:1:kuyAjYika,28967
+BHAG.P:BHA7G.P:031:1:736:BHĀGAVATAPURĀṆA. Die 9 ersten Skandha nach BURNOUF's. Ausgabe, wenn nicht ausdrücklich. ed. Bomb. hinzugefügt wird; die letzten Skandha nach der ed. Bomb. In Klammern eingeschlossene Zahlen verweisen auf ed. Bomb. 
+BHAG.P.ED.BOMB:BHA7G.P.ed.Bomb:529:new:44:anudapAna,4432;apAzaRqa,6471;asaMgata,12279;kawvaNga,23525;kaRika,23608;kayADu,24522;karS,25327;kalala,25415;gaRay,34238;candramasa,39020
+BHAG.P.ED.BURN:BHA7G.P.ed.BURN:559:new:4:apAzaRqa,6471;bIBartsita,77211;SunAsIra,113531;hiraRyaraSana,134852
+BHAGURI:BHA7GURI:645:new:1:SilI,112504
+BHAM:BHA7M:376:3:6:BHĀMATĪ in der Bibl. ind. (STENZLER). 
+BHAM.V:BHA7M.V:418:3:88:BHĀMINIVILĀSA, Ausg. von ABELBERGAIGNER(CAPPELLER. ) 
+BHAR:BHAR:541:new:1:atyantara,2254
+BHAR.NATJAC:BHA7R.NA7T2JAC2:032:1:40:BHĀRATĪYANĀṬYAŚĀSTRA am Schluss von DAŚAR. In der Bi?? in. 
+BHAR.NATJAC:BHAR.NA7T2JAC2:710:new:1:upasTAyika,20198
+BHARADVAGA:BHA7RADVA7G4A:588:new:3:vart,98820;viluptasAvitrIka,104245;samAhanana,120488
+BHARATA:BHARATA:607:new:3:mUrC,87878;mUrCana,87879;sarpaSiras,121620
+BHARATAKA:BHARAT2AKA:441:5:1:(DVĀTRIM̃ŚIKĀ), Hdschr. (AUFRECHT). 
+BHASHAP:BHA7SHA7P:033:1:7:BHĀṢĀPARICCHEDA in der Bibl. ind. 
+BHATT:BHAT2T2:034:1:377:BHAṬṬIKĀVYA, Calcutta 1828. 
+BHAVAPR:BHA7VAPR:035:1:1644:BHĀVAPRAKĀŚA, Calcutta 1875 und Hdschr. (ROTH). 
+BHAVISHJAP:BHAVISHJAP:442:5:1:(URĀṆA) Hdschr. (AUFRECHT). 
+BHAVISHJOTT.P:BHAVISHJOTT.P:036:1:2:BHAVIṢYOTTARAPURĀṆA nach Citaten in andern Werken. 
+BHAVISHJOTT.P:BHAVISHJOTT.P:443:5:0:, auch nach Mittheilungen von AUFRECHT. 
+BHOGA-KAR:BHOG4A-K4AR:037:1:2:BHOJACARITRA, Madras 1862 (STENZLER). 
+BHOGA-PR:BHOG4A-PR:038:1:28:BHOJAPRABANDHA, Benares 1925(KERN). 
+BIBL.IND:Bibl.ind:039:1:10:Bibliotheca indica. 
+BIGAG:BI7G4AG:040:1:53:BĪJAGAṆITA, Calcutta 1846(KERN). 
+BLOOMFIELD:BLOOMFIELD:745:new:1:var,98342
+BRAHMA-P:BRAHMA-P:042:1:2:BRAMAPURĀṆA nach Citaten in verschiedenen Werkes. 
+BRAHMABINDUP:BRAHMABINDU7P:041:1:7:BRAHMABINDŪPANIṢAD in der Bibl. ind. (GELDER uns ROTH). 
+BRAHMAN:BRA7HMAN2:628:new:2:paramika,63329;vatsabanDA,97746
+BRAHMANA:BRA7HMAN2A:581:new:7:Uza,21220;kadru,23917;Kalu,33624;rukma,94300;rudra,94426;sani,118831;sU,128531
+BRAHMAS:BRAHMAS:043:1:2:BĀDAR. 
+BRAHMAVAIV.P:BRAHMAVAIV.P:310:2:3:BRAHMAVAIVARTAPURĀṆA. 
+BRAHMOP:BRAHMOP:044:1:7:BRAHMOPANIṢAD in der Bibl. ind. (GELDNER und ROTH). 
+BRH.AR.UP:BR2H.A7R.UP:046:1:24:BṚHADĀRAṆYAKOPANIṢAD in der Bibl. ind. 
+BRHADD:BR2HADD:045:1:6:BṚHADDEVATĀ. 
+BRHANM:BR2HANM:377:3:1:BṚHANMANU, nach Citaten in verschiedenen juristischen Büchern(YOLLY). 
+BRHASP:BR2HASP:378:3:2:BṚHASPATI, nach Citaten in verschiedenen jurischen Büchern (YOLLY). 
+BRHASPATI:BR2HASPATI:584:new:1:yogakzemavant,91320
+BURN.INTR:BURN.Intr:049:1:9:BURNOUF, Introdution a l'historie du Buddhisme Indien. 
+BURNELL:BURNELL:742:new:2:maWa,81696;mADavAcArya,85993
+BURNELL,T:BURNELL,T:444:5:983:Classified Index to the Sanskrit Mss. in the Palace of Tanjore. By A. C. BURNELL. 
+BURNOUF:BURNOUF:566:new:6:pad,62713;par,63141;pratyaMSa,71825;bahUdana,76566;yajYahotar,89611;var,98342
+BYDRAGEN:Bydragen:488:6:0:(tot de Taal-, Land-en Volkenkunde van Nederlandsch Indie) (H. KERN). 
+BÜHL.GUZ:BÜHL.GUZ:048:1:5:Catalogue of S. Mss. fromm Guzerat etc. by G. BÜHLER. Bombay 1871-1873 (ROTH). 
+BÜHLER:BÜHLER:673:new:19:pad,62713;parizkanDa,64341;paropavAsa,64605;pUrvapIWikA,69127;bedarakara,77652;mahada,84067;yApya,90794;rAsa,94129;luk,96340;vAgguda,99904
+BÜHLER,REP:BÜHLER,Rep:047:1:365:Detailed Report of a Tour in search of Sanskrit Mss. made. in Kāsmir, Rajputana, and Central India. By G. BÜHLER, Bombay 1877. 
+BÜHLER,REP.-:BÜHLER,Rep.1872-73:311:2:0:BÜHLER, Report on Sanskrit Mss. 1872--73. 
+C.H.TAWNEY:C.H.TAWNEY:601:new:1:saMpada,120881
+CABDAK:C2ABDAK4:050:1:5:ŚABDACNDRIKĀ, nach GOLDSTÜCKER. 
+CACVATA:C2A7C2VATA:445:5:51:ŚĀŚVATA'S ANEKĀRTHASAMUCCAYA, herausgegeben von THEODOR ZACHARIAE. 
+CAJ(PISCH.):C2A7J(PISCH.):550:new:1:parihara,64437
+CAK:C2A7K:051:1:161:ŚĀKUNTALA, Ausg. von BÖHTLINGK, wenn nicht ausdrücklich PISCH. (PISCHEL) oder PRAMAC. (PREMACANDRA) hinzugefügt wird. 
+CAK:C2A7K:489:6:0:(Kāśm. ) ist die von K. BURKHARD in den Sitzungsberichten der phil-hist. Klasse der Kais. Ak. d. Ww. in Wien, Bd. 107, veröffentlichte Kaśmirer Śakuntalā-Handschrift (C. CAPELLER). 
+CAK.(PISCH):C2A7K.(PISCH):670:new:1:ekarasa,21896
+CAK.CH:C2A7K.CH:614:new:0:
+CAK.ED.PISCH:C2A7K.ed.PISCH:692:new:3:aBisaMDi,7716;locanAYcala,96730;vAdanamAruta,100478
+CAK.ED.PREMAK:C2A7K.ed.PREMAK4:740:new:1:avalogita,10665
+CAK.PISCH:C2A7K.PISCH:592:new:3:duHKaBAgin,50787;niravalambana,58957;svEra,133244
+CAKTAN:C2A7KTA7N:446:5:2:(ANDATARAM̃GIṆI) Hdschr. (AUFRECHT). 
+CAMK:C2AM5K:052:1:111:ŚAM̃KARĀCĀRYA als Commentator verchiedener UPANIṢAD. 
+CAMK.VIG:C2AM5K.VIG4:419:4:2:ŚAM̃KARAVIJAYA in der Bibl. ind. 
+CAMK.ZU.BADAR:C2AM5K.zu.BA7DAR:535:new:390:aBisaMBava,7729;aByupagantavya,7989;aByupagama,7990;aByupetahAna,7998;arTAkzipta,9528;arh,9863;avagantar,10236;avagamya,10241;avatAra,10340;avaDAraRIya,10398
+CAMKARA:C2AM5KARA:650:new:1:paYcakleSaBeda,61821
+CAND:C2A7N2D2:053:1:9:The Aphorisms of SĀṆḌILYA in der Bibl. ind. 
+CANKH:C2A7N5KH:509:new:2:vizApavAdin,105329;strIzUya,130770
+CANKH.AR:C2A7N5KH.A7R:506:new:2:vArkalin,101048;saMSlezaRa,116900
+CANKH.BR:C2A7N5KH.BR:054:1:56:ŚĀÑKHĀYANA'S BRĀHMAṆA (WEBER). 
+CANKH.CR:C2A7N5KH.C2R:055:1:141:ŚĀÑKHĀYANA'S ŚRAUTASŪTRA (WEBER). 
+CANKH.GRHJ:C2A7N5KH.GR2HJ:056:1:145:ŚĀÑKHĀYANA'S GṚHYASŪTRA, herausg. von OLDENBERG in Ind. St. 15. 
+CANT:C2A7NT:057:1:4:ŚĀNTANAVA'S PHIṬSŪTRA, AUSG. VON KIELHORN. 
+CANTIC:C2A7NTIC2:312:2:1:ŚĀNTIŚATAKA in HAEBERLIN'S Anthologie. 
+CANTOR:CANTOR:420:4:1:CANTOR, Geschichte der Mathematik (WINDISCH) . 
+CARNG:C2A7RN5G:447:5:2:PADDH. , auch nach Mittheilungen von AUFRECHT. 
+CARNG.PADDH:C2A7RN5G.PADDH:058:1:6:ŚĀRÑGADHARA'S PADDHATI, Hdschr. im Asiatischen Museum der Kais. Ak. d. Ww. in St. petersbug. 
+CARNG.SAMH:C2A7RN5G.SAM5H:059:1:38:ŚĀRÑGADHARA'S SAM̃HITĀ, Bombay 1853 (ROTH). 
+CAT.ALLAR:Cat.ALLAR:379:3:1:A Catalogue of Sanscrit Manuscripts in Oudh (ROTH). 
+CAT.BR:C2AT.BR:060:1:1075:ŚATAPATHABRĀHMAṆA, nach WEBER'S Index. 
+CAT.C.PR:Cat.C.PR:061:1:2:A Catalogue of S. Mss. existing in the central provinces. Ed. by F. KIELHORN. Nagpur 1874(ROTH). 
+CAT.GUJAR:Cat.GUJAR:313:2:7:A Catalogue of Sanskrit Manuscripts contained in the private libraries of GUYARĀT, KĀṬHIĀVĀD, KATCHCHH, SINDH and KHĀDE'S. Compeld unter the superintendence of G. BÜHLER (ROTH). 
+CAT.KIELH:Cat.KIELH:380:3:2:Cat. C. PR. 
+CAT.NW.PR:Cat.NW.PR:062:1:6:A Catalogue of S. Mss. in private libarties of the North-Western Provinves. I. Benares 1874 (ROTH). 
+CAT.WILLMOT:Cat.WILLMOT:314:2:12:A Catalogue of Sanskrit Mss. existing in the central provinces, prepared by order of E. WILLMOT Esq. (ROTH). 
+CATR:C2ATR:063:1:15:ŚATRUM̃JAYAMĀHĀTMYA, Ausg. von WEBER. 
+CHILDERS:CHILDERS:064:1:2:CHILDERS' Pali-Wörterbuch. 
+CHR:Chr:065:1:275:BÖHTLINGK'S Sanskrit-Chresthomathie, 2te Aufl. 
+CIC:C2IC2:066:1:1153:ŚIŚUPĀLAVADHA, Calcutta 1815. 
+CIKSHA:C2IKSHA7:630:new:5:ASrayasTAna,16221;kareRu,24822;SiraHsTita,112356;Sirogata,112371;saMkUjita,117478
+CILANKA:C2I7LA7N5KA:315:2:42:ŚĪLĀÑKA'S Commentar zum ĀCĀRĀÑGASŪTRA, Calcutta 1878 (YACOBI). 
+CIRA-UP:C2IRA-UP:067:1:8:ŚIRAUPANIṢAD in der Bibl. ind. (GELDNER und ROTH). 
+CIVA-P:C2IVA-P:448:5:3:(URĀṆA) (SK. , dschr. No. 126 in verzeichnis der Oxforder Handschriften (AUFRECHT). 
+CKDR:C2KDR:316:2:15:ŚABDAKALPADRUMA. 
+COBH:C2OBH:317:2:0:ŚOBHANAMUNI'S ŚOBHANASTUTAYAS in Z. d. d. m. G. 32, 509. fgg. (YACOBI). 
+COLEBR.ALG:COLEBR.Alg:068:1:38:COLEBROOKE, Algebra with Arithmetic and Mensuration u. s. w. London 1817. 
+COLEBR.MISC.ESS:COLEBR.Misc.Ess:069:1:4:Miscellaneous Essays by H. T. COLEBROOKE. London. 1837. 
+COLEBR.MISC.ESS:COLEBR.MISC.Ess:617:new:0:
+COWELL:COWELL:777:new:2:vAyubIja,100787;vAribIja,100974
+CRIMALAM:C2RIMA7LA7M:449:5:0:(ĀHĀTMYA), Hdschr. (AUFRECHT). 
+CRIP:C2RI7P:070:1:2:ŚRĪPATI. 
+CRUT:C2RUT:381:3:8:ŚRUTABODHA in der Zeitschrift für die Kunde des Morgenlandes, Bd. IV. 
+CRUT.(BR.):C2RUT.(BR.):318:2:3:ŚRUTABODHA, Ausg. von BROCKHAUS. 
+CSOMA:CSOMA:735:new:1:ceraka,40619
+CUDRADH:C2U7DRADH:520:new:1:sakIla,117241
+CUKAS:C2UKAS:490:6:20:(AM̃DEŚA) in Yournal of the Royal Asiatic Society of Great Britain & Ireland, Bd. XVI. 
+CUKRAN:C2UKRAN:382:3:4:ŚUKRANĪTI in OPPERT, On the army organization of the Ancient Hindus S. 107 (WEBER). 
+CULAPANI:C2U7LAPA7N2I7:755:new:1:saMjYapana,117962
+CULBAS:C2ULBAS:071:1:196:ŚULBASŪTRA in der Zeitschirft The Pandit IX. X und New Series I (CAPPELLER). 
+CUNNINGHAM,ARCH.SURV:CUNNINGHAM,Arch.Surv:319:2:6:CUNNINGHAM, Archaeological Survey of India. 
+CVETACV.UP:C2VETA7C2V.UP:072:1:29:ŚVETĀŚVATAROPANIṢAD in der Bibl. ind. 
+D.P:D.P:587:new:1:prAggrAmam,73897
+DACAK:DAC2AK:073:1:403:DAŚAKUMĀRA, Ausg. von BÜHLER (CAPPELLER). 
+DACAK.():DAC2AK.(1925):320:2:55:DAŚAKUMĀRACARITA, Calcutta 1234 {#saMvatsarE#} (CAPPELLER). 
+DACAK.ED.WILSON:DAC2AK.ed.WILSON:575:new:1:cEtraraTa,40688
+DACAR:DAC2AR:074:1:70:DAŚARŪPA in der Bibl. ind. 
+DAIV.BR:DAIV.BR:075:1:7:DAIVATABRĀHMAṆA, Calcutta 1875 und Ausg. von BURNELL. Mangalore 1873 (ROTH). 
+DAJ:DA7J:321:2:1:DĀYABHĀGA, Calcutta 1829. 
+DAMAJANTIK:DAMAJANTI7K:504:new:13:raNku,91976;raNg,91980;raNgita,92038;vAstava,101452;SAtakumBIya,111442;SAradIna,111681;SAlaBaYjikAy,111807;SoBAy,114461;Slokay,115690;saMwaNka,118004
+DARILA:DA7RILA:576:new:6:Sepya,114069;samAseka,120483;saMpAtay,120914;suvarcala,127810;skanDamaRi,130276;sraktya,131822
+DARPAD:DARPAD:450:5:1:(ALANA) von KṢEMENDRA, Hdschr. (AUFRECHT). 
+DATTAKAC:DATTAKAC2:451:5:1:(IROMAṆI), Calcutta 1867 (YOLLY). 
+DECIN:DEC2I7N:322:2:67:HEMACNDRA'S DEŚINĀMĀLĀ, Hdschr. (PISCHEL). 
+DELBRÜCK:DELBRÜCK:599:new:2:rarAvan,92808;sma,131635
+DEVALA:DEVALA:383:3:2:nach Citaten in verschiedenen juristischen Schriften (YOLLY). 
+DEVATADHJ.BRAHM:DEVATA7DHJ.BRA7HM:076:1:1:DAIV. BR. <NF> 
+DEVIBHAG:DEVI7BHA7G:452:5:0:(AVATAPURĀṆA), Hdschr. (AUFRECHT). 
+DH.V:DH.V:083:1:59:DHANAM̃JAYAVIJAYA, Calcutta 1871 (CAPPELLER). 
+DHAMMAP:DHAMMAP:077:1:1:DHAMMAPADA, Ausg. von FAUṢÖLL. 
+DHANURV:DHANURV:729:new:1:siMhakarRa,124834
+DHANV:DHANV:078:1:90:DHANVANTARI'S Wörterbuch, Hdschr. (ROTH). 
+DHATUP:DHA7TUP:079:1:48:DHĀTUPĀṬHA, Ausg. von WESTERGAARD. 
+DHJANAB.UP:DHJA7NAB.UP:080:1:10:DHYĀNABINDŪPANIṢAD in der Bibl. ind. (GELDNER und ROTH). 
+DHURTAN:DHU7RTAN:081:1:104:DHŪRTANĀTAKA, Hdschr. (CAPPELLER). 
+DHURTAS:DHU7RTAS:082:1:22:DHŪRTASAMĀGAMA in LASSEN'S Anthologie. 
+DHURTAS:DHU7RTAS:323:2:0:wird von nun an nach der lithographirten Ausgabe von CAPPELLER citirt. 
+DHURTAS.ED.CALC:DHU7RTAS.ed.Calc:578:new:1:wopara,43876
+DIVJAVAD:DIVJA7VAD:084:1:114:DIVYĀVADĀNA, Hdschr. (SCHIEFNER). 
+DONNER,PIND:DONNER,PIN2D2:384:3:1:PIṆḌAPITṚYAYNA, von Dr. O. DONNER. Berlin. 1870. 
+DRAUP:DRAUP:622:new:2:nand,56516;nAmya,57940
+DRAVJAC:DRAVJAC2:453:5:0:(UDDHITATTVA), Hdschr. (AUFRECHT). 
+DRAVJAV:DRAVJAV:523:new:1:agraja,732
+DURGA:DURGA:642:new:2:jabAru,41694;vayiyu,98316
+DURGA.ZU.NIR:DURGA.zu.NIR:589:new:5:aBivyAharaRa,7628;kutsI,28551;jaNgamana,41345;parihiMsA,64463;spfhayitar,131498
+DURGADASA.ZU.VOP:DURGA7DA7SA.zu.VOP:661:new:1:sTURa,131096
+ED.BOMB:ed.Bomb:510:new:42:aYcana,1426;alaya,9962;kad,23864;kAYcanagarBa,26185;kASIpati,27552;kASIrAja,27557;kftekzaRa,30078;KaRqa,33334;gam,34676;cakAs,38187
+EGGELING:EGGELING:753:new:1:vahas,99689
+EITEL,CHIN.B:EITEL,Chin.B:385:3:37:Hand-Book for the student of Chinese Buddhism, by Rev. E. l. EITEL. London, 1870. 
+FOUCAUX:FOUCAUX:658:new:1:saMdaMSaka,118958
+FÜHRER,BRH:FÜHRER,BR2H:324:2:3:Darstellung der Lehre von den Schriften in BṚHASPATI'S DHARMAŚĀSTRA. Inauguraldissertation von ALOIS ANTON FÜBER. 
+G.GORR:G.GORR:712:new:1:sTUla,131118
+GABALOP:G4A7BA7LOP:085:1:3:JĀBĀLOPANIṢAD in der Bibl. ind. (GELDNER und ROTH). 
+GAIM:G4AIM:086:1:325:JAIMINI'S Mimām̃sādarśana in der Bibl. ind. 
+GAIM.BHAR:G4AIM.BHA7R:087:1:1:JAIMINI'S BHĀRATA, nach Citaten in Ind. St. <NF> 
+GAIMINI:G4AIMINI:685:new:1:vyapavarga,108367
+GAL:GAL:088:1:1720:GALANO's Wörterbuch, Abschrift von WEBER;vgl. Monatsbericht der Kön. Pr. Akad. der Wissensch. 1876, S. 801. fgg. (CAPPELLER). 
+GAN.BHAGRAHAJ:GAN2.BHAGRAHAJ:668:new:1:sAyaka,124282
+GANA:gan2a:089:1:0:im Gaṇapātha zu P. 
+GANAR:GAN2AR:090:1:65:GAṆARATNAMAHODADHI, nach der im Druck befindlichen Ausg. von EGGELING. Nur ein paar Mal gelegentlich citirt. 
+GANIT:GAN2IT:091:1:32:GAṆITĀDHĀYA in BHĀSKARA'S SIDDHĀNTA ŚIROMAṆI, Benares 1866(KERN). 
+GANIT.ADHIM:GAN2IT.ADHIM:092:1:2:GAṆITA, ADHIMĀSANIRṆAYA (KERN). 
+GANIT.BHAGAN:GAN2IT.BHAGAN2:093:1:12:GAṆITA, BHAGAṆĀDHYĀYA (KERN). 
+GANIT.BHAGRAH:GAN2IT.BHAGRAH:325:2:6:GAṆNITI, BHAGRAHAYUTYADHIKĀRA (KERN). 
+GANIT.GRAH:GAN2IT.GRAH:094:1:8:GAṆITA, GRAHĀNAYADHĀYA (KERN). 
+GANIT.GRAHAN:GAN2IT.GRAHA7N:714:new:0:
+GANIT.KAKSH:GAN2IT.KAKSH:326:2:4:GAṆITA, KAKṢĀDHYĀYA (KERN). 
+GANIT.KAKSHADH:GAN2IT.KAKSHA7DH:680:new:1:hutASa,135012
+GANIT.PARVASAMBH:GAN2IT.PARVASAM5BH:767:new:1:viyant,103922
+GANIT.PRATJABD:GAN2IT.PRATJABD:095:1:7:GAṆITA, PRATYABDAŚUDDI (KERN). 
+GANIT.SPASHT:GAN2IT.SPASHT2:327:2:9:GAṆITA, SPAṢṬĀDHIKĀRA (KERN). 
+GANIT.TRIPR:GAN2IT.TRIPR:096:1:10:GAṆITA, TRIPRAŚANĀDHIKĀRA (KERN). 
+GANITA,GRAHAKKH:GAN2ITA,GRAHAK4K4H:421:4:1:(ĀYĀDHIKĀRA) (KERN) . 
+GANITA,KANDRAGR:GAN2ITA,K4ANDRAGR:454:5:1:(AHĀDHIKĀRA) (KERN). 
+GANITA,MADHJAM(ADHJAJA):GAN2ITA,MADHJA7M(A7DHJA7JA):386:3:0:(KERN). 
+GANITA,SURJAGR:GAN2ITA,SU7RJAGR:422:4:1:(AHAṆĀDHIKĀRA) (KERN) . 
+GAR.UP:GA7R.UP:328:2:1:GĀRUḌOPANIṢAD in der Bibl. ind. 
+GARBE:GARBE:608:new:39:banDana,75775;banDujIvin,75801;BujaMga,80067;maYjumaRi,81670;maRirAga,81807;mahArajanaganDi,84852;mInAkza,87101;mUrC,87878;mftsna,88435;raktakAla,91648
+GARBHOP:GARBHOP:097:1:6:GARBHOPANIṢAD in Bibl. ind. (GELDNER und ROTH). 
+GARGA:GARGA:666:new:5:apradIpa,6865;jyoti,43533;saMDi,119056;sunanda,126549;suvfdDa,128072
+GATADH:G4AT2A7DH:329:2:2:JAṬĀDHARA im ŚKDR. 
+GATAKAM:G4A7TAKAM:491:6:169:(ĀLĀ), Hdschr. (H. KERN). 
+GAUDAP:GAUD2AP:098:1:9:GAUḌAPĀDA, Commentator der SĀM̃KHYAKĀRIKĀ. 
+GAUT:GAUT:099:1:1107:GAUTAMA'S DHARMAŚĀSTRA, Ausg. von STENZLER. 
+GELDNER:GELDNER:583:new:5:vas,99304;vastos,99612;vAtApi,100386;vAtApya,100392;svarRar,132648
+GILD:GILD:737:new:1:Sabdakalpa,110207
+GIT:GI7T:100:1:23:GĪTAGOVINDA, Ausg. von LASSEN. 
+GJOT:G4JOT:761:new:1:kAlAnupUrva,27338
+GOBH:GOBH:101:1:350:GOBHILA'S GṚYASŪTRA in der Bibl. ind. (ROTH). 
+GOBH.CRADDHAK:GOBH.C2RA7DDHAK:387:3:8:GOBHILA'S ŚRĀDDHAKALPA in der Bibl. ind. 
+GOLADHJ:GOLA7DHJ:102:1:75:BHĀSKARA'S GOLĀDHYĀYA (KERN). 
+GOLADHJ.BHUV:GOLA7DHJ.BHUV:330:2:8:GOLĀDHYĀYA, BHUVANAKOŚA (KERN). 
+GOLD:GOLD:103:1:22:GOLDSTÜCKER'S Wörterbuch 
+GOP.BR:GOP.BR:104:1:126:GOPATHABRĀHMAṆA in der Bibl. ind. (ROTH). 
+GOVARDH:GOVARDH:423:4:3:Govardhana's SAPTAŚATĪ (WEBER) . 
+GOVINDAN:GOVINDA7N:105:1:24:GOVINDĀNANDA, Glossator zu ŚAM̃KARĀCĀRYA'S Comm. zu BĀDAR. (KERN). 
+GRASSMANN:GRASSMANN:728:new:26:anftadeva,5063;aBizwipAsi,7684;kApA,26428;kIja,28018;kuBanyu,28747;KAdoarRa,33756;trayaDA,47235;Diz,55398;DizRya,55407;patay,62487
+GRHJAS:GR2HJA7S:331:2:61:GṚHYĀSAM̃GRAHA in der Bibl. ind. 
+GRHJAS.(ED.BLOOMFIELD):GR2HJA7S.(ed.BLOOMFIELD):744:new:1:rajasa,92104
+H:H:106:1:95:HEMACANDRA'S ABHIDHĀNACINTĀMAṆI, Ausg. von BÖHTLINGK und RIEU. 
+H.AN:H.an:108:1:89:HEMACANDRA'S ANEKĀRTHASAM̃GRAHA. 
+HAEB.ANTH:HAEB.Anth:388:3:1:HAEBERLIN'S Anthology, Calcutta 1847. 
+HALA:HA7LA:332:2:9:Citirt nach der neuen noch im Druck befindlichen Ausgabe von WEBER (CAPPELLER). 
+HALAJ:HALA7J:107:1:16:HALĀYUDHA'S Wörterbuch, Ausg. von AUFRECHT. 
+HALL:HALL:547:new:50:atandracandraka,1600;amoGarAGava,8488;avaloka,10653;AnandakoSa,14635;kalpadrukalikA,25598;kAvyanirRaya,27489;kASIpati,27552;kzemeSvara,33042;kzoRIDaramiSra,33075;gUQArTacandrikA,36117
+HAMSOP:HAM5SOP:333:2:5:HAM̃SOPANIṢAD in der Bibl. ind. (GELDNER). 
+HANUM.UP:HANUM.UP:334:2:1:HANUMADUKTARĀMOPANIṢAD in der Bibl. ind. (GELDNER). 
+HAR:HA7R:109:1:7:HĀRĀVALI. 
+HARADATTA:HARADATTA:621:new:2:tiryagvAta,45904;vAgvada,99948
+HARISV:HARISV:110:1:0:HARISVĀMIN. 
+HARITA:HA7RI7TA:727:new:1:somAlaka,129756
+HARIV:HARIV:111:1:921:HARIVAM̃ŚA. Mit einer Zahi die ältere Calc. Ausg. gemeint, drei Zahlen die neuere lithographirte. 
+HARIV.LANGL:HARIV.LANGL:335:2:1:LANGLOIS' Uebersetzung des Harivam̃śa. 
+HARSHAK:HARSHAK4:112:1:743:HARṢACARITA, Calcutta 1876 (KERN). 
+HARSHAK:HARSHAK4:455:5:0:(1936), Bomb. Ausg. (KERN). 
+HARSHAK.(CAKA_):HARSHAK4.(C2aka_1936):674:new:0:
+HARSHAK.ED.BOMB:HARSHAK4.ed.Bomb:720:new:3:vAtika,100414;vAlaka,101207;SESunAri,114321
+HASJ:HA7SJ:113:1:82:HĀSYĀRṆAVA, Bombay 1757 und Hdschr. (CAPPELLER). 
+HASJ:HA7SJ:336:2:0:wird von nun an nach der lithograph. Ausgabe von CAPPELLER citirt. 
+HAUG,ACC:HAUG,Acc:114:1:2:HAUG, Ueber das Wesen und den Werth des vedischen Accents. München 1874. 
+HEDRI:HEDRI:595:new:1:kzIravaha,32658
+HEM.JOG:HEM.JOG:116:1:20:HEMACANDRA'S YOGAŚĀSTRA in Z. d. d. m. G/. 28. Aus einem hdschr. Comm. hat WINISCH manche Berichtigung und Erklärung mir bereitwilligst zukommen lassen. 
+HEM.JOGAC:HEM.JOGAC2:548:new:8:prASuka,74635;vAraRa,100849;vEyAvftti,107866;vEyAvfttya,107868;vyutsarga,108866;saMvega,116782;hAraRa,134399;hAriRa,134423
+HEM.PAR:HEM.PAR:337:2:593:HEMACANDRA'S PARIŚIṢṬAPARVAN, Hdschr. (YACOBI). 
+HEM.PR.GR:HEM.Pr.Gr:549:new:6:goRa,36508;mirA,86997;lAhala,96170;vandra,98187;vart,98820;svopajYa,133271
+HEM.PR.GR.ED.BOMB:HEM.Pr.Gr.ed.Bomb:117:1:1:HEMACANDRA's Prākrit-Grammatik, Bombay (STENZLER) 
+HEM.PR.GR.ED.PISCHEL:HEM.Pr.Gr.ed.PISCHEL:570:new:1:pUtara,68818
+HEMADRI:HEMA7DRI:115:1:1582:HEMĀDRI'S CATURVARGACINTĀMAṆI in der Bibl. ind. 
+HID:HID2:118:1:4:HIḌIMBAVADHA, Ausg. von Bopp. 
+HILLEBR.N:HILLEBR.N:389:3:7:HILLEBRANDT'S altindisches Neu- und Vollmondsopfer. 
+HIOUEN-THSANG:HIOUEN-THSANG:758:new:1:SrutaviMSatikowi,115361
+HIRANJAKECIN:HIRAN2JAKEC2IN:655:new:1:sezwi,129324
+HIT:HIT:119:1:48:HITOPADEŚA, Ausg. von SCHLEGEL und LASSEN. 
+HIT.ED.JOHNS:HIT.ed.JOHNS:120:1:1:HITOPADEŚA, Ausg. von YOHNSON, Lonon und Hertford 1847. 
+HODGSON,ESS:HODGSON,Ess:702:new:1:vajrAcArya,97560
+HODGSON,ESSAYS:HODGSON,Essays:703:new:1:yAtnika,90725
+HULTZSCH:HULTZSCH:603:new:2:satvant,118414;sTUlalakza,131181
+ICOP:I7C2OP:609:new:2:AtmAvAsya,14295;gA,35160
+IND:Ind:707:new:2:jIvAditya,43092;trividyA,47784
+IND.ANTIQ:Ind.Antiq:123:1:242:Indian Antiquary (ROTH). 
+IND.ST:Ind.St:124:1:1847:Indische Studien von WEBER. 
+IND.STR:Ind.Str:338:2:0:WEBER, Indische Streifen. 
+J.A.O.S:J.A.O.S:122:1:17:Yournal of the American Oriental Society. 
+J.A.S.BENG:J.A.S.Beng:339:2:5:Yournal of the Asiatic Society of Bengal. Part I. (History, Antiquities, &c. ). 
+J.R.A.S:J.R.A.S:128:1:21:Yournal of the Royal Asiatic Society (KERN). 
+JACNA:JAC2NA:641:new:1:laYcA,95631
+JACOBI:JACOBI:643:new:2:mfgarAjaDArin,88162;smar,131651
+JACOBI,KALPAS:JACOBI,KALPAS:705:new:2:cUrRi,40549;cUrRikAra,40550
+JAGN:JA7G4N4:121:1:171:YĀJŃAVALKYA's Gesetzbuch, Ausg. von STENZLER. 
+JANTRADHJ:JANTRA7DHJ:774:new:1:pravAtavya,73148
+JASKA:JA7SKA:718:new:2:viSvakadrAkarza,104742;SirimbiWa,112363
+JAVANECVARA:JAVANEC2VARA:602:new:4:devapurohita,52363;BuvanapraRetar,80164;mahendradevI,85422;sU,128533
+JOGAC.UP:JOGAC2.UP:340:2:2:YOGAŚIKHOPANIṢAD in der Bibl. ind. (GELDNER). 
+JOGAJ:JOGAJ:551:new:1:ditisutaguru,50132
+JOGAS:JOGAS:125:1:39:YOGASŪTRA. 
+JOGAT.UP:JOGAT.UP:126:1:4:YOGATATTVOPANIṢAD in der Bibl. ind. (GELDNER und ROTH) 
+JOLLY:JOLLY:653:new:4:SilAPalaka,112473;sad,118430;spfSa,131480;svabrAhmaRyA,132245
+JOLLY,SCHULD:JOLLY,Schuld:127:1:30:YOLLY, ueber das indische Schuldrecht, in Müchener Philos. Philol. Abh. 1877, S. 287. fgg. 
+JOLLY,TAGORE_LAW_LECTURE:JOLLY,Tagore_Law_Lecture:733:new:1:sapiRqa,119339
+KAC:KA7C2:129:1:414:KĀŚIKĀ VṚTTI in der Zeitschrift The PANDIT VII. fgg. 
+KACIKH:KA7C2I7KH:456:5:43:(AṆḌA), HDSCHR. (AUFRECHT). 
+KACJAPA:KA7C2JAPA:598:new:3:gaRq,34304;SabdAy,110305;somaja,129548
+KAD:KA7D:130:1:1546:KĀDAMBARI, Calcutta Sam̃vat 1919 (KERN). 
+KAD:KA7D:390:3:0:Die eingeklammerten Zahlen verweisen auf die Calc. Ausg. 1872. 
+KAD.ED.BOMB:KA7D.ed.Bomb:519:new:2:yAmakuYjara,90808;vAYC,100166
+KAHIRASV:KAHI7RASV:746:new:2:prABAkara,74449;prABAkara,74449
+KAIJ:KAIJ:605:new:4:AtmapaYcama,14196;devayAtu,52441;nArkuwa,58049;nfkuwI,60853
+KAIJATA:KAIJAT2A:723:new:2:dezwavya,52775;SvoBUti,116088
+KAITANJ:K4AITANJ:341:2:4:CAITANY. == CAITANYACANDRODAYA in der Bibl. ind. (PISCUEL). 
+KAIVALJOP:KAIVALJOP:391:3:3:KAIVALYOPANIṢAD in der Bibl. ind. 
+KAKR:K4AKR:131:1:16:CAKRADATTA, Commentator von CARAKA und SUŚRUTA, Hdschr. (ROTH). 
+KAKR.ZU.SUCR:K4AKR.zu.SUC2R:536:new:5:cipiwaka,40221;zawwaka,116121;surAbIja,127622;sPar,131517;hAla,134475
+KAKRADATTA:K4AKRADATTA:787:new:1:pAcima,65430
+KALAK:KA7LAK4:132:1:24:KĀLACAKRA, Hdschr. (SCHIEFNER). 
+KALIDASA:KA7LIDA7SA:572:new:5:kaTam,23823;kadA,23902;kim,27870;BartfvallaBatA,78963;SaMs,109198
+KALPAS:KALPAS:342:2:12:KALPASŪTRA, herausg. von H. YACOBI (YACOBI und KERN). 
+KAM.NITIS:KA7M.NI7TIS:133:1:80:KĀMANDAKĪYANĪTISĀRA in der Bibl. ind. 
+KAMALAKARA:KAMALA7KARA:521:new:1:sakIla,117241
+KAMPAKA:K4AMPAKA:457:5:109:Ueber das CAMPAKAŚREṢṬHIKATHĀNAKAM, die Geschichte vom Kaufmann CAMPAKA. Herausgegeben von A. WEBER in Sitzungsberichte der Königlich Preussischen Akademie der Wissenschaften zu Berlin. Yahrgang 1883. S. 567. fgg. 885. fgg. Vgl. Mélanges asiatiques tirés du Bulletin de l'Académie Impériale des Sciences de St. Pétersbourg. Tome IX, S. 75. fgg. 
+KAN:KAN2:134:1:21:KAṆĀDA'S VAIŚEṢIKADARŚANA in der Bibl. ind. 
+KAN:K4A7N2:343:2:3:CĀṆAKYA in HAEBERLIN'S Anthologie. 
+KAND:KA7N2D2:135:1:2:KĀṆḌŪPĀKHYĀNA in LA. 
+KANDAK:K4AN2D2AK:136:1:69:KṢEMIŚVARA'S CAṆḌAKAUŚIKA (PISCHEL). 
+KANDIDASA:K4AN2D2IDA7SA:517:new:1:sarvasvAy,122205
+KANDRAGRAH:K4ANDRAGRAH:739:new:1:suKArTa,125905
+KANDRALOKA:K4ANDRA7LOKA:492:6:0:(R. PISCHEL). 
+KANTHACR.UP:KAN2T2HAC2R.UP:424:4:1:KAṆṬHAŚRUTYUPANIṢAD in der Bibl. ind. 
+KANVA-REC:KA7N2VA-REC:591:new:2:vahas,99689;vArzma,101201
+KAP:KAP:137:1:222:KAPILA'S SĀM̃KHYAPRAVACANA. Einen vollständigen Index hat WINDISCH ZU Verfügung gestellt. 
+KAP:KAP:344:2:0:The Aphorisms of the Sankhya Philosophy, of KAPILA, Allahabad 1852. 
+KAP.(BALL.):KAP.(BALL.):663:new:1:pratyaBijYAyamAnatva,71954
+KAP.S:KAP.S:349:2:53:KAPIṢṬHALAKAṬHASAM̃HITA, Hdschr. (V. SCHRÖDER). 
+KARAKA:K4ARAKA:139:1:1884:CARAKASAM̃HITĀ, Calcutta 1929 und 1877 und Hdschr. im Besitz von ROTH (KERN und ROTH). 
+KARAKA.ED.CALC:K4ARAKA.ed.Calc:567:new:9:pramATin,72780;mahodara,85491;yAtrAkara,90728;rasaharaRa,93028;vart,98820;vart,98820;vinata,103011;SAwa,111374;SAwaka,111375
+KARAND:KA7RAN2D2:345:2:633:KĀRAṆḌAVYŪHA, Calcutta 1873(KERN). 
+KARIKA:KA7RIKA7:138:1:1:Kārikā. 
+KARMAPR:KARMAPR:140:1:3:KARMAPRADĪPA (STENZLER). Steht unter dem falschen Titel KĀTYĀYANASMṚTI im DHARMAŚĀSTRASAM̃GRAHA, Vol. I, S 603-644. 
+KAT:KA7T:346:2:1:KĀTANTRA, heraugsgegeben von EGGELING. 
+KATANTRA:KA7TANTRA:627:new:1:SradDA,114812
+KATH:KA7T2H:141:1:150:KĀṬHAKA (WEBER). 
+KATH:KA7T2H:347:2:0:KĀṬHAKA Hdschr. (v. SCHRÖDER und WEBER). 
+KATH.GRHJ:KA7T2H.GR2HJ:348:2:6:KĀṬHAKAGṚHYASŪTRA, Hdschr. (YOLLY). 
+KATHARNAVA:KATHA7RN2AVA:458:5:4:, Hdschr. (AUFRECHT). 
+KATHAS:KATHA7S:142:1:573:KATHĀSARITSĀGARA, Ausg. von BROCKHAUS. 
+KATHOP:KAT2HOP:392:3:10:in der Bibl. ind. 
+KATJ:KA7TJ:460:5:15:(ĀYANA'S) PARIBH (ĀṢĀS) IN 'Zwölf Hymnen des Rigveda, herausgegeben von ERNST WIDISCH'S. 169. fgg. 
+KATJ(AJANA):KA7TJ(A7JANA):393:3:0:nach Citaten in verschiedenen juristischen Werken(YOLLY). 
+KATJ.CR:KA7TJ.C2R:143:1:600:KĀTYĀYANA'S ŚRAUTSŪTRA, nach WEBER'S Index. 
+KATJ.CR.PADDH:KA7TJ.C2R.PADDH:620:new:3:SyAmAka,114705;SyAmAkezwi,114710;sajjIkzAra,117864
+KATJ.CRADDHAK:KA7TJ.C2RA7DDHAK:394:3:0:KĀTYĀYANA'S ŚRĀDDHAKALPASŪTRA (STENZLER). 
+KATJ.DH:KA7TJ.DH:144:1:1:KĀTYĀYANA'S DHARMAŚĀSTRA (STENZILER). 
+KATJ.KARM:KA7TJ.KARM:459:5:1:(APRADĪPA) (STENZLER). 
+KATJ.SNANAS:KA7TJ.SNA7NAS:145:1:1:KĀTYĀYANA'S SNĀNASŪTRA (STENZLER). 
+KAUC:KAUC2:146:1:171:KAUŚIKA'S SŪTRA zum AV. , Hdschr. (ROTH und WEBER). 
+KAURAP:K4AURAP:147:1:10:CAURAPAŃCĀŚIKĀ, Ausg. von BOHLEN. 
+KAURAP:K4AURAP:395:3:0:CAURAPAŃCĀŚAT, herausgegeben von M. ARIEL im Yornal aistique, 4me serie, Bd. XI, S. 469. fgg. (CAPPELLER). 
+KAURAP.(A.):K4AURAP.(A.):667:new:14:nakzatreSa,56236;pravilola,73216;bahuvAram,76501;BAvaMgama,79584;madanABirAma,82180;mandapIWa,83261;yAminIpUrRatilakA,90847;rasAlaMkAra,93060;lakzmImandira,95381;vAmanayanA,100648
+KAUSH.AR:KAUSH.A7R:148:1:3:KAUṢITAKĀRAṆYAKA (WEBER). 
+KAUSH.UP:KAUSH.UP:149:1:47:KAUṢITAKIBRĀHMAṆOPANIṢAD in der Bibl. ind. 
+KAUTUKAR:KAUTUKAR:150:1:20:KAUTUKARATNĀKARA, Hdschr. (CAPPELLER). 
+KAUTUKAS:KAUTUKAS:553:new:25:DarmAnala,54943;nawana,56386;paRqitapIqAviSArada,62416;parakIya,63161;pARqaravAyasa,65623;pApakarmin,66043;BaRqanIya,78635;madanatfzRA,82128;miTyAjIvAtu,86926;miTyArRava,86958
+KAVJAD:KA7VJA7D:552:new:29:adAkziRAtya,2440;adButArTa,2571;anativistIrRa,3279;anizWura,4209;antarita,5275;apAda,6409;aBUta,7819;arTavyakti,9502;alpaprARa,10110;avaseya,10752
+KAVJAL:KA7VJA7L:461:5:2:(OKALOCANA), Hdschr. (AUFRECHT). 
+KAVJAL:KA7VJA7L:493:6:0:(AM̃KĀRA des RUDRAṬA) (R. PISCHEL). 
+KAVJAPR:KA7VJAPR:151:1:125:KĀVYAPRAKĀŚA, Calcutta 1866. Nach Ullāsa und Sūtra citirt, wenn nicht S. (Seite) und Z. (Zeile) hinzungefügt werden. 
+KENOP:KENOP:152:1:2:KENOPANIṢAD in der Bibl. ind. 
+KERN:KERN:542:new:13:ketumAla,30614;cakracara,38210;luW,96352;vah,99671;vItatrAsareRu,105954;Sibira,112291;SIla,113119;saMDi,119056;saMpada,120881;sAtavAha,123644
+KHAND.UP:K4HA7ND.UP:154:1:80:CHĀNDOGYOPANIṢAD in der Bibl. ind. 
+KHANDAPR:KHAN2D2APR:462:5:0:(AŚASTI) im Pandit, Bed. 5 und 6 (AUFRECHT). 
+KHANDOGAPARIC:K4HANDOGAPARIC2:629:new:1:nam,56698
+KHANDOGJAP:K4HA7NDOGJAP:463:5:0:(ARIŚIṢṬA) nach Citaten in andern Werken (AUFRECHT). 
+KHANDOGOPARIC:K4HANDOGOPARIC2:638:new:1:nam,56698
+KHANDOM:K4HANDOM:153:1:4:CHANDOMANJARI, herusg. von BROCKHAUS in Berichte über die Verhadlungen der Kön. Sächsischen Gesellschaft der Wissenschaftten zu Leipzig Phil. -hist. Kl. Bd. VI, 1854. 
+KHILA:KHILA:665:new:1:nityapuzwa,58469
+KIELH.REP.():KIELH.Rep.(1881):711:new:1:paryuzaRAdaSaSatakavftti,64844
+KIELHORN:KIELHORN:672:new:3:vaqQ,97667;SambawI,110390;skaBAy,130308
+KIELHORN,REP:KIELHORN,Rep:425:4:0:Report on the search for Sanskrit Mss. in the Bombay Presidency, during the year 1880-81. by F. KIELHORN(ROTH) . 
+KIR:KIR:155:1:71:KIRĀTĀRJUNIYA, Calcutta 1814. 
+KKRADATTA:K4KRADATTA:676:new:0:
+KLUGE:KLUGE:788:new:1:paSutfp,65159
+KNAUER:KNAUER:636:new:2:viPARwa,103541;SrIrBakza,115245
+KRSHIS:KR2SHIS:156:1:1:PARĀŚARA'S KṚṢISAM̃GRAHA, Calcutta 1862(ROTH). 
+KSHEM:KSHEM:494:6:2:(ENDRA'S KAVIKAṆṬĀBHARAṆA), herausgegeben von Y. SCHÖNBERG in den Sitzungsberichten der Phil-hist. Klasse der Kais. Ak. d. Ww. in Wien, Bd. 106 (C. CAPPELLER). 
+KSHITIC:KSHITI7C2:157:1:1:KṢITĪŚAVAM̃ŚĀVALĪCARITA, Ausg. von PERTSCH. 
+KSHURIKOP:KSHURIKOP:158:1:4:KṢURIKOPANIṢAD in der Bibl. ind. 
+KUHN:KUHN:556:new:1:lAkza,95981
+KUHN'S.BEITR:KUHN'S.Beitr:557:new:1:Srutar,115351
+KUHN'S.Z:KUHN'S.Z:396:3:12:Zeitschrift für vergleichende Sprachforschung anf dem Gebiete der indogermanischen Sprachen. 
+KULARNAVA:KULA7RN2AVA:464:5:1:, Hdschr. (AUFRECHT). 
+KULIKOP:K4U7LIKOP:350:2:9:CŪLIKOPANIṢAD in der Bibl. ind. (GELDNER). 
+KULL:KULL:159:1:85:KULLŪKA, Commentator des MANU. 
+KUMARAS:KUMA7RAS:160:1:96:KUMĀRASAM̃BHAVA, Ausg. von STENZLER. 
+KUMARAS:KUMA7RAS:397:3:0:8. FGG. finde man im 1ten Bande Pandit und besonders herausgegeben von TĀRĀNĀTHA TARKAVĀCHASPATI, Calcutta 1868. 
+KUMARASV:KUMA7RASV:161:1:34:KUMĀRASVĀMIN, Commentator des PRATĀPAR. (PISCHEL). 
+KUMARILA:KUMA7RILA:514:new:3:aBihotavE,7769;aBihoma,7770;aByaDika,7859
+KUSUM:KUSUM:162:1:2:KUSUMĀŃJALI, Ausg. von COWELL. 
+KUVALAJ:KUVALAJ:163:1:12:KUVALAYĀNANDA. , nach zwei lithogr. Ausgg. 
+KÖN.PR.AK:Kön.Pr.Ak:675:new:1:hel,135445
+L.K:L.K:169:1:16:LAGHUK. 
+LA:LA:164:1:68:LASSEN'S Anthologie 3te Ausg. 
+LAGHUK:LAGHUK:165:1:1:LAGHUKAUMUDĪ, Ausg. von BALLANTYNE, Benares 1876(CAPPELLER). 
+LALIT:LALIT:166:1:547:LALITAVISTARAPURĀṆA in der Bibl. ind. (KERN). 
+LALLA:LALLA:651:new:2:kzitinandana,32509;stamberama,130449
+LANMAN:LANMAN:768:new:1:svan,132127
+LATJ:LA7T2J:167:1:391:LĀṬYĀYANA'S ŚRAUTASŪTRA in der Bibl. ind. 
+LEUMANN,AUP.GL:LEUMANN,Aup.Gl:465:5:0:Glossar in. , Das Aupapātika Sūtra, herausgegeben von Dr. ERNST LEUMANN. 
+LIA:LIA:398:3:1:LASSEN'S Indische Alterthunmskunde. 
+LILAV:LI7LA7V:168:1:50:BHĀSKARA'S LĪLĀVATĪ, Calcutta 1846(KERN). 
+LOKAPR:LOKAPR:426:4:6:(AKĀŚA) (YOLLY) . 
+LOT.DELAB.L:Lot.delab.l:170:1:56:BURNOUF, Lotus de la bonne loi. 
+M:M:171:1:476:MĀNAVADHARMAŚĀSTRA. 
+M.K.S:M.K.S:194:1:1:MĀN. K. S. 
+M.MÜLLER:M.MÜLLER:565:new:4:graB,37314;mAriza,86351;vicCAy,102084;saMkasuka,117455
+M.MÜLLER,REN:M.MÜLLER,Ren:467:5:9:The Renaissanśe of Sanskrit Literature in M. MüLLER'S India what can it teach us? S. 281. fgg. Auch die vorangehenden Abschnitte werden so citirt. 
+MAC:MAC2:783:new:1:aByArohaRIya,7946
+MAD:MAD:654:new:1:arkapuzpI,9263
+MADANAV:MADANAV:172:1:117:MADANAPĀLA'S MADANAVINODA, Benares 1869 und Hdschr. (ROTH). 
+MADH.KALAN:MA7DH.KA7LAN:173:1:1:MĀDHAVA'S KĀLANIRṆAYA (WEBER). 
+MADHAVIJADHAT:MA7DHAVI7JADHA7T:747:new:1:saMmata,121208
+MADHAVIJADHATUVRTTI:MA7DHAVI7JADHA7TUVR2TTI:611:new:1:SilI,112504
+MADHUS:MADHUS:760:new:1:ArAdupakAraka,15482
+MAGAVJ:MAGAVJ:352:2:2:Ueber zwei Parteischriften zu Gunsten der MAGA, resp. ŚĀKADVIPIYA BRĀHMANA. Von A. WEBER. 
+MAHABH:MAHA7BH:174:1:194:MAHĀBHĀṢYA, lith. in Benares. 
+MAHABH:MA7HABH:738:new:2:kar,24527;kAratantavikA,26808
+MAHABH.(K.):MAHA7BH.(K.):175:1:25:KIELHORN'S Ausg. des MAHĀBHĀṢYA. 
+MAHAC:MAHA7C2:353:2:3:MAHĀŚĀNTI, Hdschr. (ROTH). 
+MAHAN:MAHA7N:590:new:1:hataviDi,133436
+MAHAVASTU:MAHA7VASTU:689:new:3:Sam,110319;SamaTa,110329;SAkyamuni,111303
+MAHAVASTU.ED.SENART:MAHA7VASTU.ed.SENART:688:new:1:lokottaravAdin,96709
+MAHAVIRAK:MAHA7VI7RAK4:176:1:152:MAHĀVĪRACARITA, Ausg. von TRITHEN. 
+MAHIDH:MAHI7DH:177:1:93:MAHĪDHARA, Commentator der VS. 
+MAITR.PADDH:MAITR.PADDH:354:2:0:PADDHATI ZU MAITR. S. , Hdschr. (V. SCHRÖDER). 
+MAITR.S:MAITR.S:179:1:927:MAITRĀYAṆI SAM̃HITĀ, zur Herausgabe vorbereitet von L. SCHRÖDER. Da die accentuirten Hdschr. nicht gleich zu Anfang zur Hand waren, konnten einige Accente erst in den Nachträgen angegeben werden (SCHRÖDER). 
+MAITRJUP:MAITRJUP:178:1:47:MAITRYUPANIṢAD in der Bibl. ind. Die Accente, die wegen ihrer Fehlerhaftigkeit oft weggelassen oder durch (!) als verdächtig bezeichnet wurden, hat SCHRÖDER einer Hdschr. entnommen. 
+MALATIM:MA7LATI7M:180:1:80:MĀLATĪMĀDHAVA, nach zwei Ausgaben, Calcutta 1830 und Bombay 1876. 
+MALATIM.ED.BOMB:MA7LATI7M.ed.Bomb:660:new:18:kAmpilyaka,26708;kAmpillaka,26710;kUwapAlaka,29701;GUtkAra,37973;citravarti,40084;tUzRIka,46646;dvAdaSapada,53676;puz,68482;puzpy,68729;praguRa,70445
+MALAV:MA7LAV:181:1:76:MĀLAVIKĀGNIMITRA, Ausg. von TULLIBERG. 
+MALAV.ED.BOLL:MA7LAV.ed.BOLL:579:new:4:kAryavinimaya,26993;vastuka,99587;vastuka,99587;vastuvftta,99604
+MALLIKAMARUTA:MALLIKA7MA7RUTA:624:new:1:hiRq,134592
+MALLIN:MALLIN:511:new:7:aparicita,6129;ayoga,8861;as,12183;upodbalaka,20439;GumaGumAy,37947;Palatantra,75326;BAvin,79671
+MAN.CR:MA7N.C2R:355:2:102:MĀNAVAŚRAUTASŪTRA, Hdschr. (V. SCHRÖDER). 
+MAN.GRHJ:MA7N.GR2HJ:183:1:194:MĀNAVAGṚHYASŪTRA, nach einer Hdschr. in der Universitätsbibliothek zu Bombay (SCHRÖDER). 
+MAN.K.S:MA7N.K.S:184:1:1:MĀNAVAKALPASŪTRA, nach Citaten bei GOLD. 
+MANAVA:MA7NAVA:771:new:1:upabila,19768
+MAND.CIKSHA:MA7N2D2.C2IKSHA7:182:1:13:MĀṆḌŪKI ŚIKṢĀ(WEBER). 
+MAND.UP:MA7N2D2.UP:356:2:3:MĀṆḌŪKYOPANIṢAD in der BIbl. ind. 
+MANDAVJA:MA7N2D2AVJA:757:new:2:timi,45771;lawaha,95646
+MANIMALA:MAN2IMA7LA7:704:new:1:somaBUBuj,129620
+MANITTHA:MAN2ITTHA:709:new:1:Buj,80051
+MANTRABR:MANTRABR:185:1:54:MANTRABRĀHMAṆA, Calcutta 1872(ROTH). 
+MANU:MANU:544:new:2:ka,23118;DA,55032
+MARK.P:MA7RK.P:186:1:134:MĀRKAṆḌEYAPURĀṆA in der Bibl. ind. 
+MAT.MED:Mat.med:187:1:410:The Materia medica of the Hindus compiled from Sankr. medical works by UDOY CHAND DUTT Civil Medicinal officer. With a Glossary of Indian Plants by GE. KING. Superint. R. Bot. Garden Calc. and the author. Calcutta 1877. 
+MATSJAP:MATSJAP:466:5:11:(URĀṆA), Poona-Ausg. (AUFRECHT). 
+MAYR,IND.ERB:MAYR,Ind.Erb:188:1:0:Das indische Erbrecht von AUREL MAYR, Wien 1873. 
+MBH:MBH:189:1:3353:MAHĀBHĀRATA, citirt nach Parvan, Adhjāja und Śloka der Bomb. Ausg. Die ältere Calcuttaer Ausg. mit zwei Zahlen wird nur dann angeführt, wenn sie eine abweichende Lesart bietet. 
+MBH.ED.BOMB:MBH.ed.Bomb:564:new:25:anDa,5498;Oqra,22789;kar,24527;catuzpaYcASattama,38805;taqAgada,44116;tridaSa,47462;dASat,49925;durGaRa,51162;dvyaNga,54297;DvajAroha,56037
+MBH.ED.CALC:MBH.ed.Calc:568:new:4:Akarza,13360;uzant,20839;Siz,112826;sutumula,126248
+MBH.ED.VARDH:MBH.ed.Vardh:399:3:30:ed. Vardh. ist die auf Kosten des Fürsten von Vardhamāna (Burdwan) gedruckte Ausg. des MAHABHĀRATA. Sie enthält nur die 12 ersten Parvan. 
+MBH.ED.VARDHAM:MBH.ed.Vardham:726:new:1:DvajAroha,56037
+MED:MED:190:1:52:MEDINIKOŚA. 
+MED.AVJ:MED.avj:191:1:2:AVYAYĀNEKĀRTHAVARGA am Ende des MEDINIKOŚA. 
+MED.G:MED.g4:606:new:0:
+MEDHAT:MEDHA7T:400:3:4:MEDHĀTITHI, ein Scholiast des MANU (YOLLY). 
+MEGH:MEGH:192:1:138:MEGHADŪTA, Ausg. von STENZLER. 
+MEL.ASIAT:Mel.asiat:683:new:1:sadrasa,118694
+MIT:MIT:193:1:29:MITĀKṢARĀ. Bei zwei Zahlen ist der VYAVAHĀRĀDHYĀYA, Calcutta 1829, gemeint, bei zwei Zahlen mit folgendem {%a%}oder{%b%} nebst Angabe der Zeile -- das vollständige Werk in 4to. 
+MOLESW:MOLESW:357:2:6:A Dictionary, Marāṭhi and English, compiled by Y. T. MOLESWORTH, Bombay 1857. 
+MON.D.B.A:Mon.d.B.A:358:2:3:Monatsberichte der Königlich Preussichen Akademie der Wissenschaften in Berlin. 
+MRKKH:MR2K4K4H:195:1:209:MṚCCHAKAṬIKA, Ausg. von STENZLER. Comm. zu MṚCCH. sind die Auszüge in den Anmerkungen zu meiner Uebersetzung dieses Schauspiels. 
+MUDRAR:MUDRA7R:196:1:133:MUDRĀRĀKṢASA, nach zwei Ausgaben, Calcutta 1831 und 1926 (CAPPELLER). 
+MUIR.ST:MUIR.ST:594:new:1:hu,134973
+MUND.UP:MUN2D2.UP:402:3:10:MUṆḌAKOPANIṢAD in der Bibl. ind. 
+MÜLLER,SL:MÜLLER,SL:401:3:6:A History of Ancient Sanskrit Literature. By MAX MÜLLER. 1859. 
+NACHTRÄGE:Nachträge:512:new:1:kalya,25667
+NADAR.UP:NA7DAR.UP:359:2:4:NĀDABINŪPANIṢAD in der Bibl. ind. (GELDNER). 
+NAGAN:NA7GA7N:197:1:37:NĀGĀNANDA nach zwei Calcuttaer Ausgaben (CAPPELLER) 
+NAIGH:NAIGH:554:new:23:apus,6568;amati,8070;amBfRa,8623;arjuna,9352;kanaka,23930;krav,31784;kzoRi,33071;gaD,34456;gam,34676;galdA,35058
+NAISH:NAISH:198:1:561:NAIṢADHACARITA. 
+NALOD:NALOD:687:new:13:kas,25906;mahin,85285;rodas,94980;las,95959;lAlaka,96101;vana,97891;vAna,100537;vAyasa,100730;sama,119778;samanindAnavana,119876
+NAR:NA7R:199:1:26:NĀRADA'S DHARMAŚĀSTRA (YOLLY). 
+NARADA:NA7RADA:468:5:23:(a. ) bezeichnet die ausführlichere Recension NĀRAD'S (YOLLY). 
+NERIOSENGH:NERIOSENGH:671:new:2:laYcA,95631;vipratAraka,103438
+NIDANAS:NIDA7NAS:495:6:2:(ŪTRA) (A. WEBER). 
+NIGH:NIGH:360:2:43:YĀSKA'S NIRUKTA sammt den NIGHAṆṬAVAS, herausgegeben und erläutert von RUDOLPH ROTH. 
+NIGH.PR:NIGH.PR:200:1:574:NIGHAṆṬUPRAKĀŚA (ROTH). 
+NIL:NI7L:201:1:1:A rational Refutation of the Hindu Phisosphical Systems, by NEHEMIAH NILAKAṆṬHA SA'STRI GORE. Translated etc. by RITZ-EDWARD HALL. Calcutta 1862. 
+NILAK:NI7LAK:203:1:318:NĪLAKAṆṬHA, Commentator des MBH. 
+NILAK.MITEINERZAHL:NI7LAK.miteinerZahl:202:1:0:NĪL. 
+NILAR.UP:NI7LAR.UP:204:1:6:NĪLARUDROPANIṢAD in der Bibl. ind. (GELDNER und ROTH). 
+NIR:NIR:205:1:105:NIRUKTA, Ausg. von ROTH (ROTH). 
+NIRGHANTU:NIRGHAN2T2U:734:new:2:mfgadarpa,88114;mfgodBava,88268
+NIRNAJAS:NIRN2AJAS:361:2:2:NIRṆAYASINDHU. 
+NJ.K:NJ.K:208:1:13:NYĀYAKOSA or Dictionary of the technical Terms of the NYĀYA Philosphy, by BHIMĀCHĀRYA YHALAKIKAR. Bombay 1875. 
+NJAJAM:NJA7JAM:206:1:400:JAIMINIYANYĀYAMĀLĀVISTARA, Ausg. von GOLDSTÜCKER UND Cowell (KERN). 
+NJAJAS:NJA7JAS:207:1:298:GAUTAMA'S NYĀYADARŚANA in der Bibl. ind. Die Ausg. Calcutta 1828 wird durch Beifügung von (1828) bezeichnet. (KERN). 
+NRS.TAP.UP:NR2S.TA7P.UP:507:new:5:mUlAgra,88025;yajus,89441;lakzmI,95344;lakzmIyajus,95382;sasaptadvIpa,122706
+NRS.UP:NR2S.UP:209:1:32:NṚSIM̃HATĀPANIYOPANIṢAD, herausg. von WEBER in Ind. St. 9 und in der Bibl. ind. 
+NRS.UP.(BIBL.IND.):NR2S.UP.(Bibl.ind.):779:new:1:Opala,22961
+NÖLDEKE:NÖLDEKE:725:new:1:sPara,131518
+OLD.BUDDHA:OLD.Buddha:403:3:3:Buddha-Buddha. Sein Leben, seine Lehre, seine Gemeinde. Von HERMANN OLDENBERG. Berlin 1881. 
+OPP.CAT:OPP.CAT:362:2:1780:List of Sanskrit Manuscripts in Private libraries of southern India. Compiled, arranged and indexed by GUSTAV OPPERT. 
+OPPERT:OPPERT:635:new:1:suBadrAharaRa,127069
+P:P:210:1:641:PĀṆINI. 
+P.W:P.W:773:new:1:yajus,89441
+PADDH:PADDH:469:5:7:(ATI) zu MĀN (AVA) GṚHY (ASŪTRA), Hdschr. (v. BRADKE). 
+PADJAVALI:PADJA7VALI7:470:5:1:, Hdschr. (AUFRECHT). 
+PADMA-P:PADMA-P:730:new:1:rama,92728
+PADMAP:PADMAP:596:new:1:upasAda,20139
+PAITHINASI:PAIT2HI7NASI:776:new:1:sarvaloha,122053
+PANDIT:PANDIT:522:new:3:antarmuKatA,5345;savfttika,122578;sAMKyakArikA,123562
+PANINI:PA7N2INI:694:new:1:vEkarRa,107489
+PANKACIKA(ED.SOLF):PAN4K4A7C2IKA7(ed.SOLF):743:new:1:samudDura,120694
+PANKAD:PAN4K4AD:211:1:337:PAŃCADAṆḌACCHATTRABANDHA, herausg. von WEBER. 
+PANKAR:PAN4K4AR:212:1:76:NĀRADA'S PAŃCARĀTRA in der Bibl. ind. 
+PANKAT:PAN4K4AT:213:1:251: ohne nähere Angabe PAŃCATANTRA, vollständige Ausg. von KOSEGARTEN. Mit Beifügung von ed. Bomb. --die Ausg. von BÜHLER und KIELHORN. 
+PANKAT.ED.BOMB:PAN4K4AT.ed.Bomb:524:new:49:antarvAsika,5371;ApyAyana,15003;udDUzita,19090;karapAla,24630;karRaparaMparA,24954;kalahavant,25446;kalp,25585;kAkarava,26045;kiMvftta,27735;gaRqopaDAna,34353
+PANKAT.ED.KOSEG:PAN4K4AT.ed.KOSEG:686:new:4:Barts,78974;yuj,91092;saptaBUmika,119473;har,133572
+PANKAT.ED.ORN:PAN4K4AT.ed.orn:363:2:6:KOSEGARTEN, PANITSCHATANTRUM sive quinque partitum de moribus exponens. Pars secunda, textum sanscritum, ornatiorem tenens. 
+PAR.GRHJ:PA7R.GR2HJ:215:1:158:PĀRASKARA'S GṚHYASŪTRA, Ausg. von STENZLER. 
+PARAC:PARA7C2:214:1:5:PARĀŚARA'S DHARMAŚĀSTRA (STENZLER). 
+PARACARA:PARA7C2ARA:699:new:1:svayaMkfzwa,132320
+PARACARASMRTI:PARA7C2ARASMR2TI:782:new:1:SivagaNgA,112572
+PARAMAHAMSOP:PARAMAHAM5SOP:633:new:1:vfttihan,106441
+PARAMARTHA:PARAMA7RTHA:496:6:1:(SĀRA) (TH. AUFRECHT). 
+PARCVAN:PA7RC2VAN:471:5:14:(ĀTHAKĀVYA), Hdschr. (AUFRECHT). 
+PARIBH:PARIBH:216:1:12:PARIBHĀṢĀ in PARIBHĀṢENDUŚEKHARA, Ausg. von KIELHORN. 
+PARIBHASHENDUCEKHARA:PARIBHA7SHENDUC2EKHARA:713:new:1:sAmba,124230
+PAT:PAT:555:new:3:tvakam,48177;viDA,102900;suSayikA,128117
+PAT.ZUP:PAT.zuP:217:1:152:PATAŃJALI ZU PĀṆINI. 
+PATANGALI:PATAN4G4ALI:597:new:1:sPowa,131614
+PETERSON:PETERSON:659:new:2:suBAzitaratnasaMdoha,127092;suraBicUla,127474
+PINDOP:PIN2D2OP:218:1:1:PIṆḌOPANIṢAD in der Bibl. ind. (GELDNER und ROTH). 
+PISCHEL:PISCHEL:715:new:5:pUtara,68818;me,88557;ruh,94617;vacasyu,97392;vaDUmant,97858
+PISCHEL,DEGR.PR:PISCHEL,deGr.pr:219:1:23:PISCHEL, de Grammaticis prācriticis. Vratislaviae 1874. 
+PR.P:PR.P:405:3:50:PRACAṆḌAPĀṆḌAVA, EIN SCHAUSPIEL. HDSCHR. (CAPPELLER). 
+PRAB:PRAB:220:1:57:PRABODHACANDRODAYA, Ausg. von BROCKHAUS. 
+PRACNOP:PRAC2NOP:221:1:9:PRAŚNOPANIṢAD in der Bibl. ind. 
+PRAGAPATI:PRAG4A7PATI:404:3:0:, nach Citaten in verschiendenen juristischen Werken (YOLLY). 
+PRAJACKITTAT:PRA7JAC2K4ITTAT:222:1:1:PRĀYAŚCITTATATTVA (ROTH). 
+PRAJACKITTAV:PRA7JAC2K4ITTAV:472:5:1:(IVEKA), Hdschr. (AUFRECHT). 
+PRAJACKITTAVIVEKA:PRA7JAC2K4ITTAVIVEKA:756:new:0:
+PRAJOGAR:PRAJOGAR:223:1:2:NĀRĀYAṆABHAṬṬA'S PRAYOGARATNA (STENZLER). 
+PRAKRIJAK:PRAKRIJA7K:473:5:1:Notices of Sanskrit Mss. by RĀYENDRALĀLA MITRA. 
+PRASANNAR:PRASANNAR:224:1:413:JAYADEVA'S PRASANNARĀGHAVA (KERN). 
+PRATAPAR:PRATA7PAR:225:1:39:PRATĀPARUDRIYA. 
+PRATIGNAS:PRATIG4N4A7S:427:4:17:berausg. von A. WEBER. 
+PRIJ:PRIJ:226:1:47:PRIYADARŚIKĀ, Calcutta 18?? (CAPPELLER). 
+PROCC.A.S.B:Procc.A.S.B:227:1:1:Proceedings of the Asiatic Society of Bengal. 
+PULASTJA:PULASTJA:679:new:1:SivagaNgA,112572
+PUSHPADANTA:PUSHPADANTA:632:new:1:amaNgalya,8064
+PUSHPAS:PUSHPAS:228:1:3:PUṢPASŪTRA (WEBER). 
+PV.PRAT:PV.PRA7T:778:new:0:
+R:R:229:1:817:RĀMĀYANA. Das 1ste und 2te Kāṇḍa nach der Ausg. von SCHLEGEL, das 3--6te nach der von GORRESIO, das 7te nach der Bomb. Ausg., wenn nicht ausdrücklich eine andere Ausgabe genannt ist. Eine eingeklammerte Zahl bezieht ist sich auf ed. Bomb. 
+R.ED.BOMB:R.ed.Bomb:527:new:236:aNgarAga,963;adakziRa,2389;advEDam,2682;aDiyoDa,2889;anaNgadanizkaDfk,3211;anunayavant,4486;antapAla,5204;antarA,5235;anvantarApaRam,5726;aparvatanadIvfkza,6205
+R.ED.GORR:R.ed.GORR:526:new:12:ajAtasAra,1310;atipramARa,1863;atisaMbADa,2120;aniyoga,4114;anftI,5073;anekavarzaSatika,5099;avicintya,10951;avfzaRI,11268;asaNga,12278;asahant,12523
+R.ED.SCHL:R.ed.SCHL:639:new:1:aBiruta,7559
+R.GORR:R.GORR:525:new:107:aDiyoDa,2889;aniyukta,4112;anuSaya,4866;aprasanna,6945;aBiruta,7559;amftaprASin,8387;amftaBojana,8395;Atman,14177;ApaRavITika,14855;Aryapravftta,15712
+R.SCHL:R.Schl:528:new:1:mahArAjANgaRa,84880
+RAGA:RA7GA:724:new:1:kuqAyikA,28385
+RAGAN:RA7G4AN:230:1:5851:RĀJANIGHAṆṬU, Hdschr. (ROTH). 
+RAGAN:RA7G4AN:428:4:0:13 nach der Ausg. von R. GARBE. 
+RAGAT:RA7G4AT:231:1:390:RĀJATARAM̃GIṆĪ. Die 6 ersten Bücher nach der Ausg. von TROYER. Die Beträge aus dem 7ten und 8ten Buche von KERN. 
+RAGAT.ED.CALC:RA7G4AT.ed.Calc:569:new:1:sajAni,117836
+RAGAV:RA7G4AV:364:2:1:RĀJAVALLABHA, nach Citaten ŚKDR. 
+RAGH:RAGH:232:1:221:RAGHUVAM̃ŚA, Ausg. von STENZLER, wenn nicht ed. Calc. hinzuge- fügt wird. 
+RAGH.ED.CALC:RAGH.ed.Calc:577:new:10:anapoQa,3513;Atmavant,14243;Asanavant,16339;udayAvftti,18743;udgraTana,18954;kuRWI,28437;niravakASI,58945;yugavyA,91049;saMjanana,117934;hu,134973
+RAJAM:RA7JAM:775:new:1:mUrRa,87887
+RAJENDR.NOT:RA7JENDR.Not:618:new:1:raGumaRi,91955
+RAM.RAS:RA7M.RA7S:631:new:1:saMKya,117553
+RAMADASA:RA7MADA7SA:698:new:1:cumbaka,40456
+RAMAPURVAT.UP:RA7MAPU7RVAT.UP:406:3:2:RĀMAPŪRVATĀPANIYOPANIṢAD in der Bibl. ind. 
+RASAR:RASAR:407:3:33:RASARATNĀKARA, Calcutta 1878 (ROTH). 
+RASENDRAK:RASENDRAK4:408:3:48:RASENDRACINTĀMAṆI Calcutta 1878 (ROTH). 
+RATNAM:RATNAM:233:1:24:RATNAMĀLĀ. (ROTH). 
+RGVIDHANA:R2GVIDHA7NA:644:new:2:stu,130530;stu,130530
+RICE:RICE:684:new:1:saYcu,117918
+RKT:R2KT:474:5:1:(ANTRA), herausgegeben von BURNELL (STENZLER). 
+ROTH:ROTH:619:new:7:BajeraTa,78553;varuRaSezas,98592;Satarca,109918;satyatAt,118227;stAman,130505;smftimahArRava,131742;hvar,135770
+ROXB:ROXB:234:1:2:Flora indica or description of Indian Plants. By the late WILLIAM ROXBURGH. Serampore 1832 (ROTH). 
+RSHIMANDALASTOTRA:R2SHIMAN2D2ALASTOTRA:508:new:1:smar,131651
+RTUS:R2TUS:235:1:8:RṬUSAM̃HĀRA, Ausg. von BOHLEN. 
+RUDOLF_MEYER:RUDOLF_MEYER:662:new:1:fgviDAna,21326
+RUDRAJAMALA:RUDRAJA7MALA:616:new:1:amara,8111
+RUDRATA,KAVJALAMKARA:RUDRAT2A,KA7VJA7LAM5KA7RA:781:new:1:saMdazwaka,118970
+RUDRATALAMKARAT:RUDRAT2A7LAM5KA7RAT2:497:6:1:(IPPAṆAKA, auch RUDRAṬAKĀVYĀLAM̃KĀRAṬ. genannt) (R. PISCHEL. ) 
+RV:R2V:236:1:1543:ṚGVEDA (ROTH). 
+RV.ED.M:R2V.ed.M:648:new:1:iq,16718
+RV.PRAT:R2V.PRA7T:237:1:79:PRĀTIŚĀKHYA zum ṚGVEDA. 
+S.S.S:S.S.S:254:1:717:SAM̃GITASĀRASAM̃GRAHA, Calcutta 1932 (CAPPELLER). 
+SADDH.P:SADDH.P:429:4:53:SADDHARMAPUṆḌARĪKA (KERN) . 
+SADDH.P.:SADDH.P.4:238:1:5:das 4te Kapitel des SADDHARMAPUṆḌARĪKA, lithographirt in Parabole de l'Enfant egare. Par. PH. ED. FOUCAUX. Paris. 1854. 
+SADHANAM:SA7DHANAM:749:new:1:lokaDAtvISvarI,96561
+SADUKTIK:SADUKTIK:475:5:16:(ARṆĀMṚTA) von ŚRĪDHARADĀSA, Hdschr. (AUFRECHT). 
+SAG:Sa7g:765:new:1:vart,98820
+SAH.D:SA7H.D:239:1:155:SĀHITYADARPAṆA in der Bibl. ind. 
+SAHRDAJALOKA:SAHR2DAJA7LOKA:498:6:0:(R. PISCHEL). 
+SAJ:SA7J:240:1:438:SĀYAṆA. 
+SAMANJAN:SA7MA7NJAN:681:new:1:sAhajika,124769
+SAMAV.BR:SA7MAV.BR:241:1:52:SĀMAVIDHĀNABRĀHMAṆA, Ausg. von BURNELL. 
+SAMAVIDH.BR:SA7MAVIDH.BR:784:new:1:avaleKana,10646
+SAMHITOPAN:SAM5HITOPAN:242:1:101:SAM̃HITOPANIṢAD, Ausg. von BURNELL. 
+SAMKHJAK:SA7M5KHJAK:243:1:29:SĀM̃KHYAKĀRIKĀ, Ausg. von WILSON. 
+SAMKSHEPAC:SAM5KSHEPAC2:476:5:0:(AM̃KARAJAYA) von MĀDHAVA (AUFRECHT). 
+SAMNJ.UP:SAM5NJ.UP:244:1:9:SAM̃NYĀSOPANIṢAD in der Bibl. ind. (GELDNER und ROTH). 
+SAMSK.K:SAM5SK.K:245:1:13:ANANTADEVA'S SAM̃SKĀRAKAUSTUBHA, obl. fol. 
+SARAS:SA7RAS:246:1:3:SĀRASUNDARĪ, ein Commentar zu AK. 
+SARASVATIK:SARASVATI7K:477:5:5:(AṆṬHĀBHARAṆA), Hdschr. (AUFRECHT). 
+SARASVATIK:SARASVATI7K:499:6:0:(AṆṬHĀBHARAṆA), Calcutta 1883 (CAPPELLER). 
+SARAV:SA7RA7V:247:1:11:SĀRĀVALI, citirt bei UTPALA ZU VARĀH. BṚH. 
+SARVAD:SARVAD:248:1:136:SARVADARŚANASAM̃GRAHA in der Bibl. ind. (KERN). 
+SARVOPAN:SARVOPAN:249:1:3:SARVOPANIṢATSĀRA in der Bibl. ind. (GELDNER und ROTH). 
+SATJA:SATJA:539:new:6:anyapUrvikA,5665;tAmasika,45260;rakta,91633;rAjasika,93556;vfdDaSrAvaka,106579;SAkyaSravaRa,111306
+SATUA:SATUA:563:new:0:
+SAV:SA7V:250:1:3:SĀVITRI, herausg. von Bopp. 
+SCH:Sch:623:new:24:dASakaputra,49923;dASaPalI,49931;dvEyahnika,54275;dvErAtrika,54280;dvyaNgulOtkarzam,54299;dvyaha,54314;payaskAra,63087;brahmabanDu,77954;brAhmaRavedam,78266;brAhmaRikalpA,78281
+SCHIEFNER,TARAN:SCHIEFNER,TA7RAN:478:5:5:TĀRĀNĀTHA'S Geschichte des Buddhismus in Indien, aus den Tibetschen übersetzt von ANTON SCHIEFNER. 
+SCHRÖDER:SCHRÖDER:513:new:3:mayUraparvata,83483;mEtrAyaRIsaMhitA,88934;vapASravaRI,98235
+SCHÖNBERG,KSH:SCHÖNBERG,KSH:678:new:1:SaSivaMSa,111040
+SCHÖNBERG,KSHEM:SCHÖNBERG,KSHEM:677:new:1:salladra,122448
+SETUB:SETUB:365:2:1:SETUBANDHA, herausgegeben von SIEGFRIED GOLDSCHMIDT. 
+SHADGURUCISHJA:SHAD2GURUC2ISHJA:731:new:1:samADAyaka,120227
+SHADV.BR:SHAD2V.BR:251:1:18:ṢAḌVIM̃ŚABRĀHMAṆA (WEBER). 
+SIDDH.CIR:SIDDH.C2IR:252:1:5:SIDDHĀNTAŚIROMAṆI (KERN). 
+SIDDH.K:SIDDH.K:538:new:18:anAhata,4027;upaDAna,19644;upAdAna,20307;karawa,24572;karAwa,24728;talaBa,45001;palAka,64976;puMKyAna,67518;Balatra,78995;BIra,79977
+SIDDH.K.ED.TAR:SIDDH.K.ed.TA7R:515:new:1:tasTI,45086
+SIDDH.K.ED.TARAN:SIDDH.K.ed.TA7RA7N:647:new:1:pratyAyana,72086
+SMRTIM:SMR2TIM:586:new:1:Bidura,79812
+SOMAKARMAPR:SOMAKARMAPR:409:3:1:SOMAKARMAPRADĪPA des RĀMA, Hdschr. (ROTH). 
+SPEYER:SPEYER:682:new:1:vAdin,100501
+SPR:Spr:253:1:2927:Indische Sprüche, herausg. von O. BÖHTLINGK. 2te Aufl. Von 7614 an in Melanges asiatiques, T. VIII, S. 217. fgg. Ebendaselbst S. 203. fgg. stehen die durch "zu Spr. " bezeichneten Varianten. 
+ST.JULIEN:ST.JULIEN:721:new:1:sAtavAha,123644
+STENZLER:STENZLER:560:new:8:Jar,43714;parizkanDa,64341;prAgANgam,73873;yaSoDAsyE,90558;vAgvada,99948;vAtAgra,100373;viruja,104073;suketar,125713
+SUBHASHITAR:SUBHA7SHITAR:255:1:22:SUBHĀṢITARATNĀKARA, Bombay 1872. 
+SUBHASHITARATNABH:SUBHA7SHITARATNABH:500:6:1:(ĀṆḌĀGĀRA) (TH. AUFRECHT). 
+SUBHASHITARATNABH.PRAK:SUBHA7SHITARATNABH.PRAK:646:new:1:sAhajika,124769
+SUBHASHITAV:SUBHA7SHITA7V:479:5:32:(ALI) von VALLABHADEVA, Hdschr. (AUFRECHT). 
+SUCR:SUC2R:256:1:541:SUŚRUTA (ROTRH). 
+SUD:SUD:626:new:1:homadarvI,135579
+SUKHAV:SUKHA7V:410:3:2:SUVAPNACNTĀṆI (PISCHEL). 
+SUPARN:SUPARN2:257:1:105:SUPARṆĀDHYA, herausg. von ELIMAR GRUBE in Ind. St. 14. 
+SURJAD:SU7RJAD:258:1:8:SŪRYADEVAYAJVAN (KERN). 
+SURJAS:SU7RJAS:259:1:46:SŪRYASDDHĀNTA in der Bibl. ind. 
+SV:SV:260:1:51:SĀMAVEDA (ROTH). 
+SV.AR:SV.A7R:261:1:1:ĀRAṆYAKA zum SV. (ROTH). 
+SVAPNAK(INTAMANI):SVAPNAK4(INTA7MAN2I):430:4:0:(PISCHEL) . 
+TAITT.AR:TAITT.A7R:262:1:186:TAITTIRIYĀRAṆYAKA in der Bibl. ind. 
+TAITT.PRAT:TAITT.PRA7T:580:new:6:avaDitva,10403;asaMhita,12247;upabanDa,19759;dA,49511;nAtivyasta,57693;nAtyupamaMhfta,57706
+TAITT.UP:TAITT.UP:263:1:26:TAITTIRIYOPANIṢAD in der Bibl. ind. 
+TAL.BR:TAL.BR:366:2:1:A legend from the TALAVAKĀRA or YAIMINIYA BRĀHMAṆA of the SĀMAVEDA by A. C. BURNELL, Mangalore 1878. 
+TANDJA-BR:TA7N2D2JA-BR:264:1:421:TĀṆḌYABRĀHMANA in der Bibl. Im grossen Wörterbuch als PAŃCAV. BR. citirt. 
+TANTRAS:TANTRAS:543:new:3:kula,29092;kula,29092;kula,29092
+TANTRASARA:TANTRASA7RA:766:new:2:SAktika,111279;hAkinI,134358
+TARKAS:TARKAS:265:1:25:TARKASAM̃GRAHA, Allahabad 1849(ROTH). 
+TATTVAK:TATTVAK:501:6:1:(AUMUDI) (H. Kern). 
+TATTVAS:TATTVAS:266:1:28:TATTVASAMĀSA, Mirzapore 1850(ROTH). 
+TAWNEY:TAWNEY:600:new:3:buD,77335;sajAla,117840;sawAla,117992
+TBR:TBR:267:1:289:TAITTIRIYA BRĀHMAṆA (ROTH). 
+TBR.COMM:TBR.Comm:571:new:7:anuzWitatva,4919;ftumuKin,21524;tap,44564;tasara,45079;pfTisava,69474;virAwkrama,104035;sOtrAmaRi,129878
+TEGOB.UP:TEG4OB.UP:367:2:6:TEJOBINDŪPANIṢAD in der Bibl. ind. (GELDNER). 
+TRIK:TRIK:268:1:44:TRIKĀṆḌAŚEṢA. 
+TRIVIKRAMA:TRIVIKRAMA:741:new:1:pUtara,68818
+TS:TS:269:1:494:TAITTIRYASAM̃HITĀ (ROTH und WEBER). 
+TS.PRAT:TS.PRA7T:270:1:208:PRĀTIŚĀKHYA zur TS. , Ausg. von WHITNEY. 
+UGGVAL:UG4G4VAL:271:1:20:UJJVALADATTA, Commentator der UṆĀDISŪTRA. 
+UNADIS:UN2A7DIS:272:1:10:UṆĀDISŪTRA, herausg. von AUFRECHT. 
+UPALEKHA:UPALEKHA:582:new:1:yaTAsaMhitam,90055
+UPAVANAVINODA:UPAVANAVINODA:719:new:1:Sarkarila,110763
+UTPALA:UTPALA:505:new:122:aDama,2701;aDimitra,2880;anUka,4998;anyapUrvikA,5665;aSoBana,11649;asaMniDAna,12377;asaMniDi,12378;Anayitavya,14696;ABimuKya,15086;indusuta,16921
+UTPALINI:UTPALINI7:752:new:1:vfza,106664
+UTTAMAK:UTTAMAK4:480:5:70:Ueber das UTTAMACARIKATHĀNAKAM, die Geschichte vom prinzen Trefflichst in Sitzungsserichte der Kön der Kön. Pr. Akademie der Ww- zu Berlin 1884, No. XVII. 
+UTTARAR:UTTARAR:273:1:27:UTTARARĀMACRITA, nach zwei Ausgaben, Calcutta 1831 und 1862. 
+UVATA:UVAT2A:657:new:2:nipur,58663;pratiDura,71093
+VADI:VA7D2I:763:new:1:hfdaya,135108
+VAGBH:VA7GBH:274:1:6:VĀGBHAṬA'S ĀYURVEDADARŚANA (ROTH). 
+VAGBH:VA7GBH:502:6:0:(AṬA'S ALAM̃KĀRA), Calcutta 1883 (CAPPELLER). 
+VAGBHATA:VA7GBHAT2A:770:new:2:harahAra,133619;harAvAsa,133626
+VAGRAKKH:VAG4RAK4K4H:411:3:103:VAJRACCHEDIKĀ, herausgegeben von (F. MAX MÜLLER). 
+VAGRAS:VAG4RAS:275:1:3:VAJRASŪCI, Ausg. von WEBER. 
+VAIDJABH:VAIDJABH:276:1:1:VAIDYABHĀṢYA (ROTH). 
+VAIDJAKA:VAIDJAKA:537:new:1:viSArada,104562
+VAITAN:VAITA7N:277:1:446:VAITĀNASŪTRA, Ausg, von GARBE. 
+VAJU-P:VA7JU-P:278:1:7:VĀYUPURĀṆA, nach Citaten in andern Werken. 
+VALAKH:VA7LAKH:279:1:10:VĀLAKHILYA, die zwischen ṚV. 8, 84 und 49 eingeschobenen Lieder (ROTH). 
+VALL:VALL:717:new:1:sakarRaka,117186
+VAMANA:VA7MANA:280:1:122:VĀMANA'S KĀVYĀLAM̃KĀRAVṚTTI, Ausg. von CAPPELLER. 
+VAMANAP:VA7MANAP:481:5:0:(URĀṆA), Hdschr. (AUFRECHT). 
+VAMCABR:VAM5C2ABR:281:1:20:VAM̃ŚABRĀHMAṆA, Ausg. von BURNELL (ROTH). 
+VARAH:VARA7H:751:new:1:avagARa,10243
+VARAH.BRH:VARA7H.BR2H:282:1:177:VARĀHAMIHIRA'S BṚHAJJĀTAKA (KERN). 
+VARAH.BRH.S:VARA7H.BR2H.S:283:1:325:VARĀHAMIHIRA'S BṚHATSAM̃HITĀ (KERN). 
+VARAH.JOGAJ:VARA7H.JOGAJ:284:1:240:VARĀHAMIHIRA'S YOGAYĀTRĀ, herausg. von KERN in Ind. St. 10. 14 und 15. 
+VARAH.LAGH:VARA7H.LAGH:285:1:2:VARĀHAMIHIRA'S LAGHUJĀTAKA. Die zwei ersten Adhjaja herausgegeben von WEBER in Ind. St. 2. 
+VARAH.LAGHUG:VARA7H.LAGHUG4:351:2:2:VARĀHAMIHIRA'S LAGHUJĀTAKA. 
+VARAHAP:VA7RA7HAP:482:5:0:(URĀNA) , Hdschr. (YACOBI). 
+VARARUKI:VARARUK4I:769:new:1:lAhala,96170
+VARDHAMANAK:VARDHAMA7NAK4:534:new:7:lohAcArya,96933;vinayAdiDara,103047;viSAKa,104546;Sivadatta,112596;SrIdatta,115114;suDarman,126443;suBadra,127062
+VARISHTHA:VARISHT2HA:736:new:1:rakzodEvata,91918
+VARTT:Va7rtt:286:1:156:Vārttika. 
+VAS:VA7S:287:1:28:VĀSANTIKĀ, Hdschr. (CAPPELLER). 
+VASAV:VA7SAV:288:1:416:VĀSAVADATTĀ in der Bibl. ind. 
+VASISHTHA:VASISHT2HA:412:3:92:nach der Ausg. von Benares (YOLLY). 
+VASISHTHA:VASISHT2HA:483:5:0:nach der Ausgabe von FüHRER, Bombay 1883. 
+VASISHTHA:VA7SISHT2HA:697:new:1:vArdDuzi,101126
+VASTUV:VA7STUV:368:2:53:VIŚVAKARMA'S VĀSTUVIDYĀ, Hdschr (KERN). 
+VEDANTASARA:VEDA7NTASA7RA:664:new:1:vyAvivftsu,108786
+VENIS:VEN2I7S:289:1:191:VEṆĪSAM̃HĀRA, Ausg. von GRILL (CAPPELLER). 
+VERZ.D.B.H:Verz.d.B.H:290:1:59:WEBER, Verzeichniss der Berliner Handschriften. 
+VERZ.D.CAMBR.H:Verz.d.Cambr.H:750:new:3:vAlabanDa,101222;vyantarapaNkti,108345;sUcIpaNki,128661
+VERZ.D.OXF.H:Verz.d.Oxf.H:291:1:152:AUFRECHT, Verzeichniss der Oxforder Handschriften. 
+VERZ.D.PET.H:Verz.d.Pet.H:722:new:1:vizRupaYjara,105490
+VET:VET:292:1:2:VETĀLAPAŃCAVIM̃ŚATI in LA. 
+VET.(U.):VET.(U.):413:3:12:VETĀLAPAŃCA VIM̃ŚATIKĀ, herausgegeben von HEINRICH UHLE. 
+VICVA:VIC2VA:369:2:9:VIŚVAKOŚA (PISCHER). 
+VICVAPR:VIC2VAPR:772:new:1:BAHkUwa,79242
+VIDDH:VIDDH:293:1:144:VIDDHAŚĀLABHAŃJIKĀKHYANĀṬIKĀ in der Zeitschrift PRATNAKAMRANANDINI(CAPPELLER). 
+VIGAJAGANI:VIG4AJAGAN2I7:764:new:1:vAstava,101452
+VIGN:VIG4N4:701:new:1:homay,135591
+VIGNANECVARA:VIG4N4A7NEC2VARA:625:new:6:saMcAraRa,117899;saMpramApaRa,121020;sAvaka,124655;sTApaka,130950;srAva,131872;svastika,132838
+VIGNANECVARA:VIG4N5A7NEC2VARA:732:new:1:skandana,130239
+VIKR:VIKR:294:1:50:VIKRAMORVAŚI, Ausg. von BOLLENSEN. 
+VIKR.DRAV:VIKR.dra7v:484:5:2:KĀLIDĀSA'S VIKRAMORVAŚĪYAM nach drāvidischen Handschriften, herausgegeben von RICHARD PISCHERD in. , Monatsbericht der Königlich Preussischen Akademie der Wissenschaften zu Berlin"1875, S. 609. fgg. 
+VIKR.ED.BOLL:VIKR.ed.BOLL:691:new:1:apakzalopa,5842
+VIKR.ED.PISCH:VIKR.ed.PISCH:690:new:1:apakzalopa,5842
+VIKRAMANKAK:VIKRAMA7N5KAK4:295:1:378:VIKRAMĀÑKADEVACARITA, Ausg. von BÜHLER. 
+VIRAM:VI7RAM:431:4:1:VĪRAMITRODAYA, Khadirapura 1815(STENZLER) . 
+VIRAMITROD:VI7RAMITROD:693:new:1:SalAkira,110862
+VIRAMITRODAJA:VI7RAMITRODAJA:790:new:1:savfdDika,122579
+VISHNU:VISHN2U:558:new:1:sahADyAyin,123243
+VISHNUKANDRA:VISHN2UK4ANDRA:708:new:1:kusuta,29545
+VISHNUS:VISHN2US:296:1:281:VIṢṆUSŪTRA, zur Herausgabe vorbereitet von Y. YOLLY (YOLLY) 
+VITTHALA:VIT2T2HALA:748:new:1:rABasika,93847
+VIVADAK:VIVA7DAK4:370:2:5:VIVĀDACINTĀMAṆI, Calcutta {#saMvat#} {#1234#} {#zAkE#} {#5678#} {#vaizakhE. #} 
+VIVEK:VIVEK:652:new:1:vizamaya,105210
+VIVEKAV:VIVEKAV:371:2:5:VIVEKAVILĀSA im Yournal PRATNAKAMRANANDINI. 
+VJASA:VJA7SA:540:new:4:karmASaya,25310;cittaBUmi,39919;DarmameGaTyAna,54823;sArvaBOma,124578
+VJUTP:VJUTP:414:3:9:VYUPATTI, ein Sanskrit-Tibetisches Wörterbuch aus dem TAŃJUR (SCHIEFNER). 
+VOP:VOP:372:2:37:VOPADEVA'S MUGDHABODHA, herausgegeben und erklärt von O. BÖHTLINGK. 
+VP:VP:297:1:976:VIṢṆUPURĀṆA ed. Bomb. 
+VP.²:VP.²:298:1:482:2te Auflage von WILSON's Uebersetzung des VIṢṆUPURĀṆA, herausgegeben von HALL. 
+VRATARAGA:VRATARA7G4A:610:new:4:Sivapavitraka,112627;sahfzwakam,123302;haritAlikAvrata,133716;harimanTa,133809
+VRSHABH:VR2SHABH:415:3:24:VṚṢADĀNUJA im 3ten und 4ten Bande des Pandit (CAPPELLER). 
+VRTTARATNAKARA:VR2TTARATNA7KARA:604:new:1:rAmaSarman,93968
+VS:VS:299:1:231:VĀJASANEYISAM̃HITĀ (ROTH und WEBER). 
+VS.PRAT:VS.PRA7T:300:1:28:PRĀTIŚĀKHYA zu VS in Ind. St. 4. 
+WASSILIEW,DER.BUDDH:WASSILIEW,der.Buddh:706:new:1:saMvfti,116777
+WASSILJEW:WASSILJEW:759:new:1:SrAvaka,114979
+WEBER:WEBER:503:6:27:, (BHAG) (AVATI). 
+WEBER,GJOT:WEBER,G4JOT:301:1:10:WEBER, Ueber den Vedakalender, Namens JYOTIṢAM. 
+WEBER,KRSHNAG:WEBER,KR2SHN2AG4:302:1:7:WEBER, Ueber die KṚṢṆJANMĀṢṬAMĪ. Berlin 1868. 
+WEBER,LIT:WEBER,Lit:373:2:47:Akademische Vorlesung über Indische Literaturgeschichte. Von ALBRECHT WEBER. Zweite vermehrte Auflage. 
+WEBER,NAX:WEBER,Nax:303:1:4:WEBER, Die vedischen Nachrichten von den naxatra. Berlin 1860. 
+WEBER,RAMAT:WEBER,RA7MAT:416:3:3:WEBER'S Ausg. RĀMATĀPANIYOPANIṢAD. 
+WEBER,RAMAT.UP:WEBER,RA7MAT.Up:545:new:1:vAma,100613
+WHITNEY:WHITNEY:516:new:2:SI,112857;saMmud,121265
+WHITNEY,GR:WHITNEY,Gr:754:new:2:gamizRu,34693;jAtya,42509
+WHITNEY,IND:WHITNEY,Ind:585:new:1:vizwIma,105426
+WIENER.AK:Wiener.Ak:789:new:1:hastijanaprakASa,134265
+WILSON:WILSON:574:new:4:tAlita,45564;putraka,67696;pratiramBa,71397;sita,125003
+WILSON,SAMKHJAK:WILSON,SA7M5KHJAK:573:new:1:avivekin,11157
+WILSON,SEL.SPEC:WILSON,Sel.Spec:374:2:1:WILSON, Select Specimens of the Theatre of the Hindus. 
+WILSON,SEL.W:WILSON,Sel.W:304:1:1:Select Works of H. H. WILSON. 
+WIND.SANC:WIND.SANC:417:3:1:FRIDERICI HENR. HUG. WINDIṢMANNI SANCARA sive de theologumenis Vedanticorum. 
+WISE:WISE:305:1:9:Commentary on the Hindu System of Medicine, by T. A. WISE. Calcutta 1845. 
+WRIGHT,HIST.OF.NEP:WRIGHT,Hist.of.Nep:593:new:1:kAhala,27701
+Z.D.D.M.G:Z.d.d.m.G:306:1:110:Zeitschrift der deutschen morgenlandischen Gesellschaft 
+Z.F.D.K.D.M:Z.f.d.K.d.M:486:5:1:Zeitschrift für die Kunde des Morgenlandes. 
+ZACH:ZACH:533:new:1:hugga,134979
+ZACH.BEITR:ZACH.Beitr:485:5:107:Beiträge zur indischen Lexicographie von THEODOR ZACHARIAE. 
+ZIMMER:ZIMMER:532:new:1:pramota,72847
+ZIMMER,ALTIND.LEBEN:ZIMMER,Altind.Leben:546:new:2:SArada,111669;SiSnadeva,112816
