@@ -30,7 +30,7 @@ A1Pra1t.	 atharva-veda-prātiśākhya 	Title
 APra1t.	 atharva-veda-prātiśākhya 	Title
 Abhinav.	 abhinava-gupta 	Author
 AdbhBr.	 adbhuta-brāhmaṇa 	Title
-AdhyR.		?
+AdhyR.	 adhyātma  rāmāyaṇa 	Title
 AgP.	 agni-purāṇa 	Title
 AgSam2h.	 agastya-saṁhitā 	Title
 Agp.	 agni-purāṇa 	Title
@@ -146,7 +146,7 @@ Divya7v.	 divyāvadāna 	Title
 Divya4v.	 divyāvadāna 	Title
 Dra1hy.	 drāhyāyaṇa 	Author
 Dra1hyS3r.	 drāhyāyaṇa-śrauta-sūtra 	Title
-Du1ta7n3g.		?
+Du1ta7n3g.	 dūtaṅgada 	Title
 Durga1v.	 durgāvilāsa 	Title
 Ga1rgi1S.	 gārgī-saṁhitā 	Title
 Ga1rud2aP.	 gāruḍa-purāṇa 	Title
@@ -174,7 +174,6 @@ Gr2S.	 gṛhya-sūtra 	Literary category
 GS.	 gṛhya-sūtra 	Literary category
 Gr2S3rS.	 gṛhya-sūtra  and  śrauta-sūtra 	Literary category
 S3rGr2S.	 gṛhya-sūtra  and  śrauta-sūtra 	Literary category
-GrS3.		?
 Gr2ihya1s.	 gṛhyāsaṁgraha 	Title
 Grahay.	 grahayajña-tattva 	subtitle
 Hat2hapr.	 haṭha-pra-dīpikā 	Title
@@ -217,7 +216,7 @@ JaimUp.	 jaiminīya-upaniṣad 	Title
 Jain.	 jaina  literature	Literary category
 Jyot.	 jyotiṣa 	Literary category
 Jn5a1ta1dh.	 jñātā-dharma-kathā 	Title
-K.		?
+K.	Kielhorn (?)	Author
 Ka1d.	 kādambarī 	Title
 Ka1lP.	 kālikā-purāṇa 	Title
 Ka1lac.	 kālacakra 	Title
@@ -259,7 +258,7 @@ Katha7rn2.	 kathārṇava 	Title
 Kat2ha7rn2.	 kathārṇava 	Title
 Kaus3.	 kauśika-sūtra 	Title
 KaushA1r.	 kauṣītaki-āraṇyaka 	Title
-KaushBr.		?
+KaushBr.	 kauṣītaki-brāhmaṇa 	Title
 KaushUp.	 kauṣītaki-upaniṣad 	Title
 Kautukar.	 kautukaratnākara 	Title
 Kautukas.	 kautukasarvasva 	Title
@@ -295,7 +294,7 @@ La1t2yS3r.	 lāṭyāyana-śrauta-sūtra 	Title
 Li1l.	 līlāvatī  of  bhāskara 	Title
 Li1la1v.	 līlāvatī  of  bhāskara 	Title
 Lin3gaP.	 liṅga-purāṇa 	Title
-Lokapr.		?
+Lokapr.	 loka-prakāśa 	Title
 MBh.	 mahābhārata 	Title
 ML.	Macdonell's dictionary, &c.	Title
 MW.	Monier-Williams' Sanskrit-English Dictionary, 1st edition with marginal notes	Title
@@ -448,7 +447,7 @@ Ratn.	 ratnāvalī 	Title
 Ra1tn.	 ratnāvalī 	Title
 Ratna1v.	 ratnāvalī 	Title
 Ratna7v.	 ratnāvalī 	Title
-Ratnak.		?
+Ratnak.	 ratnakoṣa 	Title
 Reva1Kh.	 revā-khaṇḍa 	Title
 Romakas.	 romakasiddhānta 	Title
 Rpra1t.	 ṛg-veda-prātiśākhya 	Title
@@ -475,7 +474,7 @@ S3aktir.	 śaktiratnākara 	Title
 S3am2kar.	 śaṁkara-vijaya 	Title
 S3am2k.	 śaṁkarācārya 	Author
 S3am2karacetov.	 śaṁkara-cetovilāsa 	Title
-S3ambhMa1h.		?
+S3ambhMa1h.	 śaṁbhalagrāma-māhātmya 	Title
 S3atarUp.	 śatarudriya-upaniṣad 	Title
 S3atr.	 śatruṁjaya-māhātmya 	Title
 S3i1l.	 śīlāṅka 	Author
@@ -502,8 +501,8 @@ S3ulb.	 śulba-sūtra 	Literary category
 S3vetUp.	 śvetāśvatara-upaniṣad 	Title
 SS3am2kar.	 saṁkṣepa-śaṁkara-vijaya 	Title
 SS3am2k.	 saṁkṣepa-śaṁkara-vijaya 	Title
-S3rS.		?
-S3r.		?
+S3rS.	 śrauta-sūtra 	Literary category
+S3r.	 śrauta-sūtra 	Literary category
 S3us3r.	 suśruta 	Title
 S3u1dradh.	 śūdra-dharma-tattva 	Title
 SV.	 sāma-veda 	Title
@@ -519,7 +518,7 @@ S3a1y.	 sāyaṇa 	Author
 SaddhP.	 saddharma-puṇḍarīka 	Title
 Sadukt.	 sadukti-karṇāmṛta 	Title
 Sam2gi1t.	 saṁgīta-sārasaṁgraha 	Title
-Sam2g.		?
+Sam2g.	 saṁgīta-sārasaṁgraha 	Title
 Sam2gi1tas.	 saṁgīta-sārasaṁgraha 	Title
 Sam2hUp.	 saṁhitā-upaniṣad-brāhmaṇa 	Title
 Sam2hitUp.	 saṁhitā-upaniṣad-brāhmaṇa 	Title

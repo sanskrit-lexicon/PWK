@@ -2201,7 +2201,7 @@ R2V.PRA7T.11,10.@anugraha@anugraha@4350
 G4AIM.4,1,47.6,7,20.@anugraha@anugraha@4350
 VP.1,5,22.@anugraha@anugraha@4350
 TATTVAS.45.@anugraha@anugraha@4350
-JA7G4N4.2,253.@anugrahakat@anugrahakat@4351
+JA7G4N4.2,253.@anugrahakft@anugrahakft@4351
 LA7T2J.9,2,24.@anugrAmam@anugrAmam@4353
 SARVAD.154,18.@anugrAhaka@anugrAhaka@4354
 BRAHMABINDU7P.22.@anugrAhaka@anugrAhaka@4354
@@ -5340,7 +5340,7 @@ MBH.13,14,295.@arDasraganulepin@arDasraganulepin@9734
 BHA7VAPR.2,30.@arDasvinna@arDasvinna@9735
 P.1,2,32.@arDahrasva@arDahrasva@9737
 MR2K4K4H.131,23.@arDAkzi@arDAkzi@9738
-Spr.7763.@arDANI@arDANI@9739
+Spr.7763.@arDANgI@arDANgI@9739
 Ind.St.8,218.@arDANgula@arDANgula@9740
 RAGH.7,10@arDAcita@arDAcita@9741
 KUMA7RAS.7,61.@arDAcita@arDAcita@9741
@@ -7202,7 +7202,7 @@ MBH.14,23,23.@asTira@a/sTira@12928
 MBH.3,79,12.@asTiratva@asTiratva@12929
 Ind.St.1,40,4.@asTivarzaRa@asTivarzaRa@12931
 KATHA7S.72,136.@asTiSeza@asTiSeza@12934
-GAL.@asTiSOTilya@*asTiSOTilya@12935
+GAL.@asTiSETilya@*asTiSETilya@12935
 K4ARAKA.1,11.@asTisaMyoga@asTisaMyoga@12936
 MADANAV.31,315.@asTisaMhAraka@asTisaMhAraka@12938
 KA7TJ.C2R.25,8,2.@asTisaMcaya@asTisaMcaya@12939

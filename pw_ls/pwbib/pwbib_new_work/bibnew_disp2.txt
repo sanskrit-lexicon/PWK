@@ -11,7 +11,7 @@ A7C2V.GR2HJ.PARIC2  (id=003, PW-v1 , count=7) : PARIŚIṢṬA ZU ĀŚV. GṚHY.
     instances = saMBala,121139;sAndra,123930;sAmBala,124244;sIvana,125594;surUhaka,127688;sOBikzya,129994;stanin,130399;stabDagAtra,130418;stuva,130568;sTARuroga,130891
 
 AdbhBr.  (MW) :  adbhuta-brāhmaṇa  (Title) 
-AdhyR.  (MW) :  (?) 
+AdhyR.  (MW) :  adhyātma  rāmāyaṇa  (Title) 
 AGNI-P  (id=004, PW-v1 , count=163) : AGNIPURĀṆA in der Bibl. ind.  
 AgP.  (MW) :  agni-purāṇa  (Title) 
 Agp.  (MW) :  agni-purāṇa  (Title) 
@@ -547,7 +547,7 @@ DRAVJAC2  (id=453, PW-v5 , count=0) : (UDDHITATTVA), Hdschr. (AUFRECHT).
     instances = sTURa,131096
 
 Durga1v.  (MW) :  durgāvilāsa  (Title) 
-Du1ta7n3g.  (MW) :  (?) 
+Du1ta7n3g.  (MW) :  dūtaṅgada  (Title) 
  
   * ed.Bomb  (id=510, new , count=42) : title=? 
     instances = aYcana,1426;alaya,9962;kad,23864;kAYcanagarBa,26185;kASIpati,27552;kASIrAja,27557;kftekzaRa,30078;KaRqa,33334;gam,34676;cakAs,38187
@@ -674,7 +674,6 @@ GR2HJA7S  (id=331, PW-v2 , count=61) : GṚHYĀSAM̃GRAHA in der Bibl. ind.
 
 Gr2ihya1s.  (MW) :  gṛhyāsaṁgraha  (Title) 
 Gr2S.  (MW) :  gṛhya-sūtra  (Literary category) 
-GrS3.  (MW) :  (?) 
 Gr2S3rS.  (MW) :  gṛhya-sūtra  and  śrauta-sūtra  (Literary category) 
 GS.  (MW) :  gṛhya-sūtra  (Literary category) 
 H  (id=106, PW-v1 , count=95) : HEMACANDRA'S ABHIDHĀNACINTĀMAṆI, Ausg. von BÖHTLINGK und RIEU.  
@@ -852,7 +851,7 @@ JOLLY,Schuld  (id=127, PW-v1 , count=30) : YOLLY, ueber das indische Schuldrecht
     instances = sapiRqa,119339
 
 Jyot.  (MW) :  jyotiṣa  (Literary category) 
-K.  (MW) :  (?) 
+K.  (MW) : Kielhorn (?) (Author) 
 KA7C2  (id=129, PW-v1 , count=414) : KĀŚIKĀ VṚTTI in der Zeitschrift The PANDIT VII. fgg.  
 KA7C2I7KH  (id=456, PW-v5 , count=43) : (AṆḌA), HDSCHR. (AUFRECHT).  
  
@@ -1002,7 +1001,7 @@ Kaus3.  (MW) :  kauśika-sūtra  (Title)
 KAUSH.A7R  (id=148, PW-v1 , count=3) : KAUṢITAKĀRAṆYAKA (WEBER).  
 KAUSH.UP  (id=149, PW-v1 , count=47) : KAUṢITAKIBRĀHMAṆOPANIṢAD in der Bibl. ind.  
 KaushA1r.  (MW) :  kauṣītaki-āraṇyaka  (Title) 
-KaushBr.  (MW) :  (?) 
+KaushBr.  (MW) :  kauṣītaki-brāhmaṇa  (Title) 
 KaushUp.  (MW) :  kauṣītaki-upaniṣad  (Title) 
 KAUTUKAR  (id=150, PW-v1 , count=20) : KAUTUKARATNĀKARA, Hdschr. (CAPPELLER).  
 Kautukar.  (MW) :  kautukaratnākara  (Title) 
@@ -1143,7 +1142,7 @@ LI7LA7V  (id=168, PW-v1 , count=50) : BHĀSKARA'S LĪLĀVATĪ, Calcutta 1846(KER
 Li1la1v.  (MW) :  līlāvatī  of  bhāskara  (Title) 
 Lin3gaP.  (MW) :  liṅga-purāṇa  (Title) 
 LOKAPR  (id=426, PW-v4 , count=6) : (AKĀŚA) (YOLLY) .  
-Lokapr.  (MW) :  (?) 
+Lokapr.  (MW) :  loka-prakāśa  (Title) 
 Lot.delab.l  (id=170, PW-v1 , count=56) : BURNOUF, Lotus de la bonne loi.  
 M  (id=171, PW-v1 , count=476) : MĀNAVADHARMAŚĀSTRA.  
 M.K.S  (id=194, PW-v1 , count=1) : MĀN. K. S.  
@@ -1655,7 +1654,7 @@ Rasik.  (MW) :  rasikaramaṇa  (Title)
 Ratn.  (MW) :  ratnāvalī  (Title) 
 Ra1tn.  (MW) :  ratnāvalī  (Title) 
 Ratna7.  (MW) :  ratnāvalī  (Title) 
-Ratnak.  (MW) :  (?) 
+Ratnak.  (MW) :  ratnakoṣa  (Title) 
 RATNAM  (id=233, PW-v1 , count=24) : RATNAMĀLĀ. (ROTH).  
 Ratna1v.  (MW) :  ratnāvalī  (Title) 
 Ratna7v.  (MW) :  ratnāvalī  (Title) 
@@ -1741,8 +1740,8 @@ Sa1mavBr.  (MW) :  sāma-vidhāna-brāhmaṇa  (Title)
   * SA7MAVIDH.BR  (id=784, new , count=1) : title=? 
     instances = avaleKana,10646
 
-S3ambhMa1h.  (MW) :  (?) 
-Sam2g.  (MW) :  (?) 
+S3ambhMa1h.  (MW) :  śaṁbhalagrāma-māhātmya  (Title) 
+Sam2g.  (MW) :  saṁgīta-sārasaṁgraha  (Title) 
 Sam2gi1t.  (MW) :  saṁgīta-sārasaṁgraha  (Title) 
 Sam2gi1tas.  (MW) :  saṁgīta-sārasaṁgraha  (Title) 
 Sam2hitop.  (MW) :  saṁhitā-upaniṣad-brāhmaṇa  (Title) 
@@ -1863,7 +1862,7 @@ SOMAKARMAPR  (id=409, PW-v3 , count=1) : SOMAKARMAPRADĪPA des RĀMA, Hdschr. (R
     instances = vAdin,100501
 
 Spr  (id=253, PW-v1 , count=2927) : Indische Sprüche, herausg. von O. BÖHTLINGK. 2te Aufl. Von 7614 an in Melanges asiatiques, T. VIII, S. 217. fgg. Ebendaselbst S. 203. fgg. stehen die durch "zu Spr. " bezeichneten Varianten.  
-S3r.  (MW) :  (?) 
+S3r.  (MW) :  śrauta-sūtra  (Literary category) 
 S3ra1ddhac.  (MW) :  śrāddha-candrikā  (Title) 
 S3ra1ddhak.  (MW) :  śrāddhakalpa-bhāṣya  (Title) 
 S3rGr2S.  (MW) :  gṛhya-sūtra  and  śrauta-sūtra  (Literary category) 
@@ -1871,7 +1870,7 @@ S3ri1kan2t2h.  (MW) :  śrīkaṇṭha-carita  (Title)
 S3ri1mMa1h.  (MW) :  śrīmāla-māhātmya  (Title) 
 S3r2in3ga1r.  (MW) :  śṛṅgāra-tilaka  (Title) 
 S3r2in3ga1rat.  (MW) :  śṛṅgāra-tilaka  (Title) 
-S3rS.  (MW) :  (?) 
+S3rS.  (MW) :  śrauta-sūtra  (Literary category) 
 S3rut.  (MW) :  śrutabodha  (Title) 
 S3rutab.  (MW) :  śrutabodha  (Title) 
 SS3am2k.  (MW) :  saṁkṣepa-śaṁkara-vijaya  (Title) 
