@@ -1,0 +1,68 @@
+790 records read from ../pwbib_new_work/mergebibnew.txt
+
+Duplicate bibrec # 001
+  old:  BAUDH:BAUDH:309:2:BAUDHĀYANA, nach Citaten in andern Werken. 
+  new:  BAUDH:BAUDH:438:5:(mit Angaben der Abschnitte) nach Mittheilungen von BÜHLER. 
+
+Duplicate bibrec # 002
+  old:  BHAVISHJOTT.P:BHAVISHJOTT.P:036:1:BHAVIṢYOTTARAPURĀṆA nach Citaten in andern Werken. 
+  new:  BHAVISHJOTT.P:BHAVISHJOTT.P:443:5:, auch nach Mittheilungen von AUFRECHT. 
+
+Duplicate bibrec # 003
+  old:  CAK:C2A7K:051:1:ŚĀKUNTALA, Ausg. von BÖHTLINGK, wenn nicht ausdrücklich PISCH. (PISCHEL) oder PRAMAC. (PREMACANDRA) hinzugefügt wird. 
+  new:  CAK:C2A7K:489:6:(Kāśm. ) ist die von K. BURKHARD in den Sitzungsberichten der phil-hist. Klasse der Kais. Ak. d. Ww. in Wien, Bd. 107, veröffentlichte Kaśmirer Śakuntalā-Handschrift (C. CAPELLER). 
+
+Duplicate bibrec # 004
+  old:  DHURTAS:DHU7RTAS:082:1:DHŪRTASAMĀGAMA in LASSEN'S Anthologie. 
+  new:  DHURTAS:DHU7RTAS:323:2:wird von nun an nach der lithographirten Ausgabe von CAPPELLER citirt. 
+
+Duplicate bibrec # 005
+  old:  HARSHAK:HARSHAK4:112:1:HARṢACARITA, Calcutta 1876 (KERN). 
+  new:  HARSHAK:HARSHAK4:455:5:(1936), Bomb. Ausg. (KERN). 
+
+Duplicate bibrec # 006
+  old:  HASJ:HA7SJ:113:1:HĀSYĀRṆAVA, Bombay 1757 und Hdschr. (CAPPELLER). 
+  new:  HASJ:HA7SJ:336:2:wird von nun an nach der lithograph. Ausgabe von CAPPELLER citirt. 
+
+Duplicate bibrec # 007
+  old:  KAD:KA7D:130:1:KĀDAMBARI, Calcutta Sam̃vat 1919 (KERN). 
+  new:  KAD:KA7D:390:3:Die eingeklammerten Zahlen verweisen auf die Calc. Ausg. 1872. 
+
+Duplicate bibrec # 008
+  old:  KAP:KAP:137:1:KAPILA'S SĀM̃KHYAPRAVACANA. Einen vollständigen Index hat WINDISCH ZU Verfügung gestellt. 
+  new:  KAP:KAP:344:2:The Aphorisms of the Sankhya Philosophy, of KAPILA, Allahabad 1852. 
+
+Duplicate bibrec # 009
+  old:  KATH:KA7T2H:141:1:KĀṬHAKA (WEBER). 
+  new:  KATH:KA7T2H:347:2:KĀṬHAKA Hdschr. (v. SCHRÖDER und WEBER). 
+
+Duplicate bibrec # 010
+  old:  KAURAP:K4AURAP:147:1:CAURAPAŃCĀŚIKĀ, Ausg. von BOHLEN. 
+  new:  KAURAP:K4AURAP:395:3:CAURAPAŃCĀŚAT, herausgegeben von M. ARIEL im Yornal aistique, 4me serie, Bd. XI, S. 469. fgg. (CAPPELLER). 
+
+Duplicate bibrec # 011
+  old:  KAVJAL:KA7VJA7L:461:5:(OKALOCANA), Hdschr. (AUFRECHT). 
+  new:  KAVJAL:KA7VJA7L:493:6:(AM̃KĀRA des RUDRAṬA) (R. PISCHEL). 
+
+Duplicate bibrec # 012
+  old:  KUMARAS:KUMA7RAS:160:1:KUMĀRASAM̃BHAVA, Ausg. von STENZLER. 
+  new:  KUMARAS:KUMA7RAS:397:3:8. FGG. finde man im 1ten Bande Pandit und besonders herausgegeben von TĀRĀNĀTHA TARKAVĀCHASPATI, Calcutta 1868. 
+
+Duplicate bibrec # 013
+  old:  RAGAN:RA7G4AN:230:1:RĀJANIGHAṆṬU, Hdschr. (ROTH). 
+  new:  RAGAN:RA7G4AN:428:4:13 nach der Ausg. von R. GARBE. 
+
+Duplicate bibrec # 014
+  old:  SARASVATIK:SARASVATI7K:477:5:(AṆṬHĀBHARAṆA), Hdschr. (AUFRECHT). 
+  new:  SARASVATIK:SARASVATI7K:499:6:(AṆṬHĀBHARAṆA), Calcutta 1883 (CAPPELLER). 
+
+Duplicate bibrec # 015
+  old:  VAGBH:VA7GBH:274:1:VĀGBHAṬA'S ĀYURVEDADARŚANA (ROTH). 
+  new:  VAGBH:VA7GBH:502:6:(AṬA'S ALAM̃KĀRA), Calcutta 1883 (CAPPELLER). 
+
+Duplicate bibrec # 016
+  old:  VASISHTHA:VASISHT2HA:412:3:nach der Ausg. von Benares (YOLLY). 
+  new:  VASISHTHA:VASISHT2HA:483:5:nach der Ausgabe von FüHRER, Bombay 1883. 
+16 Duplicate abbreviations found in ../pwbib_new_work/mergebibnew.txt
+790 records read from ../pwbib_new_work/mergebibnew.txt
+503 records written to sortbib.txt

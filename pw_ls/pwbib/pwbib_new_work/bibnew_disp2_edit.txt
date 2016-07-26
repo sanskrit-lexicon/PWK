@@ -89,7 +89,7 @@ APra1t.  (MW) :  atharva-veda-prātiśākhya  (Title)
 A1pS3r.  (MW) :  āpastamba-śrauta-sūtra  (Title) 
 A1r.  (MW) :  āraṇyaka  (Literary category) 
  
-  * ARG4  (id=780, new , count=3) : title=? 
+  * ARG4  (id=780, new , count=3) : title=Arjunasama1gama [Jachertz]
     instances = graB,37314;vaSaMkara,99233;Sliz,115630
 
 A7RJABH  (id=015, PW-v1 , count=127) : ĀRYABHAṬA Ausg. von KERN (KERN).  
