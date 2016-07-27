@@ -19,12 +19,12 @@ The third step (done elsewhere) is to modify webtc/disp.php to interface
 The best version of the PW bibliography to work with seems to be 
  [mergebibnew.txt](https://github.com/sanskrit-lexicon/PWK/blob/master/pw_ls/pwbib/pwbib_new_work/mergebibnew.txt).
 
-mergebibnew is essentially a csv file (with the colon character `:` as value separator), wi the following fields:
+mergebibnew is essentially a csv file (with the colon character `:` as value separator), with the following fields:
 * abbrvsort = a simplified abbreviation. Probably not useful here
 * abbrv = the abbreviation as used in the dictionary; it is in the odd
   AS (Anglicized Sanskrit) form used by the digitized dictionary in the `<ls>`
-  element.  (*digitized dictionary* here means the xml form of the 
-  digitization, namely the file named pw.xml.)
+  element.  (*digitized dictionary* here means the `xml` form of the 
+  digitization, namely the file named `pw.xml`.)
 * seqnum = sequence number (3-digit) of the item within a given volume.
 * volume = the volume of the dictionary in which the given bibliographic entry
   was drawn.  This volume number is 1-7, for the actual dictionary.  But also
@@ -35,7 +35,7 @@ mergebibnew is essentially a csv file (with the colon character `:` as value sep
 * titleunicode  is the title of the work, expressed in unicode encoding 
   of IAST type for Sanskrit words.
 
-A reasonable first step seems to be to sort the entries of mergebibnew
+A reasonable first step seems to be to sort the entries of `mergebibnew`
 by the volume:seqnum fields.  This is a reasonable order for the 
 display of the authorities, since it (should) correspond to the scanned
 image of the bibliographies.
@@ -52,11 +52,11 @@ This sortbib.txt file will be a csv file, tab-delimited, with three fields:
 * volseq = volume:seqnum
 * titleunicode.
 
-The use of tab-delimiting will make this suitable for a sqlite input file.
+The use of tab-delimiting will make this suitable for a `sqlite` input file.
 The file will be ordered by the 2nd field.
-The first field can be used by disp.php.
+The first field can be used by `disp.php`.
 
-As of this of sortbib.py:
+As of this of `sortbib.py`:
 * 790 records from mergebibnew
 * 503 records written to sortbib.txt
 * Also, there are found 16 duplicate abbreviations.  The details of these
