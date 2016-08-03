@@ -58,7 +58,7 @@ The use of tab-delimiting will make this suitable for a sqlite input file.
 The file will be ordered by the 2nd field.
 The first field can be used by disp.php.
 
-As of this run of sortbib.py:
+As of this of run sortbib.py:
 * 790 records from mergebibnew
 * 503 records written to sortbib.txt
 * Also, there are found 16 duplicate abbreviations.  The details of these
