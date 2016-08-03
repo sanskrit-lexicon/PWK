@@ -11,6 +11,8 @@ class Merge1(object):
   (self.abbrvsort,self.abbrv,self.seqnum,self.volume,self.titleunicode)= \
     re.split(r':',line)
   self.line = line
+  if self.volume == '0':
+   self.volume = 'X'  # so it will sort after all the 'real' volumes
   self.matches=[] # properrefs that match abbrv.
 
  def __repr__(self):
@@ -21,7 +23,7 @@ class Merge1(object):
   nmatch = len(self.matches)
   nmatch = "%s"%nmatch
   volume=self.volume
-  if self.volume == '0':  # the members of pwbib_new
+  if self.volume == 'X':  # the members of pwbib_new
    matches = self.matches[0:10]  # at most 10
    # Each element is a tuple (key1,lnum).
    matches1 = ["%s,%s" % x for x in matches]
@@ -51,17 +53,30 @@ def init_mergebibnew(filein):
  print ndup,"Duplicate abbreviations found in",filein
  return (d,recs)
 
+def reset_seqnum(recs):
+ """ Change sequence number to be sequential WITHIN VOLUME
+     This assumes the records are properly sorted already.
+ """
+ volume = None
+ for rec in recs:
+  if rec.volume != volume:
+   volume = rec.volume
+   seqnum = 0
+  seqnum = seqnum + 1
+  rec.seqnum = "%03d" %seqnum
 if __name__ == "__main__":
  filebib = sys.argv[1] # mergebibnew.txt
  fileout = sys.argv[2] # sortbib.txt
  (dbibrec,bibrecs) = init_mergebibnew(filebib)
  # sort bibrecs in place
  bibrecs.sort(key=lambda(rec): rec.volume + rec.seqnum)
+ # reset the seqnum
+ reset_seqnum(bibrecs)
  nout = 0
  with codecs.open(fileout,"w","utf-8") as f:
   for rec in bibrecs:
-   if rec.volume == '0':
-    continue # skip these
+   #if rec.volume == 'X': # pwbib_new
+   # continue # skip these
    out = "%s\t%s\t%s\n" %(rec.abbrv,rec.volume + rec.seqnum,rec.titleunicode)
    nout=nout+1
    f.write(out)

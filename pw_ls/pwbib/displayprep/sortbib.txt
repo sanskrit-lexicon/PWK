@@ -304,200 +304,487 @@ WEBER,Nax	1303	WEBER, Die vedischen Nachrichten von den naxatra. Berlin 1860.
 WILSON,Sel.W	1304	Select Works of H. H. WILSON. 
 WISE	1305	Commentary on the Hindu System of Medicine, by T. A. WISE. Calcutta 1845. 
 Z.d.d.m.G	1306	Zeitschrift der deutschen morgenlandischen Gesellschaft 
-AINSLIE	2307	AINSLIE, Materi indica. London 1826. 
-A7NANDAL	2308	ĀNANDALAHARI in HAEBELIN's Anthologie. 
-BAUDH	2309	BAUDHĀYANA, nach Citaten in andern Werken. 
-BRAHMAVAIV.P	2310	BRAHMAVAIVARTAPURĀṆA. 
-BÜHLER,Rep.1872-73	2311	BÜHLER, Report on Sanskrit Mss. 1872--73. 
-C2A7NTIC2	2312	ŚĀNTIŚATAKA in HAEBERLIN'S Anthologie. 
-Cat.GUJAR	2313	A Catalogue of Sanskrit Manuscripts contained in the private libraries of GUYARĀT, KĀṬHIĀVĀD, KATCHCHH, SINDH and KHĀDE'S. Compeld unter the superintendence of G. BÜHLER (ROTH). 
-Cat.WILLMOT	2314	A Catalogue of Sanskrit Mss. existing in the central provinces, prepared by order of E. WILLMOT Esq. (ROTH). 
-C2I7LA7N5KA	2315	ŚĪLĀÑKA'S Commentar zum ĀCĀRĀÑGASŪTRA, Calcutta 1878 (YACOBI). 
-C2KDR	2316	ŚABDAKALPADRUMA. 
-C2OBH	2317	ŚOBHANAMUNI'S ŚOBHANASTUTAYAS in Z. d. d. m. G. 32, 509. fgg. (YACOBI). 
-C2RUT.(BR.)	2318	ŚRUTABODHA, Ausg. von BROCKHAUS. 
-CUNNINGHAM,Arch.Surv	2319	CUNNINGHAM, Archaeological Survey of India. 
-DAC2AK.(1925)	2320	DAŚAKUMĀRACARITA, Calcutta 1234 {#saMvatsarE#} (CAPPELLER). 
-DA7J	2321	DĀYABHĀGA, Calcutta 1829. 
-DEC2I7N	2322	HEMACNDRA'S DEŚINĀMĀLĀ, Hdschr. (PISCHEL). 
-DHU7RTAS	2323	wird von nun an nach der lithographirten Ausgabe von CAPPELLER citirt. 
-FÜHRER,BR2H	2324	Darstellung der Lehre von den Schriften in BṚHASPATI'S DHARMAŚĀSTRA. Inauguraldissertation von ALOIS ANTON FÜBER. 
-GAN2IT.BHAGRAH	2325	GAṆNITI, BHAGRAHAYUTYADHIKĀRA (KERN). 
-GAN2IT.KAKSH	2326	GAṆITA, KAKṢĀDHYĀYA (KERN). 
-GAN2IT.SPASHT2	2327	GAṆITA, SPAṢṬĀDHIKĀRA (KERN). 
-GA7R.UP	2328	GĀRUḌOPANIṢAD in der Bibl. ind. 
-G4AT2A7DH	2329	JAṬĀDHARA im ŚKDR. 
-GOLA7DHJ.BHUV	2330	GOLĀDHYĀYA, BHUVANAKOŚA (KERN). 
-GR2HJA7S	2331	GṚHYĀSAM̃GRAHA in der Bibl. ind. 
-HA7LA	2332	Citirt nach der neuen noch im Druck befindlichen Ausgabe von WEBER (CAPPELLER). 
-HAM5SOP	2333	HAM̃SOPANIṢAD in der Bibl. ind. (GELDNER). 
-HANUM.UP	2334	HANUMADUKTARĀMOPANIṢAD in der Bibl. ind. (GELDNER). 
-HARIV.LANGL	2335	LANGLOIS' Uebersetzung des Harivam̃śa. 
-HA7SJ	2336	wird von nun an nach der lithograph. Ausgabe von CAPPELLER citirt. 
-HEM.PAR	2337	HEMACANDRA'S PARIŚIṢṬAPARVAN, Hdschr. (YACOBI). 
-Ind.Str	2338	WEBER, Indische Streifen. 
-J.A.S.Beng	2339	Yournal of the Asiatic Society of Bengal. Part I. (History, Antiquities, &c. ). 
-JOGAC2.UP	2340	YOGAŚIKHOPANIṢAD in der Bibl. ind. (GELDNER). 
-K4AITANJ	2341	CAITANY. == CAITANYACANDRODAYA in der Bibl. ind. (PISCUEL). 
-KALPAS	2342	KALPASŪTRA, herausg. von H. YACOBI (YACOBI und KERN). 
-K4A7N2	2343	CĀṆAKYA in HAEBERLIN'S Anthologie. 
-KAP	2344	The Aphorisms of the Sankhya Philosophy, of KAPILA, Allahabad 1852. 
-KA7RAN2D2	2345	KĀRAṆḌAVYŪHA, Calcutta 1873(KERN). 
-KA7T	2346	KĀTANTRA, heraugsgegeben von EGGELING. 
-KA7T2H	2347	KĀṬHAKA Hdschr. (v. SCHRÖDER und WEBER). 
-KA7T2H.GR2HJ	2348	KĀṬHAKAGṚHYASŪTRA, Hdschr. (YOLLY). 
-KAP.S	2349	KAPIṢṬHALAKAṬHASAM̃HITA, Hdschr. (V. SCHRÖDER). 
-K4U7LIKOP	2350	CŪLIKOPANIṢAD in der Bibl. ind. (GELDNER). 
-VARA7H.LAGHUG4	2351	VARĀHAMIHIRA'S LAGHUJĀTAKA. 
-MAGAVJ	2352	Ueber zwei Parteischriften zu Gunsten der MAGA, resp. ŚĀKADVIPIYA BRĀHMANA. Von A. WEBER. 
-MAHA7C2	2353	MAHĀŚĀNTI, Hdschr. (ROTH). 
-MAITR.PADDH	2354	PADDHATI ZU MAITR. S. , Hdschr. (V. SCHRÖDER). 
-MA7N.C2R	2355	MĀNAVAŚRAUTASŪTRA, Hdschr. (V. SCHRÖDER). 
-MA7N2D2.UP	2356	MĀṆḌŪKYOPANIṢAD in der BIbl. ind. 
-MOLESW	2357	A Dictionary, Marāṭhi and English, compiled by Y. T. MOLESWORTH, Bombay 1857. 
-Mon.d.B.A	2358	Monatsberichte der Königlich Preussichen Akademie der Wissenschaften in Berlin. 
-NA7DAR.UP	2359	NĀDABINŪPANIṢAD in der Bibl. ind. (GELDNER). 
-NIGH	2360	YĀSKA'S NIRUKTA sammt den NIGHAṆṬAVAS, herausgegeben und erläutert von RUDOLPH ROTH. 
-NIRN2AJAS	2361	NIRṆAYASINDHU. 
-OPP.CAT	2362	List of Sanskrit Manuscripts in Private libraries of southern India. Compiled, arranged and indexed by GUSTAV OPPERT. 
-PAN4K4AT.ed.orn	2363	KOSEGARTEN, PANITSCHATANTRUM sive quinque partitum de moribus exponens. Pars secunda, textum sanscritum, ornatiorem tenens. 
-RA7G4AV	2364	RĀJAVALLABHA, nach Citaten ŚKDR. 
-SETUB	2365	SETUBANDHA, herausgegeben von SIEGFRIED GOLDSCHMIDT. 
-TAL.BR	2366	A legend from the TALAVAKĀRA or YAIMINIYA BRĀHMAṆA of the SĀMAVEDA by A. C. BURNELL, Mangalore 1878. 
-TEG4OB.UP	2367	TEJOBINDŪPANIṢAD in der Bibl. ind. (GELDNER). 
-VA7STUV	2368	VIŚVAKARMA'S VĀSTUVIDYĀ, Hdschr (KERN). 
-VIC2VA	2369	VIŚVAKOŚA (PISCHER). 
-VIVA7DAK4	2370	VIVĀDACINTĀMAṆI, Calcutta {#saMvat#} {#1234#} {#zAkE#} {#5678#} {#vaizakhE. #} 
-VIVEKAV	2371	VIVEKAVILĀSA im Yournal PRATNAKAMRANANDINI. 
-VOP	2372	VOPADEVA'S MUGDHABODHA, herausgegeben und erklärt von O. BÖHTLINGK. 
-WEBER,Lit	2373	Akademische Vorlesung über Indische Literaturgeschichte. Von ALBRECHT WEBER. Zweite vermehrte Auflage. 
-WILSON,Sel.Spec	2374	WILSON, Select Specimens of the Theatre of the Hindus. 
-APARA7RKA	3375	(YOLLY). 
-BHA7M	3376	BHĀMATĪ in der Bibl. ind. (STENZLER). 
-BR2HANM	3377	BṚHANMANU, nach Citaten in verschiedenen juristischen Büchern(YOLLY). 
-BR2HASP	3378	BṚHASPATI, nach Citaten in verschiedenen jurischen Büchern (YOLLY). 
-Cat.ALLAR	3379	A Catalogue of Sanscrit Manuscripts in Oudh (ROTH). 
-Cat.KIELH	3380	Cat. C. PR. 
-C2RUT	3381	ŚRUTABODHA in der Zeitschrift für die Kunde des Morgenlandes, Bd. IV. 
-C2UKRAN	3382	ŚUKRANĪTI in OPPERT, On the army organization of the Ancient Hindus S. 107 (WEBER). 
-DEVALA	3383	nach Citaten in verschiedenen juristischen Schriften (YOLLY). 
-DONNER,PIN2D2	3384	PIṆḌAPITṚYAYNA, von Dr. O. DONNER. Berlin. 1870. 
-EITEL,Chin.B	3385	Hand-Book for the student of Chinese Buddhism, by Rev. E. l. EITEL. London, 1870. 
-GAN2ITA,MADHJA7M(A7DHJA7JA)	3386	(KERN). 
-GOBH.C2RA7DDHAK	3387	GOBHILA'S ŚRĀDDHAKALPA in der Bibl. ind. 
-HAEB.Anth	3388	HAEBERLIN'S Anthology, Calcutta 1847. 
-HILLEBR.N	3389	HILLEBRANDT'S altindisches Neu- und Vollmondsopfer. 
-KA7D	3390	Die eingeklammerten Zahlen verweisen auf die Calc. Ausg. 1872. 
-KAIVALJOP	3391	KAIVALYOPANIṢAD in der Bibl. ind. 
-KAT2HOP	3392	in der Bibl. ind. 
-KA7TJ(A7JANA)	3393	nach Citaten in verschiedenen juristischen Werken(YOLLY). 
-KA7TJ.C2RA7DDHAK	3394	KĀTYĀYANA'S ŚRĀDDHAKALPASŪTRA (STENZLER). 
-K4AURAP	3395	CAURAPAŃCĀŚAT, herausgegeben von M. ARIEL im Yornal aistique, 4me serie, Bd. XI, S. 469. fgg. (CAPPELLER). 
-KUHN'S.Z	3396	Zeitschrift für vergleichende Sprachforschung anf dem Gebiete der indogermanischen Sprachen. 
-KUMA7RAS	3397	8. FGG. finde man im 1ten Bande Pandit und besonders herausgegeben von TĀRĀNĀTHA TARKAVĀCHASPATI, Calcutta 1868. 
-LIA	3398	LASSEN'S Indische Alterthunmskunde. 
-MBH.ed.Vardh	3399	ed. Vardh. ist die auf Kosten des Fürsten von Vardhamāna (Burdwan) gedruckte Ausg. des MAHABHĀRATA. Sie enthält nur die 12 ersten Parvan. 
-MEDHA7T	3400	MEDHĀTITHI, ein Scholiast des MANU (YOLLY). 
-MÜLLER,SL	3401	A History of Ancient Sanskrit Literature. By MAX MÜLLER. 1859. 
-MUN2D2.UP	3402	MUṆḌAKOPANIṢAD in der Bibl. ind. 
-OLD.Buddha	3403	Buddha-Buddha. Sein Leben, seine Lehre, seine Gemeinde. Von HERMANN OLDENBERG. Berlin 1881. 
-PRAG4A7PATI	3404	, nach Citaten in verschiendenen juristischen Werken (YOLLY). 
-PR.P	3405	PRACAṆḌAPĀṆḌAVA, EIN SCHAUSPIEL. HDSCHR. (CAPPELLER). 
-RA7MAPU7RVAT.UP	3406	RĀMAPŪRVATĀPANIYOPANIṢAD in der Bibl. ind. 
-RASAR	3407	RASARATNĀKARA, Calcutta 1878 (ROTH). 
-RASENDRAK4	3408	RASENDRACINTĀMAṆI Calcutta 1878 (ROTH). 
-SOMAKARMAPR	3409	SOMAKARMAPRADĪPA des RĀMA, Hdschr. (ROTH). 
-SUKHA7V	3410	SUVAPNACNTĀṆI (PISCHEL). 
-VAG4RAK4K4H	3411	VAJRACCHEDIKĀ, herausgegeben von (F. MAX MÜLLER). 
-VASISHT2HA	3412	nach der Ausg. von Benares (YOLLY). 
-VET.(U.)	3413	VETĀLAPAŃCA VIM̃ŚATIKĀ, herausgegeben von HEINRICH UHLE. 
-VJUTP	3414	VYUPATTI, ein Sanskrit-Tibetisches Wörterbuch aus dem TAŃJUR (SCHIEFNER). 
-VR2SHABH	3415	VṚṢADĀNUJA im 3ten und 4ten Bande des Pandit (CAPPELLER). 
-WEBER,RA7MAT	3416	WEBER'S Ausg. RĀMATĀPANIYOPANIṢAD. 
-WIND.SANC	3417	FRIDERICI HENR. HUG. WINDIṢMANNI SANCARA sive de theologumenis Vedanticorum. 
-BHA7M.V	3418	BHĀMINIVILĀSA, Ausg. von ABELBERGAIGNER(CAPPELLER. ) 
-C2AM5K.VIG4	4419	ŚAM̃KARAVIJAYA in der Bibl. ind. 
-CANTOR	4420	CANTOR, Geschichte der Mathematik (WINDISCH) . 
-GAN2ITA,GRAHAK4K4H	4421	(ĀYĀDHIKĀRA) (KERN) . 
-GAN2ITA,SU7RJAGR	4422	(AHAṆĀDHIKĀRA) (KERN) . 
-GOVARDH	4423	Govardhana's SAPTAŚATĪ (WEBER) . 
-KAN2T2HAC2R.UP	4424	KAṆṬHAŚRUTYUPANIṢAD in der Bibl. ind. 
-KIELHORN,Rep	4425	Report on the search for Sanskrit Mss. in the Bombay Presidency, during the year 1880-81. by F. KIELHORN(ROTH) . 
-LOKAPR	4426	(AKĀŚA) (YOLLY) . 
-PRATIG4N4A7S	4427	berausg. von A. WEBER. 
-RA7G4AN	4428	13 nach der Ausg. von R. GARBE. 
-SADDH.P	4429	SADDHARMAPUṆḌARĪKA (KERN) . 
-SVAPNAK4(INTA7MAN2I)	4430	(PISCHEL) . 
-VI7RAM	4431	VĪRAMITRODAYA, Khadirapura 1815(STENZLER) . 
-ALAM5KA7RAR	5432	(ATNĀKARA) des ŚOBHĀKARA, Deccan. Coll. Hdschr. No. 227 (PISCHER). 
-ALAM5KA7RAS	5433	(ARVASVA) von RUYYAKA, Deccan Coll. Hdschr. No. 231 (PISCHER). 
-ALAM5KA7RAT	5434	(ILAKA), Hdschr. (AUFRECHT). 
-ALAM5KA7RAV	5435	(IMARŚINĪ) von JAYARATHA, Deccan Coll. Hdschr. No. 230 (PISCHER). 
-ANARGHAR	5436	(ĀGHAVA), Calcutta Śaka 1782 (AUFRECHT). 
-ASAHA7JA	5437	, ein Commentator des NĀRADA (YOLLY). 
-BAUDH	5438	(mit Angaben der Abschnitte) nach Mittheilungen von BÜHLER. 
-Berl.Mon	5439	Monatsbericht der Königlich Preussischen Akademie der Wissenschaften zu Berlin. 
-BHADRAB	5440	(ĀHUCARITRA), herausgegeben von H. Y. YACOBI in Z. d. d. m. G. 38, 19. fgg. (YACOBI). 
-BHARAT2AKA	5441	(DVĀTRIM̃ŚIKĀ), Hdschr. (AUFRECHT). 
-BHAVISHJAP	5442	(URĀṆA) Hdschr. (AUFRECHT). 
-BHAVISHJOTT.P	5443	, auch nach Mittheilungen von AUFRECHT. 
-BURNELL,T	5444	Classified Index to the Sanskrit Mss. in the Palace of Tanjore. By A. C. BURNELL. 
-C2A7C2VATA	5445	ŚĀŚVATA'S ANEKĀRTHASAMUCCAYA, herausgegeben von THEODOR ZACHARIAE. 
-C2A7KTA7N	5446	(ANDATARAM̃GIṆI) Hdschr. (AUFRECHT). 
-C2A7RN5G	5447	PADDH. , auch nach Mittheilungen von AUFRECHT. 
-C2IVA-P	5448	(URĀṆA) (SK. , dschr. No. 126 in verzeichnis der Oxforder Handschriften (AUFRECHT). 
-C2RIMA7LA7M	5449	(ĀHĀTMYA), Hdschr. (AUFRECHT). 
-DARPAD	5450	(ALANA) von KṢEMENDRA, Hdschr. (AUFRECHT). 
-DATTAKAC2	5451	(IROMAṆI), Calcutta 1867 (YOLLY). 
-DEVI7BHA7G	5452	(AVATAPURĀṆA), Hdschr. (AUFRECHT). 
-DRAVJAC2	5453	(UDDHITATTVA), Hdschr. (AUFRECHT). 
-GAN2ITA,K4ANDRAGR	5454	(AHĀDHIKĀRA) (KERN). 
-HARSHAK4	5455	(1936), Bomb. Ausg. (KERN). 
-KA7C2I7KH	5456	(AṆḌA), HDSCHR. (AUFRECHT). 
-K4AMPAKA	5457	Ueber das CAMPAKAŚREṢṬHIKATHĀNAKAM, die Geschichte vom Kaufmann CAMPAKA. Herausgegeben von A. WEBER in Sitzungsberichte der Königlich Preussischen Akademie der Wissenschaften zu Berlin. Yahrgang 1883. S. 567. fgg. 885. fgg. Vgl. Mélanges asiatiques tirés du Bulletin de l'Académie Impériale des Sciences de St. Pétersbourg. Tome IX, S. 75. fgg. 
-KATHA7RN2AVA	5458	, Hdschr. (AUFRECHT). 
-KA7TJ.KARM	5459	(APRADĪPA) (STENZLER). 
-KA7TJ	5460	(ĀYANA'S) PARIBH (ĀṢĀS) IN 'Zwölf Hymnen des Rigveda, herausgegeben von ERNST WIDISCH'S. 169. fgg. 
-KA7VJA7L	5461	(OKALOCANA), Hdschr. (AUFRECHT). 
-KHAN2D2APR	5462	(AŚASTI) im Pandit, Bed. 5 und 6 (AUFRECHT). 
-K4HA7NDOGJAP	5463	(ARIŚIṢṬA) nach Citaten in andern Werken (AUFRECHT). 
-KULA7RN2AVA	5464	, Hdschr. (AUFRECHT). 
-LEUMANN,Aup.Gl	5465	Glossar in. , Das Aupapātika Sūtra, herausgegeben von Dr. ERNST LEUMANN. 
-MATSJAP	5466	(URĀṆA), Poona-Ausg. (AUFRECHT). 
-M.MÜLLER,Ren	5467	The Renaissanśe of Sanskrit Literature in M. MüLLER'S India what can it teach us? S. 281. fgg. Auch die vorangehenden Abschnitte werden so citirt. 
-NA7RADA	5468	(a. ) bezeichnet die ausführlichere Recension NĀRAD'S (YOLLY). 
-PADDH	5469	(ATI) zu MĀN (AVA) GṚHY (ASŪTRA), Hdschr. (v. BRADKE). 
-PADJA7VALI7	5470	, Hdschr. (AUFRECHT). 
-PA7RC2VAN	5471	(ĀTHAKĀVYA), Hdschr. (AUFRECHT). 
-PRA7JAC2K4ITTAV	5472	(IVEKA), Hdschr. (AUFRECHT). 
-PRAKRIJA7K	5473	Notices of Sanskrit Mss. by RĀYENDRALĀLA MITRA. 
-R2KT	5474	(ANTRA), herausgegeben von BURNELL (STENZLER). 
-SADUKTIK	5475	(ARṆĀMṚTA) von ŚRĪDHARADĀSA, Hdschr. (AUFRECHT). 
-SAM5KSHEPAC2	5476	(AM̃KARAJAYA) von MĀDHAVA (AUFRECHT). 
-SARASVATI7K	5477	(AṆṬHĀBHARAṆA), Hdschr. (AUFRECHT). 
-SCHIEFNER,TA7RAN	5478	TĀRĀNĀTHA'S Geschichte des Buddhismus in Indien, aus den Tibetschen übersetzt von ANTON SCHIEFNER. 
-SUBHA7SHITA7V	5479	(ALI) von VALLABHADEVA, Hdschr. (AUFRECHT). 
-UTTAMAK4	5480	Ueber das UTTAMACARIKATHĀNAKAM, die Geschichte vom prinzen Trefflichst in Sitzungsserichte der Kön der Kön. Pr. Akademie der Ww- zu Berlin 1884, No. XVII. 
-VA7MANAP	5481	(URĀṆA), Hdschr. (AUFRECHT). 
-VA7RA7HAP	5482	(URĀNA) , Hdschr. (YACOBI). 
-VASISHT2HA	5483	nach der Ausgabe von FüHRER, Bombay 1883. 
-VIKR.dra7v	5484	KĀLIDĀSA'S VIKRAMORVAŚĪYAM nach drāvidischen Handschriften, herausgegeben von RICHARD PISCHERD in. , Monatsbericht der Königlich Preussischen Akademie der Wissenschaften zu Berlin"1875, S. 609. fgg. 
-ZACH.Beitr	5485	Beiträge zur indischen Lexicographie von THEODOR ZACHARIAE. 
-Z.f.d.K.d.M	5486	Zeitschrift für die Kunde des Morgenlandes. 
-ALAM5KA7RAC2	6487	(EKHARA), lith. Ausg. Benares 1923 (TH. AUFRECHT UND R. PI-AUCITY (ĀLAM̃KĀRA)) (R. PISCHEL). 
-Bydragen	6488	(tot de Taal-, Land-en Volkenkunde van Nederlandsch Indie) (H. KERN). 
-C2A7K	6489	(Kāśm. ) ist die von K. BURKHARD in den Sitzungsberichten der phil-hist. Klasse der Kais. Ak. d. Ww. in Wien, Bd. 107, veröffentlichte Kaśmirer Śakuntalā-Handschrift (C. CAPELLER). 
-C2UKAS	6490	(AM̃DEŚA) in Yournal of the Royal Asiatic Society of Great Britain & Ireland, Bd. XVI. 
-G4A7TAKAM	6491	(ĀLĀ), Hdschr. (H. KERN). 
-K4ANDRA7LOKA	6492	(R. PISCHEL). 
-KA7VJA7L	6493	(AM̃KĀRA des RUDRAṬA) (R. PISCHEL). 
-KSHEM	6494	(ENDRA'S KAVIKAṆṬĀBHARAṆA), herausgegeben von Y. SCHÖNBERG in den Sitzungsberichten der Phil-hist. Klasse der Kais. Ak. d. Ww. in Wien, Bd. 106 (C. CAPPELLER). 
-NIDA7NAS	6495	(ŪTRA) (A. WEBER). 
-PARAMA7RTHA	6496	(SĀRA) (TH. AUFRECHT). 
-RUDRAT2A7LAM5KA7RAT2	6497	(IPPAṆAKA, auch RUDRAṬAKĀVYĀLAM̃KĀRAṬ. genannt) (R. PISCHEL. ) 
-SAHR2DAJA7LOKA	6498	(R. PISCHEL). 
-SARASVATI7K	6499	(AṆṬHĀBHARAṆA), Calcutta 1883 (CAPPELLER). 
-SUBHA7SHITARATNABH	6500	(ĀṆḌĀGĀRA) (TH. AUFRECHT). 
-TATTVAK	6501	(AUMUDI) (H. Kern). 
-VA7GBH	6502	(AṬA'S ALAM̃KĀRA), Calcutta 1883 (CAPPELLER). 
-WEBER	6503	, (BHAG) (AVATI). 
+AINSLIE	2001	AINSLIE, Materi indica. London 1826. 
+A7NANDAL	2002	ĀNANDALAHARI in HAEBELIN's Anthologie. 
+BAUDH	2003	BAUDHĀYANA, nach Citaten in andern Werken. 
+BRAHMAVAIV.P	2004	BRAHMAVAIVARTAPURĀṆA. 
+BÜHLER,Rep.1872-73	2005	BÜHLER, Report on Sanskrit Mss. 1872--73. 
+C2A7NTIC2	2006	ŚĀNTIŚATAKA in HAEBERLIN'S Anthologie. 
+Cat.GUJAR	2007	A Catalogue of Sanskrit Manuscripts contained in the private libraries of GUYARĀT, KĀṬHIĀVĀD, KATCHCHH, SINDH and KHĀDE'S. Compeld unter the superintendence of G. BÜHLER (ROTH). 
+Cat.WILLMOT	2008	A Catalogue of Sanskrit Mss. existing in the central provinces, prepared by order of E. WILLMOT Esq. (ROTH). 
+C2I7LA7N5KA	2009	ŚĪLĀÑKA'S Commentar zum ĀCĀRĀÑGASŪTRA, Calcutta 1878 (YACOBI). 
+C2KDR	2010	ŚABDAKALPADRUMA. 
+C2OBH	2011	ŚOBHANAMUNI'S ŚOBHANASTUTAYAS in Z. d. d. m. G. 32, 509. fgg. (YACOBI). 
+C2RUT.(BR.)	2012	ŚRUTABODHA, Ausg. von BROCKHAUS. 
+CUNNINGHAM,Arch.Surv	2013	CUNNINGHAM, Archaeological Survey of India. 
+DAC2AK.(1925)	2014	DAŚAKUMĀRACARITA, Calcutta 1234 {#saMvatsarE#} (CAPPELLER). 
+DA7J	2015	DĀYABHĀGA, Calcutta 1829. 
+DEC2I7N	2016	HEMACNDRA'S DEŚINĀMĀLĀ, Hdschr. (PISCHEL). 
+DHU7RTAS	2017	wird von nun an nach der lithographirten Ausgabe von CAPPELLER citirt. 
+FÜHRER,BR2H	2018	Darstellung der Lehre von den Schriften in BṚHASPATI'S DHARMAŚĀSTRA. Inauguraldissertation von ALOIS ANTON FÜBER. 
+GAN2IT.BHAGRAH	2019	GAṆNITI, BHAGRAHAYUTYADHIKĀRA (KERN). 
+GAN2IT.KAKSH	2020	GAṆITA, KAKṢĀDHYĀYA (KERN). 
+GAN2IT.SPASHT2	2021	GAṆITA, SPAṢṬĀDHIKĀRA (KERN). 
+GA7R.UP	2022	GĀRUḌOPANIṢAD in der Bibl. ind. 
+G4AT2A7DH	2023	JAṬĀDHARA im ŚKDR. 
+GOLA7DHJ.BHUV	2024	GOLĀDHYĀYA, BHUVANAKOŚA (KERN). 
+GR2HJA7S	2025	GṚHYĀSAM̃GRAHA in der Bibl. ind. 
+HA7LA	2026	Citirt nach der neuen noch im Druck befindlichen Ausgabe von WEBER (CAPPELLER). 
+HAM5SOP	2027	HAM̃SOPANIṢAD in der Bibl. ind. (GELDNER). 
+HANUM.UP	2028	HANUMADUKTARĀMOPANIṢAD in der Bibl. ind. (GELDNER). 
+HARIV.LANGL	2029	LANGLOIS' Uebersetzung des Harivam̃śa. 
+HA7SJ	2030	wird von nun an nach der lithograph. Ausgabe von CAPPELLER citirt. 
+HEM.PAR	2031	HEMACANDRA'S PARIŚIṢṬAPARVAN, Hdschr. (YACOBI). 
+Ind.Str	2032	WEBER, Indische Streifen. 
+J.A.S.Beng	2033	Yournal of the Asiatic Society of Bengal. Part I. (History, Antiquities, &c. ). 
+JOGAC2.UP	2034	YOGAŚIKHOPANIṢAD in der Bibl. ind. (GELDNER). 
+K4AITANJ	2035	CAITANY. == CAITANYACANDRODAYA in der Bibl. ind. (PISCUEL). 
+KALPAS	2036	KALPASŪTRA, herausg. von H. YACOBI (YACOBI und KERN). 
+K4A7N2	2037	CĀṆAKYA in HAEBERLIN'S Anthologie. 
+KAP	2038	The Aphorisms of the Sankhya Philosophy, of KAPILA, Allahabad 1852. 
+KA7RAN2D2	2039	KĀRAṆḌAVYŪHA, Calcutta 1873(KERN). 
+KA7T	2040	KĀTANTRA, heraugsgegeben von EGGELING. 
+KA7T2H	2041	KĀṬHAKA Hdschr. (v. SCHRÖDER und WEBER). 
+KA7T2H.GR2HJ	2042	KĀṬHAKAGṚHYASŪTRA, Hdschr. (YOLLY). 
+KAP.S	2043	KAPIṢṬHALAKAṬHASAM̃HITA, Hdschr. (V. SCHRÖDER). 
+K4U7LIKOP	2044	CŪLIKOPANIṢAD in der Bibl. ind. (GELDNER). 
+VARA7H.LAGHUG4	2045	VARĀHAMIHIRA'S LAGHUJĀTAKA. 
+MAGAVJ	2046	Ueber zwei Parteischriften zu Gunsten der MAGA, resp. ŚĀKADVIPIYA BRĀHMANA. Von A. WEBER. 
+MAHA7C2	2047	MAHĀŚĀNTI, Hdschr. (ROTH). 
+MAITR.PADDH	2048	PADDHATI ZU MAITR. S. , Hdschr. (V. SCHRÖDER). 
+MA7N.C2R	2049	MĀNAVAŚRAUTASŪTRA, Hdschr. (V. SCHRÖDER). 
+MA7N2D2.UP	2050	MĀṆḌŪKYOPANIṢAD in der BIbl. ind. 
+MOLESW	2051	A Dictionary, Marāṭhi and English, compiled by Y. T. MOLESWORTH, Bombay 1857. 
+Mon.d.B.A	2052	Monatsberichte der Königlich Preussichen Akademie der Wissenschaften in Berlin. 
+NA7DAR.UP	2053	NĀDABINŪPANIṢAD in der Bibl. ind. (GELDNER). 
+NIGH	2054	YĀSKA'S NIRUKTA sammt den NIGHAṆṬAVAS, herausgegeben und erläutert von RUDOLPH ROTH. 
+NIRN2AJAS	2055	NIRṆAYASINDHU. 
+OPP.CAT	2056	List of Sanskrit Manuscripts in Private libraries of southern India. Compiled, arranged and indexed by GUSTAV OPPERT. 
+PAN4K4AT.ed.orn	2057	KOSEGARTEN, PANITSCHATANTRUM sive quinque partitum de moribus exponens. Pars secunda, textum sanscritum, ornatiorem tenens. 
+RA7G4AV	2058	RĀJAVALLABHA, nach Citaten ŚKDR. 
+SETUB	2059	SETUBANDHA, herausgegeben von SIEGFRIED GOLDSCHMIDT. 
+TAL.BR	2060	A legend from the TALAVAKĀRA or YAIMINIYA BRĀHMAṆA of the SĀMAVEDA by A. C. BURNELL, Mangalore 1878. 
+TEG4OB.UP	2061	TEJOBINDŪPANIṢAD in der Bibl. ind. (GELDNER). 
+VA7STUV	2062	VIŚVAKARMA'S VĀSTUVIDYĀ, Hdschr (KERN). 
+VIC2VA	2063	VIŚVAKOŚA (PISCHER). 
+VIVA7DAK4	2064	VIVĀDACINTĀMAṆI, Calcutta {#saMvat#} {#1234#} {#zAkE#} {#5678#} {#vaizakhE. #} 
+VIVEKAV	2065	VIVEKAVILĀSA im Yournal PRATNAKAMRANANDINI. 
+VOP	2066	VOPADEVA'S MUGDHABODHA, herausgegeben und erklärt von O. BÖHTLINGK. 
+WEBER,Lit	2067	Akademische Vorlesung über Indische Literaturgeschichte. Von ALBRECHT WEBER. Zweite vermehrte Auflage. 
+WILSON,Sel.Spec	2068	WILSON, Select Specimens of the Theatre of the Hindus. 
+APARA7RKA	3001	(YOLLY). 
+BHA7M	3002	BHĀMATĪ in der Bibl. ind. (STENZLER). 
+BR2HANM	3003	BṚHANMANU, nach Citaten in verschiedenen juristischen Büchern(YOLLY). 
+BR2HASP	3004	BṚHASPATI, nach Citaten in verschiedenen jurischen Büchern (YOLLY). 
+Cat.ALLAR	3005	A Catalogue of Sanscrit Manuscripts in Oudh (ROTH). 
+Cat.KIELH	3006	Cat. C. PR. 
+C2RUT	3007	ŚRUTABODHA in der Zeitschrift für die Kunde des Morgenlandes, Bd. IV. 
+C2UKRAN	3008	ŚUKRANĪTI in OPPERT, On the army organization of the Ancient Hindus S. 107 (WEBER). 
+DEVALA	3009	nach Citaten in verschiedenen juristischen Schriften (YOLLY). 
+DONNER,PIN2D2	3010	PIṆḌAPITṚYAYNA, von Dr. O. DONNER. Berlin. 1870. 
+EITEL,Chin.B	3011	Hand-Book for the student of Chinese Buddhism, by Rev. E. l. EITEL. London, 1870. 
+GAN2ITA,MADHJA7M(A7DHJA7JA)	3012	(KERN). 
+GOBH.C2RA7DDHAK	3013	GOBHILA'S ŚRĀDDHAKALPA in der Bibl. ind. 
+HAEB.Anth	3014	HAEBERLIN'S Anthology, Calcutta 1847. 
+HILLEBR.N	3015	HILLEBRANDT'S altindisches Neu- und Vollmondsopfer. 
+KA7D	3016	Die eingeklammerten Zahlen verweisen auf die Calc. Ausg. 1872. 
+KAIVALJOP	3017	KAIVALYOPANIṢAD in der Bibl. ind. 
+KAT2HOP	3018	in der Bibl. ind. 
+KA7TJ(A7JANA)	3019	nach Citaten in verschiedenen juristischen Werken(YOLLY). 
+KA7TJ.C2RA7DDHAK	3020	KĀTYĀYANA'S ŚRĀDDHAKALPASŪTRA (STENZLER). 
+K4AURAP	3021	CAURAPAŃCĀŚAT, herausgegeben von M. ARIEL im Yornal aistique, 4me serie, Bd. XI, S. 469. fgg. (CAPPELLER). 
+KUHN'S.Z	3022	Zeitschrift für vergleichende Sprachforschung anf dem Gebiete der indogermanischen Sprachen. 
+KUMA7RAS	3023	8. FGG. finde man im 1ten Bande Pandit und besonders herausgegeben von TĀRĀNĀTHA TARKAVĀCHASPATI, Calcutta 1868. 
+LIA	3024	LASSEN'S Indische Alterthunmskunde. 
+MBH.ed.Vardh	3025	ed. Vardh. ist die auf Kosten des Fürsten von Vardhamāna (Burdwan) gedruckte Ausg. des MAHABHĀRATA. Sie enthält nur die 12 ersten Parvan. 
+MEDHA7T	3026	MEDHĀTITHI, ein Scholiast des MANU (YOLLY). 
+MÜLLER,SL	3027	A History of Ancient Sanskrit Literature. By MAX MÜLLER. 1859. 
+MUN2D2.UP	3028	MUṆḌAKOPANIṢAD in der Bibl. ind. 
+OLD.Buddha	3029	Buddha-Buddha. Sein Leben, seine Lehre, seine Gemeinde. Von HERMANN OLDENBERG. Berlin 1881. 
+PRAG4A7PATI	3030	, nach Citaten in verschiendenen juristischen Werken (YOLLY). 
+PR.P	3031	PRACAṆḌAPĀṆḌAVA, EIN SCHAUSPIEL. HDSCHR. (CAPPELLER). 
+RA7MAPU7RVAT.UP	3032	RĀMAPŪRVATĀPANIYOPANIṢAD in der Bibl. ind. 
+RASAR	3033	RASARATNĀKARA, Calcutta 1878 (ROTH). 
+RASENDRAK4	3034	RASENDRACINTĀMAṆI Calcutta 1878 (ROTH). 
+SOMAKARMAPR	3035	SOMAKARMAPRADĪPA des RĀMA, Hdschr. (ROTH). 
+SUKHA7V	3036	SUVAPNACNTĀṆI (PISCHEL). 
+VAG4RAK4K4H	3037	VAJRACCHEDIKĀ, herausgegeben von (F. MAX MÜLLER). 
+VASISHT2HA	3038	nach der Ausg. von Benares (YOLLY). 
+VET.(U.)	3039	VETĀLAPAŃCA VIM̃ŚATIKĀ, herausgegeben von HEINRICH UHLE. 
+VJUTP	3040	VYUPATTI, ein Sanskrit-Tibetisches Wörterbuch aus dem TAŃJUR (SCHIEFNER). 
+VR2SHABH	3041	VṚṢADĀNUJA im 3ten und 4ten Bande des Pandit (CAPPELLER). 
+WEBER,RA7MAT	3042	WEBER'S Ausg. RĀMATĀPANIYOPANIṢAD. 
+WIND.SANC	3043	FRIDERICI HENR. HUG. WINDIṢMANNI SANCARA sive de theologumenis Vedanticorum. 
+BHA7M.V	3044	BHĀMINIVILĀSA, Ausg. von ABELBERGAIGNER(CAPPELLER. ) 
+C2AM5K.VIG4	4001	ŚAM̃KARAVIJAYA in der Bibl. ind. 
+CANTOR	4002	CANTOR, Geschichte der Mathematik (WINDISCH) . 
+GAN2ITA,GRAHAK4K4H	4003	(ĀYĀDHIKĀRA) (KERN) . 
+GAN2ITA,SU7RJAGR	4004	(AHAṆĀDHIKĀRA) (KERN) . 
+GOVARDH	4005	Govardhana's SAPTAŚATĪ (WEBER) . 
+KAN2T2HAC2R.UP	4006	KAṆṬHAŚRUTYUPANIṢAD in der Bibl. ind. 
+KIELHORN,Rep	4007	Report on the search for Sanskrit Mss. in the Bombay Presidency, during the year 1880-81. by F. KIELHORN(ROTH) . 
+LOKAPR	4008	(AKĀŚA) (YOLLY) . 
+PRATIG4N4A7S	4009	berausg. von A. WEBER. 
+RA7G4AN	4010	13 nach der Ausg. von R. GARBE. 
+SADDH.P	4011	SADDHARMAPUṆḌARĪKA (KERN) . 
+SVAPNAK4(INTA7MAN2I)	4012	(PISCHEL) . 
+VI7RAM	4013	VĪRAMITRODAYA, Khadirapura 1815(STENZLER) . 
+ALAM5KA7RAR	5001	(ATNĀKARA) des ŚOBHĀKARA, Deccan. Coll. Hdschr. No. 227 (PISCHER). 
+ALAM5KA7RAS	5002	(ARVASVA) von RUYYAKA, Deccan Coll. Hdschr. No. 231 (PISCHER). 
+ALAM5KA7RAT	5003	(ILAKA), Hdschr. (AUFRECHT). 
+ALAM5KA7RAV	5004	(IMARŚINĪ) von JAYARATHA, Deccan Coll. Hdschr. No. 230 (PISCHER). 
+ANARGHAR	5005	(ĀGHAVA), Calcutta Śaka 1782 (AUFRECHT). 
+ASAHA7JA	5006	, ein Commentator des NĀRADA (YOLLY). 
+BAUDH	5007	(mit Angaben der Abschnitte) nach Mittheilungen von BÜHLER. 
+Berl.Mon	5008	Monatsbericht der Königlich Preussischen Akademie der Wissenschaften zu Berlin. 
+BHADRAB	5009	(ĀHUCARITRA), herausgegeben von H. Y. YACOBI in Z. d. d. m. G. 38, 19. fgg. (YACOBI). 
+BHARAT2AKA	5010	(DVĀTRIM̃ŚIKĀ), Hdschr. (AUFRECHT). 
+BHAVISHJAP	5011	(URĀṆA) Hdschr. (AUFRECHT). 
+BHAVISHJOTT.P	5012	, auch nach Mittheilungen von AUFRECHT. 
+BURNELL,T	5013	Classified Index to the Sanskrit Mss. in the Palace of Tanjore. By A. C. BURNELL. 
+C2A7C2VATA	5014	ŚĀŚVATA'S ANEKĀRTHASAMUCCAYA, herausgegeben von THEODOR ZACHARIAE. 
+C2A7KTA7N	5015	(ANDATARAM̃GIṆI) Hdschr. (AUFRECHT). 
+C2A7RN5G	5016	PADDH. , auch nach Mittheilungen von AUFRECHT. 
+C2IVA-P	5017	(URĀṆA) (SK. , dschr. No. 126 in verzeichnis der Oxforder Handschriften (AUFRECHT). 
+C2RIMA7LA7M	5018	(ĀHĀTMYA), Hdschr. (AUFRECHT). 
+DARPAD	5019	(ALANA) von KṢEMENDRA, Hdschr. (AUFRECHT). 
+DATTAKAC2	5020	(IROMAṆI), Calcutta 1867 (YOLLY). 
+DEVI7BHA7G	5021	(AVATAPURĀṆA), Hdschr. (AUFRECHT). 
+DRAVJAC2	5022	(UDDHITATTVA), Hdschr. (AUFRECHT). 
+GAN2ITA,K4ANDRAGR	5023	(AHĀDHIKĀRA) (KERN). 
+HARSHAK4	5024	(1936), Bomb. Ausg. (KERN). 
+KA7C2I7KH	5025	(AṆḌA), HDSCHR. (AUFRECHT). 
+K4AMPAKA	5026	Ueber das CAMPAKAŚREṢṬHIKATHĀNAKAM, die Geschichte vom Kaufmann CAMPAKA. Herausgegeben von A. WEBER in Sitzungsberichte der Königlich Preussischen Akademie der Wissenschaften zu Berlin. Yahrgang 1883. S. 567. fgg. 885. fgg. Vgl. Mélanges asiatiques tirés du Bulletin de l'Académie Impériale des Sciences de St. Pétersbourg. Tome IX, S. 75. fgg. 
+KATHA7RN2AVA	5027	, Hdschr. (AUFRECHT). 
+KA7TJ.KARM	5028	(APRADĪPA) (STENZLER). 
+KA7TJ	5029	(ĀYANA'S) PARIBH (ĀṢĀS) IN 'Zwölf Hymnen des Rigveda, herausgegeben von ERNST WIDISCH'S. 169. fgg. 
+KA7VJA7L	5030	(OKALOCANA), Hdschr. (AUFRECHT). 
+KHAN2D2APR	5031	(AŚASTI) im Pandit, Bed. 5 und 6 (AUFRECHT). 
+K4HA7NDOGJAP	5032	(ARIŚIṢṬA) nach Citaten in andern Werken (AUFRECHT). 
+KULA7RN2AVA	5033	, Hdschr. (AUFRECHT). 
+LEUMANN,Aup.Gl	5034	Glossar in. , Das Aupapātika Sūtra, herausgegeben von Dr. ERNST LEUMANN. 
+MATSJAP	5035	(URĀṆA), Poona-Ausg. (AUFRECHT). 
+M.MÜLLER,Ren	5036	The Renaissanśe of Sanskrit Literature in M. MüLLER'S India what can it teach us? S. 281. fgg. Auch die vorangehenden Abschnitte werden so citirt. 
+NA7RADA	5037	(a. ) bezeichnet die ausführlichere Recension NĀRAD'S (YOLLY). 
+PADDH	5038	(ATI) zu MĀN (AVA) GṚHY (ASŪTRA), Hdschr. (v. BRADKE). 
+PADJA7VALI7	5039	, Hdschr. (AUFRECHT). 
+PA7RC2VAN	5040	(ĀTHAKĀVYA), Hdschr. (AUFRECHT). 
+PRA7JAC2K4ITTAV	5041	(IVEKA), Hdschr. (AUFRECHT). 
+PRAKRIJA7K	5042	Notices of Sanskrit Mss. by RĀYENDRALĀLA MITRA. 
+R2KT	5043	(ANTRA), herausgegeben von BURNELL (STENZLER). 
+SADUKTIK	5044	(ARṆĀMṚTA) von ŚRĪDHARADĀSA, Hdschr. (AUFRECHT). 
+SAM5KSHEPAC2	5045	(AM̃KARAJAYA) von MĀDHAVA (AUFRECHT). 
+SARASVATI7K	5046	(AṆṬHĀBHARAṆA), Hdschr. (AUFRECHT). 
+SCHIEFNER,TA7RAN	5047	TĀRĀNĀTHA'S Geschichte des Buddhismus in Indien, aus den Tibetschen übersetzt von ANTON SCHIEFNER. 
+SUBHA7SHITA7V	5048	(ALI) von VALLABHADEVA, Hdschr. (AUFRECHT). 
+UTTAMAK4	5049	Ueber das UTTAMACARIKATHĀNAKAM, die Geschichte vom prinzen Trefflichst in Sitzungsserichte der Kön der Kön. Pr. Akademie der Ww- zu Berlin 1884, No. XVII. 
+VA7MANAP	5050	(URĀṆA), Hdschr. (AUFRECHT). 
+VA7RA7HAP	5051	(URĀNA) , Hdschr. (YACOBI). 
+VASISHT2HA	5052	nach der Ausgabe von FüHRER, Bombay 1883. 
+VIKR.dra7v	5053	KĀLIDĀSA'S VIKRAMORVAŚĪYAM nach drāvidischen Handschriften, herausgegeben von RICHARD PISCHERD in. , Monatsbericht der Königlich Preussischen Akademie der Wissenschaften zu Berlin"1875, S. 609. fgg. 
+ZACH.Beitr	5054	Beiträge zur indischen Lexicographie von THEODOR ZACHARIAE. 
+Z.f.d.K.d.M	5055	Zeitschrift für die Kunde des Morgenlandes. 
+ALAM5KA7RAC2	6001	(EKHARA), lith. Ausg. Benares 1923 (TH. AUFRECHT UND R. PI-AUCITY (ĀLAM̃KĀRA)) (R. PISCHEL). 
+Bydragen	6002	(tot de Taal-, Land-en Volkenkunde van Nederlandsch Indie) (H. KERN). 
+C2A7K	6003	(Kāśm. ) ist die von K. BURKHARD in den Sitzungsberichten der phil-hist. Klasse der Kais. Ak. d. Ww. in Wien, Bd. 107, veröffentlichte Kaśmirer Śakuntalā-Handschrift (C. CAPELLER). 
+C2UKAS	6004	(AM̃DEŚA) in Yournal of the Royal Asiatic Society of Great Britain & Ireland, Bd. XVI. 
+G4A7TAKAM	6005	(ĀLĀ), Hdschr. (H. KERN). 
+K4ANDRA7LOKA	6006	(R. PISCHEL). 
+KA7VJA7L	6007	(AM̃KĀRA des RUDRAṬA) (R. PISCHEL). 
+KSHEM	6008	(ENDRA'S KAVIKAṆṬĀBHARAṆA), herausgegeben von Y. SCHÖNBERG in den Sitzungsberichten der Phil-hist. Klasse der Kais. Ak. d. Ww. in Wien, Bd. 106 (C. CAPPELLER). 
+NIDA7NAS	6009	(ŪTRA) (A. WEBER). 
+PARAMA7RTHA	6010	(SĀRA) (TH. AUFRECHT). 
+RUDRAT2A7LAM5KA7RAT2	6011	(IPPAṆAKA, auch RUDRAṬAKĀVYĀLAM̃KĀRAṬ. genannt) (R. PISCHEL. ) 
+SAHR2DAJA7LOKA	6012	(R. PISCHEL). 
+SARASVATI7K	6013	(AṆṬHĀBHARAṆA), Calcutta 1883 (CAPPELLER). 
+SUBHA7SHITARATNABH	6014	(ĀṆḌĀGĀRA) (TH. AUFRECHT). 
+TATTVAK	6015	(AUMUDI) (H. Kern). 
+VA7GBH	6016	(AṬA'S ALAM̃KĀRA), Calcutta 1883 (CAPPELLER). 
+WEBER	6017	, (BHAG) (AVATI). 
+DAMAJANTI7K	X001	?
+UTPALA	X002	?
+C2A7N5KH.A7R	X003	?
+NR2S.TA7P.UP	X004	?
+R2SHIMAN2D2ALASTOTRA	X005	?
+C2A7N5KH	X006	?
+ed.Bomb	X007	?
+MALLIN	X008	?
+Nachträge	X009	?
+SCHRÖDER	X010	?
+KUMA7RILA	X011	?
+SIDDH.K.ed.TA7R	X012	?
+WHITNEY	X013	?
+K4AN2D2IDA7SA	X014	?
+AUFRECHT	X015	?
+KA7D.ed.Bomb	X016	?
+C2U7DRADH	X017	?
+KAMALA7KARA	X018	?
+PANDIT	X019	?
+DRAVJAV	X020	?
+PAN4K4AT.ed.Bomb	X021	?
+R.GORR	X022	?
+R.ed.GORR	X023	?
+R.ed.Bomb	X024	?
+R.Schl	X025	?
+BHA7G.P.ed.Bomb	X026	?
+A7PAST.GAUT	X027	?
+A7PAST.GR2HJ	X028	?
+ZIMMER	X029	?
+ZACH	X030	?
+VARDHAMA7NAK4	X031	?
+C2AM5K.zu.BA7DAR	X032	?
+K4AKR.zu.SUC2R	X033	?
+VAIDJAKA	X034	?
+SIDDH.K	X035	?
+SATJA	X036	?
+VJA7SA	X037	?
+BHAR	X038	?
+KERN	X039	?
+TANTRAS	X040	?
+MANU	X041	?
+WEBER,RA7MAT.Up	X042	?
+ZIMMER,Altind.Leben	X043	?
+HALL	X044	?
+HEM.JOGAC2	X045	?
+HEM.Pr.Gr	X046	?
+C2A7J(PISCH.)	X047	?
+JOGAJ	X048	?
+KA7VJA7D	X049	?
+KAUTUKAS	X050	?
+NAIGH	X051	?
+PAT	X052	?
+KUHN	X053	?
+KUHN'S.Beitr	X054	?
+VISHN2U	X055	?
+BHA7G.P.ed.BURN	X056	?
+STENZLER	X057	?
+BAUDH.GR2HJ.PARIC2	X058	?
+BENFEY	X059	?
+SATUA	X060	?
+MBH.ed.Bomb	X061	?
+M.MÜLLER	X062	?
+BURNOUF	X063	?
+K4ARAKA.ed.Calc	X064	?
+MBH.ed.Calc	X065	?
+RA7G4AT.ed.Calc	X066	?
+HEM.Pr.Gr.ed.PISCHEL	X067	?
+TBR.Comm	X068	?
+KA7LIDA7SA	X069	?
+WILSON,SA7M5KHJAK	X070	?
+WILSON	X071	?
+DAC2AK.ed.WILSON	X072	?
+DA7RILA	X073	?
+RAGH.ed.Calc	X074	?
+DHU7RTAS.ed.Calc	X075	?
+MA7LAV.ed.BOLL	X076	?
+TAITT.PRA7T	X077	?
+BRA7HMAN2A	X078	?
+UPALEKHA	X079	?
+GELDNER	X080	?
+BR2HASPATI	X081	?
+WHITNEY,Ind	X082	?
+SMR2TIM	X083	?
+D.P	X084	?
+BHA7RADVA7G4A	X085	?
+DURGA.zu.NIR	X086	?
+MAHA7N	X087	?
+KA7N2VA-REC	X088	?
+C2A7K.PISCH	X089	?
+WRIGHT,Hist.of.Nep	X090	?
+MUIR.ST	X091	?
+HEDRI	X092	?
+PADMAP	X093	?
+PATAN4G4ALI	X094	?
+KA7C2JAPA	X095	?
+DELBRÜCK	X096	?
+TAWNEY	X097	?
+C.H.TAWNEY	X098	?
+JAVANEC2VARA	X099	?
+HULTZSCH	X100	?
+VR2TTARATNA7KARA	X101	?
+KAIJ	X102	?
+MED.g4	X103	?
+BHARATA	X104	?
+GARBE	X105	?
+I7C2OP	X106	?
+VRATARA7G4A	X107	?
+MA7DHAVI7JADHA7TUVR2TTI	X108	?
+BHA7G	X109	?
+AC2VAV	X110	?
+C2A7K.CH	X111	?
+ANTJESHT2IK	X112	?
+RUDRAJA7MALA	X113	?
+COLEBR.MISC.Ess	X114	?
+RA7JENDR.Not	X115	?
+ROTH	X116	?
+KA7TJ.C2R.PADDH	X117	?
+HARADATTA	X118	?
+DRAUP	X119	?
+Sch	X120	?
+MALLIKA7MA7RUTA	X121	?
+VIG4N4A7NEC2VARA	X122	?
+SUD	X123	?
+KA7TANTRA	X124	?
+BRA7HMAN2	X125	?
+K4HANDOGAPARIC2	X126	?
+C2IKSHA7	X127	?
+RA7M.RA7S	X128	?
+PUSHPADANTA	X129	?
+PARAMAHAM5SOP	X130	?
+AV.PADDH	X131	?
+OPPERT	X132	?
+KNAUER	X133	?
+AV.PRA7T	X134	?
+K4HANDOGOPARIC2	X135	?
+R.ed.SCHL	X136	?
+AUPAMANJAVA	X137	?
+JAC2NA	X138	?
+DURGA	X139	?
+JACOBI	X140	?
+R2GVIDHA7NA	X141	?
+BHA7GURI	X142	?
+SUBHA7SHITARATNABH.PRAK	X143	?
+SIDDH.K.ed.TA7RA7N	X144	?
+R2V.ed.M	X145	?
+A7NANDAGIRI	X146	?
+C2AM5KARA	X147	?
+LALLA	X148	?
+VIVEK	X149	?
+JOLLY	X150	?
+MAD	X151	?
+HIRAN2JAKEC2IN	X152	?
+ATHARVAC2IKHOP	X153	?
+UVAT2A	X154	?
+FOUCAUX	X155	?
+PETERSON	X156	?
+MA7LATI7M.ed.Bomb	X157	?
+DURGA7DA7SA.zu.VOP	X158	?
+RUDOLF_MEYER	X159	?
+KAP.(BALL.)	X160	?
+VEDA7NTASA7RA	X161	?
+KHILA	X162	?
+GARGA	X163	?
+K4AURAP.(A.)	X164	?
+GAN2.BHAGRAHAJ	X165	?
+ANUPADAS	X166	?
+C2A7K.(PISCH)	X167	?
+NERIOSENGH	X168	?
+KIELHORN	X169	?
+BÜHLER	X170	?
+HARSHAK4.(C2aka_1936)	X171	?
+Kön.Pr.Ak	X172	?
+K4KRADATTA	X173	?
+SCHÖNBERG,KSHEM	X174	?
+SCHÖNBERG,KSH	X175	?
+PULASTJA	X176	?
+GAN2IT.KAKSHA7DH	X177	?
+SA7MA7NJAN	X178	?
+SPEYER	X179	?
+Mel.asiat	X180	?
+RICE	X181	?
+G4AIMINI	X182	?
+PAN4K4AT.ed.KOSEG	X183	?
+NALOD	X184	?
+MAHA7VASTU.ed.SENART	X185	?
+MAHA7VASTU	X186	?
+VIKR.ed.PISCH	X187	?
+VIKR.ed.BOLL	X188	?
+C2A7K.ed.PISCH	X189	?
+VI7RAMITROD	X190	?
+PA7N2INI	X191	?
+AV.G4JOTISHA	X192	?
+AV.ANUKR	X193	?
+VA7SISHT2HA	X194	?
+RA7MADA7SA	X195	?
+PARA7C2ARA	X196	?
+ATHARVAPADDH	X197	?
+VIG4N4	X198	?
+HODGSON,Ess	X199	?
+HODGSON,Essays	X200	?
+MAN2IMA7LA7	X201	?
+JACOBI,KALPAS	X202	?
+WASSILIEW,der.Buddh	X203	?
+Ind	X204	?
+VISHN2UK4ANDRA	X205	?
+MAN2ITTHA	X206	?
+BHAR.NA7T2JAC2	X207	?
+KIELH.Rep.(1881)	X208	?
+G.GORR	X209	?
+PARIBHA7SHENDUC2EKHARA	X210	?
+GAN2IT.GRAHA7N	X211	?
+PISCHEL	X212	?
+AV.PAR	X213	?
+VALL	X214	?
+JA7SKA	X215	?
+UPAVANAVINODA	X216	?
+HARSHAK4.ed.Bomb	X217	?
+ST.JULIEN	X218	?
+Verz.d.Pet.H	X219	?
+KAIJAT2A	X220	?
+RA7GA	X221	?
+NÖLDEKE	X222	?
+MBH.ed.Vardham	X223	?
+HA7RI7TA	X224	?
+GRASSMANN	X225	?
+DHANURV	X226	?
+PADMA-P	X227	?
+SHAD2GURUC2ISHJA	X228	?
+VIG4N5A7NEC2VARA	X229	?
+JOLLY,Tagore_Law_Lecture	X230	?
+NIRGHAN2T2U	X231	?
+CSOMA	X232	?
+VARISHT2HA	X233	?
+GILD	X234	?
+MA7HABH	X235	?
+K4ANDRAGRAH	X236	?
+C2A7K.ed.PREMAK4	X237	?
+TRIVIKRAMA	X238	?
+BURNELL	X239	?
+PAN4K4A7C2IKA7(ed.SOLF)	X240	?
+GR2HJA7S.(ed.BLOOMFIELD)	X241	?
+BLOOMFIELD	X242	?
+KAHI7RASV	X243	?
+MA7DHAVI7JADHA7T	X244	?
+VIT2T2HALA	X245	?
+SA7DHANAM	X246	?
+Verz.d.Cambr.H	X247	?
+VARA7H	X248	?
+UTPALINI7	X249	?
+EGGELING	X250	?
+WHITNEY,Gr	X251	?
+C2U7LAPA7N2I7	X252	?
+PRA7JAC2K4ITTAVIVEKA	X253	?
+MA7N2D2AVJA	X254	?
+HIOUEN-THSANG	X255	?
+WASSILJEW	X256	?
+MADHUS	X257	?
+G4JOT	X258	?
+ANUPADA	X259	?
+VA7D2I	X260	?
+VIG4AJAGAN2I7	X261	?
+Sa7g	X262	?
+TANTRASA7RA	X263	?
+GAN2IT.PARVASAM5BH	X264	?
+LANMAN	X265	?
+VARARUK4I	X266	?
+VA7GBHAT2A	X267	?
+MA7NAVA	X268	?
+VIC2VAPR	X269	?
+P.W	X270	?
+JANTRA7DHJ	X271	?
+RA7JAM	X272	?
+PAIT2HI7NASI	X273	?
+COWELL	X274	?
+PV.PRA7T	X275	?
+NR2S.UP.(Bibl.ind.)	X276	?
+ARG4	X277	?
+RUDRAT2A,KA7VJA7LAM5KA7RA	X278	?
+PARA7C2ARASMR2TI	X279	?
+MAC2	X280	?
+SA7MAVIDH.BR	X281	?
+BHA7G.ed.Bomb	X282	?
+BH	X283	?
+K4AKRADATTA	X284	?
+KLUGE	X285	?
+Wiener.Ak	X286	?
+VI7RAMITRODAJA	X287	?
