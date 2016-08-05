@@ -25,6 +25,8 @@ def convertrecs(recs,tranin,tranout):
    m = re.search(r'[a-zA-Z][1-9]',rec.abbrvunicode + " " + rec.titleunicode )
    if m:
     print "TRANSCODER WARNING: ",m.group(0).encode('utf-8')
+   # Undo some transcodings
+   rec.titleunicode = re.sub(r'YOLLY','JOLLY',rec.titleunicode)  # JOLLY is an author
   except:
    print "convertrecs problem",n,rec.line.encode('utf-8')
    #exit(1)

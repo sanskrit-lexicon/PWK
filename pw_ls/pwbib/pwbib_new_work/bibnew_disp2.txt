@@ -26,16 +26,16 @@ AitBr.  (MW) :  aitareya-brāhmaṇa  (Title)
 AitUp.  (MW) :  aitareya-upaniṣad  (Title) 
 AK  (id=008, PW-v1 , count=49) : AMARAKOŚA, Ausg. von LOISELEUR DESLONGCHAMPS.  
 A7K4A7RA7DARC2A  (id=009, PW-v1 , count=2) : , Benares 1921 (STENZLER).  
-ALAM5KA7RAC2  (id=487, PW-v6 , count=3) : (EKHARA), lith. Ausg. Benares 1923 (TH. AUFRECHT UND R. PI-AUCITY (ĀLAM̃KĀRA)) (R. PISCHEL).  
+ALAM5KA7RAC2  (id=487, PW-v6 , count=3) : ALAM̃KĀRAŚEKHARA, lith. Ausg. Benares 1923 (TH. AUFRECHT UND R. PI-AUCITY (ĀLAM̃KĀRA)) (R. PISCHEL).  
 Alam2ka1rak.  (MW) :  alaṁkārakaustubha  (Title) 
-ALAM5KA7RAR  (id=432, PW-v5 , count=0) : (ATNĀKARA) des ŚOBHĀKARA, Deccan. Coll. Hdschr. No. 227 (PISCHER).  
+ALAM5KA7RAR  (id=432, PW-v5 , count=0) : ALAM̃KĀRARATNĀKARA des ŚOBHĀKARA, Deccan. Coll. Hdschr. No. 227 (PISCHER).  
 Alam2ka1rar.  (MW) :  alaṁkāravimarśinī , by  jayaratha  (Title) 
-ALAM5KA7RAS  (id=433, PW-v5 , count=0) : (ARVASVA) von RUYYAKA, Deccan Coll. Hdschr. No. 231 (PISCHER).  
+ALAM5KA7RAS  (id=433, PW-v5 , count=0) : ALAM̃KĀRASARVASVA von RUYYAKA, Deccan Coll. Hdschr. No. 231 (PISCHER).  
 Alam2ka1ras.  (MW) :  alaṁkāraśekhara , by  keśava-miśra  (Title) 
 Alam2ka1ras3.  (MW) :  alaṁkāraśekhara , by  keśava-miśra  (Title) 
-ALAM5KA7RAT  (id=434, PW-v5 , count=5) : (ILAKA), Hdschr. (AUFRECHT).  
+ALAM5KA7RAT  (id=434, PW-v5 , count=5) : ALAM̃KĀRATILAKA, Hdschr. (AUFRECHT).  
 Alam2ka1rat.  (MW) :  alaṁkāratilaka  (Title) 
-ALAM5KA7RAV  (id=435, PW-v5 , count=1) : (IMARŚINĪ) von JAYARATHA, Deccan Coll. Hdschr. No. 230 (PISCHER).  
+ALAM5KA7RAV  (id=435, PW-v5 , count=1) : ALAM̃KĀRAVIMARŚINĪ von JAYARATHA, Deccan Coll. Hdschr. No. 230 (PISCHER).  
 Alam2ka1rav.  (MW) :  alaṁkāravimarśinī , by  jayaratha  (Title) 
 Amar.  (MW) :  amaru-śataka  (Title) 
 Amr2itabUp.  (MW) :  amṛtabindu-upaniṣad  (Title) 
@@ -50,7 +50,7 @@ A7NANDAG  (id=011, PW-v1 , count=2) : ĀNANDAGIRI, Glossator zu ŚAM̃KARĀCĀRY
 A7NANDAL  (id=308, PW-v2 , count=2) : ĀNANDALAHARI in HAEBELIN's Anthologie.  
 Anan3gar.  (MW) :  anaṅgaraṅga  (Title) 
 Anargh.  (MW) :  anargharāghava  (Title) 
-ANARGHAR  (id=436, PW-v5 , count=16) : (ĀGHAVA), Calcutta Śaka 1782 (AUFRECHT).  
+ANARGHAR  (id=436, PW-v5 , count=16) : ANARGHARĀGHAVA, Calcutta Śaka 1782 (AUFRECHT).  
 Anarghar.  (MW) :  anargharāghava  (Title) 
 AnSam2h.  (MW) :  ananta-saṁhitā  (Title) 
  
@@ -69,7 +69,7 @@ Anup.  (MW) :  anupada-sūtra  (Title)
     instances = atIrTa,2185;vAla,101205;halezA,134034;hiraRyakfzRala,134790
 
 A1p.  (MW) :  āpastamba-dharma-sūtra  (Title) 
-APARA7RKA  (id=375, PW-v3 , count=3) : (YOLLY).  
+APARA7RKA  (id=375, PW-v3 , count=3) : APARĀRKA (JOLLY).  
 AParis3.  (MW) :  atharva-veda-pariśiṣṭa  (Title) 
 A7PAST  (id=013, PW-v1 , count=975) : ĀPASTAMBA'S DHARMASŪTRA, Ausg. von BÜHLER.  
 A1past.  (MW) :  āpastamba  (Author) 
@@ -101,7 +101,7 @@ A1run2Up.  (MW) :  āruṇeya-upaniṣad  (Title)
 A1ryabh.  (MW) :  āryabhaṭa  (Author) 
 A1ryav.  (MW) :  āryavidyā-sudhākara  (Title) 
 Aryav.  (MW) :  āryavidyā-sudhākara  (Title) 
-ASAHA7JA  (id=437, PW-v5 , count=4) : , ein Commentator des NĀRADA (YOLLY).  
+ASAHA7JA  (id=437, PW-v5 , count=4) : ASAHĀYA , ein Commentator des NĀRADA (JOLLY).  
 Asht2a1n3g.  (MW) :  aṣṭāṅga-hṛdaya  (Title) 
 Asht2a7n3g.  (MW) :  aṣṭāṅga-hṛdaya  (Title) 
 Asht2a1v.  (MW) :  aṣṭāvakra-saṁhitā  (Title) 
@@ -169,7 +169,7 @@ Ba1l.  (MW) :  bālarāmāyaṇa  (Title)
 BA7LAR  (id=027, PW-v1 , count=1195) : BĀLARĀMĀYAṆA, Benares 1869 (KERN).  
 Ba1lar.  (MW) :  bālarāmāyaṇa  (Title) 
 BAUDH  (id=309, PW-v2 , count=119) : BAUDHĀYANA, nach Citaten in andern Werken.  
-BAUDH  (id=438, PW-v5 , count=0) : (mit Angaben der Abschnitte) nach Mittheilungen von BÜHLER.  
+BAUDH  (id=438, PW-v5 , count=0) : BAUDH. (mit Angaben der Abschnitte) nach Mittheilungen von BÜHLER.  
 Baudh.  (MW) :  baudhāyana-dharma-śāstra  (Title) 
  
   * BAUDH.GR2HJ.PARIC2  (id=561, new , count=1) : title=? 
@@ -188,7 +188,7 @@ Berl.Mon  (id=439, PW-v5 , count=1) : Monatsbericht der Königlich Preussischen 
     instances = vaNKara,97336
 
 Bh.  (MW) :  bhāgavata-purāṇa  (Title) 
-BHADRAB  (id=440, PW-v5 , count=35) : (ĀHUCARITRA), herausgegeben von H. Y. YACOBI in Z. d. d. m. G. 38, 19. fgg. (YACOBI).  
+BHADRAB  (id=440, PW-v5 , count=35) : BHADRABĀHUCARITRA, herausgegeben von H. Y. YACOBI in Z. d. d. m. G. 38, 19. fgg. (YACOBI).  
 Bhadrab.  (MW) :  bhadrabāhu-caritra  (Title) 
 BHAG  (id=030, PW-v1 , count=70) : BHAGAVADGITĀ, Ausg. von SCHLEGEL.  
  
@@ -238,7 +238,7 @@ Bharat2.  (MW) :  bharaṭaka-dvātriṁśikā  (Title)
   * BHARATA  (id=607, new , count=3) : title=? 
     instances = mUrC,87878;mUrCana,87879;sarpaSiras,121620
 
-BHARAT2AKA  (id=441, PW-v5 , count=1) : (DVĀTRIM̃ŚIKĀ), Hdschr. (AUFRECHT).  
+BHARAT2AKA  (id=441, PW-v5 , count=1) : BHARAṬAKADVĀTRIM̃ŚIKĀ, Hdschr. (AUFRECHT).  
 Bhartr2.  (MW) :  bhartṛhari  (Author) 
 BHA7SHA7P  (id=033, PW-v1 , count=7) : BHĀṢĀPARICCHEDA in der Bibl. ind.  
 Bha1sha1p.  (MW) :  bhāṣāpariccheda  (Title) 
@@ -246,9 +246,9 @@ Bha1shik.  (MW) :  bhāśika-sūtra  (Title)
 BHAT2T2  (id=034, PW-v1 , count=377) : BHAṬṬIKĀVYA, Calcutta 1828.  
 Bhat2t2.  (MW) :  bhaṭṭi-kāvya  (Title) 
 BHA7VAPR  (id=035, PW-v1 , count=1644) : BHĀVAPRAKĀŚA, Calcutta 1875 und Hdschr. (ROTH).  
-BHAVISHJAP  (id=442, PW-v5 , count=1) : (URĀṆA) Hdschr. (AUFRECHT).  
+BHAVISHJAP  (id=442, PW-v5 , count=1) : BHAVIṢYAPURĀṆA Hdschr. (AUFRECHT).  
 BHAVISHJOTT.P  (id=036, PW-v1 , count=2) : BHAVIṢYOTTARAPURĀṆA nach Citaten in andern Werken.  
-BHAVISHJOTT.P  (id=443, PW-v5 , count=0) : , auch nach Mittheilungen von AUFRECHT.  
+BHAVISHJOTT.P  (id=443, PW-v5 , count=0) : BHAVIṢYOTT.P. , auch nach Mittheilungen von AUFRECHT.  
 BhavP.  (MW) :  bhaviṣya-purāṇa ,  khaṇḍa  1 & 2-  bhaviṣya-purāṇa  &  bhaviṣyottara-purāṇa  (Title) 
 BHOG4A-K4AR  (id=037, PW-v1 , count=2) : BHOJACARITRA, Madras 1862 (STENZLER).  
 BHOG4A-PR  (id=038, PW-v1 , count=28) : BHOJAPRABANDHA, Benares 1925(KERN).  
@@ -292,8 +292,8 @@ Br2A1rUp.  (MW) :  bṛhad-āraṇyaka-upaniṣad  (Title)
 BRD.  (MW) : Boehtlingk & Roth's Sanskrit-Woerterbuch (Title) 
 BR2H.A7R.UP  (id=046, PW-v1 , count=24) : BṚHADĀRAṆYAKOPANIṢAD in der Bibl. ind.  
 BR2HADD  (id=045, PW-v1 , count=6) : BṚHADDEVATĀ.  
-BR2HANM  (id=377, PW-v3 , count=1) : BṚHANMANU, nach Citaten in verschiedenen juristischen Büchern(YOLLY).  
-BR2HASP  (id=378, PW-v3 , count=2) : BṚHASPATI, nach Citaten in verschiedenen jurischen Büchern (YOLLY).  
+BR2HANM  (id=377, PW-v3 , count=1) : BṚHANMANU, nach Citaten in verschiedenen juristischen Büchern(JOLLY).  
+BR2HASP  (id=378, PW-v3 , count=2) : BṚHASPATI, nach Citaten in verschiedenen jurischen Büchern (JOLLY).  
  
   * BR2HASPATI  (id=584, new , count=1) : title=? 
     instances = yogakzemavant,91320
@@ -311,7 +311,7 @@ BURNELL,T  (id=444, PW-v5 , count=983) : Classified Index to the Sanskrit Mss. i
   * BURNOUF  (id=566, new , count=6) : title=? 
     instances = pad,62713;par,63141;pratyaMSa,71825;bahUdana,76566;yajYahotar,89611;var,98342
 
-Bydragen  (id=488, PW-v6 , count=0) : (tot de Taal-, Land-en Volkenkunde van Nederlandsch Indie) (H. KERN).  
+Bydragen  (id=488, PW-v6 , count=0) : Bydragen (tot de Taal-, Land-en Volkenkunde van Nederlandsch Indie) (H. KERN).  
 BÜHL.GUZ  (id=048, PW-v1 , count=5) : Catalogue of S. Mss. fromm Guzerat etc. by G. BÜHLER. Bombay 1871-1873 (ROTH).  
  
   * BÜHLER  (id=673, new , count=19) : title=? 
@@ -330,7 +330,7 @@ C2A7C2VATA  (id=445, PW-v5 , count=51) : ŚĀŚVATA'S ANEKĀRTHASAMUCCAYA, herau
     instances = parihara,64437
 
 C2A7K  (id=051, PW-v1 , count=161) : ŚĀKUNTALA, Ausg. von BÖHTLINGK, wenn nicht ausdrücklich PISCH. (PISCHEL) oder PRAMAC. (PREMACANDRA) hinzugefügt wird.  
-C2A7K  (id=489, PW-v6 , count=0) : (Kāśm. ) ist die von K. BURKHARD in den Sitzungsberichten der phil-hist. Klasse der Kais. Ak. d. Ww. in Wien, Bd. 107, veröffentlichte Kaśmirer Śakuntalā-Handschrift (C. CAPELLER).  
+C2A7K  (id=489, PW-v6 , count=0) : ŚĀK.Kāśm.  ist die von K. BURKHARD in den Sitzungsberichten der phil-hist. Klasse der Kais. Ak. d. Ww. in Wien, Bd. 107, veröffentlichte Kaśmirer Śakuntalā-Handschrift (C. CAPELLER).  
  
   * C2A7K.(PISCH)  (id=670, new , count=1) : title=? 
     instances = ekarasa,21896
@@ -351,7 +351,7 @@ C2A7K  (id=489, PW-v6 , count=0) : (Kāśm. ) ist die von K. BURKHARD in den Sit
   * C2A7K.PISCH  (id=592, new , count=3) : title=? 
     instances = duHKaBAgin,50787;niravalambana,58957;svEra,133244
 
-C2A7KTA7N  (id=446, PW-v5 , count=2) : (ANDATARAM̃GIṆI) Hdschr. (AUFRECHT).  
+C2A7KTA7N  (id=446, PW-v5 , count=2) : ŚĀKTĀNANDATARAM̃GIṆI Hdschr. (AUFRECHT).  
 C2AM5K  (id=052, PW-v1 , count=111) : ŚAM̃KARĀCĀRYA als Commentator verchiedener UPANIṢAD.  
 C2AM5K.VIG4  (id=419, PW-v4 , count=2) : ŚAM̃KARAVIJAYA in der Bibl. ind.  
  
@@ -382,7 +382,7 @@ C2A7NTIC2  (id=312, PW-v2 , count=1) : ŚĀNTIŚATAKA in HAEBERLIN'S Anthologie.
 CANTOR  (id=420, PW-v4 , count=1) : CANTOR, Geschichte der Mathematik (WINDISCH) .  
 Car.  (MW) :  caraka  (Author) 
 Caran2.  (MW) :  caraṇa-vyūha  (Title) 
-C2A7RN5G  (id=447, PW-v5 , count=2) : PADDH. , auch nach Mittheilungen von AUFRECHT.  
+C2A7RN5G  (id=447, PW-v5 , count=2) : ŚĀRÑG. PADDH. , auch nach Mittheilungen von AUFRECHT.  
 C2A7RN5G.PADDH  (id=058, PW-v1 , count=6) : ŚĀRÑGADHARA'S PADDHATI, Hdschr. im Asiatischen Museum der Kais. Ak. d. Ww. in St. petersbug.  
 C2A7RN5G.SAM5H  (id=059, PW-v1 , count=38) : ŚĀRÑGADHARA'S SAM̃HITĀ, Bombay 1853 (ROTH).  
 Cat.  (MW) : Catalogue(s) (Title) 
@@ -408,7 +408,7 @@ C2IC2  (id=066, PW-v1 , count=1153) : ŚIŚUPĀLAVADHA, Calcutta 1815.
 
 C2I7LA7N5KA  (id=315, PW-v2 , count=42) : ŚĪLĀÑKA'S Commentar zum ĀCĀRĀÑGASŪTRA, Calcutta 1878 (YACOBI).  
 C2IRA-UP  (id=067, PW-v1 , count=8) : ŚIRAUPANIṢAD in der Bibl. ind. (GELDNER und ROTH).  
-C2IVA-P  (id=448, PW-v5 , count=3) : (URĀṆA) (SK. , dschr. No. 126 in verzeichnis der Oxforder Handschriften (AUFRECHT).  
+C2IVA-P  (id=448, PW-v5 , count=3) : ŚIVA-PURĀṆA (SK. , dschr. No. 126 in verzeichnis der Oxforder Handschriften (AUFRECHT).  
 C2KDR  (id=316, PW-v2 , count=15) : ŚABDAKALPADRUMA.  
 C2OBH  (id=317, PW-v2 , count=0) : ŚOBHANAMUNI'S ŚOBHANASTUTAYAS in Z. d. d. m. G. 32, 509. fgg. (YACOBI).  
 Col.  (MW) : Colebrooke (Author) 
@@ -423,7 +423,7 @@ COLEBR.Misc.Ess  (id=069, PW-v1 , count=4) : Miscellaneous Essays by H. T. COLEB
   * COWELL  (id=777, new , count=2) : title=? 
     instances = vAyubIja,100787;vAribIja,100974
 
-C2RIMA7LA7M  (id=449, PW-v5 , count=0) : (ĀHĀTMYA), Hdschr. (AUFRECHT).  
+C2RIMA7LA7M  (id=449, PW-v5 , count=0) : ŚRIMĀLĀMĀHĀTMYA, Hdschr. (AUFRECHT).  
 C2RI7P  (id=070, PW-v1 , count=2) : ŚRĪPATI.  
 C2RUT  (id=381, PW-v3 , count=8) : ŚRUTABODHA in der Zeitschrift für die Kunde des Morgenlandes, Bd. IV.  
 C2RUT.(BR.)  (id=318, PW-v2 , count=3) : ŚRUTABODHA, Ausg. von BROCKHAUS.  
@@ -435,7 +435,7 @@ C2RUT.(BR.)  (id=318, PW-v2 , count=3) : ŚRUTABODHA, Ausg. von BROCKHAUS.
   * C2U7DRADH  (id=520, new , count=1) : title=? 
     instances = sakIla,117241
 
-C2UKAS  (id=490, PW-v6 , count=20) : (AM̃DEŚA) in Yournal of the Royal Asiatic Society of Great Britain & Ireland, Bd. XVI.  
+C2UKAS  (id=490, PW-v6 , count=20) : ŚUKASAM̃DEŚA in Yournal of the Royal Asiatic Society of Great Britain & Ireland, Bd. XVI.  
 C2UKRAN  (id=382, PW-v3 , count=4) : ŚUKRANĪTI in OPPERT, On the army organization of the Ancient Hindus S. 107 (WEBER).  
  
   * C2U7LAPA7N2I7  (id=755, new , count=1) : title=? 
@@ -467,12 +467,12 @@ DA7J  (id=321, PW-v2 , count=1) : DĀYABHĀGA, Calcutta 1829.
   * DA7RILA  (id=576, new , count=6) : title=? 
     instances = Sepya,114069;samAseka,120483;saMpAtay,120914;suvarcala,127810;skanDamaRi,130276;sraktya,131822
 
-DARPAD  (id=450, PW-v5 , count=1) : (ALANA) von KṢEMENDRA, Hdschr. (AUFRECHT).  
+DARPAD  (id=450, PW-v5 , count=1) : DARPADALANA von KṢEMENDRA, Hdschr. (AUFRECHT).  
 Das3.  (MW) :  daśakumāra-carita  (Title) 
 Da1s3.  (MW) :  daśakumāra-carita  (Title) 
 Das3ar.  (MW) :  daśarūpa  (Title) 
 Da1t2ha1dh.  (MW) :  dāṭhādhātu-vaṁśa  (Title) 
-DATTAKAC2  (id=451, PW-v5 , count=1) : (IROMAṆI), Calcutta 1867 (YOLLY).  
+DATTAKAC2  (id=451, PW-v5 , count=1) : DATTAKAŚIROMAṆI, Calcutta 1867 (JOLLY).  
 Dattakac.  (MW) :  dattakacandrikā  (Title) 
 Da1yabh.  (MW) :  dāyabhāga  (Title) 
 Da1yakramas.  (MW) :  dāya-krama-saṁgraha  (Title) 
@@ -484,9 +484,9 @@ DEC2I7N  (id=322, PW-v2 , count=67) : HEMACNDRA'S DEŚINĀMĀLĀ, Hdschr. (PISCH
 
 Des3i1n.  (MW) :  deśī-nāma-mālā  (Title) 
 Dev.  (MW) :  devī-māhātmya  (Title) 
-DEVALA  (id=383, PW-v3 , count=2) : nach Citaten in verschiedenen juristischen Schriften (YOLLY).  
+DEVALA  (id=383, PW-v3 , count=2) : DEVALA nach Citaten in verschiedenen juristischen Schriften (JOLLY).  
 DEVATA7DHJ.BRA7HM  (id=076, PW-v1 , count=1) : DAIV. BR. <NF>  
-DEVI7BHA7G  (id=452, PW-v5 , count=0) : (AVATAPURĀṆA), Hdschr. (AUFRECHT).  
+DEVI7BHA7G  (id=452, PW-v5 , count=0) : DEVĪBHĀGAVATAPURĀṆA, Hdschr. (AUFRECHT).  
 Devi1bhP.  (MW) :  devī-bhāgavata-purāṇa  (Title) 
 Devi1m.  (MW) :  devī-māhātmya  (Title) 
 DH.V  (id=083, PW-v1 , count=59) : DHANAM̃JAYAVIJAYA, Calcutta 1871 (CAPPELLER).  
@@ -509,7 +509,7 @@ DHJA7NAB.UP  (id=080, PW-v1 , count=10) : DHYĀNABINDŪPANIṢAD in der Bibl. in
 DHU7RTAN  (id=081, PW-v1 , count=104) : DHŪRTANĀTAKA, Hdschr. (CAPPELLER).  
 Dhu1rtan.  (MW) :  dhūrtanartaka  (Title) 
 DHU7RTAS  (id=082, PW-v1 , count=22) : DHŪRTASAMĀGAMA in LASSEN'S Anthologie.  
-DHU7RTAS  (id=323, PW-v2 , count=0) : wird von nun an nach der lithographirten Ausgabe von CAPPELLER citirt.  
+DHU7RTAS  (id=323, PW-v2 , count=0) : DHŪRTAS. wird von nun an nach der lithographirten Ausgabe von CAPPELLER citirt.  
 Dhu1rtas.  (MW) :  dhūrtasamāgama  (Title) 
  
   * DHU7RTAS.ed.Calc  (id=578, new , count=1) : title=? 
@@ -529,7 +529,7 @@ Dra1hyS3r.  (MW) :  drāhyāyaṇa-śrauta-sūtra  (Title)
   * DRAUP  (id=622, new , count=2) : title=? 
     instances = nand,56516;nAmya,57940
 
-DRAVJAC2  (id=453, PW-v5 , count=0) : (UDDHITATTVA), Hdschr. (AUFRECHT).  
+DRAVJAC2  (id=453, PW-v5 , count=0) : DRAVYAŚUDDHITATTVA, Hdschr. (AUFRECHT).  
  
   * DRAVJAV  (id=523, new , count=1) : title=? 
     instances = agraja,732
@@ -579,7 +579,7 @@ Gal.  (MW) : Demetrius Galanos's Lexiko- sanskritikes, anglikes, hellenikes (Tit
   * GAN2.BHAGRAHAJ  (id=668, new , count=1) : title=? 
     instances = sAyaka,124282
 
-gan2a  (id=089, PW-v1 , count=0) : im Gaṇapātha zu P.  
+gan2a  (id=089, PW-v1 , count=0) : gaṇa im Gaṇapātha zu P.  
 Gan2ap.  (MW) :  gaṇa-pāṭha  (Title) 
 GAN2AR  (id=090, PW-v1 , count=65) : GAṆARATNAMAHODADHI, nach der im Druck befindlichen Ausg. von EGGELING. Nur ein paar Mal gelegentlich citirt.  
 Gan2ar.  (MW) :  gaṇaratna-mahodadhi  (Title) 
@@ -606,10 +606,10 @@ GAN2IT.KAKSH  (id=326, PW-v2 , count=4) : GAṆITA, KAKṢĀDHYĀYA (KERN).
 GAN2IT.PRATJABD  (id=095, PW-v1 , count=7) : GAṆITA, PRATYABDAŚUDDI (KERN).  
 GAN2IT.SPASHT2  (id=327, PW-v2 , count=9) : GAṆITA, SPAṢṬĀDHIKĀRA (KERN).  
 GAN2IT.TRIPR  (id=096, PW-v1 , count=10) : GAṆITA, TRIPRAŚANĀDHIKĀRA (KERN).  
-GAN2ITA,GRAHAK4K4H  (id=421, PW-v4 , count=1) : (ĀYĀDHIKĀRA) (KERN) .  
-GAN2ITA,K4ANDRAGR  (id=454, PW-v5 , count=1) : (AHĀDHIKĀRA) (KERN).  
-GAN2ITA,MADHJA7M(A7DHJA7JA)  (id=386, PW-v3 , count=0) : (KERN).  
-GAN2ITA,SU7RJAGR  (id=422, PW-v4 , count=1) : (AHAṆĀDHIKĀRA) (KERN) .  
+GAN2ITA,GRAHAK4K4H  (id=421, PW-v4 , count=1) : GAṆITA,GRAHACCHĀYĀDHIKĀRA (KERN) .  
+GAN2ITA,K4ANDRAGR  (id=454, PW-v5 , count=1) : GAṆITA,CANDRAGRAHĀDHIKĀRA (KERN).  
+GAN2ITA,MADHJA7M(A7DHJA7JA)  (id=386, PW-v3 , count=0) : GAṆITA,MADHYĀM(ĀDHYĀYA)KERN.  
+GAN2ITA,SU7RJAGR  (id=422, PW-v4 , count=1) : GAṆITA,SŪRYAGRAHAṆĀDHIKĀRA (KERN) .  
 Gan2P.  (MW) :  gaṇeśa-purāṇa  (Title) 
 GA7R.UP  (id=328, PW-v2 , count=1) : GĀRUḌOPANIṢAD in der Bibl. ind.  
  
@@ -626,7 +626,7 @@ Ga1rgi1S.  (MW) :  gārgī-saṁhitā  (Title)
 GarP.  (MW) :  gāruḍa-purāṇa  (Title) 
 Ga1rud2aP.  (MW) :  gāruḍa-purāṇa  (Title) 
 G4AT2A7DH  (id=329, PW-v2 , count=2) : JAṬĀDHARA im ŚKDR.  
-G4A7TAKAM  (id=491, PW-v6 , count=169) : (ĀLĀ), Hdschr. (H. KERN).  
+G4A7TAKAM  (id=491, PW-v6 , count=169) : JĀTAKAMĀLĀ, Hdschr. (H. KERN).  
 Ga1tha1sam2gr.  (MW) :  gāthāsaṁgraha  (Title) 
 GAUD2AP  (id=098, PW-v1 , count=9) : GAUḌAPĀDA, Commentator der SĀM̃KHYAKĀRIKĀ.  
 Gauragan2.  (MW) :  gauragaṇoddeśa  (Title) 
@@ -680,7 +680,7 @@ H  (id=106, PW-v1 , count=95) : HEMACANDRA'S ABHIDHĀNACINTĀMAṆI, Ausg. von B
 H.an  (id=108, PW-v1 , count=89) : HEMACANDRA'S ANEKĀRTHASAM̃GRAHA.  
 HAEB.Anth  (id=388, PW-v3 , count=1) : HAEBERLIN'S Anthology, Calcutta 1847.  
 Ha1l.  (MW) :  hāla  (Author) 
-HA7LA  (id=332, PW-v2 , count=9) : Citirt nach der neuen noch im Druck befindlichen Ausgabe von WEBER (CAPPELLER).  
+HA7LA  (id=332, PW-v2 , count=9) : HĀLA. Citirt nach der neuen noch im Druck befindlichen Ausgabe von WEBER (CAPPELLER).  
 HALA7J  (id=107, PW-v1 , count=16) : HALĀYUDHA'S Wörterbuch, Ausg. von AUFRECHT.  
  
   * HALL  (id=547, new , count=50) : title=? 
@@ -705,7 +705,7 @@ HARIV  (id=111, PW-v1 , count=921) : HARIVAM̃ŚA. Mit einer Zahi die ältere Ca
 Hariv.  (MW) :  harivaṁśa  (Title) 
 HARIV.LANGL  (id=335, PW-v2 , count=1) : LANGLOIS' Uebersetzung des Harivam̃śa.  
 HARSHAK4  (id=112, PW-v1 , count=743) : HARṢACARITA, Calcutta 1876 (KERN).  
-HARSHAK4  (id=455, PW-v5 , count=0) : (1936), Bomb. Ausg. (KERN).  
+HARSHAK4  (id=455, PW-v5 , count=0) : HARṢAC (1936), Bomb. Ausg. (KERN).  
  
   * HARSHAK4.(C2aka_1936)  (id=674, new , count=0) : title=? 
     instances = 
@@ -715,7 +715,7 @@ HARSHAK4  (id=455, PW-v5 , count=0) : (1936), Bomb. Ausg. (KERN).
     instances = vAtika,100414;vAlaka,101207;SESunAri,114321
 
 HA7SJ  (id=113, PW-v1 , count=82) : HĀSYĀRṆAVA, Bombay 1757 und Hdschr. (CAPPELLER).  
-HA7SJ  (id=336, PW-v2 , count=0) : wird von nun an nach der lithograph. Ausgabe von CAPPELLER citirt.  
+HA7SJ  (id=336, PW-v2 , count=0) : HĀSY. wird von nun an nach der lithograph. Ausgabe von CAPPELLER citirt.  
 Hastar.  (MW) :  hasta-ratnāvalī  (Title) 
 Ha1sy.  (MW) :  hāsyārṇava  (Title) 
 Hat2hapr.  (MW) :  haṭha-pra-dīpikā  (Title) 
@@ -845,7 +845,7 @@ JOGAT.UP  (id=126, PW-v1 , count=4) : YOGATATTVOPANIṢAD in der Bibl. ind. (GEL
   * JOLLY  (id=653, new , count=4) : title=? 
     instances = SilAPalaka,112473;sad,118430;spfSa,131480;svabrAhmaRyA,132245
 
-JOLLY,Schuld  (id=127, PW-v1 , count=30) : YOLLY, ueber das indische Schuldrecht, in Müchener Philos. Philol. Abh. 1877, S. 287. fgg.  
+JOLLY,Schuld  (id=127, PW-v1 , count=30) : JOLLY, ueber das indische Schuldrecht, in Müchener Philos. Philol. Abh. 1877, S. 287. fgg.  
  
   * JOLLY,Tagore_Law_Lecture  (id=733, new , count=1) : title=? 
     instances = sapiRqa,119339
@@ -853,13 +853,13 @@ JOLLY,Schuld  (id=127, PW-v1 , count=30) : YOLLY, ueber das indische Schuldrecht
 Jyot.  (MW) :  jyotiṣa  (Literary category) 
 K.  (MW) : Kielhorn (?) (Author) 
 KA7C2  (id=129, PW-v1 , count=414) : KĀŚIKĀ VṚTTI in der Zeitschrift The PANDIT VII. fgg.  
-KA7C2I7KH  (id=456, PW-v5 , count=43) : (AṆḌA), HDSCHR. (AUFRECHT).  
+KA7C2I7KH  (id=456, PW-v5 , count=43) : KĀŚĪKHAṆḌA, HDSCHR. (AUFRECHT).  
  
   * KA7C2JAPA  (id=598, new , count=3) : title=? 
     instances = gaRq,34304;SabdAy,110305;somaja,129548
 
 KA7D  (id=130, PW-v1 , count=1546) : KĀDAMBARI, Calcutta Sam̃vat 1919 (KERN).  
-KA7D  (id=390, PW-v3 , count=0) : Die eingeklammerten Zahlen verweisen auf die Calc. Ausg. 1872.  
+KA7D  (id=390, PW-v3 , count=0) : KĀD. Die eingeklammerten Zahlen verweisen auf die Calc. Ausg. 1872.  
 Ka1d.  (MW) :  kādambarī  (Title) 
  
   * KA7D.ed.Bomb  (id=519, new , count=2) : title=? 
@@ -926,7 +926,7 @@ K4AN2D2AK  (id=136, PW-v1 , count=69) : KṢEMIŚVARA'S CAṆḌAKAUŚIKA (PISCH
   * K4ANDRAGRAH  (id=739, new , count=1) : title=? 
     instances = suKArTa,125905
 
-K4ANDRA7LOKA  (id=492, PW-v6 , count=0) : (R. PISCHEL).  
+K4ANDRA7LOKA  (id=492, PW-v6 , count=0) : CANDRĀLOKAR. PISCHEL.  
 KAN2T2HAC2R.UP  (id=424, PW-v4 , count=1) : KAṆṬHAŚRUTYUPANIṢAD in der Bibl. ind.  
  
   * KA7N2VA-REC  (id=591, new , count=2) : title=? 
@@ -967,18 +967,18 @@ KA7T2H  (id=141, PW-v1 , count=150) : KĀṬHAKA (WEBER).
 KA7T2H  (id=347, PW-v2 , count=0) : KĀṬHAKA Hdschr. (v. SCHRÖDER und WEBER).  
 Ka1t2h.  (MW) :  kāṭhaka  (Literary category) 
 Kat2h.  (MW) :  kāṭhaka  (Literary category) 
-KA7T2H.GR2HJ  (id=348, PW-v2 , count=6) : KĀṬHAKAGṚHYASŪTRA, Hdschr. (YOLLY).  
+KA7T2H.GR2HJ  (id=348, PW-v2 , count=6) : KĀṬHAKAGṚHYASŪTRA, Hdschr. (JOLLY).  
 Ka1t2hAnukr.  (MW) :  kāṭhaka anukramaṇī  (Title) 
 Katha7rn2.  (MW) :  kathārṇava  (Title) 
 Kat2ha7rn2.  (MW) :  kathārṇava  (Title) 
-KATHA7RN2AVA  (id=458, PW-v5 , count=4) : , Hdschr. (AUFRECHT).  
+KATHA7RN2AVA  (id=458, PW-v5 , count=4) : KATHĀRṆAVA , Hdschr. (AUFRECHT).  
 KATHA7S  (id=142, PW-v1 , count=573) : KATHĀSARITSĀGARA, Ausg. von BROCKHAUS.  
 Katha1s.  (MW) :  kathāsaritsāgara  (Title) 
 Ka1t2hGr2.  (MW) :  kāṭhaka-gṛhya-sūtra  (Title) 
-KAT2HOP  (id=392, PW-v3 , count=10) : in der Bibl. ind.  
+KAT2HOP  (id=392, PW-v3 , count=10) : KAṬHOP(ANIṢAD) in der Bibl. ind.  
 Kat2hUp.  (MW) :  kaṭha-upaniṣad  (Title) 
-KA7TJ  (id=460, PW-v5 , count=15) : (ĀYANA'S) PARIBH (ĀṢĀS) IN 'Zwölf Hymnen des Rigveda, herausgegeben von ERNST WIDISCH'S. 169. fgg.  
-KA7TJ(A7JANA)  (id=393, PW-v3 , count=0) : nach Citaten in verschiedenen juristischen Werken(YOLLY).  
+KA7TJ  (id=460, PW-v5 , count=15) : KĀTYĀYANA'S PARIBH (ĀṢĀS) IN 'Zwölf Hymnen des Rigveda, herausgegeben von ERNST WIDISCH'S. 169. fgg.  
+KA7TJ(A7JANA)  (id=393, PW-v3 , count=0) : KĀTY(ĀYANA) nach Citaten in verschiedenen juristischen Werken(JOLLY).  
 KA7TJ.C2R  (id=143, PW-v1 , count=600) : KĀTYĀYANA'S ŚRAUTSŪTRA, nach WEBER'S Index.  
  
   * KA7TJ.C2R.PADDH  (id=620, new , count=3) : title=? 
@@ -986,7 +986,7 @@ KA7TJ.C2R  (id=143, PW-v1 , count=600) : KĀTYĀYANA'S ŚRAUTSŪTRA, nach WEBER'
 
 KA7TJ.C2RA7DDHAK  (id=394, PW-v3 , count=0) : KĀTYĀYANA'S ŚRĀDDHAKALPASŪTRA (STENZLER).  
 KA7TJ.DH  (id=144, PW-v1 , count=1) : KĀTYĀYANA'S DHARMAŚĀSTRA (STENZILER).  
-KA7TJ.KARM  (id=459, PW-v5 , count=1) : (APRADĪPA) (STENZLER).  
+KA7TJ.KARM  (id=459, PW-v5 , count=1) : KĀTY(ĀYANA'S)KARMAPRADĪPA (STENZLER).  
 KA7TJ.SNA7NAS  (id=145, PW-v1 , count=1) : KĀTYĀYANA'S SNĀNASŪTRA (STENZLER).  
 Ka1ty.  (MW) :  kātyāyana  (Author) 
 Ka1tyS3r.  (MW) :  kātyāyana-śrauta-sūtra  (Title) 
@@ -1017,8 +1017,8 @@ Kavikalpat.  (MW) :  kavikalpataru  (Title)
   * KA7VJA7D  (id=552, new , count=29) : title=? 
     instances = adAkziRAtya,2440;adButArTa,2571;anativistIrRa,3279;anizWura,4209;antarita,5275;apAda,6409;aBUta,7819;arTavyakti,9502;alpaprARa,10110;avaseya,10752
 
-KA7VJA7L  (id=461, PW-v5 , count=2) : (OKALOCANA), Hdschr. (AUFRECHT).  
-KA7VJA7L  (id=493, PW-v6 , count=0) : (AM̃KĀRA des RUDRAṬA) (R. PISCHEL).  
+KA7VJA7L  (id=461, PW-v5 , count=2) : KĀVYĀLOKALOCANA, Hdschr. (AUFRECHT).  
+KA7VJA7L  (id=493, PW-v6 , count=0) : KĀVYĀLAM̃KĀRA des RUDRAṬA (R. PISCHEL).  
 KA7VJAPR  (id=151, PW-v1 , count=125) : KĀVYAPRAKĀŚA, Calcutta 1866. Nach Ullāsa und Sūtra citirt, wenn nicht S. (Seite) und Z. (Zeile) hinzungefügt werden.  
 Ka1vyac.  (MW) :  kāvyacandrikā  (Title) 
 Ka1vya7d.  (MW) :  kāvyādarśa  (Title) 
@@ -1033,12 +1033,12 @@ KenUp.  (MW) :  kena-upaniṣad  (Title)
     instances = ketumAla,30614;cakracara,38210;luW,96352;vah,99671;vItatrAsareRu,105954;Sibira,112291;SIla,113119;saMDi,119056;saMpada,120881;sAtavAha,123644
 
 K4HA7ND.UP  (id=154, PW-v1 , count=80) : CHĀNDOGYOPANIṢAD in der Bibl. ind.  
-KHAN2D2APR  (id=462, PW-v5 , count=0) : (AŚASTI) im Pandit, Bed. 5 und 6 (AUFRECHT).  
+KHAN2D2APR  (id=462, PW-v5 , count=0) : KHAṆḌAPRAŚASTI im Pandit, Bed. 5 und 6 (AUFRECHT).  
  
   * K4HANDOGAPARIC2  (id=629, new , count=1) : title=? 
     instances = nam,56698
 
-K4HA7NDOGJAP  (id=463, PW-v5 , count=0) : (ARIŚIṢṬA) nach Citaten in andern Werken (AUFRECHT).  
+K4HA7NDOGJAP  (id=463, PW-v5 , count=0) : CHĀNDOGYAPARIŚIṢṬA nach Citaten in andern Werken (AUFRECHT).  
  
   * K4HANDOGOPARIC2  (id=638, new , count=1) : title=? 
     instances = nam,56698
@@ -1076,7 +1076,7 @@ Kpr.  (MW) :  kāvyaprakāśa  (Title)
 Kramadi1p.  (MW) :  kramadīpikā  (Title) 
 Kr2ishis.  (MW) :  kṛṣisaṁgraha  (Title) 
 KR2SHIS  (id=156, PW-v1 , count=1) : PARĀŚARA'S KṚṢISAM̃GRAHA, Calcutta 1862(ROTH).  
-KSHEM  (id=494, PW-v6 , count=2) : (ENDRA'S KAVIKAṆṬĀBHARAṆA), herausgegeben von Y. SCHÖNBERG in den Sitzungsberichten der Phil-hist. Klasse der Kais. Ak. d. Ww. in Wien, Bd. 106 (C. CAPPELLER).  
+KSHEM  (id=494, PW-v6 , count=2) : KṢEMENDRA'S KAVIKAṆṬĀBHARAṆA, herausgegeben von Y. SCHÖNBERG in den Sitzungsberichten der Phil-hist. Klasse der Kais. Ak. d. Ww. in Wien, Bd. 106 (C. CAPPELLER).  
 Kshem.  (MW) :  kṣemendra  (Author) 
 KSHITI7C2  (id=157, PW-v1 , count=1) : KṢITĪŚAVAM̃ŚĀVALĪCARITA, Ausg. von PERTSCH.  
 Kshiti7s3.  (MW) :  kṣitīśa-vaṁśāvalī-carita  (Title) 
@@ -1093,13 +1093,13 @@ KshurUp.  (MW) :  kṣurikā-upaniṣad  (Title)
 KUHN'S.Z  (id=396, PW-v3 , count=12) : Zeitschrift für vergleichende Sprachforschung anf dem Gebiete der indogermanischen Sprachen.  
 Kulad.  (MW) :  kuladīpikā  (Title) 
 Kula7rn2.  (MW) :  kulārṇava-tantra  (Title) 
-KULA7RN2AVA  (id=464, PW-v5 , count=1) : , Hdschr. (AUFRECHT).  
+KULA7RN2AVA  (id=464, PW-v5 , count=1) : KULĀRṆAVA , Hdschr. (AUFRECHT).  
 K4U7LIKOP  (id=350, PW-v2 , count=9) : CŪLIKOPANIṢAD in der Bibl. ind. (GELDNER).  
 KULL  (id=159, PW-v1 , count=85) : KULLŪKA, Commentator des MANU.  
 Kull.  (MW) :  manvarthamuktāvalī ,  kullūka  bhaṭṭa 's commentary on  manu-smṛti  (Title) 
 Kum.  (MW) :  kumāra-sambhava  (Title) 
 KUMA7RAS  (id=160, PW-v1 , count=96) : KUMĀRASAM̃BHAVA, Ausg. von STENZLER.  
-KUMA7RAS  (id=397, PW-v3 , count=0) : 8. FGG. finde man im 1ten Bande Pandit und besonders herausgegeben von TĀRĀNĀTHA TARKAVĀCHASPATI, Calcutta 1868.  
+KUMA7RAS  (id=397, PW-v3 , count=0) : KUMĀRAS. 8. FGG. finde man im 1ten Bande Pandit und besonders herausgegeben von TĀRĀNĀTHA TARKAVĀCHASPATI, Calcutta 1868.  
 KUMA7RASV  (id=161, PW-v1 , count=34) : KUMĀRASVĀMIN, Commentator des PRATĀPAR. (PISCHEL).  
  
   * KUMA7RILA  (id=514, new , count=3) : title=? 
@@ -1141,7 +1141,7 @@ Li1l.  (MW) :  līlāvatī  of  bhāskara  (Title)
 LI7LA7V  (id=168, PW-v1 , count=50) : BHĀSKARA'S LĪLĀVATĪ, Calcutta 1846(KERN).  
 Li1la1v.  (MW) :  līlāvatī  of  bhāskara  (Title) 
 Lin3gaP.  (MW) :  liṅga-purāṇa  (Title) 
-LOKAPR  (id=426, PW-v4 , count=6) : (AKĀŚA) (YOLLY) .  
+LOKAPR  (id=426, PW-v4 , count=6) : LOKAPRAKĀŚA (JOLLY) .  
 Lokapr.  (MW) :  loka-prakāśa  (Title) 
 Lot.delab.l  (id=170, PW-v1 , count=56) : BURNOUF, Lotus de la bonne loi.  
 M  (id=171, PW-v1 , count=476) : MĀNAVADHARMAŚĀSTRA.  
@@ -1272,7 +1272,7 @@ MA7RK.P  (id=186, PW-v1 , count=134) : MĀRKAṆḌEYAPURĀṆA in der Bibl. ind
 Ma1rkP.  (MW) :  mārkaṇḍeya-purāṇa  (Title) 
 Mas3.  (MW) :  maśaka  (Author) 
 Mat.med  (id=187, PW-v1 , count=410) : The Materia medica of the Hindus compiled from Sankr. medical works by UDOY CHAND DUTT Civil Medicinal officer. With a Glossary of Indian Plants by GE. KING. Superint. R. Bot. Garden Calc. and the author. Calcutta 1877.  
-MATSJAP  (id=466, PW-v5 , count=11) : (URĀṆA), Poona-Ausg. (AUFRECHT).  
+MATSJAP  (id=466, PW-v5 , count=11) : MATSYAPURĀṆA, Poona-Ausg. (AUFRECHT).  
 MatsyaP.  (MW) :  matsya-purāṇa  (Title) 
 Matsyas.  (MW) :  matsyasūkta 's  śabdakalpadruma  (Title) 
 MAYR,Ind.Erb  (id=188, PW-v1 , count=0) : Das indische Erbrecht von AUREL MAYR, Wien 1873.  
@@ -1287,7 +1287,7 @@ Mbh.  (MW) :  mahābhārata  (Title)
   * MBH.ed.Calc  (id=568, new , count=4) : title=? 
     instances = Akarza,13360;uzant,20839;Siz,112826;sutumula,126248
 
-MBH.ed.Vardh  (id=399, PW-v3 , count=30) : ed. Vardh. ist die auf Kosten des Fürsten von Vardhamāna (Burdwan) gedruckte Ausg. des MAHABHĀRATA. Sie enthält nur die 12 ersten Parvan.  
+MBH.ed.Vardh  (id=399, PW-v3 , count=30) : MBH. ed. Vardh. ist die auf Kosten des Fürsten von Vardhamāna (Burdwan) gedruckte Ausg. des MAHABHĀRATA. Sie enthält nur die 12 ersten Parvan.  
  
   * MBH.ed.Vardham  (id=726, new , count=1) : title=? 
     instances = DvajAroha,56037
@@ -1299,7 +1299,7 @@ MED.avj  (id=191, PW-v1 , count=2) : AVYAYĀNEKĀRTHAVARGA am Ende des MEDINIKO�
   * MED.g4  (id=606, new , count=0) : title=? 
     instances = 
 
-MEDHA7T  (id=400, PW-v3 , count=4) : MEDHĀTITHI, ein Scholiast des MANU (YOLLY).  
+MEDHA7T  (id=400, PW-v3 , count=4) : MEDHĀTITHI, ein Scholiast des MANU (JOLLY).  
 MEGH  (id=192, PW-v1 , count=138) : MEGHADŪTA, Ausg. von STENZLER.  
 Megh.  (MW) :  meghadūta  (Title) 
  
@@ -1352,9 +1352,9 @@ Nalac.  (MW) :  nalacampū  or  damayantīkathā  (Title)
 
 Nalo7d.  (MW) :  nalodaya  (Title) 
 NandiP.  (MW) :  nandi-purāṇa  (Title) 
-NA7R  (id=199, PW-v1 , count=26) : NĀRADA'S DHARMAŚĀSTRA (YOLLY).  
+NA7R  (id=199, PW-v1 , count=26) : NĀRADA'S DHARMAŚĀSTRA (JOLLY).  
 Na1r.  (MW) :  nārada-smṛti ,  nāradīya-dharma-śāstra  (Title) 
-NA7RADA  (id=468, PW-v5 , count=23) : (a. ) bezeichnet die ausführlichere Recension NĀRAD'S (YOLLY).  
+NA7RADA  (id=468, PW-v5 , count=23) : NĀRADA (a. ) bezeichnet die ausführlichere Recension NĀRAD'S (JOLLY).  
 NarasP.  (MW) :  narasiṁha-purāṇa  (Title) 
 Na1rP.  (MW) :  nāradīya-purāṇa  (Title) 
 Na1rS.  (MW) :  nārada-saṁhitā  (Title) 
@@ -1366,7 +1366,7 @@ NBD.  (MW) : Boehtlingk's Sanskrit-Woerterbuch in kuerzerer fassung (Title)
     instances = laYcA,95631;vipratAraka,103438
 
 Nid.  (MW) :  mādhava-nidāna  (Title) 
-NIDA7NAS  (id=495, PW-v6 , count=2) : (ŪTRA) (A. WEBER).  
+NIDA7NAS  (id=495, PW-v6 , count=2) : NIDĀNASŪTRA (A. WEBER).  
 Nida1nas.  (MW) :  nidāna-sūtra  (Title) 
 NIGH  (id=360, PW-v2 , count=43) : YĀSKA'S NIRUKTA sammt den NIGHAṆṬAVAS, herausgegeben und erläutert von RUDOLPH ROTH.  
 Nigh.  (MW) :  nighaṇṭuprakāśa  (Title) 
@@ -1410,7 +1410,7 @@ Nya1yas.  (MW) :  nyāyasūtra  (Title)
   * NÖLDEKE  (id=725, new , count=1) : title=? 
     instances = sPara,131518
 
-OLD.Buddha  (id=403, PW-v3 , count=3) : Buddha-Buddha. Sein Leben, seine Lehre, seine Gemeinde. Von HERMANN OLDENBERG. Berlin 1881.  
+OLD.Buddha  (id=403, PW-v3 , count=3) : OLD. Buddha-Buddha. Sein Leben, seine Lehre, seine Gemeinde. Von HERMANN OLDENBERG. Berlin 1881.  
 OPP.CAT  (id=362, PW-v2 , count=1780) : List of Sanskrit Manuscripts in Private libraries of southern India. Compiled, arranged and indexed by GUSTAV OPPERT.  
  
   * OPPERT  (id=635, new , count=1) : title=? 
@@ -1422,8 +1422,8 @@ P  (id=210, PW-v1 , count=641) : PĀṆINI.
     instances = yajus,89441
 
 Padap.  (MW) :  padapāṭha  (Title) 
-PADDH  (id=469, PW-v5 , count=7) : (ATI) zu MĀN (AVA) GṚHY (ASŪTRA), Hdschr. (v. BRADKE).  
-PADJA7VALI7  (id=470, PW-v5 , count=1) : , Hdschr. (AUFRECHT).  
+PADDH  (id=469, PW-v5 , count=7) : PADDHATI zu MĀN (AVA) GṚHY (ASŪTRA), Hdschr. (v. BRADKE).  
+PADJA7VALI7  (id=470, PW-v5 , count=1) : PADYĀVALĪ , Hdschr. (AUFRECHT).  
  
   * PADMA-P  (id=730, new , count=1) : title=? 
     instances = rama,92728
@@ -1485,9 +1485,9 @@ Param.  (MW) :  paramārtha-sāra  (Title)
   * PARAMAHAM5SOP  (id=633, new , count=1) : title=? 
     instances = vfttihan,106441
 
-PARAMA7RTHA  (id=496, PW-v6 , count=1) : (SĀRA) (TH. AUFRECHT).  
+PARAMA7RTHA  (id=496, PW-v6 , count=1) : PARAMĀRTHASĀRA (TH. AUFRECHT).  
 Para1s3.  (MW) :  parāśara-smṛti  (Title) 
-PA7RC2VAN  (id=471, PW-v5 , count=14) : (ĀTHAKĀVYA), Hdschr. (AUFRECHT).  
+PA7RC2VAN  (id=471, PW-v5 , count=14) : PĀRŚVANĀTHAKĀVYA, Hdschr. (AUFRECHT).  
 Pa1rGr2.  (MW) :  pāraskara-gṛhya-sūtra  (Title) 
 Pa1rGr2S.  (MW) :  pāraskara-gṛhya-sūtra  (Title) 
 PARIBH  (id=216, PW-v1 , count=12) : PARIBHĀṢĀ in PARIBHĀṢENDUŚEKHARA, Ausg. von KIELHORN.  
@@ -1528,9 +1528,9 @@ Prab.  (MW) :  prabodha-candrodaya  (Title)
 Prabh.  (MW) :  prabodha-candrodaya  (Title) 
 Pracan2d2.  (MW) :  pracaṇḍa-pāṇḍava  (Title) 
 PRAC2NOP  (id=221, PW-v1 , count=9) : PRAŚNOPANIṢAD in der Bibl. ind.  
-PRAG4A7PATI  (id=404, PW-v3 , count=0) : , nach Citaten in verschiendenen juristischen Werken (YOLLY).  
+PRAG4A7PATI  (id=404, PW-v3 , count=0) : PRAJĀPATI , nach Citaten in verschiendenen juristischen Werken (JOLLY).  
 PRA7JAC2K4ITTAT  (id=222, PW-v1 , count=1) : PRĀYAŚCITTATATTVA (ROTH).  
-PRA7JAC2K4ITTAV  (id=472, PW-v5 , count=1) : (IVEKA), Hdschr. (AUFRECHT).  
+PRA7JAC2K4ITTAV  (id=472, PW-v5 , count=1) : PRĀYAŚCITTAVIVEKA, Hdschr. (AUFRECHT).  
  
   * PRA7JAC2K4ITTAVIVEKA  (id=756, new , count=0) : title=? 
     instances = 
@@ -1548,7 +1548,7 @@ Pra1t.  (MW) :  prātiśākhya  (Literary category)
 Prata1p.  (MW) :  pratāparudrīya  (Title) 
 PRATA7PAR  (id=225, PW-v1 , count=39) : PRATĀPARUDRIYA.  
 Prata1par.  (MW) :  pratāparudrīya  (Title) 
-PRATIG4N4A7S  (id=427, PW-v4 , count=17) : berausg. von A. WEBER.  
+PRATIG4N4A7S  (id=427, PW-v4 , count=17) : PRATIJŃĀS(ŪTRA) berausg. von A. WEBER.  
 Pratijn5a1S.  (MW) :  pratijñā-sūtra  (Title) 
 Pratijn5a1s.  (MW) :  pratijñā-sūtra  (Title) 
 Pravar.  (MW) :  pravara  texts (Literary category) 
@@ -1605,7 +1605,7 @@ R.  (MW) :  rāmāyaṇa  (Title)
     instances = kuqAyikA,28385
 
 RA7G4AN  (id=230, PW-v1 , count=5851) : RĀJANIGHAṆṬU, Hdschr. (ROTH).  
-RA7G4AN  (id=428, PW-v4 , count=0) : 13 nach der Ausg. von R. GARBE.  
+RA7G4AN  (id=428, PW-v4 , count=0) : RĀJAN. 13 nach der Ausg. von R. GARBE.  
 RA7G4AT  (id=231, PW-v1 , count=390) : RĀJATARAM̃GIṆĪ. Die 6 ersten Bücher nach der Ausg. von TROYER. Die Beträge aus dem 7ten und 8ten Buche von KERN.  
  
   * RA7G4AT.ed.Calc  (id=569, new , count=1) : title=? 
@@ -1646,7 +1646,7 @@ Ra1mat.  (MW) :  rāmatāpanīya-upaniṣad  (Title)
 Ra1matUp.  (MW) :  rāmatāpanīya-upaniṣad  (Title) 
 RAnukr.  (MW) :  ṛ  v-anukramaṇikā  (Title) 
 Ra1sal.  (MW) :  rāsalīlā  (Title) 
-RASAR  (id=407, PW-v3 , count=33) : RASARATNĀKARA, Calcutta 1878 (ROTH).  
+RASAR  (id=407, PW-v3 , count=33) : RASAR. RASARATNĀKARA, Calcutta 1878 (ROTH).  
 Rasar.  (MW) :  rasaratnākara  (Title) 
 Rase7ndrac.  (MW) :  rasendracintāmaṇi  (Title) 
 RASENDRAK4  (id=408, PW-v3 , count=48) : RASENDRACINTĀMAṆI Calcutta 1878 (ROTH).  
@@ -1669,7 +1669,7 @@ Reva1Kh.  (MW) :  revā-khaṇḍa  (Title)
 
 R2it.  (MW) :  ṛtusaṁhāra  (Title) 
 R2itus.  (MW) :  ṛtusaṁhāra  (Title) 
-R2KT  (id=474, PW-v5 , count=1) : (ANTRA), herausgegeben von BURNELL (STENZLER).  
+R2KT  (id=474, PW-v5 , count=1) : ṚKTANTRA, herausgegeben von BURNELL (STENZLER).  
 Romakas.  (MW) :  romakasiddhānta  (Title) 
  
   * ROTH  (id=619, new , count=7) : title=? 
@@ -1696,7 +1696,7 @@ R2TUS  (id=235, PW-v1 , count=8) : RṬUSAM̃HĀRA, Ausg. von BOHLEN.
   * RUDRAT2A,KA7VJA7LAM5KA7RA  (id=781, new , count=1) : title=? 
     instances = saMdazwaka,118970
 
-RUDRAT2A7LAM5KA7RAT2  (id=497, PW-v6 , count=1) : (IPPAṆAKA, auch RUDRAṬAKĀVYĀLAM̃KĀRAṬ. genannt) (R. PISCHEL. )  
+RUDRAT2A7LAM5KA7RAT2  (id=497, PW-v6 , count=1) : RUDRAṬĀLAM̃KĀRAṬIPPAṆAKA, auch RUDRAṬAKĀVYĀLAM̃KĀRAṬ. genannt (R. PISCHEL. )  
 Rudray.  (MW) :  rudrayāmala  (Title) 
 R2V  (id=236, PW-v1 , count=1543) : ṚGVEDA (ROTH).  
 RV.  (MW) :  ṛg-veda  (Title) 
@@ -1716,14 +1716,14 @@ SaddhP.  (MW) :  saddharma-puṇḍarīka  (Title)
     instances = lokaDAtvISvarI,96561
 
 Sadukt.  (MW) :  sadukti-karṇāmṛta  (Title) 
-SADUKTIK  (id=475, PW-v5 , count=16) : (ARṆĀMṚTA) von ŚRĪDHARADĀSA, Hdschr. (AUFRECHT).  
+SADUKTIK  (id=475, PW-v5 , count=16) : SADUKTIKARṆĀMṚTA von ŚRĪDHARADĀSA, Hdschr. (AUFRECHT).  
  
   * Sa7g  (id=765, new , count=1) : title=? 
     instances = vart,98820
 
 Sa1h.  (MW) :  sāhitya-darpaṇa  (Title) 
 SA7H.D  (id=239, PW-v1 , count=155) : SĀHITYADARPAṆA in der Bibl. ind.  
-SAHR2DAJA7LOKA  (id=498, PW-v6 , count=0) : (R. PISCHEL).  
+SAHR2DAJA7LOKA  (id=498, PW-v6 , count=0) : SAHṚDAYĀLOKAR. PISCHEL.  
 SA7J  (id=240, PW-v1 , count=438) : SĀYAṆA.  
 S3a1k.  (MW) :  śākaṭāyana  (Author) 
 S3ak.  (MW) :  śakuntalā  (Title) 
@@ -1754,7 +1754,7 @@ S3am2karacetov.  (MW) :  śaṁkara-cetovilāsa  (Title)
 SA7M5KHJAK  (id=243, PW-v1 , count=29) : SĀM̃KHYAKĀRIKĀ, Ausg. von WILSON.  
 Sa1m2khyak.  (MW) :  sāṁkhyakārikā  (Title) 
 Sa1m2khyapr.  (MW) :  sāṁkhyapravacana  (Title) 
-SAM5KSHEPAC2  (id=476, PW-v5 , count=0) : (AM̃KARAJAYA) von MĀDHAVA (AUFRECHT).  
+SAM5KSHEPAC2  (id=476, PW-v5 , count=0) : SAM̃KṢEPAŚAM̃KARAJAYA von MĀDHAVA (AUFRECHT).  
 SAM5NJ.UP  (id=244, PW-v1 , count=9) : SAM̃NYĀSOPANIṢAD in der Bibl. ind. (GELDNER und ROTH).  
 Sam2nyUp.  (MW) :  saṁnyāsa-upaniṣad  (Title) 
 SAM5SK.K  (id=245, PW-v1 , count=13) : ANANTADEVA'S SAM̃SKĀRAKAUSTUBHA, obl. fol.  
@@ -1770,8 +1770,8 @@ S3a1ntis3.  (MW) :  śāntiśataka  (Title)
 S3a1rad.  (MW) :  śāradā-tilaka  (Title) 
 SA7RAS  (id=246, PW-v1 , count=3) : SĀRASUNDARĪ, ein Commentar zu AK.  
 Sarasv.  (MW) :  sarasvatī-kaṇṭhābharaṇa , by  bhoja  (Title) 
-SARASVATI7K  (id=477, PW-v5 , count=5) : (AṆṬHĀBHARAṆA), Hdschr. (AUFRECHT).  
-SARASVATI7K  (id=499, PW-v6 , count=0) : (AṆṬHĀBHARAṆA), Calcutta 1883 (CAPPELLER).  
+SARASVATI7K  (id=477, PW-v5 , count=5) : SARASVATĪKAṆṬHĀBHARAṆA, Hdschr. (AUFRECHT).  
+SARASVATI7K  (id=499, PW-v6 , count=0) : SARASVATĪKAṆṬHĀBHARAṆA, Calcutta 1883 (CAPPELLER).  
 SA7RA7V  (id=247, PW-v1 , count=11) : SĀRĀVALI, citirt bei UTPALA ZU VARĀH. BṚH.  
 S3a1rn3g.  (MW) :  śārṅgadhara  (Author) 
 S3arn3g.  (MW) :  śārṅgadhara  (Author) 
@@ -1885,12 +1885,12 @@ SS3am2kar.  (MW) :  saṁkṣepa-śaṁkara-vijaya  (Title)
 
 Subh.  (MW) :  subhāṣitāvali  (Title) 
 SUBHA7SHITAR  (id=255, PW-v1 , count=22) : SUBHĀṢITARATNĀKARA, Bombay 1872.  
-SUBHA7SHITARATNABH  (id=500, PW-v6 , count=1) : (ĀṆḌĀGĀRA) (TH. AUFRECHT).  
+SUBHA7SHITARATNABH  (id=500, PW-v6 , count=1) : SUBHĀṢITARATNABHĀṆḌĀGĀRA (TH. AUFRECHT).  
  
   * SUBHA7SHITARATNABH.PRAK  (id=646, new , count=1) : title=? 
     instances = sAhajika,124769
 
-SUBHA7SHITA7V  (id=479, PW-v5 , count=32) : (ALI) von VALLABHADEVA, Hdschr. (AUFRECHT).  
+SUBHA7SHITA7V  (id=479, PW-v5 , count=32) : SUBHĀṢITĀVALI von VALLABHADEVA, Hdschr. (AUFRECHT).  
 SUC2R  (id=256, PW-v1 , count=541) : SUŚRUTA (ROTRH).  
  
   * SUD  (id=626, new , count=1) : title=? 
@@ -1922,7 +1922,7 @@ SV.  (MW) :  sāma-veda  (Title)
 SV.A7R  (id=261, PW-v1 , count=1) : ĀRAṆYAKA zum SV. (ROTH).  
 SV.Paris3.  (MW) :  soma-veda-pariśiṣṭa  (Title) 
 Svapnac.  (MW) :  svapnacintāmaṇi  (Title) 
-SVAPNAK4(INTA7MAN2I)  (id=430, PW-v4 , count=0) : (PISCHEL) .  
+SVAPNAK4(INTA7MAN2I)  (id=430, PW-v4 , count=0) : SVAPNAC(INTĀMAṆI)PISCHEL .  
 SVA1r.  (MW) :  sāma-veda-āraṇyaka  (Title) 
 S3vetUp.  (MW) :  śvetāśvatara-upaniṣad  (Title) 
 T.  (MW) :  tārānātha  tarkavācaspati 's  vācaspatyam , Sanskrit dictionary (Title) 
@@ -1953,7 +1953,7 @@ TAnukr.  (MW) :  taittirīya-anukramaṇī  (Title)
 TA1r.  (MW) :  taittirīya-āraṇyaka  (Title) 
 TARKAS  (id=265, PW-v1 , count=25) : TARKASAM̃GRAHA, Allahabad 1849(ROTH).  
 Tarkas.  (MW) :  tarkasaṁgraha  (Title) 
-TATTVAK  (id=501, PW-v6 , count=1) : (AUMUDI) (H. Kern).  
+TATTVAK  (id=501, PW-v6 , count=1) : TATTVAKAUMUDI (H. Kern).  
 TATTVAS  (id=266, PW-v1 , count=28) : TATTVASAMĀSA, Mirzapore 1850(ROTH).  
 Tattvas.  (MW) :  tattvasamāsa  (Title) 
  
@@ -2022,7 +2022,7 @@ V.P.  (MW) :  viṣṇu-purāṇa  (Title)
     instances = hfdaya,135108
 
 VA7GBH  (id=274, PW-v1 , count=6) : VĀGBHAṬA'S ĀYURVEDADARŚANA (ROTH).  
-VA7GBH  (id=502, PW-v6 , count=0) : (AṬA'S ALAM̃KĀRA), Calcutta 1883 (CAPPELLER).  
+VA7GBH  (id=502, PW-v6 , count=0) : VĀGBH.AṬA'S ALAM̃KĀRA, Calcutta 1883 (CAPPELLER).  
 Va1gbh.  (MW) :  vāgbhaṭālaṁkāra  (Title) 
  
   * VA7GBHAT2A  (id=770, new , count=2) : title=? 
@@ -2052,7 +2052,7 @@ VA7LAKH  (id=279, PW-v1 , count=10) : VĀLAKHILYA, die zwischen ṚV. 8, 84 und 
 Vallabh.  (MW) :  vallabha  (Author) 
 Va1m.  (MW) :  vāmana 's  kāvyālaṁkāravṛtti  (Title) 
 VA7MANA  (id=280, PW-v1 , count=122) : VĀMANA'S KĀVYĀLAM̃KĀRAVṚTTI, Ausg. von CAPPELLER.  
-VA7MANAP  (id=481, PW-v5 , count=0) : (URĀṆA), Hdschr. (AUFRECHT).  
+VA7MANAP  (id=481, PW-v5 , count=0) : VĀMANAPURĀṆA, Hdschr. (AUFRECHT).  
 VAM5C2ABR  (id=281, PW-v1 , count=20) : VAM̃ŚABRĀHMAṆA, Ausg. von BURNELL (ROTH).  
 Va1mP.  (MW) :  vāmana-purāṇa  (Title) 
 Var.  (MW) :  varāha-mihira  (Author) 
@@ -2065,7 +2065,7 @@ VARA7H.BR2H.S  (id=283, PW-v1 , count=325) : VARĀHAMIHIRA'S BṚHATSAM̃HITĀ (
 VARA7H.JOGAJ  (id=284, PW-v1 , count=240) : VARĀHAMIHIRA'S YOGAYĀTRĀ, herausg. von KERN in Ind. St. 10. 14 und 15.  
 VARA7H.LAGH  (id=285, PW-v1 , count=2) : VARĀHAMIHIRA'S LAGHUJĀTAKA. Die zwei ersten Adhjaja herausgegeben von WEBER in Ind. St. 2.  
 VARA7H.LAGHUG4  (id=351, PW-v2 , count=2) : VARĀHAMIHIRA'S LAGHUJĀTAKA.  
-VA7RA7HAP  (id=482, PW-v5 , count=0) : (URĀNA) , Hdschr. (YACOBI).  
+VA7RA7HAP  (id=482, PW-v5 , count=0) : VĀRĀHAPURĀNA , Hdschr. (YACOBI).  
 Va1ra1hi1t.  (MW) :  vārāhītantra  (Title) 
  
   * VARARUK4I  (id=769, new , count=1) : title=? 
@@ -2092,8 +2092,8 @@ Va1sant.  (MW) :  vāsantikā  (Title)
 Vasantar.  (MW) :  vasantarāja 's  śākuna  (Title) 
 VA7SAV  (id=288, PW-v1 , count=416) : VĀSAVADATTĀ in der Bibl. ind.  
 Va1sav.  (MW) :  vāsavadattā  (Title) 
-VASISHT2HA  (id=412, PW-v3 , count=92) : nach der Ausg. von Benares (YOLLY).  
-VASISHT2HA  (id=483, PW-v5 , count=0) : nach der Ausgabe von FüHRER, Bombay 1883.  
+VASISHT2HA  (id=412, PW-v3 , count=92) : VASIṢṬHA, nach der Ausg. von Benares (JOLLY).  
+VASISHT2HA  (id=483, PW-v5 , count=0) : VASIṢṬHA nach der Ausgabe von FüHRER, Bombay 1883.  
  
   * VA7SISHT2HA  (id=697, new , count=1) : title=? 
     instances = vArdDuzi,101126
@@ -2183,7 +2183,7 @@ Vishn2.  (MW) :  viṣṇu-smṛti ,  viṣṇu-sūtra ,  vaiṣṇava-dharma-ś
   * VISHN2UK4ANDRA  (id=708, new , count=1) : title=? 
     instances = kusuta,29545
 
-VISHN2US  (id=296, PW-v1 , count=281) : VIṢṆUSŪTRA, zur Herausgabe vorbereitet von Y. YOLLY (YOLLY)  
+VISHN2US  (id=296, PW-v1 , count=281) : VIṢṆUSŪTRA, zur Herausgabe vorbereitet von Y. JOLLY (JOLLY)  
 Vishn2us.  (MW) :  viṣṇu-smṛti ,  viṣṇu-sūtra ,  vaiṣṇava-dharma-śāstra  (Title) 
 Vis3van.  (MW) :  viśvanātha  daivajña  (Author) 
  
@@ -2234,7 +2234,7 @@ W.  (MW) : Horace H. Wilson (Author)
   * WASSILJEW  (id=759, new , count=1) : title=? 
     instances = SrAvaka,114979
 
-WEBER  (id=503, PW-v6 , count=27) : , (BHAG) (AVATI).  
+WEBER  (id=503, PW-v6 , count=27) : WEBER , (BHAG) (AVATI).  
 WEBER,G4JOT  (id=301, PW-v1 , count=10) : WEBER, Ueber den Vedakalender, Namens JYOTIṢAM.  
 WEBER,KR2SHN2AG4  (id=302, PW-v1 , count=7) : WEBER, Ueber die KṚṢṆJANMĀṢṬAMĪ. Berlin 1868.  
 WEBER,Lit  (id=373, PW-v2 , count=47) : Akademische Vorlesung über Indische Literaturgeschichte. Von ALBRECHT WEBER. Zweite vermehrte Auflage.  
