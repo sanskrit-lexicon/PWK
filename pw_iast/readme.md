@@ -21,6 +21,10 @@ the first word in each case.
 There may be cases where the given spelling is correct.
 In such cases, enter the correction as the specific string 'OK'.
 
+#### Corrected_by field
+Filling this in is optional, but might be helpful in case questions arise regarding a specific correction.
+If you fill it in, suggest use your Github user id.
+
 #### links to context
 
 For many cases, it will be necessary to refer to the context in which
