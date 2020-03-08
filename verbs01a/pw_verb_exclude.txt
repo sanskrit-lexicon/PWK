@@ -1,0 +1,19 @@
+; metalines for entries that are not verbs. Exceptional cases.
+<L>79243<pc>4257-2<k1>BAHKara<k2>*BAHKara<e>500
+<L>97802<pc>6012-2<k1>vadanta<k2>vadanta<e>500
+<L>104097<pc>6114-1<k1>virUQa<k2>virUQa<e>100
+<L>51606<pc>3107-1<k1>duzwuta<k2>duzwuta<e>500
+<L>62245<pc>4010-3<k1>pawatpawaditi<k2>*pawatpawaditi<e>500
+<L>68018<pc>4097-3<k1>puras<k2>pura/s<e>100
+<L>69364<pc>4116-2<k1>pfTak<k2>pf/Tak<e>100
+<L>69891<pc>4122-3<k1>po<k2>*po<e>100
+<L>104181<pc>6115-3<k1>vilAtar<k2>*vilAtar<e>100
+<L>104252<pc>6116-2<k1>viletar<k2>*viletar<e>100
+<L>108902<pc>6185-2<k1>vyUQa<k2>vyUQa<e>500
+<L>111963<pc>6228-1<k1>SAvasta<k2>SAvasta<e>500
+<L>135028<pc>7279-2<k1>hum<k2>hum<e>100
+; gen. infin. (whatever that is)
+<L>104230<pc>6116-2<k1>viliKas<k2>*viliKas<e>100
+<L>104466<pc>6119-3<k1>vivfhas<k2>vivfhas<e>100
+; loc. infin.
+<L>108892<pc>6185-2<k1>vyuzi<k2>(vyuzi)<e>500

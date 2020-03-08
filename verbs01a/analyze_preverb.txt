@@ -1,0 +1,292 @@
+; L=106500.1, k1=nirakz
+358339 old <s>nir—√ akz</s> ¦ (only <ab>Impv.</ab> -<s>akzRuhi</s>), to castrate, emasculate, <ls>AV. iv, 22, 1</ls><info n="sup"/><info verb="root"/>
+358339 new <s>nir—√ akz</s> ¦ (only <ab>Impv.</ab> -<s>akzRuhi</s>), to castrate, emasculate, <ls>AV. iv, 22, 1</ls><info n="sup"/><info verb="pre" parse="nis+akz"/>
+;
+;
+; L=236685, k1=samprAv
+788055 old <s>sam-prA<srs/>v</s> ¦ (<s>-pra-av</s>) <ab>P.</ab> <s>-pra/vati</s>, to assist together, aid, help, <ls>AV.</ls><info verb="root" cp="0P"/>
+788055 new <s>sam-prA<srs/>v</s> ¦ (<s>-pra-av</s>) <ab>P.</ab> <s>-pra/vati</s>, to assist together, aid, help, <ls>AV.</ls><info verb="pre" parse="sam+pra+av"/>
+;
+;
+; L=19204, k1=avenv
+69185 old <s>ave<srs/>nv</s> ¦ (√ <s>inv</s>), (Imper. 2. <ab>du.</ab> <s>-invatam</s>) to send down (as rain), <ls>RV. vii, 64, 2.</ls>
+69185 new <s>ave<srs/>nv</s> ¦ (√ <s>inv</s>), (Imper. 2. <ab>du.</ab> <s>-invatam</s>) to send down (as rain), <ls>RV. vii, 64, 2.</ls><info verb="pre" parse="ava+inv"/>
+;
+;
+; L=234946, k1=samizaRya
+782315 old <s>sam-izaRya</s> ¦ <ab>Nom.</ab> <ab>P.</ab> <s>°yati</s>, to drive together, <ls>RV.</ls><info verb="nom" cp="P"/>
+782315 new <s>sam-izaRya</s> ¦ <ab>Nom.</ab> <ab>P.</ab> <s>°yati</s>, to drive together, <ls>RV.</ls><info verb="pre" cp="P" parse="sam+izaRya"/>
+; L=13041, k1=aBIr
+47575 old <s>aBI<srs/>r</s> ¦ (√ <s>Ir</s>), Caus. (p. <s>-Ira/yat</s>) to bring near, <ls>TBr.</ls>
+47575 new <s>aBI<srs/>r</s> ¦ (√ <s>Ir</s>), Caus. (p. <s>-Ira/yat</s>) to bring near, <ls>TBr.</ls><info verb="pre" parse="aBi+Ir"/>
+;
+; L=10391, k1=apez
+38498 old <hom>1.</hom> <s>ape<srs/>z</s> ¦ (√ <s>Iz</s>), (<ab>aor.</ab> 3. <ab>sg.</ab> <s>a/pa E/yeH</s>) to withdraw from (<ab>abl.</ab>), <ls>RV. v, 2, 8.</ls>
+38498 new <hom>1.</hom> <s>ape<srs/>z</s> ¦ (√ <s>Iz</s>), (<ab>aor.</ab> 3. <ab>sg.</ab> <s>a/pa E/yeH</s>) to withdraw from (<ab>abl.</ab>), <ls>RV. v, 2, 8.</ls><info verb="pre" parse="apa+Iz"/>
+;
+;
+; L=10410, k1=apoB
+38558 old <s>apo<srs/>B</s> ¦ (√ <s>uB</s>), (Imper. 2. <ab>pl.</ab> <s>a/po<srs/>mBata</s>) to bind, fetter, <ls>AV. viii, 8, 11.</ls>
+38558 new <s>apo<srs/>B</s> ¦ (√ <s>uB</s>), (Imper. 2. <ab>pl.</ab> <s>a/po<srs/>mBata</s>) to bind, fetter, <ls>AV. viii, 8, 11.</ls><info verb="pre" parse="apa+uB"/>
+;
+;
+; L=18566, k1=avApoh
+66985 old <s>avA<srs/>po<srs/>h</s> ¦ (√ <hom>1.</hom> <s>Uh</s>), (<ab>ind.p.</ab> <s>°po<srs/>hya</s>) to remove, <ls>Suśr.</ls>
+66985 new <s>avA<srs/>po<srs/>h</s> ¦ (√ <hom>1.</hom> <s>Uh</s>), (<ab>ind.p.</ab> <s>°po<srs/>hya</s>) to remove, <ls>Suśr.</ls><info verb="pre" parse="ava+apa+Uh"/>
+;
+; L=19223, k1=avoh
+69266 old <s>avo<srs/>h</s> ¦ (<hom>1</hom> √ <s>Uh</s>), (<ab>Pot.</ab> <s>a/vo<srs/>het</s>) to push down, <ls>TS. vi.</ls>
+69266 new <s>avo<srs/>h</s> ¦ (<hom>1</hom> √ <s>Uh</s>), (<ab>Pot.</ab> <s>a/vo<srs/>het</s>) to push down, <ls>TS. vi.</ls><info verb="pre" parse="ava+Uh"/>
+;
+; L=22202, k1=AkUj
+79689 old <s>A-kUj</s> ¦ (p. <s>-kUjat</s>) to coo (as pigeons), lament, <ls>Suśr.</ls>
+79689 new <s>A-kUj</s> ¦ (p. <s>-kUjat</s>) to coo (as pigeons), lament, <ls>Suśr.</ls><info verb="pre" parse="A+kUj"/>
+;
+; L=22339, k1=AkrI
+80156 old <s>A-krI</s> ¦ (<ab>Pass.</ab> 3. <ab>pl.</ab> <s>-krIyante</s>) to purchase, obtain, <ls>Kām.</ls> (<ab>v.l.</ab> <s>A-hAryante</s>, <ls>Pañcat.</ls>)
+80156 new <s>A-krI</s> ¦ (<ab>Pass.</ab> 3. <ab>pl.</ab> <s>-krIyante</s>) to purchase, obtain, <ls>Kām.</ls> (<ab>v.l.</ab> <s>A-hAryante</s>, <ls>Pañcat.</ls>)<info verb="pre" parse="A+krI"/>
+;
+;
+; L=32772, k1=udgfBAya
+116387 old <s>ud-gfBAya</s> ¦ See <s>ud-√ grah</s>.
+116387 new <s>ud-gfBAya</s> ¦ See <s>ud-√ grah</s>.<info verb="pre" parse="ud+gfB"/>
+;
+; L=132210, k1=pratigfBAya
+; <s>prati-gfBAya</s> ¦ <ab>Nom.</ab> <ab>P.</ab> <s>°yati</s>, to take, receive;
+445184 old <div n="to"/> (<ab>esp.</ab>) to take into the mouth, eat, <ls>RV.</ls><info verb="nom" cp="P"/>
+445184 new <div n="to"/> (<ab>esp.</ab>) to take into the mouth, eat, <ls>RV.</ls><info verb="pre" cp="P" parse="prati+gfBAya"/>
+;
+; L=11296.1, k1=aBigopAya
+41607 old <s>aBi-gopAya</s> ¦ <ab>Nom.</ab> <ab>P.</ab> °<s>ya/ti</s>, to guard, protect, <ls>ŚBr.</ls><info n="sup"/><info verb="nom" cp="P"/>
+41607 new <s>aBi-gopAya</s> ¦ <ab>Nom.</ab> <ab>P.</ab> °<s>ya/ti</s>, to guard, protect, <ls>ŚBr.</ls><info n="sup"/><info verb="pre" cp="P" parse="aBi+gopAya"/>
+;
+; L=109536, k1=nirGAtaya
+; <s>nir-°GAtaya</s> ¦ <ab>Nom.</ab> <ab>P.</ab> <s>°yati</s>, to draw or force out, <ls>Suśr.</ls>;
+368879 old <div n="to"/>to cause to be destroyed or killed, <ls>MBh.</ls><info verb="nom" cp="P"/>
+368879 new <div n="to"/>to cause to be destroyed or killed, <ls>MBh.</ls><info verb="pre" cp="P" parse="nis+GAtaya"/>
+;
+; L=132270, k1=pratiGAtaya
+445379 old <s>prati-°GAtaya</s> ¦ (Caus. of <s>prati-√ han</s>), <s>°yati</s>, to ward off, <ls>MBh.</ls>
+445379 new <s>prati-°GAtaya</s> ¦ (Caus. of <s>prati-√ han</s>), <s>°yati</s>, to ward off, <ls>MBh.</ls><info verb="pre" parse="prati+GAtaya"/>
+;
+; L=22955, k1=AcaraRya
+82246 old <s>A-caraRya</s> ¦ <ab>Nom.</ab> <ab>P.</ab> (<ab>Subj.</ab> <s>-caraRyAt</s>) to move or extend towards (<ab>acc.</ab>), <ls>AV. vii, 29, 1</ls> (<ab>v.l.</ab> <ab>Pot.</ab> <s>°Ryet</s>, <ls>TS. i</ls>). <info verb="nom" cp="P"/>
+82246 new <s>A-caraRya</s> ¦ <ab>Nom.</ab> <ab>P.</ab> (<ab>Subj.</ab> <s>-caraRyAt</s>) to move or extend towards (<ab>acc.</ab>), <ls>AV. vii, 29, 1</ls> (<ab>v.l.</ab> <ab>Pot.</ab> <s>°Ryet</s>, <ls>TS. i</ls>). <info verb="pre" cp="P" parse="A+caraRya"/>
+;
+; L=2971.1, k1=aticitrIya
+10745 old <s>ati-citrIya</s> ¦ <ab>Nom.</ab> <ab>Ā.</ab> °<s>yate</s>, to cause great astonishment, <ls>Daś.</ls><info n="sup"/><info verb="nom" cp="Ā"/>
+10745 new <s>ati-citrIya</s> ¦ <ab>Nom.</ab> <ab>Ā.</ab> °<s>yate</s>, to cause great astonishment, <ls>Daś.</ls><info n="sup"/><info verb="pre" cp="Ā" parse="ati+citrIya"/>
+;
+; L=11361, k1=aBicihnaya
+41837 old <s>aBi-cihnaya</s> ¦ <ab>Nom.</ab> <ab>P.</ab> (<ab>perf.</ab> <ab>Pass.</ab> <ab>p.</ab> <s>-cihnita</s>) to mark, characterize, <ls>R. iv, 42, 12.</ls><info verb="nom" cp="P"/>
+41837 new <s>aBi-cihnaya</s> ¦ <ab>Nom.</ab> <ab>P.</ab> (<ab>perf.</ab> <ab>Pass.</ab> <ab>p.</ab> <s>-cihnita</s>) to mark, characterize, <ls>R. iv, 42, 12.</ls><info verb="pre" cp="P" parse="aBi+cihnaya"/>
+;
+; L=6785, k1=anuprajYA
+24779 old <s>anu-pra-jYA</s> ¦ (<ab>pr. p.</ab> <s>-jAna/t</s>) to track, trace, discover, <ls>RV. iii, 26, 8, &c.</ls>
+24779 new <s>anu-pra-jYA</s> ¦ (<ab>pr. p.</ab> <s>-jAna/t</s>) to track, trace, discover, <ls>RV. iii, 26, 8, &c.</ls><info verb="pre" parse="anu+pra+jYA"/>
+;
+; L=197172, k1=vinistap
+658121 old <s>vi-nis-tap</s> ¦ See <s>vi-niz-wapta</s>.
+658121 new <s>vi-nis-tap</s> ¦ See <s>vi-niz-wapta</s>.<info verb="pre" parse="vi+nis+tap"/>
+;
+; L=31477, k1=uttruw
+111898 old <s>ut-truw</s> ¦ (<s>ud</s>- √ <s>truw</s>). 
+111898 new <s>ut-truw</s> ¦ (<s>ud</s>- √ <s>truw</s>). <info verb="pre" parse="ud+truw"/>
+;
+; L=3011.1, k1=atidaMh
+10902 old <s>ati-√ daMh</s> ¦ (only in -<s>daMhIH</s>, used in explaining <s>aDi</s>-<s>Dak</s>), <ls>Nir. i, 7</ls>.<info n="sup"/>
+10902 new <s>ati-√ daMh</s> ¦ (only in -<s>daMhIH</s>, used in explaining <s>aDi</s>-<s>Dak</s>), <ls>Nir. i, 7</ls>.<info n="sup"/><info verb="pre" parse="ati+daMh"/>
+;
+; L=134623, k1=pradam
+453240 old <s>pra-dam</s> ¦ Caus. <s>-damayate</s>, to subdue, conquer, <ls>Bhaṭṭ.</ls>
+453240 new <s>pra-dam</s> ¦ Caus. <s>-damayate</s>, to subdue, conquer, <ls>Bhaṭṭ.</ls><info verb="pre" parse="pra+dam"/>
+;
+; L=124254, k1=pidfB
+418723 old <s>pi-dfB</s> ¦ for <s>api</s>- √ <s>dfB</s> √ (only. <s>-dfhmas</s>), to adhere firmly to or hope in (<ab>acc.</ab>), <ls>ŚāṅkhBr.</ls>
+418723 new <s>pi-dfB</s> ¦ for <s>api</s>- √ <s>dfB</s> √ (only. <s>-dfhmas</s>), to adhere firmly to or hope in (<ab>acc.</ab>), <ls>ŚāṅkhBr.</ls><info verb="pre" parse="api+dfB"/>
+;
+; L=23760, k1=AdaSasya
+; <s>A-daSasya</s> ¦ <ab>Nom.</ab> <ab>P.</ab> (<ab>Impv.</ab> 2. <ab>sg.</ab> <s>-daSasya</s>, 2. <ab>pl.</ab> <s>°syata</s>) to honour, be favourable to (<ab>acc.</ab>), <ls>RV. v, 50, 3; vii, 43, 5</ls>;
+84945 old <div n="to"/> (<ab>Pot.</ab> 2. <ab>sg.</ab> <s>°syes</s>) to present any one with (<ab>gen.</ab>), <ls>RV. vii, 37, 5; viii, 97, 15.</ls><info verb="nom" cp="P"/>
+84945 new <div n="to"/> (<ab>Pot.</ab> 2. <ab>sg.</ab> <s>°syes</s>) to present any one with (<ab>gen.</ab>), <ls>RV. vii, 37, 5; viii, 97, 15.</ls><info verb="nom" cp="P"/><info verb="pre" parse="A+daSasya"/>
+;
+; L=24206, k1=ADunaya
+86526 old <s>A-Dunaya</s> ¦ <ab>Nom.</ab> (<ab>fr.</ab> <s>Du/ni</s>) <ab>Ā.</ab> (<ab>Impv.</ab> 3. <ab>pl.</ab> <s>A/-DunayantAm</s>) to rush towards with violence, <ls>RV. iii, 55, 16.</ls><info verb="nom" cp="Ā"/>
+86526 new <s>A-Dunaya</s> ¦ <ab>Nom.</ab> (<ab>fr.</ab> <s>Du/ni</s>) <ab>Ā.</ab> (<ab>Impv.</ab> 3. <ab>pl.</ab> <s>A/-DunayantAm</s>) to rush towards with violence, <ls>RV. iii, 55, 16.</ls><info verb="pre" cp="Ā" parse="A+Dunaya"/>
+;
+; L=24208, k1=ADUpaya
+86532 old <s>A-DUpaya</s> ¦ <ab>Nom.</ab> (<ab>fr.</ab> <s>DUpa</s>) <ab>P.</ab> (<ab>Impv.</ab> 3. <ab>sg.</ab> <s>-DUpayatu</s>) to envelop in smoke, <ls>TĀr.</ls><info verb="nom" cp="P"/>
+86532 new <s>A-DUpaya</s> ¦ <ab>Nom.</ab> (<ab>fr.</ab> <s>DUpa</s>) <ab>P.</ab> (<ab>Impv.</ab> 3. <ab>sg.</ab> <s>-DUpayatu</s>) to envelop in smoke, <ls>TĀr.</ls><info verb="pre" cp="P" parse="A+DUpaya"/>
+;
+; L=34836, k1=upaDUpaya
+; <s>upa-DUpaya</s> ¦ <ab>Nom.</ab> (<ab>fr.</ab> <s>DUpa</s>) <ab>P.</ab> <s>-DUpayati</s>, to fumigate, envelop in smoke;
+; <div n="to"/>to envelop in mist;
+123451 old <div n="to"/>to darken, cover, <ls>Kauś.</ls><info verb="nom" cp="P"/>
+123451 new <div n="to"/>to darken, cover, <ls>Kauś.</ls><info verb="pre" cp="P" parse="upa+DUpaya"/>
+;
+; L=24210, k1=ADUmaya
+86538 old <s>A-DUmaya</s> ¦ <ab>Nom.</ab> (<ab>fr.</ab> <s>DUma</s>) <ab>P.</ab> to envelop in smoke.<info verb="nom" cp="P"/>
+86538 new <s>A-DUmaya</s> ¦ <ab>Nom.</ab> (<ab>fr.</ab> <s>DUma</s>) <ab>P.</ab> to envelop in smoke.<info verb="pre" cp="P" parse="A+DUmaya"/>
+;
+; L=33147, k1=udDUlaya
+117690 old <s>ud-DUlaya</s> ¦ <ab>Nom.</ab> (<ab>fr.</ab> <s>DUli</s> with <s>ud</s>) <ab>P.</ab> <s>-DUlayati</s>, to powder, sprinkle with dust or powder, <ls>Kathās.</ls>; <ls>Kād.</ls><info verb="nom" cp="P"/>
+117690 new <s>ud-DUlaya</s> ¦ <ab>Nom.</ab> (<ab>fr.</ab> <s>DUli</s> with <s>ud</s>) <ab>P.</ab> <s>-DUlayati</s>, to powder, sprinkle with dust or powder, <ls>Kathās.</ls>; <ls>Kād.</ls><info verb="pre" cp="P" parse="ud+DUlaya"/>
+;
+; L=231929, k1=saMnamasya
+772033 old <s>saM-namasya</s> ¦ <ab>Nom.</ab> <ab>P.</ab> <s>°syati</s>, to show respect or honour, worship, <ls>Hariv.</ls><info verb="nom" cp="P"/>
+772033 new <s>saM-namasya</s> ¦ <ab>Nom.</ab> <ab>P.</ab> <s>°syati</s>, to show respect or honour, worship, <ls>Hariv.</ls><<info verb="pre" cp="P" parse="sam+namasya"/>
+;
+; L=131560, k1=pratinyUNKaya
+443010 old <s>prati—nyUN°Kaya</s> ¦ <ab>Nom.</ab> <s>°yati</s>, to insert the vowel <s>o</s> in the corresponding stanza or verse, <ls>ib.</ls><info verb="nom" cp=""/>
+443010 new <s>prati—nyUN°Kaya</s> ¦ <ab>Nom.</ab> <s>°yati</s>, to insert the vowel <s>o</s> in the corresponding stanza or verse, <ls>ib.</ls><info verb="pre" parse="prati+nyUNKaya"/>
+;
+; L=137920.1, k1=prasampaS
+464347 old <s>pra-sam-√ paS</s> ¦ to consider thoroughly, <ls>MānŚr.</ls><info n="sup"/>
+464347 new <s>pra-sam-√ paS</s> ¦ to consider thoroughly, <ls>MānŚr.</ls><info n="sup"/><info verb="pre" parse="pra+sam+paS"/>
+;
+; L=197770, k1=vipASaya
+660124 old <s>vi-°pASaya</s> ¦ <ab>Nom.</ab> (<ab>fr.</ab> <s>vi-pASa</s>; only <ab>Pass.</ab> <s>vyapASyanta</s>), to unbind, loose, <ls>ib.</ls><info verb="nom" cp=""/>
+660124 new <s>vi-°pASaya</s> ¦ <ab>Nom.</ab> (<ab>fr.</ab> <s>vi-pASa</s>; only <ab>Pass.</ab> <s>vyapASyanta</s>), to unbind, loose, <ls>ib.</ls><info verb="pre" parse="vi+pASaya"/>
+
+; L=31763, k1=utpuYjaya
+112877 old <s>ut-puYjaya</s> ¦ <ab>Nom.</ab> (<ab>fr.</ab> <s>puYja</s>) <ab>P.</ab> <s>ut-puYjayati</s>, to lay up, heap <ab>Comm.</ab> on <ls>KātyŚr.</ls>; <ls>Kād.</ls><info verb="nom" cp="P"/>
+112877 new <s>ut-puYjaya</s> ¦ <ab>Nom.</ab> (<ab>fr.</ab> <s>puYja</s>) <ab>P.</ab> <s>ut-puYjayati</s>, to lay up, heap <ab>Comm.</ab> on <ls>KātyŚr.</ls>; <ls>Kād.</ls><info verb="pre" cp="P" parse="ud+puYjaya"/>
+;
+; L=108785, k1=nipriyAya
+366198 old <s>ni-priyAya</s> ¦ (<ab>fr.</ab> <s>ni-priya</s>) <ab>Nom.</ab> <ab>Ā.</ab> <s>°ya/te</s>, to keep in one's possession, not to be willing to give up (<ab>acc.</ab>), <ls>AV.</ls><info verb="nom" cp="Ā"/>
+366198 new <s>ni-priyAya</s> ¦ (<ab>fr.</ab> <s>ni-priya</s>) <ab>Nom.</ab> <ab>Ā.</ab> <s>°ya/te</s>, to keep in one's possession, not to be willing to give up (<ab>acc.</ab>), <ls>AV.</ls><info verb="pre" cp="Ā" parse="ni+priyAya"/>
+;
+; L=6664.1, k1=anupariplu
+24315 old <s>anu-pari-√ plu</s> ¦ (<ab>Caus.</ab> -<s>plAvayati</s>), to wash, <ls>Hir.</ls><info n="sup"/>
+24315 new <s>anu-pari-√ plu</s> ¦ (<ab>Caus.</ab> -<s>plAvayati</s>), to wash, <ls>Hir.</ls><info n="sup"/><info verb="pre" parse="anu+pari+plu"/>
+;
+; L=12851.1, k1=aBisambuD
+46933 old <s>aBi-sam-√ buD</s> ¦ (with <s>samyak</s>-<s>samboDin</s>), to obtain the highest perfect knowledge, Sukh, i.<info n="sup"/>
+46933 new <s>aBi-sam-√ buD</s> ¦ (with <s>samyak</s>-<s>samboDin</s>), to obtain the highest perfect knowledge, Sukh, i.<info n="sup"/><info verb="pre" parse="aBi+sam+buD"/>
+;
+; L=3113.1, k1=aBibrU
+11239 old <s>aBi√ brU</s> ¦  or <s>ati-√ brU</s>, to insult, abuse, <ls>MBh. iii, 15640.</ls><info or="3113,atibrU;3113.1,aBibrU"/>
+11239 new <s>aBi-√ brU</s> ¦  or <s>ati-√ brU</s>, to insult, abuse, <ls>MBh. iii, 15640.</ls><info or="3113,atibrU;3113.1,aBibrU"/><info verb="pre" parse="aBi+brU"/>
+;
+; L=11987.1, k1=aBiBUz
+44039 old <s>aBi-√ BUz</s> ¦ to adorn, <ls>Vṛṣabhān.</ls><info n="sup"/>
+44039 new <s>aBi-√ BUz</s> ¦ to adorn, <ls>Vṛṣabhān.</ls><info n="sup"/><info verb="pre" parse="aBi+BUz"/>
+;
+; L=12003, k1=aBimanasya
+44095 old <s>aBi-manasya</s> ¦ <ab>Nom.</ab> <ab>Ā.</ab> (Opt. <s>-manasye/ta</s>) ‘to have the mind directed towards’, be pleased with, like, <ls>AV. xi, 3, 25.</ls><info verb="nom" cp="Ā"/>
+44095 new <s>aBi-manasya</s> ¦ <ab>Nom.</ab> <ab>Ā.</ab> (Opt. <s>-manasye/ta</s>) ‘to have the mind directed towards’, be pleased with, like, <ls>AV. xi, 3, 25.</ls><info verb="pre" cp="Ā" parse="aBi+manasya"/>
+;
+; L=6992.1, k1=anumArg
+25557 old <s>anu-√ mArg</s> ¦ to search through, <ls>R.</ls><info n="sup"/>
+25557 new <s>anu-√ mArg</s> ¦ to search through, <ls>R.</ls><info n="sup"/><info verb="pre" parse="anu+mArg"/>
+;
+; L=12214, k1=aBiruh
+44820 old <s>aBi-ruh</s> ¦ (<ab>perf.</ab> 3. <ab>pl.</ab> <s>-ruruhuH</s>) to ascend, mount, <ls>RV. v, 7, 5, &c.</ls>
+44820 new <s>aBi-ruh</s> ¦ (<ab>perf.</ab> 3. <ab>pl.</ab> <s>-ruruhuH</s>) to ascend, mount, <ls>RV. v, 7, 5, &c.</ls><info verb="pre" parse="aBi+ruh"/>
+;
+; L=26852.1, k1=AliS
+95537 old <s>A√ liS</s> ¦ (only <ab>pf.</ab> -<s>liliSire</s>)= <s>A</s>-√ <s>riS</s> (<ab>p.</ab> 150), <ls>ŚBr.</ls> <info n="sup"/>
+95537 new <s>A-√ liS</s> ¦ (only <ab>pf.</ab> -<s>liliSire</s>)= <s>A</s>-√ <s>riS</s> (<ab>p.</ab> 150), <ls>ŚBr.</ls> <info n="sup"/><info verb="pre" parse="A+;
+; L=208773, k1=vyapavfj
+696544 old <s>vy-apa-vfj</s> ¦ Caus. <s>-varjayati</s>, to give up entirely, relinquish, <ls>Ragh.</ls>
+696544 new <s>vy-apa-vfj</s> ¦ Caus. <s>-varjayati</s>, to give up entirely, relinquish, <ls>Ragh.</ls><info verb="pre" parse=""/>
+;
+; L=11667.1, k1=aBinivft
+42908 old <s>aBi-ni-√ vft</s> ¦ to become, <ab>ib.</ab><info n="sup"/>
+42908 new <s>aBi-ni-√ vft</s> ¦ to become, <ab>ib.</ab><info n="sup"/><info verb="pre" parse="aBi+ni+vft"/>
+;
+; L=226106, k1=saMvastraya
+; <s>saM-vastraya</s> ¦ <ab>Nom.</ab> (<ab>fr.</ab> <ab>prec.</ab>) <ab>P.</ab> <s>°yati</s> (<ab>ind.p.</ab> <s>-vastrya</s>), to wear the same or similar garments, <ls>MānGṛ.</ls>;
+752368 old <div n="to"/>to put on, wear, <ls>Bhaṭṭ.</ls><info verb="nom" cp="P"/>
+752368 new <div n="to"/>to put on, wear, <ls>Bhaṭṭ.</ls><info verb="pre" cp="P" parse="sam+vastraya"/>
+;
+; L=208769, k1=vyapavah
+696529 old <s>vy-apa-vah</s> ¦ See <s>vy-apo<srs/>h</s>.
+696529 new <s>vy-apa-vah</s> ¦ See <s>vy-apo<srs/>h</s>.<info verb="pre" parse="vy+apa+vah"/>
+;
+; L=35784, k1=upavAjaya
+; <s>upa-vAjaya</s> ¦ <ab>Nom.</ab> (<ab>fr.</ab> <s>vAja</s>) <ab>P.</ab> <s>-vAjayati</s>, to impel, accelerate, <ls>ŚBr. v</ls>;
+126688 old <div n="to"/>to fan, kindle, inflame, <ls>TS.</ls>; <ls>TBr.</ls>; <ls>KātyŚr.</ls><info verb="nom" cp="P"/>
+126688 new <div n="to"/>to fan, kindle, inflame, <ls>TS.</ls>; <ls>TBr.</ls>; <ls>KātyŚr.</ls><info verb="pre" cp="P" parse="upa+vAjaya"/>
+;
+; L=133069.1, k1=prativiD
+448087 old <s>prati-√ viD</s> ¦ to honour, worship, <ls>RV. vil, 63, 5</ls>.<info n="sup"/>
+448087 new <s>prati-√ viD</s> ¦ to honour, worship, <ls>RV. vil, 63, 5</ls>.<info n="sup"/><info verb="pre" parse="prati+viD"/>
+;
+; L=137120.1, k1=praviSAlaya
+461686 old <s>pra-viSAlaya</s> ¦ <ab>Nom.</ab> <ab>P.</ab> °<s>yati</s>, to make longer, lengthen, <ls>Subh.</ls><info n="sup"/><info verb="nom" cp="P"/>
+461686 new <s>pra-viSAlaya</s> ¦ <ab>Nom.</ab> <ab>P.</ab> °<s>yati</s>, to make longer, lengthen, <ls>Subh.</ls><info n="sup"/><info verb="pre" cp="P" parse="pra+viSAlaya"/>
+;
+; L=35876, k1=upavrataya
+127010 old <s>upa-vrataya</s> ¦ <ab>Nom.</ab> (<ab>fr.</ab> <s>vrata</s>) <ab>Ā.</ab> (<ab>Pot.</ab> 3. <ab>pl.</ab> <s>-vratayeran</s>) to eat (anything) together with the food prescribed for a <s1 slp1="vrata">Vrata</s1> or fast, <ls>ĀśvŚr. ii, 6, 8, 39.</ls><info verb="nom" cp="Ā"/>
+127010 new <s>upa-vrataya</s> ¦ <ab>Nom.</ab> (<ab>fr.</ab> <s>vrata</s>) <ab>Ā.</ab> (<ab>Pot.</ab> 3. <ab>pl.</ab> <s>-vratayeran</s>) to eat (anything) together with the food prescribed for a <s1 slp1="vrata">Vrata</s1> or fast, <ls>ĀśvŚr. ii, 6, 8, 39.</ls><info verb="pre" cp="Ā" parse="upa+vrataya"/>
+;
+; L=133136, k1=pratiSak
+; <s>prati-Sak</s> ¦ (only <ab>pf.</ab> <s>-SekuH</s>), to keep one's ground against, be a match for (<ab>acc.</ab>), <ls>MBh.</ls> :
+448296 old <div n="vp"/><ab>Desid.</ab> <s>-Sikzati</s>, to allure, invite, <ls>RV.</ls>
+448296 new <div n="vp"/><ab>Desid.</ab> <s>-Sikzati</s>, to allure, invite, <ls>RV.</ls><info verb="pre" parse="prati+Sak"/>
+;
+; L=3099.1, k1=atipraSfD
+11191 old <s>ati-pra-√ SfD</s> ¦ (<ab>Caus.</ab> -<s>SarDayati</s>), to obtrude or force anything upon any one (<ab>dat.</ab>), <ls>RV. viii, 13, 6</ls>.<info n="sup"/>
+11191 new <s>ati-pra-√ SfD</s> ¦ (<ab>Caus.</ab> -<s>SarDayati</s>), to obtrude or force anything upon any one (<ab>dat.</ab>), <ls>RV. viii, 13, 6</ls>.<info n="sup"/><info verb="pre" parse="ati+pra+SfD"/>
+;
+; L=7409, k1=anuSikz
+27015 old <s>anu-Sikz</s> ¦ &c. See <s>anu-√ Sak</s>.
+27015 new <s>anu-Sikz</s> ¦ &c. See <s>anu-√ Sak</s>.<info verb="pre" parse="anu+Sikz"/>
+;
+; L=27643, k1=ASravasya
+98281 old <s>A-Sravasya</s> ¦ <ab>Nom.</ab> <ab>P.</ab> (<ab>fr.</ab> <hom>2.</hom> <s>Sravas</s>), to approach with haste, hasten towards, <ls>RV. v, 37, 3.</ls><info verb="nom" cp="P"/>
+98281 new <s>A-Sravasya</s> ¦ <ab>Nom.</ab> <ab>P.</ab> (<ab>fr.</ab> <hom>2.</hom> <s>Sravas</s>), to approach with haste, hasten towards, <ls>RV. v, 37, 3.</ls><info verb="pre" cp="P" parse="A+Sravasy"/>
+;
+; L=35992, k1=upaSlokaya
+127397 old <s>upa-Slokaya</s> ¦ <ab>Nom.</ab> (<ab>fr.</ab> <s>Sloka</s>, <ls>Pāṇ. 3-1, 25</ls>) <ab>P.</ab> <s>-Slokayati</s>, to praise in <s1 slp1="Sloka">Śloka</s1>s.<info verb="nom" cp="P"/>
+127397 new <s>upa-Slokaya</s> ¦ <ab>Nom.</ab> (<ab>fr.</ab> <s>Sloka</s>, <ls>Pāṇ. 3-1, 25</ls>) <ab>P.</ab> <s>-Slokayati</s>, to praise in <s1 slp1="Sloka">Śloka</s1>s.<info verb="pre" cp="P" parse="upa+Slokaya"/>
+;
+; L=202709, k1=visaparya
+676724 old <s>vi-saparya</s> ¦ <ab>Nom.</ab> (See <s>saparya</s>) <ab>P.</ab> <s>°yati</s>, to worship at different places, <ls>RV. i, 70, 10.</ls><info verb="nom" cp="P"/>
+676724 new <s>vi-saparya</s> ¦ <ab>Nom.</ab> (See <s>saparya</s>) <ab>P.</ab> <s>°yati</s>, to worship at different places, <ls>RV. i, 70, 10.</ls><info verb="pre" cp="P" parse="vi+saparya"/>
+;
+; L=12907, k1=aBisfp
+47123 old <s>aBi-sfp</s> ¦ (Imper. 2. <ab>sg.</ab> <s>-sarpa</s>) to approach silently or softly, <ls>AV.</ls>; <ls>Kāṭh.</ls>; <ls>Nir.</ls>
+47123 new <s>aBi-sfp</s> ¦ (Imper. 2. <ab>sg.</ab> <s>-sarpa</s>) to approach silently or softly, <ls>AV.</ls>; <ls>Kāṭh.</ls>; <ls>Nir.</ls><info verb="pre" parse="aBi+sfp"/>
+;
+; L=134274.1, k1=pratyAsic
+452111 old <s>praty-A-√ sic</s> ¦ to pour in again, <ls>Kauś.</ls><info n="sup"/>
+452111 new <s>praty-A-√ sic</s> ¦ to pour in again, <ls>Kauś.</ls><info n="sup"/><info verb="pre" parse="praty+A+sic"/>
+;
+; L=6667.1, k1=anuparisic
+24333 old <s>anu-pari-√ sic</s> ¦ to pour round, <ls>MaitrS.</ls><info n="sup"/>
+24333 new <s>anu-pari-√ sic</s> ¦ to pour round, <ls>MaitrS.</ls><info n="sup"/><info verb="pre" parse="anu+pari+sic"/>
+;
+; L=12874.1, k1=aBisU
+47014 old <s>aBi-sU</s> ¦ to bring forth, <ls>Bālar.</ls><info n="sup"/>
+47014 new <s>aBi-sU</s> ¦ to bring forth, <ls>Bālar.</ls><info n="sup"/><info verb="pre" parse="aBi+sU"/>
+;
+; L=138238.1, k1=prastiG
+465500 old <s>pra-√ stiG</s> ¦ to rise, <ls>MaitrS.</ls><info n="sup"/>
+465500 new <s>pra-√ stiG</s> ¦ to rise, <ls>MaitrS.</ls><info n="sup"/><info verb="pre" parse="pra+stiG"/>
+;
+; L=118958, k1=parisaMstu
+401535 old <s>pari-saM-stu</s> ¦ (only <ab>Pass.</ab> <ab>pr. p.</ab> <s>-stUyamAna</s>), to praise, celebrate, <ls>MBh.</ls>
+401535 new <s>pari-saM-stu</s> ¦ (only <ab>Pass.</ab> <ab>pr. p.</ab> <s>-stUyamAna</s>), to praise, celebrate, <ls>MBh.</ls><info verb="pre" parse="pari+sam+stu"/>
+;
+; L=9876, k1=apaspfS
+36590 old <s>apa-spfS</s> ¦ See <s>a/n-apaspfS</s>.
+36590 new <s>apa-spfS</s> ¦ See <s>a/n-apaspfS</s>.<info verb="pre" parse="apa+spfS"/>
+;
+; L=7649.2, k1=anusvan
+27910 old <s>anu-√ svan</s> ¦ (3. sg. <ab>aor.</ab> <ab>Pass.</ab> -<s>zva/Ri</s>), to roar after, <ls>RV. vi, 46, 14</ls>.<info n="sup"/>
+27910 new <s>anu-√ svan</s> ¦ (3. sg. <ab>aor.</ab> <ab>Pass.</ab> -<s>zva/Ri</s>), to roar after, <ls>RV. vi, 46, 14</ls>.<info n="sup"/><info verb="pre" parse="anu+svan"/>
+;
+; L=11654.1, k1=aBinirhf
+42855 old <s>aBi-nir-√ hf</s> ¦ to obtain (?), <ab>ib.</ab><info n="sup"/>
+42855 new <s>aBi-nir-√ hf</s> ¦ to obtain (?), <ab>ib.</ab><info n="sup"/><info verb="pre" parse="aBi+nir+hf"/>
+;
+; L=34958.2, k1=upanirhf
+123872 old <s>upa-nir-√ hf</s> ¦ to take away, <ls>Hir.</ls><info n="sup"/>
+123872 new <s>upa-nir-√ hf</s> ¦ to take away, <ls>Hir.</ls><info n="sup"/><info verb="pre" parse="upa+nir+hf"/>
+;
+; L=28334.1, k1=AhiRq
+100746 old <s>A-√ hiRq</s> ¦ to roam, <ls>Divyâv.</ls><info n="sup"/>
+100746 new <s>A-√ hiRq</s> ¦ to roam, <ls>Divyâv.</ls><info n="sup"/><info verb="pre" parse="A+hiRq"/>
+;

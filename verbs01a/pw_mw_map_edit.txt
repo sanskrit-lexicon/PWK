@@ -1,0 +1,279 @@
+aGAy:aGAya
+aNKay:aNK
+aSAy:aSAya
+irajy:irajya
+izaRy:izaRya
+utkaRW:utkaRWa
+ullAGay:ullAGaya
+eqakIy:eqakIya
+kaTay:kaT
+kIrtay:kIrt
+kutsay:kuts
+; also, kuts:kuts
+kfpAy:kfpAya
+ketay:ketaya
+KaRqay:KaRq
+; also, KaRq:KaRq
+gaRay:gaR
+guRay:guRaya
+gfBAy:gfBAya
+gopay:gopaya
+gopAy:gopAya
+GAtay:GAtaya
+caraRy:caraRya
+citray:citraya
+citrIy:citrIya
+cihnay:cihnaya
+cUrRay:cUrR
+Calay:Cal
+CA:Co
+jramB:jfmB
+waNkay:waNk
+tar:tF
+daSasy:daSasya
+dIDi:dIDI
+durmanAy:durmanAya
+dUzay:dUzaya
+Dunay:Dunaya
+DUnay:DUnaya
+DUpay:DUpaya
+DUpAy:DUpAya
+DUmay:DUmaya
+DUlay:DUlaya
+namasy:namasya
+nyUNKay:nyUNKaya
+; note a palyaNg is preverb form of aNg in MW
+palyaNgay:palyaNg
+pAlay:pAl
+pASay:pASaya
+piRqay:piRq
+puYjay:puYjaya
+priyAy:priyAya
+; also pruz:pruz
+pruzAy:pruz
+bAzpAy:bAzpAya
+maTAy:maTAya
+manasy:manasya
+mantray:mantr
+miSray:miSr
+mudray:mudraya
+muzAy:muzAya
+mUtray:mUtraya
+mfgay:mfg
+mokzay:mokz
+; also yantraya in mw
+yantray:yantr
+rUkzay:rUkz
+rUpay:rUp
+; liKApay causal of liK in MW
+liKApay:liK
+liNgay:liNg
+vastray:vastraya
+vAjay:vAjaya
+; vApay caus. of vap
+vApay:vap
+viGnay:viGnaya
+; mw nyAvicCAy
+; mw vicCAy not marked as verb
+vicCAy:vicCAy
+vinay:vinI
+viSAlay:viSAlaya
+; mw vizw not marked as verb (see vezw)
+vIray:vIr
+vfzAy:vfzAya
+; vyUh is preverb in mw
+vyUh:vyUh
+vraRay:vraR
+vratay:vrataya
+Sakalay:Sakalaya
+; in mw, Sat not marked as verb. see 2 Sad
+Sat:Sad
+Sabday:Sabd
+Saravyay:Saravyaya
+SiTilay:SiTilaya
+Sir:SrI
+SIlay:SIlaya
+SraTAy:SraTAya
+Sravasy:Sravasya
+; Sruz in mw is 'collateral form of 1 Sru'; not marked as verb
+Sruz:Sru
+SlakzRay:SlakzRaya
+Slokay:Slokaya
+SvA:Svi
+zWu:zWIv
+saMDay:saMDaya
+sapary:saparya
+saBAjay:saBAj
+sAntvay:sAntv
+sUcay:sUc
+sUtray:sUtr
+skaBAy:skaB
+skuB:skumB
+staBAy:staB
+spUrD:spfD
+spfhay:spfh
+; mw has hel, but not marked as verb
+hel:hil
+; --------------------------------------
+ar:f
+;arc:fc
+arC:fC
+;arj:fj
+arTay:arT
+;ard:fd
+arD:fD
+arz:fz
+;arh:fh
+;AkarRay:AkfRay
+iD:inD
+kar:kf
+;kart:kft
+karS:kfS
+karz:kfz
+kalp:kxp
+;kA:kE
+;kzar:kzf
+kzA:kzE
+KA:KE
+;KyA:KyE
+;gar:gf
+;garj:gfj
+garD:gfD
+;garh:gfh
+;gA:gE
+graB:grah
+glA:glE
+;Gar:Gf
+Garz:Gfz
+;GrA:GrE
+;car:cf
+;caraRy:cfaRy
+;carc:cfc
+cart:cft
+Card:Cfd
+;CA:CE
+jar:jf
+;jYA:jYE
+;jyA:jyE
+;jvar:jvf
+;tar:tf
+;taruz:tfuz
+;tark:tfk
+;tarj:tfj
+;tard:tfd
+tarp:tfp
+tarz:tfz
+tarh:tfh
+trA:trE
+;tvar:tvf
+;tsar:tsf
+dar:df
+darp:dfp
+darB:dfB
+darS:dfS
+darh:dfh
+;dA:dE
+;drA:drE
+Dar:Df
+Darz:Dfz
+;DA:DE
+DyA:DyE
+nart:nft
+;nard:nfd
+par:pf
+parc:pfc
+;pA:pE
+pyA:pyE
+;prA:prE
+;psA:psE
+;barh:bfh
+Bar:Bf
+;Barts:Bfts
+;BA:BE
+mar:mf
+marC:mfC
+;marj:mfj
+marq:mfq
+mard:mfd
+marD:mfD
+marS:mfS
+marz:mfz
+;mA:mE
+;miTyA:miTyE
+;mnA:mnE
+mlA:mlE
+;yA:yE
+;rA:rE
+lakzay:lakz
+;lA:lE
+var:vf
+varj:vfj
+vart:vft
+;varD:vfD
+varz:vfz
+;varzAlI:vfzAlI
+;vA:vE
+vAsay:vAs
+;vilAtar:vilAtf
+;viletar:viletf
+;vivarRamaRI:vivfRamaRI
+vyA:vye
+;Sad:Sat
+Sar:SF
+;Saravyay:Sfavyay
+SarD:SfD
+;SA:SE
+SyA:SyE
+;SrA:SrE
+;SvA:SvE
+;sapary:sapfy
+sar:sf
+;sarj:sfj
+sarp:sfp
+;sA:sE
+skad:skand
+star:stf
+styA:styE
+;sTA:sTE
+;snA:snE
+spar:spf
+;sparD:spfD
+;sparS:spfS
+;sPar:sPf
+smar:smf
+srA:srE
+;svar:svf
+har:hf
+;hary:hfy
+harz:hfz
+;hA:hE
+hvar:hvf
+hvA:hve
+;------------------------------------------------------
+; difficult to classify
+;avaDIray:avaDIr
+;mit sam -> samavaDIraya
+;AkarRay:AkarRaya
+;AliNg:AliNg
+;inakz:inakz  Not classed as verb in mwverbs
+;gulPay no verb match
+;jaNgah  no mw match
+;jin no mw match
+;taruz  mw taruz is a base of tF
+;dIdi  not verb in mw.  How related to dIDi:dIDI ?
+;patay  prob. Causal of pat
+;paty  no mw. related to pati  (patyate)
+;pruzvAy:pruzvAya   
+;mlup:mlup   another form of mluc.  Not marked as verb in MW.
+; remapping, based on upasarga mapping.
+barh:bfh
+ac:aYc
+sparS:spfS
+kart:kft
+gar:gF
+tard:tfd
+marj:mfj
+raj:raYj
+sA:so
+syad:syand
+svar:svf
