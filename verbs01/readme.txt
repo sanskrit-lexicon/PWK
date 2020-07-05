@@ -1,5 +1,5 @@
 
-verbs01a for pw.
+verbs01 for pw.
 
 Analysis of pw verbs and upasargas.
 This work was done in a temporary subdirectory (temp_verbs01a) of csl-orig/v02/pw/.
