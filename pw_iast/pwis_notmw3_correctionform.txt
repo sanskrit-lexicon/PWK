@@ -151,8 +151,8 @@ Case 0022: Agasi 1 agasi : Corrected_SLP1=
 ; Suggestion method: (Auto1X)   Corrected by: 
 ; Suggestions: agasti,atasi,agati
 ; -------------------------------------------------------------
-Case 0023: Agastiya 4 agastiya : Corrected_SLP1=
-; Suggestion method: (Auto1X)   Corrected by: 
+Case 0023: Agastiya 4 agastiya : Corrected_SLP1=Agastya
+; Suggestion method: (Auto1X)   Corrected by: funderburkjim
 ; Suggestions: agastIya,agastya
 ; -------------------------------------------------------------
 Case 0024: Agnikayana 1 agnikayana : Corrected_SLP1=
