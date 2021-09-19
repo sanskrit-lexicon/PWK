@@ -906,7 +906,7 @@
 ;; Case 0906: L=43228, k1=jez, k2=*jez, code=3, mw=jez
 ;; Case 0907: L=43230, k1=jeh, k2=jeh, code=3U, mw=jeh
 ;; Case 0908: L=43318, k1=jYA, k2=jYA, code=3U, mw=jYA
-;; Case 0909: L=43423, k1=jYAnIy, k2=*jYAnIy, code=3, mw=?
+;; Case 0909: L=43423, k1=jYAnIy, k2=*jYAnIy, code=3, mw=jYAnIya
 ;; Case 0910: L=43446, k1=jYOdAnIy, k2=*jYOdAnIy, code=3, mw=?
 ;; Case 0911: L=43453, k1=jyA, k2=jyA, code=U, mw=jyA
 ;; Case 0912: L=43463, k1=jyApay, k2=*jyApay, code=3, mw=jyA
@@ -1123,7 +1123,7 @@
 ;; Case 1123: L=49734, k1=dAmalihy, k2=*dAmalihy, code=3, mw=dAmalihya
 ;; Case 1124: L=49756, k1=dAy, k2=*dAy, code=3, mw=dAy
 ;; Case 1125: L=49822, k1=dAruRAy, k2=dAruRAy, code=3, mw=dAruRAya
-;; Case 1126: L=49907, k1=dAvadahanajvAlAkalApay, k2=dAvadahanajvAlAkalApay, code=3, mw=dAvadahanajvAlAkalApaya
+;; Case 1126: L=49907, k1=dAvadahanajvAlAkalApay, k2=dAvadahanajvAlAkalApay, code=3, mw=dAvadahanajvAlAkalApAya
 ;; Case 1127: L=49917, k1=dAS, k2=dAS, code=U, mw=dAS
 ;; Case 1128: L=49962, k1=dAs, k2=dAs, code=U, mw=dAs
 ;; Case 1129: L=49998, k1=dAsAy, k2=dAsAy, code=3, mw=dAsAya

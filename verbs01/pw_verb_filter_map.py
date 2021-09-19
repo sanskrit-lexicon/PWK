@@ -265,7 +265,7 @@ map2mw_special = {
  'prASApay':'prAS', # caus. of prefix pra + aS
  'maRway':'maRw',
  'SUray':'SUr',
- '':'',
+ 'dAvadahanajvAlAkalApay':'dAvadahanajvAlAkalApAya',
  '':'',
 
  

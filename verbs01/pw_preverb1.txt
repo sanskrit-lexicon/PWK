@@ -1129,7 +1129,7 @@
 48        sam        kar               saMkar                saMkf yes sam+kf
 49     aBisam        kar            aBisaMkar             aBisaMkf no 
 50     upasam        kar            upasaMkar             upasaMkf no 
-51   pratisam        kar          pratisaMkar          pratisaMskf yes prati+sam+skf
+51   pratisam        kar          pratisaMkar          pratisaMskf yes prati+sam+kf
 ;
 ;; Case 0325: L=24529, k1=kar, k2=kar, code=3U, #upasargas=32 (29/3), mw=kf (diff)
 01      vyati        kar             vyatikar              vyatikf yes vi+ati+kf
@@ -3162,7 +3162,7 @@
 33     aBisam        jYA            aBisamjYA            aBisaMjYA yes aBi+sam+jYA
 34   pratisam        jYA          pratisamjYA          pratisaMjYA yes prati+sam+jYA
 ;
-;; Case 0909: L=43423, k1=jYAnIy, k2=*jYAnIy, code=3, #upasargas=0, mw=?
+;; Case 0909: L=43423, k1=jYAnIy, k2=*jYAnIy, code=3, #upasargas=0, mw=jYAnIya (diff)
 ;; Case 0910: L=43446, k1=jYOdAnIy, k2=*jYOdAnIy, code=3, #upasargas=0, mw=?
 ;; Case 0911: L=43453, k1=jyA, k2=jyA, code=U, #upasargas=2 (0/2), mw=jyA (same)
 01        aDi        jyA               aDijyA               aDijyA no 
@@ -3898,7 +3898,7 @@
 ;; Case 1123: L=49734, k1=dAmalihy, k2=*dAmalihy, code=3, #upasargas=0, mw=dAmalihya (diff)
 ;; Case 1124: L=49756, k1=dAy, k2=*dAy, code=3, #upasargas=0, mw=dAy (same)
 ;; Case 1125: L=49822, k1=dAruRAy, k2=dAruRAy, code=3, #upasargas=0, mw=dAruRAya (diff)
-;; Case 1126: L=49907, k1=dAvadahanajvAlAkalApay, k2=dAvadahanajvAlAkalApay, code=3, #upasargas=0, mw=dAvadahanajvAlAkalApaya (diff)
+;; Case 1126: L=49907, k1=dAvadahanajvAlAkalApay, k2=dAvadahanajvAlAkalApay, code=3, #upasargas=0, mw=dAvadahanajvAlAkalApAya (diff)
 ;; Case 1127: L=49917, k1=dAS, k2=dAS, code=U, #upasargas=2 (2/0), mw=dAS (same)
 01        ati        dAS               atidAS               atidAS yes ati+dAS
 02         vi        dAS                vidAS                vidAS yes vi+dAS
@@ -6194,7 +6194,7 @@
 ;; Case 1704: L=83662, k1=marC, k2=marC, code=3U, #upasargas=1 (0/1), mw=mfC (diff)
 01        aBi       marC              aBimarC               aBimfC no 
 ;
-;; Case 1705: L=83663, k1=marj, k2=marj, code=U, #upasargas=19 (12/7), mw=mfj (diff)
+;; Case 1705: L=83663, k1=marj, k2=marj, code=U, #upasargas=20 (13/7), mw=mfj (diff)
 01        anu       marj              anumarj               anumfj yes anu+mfj
 02        apa       marj              apamarj               apamfj yes apa+mfj
 03        aBi       marj              aBimarj               aBimfj yes aBi+mfj
@@ -6207,13 +6207,14 @@
 10         ni       marj               nimarj                nimfj yes ni+mfj
 11        nis       marj              nirmarj               nirmfj yes nir+mfj
 12       parA       marj             parAmarj              parAmfj no 
-13        pra       marj              pramarj               pramfj yes pra+mfj
-14      vipra       marj            vipramarj             vipramfj no 
-15      prati       marj            pratimarj             pratimfj no 
-16         vi       marj               vimarj                vimfj yes vi+mfj
-17      anuvi       marj            anuvimarj             anuvimfj no 
-18      aBivi       marj            aBivimarj             aBivimfj yes aBi+vi+mfj
-19        saM       marj              saMmarj               saMmfj no 
+13       pari       marj             parimarj              parimfj yes pari+mfj
+14        pra       marj              pramarj               pramfj yes pra+mfj
+15      vipra       marj            vipramarj             vipramfj no 
+16      prati       marj            pratimarj             pratimfj no 
+17         vi       marj               vimarj                vimfj yes vi+mfj
+18      anuvi       marj            anuvimarj             anuvimfj no 
+19      aBivi       marj            aBivimarj             aBivimfj yes aBi+vi+mfj
+20        saM       marj              saMmarj               saMmfj no 
 ;
 ;; Case 1706: L=83664, k1=marj, k2=*marj, code=3, #upasargas=0, mw=mfj (diff)
 ;; Case 1707: L=83667, k1=marq, k2=marq, code=3U, #upasargas=1 (0/1), mw=mfq (diff)

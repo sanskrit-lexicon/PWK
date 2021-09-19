@@ -177,6 +177,7 @@ prollaNG:141299:preverb::pra+ud+laNG
 plAy:141444:preverb:Ā:pla+i
 vicCo:194949:preverb::vi+Co
 vinizpIq:197169:preverb:P:vi+nis+pIq
+vipalAy:197741:preverb::vi+palA+i
 vipalyay:197747:preverb:Ā:vi+pari+ay
 vizkamB:202275:preverb:P:vi+skamB
 vizpf:202669:preverb::vi+spf
@@ -243,6 +244,7 @@ saMgE:228579:preverb:P:sam+gE
 saMgraB:228610&228613.1:preverb:PĀ:sam+graB
 saMgrah:228613:preverb:PĀ:sam+grah
 saMgrAm:228691:preverb:PĀ:sam+grAm
+saMcIvaraya:229189:preverb:Ā:sam+cIvaraya
 saMcUrR:229197:preverb:P:sam+cUrR
 saMjF:229363&229364:preverb:P,Ā:sam+jF
 saMtvar:231374:preverb:Ā:sam+tvar
@@ -263,6 +265,7 @@ samutsfp:235213:preverb:P:sam+ud+sfp
 samunmUl:235585:preverb:P:sam+ud+mUl
 samupanyas:235631:preverb:P:sam+upa+ni+as
 samupAruj:235719:preverb::sam+upa+A+ruj
+sampalAy:236125:preverb::sam+palA+i
 sampratIz:236402:preverb:P:sam+prati+iz
 samprAS:236686:preverb:P:sam+pra+aS
 svASliz:259762:preverb:P:su+A+Sliz
