@@ -1,0 +1,773 @@
+3728 old <L>1199<pc>017-1<k1>atiyAcYA<k2>atiyācnā
+3728 new <L>1199<pc>017-1<k1>atiyAcYA<k2>atiyācñā
+; print change
+3729 old °{%atiyācnā%}¦ f. Zudringlichkeit, Kauṭ. 184, 11. {part=,seq=1224,type=°,n=2}
+3729 new °{%atiyācñā%}¦ f. Zudringlichkeit, Kauṭ. 184, 11. {part=,seq=1224,type=°,n=2}
+;---------------------------------------------------------
+4837 old <L>1562<pc>021-3<k1>aduHspfzwa<k2>aduḥspṛṣta
+4837 new <L>1562<pc>021-3<k1>aduHspfzwa<k2>aduḥspṛṣṭa
+; print change
+;4838 old {%aduḥspṛṣṭa%}¦ Adj. nicht falsch artikuliert, Saṃhitop. 9, 3, 6. {part=,seq=1588,type=,n=2}
+;4838 new {%aduḥspṛṣṭa%}¦ Adj. nicht falsch artikuliert, Saṃhitop. 9, 3, 6. {part=,seq=1588,type=,n=2}
+;---------------------------------------------------------
+7093 old <L>2295<pc>031-3<k1>anAkANkzya<k2>anākāṅksya
+7093 new <L>2295<pc>031-3<k1>anAkANkzya<k2>anākāṅkṣya
+; print change
+7094 old {%anākāṅkṣya%}¦ n. das Nichtfordern einer Ergänzung, P. 3, 4, 23. {part=,seq=2329,type=,n=2}
+7094 new {%anākāṅkṣya%}¦ n. das Nichtfordern einer Ergänzung, P. 3, 4, 23. {part=,seq=2329,type=,n=2}
+;---------------------------------------------------------
+10192 old <L>3302<pc>045-2<k1>apadAnta<k2>apadāñta
+10192 new <L>3302<pc>045-2<k1>apadAnta<k2>apadānta
+;
+;10193 old {%apadānta%}¦ m. nicht der Auslaut eines Wortes, P. 8, 3, 24. {part=,seq=3347,type=,n=2}
+;10193 new {%apadānta%}¦ m. nicht der Auslaut eines Wortes, P. 8, 3, 24. {part=,seq=3347,type=,n=2}
+;---------------------------------------------------------
+10283 old <L>3332<pc>045-3<k1>apapivaMs<k2>ápapivāms
+10283 new <L>3332<pc>045-3<k1>apapivaMs<k2>ápapiváṃs
+;
+;10284 old {%ápapivaṃs%}¦ (schwach {%ápapus%}) nicht getrunken habend, AV. 6, 139, 4. {part=,seq=3377,type=,n=2}
+;10284 new {%ápapiváṃs%}¦ (schwach {%ápapus%}) nicht getrunken habend, AV. 6, 139, 4. {part=,seq=3377,type=,n=2}
+;---------------------------------------------------------
+11652 old <L>3775<pc>052-1<k1>apratizWAyuka<k2>ápratiṣthāyuka
+11652 new <L>3775<pc>052-1<k1>apratizWAyuka<k2>ápratiṣṭhāyuka
+;
+11653 old {%ápratiṣṭhāyuka%}¦ [so zu betonen!]. {part=,seq=3827,type=,n=1}
+11653 new {%ápratiṣṭhāyuka%}¦ [so zu betonen!]. {part=,seq=3827,type=,n=1}
+;---------------------------------------------------------
+12820 old <L>4155<pc>057-2<k1>aBirudgatA<k2>abhiruḍgatā
+12820 new <L>4155<pc>057-2<k1>aBirudgatA<k2>abhirudgatā
+;
+;12821 old {%abhirudgatā%}¦ s. {%abhyudgatā%}. {part=,seq=4211,type=,n=1}
+;12821 new {%abhirudgatā%}¦ s. {%abhyudgatā%}. {part=,seq=4211,type=,n=1}
+;---------------------------------------------------------
+13968 old <L>4531<pc>062-1<k1>amRas<k2>amṇās
+13968 new <L>4531<pc>062-1<k1>amRas<k2>amṇás
+;
+;13969 old {%amṇás%}¦ Adv. = {%amnás%}, Maitr. S. 1, 6, 10 (102, 8); 10, 10 (150, 12). {part=,seq=4589,type=,n=2}
+;13969 new {%amṇás%}¦ Adv. = {%amnás%}, Maitr. S. 1, 6, 10 (102, 8); 10, 10 (150, 12). {part=,seq=4589,type=,n=2}
+;---------------------------------------------------------
+15601 old <L>5057<pc>069-1<k1>alakzmIka<k2>alaksmīka
+15601 new <L>5057<pc>069-1<k1>alakzmIka<k2>alakṣmīka
+; print change
+15602 old {%alakṣmīka%}¦ °ohne Reichtum, S I, 419, 5 v.u. (Ko.). {part=,seq=5126,type=,n=2}
+15602 new {%alakṣmīka%}¦ °ohne Reichtum, S I, 419, 5 v.u. (Ko.). {part=,seq=5126,type=,n=2}
+;---------------------------------------------------------
+16407 old <L>5317<pc>072-3<k1>avapfzWI<k2>avapṛṣthī
+16407 new <L>5317<pc>072-3<k1>avapfzWI<k2>avapṛṣṭhī
+;
+;16408 old {%avapṛṣṭhī%}¦ Adv. mit {%bhū%}, Divyāvad. 326, 1. Vgl. {%pṛṣṭhī%}. {part=,seq=5391,type=,n=2}
+;16408 new {%avapṛṣṭhī%}¦ Adv. mit {%bhū%}, Divyāvad. 326, 1. Vgl. {%pṛṣṭhī%}. {part=,seq=5391,type=,n=2}
+;---------------------------------------------------------
+17621 old <L>5714<pc>078-1<k1>avfzwikAma<k2>avṛṣtikāma
+17621 new <L>5714<pc>078-1<k1>avfzwikAma<k2>avṛṣṭikāma
+;
+;17622 old {%avṛṣṭikāma%}¦ Adj. keinen Regen wünschend, Āpast. Śr. 7, 11, 7. {part=,seq=5790,type=,n=2}
+;17622 new {%avṛṣṭikāma%}¦ Adj. keinen Regen wünschend, Āpast. Śr. 7, 11, 7. {part=,seq=5790,type=,n=2}
+;---------------------------------------------------------
+19366 old <L>6274<pc>086-2<k1>asiyazwi<k2>asiyasṭi
+19366 new <L>6274<pc>086-2<k1>asiyazwi<k2>asiyaṣṭi
+;
+;19367 old {%asiyaṣṭi%}¦ f. Schwertklinge, Varāh. Bṛh. S. 50, 6. {part=,seq=6360,type=,n=2}
+;19367 new {%asiyaṣṭi%}¦ f. Schwertklinge, Varāh. Bṛh. S. 50, 6. {part=,seq=6360,type=,n=2}
+;---------------------------------------------------------
+22080 old <L>7155<pc>098-1<k1>AmUrDAntam<k2>āmūṛdhāntam
+22080 new <L>7155<pc>098-1<k1>AmUrDAntam<k2>āmūrdhāntam
+;
+;22081 old {%āmūrdhāntam%}¦ Adv. bis zum Scheitel, Kathās. 65, 119. {part=,seq=7253,type=,n=2}
+;22081 new {%āmūrdhāntam%}¦ Adv. bis zum Scheitel, Kathās. 65, 119. {part=,seq=7253,type=,n=2}
+;---------------------------------------------------------
+22278 old <L>7218.1<pc>099-1<k1>Ara<k2>ā̀̀ra
+22278 new <L>7218.1<pc>099-1<k1>Ara<k2>āra
+;
+;22279 old {%āra%}¦ m. ° = {%āgamana%}, H 5, 135; 43, 155. 274. {part=,seq=7318,type=,n=2}
+;22279 new {%āra%}¦ m. ° = {%āgamana%}, H 5, 135; 43, 155. 274. {part=,seq=7318,type=,n=2}
+;---------------------------------------------------------
+23578 old <L>7636<pc>105-1<k1>indindirA<k2>inḍindirā
+23578 new <L>7636<pc>105-1<k1>indindirA<k2>indindirā
+;
+;23579 old {%indindirā%}¦ , auch {%*indindira%} m. Deśin. 1, 79. [S 2, 355, 17.] {part=,seq=7744,type=,n=4}
+;23579 new {%indindirā%}¦ , auch {%*indindira%} m. Deśin. 1, 79. [S 2, 355, 17.] {part=,seq=7744,type=,n=4}
+;---------------------------------------------------------
+23729 old <L>7686<pc>105-2<k1>indranIlamaRimaya<k2>indranīlamaṇimaya=indranīlamaya
+23729 new <L>7686<pc>105-2<k1>indranIlamaRimaya<k2>indranīlamaṇimaya
+;
+;23730 old {%indranīlamaṇimaya%}¦ = {%indranīlamaya%} Hemādri 1, 280, 7. {part=,seq=7794,type=,n=2}
+;23730 new {%indranīlamaṇimaya%}¦ = {%indranīlamaya%} Hemādri 1, 280, 7. {part=,seq=7794,type=,n=2}
+;---------------------------------------------------------
+23769 old <L>7699<pc>105-3<k1>indravaDUwikA<k2>indravadhūṭikā=indragopa
+23769 new <L>7699<pc>105-3<k1>indravaDUwikA<k2>indravadhūṭikā
+;
+23770 old °{%indravadhūṭikā=indragopa%}¦ (Coccinelle), S I, 543, 14 v.u. (Ko.). {part=,seq=7807,type=°,n=2}
+23770 new °{%indravadhūṭikā%}¦ = {%indragopa%} (Coccinelle), S I, 543, 14 v.u. (Ko.). {part=,seq=7807,type=°,n=2}
+;---------------------------------------------------------
+23772 old <L>7700<pc>105-3<k1>indravaDU<k2>indravadhū=apsaras
+23772 new <L>7700<pc>105-3<k1>indravaDU<k2>indravadhū
+;
+23773 old °{%indravadhū=apsaras%}¦ , Śrīk. XXIV, 2. {part=,seq=7808,type=°,n=1}
+23773 new °{%indravadhū%}¦ = {%apsaras%}, Śrīk. XXIV, 2. {part=,seq=7808,type=°,n=1}
+;---------------------------------------------------------
+24691 old <L>7998<pc>110-1<k1>utkallolita<k2>utkallolita=uttaraṅgita
+24691 new <L>7998<pc>110-1<k1>utkallolita<k2>utkallolita
+;
+24692 old °{%utkallolita=uttaraṅgita%}¦ , S II, 33, 14. v.u. (Ko.). {part=,seq=8110,type=°,n=2}
+24692 new °{%utkallolita%}¦ = {%uttaraṅgita%}, S II, 33, 14. v.u. (Ko.). {part=,seq=8110,type=°,n=2}
+;---------------------------------------------------------
+24694 old <L>7999<pc>110-1<k1>utkallolIkfta<k2>utkallolīkṛta=taraṅgita
+24694 new <L>7999<pc>110-1<k1>utkallolIkfta<k2>utkallolīkṛta
+;
+24695 old °{%utkallolīkṛta=taraṅgita%}¦ , S I, 467, 12 (Ko.). {part=,seq=8111,type=°,n=2}
+24695 new °{%utkallolīkṛta%}¦ = {%taraṅgita%}, S I, 467, 12 (Ko.). {part=,seq=8111,type=°,n=2}
+;---------------------------------------------------------
+24862 old <L>8054<pc>110-3<k1>uttamBIkfta<k2>uttambhīkṛta=niścalīkṛta
+24862 new <L>8054<pc>110-3<k1>uttamBIkfta<k2>uttambhīkṛta
+;
+24863 old °{%uttambhīkṛta=niścalīkṛta%}¦ , S I, 496, 7. {part=,seq=8166,type=°,n=1}
+24863 new °{%uttambhīkṛta%}¦ = {%niścalīkṛta%}, S I, 496, 7. {part=,seq=8166,type=°,n=1}
+;---------------------------------------------------------
+25048 old <L>8114<pc>111-3<k1>uttuRqa<k2>uttuṇḍa=ūrdhvamukha
+25048 new <L>8114<pc>111-3<k1>uttuRqa<k2>uttuṇḍa
+;
+25049 old °{%uttuṇḍa=ūrdhvamukha%}¦ , S I, 70, 3. — Harṣac. 230, 4 rearing (of horses). {part=,seq=8227,type=°,n=2}
+25049 new °{%uttuṇḍa%}¦ = {%ūrdhvamukha%}, S I, 70, 3. — Harṣac. 230, 4 rearing (of horses). {part=,seq=8227,type=°,n=2}
+;---------------------------------------------------------
+25087 old <L>8127<pc>111-3<k1>utTA<k2>utthā=utthāna
+25087 new <L>8127<pc>111-3<k1>utTA<k2>utthā
+;
+25088 old °{%utthā=utthāna%}¦ , S II, 86, 9 (3 v.u. Ko.). {part=,seq=8240,type=°,n=2}
+25088 new °{%utthā%}¦ = {%utthāna%}, S II, 86, 9 (3 v.u. Ko.). {part=,seq=8240,type=°,n=2}
+;---------------------------------------------------------
+25431 old <L>8239<pc>113-2<k1>udakya<k2>udakya=udaśyāmāka
+25431 new <L>8239<pc>113-2<k1>udakya<k2>udakya
+;
+;25432 old {%udakya%}¦ = {%udaśyāmāka%}, Kauś. 22, 10. {part=,seq=8353,type=,n=1}
+;25432 new {%udakya%}¦ = {%udaśyāmāka%}, Kauś. 22, 10. {part=,seq=8353,type=,n=1}
+;---------------------------------------------------------
+25449 old <L>8245<pc>113-2<k1>udagratA<k2>udagratā=unnatatā
+25449 new <L>8245<pc>113-2<k1>udagratA<k2>udagratā
+;
+25450 old °{%udagratā=unnatatā%}¦ , S I, 297, 2. {part=,seq=8359,type=°,n=1}
+25450 new °{%udagratā%}¦ = {%unnatatā%}, S I, 297, 2. {part=,seq=8359,type=°,n=1}
+;---------------------------------------------------------
+26081 old <L>8452<pc>116-1<k1>unnatatA<k2>unnatatā=unnatatva
+26081 new <L>8452<pc>116-1<k1>unnatatA<k2>unnatatā
+;
+26082 old °{%unnatatā=unnatatva%}¦ , S I, 149, 14 v.u. (Ko.); 297, 15 (Ko.). {part=,seq=8567,type=°,n=2}
+26082 new °{%unnatatā%}¦ = {%unnatatva%}, S I, 149, 14 v.u. (Ko.); 297, 15 (Ko.). {part=,seq=8567,type=°,n=2}
+;---------------------------------------------------------
+26121 old <L>8465<pc>116-2<k1>unmattIkfta<k2>unmattīkṛta=unmādita
+26121 new <L>8465<pc>116-2<k1>unmattIkfta<k2>unmattīkṛta
+;
+26122 old °{%unmattīkṛta=unmādita%}¦ , S II, 224, 7 v.u. (Ko.). {part=,seq=8580,type=°,n=2}
+26122 new °{%unmattīkṛta%}¦ = {%unmādita%}, S II, 224, 7 v.u. (Ko.). {part=,seq=8580,type=°,n=2}
+;---------------------------------------------------------
+31845 old <L>10310<pc>142-2<k1>kARqarika<k2>kāṇdarika
+31845 new <L>10310<pc>142-2<k1>kARqarika<k2>kāṇḍarika
+;
+31846 old *{%kāṇdarika%}¦ Adj. Mahāvy. 271, 28. {part=,seq=10459,type=*,n=1}
+31846 new *{%kāṇḍarika%}¦ Adj. Mahāvy. 271, 28. {part=,seq=10459,type=*,n=1}
+;---------------------------------------------------------
+36565 old <L>11831<pc>162-3<k1>KaRqenduSiromaRi<k2>khaṇdenduśiromaṇi
+36565 new <L>11831<pc>162-3<k1>KaRqenduSiromaRi<k2>khaṇḍenduśiromaṇi
+;
+36566 old °{%khaṇdenduśiromaṇi%}¦ m. = Śiva, Laṭ. I, 2^d. {part=,seq=12011,type=°,n=2}
+36566 new °{%khaṇḍenduśiromaṇi%}¦ m. = Śiva, Laṭ. I, 2^d. {part=,seq=12011,type=°,n=2}
+;---------------------------------------------------------
+36851 old <L>11923<pc>164-1<k1>Kuqula<k2>Kkuḍula
+36851 new <L>11923<pc>164-1<k1>Kuqula<k2>Khuḍula
+;
+;36852 old {%Khuḍula%}¦ m. N. pr. eines Gelehrten, Śāśvata 806. Vgl. XVIII, N. 2. {part=,seq=12105,type=,n=2}
+;36852 new {%Khuḍula%}¦ m. N. pr. eines Gelehrten, Śāśvata 806. Vgl. XVIII, N. 2. {part=,seq=12105,type=,n=2}
+;---------------------------------------------------------
+38346 old <L>12405<pc>171-1<k1>gUQacaraRa<k2>guḍhacaraṇa
+38346 new <L>12405<pc>171-1<k1>gUQacaraRa<k2>gūḍhacaraṇa
+;
+38347 old °{%guḍhacaraṇa%}¦ m. Schlange, H 39, 36. {part=,seq=12595,type=°,n=1}
+38347 new °{%gūḍhacaraṇa%}¦ m. Schlange, H 39, 36. {part=,seq=12595,type=°,n=1}
+;---------------------------------------------------------
+43208 old <L>13971<pc>192-3<k1>jUwikAbanDa<k2>jūṭikābaṅdha
+43208 new <L>13971<pc>192-3<k1>jUwikAbanDa<k2>jūṭikābandha
+;
+43209 old °{%jūṭikābaṅdha%}¦ coiled hair, Harṣac. 37, 8. {part=,seq=14194,type=°,n=2}
+43209 new °{%jūṭikābandha%}¦ coiled hair, Harṣac. 37, 8. {part=,seq=14194,type=°,n=2}
+;---------------------------------------------------------
+46602 old <L>15071<pc>207a-3<k1>dakziRottara<k2>daksiṇottara
+46602 new <L>15071<pc>207a-3<k1>dakziRottara<k2>dakṣiṇottara
+;
+;46603 old {%dakṣiṇottara%}¦ , {%°rābhyāṃ pāṇibhyām%} mit beiden Händen, so daß die rechte Hand oberhalb zu stehen kommt, Gobh. 1, 7, 4. {part=,seq=15309,type=,n=4}
+;46603 new {%dakṣiṇottara%}¦ , {%°rābhyāṃ pāṇibhyām%} mit beiden Händen, so daß die rechte Hand oberhalb zu stehen kommt, Gobh. 1, 7, 4. {part=,seq=15309,type=,n=4}
+;---------------------------------------------------------
+47857 old <L>15479<pc>213-2<k1>durAtmaka<k2>durātmaka=duṣkarman
+47857 new <L>15479<pc>213-2<k1>durAtmaka<k2>durātmaka
+;
+47858 old °{%durātmaka=duṣkarman%}¦ , S II, 154, 12 (Ko.). {part=,seq=15720,type=°,n=2}
+47858 new °{%durātmaka%}¦ = {%duṣkarman%}, S II, 154, 12 (Ko.). {part=,seq=15720,type=°,n=2}
+;---------------------------------------------------------
+48070 old <L>15549<pc>214-2<k1>durvyavahfti<k2>durvyavahṛṣti
+48070 new <L>15549<pc>214-2<k1>durvyavahfti<k2>durvyavahṛti
+;
+;48071 old {%durvyavahṛti%}¦ f. übles Gerede, Mahā-vīrac. 48, 8. {part=,seq=15790,type=,n=2}
+;48071 new {%durvyavahṛti%}¦ f. übles Gerede, Mahā-vīrac. 48, 8. {part=,seq=15790,type=,n=2}
+;---------------------------------------------------------
+49016 old <L>15859<pc>218-3<k1>dvayAtiga<k2>dvayātiga=rāgadveṣarahita
+49016 new <L>15859<pc>218-3<k1>dvayAtiga<k2>dvayātiga
+;
+49017 old *{%dvayātiga=rāgadveṣarahita%}¦ , S I, 134, 2. {part=,seq=16101,type=*,n=2}
+49017 new *{%dvayātiga%}¦ = {%rāgadveṣarahita%}, S I, 134, 2. {part=,seq=16101,type=*,n=2}
+;---------------------------------------------------------
+49220 old <L>15925<pc>219-3<k1>dvipANganA<k2>dvipāṅganā=hastinī
+49220 new <L>15925<pc>219-3<k1>dvipANganA<k2>dvipāṅganā
+;
+49221 old °{%dvipāṅganā=hastinī%}¦ (eine Art nāyikā), E 414 (A). 2. {%*dvipātra%} Adj. (f. {%ī%}) zwei {%pātra%} genannte Hohlmaße enthaltend, P. 5, 1, 54 Sch. — Auch: in zwei Gefäßen enthalten, TS. 6, 4, 9, 3. {part=,seq=16168,type=°,n=6}
+49221 new °{%dvipāṅganā%}¦ = {%hastinī%} (eine Art nāyikā), E 414 (A). 2. {%*dvipātra%} Adj. (f. {%ī%}) zwei {%pātra%} genannte Hohlmaße enthaltend, P. 5, 1, 54 Sch. — Auch: in zwei Gefäßen enthalten, TS. 6, 4, 9, 3. {part=,seq=16168,type=°,n=6}
+;---------------------------------------------------------
+49473 old <L>16007<pc>221-1<k1>DanASin<k2>dhanāśin=dhanabhakṣaka
+49473 new <L>16007<pc>221-1<k1>DanASin<k2>dhanāśin
+;
+49474 old °{%dhanāśin=dhanabhakṣaka%}¦ , S I, 424, 2. {part=,seq=16250,type=°,n=1}
+49474 new °{%dhanāśin%}¦ = {%dhanabhakṣaka%}, S I, 424, 2. {part=,seq=16250,type=°,n=1}
+;---------------------------------------------------------
+52374 old <L>16948<pc>234-1<k1>nirBrAntitA<k2>nirbhrantitā
+52374 new <L>16948<pc>234-1<k1>nirBrAntitA<k2>nirbhrāntitā
+;
+52375 old °{%nirbhrantitā%}¦ , S I, 457, 5 v.u. (Ko.) = {%nāstikata%}. Vgl. {%nibhrāntitā%}. {part=,seq=17202,type=°,n=2}
+52375 new °{%nirbhrāntitā%}¦ , S I, 457, 5 v.u. (Ko.) = {%nāstikata%}. Vgl. {%nibhrāntitā%}. {part=,seq=17202,type=°,n=2}
+;---------------------------------------------------------
+53000 old <L>17152<pc>236-3<k1>nizpUtiganDika<k2>niṣpūtigaṇdhika
+53000 new <L>17152<pc>236-3<k1>nizpUtiganDika<k2>niṣpūtigandhika
+;
+;53001 old {%niṣpūtigandhika%}¦ Adj. nicht stinkend, Divyāvad. 120, 2. {part=,seq=17408,type=,n=2}
+;53001 new {%niṣpūtigandhika%}¦ Adj. nicht stinkend, Divyāvad. 120, 2. {part=,seq=17408,type=,n=2}
+;---------------------------------------------------------
+;54580 old <L>17667<pc>244-1<k1>pattravIwA<k2>pattravīṭā̆
+;54580 new <L>17667<pc>244-1<k1>pattravIwA<k2>pattravīṭā̆
+;   new roman1_slp1 transcoding rule ā̆ -> A
+;54581 old °{%pattravīṭā̆%}¦ cork, stopper (of a jar)? Harṣac. 256, 6. {part=,seq=17926,type=°,n=2}
+;54581 new °{%pattravīṭā̆%}¦ cork, stopper (of a jar)? Harṣac. 256, 6. {part=,seq=17926,type=°,n=2}
+;---------------------------------------------------------
+58401 old <L>18913<pc>261-1<k1>pfzwimAMsAdana<k2>pṛṣṭimāmsādana
+58401 new <L>18913<pc>261-1<k1>pfzwimAMsAdana<k2>pṛṣṭimāṃsādana
+; print change
+58402 old °{%pṛṣṭimāmsādana%}¦ Subst. (n.) backbiting, Prabandh. 212, 1. Im pw {%pṛṣṭha°%} Adj. und mit * bezeichnet. {part=,seq=19182,type=°,n=3}
+58402 new °{%pṛṣṭimāṃsādana%}¦ Subst. (n.) backbiting, Prabandh. 212, 1. Im pw {%pṛṣṭha°%} Adj. und mit * bezeichnet. {part=,seq=19182,type=°,n=3}
+;---------------------------------------------------------
+60925 old <L>19737<pc>272-2<k1>prANmuKAYcana<k2>prāṇmukhāñcana
+60925 new <L>19737<pc>272-2<k1>prANmuKAYcana<k2>prāṅmukhāñcana
+; print change
+;60926 old {%prāṅmukhāñcana%}¦ Adj. = {%prāṅmukha%} 1., Sāy. zu ṚV. 10, 18, 3. {part=,seq=20012,type=,n=2}
+;60926 new {%prāṅmukhāñcana%}¦ Adj. = {%prāṅmukha%} 1., Sāy. zu ṚV. 10, 18, 3. {part=,seq=20012,type=,n=2}
+;---------------------------------------------------------
+62072 old <L>20108<pc>277-2<k1>bahirvESravaRa<k2>Bahirvraiśravaṇa
+62072 new <L>20108<pc>277-2<k1>bahirvESravaRa<k2>Bahirvaiśravaṇa
+; print change
+62073 old °{%Bahirvraiśravaṇa%}¦ eine best. Gottheit, Mgs II, 12, 10. {part=,seq=20388,type=°,n=2}
+62073 new °{%Bahirvaiśravaṇa%}¦ eine best. Gottheit, Mgs II, 12, 10. {part=,seq=20388,type=°,n=2}
+;---------------------------------------------------------
+63417 old <L>20548<pc>283-2<k1>BAMkfti<k2>bhāmkṛti
+63417 new <L>20548<pc>283-2<k1>BAMkfti<k2>bhāṃkṛti
+; print change
+63418 old °{%bhāmkṛti%}¦ f. Gesumme, Kaṃs. V, 26^b. {part=,seq=20830,type=°,n=1}
+63418 new °{%bhāṃkṛti%}¦ f. Gesumme, Kaṃs. V, 26^b. {part=,seq=20830,type=°,n=1}
+;---------------------------------------------------------
+66267 old <L>21470<pc>296-3<k1>mAMsavarRa<k2>māmsavarṇa
+66267 new <L>21470<pc>296-3<k1>mAMsavarRa<k2>māṃsavarṇa
+;print change
+66268 old °{%māmsavarṇa%}¦ Adj. fleischfarben, Kauṭ. 78, 4 v.u. {part=,seq=21765,type=°,n=2}
+66268 new °{%māṃsavarṇa%}¦ Adj. fleischfarben, Kauṭ. 78, 4 v.u. {part=,seq=21765,type=°,n=2}
+;---------------------------------------------------------
+68536 old <L>22205<pc>306-3<k1>yAjYavalkyavAdDali<k2>Yājñvalkyavāddhali
+68536 new <L>22205<pc>306-3<k1>yAjYavalkyavAdDali<k2>Yājñavalkyavāddhali
+;
+68537 old °{%Yājñvalkyavāddhali%}¦ m. N. eines Autors über Elefanten, S I, 291, 1. {part=,seq=22510,type=°,n=2}
+68537 new °{%Yājñavalkyavāddhali%}¦ m. N. eines Autors über Elefanten, S I, 291, 1. {part=,seq=22510,type=°,n=2}
+;---------------------------------------------------------
+70835 old <L>22941<pc>317-1<k1>luYcAluYca<k2>luñcālunca
+70835 new <L>22941<pc>317-1<k1>luYcAluYca<k2>luñcāluñca
+; print change
+;70836 old {%luñcāluñca%}¦ ? S I, 444, 3 [Ko. {%lañcāluñce%} (so!) = {%yaṣṭimāṃsabhakṣaṇa]%}. — Vgl. {%lañcāluñca!%} {part=,seq=23263,type=,n=3}
+;70836 new {%luñcāluñca%}¦ ? S I, 444, 3 [Ko. {%lañcāluñce%} (so!) = {%yaṣṭimāṃsabhakṣaṇa]%}. — Vgl. {%lañcāluñca!%} {part=,seq=23263,type=,n=3}
+;---------------------------------------------------------
+72521 old <L>23490<pc>324-3<k1>vApana<k2>vāpan;
+72521 new <L>23490<pc>324-3<k1>vApana<k2>vāpana
+;
+;72522 old {%vāpana%}¦ , {%śarīra°?%} Daśak. (1883) 161, 8. {part=,seq=23817,type=,n=1}
+;72522 new {%vāpana%}¦ , {%śarīra°?%} Daśak. (1883) 161, 8. {part=,seq=23817,type=,n=1}
+;---------------------------------------------------------
+74629 old <L>24175<pc>333-3<k1>viSvadfSvan<k2>viśvadrśvan
+74629 new <L>24175<pc>333-3<k1>viSvadfSvan<k2>viśvadṛśvan
+; print change
+;74630 old {%viśvadṛśvan%}¦ alles sehend, S I, 3, 1. {part=,seq=24509,type=,n=1}
+;74630 new {%viśvadṛśvan%}¦ alles sehend, S I, 3, 1. {part=,seq=24509,type=,n=1}
+;---------------------------------------------------------
+84543 old <L>27402<pc>375-2<k1>haRWA<k2>haṇthā
+84543 new <L>27402<pc>375-2<k1>haRWA<k2>haṇṭhā
+; print change
+84544 old °{%haṇthā%}¦ Sam. II, 89 Topf? {part=,seq=27766,type=°,n=1}
+84544 new °{%haṇṭhā%}¦ Sam. II, 89 Topf? {part=,seq=27766,type=°,n=1}
+;---------------------------------------------------------
+84959 old <L>27534<pc>377-2<k1>hAkazwa<k2>hākaṣta
+84959 new <L>27534<pc>377-2<k1>hAkazwa<k2>hākaṣṭa
+; print change
+84960 old °{%hākaṣta%}¦ n. cry of grief, Harṣac. 179, 16; 195, 11. {part=,seq=27902,type=°,n=2}
+84960 new °{%hākaṣṭa%}¦ n. cry of grief, Harṣac. 179, 16; 195, 11. {part=,seq=27902,type=°,n=2}
+;---------------------------------------------------------
+85097 old <L>27576<pc>378-1<k1>hiRqanaka<k2>hinḍanaka
+85097 new <L>27576<pc>378-1<k1>hiRqanaka<k2>hiṇḍanaka
+; print change
+85098 old °{%hinḍanaka%}¦ m. einer, der umherwandert, Y p. 58, Z. 5. {part=,seq=27947,type=°,n=2}
+85098 new °{%hiṇḍanaka%}¦ m. einer, der umherwandert, Y p. 58, Z. 5. {part=,seq=27947,type=°,n=2}
+;---------------------------------------------------------
+85677 old <L>27766<pc>382-2<k1>aDomuKa<k2>adhvmukha
+85677 new <L>27766<pc>382-2<k1>aDomuKa<k2>adhomukha
+; print change
+;85678 old {%adhomukha%}¦ °Subst. n. gesenktes Antlitz, Daśar. IV, 24^b. {part=N,seq=28137,type=,n=2}
+;85678 new {%adhomukha%}¦ °Subst. n. gesenktes Antlitz, Daśar. IV, 24^b. {part=N,seq=28137,type=,n=2}
+;---------------------------------------------------------
+86619 old <L>28076<pc>386-3<k1>ahimaruci<k2>+ahimaruci
+86619 new <L>28076<pc>386-3<k1>ahimaruci<k2>ahimaruci
+;
+86620 old +{%+ahimaruci%}¦ m. Sonne auch Prabandh. 170, 2 v.u. {part=N,seq=28447,type=+,n=2}
+86620 new +{%ahimaruci%}¦ m. Sonne auch Prabandh. 170, 2 v.u. {part=N,seq=28447,type=+,n=2}
+;---------------------------------------------------------
+86899 old <L>28167.1<pc>387-3<k1>AvarjanA<k2>AvarjanA
+86899 new <L>28167.1<pc>387-3<k1>AvarjanA<k2>āvarjanā
+;
+;86900 old {%āvarjanā%}¦ °f. das Geneigtmachen, Prabandh. 184, 5/6; 209, 8 v.u. {part=N,seq=28538,type=,n=4}
+;86900 new {%āvarjanā%}¦ °f. das Geneigtmachen, Prabandh. 184, 5/6; 209, 8 v.u. {part=N,seq=28538,type=,n=4}
+;---------------------------------------------------------
+88198 old <L>28592<pc>393-3<k1>kzvelA<k2>ksvelā
+88198 new <L>28592<pc>393-3<k1>kzvelA<k2>kṣvelā
+; print change
+88199 old °{%ksvelā%}¦ f. = {%*kṣveḍā%} (Schlachtgeschrei), Saug. 6, 6. {part=N,seq=28963,type=°,n=2}
+88199 new °{%kṣvelā%}¦ f. = {%*kṣveḍā%} (Schlachtgeschrei), Saug. 6, 6. {part=N,seq=28963,type=°,n=2}
+;---------------------------------------------------------
+88490 old <L>28688<pc>395-1<k1>citta<k2>cittaṃ cittam
+88490 new <L>28688<pc>395-1<k1>cittam<k2>cittaṃ cittam
+;
+88491 old °{%cittaṃ cittam%}¦ = {%vicintya vicintya%}, Viṣṇubh. 37^b. Ko. hat aber {%cetaṃ cetam%}. {part=N,seq=29059,type=°,n=3}
+88491 new °{%cittaṃ cittam%}¦ = {%vicintya vicintya%}, Viṣṇubh. 37^b. Ko. hat aber {%cetaṃ cetam%}. {part=N,seq=29059,type=°,n=3}
+;---------------------------------------------------------
+88517 old <L>28697<pc>395-1<k1>cetam<k2>cetaṃ cetam
+88517 new <L>28697<pc>395-1<k1>cetam<k2>cetaṃ cetam
+;
+88518 old °{%cetaṃ cetam%}¦ s. {%cittaṃ cittam%}. {part=N,seq=29068,type=°,n=1}
+88518 new °{%cetaṃ cetam%}¦ s. {%cittaṃ cittam%}. {part=N,seq=29068,type=°,n=1}
+;---------------------------------------------------------
+; Changes involving ā̀̀
+; <L>666<pc>010-1<k1>ac<k2>ac
+2090 old {%ac%}¦ schmücken, Dharmaśarm. 11, 7. — Mit {%ud, udañcant%} herauskommend, Dharmaśarm. 4, 56; {%udañcita%} emporgehoben, Hem. Par. 1, 47; 2, 559. 585. — Mit {%samud%} sich erheben, Saduktik. 5, 33. — Anbrechen, beginnen, Bhām. V. 2, 45. — Mit {%ni%} verstreichen, vergehen, ebenda. — {%"nyā̀̀kta%} und" zu streichen. — {%nyā́kna%} TBr. 1, 6, 4, 2 fehlerhaft für {%nyā̀̀kna%}. — Kaus. niederdrücken, eindrücken, Hem. Par. 2, 195. — {%*nyañcita%} niedergebogen, H. 1482; Halāy. 4, 83. — Mit {%°pra%} S I, 534, 2 ({%prāñcan = deśāntaraṃ gacchan%}). — Mit {%prati%} zusammenbiegen, TS. 7, 5, 8, 2. — Mit {%sam: samañcati ° = samāgacchati%} (im Sinne von {%pratipālayati%}), S I, 269, 10. {part=,seq=685,type=,n=18}
+;
+2090 new {%ac%}¦ schmücken, Dharmaśarm. 11, 7. — Mit {%ud, udañcant%} herauskommend, Dharmaśarm. 4, 56; {%udañcita%} emporgehoben, Hem. Par. 1, 47; 2, 559. 585. — Mit {%samud%} sich erheben, Saduktik. 5, 33. — Anbrechen, beginnen, Bhām. V. 2, 45. — Mit {%ni%} verstreichen, vergehen, ebenda. — "{%nyàkta%} und" zu streichen. — {%nyā̀kna%} TBr. 1, 6, 4, 2 fehlerhaft für {%nyàkna%}. — Kaus. niederdrücken, eindrücken, Hem. Par. 2, 195. — {%*nyañcita%} niedergebogen, H. 1482; Halāy. 4, 83. — Mit {%°pra%} S I, 534, 2 ({%prāñcan = deśāntaraṃ gacchan%}). — Mit {%prati%} zusammenbiegen, TS. 7, 5, 8, 2. — Mit {%sam: samañcati ° = samāgacchati%} (im Sinne von {%pratipālayati%}), S I, 269, 10. {part=,seq=685,type=,n=18}
+;
+; <L>3880<pc>053-2<k1>apvA<k2>apvā
+11975 old {%apvā%}¦ , lies {%apuā̀̀%}. — {%apvī devī%} Ind. Stud. 17, 381 f. {part=,seq=3933,type=,n=2}
+;
+11975 new {%apvā%}¦ , lies {%apuā́%}. — {%apvī devī%} Ind. Stud. 17, 381 f. {part=,seq=3933,type=,n=2}
+;
+; <L>4760<pc>064-3<k1>arAqa<k2>arā́ḍa
+14677 old {%arā́ḍa%}¦ Adj. langhörnig, Maitr. S. 2, 5, 9 (59, 17). Vgl. {%arāḍyā̀̀%}. {part=,seq=4822,type=,n=2}
+;
+14677 new {%arā́ḍa%}¦ Adj. langhörnig, Maitr. S. 2, 5, 9 (59, 17). Vgl. {%arāḍyà%}. {part=,seq=4822,type=,n=2}
+;
+; <L>6861<pc>094-1<k1>Atmasama<k2>ātmasama
+21166 old {%ātmasama%}¦ nach Nīlak. auch so v.a. {%ātmasāmya = ā̀̀tmasamatā%}, MBh. 5, 36, 4. {part=,seq=6952,type=,n=3}
+;
+21166 new {%ātmasama%}¦ nach Nīlak. auch so v.a. {%ātmasāmya = ātmasamatā%}, MBh. 5, 36, 4. {part=,seq=6952,type=,n=3}
+;
+; <L>10607<pc>146-2<k1>kikviwa<k2>kikviṭa 
+32774 old {%kikviṭa%}¦ oder {%°ṭā%} ein best. Lockton, Komm. zu TBr. 1, 1, 9, 9. Vgl. {%kikkiṭā̀̀%}. {part=,seq=10764,type=,n=2}
+;
+32774 new {%kikviṭa%}¦ oder {%°ṭā%} ein best. Lockton, Komm. zu TBr. 1, 1, 9, 9. Vgl. {%kikkiṭā́%}. {part=,seq=10764,type=,n=2}
+;
+; <L>14263<pc>197-1<k1>tana<k2>tana
+44110 old {%tana%}¦ Adj. (f. {%ā̀̀%}) scheinbar AV. 7, 73, 5. {%tanāya%} AV. Paipp. {part=,seq=14489,type=,n=2}
+;
+44110 new {%tana%}¦ Adj. (f. {%ā́%}) scheinbar AV. 7, 73, 5. {%tanāya%} AV. Paipp. {part=,seq=14489,type=,n=2}
+;
+; <L>14735<pc>203-2<k1>tUpara<k2>tūpará
+45566 old {%tūpará%}¦ Adj., f. {%ā̀̀%} TS 7, 5, 1, 2. {part=,seq=14968,type=,n=1}
+;
+45566 new {%tūpará%}¦ Adj., f. {%ā́%} TS 7, 5, 1, 2. {part=,seq=14968,type=,n=1}
+;
+; <L>15252<pc>210-2<k1>dA<k2>dā
+47158 old 1. {%dā%}¦ °(ein Amt) übernehmen, Prabandh. 246, 7. — Mit {%ā, ā̀̀tta%}, so zu betonen. — Mit {%upā, anupādāya%} Absol. sich nicht an die Welt klammernd, Divyāvad. 655, 4. — Mit {%vyā%} auch hineintun, hineinwerfen in (Lok.), {%°dāya%} Kauś. 48, 40. — Mit {%nirvyā%} = {%vyā%}, Jātakam. 34. — Mit {%samā%} (ein Gelübde usw.) auf sich nehmen und halten, Mahāvy. 84, 25; Divyāvad. 302, 19. Kaus. zum Guten raten, ermahnen, Mahāvy. 245; Divyāvad. 51, 28; 57, 17; 59, 5; 80, 18. — Mit {%pari parīdāya%} Āpast. Gṛhy. 10, 12 fehlerhaft für {%pari°%}. {part=,seq=15490,type=,n=15}
+;
+47158 new 1. {%dā%}¦ °(ein Amt) übernehmen, Prabandh. 246, 7. — Mit {%ā, ā́tta%}, so zu betonen. — Mit {%upā, anupādāya%} Absol. sich nicht an die Welt klammernd, Divyāvad. 655, 4. — Mit {%vyā%} auch hineintun, hineinwerfen in (Lok.), {%°dāya%} Kauś. 48, 40. — Mit {%nirvyā%} = {%vyā%}, Jātakam. 34. — Mit {%samā%} (ein Gelübde usw.) auf sich nehmen und halten, Mahāvy. 84, 25; Divyāvad. 302, 19. Kaus. zum Guten raten, ermahnen, Mahāvy. 245; Divyāvad. 51, 28; 57, 17; 59, 5; 80, 18. — Mit {%pari parīdāya%} Āpast. Gṛhy. 10, 12 fehlerhaft für {%pari°%}. {part=,seq=15490,type=,n=15}
+;
+; <L>15321<pc>211-2<k1>dAS<k2>dāś
+47371 old 3. {%dāś%}¦ , {%dā̀̀śati%} = 1. {%dā̀̀s%}. Mit {%ā%} verfolgen (= 1. {%dās%} mit {%abhi%}), ṚV. 6, 16, 31. {part=,seq=15560,type=,n=3}
+;
+47371 new 3. {%dāś%}¦ , {%dā́śati%} = 1. {%dā́s%}. Mit {%ā%} verfolgen (= 1. {%dās%} mit {%abhi%}), ṚV. 6, 16, 31. {part=,seq=15560,type=,n=3}
+;
+; <L>21114<pc>291-3<k1>maDyamezWa<k2>madhyameṣṭhá
+65179 old {%madhyameṣṭhá%}¦ Adj. = {%°ṣṭhā̀̀%}, Maitr. S. 3, 3, 10 (44, 4). {part=,seq=21408,type=,n=2}
+;
+65179 new {%madhyameṣṭhá%}¦ Adj. = {%°ṣṭhā́%}, Maitr. S. 3, 3, 10 (44, 4). {part=,seq=21408,type=,n=2}
+;
+; <L>21115<pc>291-3<k1>maDyamezWeya<k2>madhyameṣṭhéya
+65182 old {%madhyameṣṭhéya%}¦ = {%madhyamasthā̀̀%}, Maitr. S. 2, 12, 5 (149, 3). {part=,seq=21409,type=,n=2}
+;
+65182 new {%madhyameṣṭhéya%}¦ = {%madhyamasthā́%}, Maitr. S. 2, 12, 5 (149, 3). {part=,seq=21409,type=,n=2}
+;
+; ----------------------------------------------------------
+; 6 cases with non-Sanskrit in italics
+; <L>3007<pc>041-2<k1>antaHpurevAsa<k2>antaHpurevAsa
+9280 old {%antaḥpurevāsa%}¦ Adj. ({%f. ā%}) im Harem wohnend, Hem. Par. 3, 240. {part=,seq=3047,type=,n=2}
+9280 new {%antaḥpurevāsa%}¦ Adj. (f. {%ā%}) im Harem wohnend, Hem. Par. 3, 240. {part=,seq=3047,type=,n=2}
+;
+; <L>3047<pc>042-1<k1>antarikza<k2>antarikza
+9405 old {%antarikṣa%}¦ Adj. {%(f.ā)%} Tāṇḍya-Br. 1, 3, 2 fehlerhaft für {%ānta°%}. {part=,seq=3088,type=,n=2}
+9405 new {%antarikṣa%}¦ Adj. (f. {%ā%}) Tāṇḍya-Br. 1, 3, 2 fehlerhaft für {%ānta°%}. {part=,seq=3088,type=,n=2}
+;
+; <L>3061<pc>042-1<k1>antargozWa<k2>antargozWa
+9447 old 1. {%antargoṣṭha%}¦ m. das Innere eines Kuhstalls, Mān. Gṛhy. 2, 12. 2. {%antárgoṣṭha%} Adj. ({%f.ā%}) im Kuhstall befindlich, Maitr. S. 4, 2, 11. {part=,seq=3102,type=,n=4}
+9447 new 1. {%antargoṣṭha%}¦ m. das Innere eines Kuhstalls, Mān. Gṛhy. 2, 12. 2. {%antárgoṣṭha%} Adj. (f. {%ā%}) im Kuhstall befindlich, Maitr. S. 4, 2, 11. {part=,seq=3102,type=,n=4}
+;
+; <L>18422.1<pc>254-3<k1>pAli<k2>pAli
+; print change
+; remove italics on 'beautiful'
+56898 old {%pāli%}¦ f. *Zeichen, S I, 20, 3 in {%°pālidhvaja = cihnapatāka%}. — *Weib mit Bart, Vaij. 86, 50. — {%*beautiful%} (at the end of compounds), Vās. 139, 5. — °hilt, Vās. 190, 5. {part=,seq=18687,type=,n=7}
+56898 new {%pāli%}¦ f. *Zeichen, S I, 20, 3 in {%°pālidhvaja = cihnapatāka%}. — *Weib mit Bart, Vaij. 86, 50. — *beautiful (at the end of compounds), Vās. 139, 5. — °hilt, Vās. 190, 5. {part=,seq=18687,type=,n=7}
+;
+; <L>22045<pc>304-2<k1>mOYja<k2>mOYja
+68039 old  Viṣṇus. 27, 18; 28, 40. {%mauñji^c%} (metrisch) 28, 37. {part=,seq=22347,type=,n=3}
+68039 new  Viṣṇus. 27, 18; 28, 40. {%mauñji°%} (metrisch) 28, 37. {part=,seq=22347,type=,n=3}
+;
+; <L>27198<pc>373-1<k1>sPuw<k2>sPuw
+; print change. Remove italics on 'blazing'
+83919 old {%sphuṭ%}¦ mit {%pra%}, Harṣac. 105, 3 ({%prasphoṭita = °nīrājanīkṛta, blazing%}); 229, 3 = {%°vipūrita%}, filled to bursting. — Mit {%°saṃ%} Kuṭṭ. 407 ({%saṃsphuṭita%}, aufgesprungen [Füße]). {part=,seq=27561,type=,n=5}
+83919 new {%sphuṭ%}¦ mit {%pra%}, Harṣac. 105, 3 ({%prasphoṭita = °nīrājanīkṛta%}, blazing); 229, 3 = {%°vipūrita%}, filled to bursting. — Mit {%°saṃ%} Kuṭṭ. 407 ({%saṃsphuṭita%}, aufgesprungen [Füße]). {part=,seq=27561,type=,n=5}
+; -------------------------------------------------------------------------
+; from change6a.  Addition 80 cases with period with italics
+; <L>131<pc>003-1<k1>akulaka<k2>akulaka
+424 old {%akulaka%}¦ Adj. ausgekernt, Caraka 6, 1. Vgl. {%niṣkulā, niṣkulī, nisphalī%} und {%phalī%} mit {%kar. ku%} und {%pha%} werden oft miteinander verwechselt. {part=,seq=137,type=,n=4}
+424 new {%akulaka%}¦ Adj. ausgekernt, Caraka 6, 1. Vgl. {%niṣkulā, niṣkulī, nisphalī%} und {%phalī%} mit {%kar%}. {%ku%} und {%pha%} werden oft miteinander verwechselt. {part=,seq=137,type=,n=4}
+;
+; <L>941<pc>014-1<k1>atanutA<k2>atanutā
+; This may be a quote.  Not sure
+2937 old °{%atanutā%}¦ Yudh. 2, 15 ({%atanutayā gauraveṇety arthah. atanor bhāvo 'tanutā tayā%}.); 3, 35 (= {%mahattva%}). {part=,seq=963,type=°,n=2}
+2937 new °{%atanutā%}¦ Yudh. 2, 15 ({%atanutayā gauraveṇety arthah%}. {%atanor bhāvo 'tanutā tayā%}.); 3, 35 (= {%mahattva%}). {part=,seq=963,type=°,n=2}
+;
+; <L>1206<pc>017-2<k1>atiraBasa<k2>atirabhasa
+3751 old {%atirabhasa%}¦ Adj. sehr wild, -x- ungestüm, Bhāg. P. 5, 17, 9 {%(°tara). -m%} Adv. Mahāvīrac. 113, 9. {part=,seq=1231,type=,n=3}
+3751 new {%atirabhasa%}¦ Adj. sehr wild, -x- ungestüm, Bhāg. P. 5, 17, 9 {%(°tara)%}. {%-m%} Adv. Mahāvīrac. 113, 9. {part=,seq=1231,type=,n=3}
+;
+; <L>2007<pc>027-3<k1>anaDyayana<k2>anadhyayana
+; Three periods. Unicode ellipsis
+6201 old {%anadhyayana%}¦ n. ° = {%varjana%}, Śrīk. VI, 36 (in {%mānagrahānadhyayanonmukhīnām... vāmabhruvām%}). {part=,seq=2036,type=,n=3}
+6201 new {%anadhyayana%}¦ n. ° = {%varjana%}, Śrīk. VI, 36 (in {%mānagrahānadhyayanonmukhīnām … vāmabhruvām%}). {part=,seq=2036,type=,n=3}
+;
+; <L>2974<pc>041-1<k1>anelamUka<k2>anelamūka
+; ellipsis
+9180 old {%anelamūka%}¦ [pw {%*aneḍamūka%}] Adj. taubstumm, Śrīk. VI, 10 (= {%vaktuṃ śrotuṃ cāsamarthās.... kokilāḥ%}); wohl stumpfsinning, Harṣac. (1936) 28, 2. Vgl. {%aneḍamūka%}. {part=,seq=3014,type=,n=5}
+9180 new {%anelamūka%}¦ [pw {%*aneḍamūka%}] Adj. taubstumm, Śrīk. VI, 10 (= {%vaktuṃ śrotuṃ cāsamarthās … kokilāḥ%}); wohl stumpfsinning, Harṣac. (1936) 28, 2. Vgl. {%aneḍamūka%}. {part=,seq=3014,type=,n=5}
+;
+; <L>3261<pc>044-3<k1>apaNka<k2>apaṅka
+; ellipsis
+10068 old °{%apaṅka%}¦ Adj. = {%avidyamānaṃ paṅkaṃ kaluṣaṃ... yasya%}, Yudh. 6, 77. — Schlammlos, trocken. Nom. abstr. {%°tā%} f. Kir. 4, 22. {part=,seq=3306,type=°,n=4}
+10068 new °{%apaṅka%}¦ Adj. = {%avidyamānaṃ paṅkaṃ kaluṣaṃ … yasya%}, Yudh. 6, 77. — Schlammlos, trocken. Nom. abstr. {%°tā%} f. Kir. 4, 22. {part=,seq=3306,type=°,n=4}
+;
+; <L>3518<pc>048-2<k1>apasadas<k2>apasadas
+; quote. Maybe should leave period in (as danda)
+10859 old {%apasadas%}¦ n. findet Mahādeva in Sāṃkhyas. 6, 34. Er erklärt: {%kutarkayuktam apasado duṣṭā sabhā. tatrātmajñānaṃ na yuktam%}. {part=,seq=3566,type=,n=4}
+10859 new {%apasadas%}¦ n. findet Mahādeva in Sāṃkhyas. 6, 34. Er erklärt: {%kutarkayuktam apasado duṣṭā sabhā%}. {%tatrātmajñānaṃ na yuktam%}. {part=,seq=3566,type=,n=4}
+;
+; <L>4758<pc>064-3<k1>arAjasa<k2>arājasa
+; quote. Maybe should leave period in (as danda)
+14671 old °{%arājasa%}¦ Adj. nicht vom guṇa rajas befleckt, Yudh. 1, 97 ({%arājasā na rājasā rajoguṇayuktā lobhamohayuktāāsan. tadrahitā āsann ity arthaḥ%}). {part=,seq=4820,type=°,n=4}
+14671 new °{%arājasa%}¦ Adj. nicht vom guṇa rajas befleckt, Yudh. 1, 97 ({%arājasā na rājasā rajoguṇayuktā lobhamohayuktāāsan%}. {%tadrahitā āsann ity arthaḥ%}). {part=,seq=4820,type=°,n=4}
+;
+; <L>4868<pc>066-1<k1>arjunapraRayin<k2>arjunapraṇayin
+15014 old °{%arjunapraṇayin%}¦ Adj. {%[kṛṣṇa ity arthaḥ; śuṣka iti vā. pakṣe Pāṇḍusutārjunaprerita ity arthaḥ]%}, Govardh. 675. {part=,seq=4933,type=°,n=4}
+15014 new °{%arjunapraṇayin%}¦ Adj. [{%kṛṣṇa ity arthaḥ%}; {%śuṣka iti vā%}. {%pakṣe Pāṇḍusutārjunaprerita ity arthaḥ%}], Govardh. 675. {part=,seq=4933,type=°,n=4}
+;
+; <L>6023<pc>082-3<k1>azwIla<k2>aṣṭīla
+; ellipsis
+18581 old °{%aṣṭīla%}¦ S I, 577, 6? {%(tvaddviṣadbhiḥ... urasi nihitāṣṭhīvadaṣṭīlabandhaiḥ)%}. {part=,seq=6105,type=°,n=2}
+18581 new °{%aṣṭīla%}¦ S I, 577, 6? ({%tvaddviṣadbhiḥ … urasi nihitāṣṭhīvadaṣṭīlabandhaiḥ%}). {part=,seq=6105,type=°,n=2}
+;
+; <L>7347<pc>100-3<k1>AleKa<k2>ālekha
+22677 old °{%ālekha%}¦ [oder f.?] = {%agra%}, S I, 137, 2; 146, 5. — m. oder n. Zeichnung, SI, 245, 1; 359, 4 = {%vilekhana. °ālekhī?%} S I, 201, 4 [Ko.: 7 v.u.]. {part=,seq=7449,type=°,n=4}
+22677 new °{%ālekha%}¦ [oder f.?] = {%agra%}, S I, 137, 2; 146, 5. — m. oder n. Zeichnung, SI, 245, 1; 359, 4 = {%vilekhana%}. {%°ālekhī%}? S I, 201, 4 [Ko.: 7 v.u.]. {part=,seq=7449,type=°,n=4}
+;
+; <L>7613<pc>104a-3<k1>itAnta<k2>itānta
+; ellipsis
+23509 old {%itānta%}¦ Adj. hinübergelangt, Śiś. 19, 118 (= {%prāptapāra%} Komm.). [1. {%iti], iti ceti ca%} so und so, auf diese und jene Weise, MBh. 1, 38, 1. Vgl. auch ZDMG. 41, 516 ff.; Knauer in Festgr. 62 ff. {%iti... iti%} so v.a. man heiße (sei)... oder..., Jātakam. 20. 2. {%iti%} Gang, Viṣṇus. 99, 2, wenn {%°sadā-sthitete%} "die du stets den Gang einschlugst ({%āsthita%}) zu" gelesen wird. {part=,seq=7721,type=,n=10}
+23509 new {%itānta%}¦ Adj. hinübergelangt, Śiś. 19, 118 (= {%prāptapāra%} Komm.). [1. {%iti], iti ceti ca%} so und so, auf diese und jene Weise, MBh. 1, 38, 1. Vgl. auch ZDMG. 41, 516 ff.; Knauer in Festgr. 62 ff. {%iti … iti%} so v.a. man heiße (sei)... oder..., Jātakam. 20. 2. {%iti%} Gang, Viṣṇus. 99, 2, wenn {%°sadā-sthitete%} "die du stets den Gang einschlugst ({%āsthita%}) zu" gelesen wird. {part=,seq=7721,type=,n=10}
+;
+; <L>7779.1<pc>107-1<k1>I<k2>ī
+; ellipsis
+24020 old *{%ī%}¦ f. Bein. der Lakṣmī, Yudh. 7, 129 (in {%subhairavāsīdaṃ: suṣṭhu bhairavā bhīmā asayo yeṣāṃ te subhairavāsayaḥ; teṣām īṃ lakṣmīṃ dadātīti subhairavāsīdaḥ... evaṃbhūtaṃ taṃ tādṛśaṃ rākṣasam)%}. {part=,seq=7889,type=*,n=8}
+24020 new *{%ī%}¦ f. Bein. der Lakṣmī, Yudh. 7, 129 (in {%subhairavāsīdaṃ%}: {%suṣṭhu bhairavā bhīmā asayo yeṣāṃ te subhairavāsayaḥ%}; {%teṣām īṃ lakṣmīṃ dadātīti subhairavāsīdaḥ … evaṃbhūtaṃ taṃ tādṛśaṃ rākṣasam%}). {part=,seq=7889,type=*,n=8}
+;
+; <L>7795<pc>107-1<k1>Ir<k2>īr
+; ellipsis
+24068 old {%īr%}¦ mit {%abhyud%} Kaus. 3. entgegensprengen, Śiś. 1, 18. — Mit {%prati%} Kaus. lies aufsetzen. — Mit {%vi, yádi... vī́ryeta%} wenn... zerfallen sollte, Maitr. S. 2, 1, 8 (9, 13. 14). Richtig wohl {%śī́ryeta%}. — Mit {%sam%} Kaus. 5. ertönen lassen, sprechen. {%samīritaṃ vacaḥ%} 98, 19. {part=,seq=7905,type=,n=1}
+24068 new {%īr%}¦ mit {%abhyud%} Kaus. 3. entgegensprengen, Śiś. 1, 18. — Mit {%prati%} Kaus. lies aufsetzen. — Mit {%vi%}, {%yádi … vī́ryeta%} wenn... zerfallen sollte, Maitr. S. 2, 1, 8 (9, 13. 14). Richtig wohl {%śī́ryeta%}. — Mit {%sam%} Kaus. 5. ertönen lassen, sprechen. {%samīritaṃ vacaḥ%} 98, 19. {part=,seq=7905,type=,n=1}
+;
+; <L>9811<pc>135-2<k1>karakandalI<k2>karakandalī
+; ellipsis
+30279 old °{%karakandalī%}¦ f. = {%karatala%}, Uttarar. V, 5^b. — Ghāṭe glossiert: {%karakandalībhiḥ hastarūpaiḥ vṛkṣaviśeṣaiḥ (...kalitāni dhṛtāni śastrajālāni āyudhasamūhāḥ yeṣāṃ taiḥ... balaiḥ āvṛto 'sti%}). {part=,seq=9944,type=°,n=6}
+30279 new °{%karakandalī%}¦ f. = {%karatala%}, Uttarar. V, 5^b. — Ghāṭe glossiert: {%karakandalībhiḥ hastarūpaiḥ vṛkṣaviśeṣaiḥ (… kalitāni dhṛtāni śastrajālāni āyudhasamūhāḥ yeṣāṃ taiḥ … balaiḥ āvṛto 'sti)%}. {part=,seq=9944,type=°,n=6}
+;
+; <L>10268<pc>141-3<k1>kAkin<k2>kākin
+31718 old {%kākin%}¦ Adj. °begierig ({%vibhus tu *kakate 'vaśyaṃ kākī samaralampaṭaḥ. kaka laulye%}), H 43, 288. {part=,seq=10417,type=,n=3}
+31718 new {%kākin%}¦ Adj. °begierig ({%vibhus tu *kakate 'vaśyaṃ kākī samaralampaṭaḥ%}. {%kaka laulye%}), H 43, 288. {part=,seq=10417,type=,n=3}
+;
+; <L>10709<pc>147-3<k1>kuka<k2>kuka
+; ellipsis
+33087 old °{%kuka%}¦ m. H 43, 288 = {%*kokate māṃsādy aśituṃ ādatte... śivāvāyasādiḥ%}; 349 [= {%māṃsādanapara%}]. {part=,seq=10867,type=°,n=3}
+33087 new °{%kuka%}¦ m. H 43, 288 = {%*kokate māṃsādy aśituṃ ādatte … śivāvāyasādiḥ%}; 349 [= {%māṃsādanapara%}]. {part=,seq=10867,type=°,n=3}
+;
+; <L>10769<pc>148-2<k1>kuqava<k2>kuḍava
+; ellipsis
+33272 old {%kuḍava%}¦ m. n. Govardh. 130 °Gefäß aus Strohgeflecht [{%kalamānāṃ śāliviśeṣāṇāṃ kuḍavaṃ palālanirmitaṃ pātram upanīya... kuḍavaśabdaḥ parimāṇaviśeṣavācīti kecit%}]. {part=,seq=10928,type=,n=5}
+33272 new {%kuḍava%}¦ m. n. Govardh. 130 °Gefäß aus Strohgeflecht [{%kalamānāṃ śāliviśeṣāṇāṃ kuḍavaṃ palālanirmitaṃ pātram upanīya … kuḍavaśabdaḥ parimāṇaviśeṣavācīti kecit%}]. {part=,seq=10928,type=,n=5}
+;
+; <L>10913<pc>150-3<k1>kuruc<k2>kuruc
+33729 old °{%kuruc%}¦ Adj. = {%kutsitā ruk dīptiḥ... yasya saḥ%}, Yudh. 7, 120. {part=,seq=11078,type=°,n=2}
+33729 new °{%kuruc%}¦ Adj. = {%kutsitā ruk dīptiḥ … yasya saḥ%}, Yudh. 7, 120. {part=,seq=11078,type=°,n=2}
+;
+; <L>11721<pc>161-2<k1>kzURa<k2>kṣūṇa
+36229 old {%kṣūṇa%}¦ EI. III, 205, n. 1; Prabandhacintāmaṇi (Translation) p. 24, n. 2. [Rudraṭa, Kāvyāl. II, 8 (vgl. note) {%akṣūṇa%}. Maṅkha 392 (Komm.) liest {%akṣuṇṇam.]%} Śikṣāsamuccaya p. 126, n. 2. [Z.] {part=,seq=11900,type=,n=6}
+36229 new {%kṣūṇa%}¦ EI. III, 205, n. 1; Prabandhacintāmaṇi (Translation) p. 24, n. 2. [Rudraṭa, Kāvyāl. II, 8 (vgl. note) {%akṣūṇa%}. Maṅkha 392 (Komm.) liest {%akṣuṇṇam%}.] Śikṣāsamuccaya p. 126, n. 2. [Z.] {part=,seq=11900,type=,n=6}
+;
+; <L>12141<pc>167-1<k1>gar<k2>gar
+37530 old 2. {%gar%}¦ mit {%api%} hinunterschlucken, Āpast. Śr. 3, 19, 7. — Mit {%ud, udgīrṇa%} abgeworfen ({%aśvapṛṣṭhāt%}), Jātakam. 25, 2. — Mit {%prod%} in {%prodgārin. prodgīrṇa%} aus sich entlassen, ausgegossen, Divyāvad. 589, 1. — Mit {%vini%} verschlingen, Bhām. V. 2, 118. — Mit {%°vi, vigīrṇa = udgīrṇa%}, S I, 114, 11. {part=,seq=12327,type=,n=8}
+37530 new 2. {%gar%}¦ mit {%api%} hinunterschlucken, Āpast. Śr. 3, 19, 7. — Mit {%ud, udgīrṇa%} abgeworfen ({%aśvapṛṣṭhāt%}), Jātakam. 25, 2. — Mit {%prod%} in {%prodgārin%}. {%prodgīrṇa%} aus sich entlassen, ausgegossen, Divyāvad. 589, 1. — Mit {%vini%} verschlingen, Bhām. V. 2, 118. — Mit {%°vi%}, {%vigīrṇa = udgīrṇa%}, S I, 114, 11. {part=,seq=12327,type=,n=8}
+;
+; <L>12143<pc>167-1<k1>gar<k2>gar
+37536 old 6. {%gar%}¦ = {%jar. jāgāra%} wurde alt, AV. 5, 19, 10. {part=,seq=12329,type=,n=1}
+37536 new 6. {%gar%}¦ = {%jar%}. {%jāgāra%} wurde alt, AV. 5, 19, 10. {part=,seq=12329,type=,n=1}
+;
+; <L>12338<pc>170-1<k1>guRay<k2>guṇay
+38139 old {%guṇay%}¦ °beachten, S I, 418, 8. — °als Qualität erwerben, Dhanika in seiner Strophe zu Daśar. IV, 61 (p. 131, Z. 5 ed. Parab: {%pāruṣyaṃ... hṛdayenādya guṇitam%}) und ebenda Z. 12 ({%prakopaḥ ho 'py anyaḥ... guṇito%}). — Mit {%anu%} fördern, Kir. 13, 44. {part=,seq=12527,type=,n=7}
+38139 new {%guṇay%}¦ °beachten, S I, 418, 8. — °als Qualität erwerben, Dhanika in seiner Strophe zu Daśar. IV, 61 (p. 131, Z. 5 ed. Parab: {%pāruṣyaṃ … hṛdayenādya guṇitam%}) und ebenda Z. 12 ({%prakopaḥ ho 'py anyaḥ … guṇito%}). — Mit {%anu%} fördern, Kir. 13, 44. {part=,seq=12527,type=,n=7}
+;
+; <L>12417<pc>171-1<k1>gUr<k2>gūr
+38383 old {%gūr%}¦ + {%°ud%} H 35, 6 [{%udgūrya = udyamya%}]; 43, 183 [{%udgūrṇa%} geschwungen]. 339 [{%udgūrya = bhramayitvā%}]; 48, 116 [{%udgūrṇa]. udgūrṇa%} °erhoben, gezückt, Kir. XV, 9. {part=,seq=12607,type=,n=5}
+38383 new {%gūr%}¦ + {%°ud%} H 35, 6 [{%udgūrya = udyamya%}]; 43, 183 [{%udgūrṇa%} geschwungen]. 339 [{%udgūrya = bhramayitvā%}]; 48, 116 [{%udgūrṇa%}]. {%udgūrṇa%} °erhoben, gezückt, Kir. XV, 9. {part=,seq=12607,type=,n=5}
+;
+; <L>13252<pc>182-3<k1>cikita<k2>[cikita
+40984 old {%[cikita%}¦ S II, 202, 2 verdruckt für {%cikina.]%} {part=,seq=13463,type=,n=2}
+40984 new {%[cikita%}¦ S II, 202, 2 verdruckt für {%cikina%}.] {part=,seq=13463,type=,n=2}
+;
+; <L>13804<pc>190-3<k1>javatA<k2>javatā
+42696 old °{%javatā%}¦ f. Eile, Yudh. 6, 26 (in {%tanujavatām = tanur atikṛśo javo vego yeṣāṃ te tanujavāḥ; teṣāṃ bhāvas tattā tām; atihīnabalatām.)%} {part=,seq=14025,type=°,n=4}
+42696 new °{%javatā%}¦ f. Eile, Yudh. 6, 26 (in {%tanujavatām = tanur atikṛśo javo vego yeṣāṃ te tanujavāḥ%}; {%teṣāṃ bhāvas tattā tām%}; {%atihīnabalatām%}.) {part=,seq=14025,type=°,n=4}
+;
+; <L>13938<pc>192-2<k1>jIvataRqula<k2>jīvataṇḍula
+43109 old {%jīvataṇḍula%}¦ als m. oder n. (sc. {%odana)%} Mus von frischem Reis. {%dakṣiṇāgnau jīvataṇḍulaṃ śrapayati%}, Āpast. Śr. 1, 7, 12. {%yatha īṣattaṇḍulā jīvanti tathā.. %}. Comm., also als Adv. (!) gefaßt. — {%jīva%} bedeutet wohl eher "keimend". Vgl. {%adhobilāśṛta%} oben. — Bezeichnet als Adj., wie Delbrück richtig erkannt hat, ein Mus, in dem die einzelnen Körner nicht zerkocht, sondern gleichsam lebendig, wie im ungekochten Zustande, geblieben sind. — Knauer im Index zu Mgs [II, 2, 3] "leicht gedämpft". {part=,seq=14161,type=,n=14}
+43109 new {%jīvataṇḍula%}¦ als m. oder n. (sc. {%odana)%} Mus von frischem Reis. {%dakṣiṇāgnau jīvataṇḍulaṃ śrapayati%}, Āpast. Śr. 1, 7, 12. {%yatha īṣattaṇḍulā jīvanti tathā%}.  Comm., also als Adv. (!) gefaßt. — {%jīva%} bedeutet wohl eher "keimend". Vgl. {%adhobilāśṛta%} oben. — Bezeichnet als Adj., wie Delbrück richtig erkannt hat, ein Mus, in dem die einzelnen Körner nicht zerkocht, sondern gleichsam lebendig, wie im ungekochten Zustande, geblieben sind. — Knauer im Index zu Mgs [II, 2, 3] "leicht gedämpft". {part=,seq=14161,type=,n=14}
+;
+; <L>14047<pc>194-2<k1>jramB<k2>jrambh
+43442 old {%jrambh%}¦ mit {%ava, avajṛmbhita = °ullasita%} (aufstrahlend, vom Glanze eines Helden gesagt, ) Yudh. 7, 68. — Mit {%pra%} so v.a. °sich offenbaren, Yudh. 6, 133 {%[śrīkṛṣṇaḥ... prājṛmbhata jṛmbhām akarot; tatra sadasi sthitānāṃ Bhīṣmādīnāṃ svakīyaviśvarūpadarśanāyety arthaḥ]%}. {part=,seq=14270,type=,n=8}
+43442 new {%jrambh%}¦ mit {%ava%}, {%avajṛmbhita = °ullasita%} (aufstrahlend, vom Glanze eines Helden gesagt, ) Yudh. 7, 68. — Mit {%pra%} so v.a. °sich offenbaren, Yudh. 6, 133 [{%śrīkṛṣṇaḥ … prājṛmbhata jṛmbhām akarot%}; {%tatra sadasi sthitānāṃ Bhīṣmādīnāṃ svakīyaviśvarūpadarśanāyety arthaḥ%}]. {part=,seq=14270,type=,n=8}
+;
+; <L>14111<pc>195-1<k1>waNkana<k2>ṭaṅkana
+43638 old {%ṭaṅkana%}¦ n. Śrīk. X, 56? {%[peṣṭuṃ mānavatījanasya manaso mānaṃ Smaro nirmame kiṃ pānīyagharaṭṭaṭaṅkanam.%}.. Dazu der Ko.: {%Smaraḥ pānīyagharaṭṭasya bimbapratibimbavaśāṭ ṭaṅkanaṃ kiṃ nirmame?]%} {part=,seq=14335,type=,n=1}
+43638 new {%ṭaṅkana%}¦ n. Śrīk. X, 56? [{%peṣṭuṃ mānavatījanasya manaso mānaṃ Smaro nirmame kiṃ pānīyagharaṭṭaṭaṅkanam …%}. Dazu der Ko.: {%Smaraḥ pānīyagharaṭṭasya bimbapratibimbavaśāṭ ṭaṅkanaṃ kiṃ nirmame%}?] {part=,seq=14335,type=,n=1}
+;
+; <L>14175<pc>196-1<k1>taNkita<k2>taṅkita
+43843 old °{%taṅkita%}¦ Adj. beunruhigt, Gopāl. 76, 28. [pw hat nur {%taṅk, *taṅkati.]%} Kann auch {%ātaṅkita%} sein. {part=,seq=14401,type=°,n=3}
+43843 new °{%taṅkita%}¦ Adj. beunruhigt, Gopāl. 76, 28. [pw hat nur {%taṅk, *taṅkati%}.] Kann auch {%ātaṅkita%} sein. {part=,seq=14401,type=°,n=3}
+;
+; <L>14976<pc>206-2<k1>triHzamfdDa<k2>triḥṣamṛddha
+46304 old {%triḥṣamṛddha%}¦ Adj. mit dreien wohlausgerüstet. Nom. abstr. {%°tvá%} n., Kāś. zu P. 8, 3, 106; TS. 2, 4, 11, 5. Auch *{%triḥsamṛddhatva Kāś. a.a. O%}. Vgl. {%trisamṛddha%}.{part=,seq=15211,type=,n=3}
+46304 new {%triḥṣamṛddha%}¦ Adj. mit dreien wohlausgerüstet. Nom. abstr. {%°tvá%} n., Kāś. zu P. 8, 3, 106; TS. 2, 4, 11, 5. Auch *{%triḥsamṛddhatva%} Kāś. a.a.O. Vgl. {%trisamṛddha%}.{part=,seq=15211,type=,n=3}
+;
+; <L>16188<pc>223-3<k1>DUmaGumAyita<k2>dhūmaghumāyita
+50033 old °{%dhūmaghumāyita%}¦ Śṛṅgt. 9^c? ({%kvacid dhūmaghumāyito... °parimalair asau malayamārutaḥ spandate%}). {part=,seq=16433,type=°,n=3}
+50033 new °{%dhūmaghumāyita%}¦ Śṛṅgt. 9^c? ({%kvacid dhūmaghumāyito … °parimalair asau malayamārutaḥ spandate%}). {part=,seq=16433,type=°,n=3}
+;
+; <L>16996<pc>234-3<k1>nirvinDyam<k2>nirvindhyam
+52524 old °{%nirvindhyam%}¦ = {%Vindhyān niṣkrāntaṃ yathā tathā... yadvā Vindhyasyābhāvo nirvindhyam%}, Mahāvīr. V, 39^d. {part=,seq=17251,type=°,n=3}
+52524 new °{%nirvindhyam%}¦ = {%Vindhyān niṣkrāntaṃ yathā tathā … yadvā Vindhyasyābhāvo nirvindhyam%}, Mahāvīr. V, 39^d. {part=,seq=17251,type=°,n=3}
+;
+; <L>17447<pc>241-1<k1>pakzmasaMpAta<k2>pakṣmasaṃpāta
+53902 old {%pakṣmasaṃpāta%}¦ m. = {%pakṣmapāta. °je kāle%} so v.a. in einem Augenblick, MBh. 5, 90, 42. {part=,seq=17703,type=,n=3}
+53902 new {%pakṣmasaṃpāta%}¦ m. = {%pakṣmapāta%}. {%°je kāle%} so v.a. in einem Augenblick, MBh. 5, 90, 42. {part=,seq=17703,type=,n=3}
+;
+; <L>17641<pc>243-3<k1>patika<k2>patika
+54499 old °{%patika%}¦ Śṛṅgt. 45, 10? ({%tvaritam eva saṃnihitaṃ patikam ullaṅghya... niṣkuṭavanam... praviṣṭo 'smi%}). {part=,seq=17899,type=°,n=3}
+54499 new °{%patika%}¦ Śṛṅgt. 45, 10? ({%tvaritam eva saṃnihitaṃ patikam ullaṅghya … niṣkuṭavanam … praviṣṭo 'smi%}). {part=,seq=17899,type=°,n=3}
+;
+; <L>18047<pc>249-2<k1>parIvAhita<k2>parīvāhita
+55745 old °{%parīvāhita%}¦ Adj. überfließend, Padyac. IX, 76^a (in {%karuṇāpūralaharīparīvāhitacakṣuṣe =... parīvāhavat jalocchvāsavat kṛte cakṣuṣī yasya tasmai%}). {part=,seq=18308,type=°,n=4}
+55745 new °{%parīvāhita%}¦ Adj. überfließend, Padyac. IX, 76^a (in {%karuṇāpūralaharīparīvāhitacakṣuṣe = … parīvāhavat jalocchvāsavat kṛte cakṣuṣī yasya tasmai%}). {part=,seq=18308,type=°,n=4}
+;
+; <L>18075<pc>249-3<k1>partvA<k2>pártvā
+55830 old {%pártvā%}¦ (!) TS. 7, 5, 1, 2 angeblich = {%prītiṃ prāpya. prītvā́%} zu vermuten. {part=,seq=18336,type=,n=2}
+55830 new {%pártvā%}¦ (!) TS. 7, 5, 1, 2 angeblich = {%prītiṃ prāpya%}. {%prītvā́%} zu vermuten. {part=,seq=18336,type=,n=2}
+;
+; <L>18479<pc>255-2<k1>piYCola<k2>piñchola
+57071 old °{%piñchola%}¦ S II, 326, 20? {%[atucchapiñcholadalāsphālanaprakarṣibhiḥ... janaiḥ.]%} {part=,seq=18744,type=°,n=2}
+57071 new °{%piñchola%}¦ S II, 326, 20? [{%atucchapiñcholadalāsphālanaprakarṣibhiḥ … janaiḥ%}.] {part=,seq=18744,type=°,n=2}
+;
+; <L>18846<pc>260-2<k1>pUrRayate<k2>pūrṇay(ate)
+58196 old °{%pūrṇay(ate)%}¦ erfüllen, Rasas. 175^b {%(kāmitāni... pūrṇayatāṃ bhavān)%}. {part=,seq=19114,type=°,n=2}
+58196 new °{%pūrṇay(ate)%}¦ erfüllen, Rasas. 175^b ({%kāmitāni … pūrṇayatāṃ bhavān)%}. {part=,seq=19114,type=°,n=2}
+;
+; <L>18907<pc>261-1<k1>pfzatka<k2>pṛṣatka
+58381 old {%pṛṣatka%}¦ ein runder Flecken, Haravijaya 5, 69. [Erstens muß es "Fleck" heißen, zweitens steht im Texte {%pṛṣaṭka%}; obige Lesart verzeichnet der Komm. {%pṛṣaṭkās tilakākārā bindavaḥ; pṛṣatka iti pāṭhe pṛṣacchabdo binduvacanaḥ. "kap ca" samāsāntaḥ%}.] — °Tropfen, H 43, 261. {part=,seq=19175,type=,n=8}
+58381 new {%pṛṣatka%}¦ ein runder Flecken, Haravijaya 5, 69. [Erstens muß es "Fleck" heißen, zweitens steht im Texte {%pṛṣaṭka%}; obige Lesart verzeichnet der Komm. {%pṛṣaṭkās tilakākārā bindavaḥ%}; {%pṛṣatka iti pāṭhe pṛṣacchabdo binduvacanaḥ%}. "{%kap ca%}" samāsāntaḥ%}.] — °Tropfen, H 43, 261. {part=,seq=19175,type=,n=8}
+;
+; <L>19620<pc>271-1<k1>prasannIBU<k2>prasannībhū
+60571 old °{%prasannībhū%}¦ S I, 217, 7 v.u. (Ko.; {%prasīdantī prasannībhavantī... vidyā)%}. {part=,seq=19895,type=°,n=2}
+60571 new °{%prasannībhū%}¦ S I, 217, 7 v.u. (Ko.; {%prasīdantī prasannībhavantī … vidyā%}). {part=,seq=19895,type=°,n=2}
+;
+; <L>20049.1<pc>276-3<k1>bal<k2>bal
+61888 old *{%bal%}¦ Yudh. 1, 89? {%(abalat baballa. kasmai? raṇāya.)%}; 4, 96 {%babale%}. {part=,seq=20327,type=*,n=2}
+61888 new *{%bal%}¦ Yudh. 1, 89? ({%abalat baballa%}. {%kasmai? raṇāya%}.); 4, 96 {%babale%}. {part=,seq=20327,type=*,n=2}
+;
+; <L>20072<pc>277-1<k1>balAhaka<k2>balāhaka
+61961 old {%balāhaka%}¦ m. ° = {%balam ā samantāt ghnantīti balāhanaḥ, balāhana eva balāhakāḥ... śūrāḥ%}, Yudh. 7, 114. {part=,seq=20351,type=,n=1}
+61961 new {%balāhaka%}¦ m. ° = {%balam ā samantāt ghnantīti balāhanaḥ, balāhana eva balāhakāḥ … śūrāḥ%}, Yudh. 7, 114. {part=,seq=20351,type=,n=1}
+;
+; <L>20420<pc>281-3<k1>Baj<k2>bhaj
+63026 old {%bhaj%}¦ mit {%ā%} Med. °teilhaftig werden, S I, 260, 11 ({%śarīram... ābhajate āśrayati%}). — Mit {%vi%} gründlich verstehen, Divyāvad. 494, 26. {part=,seq=20701,type=,n=4}
+63026 new {%bhaj%}¦ mit {%ā%} Med. °teilhaftig werden, S I, 260, 11 ({%śarīram … ābhajate āśrayati%}). — Mit {%vi%} gründlich verstehen, Divyāvad. 494, 26. {part=,seq=20701,type=,n=4}
+;
+; <L>20939<pc>289-2<k1>maRqayate<k2>maṇḍay(ate)
+64636 old {%maṇḍay(ate)%}¦ *Med. °schmücken (pw: sich schmücken), Ko. zu Yudh. 5, 8 ({%yaṃ Gandhamādanaṃ Badarī...rājayate maṇḍayate)%}. {part=,seq=21229,type=,n=4}
+64636 new {%maṇḍay(ate)%}¦ *Med. °schmücken (pw: sich schmücken), Ko. zu Yudh. 5, 8 ({%yaṃ Gandhamādanaṃ Badarī … rājayate maṇḍayate%}). {part=,seq=21229,type=,n=4}
+;
+; <L>21309<pc>294-2<k1>malamAsa<k2>malamāsa
+65777 old {%malamāsa%}¦ m. "Schmutzmonat" [nicht mit pw "Schaltmonat"] Kauṭ. 108, 3 v.u. Vgl. J. J. Meyer, S. 167, Anm. 4. {%malay%} reiben, Haravijaya 7, 8. Vgl. {%mal. malaya%} °love, °moon, Vās. 224, 3. {part=,seq=21604,type=,n=5}
+65777 new {%malamāsa%}¦ m. "Schmutzmonat" [nicht mit pw "Schaltmonat"] Kauṭ. 108, 3 v.u. Vgl. J. J. Meyer, S. 167, Anm. 4. {%malay%} reiben, Haravijaya 7, 8. Vgl. {%mal%}. {%malaya%} °love, °moon, Vās. 224, 3. {part=,seq=21604,type=,n=5}
+;
+; <L>21548<pc>297-3<k1>mAnoBava<k2>mānobhava
+66508 old °{%mānobhava%}¦ Adj. auf den Liebesgott bezüglich, Unm. 23^d ({%madhuvratā... mānobhavaṃ mantram udīrayanti%}). {part=,seq=21844,type=°,n=3}
+66508 new °{%mānobhava%}¦ Adj. auf den Liebesgott bezüglich, Unm. 23^d ({%madhuvratā … mānobhavaṃ mantram udīrayanti%}). {part=,seq=21844,type=°,n=3}
+;
+; <L>21664<pc>299-1<k1>mitara<k2>mitara
+66866 old °{%mitara%}¦ Adj. geringen Lohn bringend, Viṣṇubh. III, 6^c ({%mitaṃ svalpaṃ rānti dadati te mitarās tair alpasvargādiphaladair... makhair..%}.). {part=,seq=21962,type=°,n=4}
+66866 new °{%mitara%}¦ Adj. geringen Lohn bringend, Viṣṇubh. III, 6^c ({%mitaṃ svalpaṃ rānti dadati te mitarās tair alpasvargādiphaladair … makhair …%}). {part=,seq=21962,type=°,n=4}
+;
+; <L>22240<pc>307-1<k1>yAvant<k2>[yāvant]
+68649 old {%[yāvant]%}¦ , {%yāvac ca... yāvac ca... antarāt%} zwischen... und..., Divyāvad. 93, 24; 386, 10. {%yāvat%} mit Dat. bis zu, bis auf, 2, 24; 523, 15. {part=,seq=22547,type=,n=4}
+68649 new {%[yāvant]%}¦ , {%yāvac ca … yāvac ca … antarāt%} zwischen... und..., Divyāvad. 93, 24; 386, 10. {%yāvat%} mit Dat. bis zu, bis auf, 2, 24; 523, 15. {part=,seq=22547,type=,n=4}
+;
+; <L>22539<pc>311-1<k1>rasavAhinI<k2>rasavāhinī
+69575 old °{%rasavāhinī%}¦ S II, 354, 26? {%[°khaṇḍanam eva me daṇḍaḥ.]%} {part=,seq=22851,type=°,n=2}
+69575 new °{%rasavāhinī%}¦ S II, 354, 26? [{%°khaṇḍanam eva me daṇḍaḥ%}.] {part=,seq=22851,type=°,n=2}
+;
+; <L>22663<pc>312-3<k1>ri<k2>[ri]
+69962 old 1. {%[ri]%}¦ , {%rīṇa%} bekümmert, traurig, Dharmaśarm. 8, 8. [S I, 620, 13 = {%śrānta.]%} — Mit {%ni%}, vgl. Geldner, Ved. Studien I, 117. {part=,seq=22978,type=,n=4}
+69962 new 1. {%[ri]%}¦ , {%rīṇa%} bekümmert, traurig, Dharmaśarm. 8, 8. [S I, 620, 13 = {%śrānta%}.] — Mit {%ni%}, vgl. Geldner, Ved. Studien I, 117. {part=,seq=22978,type=,n=4}
+;
+; <L>22676<pc>313-1<k1>riS<k2>[riś
+70008 old {%[riś%}¦ mit {%vi.] viriṣṭa%} gehört eher zu {%riṣ%}. {part=,seq=22993,type=,n=1}
+70008 new {%[riś%}¦ mit {%vi%}.] {%viriṣṭa%} gehört eher zu {%riṣ%}. {part=,seq=22993,type=,n=1}
+;
+; <L>22749<pc>314-2<k1>rodana<k2>[rodana
+70239 old {%[rodana%}¦ °Reis, S I, 401, 16 v.u. (Ko.) Druckfehler für {%odana%}. Man lese {%dīdivibhir odanaiḥ%} statt {%dīdivibhī rodanaiḥ.]%} {part=,seq=23068,type=,n=4}
+70239 new {%[rodana%}¦ °Reis, S I, 401, 16 v.u. (Ko.) Druckfehler für {%odana%}. Man lese {%dīdivibhir odanaiḥ%} statt {%dīdivibhī rodanaiḥ%}.] {part=,seq=23068,type=,n=4}
+;
+; <L>22871<pc>316-1<k1>lallaka<k2>lallaka
+70620 old °{%lallaka%}¦ S II, 370, 16 ?. {%[ṣaṣṭyāḥ kṣites tṛtīye 'smiṃl lallake duḥkhamallake.]%} {part=,seq=23192,type=°,n=2}
+70620 new °{%lallaka%}¦ S II, 370, 16 ?. {%[ṣaṣṭyāḥ kṣites tṛtīye 'smiṃl lallake duḥkhamallake%}.] {part=,seq=23192,type=°,n=2}
+;
+; <L>22877<pc>316-1<k1>lavaRahawa<k2>lavaṇahaṭa
+70638 old °{%lavaṇahaṭa%}¦ m. ein Spiel, Y 209. [Ich hatte ZDMG 71, S. 37 {%lavaṇahaṭṭa%} vermutet; die neue Ausgabe des Kāmasūtram (von Dāmodar Lāl, Benares 1912) liest p. 202 {%lavaṇahāra.]%} {part=,seq=23198,type=°,n=5}
+70638 new °{%lavaṇahaṭa%}¦ m. ein Spiel, Y 209. [Ich hatte ZDMG 71, S. 37 {%lavaṇahaṭṭa%} vermutet; die neue Ausgabe des Kāmasūtram (von Dāmodar Lāl, Benares 1912) liest p. 202 {%lavaṇahāra%}.] {part=,seq=23198,type=°,n=5}
+;
+; <L>22881<pc>316-1<k1>lavali<k2>lavali
+70650 old {%lavali%}¦ metrisch für {%lavalī%} (Averrhoa acida), Muk. 178^a. [pw zitiert {%Viddhaśāla°.]%} {part=,seq=23202,type=,n=3}
+70650 new {%lavali%}¦ metrisch für {%lavalī%} (Averrhoa acida), Muk. 178^a. [pw zitiert {%Viddhaśāla°%}.] {part=,seq=23202,type=,n=3}
+;
+; <L>22899<pc>316-2<k1>lAqika<k2>lāḍika
+70705 old *{%lāḍika%}¦ m. Knabe, Mahāvy. 191, 4. [Y 82, Z. 1 v.u.; 114, Z. 12 steht {%lāḍīka.]%} {part=,seq=23220,type=*,n=3}
+70705 new *{%lāḍika%}¦ m. Knabe, Mahāvy. 191, 4. [Y 82, Z. 1 v.u.; 114, Z. 12 steht {%lāḍīka%}.] {part=,seq=23220,type=*,n=3}
+;
+; <L>22953<pc>317-1<k1>luptakeSikawAwI<k2>luptakeśikaṭāṭī
+70872 old {%luptakeśikaṭāṭī%}¦ ? S I, 86, 5 (Ko.): {%avatānakālāyasatalikākṛtikhalatimastakadeśa avatānā adhomukhā yā kālāyasasya lohasya talikā kaṭāhikā tadākṛtyā tadākāreṇa khalatyā luptakeśikaṭāṭyā upalakṣito mastakadeśaḥ... yasya... tasya saṃbodhanaṃ%}. {part=,seq=23275,type=,n=7}
+70872 new {%luptakeśikaṭāṭī%}¦ ? S I, 86, 5 (Ko.): {%avatānakālāyasatalikākṛtikhalatimastakadeśa avatānā adhomukhā yā kālāyasasya lohasya talikā kaṭāhikā tadākṛtyā tadākāreṇa khalatyā luptakeśikaṭāṭyā upalakṣito mastakadeśaḥ … yasya … tasya saṃbodhanaṃ%}. {part=,seq=23275,type=,n=7}
+;
+; <L>22966<pc>317-2<k1>lUtAkft<k2>[°lūtākṛt
+70912 old °{%[°lūtākṛt%}¦ m. Spinne, H... nach dem Ko.: {%lūtākṛto jālakārasyeti tu ṣaṣṭhīṃ kecid ācakhyuḥ%}. Zuerst erklärt er: {%lūtākṛto jālakāraracitaḥ.]%} {part=,seq=23288,type=°,n=4}
+70912 new °{%[°lūtākṛt%}¦ m. Spinne, H... nach dem Ko.: {%lūtākṛto jālakārasyeti tu ṣaṣṭhīṃ kecid ācakhyuḥ%}. Zuerst erklärt er: {%lūtākṛto jālakāraracitaḥ%}.] {part=,seq=23288,type=°,n=4}
+;
+; <L>23139<pc>319-3<k1>vadula<k2>vadula
+71440 old °{%vadula%}¦ S II, 355, 26? {%(... ity ālāpavadule... samucchalati... paricchadakolāhale)%}. {part=,seq=23462,type=°,n=3}
+71440 new °{%vadula%}¦ S II, 355, 26? ({% … ity ālāpavadule … samucchalati … paricchadakolāhale%}). {part=,seq=23462,type=°,n=3}
+;
+; <L>23280<pc>322-1<k1>varzakArI<k2>varṣakārī
+71877 old {%varṣakārī%}¦ Adj. f. Āpast. Gṛhy. 3, 11; Baudh. Gṛhy. Pariś. verschiedentlich erklärt; = {%sravatpāṇipādā%}, Vaijayantī, {%bhūmik., brāhmaṇādhy%}. 52 nach Winternitz. [Vgl. Beiträge zur indischen Erotik^1, S. 620. 622. 631. 632; V 193. v.l. {%varṣakarī%}, Beiträge S. 624. 625.] {part=,seq=23605,type=,n=8}
+71877 new {%varṣakārī%}¦ Adj. f. Āpast. Gṛhy. 3, 11; Baudh. Gṛhy. Pariś. verschiedentlich erklärt; = {%sravatpāṇipādā%}, Vaijayantī, {%bhūmik%}., {%brāhmaṇādhy%}. 52 nach Winternitz. [Vgl. Beiträge zur indischen Erotik^1, S. 620. 622. 631. 632; V 193. v.l. {%varṣakarī%}, Beiträge S. 624. 625.] {part=,seq=23605,type=,n=8}
+;
+; <L>23330<pc>322-3<k1>vallana<k2>vallana
+72030 old °{%vallana%}¦ (n.?) S II, 263, 15? {%[piṣṭatāmracūlasyālambhanavallanābhyām.]%} {part=,seq=23655,type=°,n=2}
+72030 new °{%vallana%}¦ (n.?) S II, 263, 15? [{%piṣṭatāmracūlasyālambhanavallanābhyām%}.] {part=,seq=23655,type=°,n=2}
+;
+; <L>23357<pc>323-1<k1>vaz<k2>vaṣ
+72115 old 5. {%vaṣ%}¦ Aor. {%avāksam%} (so alle Hdschrr. nach Aufrecht), Ait. Br. 1, 28, 16 im Wortspiel mit {%vāk%} statt {%avātsam%} (so Haug). 2. mit Akk. des Weibes, MBh. 13, 4, 10. — Mit {%vi%} 6. a) lies = 5. b) und füge Vasiṣṭha 27, 17 hinzu. — Mit {%pari%} °über Nacht bleiben, Kauṭ. 172, 9/10. (pw hat diese Bedeutung nur bei {%paryuṣita.)%} {part=,seq=23683,type=,n=9}
+72115 new 5. {%vaṣ%}¦ Aor. {%avāksam%} (so alle Hdschrr. nach Aufrecht), Ait. Br. 1, 28, 16 im Wortspiel mit {%vāk%} statt {%avātsam%} (so Haug). 2. mit Akk. des Weibes, MBh. 13, 4, 10. — Mit {%vi%} 6. a) lies = 5. b) und füge Vasiṣṭha 27, 17 hinzu. — Mit {%pari%} °über Nacht bleiben, Kauṭ. 172, 9/10. (pw hat diese Bedeutung nur bei {%paryuṣita%}.) {part=,seq=23683,type=,n=9}
+;
+; <L>23363<pc>323-1<k1>vasantaGoza<k2>vasantaghoṣa
+72133 old °{%vasantaghoṣa%}¦ m. der indische Kuckuck, Padyac. VII, 7^d. (pw hat {%*vasantaghoṣin.)%} {part=,seq=23689,type=°,n=3}
+72133 new °{%vasantaghoṣa%}¦ m. der indische Kuckuck, Padyac. VII, 7^d. (pw hat {%*vasantaghoṣin%}.) {part=,seq=23689,type=°,n=3}
+;
+; <L>23475<pc>324-3<k1>vAdervAdi<k2>vādervādi
+72477 old {%vādervādi%}¦ S II, 317, 15? {%[sarvajñasyāpi vadervādeḥ purastāt parigṛhītavidyānavadyā eva.]%} {part=,seq=23802,type=,n=3}
+72477 new {%vādervādi%}¦ S II, 317, 15? [{%sarvajñasyāpi vadervādeḥ purastāt parigṛhītavidyānavadyā eva%}.] {part=,seq=23802,type=,n=3}
+;
+; <L>23610<pc>326-2<k1>vAsitam<k2>[°vāsitam
+72897 old °{%[°vāsitam%}¦ gekrächzt, S II, 162, 7 1. {%vāśitam.]%} {part=,seq=23940,type=°,n=2}
+72897 new °{%[°vāsitam%}¦ gekrächzt, S II, 162, 7 1. {%vāśitam%}.] {part=,seq=23940,type=°,n=2}
+;
+; <L>23639<pc>326-3<k1>vikawa<k2>vikaṭa
+72985 old {%vikaṭa%}¦ Adj. f. Āpast. Gṛhy. 3, 11; Baudh. Gṛhy. Pariś. = {%vikaṭajaṅghā%} oder {%vistīrṇajaṅghā%} Komm. = {%vistīrṇajānu Vaijay., bhūmik., brāhmaṇādhy%}. 47 nach Winternitz. [Vgl. Beiträge zur indischen Erotik^1, S. 620. 621. 624. 625. 631; V 193.] {part=,seq=23969,type=,n=7}
+72985 new {%vikaṭa%}¦ Adj. f. Āpast. Gṛhy. 3, 11; Baudh. Gṛhy. Pariś. = {%vikaṭajaṅghā%} oder {%vistīrṇajaṅghā%} Komm. = {%vistīrṇajānu Vaijay%}., {%bhūmik%}., {%brāhmaṇādhy%}. 47 nach Winternitz. [Vgl. Beiträge zur indischen Erotik^1, S. 620. 621. 624. 625. 631; V 193.] {part=,seq=23969,type=,n=7}
+;
+; <L>23869<pc>330-1<k1>vinayavfto<k2>[vinayavṛto
+73694 old {%[vinayavṛto%}¦ Viṣṇubh. VI, 32^d ist Druckfehler für {%°vato = °yuktān.]%} {part=,seq=24201,type=,n=2}
+73694 new {%[vinayavṛto%}¦ Viṣṇubh. VI, 32^d ist Druckfehler für {%°vato = °yuktān%}.] {part=,seq=24201,type=,n=2}
+;
+; <L>24084<pc>332-3<k1>vilAyaM<k2>[°vilāyaṃ
+74354 old °{%[°vilāyaṃ%}¦ S II, 366, 11 Druckfehler für {%vilayaṃ.]%} {part=,seq=24418,type=°,n=2}
+74354 new °{%[°vilāyaṃ%}¦ S II, 366, 11 Druckfehler für {%vilayaṃ%}.] {part=,seq=24418,type=°,n=2}
+;
+; <L>24537<pc>338-2<k1>voGa<k2>vogha
+75739 old °{%vogha%}¦ S II, 351, 26 [{%cāmpeyamañjarīsaurabhapayaḥpānalubdhavoghastanaṃdhayeṣu puṣpaṃdhayeṣv iva militeṣu... mahīśvareṣu%}.] {part=,seq=24873,type=°,n=4}
+75739 new °{%vogha%}¦ S II, 351, 26 [{%cāmpeyamañjarīsaurabhapayaḥpānalubdhavoghastanaṃdhayeṣu puṣpaṃdhayeṣv iva militeṣu … mahīśvareṣu%}.] {part=,seq=24873,type=°,n=4}
+;
+; <L>24843<pc>342-2<k1>SaraBA<k2>śarabhā
+76682 old {%śarabhā%}¦ Adj. f. Āpast. Gṛhy. 3, 11; Baudh. Gṛhy. Pariś. verschiedentlich gedeutet. {%sarabhā = viśīrṇāṅgī%}, Vaij., {%bhūmik., brāhmaṇādhy%}. 51 nach Winternitz. [Beiträge zur ind. Erotik^1, S. 620. 621. 631. 632.] {part=,seq=25183,type=,n=6}
+76682 new {%śarabhā%}¦ Adj. f. Āpast. Gṛhy. 3, 11; Baudh. Gṛhy. Pariś. verschiedentlich gedeutet. {%sarabhā = viśīrṇāṅgī%}, Vaij., {%bhūmik%}., {%brāhmaṇādhy%}. 51 nach Winternitz. [Beiträge zur ind. Erotik^1, S. 620. 621. 631. 632.] {part=,seq=25183,type=,n=6}
+;
+; <L>24959<pc>343-3<k1>SAradika<k2>śāradika
+77037 old *{%śāradika%}¦ Adj. herbstlich ["nur in best. Verbindungen", pw.], Padyac. IV, 8^d ({%naradevakanyā... samādade cārutaraṃ dukūlaṃ candrātapaṃ śāradikeva rātriḥ%}); V, 46^a ({%śāradikaiḥ payodharair%}). {part=,seq=25300,type=*,n=6}
+77037 new *{%śāradika%}¦ Adj. herbstlich ["nur in best. Verbindungen", pw.], Padyac. IV, 8^d ({%naradevakanyā … samādade cārutaraṃ dukūlaṃ candrātapaṃ śāradikeva rātriḥ%}); V, 46^a ({%śāradikaiḥ payodharair%}). {part=,seq=25300,type=*,n=6}
+;
+; <L>24991<pc>344-2<k1>Sikz<k2>śikṣ
+77135 old 2. {%śikṣ%}¦ mit {%upa%} auch: in Dienst nehmen. — Mit {%sam%} °lernen, H XXIII, 26 [{%saṃśikṣatāṃ lalitavibhramaceṣṭitāni... mṛgo 'ṅganāyāḥ%}]. {part=,seq=25332,type=,n=4}
+77135 new 2. {%śikṣ%}¦ mit {%upa%} auch: in Dienst nehmen. — Mit {%sam%} °lernen, H XXIII, 26 [{%saṃśikṣatāṃ lalitavibhramaceṣṭitāni … mṛgo 'ṅganāyāḥ%}]. {part=,seq=25332,type=,n=4}
+;
+; <L>25802<pc>354-3<k1>saMDAva<k2>saṃdhāva
+79621 old °{%saṃdhāva%}¦ = {%paścād anudravaṇa%}, Yudh. 6, 147. — Adj. = {%samyak dhāvaḥ... dhāvanaṃ yasya saḥ%}, Yudh. 7, 100. {part=,seq=26149,type=°,n=3}
+79621 new °{%saṃdhāva%}¦ = {%paścād anudravaṇa%}, Yudh. 6, 147. — Adj. = {%samyak dhāvaḥ … dhāvanaṃ yasya saḥ%}, Yudh. 7, 100. {part=,seq=26149,type=°,n=3}
+;
+; <L>26211<pc>360-1<k1>sarpaveRI<k2>sarpaveṇī
+80879 old °{%sarpaveṇī%}¦ f. Megh. 18 (ed. Krishnamachariar, Srirangam 1909). Die Vidyullatā sagt: {%sarpaveṇī nāma mecakaruciḥ kaścit padārthaḥ sarpasadṛśākāraḥ... kāminīkeśabandhaviśeṣo vā... sarpaveṇīti kṛṣṇabhujaṃgabhogamaṇḍalam iti kecit%}. {part=,seq=26562,type=°,n=7}
+80879 new °{%sarpaveṇī%}¦ f. Megh. 18 (ed. Krishnamachariar, Srirangam 1909). Die Vidyullatā sagt: {%sarpaveṇī nāma mecakaruciḥ kaścit padārthaḥ sarpasadṛśākāraḥ … kāminīkeśabandhaviśeṣo vā … sarpaveṇīti kṛṣṇabhujaṃgabhogamaṇḍalam iti kecit%}. {part=,seq=26562,type=°,n=7}
+;
+; <L>26389<pc>362-3<k1>sADikya<k2>sādhikya
+81425 old °{%sādhikya%}¦ n. = {%saha ādhibhir... vartate yas tadbhāvena sahitam%}, Śrīk. XVII, 37. {part=,seq=26741,type=°,n=3}
+81425 new °{%sādhikya%}¦ n. = {%saha ādhibhir … vartate yas tadbhāvena sahitam%}, Śrīk. XVII, 37. {part=,seq=26741,type=°,n=3}
+;
+; <L>27034.1<pc>370-3<k1>sOvastika<k2>sauvastika
+83411 old *{%sauvastika%}¦ m. Hauspriester, Prabandh. 84, 8 v.u.; S I, 452, 10; Kaṃs. 16, 9; II, 7^c allgemein gesagt ({%gopānāṃ sauvastiko brāhmaṇaḥ = svastikṛt. purohita iti yāvat%}). {part=,seq=27395,type=*,n=6}
+83411 new *{%sauvastika%}¦ m. Hauspriester, Prabandh. 84, 8 v.u.; S I, 452, 10; Kaṃs. 16, 9; II, 7^c allgemein gesagt ({%gopānāṃ sauvastiko brāhmaṇaḥ = svastikṛt%}. {%purohita iti yāvat%}). {part=,seq=27395,type=*,n=6}
+;
+; <L>27096<pc>371-3<k1>strIpaDAna<k2>strīpadhāna
+83604 old {%strīpadhāna%}¦ Adj. °wo Frauen die Hauptrolle spielen ({%nāṭikā). °tva%} n. Dhanika zu Daśar. III, 45^a (S. 91, Z. 9 v.u.). {part=,seq=27458,type=,n=4}
+83604 new {%strīpadhāna%}¦ Adj. °wo Frauen die Hauptrolle spielen ({%nāṭikā%}). {%°tva%} n. Dhanika zu Daśar. III, 45^a (S. 91, Z. 9 v.u.). {part=,seq=27458,type=,n=4}
+;
+; <L>27559<pc>377-3<k1>hAva<k2>hāva
+85047 old  {%pasadṛśaḥ... hāvalayaḥ vilāsaleśo yasya sa tādṛśam%}). — Vgl. auch {%ahāvalava%}. {part=,seq=27930,type=,n=6}
+85047 new  {%pasadṛśaḥ … hāvalayaḥ vilāsaleśo yasya sa tādṛśam%}). — Vgl. auch {%ahāvalava%}. {part=,seq=27930,type=,n=6}
+;
+; <L>28745<pc>395-3<k1>tvatka<k2>tvatka
+88664 old *{%tvatka%}¦ = {%tvat%} am Anfang eines Komp. Viṣṇubh. V, 32^d in {%°tvatkapitṛka%} Adj. dich zum Vater habend. — °alleinstehend, Saug. 79^d ({%vīra tvatke bhuje 'smin vasatu... jayaśrīḥ%}). {part=N,seq=29116,type=*,n=5}
+88664 new *{%tvatka%}¦ = {%tvat%} am Anfang eines Komp. Viṣṇubh. V, 32^d in {%°tvatkapitṛka%} Adj. dich zum Vater habend. — °alleinstehend, Saug. 79^d ({%vīra tvatke bhuje 'smin vasatu … jayaśrīḥ%}). {part=N,seq=29116,type=*,n=5}
+;

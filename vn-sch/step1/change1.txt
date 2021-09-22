@@ -1,0 +1,271 @@
+; --------------------------------------------------------------
+;  iast = aduḥspṛṣta aduḥspṛṣṭa print change
+; --------------------------------------------------------------
+; <L>1562<pc>021-3<k1>aduHspfzwa<k2>aduḥspṛṣta  (reason = aduḥspṛṣta)
+4838 old {#aduHspfzwa#} {%aduḥspṛṣta%}¦  Adj. nicht falsch artikuliert , Saṃhitop. 9 , 3 , 6. {part=,seq=1588,type=,n=2}
+4838 new {#aduHspfzwa#} {%aduḥspṛṣṭa%}¦  Adj. nicht falsch artikuliert , Saṃhitop. 9 , 3 , 6. {part=,seq=1588,type=,n=2}
+;
+; --------------------------------------------------------------
+;  iast = anākāṅksya anākāṅkṣya print change
+; --------------------------------------------------------------
+; <L>2295<pc>031-3<k1>anAkANkzya<k2>anākāṅksya  (reason = anākāṅksya)
+7094 old {#anAkANkzya#} {%anākāṅksya%}¦  n. das Nichtfordern einer Ergänzung , P. 3 , 4 , 23. {part=,seq=2329,type=,n=2}
+7094 new {#anAkANkzya#} {%anākāṅkṣya%}¦  n. das Nichtfordern einer Ergänzung , P. 3 , 4 , 23. {part=,seq=2329,type=,n=2}
+;
+; --------------------------------------------------------------
+;  iast = apadāñta apadānta typo
+; --------------------------------------------------------------
+; <L>3302<pc>045-2<k1>apadAnta<k2>apadāñta  (reason = apadāñta)
+10193 old {#apadAnta#} {%apadāñta%}¦  m. nicht der Auslaut eines Wortes , P. 8 , 3 , 24. {part=,seq=3347,type=,n=2}
+10193 new {#apadAnta#} {%apadānta%}¦  m. nicht der Auslaut eines Wortes , P. 8 , 3 , 24. {part=,seq=3347,type=,n=2}
+;
+; --------------------------------------------------------------
+;  iast = ápapivāms  ápapivaṃs print change
+; --------------------------------------------------------------
+; <L>3332<pc>045-3<k1>apapivaMs<k2>ápapivāms  (reason = ápapivāms)
+10284 old {#apapivaMs#} {%ápapivāms%}¦  (schwach {%ápapus%}) nicht getrunken habend , AV. 6 , 139 , 4. {part=,seq=3377,type=,n=2}
+10284 new {#apapivaMs#} {%ápapivaṃs%}¦  (schwach {%ápapus%}) nicht getrunken habend , AV. 6 , 139 , 4. {part=,seq=3377,type=,n=2}
+;
+; --------------------------------------------------------------
+;  iast = ápratiṣthāyuka ápratiṣṭhāyuka print change
+; --------------------------------------------------------------
+; <L>3775<pc>052-1<k1>apratizWAyuka<k2>ápratiṣthāyuka  (reason = ápratiṣthāyuka)
+11653 old {#apratizWAyuka#} {%ápratiṣthāyuka%}¦  [so zu betonen!]. {part=,seq=3827,type=,n=1}
+11653 new {#apratizWAyuka#} {%ápratiṣṭhāyuka%}¦  [so zu betonen!]. {part=,seq=3827,type=,n=1}
+;
+; --------------------------------------------------------------
+;  iast = abhiruḍgatā abhirudgatā typo
+; --------------------------------------------------------------
+; <L>4155<pc>057-2<k1>aBirudgatA<k2>abhiruḍgatā  (reason = abhiruḍgatā)
+12821 old {#aBirudgatA#} {%abhiruḍgatā%}¦  s. {%abhyudgatā%}. {part=,seq=4211,type=,n=1}
+12821 new {#aBirudgatA#} {%abhirudgatā%}¦  s. {%abhyudgatā%}. {part=,seq=4211,type=,n=1}
+;
+; --------------------------------------------------------------
+;  iast = abhíhotavái  OK.  Transcoding problem
+; --------------------------------------------------------------
+; <L>4223<pc>058-1<k1>aBihotavE<k2>abhíhotavái  (reason = abhíhotavái)
+;13027 old {#aBihotavE#} {%abhíhotavái%}¦  zu beopfern , -x- begießen , Maitr. S. 1 , 8 , 6. {part=,seq=4279,type=,n=2}
+;13027 new {#aBihotavE#} {%abhíhotavái%}¦  zu beopfern , -x- begießen , Maitr. S. 1 , 8 , 6. {part=,seq=4279,type=,n=2}
+;
+; --------------------------------------------------------------
+;  iast = amṇās amṇás typo
+; --------------------------------------------------------------
+; <L>4531<pc>062-1<k1>amRas<k2>amṇās  (reason = amṇās)
+13969 old {#amRas#} {%amṇās%}¦  Adv. = {%amnás%} , Maitr. S. 1 , 6 , 10 (102 , 8); 10 , 10 (150 , 12). {part=,seq=4589,type=,n=2}
+13969 new {#amRas#} {%amṇás%}¦  Adv. = {%amnás%} , Maitr. S. 1 , 6 , 10 (102 , 8); 10 , 10 (150 , 12). {part=,seq=4589,type=,n=2}
+;
+; --------------------------------------------------------------
+;  iast = alaksmīka alakṣmīka print change
+; --------------------------------------------------------------
+; <L>5057<pc>069-1<k1>alakzmIka<k2>alaksmīka  (reason = alaksmīka)
+15602 old {#alakzmIka#} {%alaksmīka%}¦  ºohne Reichtum , S I , 419 , 5 v.u. (Ko.). {part=,seq=5126,type=,n=2}
+15602 new {#alakzmIka#} {%alakṣmīka%}¦  ºohne Reichtum , S I , 419 , 5 v.u. (Ko.). {part=,seq=5126,type=,n=2}
+;
+; --------------------------------------------------------------
+;  iast = avapṛṣthī avapṛṣṭhī typo
+; --------------------------------------------------------------
+; <L>5317<pc>072-3<k1>avapfzWI<k2>avapṛṣthī  (reason = avapṛṣthī)
+16408 old {#avapfzWI#} {%avapṛṣthī%}¦  Adv. mit {%bhū%} , Divyāvad. 326 , 1. Vgl. {%pṛṣṭhī%}. {part=,seq=5391,type=,n=2}
+16408 new {#avapfzWI#} {%avapṛṣṭhī%}¦  Adv. mit {%bhū%} , Divyāvad. 326 , 1. Vgl. {%pṛṣṭhī%}. {part=,seq=5391,type=,n=2}
+;
+; --------------------------------------------------------------
+;  iast = avṛṣtikāma avṛṣṭikāma typo
+; --------------------------------------------------------------
+; <L>5714<pc>078-1<k1>avfzwikAma<k2>avṛṣtikāma  (reason = avṛṣtikāma)
+17622 old {#avfzwikAma#} {%avṛṣtikāma%}¦  Adj. keinen Regen wünschend , Āpast. Śr. 7 , 11 , 7. {part=,seq=5790,type=,n=2}
+17622 new {#avfzwikAma#} {%avṛṣṭikāma%}¦  Adj. keinen Regen wünschend , Āpast. Śr. 7 , 11 , 7. {part=,seq=5790,type=,n=2}
+;
+; --------------------------------------------------------------
+;  iast = asiyasṭi asiyaṣṭi typo
+; --------------------------------------------------------------
+; <L>6274<pc>086-2<k1>asiyazwi<k2>asiyasṭi  (reason = asiyasṭi)
+19367 old {#asiyazwi#} {%asiyasṭi%}¦  f. Schwertklinge , Varāh. Bṛh. S. 50 , 6. {part=,seq=6360,type=,n=2}
+19367 new {#asiyazwi#} {%asiyaṣṭi%}¦  f. Schwertklinge , Varāh. Bṛh. S. 50 , 6. {part=,seq=6360,type=,n=2}
+;
+; --------------------------------------------------------------
+;  iast = Ā̀́pāṣṭhi  ok. Transcoding problem
+; --------------------------------------------------------------
+; <L>7048<pc>096-3<k1>ApAzWi<k2>Ā̀́pāṣṭhi  (reason = Ā̀́pāṣṭhi)
+;21747 old {#ApAzWi#} {%Ā̀́pāṣṭhi%}¦  m. Patron. , Maitr. S. 3 , 4 , 6 (51 , 20). {part=,seq=7143,type=,n=2}
+;21747 new {#ApAzWi#} {%Ā̀́pāṣṭhi%}¦  m. Patron. , Maitr. S. 3 , 4 , 6 (51 , 20). {part=,seq=7143,type=,n=2}
+;
+; --------------------------------------------------------------
+;  iast = Ā̀́mitraśocani  ok. Transcoding problem
+; --------------------------------------------------------------
+; <L>7150<pc>098-1<k1>AmitraSocani<k2>Ā̀́mitraśocani  (reason = Ā̀́mitraśocani)
+;22066 old {#AmitraSocani#} {%Ā̀́mitraśocani%}¦  m. Patron. , Maitr. S. 4 , 2 , 2 (23 , 6). {part=,seq=7248,type=,n=2}
+;22066 new {#AmitraSocani#} {%Ā̀́mitraśocani%}¦  m. Patron. , Maitr. S. 4 , 2 , 2 (23 , 6). {part=,seq=7248,type=,n=2}
+;
+; --------------------------------------------------------------
+;  iast = āmūṛdhāntam āmūrdhāntam typo
+; --------------------------------------------------------------
+; <L>7155<pc>098-1<k1>AmUrDAntam<k2>āmūṛdhāntam  (reason = āmūṛdhāntam)
+22081 old {#AmUrDAntam#} {%āmūṛdhāntam%}¦  Adv. bis zum Scheitel , Kathās. 65 , 119. {part=,seq=7253,type=,n=2}
+22081 new {#AmUrDAntam#} {%āmūrdhāntam%}¦  Adv. bis zum Scheitel , Kathās. 65 , 119. {part=,seq=7253,type=,n=2}
+;
+; --------------------------------------------------------------
+;  iast = ā̀̀ra āra typo
+; --------------------------------------------------------------
+; <L>7218.1<pc>099-1<k1>Ara<k2>ā̀̀ra  (reason = ā̀̀ra)
+22279 old {#Ara#} {%ā̀̀ra%}¦  m. º= {%āgamana%} , H 5 , 135; 43 , 155. 274. {part=,seq=7318,type=,n=2}
+22279 new {#Ara#} {%āra%}¦  m. º= {%āgamana%} , H 5 , 135; 43 , 155. 274. {part=,seq=7318,type=,n=2}
+;
+; --------------------------------------------------------------
+;  iast = inḍindirā indindirā typo
+; --------------------------------------------------------------
+; <L>7636<pc>105-1<k1>indindirA<k2>inḍindirā  (reason = inḍindirā)
+23579 old {#indindirA#} {%inḍindirā%}¦  , auch {%*indindira%} m. Deśin. 1 , 79. [S 2 , 355 , 17.] {part=,seq=7744,type=,n=4}
+23579 new {#indindirA#} {%indindirā%}¦  , auch {%*indindira%} m. Deśin. 1 , 79. [S 2 , 355 , 17.] {part=,seq=7744,type=,n=4}
+;
+; --------------------------------------------------------------
+;  iast = indranīlamaṇimaya=indranīlamaya  markup
+; --------------------------------------------------------------
+; <L>7686<pc>105-2<k1>indranIlamaRimaya<k2>indranīlamaṇimaya=indranīlamaya  (reason = indranīlamaṇimaya=indranīlamaya)
+23730 old {#indranIlamaRimaya#} {%indranīlamaṇimaya=indranīlamaya%}¦  Hemādri 1 , 280 , 7.  {part=,seq=7794,type=,n=2}
+23730 new {#indranIlamaRimaya#} {%indranīlamaṇimaya%}¦ = {%indranīlamaya%} Hemādri 1 , 280 , 7.  {part=,seq=7794,type=,n=2}
+;
+; --------------------------------------------------------------
+;  iast = Íṣvāśanī  ok ? Can't find problem
+; --------------------------------------------------------------
+; <L>7774<pc>106-3<k1>izvASanI<k2>Íṣvāśanī  (reason = Íṣvāśanī)
+;24001 old {#izvASanI#} {%Íṣvāśanī%}¦  m. N. pr. eines Mannes , Maitr. S. 4 , 2 , 2 (23 , 6). {part=,seq=7883,type=,n=2}
+;24001 new {#izvASanI#} {%Íṣvāśanī%}¦  m. N. pr. eines Mannes , Maitr. S. 4 , 2 , 2 (23 , 6). {part=,seq=7883,type=,n=2}
+;
+; --------------------------------------------------------------
+;  iast = udakya=udaśyāmāka
+; --------------------------------------------------------------
+; <L>8239<pc>113-2<k1>udakya<k2>udakya=udaśyāmāka  (reason = udakya=udaśyāmāka)
+25432 old {#udakya#} {%udakya=udaśyāmāka%}¦  , Kauś. 22 , 10. {part=,seq=8353,type=,n=1}
+25432 new {#udakya#} {%udakya%}¦ = {%udaśyāmāka%} , Kauś. 22 , 10. {part=,seq=8353,type=,n=1}
+;
+; --------------------------------------------------------------
+;  iast = Kkuḍula Khuḍula print change
+; --------------------------------------------------------------
+; <L>11923<pc>164-1<k1>Kuqula<k2>Kkuḍula  (reason = Kkuḍula)
+36852 old {#Kuqula#} {%Kkuḍula%}¦  m. N. pr. eines Gelehrten , Śāśvata 806. Vgl. XVIII , N. 2. {part=,seq=12105,type=,n=2}
+36852 new {#Kuqula#} {%Khuḍula%}¦  m. N. pr. eines Gelehrten , Śāśvata 806. Vgl. XVIII , N. 2. {part=,seq=12105,type=,n=2}
+;
+; --------------------------------------------------------------
+;  iast = goḷikā   ok. Transcoding problem ḷ  ł
+; --------------------------------------------------------------
+; <L>12492<pc>172-1<k1>goLikA<k2>goḷikā
+38613 old <L>12492<pc>172-1<k1>goLikA<k2>goḷikā
+38613 new <L>12492<pc>172-1<k1>goLikA<k2>gołikā
+38614 old {#goLikA#} {%goḷikā%}¦  s. unter {%golaka%} weiter unten. {part=,seq=12683,type=,n=1}
+38614 new {#goLikA#} {%gołikā%}¦  s. unter {%golaka%} weiter unten. {part=,seq=12683,type=,n=1}
+;
+; --------------------------------------------------------------
+;  iast = jáḷhu  ok. Transcoding problem ḷh
+; --------------------------------------------------------------
+; <L>13803<pc>190-3<k1>ja|u<k2>jáḷhu  (reason = jáḷhu)
+42692 old <L>13803<pc>190-3<k1>ja|u<k2>jáḷhu
+42692 new <L>13803<pc>190-3<k1>ja|u<k2>jáłhu
+42693 old {#ja|u#} {%jáḷhu%}¦  , so zu betonen. {part=,seq=14024,type=,n=1}
+42693 new {#ja|u#} {%jáłhu%}¦  , so zu betonen. {part=,seq=14024,type=,n=1}
+;
+; --------------------------------------------------------------
+;  iast = dakṣiṇata-upacāra  (hiatus)
+; --------------------------------------------------------------
+; <L>15048<pc>207a-2<k1>dakziRata<k2>dakṣiṇata-upacāra  (reason = dakṣiṇata-upacāra)
+46532 old <L>15048<pc>207a-2<k1>dakziRata<k2>dakṣiṇata-upacāra
+46532 new <L>15048<pc>207a-2<k1>dakziRataupacAra<k2>dakṣiṇataüpacāra
+46533 old {#dakziRata#} {%dakṣiṇata-upacāra%}¦  Adj. wo man von Süden hereingeht , Āpast. Śr. 11 , 9 , 4. {part=,seq=15307,type=,n=3}
+46533 new {#dakziRataupacAra#} {%dakṣiṇataüpacāra%}¦  Adj. wo man von Süden hereingeht , Āpast. Śr. 11 , 9 , 4. {part=,seq=15307,type=,n=3}
+;
+; --------------------------------------------------------------
+;  iast = daksiṇottara dakṣiṇottara print change
+; --------------------------------------------------------------
+; <L>15071<pc>207a-3<k1>dakziRottara<k2>daksiṇottara  (reason = daksiṇottara)
+46603 old {#dakziRottara#} {%daksiṇottara%}¦  , {%°rābhyāṃ pāṇibhyām%} mit beiden Händen , so daß die rechte Hand oberhalb zu stehen kommt , Gobh. 1 , 7 , 4.  {part=,seq=15309,type=,n=4}
+46603 new {#dakziRottara#} {%dakṣiṇottara%}¦  , {%°rābhyāṃ pāṇibhyām%} mit beiden Händen , so daß die rechte Hand oberhalb zu stehen kommt , Gobh. 1 , 7 , 4.  {part=,seq=15309,type=,n=4}
+;
+; --------------------------------------------------------------
+;  iast = durvyavahṛṣti durvyavahṛti typo
+; --------------------------------------------------------------
+; <L>15549<pc>214-2<k1>durvyavahfti<k2>durvyavahṛṣti  (reason = durvyavahṛṣti)
+48071 old {#durvyavahfti#} {%durvyavahṛṣti%}¦  f. übles Gerede , Mahā-vīrac. 48 , 8. {part=,seq=15790,type=,n=2}
+48071 new {#durvyavahfti#} {%durvyavahṛti%}¦  f. übles Gerede , Mahā-vīrac. 48 , 8. {part=,seq=15790,type=,n=2}
+;
+; --------------------------------------------------------------
+;  iast = niṣpūtigaṇdhika niṣpūtigandhika typo
+; --------------------------------------------------------------
+; <L>17152<pc>236-3<k1>nizpUtiganDika<k2>niṣpūtigaṇdhika  (reason = niṣpūtigaṇdhika)
+53001 old {#nizpUtiganDika#} {%niṣpūtigaṇdhika%}¦  Adj. nicht stinkend , Divyāvad. 120 , 2. {part=,seq=17408,type=,n=2}
+53001 new {#nizpUtiganDika#} {%niṣpūtigandhika%}¦  Adj. nicht stinkend , Divyāvad. 120 , 2. {part=,seq=17408,type=,n=2}
+;
+; --------------------------------------------------------------
+;  iast = prāṇmukhāñcana prāṅmukhāñcana typo
+; --------------------------------------------------------------
+; <L>19737<pc>272-2<k1>prANmuKAYcana<k2>prāṇmukhāñcana  (reason = prāṇmukhāñcana)
+60926 old {#prANmuKAYcana#} {%prāṇmukhāñcana%}¦  Adj. = {%prāṅmukha%} 1. , Sāy. zu ṚV. 10 , 18 , 3. {part=,seq=20012,type=,n=2}
+60926 new {#prANmuKAYcana#} {%prāṅmukhāñcana%}¦  Adj. = {%prāṅmukha%} 1. , Sāy. zu ṚV. 10 , 18 , 3. {part=,seq=20012,type=,n=2}
+;
+; --------------------------------------------------------------
+;  iast = luñcālunca luñcāluñca print change
+; --------------------------------------------------------------
+; <L>22941<pc>317-1<k1>luYcAluYca<k2>luñcālunca  (reason = luñcālunca)
+70836 old {#luYcAluYca#} {%luñcālunca%}¦  ? S I , 444 , 3 [Ko. {%lañcāluñce%} (so!) = {%yaṣṭimāṃsabhakṣaṇa]%}. — Vgl. {%lañcāluñca!%} {part=,seq=23263,type=,n=3}
+70836 new {#luYcAluYca#} {%luñcāluñca%}¦  ? S I , 444 , 3 [Ko. {%lañcāluñce%} (so!) = {%yaṣṭimāṃsabhakṣaṇa]%}. — Vgl. {%lañcāluñca!%} {part=,seq=23263,type=,n=3}
+;
+; --------------------------------------------------------------
+;  iast = vāpan; vāpana typo
+; --------------------------------------------------------------
+; <L>23490<pc>324-3<k1>vApana<k2>vāpan;  (reason = vāpan;)
+72522 old {#vApana#} {%vāpan;%}¦  , {%śarīra°?%} Daśak. (1883) 161 , 8. {part=,seq=23817,type=,n=1}
+72522 new {#vApana#} {%vāpana%}¦  , {%śarīra°?%} Daśak. (1883) 161 , 8. {part=,seq=23817,type=,n=1}
+;
+; --------------------------------------------------------------
+;  iast = viśvadrśvan viśvadṛśvan print change
+; --------------------------------------------------------------
+; <L>24175<pc>333-3<k1>viSvadfSvan<k2>viśvadrśvan  (reason = viśvadrśvan)
+74630 old {#viSvadfSvan#} {%viśvadrśvan%}¦  alles sehend , S I , 3 , 1. {part=,seq=24509,type=,n=1}
+74630 new {#viSvadfSvan#} {%viśvadṛśvan%}¦  alles sehend , S I , 3 , 1. {part=,seq=24509,type=,n=1}
+;
+; --------------------------------------------------------------
+;  iast = vihaṅgikā  typo/markup
+; --------------------------------------------------------------
+; <L>24295.1<pc>335-2<k1>vihaMgikA<k2>vihaṅgikā  (reason = vihaṅgikā)
+74997 old <L>24295.1<pc>335-2<k1>vihaMgikA<k2>vihaṅgikā
+74997 new <L>24295.1<pc>335-2<k1>vihaNgikA<k2>vihaṅgikā
+74998 old {#vihaMgikA#} {%vihaṅgikā%}¦  f. *Schulterjoch , Prabandh. 160 , 2 v.u. {part=,seq=24630,type=,n=2}
+74998 new {#vihaNgikA#} {%vihaṅgikā%}¦  f. *Schulterjoch , Prabandh. 160 , 2 v.u. {part=,seq=24630,type=,n=2}
+;
+; --------------------------------------------------------------
+;  iast = śā(ate) markup
+; --------------------------------------------------------------
+; <L>24969<pc>344-1<k1>SAlate<k2>śā(ate)  (reason = śā(ate))
+77067 old <L>24969<pc>344-1<k1>SAlate<k2>śā(ate)
+77067 new <L>24969<pc>344-1<k1>SAl<k2>śāl
+77068 old {#SAlate#} {%śā(ate)%}¦  auch H 46 , 18 (Ko.). {part=,seq=25310,type=,n=1}
+77068 new {#SAl#} {%śāl%}¦ ({%ate%})  auch H 46 , 18 (Ko.). {part=,seq=25310,type=,n=1}
+;
+; --------------------------------------------------------------
+;  iast = adhvmukha  adhomukha print change
+; --------------------------------------------------------------
+; <L>27766<pc>382-2<k1>aDomuKa<k2>adhvmukha  (reason = adhvmukha)
+85678 old {#aDomuKa#} {%adhvmukha%}¦  ºSubst. n. gesenktes Antlitz, Daśar. IV, 24^b. {part=N,seq=28137,type=,n=2}
+85678 new {#aDomuKa#} {%adhomukha%}¦  ºSubst. n. gesenktes Antlitz, Daśar. IV, 24^b. {part=N,seq=28137,type=,n=2}
+;
+; -------------------------
+; abhíhotavái -> abhíhotavaí print change
+; for consistency with other accented dipthong 'ai'
+13026 old <L>4223<pc>058-1<k1>aBihotavE<k2>abhíhotavái
+13026 new <L>4223<pc>058-1<k1>aBihotavE<k2>abhíhotavaí
+13027 old {#aBihotavE#} {%abhíhotavái%}¦  zu beopfern , -x- begießen , Maitr. S. 1 , 8 , 6. {part=,seq=4279,type=,n=2}
+13027 new {#aBihotavE#} {%abhíhotavaí%}¦  zu beopfern , -x- begießen , Maitr. S. 1 , 8 , 6. {part=,seq=4279,type=,n=2}
+;
+; typos with capitalized long-A with acute accent
+21746 old <L>7048<pc>096-3<k1>ApAzWi<k2>Ā̀́pāṣṭhi
+21746 new <L>7048<pc>096-3<k1>ApAzWi<k2>Ā́pāṣṭhi
+21747 old {#ApAzWi#} {%Ā̀́pāṣṭhi%}¦  m. Patron. , Maitr. S. 3 , 4 , 6 (51 , 20). {part=,seq=7143,type=,n=2}
+21747 new {#ApAzWi#} {%Ā́pāṣṭhi%}¦  m. Patron. , Maitr. S. 3 , 4 , 6 (51 , 20). {part=,seq=7143,type=,n=2}
+22065 old <L>7150<pc>098-1<k1>AmitraSocani<k2>Ā̀́mitraśocani
+22065 new <L>7150<pc>098-1<k1>AmitraSocani<k2>Ā́mitraśocani
+22066 old {#AmitraSocani#} {%Ā̀́mitraśocani%}¦  m. Patron. , Maitr. S. 4 , 2 , 2 (23 , 6). {part=,seq=7248,type=,n=2}
+22066 new {#AmitraSocani#} {%Ā́mitraśocani%}¦  m. Patron. , Maitr. S. 4 , 2 , 2 (23 , 6). {part=,seq=7248,type=,n=2}
+;
+24000 old <L>7774<pc>106-3<k1>izvASanI<k2>Íṣvāśanī
+24000 new <L>7774<pc>106-3<k1>izvASanI<k2>Íṣvāśanī
+24001 old {#izvASanI#} {%Íṣvāśanī%}¦  m. N. pr. eines Mannes , Maitr. S. 4 , 2 , 2 (23 , 6). {part=,seq=7883,type=,n=2}
+24001 new {#izvASanI#} {%Íṣvāśanī%}¦  m. N. pr. eines Mannes , Maitr. S. 4 , 2 , 2 (23 , 6). {part=,seq=7883,type=,n=2}
+;
