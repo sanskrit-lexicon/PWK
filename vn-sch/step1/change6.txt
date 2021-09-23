@@ -609,7 +609,7 @@
 ;
 ; <L>18907<pc>261-1<k1>pfzatka<k2>pṛṣatka
 58381 old {%pṛṣatka%}¦ ein runder Flecken, Haravijaya 5, 69. [Erstens muß es "Fleck" heißen, zweitens steht im Texte {%pṛṣaṭka%}; obige Lesart verzeichnet der Komm. {%pṛṣaṭkās tilakākārā bindavaḥ; pṛṣatka iti pāṭhe pṛṣacchabdo binduvacanaḥ. "kap ca" samāsāntaḥ%}.] — °Tropfen, H 43, 261. {part=,seq=19175,type=,n=8}
-58381 new {%pṛṣatka%}¦ ein runder Flecken, Haravijaya 5, 69. [Erstens muß es "Fleck" heißen, zweitens steht im Texte {%pṛṣaṭka%}; obige Lesart verzeichnet der Komm. {%pṛṣaṭkās tilakākārā bindavaḥ%}; {%pṛṣatka iti pāṭhe pṛṣacchabdo binduvacanaḥ%}. "{%kap ca%}" samāsāntaḥ%}.] — °Tropfen, H 43, 261. {part=,seq=19175,type=,n=8}
+58381 new {%pṛṣatka%}¦ ein runder Flecken, Haravijaya 5, 69. [Erstens muß es "Fleck" heißen, zweitens steht im Texte {%pṛṣaṭka%}; obige Lesart verzeichnet der Komm. {%pṛṣaṭkās tilakākārā bindavaḥ%}; {%pṛṣatka iti pāṭhe pṛṣacchabdo binduvacanaḥ%}. "{%kap ca%}" {%samāsāntaḥ%}.] — °Tropfen, H 43, 261. {part=,seq=19175,type=,n=8}
 ;
 ; <L>19620<pc>271-1<k1>prasannIBU<k2>prasannībhū
 60571 old °{%prasannībhū%}¦ S I, 217, 7 v.u. (Ko.; {%prasīdantī prasannībhavantī... vidyā)%}. {part=,seq=19895,type=°,n=2}
