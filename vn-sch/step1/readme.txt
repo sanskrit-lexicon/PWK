@@ -2,7 +2,14 @@
 Start with temporary copies of sch.txt.
   temp_sch.txt  from csl-orig/v02/sch/sch.txt at
    commit 1c933ccd4184d49ee651244cf73f6829077f426c
-   
+  NOTE: This can be retrieved from csl-orig/v02/sch/ by
+  git show 1c933ccd4184d49ee651244cf73f6829077f426c:./sch.txt > temp_sch_1c933cc.txt
+
+The 'final' version computed here was transferred to csl-orig, and
+is identical with
+ sch.txt at commit 6b5c6bcd71703ff75e969bf536ac390125daa4e5 (of Sep 22, 2021)
+
+
 Filter sch for type=EMPTY-STRING.
 
 python change1.py temp_sch.txt temp_change1.txt
@@ -81,11 +88,18 @@ python change7.py temp_sch6.txt temp_change7.txt
 python updateByLine.py temp_sch6.txt temp_change7.txt temp_sch7.txt
 
 # --------------------------------------------------------
-Install temp_sch7.txt as new version in csl-orig
-cp temp_sch7.txt /c/xampp/htdocs/cologne/csl-orig/v02/sch/sch.txt             
+# change8:  change ^X to <sup>X</sup>  (superscript). X is a single character or digit.
+# For consistency with other digitization markup.
+
+python change8.py temp_sch7.txt temp_change8.txt
+ #  1500+ changes
+python updateByLine.py temp_sch7.txt temp_change8.txt temp_sch8.txt
+
+# --------------------------------------------------------
+Install temp_sch8.txt as new version in csl-orig
+cp temp_sch8.txt /c/xampp/htdocs/cologne/csl-orig/v02/sch/sch.txt             
 # Recreate with csl-pywork/v02 and check validity.
 # This version should also be run with new version of make_xml.py in csl-pywork/v02
 
 # --------------------------------------------------------
-Several displays/extracts based on temp_sch7.txt
 

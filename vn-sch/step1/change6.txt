@@ -771,3 +771,20 @@
 88664 old *{%tvatka%}¦ = {%tvat%} am Anfang eines Komp. Viṣṇubh. V, 32^d in {%°tvatkapitṛka%} Adj. dich zum Vater habend. — °alleinstehend, Saug. 79^d ({%vīra tvatke bhuje 'smin vasatu... jayaśrīḥ%}). {part=N,seq=29116,type=*,n=5}
 88664 new *{%tvatka%}¦ = {%tvat%} am Anfang eines Komp. Viṣṇubh. V, 32^d in {%°tvatkapitṛka%} Adj. dich zum Vater habend. — °alleinstehend, Saug. 79^d ({%vīra tvatke bhuje 'smin vasatu … jayaśrīḥ%}). {part=N,seq=29116,type=*,n=5}
 ;
+; ----------------------------------------------------------------------
+; + -> †.  Ref: https://github.com/sanskrit-lexicon/PWK/issues/70#issuecomment-892798293
+; <L>28076<pc>386-3<k1>ahimaruci<k2>ahimaruci
+86620 old +{%ahimaruci%}¦ m. Sonne auch Prabandh. 170, 2 v.u. {part=N,seq=28447,type=+,n=2}
+86620 new †{%ahimaruci%}¦ m. Sonne auch Prabandh. 170, 2 v.u. {part=N,seq=28447,type=†,n=2}
+;
+; <L>28437<pc>391-3<k1>kavacayati<k2>kavacay(ati)
+87727 old +{%kavacay(ati)%}¦ Karṇas. III, 29^b (in {%kavacayatu vipañcīpañcamaḥ śrotrayugmam%})? {part=N,seq=28808,type=+,n=3}
+87727 new †{%kavacay(ati)%}¦ Karṇas. III, 29^b (in {%kavacayatu vipañcīpañcamaḥ śrotrayugmam%})? {part=N,seq=28808,type=†,n=3}
+;
+; <L>28506<pc>392-3<k1>kIrtana<k2>kīrtana
+87937 old +{%kīrtana%}¦ (Denkmal) auch Prabandh. 160, 8 v.u. {part=N,seq=28877,type=+,n=2}
+87937 new †{%kīrtana%}¦ (Denkmal) auch Prabandh. 160, 8 v.u. {part=N,seq=28877,type=†,n=2}
+;
+; <L>28722<pc>395-2<k1>jyotiriNgaRa<k2>jyotiriṅgaṇa
+88594 old *+{%jyotiriṅgaṇa%}¦ m. auch Kaṃs. III, 19^b. {part=N,seq=29093,type=*+,n=1}
+88594 new †*{%jyotiriṅgaṇa%}¦ m. auch Kaṃs. III, 19<sup>b</sup>. {part=N,seq=29093,type=†*,n=1}

@@ -17,3 +17,9 @@ python updateByLine.py temp_sch5.txt change6.txt temp_sch6.txt
 
 python change7.py temp_sch6.txt temp_change7.txt
 python updateByLine.py temp_sch6.txt temp_change7.txt temp_sch7.txt
+
+python change8.py temp_sch7.txt temp_change8.txt
+
+python updateByLine.py temp_sch7.txt temp_change8.txt temp_sch8.txt
+
+echo "final version is temp_sch8.txt"
