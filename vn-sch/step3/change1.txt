@@ -1,0 +1,1448 @@
+; not entry
+6 old <p>{#*AmravATaka#} oder {#*ºvATika#} m. {%Spondias mangi-·fera%} RAJAN. 11, 172. 
+;
+6 new <p>*{#AmravATaka#} oder *{#°vATika#} m. {%Spondias mangi-·fera%} RAJAN. 11, 172. 
+; ----
+; not entry
+9 old <p>{#AyAsa£#}, so zu accentuiren. 
+;
+9 new <p>{#AyAsa/#}, so zu accentuiren. 
+; ----
+; not entry, typo
+10 old <p>{#Ayu£jJ#} Adj. {%sich verbindend.%} 
+;
+10 new <p>{#Ayu/j#} Adj. {%sich verbindend.%} 
+; ----
+; not entry
+11 old <p>{#Ayudhi£n#} Adj. {%Waffen tragend;%} m. {%Krieger.%} 
+;
+11 new <p>{#Ayudhi/n#} Adj. {%Waffen tragend;%} m. {%Krieger.%} 
+; ----
+; not entry
+14 old <p>{#ArAgay, ºyati#} 1) {%Jmd hoch erfreuen%} VAJRACCH. ·35, 1. fgg. Gegensatz {#virAgay.#} -- 2) {%erlangen, er-·reichen%} LALIT. 562, 5. 6. 
+;
+14 new <p>{#ArAgay, °yati#} 1) {%Jmd hoch erfreuen%} VAJRACCH. ·35, 1. fgg. Gegensatz {#virAgay#}. -- 2) {%erlangen, er-·reichen%} LALIT. 562, 5. 6. 
+; ----
+; not entry
+15 old <p>{#Aro£dhana#}, lies {%Aufstieg%} und vgl. Z. d. d. m. G. ·35, 717. 
+;
+15 new <p>{#Aro/dhana#}, lies {%Aufstieg%} und vgl. Z. d. d. m. G. ·35, 717. 
+; ----
+; not entry
+16 old <p>{#ArtayajJa£#} Adj. {%dessen Opfer gestört worden ist%} ·MAITR. S. 2, 4, 1. 
+;
+16 new <p>{#ArtayajJa/#} Adj. {%dessen Opfer gestört worden ist%} ·MAITR. S. 2, 4, 1. 
+; ----
+; not entry
+17 old <p>{#Artvya£#}, so zu accentuiren. 
+;
+17 new <p>{#Artvya/#}, so zu accentuiren. 
+; ----
+; not entry
+22 old <p>{#AvasathI£ya#} Adj. = {#Avamathya#} 1) TBR. 3, 7, 4, 6. 
+;
+22 new <p>{#AvasathI/ya#} Adj. = {#Avamathya#} 1) TBR. 3, 7, 4, 6. 
+; ----
+; not entry
+28 old <p>{#AzIna£#} Adj. = {#Azina£#} {%betagt%} MAITR. S. 2, 9, 4. 
+;
+28 new <p>{#AzIna/#} Adj. = {#Azina/#} {%betagt%} MAITR. S. 2, 9, 4. 
+; ----
+; not entry
+33 old <p>{#AsapuTa£#} m. {%Aschendüte,%} d. i. {%Asche in ein Blatt ·gewickelt%} TBR. 1, 3, 7, 6. 
+;
+33 new <p>{#AsapuTa/#} m. {%Aschendüte,%} d. i. {%Asche in ein Blatt ·gewickelt%} TBR. 1, 3, 7, 6. 
+; ----
+; not entry
+34 old <p>{#AsphoTana#} 1) {%a%}) VISHN2US. 71, 71. Nach dem Comm. [Page256-b] ·{#dakSiNAMsAropite vAmabAhau dakSiNapANinA zabdaka-·raNam.#} 
+;
+34 new <p>{#AsphoTana#} 1) {%a%}) VISHN2US. 71, 71. Nach dem Comm. [Page256-b] ·{#dakSiNAMsAropite vAmabAhau dakSiNapANinA zabdaka-·raNam#}. 
+; ----
+; not entry
+38 old <p>{#Ahuva£dhyai#}, so zu accentuiren. 
+;
+38 new <p>{#Ahuva/dhyai#}, so zu accentuiren. 
+; ----
+; not entry
+47 old <p>{#indrajJAla£#}, so zu accentuiren. 
+;
+47 new <p>{#indrajAla/#}, so zu accentuiren.
+; ----
+49 old <p>{#indrayAjJin#} Adj. {%dem%} {|Indra|} {%opfernd%} MAN. S4R. 1, 1, 1. 
+49 new <p>{#indrayAjin#} Adj. {%dem%} {|Indra|} {%opfernd%} MAN. S4R. 1, 1, 1. 
+; ----
+; not entry
+50 old <p>{#indravarNa#} HARIV. 6884 fehlerhaft für {#induvarNa.#} 
+;
+50 new <p>{#indravarNa#} HARIV. 6884 fehlerhaft für {#induvarNa#}. 
+; ----
+; not entry
+53 old <p>{#iraNya_#} MAITR. S. 2, 9, 8. KAP. S. 27, 5 wohl fehler-·haft für {#iriNya_.#} 
+;
+53 new <p>{#iraNya^#} MAITR. S. 2, 9, 8. KAP. S. 27, 5 wohl fehler-·haft für {#iriNya^#}. 
+; ----
+; not entry
+54 old <p>{#irasy#}, so zu lesen st. {#irasya.#} 
+;
+54 new <p>{#irasy#}, so zu lesen st. {#irasya#}. 
+; ----
+; not entry
+57 old <p>{#iSa£vant#} Adj. {%kräftig.%} 
+;
+57 new <p>{#iSa/vant#} Adj. {%kräftig.%} 
+; ----
+; not entry
+58 old <p>{#iSudhanva£#} n. Sg. {%Pfeil und Bogen%} TAITT. AR. 5, 1, 2. 
+;
+58 new <p>{#iSudhanva/#} n. Sg. {%Pfeil und Bogen%} TAITT. AR. 5, 1, 2. 
+; ----
+; not entry
+60 old <p>{#iSudhanvi£n#} Adj. {%Pfeil und Bogen führend%} TAITT. ·AR. 5, 1, 3. 
+;
+60 new <p>{#iSudhanvi/n#} Adj. {%Pfeil und Bogen führend%} TAITT. ·AR. 5, 1, 3. 
+; ----
+; not entry
+63 old <p>{#i£Suhasta#} Adj. {%einen Pfeil in der Hand haltend.%} 
+;
+63 new <p>{#i/Suhasta#} Adj. {%einen Pfeil in der Hand haltend.%} 
+; ----
+; not entry
+65 old <p>{#*iSTvInam#} Absol. = {#iSTvA£#} P. 7, 1, 48, Sch. 
+;
+65 new <p>*{#iSTvInam#} Absol. = {#iSTvA/#} P. 7, 1, 48, Sch. 
+; ----
+; not entry
+68 old <p>{#IyakS, I£yakSamANa = i£yakSamANa#} MAITR. S. 2, 10, 6. 
+;
+68 new <p>{#IyakS, I/yakSamANa = i/yakSamANa#} MAITR. S. 2, 10, 6. 
+; ----
+; not entry
+69 old <p>{#ISIkA#} auch so v. a. {%Pfeil.%} {#ºbhUta#} {%ganz von Pfei-·len erfüllt%} R. 2, 96, 46. [Page256-c] 
+;
+69 new <p>{#ISIkA#} auch so v. a. {%Pfeil.%} {#°bhUta#} {%ganz von Pfei-·len erfüllt%} R. 2, 96, 46. [Page256-c] 
+; ----
+; not entry
+72 old <p>{#*ukharvala#} zu streichen. 
+;
+72 new <p>*{#ukharvala#} zu streichen. 
+; ----
+; not entry
+74 old <p>{#ugragandhi#} und {#ºn#} Adj. {%stinkend%} VISUN2US. 66, 5. ·71, 11. 79, 5. 
+;
+74 new <p>{#ugragandhi#} und {#°n#} Adj. {%stinkend%} VISUN2US. 66, 5. ·71, 11. 79, 5. 
+; ----
+; not entry
+80 old <p>{#ucitakArin#} Adj. {%thuend was sich schickt.%} Nom. ·abstr. {#ºritA#} f. PR. P. vor 136. 
+;
+80 new <p>{#ucitakArin#} Adj. {%thuend was sich schickt.%} Nom. ·abstr. {#°ritA#} f. PR. P. vor 136. 
+; ----
+; not entry
+85 old <p>{#uccai£s#}, so zu betonen. 
+;
+85 new <p>{#uccai/s#}, so zu betonen. 
+; ----
+; not entry
+86 old <p>{#u£cchuSma#} 1) TS. 1, 6, 2, 2. 
+;
+86 new <p>{#u/cchuSma#} 1) TS. 1, 6, 2, 2. 
+; ----
+; not entry
+87 old <p>{#uJch#} mit {#nis#} in {#niruJchana.#} 
+;
+87 new <p>{#uJch#} mit {#nis#} in {#niruJchana#}. 
+; ----
+; not entry
+89 old <p>{#utkay, ºyati#} {%sehnsüchtig machen%} S4IS4. 1, 59. 
+;
+89 new <p>{#utkay, °yati#} {%sehnsüchtig machen%} S4IS4. 1, 59. 
+; ----
+; not entry
+91 old <p>{#utkUlanikUla£#}, so zu accentuiren. 
+;
+91 new <p>{#utkUlanikUla/#}, so zu accentuiren. 
+; ----
+; not entry
+92 old <p>{#utkozay, ºyati#} {%aus der Scheide ziehen%} VET. (U.) ·78, 15. 
+;
+92 new <p>{#utkozay, °yati#} {%aus der Scheide ziehen%} VET. (U.) ·78, 15. 
+; ----
+; not entry
+97 old <p>{#uttarAMsa#} nach NILAK. zu MBH. 1, 194, 10 = {#jJatru.#} 
+;
+97 new <p>{#uttarAMsa#} nach NILAK. zu MBH. 1, 194, 10 = {#jJatru#}. 
+; ----
+; not entry
+100 old <p>{#uttarArdha£pUrvArdha#}, lies {%Nordost.%} Auch MAN. S4R. 1, 3, ·2. 6, 2, 5. GR2HJ. 2, 2. 
+;
+100 new <p>{#uttarArdha/pUrvArdha#}, lies {%Nordost.%} Auch MAN. S4R. 1, 3, ·2. 6, 2, 5. GR2HJ. 2, 2. 
+; ----
+; not entry
+102 old <p>{#uttarottarabhAva (ºbhava ?)#} Adj. {%wo immer Einer über [Page257-a] ·dem Andern ist%} MAHAVIRAC. 84, 10. 
+;
+102 new <p>{#uttarottarabhAva (°bhava ?)#} Adj. {%wo immer Einer über [Page257-a] ·dem Andern ist%} MAHAVIRAC. 84, 10.
+; ---- typo 
+105 old <p>{#utpinJjalaka#} Adj. {%wobei es drunter und drüber ·geht%} (Kampf) MBH. 7, 25, 21. HARIV. 13554. 
+105 new <p>{#utpiJjalaka#} Adj. {%wobei es drunter und drüber ·geht%} (Kampf) MBH. 7, 25, 21. HARIV. 13554. 
+; ----
+; not entry
+111 old <p>{#udAyuvana#} in {#darvyudAyuvana.#} 
+;
+111 new <p>{#udAyuvana#} in {#darvyudAyuvana#}. 
+; ----
+; not entry
+118 old <p>{#*udgAna#} n. als Erklärung von {#udgItha#} 1) Comm. zu ·APAST. S4R. 5, 16, 8. 
+;
+118 new <p>*{#udgAna#} n. als Erklärung von {#udgItha#} 1) Comm. zu ·APAST. S4R. 5, 16, 8. 
+; ----
+; not entry
+123 old <p>{#uddhUta#} 1) Adj. s. u. 1. {#dhU#} mit {#ud.#} -- 2) n. {%das ·Tosen%} (des Meeres) MBH. 1, 185, 15. 
+;
+123 new <p>{#uddhUta#} 1) Adj. s. u. 1. {#dhU#} mit {#ud#}. -- 2) n. {%das ·Tosen%} (des Meeres) MBH. 1, 185, 15. 
+; ----
+; not entry
+124 old <p>{#udbarhi£s#} Adj. {%mit einer Streu darauf%} MAITR. S. ·2, 2. 3. 
+;
+124 new <p>{#udbarhi/s#} Adj. {%mit einer Streu darauf%} MAITR. S. ·2, 2. 3. 
+; ----
+; not entry
+127 old <p>{#udyAva#} auch = {#udyAma#} 2) {%Strang%} in {#dvAdazodyAva.#} 
+;
+127 new <p>{#udyAva#} auch = {#udyAma#} 2) {%Strang%} in {#dvAdazodyAva#}.
+;
+128 old <p>{#unminJja#} m. {%Frage%} (nach M. MÜLLER) SUKHAV. 4, 3. 
+128 new <p>{#unmiJja#} m. {%Frage%} (nach M. MÜLLER) SUKHAV. 4, 3. 
+; ----
+; not entry
+130 old <p>{#*upakuraGga#} m. {%eine Antilopenart%} RAJAN. 19, 47. 
+;
+130 new <p>*{#upakuraGga#} m. {%eine Antilopenart%} RAJAN. 19, 47.
+;
+133 old <p>{#upajJIvitar#} Nom. ag. {%lebend von%} (Gen.) ME-·DHAT. zu M. 
+133 new <p>{#upajIvitar#} Nom. ag. {%lebend von%} (Gen.) ME-·DHAT. zu M. 
+; ----
+; not entry
+136 old <p>{#upanAgaraka#} Adj. (f. {#ºrikA#}) Bez. {%eines best. Stils%} ·{#(rIti)#} KAVJAPR. 9, 3. 
+;
+136 new <p>{#upanAgaraka#} Adj. (f. {#°rikA#}) Bez. {%eines best. Stils%} ·{#(rIti)#} KAVJAPR. 9, 3. 
+; ----
+; not entry
+141 old <p>{#u£pamAti#} 1) auch {%Lockruf, Lockung.%} 
+;
+141 new <p>{#u/pamAti#} 1) auch {%Lockruf, Lockung.%} 
+; ----
+; not entry
+144 old <p>{#upa£riSTAtsvAhAkAra#} Adj. = {#ºsvAhAkRti#} TBR. ·3, 9, 10, 1. 
+;
+144 new <p>{#upa/riSTAtsvAhAkAra#} Adj. = {#°svAhAkRti#} TBR. ·3, 9, 10, 1.
+; ----
+146 old <p>{#upariSTAddhomabhAjJ#} Adj. {%später an der Spende An-·theil habend%} Comm. zu APAST. S4R. 7, 20, 9. 
+146 new <p>{#upariSTAddhomabhAj#} Adj. {%später an der Spende An-·theil habend%} Comm. zu APAST. S4R. 7, 20, 9. 
+; ----
+; not entry
+147 old <p>{#uparispR£z#}, so zu accentuiren. 
+;
+147 new <p>{#uparispR/z#}, so zu accentuiren. 
+; ----
+; not entry
+149 old <p>{#ºupavapana#} n. {%das Aufstreuen.%} {#tuSopaº#} APAST. S4R. ·6, 29, 17. 
+;
+149 new <p>°{#upavapana#} n. {%das Aufstreuen.%} {#tuSopa°#} APAST. S4R. ·6, 29, 17. 
+; ----
+; not entry
+150 old <p>{#u£pavahas#} n. = {#u£pavaha#} S4AT. BR. in der {|Kan2va|}-Rec. 
+;
+150 new <p>{#u/pavahas#} n. = {#u/pavaha#} S4AT. BR. in der {|Kan2va|}-Rec. 
+; ----
+; not entry
+151 old <p>{#upazaya#} 2) {%a%}) {%Anstand.%} {#ºstha#} Adj. {%auf dem A. ste-·hend%} (Jäger) S4IS4. 2, 80. 
+;
+151 new <p>{#upazaya#} 2) {%a%}) {%Anstand.%} {#°stha#} Adj. {%auf dem A. ste-·hend%} (Jäger) S4IS4. 2, 80. 
+; ----
+; not entry
+153 old <p>{#upazvasa£#}, lies m. {%das Blasen, Luftzug.%} 
+;
+153 new <p>{#upazvasa/#}, lies m. {%das Blasen, Luftzug.%} 
+; ----
+; not entry
+155 old <p>{#upasargay, ºyati#} {%Ungemach bereiten%} S4ILA1N3KA 1, ·365. 369. 
+;
+155 new <p>{#upasargay, °yati#} {%Ungemach bereiten%} S4ILA1N3KA 1, ·365. 369. 
+; ----
+; not entry
+156 old <p>{#upasarjJana#} 2) {#upasa£rjJanI.#} 
+;
+156 new <p>{#upasarjana#} 2) {#upasa/rjanI#}. 
+; ----
+; not entry
+157 old <p>1. {#upAnta£#}, so zu accentuiren. 
+;
+157 new <p>1. {#upAnta/#}, so zu accentuiren. 
+; ----
+; not entry
+175 old <p>{#*Ukhala#} m. {%ein Andropogon%} RAJAN. 8, 126. 
+;
+175 new <p>*{#Ukhala#} m. {%ein Andropogon%} RAJAN. 8, 126.
+; ----
+179 old <p>{#UrjJaspati#} m. Bein. {|Vishn2u's|} VISHN2US. 98, 17. 
+179 new <p>{#Urjaspati#} m. Bein. {|Vishn2u's|} VISHN2US. 98, 17.
+; ----
+181 old <p>{#UrdhvajJvalana#} n. {%das Emporflammen%} S4IS4. 1, 2. 
+181 new <p>{#Urdhvajvalana#} n. {%das Emporflammen%} S4IS4. 1, 2. 
+; ----
+; not entry
+183 old <p>{#UrdhvaMbhAvuka#} n. in {#a£nUrdhvaMbhAvuka#} oben. 
+;
+183 new <p>{#UrdhvaMbhAvuka#} n. in {#a/nUrdhvaMbhAvuka#} oben.
+; ----
+186 old <p>{#RgyajJuHsAmAdimaya#} Adj. (f. {#I#}) {%aus%} {|R2c, Jajus, ·Saman|} {%u. s. w. gebildet%} VP. 4, 1, 6. 
+186 new <p>{#RgyajuHsAmAdimaya#} Adj. (f. {#I#}) {%aus%} {|R2c, Jajus, ·Saman|} {%u. s. w. gebildet%} VP. 4, 1, 6. 
+; ----
+; not entry
+190 old <p>{#Rte£#}, so zu accentuiren. 
+;
+190 new <p>{#Rte/#}, so zu accentuiren. 
+; ----
+; not entry
+194 old <p>2. {#ekakArya#}, Nom. abstr. {#ºtra#} n. RAGH. 10, 41. 
+;
+194 new <p>2. {#ekakArya#}, Nom. abstr. {#°tra#} n. RAGH. 10, 41. 
+; ----
+; not entry
+198 old <p>{#ekadezin#} 1) Nom. abstr. {#ºzitva#} n. Comm. zu ·APAST. S4R. 8, 9, 2. 
+;
+198 new <p>{#ekadezin#} 1) Nom. abstr. {#°zitva#} n. Comm. zu ·APAST. S4R. 8, 9, 2. 
+; ----
+; not entry
+209 old <p>{#ekapazuka#}, f. {#A.#} 
+;
+209 new <p>{#ekapazuka#}, f. {#A#}. 
+; ----
+; not entry
+210 old <p>{#ekapAka#} m. {%gemeinsames Kochen.%} {#ºkena vasantaH#} ·{%eine gemeinschaftliche Küche habend.%} 
+;
+210 new <p>{#ekapAka#} m. {%gemeinsames Kochen.%} {#°kena vasantaH#} ·{%eine gemeinschaftliche Küche habend.%} 
+; ----
+; not entry
+212 old <p>{#ekaputra#} auch Adj. {%einen einzigen Sohn habend.%} ·Nom. abstr. {#ºtA#} f. und {#ºtva#} n. MBH. 3, 127, 12. 
+;
+212 new <p>{#ekaputra#} auch Adj. {%einen einzigen Sohn habend.%} ·Nom. abstr. {#°tA#} f. und {#°tva#} n. MBH. 3, 127, 12. 
+; ----
+; not entry
+225 old <p>{#e£kahotar#} m. {%ein einfacher%} (kein zweifacher) ·{|Hotar|} TAITT. AR. 3, 7, 1. 
+;
+225 new <p>{#e/kahotar#} m. {%ein einfacher%} (kein zweifacher) ·{|Hotar|} TAITT. AR. 3, 7, 1. 
+; ----
+; not entry
+228 old <p>{#ekAtapatra#} Adj. {%nur von einem Fürsten beherrscht%} ·PR. P. 111. Vgl. {#ekacchattra.#} 
+;
+228 new <p>{#ekAtapatra#} Adj. {%nur von einem Fürsten beherrscht%} ·PR. P. 111. Vgl. {#ekacchattra#}. 
+; ----
+; not entry
+229 old <p>{#e£kAdazacchadi#} Adj. {%eilf Dächer habend%} TS. 6, 2, 10, 6. 
+;
+229 new <p>{#e/kAdazacchadi#} Adj. {%eilf Dächer habend%} TS. 6, 2, 10, 6. 
+; ----
+; not entry
+235 old <p>{#ekolmuka£#} n. {%ein einzelner Feuerbrand%} MAITR. ·S. 1, 10, 20. TBR. 1, 6, 10, 1. APAST. S4R. 8, 17, 8. 
+;
+235 new <p>{#ekolmuka/#} n. {%ein einzelner Feuerbrand%} MAITR. ·S. 1, 10, 20. TBR. 1, 6, 10, 1. APAST. S4R. 8, 17, 8. 
+; ----
+; not entry
+245 old <p>{#aikSavya_#} Adj. = {#aikSava£#} 1). 
+;
+245 new <p>{#aikSavya^#} Adj. = {#aikSava/#} 1). 
+; ----
+; not entry
+250 old <p>{#*odanabhojJikA#} f. {%der Genuss von Mus%} KAS4. zu ·P. 3, 3, 111. 
+;
+250 new <p>*{#odanabhojikA#} f. {%der Genuss von Mus%} KAS4. zu ·P. 3, 3, 111. 
+; ----
+; not entry
+251 old <p>{#auccaiHzravasa£#}, so zu accentuiren. 
+;
+251 new <p>{#auccaiHzravasa/#}, so zu accentuiren.
+; ----
+252 old <p>{#aujJasa#} auch N. pr. eines {|Tirtha|} VISHN2US. 85, ·52. {#ausajJa#} v. l. 
+252 new <p>{#aujasa#} auch N. pr. eines {|Tirtha|} VISHN2US. 85, ·52. {#ausaja#} v. l. 
+; ----
+; not entry
+254 old <p>{#au£ddAlaki#}, so zu accentuiren. 
+;
+254 new <p>{#au/ddAlaki#}, so zu accentuiren.
+; ----
+257 old <p>{#aunnidya#} n. {%Schlaflosigkeit%} DES4IN. 1, 117. 
+257 new <p>{#aunnidrya#} n. {%Schlaflosigkeit%} DES4IN. 1, 117. 
+; ----
+; not entry
+260 old <p>{#au£pavezi#}, so zu accentuiren. 
+;
+260 new <p>{#au/pavezi#}, so zu accentuiren. 
+; ----
+; not entry
+262 old <p>{#ausajJa#} n. N. pr. eines {|Tirtha|} VISHN2US. 85, 52. ·v. l. {#aujJasa.#} 
+;
+262 new <p>{#ausaja#} n. N. pr. eines {|Tirtha|} VISHN2US. 85, 52. ·v. l. {#aujasa#}. 
+; ----
+; not entry
+264 old <p>{#kaku£dmant#} 1) auch = {#kaku£nmant#} TS. 1, 7, 7, 2. 
+;
+264 new <p>{#kaku/dmant#} 1) auch = {#kaku/nmant#} TS. 1, 7, 7, 2. 
+; ----
+; not entry
+267 old <p>{#kaku£bhvant#} Adj. = {#kaku£nmant#} MAITR. S. 1, 11, 1. 
+;
+267 new <p>{#kaku/bhvant#} Adj. = {#kaku/nmant#} MAITR. S. 1, 11, 1. 
+; ----
+; not entry
+272 old <p>{#*kaTuGkatA#}, vgl. {#khaTuGka#} weiter unten. 
+;
+272 new <p>*{#kaTuGkatA#}, vgl. {#khaTuGka#} weiter unten. 
+; ----
+; not entry
+273 old <p>{#*kaTuzRGgATa#} (nicht {#ºzRGgAla#}) RAJAN. 7, 152. 
+;
+273 new <p>*{#kaTuzRGgATa#} (nicht {#°zRGgAla#}) RAJAN. 7, 152.
+; ----
+274 old <p>{#kaNTakijJa#} Adj. {%auf einem dornigen Gewächs ge-·wachsen%} (Blume) VISHN2US. 66, 7. 8. 79, 5. 6. 
+274 new <p>{#kaNTakija#} Adj. {%auf einem dornigen Gewächs ge-·wachsen%} (Blume) VISHN2US. 66, 7. 8. 79, 5. 6. 
+; ----
+; not entry
+278 old <p>{#kanakadhAraka#} m. R. GORR. 2, 90, 14 vielleicht feh-·lerhaft über {#ºdhAvaka#} {%Goldwäscher.%} 
+;
+278 new <p>{#kanakadhAraka#} m. R. GORR. 2, 90, 14 vielleicht feh-·lerhaft über {#°dhAvaka#} {%Goldwäscher.%} 
+; ----
+; not entry
+279 old <p>{#kanakanandin#} m. N. pr. eines Wesens im Gefolge ·{|S4iva's|} Cit, im S4KDR. u. {#nandin.#} 
+;
+279 new <p>{#kanakanandin#} m. N. pr. eines Wesens im Gefolge ·{|S4iva's|} Cit, im S4KDR. u. {#nandin#}. 
+; ----
+; not entry
+282 old <p>{#*kanyAdarzam#} Absol. {%beim Anblick eines Mädchens%} ·P. 3, 4, 29, Sch. 
+;
+282 new <p>*{#kanyAdarzam#} Absol. {%beim Anblick eines Mädchens%} ·P. 3, 4, 29, Sch. 
+; ----
+; not entry
+283 old <p>{#kanyAdUSayitar#} Nom. ag. (MARK. P. 31, 28) und [Page259-a] ·{#ºdUSin#} Adj. (JAJN5. 1, 223) {%eine Jungfrau schändend%} 
+;
+283 new <p>{#kanyAdUSayitar#} Nom. ag. (MARK. P. 31, 28) und [Page259-a] ·{#°dUSin#} Adj. (JAJN5. 1, 223) {%eine Jungfrau schändend%} 
+; ----
+; not entry
+290 old <p>1. {#kar#} mit {#abhyA#} in {#punarabhyAkAram.#}--Mit {#pravi#} ·(metrisch st. {#vipra#}), {#ºkRta#} n. impers. {%gesündigt%} MA-·HAVIRAC. 80, 11. 
+;
+290 new <p>1. {#kar#} mit {#abhyA#} in {#punarabhyAkAram#}.--Mit {#pravi#} ·(metrisch st. {#vipra#}), {#°kRta#} n. impers. {%gesündigt%} MA-·HAVIRAC. 80, 11. 
+; ----
+; not entry
+291 old <p>{#ºkaraGkAy, ºyate#} {%wie ein Gerippe von--aussehen%} ·CAN2D2AK. 70. 10. 
+;
+291 new <p>°{#karaGkAy, °yate#} {%wie ein Gerippe von--aussehen%} ·CAN2D2AK. 70. 10. 
+; ----
+; not entry
+292 old <p>{#karaNDakanivApa#}, auch {#ºka#} m. 
+;
+292 new <p>{#karaNDakanivApa#}, auch {#°ka#} m.
+; ---- typo
+295 old <p>{#karapuTAnJjali#} m. = {#anJjalipuTa#} (s. oben) R. 5, 64, 5. 
+295 new <p>{#karapuTAJjali#} m. = {#aJjalipuTa#} (s. oben) R. 5, 64, 5. 
+; ----
+; not entry
+299 old <p>{#karikumbha#} m. Du. {%die beiden Erhöhungen auf ·der Stirn des Elephanten, die in der Brunstzeit ·stark anschwellen.%} {#ºpITha#} n. {%das Stirnbein beim ·Elephanten%} Spr. 3603. 
+;
+299 new <p>{#karikumbha#} m. Du. {%die beiden Erhöhungen auf ·der Stirn des Elephanten, die in der Brunstzeit ·stark anschwellen.%} {#°pITha#} n. {%das Stirnbein beim ·Elephanten%} Spr. 3603. 
+; ----
+; not entry
+300 old <p>{#karambha£#}, so zu accentuiren. 
+;
+300 new <p>{#karambha/#}, so zu accentuiren. 
+; ----
+; not entry
+301 old <p>{#karIra#} 2) {%a%}) {#ºsaktu#} MAN. S4R. 2, 2, 6. 
+;
+301 new <p>{#karIra#} 2) {%a%}) {#°saktu#} MAN. S4R. 2, 2, 6. 
+; ----
+; not entry
+302 old <p>{#*karenduka#} zu streichen, da es RAJAN. 8, 122 eine ·Zahlbezeichnung ist. 
+;
+302 new <p>*{#karenduka#} zu streichen, da es RAJAN. 8, 122 eine ·Zahlbezeichnung ist. 
+; ----
+; not entry
+303 old <p>{#karkandhUkA£#} (wohl so zu betonen) f. von unbe-·kannter Bed. AV. 20, 136, 3. 
+;
+303 new <p>{#karkandhUkA/#} (wohl so zu betonen) f. von unbe-·kannter Bed. AV. 20, 136, 3. 
+; ----
+; not entry
+304 old <p>{#karkarika£#} m. vielleicht {%eine Pflanze%} AV. 20, 132, 3. 
+;
+304 new <p>{#karkarika/#} m. vielleicht {%eine Pflanze%} AV. 20, 132, 3. 
+; ----
+; not entry
+324 old <p>{#kava£Sa#}, so zu accentuiren. 
+;
+324 new <p>{#kava/Sa#}, so zu accentuiren. 
+; ----
+; not entry
+325 old <p>{#kavya£tA#}, so zu accentuiren. 
+;
+325 new <p>{#kavya/tA#}, so zu accentuiren. 
+; ----
+; not entry
+326 old <p>{#kas#} mit {#nis, niSkAsita#} ausser {%hinausgejagt%} ·nach MED. auch = {#Ahita#} und {#adhikRta.#} 
+;
+326 new <p>{#kas#} mit {#nis, niSkAsita#} ausser {%hinausgejagt%} ·nach MED. auch = {#Ahita#} und {#adhikRta#}. 
+; ----
+; not entry
+327 old <p>{#kAku£d#}, so zu accentuiren. 
+;
+327 new <p>{#kAku/d#}, so zu accentuiren. 
+; ---- also typo
+; not entry
+328 old <p>{#kAjJava£#} (?) MAITR. S. 2, 1, 4. 
+;
+328 new <p>{#kAjava/#} (?) MAITR. S. 2, 1, 4. 
+; ----
+; not entry
+335 old <p>{#kAmarUpi£n#}, so zu accentuiren. 
+;
+335 new <p>{#kAmarUpi/n#}, so zu accentuiren.
+; ---- typo
+337 old <p>{#kAmyayAjJyA#} f. {%ein bei der%} {#kAmyeSTi#} {%gesprochener ·Spruch%} Comm. zu TS. 1, 1062, 1. 
+337 new <p>{#kAmyayAjyA#} f. {%ein bei der%} {#kAmyeSTi#} {%gesprochener ·Spruch%} Comm. zu TS. 1, 1062, 1. 
+; ----
+; not entry
+341 old <p>{#kAlanirmANayodhin#} Adj. HARIV. 4211 nach NI-·LAK. = {#samayAnusAriyuddhakuzala.#} 
+;
+341 new <p>{#kAlanirmANayodhin#} Adj. HARIV. 4211 nach NI-·LAK. = {#samayAnusAriyuddhakuzala#}. 
+; ----
+; not entry
+343 old <p>{#kAlaparipAka#} auch {%das Kommen der Zeit, wo ·sich Etwas erfüllt.%} Am Ende eines adj. Comp. ·Nom. abstr. {#ºtva#} n. 
+;
+343 new <p>{#kAlaparipAka#} auch {%das Kommen der Zeit, wo ·sich Etwas erfüllt.%} Am Ende eines adj. Comp. ·Nom. abstr. {#°tva#} n.
+; ---- typo
+351 old <p>{#kivistAra#} Adj. (f. {#A#}) {%von welchem Umfange ?%} ·MBH. 2, 6, 16. 
+351 new <p>{#kiMvistAra#} Adj. (f. {#A#}) {%von welchem Umfange ?%} ·MBH. 2, 6, 16. 
+; ----
+; not entry
+357 old <p>{#kiM£pavitra#} Adj. {%wodurch Läuterung erhaltend ?%} ·TS. 6, 4, 5, 3. 
+;
+357 new <p>{#kiM/pavitra#} Adj. {%wodurch Läuterung erhaltend ?%} ·TS. 6, 4, 5, 3. 
+; ----
+; not entry
+358 old <p>{#kirmira£#} Adj. {%bunt.%} 
+;
+358 new <p>{#kirmira/#} Adj. {%bunt.%} 
+; ----
+; not entry
+359 old <p>{#kIlA£lodhnI#}, so zu accentuiren. 
+;
+359 new <p>{#kIlA/lodhnI#}, so zu accentuiren.
+; typo
+362 old <p>{#kunJjarI#} Adv. mit {#kar#} {%zu einem Elephanten%} --, ·so v. a. {%zu einem hoch angesehenen Mann machen%} ·HEM. PAR. 1, 230. 
+362 new <p>{#kuJjarI#} Adv. mit {#kar#} {%zu einem Elephanten%} --, ·so v. a. {%zu einem hoch angesehenen Mann machen%} ·HEM. PAR. 1, 230.
+; typo
+363 old <p>{#kunJjavant#} m. N. pr. eines Theiles des {|Dan2d2aka|}-·Waldes MAHAVIRAC. 79, 20. 
+363 new <p>{#kuJjavant#} m. N. pr. eines Theiles des {|Dan2d2aka|}-·Waldes MAHAVIRAC. 79, 20. 
+; ----
+; not entry
+364 old <p>{#kuTila#} 2) {%b%}) {%*Seemuschel%} RAJAN. 13, 122. 
+;
+364 new <p>{#kuTila#} 2) {%b%}) *{%Seemuschel%} RAJAN. 13, 122. 
+; ----
+; not entry
+366 old <p>{#kuT#} mit {#ni#} s. {#nikuTTana.#} 
+;
+366 new <p>{#kuT#} mit {#ni#} s. {#nikuTTana#}. 
+; ----
+; not entry, typo
+367 old <p>{#kutepasauzruta#}, lies {#zAkapArthivAdi.#} 
+;
+367 new <p>{#kutapasauzruta#}, lies {#zAkapArthivAdi#}. 
+; ----
+; not entry
+368 old <p>{#ºkutUhalitA#} f. {%Neugier, Verlangen nach%} CAN2D2AK. ·74, 3. 
+;
+368 new <p>°{#kutUhalitA#} f. {%Neugier, Verlangen nach%} CAN2D2AK. ·74, 3. 
+; ----
+; not entry
+379 old <p>{#kurupizaGgila£#}, so zu accentuiren. 
+;
+379 new <p>{#kurupizaGgila/#}, so zu accentuiren. 
+; ----
+; not entry
+384 old <p>{#kuzIlava#} 1) Nom. abstr. {#ºtA#} f. VISHN2US. 37, 32. 
+;
+384 new <p>{#kuzIlava#} 1) Nom. abstr. {#°tA#} f. VISHN2US. 37, 32. 
+; ----
+; not entry. typo
+391 old <p>{#kRNuSvapAjJavatI#} und {#ºpAjJIyA#} f. Pl. Bez. {%der Verse%} ·R2V. 4, 4, 1. fgg. APAST. S4R. 19, 18. Comm. zu 7, 13, 4. 
+;
+391 new <p>{#kRNuSvapAjavatI#} und {#°pAjIyA#} f. Pl. Bez. {%der Verse%} ·R2V. 4, 4, 1. fgg. APAST. S4R. 19, 18. Comm. zu 7, 13, 4. 
+; ----
+; not entry
+397 old <p>{#kR£pa#}, so zu accentuiren. 
+;
+397 new <p>{#kR/pa#}, so zu accentuiren. 
+; ----
+; not entry
+398 old <p>{#ºkRS#} Adj. {%hinundher zerrend, peinigend%} in {#kaM-·sakRS#} (s. oben). 
+;
+398 new <p>°{#kRS#} Adj. {%hinundher zerrend, peinigend%} in {#kaM-·sakRS#} (s. oben). 
+; ----
+; not entry
+399 old <p>{#kRSNaka£rNa#}, so zu accentuiren. 
+;
+399 new <p>{#kRSNaka/rNa#}, so zu accentuiren. 
+; ----
+; not entry
+403 old <p>{#*kRSNAlu#} {%ein best. Knollengewächs%} RAJAN. 7, 77. 
+;
+403 new <p>*{#kRSNAlu#} {%ein best. Knollengewächs%} RAJAN. 7, 77. 
+; ----
+; not entry
+405 old <p>{#kenipa£#}, so zu accentuiren. 
+;
+405 new <p>{#kenipa/#}, so zu accentuiren. 
+; ----
+; not entry
+411 old <p>{#koTavI#} 1) Nom. abstr. {#ºtra#} n. PR. P. vor 140. 
+;
+411 new <p>{#koTavI#} 1) Nom. abstr. {#°tra#} n. PR. P. vor 140.
+; typo
+413 old <p>{#koTizatatana#} Adj. (f. {#I#}) {%der 1000,000000 ste%} ·ebend. 
+413 new <p>{#koTizatatama#} Adj. (f. {#I#}) {%der 1000,000000 ste%} ·ebend.
+; typo
+416 old <p>{#kopajJanman#} Adj. {%zornerzeugt%} KIR. 2, 37. 
+416 new <p>{#kopajanman#} Adj. {%zornerzeugt%} KIR. 2, 37. 
+; ----xxx
+; not entry
+422 old <p>{#kram#} mit {#samud#} {%zusammen hinausschreiten%} APAST. ·S4R. 7, 21, 6. -- Mit {#prati#} Z. 2, lies 3) st. 2). -- 4) ·{#ºkrAnta#} {%ferner --, von nun an abstehend von%} (im ·Comp. vorangehend) VAJRACCH. 19, 8. 
+;
+422 new <p>{#kram#} mit {#samud#} {%zusammen hinausschreiten%} APAST. ·S4R. 7, 21, 6. -- Mit {#prati#} Z. 2, lies 3) st. 2). -- 4) ·{#°krAnta#} {%ferner --, von nun an abstehend von%} (im ·Comp. vorangehend) VAJRACCH. 19, 8. 
+; ----
+; not entry
+425 old <p>{#*krAmika#} Adj. {%den%} {|Kramapat2ha|} {%kennend%} oder ·{%studirend%} {|gan2a|} {#ukthAdi#} in der KAS4. 
+;
+425 new <p>*{#krAmika#} Adj. {%den%} {|Kramapat2ha|} {%kennend%} oder ·{%studirend%} {|gan2a|} {#ukthAdi#} in der KAS4. 
+; ----
+; not entry
+429 old <p>{#kruz#} mit {#pari, ºkruSTa#} {%öffentlich angeboten%} (Speise) ·APAST. 1, 18, 17. 
+;
+429 new <p>{#kruz#} mit {#pari, °kruSTa#} {%öffentlich angeboten%} (Speise) ·APAST. 1, 18, 17. 
+; ----
+; not entry
+441 old <p>{#kSIrin#} m. auch {%*Kalkspath%} RAJAN. 13, 134. 
+;
+441 new <p>{#kSIrin#} m. auch *{%Kalkspath%} RAJAN. 13, 134. 
+; ----
+; not entry
+443 old <p>{#kSullaka£vaizvadeva#} m. {%ein best. kleiner Becher für die%} ·{|Vis4ve Devas|} MAITR. S. 2, 11, 5. 
+;
+443 new <p>{#kSullaka/vaizvadeva#} m. {%ein best. kleiner Becher für die%} ·{|Vis4ve Devas|} MAITR. S. 2, 11, 5. 
+; ----
+; not entry
+447 old <p>{#khaTuGka#} Adj. {%böse%} Text zu Lot. de la b. l. 162. ·Vgl. {#*kaTuGkatA.#} 
+;
+447 new <p>{#khaTuGka#} Adj. {%böse%} Text zu Lot. de la b. l. 162. ·Vgl. *{#kaTuGkatA#}. 
+; ----
+; not entry
+448 old <p>{#khaTvay, ºyati#} {%zur Bettstelle machen%} S4IS4. 2, 77. 
+;
+448 new <p>{#khaTvay, °yati#} {%zur Bettstelle machen%} S4IS4. 2, 77. 
+; ----
+; not entry
+453 old <p>{#khara£jru#}, so zu accentuiren. 
+;
+453 new <p>{#khara/jru#}, so zu accentuiren. 
+; ----
+; not entry
+454 old <p>{#kharjJUra#} 3) {%e%}) {%*der Kern der Cocosnuss%} RAJAN. 11, 52. 
+;
+454 new <p>{#kharjJUra#} 3) {%e%}) *{%der Kern der Cocosnuss%} RAJAN. 11, 52. 
+; ----
+; not entry
+455 old <p>{#khaSa#} s. {#pUtiº.#} 
+;
+455 new <p>{#khaSa#} s. {#pUti°#}. 
+; ----
+; not entry
+457 old <p>{#khyA#} mit {#samA#} Caus. {%ermahnen%} APAST. 2, 29, 7 ·(wohl {#ºpyaH#} zu lesen). 
+;
+457 new <p>{#khyA#} mit {#samA#} Caus. {%ermahnen%} APAST. 2, 29, 7 ·(wohl {#°pyaH#} zu lesen). 
+; ----
+; not entry
+468 old <p>{#gandhaka#} auch {%wohlriechender Stoff, Wohlgerüche.%} ·{#ºpeSikA#} f. HARIV. 8394. {#ºpoSikA#} f. 2, 89, 12. 
+;
+468 new <p>{#gandhaka#} auch {%wohlriechender Stoff, Wohlgerüche.%} ·{#°peSikA#} f. HARIV. 8394. {#°poSikA#} f. 2, 89, 12. 
+; ----
+; not entry
+472 old <p>{#gambha£ra#}, so zu accentuiren. 
+;
+472 new <p>{#gambha/ra#}, so zu accentuiren. 
+; ----
+; not entry
+479 old <p>{#galunta£#} (?) m. AV. 6, 83, 3. 
+;
+479 new <p>{#galunta/#} (?) m. AV. 6, 83, 3. 
+; ----
+; not entry
+481 old <p>{#gAGgaucya£#} m. {%ein best. göttliches Wesen%} MAITR. ·S. 2, 9, 1. 
+;
+481 new <p>{#gAGgaucya/#} m. {%ein best. göttliches Wesen%} MAITR. ·S. 2, 9, 1. 
+; ----
+; not entry
+482 old <p>{#gAtra#} und {#ºyuta#} Adj. {%umfänglich, gross%} (Edelstein) ·RAJAN. 13, 161. 166. 171. 183. 194. 149. 
+;
+482 new <p>{#gAtra#} und {#°yuta#} Adj. {%umfänglich, gross%} (Edelstein) ·RAJAN. 13, 161. 166. 171. 183. 194. 149. 
+; ----
+; not entry
+483 old <p>{#gAyatrIyAman#} Adj. (f. {#ºyAmnI#}) {%under%} {|Gajatri|}-·{%Versen kommend%} APAST. S4R. 4, 7, 2. 
+;
+483 new <p>{#gAyatrIyAman#} Adj. (f. {#°yAmnI#}) {%under%} {|Gajatri|}-·{%Versen kommend%} APAST. S4R. 4, 7, 2. 
+; ----
+; not entry
+484 old <p>{#gArdhapRSTa#} oder {#ºpraSTa#} Bez. {%einer nicht sanctionir-·ten Art des Selbstmordes%} (bei den {|Jaina|}) S4ILA1N3KA ·1, 369. 
+;
+484 new <p>{#gArdhapRSTa#} oder {#°praSTa#} Bez. {%einer nicht sanctionir-·ten Art des Selbstmordes%} (bei den {|Jaina|}) S4ILA1N3KA ·1, 369. 
+; ----
+; not entry
+488 old <p>{#girizaya£#}, so zu accentuiren. 
+;
+488 new <p>{#girizaya/#}, so zu accentuiren. 
+; ----
+; not entry
+499 old <p>{#gRhastha#} 2) Nom. abstr. {#ºtA#} f. MAHAVIRAC. 62, 13. 
+;
+499 new <p>{#gRhastha#} 2) Nom. abstr. {#°tA#} f. MAHAVIRAC. 62, 13. 
+; ----
+; not entry
+501 old <p>{#*gairikAkhya#} RAJAN. 11, 94. 
+;
+501 new <p>*{#gairikAkhya#} RAJAN. 11, 94. 
+; ----
+; not entry
+502 old <p>{#gotrin#} Adj. {%zu {|einem|} Geschlecht gehörig;%} m. ·{%Blutsverwandter%} VET. (U.) 39, 39. Nom. abstr. ·{#ºtritva#} n. BR2HANM. 
+;
+502 new <p>{#gotrin#} Adj. {%zu {|einem|} Geschlecht gehörig;%} m. ·{%Blutsverwandter%} VET. (U.) 39, 39. Nom. abstr. ·{#°tritva#} n. BR2HANM. 
+; ----
+; not entry
+505 old <p>{#*gomedasaMnibha#} 2) {%Kalkspath%} RAJAN. 13, 136. 
+;
+505 new <p>*{#gomedasaMnibha#} 2) {%Kalkspath%} RAJAN. 13, 136. 
+; ----
+; not entry
+506 old <p>{#goSTha£#} m. {#apAM£ goSThaH£#} geschraubter Ausdruck für ·{%Wassergefäss, Kübel%} AV. 11, 1, 13. 
+;
+506 new <p>{#goSTha/#} m. {#apAM/ goSThaH/#} geschraubter Ausdruck für ·{%Wassergefäss, Kübel%} AV. 11, 1, 13. 
+; ----
+; not entry
+507 old <p>{#*goSpadapUram#} und {#*ºpadapram#} Absol. {%so dass%} (nur) ·{%der Eindruck einer Rinderklaue%} (mit Wasser) {%ge-·füllt wird%} P. 3, 4, 32, Sch. BHAT2T2. 14, 20. 
+;
+507 new <p>*{#goSpadapUram#} und *{#°padapram#} Absol. {%so dass%} (nur) ·{%der Eindruck einer Rinderklaue%} (mit Wasser) {%ge-·füllt wird%} P. 3, 4, 32, Sch. BHAT2T2. 14, 20. 
+; ----
+; not entry
+508 old <p>{#gau£cya#} (Nachtr. 2) zu streichen. 
+;
+508 new <p>{#gau/cya#} (Nachtr. 2) zu streichen. 
+; ----
+; not entry
+510 old <p>{#*gaurijJeya#} n. {%Talk%} RAJAN. 13, 144. 
+;
+510 new <p>*{#gaurijJeya#} n. {%Talk%} RAJAN. 13, 144. 
+; ----
+; not entry
+515 old <p>{#*grAmaghAtaka#} m. {%Plünderer eines Dorfes%} VJUTP. 97. 
+;
+515 new <p>*{#grAmaghAtaka#} m. {%Plünderer eines Dorfes%} VJUTP. 97. 
+; ----
+; not entry
+519 old <p>{#gla£hana#} n. {%das Würfeln, Werfen der Würfel.%} 
+;
+519 new <p>{#gla/hana#} n. {%das Würfeln, Werfen der Würfel.%} 
+; ----
+; not entry
+520 old <p>{#ghaT#} mit {#pravi, ºghaTita#} {%abgehauen%} MAHAVIRAC. 26, ·12. 37, 13.--Caus. {%auseinander sprengen%} KIR. 2, 46. 
+;
+520 new <p>{#ghaT#} mit {#pravi, °ghaTita#} {%abgehauen%} MAHAVIRAC. 26, ·12. 37, 13.--Caus. {%auseinander sprengen%} KIR. 2, 46. 
+; ----
+; not entry
+526 old <p>{#ghasi£#} m. {%Nahrung.%} 
+;
+526 new <p>{#ghasi/#} m. {%Nahrung.%} 
+; ----
+; not entry
+527 old <p>{#ºghAtitva#} n. {%das Tödten, Hinrichtung%} VISHN2US. ·16, 11. 
+;
+527 new <p>°{#ghAtitva#} n. {%das Tödten, Hinrichtung%} VISHN2US. ·16, 11. 
+; ----
+; not entry
+531 old <p>{#ghRtAhuti£#} f. {|Ghr2ta|}-{%Spende.%} 
+;
+531 new <p>{#ghRtAhuti/#} f. {|Ghr2ta|}-{%Spende.%} 
+; ----
+; not entry
+532 old <p>{#ghoTapAlaka#} CAURAP. (A.) 63 fehlerhaft für {#koTTa-·pAlaka.#} 
+;
+532 new <p>{#ghoTapAlaka#} CAURAP. (A.) 63 fehlerhaft für {#koTTa-·pAlaka#}. 
+; ----
+; not entry
+538 old <p>{#caJcu#} 3) auch {#ºpuTaka#} Spr. 4462. 
+;
+538 new <p>{#caJcu#} 3) auch {#°puTaka#} Spr. 4462. 
+; ----
+; not entry
+544 old <p>{#ca£turnidhana#} Adj. {%aus vier Schlusssätzen bestehend%} ·S4AT. BR. 12, 8, 3, 26. 
+;
+544 new <p>{#ca/turnidhana#} Adj. {%aus vier Schlusssätzen bestehend%} ·S4AT. BR. 12, 8, 3, 26. 
+; ----
+; not entry
+546 old <p>{#caturviMzatigava£#} n. {%ein Gespann von 24 Stieren%} ·S4AT. BR. 7, 2, 2, 6. 
+;
+546 new <p>{#caturviMzatigava/#} n. {%ein Gespann von 24 Stieren%} ·S4AT. BR. 7, 2, 2, 6. 
+; ----
+; not entry
+551 old <p>{#catvara#}, wohlauch {%Kreuzweg.%} {#ºtaru#} m. SVAPNAC. 2, 40. 
+;
+551 new <p>{#catvara#}, wohlauch {%Kreuzweg.%} {#°taru#} m. SVAPNAC. 2, 40. 
+; ----
+; not entry
+554 old <p>{#*candrAzma#} und {#*ºn#} m. {%ein best. Edelstein,%} = {#ca-·ndrakAnta#} RAJAN. 13, 213. 
+;
+554 new <p>*{#candrAzma#} und *{#°n#} m. {%ein best. Edelstein,%} = {#ca-·ndrakAnta#} RAJAN. 13, 213. 
+; ----
+; not entry
+555 old <p>{#camUha#} CAURAP. (A.) 40 fehlerhaft für {#camUru.#} 
+;
+555 new <p>{#camUha#} CAURAP. (A.) 40 fehlerhaft für {#camUru#}. 
+; ----
+; not entry
+560 old <p>{#carmAra#} m. auch {%weisser Zinnober%} BHAVAPR. 1, 261. ·{#*ºka#} m. dass. 
+;
+560 new <p>{#carmAra#} m. auch {%weisser Zinnober%} BHAVAPR. 1, 261. ·*{#°ka#} m. dass. 
+; ----
+; not entry
+565 old <p>{#cApayaSTi#}, lies {%Bogen%} st. {%Bogensehne%} und vergl. ·{#dhanuryaSTi.#} 
+;
+565 new <p>{#cApayaSTi#}, lies {%Bogen%} st. {%Bogensehne%} und vergl. ·{#dhanuryaSTi#}. 
+; ----
+; not entry
+575 old <p>{#citrApUrNamAsa£#} m. {%der im Mondhause%} {|Citra|} {%ste-·hende Vollmond%} TS. 7, 4, 8, 2. 
+;
+575 new <p>{#citrApUrNamAsa/#} m. {%der im Mondhause%} {|Citra|} {%ste-·hende Vollmond%} TS. 7, 4, 8, 2. 
+; ----
+; not entry
+583 old <p>{#cUcuka#} 3) Nom. abstr. {#ºtA#} f. KAUTCKAR. 47. 
+;
+583 new <p>{#cUcuka#} 3) Nom. abstr. {#°tA#} f. KAUTCKAR. 47. 
+; ----
+; not entry
+588 old <p>{#*chAyApatha#}, lies {%die Milchstrasse%} st. {%der Luftraum.%} 
+;
+588 new <p>*{#chAyApatha#}, lies {%die Milchstrasse%} st. {%der Luftraum.%} 
+; ----
+; not entry
+591 old <p>{#jJagdha£#}, so zu accentuiren. 
+;
+591 new <p>{#jJagdha/#}, so zu accentuiren. 
+; ----
+; not entry
+595 old <p>{#*jJanapadaghAtaka#} m. {%Plünderer eines Landes%} VJUTP. 97. 
+;
+595 new <p>*{#jJanapadaghAtaka#} m. {%Plünderer eines Landes%} VJUTP. 97. 
+; ----
+; not entry
+600 old <p>{#jJa£mbhasuta#} Adj. {%mit dem Gebiss gepresst, ausge-·kaut.%} 
+;
+600 new <p>{#jJa/mbhasuta#} Adj. {%mit dem Gebiss gepresst, ausge-·kaut.%} 
+; ----
+; not entry
+601 old <p>{#jJarjJara#} 1) nach Adj. ist {%a%}) hinzuzufügen. Nom. ·abstr. {#ºtA#} f. PR. P. 77. 
+;
+601 new <p>{#jarjara#} 1) nach Adj. ist {%a%}) hinzuzufügen. Nom. ·abstr. {#°tA#} f. PR. P. 77. 
+; ----
+; not entry
+604 old <p>{#*jJalamAtaGga#} m. {%Dugang%} oder {%Krokodil%} H. an. 3, 61. 
+;
+604 new <p>*{#jJalamAtaGga#} m. {%Dugang%} oder {%Krokodil%} H. an. 3, 61. 
+; ----
+; not entry
+607 old <p>{#jJa£suri#} 1) lies {%ausgehungert.%} 
+;
+607 new <p>{#jJa/suri#} 1) lies {%ausgehungert.%} 
+; ----
+; not entry
+610 old <p>{#jJAtavidyA£#}, so zu accentuiren. 
+;
+610 new <p>{#jJAtavidyA/#}, so zu accentuiren. 
+; ----
+; not entry
+612 old <p>{#jJAmiva£t#}, lies Adv. st. Adj. 
+;
+612 new <p>{#jJAmiva/t#}, lies Adv. st. Adj. 
+; ----
+; not entry
+614 old <p>1. {#jJi#} Caus. {#a£jJIjJipata#} {%ihr habt gewinnen lassen%} ·TS. 1, 7, 8, 4. 
+;
+614 new <p>1. {#jJi#} Caus. {#a/jJIjJipata#} {%ihr habt gewinnen lassen%} ·TS. 1, 7, 8, 4. 
+; ----
+; not entry
+619 old <p>{#jJUtima£nt#} Adj. {%drängend, ungestüm.%} 
+;
+619 new <p>{#jJUtima/nt#} Adj. {%drängend, ungestüm.%} 
+; ----
+; not entry
+621 old <p>{#jJoSTra#} n. und {#jJoSTrI#} (zu {#jJoSTar#}) f. in Formeln, je ·nachdem das vorangehende Substantiv dieses oder ·jenes Geschlechts ist. MAN. GR2HJ. 1, 4. Vgl. {#jJoSTar.#} 
+;
+621 new <p>{#jJoSTra#} n. und {#jJoSTrI#} (zu {#jJoSTar#}) f. in Formeln, je ·nachdem das vorangehende Substantiv dieses oder ·jenes Geschlechts ist. MAN. GR2HJ. 1, 4. Vgl. {#jJoSTar#}. 
+; ----
+; not entry, typo
+626 old <p>{#jJyut, jJyo£tati#} MAITR. S. 2, 12, 4. 
+;
+626 new <p>{#jyut, jyo/tati#} MAITR. S. 2, 12, 4. 
+; ----
+; not entry, typo
+628 old <p>{#jJyotiSpatha#} m. v. l. für {#dyotiSpatha.#} 
+;
+628 new <p>{#jyotiSpatha#} m. v. l. für {#dyotiSpatha#}. 
+; ----
+; not entry
+657 old <p>{#tanUkR£t#}, so zu accentuiren. 
+;
+657 new <p>{#tanUkR/t#}, so zu accentuiren. 
+; ----
+; not entry
+663 old <p>{#tapara#} Adj. {%worauf ein t folgt%} P. 1, 1, 70. {#ºkaraNa#} n. ·{%das Folgenlassen von t%} Sch. zu P. 6, 1, 91. 
+;
+663 new <p>{#tapara#} Adj. {%worauf ein t folgt%} P. 1, 1, 70. {#°karaNa#} n. ·{%das Folgenlassen von t%} Sch. zu P. 6, 1, 91. 
+; ----
+; not entry
+667 old <p>2. {#tarutar#} 2) f. {#ºtrI#} MAN. GR2HJ. 1, 22. 
+;
+667 new <p>2. {#tarutar#} 2) f. {#°trI#} MAN. GR2HJ. 1, 22. 
+; ----
+; not entry
+668 old <p>{#ta£vasvant#}, so zu accentuiren. 
+;
+668 new <p>{#ta/vasvant#}, so zu accentuiren. 
+; ----
+; not entry
+671 old <p>{#ºtApin#} 1) auch {%entflammend, erregend%} KIR. 2, 42. 
+;
+671 new <p>°{#tApin#} 1) auch {%entflammend, erregend%} KIR. 2, 42. 
+; ----
+; not entry
+674 old <p>{#tiraskRta#} n. = {#tiraskRti#} in {#atiraskRtasaMbhASa.#} 
+;
+674 new <p>{#tiraskRta#} n. = {#tiraskRti#} in {#atiraskRtasaMbhASa#}. 
+; ----
+; not entry
+685 old <p>{#tulyArtha#} Adj. auch {%von gleicher Bedeutung%} P. 1, ·3, 42, Sch. Nom. abstr. {#ºtA#} f. ebend. 
+;
+685 new <p>{#tulyArtha#} Adj. auch {%von gleicher Bedeutung%} P. 1, ·3, 42, Sch. Nom. abstr. {#°tA#} f. ebend. 
+; ----
+; not entry
+691 old <p>{#*tRNapUla#} und {#ºpUlaka#} m. {%Grasbüschel.%} 
+;
+691 new <p>*{#tRNapUla#} und {#°pUlaka#} m. {%Grasbüschel.%} 
+; ----
+; not entry
+692 old <p>{#*tailapeSam#} Absol. mit {#piS#} {%mit Oel --, in Oel zer- [Page263-b] ·reiben.%} 
+;
+692 new <p>*{#tailapeSam#} Absol. mit {#piS#} {%mit Oel --, in Oel zer- [Page263-b] ·reiben.%} 
+; ----
+; not entry
+697 old <p>{#ºtrAyin#} Adj. {%behütend%} PR. P. 19. 
+;
+697 new <p>°{#trAyin#} Adj. {%behütend%} PR. P. 19. 
+; ----
+; not entry
+709 old <p>{#tripurANaka#} (f. {#ºNikA#}) und {#tripurANIya#} (KULL. ·zu M. 11, 227) {%im Werthe von drei%} {|Puran2a|} {%(eine ·best. Münze).%} 
+;
+709 new <p>{#tripurANaka#} (f. {#°NikA#}) und {#tripurANIya#} (KULL. ·zu M. 11, 227) {%im Werthe von drei%} {|Puran2a|} {%(eine ·best. Münze).%} 
+; ----
+; not entry
+714 old <p>{#triviSTidhA£tu#}, so zu accentuireu. 
+;
+714 new <p>{#triviSTidhA/tu#}, so zu accentuireu. 
+; ----
+; not entry
+717 old <p>{#trihalikAzrama#}, lies {#ºkAgrAma.#} 
+;
+717 new <p>{#trihalikAzrama#}, lies {#°kAgrAma#}. 
+; ----
+; not entry, typo
+733 old <p>{#dandhrana#}, so zu lesen st. {#dandhana.#} 
+;
+733 new <p>{#dandhvana#}, so zu lesen st. {#dandhana#}. 
+; ----
+; not entry
+735 old <p>{#darbhapavitra£#} n. {|Darbha|}-{%Halme als Reinigungs-·mittel%} S4AT. BR. 3, 1, 3, 18. 
+;
+735 new <p>{#darbhapavitra/#} n. {|Darbha|}-{%Halme als Reinigungs-·mittel%} S4AT. BR. 3, 1, 3, 18. 
+; ----
+; not entry
+742 old <p>{#*dazapUlI#} f. {%zehn Bündel%} PAT. zu P. 2, 1, 51, {|Vartt.|} 6. 
+;
+742 new <p>*{#dazapUlI#} f. {%zehn Bündel%} PAT. zu P. 2, 1, 51, {|Vartt.|} 6. 
+; ----
+; not entry
+745 old <p>3. {#dA#} S. 79, Z. 3. fg. {#dIyate#} gehört wohl zu 4. {#dI.#} 
+;
+745 new <p>3. {#dA#} S. 79, Z. 3. fg. {#dIyate#} gehört wohl zu 4. {#dI#}. 
+; ----
+; not entry
+746 old <p>{#dAmodaradeva#}, so zu lesen st. {#dAmoradeva.#} 
+;
+746 new <p>{#dAmodaradeva#}, so zu lesen st. {#dAmoradeva#}. 
+; ----
+; not entry
+748 old <p>{#digambara#} 2) {%d%}) N. pr. oder Bein, eines Autors ·GAN2AR. Vgl. {#digvastra.#} 
+;
+748 new <p>{#digambara#} 2) {%d%}) N. pr. oder Bein, eines Autors ·GAN2AR. Vgl. {#digvastra#}. 
+; ----
+; not entry
+756 old <p>{#dIrghikA#} 3) {%Schicht, Lage%} CARAKA 1, 13, v. l. für ·{#dhItIkA.#} 
+;
+756 new <p>{#dIrghikA#} 3) {%Schicht, Lage%} CARAKA 1, 13, v. l. für ·{#dhItIkA#}. 
+; ----
+; not entry
+757 old <p>{#duHkhasparza(m)#} MBH. 5, 3814 fehlerhaft für {#duHkhaM ·sparza(m).#} 
+;
+757 new <p>{#duHkhasparza(m)#} MBH. 5, 3814 fehlerhaft für {#duHkhaM ·sparza(m)#}. 
+; ----
+; not entry
+763 old <p>{#*durgAhlAda#} RAJAN. 12, 113. 
+;
+763 new <p>*{#durgAhlAda#} RAJAN. 12, 113. 
+; ----
+; not entry
+764 old <p>{#*durgAhva#} ZH streichen. 
+;
+764 new <p>*{#durgAhva#} ZH streichen. 
+; ----
+; not entry
+771 old <p>{#*dUrAddhi#} s. u. {#dau£rArddhi.#} 
+;
+771 new <p>*{#dUrAddhi#} s. u. {#dau/rArddhi#}. 
+; ----
+; not entry
+774 old <p>{#*dRDhakSurA#}, die richtige Form ist {#dRDhekSurA#} RAJAN. 8, 97. 
+;
+774 new <p>*{#dRDhakSurA#}, die richtige Form ist {#dRDhekSurA#} RAJAN. 8, 97. 
+; ----
+; not entry
+775 old <p>{#dRDhaprahArin#} 1) Nom. abstr. {#ºritA#} f. MAHAVIRAC. ·13, 6. 
+;
+775 new <p>{#dRDhaprahArin#} 1) Nom. abstr. {#°ritA#} f. MAHAVIRAC. ·13, 6. 
+; ----
+; not entry
+776 old <p>{#ºdRSTika#} Adj. {%fälschlich glaubend an%} VAJRACCH. ·34, 5. 6. 
+;
+776 new <p>°{#dRSTika#} Adj. {%fälschlich glaubend an%} VAJRACCH. ·34, 5. 6. 
+; ----
+; not entry
+781 old <p>{#devayazasa£#} n. {%göttliche Herrlichkeit%} TS. 3, 1, 9, 1. 
+;
+781 new <p>{#devayazasa/#} n. {%göttliche Herrlichkeit%} TS. 3, 1, 9, 1. 
+; ----
+; not entry
+782 old <p>{#devayazasi£n#} Adj. {%göttliche Herrlichkeit besitzend%} ·ebend. 
+;
+782 new <p>{#devayazasi/n#} Adj. {%göttliche Herrlichkeit besitzend%} ·ebend. 
+; ----
+; not entry, typo
+785 old <p>{#*daivejJya#} Adj. {%dem Planeten Jupiter geweiht%} (Topas) ·RAJAN. 13, 199. 
+;
+785 new <p>*{#daivejya#} Adj. {%dem Planeten Jupiter geweiht%} (Topas) ·RAJAN. 13, 199. 
+; ----
+; not entry
+786 old <p>{#daiSTika#}, Nom. abstr. {#ºtA#} f. S4IS4. 2, 86. 
+;
+786 new <p>{#daiSTika#}, Nom. abstr. {#°tA#} f. S4IS4. 2, 86. 
+; ----
+; not entry
+787 old <p>{#doSaguNin#} Adj. {%mit Fehlern und Vorzügen be-·haftet.%} Nom. abstr. {#ºNitva#} n. NARAJAN2A zu M. 8, 338. 
+;
+787 new <p>{#doSaguNin#} Adj. {%mit Fehlern und Vorzügen be-·haftet.%} Nom. abstr. {#°Nitva#} n. NARAJAN2A zu M. 8, 338. 
+; ----
+; not entry
+792 old <p>{#dyumna£#}, vgl. PISCHEL in Z. d. d. m. G. 35, 720. Auch ·Adj. (f. {#A£#}) ebend. 
+;
+792 new <p>{#dyumna/#}, vgl. PISCHEL in Z. d. d. m. G. 35, 720. Auch ·Adj. (f. {#A/#}) ebend. 
+; ----
+; not entry
+800 old <p>{#dviniSTha#} Adj. {%beiderseitig.%} Nom. abstr. {#ºtva#} n. ·S4AM5K. zu BR2H. AR. UP. S. 41. 
+;
+800 new <p>{#dviniSTha#} Adj. {%beiderseitig.%} Nom. abstr. {#°tva#} n. ·S4AM5K. zu BR2H. AR. UP. S. 41. 
+; ----
+; not entry
+803 old <p>2. {#*dvipAtra#} Adj. (f. {#I#}) {%zwei%} {|Patra|} {%genannte Hohl-·maasse enthaltend%} P. 5, 1, 54, Sch. 
+;
+803 new <p>2. *{#dvipAtra#} Adj. (f. {#I#}) {%zwei%} {|Patra|} {%genannte Hohl-·maasse enthaltend%} P. 5, 1, 54, Sch. 
+; ----
+; not entry
+804 old <p>{#*dvipAtrika#} (f. {#I#}) und {#*dvipAtrINa#} (f. {#A#}) Adj. dass. ·ebend. 
+;
+804 new <p>*{#dvipAtrika#} (f. {#I#}) und *{#dvipAtrINa#} (f. {#A#}) Adj. dass. ·ebend. 
+; ----
+; not entry
+806 old <p>{#dvi£mUrdhan#} 2) AV. 8, 10, 22. 
+;
+806 new <p>{#dvi/mUrdhan#} 2) AV. 8, 10, 22. 
+; ----
+; not entry
+807 old <p>{#dviyajJa#} Adj. {%zweimal den Ruf%} {#yajJa#} {%enthaltend%} Comm. ·zu APAST. S4R. 7, 29, 2. Nom. abstr. {#ºtva#} n. zu 8, 3, 3. 
+;
+807 new <p>{#dviyajJa#} Adj. {%zweimal den Ruf%} {#yajJa#} {%enthaltend%} Comm. ·zu APAST. S4R. 7, 29, 2. Nom. abstr. {#°tva#} n. zu 8, 3, 3. 
+; ----
+; not entry
+811 old <p>{#*dvyAcita#} (f. {#A#}), {#*dvyAcitika#} (f. {#I#}) und {#*dvyAci-·tIna#} (f. {#A#}) Adj. {%zwei Wagenlasten enthaltend%} P. ·5, 1, 54, Sch. 
+;
+811 new <p>*{#dvyAcita#} (f. {#A#}), *{#dvyAcitika#} (f. {#I#}) und *{#dvyAci-·tIna#} (f. {#A#}) Adj. {%zwei Wagenlasten enthaltend%} P. ·5, 1, 54, Sch. 
+; ----
+; not entry
+812 old <p>{#*dvyADhaka#} (f. {#A#}), {#*dvyADhakika#} (f. {#I#}) und {#*dvyADhakIna#} ·(f. {#A#}) Adj. {%zwei%} {|Ad2haka|} {%genannte Hohlmaasse ·enthaltend%} ebend. 
+;
+812 new <p>*{#dvyADhaka#} (f. {#A#}), *{#dvyADhakika#} (f. {#I#}) und *{#dvyADhakIna#} ·(f. {#A#}) Adj. {%zwei%} {|Ad2haka|} {%genannte Hohlmaasse ·enthaltend%} ebend. 
+; ----
+; not entry
+828 old <p>{#dhumadhumAy#} (onomatop.), {#ºyate#} Comm. zu KIR. 6, ·fehlerhaft für {#ghumaghumAy.#} 
+;
+828 new <p>{#dhumadhumAy#} (onomatop.), {#°yate#} Comm. zu KIR. 6, ·fehlerhaft für {#ghumaghumAy#}. 
+; ----
+; not entry
+829 old <p>{#dhurya#} 1) {%b%}) Nom. abstr. {#ºtA#} f. S4IS4. 1, 41. 
+;
+829 new <p>{#dhurya#} 1) {%b%}) Nom. abstr. {#°tA#} f. S4IS4. 1, 41. 
+; ----
+; not entry
+830 old <p>{#dhUmra£#} m. wohl {%Kamel%} TS. 1, 8, {??}, 1. 
+;
+830 new <p>{#dhUmra/#} m. wohl {%Kamel%} TS. 1, 8, {??}, 1. 
+; ----
+; not entry
+834 old <p>{#*nakulADhyA#}, lies {#*nakulAdyA#} f. {%die Ichneumon-·pflanze%} RAJAN. 7, 95. 
+;
+834 new <p>*{#nakulADhyA#}, lies *{#nakulAdyA#} f. {%die Ichneumon-·pflanze%} RAJAN. 7, 95. 
+; ----
+; not entry
+835 old <p>{#nada£#} 1) {%d%}) = {#naDa£#} {%Rohr%} R2V. 1, 32, 8; vgl. PISCHEL ·in Z. d. d. m. G. 35, 717. fgg. 
+;
+835 new <p>{#nada/#} 1) {%d%}) = {#naDa/#} {%Rohr%} R2V. 1, 32, 8; vgl. PISCHEL ·in Z. d. d. m. G. 35, 717. fgg. 
+; ----
+; not entry
+837 old <p>{#namuci#} 1) {#ºdviS#} S4IS4. 1, 51. 
+;
+837 new <p>{#namuci#} 1) {#°dviS#} S4IS4. 1, 51. 
+; ----
+; not entry
+842 old <p>{#*navAlAbu#} f. v. l. für {#nAgAlAbu#} RAJAN. 7, 160. ·NIGH. PR. 
+;
+842 new <p>*{#navAlAbu#} f. v. l. für {#nAgAlAbu#} RAJAN. 7, 160. ·NIGH. PR. 
+; ----
+; not entry
+846 old <p>{#nAyaka#} 2) {%e%}) {%*eine Moschusart%} RAJAN. 12, 51. Vgl. ·{#nAyikAcUrNa.#} 
+;
+846 new <p>{#nAyaka#} 2) {%e%}) *{%eine Moschusart%} RAJAN. 12, 51. Vgl. ·{#nAyikAcUrNa#}. 
+; ----
+; not entry
+;853 old <p>{#nirudvapakaza#} Z. 2, lies {#ddhaprakaza.#} [Page265-b] 
+;
+;853 new <p>{#nirudvapakaza#} Z. 2, lies {#ddhaprakaza#}. [Page265-b] 
+; ----
+; ------------------------------------------------------------
+; Systematic typing error : jJ -> j  (Harvard-kyoto)
+; Some of these are corrected above.  Here are the rest
+; change transactions made by change1a.py
+; ----
+97 old <p>{#uttarAMsa#} nach NILAK. zu MBH. 1, 194, 10 = {#jJatru#}. 
+;
+97 new <p>{#uttarAMsa#} nach NILAK. zu MBH. 1, 194, 10 = {#jatru#}. 
+; ----  This should be jJ
+;180 old <p>{#UrdhvajJutva#} n. Nom. abstr. von {#UrdhvajJu#} Comm. zu ·APAST. S4R. 5, 11, 6. 
+;
+;180 new <p>{#Urdhvajutva#} n. Nom. abstr. von {#Urdhvaju#} Comm. zu ·APAST. S4R. 5, 11, 6. 
+; ----
+419 old <p>{#kaujJa#} 2) ist hier (lies 78, 3) auch Adj., da {#ahni#} ·zu ergänzen ist. 
+;
+419 new <p>{#kauja#} 2) ist hier (lies 78, 3) auch Adj., da {#ahni#} ·zu ergänzen ist. 
+; ----
+431 old <p>{#kSatajJapAta#} m. {%das Fliessen von Blut%} VARAH. BR2H. ·S. 95, 48. 
+;
+431 new <p>{#kSatajapAta#} m. {%das Fliessen von Blut%} VARAH. BR2H. ·S. 95, 48. 
+; ----
+454 old <p>{#kharjJUra#} 3) {%e%}) *{%der Kern der Cocosnuss%} RAJAN. 11, 52. 
+;
+454 new <p>{#kharjUra#} 3) {%e%}) *{%der Kern der Cocosnuss%} RAJAN. 11, 52. 
+; ----
+462 old <p>{#gajJanimIlana#} n. = {#gajJanimIlikA#} 1). 
+;
+462 new <p>{#gajanimIlana#} n. = {#gajanimIlikA#} 1). 
+; ----
+463 old <p>{#gajJapUrva#} Adj. {%der siebente%} S4RUT. 13. 
+;
+463 new <p>{#gajapUrva#} Adj. {%der siebente%} S4RUT. 13. 
+; ---- typo
+464 old <p>{#ganJjulikA#} f. = {#dIrghA gambhIrAH kuTilAH zlakSNA ·jJalAzayAH#} S4ILA1N3KA. 2, 3. 3. 
+;
+464 new <p>{#gaJjulikA#} f. = {#dIrghA gambhIrAH kuTilAH zlakSNA ·jalAzayAH#} S4ILA1N3KA. 2, 3. 3. 
+; ----
+496 old <p>{#guhyarujJ#} f. {%eine Krankheit der Schamtheile%} VA-·RAH. BR2H. S. 5, 86. 
+;
+496 new <p>{#guhyaruj#} f. {%eine Krankheit der Schamtheile%} VA-·RAH. BR2H. S. 5, 86. 
+; ----
+510 old <p>*{#gaurijJeya#} n. {%Talk%} RAJAN. 13, 144. 
+;
+510 new <p>*{#gaurijeya#} n. {%Talk%} RAJAN. 13, 144. 
+; ----
+589 old <p>{#jJagatkAraNakAraNa#} Beiw. {|Vishn2u's|} VISHN2US. 1, 61. 
+;
+589 new <p>{#jagatkAraNakAraNa#} Beiw. {|Vishn2u's|} VISHN2US. 1, 61. 
+; ----
+590 old <p>{#jJagatparAyaNa#} Adj. desgl. ebend. 98, 100. 
+;
+590 new <p>{#jagatparAyaNa#} Adj. desgl. ebend. 98, 100. 
+; ----
+591 old <p>{#jJagdha/#}, so zu accentuiren. 
+;
+591 new <p>{#jagdha/#}, so zu accentuiren. 
+; ----
+592 old <p>{#jJatudhAman#} n. = {#jJatugRha#} PR. P. 71. 
+;
+592 new <p>{#jatudhAman#} n. = {#jatugRha#} PR. P. 71. 
+; ----
+593 old <p>{#jJan#} mit {#nis, nirjJAta#} {%entstanden aus%} (Abl.) VA-·JRACCH. 25, 4. 6.--Mit {#pratyA#} KAUSH. UP. 1, 2. 
+;
+593 new <p>{#jan#} mit {#nis, nirjAta#} {%entstanden aus%} (Abl.) VA-·JRACCH. 25, 4. 6.--Mit {#pratyA#} KAUSH. UP. 1, 2. 
+; ----
+594 old <p>{#jJananAtha#} m. {%Fürst, König%} KIR. 2, 13. 
+;
+594 new <p>{#jananAtha#} m. {%Fürst, König%} KIR. 2, 13. 
+; ----
+595 old <p>*{#jJanapadaghAtaka#} m. {%Plünderer eines Landes%} VJUTP. 97. 
+;
+595 new <p>*{#janapadaghAtaka#} m. {%Plünderer eines Landes%} VJUTP. 97. 
+; ----
+596 old <p>{#jJanAtiga#} Adj. {%übermenschlich%} KIR. 3, 2. [Page262-b] 
+;
+596 new <p>{#janAtiga#} Adj. {%übermenschlich%} KIR. 3, 2. [Page262-b] 
+; ----
+597 old <p>{#jJanidivasa#} m. {%Geburtstag%} MAHAVIRAC. 107, 17. 
+;
+597 new <p>{#janidivasa#} m. {%Geburtstag%} MAHAVIRAC. 107, 17. 
+; ----
+598 old <p>{#jJanimant#} m. {%Geschöpf, Mensch%} MAHAVIRAC. 132, 19. 
+;
+598 new <p>{#janimant#} m. {%Geschöpf, Mensch%} MAHAVIRAC. 132, 19. 
+; ----
+599 old <p>{#jJanmapattrikA#} f. {%ein Blatt, auf welches Jmdes Na-·tivität eingeschrieben wird.%} 
+;
+599 new <p>{#janmapattrikA#} f. {%ein Blatt, auf welches Jmdes Na-·tivität eingeschrieben wird.%} 
+; ----
+600 old <p>{#jJa/mbhasuta#} Adj. {%mit dem Gebiss gepresst, ausge-·kaut.%} 
+;
+600 new <p>{#ja/mbhasuta#} Adj. {%mit dem Gebiss gepresst, ausge-·kaut.%} 
+; ----
+;601 old <p>{#jJarjJara#} 1) nach Adj. ist {%a%}) hinzuzufügen. Nom. ·abstr. {#°tA#} f. PR. P. 77. 
+;
+;601 new <p>{#jarjara#} 1) nach Adj. ist {%a%}) hinzuzufügen. Nom. ·abstr. {#°tA#} f. PR. P. 77. 
+; ----
+602 old <p>{#jJaladhenu#} f. {%eine aus Wasser dargestellte Kuh%} (!) ·MBH. 13, 71, 41. 
+;
+602 new <p>{#jaladhenu#} f. {%eine aus Wasser dargestellte Kuh%} (!) ·MBH. 13, 71, 41. 
+; ----
+603 old <p>{#jJalapakSacara#} m. {%Wasservogel%} SVAPNAC. 2, 21. 
+;
+603 new <p>{#jalapakSacara#} m. {%Wasservogel%} SVAPNAC. 2, 21. 
+; ----
+604 old <p>*{#jJalamAtaGga#} m. {%Dugang%} oder {%Krokodil%} H. an. 3, 61. 
+;
+604 new <p>*{#jalamAtaGga#} m. {%Dugang%} oder {%Krokodil%} H. an. 3, 61. 
+; ----
+605 old <p>{#jJalavAyasa#} m. SVAPNAC. 2, 21. 
+;
+605 new <p>{#jalavAyasa#} m. SVAPNAC. 2, 21. 
+; ----
+606 old <p>{#jJavita#} n. {%das Laufen%} LALIT. 178, 14. 
+;
+606 new <p>{#javita#} n. {%das Laufen%} LALIT. 178, 14. 
+; ----
+607 old <p>{#jJa/suri#} 1) lies {%ausgehungert.%} 
+;
+607 new <p>{#ja/suri#} 1) lies {%ausgehungert.%} 
+; ----
+608 old <p>{#jJAtaputra#} Adj. {%einen Sohn habend%} MAN. S4R. 1, 5, 1. 
+;
+608 new <p>{#jAtaputra#} Adj. {%einen Sohn habend%} MAN. S4R. 1, 5, 1. 
+; ----
+609 old <p>{#jJAtamRta#} Adj. {%gleich nach der Geburt gestorben%} ·VISHN2US. 22, 26. 
+;
+609 new <p>{#jAtamRta#} Adj. {%gleich nach der Geburt gestorben%} ·VISHN2US. 22, 26. 
+; ----
+610 old <p>{#jJAtavidyA/#}, so zu accentuiren. 
+;
+610 new <p>{#jAtavidyA/#}, so zu accentuiren. 
+; ----
+611 old <p>{#jJAtyapahArin#} Adj. {%den Verlust der Kaste nach ·sich ziehend%} VISHN2US. 5, 99. 
+;
+611 new <p>{#jAtyapahArin#} Adj. {%den Verlust der Kaste nach ·sich ziehend%} VISHN2US. 5, 99. 
+; ----
+612 old <p>{#jJAmiva/t#}, lies Adv. st. Adj. 
+;
+612 new <p>{#jAmiva/t#}, lies Adv. st. Adj. 
+; ----
+613 old <p>{#jJAmbavatIharaNa#} n. Titel eines Werkes GAN2AR. 
+;
+613 new <p>{#jAmbavatIharaNa#} n. Titel eines Werkes GAN2AR. 
+; ----
+614 old <p>1. {#jJi#} Caus. {#a/jJIjJipata#} {%ihr habt gewinnen lassen%} ·TS. 1, 7, 8, 4. 
+;
+614 new <p>1. {#ji#} Caus. {#a/jJIjipata#} {%ihr habt gewinnen lassen%} ·TS. 1, 7, 8, 4. 
+; ----
+615 old <p>{#jJinakalpika#} Adj. {%den%} {#jJinakalpa#} {%innehaltend%} S4I-·LAN3KA 1, 366. 
+;
+615 new <p>{#jinakalpika#} Adj. {%den%} {#jinakalpa#} {%innehaltend%} S4I-·LAN3KA 1, 366. 
+; ----
+616 old <p>{#jJIvanta, jJIvantI#} f. auch {%ein best. Gestirn%} MAN. ·GR2HJ. 1, 14. 
+;
+616 new <p>{#jIvanta, jIvantI#} f. auch {%ein best. Gestirn%} MAN. ·GR2HJ. 1, 14. 
+; ----
+617 old <p>{#jJIvAtu#} 3) am Ende eines adj. Comp. {%lebend von%} ·KAUTUKAS. 19. 
+;
+617 new <p>{#jIvAtu#} 3) am Ende eines adj. Comp. {%lebend von%} ·KAUTUKAS. 19. 
+; ----
+618 old <p>{#jJuSANavant#} Adj. {%das Wort%} {#jJuSANa#} {%enthaltend%} ·Comm. zu APAST. S4R. 6, 31, 12. 
+;
+618 new <p>{#juSANavant#} Adj. {%das Wort%} {#juSANa#} {%enthaltend%} ·Comm. zu APAST. S4R. 6, 31, 12. 
+; ----
+619 old <p>{#jJUtima/nt#} Adj. {%drängend, ungestüm.%} 
+;
+619 new <p>{#jUtima/nt#} Adj. {%drängend, ungestüm.%} 
+; ----
+620 old <p>{#jJaiva#} 2) ist hier (lies 78, 5) Adj., da {#ahni#} zu er-·gänzen ist. 
+;
+620 new <p>{#jaiva#} 2) ist hier (lies 78, 5) Adj., da {#ahni#} zu er-·gänzen ist. 
+; ----
+621 old <p>{#jJoSTra#} n. und {#jJoSTrI#} (zu {#jJoSTar#}) f. in Formeln, je ·nachdem das vorangehende Substantiv dieses oder ·jenes Geschlechts ist. MAN. GR2HJ. 1, 4. Vgl. {#jJoSTar#}. 
+;
+621 new <p>{#joSTra#} n. und {#joSTrI#} (zu {#joSTar#}) f. in Formeln, je ·nachdem das vorangehende Substantiv dieses oder ·jenes Geschlechts ist. MAN. GR2HJ. 1, 4. Vgl. {#joSTar#}. 
+; ----
+;622 old <p>1. {#jJA#} mit {#pra#} Caus. 4) Pass. {%sich herausstellen als%} ·(Nom.) VAJRACCH. 20, 19. 
+;
+;622 new <p>1. {#jA#} mit {#pra#} Caus. 4) Pass. {%sich herausstellen als%} ·(Nom.) VAJRACCH. 20, 19. 
+; ----
+;623 old <p>{#jJAtasarvasva#} Adj. {%allwissend%} CAURAP. (A.) 23. 
+;
+;623 new <p>{#jAtasarvasva#} Adj. {%allwissend%} CAURAP. (A.) 23. 
+; ----
+;624 old <p>{#jJAnapUrvakRta#} Adj. {%mit Ueberlegung vollbracht%} R. ·2, 64, 22. 
+;
+;624 new <p>{#jAnapUrvakRta#} Adj. {%mit Ueberlegung vollbracht%} R. ·2, 64, 22. 
+; ----
+;625 old <p>{#jJAnAgni#} m. {%das Feuer im Körper, welches die ·Erkenntniss des Guten und Schlechten vermittelt,%} ·GARBHOP. 5. 
+;
+;625 new <p>{#jAnAgni#} m. {%das Feuer im Körper, welches die ·Erkenntniss des Guten und Schlechten vermittelt,%} ·GARBHOP. 5. 
+; ----
+627 old <p>{#jJyeSThaprathama#} Adj. Pl. {%die Aeltesten voran%} MAN. ·GR2HJ. 2, 7. [Page262-c] 
+;
+627 new <p>{#jyeSThaprathama#} Adj. Pl. {%die Aeltesten voran%} MAN. ·GR2HJ. 2, 7. [Page262-c] 
+; ----
+629 old <p>{#jJvalita#} 2) auch {%helles Lodern%} MBH. 5, 133, 15. 
+;
+629 new <p>{#jvalita#} 2) auch {%helles Lodern%} MBH. 5, 133, 15. 
+; ----
+;658 old <p>{#tantIyajJa#} m. {%ein der%} {#tantI#} {%geltendes Opfer%} MAN. ·GR2HJ. 2, 10. 
+;
+;658 new <p>{#tantIyaja#} m. {%ein der%} {#tantI#} {%geltendes Opfer%} MAN. ·GR2HJ. 2, 10. 
+; ----
+;664 old <p>{#tapoyajJa#} Adj. {%mit Kasteiungen opfernd%} BHAG. 4, 28. 
+;
+;664 new <p>{#tapoyaja#} Adj. {%mit Kasteiungen opfernd%} BHAG. 4, 28. 
+; ----
+680 old <p>{#tundaparimArjJa#} Adj. {%sich den Bauch streichend%} HEM. ·PAR. 8, 281. 
+;
+680 new <p>{#tundaparimArja#} Adj. {%sich den Bauch streichend%} HEM. ·PAR. 8, 281. 
+; ----
+734 old <p>{#damaghoSajJa#} m. Patron. {|S4is4upala's|} S4IS4. 2, 60. 
+;
+734 new <p>{#damaghoSaja#} m. Patron. {|S4is4upala's|} S4IS4. 2, 60. 
+; ----
+789 old <p>{#doSabhAjJ#} m. {%Schuft%} KAUTUKAS. 32. 
+;
+789 new <p>{#doSabhAj#} m. {%Schuft%} KAUTUKAS. 32. 
+; ----
+798 old <p>{#dvijJatva#} n. auch {%der Stand der drei oberen Ka-·sten%} VISHN2US. 28, 39. 
+;
+798 new <p>{#dvijatva#} n. auch {%der Stand der drei oberen Ka-·sten%} VISHN2US. 28, 39. 
+; ----
+807 old <p>{#dviyajJa#} Adj. {%zweimal den Ruf%} {#yajJa#} {%enthaltend%} Comm. ·zu APAST. S4R. 7, 29, 2. Nom. abstr. {#°tva#} n. zu 8, 3, 3. 
+;
+807 new <p>{#dviyaja#} Adj. {%zweimal den Ruf%} {#yaja#} {%enthaltend%} Comm. ·zu APAST. S4R. 7, 29, 2. Nom. abstr. {#°tva#} n. zu 8, 3, 3. 
+; ----
+844 old <p>{#nAtijJalpaka#} Adj. {%nicht zu geschwätzig%} MBH. 12, ·134, 14. 
+;
+844 new <p>{#nAtijalpaka#} Adj. {%nicht zu geschwätzig%} MBH. 12, ·134, 14. 
+; ----
+; -----------------------------------------------------------
+; more misc. changes
+;367 old <p>{#kutepasauzruta#}, lies {#zAkapArthivAdi.#} 
+;367 new <p>{#kutapasauzruta#}, lies {#zAkapArthivAdi.#} 
+;
+417 old <p>{#korzapIthin#} Adj. {%Jmds Schatz aussaugend,--·ausgesogen habend%} RAJAT. 5, 422. 6, 211. 
+417 new <p>{#kozapIthin#} Adj. {%Jmds Schatz aussaugend,--·ausgesogen habend%} RAJAT. 5, 422. 6, 211. 
+;
+446 old <p>{#khanJja#} 1) ungenau in der Bed. eines Nom. abstr. ·SUS4R. 1, 360, 12. 2, 43, 15. 
+446 new <p>{#khaJja#} 1) ungenau in der Bed. eines Nom. abstr. ·SUS4R. 1, 360, 12. 2, 43, 15. 
+;
+449 old <p>{#khaGgapaTTizin#} Adj. {%mit einem Schwerte und einem%} ·{|Pat2t2is4a|} {%bewaffnet%} MBH. 13, 14, 154. 
+449 new <p>{#khaDgapaTTizin#} Adj. {%mit einem Schwerte und einem%} ·{|Pat2t2is4a|} {%bewaffnet%} MBH. 13, 14, 154. 
+;
+450 old <p>{#khaGgapAta#} m. {%Säbelhieb%} KATHAS. 27, 50. 
+450 new <p>{#khaDgapAta#} m. {%Säbelhieb%} KATHAS. 27, 50. 
+;
+451 old <p>{#khaGgavAri#} n. {%von einem Schwerte triefendes Blut%} ·VIKRAMAN3KAC. 5, 33. 
+451 new <p>{#khaDgavAri#} n. {%von einem Schwerte triefendes Blut%} ·VIKRAMAN3KAC. 5, 33.
+;
+522 old <p>{#ghanemud#} Adj. {%hocherfreut%} CAURAP. (A.) 43. 
+522 new <p>{#ghanamud#} Adj. {%hocherfreut%} CAURAP. (A.) 43. 
+; kt -> jh 
+630 old <p>{#ktaMkRti#} f. = {#ktaMkAra#} CAURAP. (A.) 102. 106. 
+630 new <p>{#jhaMkRti#} f. = {#jhaMkAra#} CAURAP. (A.) 102. 106. 
+631 old <p>{#ktaT#} mit {#nis, nirktATita#} {%geborsten%} DES4IN. 6, 27. 
+631 new <p>{#jhaT#} mit {#nis, nirjhATita#} {%geborsten%} DES4IN. 6, 27. 
+632 old <p>{#ktaNajJktaNatkArin#} Adj. {%rauschend%} PR. P. 137. 
+632 new <p>{#jhaNajjhaNatkArin#} Adj. {%rauschend%} PR. P. 137. 
+633 old <p>{#ktara#} 2) MAHAVIRAC. 102, 8. 
+633 new <p>{#jhara#} 2) MAHAVIRAC. 102, 8. 
+634 old <p>{#ktallIkA#} f. {%Grille%} (Insect) SVAPNAC. 2, 23. 
+634 new <p>{#jhallIkA#} f. {%Grille%} (Insect) SVAPNAC. 2, 23. 
+635 old <p>{#ktAMkArin#} Adj. = {#ktaMkArin#} MAHAVIRAC. 51, 2. 
+635 new <p>{#jhAMkArin#} Adj. = {#jhaMkArin#} MAHAVIRAC. 51, 2. 
+;
+767 old <p>{#duSprabhanJjana#} m. {%Orkan%} MAHAVIRAC. 124, 2. 
+767 new <p>{#duSprabhaJjana#} m. {%Orkan%} MAHAVIRAC. 124, 2. 
+;
+795 old <p>{#dvAdazapanJjarikAstotra#} n. Titel eines {|Stotra.|} 
+795 new <p>{#dvAdazapaJjarikAstotra#} n. Titel eines {|Stotra.|} 
+;
+855 old <p>{#nirvyanJjaka#} Adj. {%bezeugend%} MAHAVIRAC. 94, 11. 
+855 new <p>{#nirvyaJjaka#} Adj. {%bezeugend%} MAHAVIRAC. 94, 11. 
+;
+772 old <p>{#hUreheti#} m. {%ein best.%} {|Agni|} Comm. zu TS. 1, ·1008, 8. 12. 
+772 new <p>{#dUreheti#} m. {%ein best.%} {|Agni|} Comm. zu TS. 1, ·1008, 8. 12. 
+; print change
+822 old <p>{#dharmRpAza#} m. auch {%Fessel --, Band der Pflicht.%} 
+822 new <p>{#dharmapAza#} m. auch {%Fessel --, Band der Pflicht.%} 
+; poor print quality
+832 old <p>{#dhUSTatA#} f. {%Kühnheit%} S4IS4. 1, 30. 
+832 new <p>{#dhRSTatA#} f. {%Kühnheit%} S4IS4. 1, 30. 
+;
+853 old <p>{#nirudvapakaza#} Z. 2, lies {#ddhaprakaza.#} [Page265-b] 
+853 new <p>{#niruddhapakaza#} Z. 2, lies {#ddhaprakaza#}. [Page265-b] 
+;
+154 old <p>{#upasaMbihIrSu#} Adj. {%um abzuschliessen zusammen-·fassend%} S4ILA1N3KA 1, 314. 
+154 new <p>{#upasaMjihIrSu#} Adj. {%um abzuschliessen zusammen-·fassend%} S4ILA1N3KA 1, 314. 
+; print ambiguous
+336 old <p>{#kAmagharSa#} Adj. {%nach Wunsch regnend%} MAHAVIRAC. ·137, 1. 
+336 new <p>{#kAmavarSa#} Adj. {%nach Wunsch regnend%} MAHAVIRAC. ·137, 1. 
+; print change. cf MW
+490 old <p>{#gukAra#} m. {%das Gesumme der Bienen%} Z. d. d. m. ·G. 32, 735. 
+490 new <p>{#guMkAra#} m. {%das Gesumme der Bienen%} Z. d. d. m. ·G. 32, 735. 
+;

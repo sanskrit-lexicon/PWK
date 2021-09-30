@@ -1,0 +1,21 @@
+
+pwschforce = {
+ # pwk:sch
+  #"AmikzApayasya" : "Amikzapayasya",
+  #"AvasaTIya" : "AvasaTiya",
+  #"upasaMbihIrzu" : "upasaMjihIrzu",
+  "1karz" : "karz",
+  #"kAmarUpin" : "kAmarupin",
+  "kuw" : "4kuw",
+  "1kup" : "kup",
+  #"kAmaGarza" : "kAmavarza",
+  ;"gukAra" : "guMkAra",
+  "Guz" : "1Guz",
+  "2ta" : "tA",
+  "tap" : "1tap",
+  "tar" : "1tar",
+  "1Dar" : "Dar",
+ }
+; no Schmidt found:
+udakaprasravaRAnvita
+janmapattrikA

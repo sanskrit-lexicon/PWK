@@ -1,0 +1,138 @@
+;-----------------------------------------------------------
+; <L>7450<pc>102-1<k1>ASIHpada<k2>ASIHpada split into 2 entries
+OLD:
+<L>7450<pc>102-1<k1>ASIHpada<k2>ASIHpada
+{%āśīḥpada%}¦ (Komm. zu Āpast. Śr. 11, 7, 3) und {%āśī́rpada%} (TS. 6, 2, 9, 4) Adj. (f. {%ā%}) mit und ohne {%ṛc%}, Bez. der Worte {%divo vā viṣṇo%} usw. (TS. 1, 2, 13, 2). {%āśīná%} Adj. = {%āśī́ná%} betagt, Maitr. S. 2, 9, 4. {part=,seq=7554,type=,n=6}
+<LEND>
+;
+;NEW
+<L>7450<pc>102-1<k1>ASIHpada<k2>ASIHpada
+{%āśīḥpada%}¦ (Komm. zu Āpast. Śr. 11, 7, 3) und {%āśī́rpada%} (TS. 6, 2, 9, 4) Adj. (f. {%ā%}) mit und ohne {%ṛc%}, Bez. der Worte {%divo vā viṣṇo%} usw. (TS. 1, 2, 13, 2). {part=,seq=7554,type=,n=6}
+<LEND>
+<L>7450.1<pc>102-1<k1>ASIna<k2>ASIna/
+{%āśīná%}¦ Adj. = {%āśī́ná%} betagt, Maitr. S. 2, 9, 4. {part=,seq=7554,type=,n=6}
+<LEND>
+;-----------------------------------------------------------
+; <L>7746<pc>106-2<k1>iva<k2>iva split into 3 entries
+; OLD
+<L>7746<pc>106-2<k1>iva<k2>iva
+{%iva%}¦ am Anfang eines Stollens auch Kathās. 1, 20; JA. VIII. S. T. 7, 192. {%iva nāma%} zum Scheine, quasi, Jātakam. 4. 7. 10. 13. 1. {%iṣ%} mit {%samanu%} durchsuchen. {%samanveṣitum%} R. ed. Bomb. 3, 67, 7. — Mit {%upa%} hinstreben zu (Akk.), Maitr. S. 1, 2, 14 (Kāṭh. 3, 3; Kap. S. 2, 10; Mān. Śr. 1, 8, 2). — Mit {%atipra%} darüber hinaus auffordern, Āpast. Śr. 12, 27, 6; 14, 34, 4; Vaitān. 3. {%iṣ%} mit passivisch aufzufassendem Infinitiv: {%samudraṃ netum icchāmi bhavadbhiḥ:%} ich wünsche von Euch an's Meer geführt zu werden, R. ed. Bomb. 4, 58, 33; 56, 21. — Zu 4. e)b) gehört {%pratikūlitum icchāmi na hi vākyam idaṃ tvayā%}, 3, 24, 13. 4. {%iṣ%} 2. Hariv. 2, 72, 52 nach Nīlak. {%iṣávant%} Adj. kräftig. {part=,seq=7855,type=,n=21}
+<LEND>
+;NEW
+<L>7746<pc>106-2<k1>iva<k2>iva
+{%iva%}¦ am Anfang eines Stollens auch Kathās. 1, 20; JA. VIII. S. T. 7, 192. {%iva nāma%} zum Scheine, quasi, Jātakam. 4. 7. 10. 13. 1. {%iṣ%} mit {%samanu%} durchsuchen. {%samanveṣitum%} R. ed. Bomb. 3, 67, 7. — Mit {%upa%} hinstreben zu (Akk.), Maitr. S. 1, 2, 14 (Kāṭh. 3, 3; Kap. S. 2, 10; Mān. Śr. 1, 8, 2). — Mit {%atipra%} darüber hinaus auffordern, Āpast. Śr. 12, 27, 6; 14, 34, 4; Vaitān. 3. {%iṣ%} mit passivisch aufzufassendem Infinitiv: {%samudraṃ netum icchāmi bhavadbhiḥ:%} ich wünsche von Euch an's Meer geführt zu werden, R. ed. Bomb. 4, 58, 33; 56, 21. — Zu 4. e)b) gehört {%pratikūlitum icchāmi na hi vākyam idaṃ tvayā%}, 3, 24, 13. 4. {part=,seq=7855,type=,n=21}
+<LEND>
+<L>7746.1<pc>106-2<k1>iz<k2>iz
+4. {%iṣ%}¦ 2. Hariv. 2, 72, 52 nach Nīlak. {part=,seq=7855,type=,n=21}
+<LEND>
+<L>7746.2<pc>106-2<k1>izavant<k2>iza/vant
+{%iṣávant%}¦ Adj. kräftig. {part=,seq=7855,type=,n=21}
+<LEND>
+;-----------------------------------------------------------
+; print change.  This is also out of sequence, should precede kzveqita
+36370 old <L>11766<pc>162-1<k1>kzveda<k2>kzveda
+36370 new <L>11766<pc>162-1<k1>kzveqa<k2>kzveqa
+36371 old {%kṣveda%}¦ 3. a) [f. {%ā%} Löwengebrüll, Schlachtgeschrei], Mahāvīrac. 116, 2; H 43, 213. — (Nach dem Ko. *n.) °Gift, H 43, 213. {part=,seq=11945,type=,n=3}
+36371 new {%kṣveḍa%}¦ 3. a) [f. {%ā%} Löwengebrüll, Schlachtgeschrei], Mahāvīrac. 116, 2; H 43, 213. — (Nach dem Ko. *n.) °Gift, H 43, 213. {part=,seq=11945,type=,n=3}
+;-----------------------------------------------------------
+; <L>12358<pc>170-2<k1>guptaDana<k2>guptaDana split into 2 records
+OLD
+<L>12358<pc>170-2<k1>guptaDana<k2>guptaDana
+1. {%guptadhana%}¦ n. verwahrtes Geld, Pañcat. ed. Bomb. 2, 39, 2. 2. {%guptadhana%} Adj. der sein Geld verwahrt, ebends 2, 37, 21. {part=,seq=12547,type=,n=4}
+<LEND>
+
+NEW
+<L>12358<pc>170-2<k1>guptaDana<k2>guptaDana
+1. {%guptadhana%}¦ n. verwahrtes Geld, Pañcat. ed. Bomb. 2, 39, 2. {part=,seq=12547,type=,n=4}
+<LEND>
+<L>12358.1<pc>170-2<k1>guptaDana<k2>guptaDana
+2. {%guptadhana%}¦ Adj. der sein Geld verwahrt, ebends 2, 37, 21. {part=,seq=12547,type=,n=4}
+<LEND>
+; ------------------------
+; <L>12994<pc>179-1<k1>catuzpaTa<k2>catuzpaTa  moved and change
+;  spelling to 'cAtuzpaTa' (typo)
+; Wrongly placed
+; Deleted and put at 13201.1  page 182.1
+DELETE
+<L>12994<pc>179-1<k1>catuzpaTa<k2>catuzpaTa
+{%catuṣpatha%}¦ Adj. an einem Kreuzwege befindlich, Āpast. Śr. 8, 18, 1. {part=,seq=13195,type=,n=1}
+<LEND>
+INSERT
+<L>13201.1<pc>179-1<k1>cAtuzpaTa<k2>cAtuzpaTa
+{%cātuṣpatha%}¦ Adj. an einem Kreuzwege befindlich, Āpast. Śr. 8, 18, 1. {part=,seq=13195,type=,n=1}
+<LEND>
+; ------------------------------------------------------
+; <L>15635<pc>215-3<k1>deyaloka<k2>deyaloka split into 3 entries
+OLD
+<L>15635<pc>215-3<k1>deyaloka<k2>deyaloka
+°{%deyaloka%}¦ m. die Schar der zu Beschenkenden, Prabandh. 257, 6 v.u. ( v.l. {%devaloka%}, attendants of the god). 1. {%deva%} 2. e) lies 71, 60 statt 11, 60. {%devaka%} 4. a)a) {%devikāhavis%} n. Pl. Āpast. Śr. 13, 24, 1. 12; {%°havīṃṣi%} auch Śāṅkh. Śr. 9, 28, 1. {part=,seq=15877,type=°,n=8}
+<LEND>
+NEW
+<L>15635<pc>215-3<k1>deyaloka<k2>deyaloka
+°{%deyaloka%}¦ m. die Schar der zu Beschenkenden, Prabandh. 257, 6 v.u. ( v.l. {%devaloka%}, attendants of the god). {part=,seq=15877,type=°,n=8}
+<LEND>
+<L>15635.1<pc>215-3<k1>deva<k2>deva
+1. {%deva%}¦ 2. e) lies 71, 60 statt 11, 60. {part=,seq=15877,type=,n=8}
+<LEND>
+<L>15635.2<pc>215-3<k1>devaka<k2>devaka
+{%devaka%}¦  4. a)a) {%devikāhavis%} n. Pl. Āpast. Śr. 13, 24, 1. 12; {%°havīṃṣi%} auch Śāṅkh. Śr. 9, 28, 1. {part=,seq=15877,type=,n=8}
+<LEND>
+; ----------------------------------------------------------
+; <L>15925<pc>219-3<k1>dvipANganA<k2>dvipANganA to split into two entries
+OLD
+<L>15925<pc>219-3<k1>dvipANganA<k2>dvipANganA
+°{%dvipāṅganā%}¦ = {%hastinī%} (eine Art nāyikā), E 414 (A). 2. {%*dvipātra%} Adj. (f. {%ī%}) zwei {%pātra%} genannte Hohlmaße enthaltend, P. 5, 1, 54 Sch. — Auch: in zwei Gefäßen enthalten, TS. 6, 4, 9, 3. {part=,seq=16168,type=°,n=6}
+<LEND>
+
+NEW
+<L>15925<pc>219-3<k1>dvipANganA<k2>dvipANganA
+°{%dvipāṅganā%}¦ = {%hastinī%} (eine Art nāyikā), E 414 (A). {part=,seq=16168,type=°,n=6}
+<LEND>
+<L>15925.1<pc>219-3<k1>dvipAtra<k2>dvipAtra
+2. *{%dvipātra%}¦ Adj. (f. {%ī%}) zwei {%pātra%} genannte Hohlmaße enthaltend, P. 5, 1, 54 Sch. — Auch: in zwei Gefäßen enthalten, TS. 6, 4, 9, 3. {part=,seq=16168,type=*,n=6}
+<LEND>
+; ---------------------------------------------------------------
+; <L>16055<pc>221-3<k1>DarmakAmArTasaMbanDa<k2>DarmakAmArTasaMbanDa split to 2
+OLD
+<L>16055<pc>221-3<k1>DarmakAmArTasaMbanDa<k2>DarmakAmArTasaMbanDa
+{%dharmakāmārthasaṃbandha%}¦ m. so v.a. Eheschließung, MBh. 1, 74, 20. 2. {%dharmakāya%} Adj. das Gesetz (buddh.) zum Körper habend, Vajracch, 43, 8. {part=,seq=16298,type=,n=2}
+<LEND>
+
+NEW
+<L>16055<pc>221-3<k1>DarmakAmArTasaMbanDa<k2>DarmakAmArTasaMbanDa
+{%dharmakāmārthasaṃbandha%}¦ m. so v.a. Eheschließung, MBh. 1, 74, 20. 2. {part=,seq=16298,type=,n=2}
+<LEND>
+<L>16055.1<pc>221-3<k1>DarmakAya<k2>DarmakAya
+2. {%dharmakāya%}¦ Adj. das Gesetz (buddh.) zum Körper habend, Vajracch, 43, 8. {part=,seq=16298,type=,n=2}
+<LEND>
+; --------------------------------------------------------------------
+; <L>16111<pc>222-2<k1>DavitrI<k2>DavitrI split into two entries
+OLD
+<L>16111<pc>222-2<k1>DavitrI<k2>DavitrI
+°{%dhavitrī%}¦ Frau eines Grobschmiedes, S I, 414, 3. 1. {%dhā%} mit {%abhi%}, S. 152, Sp. 1, Z. 2 lies {%abhíhita%}. — Mit {%anvava%} Āpast. Śr. 8, 11, 16; Gṛhy. 17, 5. — Mit {%ā%} [{%vacanam%}], approve, Pūrṇabh. 165, 2 (or confused with {%avadhārya?%}); [{%svarūpam%}] assume (confused with {%āsthāya?%}), Pūrṇabh. 284, 12. — Mit 
+[Page222.3]
+ {%samā, samāhita%} bei den Rhetorikern so v.a. gedämpft, unterdrückt. *Pass. in eine andachtsvolle Stimmung geraten, Mahāvy. 81, 5. — Mit {%abhyupa%} 3. streiche Med. — Mit {%°samupa%} erzeugen, Kir. X, 20. — Mit {%anuni, anuníhitāḥ%} nacheinander geordnet, Maitr. S. 4, 6, 7 (89, 9). — Mit {%°āni%} anlegen (ein Instrument), H 24, 48. — Mit {%vini%} 6. {%vinihitātman%} an der angeführten Stelle bedeutet: keine Aufmerksamkeit jemandem (Lok.) schenkend. — Mit {%saṃpi%} schließen, {part=,seq=16355,type=°,n=20}
+<LEND>
+
+NEW
+<L>16111<pc>222-2<k1>DavitrI<k2>DavitrI
+°{%dhavitrī%}¦ Frau eines Grobschmiedes, S I, 414, 3. 1. {part=,seq=16355,type=°,n=20}
+<LEND>
+<L>16111.1<pc>222-2<k1>DA<k2>DA
+1. {%dhā%}¦  mit {%abhi%}, S. 152, Sp. 1, Z. 2 lies {%abhíhita%}. — Mit {%anvava%} Āpast. Śr. 8, 11, 16; Gṛhy. 17, 5. — Mit {%ā%} [{%vacanam%}], approve, Pūrṇabh. 165, 2 (or confused with {%avadhārya?%}); [{%svarūpam%}] assume (confused with {%āsthāya?%}), Pūrṇabh. 284, 12. — Mit 
+[Page222.3]
+ {%samā, samāhita%} bei den Rhetorikern so v.a. gedämpft, unterdrückt. *Pass. in eine andachtsvolle Stimmung geraten, Mahāvy. 81, 5. — Mit {%abhyupa%} 3. streiche Med. — Mit {%°samupa%} erzeugen, Kir. X, 20. — Mit {%anuni, anuníhitāḥ%} nacheinander geordnet, Maitr. S. 4, 6, 7 (89, 9). — Mit {%°āni%} anlegen (ein Instrument), H 24, 48. — Mit {%vini%} 6. {%vinihitātman%} an der angeführten Stelle bedeutet: keine Aufmerksamkeit jemandem (Lok.) schenkend. — Mit {%saṃpi%} schließen, {part=,seq=16355,type=,n=20}
+<LEND>
+; ---------------------------------
+; <L>7147<pc>098-1<k1>Amikzapayasya<k2>Amikzapayasya print change to
+<L>7147<pc>098-1<k1>AmikzApayasya<k2>AmikzApayasya   cf. pwkvn3 and mw
+;
+; <L>9229<pc>127-1<k1>ekonapaYcASaDA<k2>ekonapaYcA/SaDA print change to
+<L>9229<pc>127-1<k1>ekonapaYcASadDA<k2>ekonapaYcA/SadDA
+;
+; <L>9272<pc>127-2<k1>evaMvAdiR<k2>evaMvAdiR print change to
+<L>9272<pc>127-2<k1>evaMvAdin<k2>evaMvAdin
+;
+; <L>10372<pc>143-1<k1>kAmarupin<k2>kAmarupi/n print change to
+<L>10372<pc>143-1<k1>kAmarUpin<k2>kAmarUpi/n
+;

@@ -16,3 +16,6 @@ See the readme for step1.
 ## step2
 Extractions from sch.txt that may lead to the goal.
 See the readme for step2.
+
+## step3
+Compare Schmidt text to a sample digitization of 10 pages of PWK VN.
