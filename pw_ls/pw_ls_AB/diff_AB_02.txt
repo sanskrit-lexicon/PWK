@@ -1,0 +1,1058 @@
+This file is in 'diff' format.
+The lines starting with '<' are from pw_AB_L0 produced by user @Andrabharati
+And the subsequent '>' lines are the changes made by @funderburkjim
+  in pw_AB_02.txt in the course of work on change_04.txt.
+There are about 130+ changed lines here.
+10297c10297
+< 
+---
+> ; 'PR' -> 'Pr'
+10299c10299
+< {#अद्भुततरंगिणी#}¦ <lex>f.</lex> desgl. <ls>Cat. C. PR.</ls> <222.>
+---
+> {#अद्भुततरंगिणी#}¦ <lex>f.</lex> desgl. <ls>Cat. C. Pr.</ls> <222.>
+29829c29829
+< 
+---
+> ;  <2, 307, a>
+29831c29831
+< {#अभिन्नतरक#}¦ <lex>Adj.</lex> {%gar nicht verschieden%} <ls>MAHĀBH.</ls> <2,307 a>.
+---
+> {#अभिन्नतरक#}¦ <lex>Adj.</lex> {%gar nicht verschieden%} <ls>MAHĀBH.</ls> <2,307, a>.
+31445c31445
+< 
+---
+> ; :'<1,49 a. b>.' -> '<1,49, a.b.>'
+31447c31447
+< {#अभेदक#}¦ <lex>Adj.</lex> {%keinen Unterschied bewirkend%} <ls>MAHĀBH.</ls> <1,49 a. b>.
+---
+> {#अभेदक#}¦ <lex>Adj.</lex> {%keinen Unterschied bewirkend%} <ls>MAHĀBH.</ls> <1,49,a.b.>
+33126c33126
+< 
+---
+> ;  '<6,82 a>.' -> '<6,82,a.>'
+33128c33128
+< {#*अमाष#}¦ <lex>Adj.</lex> {%keine Bohnen erzeugend%} <ls>MAHĀBH.</ls> <6,82 a>.
+---
+> {#*अमाष#}¦ <lex>Adj.</lex> {%keine Bohnen erzeugend%} <ls>MAHĀBH.</ls> <6,82,a.>
+33242c33242
+< 
+---
+> ;  ' a>.' -> ',a.>'
+33244c33244
+< {#*अमित्रघात#}¦ —1) <lex>Adj.</lex> ved. {%Feinde erschlagend%} <ls>MAHĀBH.</ls> <3,70 a>. —2) <lex>m.</lex> <ab>Bein.</ab> <is>Bindusāra's</is>.
+---
+> {#*अमित्रघात#}¦ —1) <lex>Adj.</lex> ved. {%Feinde erschlagend%} <ls>MAHĀBH.</ls> <3,70,a.> —2) <lex>m.</lex> <ab>Bein.</ab> <is>Bindusāra's</is>.
+34058c34058
+< 
+---
+> ;  'B. A. J.' -> 'B. A. I.'
+34060c34060
+< {#अमोघवर्ष#}¦ <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten. {#°वर्ष्य#} <ls>B. A. J.</ls> <1,217.>
+---
+> {#अमोघवर्ष#}¦ <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten. {#°वर्ष्य#} <ls>B. A. I.</ls> <1,217.>
+35038c35038
+< 
+---
+> ;  '26 a' -> '26,a'
+35040c35040
+< {#अयथेष्ट#}¦ <lex>Adj.</lex> {%unbeliebt, nicht beabsichtigt%} <ls>MAHĀBH.</ls> <8,26 a>.
+---
+> {#अयथेष्ट#}¦ <lex>Adj.</lex> {%unbeliebt, nicht beabsichtigt%} <ls>MAHĀBH.</ls> <8,26,a>.
+35106c35106
+< 
+---
+> ;  ' a' -> ',a'
+35108c35108
+< 2. {#अयव#}¦ —1) *<lex>Adj.</lex> {%keine Gerste erzeugend%} <ls>MAHĀBH.</ls> <6,82 a>. —2) <lex>m.</lex> {%ein best. Eingeweidewurm%}.
+---
+> 2. {#अयव#}¦ —1) *<lex>Adj.</lex> {%keine Gerste erzeugend%} <ls>MAHĀBH.</ls> <6,82,a>. —2) <lex>m.</lex> {%ein best. Eingeweidewurm%}.
+35110c35110
+< 
+---
+> ;  ' a' -> ',a'
+35112c35112
+< {#*अयवक#}¦ <lex>Adj.</lex> - 2. {#अयव#} 1) <ls>MAHĀBH.</ls> <6,82 a>.
+---
+> {#*अयवक#}¦ <lex>Adj.</lex> - 2. {#अयव#} 1) <ls>MAHĀBH.</ls> <6,82,a>.
+38743c38743
+< 
+---
+> : ' b' -> ',b'
+38745c38745
+< {#*अर्धपञ्चमक#}¦ <lex>Adj.</lex> <ls>MAHĀBH.</ls> <1,91 b>.
+---
+> {#*अर्धपञ्चमक#}¦ <lex>Adj.</lex> <ls>MAHĀBH.</ls> <1,91,b>.
+38867c38867
+< 
+---
+> ;  ' b' -> ',b'
+38869c38869
+< {#*अर्धमागधक#}¦ <lex>Adj.</lex> <ls>MAHĀBH.</ls> <1,174 b>.
+---
+> {#*अर्धमागधक#}¦ <lex>Adj.</lex> <ls>MAHĀBH.</ls> <1,174,b>.
+39881c39881
+< 
+---
+> ;  ' b' -> ',b'
+39883c39883
+< {#*अलंकुमारि#}¦ <lex>Adj.</lex> <ls>MAHĀBH.</ls> <1,119 b>.
+---
+> {#*अलंकुमारि#}¦ <lex>Adj.</lex> <ls>MAHĀBH.</ls> <1,119,b>.
+39989c39989
+< 
+---
+> ;  ' a' -> ',a'
+39991c39991
+< {#अलमर्थता#}¦ <lex>f.</lex> und {#अलमर्थत्व#} <lex>n.</lex> {%das Haben der Bedeutung von%} {#अलम्#} <ls>MAHĀBH.</ls> <3,95 a>.
+---
+> {#अलमर्थता#}¦ <lex>f.</lex> und {#अलमर्थत्व#} <lex>n.</lex> {%das Haben der Bedeutung von%} {#अलम्#} <ls>MAHĀBH.</ls> <3,95,a>.
+40009c40009
+< 
+---
+> ; : ' b' -> ',b'
+40011c40011
+< {#अलंपूर्व#}¦ <lex>Adj.</lex> {%dem%} {#अलम्#} {%vorangeht%} <ls>MAHĀBH.</ls> <1,199 b>.
+---
+> {#अलंपूर्व#}¦ <lex>Adj.</lex> {%dem%} {#अलम्#} {%vorangeht%} <ls>MAHĀBH.</ls> <1,199,b>.
+40077c40077
+< 
+---
+> ; : ' a' -> ',a'
+40079c40079
+< {#अल꣫वस्#}¦ barbarische Aussprache für {#अरयस्#} (von {#अरि#}). {#अलयस्#} <ls>MAHĀBH.</ls> <1,6 a>.
+---
+> {#अल꣫वस्#}¦ barbarische Aussprache für {#अरयस्#} (von {#अरि#}). {#अलयस्#} <ls>MAHĀBH.</ls> <1,6,a>.
+41037c41037
+< 
+---
+> ; : ' b' -> ',b'
+41039c41039
+< {#*अवकोकिल#}¦ <lex>Adj.</lex> = {#अवक्रुष्टःकोकिलया#} <ls>MAHĀBH.</ls> <2,355 b>.
+---
+> {#*अवकोकिल#}¦ <lex>Adj.</lex> = {#अवक्रुष्टःकोकिलया#} <ls>MAHĀBH.</ls> <2,355,b>.
+43074c43074
+< 
+---
+> ; : ' a' -> ',a'
+43076c43076
+< {#*अवसंचक्ष्य#}¦ <lex>Adj.</lex> {%zu meiden%} <ls>MAHĀBH.</ls> <2,405 a>.
+---
+> {#*अवसंचक्ष्य#}¦ <lex>Adj.</lex> {%zu meiden%} <ls>MAHĀBH.</ls> <2,405,a>.
+44754c44754
+< 
+---
+> ; : ' b' -> ',b'
+44756c44756
+< {#अविलोमन्#}¦ <lex>n.</lex> {%Schafwolle%} <ls>MAHĀBH.</ls> <1,283 b>.
+---
+> {#अविलोमन्#}¦ <lex>n.</lex> {%Schafwolle%} <ls>MAHĀBH.</ls> <1,283,b>.
+44762c44762
+< 
+---
+> ; : ' a' -> ',a'
+44764c44764
+< {#अविवक्षा#}¦ <lex>f.</lex> {%das für unwesentlich Erachten%} <ls>MAHĀBH.</ls> <1,282 a>.
+---
+> {#अविवक्षा#}¦ <lex>f.</lex> {%das für unwesentlich Erachten%} <ls>MAHĀBH.</ls> <1,282,a>.
+44766c44766
+< 
+---
+> ; : ' a' -> ',a'
+44768c44768
+< {#अविवक्षित#}¦ <lex>Adj.</lex> {%nicht ausdrücklich gemeint, unwesentlich, worauf es weiter nicht ankommt%}. Davon <ab>Nom. abstr.</ab> {#°त्व#} <lex>n.</lex> <ls>MAHĀBH.</ls> <1,282 a>.
+---
+> {#अविवक्षित#}¦ <lex>Adj.</lex> {%nicht ausdrücklich gemeint, unwesentlich, worauf es weiter nicht ankommt%}. Davon <ab>Nom. abstr.</ab> {#°त्व#} <lex>n.</lex> <ls>MAHĀBH.</ls> <1,282,a>.
+45286c45286
+< 
+---
+> ; : ' b' -> ',b'
+45288c45288
+< {#*अवृषल#}¦ <lex>m.</lex> {%kein <is>Śūdra</is>%} <ls>MAHĀBH.</ls> <6,61 b>.
+---
+> {#*अवृषल#}¦ <lex>m.</lex> {%kein <is>Śūdra</is>%} <ls>MAHĀBH.</ls> <6,61,b>.
+47552c47552
+< 
+---
+> ; : ' a' -> ',a'
+47554c47554
+< {#*अश्वत्थाम#}¦ <lex>Adj.</lex> {%die Kraft eines Rosses habend%} <ls>MAHĀBH.</ls> <4,38 a>.
+---
+> {#*अश्वत्थाम#}¦ <lex>Adj.</lex> {%die Kraft eines Rosses habend%} <ls>MAHĀBH.</ls> <4,38,a>.
+48832c48832
+< 
+---
+> ; : ' a' -> ',a'
+48834c48834
+< {#अष्टार्धार्ध#}¦ <lex>n.</lex> {%die Hälfte der Hälfte von acht%} d. i. {%zwei%} <ls>PRATĀPAR.</ls> <61 a>.
+---
+> {#अष्टार्धार्ध#}¦ <lex>n.</lex> {%die Hälfte der Hälfte von acht%} d. i. {%zwei%} <ls>PRATĀPAR.</ls> <61,a>.
+53199c53199
+< 
+---
+> ; : ' a' -> ',a'
+53201c53201
+< {#*अहिनकुलिका#}¦ <lex>f.</lex> {%die Feindschaft zwischen Schlange und Ichneumon%} <ls>MAHĀBH.</ls> <4,74 a>.
+---
+> {#*अहिनकुलिका#}¦ <lex>f.</lex> {%die Feindschaft zwischen Schlange und Ichneumon%} <ls>MAHĀBH.</ls> <4,74,a>.
+55769c55769
+< 
+---
+> ; : ' b' -> ',b'
+55771c55771
+< {#*आजमीढि#}¦ <lex>m.</lex> <ab>Patron.</ab> von {#अज्मीढ#} <ls>MAHĀBH.</ls> <4,60 b>.
+---
+> {#*आजमीढि#}¦ <lex>m.</lex> <ab>Patron.</ab> von {#अज्मीढ#} <ls>MAHĀBH.</ls> <4,60,b>.
+55782c55782
+< <L>13867<pc>1164-1<k1>Ajarjarita<k2>Ajarjarita<e>100
+---
+> <L>13867<c>1164-1<k1>Ajarjarita<k2>Ajarjarita<e>100
+56901c56901
+< 
+---
+> ; : ' a' -> ',a'
+56903c56903
+< {#*आत्मचतुर्थ#}¦ <lex>Adj.</lex> {%selbviert%} <ls>MAHĀBH.</ls> <6,87 a>.
+---
+> {#*आत्मचतुर्थ#}¦ <lex>Adj.</lex> {%selbviert%} <ls>MAHĀBH.</ls> <6,87,a>.
+57029c57029
+< 
+---
+> ; : ' a' -> ',a'
+57031c57031
+< {#*आत्मनादशम#}¦ <lex>Adj.</lex> {%selbzehnt%} <ls>MAHĀBH.</ls> <6,87 a>.
+---
+> {#*आत्मनादशम#}¦ <lex>Adj.</lex> {%selbzehnt%} <ls>MAHĀBH.</ls> <6,87,a>.
+57077c57077
+< 
+---
+> ; : ' a' -> ',a'
+57079c57079
+< {#आत्मनेभाष#}¦ —1) <lex>Adj.</lex> = {#आत्मनेपदिन्#} <ls>MAHĀBH.</ls> <6,87 a>. —2) <lex>f.</lex> {#आ#} = {#आत्मनेपद#}.
+---
+> {#आत्मनेभाष#}¦ —1) <lex>Adj.</lex> = {#आत्मनेपदिन्#} <ls>MAHĀBH.</ls> <6,87,a>. —2) <lex>f.</lex> {#आ#} = {#आत्मनेपद#}.
+62295c62295
+< 
+---
+> ; : ' b' -> ',b'
+62297c62297
+< {#*आरात्रिविवासम्#}¦ <ab>Adv.</ab> {%bis Tagesanbruch%} <ls>MAHĀBH.</ls> <3,27 b>.
+---
+> {#*आरात्रिविवासम्#}¦ <ab>Adv.</ab> {%bis Tagesanbruch%} <ls>MAHĀBH.</ls> <3,27,b>.
+63328c63328
+< 
+---
+> ; : ' b' -> ',b'
+63330c63330
+< {#*आर्यशिस्#}¦ <lex>Adj.</lex> <ls>MAHĀBH.</ls> <6 (4),18 b>.
+---
+> {#*आर्यशिस्#}¦ <lex>Adj.</lex> <ls>MAHĀBH.</ls> <6 (4),18,b>.
+64250c64250
+< 
+---
+> ; : ' b' -> ',b'
+64252c64252
+< {#*आवाय#}¦ <lex>m.</lex> <ls>MAHĀBH.</ls> <3,93 a>.
+---
+> {#*आवाय#}¦ <lex>m.</lex> <ls>MAHĀBH.</ls> <3,93,a>.
+65414c65414
+< 
+---
+> ; : ' a' -> ',a'
+65416c65416
+< {#*आश्वलक्षणिक#}¦ (so zu lesen) <lex>Adj.</lex> {%sich auf die Kennzeichen der Pferde verstehend%} <ls>MAHĀBH.</ls> <4,67 a>.
+---
+> {#*आश्वलक्षणिक#}¦ (so zu lesen) <lex>Adj.</lex> {%sich auf die Kennzeichen der Pferde verstehend%} <ls>MAHĀBH.</ls> <4,67,a>.
+66195c66195
+< 
+---
+> ;') <ls>BHAṬṬ.</ls>' -> '(<ls>BHAṬṬ.</ls>'
+66197c66197
+< {#आ꣫स्थत्#}¦ 3te <ab>Sg.</ab> und {#आस्थताम्#}) <ls>BHAṬṬ.</ls> <15,91>) 3te <ab>Du.</ab> <ab>Aor.</ab> von {#अस्, अस्यति#}.
+---
+> {#आ꣫स्थत्#}¦ 3te <ab>Sg.</ab> und {#आस्थताम्#} (<ls>BHAṬṬ.</ls> <15,91>) 3te <ab>Du.</ab> <ab>Aor.</ab> von {#अस्, अस्यति#}.
+66620c66620
+< 
+---
+> ; : ' a' -> ',a'
+66622c66622
+< {#आहिच्छत्त्र#}¦ <lex>Adj.</lex> <lex>f.</lex> {#ई#} {%aus%} {#आहिच्छत्त्र#} oder {#त्त्रा#} {%stammend%} <ls>MAHĀBH.</ls> <4,35 a>.
+---
+> {#आहिच्छत्त्र#}¦ <lex>Adj.</lex> <lex>f.</lex> {#ई#} {%aus%} {#आहिच्छत्त्र#} oder {#त्त्रा#} {%stammend%} <ls>MAHĀBH.</ls> <4,35,a>.
+73009c73009
+< 
+---
+> ; : ' a' -> ',a'
+73011c73011
+< {#उत्क्लेदिन्#}¦ <lex>Adj.</lex> {%nässend, auflösend%} <ls>CARAKA.</ls> <1,27 a. b>.
+---
+> {#उत्क्लेदिन्#}¦ <lex>Adj.</lex> {%nässend, auflösend%} <ls>CARAKA.</ls> <1,27,a. b>.
+76224c76224
+< 
+---
+> ; : ' a' -> ',a'
+76226c76226
+< {#*उदासारिन्#}¦ <lex>Adj.</lex> <ls>MAHĀBH.</ls> <3,68 a>.
+---
+> {#*उदासारिन्#}¦ <lex>Adj.</lex> <ls>MAHĀBH.</ls> <3,68,a>.
+77488c77488
+< 
+---
+> ; : ' b' -> ',b'
+77490c77490
+< {#*उद्व#}¦ ved. <lex>Adj.</lex> (<lex>f.</lex> {#आ#}) <ls>MAHĀBH.</ls> <5,51 b>.
+---
+> {#*उद्व#}¦ ved. <lex>Adj.</lex> (<lex>f.</lex> {#आ#}) <ls>MAHĀBH.</ls> <5,51,b>.
+77988c77988
+< 
+---
+> ; : ' b' -> ',b'
+77990c77990
+< {#*उन्मत्तगङ्गम्#}¦ <ab>Adv.</ab> {%wo die <is>Gaṅgā</is> tobt%} <ls>MAHĀBH.</ls> <2,111 b>.
+---
+> {#*उन्मत्तगङ्गम्#}¦ <ab>Adv.</ab> {%wo die <is>Gaṅgā</is> tobt%} <ls>MAHĀBH.</ls> <2,111,b>.
+78790c78790
+< 
+---
+> ; : ' a' -> ',a'
+78792c78792
+< {#*उपचाय्यपृड#}¦ <lex>Adj.</lex> <ab>v. l.</ab> für {#उपचायमड#} <ls>MAHĀBH.</ls> <3,60 a>.
+---
+> {#*उपचाय्यपृड#}¦ <lex>Adj.</lex> <ab>v. l.</ab> für {#उपचायमड#} <ls>MAHĀBH.</ls> <3,60,a>.
+81263c81263
+< 
+---
+> ; : ' b' -> ',b'
+81265c81265
+< {#*उपसरज#}¦ <lex>Adj.</lex> <ls>MAHĀBH.</ls> <6,81 b>.
+---
+> {#*उपसरज#}¦ <lex>Adj.</lex> <ls>MAHĀBH.</ls> <6,81,b>.
+81311c81311
+< 
+---
+> ;. PADMA-P -> PADMAP (cf. print)
+81313c81313
+< {#उपसाद#}¦ <ls>PADMA-P.</ls> <8,19> fehlerhaft für 2. {#उपाङ्ग#}.
+---
+> {#उपसाद#}¦ <ls>PADMAP.</ls> <8,19> fehlerhaft für 2. {#उपाङ्ग#}.
+83515c83515
+< 
+---
+> ; : ' b' -> ',b'
+83517c83517
+< {#*उर्दि#}¦ <lex>m.</lex> oder. <lex>f.</lex> <ab>N. pr.</ab> einer Person <ls>MAHĀBH.</ls> <4,71 b>.
+---
+> {#*उर्दि#}¦ <lex>m.</lex> oder. <lex>f.</lex> <ab>N. pr.</ab> einer Person <ls>MAHĀBH.</ls> <4,71,b>.
+83715c83715
+< 
+---
+> ; : ' b' -> ',b'
+83717c83717
+< {#*उलूकपक्ष#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#ई#}) {%die Gestalt eines Eulenflügels habend%} <ls>MAHĀBH.</ls> <4,29 b>.
+---
+> {#*उलूकपक्ष#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#ई#}) {%die Gestalt eines Eulenflügels habend%} <ls>MAHĀBH.</ls> <4,29,b>.
+86530c86530
+< 
+---
+> ; : ' a' -> ',a'
+86532c86532
+< {#*ऋणार्ण#}¦ <lex>n.</lex> wohl<ab>N. pr.</ab> einer Oertlichkeit <ls>MAHĀBH.</ls> <6,42 a>.
+---
+> {#*ऋणार्ण#}¦ <lex>n.</lex> wohl<ab>N. pr.</ab> einer Oertlichkeit <ls>MAHĀBH.</ls> <6,42,a>.
+90680c90680
+< 
+---
+> ; : ' b' -> ',b'
+90682c90682
+< {#*ऐणिकीय#}¦ <lex>Adj.</lex> <ls>MAHĀBH.</ls> <4,75 b>.
+---
+> {#*ऐणिकीय#}¦ <lex>Adj.</lex> <ls>MAHĀBH.</ls> <4,75,b>.
+92241c92241
+< 
+---
+> ; : ' a' -> ',a'
+92243c92243
+< {#*औदमेघ्या#}¦ <lex>f.</lex> zu {#औदमेघि#} <ls>MAHĀBH.</ls> <4,33 a>.
+---
+> {#*औदमेघ्या#}¦ <lex>f.</lex> zu {#औदमेघि#} <ls>MAHĀBH.</ls> <4,33,a>.
+97982c97982
+< 
+---
+> ; <ls>VP.</ls> <2. 3,302.> -> <ls>VP.²</ls> <3,302.>
+97984c97984
+< {#कपिलाश्रम#}¦ <lex>m.</lex> <ab>N. pr.</ab> einer {%Einsiedelei%} <ls>VP.</ls> <2. 3,302.>
+---
+> {#कपिलाश्रम#}¦ <lex>m.</lex> <ab>N. pr.</ab> einer {%Einsiedelei%} <ls>VP.²</ls> <3,302.>
+101016c101016
+< 
+---
+> ; 'a. 7' -> 'a,7'
+101018c101018
+< {#कर्णविषयी#}¦ <ab>Adv.</ab> mit {#कर्#} {%zu Ohren bringen%} <ls>Verz. d. Oxf. H.</ls> <153, a. 7>, v. u.
+---
+> {#कर्णविषयी#}¦ <ab>Adv.</ab> mit {#कर्#} {%zu Ohren bringen%} <ls>Verz. d. Oxf. H.</ls> <153, a,7>, v. u.
+105047c105047
+< 
+---
+> ; '<352,3 a>' -> '<352,3> a'
+105049c105049
+< {#काककुलायगन्धिक#}¦ <lex>Adj.</lex> {%stinkend wie ein Krähennest%} <ls>AIT. ĀR.</ls> <352,3 a>. u.
+---
+> {#काककुलायगन्धिक#}¦ <lex>Adj.</lex> {%stinkend wie ein Krähennest%} <ls>AIT. ĀR.</ls> <352,3> a. u.
+115758c115758
+< 
+---
+> ; '35. 22.' -> '35,22.'
+115760c115760
+< {#कुन्तवनमय#}¦ <lex>Adj.</lex> {%aus einem Walde von Speeren bestehend%} <ls>KĀD.</ls> <II,35. 22.>
+---
+> {#कुन्तवनमय#}¦ <lex>Adj.</lex> {%aus einem Walde von Speeren bestehend%} <ls>KĀD.</ls> <II,35,22.>
+123831c123831
+< 
+---
+> ; <1,> LXXV -> <1,LXXV>
+123833c123833
+< {#केदारेश्वर#}¦ —1) <lex>m.</lex> = {#केदारेश#} 1). —2) <ab>N. pr.</ab> eines Wallfahrtsortes im <is>Himālaya</is> <ls>VP.²</ls> <1,> LXXV.
+---
+> {#केदारेश्वर#}¦ —1) <lex>m.</lex> = {#केदारेश#} 1). —2) <ab>N. pr.</ab> eines Wallfahrtsortes im <is>Himālaya</is> <ls>VP.²</ls> <1,LXXV>.
+125559c125559
+< 
+---
+> ; '21' -> '1'
+125561c125561
+< {#कोणादित्य#}¦ wohl = {#कोणार्क#} <ls>VP.²</ls> <21, XXVIII.>
+---
+> {#कोणादित्य#}¦ wohl = {#कोणार्क#} <ls>VP.²</ls> <1, XXVIII.>
+131606c131606
+< 
+---
+> ; <94.> -> <6,94.>
+131608c131608
+< {#क्षितिभृत्#}¦ <lex>m.</lex> —1) {%Berg%}. —2) {%Fürst, König%}. <ab>Nom. abstr.</ab> {#°भृत्ता#} <lex>f.</lex> <ls>NAIṢ.</ls> <94.>
+---
+> {#क्षितिभृत्#}¦ <lex>m.</lex> —1) {%Berg%}. —2) {%Fürst, König%}. <ab>Nom. abstr.</ab> {#°भृत्ता#} <lex>f.</lex> <ls>NAIṢ.</ls> <6,94.>
+132201c132201
+< 
+---
+> ; HEMĀDRI -> HEDRI  (acc. to scan. Possible print error)
+132203c132203
+< {#क्षीरवह#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#आ#}) {%Milch führend%} (Fluss) <ls>HEMĀDRI.</ls> <1,416,1.>
+---
+> {#क्षीरवह#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#आ#}) {%Milch führend%} (Fluss) <ls>HEDRI.</ls> <1,416,1.>
+137388c137388
+< 
+---
+> ; alt -> {%alt%}
+138896c138896
+< 
+---
+> ; '<1, xc>' -> '<1, xc. 5, 118>'  (NOTE: 5 might be 3)
+138898c138898
+< {#गणेशोपपुराण#}¦ <lex>n.</lex> Titel eines <is>Upapurāṇa</is> <ls>VP.²</ls> <1, xc>.
+---
+> {#गणेशोपपुराण#}¦ <lex>n.</lex> Titel eines <is>Upapurāṇa</is> <ls>VP.²</ls> <1, xc. 5, 118>.
+169153c169153
+< 
+---
+> ; '1880. <S. 35.>' -> '<1880, S. 35.>'
+169155c169155
+< {#जन्मजन्मन्#}¦ <lex>n.</lex> <ab>Loc.</ab> {#°नि#} {%in jeder Geburt, so <ab>v. a.</ab> in jedem Leben%} <ls>Mon. d. B. A.</ls> 1880. <S. 35.>
+---
+> {#जन्मजन्मन्#}¦ <lex>n.</lex> <ab>Loc.</ab> {#°नि#} {%in jeder Geburt, so <ab>v. a.</ab> in jedem Leben%} <ls>Mon. d. B. A.</ls> <1880, S. 35.>
+171138c171138
+< 
+---
+> ; '1880, <S. 35.>' -> '<1880, S. 35.>'
+171140c171140
+< {#जलबुद्बुद्#}¦ (<ls>Mon. d. B. A.</ls> 1880, <S. 35>) und {#°बुद्बुद#} <lex>m.</lex> {%Wasserblase%}.
+---
+> {#जलबुद्बुद्#}¦ (<ls>Mon. d. B. A.</ls>  <1880, S. 35>) und {#°बुद्बुद#} <lex>m.</lex> {%Wasserblase%}.
+192918c192918
+< 
+---
+> ; '<2,115,13)> q.' -> '<2,115,13>) <lex>n.</lex>'
+192920c192920
+< {#त्रिजात#}¦ und {#°क#} (<ls>DAŚAK. (1925)</ls> <2,115,13)> q. {%Zimmt, Kardamomen und Muskatnuss%}.
+---
+> {#त्रिजात#}¦ und {#°क#} (<ls>DAŚAK. (1925)</ls> <2,115,13>) <lex>n.</lex> {%Zimmt, Kardamomen und Muskatnuss%}.
+210461c210461
+< 
+---
+> ;'z.' -> 'Z.'
+210463c210463
+< {#दुःसंदर्भ#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#आ#}) {%schwer zusammenzustellen, —zu verfassen%} <ls>DEŚĪN.</ls> <S. 1, z. 2.>
+---
+> {#दुःसंदर्भ#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#आ#}) {%schwer zusammenzustellen, —zu verfassen%} <ls>DEŚĪN.</ls> <S. 1, Z. 2.>
+239221c239221
+< 
+---
+> ; '25.' -> '25,'
+239223c239223
+< {#निमिषित#}¦ <lex>n.</lex> {%das Schliessen der Augen%} <ls>MAHĀBH.</ls> <8,25. b>. <ab>Vgl.</ab> {#अ°#} (Nachtr. 3).
+---
+> {#निमिषित#}¦ <lex>n.</lex> {%das Schliessen der Augen%} <ls>MAHĀBH.</ls> <8,25, b>. <ab>Vgl.</ab> {#अ°#} (Nachtr. 3).
+250383c250383
+< 
+---
+> ; '(<ls>OPP. CAT.</ls>' -> '(<ls>OPP. CAT.</ls> <1>)'
+250385c250385
+< {#न्यायसिद्धान्तमञ्जरी#}¦ <lex>f.</lex>, {#°दीपिका#} <lex>f.</lex>, {#°प्रकाशा#} <lex>m.</lex>, {#°सार#}, {#°सिद्धान्तमणिदीपिका#} <lex>f.</lex> (<ls>OPP. CAT.</ls>, {#°सिद्धान्तमाला#} <lex>f.</lex> und {#°सिद्धान्तमुक्तावली#} <lex>f.</lex> Titel von Werken.
+---
+> {#न्यायसिद्धान्तमञ्जरी#}¦ <lex>f.</lex>, {#°दीपिका#} <lex>f.</lex>, {#°प्रकाशा#} <lex>m.</lex>, {#°सार#}, {#°सिद्धान्तमणिदीपिका#} <lex>f.</lex> (<ls>OPP. CAT.</ls> <1>), {#°सिद्धान्तमाला#} <lex>f.</lex> und {#°सिद्धान्तमुक्तावली#} <lex>f.</lex> Titel von Werken.
+251096c251096
+< 
+---
+> ; '<ls>BHĀVAPR. (HDSCHR.)</ls>' ->'<ls>BHĀVAPR.</ls> (<ab>Hdschr.</ab>)'
+251098c251098
+< {#पक्षोत्क्षेप#}¦ <lex>m.</lex> {%Flügelschlag%} <ls>BHĀVAPR. (HDSCHR.)</ls> <2,11.> {#पक्षक्षेप#} <ab>v. l.</ab>
+---
+> {#पक्षोत्क्षेप#}¦ <lex>m.</lex> {%Flügelschlag%} <ls>BHĀVAPR.</ls> (<ab>Hdschr.</ab>) <2,11.> {#पक्षक्षेप#} <ab>v. l.</ab>
+253670c253670
+< 
+---
+> ; 'Vet' -> 'VET'
+253672c253672
+< {#पट्टकिल#}¦ <lex>m.</lex> etwa {%der Pächter eines Landstückes%} <ls>Vet. (U.)</ls> <60,16. fgg.>
+---
+> {#पट्टकिल#}¦ <lex>m.</lex> etwa {%der Pächter eines Landstückes%} <ls>VET. (U.)</ls> <60,16. fgg.>
+257875c257875
+< 
+---
+> ; '<49,2. (neben> {' -> '<49,2> (neben {'
+257877c257877
+< {#परमाटिक#}¦ <lex>m.</lex> <ab>Pl.</ab> {%eine best. Schule des <is>Yajus</is>%} <ls>AV. PARIŚ.</ls> <49,2. (neben> {#आटिक#}) <ab>Vgl.</ab> {#परमावटिक#}.
+---
+> {#परमाटिक#}¦ <lex>m.</lex> <ab>Pl.</ab> {%eine best. Schule des <is>Yajus</is>%} <ls>AV. PARIŚ.</ls> <49,2> (neben {#आटिक#}) <ab>Vgl.</ab> {#परमावटिक#}.
+257879c257879
+< 
+---
+> ; 'Vgl' -> 'vgl' and '<18,1.>' -> '<18,1>;'
+257881c257881
+< {#परमाणु#}¦ —1) <lex>m.</lex> —a) {%ein unendlich kleiner Theil, Atom%}. {#भृत्य°#} so <ab>v. a.</ab> {%unterthänigster Diener%} <ls>HARṢAC.</ls> <18,1.> <ab>Vgl.</ab> {#पदातिलव#} <ab>Nom. abstr.</ab> {#°ता#} <lex>f.</lex> —b) {%ein unendlich kleiner Zeittheil%}. —2) <lex>n.</lex> 1/8 {%einer Mora%}.
+---
+> {#परमाणु#}¦ —1) <lex>m.</lex> —a) {%ein unendlich kleiner Theil, Atom%}. {#भृत्य°#} so <ab>v. a.</ab> {%unterthänigster Diener%} <ls>HARṢAC.</ls> <18,1>; <ab>Vgl.</ab> {#पदातिलव#} <ab>Nom. abstr.</ab> {#°ता#} <lex>f.</lex> —b) {%ein unendlich kleiner Zeittheil%}. —2) <lex>n.</lex> 1/8 {%einer Mora%}.
+258419c258419
+< 
+---
+> ; 87. a' -> '87,a'
+258421c258421
+< {#परस्मैभाष#}¦ —1) <lex>Adj.</lex> = {#परस्मैपदिन्#} <ls>MAHĀBH.</ls> <6,87. a>. —2) <lex>f.</lex> {#आ#} = {#परस्मैपद#}.
+---
+> {#परस्मैभाष#}¦ —1) <lex>Adj.</lex> = {#परस्मैपदिन्#} <ls>MAHĀBH.</ls> <6,87,a>. —2) <lex>f.</lex> {#आ#} = {#परस्मैपद#}.
+259235c259235
+< 
+---
+> ; '7.' -> 7
+260919c260919
+< 
+---
+> ; '17.' -> 17
+260921c260921
+< {#परिभोग#}¦ <lex>m.</lex> —1) {%Genuss%} (auch {%ehelicher%}) <ls>KĀRAṆḌ.</ls> <44,17.> ({#°भाग#} gedr.). —2) {%Mittel zum Genuss, Subsistenzmittel%}.
+---
+> {#परिभोग#}¦ <lex>m.</lex> —1) {%Genuss%} (auch {%ehelicher%}) <ls>KĀRAṆḌ.</ls> <44,17> ({#°भाग#} gedr.). —2) {%Mittel zum Genuss, Subsistenzmittel%}.
+261043c261043
+< 
+---
+> ; 'b. 2' -> 'b, 2'
+261045c261045
+< {#परिमाण्य#}¦ (?) <lex>n.</lex> {%Umfang%} <ls>Verz. d. Oxf. H.</ls> <48, b. 2.> <ab>Vgl.</ab> {#पारि°#}.
+---
+> {#परिमाण्य#}¦ (?) <lex>n.</lex> {%Umfang%} <ls>Verz. d. Oxf. H.</ls> <48, b, 2.> <ab>Vgl.</ab> {#पारि°#}.
+261427c261427
+< 
+---
+> ; 12. -> 12
+261429c261429
+< {#परिवर्धन#}¦ —1) <lex>n.</lex> <ls>HARṢAC.</ls> <173,12.> wohl nur fehlerhaft für {#°वर्धक#} —2) <lex>n.</lex> {%das Vermehren, Vergrössern, Vervielfältigen%}.
+---
+> {#परिवर्धन#}¦ —1) <lex>n.</lex> <ls>HARṢAC.</ls> <173,12> wohl nur fehlerhaft für {#°वर्धक#} —2) <lex>n.</lex> {%das Vermehren, Vergrössern, Vervielfältigen%}.
+261864c261864
+< 
+---
+> ; '<lex>INSTR.</lex>' -> '<ab>Instr.</ab>'
+261866c261866
+< {#परिशेष#}¦ —1) <lex>Adj.</lex> {%übrig, sonstig%}. —2) <lex>m.</lex> <lex>n.</lex> —a) {%Rest, Ueberrest%} <ls>GṚHYĀS.</ls> <1,113.> <lex>INSTR.</lex> auch so <ab>v. a.</ab> {%bis auf den Rest, vollständig%}. —b) {%Ergänzung, Supplement%}. —3) <ab>Abl.</ab> {#°षात्#} so <ab>v. a.</ab> {%folglich%}.
+---
+> {#परिशेष#}¦ —1) <lex>Adj.</lex> {%übrig, sonstig%}. —2) <lex>m.</lex> <lex>n.</lex> —a) {%Rest, Ueberrest%} <ls>GṚHYĀS.</ls> <1,113.> <ab>Instr.</ab> auch so <ab>v. a.</ab> {%bis auf den Rest, vollständig%}. —b) {%Ergänzung, Supplement%}. —3) <ab>Abl.</ab> {#°षात्#} so <ab>v. a.</ab> {%folglich%}.
+262024c262024
+< 
+---
+> ; '14.' -> '14'
+262026c262026
+< {#परिष्कन्द꣫#}¦ und {#परिस्कन्द#} <lex>m.</lex> —1) {%Diener%} insbes. {%ein zur Seite des Wagens gehender%}. —2) {%Tempel%} <ls>GAUT.</ls> <19,14.> ({#परिष्कन्ध#} gedr.).
+---
+> {#परिष्कन्द꣫#}¦ und {#परिस्कन्द#} <lex>m.</lex> —1) {%Diener%} insbes. {%ein zur Seite des Wagens gehender%}. —2) {%Tempel%} <ls>GAUT.</ls> <19,14> ({#परिष्कन्ध#} gedr.).
+262719c262719
+< 
+---
+> ; '7.' -> '7'
+262721c262721
+< {#परीमोष#}¦ <lex>m.</lex> <ls>CARAKA.</ls> <1,7.> vielleicht fehlerhaft für {#°शोष = परिशोष#}.
+---
+> {#परीमोष#}¦ <lex>m.</lex> <ls>CARAKA.</ls> <1,7> vielleicht fehlerhaft für {#°शोष = परिशोष#}.
+263801c263801
+< 
+---
+> ; 'Pisch' -> 'PISCH'
+263803c263803
+< {#पर्याकुलय्#}¦, {#°यति#} {%in Verwirrung, in Aufregung versetzen%} <ls>ŚĀK. (Pisch.)</ls> <26,2.> <ab>v. l.</ab>
+---
+> {#पर्याकुलय्#}¦, {#°यति#} {%in Verwirrung, in Aufregung versetzen%} <ls>ŚĀK. (PISCH.)</ls> <26,2.> <ab>v. l.</ab>
+263805c263805
+< 
+---
+> ; 'Pisch' -> 'PISCH'
+263807c263807
+< {#पर्याकुली#}¦ <ab>Adv.</ab> —1) mit {#कर्#} {%in Verwirrung—, in Aufregung versetzen%} <ls>ŚĀK. (Pisch.)</ls> <26,2.> —2) mit {#भू#} {%sich verwirren%}.
+---
+> {#पर्याकुली#}¦ <ab>Adv.</ab> —1) mit {#कर्#} {%in Verwirrung—, in Aufregung versetzen%} <ls>ŚĀK. (PISCH.)</ls> <26,2.> —2) mit {#भू#} {%sich verwirren%}.
+265518c265518
+< 
+---
+> ; '5,3,13' -> '<5,3,13>'
+265520c265520
+< {#पशुवेदि#}¦ <lex>f.</lex> die <is>Vedi</is> beim Tieropfer <ab>Comm.</ab> zu <ls>KĀTY. ŚR.</ls> 5,3,13.
+---
+> {#पशुवेदि#}¦ <lex>f.</lex> die <is>Vedi</is> beim Tieropfer <ab>Comm.</ab> zu <ls>KĀTY. ŚR.</ls> <5,3,13.>
+265850c265850
+< 
+---
+> ; '14.' -> '14'
+266872c266872
+< 
+---
+> ; 'UP' -> 'UP.'
+266874c266874
+< {#पाठप्रणाली#}¦ <lex>f.</lex> {%Textesrecension%} <ab>Comm.</ab> zu <ls>KAUṢ. UP</ls> <S. 129, Z. 1.>
+---
+> {#पाठप्रणाली#}¦ <lex>f.</lex> {%Textesrecension%} <ab>Comm.</ab> zu <ls>KAUṢ. UP.</ls> <S. 129, Z. 1.>
+267200c267200
+< 
+---
+> ; '</ls>,' -> '</ls>'
+267202c267202
+< {#पाण्ट#}¦ {%Decoct%} <ls>VAITĀN.</ls>, wohl nur fehlerhaft für {#फाण्ट#}.
+---
+> {#पाण्ट#}¦ {%Decoct%} <ls>VAITĀN.</ls> wohl nur fehlerhaft für {#फाण्ट#}.
+269889c269889
+< 
+---
+> ; '<lex>INSTR.</lex>' -> '<ab>Instr.</ab>'
+269891c269891
+< {#पारावर्य#}¦ <lex>n.</lex> {%das Allumfassendsein, Allseitigkeit%} <ls>HARIV.</ls> <2,68,32.> <lex>INSTR.</lex> so <ab>v. a.</ab> {%nach allen Seiten hin, vollständig%}.
+---
+> {#पारावर्य#}¦ <lex>n.</lex> {%das Allumfassendsein, Allseitigkeit%} <ls>HARIV.</ls> <2,68,32.> <ab>Instr.</ab> so <ab>v. a.</ab> {%nach allen Seiten hin, vollständig%}.
+271827c271827
+< 
+---
+> ; 'wohl' -> 'Wohl'
+271829c271829
+< {#पिच्छन#}¦ <lex>n.</lex> {%das Breitquetschen%} <ls>CARAKA.</ls> <1,18.> wohl {#पिच्चन#} zu lesen.
+---
+> {#पिच्छन#}¦ <lex>n.</lex> {%das Breitquetschen%} <ls>CARAKA.</ls> <1,18.> Wohl {#पिच्चन#} zu lesen.
+272587c272587
+< 
+---
+> ; '72.' -> '72,'
+272589c272589
+< {#*पितृदत्त#}¦ <lex>m.</lex> ein Mannesname, {#*°क#} <lex>m.</lex> Hypokoristikon davon <ls>MAHĀBH.</ls> <5,72. a>.
+---
+> {#*पितृदत्त#}¦ <lex>m.</lex> ein Mannesname, {#*°क#} <lex>m.</lex> Hypokoristikon davon <ls>MAHĀBH.</ls> <5,72, a>.
+274371c274371
+< 
+---
+> ; '<7,1,48, Sch.>' -> '<7,1,48,>` <ab>Sch.</ab>
+274373c274373
+< {#पीत्वा꣫#}¦, {#पितुआ꣫#} und {#*पीत्वानम्#} (<ls>P.</ls> <7,1,48, Sch.>; richtig {#पीत्वीनम्#})) <ab>Absol.</ab> zu 1. {#पा#} {%trinken%}.
+---
+> {#पीत्वा꣫#}¦, {#पितुआ꣫#} und {#*पीत्वानम्#} (<ls>P.</ls> <7,1,48,> <ab>Sch.</ab>; richtig {#पीत्वीनम्#})) <ab>Absol.</ab> zu 1. {#पा#} {%trinken%}.
+275961c275961
+< 
+---
+> ; '6.' -> '6'
+276607c276607
+< 
+---
+> ; '6.' -> '6'
+277304c277304
+< 
+---
+> ; '26,62. fgg.' -> '<26,62. fgg.>'
+277306c277306
+< {#पु꣫रीष#}¦ —1) <lex>n.</lex> (<lex>adj. Comp.</lex> <lex>f.</lex> {#ई#}) —a) {%das Bröcklige, Feste%} (im Gegensatz zum {%Flüssigen%}); <ab>vgl.</ab> <ls>KUHN'S. Z.</ls> 26,62. fgg. —b) {%Erde, Land%}. —c) {%Schutt, lose Erde, Gerölle, Füllsel%}. —d) Bez. {%der Ausfüllstücke in der Recitation der sogenannten <is>Mahānāmnī</is> Verse%}. Vollständig {#°पद#} <lex>n.</lex> —e) {%Unrath, Schmutz, Koth, die Excremente%}, Am Ende eines Comp. so <ab>v. a.</ab> {%der Auswurf von%}. —f) {#आथर्वन#} Name eines <is>Sāman</is>. —2) <lex>f.</lex> {#पुरीषी#} {%Das Schichten%}, = {#चयन#} <ab>Comm.</ab>
+---
+> {#पु꣫रीष#}¦ —1) <lex>n.</lex> (<lex>adj. Comp.</lex> <lex>f.</lex> {#ई#}) —a) {%das Bröcklige, Feste%} (im Gegensatz zum {%Flüssigen%}); <ab>vgl.</ab> <ls>KUHN'S. Z.</ls> <26,62. fgg.> —b) {%Erde, Land%}. —c) {%Schutt, lose Erde, Gerölle, Füllsel%}. —d) Bez. {%der Ausfüllstücke in der Recitation der sogenannten <is>Mahānāmnī</is> Verse%}. Vollständig {#°पद#} <lex>n.</lex> —e) {%Unrath, Schmutz, Koth, die Excremente%}, Am Ende eines Comp. so <ab>v. a.</ab> {%der Auswurf von%}. —f) {#आथर्वन#} Name eines <is>Sāman</is>. —2) <lex>f.</lex> {#पुरीषी#} {%Das Schichten%}, = {#चयन#} <ab>Comm.</ab>
+277364c277364
+< 
+---
+> ; '24,65. fgg.' -> '<24,65. fgg.>'
+277366c277366
+< {#पुरीषि꣫न्#}¦ <lex>Adj.</lex> (<ab>vgl.</ab> <ls>KUHN'S. Z.</ls> 24,65. fgg.) —1) {%bodenreich, grossen Grundbesitz habend%}. —2) {%das Land überziehend, darüber sich ausbreitend%}. —3) {%das trockene Land bewohnend%}. —4) {%Geröll—, Erde mit sich führend%} als Beiw. der <is>Sarayū</is>; könnte als <lex>f.</lex> auch<ab>N. pr.</ab> eines Flusses sein. —5) [Page4099-3] {%consistent, fest, körperlich%}.
+---
+> {#पुरीषि꣫न्#}¦ <lex>Adj.</lex> (<ab>vgl.</ab> <ls>KUHN'S. Z.</ls> <24,65. fgg.>) —1) {%bodenreich, grossen Grundbesitz habend%}. —2) {%das Land überziehend, darüber sich ausbreitend%}. —3) {%das trockene Land bewohnend%}. —4) {%Geröll—, Erde mit sich führend%} als Beiw. der <is>Sarayū</is>; könnte als <lex>f.</lex> auch<ab>N. pr.</ab> eines Flusses sein. —5) [Page4099-3] {%consistent, fest, körperlich%}.
+277372c277372
+< 
+---
+> ; '24,64.' -> '<24,64.>'
+277374c277374
+< {#पुरीष्य॑#}¦ {#पुरीषि꣫अ#} <lex>Adj.</lex> (<ab>vgl.</ab> <ls>KUHN'S. Z.</ls> 24,64). —1) als Beiw. des Feuers {%im Erdboden befindlich%}. —2) {%bodenreich, grossen Grundbesitz habend%}. —3) {%kothig%}.
+---
+> {#पुरीष्य॑#}¦ {#पुरीषि꣫अ#} <lex>Adj.</lex> (<ab>vgl.</ab> <ls>KUHN'S. Z.</ls> <24,64>). —1) als Beiw. des Feuers {%im Erdboden befindlich%}. —2) {%bodenreich, grossen Grundbesitz habend%}. —3) {%kothig%}.
+280889c280889
+< 
+---
+> ; '34.' -> '34'
+282213c282213
+< 
+---
+> ; '9.' -> '9'
+285151c285151
+< 
+---
+> ; '67.' -> '67'
+286942c286942
+< 
+---
+> ; '2.' -> '2'
+293045c293045
+< 
+---
+> ; '53.' -> '53'
+293047c293047
+< {#प्रत्यवेक्ष्य#}¦ <lex>Adj.</lex> {%auf den man Rücksicht zu nehmen hat%}. <ls>RAGH.</ls> <17,53.> ist {#प्रत्यवेक्षानि°#} zu lesen.
+---
+> {#प्रत्यवेक्ष्य#}¦ <lex>Adj.</lex> {%auf den man Rücksicht zu nehmen hat%}. <ls>RAGH.</ls> <17,53> ist {#प्रत्यवेक्षानि°#} zu lesen.
+293537c293537
+< 
+---
+> ; 'Ch.' -> 'CH.'
+293539c293539
+< {#प्रत्युपपन्नमति#}¦ <lex>Adj.</lex> {%Geistesgegenwart habend%}. <ab>Nom. abstr.</ab> {#°त्व#} <lex>n.</lex> <ls>ŚĀK. (Ch.)</ls> <103,1.>
+---
+> {#प्रत्युपपन्नमति#}¦ <lex>Adj.</lex> {%Geistesgegenwart habend%}. <ab>Nom. abstr.</ab> {#°त्व#} <lex>n.</lex> <ls>ŚĀK. (CH.)</ls> <103,1.>
+293661c293661
+< 
+---
+> ; '7.' -> '7'
+293663c293663
+< {#प्रत्येतास्#}¦ <ab>Gen.</ab> <ab>Infin.</ab> zu 3, {#इ#} mit {#प्रति#} <ls>AIT. BR.</ls> <6,30,7.> ({#इष्वरः#} zu ergänzen).
+---
+> {#प्रत्येतास्#}¦ <ab>Gen.</ab> <ab>Infin.</ab> zu 3, {#इ#} mit {#प्रति#} <ls>AIT. BR.</ls> <6,30,7> ({#इष्वरः#} zu ergänzen).
+293915c293915
+< 
+---
+> ; '3.' -> '3'
+293917c293917
+< {#प्रथस्नु#}¦ <lex>Adj.</lex> <ls>TBR.</ls> <3,7,5,3.> wohl fehlerhaft für {#घृतस्नु#}. = {#प्रथनशील#} <ab>Comm.</ab>
+---
+> {#प्रथस्नु#}¦ <lex>Adj.</lex> <ls>TBR.</ls> <3,7,5,3> wohl fehlerhaft für {#घृतस्नु#}. = {#प्रथनशील#} <ab>Comm.</ab>
+295095c295095
+< 
+---
+> ; '66. b>' -> '66,b>;'
+295097c295097
+< 1. {#प्रबाहु#}¦ <lex>m.</lex> {%Unterarm%}, <ab>Instr.</ab> {#प्रबाहुवा#} ved. <ls>MAHĀBH.</ls> <7,66. b> richtig {#प्र꣫ बाह꣫वा#}.
+---
+> 1. {#प्रबाहु#}¦ <lex>m.</lex> {%Unterarm%}, <ab>Instr.</ab> {#प्रबाहुवा#} ved. <ls>MAHĀBH.</ls> <7,66,b>; richtig {#प्र꣫ बाह꣫वा#}.
+295539c295539
+< 
+---
+> ; '34.>' -> '34>,'
+295541c295541
+< {#प्रभूतत्व#}¦ <lex>n.</lex> —1) {%das Hinreichen%} <ls>KĀTY. ŚR.</ls> <8,8,34.> <ab>v. l.</ab> für {#प्रभूत्व#}. —2) {%Menge, grosse Anzahl%}.
+---
+> {#प्रभूतत्व#}¦ <lex>n.</lex> —1) {%das Hinreichen%} <ls>KĀTY. ŚR.</ls> <8,8,34>, <ab>v. l.</ab> für {#प्रभूत्व#}. —2) {%Menge, grosse Anzahl%}.
+296044c296044
+< 
+---
+> ; '12.' -> '12'
+296046c296046
+< {#प्रमादचारिन्#}¦ <lex>Adj.</lex> {%fahrlässig zu Werke gehend%} <ls>KĀRAṆḌ.</ls> <37,12.> ({#प्रमोद°#} gedr.).
+---
+> {#प्रमादचारिन्#}¦ <lex>Adj.</lex> {%fahrlässig zu Werke gehend%} <ls>KĀRAṆḌ.</ls> <37,12> ({#प्रमोद°#} gedr.).
+296100c296100
+< 
+---
+> ;'<ls>VP.</ls> <2,5,251.>' -> '<ls>VP.²</ls> <5,251.>'
+296102c296102
+< {#प्रमित#}¦ —1) <lex>Adj.</lex> <ab>s. u.</ab> 3. {#मा#} mit {#प्र#}. —2) <lex>m.</lex> <ab>N. pr.</ab> eines Lehrers <ls>VP.</ls> <2,5,251.> <ab>v. l.</ab> {#प्रमति#}.
+---
+> {#प्रमित#}¦ —1) <lex>Adj.</lex> <ab>s. u.</ab> 3. {#मा#} mit {#प्र#}. —2) <lex>m.</lex> <ab>N. pr.</ab> eines Lehrers <ls>VP.²</ls> <5,251.> <ab>v. l.</ab> {#प्रमति#}.
+298070c298070
+< 
+---
+> ; '15.>' -> '15>,'
+298072c298072
+< {#प्रवेरय्#}¦, {#°यति#} {%schleudern in%} (<ab>Acc.</ab>) <ls>MBH.</ls> <7,2,15.> <ab>v. l.</ab> {#प्रवेरित#} {%geschleudert, geworfen%}.
+---
+> {#प्रवेरय्#}¦, {#°यति#} {%schleudern in%} (<ab>Acc.</ab>) <ls>MBH.</ls> <7,2,15>, <ab>v. l.</ab> {#प्रवेरित#} {%geschleudert, geworfen%}.
+300015c300015
+< 
+---
+> ; '11.' -> '11'
+300017c300017
+< {#प्रह्लादनीय#}¦ <lex>Adj.</lex> {%erfrischend, erquickend%} <ls>LALIT.</ls> <59,11.> ({#प्रह्ला°#} gedr.).
+---
+> {#प्रह्लादनीय#}¦ <lex>Adj.</lex> {%erfrischend, erquickend%} <ls>LALIT.</ls> <59,11> ({#प्रह्ला°#} gedr.).
+300793c300793
+< 
+---
+> ; '7.' -> '7'
+300795c300795
+< {#प्राच#}¦ <lex>m.</lex> <ls>TĀṆḌYA-BR.</ls> <1,9,7.> angeblich = {#प्र्कर्षेणरक्षकः#} (dieses wäre {#प्राव#}), Richtig {#प्रवा#}.
+---
+> {#प्राच#}¦ <lex>m.</lex> <ls>TĀṆḌYA-BR.</ls> <1,9,7> angeblich = {#प्र्कर्षेणरक्षकः#} (dieses wäre {#प्राव#}), Richtig {#प्रवा#}.
+300953c300953
+< 
+---
+> ; 'Kāṇva.' -> 'KĀṆVA'
+300955c300955
+< {#प्राचीनाववीति꣫न्#}¦ <lex>Adj.</lex> = {#प्राचीनावीति꣫न्#} <ls>ŚAT. BR. (Kāṇva.-Rec.)</ls> <2,4,2,2. 9.>
+---
+> {#प्राचीनाववीति꣫न्#}¦ <lex>Adj.</lex> = {#प्राचीनावीति꣫न्#} <ls>ŚAT. BR. (KĀṆVA-Rec.)</ls> <2,4,2,2. 9.>
+314989c314989
+< 
+---
+> ; '<ls>VP.</ls> <2.>' -> '<ls>VP.²</ls>.'
+314991c314991
+< {#बृहत्क्षय#}¦ und {#बृहत्क्षेत्र#} <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten <ls>VP.</ls> <2.> <ab>v. l.</ab> {#बृहत्क्षण#}.
+---
+> {#बृहत्क्षय#}¦ und {#बृहत्क्षेत्र#} <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten <ls>VP.²</ls>. <ab>v. l.</ab> {#बृहत्क्षण#}.
+316849c316849
+< 
+---
+> ; '<ls>AV. ĀRYAV.</ls>' -> '<ls>AV.</ls> <ls>ĀRYAV.</ls>'
+316851c316851
+< {#ब्रह्मपलाश#}¦ <lex>m.</lex> <ab>Pl.</ab> {%eine best. Schule des%} <ls>AV. ĀRYAV.</ls> <47,16.> <ab>v. l.</ab> {#ब्राह्म°#}.
+---
+> {#ब्रह्मपलाश#}¦ <lex>m.</lex> <ab>Pl.</ab> {%eine best. Schule des%} <ls>AV.</ls> <ls>ĀRYAV.</ls> <47,16.> <ab>v. l.</ab> {#ब्राह्म°#}.
+316917c316917
+< 
+---
+> ; '4., 4,4.' -> '<4,4,4.>'
+316919c316919
+< {#ब्र꣫ह्मपूत#}¦ <lex>Adj.</lex> —1) {%durch Andacht geklärt%} <ls>ĀPAST. ŚR.</ls> 4., 4,4. —2) {%durch den Gott <is>Brahman</is> geläutert%}.
+---
+> {#ब्र꣫ह्मपूत#}¦ <lex>Adj.</lex> —1) {%durch Andacht geklärt%} <ls>ĀPAST. ŚR.</ls> <4,4,4.> —2) {%durch den Gott <is>Brahman</is> geläutert%}.
+345681c345681
+< 
+---
+> ; '<ls>Vārtt.</ls>' -> '<is>Vārttika</is>'
+345683c345683
+< {#महावार्त्तिक#}¦ <lex>n.</lex> {%das grosses%} <ls>Vārtt.</ls>, Bez. von <is>Kātyāyana's</is> <is>Vārttika</is> zu den <is>Sūtra</is> <is>Pāṇini's</is>.
+---
+> {#महावार्त्तिक#}¦ <lex>n.</lex> {%das grosses%} <is>Vārttika</is>, Bez. von <is>Kātyāyana's</is> <is>Vārttika</is> zu den <is>Sūtra</is> <is>Pāṇini's</is>.
+348650c348650
+< 
+---
+> ; '1879, <S. 811.><ls>Vārtt.</ls>' -> ' <1879, S. 811.> <ls>Vārtt.</ls>'
+348652c348652
+< {#*माठी#}¦ <lex>f.</lex> {%Harnisch, Rüstung%} <ls>Berl. Mon.</ls> 1879, <S. 811.>
+---
+> {#*माठी#}¦ <lex>f.</lex> {%Harnisch, Rüstung%} <ls>Berl. Mon.</ls> <1879, S. 811.> <ls>Vārtt.</ls>
+356643c356643
+< 
+---
+> ; '1,11.' -> '1,11,2'
+356645c356645
+< {#मुरुज#}¦ <ls>PAÑCAR.</ls> <1,11.> fehlerhaft für {#मुरज#}.
+---
+> {#मुरुज#}¦ <ls>PAÑCAR.</ls> <1,11,2> fehlerhaft für {#मुरज#}.
+356971c356971
+< 
+---
+> ; '161.' -> '161,'
+356973c356973
+< {#*मुसलीय#}¦ und {#मुसल्य#} (<ls>HARṢAC.</ls>) <161. 18>) <lex>Adj.</lex> {%verdienend mit einer Keule erschlagen zu werden%}.
+---
+> {#*मुसलीय#}¦ und {#मुसल्य#} (<ls>HARṢAC.</ls>) <161, 18>) <lex>Adj.</lex> {%verdienend mit einer Keule erschlagen zu werden%}.
+361750c361750
+< 
+---
+> ; 'SCHRÖDER.' -> 'SCHRÖDER'
+361752c361752
+< {#मैत्रायणीसंहिता#}¦ <lex>f.</lex> Titel einer <is>Samhitā</is>, die von L. v. <ls>SCHRÖDER.</ls> herausgegeben wird.
+---
+> {#मैत्रायणीसंहिता#}¦ <lex>f.</lex> Titel einer <is>Samhitā</is>, die von L. v. <ls>SCHRÖDER</ls> herausgegeben wird.
+367974c367974
+< 
+---
+> ; 'ŚAKA' -> 'Śaka'
+367976c367976
+< {#यवनेश्वर#}¦ <lex>m.</lex> <ab>N. pr.</ab> —1) {%eines Fürsten der <is>Yavana</is>%} <ls>HARṢAC. (ŚAKA 1936)</ls> <420,12.> —2) eines Astrologen.
+---
+> {#यवनेश्वर#}¦ <lex>m.</lex> <ab>N. pr.</ab> —1) {%eines Fürsten der <is>Yavana</is>%} <ls>HARṢAC. (Śaka 1936)</ls> <420,12.> —2) eines Astrologen.
+374440c374440
+< 
+---
+> ; 'a. 15' -> 'a,15'
+374442c374442
+< {#रङ्गमङ्गल#}¦ —1) <lex>m.</lex> <ab>N. pr.</ab> eines Schauspielers <ls>VṚṢABH.</ls> <258, a. 15.> —2) <lex>n.</lex> {%eine Feierlichkeit auf der Bühne%}.
+---
+> {#रङ्गमङ्गल#}¦ —1) <lex>m.</lex> <ab>N. pr.</ab> eines Schauspielers <ls>VṚṢABH.</ls> <258, a,15.> —2) <lex>n.</lex> {%eine Feierlichkeit auf der Bühne%}.
+385285c385285
+< 
+---
+> ; 'ŚAKA' -> 'Śaka'
+385287c385287
+< {#रुहरुहिका#}¦ (Schol. zu <ls>HARṢAC. [ŚAKA 1936]</ls> <77,1. 85,1. 174,11>) und {#रुहिरुहिका#} <lex>f.</lex> {%Sehnsucht%}.
+---
+> {#रुहरुहिका#}¦ (Schol. zu <ls>HARṢAC. [Śaka 1936]</ls> <77,1. 85,1. 174,11>) und {#रुहिरुहिका#} <lex>f.</lex> {%Sehnsucht%}.
+403580c403580
+< 
+---
+> ; 'NĀRADA.' -> 'NĀRADA'
+403582c403582
+< {#वर्षनक्षत्रसूचक#}¦ <lex>m.</lex> {%ein Wetterprophet und ein Astrolog%} <ls>NĀRADA. (a.)</ls> <2,1,183.>
+---
+> {#वर्षनक्षत्रसूचक#}¦ <lex>m.</lex> {%ein Wetterprophet und ein Astrolog%} <ls>NĀRADA (a.)</ls> <2,1,183.>
+405251c405251
+< 
+---
+> ; several changes
+405253c405253
+< {#वसन्तोत्सव#}¦ <lex>m.</lex> {%das Frühlingsfest 290,15. 292,1%}. <ls>MĀLAV. ed. Calc.</ls> <1,10> (<ab>vgl.</ab> S. 115. fg.).
+---
+> {#वसन्तोत्सव#}¦ <lex>m.</lex> {%das Frühlingsfest%} <290,15. 292,1.> <ls>MĀLAV. ed. Calc.</ls> <1,10> (<ab>vgl.</ab> <S. 115. fg.>).
+410539c410539
+< 
+---
+> ; '<ls>ŚAṂK. zu. BĀDAR.</ls>' -> '<ls>ŚAṂK.</ls> zu <ls>BĀDAR.</ls>'
+410541c410541
+< 2. {#वामनी#}¦ <lex>Adj.</lex> {%Güter bringend%}, Beiw. des <is>Puruṣa</is> im Auge. <ab>Nom. abstr.</ab> {#°त्व#} <lex>n.</lex> <ls>ŚAṂK. zu. BĀDAR.</ls> <4,3,14 (S. 1132, Z. 5)>
+---
+> 2. {#वामनी#}¦ <lex>Adj.</lex> {%Güter bringend%}, Beiw. des <is>Puruṣa</is> im Auge. <ab>Nom. abstr.</ab> {#°त्व#} <lex>n.</lex> <ls>ŚAṂK.</ls> zu <ls>BĀDAR.</ls> <4,3,14 (S. 1132, Z. 5)>
+435161c435161
+< 
+---
+> ;  'a. 24' -> 'a,24'
+435163c435163
+< {#वृषभानुनन्दिनी#}¦ <lex>f.</lex> <ab>Patron.</ab> der <is>Rādhā</is> <ls>VṚṢABH.</ls> <257, a. 24.>
+---
+> {#वृषभानुनन्दिनी#}¦ <lex>f.</lex> <ab>Patron.</ab> der <is>Rādhā</is> <ls>VṚṢABH.</ls> <257, a,24.>
+443747c443747
+< 
+---
+> ; '<ls>ŚAṂK. zu. BĀDAR.</ls>' -> '<ls>ŚAṂK.</ls> zu <ls>BĀDAR.</ls>'
+443749c443749
+< {#व्युत्पत्तिमन्त्#}¦ <lex>Adj.</lex> {%fein gebildet%} (Person) <ls>ŚAṂK. zu. BĀDAR.</ls> <1,1,1 (S. 19, Z. 8)>
+---
+> {#व्युत्पत्तिमन्त्#}¦ <lex>Adj.</lex> {%fein gebildet%} (Person) <ls>ŚAṂK.</ls> zu <ls>BĀDAR.</ls> <1,1,1 (S. 19, Z. 8)>
+450457c450457
+< 
+---
+> ; 'Sch.</ab>' -> 'Sch.</ab>),'
+450459c450459
+< {#शय्योत्थायम्#}¦ <ab>Absol.</ab> {%vom Lager aufspringend%} (<ls>P.</ls> <3,4,52>, <ab>Sch.</ab> {%früh Morgens, sobald man sich vom Lager erhoben hat%}.
+---
+> {#शय्योत्थायम्#}¦ <ab>Absol.</ab> {%vom Lager aufspringend%} (<ls>P.</ls> <3,4,52>, <ab>Sch.</ab>), {%früh Morgens, sobald man sich vom Lager erhoben hat%}.
+452114c452114
+< 
+---
+> ; '1868, <' -> '<1868, '
+452116c452116
+< {#शल्या꣫त्मन्#}¦ <lex>Adj.</lex> {%von stacheliger Natur%} <ls>Mon. d. B. A.</ls> 1868, <S. 238.>
+---
+> {#शल्या꣫त्मन्#}¦ <lex>Adj.</lex> {%von stacheliger Natur%} <ls>Mon. d. B. A.</ls> <1868,S. 238.>
+452676c452676
+< 
+---
+> ; 'KSH' -> 'KṢ'
+452678c452678
+< {#शशिवंश#}¦ <lex>m.</lex> —1) = {#शशाङ्ककुल#}. —2) Titel eines Werkes <ls>SCHÖNBERG, KSH.</ls> <6.>
+---
+> {#शशिवंश#}¦ <lex>m.</lex> —1) = {#शशाङ्ककुल#}. —2) Titel eines Werkes <ls>SCHÖNBERG, KṢ.</ls> <6.>
+455080c455080
+< 
+---
+> ; 'HDSCHRR' -> 'Hdschrr'
+455082c455082
+< {#शा꣫म्बु#}¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes <ab>Pl.</ab> <ls>AV. (HDSCHRR.)</ls> <19,39,5.>
+---
+> {#शा꣫म्बु#}¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes <ab>Pl.</ab> <ls>AV. (Hdschrr.)</ls> <19,39,5.>
+456418c456418
+< 
+---
+> ; 'HDSCHR' -> 'HDSCHR'
+456420c456420
+< {#शाश्वत꣫#}¦ —1) <lex>Adj.</lex> (<lex>f.</lex> {#ई꣫#}), {%stetig, beständig, immerwährend, ununterbrochen, durchgängig, ewig%}. {#श्वती꣫भ्यः#} {#स꣫माभ्यः#}, {#शाश्वतीः#} {#समाः#} und {#शाश्वतम्#} {%für—, auf immer, stets%}. —2) <lex>m.</lex> —a) {%*die Sonne%}. —b) <ab>Bein.</ab> —α) <is>Śiva's</is>. —β) <is>Vyāsa's</is>. —c) <ab>N. pr.</ab> —α) eines Sohnes des <is>Śruta</is>. —β) eines Lexicographen <ls>BHĀVAPR. (HDSCHR.)</ls> <1,199.> —3) *<lex>f.</lex> {#ई#} {%die Erde%}. —4) <lex>n.</lex> —a) {%Beständigkeit, Ewigkeit%}. —b) {%*der Himmelsraum%}.
+---
+> {#शाश्वत꣫#}¦ —1) <lex>Adj.</lex> (<lex>f.</lex> {#ई꣫#}), {%stetig, beständig, immerwährend, ununterbrochen, durchgängig, ewig%}. {#श्वती꣫भ्यः#} {#स꣫माभ्यः#}, {#शाश्वतीः#} {#समाः#} und {#शाश्वतम्#} {%für—, auf immer, stets%}. —2) <lex>m.</lex> —a) {%*die Sonne%}. —b) <ab>Bein.</ab> —α) <is>Śiva's</is>. —β) <is>Vyāsa's</is>. —c) <ab>N. pr.</ab> —α) eines Sohnes des <is>Śruta</is>. —β) eines Lexicographen <ls>BHĀVAPR. (Hdschr.)</ls> <1,199.> —3) *<lex>f.</lex> {#ई#} {%die Erde%}. —4) <lex>n.</lex> —a) {%Beständigkeit, Ewigkeit%}. —b) {%*der Himmelsraum%}.
+457025c457025
+< 
+---
+> ; '' -> ''
+457245c457245
+< 
+---
+> ; '<ls>VP.²</ls> <4,11.>' -> '<ls>VP.</ls> <2,4,11.>'
+457247c457247
+< {#शिखी#}¦ <lex>f.</lex> <ab>N. pr.</ab> eines Flusses. <ls>VP.²</ls> <4,11.>
+---
+> {#शिखी#}¦ <lex>f.</lex> <ab>N. pr.</ab> eines Flusses. <ls>VP.</ls> <2,4,11.>
+458134c458134
+< 
+---
+> ; '<ls>NĀRADA. (A.)</ls>' -> '<ls>NĀRADA (a.)</ls>'
+458136c458136
+< {#शिरोपस्थायिन्#}¦ <lex>Adj.</lex> = {#शिरोवर्तिन्#} <ls>NĀRADA. (A.)</ls> <2,1,269.>
+---
+> {#शिरोपस्थायिन्#}¦ <lex>Adj.</lex> = {#शिरोवर्तिन्#} <ls>NĀRADA (a.)</ls> <2,1,269.>
+488670c488670
+< 
+---
+> ; '477,14' -> '<477,14>'
+488672c488672
+< {#*समन्तदुग्धा#}¦ <lex>f.</lex> {%eine best. Euphorbia%}. {#°दुग्धी#} <lex>f.</lex> = {#स्नुहा#} <ab>Comm.</ab> zu <ls>HARṢAC. (ed. Bomb.)</ls> 477,14.
+---
+> {#*समन्तदुग्धा#}¦ <lex>f.</lex> {%eine best. Euphorbia%}. {#°दुग्धी#} <lex>f.</lex> = {#स्नुहा#} <ab>Comm.</ab> zu <ls>HARṢAC. (ed. Bomb.)</ls> <477,14>.
+492822c492822
+< 
+---
+> ; '<ls>ŚAṂK. zu. BĀDAR.</ls>' -> '<ls>ŚAṂK.</ls> zu <ls>BĀDAR.</ls>'
+492824c492824
+< {#संपिपादयिषितत्व#}¦ <lex>n.</lex> <ab>Nom. abstr.</ab> von {#संपिपाद-यिषित#} {%was man hat vollständig machen wollen%} <ls>ŚAṂK. zu. BĀDAR.</ls> <3,3,41 (S. 933, Z. 9).>
+---
+> {#संपिपादयिषितत्व#}¦ <lex>n.</lex> <ab>Nom. abstr.</ab> von {#संपिपाद-यिषित#} {%was man hat vollständig machen wollen%} <ls>ŚAṂK.</ls> zu <ls>BĀDAR.</ls> <3,3,41 (S. 933, Z. 9).>
+497011c497011,497012
+< 
+---
+> ; '524,2.' -> '<524,2.>'
+> ; '525,17. 18.' -> '<525,17. 18.>'
+497013c497014
+< {#सर्वप्रथमम्#}¦ <ab>Adv.</ab> {%vor Allen, zu allererst%} <ls>LALIT.</ls> <523,14> ({#कस्मायहं#}) zu lesen). 524,2. {#तस्मायहं#} zu lesen). 525,17. 18.
+---
+> {#सर्वप्रथमम्#}¦ <ab>Adv.</ab> {%vor Allen, zu allererst%} <ls>LALIT.</ls> <523,14> ({#कस्मायहं#} zu lesen). <524,2.> ({#तस्मायहं#} zu lesen). <525,17. 18.>
+499083c499084
+< 
+---
+> ; 'KSHEM' -> 'KṢEM' 
+499085c499086
+< {#सल्लद्र#}¦ <lex>m.</lex> {#भल्लट्ट°#} <ab>N. pr.</ab> eines Dichters <ls>SCHÖNBERG, KSHEM.</ls> <8.>
+---
+> {#सल्लद्र#}¦ <lex>m.</lex> {#भल्लट्ट°#} <ab>N. pr.</ab> eines Dichters <ls>SCHÖNBERG, KṢEM.</ls> <8.>
+501803c501804
+< 
+---
+> ; '200. b' -> '200,b'
+501805c501806
+< {#सहस्रभुजध्यानराम#}¦ (!) <lex>m.</lex> Titel <ls>BURNELL, T.</ls> <200. b>. Im Index {#°भुजरामध्यान#} <lex>n.</lex>
+---
+> {#सहस्रभुजध्यानराम#}¦ (!) <lex>m.</lex> Titel <ls>BURNELL, T.</ls> <200, b>. Im Index {#°भुजरामध्यान#} <lex>n.</lex>
+524625c524626
+< 
+---
+> ; '<ls>ŚAṂK. zu. BĀDAR.</ls>' -> '<ls>ŚAṂK.</ls> zu <ls>BĀDAR.</ls>'
+524627c524628
+< {#सूत्रयितव्य#}¦ <lex>Adj.</lex> {%in die Form eines <is>Sūtra</is> zu bringen, als <is>Sūtra</is> darzustellen%} <ls>ŚAṂK. zu. BĀDAR.</ls> <1,1,1 (S. 31, Z. 4).>
+---
+> {#सूत्रयितव्य#}¦ <lex>Adj.</lex> {%in die Form eines <is>Sūtra</is> zu bringen, als <is>Sūtra</is> darzustellen%} <ls>ŚAṂK.</ls> zu <ls>BĀDAR.</ls> <1,1,1 (S. 31, Z. 4).>
+540163c540164
+< 
+---
+> ; 'ipa' -> 'iza';  '<61>' -> '<61,4>'
+540165c540166
+< {#स्वरोचिप#}¦ <ls>MĀRK. P.</ls> <61.> fehlerhaft für {#स्वारोचिष#}.
+---
+> {#स्वरोचिष#}¦ <ls>MĀRK. P.</ls> <61,4> fehlerhaft für {#स्वारोचिष#}.
