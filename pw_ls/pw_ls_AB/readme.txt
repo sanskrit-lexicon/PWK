@@ -145,14 +145,55 @@ cp temp_pw_04.txt /c/xampp/htdocs/cologne/csl-orig/v02/pw/pw.txt
 Installed this as commit 32e0d45258148939c5e82e0d32b9028b1e69ca0b of pw.txt.
 
 # -------------------------------------------------------------
+change_05
+ Applied to temp_pw_04
+ comparing to temp_pw_AB_03.txt, which starts as copy of temp_pw_AB_02.txt
+python updateByLine.py temp_pw_04.txt change_05.txt temp_pw_05.txt
+
+cp temp_pw_05.txt /c/xampp/htdocs/cologne/csl-orig/v02/pw/pw.txt
+
+
+# diffls1: entries where no ls in pw, but with ls in AB
+python diffls1.py temp_pw_04.txt temp_pw_AB_03.txt temp_diffls1_05.txt
+ temp_diffls1_05 feeds into change_05.  85 entries to examine
+
+python diffls1.py temp_pw_05.txt temp_pw_AB_03.txt temp_diffls1_05-rev.txt
+  0 
+python diffls.py temp_pw_05.txt temp_pw_AB_03.txt temp_diffls_05_03.txt
+ 1 remains with #ls in pw == 1
+ 
+# diffls2:  1 pw ls in entry
+python diffls2.py temp_pw_05.txt temp_pw_AB_03.txt temp_diffls2_05_03.txt
+  feed these into change_05
+
+# diffls3:  2 pw ls in entry
+python diffls3.py temp_pw_05.txt temp_pw_AB_03.txt temp_diffls3_05_03.txt
+  feed these into change_05
+Some of these are OK by assertion  (i.e., the comparison logic is known to
+show a difference, but that difference is not material)
+python diffls3.py temp_pw_05.txt temp_pw_AB_03.txt temp_diffls3_05_03-rev.txt
+
+# diffls4:  all remaining differences
+python diffls4.py temp_pw_05.txt temp_pw_AB_03.txt temp_diffls4_05_03.txt
+# diffls4a simplifies the comparisons
+python diffls4a.py temp_pw_05.txt temp_pw_AB_03.txt temp_diffls4a_05_03.txt
+# diffls4bthis is attempt to print fewer lines,
+python diffls4b.py temp_pw_05.txt temp_pw_AB_03.txt temp_diffls4b_05_03.txt
+  feed these into change_05
+Some of these are OK by assertion  (i.e., the comparison logic is known to
+show a difference, but that difference is not material)
+python diffls4b.py temp_pw_05.txt temp_pw_AB_03.txt temp_diffls4b_05_03-rev.txt
+
+
+# -------------------------------------------------------------
 # revisions to pwab_input.txt
-xxcp /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/pw/pywork/pwab/pwab_input.txt pwab_input.txt
-#Revise pwab_input.txt, then copy back
-cp pwab_input.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/pw/pywork/pwab/pwab_input.txt
+xxcp /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/pw/pywork/pwab/pwab_input.txt temp_pwab_input.txt
+#Revise temp_pwab_input.txt, then copy back
+cp temp_pwab_input.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/pw/pywork/pwab/pwab_input.txt
 
 # revisions to pwbib_input.txt
 
-xxcp /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/pw/pywork/pwauth/pwbib_input.txt pwbib_input.txt
-Revise pwbib_input.txt, then copy back
-cp pwbib_input.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/pw/pywork/pwauth/pwbib_input.txt
+xxcp /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/pw/pywork/pwauth/pwbib_input.txt temp_pwbib_input.txt
+Revise temp_pwbib_input.txt, then copy back
+cp temp_pwbib_input.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/pw/pywork/pwauth/pwbib_input.txt
  
