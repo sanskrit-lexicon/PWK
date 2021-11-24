@@ -1,0 +1,38 @@
+; these are literary sources that
+; a) have been mentioned in front matter in PWK lists of sources
+;    e.g. '5001' indicates the author provides this in volume 5.
+; b) Have not been found in the digitiztion pw.txt.
+; List prepared 11/11/2021.
+5001	ALAṂKĀRAR.	Alaṃkārar.	ALAṂKĀRARATNĀKARA des ŚOBHĀKARA, Deccan. Coll. Hdschr. No. 227 (PISCHEL). 
+5002	ALAṂKĀRAS.	Alaṃkāras.	ALAṂKĀRASARVASVA von RUYYAKA, Deccan Coll. Hdschr. No. 231 (PISCHEL). 
+06001.1	AUCITY.	Aucity.	AUCITYĀLAṂKĀRA (R. PISCHEL).
+6002	Bydragen.	Bydragen.	Bydragen (tot de Taal-, Land-en Volkenkunde van Nederlandsch Indie) (H. KERN). 
+2005	BÜHLER,Rep.1872-73.	Bühler,Rep.1872-73.	BÜHLER, Report on Sanskrit Mss. 1872--73. 
+6006	CANDRĀLOKA	Candrāloka	CANDRĀLOKA (R. PISCHEL).
+5032	CHĀNDOGYAP.	Chāndogyap.	CHĀNDOGYAPARIŚIṢṬA nach Citaten in andern Werken (AUFRECHT). 
+5021	DEVĪBHĀG.	Devībhāg.	DEVĪBHĀGAVATAPURĀṆA, Hdschr. (AUFRECHT). 
+5022	DRAVYAŚ.	Dravyaś.	DRAVYAŚUDDHITATTVA, Hdschr. (AUFRECHT). 
+3012	GAṆITA,MADHYĀM(ĀDHYĀYA).	Gaṇita,Madhyām(Ādhyāya).	GAṆITA,MADHYĀM(ĀDHYĀYA)KERN. [unknown literary source]
+1110	HARISV.	Harisv.	HARISVĀMIN. 
+2032	Ind.Str.	Ind.Str.	WEBER, Indische Streifen. 
+5031	KHAṆḌAPR.	Khaṇḍapr.	KHAṆḌAPRAŚASTI im Pandit, Bed. 5 und 6 (AUFRECHT). 
+4007	KIELHORN,Rep.	Kielhorn,Rep.	Report on the search for Sanskrit Mss. in the Bombay Presidency, during the year 1880-81. by F. KIELHORN(ROTH) . 
+3019	KĀTY(ĀYANA).	Kāty(Āyana).	KĀTY(ĀYANA) nach Citaten in verschiedenen juristischen Werken(JOLLY). 
+3020	KĀTY.ŚRĀDDHAK.	Kāty.Śrāddhak.	KĀTYĀYANA'S ŚRĀDDHAKALPASŪTRA (STENZLER). 
+5034	LEUMANN,Aup.Gl.	Leumann,Aup.Gl.	Glossar in. , Das Aupapātika Sūtra, herausgegeben von Dr. ERNST LEUMANN. 
+2048	MAITR.PADDH.	Maitr.Paddh.	PADDHATI ZU MAITR. S. , Hdschr. (v. SCHRÖDER). 
+1188	MAYR,Ind.Erb.	Mayr,Ind.Erb.	Das indische Erbrecht von AUREL MAYR, Wien 1873. 
+3030	PRAJĀPATI	Prajāpati	PRAJĀPATI , nach Citaten in verschiendenen juristischen Werken (JOLLY). 
+5041	PRĀYAŚCITTAV.	Prāyaścittav.	PRĀYAŚCITTAVIVEKA, Hdschr. (AUFRECHT). 
+1238	SADDH.P.4.	Saddh.P.4.	das 4te Kapitel des SADDHARMAPUṆḌARĪKA, lithographirt in Parabole de l'Enfant egare. Par. PH. ED. FOUCAUX. Paris. 1854. 
+6012	SAHṚDAYĀLOKA	Sahṛdayāloka	SAHṚDAYĀLOKA (R. PISCHEL).
+5045	SAṂKṢEPAŚ.	Saṃkṣepaś.	SAṂKṢEPAŚAṂKARAJAYA von MĀDHAVA (AUFRECHT). 
+3036.1	SVAPNAC.	Svapnac.	SVAPNACINTĀMAṆI (PISCHEL).
+5050	VĀMANAP.	Vāmanap.	VĀMANAPURĀṆA, Hdschr. (AUFRECHT). 
+5051	VĀRĀHAP.	Vārāhap.	VĀRĀHAPURĀṆA , Hdschr. (JACOBI). 
+1089	gaṇa.	Gaṇa.	gaṇa im Gaṇapātha zu P. 
+2011	ŚOBH.	Śobh.	ŚOBHANAMUNI'S ŚOBHANASTUTAYAS in Z. d. d. m. G. 32, 509. fgg. (JACOBI). 
+5018	ŚRĪMĀLĀM.	Śrīmālām.	ŚRĪMĀLĀMĀHĀTMYA, Hdschr. (AUFRECHT). 
+6003	ŚĀK.(Kāśm.)	Śāk.(Kāśm.)	ist die von K. BURKHARD in den Sitzungsberichten der phil-hist. Klasse der Kais. Ak. d. Ww. in Wien, Bd. 107, veröffentlichte Kaśmirer Śakuntalā-Handschrift (C. CAPELLER). 
+5016	ŚĀRṄG.	Śārṅg.	ŚĀRṄG. PADDH. , auch nach Mittheilungen von AUFRECHT. 
+5014	ŚĀŚVATA	Śāśvata	ŚĀŚVATA'S ANEKĀRTHASAMUCCAYA, herausgegeben von THEODOR ZACHARIAE. 

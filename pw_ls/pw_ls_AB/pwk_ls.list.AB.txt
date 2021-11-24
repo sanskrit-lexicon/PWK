@@ -1,0 +1,903 @@
+<ls>ĀŚV. ŚR.</ls>
+<ls>ĀŚV. GṚHY. (Bibl. ind.)</ls>
+<ls>ĀŚV. GṚHY. PARIŚ.</ls>
+<ls>ĀŚV. GṚHY.</ls>
+<ls>ĀCĀRĀDARŚA.</ls>
+<ls>ĀJAN.</ls>
+<ls>ĀNANDAG.</ls>
+<ls>ĀNANDAGIRI.</ls>
+<ls>ĀNANDAL.</ls>
+<ls>ĀPAST. ŚR.</ls>
+<ls>ĀPAST. GṚHY.</ls>
+<ls>ĀPAST. GAUT.</ls>
+<ls>ĀPAST.</ls>
+<ls>ĀRṢ. BR.</ls>
+<ls>ĀRUṆ. UP.</ls>
+<ls>ĀRYABH.</ls>
+<ls>ĀRYAV.</ls>
+<ls>ĀTMOPAN.</ls>
+<ls>ĪŚOP.</ls>
+<ls>ŚĀŚVATA.</ls>
+<ls>ŚĀŚVATA</ls>
+<ls>ŚĀṄKH. ĀR.</ls>
+<ls>ŚĀṄKH. ŚR.</ls>
+<ls>ŚĀṄKH. BR.</ls>
+<ls>ŚĀṄKH. GṚHY.</ls>
+<ls>ŚĀṄKH.</ls>
+<ls>ŚĀṆḌ.</ls>
+<ls>ŚĀK. (CH.)</ls>
+<ls>ŚĀK. (Ch.)</ls>
+<ls>ŚĀK. (PISCH.)</ls>
+<ls>ŚĀK. (Pisch.)</ls>
+<ls>ŚĀK. CH.</ls>
+<ls>ŚĀK. Ch.</ls>
+<ls>ŚĀK. PISCH.</ls>
+<ls>ŚĀK. ed. PISCH.</ls>
+<ls>ŚĀK. ed. PREMAC.</ls>
+<ls>ŚĀK.</ls>
+<ls>ŚĀKTĀN.</ls>
+<ls>ŚĀNT.</ls>
+<ls>ŚĀNTIŚ.</ls>
+<ls>ŚĀRṄG. PADDH.</ls>
+<ls>ŚĀRṄG. S.</ls>
+<ls>ŚĀRṄG. SAṂH.</ls>
+<ls>ŚĪLĀṄKA.</ls>
+<ls>ŚŪDRADH.</ls>
+<ls>ŚŪLAPĀṆĪ</ls>
+<ls>ŚAṂK. VIJ.</ls>
+<ls>ŚAṂK. zu BĀDAR.</ls>
+<ls>ŚAṂK. zu. BĀDAR.</ls>
+<ls>ŚAṂK. zu. BĀDAR</ls>
+<ls>ŚAṂK.</ls>
+<ls>ŚAṂKARA</ls>
+<ls>ŚABDAC.</ls>
+<ls>ŚAT. BR. (Kāṇva.-Rec.)</ls>
+<ls>ŚAT. BR.</ls>
+<ls>ŚATR.</ls>
+<ls>ŚIŚ.</ls>
+<ls>ŚIKṢĀ.</ls>
+<ls>ŚIKṢĀ</ls>
+<ls>ŚIRA-UP.</ls>
+<ls>ŚIVA-P.</ls>
+<ls>ŚKDR. Hdschr.</ls>
+<ls>ŚKDR.</ls>
+<ls>ŚRĪP.</ls>
+<ls>ŚRĪPATI.</ls>
+<ls>ŚR.</ls>
+<ls>ŚRUT. (BR.)</ls>
+<ls>ŚRUT. (ed. EWALD)</ls>
+<ls>ŚRUT.</ls>
+<ls>ŚUKAS.</ls>
+<ls>ŚUKRAN.</ls>
+<ls>ŚULBAS.</ls>
+<ls>ŚVETĀŚV. UP.</ls>
+<ls>Śaṃk. zu BĀDAR.</ls>
+<ls>Śaṃk. zu. Bādar.</ls>
+<ls>Śiś.</ls>
+<ls>Śr.</ls>
+<ls>Śukas.</ls>
+<ls>ṚṢIMAṆḌALASTOTRA.</ls>
+<ls>Ṛ.</ls>
+<ls>ṚGVIDHĀNA.</ls>
+<ls>ṚKT.</ls>
+<ls>ṚTUS.</ls>
+<ls>ṚV. PRĀT.</ls>
+<ls>ṚV. ed. M.</ls>
+<ls>ṚV.</ls>
+<ls>ṢAḌGURUŚIṢYA</ls>
+<ls>ṢAḌV. BR.</ls>
+<ls>AŚVAV.</ls>
+<ls>AGNI-P.</ls>
+<ls>AINSLIE.</ls>
+<ls>AIT. ĀR.</ls>
+<ls>AIT. BR.</ls>
+<ls>AIT. UP.</ls>
+<ls>AIT.</ls>
+<ls>AK.</ls>
+<ls>ALAṂKĀRAŚ.</ls>
+<ls>ALAṂKĀRAT.</ls>
+<ls>ALAṂKĀRAV.</ls>
+<ls>AMṚT. UP.</ls>
+<ls>ANARGHAR.</ls>
+<ls>ANTYEṢṬIK.</ls>
+<ls>ANUKR. zu ṚV.</ls>
+<ls>ANUPADA.</ls>
+<ls>ANUPADAS.</ls>
+<ls>APARĀRKA.</ls>
+<ls>ARJ.</ls>
+<ls>ASAHĀYA.</ls>
+<ls>ASAHĀYA</ls>
+<ls>ATHARVAŚIKHOP.</ls>
+<ls>ATHARVAPADDH.</ls>
+<ls>AUFRECHT.</ls>
+<ls>AUFRECHT</ls>
+<ls>AUPAMANYAVA</ls>
+<ls>AV. (HDSCHRR.)</ls>
+<ls>AV. ANUKR.</ls>
+<ls>AV. JYOT.</ls>
+<ls>AV. JYOTIṢA.</ls>
+<ls>AV. PADDH</ls>
+<ls>AV. PAIPP.</ls>
+<ls>AV. PAR.</ls>
+<ls>AV. PARIŚ.</ls>
+<ls>AV. PRĀT.</ls>
+<ls>AV. PRĀYAŚC.</ls>
+<ls>AV.</ls>
+<ls>BÜHL. GUZ.</ls>
+<ls>BÜHLER, Rep.</ls>
+<ls>BÜHLER.</ls>
+<ls>BÜHLER</ls>
+<ls>BĀDAR.</ls>
+<ls>BĀLAR.</ls>
+<ls>Bādar.</ls>
+<ls>Bālar.</ls>
+<ls>BĪJAG.</ls>
+<ls>BṚH. ĀR. UP.</ls>
+<ls>BṚHADD.</ls>
+<ls>BṚHANM.</ls>
+<ls>BṚHASP.</ls>
+<ls>BṚHASPATI</ls>
+<ls>B. A. J.</ls>
+<ls>BAUDH. GṚHY. PARIŚ.</ls>
+<ls>BAUDH.</ls>
+<ls>BENF. Chr.</ls>
+<ls>BENFEY</ls>
+<ls>BHĀṢĀP.</ls>
+<ls>BHĀG. P. ed. BURN.</ls>
+<ls>BHĀG. P. ed. Bomb.</ls>
+<ls>BHĀG. P.</ls>
+<ls>BHĀG. ed. Bomb.</ls>
+<ls>BHĀG.</ls>
+<ls>BHĀGURI</ls>
+<ls>BHĀM. V.</ls>
+<ls>BHĀM.</ls>
+<ls>BHĀR. NĀṬYAŚ.</ls>
+<ls>BHĀRADVĀJA</ls>
+<ls>BHĀVAPR. (HDSCHR.)</ls>
+<ls>BHĀVAPR. (Hdschr.)</ls>
+<ls>BHĀVAPR. Hdschr.</ls>
+<ls>BHĀVAPR.</ls>
+<ls>BH.</ls>
+<ls>BHAṬṬ.</ls>
+<ls>BHADRAB.</ls>
+<ls>BHAG.</ls>
+<ls>BHAR. NĀṬYAŚ.</ls>
+<ls>BHAR.</ls>
+<ls>BHARAṬAKA.</ls>
+<ls>BHARATA</ls>
+<ls>BHAVIṢYAP.</ls>
+<ls>BHAVIṢYOTT. P.</ls>
+<ls>BHOJA-CAR.</ls>
+<ls>BHOJA-PR.</ls>
+<ls>BLOOMFIELD</ls>
+<ls>BRĀHMAṆ.</ls>
+<ls>BRĀHMAṆA.</ls>
+<ls>BRĀHMAṆA</ls>
+<ls>BR.</ls>
+<ls>BRAHMA-P.</ls>
+<ls>BRAHMABINDŪP.</ls>
+<ls>BRAHMAS.</ls>
+<ls>BRAHMAVAIV. P.</ls>
+<ls>BRAHMOP.</ls>
+<ls>BURN. Intr.</ls>
+<ls>BURNELL, T.</ls>
+<ls>BURNELL, VAṂŚABR.</ls>
+<ls>BURNOUF.</ls>
+<ls>Beitr. z. K. d. ig. Spr.</ls>
+<ls>Berl. Mon.</ls>
+<ls>Bhāvapr.</ls>
+<ls>Bibl. ind.</ls>
+<ls>Bl.</ls>
+<ls>CĀṆ.</ls>
+<ls>CŪLIKOP.</ls>
+<ls>C. H. TAWNEY, Vol. I</ls>
+<ls>CAṆḌAK.</ls>
+<ls>CAṆḌIDĀSA.</ls>
+<ls>CAITANY.</ls>
+<ls>CAKR. zu. SUŚR.</ls>
+<ls>CAKR.</ls>
+<ls>CAKRADATTA</ls>
+<ls>CAMPAKA.</ls>
+<ls>CANDRAGRAH.</ls>
+<ls>CANTOR.</ls>
+<ls>CARAKA. (ed. Calc.)</ls>
+<ls>CARAKA. ed. Calc.</ls>
+<ls>CARAKA.</ls>
+<ls>CAURAP. (A.)</ls>
+<ls>CAURAP. (ed. SOLF)</ls>
+<ls>CAURAP.</ls>
+<ls>CHĀND. UP.</ls>
+<ls>CHANDOGAPARIŚ.</ls>
+<ls>CHANDOM.</ls>
+<ls>CHILDERS.</ls>
+<ls>CHR.</ls>
+<ls>COLEBR. Alg.</ls>
+<ls>COLEBR. Misc. Ess.</ls>
+<ls>COWELL</ls>
+<ls>CSOMA.</ls>
+<ls>CUNNINGHAM, Arch. Surv.</ls>
+<ls>Caṇḍak.</ls>
+<ls>Caraka.</ls>
+<ls>Cat. ALLAR.</ls>
+<ls>Cat. C. PR.</ls>
+<ls>Cat. GUYAR.</ls>
+<ls>Cat. KIELH.</ls>
+<ls>Cat. NW. PR.</ls>
+<ls>Cat. WILLMOT.</ls>
+<ls>Catal. of Skt. Mss.</ls>
+<ls>Chr.</ls>
+<ls>DĀRILA</ls>
+<ls>DĀY.</ls>
+<ls>DAŚAK. (1925)</ls>
+<ls>DAŚAK. (WILSON)</ls>
+<ls>DAŚAK. (ed. W.)</ls>
+<ls>DAŚAK. (ed. WILSON)</ls>
+<ls>DAŚAK. [1925]</ls>
+<ls>DAŚAK. ed. WILSON.</ls>
+<ls>DAŚAK.</ls>
+<ls>DAŚAR.</ls>
+<ls>DAIV. BR.</ls>
+<ls>DAMAYANTĪK.</ls>
+<ls>DARPAD.</ls>
+<ls>DATTAKAŚ.</ls>
+<ls>DEŚĪN.</ls>
+<ls>DELBRÜCK.</ls>
+<ls>DELBRÜCK</ls>
+<ls>DEVALA.</ls>
+<ls>DEVATĀDHY. BRĀHM.</ls>
+<ls>DHĀTUP.</ls>
+<ls>DHŪRTAN.</ls>
+<ls>DHŪRTAS. ed. Calc.</ls>
+<ls>DHŪRTAS.</ls>
+<ls>DH. V.</ls>
+<ls>DHAMMAP.</ls>
+<ls>DHANURV.</ls>
+<ls>DHANV.</ls>
+<ls>DHYĀNAB. UP.</ls>
+<ls>DIVYĀVAD.</ls>
+<ls>DONNER, PIṆḌ.</ls>
+<ls>DRAUP.</ls>
+<ls>DRAVYAV.</ls>
+<ls>DURGĀDĀSA. zu. VOP.</ls>
+<ls>DURGA. zu. NIR.</ls>
+<ls>DURGA</ls>
+<ls>EGGELING.</ls>
+<ls>EITEL, Chin. B.</ls>
+<ls>FÜHRER, BṚH.</ls>
+<ls>FOUCAUX.</ls>
+<ls>Gött. Nachr. 1876</ls>
+<ls>Gött. Nachr. 1880</ls>
+<ls>GĀR. UP.</ls>
+<ls>Gāthā</ls>
+<ls>GĪT.</ls>
+<ls>Gīt.</ls>
+<ls>GṚHYĀS. (ed. BLOOMFIELD)</ls>
+<ls>GṚHYĀS.</ls>
+<ls>Gṛhyās.</ls>
+<ls>G. GORR.</ls>
+<ls>GAṆ. BHAGRAHAY.</ls>
+<ls>GAṆAR.</ls>
+<ls>GAṆIT. ADHIM.</ls>
+<ls>GAṆIT. BHAGAṆ.</ls>
+<ls>GAṆIT. BHAGRAH.</ls>
+<ls>GAṆIT. GRAHĀN.</ls>
+<ls>GAṆIT. GRAH.</ls>
+<ls>GAṆIT. GRAHAY.</ls>
+<ls>GAṆIT. KAKṢĀDH.</ls>
+<ls>GAṆIT. KAKṢ.</ls>
+<ls>GAṆIT. PARVASAṂBH.</ls>
+<ls>GAṆIT. PRATYABD.</ls>
+<ls>GAṆIT. SPAṢṬ.</ls>
+<ls>GAṆIT. TRIPR.</ls>
+<ls>GAṆIT.</ls>
+<ls>GAṆITA, CANDRAGR.</ls>
+<ls>GAṆITA, GRAHACCH.</ls>
+<ls>GAṆITA, SŪRYAGR.</ls>
+<ls>GAL.</ls>
+<ls>GARBE</ls>
+<ls>GARBHOP.</ls>
+<ls>GARGA.</ls>
+<ls>GARGA</ls>
+<ls>GAUḌAP.</ls>
+<ls>GAUT. BĀLAR.</ls>
+<ls>GAUT.</ls>
+<ls>GELDNER</ls>
+<ls>GILD, Bibl.</ls>
+<ls>GOBH. ŚRĀDDHAK.</ls>
+<ls>GOBH. (KNAUER.)</ls>
+<ls>GOBH. (ed. KNAUER.)</ls>
+<ls>GOBH.</ls>
+<ls>GOLĀDHY. BHUV.</ls>
+<ls>GOLĀDHY.</ls>
+<ls>GOLD.</ls>
+<ls>GOP. BR.</ls>
+<ls>GOVARDH.</ls>
+<ls>GOVINDĀN.</ls>
+<ls>GRASSMANN</ls>
+<ls>Gaṇit.</ls>
+<ls>Gaut.</ls>
+<ls>Gobh.</ls>
+<ls>Gorh.</ls>
+<ls>Govindān. zu BĀDAR.</ls>
+<ls>HĀLA.</ls>
+<ls>HĀRĪTA.</ls>
+<ls>HĀR.</ls>
+<ls>HĀSY.</ls>
+<ls>H. ś.</ls>
+<ls>H. an.</ls>
+<ls>H.</ls>
+<ls>HAṂSOP.</ls>
+<ls>HAEB. Anth.</ls>
+<ls>HALĀY.</ls>
+<ls>HALL.</ls>
+<ls>HALL</ls>
+<ls>HANUM. UP.</ls>
+<ls>HARṢAC. (ŚAKA 1936)</ls>
+<ls>HARṢAC. (Śaka 1936)</ls>
+<ls>HARṢAC. (1936)</ls>
+<ls>HARṢAC. (B.)</ls>
+<ls>HARṢAC. (ed. Bomb.)</ls>
+<ls>HARṢAC. (ed. K.)</ls>
+<ls>HARṢAC. [ŚAKA 1936]</ls>
+<ls>HARṢAC. [Śaka 1936]</ls>
+<ls>HARṢAC. [ed. Bomb.]</ls>
+<ls>HARṢAC. ed. Bomb.</ls>
+<ls>HARṢAC.</ls>
+<ls>HARADATTA</ls>
+<ls>HARIV. LANGL.</ls>
+<ls>HARIV.</ls>
+<ls>HAUG, Acc.</ls>
+<ls>HEMĀDRI.</ls>
+<ls>HEM. PAR.</ls>
+<ls>HEM. Pr. Gr. ed. Bomb.</ls>
+<ls>HEM. Pr. Gr. ed. PISCHEL.</ls>
+<ls>HEM. Pr. Gr.</ls>
+<ls>HEM. YOG.</ls>
+<ls>HEM. YOGAŚ.</ls>
+<ls>HIḌ.</ls>
+<ls>HILLEBR. N.</ls>
+<ls>HIOUEN-THSANG.</ls>
+<ls>HIRAṆYAKEŚIN</ls>
+<ls>HIT. ed. JOHNS.</ls>
+<ls>HIT.</ls>
+<ls>HODGSON, Ess.</ls>
+<ls>HODGSON, Essays.</ls>
+<ls>HULTZSCH.</ls>
+<ls>Hariv.</ls>
+<ls>Hemādri.</ls>
+<ls>Ind. Antiq.</ls>
+<ls>Ind. St.</ls>
+<ls>Ind.</ls>
+<ls>JĀBĀLOP.</ls>
+<ls>JĀTAKAM.</ls>
+<ls>J. A. O. S.</ls>
+<ls>J. A. S. Beng.</ls>
+<ls>J. A. S.</ls>
+<ls>J. R. A. S.</ls>
+<ls>JAṬĀDH.</ls>
+<ls>JACOBI, KALPAS. Intr.</ls>
+<ls>JACOBI.</ls>
+<ls>JACOBI</ls>
+<ls>JAIM. BHĀR.</ls>
+<ls>JAIM. I.</ls>
+<ls>JAIM.</ls>
+<ls>JAIMINI.</ls>
+<ls>JOLLY, Schuld.</ls>
+<ls>JOLLY, Tagore</ls>
+<ls>JOLLY</ls>
+<ls>JYOT.</ls>
+<ls>Jaim.</ls>
+<ls>KĀŚĪKH.</ls>
+<ls>KĀŚ.</ls>
+<ls>KĀŚYAPA</ls>
+<ls>KĀṆḌ.</ls>
+<ls>KĀṆVA-REC.</ls>
+<ls>KĀṬH. GṚHY.</ls>
+<ls>KĀṬH.</ls>
+<ls>KĀD. (Śaka 1793)</ls>
+<ls>KĀD. (1793)</ls>
+<ls>KĀD. (ed. Bomb.)</ls>
+<ls>KĀD. ed. Bomb.</ls>
+<ls>KĀD.</ls>
+<ls>KĀLAC.</ls>
+<ls>KĀLIDĀSA</ls>
+<ls>KĀM. NĪTIS.</ls>
+<ls>KĀRAṆḌ.</ls>
+<ls>KĀRIKĀ</ls>
+<ls>KĀT.</ls>
+<ls>KĀTANTRA.</ls>
+<ls>KĀTY. ŚR. PADDH.</ls>
+<ls>KĀTY. ŚR.</ls>
+<ls>KĀTY. DH.</ls>
+<ls>KĀTY. KARM.</ls>
+<ls>KĀTY. SNĀNAS.</ls>
+<ls>KĀTY.</ls>
+<ls>KĀVYĀD.</ls>
+<ls>KĀVYĀL.</ls>
+<ls>KĀVYAPR.</ls>
+<ls>Kāṭh.</ls>
+<ls>Kābaṇḍ.</ls>
+<ls>Kād.</ls>
+<ls>Kāraṇḍ.</ls>
+<ls>Kāraṇd.</ls>
+<ls>Kāth.</ls>
+<ls>KṚṢIS.</ls>
+<ls>KṢEM.</ls>
+<ls>KṢITĪŚ.</ls>
+<ls>KṢURIKOP.</ls>
+<ls>KAṆṬHAŚR. UP.</ls>
+<ls>KAṆ.</ls>
+<ls>KAṬHOP.</ls>
+<ls>KAHĪRASV.</ls>
+<ls>KAIVALYOP.</ls>
+<ls>KAIY.</ls>
+<ls>KAIYAṬA</ls>
+<ls>KAIYY.</ls>
+<ls>KALPAS.</ls>
+<ls>KAMALĀKARA</ls>
+<ls>KAP. (BALL.)</ls>
+<ls>KAP. S.</ls>
+<ls>KAP.</ls>
+<ls>KARMAPR.</ls>
+<ls>KATHĀRṆAVA</ls>
+<ls>KATHĀS.</ls>
+<ls>KAUŚ.</ls>
+<ls>KAUṢ. ĀR.</ls>
+<ls>KAUṢ. UP.</ls>
+<ls>KAUṢ. UP</ls>
+<ls>KAUTUKAR.</ls>
+<ls>KAUTUKAS.</ls>
+<ls>KENOP.</ls>
+<ls>KERN</ls>
+<ls>KHILA.</ls>
+<ls>KIELH. Rep. (1881)</ls>
+<ls>KIELHORN</ls>
+<ls>KIR.</ls>
+<ls>KLUGE</ls>
+<ls>KNAUER</ls>
+<ls>KOSEG. Ausg.</ls>
+<ls>KUHN'S. Beitr.</ls>
+<ls>KUHN'S. Z.</ls>
+<ls>KUHN</ls>
+<ls>KULĀRṆAVA.</ls>
+<ls>KULL. zu M.</ls>
+<ls>KULL.</ls>
+<ls>KUMĀRAS. (1868)</ls>
+<ls>KUMĀRAS.</ls>
+<ls>KUMĀRASV.</ls>
+<ls>KUMĀRILA.</ls>
+<ls>KUSUM.</ls>
+<ls>KUVALAY.</ls>
+<ls>Kathās.</ls>
+<ls>Kern.</ls>
+<ls>Kuhn's. Z.</ls>
+<ls>LĀṬY.</ls>
+<ls>LĪLĀV.</ls>
+<ls>L. K.</ls>
+<ls>LA.</ls>
+<ls>LAGHUK.</ls>
+<ls>LALIT.</ls>
+<ls>LALLA</ls>
+<ls>LANMAN</ls>
+<ls>LIA.</ls>
+<ls>LOKAPR.</ls>
+<ls>Lot. da la. b. l.</ls>
+<ls>Lot. de la b. l.</ls>
+<ls>MÜLLER, SL.</ls>
+<ls>MĀṆḌ. ŚIKṢĀ.</ls>
+<ls>MĀṆḌ. UP.</ls>
+<ls>MĀṆḌAVYA.</ls>
+<ls>MĀDH. KĀLAN.</ls>
+<ls>MĀDHAVĪYADHĀT.</ls>
+<ls>MĀDHAVĪYADHĀTUVṚTTI.</ls>
+<ls>MĀHABH.</ls>
+<ls>MĀLATĪM. (ed. Bomb.)</ls>
+<ls>MĀLATĪM. ed. Bomb.</ls>
+<ls>MĀLATĪM.</ls>
+<ls>MĀLAV. (ed. BOLL.)</ls>
+<ls>MĀLAV. ed. BOLL.</ls>
+<ls>MĀLAV. ed. Bomb.</ls>
+<ls>MĀLAV. ed. Calc.</ls>
+<ls>MĀLAV.</ls>
+<ls>MĀN. ŚR.</ls>
+<ls>MĀN. GṚHY.</ls>
+<ls>MĀN. K. S.</ls>
+<ls>MĀNAVA</ls>
+<ls>MĀRK. P.</ls>
+<ls>MṚCCH.</ls>
+<ls>M. (ed. JOLLY)</ls>
+<ls>M. K. S.</ls>
+<ls>M. MÜLLER'S Ausg. des ṚV.</ls>
+<ls>M. MÜLLER, Ren.</ls>
+<ls>M. MÜLLER.</ls>
+<ls>M.</ls>
+<ls>MAŚ.</ls>
+<ls>MAṆIMĀLĀ.</ls>
+<ls>MAṆITTHA</ls>
+<ls>MAD.</ls>
+<ls>MADANAV.</ls>
+<ls>MADHUS.</ls>
+<ls>MADHYAM.</ls>
+<ls>MAGAVY.</ls>
+<ls>MAHĀŚ.</ls>
+<ls>MAHĀBH. (K.)</ls>
+<ls>MAHĀBH. [K.]</ls>
+<ls>MAHĀBH.</ls>
+<ls>MAHĀN.</ls>
+<ls>MAHĀVĪRAC.</ls>
+<ls>MAHĀVASTU. ed. SENART.</ls>
+<ls>MAHĀVASTU.</ls>
+<ls>MAHĪDH.</ls>
+<ls>MAITR. S.</ls>
+<ls>MAITRYUP.</ls>
+<ls>MALLIKĀMĀRUTA.</ls>
+<ls>MALLIN.</ls>
+<ls>MANTRABR.</ls>
+<ls>MANU.</ls>
+<ls>MANU</ls>
+<ls>MAT. med.</ls>
+<ls>MATSYAP.</ls>
+<ls>MBH. ed. Bomb.</ls>
+<ls>MBH. ed. Calc.</ls>
+<ls>MBH. ed. Vardh.</ls>
+<ls>MBH. ed. Vardham.</ls>
+<ls>MBH.</ls>
+<ls>MED. ṣ.</ls>
+<ls>MED. avy.</ls>
+<ls>MED. dh.</ls>
+<ls>MED. g.</ls>
+<ls>MED. j.</ls>
+<ls>MED. k.</ls>
+<ls>MED. m.</ls>
+<ls>MED. n.</ls>
+<ls>MED. p.</ls>
+<ls>MED. r.</ls>
+<ls>MED. s.</ls>
+<ls>MED. t.</ls>
+<ls>MED. th.</ls>
+<ls>MED. v.</ls>
+<ls>MED. y.</ls>
+<ls>MED.</ls>
+<ls>MEDHĀT.</ls>
+<ls>MEGH.</ls>
+<ls>MIT.</ls>
+<ls>MOLESW.</ls>
+<ls>MUṆḌ. UP.</ls>
+<ls>MUDRĀR. (1926)</ls>
+<ls>MUDRĀR. (a. A.)</ls>
+<ls>MUDRĀR. (n. A.)</ls>
+<ls>MUDRĀR.</ls>
+<ls>MUIR. ST.</ls>
+<ls>Madanav.</ls>
+<ls>Mahābh.</ls>
+<ls>Mat. med.</ls>
+<ls>Mbh.</ls>
+<ls>Mel. asiat.</ls>
+<ls>Mon. d. B. A.</ls>
+<ls>Monatsberichte d. Kön. Pr. Ak. d. Ww.</ls>
+<ls>NÖLDEKE</ls>
+<ls>NĀDAB. UP.</ls>
+<ls>NĀGĀN.</ls>
+<ls>NĀR.</ls>
+<ls>NĀRADA (a.)</ls>
+<ls>NĀRADA. (A.)</ls>
+<ls>NĀRADA. (a).</ls>
+<ls>NĀRADA. (a.)</ls>
+<ls>NĀRADA. [A.]</ls>
+<ls>NĀRADA.</ls>
+<ls>NĪL.</ls>
+<ls>NĪLAK.</ls>
+<ls>NĪLAR. UP.</ls>
+<ls>NṚS. TĀP. UP.</ls>
+<ls>NṚS. UP. (Bibl. ind.)</ls>
+<ls>NṚS. UP.</ls>
+<ls>NAIṢ.</ls>
+<ls>NAIGH.</ls>
+<ls>NALOD.</ls>
+<ls>NERIOSENGH.</ls>
+<ls>NIDĀNAS.</ls>
+<ls>NIGH. PR. KAUŚ.</ls>
+<ls>NIGH. PR.</ls>
+<ls>NIGH.</ls>
+<ls>NIRṆAYAS.</ls>
+<ls>NIR.</ls>
+<ls>NIRGHAṆṬU</ls>
+<ls>NYĀYAM.</ls>
+<ls>NYĀYAS. (1828)</ls>
+<ls>NYĀYAS. (1829)</ls>
+<ls>NYĀYAS.</ls>
+<ls>NY. K.</ls>
+<ls>OLD. Buddha.</ls>
+<ls>OPP. CAT.</ls>
+<ls>OPP.</ls>
+<ls>OPPERT</ls>
+<ls>PĀṆINI.</ls>
+<ls>PĀRŚVAN.</ls>
+<ls>PĀR. GṚHY.</ls>
+<ls>P. W.</ls>
+<ls>P.</ls>
+<ls>PAÑCĀŚIKĀ (ed. SOLF)</ls>
+<ls>PAÑCAD.</ls>
+<ls>PAÑCAR.</ls>
+<ls>PAÑCAT. ed. Bomb.</ls>
+<ls>PAÑCAT. ed. KOSEG.</ls>
+<ls>PAÑCAT. ed. orn.</ls>
+<ls>PAÑCAT.</ls>
+<ls>PADDH.</ls>
+<ls>PADMA-P.</ls>
+<ls>PADYĀVALĪ.</ls>
+<ls>PAIṬHĪNASI</ls>
+<ls>PANDIT.</ls>
+<ls>PARĀŚ.</ls>
+<ls>PARĀŚARA.</ls>
+<ls>PARĀŚARASMṚTI.</ls>
+<ls>PARAMĀRTHA.</ls>
+<ls>PARAMAHAṂSOP.</ls>
+<ls>PARIBHĀṢENDUŚEKHARA</ls>
+<ls>PARIBH.</ls>
+<ls>PARSANNAR.</ls>
+<ls>PAT. zu P.</ls>
+<ls>PAT.</ls>
+<ls>PATAÑJALI</ls>
+<ls>PETERSON</ls>
+<ls>PIṆḌOP.</ls>
+<ls>PISCHEL, de Gr. pr.</ls>
+<ls>PISCHEL</ls>
+<ls>PRĀYAŚC.</ls>
+<ls>PRĀYAŚCITTAT.</ls>
+<ls>PRĀYAŚCITTAVIVEKA.</ls>
+<ls>PR. P.</ls>
+<ls>PRAŚNOP.</ls>
+<ls>PRAB.</ls>
+<ls>PRAKRIYĀK.</ls>
+<ls>PRASANNAR.</ls>
+<ls>PRATĀPAR.</ls>
+<ls>PRATIJÑĀS.</ls>
+<ls>PRAYOGAR.</ls>
+<ls>PRIY.</ls>
+<ls>PUṢPADANTA</ls>
+<ls>PUṢPAS.</ls>
+<ls>PULASTYA</ls>
+<ls>Pañcad.</ls>
+<ls>Pañcat.</ls>
+<ls>Prasannara.</ls>
+<ls>Procc. A. S. B.</ls>
+<ls>RĀJAN. (Hdschr.)</ls>
+<ls>RĀJAN.</ls>
+<ls>RĀJAT. ed. Calc.</ls>
+<ls>RĀJAT.</ls>
+<ls>RĀJAV.</ls>
+<ls>RĀJENDR. Not.</ls>
+<ls>RĀM. RĀS.</ls>
+<ls>RĀMADĀSA</ls>
+<ls>RĀMAPŪRVAT. UP.</ls>
+<ls>RĀYAM.</ls>
+<ls>Rājan.</ls>
+<ls>R. GORR.</ls>
+<ls>R. SCHL.</ls>
+<ls>R. ed. Bomb.</ls>
+<ls>R. ed. GORR.</ls>
+<ls>R. ed. SCHL.</ls>
+<ls>R.</ls>
+<ls>RAGH. ed. Calc.</ls>
+<ls>RAGH.</ls>
+<ls>RASAR.</ls>
+<ls>RASENDRAC.</ls>
+<ls>RATNAM.</ls>
+<ls>RICE, Bangalore</ls>
+<ls>ROTH, Zur Lit.</ls>
+<ls>ROTH</ls>
+<ls>ROXB.</ls>
+<ls>ROXBURGH, Flora ind.</ls>
+<ls>RUDOLF MEYER</ls>
+<ls>RUDRAṬĀLAṂKĀRAṬ.</ls>
+<ls>RUDRAṬA, KĀVYĀLAṂKĀRA.</ls>
+<ls>RUDRAYĀMALA.</ls>
+<ls>Ragh.</ls>
+<ls>Rasendrac.</ls>
+<ls>SĀṂKHYAK.</ls>
+<ls>SĀDHANAM.</ls>
+<ls>SĀH. D. (1828)</ls>
+<ls>SĀH. D.</ls>
+<ls>SĀMĀNYAN.</ls>
+<ls>SĀMAV. BR.</ls>
+<ls>SĀMAVIDH. BR.</ls>
+<ls>SĀRĀV.</ls>
+<ls>SĀRAS.</ls>
+<ls>SĀV.</ls>
+<ls>SĀY.</ls>
+<ls>Sāg.</ls>
+<ls>Sāh. D.</ls>
+<ls>SŪRYAD.</ls>
+<ls>SŪRYAS.</ls>
+<ls>S. S. S.</ls>
+<ls>SAṂHITOPAN.</ls>
+<ls>SAṂNY. UP.</ls>
+<ls>SAṂSK. K.</ls>
+<ls>SADDH. P.</ls>
+<ls>SADUKTIK.</ls>
+<ls>SARASVATĪK.</ls>
+<ls>SARVAD.</ls>
+<ls>SARVOPAN.</ls>
+<ls>SATYA</ls>
+<ls>SCHÖNBERG, KSH.</ls>
+<ls>SCHÖNBERG, KSHEM.</ls>
+<ls>SCHIEFNER, TĀRAN.</ls>
+<ls>SCHLEGEL</ls>
+<ls>SCHRÖDER.</ls>
+<ls>SETUB.</ls>
+<ls>SIDDH. ŚIR.</ls>
+<ls>SIDDH. K. (neue Ausg.)</ls>
+<ls>SIDDH. K. ed. TĀRĀN.</ls>
+<ls>SIDDH. K. ed. TĀR.</ls>
+<ls>SIDDH. K.</ls>
+<ls>SMṚTIM.</ls>
+<ls>SOMAKARMAPR.</ls>
+<ls>SPEYER</ls>
+<ls>ST. JULIEN</ls>
+<ls>STENZLER</ls>
+<ls>SUŚR.</ls>
+<ls>SUBHĀṢITĀV.</ls>
+<ls>SUBHĀṢITAR.</ls>
+<ls>SUBHĀṢITARATNABH. PRAK.</ls>
+<ls>SUBHĀṢITARATNABH.</ls>
+<ls>SUD.</ls>
+<ls>SUKHĀV.</ls>
+<ls>SUPARṆ.</ls>
+<ls>SV. ĀR.</ls>
+<ls>SV.</ls>
+<ls>Sitzungsberichte d. K. Pr. Ak. d. Ww.</ls>
+<ls>Sitzungsberichte der Phil-hist. Kl. der Wiener Ak.</ls>
+<ls>Sitzungsberichte der Wiener Ak.</ls>
+<ls>Sitzungsberichte der phil-hist. Kl. der Wiener. Ak.</ls>
+<ls>Sitzungsberr. d. K. Pr. Ak. d. Ww.</ls>
+<ls>Spr.</ls>
+<ls>TĀṆḌYA-BR. Hdschr.</ls>
+<ls>TĀṆḌYA-BR.</ls>
+<ls>Tāṇḍya-Br.</ls>
+<ls>TAITT. ĀR.</ls>
+<ls>TAITT. PRĀT.</ls>
+<ls>TAITT. UP.</ls>
+<ls>TAL. BR.</ls>
+<ls>TANTRASĀRA</ls>
+<ls>TANTRAS.</ls>
+<ls>TARKAS.</ls>
+<ls>TATTVAK.</ls>
+<ls>TATTVAS.</ls>
+<ls>TAWNEY</ls>
+<ls>TBR.</ls>
+<ls>TEJOB. UP.</ls>
+<ls>TRIK.</ls>
+<ls>TRIVIKRAMA</ls>
+<ls>TS. (ed. WEBER)</ls>
+<ls>TS. PRĀT.</ls>
+<ls>TS.</ls>
+<ls>UṆĀDIS.</ls>
+<ls>UJJVAL.</ls>
+<ls>UPALEKHA.</ls>
+<ls>UPAVANAVINODA</ls>
+<ls>UTPALA</ls>
+<ls>UTPALINĪ.</ls>
+<ls>UTTAMAC.</ls>
+<ls>UTTARAR. (1862)</ls>
+<ls>UTTARAR.</ls>
+<ls>UVAṬA</ls>
+<ls>Uttararāmac.</ls>
+<ls>VĀḌI.</ls>
+<ls>VĀGBH.</ls>
+<ls>VĀGBHAṬA</ls>
+<ls>VĀLAKH.</ls>
+<ls>VĀMANA</ls>
+<ls>VĀRTT.</ls>
+<ls>VĀS.</ls>
+<ls>VĀSAV.</ls>
+<ls>VĀSIṢṬHA.</ls>
+<ls>VĀSTUV.</ls>
+<ls>VĀYU-P.</ls>
+<ls>Vārtt.</ls>
+<ls>VĪRAM.</ls>
+<ls>VĪRAMITROD.</ls>
+<ls>VĪRAMITRODAYA</ls>
+<ls>VṚṢABH.</ls>
+<ls>VṚTTARATNĀKARA</ls>
+<ls>VAṂŚABR.</ls>
+<ls>VAIDYABH.</ls>
+<ls>VAIDYAKA</ls>
+<ls>VAITĀN.</ls>
+<ls>VAJRACCH.</ls>
+<ls>VAJRAS.</ls>
+<ls>VALL.</ls>
+<ls>VARĀH. BṚH. S.</ls>
+<ls>VARĀH. BṚH.</ls>
+<ls>VARĀH. LAGH.</ls>
+<ls>VARĀH. LAGHUJ.</ls>
+<ls>VARĀH. YOGAY.</ls>
+<ls>VARĀH.</ls>
+<ls>VARARUCI.</ls>
+<ls>VARDHAMĀNAC.</ls>
+<ls>VARIṢṬHA.</ls>
+<ls>VASIṢṬHA.</ls>
+<ls>VEṆĪS.</ls>
+<ls>VEDĀNTASĀRA. (1829)</ls>
+<ls>VET. (U.)</ls>
+<ls>VET.</ls>
+<ls>VIŚVA.</ls>
+<ls>VIŚVAPR.</ls>
+<ls>VIṢṆU</ls>
+<ls>VIṢṆUCANDRA.</ls>
+<ls>VIṢṆUS.</ls>
+<ls>VIṬṬHALA</ls>
+<ls>VIDDH.</ls>
+<ls>VIJÑĀNEŚVARA</ls>
+<ls>VIJÑ.</ls>
+<ls>VIJAYAGAṆĪ</ls>
+<ls>VIKR. drāv.</ls>
+<ls>VIKR. ed. BOLL.</ls>
+<ls>VIKR. ed. PISCH.</ls>
+<ls>VIKR. ed. PISCHEL</ls>
+<ls>VIKR.</ls>
+<ls>VIKRAMĀṄKAC.</ls>
+<ls>VIVĀDAC.</ls>
+<ls>VIVEK.</ls>
+<ls>VIVEKAV.</ls>
+<ls>VOP.</ls>
+<ls>VP.²</ls>
+<ls>VP.2</ls>
+<ls>VP.</ls>
+<ls>VRATARĀJA.</ls>
+<ls>VS. PRĀT.</ls>
+<ls>VS.</ls>
+<ls>VYĀSA</ls>
+<ls>VYUTP.</ls>
+<ls>Vaitān.</ls>
+<ls>Vaitsān.</ls>
+<ls>Verz. d. B. H.</ls>
+<ls>Verz. d. Cambr. H.</ls>
+<ls>Verz. d. Oxf. H.</ls>
+<ls>Verz. d. Pet. H.</ls>
+<ls>Vet. (U.)</ls>
+<ls>Viddh.</ls>
+<ls>Vikrāṅkac.</ls>
+<ls>Vikramāṅkac.</ls>
+<ls>WASSILIEW, der Buddh.</ls>
+<ls>WASSILYEW.</ls>
+<ls>WEBER, JYOT.</ls>
+<ls>WEBER, KṚṢṆAJ.</ls>
+<ls>WEBER, Lit.</ls>
+<ls>WEBER, Nax.</ls>
+<ls>WEBER, RĀMAT. UP.</ls>
+<ls>WEBER, RĀMAT.</ls>
+<ls>WEBER</ls>
+<ls>WHITNEY, Gr.</ls>
+<ls>WHITNEY, Ind.</ls>
+<ls>WHITNEY, Roots</ls>
+<ls>WHITNEY</ls>
+<ls>WILSON, SĀṂKHYAK.</ls>
+<ls>WILSON, Sel. Spec.</ls>
+<ls>WILSON, Sel. W.</ls>
+<ls>WILSON.</ls>
+<ls>WIND. SANC.</ls>
+<ls>WISE.</ls>
+<ls>WRIGHT, Hist. of. Nep.</ls>
+<ls>YĀJÑ.</ls>
+<ls>YĀSKA</ls>
+<ls>YAŚNA.</ls>
+<ls>YANTRĀDHY.</ls>
+<ls>YAVANEŚVARA</ls>
+<ls>YOGAŚ. UP.</ls>
+<ls>YOGAS.</ls>
+<ls>YOGAT. UP.</ls>
+<ls>YOGAY.</ls>
+<ls>Z. d. d. m. G.</ls>
+<ls>Z. f. d. K. d. M.</ls>
+<ls>ZACH. Beitr.</ls>
+<ls>ZACH.</ls>
+<ls>ZACHARIAE</ls>
+<ls>ZIMMER, Altind. Leben</ls>
+<ls>ZIMMER.</ls>
+<ls>ed. Bomb.</ls>
+<ls>ed. Calc.</ls>
+<ls>ed. K.</ls>
+<ls>ed. LASSEN</ls>
+<ls>ed. M.</ls>
+<ls>ed. Vardh.</ls>

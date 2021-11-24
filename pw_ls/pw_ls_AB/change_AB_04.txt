@@ -1,0 +1,429 @@
+56683 old {#आतिरश्चीन#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#आ#}) {%ein wenig zur Seite gewandt%} <ls>Benf. Chr.</ls> <ln>198,23.</ln>
+56683 new {#आतिरश्चीन#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#आ#}) {%ein wenig zur Seite gewandt%} <ls>BENF. Chr.</ls> <ln>198,23.</ln>
+;-----------------
+57615 old {#आथर्विक#}¦ <lex>Adj.</lex> {%zum <ls>AV.</ls> in Beziehung stehend%}.
+57615 new {#आथर्विक#}¦ <lex>Adj.</lex> {%zum%} <ls>AV.</ls> {%in Beziehung stehend%}.
+;-----------------
+68226 old {#*इन्दुवल्ली#}¦ <lex>f.</lex> {%<bot>Sarcostemma viminale R.</bot> Br%}.
+68226 new {#*इन्दुवल्ली#}¦ <lex>f.</lex> {%<bot>Sarcostemma viminale R. Br.</bot>%}.
+;-----------------
+68494 old {#*इन्द्रद्रु#}¦ <lex>m.</lex> —1) {%<bot>Terminalia Arjuna W.</bot> u. A%}. —2) {%<bot>Wrightia antidysenterica R.</bot> Br%}. —3) {%<bot>Pinus Deodora Roxb.</bot>%} <ls>NIGH. PR.</ls>
+68494 new {#*इन्द्रद्रु#}¦ <lex>m.</lex> —1) {%<bot>Terminalia Arjuna W.</bot> u. A%}. —2) {%<bot>Wrightia antidysenterica R. Br.</bot>%} —3) {%<bot>Pinus Deodora Roxb.</bot>%} <ls>NIGH. PR.</ls>
+;-----------------
+78868 old {#उपचूडन#}¦ und {#°चूलन#} <lex>n.</lex> {%das Abflammen, Sengen%} <ls>PARĀŚ.</ls> <ln>5,6.</ln> <ls>ĀCĀRĀDARŚA.</ls> und <ls>MIT.</ls> <ln>3,83 a,2</ln> v. u.
+78868 new {#उपचूडन#}¦ und {#°चूलन#} <lex>n.</lex> {%das Abflammen, Sengen%} <ls>PARĀŚ.</ls> <ln>5,6.</ln> <ls>ĀCĀRĀDARŚA</ls> und <ls>MIT.</ls> <ln>3,83 a,2</ln> v. u.
+;-----------------
+97344 old {#कन्याकूप#}¦ <lex>m.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+97344 new {#कन्याकूप#}¦ <lex>m.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+97360 old {#कन्यातीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+97360 new {#कन्यातीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+97440 old {#कन्यासंवेद्य#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+97440 new {#कन्यासंवेद्य#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+106392 old {#काण्व्य#}¦ <lex>m.</lex> <ab>Patron.</ab> von {#कण्व#} <ls>TĀṆḌYA-BR. Hdschr.</ls> <ab>vgl.</ab> {#काण्व#} 2)a).
+106392 new {#काण्व्य#}¦ <lex>m.</lex> <ab>Patron.</ab> von {#कण्व#} <ls>TĀṆḌYA-BR. Hdschrr.</ls> <ab>vgl.</ab> {#काण्व#} 2)a).
+;-----------------
+107481 old LEND>
+107481 new <LEND>
+;-----------------
+107484 old {#का꣫मम्#}¦ <ab>Adv.</ab> —1) {%nach Wunsch, —Herzenslust, —Belieben, getrost%}. —2) {%gern, mit Freuden%}. —3) {%ja, ja gewiss%} <ln>124,22.</ln> <ls>R.</ls> <ln>5,24,4.</ln> <ls>Spr.</ls> <ln>2911.</ln> —4) {%immerhin, jedenfalls%} <ls>MBH.</ls> <ln>3,310,19.</ln> <ls>R.</ls> <ln>4. 9,105,19,21. 5,53,11.</ln> <ls>ŚĀK.</ls> <ln>26,16.</ln> <ls>Spr.</ls> <ln>6306.</ln> Mit einer Negation {%keinenfalls%} <ls>R.</ls> <ln>3,56,17. 6,94,24.</ln> —5) {%dennoch%} <ls>R.</ls> <ln>4,16,50.</ln> <ls>Spr.</ls> <ln>5911. 6776.</ln> —6) {%wenn auch, gesetzt dass%} (gewöhnlich mit Imperat.) <ln>319,30.</ln> <ls>R.</ls> <ln>6,95. 49,56. 4,</ln> <ls>Ragh.</ls> <ln>2,3.</ln> <ls>Spr.</ls> <ln>1637. 3894. 7843.</ln> —7) {#कामम् - तु, किं तु, च#} (<ls>Spr.</ls> <ln>1002</ln>), {#पुनर्#} (<ln>292,7</ln>), {#अथापि#} oder {#तथापि#} {%wenn auch, obgleich, zwar aber, aber doch, dennoch%}. —8) {#कामम् - न तु#} oder {#न च#} {%wohl—, nicht aber, lieber —nicht aber, eher, als <ab>dass.</ab>%} Auch {#न तु - कामम्#} —9) {#यद्यपि#} {#कामं तथापि#} {%obgleich - dennoch%} <ls>Spr.</ls> <ln>5284.</ln>
+107484 new {#का꣫मम्#}¦ <ab>Adv.</ab> —1) {%nach Wunsch, —Herzenslust, —Belieben, getrost%}. —2) {%gern, mit Freuden%}. —3) {%ja, ja gewiss%} <ln>124,22.</ln> <ls>R.</ls> <ln>5,24,4.</ln> <ls>Spr.</ls> <ln>2911.</ln> —4) {%immerhin, jedenfalls%} <ls>MBH.</ls> <ln>3,310,19.</ln> <ls>R.</ls> <ln>4. 9,105,19,21. 5,53,11.</ln> <ls>ŚĀK.</ls> <ln>26,16.</ln> <ls>Spr.</ls> <ln>6306.</ln> Mit einer Negation {%keinenfalls%} <ls>R.</ls> <ln>3,56,17. 6,94,24.</ln> —5) {%dennoch%} <ls>R.</ls> <ln>4,16,50.</ln> <ls>Spr.</ls> <ln>5911. 6776.</ln> —6) {%wenn auch, gesetzt dass%} (gewöhnlich mit Imperat.) <ln>319,30.</ln> <ls>R.</ls> <ln>6,95. 49,56. 4,</ln> <ls>RAGH.</ls> <ln>2,3.</ln> <ls>Spr.</ls> <ln>1637. 3894. 7843.</ln> —7) {#कामम् - तु, किं तु, च#} (<ls>Spr.</ls> <ln>1002</ln>), {#पुनर्#} (<ln>292,7</ln>), {#अथापि#} oder {#तथापि#} {%wenn auch, obgleich, zwar aber, aber doch, dennoch%}. —8) {#कामम् - न तु#} oder {#न च#} {%wohl—, nicht aber, lieber —nicht aber, eher, als <ab>dass.</ab>%} Auch {#न तु - कामम्#} —9) {#यद्यपि#} {#कामं तथापि#} {%obgleich - dennoch%} <ls>Spr.</ls> <ln>5284.</ln>
+;-----------------
+110944 old {#कालोदक#}¦ <lex>n.</lex> <ab>N. pr.</ab> —1) eines <is>Tirtha</is>. —2) eines Meeres.
+110944 new {#कालोदक#}¦ <lex>n.</lex> <ab>N. pr.</ab> —1) eines <is>Tīrtha</is>. —2) eines Meeres.
+;-----------------
+116594 old {#कुमारेश्वरतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+116594 new {#कुमारेश्वरतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+123757 old {#केदार#}¦ —1) <lex>m.</lex> —a) {%ein zur Berieselung mit erhöhten Beeten angelegtes Feld%}. Auch *<lex>n.</lex> —b) {%Fläche%}. —c) {#कपिलस्य#} und {#मतङ्गस्य#} Namen von <is>Tirtha</is>. —d) * = {#आलवाल#} 1). —e) {%eine best%}. [Page2098-3] {%Constellation%}. —f) {%ein best. <is>Rāga</is>%} <ls>S. S. S.</ls> <ln>111.</ln> —g) <ab>N. pr.</ab> —α) eines Gebirgstandes. —β) verschiedener Männer. —h) <ab>Bein.</ab> des in <is>Kedāra</is> verehrten <is>Śiva</is>. —2) <lex>f.</lex> {#ई#} {%eine best. <is>Rāgiṇī</is>%} <ls>S. S. S.</ls> <ln>37.</ln> —3) <lex>n.</lex> —a) <ab>N. pr.</ab> eines <is>Tīrtha</is>. —b) Name eines <is>Liṅga</is>.
+123757 new {#केदार#}¦ —1) <lex>m.</lex> —a) {%ein zur Berieselung mit erhöhten Beeten angelegtes Feld%}. Auch *<lex>n.</lex> —b) {%Fläche%}. —c) {#कपिलस्य#} und {#मतङ्गस्य#} Namen von <is>Tīrtha</is>. —d) * = {#आलवाल#} 1). —e) {%eine best%}. [Page2098-3] {%Constellation%}. —f) {%ein best. <is>Rāga</is>%} <ls>S. S. S.</ls> <ln>111.</ln> —g) <ab>N. pr.</ab> —α) eines Gebirgstandes. —β) verschiedener Männer. —h) <ab>Bein.</ab> des in <is>Kedāra</is> verehrten <is>Śiva</is>. —2) <lex>f.</lex> {#ई#} {%eine best. <is>Rāgiṇī</is>%} <ls>S. S. S.</ls> <ln>37.</ln> —3) <lex>n.</lex> —a) <ab>N. pr.</ab> eines <is>Tīrtha</is>. —b) Name eines <is>Liṅga</is>.
+;-----------------
+123789 old {#केदारतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+123789 new {#केदारतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+125149 old {#कोकामुख#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+125149 new {#कोकामुख#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+132203 old {#क्षीरवह#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#आ#}) {%Milch führend%} (Fluss) <ls>HEDRI.</ls> <ln>1,416,1.</ln>
+132203 new {#क्षीरवह#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#आ#}) {%Milch führend%} (Fluss) <ls>HEDRI</ls> <ln>1,416,1.</ln>
+;-----------------
+145684 old {#गुरुतीर्थ#}¦ <lex>n.</lex> <ab>N.</ab> eines <is>Tirtha</is>.
+145684 new {#गुरुतीर्थ#}¦ <lex>n.</lex> <ab>N.</ab> eines <is>Tīrtha</is>.
+;-----------------
+148136 old {#गोतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+148136 new {#गोतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+148508 old {#गोनागोनीश्वरतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+148508 new {#गोनागोनीश्वरतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+152977 old —Mit {#अव#} <ab>Caus.</ab> —1) {%aufreissen%} (einen Thürflügel). —2) {%zuschliessen%} (eine Thür) <ls>DEVALA.</ls> in <ls>ĀCĀRĀDARŚA.</ls> <ln>59, b,8.</ln> —3) {%berühren, betasten, bestreichen%}. —{#अवघट्टित#} {%zusammengestossen%}. —4) {%umrühren%}. <ls>CARAKA.</ls> <ln>3,7.</ln>
+152977 new —Mit {#अव#} <ab>Caus.</ab> —1) {%aufreissen%} (einen Thürflügel). —2) {%zuschliessen%} (eine Thür) <ls>DEVALA.</ls> in <ls>ĀCĀRĀDARŚA</ls> <ln>59, b,8.</ln> —3) {%berühren, betasten, bestreichen%}. —{#अवघट्टित#} {%zusammengestossen%}. —4) {%umrühren%}. <ls>CARAKA.</ls> <ln>3,7.</ln>
+;-----------------
+156485 old {#चण्डीशतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+156485 new {#चण्डीशतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+160518 old {#चातन#}¦ —1) <lex>Adj.</lex> am Ende eines Comp. {%verscheuchend%}. —2) <lex>m.</lex> <ab>N. pr.</ab> des angeblichen <is>Ṛṣi</is> von [Page2222-1] 3). —3) <lex>n.</lex> {%diejenigen Sprüche des <ls>AV.</ls>, deren Zweck die Verscheuchung dämonischer Wesen und Kräfte ist%}.
+160518 new {#चातन#}¦ —1) <lex>Adj.</lex> am Ende eines Comp. {%verscheuchend%}. —2) <lex>m.</lex> <ab>N. pr.</ab> des angeblichen <is>Ṛṣi</is> von [Page2222-1] 3). —3) <lex>n.</lex> {%diejenigen Sprüche des%} <ls>AV.</ls>, {%deren Zweck die Verscheuchung dämonischer Wesen und Kräfte ist%}.
+;-----------------
+168907 old {#ज꣫नि#}¦ und {#ज꣫नी#} <lex>f.</lex> —1) {%Weib, Gattin%} (in dieser Bed. <ab>Gen.</ab> {#ज꣫न्युस्#} <ls>KUHN'S. Z.</ls> <ln>25,289</ln>). <ab>Pl.</ab> bildlich von den {%Fingern%}. —2) {#*जनि#} {%Mutter%}. —3) {#*जनी#} {%Schwiegertochter%}. —4) {%Geburt, Entstehung%}. —5) {#जनि#} {%Geburt, so <ab>v. a.</ab> Leben%} <ls>AGNI-P.</ls> <ln>38,1.</ln> —6) {#जनि#} {%Geburtsstätte%}. —7) {#जनि#} {%die Wurzel%} {#जन्#} <ls>ŚAṂK. zu. BĀDAR.</ls> <ln>3,1,24.</ln> Könnte auch <lex>m.</lex> sein. —8) {%*eine best. wohlriechende Pflanze%}.
+168907 new {#ज꣫नि#}¦ und {#ज꣫नी#} <lex>f.</lex> —1) {%Weib, Gattin%} (in dieser Bed. <ab>Gen.</ab> {#ज꣫न्युस्#} <ls>KUHN'S Z.</ls> <ln>25,289</ln>). <ab>Pl.</ab> bildlich von den {%Fingern%}. —2) {#*जनि#} {%Mutter%}. —3) {#*जनी#} {%Schwiegertochter%}. —4) {%Geburt, Entstehung%}. —5) {#जनि#} {%Geburt, so <ab>v. a.</ab> Leben%} <ls>AGNI-P.</ls> <ln>38,1.</ln> —6) {#जनि#} {%Geburtsstätte%}. —7) {#जनि#} {%die Wurzel%} {#जन्#} <ls>ŚAṂK. zu. BĀDAR.</ls> <ln>3,1,24.</ln> Könnte auch <lex>m.</lex> sein. —8) {%*eine best. wohlriechende Pflanze%}.
+;-----------------
+187784 old {#तुखार#}¦ <lex>m.</lex> <ab>Pl.</ab> <ab>N. pr.</ab> eines Volkes. Die <ls>Bomb.Ausgaben</ls> {#तुषार#}. <ab>Vgl.</ab> {#गुक्खार#}.
+187784 new {#तुखार#}¦ <lex>m.</lex> <ab>Pl.</ab> <ab>N. pr.</ab> eines Volkes. Die <ls>Bomb. Ausgaben</ls> {#तुषार#}. <ab>Vgl.</ab> {#गुक्खार#}.
+;-----------------
+188039 old {#तुण्ड#}¦ —1) <lex>n.</lex> (<lex>adj. Comp.</lex> <lex>f.</lex> {#आ#}) —a) {%Schnabel%} (Gaut.), {%Rüssel, Schnauze%}. —b) {%Mund, Maut%} (verächtlich) <ls>ŚAṂK. zu. BĀDAR.</ls> <ln>2,2,28</ln> (S. 570, Z. 4). —c) {%Spitze%} in {#अयस्तुण्ड#} und {#धूस्तुण्ड#} <ls>BĀLAR.</ls> <ln>232,8.</ln> —d) {%Anführer%} <ls>DHŪRTAN.</ls> <ln>4,</ln> —e) = {#तुन्द#} {%Schmerbauch%} <ls>Ind. St.</ls> <ln>15,399.</ln> —2) <lex>m.</lex> —a) {%*<bot>Cucumis utilissimus.</bot>%} —b) {%*<bot>Beninkasa cerifera.</bot>%} —c) <ab>Bein.</ab> <is>Śiva's</is>; nach <ls>NĪLAK.</ls> = {#मुख#} = {#सर्वभक्षक#}. —d) <ab>N. pr.</ab> eines <is>Rakṣas</is>. —3) <lex>f.</lex> {#ई#} {%eine Gurkenart%} <ls>Spr.</ls> <ln>6773.</ln>
+188039 new {#तुण्ड#}¦ —1) <lex>n.</lex> (<lex>adj. Comp.</lex> <lex>f.</lex> {#आ#}) —a) {%Schnabel%} (<ls>GAUT.</ls>), {%Rüssel, Schnauze%}. —b) {%Mund, Maut%} (verächtlich) <ls>ŚAṂK. zu. BĀDAR.</ls> <ln>2,2,28</ln> (S. 570, Z. 4). —c) {%Spitze%} in {#अयस्तुण्ड#} und {#धूस्तुण्ड#} <ls>BĀLAR.</ls> <ln>232,8.</ln> —d) {%Anführer%} <ls>DHŪRTAN.</ls> <ln>4,</ln> —e) = {#तुन्द#} {%Schmerbauch%} <ls>Ind. St.</ls> <ln>15,399.</ln> —2) <lex>m.</lex> —a) {%*<bot>Cucumis utilissimus.</bot>%} —b) {%*<bot>Beninkasa cerifera.</bot>%} —c) <ab>Bein.</ab> <is>Śiva's</is>; nach <ls>NĪLAK.</ls> = {#मुख#} = {#सर्वभक्षक#}. —d) <ab>N. pr.</ab> eines <is>Rakṣas</is>. —3) <lex>f.</lex> {#ई#} {%eine Gurkenart%} <ls>Spr.</ls> <ln>6773.</ln>
+;-----------------
+197986 old {#दण्ड्य#}¦ <lex>Adj.</lex> {%zu strafen, strafbar, eine Strafe erhaltend%} <ls>ĀPAST.</ls> Gaut. Mit dem <ab>Acc.</ab> der Strafe.
+197986 new {#दण्ड्य#}¦ <lex>Adj.</lex> {%zu strafen, strafbar, eine Strafe erhaltend%} <ls>ĀPAST.</ls> <ls>GAUT.</ls> Mit dem <ab>Acc.</ab> der Strafe.
+;-----------------
+207809 old {#दुरुत्तर#}¦ <lex>Adj.</lex> {%schwer zu überwinden%}. Häufig im <is>Prākrit</is> und vielleicht aus {#दुस्तर#} entstanden; s. <ls>KUHN</ls>'S. Z. 23,595.
+207809 new {#दुरुत्तर#}¦ <lex>Adj.</lex> {%schwer zu überwinden%}. Häufig im <is>Prākrit</is> und vielleicht aus {#दुस्तर#} entstanden; s. <ls>KUHN'S Z.</ls> <ln>23,595.</ln>
+;-----------------
+212774 old {#देवदर्शिन्#}¦ —1) <lex>Adj.</lex> {%die Götter sehend, mit ihnen verkehrend%}. —2) <lex>m.</lex> <ab>Pl.</ab> {%eine best. Schule des AV%}.
+212774 new {#देवदर्शिन्#}¦ —1) <lex>Adj.</lex> {%die Götter sehend, mit ihnen verkehrend%}. —2) <lex>m.</lex> <ab>Pl.</ab> {%eine best. Schule des%} <ls>AV.</ls>
+;-----------------
+219241 old {#द्विजाय्#}¦, {#°यते#} {%zu einem Brahmanen werden, als <ls>Br.</ls> wiedergeboren werden%} <ls>HEMĀDRI.</ls> <ln>4. 1,485,4.</ln>
+219241 new {#द्विजाय्#}¦, {#°यते#} {%zu einem Brahmanen werden, als Br. wiedergeboren werden%} <ls>HEMĀDRI.</ls> <ln>4. 1,485,4.</ln>
+;-----------------
+223967 old —Mit {#पर्या#} —1) {%umlegen%} (mit Feuer). —2) {#पर्याहित#} {%derjenige, dem ein jüngerer Bruder mit der Anlegung des heiligen Feuers zuvorgekommen ist%}, <ls>ĀPAST.</ls> <ln>2,12,22.</ln> <ls>ŚR.</ls> <ln>9,12,11.</ln> <ls>Gaut.</ls> <ln>15,18.</ln>
+223967 new —Mit {#पर्या#} —1) {%umlegen%} (mit Feuer). —2) {#पर्याहित#} {%derjenige, dem ein jüngerer Bruder mit der Anlegung des heiligen Feuers zuvorgekommen ist%}, <ls>ĀPAST.</ls> <ln>2,12,22.</ln> <ls>ŚR.</ls> <ln>9,12,11.</ln> <ls>GAUT.</ls> <ln>15,18.</ln>
+;-----------------
+232491 old {#*नवकारिका#}¦ <lex>f.</lex> —1) {%eine Neuvermählte%}. —2) {%eine neue%} <ls>KĀRIKĀ</ls>; s. {#कारक#} 2)d).
+232491 new {#*नवकारिका#}¦ <lex>f.</lex> —1) {%eine Neuvermählte%}. —2) {%eine neue%} <is>Kārikā</is>; s. {#कारक#} 2)d).
+;-----------------
+244491 old {#निषूदन#}¦ (so die <ls>Bomb.</ls> Ausgaben) —1) <ab>Nom. ag.</ab> {%Mörder, Vernichter, beseitigend, entfernend%}. —2) *<lex>n.</lex> {%das Tödten, Vernichten%}.
+244491 new {#निषूदन#}¦ (so die <ls>Bomb. Ausgaben</ls>) —1) <ab>Nom. ag.</ab> {%Mörder, Vernichter, beseitigend, entfernend%}. —2) *<lex>n.</lex> {%das Tödten, Vernichten%}.
+;-----------------
+249377 old {#नैमिषकुञ्ज#}¦ <lex>m.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is> <ls>MBH.</ls> <ln>3,83,109.</ln>
+249377 new {#नैमिषकुञ्ज#}¦ <lex>m.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is> <ls>MBH.</ls> <ln>3,83,109.</ln>
+;-----------------
+260493 old {#परिपाचन#}¦ —1) <lex>Adj.</lex> —a) {%kochend, zur Reife bringend%}. —b) {%zur Reife bringend%} in übertr. Bed. <ab>Nom. abstr.</ab> {#°ता#} <lex>f.</lex> <ls>LALIT.</ls> <ln>38,12,13.</ln> —2) <lex>n.</lex> {%das zur Reife Bringen%} (in übertr. Bed.). <ls>LALIT.</ls> <ln>219,2.</ln> <ls>KĀBAṆḌ.</ls> <ln>24,21.</ln>
+260493 new {#परिपाचन#}¦ —1) <lex>Adj.</lex> —a) {%kochend, zur Reife bringend%}. —b) {%zur Reife bringend%} in übertr. Bed. <ab>Nom. abstr.</ab> {#°ता#} <lex>f.</lex> <ls>LALIT.</ls> <ln>38,12,13.</ln> —2) <lex>n.</lex> {%das zur Reife Bringen%} (in übertr. Bed.). <ls>LALIT.</ls> <ln>219,2.</ln> <ls>KĀRAṆḌ.</ls> <ln>24,21.</ln>
+;-----------------
+265336 old {#पशुतृ꣫प्#}¦ <lex>Adj.</lex> {%an den Heerden sich gütlich thuend%}, so <ab>v. a.</ab> {%dort zugreifend%}. Nach <ls>KLUGE</ls> (<ls>KUHN'S. Z.</ls> 311). {%Vieh raubend%}.
+265336 new {#पशुतृ꣫प्#}¦ <lex>Adj.</lex> {%an den Heerden sich gütlich thuend%}, so <ab>v. a.</ab> {%dort zugreifend%}. Nach <ls>KLUGE</ls> (<ls>KUHN'S Z.</ls> 311). {%Vieh raubend%}.
+;-----------------
+270527 old {#पार्वण#}¦ —1) <lex>Adj.</lex> —a) {%zu einem Zeit- oder Mondesabschnitt%} ({%Neu- und Vollmond) gehörig, damit in Verbindung stehend%}. —b) {%zunehmend oder voll%} (vom Monde). {#पार्वणौ शशिदिवाकरौ#} {%Mond und Sonne zur Zeit des Vollmondes%}. —2) <lex>m.</lex> —a) {%Monatshälfte%}. —b) {%ein Neu- und Vollmondsopfer%} <ls>ĀPAST.</ls> Gaut. <ls>ŚĀṄKH. GṚHY.</ls> <ln>5,4.</ln> —c) {%*eine Hirschart%}.
+270527 new {#पार्वण#}¦ —1) <lex>Adj.</lex> —a) {%zu einem Zeit- oder Mondesabschnitt%} ({%Neu- und Vollmond) gehörig, damit in Verbindung stehend%}. —b) {%zunehmend oder voll%} (vom Monde). {#पार्वणौ शशिदिवाकरौ#} {%Mond und Sonne zur Zeit des Vollmondes%}. —2) <lex>m.</lex> —a) {%Monatshälfte%}. —b) {%ein Neu- und Vollmondsopfer%} <ls>ĀPAST.</ls> <ls>GAUT.</ls> <ls>ŚĀṄKH. GṚHY.</ls> <ln>5,4.</ln> —c) {%*eine Hirschart%}.
+;-----------------
+277306 old {#पु꣫रीष#}¦ —1) <lex>n.</lex> (<lex>adj. Comp.</lex> <lex>f.</lex> {#ई#}) —a) {%das Bröcklige, Feste%} (im Gegensatz zum {%Flüssigen%}); <ab>vgl.</ab> <ls>KUHN'S. Z.</ls> <ln>26,62. fgg.</ln> —b) {%Erde, Land%}. —c) {%Schutt, lose Erde, Gerölle, Füllsel%}. —d) Bez. {%der Ausfüllstücke in der Recitation der sogenannten <is>Mahānāmnī</is> Verse%}. Vollständig {#°पद#} <lex>n.</lex> —e) {%Unrath, Schmutz, Koth, die Excremente%}, Am Ende eines Comp. so <ab>v. a.</ab> {%der Auswurf von%}. —f) {#आथर्वन#} Name eines <is>Sāman</is>. —2) <lex>f.</lex> {#पुरीषी#} {%Das Schichten%}, = {#चयन#} <ab>Comm.</ab>
+277306 new {#पु꣫रीष#}¦ —1) <lex>n.</lex> (<lex>adj. Comp.</lex> <lex>f.</lex> {#ई#}) —a) {%das Bröcklige, Feste%} (im Gegensatz zum {%Flüssigen%}); <ab>vgl.</ab> <ls>KUHN'S Z.</ls> <ln>26,62. fgg.</ln> —b) {%Erde, Land%}. —c) {%Schutt, lose Erde, Gerölle, Füllsel%}. —d) Bez. {%der Ausfüllstücke in der Recitation der sogenannten <is>Mahānāmnī</is> Verse%}. Vollständig {#°पद#} <lex>n.</lex> —e) {%Unrath, Schmutz, Koth, die Excremente%}, Am Ende eines Comp. so <ab>v. a.</ab> {%der Auswurf von%}. —f) {#आथर्वन#} Name eines <is>Sāman</is>. —2) <lex>f.</lex> {#पुरीषी#} {%Das Schichten%}, = {#चयन#} <ab>Comm.</ab>
+;-----------------
+277366 old {#पुरीषि꣫न्#}¦ <lex>Adj.</lex> (<ab>vgl.</ab> <ls>KUHN'S. Z.</ls> <ln>24,65. fgg.</ln>) —1) {%bodenreich, grossen Grundbesitz habend%}. —2) {%das Land überziehend, darüber sich ausbreitend%}. —3) {%das trockene Land bewohnend%}. —4) {%Geröll—, Erde mit sich führend%} als Beiw. der <is>Sarayū</is>; könnte als <lex>f.</lex> auch<ab>N. pr.</ab> eines Flusses sein. —5) [Page4099-3] {%consistent, fest, körperlich%}.
+277366 new {#पुरीषि꣫न्#}¦ <lex>Adj.</lex> (<ab>vgl.</ab> <ls>KUHN'S Z.</ls> <ln>24,65. fgg.</ln>) —1) {%bodenreich, grossen Grundbesitz habend%}. —2) {%das Land überziehend, darüber sich ausbreitend%}. —3) {%das trockene Land bewohnend%}. —4) {%Geröll—, Erde mit sich führend%} als Beiw. der <is>Sarayū</is>; könnte als <lex>f.</lex> auch<ab>N. pr.</ab> eines Flusses sein. —5) [Page4099-3] {%consistent, fest, körperlich%}.
+;-----------------
+277374 old {#पुरीष्य॑#}¦ {#पुरीषि꣫अ#} <lex>Adj.</lex> (<ab>vgl.</ab> <ls>KUHN'S. Z.</ls> <ln>24,64</ln>). —1) als Beiw. des Feuers {%im Erdboden befindlich%}. —2) {%bodenreich, grossen Grundbesitz habend%}. —3) {%kothig%}.
+277374 new {#पुरीष्य॑#}¦ {#पुरीषि꣫अ#} <lex>Adj.</lex> (<ab>vgl.</ab> <ls>KUHN'S Z.</ls> <ln>24,64</ln>). —1) als Beiw. des Feuers {%im Erdboden befindlich%}. —2) {%bodenreich, grossen Grundbesitz habend%}. —3) {%kothig%}.
+;-----------------
+280145 old {#पूतर#}¦ <lex>m.</lex> {%ein best. Wasserthier%} <ls>GAṆAR.</ls> <ln>4,291.</ln> <ls>HEM. Pr. Gr. ed. PISCHEL.</ls> <ln>1,170.</ln> Bildlich {%von einem ganz unbedeutenden Menschen%} im Gegens. zu {#कुञ्जर#} {%Elephant%} als Bez. {%eines sehr hoch stehenden Mannes%} <ls>HEM. PAR.</ls> <ln>1,230.</ln> Daher wohl = {#अधम#} nach <ls>TRIVIKRAMA</ls> bei <ls>PISCHEL</ls> a. a. O. <ln>2, S. 40</ln> (zu <ln>1,170</ln>).
+280145 new {#पूतर#}¦ <lex>m.</lex> {%ein best. Wasserthier%} <ls>GAṆAR.</ls> <ln>4,291.</ln> <ls>HEM. Pr. Gr. (ed. PISCHEL)</ls> <ln>1,170.</ln> Bildlich {%von einem ganz unbedeutenden Menschen%} im Gegens. zu {#कुञ्जर#} {%Elephant%} als Bez. {%eines sehr hoch stehenden Mannes%} <ls>HEM. PAR.</ls> <ln>1,230.</ln> Daher wohl = {#अधम#} nach <ls>TRIVIKRAMA</ls> bei <ls>PISCHEL</ls> a. a. O. <ln>2, S. 40</ln> (zu <ln>1,170</ln>).
+;-----------------
+298088 old {#प्रवेशन#}¦ <lex>n.</lex> —1) {%das Eintreten, Hineingehen, Einziehen in%} (<ab>Loc.</ab>, <ab>Gen.</ab> oder im Comp. vorangehend). —2) {%coitus%}. —3) {%*Haupteingang%}. —4) {%*Königshof%} <ls>GAL.</ls> —5) {%das Hereinbringen, Hereinführen, Einführen, —in%} (<ab>Loc.</ab>). —6) {%das Eintreiben des Viehes%} <ls>GOBH .</ls> <ln>3,6,9.</ln>
+298088 new {#प्रवेशन#}¦ <lex>n.</lex> —1) {%das Eintreten, Hineingehen, Einziehen in%} (<ab>Loc.</ab>, <ab>Gen.</ab> oder im Comp. vorangehend). —2) {%coitus%}. —3) {%*Haupteingang%}. —4) {%*Königshof%} <ls>GAL.</ls> —5) {%das Hereinbringen, Hereinführen, Einführen, —in%} (<ab>Loc.</ab>). —6) {%das Eintreiben des Viehes%} <ls>GOBH.</ls> <ln>3,6,9.</ln>
+;-----------------
+309012 old {#बलभद्रिका#}¦ <lex>f.</lex> —1) {%*<bot>Ficus heterophylla.</bot>%} —2) {%eine Art Kuchen aus Bohnenmehl%} <ls>BHĀVAPR. (HDSCHR.)</ls> <ln>2,17.</ln>
+309012 new {#बलभद्रिका#}¦ <lex>f.</lex> —1) {%*<bot>Ficus heterophylla.</bot>%} —2) {%eine Art Kuchen aus Bohnenmehl%} <ls>BHĀVAPR. (Hdschr.)</ls> <ln>2,17.</ln>
+;-----------------
+318131 old {#ब्राह्मणब्रुव#}¦ <lex>Adj.</lex> <ab>Subst.</ab> {%sich Brahmane nennend, bloss den Namen eines <ls>Br.</ls> tragend, ein seinen Stand entehrender Br%}.
+318131 new {#ब्राह्मणब्रुव#}¦ <lex>Adj.</lex> <ab>Subst.</ab> {%sich Brahmane nennend, bloss den Namen eines Br. tragend, ein seinen Stand entehrender Br.%}
+;-----------------
+324011 old —Mit {#परि#} —1) {%Jmd%} (<ab>Acc.</ab>) {%zusprechen, zureden, admonere%}. —2) {%anreden%}. —3) {%aussprechen, erklären, lehren%}. —{#°भाषित#} {%ausgesprochen, ausdrücklich angegebend als%} (<ab>Nomin.</ab>) <ls>BĀLAR.</ls> <ln>114,2.</ln> —4) {#°भाषित#} {%als allgemeine Regel aufgestellt%} <ab>Comm.</ab> zu <ls>BĪJAG.</ls> <ln>131.</ln> <ab>Nom. abstr.</ab> {#°त्व#} <lex>n.</lex> <ab>Comm.</ab> zu <ls>ṚV. PRĀT.(ed. M.)</ls> <ln>2,5.</ln>
+324011 new —Mit {#परि#} —1) {%Jmd%} (<ab>Acc.</ab>) {%zusprechen, zureden, admonere%}. —2) {%anreden%}. —3) {%aussprechen, erklären, lehren%}. —{#°भाषित#} {%ausgesprochen, ausdrücklich angegebend als%} (<ab>Nomin.</ab>) <ls>BĀLAR.</ls> <ln>114,2.</ln> —4) {#°भाषित#} {%als allgemeine Regel aufgestellt%} <ab>Comm.</ab> zu <ls>BĪJAG.</ls> <ln>131.</ln> <ab>Nom. abstr.</ab> {#°त्व#} <lex>n.</lex> <ab>Comm.</ab> zu <ls>ṚV. PRĀT. (ed. M.)</ls> <ln>2,5.</ln>
+;-----------------
+332328 old {#मठ#}¦ —1) <lex>m.</lex> <lex>f.</lex> (<lex>n.</lex>) {%Hütte%}, insbes. {%die einsam stehende Hütte eines Einsiedlers%} oder {%Schülers, Zelle; Zellengebäude, Klosterschule, Collegium%}. Nach <ls>BURNELL</ls>, <ls>VAṂŚABR.</ls> <ln>XIV.</ln> ursprünglich {%Tempel%}. —2) <lex>m.</lex> {%Wagen%}.
+332328 new {#मठ#}¦ —1) <lex>m.</lex> <lex>f.</lex> (<lex>n.</lex>) {%Hütte%}, insbes. {%die einsam stehende Hütte eines Einsiedlers%} oder {%Schülers, Zelle; Zellengebäude, Klosterschule, Collegium%}. Nach <ls>BURNELL, VAṂŚABR.</ls> <ln>XIV.</ln> ursprünglich {%Tempel%}. —2) <lex>m.</lex> {%Wagen%}.
+;-----------------
+332584 old {#मणिनाग#}¦ <ab>N. pr.</ab> —1) <lex>m.</lex> eines {%Schlangendämons%}. <ls>HARIV.</ls> <ln>9503.</ln> —2) eines <is>Tirtha</is>.
+332584 new {#मणिनाग#}¦ <ab>N. pr.</ab> —1) <lex>m.</lex> eines {%Schlangendämons%}. <ls>HARIV.</ls> <ln>9503.</ln> —2) eines <is>Tīrtha</is>.
+;-----------------
+332708 old {#मणिमन्त्#}¦ —1) <lex>Adj.</lex> {%mit Juwelen verziert%}. —2) <lex>m.</lex> <ab>N. pr.</ab> —a) eines <is>Yakṣa</is>. —b) eines Dieners des <is>Śiva</is>. —c) eines <is>Rakṣas</is>. —d) eines Schlangendämons. —e) eines Fürsten. —f) eines Berges. —g) eines <is>Tirtha</is>. —3) <lex>f.</lex> {#°मती#} <ab>N. pr.</ab> —a) einer Stadt der <is>Daitya</is>. —b) eines Flusses.
+332708 new {#मणिमन्त्#}¦ —1) <lex>Adj.</lex> {%mit Juwelen verziert%}. —2) <lex>m.</lex> <ab>N. pr.</ab> —a) eines <is>Yakṣa</is>. —b) eines Dieners des <is>Śiva</is>. —c) eines <is>Rakṣas</is>. —d) eines Schlangendämons. —e) eines Fürsten. —f) eines Berges. —g) eines <is>Tīrtha</is>. —3) <lex>f.</lex> {#°मती#} <ab>N. pr.</ab> —a) einer Stadt der <is>Daitya</is>. —b) eines Flusses.
+;-----------------
+333807 old {#मत्स्येश्वरतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+333807 new {#मत्स्येश्वरतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+339712 old 2. {#मर्#}¦, {#मृणा꣫ति#} (<ab>Partic.</ab> {#मृण꣫न्त्#} hierher oder zu {#मृण्#}) {%zermalmen, zerschlagen, zerdrücken, zerstören%} <ls>ṚV.</ls> <ln>8,97,3.</ln> {#मूर्ण꣫#} {%zermalmt, zerbrochen%}. —{#मृनीहि꣫#} <ls>AV.</ls> <ln>6,142,1</ln> nach <ls>AUFRECHT.</ls> (<ls>KUHN'S. Z.</ls> <ln>27,218</ln>) fehlerhaft für {#पृणीहि꣫#}.
+339712 new 2. {#मर्#}¦, {#मृणा꣫ति#} (<ab>Partic.</ab> {#मृण꣫न्त्#} hierher oder zu {#मृण्#}) {%zermalmen, zerschlagen, zerdrücken, zerstören%} <ls>ṚV.</ls> <ln>8,97,3.</ln> {#मूर्ण꣫#} {%zermalmt, zerbrochen%}. —{#मृनीहि꣫#} <ls>AV.</ls> <ln>6,142,1</ln> nach <ls>AUFRECHT.</ls> (<ls>KUHN'S Z.</ls> <ln>27,218</ln>) fehlerhaft für {#पृणीहि꣫#}.
+;-----------------
+344043 old {#महापुर꣫#}¦ —1) <lex>n.</lex> —a) {%eine grosse Festung%}. —b) <ab>N. pr.</ab> eines <is>Tirtha</is>. —2) <lex>f.</lex> {#°पुरी#} {%eine grosse Burg, —Stadt%}.
+344043 new {#महापुर꣫#}¦ —1) <lex>n.</lex> —a) {%eine grosse Festung%}. —b) <ab>N. pr.</ab> eines <is>Tīrtha</is>. —2) <lex>f.</lex> {#°पुरी#} {%eine grosse Burg, —Stadt%}.
+;-----------------
+344187 old {#महाप्रभास#}¦ <ab>N. pr.</ab> eines <is>Tirtha</is>. {#°प्रभासोत्यतिवर्णन#} <lex>n.</lex> Titel eines Werkes.
+344187 new {#महाप्रभास#}¦ <ab>N. pr.</ab> eines <is>Tīrtha</is>. {#°प्रभासोत्यतिवर्णन#} <lex>n.</lex> Titel eines Werkes.
+;-----------------
+345487 old {#महालक्ष्मीतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+345487 new {#महालक्ष्मीतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+349768 old {#माधवाचार्य#}¦ <lex>m.</lex> <ab>N. pr.</ab> eines berühmten {%Lehrers%} <ls>BURNELL</ls>, <ls>VAṂŚABR.</ls> <ln>IX. XXIV.</ln>
+349768 new {#माधवाचार्य#}¦ <lex>m.</lex> <ab>N. pr.</ab> eines berühmten {%Lehrers%} <ls>BURNELL, VAṂŚABR.</ls> <ln>IX. XXIV.</ln>
+;-----------------
+351332 old {#मार्कण्डेयतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+351332 new {#मार्कण्डेयतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+355974 old {#मुण्डीश्वरतीर्थ#}¦ und {#मुण्डेश्वरतीर्थ#} <lex>n.</lex> Namen von <is>Tirtha's</is>.
+355974 new {#मुण्डीश्वरतीर्थ#}¦ und {#मुण्डेश्वरतीर्थ#} <lex>n.</lex> Namen von <is>Tīrtha's</is>.
+;-----------------
+356441 old {#मुन्यालयतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+356441 new {#मुन्यालयतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+357508 old {#मूर्छ्#}¦ {#मूर्छति#} —1) gerinnen, erstarren, fest werden. —2) ohnmächtig—, betäubt werden. —3) {%fest werden, sich verdichten%}, so <ab>v. a.</ab> {%erstarken (<ls>AV.</ls> <ln>20,34,12.</ln>) an Umfang gewinnen, sich im Menge einfinden%} (<ls>SUŚR.</ls> <ln>2,109,4. 373,3</ln>), {%intensiver werden, Macht bekommen, —haben%}. —4) {%betäuben%}. —5) {%kräftig ertönen lassen%}. —6) <ab>Partic.</ab> —a) {#मूर्त꣫#} —α) {%geronnen%}. —β) {%fest geworden, gestaltet, körperhaft, substantiell, verkörpert%}. —γ) {%ohnmächtig, betäubt%}. —b) {#मूर्छित#} —α) {%ohnmächtig, betäubt%}. Auch <lex>n.</lex> impers. mit <ab>Instr.</ab> des Subjects. —β) {%erstarrt%} von einem best. Zustande des Quecksilbers <ls>RĀJAN.</ls> <ln>13,112</ln>; <ab>vgl.</ab> <ls>GARBE</ls> zu d. St. —γ) {%dicht, mächtig, stark, intensiv (geworden), weit verbreitet, angewachsen, angeschwollen%} <ls>SUŚR.</ls> <ln>2,307,14.</ln> Am Ende eines Comp. {%voller, —erfüllt von%} (73,11); auch so <ab>v. a.</ab> {%vereinigt, —versetzt mit%}. —δ) {%zurückgeprallt%} (Strahlen). —ε) {%aufgeregt%}. —ζ) fehlerhaft für {#मुद्रित#}.
+357508 new {#मूर्छ्#}¦ {#मूर्छति#} —1) gerinnen, erstarren, fest werden. —2) ohnmächtig—, betäubt werden. —3) {%fest werden, sich verdichten%}, so <ab>v. a.</ab> {%erstarken%} (<ls>AV.</ls> <ln>20,34,12</ln>), {%an Umfang gewinnen, sich im Menge einfinden%} (<ls>SUŚR.</ls> <ln>2,109,4. 373,3</ln>), {%intensiver werden, Macht bekommen, —haben%}. —4) {%betäuben%}. —5) {%kräftig ertönen lassen%}. —6) <ab>Partic.</ab> —a) {#मूर्त꣫#} —α) {%geronnen%}. —β) {%fest geworden, gestaltet, körperhaft, substantiell, verkörpert%}. —γ) {%ohnmächtig, betäubt%}. —b) {#मूर्छित#} —α) {%ohnmächtig, betäubt%}. Auch <lex>n.</lex> impers. mit <ab>Instr.</ab> des Subjects. —β) {%erstarrt%} von einem best. Zustande des Quecksilbers <ls>RĀJAN.</ls> <ln>13,112</ln>; <ab>vgl.</ab> <ls>GARBE</ls> zu d. St. —γ) {%dicht, mächtig, stark, intensiv (geworden), weit verbreitet, angewachsen, angeschwollen%} <ls>SUŚR.</ls> <ln>2,307,14.</ln> Am Ende eines Comp. {%voller, —erfüllt von%} (73,11); auch so <ab>v. a.</ab> {%vereinigt, —versetzt mit%}. —δ) {%zurückgeprallt%} (Strahlen). —ε) {%aufgeregt%}. —ζ) fehlerhaft für {#मुद्रित#}.
+;-----------------
+358060 old {#मूलश्रीपतितीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+358060 new {#मूलश्रीपतितीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+358092 old {#मूलस्थानतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+358092 new {#मूलस्थानतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+358492 old {#मृगधूम#}¦ <ab>N. pr.</ab> eines <is>Tirtha</is>.
+358492 new {#मृगधूम#}¦ <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+358975 old {#मृगीकुण्ड#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+358975 new {#मृगीकुण्ड#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+359579 old {#मृत्युंजयतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+359579 new {#मृत्युंजयतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+359591 old {#मृत्युतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+359591 new {#मृत्युतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+360919 old {#मेत्थित꣫#}¦ <lex>Adj.</lex> {%zugesellt%} <ls>TBR.</ls> <ln>3,7,2,7</ln> = <ls>ĀPAST.ŚR.</ls> <ln>9,3,1.</ln> <ab>Vgl.</ab> {#मिथ्#}.
+360919 new {#मेत्थित꣫#}¦ <lex>Adj.</lex> {%zugesellt%} <ls>TBR.</ls> <ln>3,7,2,7</ln> = <ls>ĀPAST. ŚR.</ls> <ln>9,3,1.</ln> <ab>Vgl.</ab> {#मिथ्#}.
+;-----------------
+361183 old {#मेधाविक#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+361183 new {#मेधाविक#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+363655 old {#यजन#}¦ <lex>n.</lex> —1) {%das Opfern%}. {#तव#} {#यजनाय#} {%um dir zu opfern%}. —2) {%Opferplatz%}. —3) <ab>N. pr.</ab> eines <is>Tirtha</is>.
+363655 new {#यजन#}¦ <lex>n.</lex> —1) {%das Opfern%}. {#तव#} {#यजनाय#} {%um dir zu opfern%}. —2) {%Opferplatz%}. —3) <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+365865 old {#यथाभूमि#}¦ <ab>Adv.</ab> {%in das respective Land%} <ls>KĀD.(ed. Bomb.)</ls> <ln>2,336,7</ln> ({#भूमिम्#} fehlerhaft die anderen Ausgg. <ln>108,17</ln> = <ln>133,19</ln>).
+365865 new {#यथाभूमि#}¦ <ab>Adv.</ab> {%in das respective Land%} <ls>KĀD. (ed. Bomb.)</ls> <ln>2,336,7</ln> ({#भूमिम्#} fehlerhaft die anderen Ausgg. <ln>108,17</ln> = <ln>133,19</ln>).
+;-----------------
+367668 old {#यमुनातीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>. {#°माहात्म्य#} <lex>n.</lex>
+367668 new {#यमुनातीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>. {#°माहात्म्य#} <lex>n.</lex>
+;-----------------
+367760 old {#ययातिपतन#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+367760 new {#ययातिपतन#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+372243 old {#योगेश्वरतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+372243 new {#योगेश्वरतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+372395 old {#योधनपुरतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+372395 new {#योधनपुरतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+372479 old {#योनिद्वार#}¦ <lex>n.</lex> —1) {%Muttermund%}. —2) <ab>N. pr.</ab> eines <is>Tirtha</is>.
+372479 new {#योनिद्वार#}¦ <lex>n.</lex> —1) {%Muttermund%}. —2) <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+375834 old {#रत्नग्रीवतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+375834 new {#रत्नग्रीवतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+376102 old {#रत्नयुग्मतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+376102 new {#रत्नयुग्मतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+377279 old {#र꣫पस्#}¦ <lex>n.</lex> {%Gebrechen, körperlicher Schaden, Verletzung%}. <ls>ṚV.</ls> <ln>1,69,8. 6,31,3</ln> nach <ls>SĀY.</ls> = {#रक्षस्#}, nach <ls>AUFRECHT</ls>'S sicherer Vermuthung (<ls>KUHN'S. Z.</ls> <ln>25,601</ln>) ist aber {#विवे꣫र्#} {#अ꣫पांसि#} und {#अ꣫विवेर्#} {#अ꣫पांसि#} zu trennen.
+377279 new {#र꣫पस्#}¦ <lex>n.</lex> {%Gebrechen, körperlicher Schaden, Verletzung%}. <ls>ṚV.</ls> <ln>1,69,8. 6,31,3</ln> nach <ls>SĀY.</ls> = {#रक्षस्#}, nach <ls>AUFRECHT</ls>'S sicherer Vermuthung (<ls>KUHN'S Z.</ls> <ln>25,601</ln>) ist aber {#विवे꣫र्#} {#अ꣫पांसि#} und {#अ꣫विवेर्#} {#अ꣫पांसि#} zu trennen.
+;-----------------
+379827 old {#राजतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+379827 new {#राजतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+382055 old {#रामकेशवतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+382055 new {#रामकेशवतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+385921 old {#रेणुकातीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+385921 new {#रेणुकातीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+390889 old {#लाक्ष#}¦ <lex>Adj.</lex> <ls>Ind. St.</ls> <ln>1,110,7</ln> nach <ls>KUHN</ls> Fehlerhaft für {#लाक्ष्म#} {%an die <is>Lakṣmi</is> gerichtet%}.
+390889 new {#लाक्ष#}¦ <lex>Adj.</lex> <ls>Ind. St.</ls> <ln>1,110,7</ln> nach <ls>KUHN</ls> fehlerhaft für {#लाक्ष्म#} {%an die%} <is>Lakṣmi</is> {%gerichtet%}.
+;-----------------
+394025 old {#लोकोत्तरवादिन्#}¦ <lex>m.</lex> pl {%eine best. buddhistische Schule%} <ls>MAHĀVASTU. ed. SENART.</ls> <ln>2,13.</ln>
+394025 new {#लोकोत्तरवादिन्#}¦ <lex>m.</lex> pl {%eine best. buddhistische Schule%} <ls>MAHĀVASTU (ed. SENART)</ls> <ln>2,13.</ln>
+;-----------------
+394029 old {#लोकोद्धार#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+394029 new {#लोकोद्धार#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+394961 old {#लोहार्गल#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+394961 new {#लोहार्गल#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+404950 old —<ab>Caus.</ab> —1) {%beherbergen, bei sich wohnen lassen%}. —2) {%beziehen, zum Aufenthaltsort erwählen%}. {#प्रेमावासित#} {%in dem die Zuneigung ihre Wohnung aufgeschlagen hat%}. —3) {%Halt machen, sich lagern%} (für die Nacht). {#आवासित#} mit act. Bed. <ls>HARṢAC.(ed. Bomb.)</ls> <ln>470,4.</ln>
+404950 new —<ab>Caus.</ab> —1) {%beherbergen, bei sich wohnen lassen%}. —2) {%beziehen, zum Aufenthaltsort erwählen%}. {#प्रेमावासित#} {%in dem die Zuneigung ihre Wohnung aufgeschlagen hat%}. —3) {%Halt machen, sich lagern%} (für die Nacht). {#आवासित#} mit act. Bed. <ls>HARṢAC. (ed. Bomb.)</ls> <ln>470,4.</ln>
+;-----------------
+405000 old —Mit {#अनु#} {%den Lauf richten nach%} (<ab>Acc.</ab>). Nach <ls>GELDNER</ls> (<ls>KUHN'S. Z.</ls> <ln>27,216. fg.</ln>) {%verzehren%}.
+405000 new —Mit {#अनु#} {%den Lauf richten nach%} (<ab>Acc.</ab>). Nach <ls>GELDNER</ls> (<ls>KUHN'S Z.</ls> <ln>27,216. fg.</ln>) {%verzehren%}.
+;-----------------
+405781 old {#वसुबन्धु#}¦ ({#°बन्ध#} fehlerhaft) <lex>m.</lex> <ab>N. pr.</ab> eines berühmten buddh. Gelehrten <ls>HARṢAC.(ed. Bomb.)</ls> <ln>490,20.</ln>
+405781 new {#वसुबन्धु#}¦ ({#°बन्ध#} fehlerhaft) <lex>m.</lex> <ab>N. pr.</ab> eines berühmten buddh. Gelehrten <ls>HARṢAC. (ed. Bomb.)</ls> <ln>490,20.</ln>
+;-----------------
+406237 old 2. {#व꣫स्तोस्#}¦ <ab>Abl.</ab> <ab>Infin.</ab> zu 7. {#वस्#} <ls>ṚV.</ls> <ln>1,174,3.</ln> Nach <ls>GELDNER</ls> (<ls>KUHN'S. Z.</ls> <ln>27,217</ln>) {%vor dem Verzehren%}.
+406237 new 2. {#व꣫स्तोस्#}¦ <ab>Abl.</ab> <ab>Infin.</ab> zu 7. {#वस्#} <ls>ṚV.</ls> <ln>1,174,3.</ln> Nach <ls>GELDNER</ls> (<ls>KUHN'S Z.</ls> <ln>27,217</ln>) {%vor dem Verzehren%}.
+;-----------------
+409451 old {#वा꣫तापि#}¦ —1) <lex>Adj.</lex> {%windschwellend, gährend%} (<is>Soma</is>). Nach <ls>GELDNER</ls> (<ls>KUHN'S. Z.</ls> <ln>27,216</ln>) {%den Wind zum Verbündeten habend%}. —2) <lex>m.</lex> <ab>N. pr.</ab> eines <is>Asura</is>, den sein Bruder <is>Ilvala</is> in einen Bock verwandelte, von Brahmanen verspeisen und dann wieder aus ihren Bäuchen herauskriechen liess. Zur Strafe wurde er von <is>Agastya</is> verspeist.
+409451 new {#वा꣫तापि#}¦ —1) <lex>Adj.</lex> {%windschwellend, gährend%} (<is>Soma</is>). Nach <ls>GELDNER</ls> (<ls>KUHN'S Z.</ls> <ln>27,216</ln>) {%den Wind zum Verbündeten habend%}. —2) <lex>m.</lex> <ab>N. pr.</ab> eines <is>Asura</is>, den sein Bruder <is>Ilvala</is> in einen Bock verwandelte, von Brahmanen verspeisen und dann wieder aus ihren Bäuchen herauskriechen liess. Zur Strafe wurde er von <is>Agastya</is> verspeist.
+;-----------------
+409475 old {#वा꣫ताप्य#}¦ —1) <lex>Adj.</lex> = {#वा꣫तापि#} 1). <ls>ṚV.</ls> <ln>10,26,2</ln> ist nach <ls>GELDNER</ls> (<ls>KUHN'S. Z.</ls> <ln>27,216</ln>) {#वाताप्यम् = वात[म्] आप्यम्#}. —2) <lex>n.</lex> {%das Anschwellen, Gähren%}.
+409475 new {#वा꣫ताप्य#}¦ —1) <lex>Adj.</lex> = {#वा꣫तापि#} 1). <ls>ṚV.</ls> <ln>10,26,2</ln> ist nach <ls>GELDNER</ls> (<ls>KUHN'S Z.</ls> <ln>27,216</ln>) {#वाताप्यम् = वात[म्] आप्यम्#}. —2) <lex>n.</lex> {%das Anschwellen, Gähren%}.
+;-----------------
+411541 old {#वा꣫राह#}¦ —1) <lex>Adj.</lex> (<lex>f.</lex> {#ई#}) —a) {%vom Eber kommend, aus Schweinsleder gemacht%}. —b) {%zu <is>Viṣṇu</is> als Eber in Beziehung stehend%}. —c) {%von <is>Varāhamihīra</is> verfasst, —ausgesprochen%}. —2) <lex>m.</lex> —a) <is>Viṣṇu</is> [Page6067-2] {%als Eber%}. —b) {%ein Banner mit dem Bilde eines Ebers%} <ls>MBH.</ls> <ln>6,92,39.</ln> —c) {%Dioscorea%}. {#°कन्द#} <lex>n.</lex> {%Yamswurzel%}. Könnte auch <lex>Adj.</lex> von 3)b) sein. —d) <ab>Pl.</ab> {%eine best. Schule des schwarzen <is>Yajus</is>%} <ls>ĀRYAV.</ls> <ln>44,20.</ln> <ls>HEMĀDRI.</ls> <ln>1,519,21.</ln> —e) <ab>N. pr.</ab> eines Berges. —Die <ls>H. an.</ls> <ln>3,768. fg.</ln> dem <lex>m.</lex> {#वाराह#} zugetheilten Bedeutungen kommen {#वराह#} zu. —3) <lex>f.</lex> {#वाराही#} —a) {%die personificirte Energie <is>Viṣṇu's</is> als Ebers%}. <ab>Pl.</ab> unter den Müttern <is>Skanda's</is>. —b) {%Dioscorea%}. {#°मूल#} <lex>n.</lex> {%Yamswurzel%}. —c) <ab>N. pr.</ab> eines Flusses. —4) <lex>n.</lex> —a) Name eines <is>Sāman</is>. {#वाराहमुत्तारम्#} <ls>BR.</ls> —b) <ab>N. pr.</ab> eines <is>Tirtha</is>.
+411541 new {#वा꣫राह#}¦ —1) <lex>Adj.</lex> (<lex>f.</lex> {#ई#}) —a) {%vom Eber kommend, aus Schweinsleder gemacht%}. —b) {%zu <is>Viṣṇu</is> als Eber in Beziehung stehend%}. —c) {%von <is>Varāhamihīra</is> verfasst, —ausgesprochen%}. —2) <lex>m.</lex> —a) <is>Viṣṇu</is> [Page6067-2] {%als Eber%}. —b) {%ein Banner mit dem Bilde eines Ebers%} <ls>MBH.</ls> <ln>6,92,39.</ln> —c) {%Dioscorea%}. {#°कन्द#} <lex>n.</lex> {%Yamswurzel%}. Könnte auch <lex>Adj.</lex> von 3)b) sein. —d) <ab>Pl.</ab> {%eine best. Schule des schwarzen <is>Yajus</is>%} <ls>ĀRYAV.</ls> <ln>44,20.</ln> <ls>HEMĀDRI.</ls> <ln>1,519,21.</ln> —e) <ab>N. pr.</ab> eines Berges. —Die <ls>H. an.</ls> <ln>3,768. fg.</ln> dem <lex>m.</lex> {#वाराह#} zugetheilten Bedeutungen kommen {#वराह#} zu. —3) <lex>f.</lex> {#वाराही#} —a) {%die personificirte Energie <is>Viṣṇu's</is> als Ebers%}. <ab>Pl.</ab> unter den Müttern <is>Skanda's</is>. —b) {%Dioscorea%}. {#°मूल#} <lex>n.</lex> {%Yamswurzel%}. —c) <ab>N. pr.</ab> eines Flusses. —4) <lex>n.</lex> —a) Name eines <is>Sāman</is>. {#वाराहमुत्तारम्#} <ls>ĀRṢ. BR.</ls> —b) <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+430125 old {#विष्णुधारा#}¦ <lex>f.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+430125 new {#विष्णुधारा#}¦ <lex>f.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+434559 old {#वृद्धाचल#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>. {#°माहात्म्य#} <lex>n.</lex> <ls>BURNELL, T.</ls>
+434559 new {#वृद्धाचल#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>. {#°माहात्म्य#} <lex>n.</lex> <ls>BURNELL, T.</ls>
+;-----------------
+437093 old {#वेदार्ण#}¦ <ab>N. pr.</ab> eines <is>Tirtha</is>
+437093 new {#वेदार्ण#}¦ <ab>N. pr.</ab> eines <is>Tīrtha</is>
+;-----------------
+437125 old 2. {#वे꣫दि#}¦ und {#वेदी#} <lex>f.</lex> —1) {%Opferbett, Opferbank, ein oberflächlich ausgegrabener und dann mit Streu belegter Raum in dem Opferhofe, die Stelle des Altars vertretend%}. In der <is>Vedi</is> sind die Feuerheerde angebracht. Häufig wird die weibliche Taille mit der {%in der Mitte schmalen <is>Vedi</is>%} verglichen. —2) {%der Zwischenraum zwischen den speichenähnlichen Theilen eines radähnlichen Altars%} <ls>ŚULBAS.</ls> <ln>3,196.</ln> —3) {%eine überdeckte <is>Vedi</is>-förmige Terrasse im Hofraum, die zu einer Hochzeit hergerichtet wird%}. Am Ende eines <lex>adj. Comp.</lex> {#वेदीक#}. —4) {%Gestell, Sockel, Unterlage, Bank%}. —5) {#वेदी#} <ab>N. pr.</ab> eines <is>Tirtha</is>. Auch {#°तीर्थ#} <lex>n.</lex>
+437125 new 2. {#वे꣫दि#}¦ und {#वेदी#} <lex>f.</lex> —1) {%Opferbett, Opferbank, ein oberflächlich ausgegrabener und dann mit Streu belegter Raum in dem Opferhofe, die Stelle des Altars vertretend%}. In der <is>Vedi</is> sind die Feuerheerde angebracht. Häufig wird die weibliche Taille mit der {%in der Mitte schmalen <is>Vedi</is>%} verglichen. —2) {%der Zwischenraum zwischen den speichenähnlichen Theilen eines radähnlichen Altars%} <ls>ŚULBAS.</ls> <ln>3,196.</ln> —3) {%eine überdeckte <is>Vedi</is>-förmige Terrasse im Hofraum, die zu einer Hochzeit hergerichtet wird%}. Am Ende eines <lex>adj. Comp.</lex> {#वेदीक#}. —4) {%Gestell, Sockel, Unterlage, Bank%}. —5) {#वेदी#} <ab>N. pr.</ab> eines <is>Tīrtha</is>. Auch {#°तीर्थ#} <lex>n.</lex>
+;-----------------
+439053 old {#वैद्यनाथतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+439053 new {#वैद्यनाथतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+439585 old {#वैमानिक#}¦ —1) <lex>Adj.</lex> (<lex>f.</lex> {#ई#}) —a) {%in dem%} {#विमान#} {%genannten palastähnlichen Wagen der Götter fahrend%}. —b) {%die Götter betreffend%}. {#सर्ग#} <lex>m.</lex> so <ab>v. a.</ab> {%die Schöpfung der Götter%} Ist <lex>Adj.</lex> zu 2). —2) <lex>m.</lex> Bez. {%best. himmlischer Wesen und ein Gott%} überh. <ab>Nom. abstr.</ab> {#°त्व#} <lex>n.</lex> <ls>BĀLAR.</ls> <ln>204,14.</ln> *Bei den <is>Jaina</is> zerfällt diese Götterklasse in <is>Kalpabhava</is> und <is>Kalpātīta</is>. —3) wohl <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+439585 new {#वैमानिक#}¦ —1) <lex>Adj.</lex> (<lex>f.</lex> {#ई#}) —a) {%in dem%} {#विमान#} {%genannten palastähnlichen Wagen der Götter fahrend%}. —b) {%die Götter betreffend%}. {#सर्ग#} <lex>m.</lex> so <ab>v. a.</ab> {%die Schöpfung der Götter%} Ist <lex>Adj.</lex> zu 2). —2) <lex>m.</lex> Bez. {%best. himmlischer Wesen und ein Gott%} überh. <ab>Nom. abstr.</ab> {#°त्व#} <lex>n.</lex> <ls>BĀLAR.</ls> <ln>204,14.</ln> *Bei den <is>Jaina</is> zerfällt diese Götterklasse in <is>Kalpabhava</is> und <is>Kalpātīta</is>. —3) wohl <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+440245 old {#वैवस्वततीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+440245 new {#वैवस्वततीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+440801 old {#वैष्णवतीर्थ#}¦ <lex>n.</lex> {%ein <is>Tirtha</is> der <is>Vaiṣṇava</is>%} oder<ab>N. pr.</ab> eines <is>Tirtha</is>.
+440801 new {#वैष्णवतीर्थ#}¦ <lex>n.</lex> {%ein <is>Tīrtha</is> der <is>Vaiṣṇava</is>%} oder<ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+442087 old {#व्यवस्था#}¦ <lex>f.</lex> —1) {%das je anders Sein, Besonderheit, eine abgegrenzte Sonderstellung%} <ls>KAP.</ls> <ln>1,149. 5,124. 6,45.</ln> <ab>Comm.</ab> zu <ls>NYĀYAM.</ls> <ln>9,2,27.</ln> <ls>ŚAṂK. zu. BĀDAR.</ls> <ln>3,3,33. 55.</ln> <ab>Instr.</ab> so <ab>v. a.</ab> {%in jedem einzelnen Falle bestimmt, nicht ad libitum%}. <ab>Loc.</ab> so <ab>v. a.</ab> {%in allen und jeglichen Fällen%}. —2) {%Verbleib, das Verharren an einem Orte%}. —3) {%Bestand, Constanz%}. —4) {%eine feste Grenze%} <ls>ŚIŚ.</ls> <ln>8,22.</ln> —5) {%das Feststehen, Ausgemachtsein, Entscheidung%} (Gaut.); {%eine bestimmte Regel in Bezug auf%} (im Comp. vorangehend). <ab>Instr.</ab> {%in festgesetzter Weise%}. —6) {%eine feste Ueberzeugung, —Ansicht%}. —7) {%ein bestimmtes Orts- oder Zeitverhältniss%}. —8) {%Verhältniss, Proportion%} <ls>BHĀVAPR.</ls> <ln>3,15,8.</ln> —9) {%Zustand, Lage%}. —10) {%Fall%}. —11) {%Gelegenheit%}.
+442087 new {#व्यवस्था#}¦ <lex>f.</lex> —1) {%das je anders Sein, Besonderheit, eine abgegrenzte Sonderstellung%} <ls>KAP.</ls> <ln>1,149. 5,124. 6,45.</ln> <ab>Comm.</ab> zu <ls>NYĀYAM.</ls> <ln>9,2,27.</ln> <ls>ŚAṂK. zu. BĀDAR.</ls> <ln>3,3,33. 55.</ln> <ab>Instr.</ab> so <ab>v. a.</ab> {%in jedem einzelnen Falle bestimmt, nicht ad libitum%}. <ab>Loc.</ab> so <ab>v. a.</ab> {%in allen und jeglichen Fällen%}. —2) {%Verbleib, das Verharren an einem Orte%}. —3) {%Bestand, Constanz%}. —4) {%eine feste Grenze%} <ls>ŚIŚ.</ls> <ln>8,22.</ln> —5) {%das Feststehen, Ausgemachtsein, Entscheidung%} (<ls>GAUT.</ls>); {%eine bestimmte Regel in Bezug auf%} (im Comp. vorangehend). <ab>Instr.</ab> {%in festgesetzter Weise%}. —6) {%eine feste Ueberzeugung, —Ansicht%}. —7) {%ein bestimmtes Orts- oder Zeitverhältniss%}. —8) {%Verhältniss, Proportion%} <ls>BHĀVAPR.</ls> <ln>3,15,8.</ln> —9) {%Zustand, Lage%}. —10) {%Fall%}. —11) {%Gelegenheit%}.
+;-----------------
+443449 old {#व्याविवृत्सु#}¦ <lex>Adj.</lex> {%sich von —(<ab>Abl.</ab> oder im Comp. vorangehend) zu befreien wünschend%} <ls>SĀY.</ls> zu <ls>AIT. UP.</ls> <ln>232,7</ln> [Page6184-1] ({#व्याविवृत्सवो#} zu lesen). <ab>Comm.</ab> zu <ls>VEDĀNTASĀRA. (1829)</ls> <ln>21,5.</ln>
+443449 new {#व्याविवृत्सु#}¦ <lex>Adj.</lex> {%sich von —(<ab>Abl.</ab> oder im Comp. vorangehend) zu befreien wünschend%} <ls>SĀY.</ls> zu <ls>AIT. UP.</ls> <ln>232,7</ln> [Page6184-1] ({#व्याविवृत्सवो#} zu lesen). <ab>Comm.</ab> zu <ls>VEDĀNTASĀRA (1829)</ls> <ln>21,5.</ln>
+;-----------------
+446292 old {#शक्रावतारतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is> <ls>Ind. St.</ls> <ln>15,362.</ln>
+446292 new {#शक्रावतारतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is> <ls>Ind. St.</ls> <ln>15,362.</ln>
+;-----------------
+446320 old {#शक्रेश्वरतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+446320 new {#शक्रेश्वरतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+447040 old {#शङ्खोद्धार#}¦ und {#°तीर्थ#} <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+447040 new {#शङ्खोद्धार#}¦ und {#°तीर्थ#} <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+448073 old {#शतरुद्र#}¦ —1) <lex>m.</lex> <ab>Pl.</ab> —a) {%hundert <is>Rudra</is>%}. —b) bei den <is>Śaiva</is> Bez. {%best. erlöster Seelen%}. —2) <lex>f.</lex> {#आ#} <ab>N. pr.</ab> eines Flusses und <is>Tirtha</is> <ls>MATSYAP.</ls> <ln>22,35.</ln> —3) wohl <lex>n.</lex> und = {#शतरुद्रिय#} 2).
+448073 new {#शतरुद्र#}¦ —1) <lex>m.</lex> <ab>Pl.</ab> —a) {%hundert <is>Rudra</is>%}. —b) bei den <is>Śaiva</is> Bez. {%best. erlöster Seelen%}. —2) <lex>f.</lex> {#आ#} <ab>N. pr.</ab> eines Flusses und <is>Tīrtha</is> <ls>MATSYAP.</ls> <ln>22,35.</ln> —3) wohl <lex>n.</lex> und = {#शतरुद्रिय#} 2).
+;-----------------
+448305 old {#शतसहस्रक#}¦ —1) <lex>Adj.</lex> (<lex>f.</lex> {#°स्रिका#}) {%aus hunderttausend bestehend%}. —2) <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>. <ab>v. l.</ab> {#°साहस्रक#}.
+448305 new {#शतसहस्रक#}¦ —1) <lex>Adj.</lex> (<lex>f.</lex> {#°स्रिका#}) {%aus hunderttausend bestehend%}. —2) <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>. <ab>v. l.</ab> {#°साहस्रक#}.
+;-----------------
+448617 old {#शताह्वा#}¦ <lex>f.</lex> —1) {%<bot>Anethum Sowa</bot>%} <ls>RĀJAN.</ls> <ln>4,10.</ln> <ls>BHĀVAPR.</ls> <ln>3,31.</ln> {#शताह्व#} <ls>SUŚR.</ls> <ln>2,119,1.</ln> metrisch falsch. —2) {%<bot>Asparagus racemosus.</bot>%} {#शताह्वे द्वे#} <ls>CARAKA.</ls> <ln>1,3.</ln> —3) <ab>N. pr.</ab> eines Flusses und <is>Tirtha</is> <ls>MATSYAP.</ls> <ln>22,35.</ln>
+448617 new {#शताह्वा#}¦ <lex>f.</lex> —1) {%<bot>Anethum Sowa</bot>%} <ls>RĀJAN.</ls> <ln>4,10.</ln> <ls>BHĀVAPR.</ls> <ln>3,31.</ln> {#शताह्व#} <ls>SUŚR.</ls> <ln>2,119,1.</ln> metrisch falsch. —2) {%<bot>Asparagus racemosus.</bot>%} {#शताह्वे द्वे#} <ls>CARAKA.</ls> <ln>1,3.</ln> —3) <ab>N. pr.</ab> eines Flusses und <is>Tīrtha</is> <ls>MATSYAP.</ls> <ln>22,35.</ln>
+;-----------------
+449746 old —<ab>Caus.</ab> {#प्रतिशाम्य#} (<ls>VAJRACCH.</ls> <ln>19,9</ln>) und {#°शामयित्वा#} (<ls>MAHĀVASTU.</ls> <ln>56,2</ln>) {%wieder an seinen Platz bringen%}. <ab>Vgl.</ab> 1. {#श्रम्#} mit {#प्रवि#} <ab>Caus.</ab>
+449746 new —<ab>Caus.</ab> {#प्रतिशाम्य#} (<ls>VAJRACCH.</ls> <ln>19,9</ln>) und {#°शामयित्वा#} (<ls>MAHĀVASTU</ls> <ln>56,2</ln>) {%wieder an seinen Platz bringen%}. <ab>Vgl.</ab> 1. {#श्रम्#} mit {#प्रवि#} <ab>Caus.</ab>
+;-----------------
+449795 old {#शमथ#}¦ <lex>m.</lex> —1) {%Gemüthsruhe, Seelenruhe%} <ls>LALIT.</ls> <ln>21,6. 554,17. 18</ln> (an beiden Stellen fehlerhaft {#समथ#}). <ls>MAHĀVASTU.</ls> <ln>120,10.</ln> —2) {%*Minister%}.
+449795 new {#शमथ#}¦ <lex>m.</lex> —1) {%Gemüthsruhe, Seelenruhe%} <ls>LALIT.</ls> <ln>21,6. 554,17. 18</ln> (an beiden Stellen fehlerhaft {#समथ#}). <ls>MAHĀVASTU</ls> <ln>120,10.</ln> —2) {%*Minister%}.
+;-----------------
+451485 old {#शर्करक#}¦ —1) *<lex>Adj.</lex> von {#शर्करा#}. —2) *<lex>m.</lex> {%eine süsse Citrone%} <ls>RĀJAN.</ls> <ln>11,180.</ln> —3) <lex>f.</lex> {#°रिका#} {%Sandzucker%} <ls>PARAMĀRTHA.</ls> <ln>27.</ln>
+451485 new {#शर्करक#}¦ —1) *<lex>Adj.</lex> von {#शर्करा#}. —2) *<lex>m.</lex> {%eine süsse Citrone%} <ls>RĀJAN.</ls> <ln>11,180.</ln> —3) <lex>f.</lex> {#°रिका#} {%Sandzucker%} <ls>PARAMĀRTHAS.</ls> <ln>27.</ln>
+;-----------------
+452394 old 2. {#शशयान#}¦ <lex>n.</lex> {%Hasengang%}, <ab>N. pr.</ab> eines <is>Tirtha</is>.
+452394 new 2. {#शशयान#}¦ <lex>n.</lex> {%Hasengang%}, <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+453746 old {#शाक्यमुनि#}¦ <lex>m.</lex> {%der <is>Muni</is> der <is>Śākya</is>%}, Bez. des Gründers des Buddhismus <ls>KĀD.</ls> <ln>106,18 (192,10.,11)</ln> <ls>HARṢAC.</ls> <ln>212,2.</ln> <ls>KĀRAṆḌ.</ls> <ln>83,21.</ln> Nach <ls>MAHĀVASTU.</ls> <ln>57,8. 61,10</ln> [Page6219-3] giebt es eine Unzahl von <is>Buddha's</is> dieses Namens. Auch {#*°बुद्ध#}.
+453746 new {#शाक्यमुनि#}¦ <lex>m.</lex> {%der <is>Muni</is> der <is>Śākya</is>%}, Bez. des Gründers des Buddhismus <ls>KĀD.</ls> <ln>106,18 (192,10.,11)</ln> <ls>HARṢAC.</ls> <ln>212,2.</ln> <ls>KĀRAṆḌ.</ls> <ln>83,21.</ln> Nach <ls>MAHĀVASTU</ls> <ln>57,8. 61,10</ln> [Page6219-3] giebt es eine Unzahl von <is>Buddha's</is> dieses Namens. Auch {#*°बुद्ध#}.
+;-----------------
+454518 old 1. {#शान्त꣫#}¦ —1) <lex>Adj.</lex> <ab>s. u.</ab> 2. {#शम्#} —2) <lex>m.</lex> <ab>N. pr.</ab> —a) eines [Page6222-1] Sohnes des Tages. —b) eines Sohnes des <is>Manu</is> <is>Tāmasa</is>. —c) eines Sohnes des <is>Śambara</is>. —d) eines Sohnes des <is>Idhmajihva</is> <ls>BHĀG. P.</ls> <ln>5,20,2. 3.</ln> —e) eines Sohnes des <is>Āpa</is> <ls>VP.</ls> <ln>1,15,112.</ln> —f) eines <is>Devaputra</is>. —3) <lex>f.</lex> {#शान्ता#} —a) {%eine best. <is>Śruti</is>%} <ls>S. S. S.</ls> <ln>24.</ln> —b) {%*<bot>Emblica officinalis</bot>%} <ls>RĀJAN.</ls> <ln>11,159.</ln> —c) {%*<bot>Prosopis spicigera</bot> und eine andere Species%} <ls>RĀJAN.</ls> <ln>8,33. 36.</ln> —d) {%*eine Art <is>Dūrvā</is> Gras%} <ls>RĀJAN.</ls> <ln>8,109.</ln> —e) {%*ein best. Arzeneistoff%}, = {#रेणुका#} <ls>RĀJAN.</ls> <ln>6,114.</ln> —f) <ab>N. pr.</ab> —α) einer Tochter <is>Daśaratha's</is>, Adoptivtochter <is>Lomapāda's</is> (<is>Romapāda's</is>) und Gattin <is>Ṛśyaśṛnga's</is>. —β) *einer Göttin, die die Befehle des 7ten <is>Arhant's</is> der <is>Jaina</is> ausführt. —4) <lex>n.</lex> —a) {%ein ruhiges Wesen, eine ruhige Natur%}. —b) <ab>N. pr.</ab> —α) eines <is>Varṣa</is> in <is>Jambudvipa</is>. —β) eines <is>Tirtha</is>.
+454518 new 1. {#शान्त꣫#}¦ —1) <lex>Adj.</lex> <ab>s. u.</ab> 2. {#शम्#} —2) <lex>m.</lex> <ab>N. pr.</ab> —a) eines [Page6222-1] Sohnes des Tages. —b) eines Sohnes des <is>Manu</is> <is>Tāmasa</is>. —c) eines Sohnes des <is>Śambara</is>. —d) eines Sohnes des <is>Idhmajihva</is> <ls>BHĀG. P.</ls> <ln>5,20,2. 3.</ln> —e) eines Sohnes des <is>Āpa</is> <ls>VP.</ls> <ln>1,15,112.</ln> —f) eines <is>Devaputra</is>. —3) <lex>f.</lex> {#शान्ता#} —a) {%eine best. <is>Śruti</is>%} <ls>S. S. S.</ls> <ln>24.</ln> —b) {%*<bot>Emblica officinalis</bot>%} <ls>RĀJAN.</ls> <ln>11,159.</ln> —c) {%*<bot>Prosopis spicigera</bot> und eine andere Species%} <ls>RĀJAN.</ls> <ln>8,33. 36.</ln> —d) {%*eine Art <is>Dūrvā</is> Gras%} <ls>RĀJAN.</ls> <ln>8,109.</ln> —e) {%*ein best. Arzeneistoff%}, = {#रेणुका#} <ls>RĀJAN.</ls> <ln>6,114.</ln> —f) <ab>N. pr.</ab> —α) einer Tochter <is>Daśaratha's</is>, Adoptivtochter <is>Lomapāda's</is> (<is>Romapāda's</is>) und Gattin <is>Ṛśyaśṛnga's</is>. —β) *einer Göttin, die die Befehle des 7ten <is>Arhant's</is> der <is>Jaina</is> ausführt. —4) <lex>n.</lex> —a) {%ein ruhiges Wesen, eine ruhige Natur%}. —b) <ab>N. pr.</ab> —α) eines <is>Varṣa</is> in <is>Jambudvipa</is>. —β) eines <is>Tīrtha</is>.
+;-----------------
+456212 old {#शालूकिनी#}¦ <lex>f.</lex> —1) = {#*शालूकिका#}. —2) <ab>N. pr.</ab> —a) eines <is>Tirtha</is>. —b) *eines Dorfes.
+456212 new {#शालूकिनी#}¦ <lex>f.</lex> —1) = {#*शालूकिका#}. —2) <ab>N. pr.</ab> —a) eines <is>Tīrtha</is>. —b) *eines Dorfes.
+;-----------------
+457187 old {#शिखितीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+457187 new {#शिखितीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+457199 old {#शिखिध्वज#}¦ —1) *<lex>m.</lex> —a) {%Rauch%}. —b) <ab>Bein.</ab> <is>Kārttikeya's</is>. —2) <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+457199 new {#शिखिध्वज#}¦ —1) *<lex>m.</lex> —a) {%Rauch%}. —b) <ab>Bein.</ab> <is>Kārttikeya's</is>. —2) <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+458821 old {#*शिवकान्ती#}¦ <lex>f.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+458821 new {#*शिवकान्ती#}¦ <lex>f.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+458865 old {#शिवगङ्गातीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+458865 new {#शिवगङ्गातीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+458945 old {#शिवतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+458945 new {#शिवतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+459033 old {#शिवधार#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is> <ls>MATSYAP.</ls> <ln>22,49.</ln>
+459033 new {#शिवधार#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is> <ls>MATSYAP.</ls> <ln>22,49.</ln>
+;-----------------
+459601 old {#शिवोद्भेद#}¦ <lex>m.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+459601 new {#शिवोद्भेद#}¦ <lex>m.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+461496 old {#शुकेश्वरतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+461496 new {#शुकेश्वरतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+461608 old {#शुक्रतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+461608 new {#शुक्रतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+461820 old {#शुक्लतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+461820 new {#शुक्लतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+464471 old {#शूलेश्वरतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+464471 new {#शूलेश्वरतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+464821 old {#शृङ्गीश्वरतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+464821 new {#शृङ्गीश्वरतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+469086 old {#श्रीकुञ्ज#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+469086 new {#श्रीकुञ्ज#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+469266 old {#श्रीतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+469266 new {#श्रीतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+469618 old {#श्रीमङ्गल#}¦ <ab>N. pr.</ab> —1) <lex>m.</lex> eines Mannes. —2) einer Oertlichkeit. Als <lex>n.</lex> eines <is>Tirtha</is>.
+469618 new {#श्रीमङ्गल#}¦ <ab>N. pr.</ab> —1) <lex>m.</lex> eines Mannes. —2) einer Oertlichkeit. Als <lex>n.</lex> eines <is>Tīrtha</is>.
+;-----------------
+469962 old {#श्रीशल्मलीभाण्ड#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+469962 new {#श्रीशल्मलीभाण्ड#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+469974 old {#श्रीशुकतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tirtha</is>.
+469974 new {#श्रीशुकतीर्थ#}¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;-----------------
+470268 old {#श्रुत꣫र्#}¦ in einer Formal <ls>TS.</ls> <ln>2,4,7,2</ln> = {#श्रुतः#} <ab>Nomin.</ab>; <ab>vgl.</ab> <ls>KUHN'S. Beitr.</ls> <ln>3,391.</ln>
+470268 new {#श्रुत꣫र्#}¦ in einer Formal <ls>TS.</ls> <ln>2,4,7,2</ln> = {#श्रुतः#} <ab>Nomin.</ab>; <ab>vgl.</ab> <ls>KUHN'S Beitrr.</ls> <ln>3,391.</ln>
+;-----------------
+476069 old {#संवृति#}¦ <lex>f.</lex> —1) {%Verschluss%}. —2) {%Verhüllung, Verbergung, Geheimhaltung%} <ls>ŚIŚ.</ls> <ln>10,35.</ln> —3) {%Verstellung, Heuchelei%}. —4) {%Hemmung%}. Ueber die Bed. des Wortes bei den Buddhisten s. <ls>WASSILIEW, Der Buddh.</ls> <ln>S. 321. fgg.</ln>
+476069 new {#संवृति#}¦ <lex>f.</lex> —1) {%Verschluss%}. —2) {%Verhüllung, Verbergung, Geheimhaltung%} <ls>ŚIŚ.</ls> <ln>10,35.</ln> —3) {%Verstellung, Heuchelei%}. —4) {%Hemmung%}. Ueber die Bed. des Wortes bei den Buddhisten s. <ls>WASSILYEW, Der Buddh.</ls> <ln>S. 321. fgg.</ln>
+;-----------------
+486449 old {#सपिण्ड#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#आ#}) {%am <is>Piṇḍa</is> für die Manen theilnehmend, nicht ferner als in der sechsten%} (ursprüglich wohl nur {%in der dritten Generation mit Jmd%} (<ab>Gen.</ab>) {%verwandt%} <ls>GAUT.</ls> <ls>ĀPAST.</ls> <ls>BAUDH.</ls> <ln>1,11,9.</ln> Vgl <ls>JOLLY, Tagore</ls> Law Lecture. 1883. S. 168. fgg. <ab>Nom. abstr.</ab> {#°ता#} <lex>f.</lex>
+486449 new {#सपिण्ड#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#आ#}) {%am <is>Piṇḍa</is> für die Manen theilnehmend, nicht ferner als in der sechsten%} (ursprüglich wohl nur {%in der dritten Generation mit Jmd%} (<ab>Gen.</ab>) {%verwandt%} <ls>GAUT.</ls> <ls>ĀPAST.</ls> <ls>BAUDH.</ls> <ln>1,11,9.</ln> Vgl <ls>JOLLY, Tagore Law Lectures</ls>, <ln>1883, S. 168. fgg.</ln> <ab>Nom. abstr.</ab> {#°ता#} <lex>f.</lex>
+;-----------------
+488082 old {#सभारण्यविटङ्कवन्त्#}¦ <lex>Adj.</lex> {%bei dem das <is>Sabhā</is>- und <is>Araṇyaparvan</is> (des <ls>MBH.</ls>) den Gipfel bildet%} <ls>MBH.</ls> <ln>1,1,88.</ln>
+488082 new {#सभारण्यविटङ्कवन्त्#}¦ <lex>Adj.</lex> {%bei dem das%} <is>Sabhā</is>- {%und%} <is>Araṇyaparvan</is> (des <ls>MBH.</ls>) {%den Gipfel bildet%} <ls>MBH.</ls> <ln>1,1,88.</ln>
+;-----------------
+492620 old {#संपद#}¦ —1) am Ende eines <lex>adj. Comp.</lex> = {#संपन्न#} {%versehen mit%} <ls>CARAKA.</ls> <ln>6,11.</ln> —2) <lex>n.</lex> = {#समं#} {#पदयुगम्#}. —Für {#सम्पदात्#} <ls>KATHĀS.</ls> <ln>45,366</ln> ist {#संमदात्#} vermuthet worden; <ab>vgl.</ab> die Uebersetzung von <ls>C. H. TAWNEY,</ls> <ln>Vol. I, 431, N.</ln> <ls>KERN</ls> möchte {#संपदामाशिषः#} lesen.
+492620 new {#संपद#}¦ —1) am Ende eines <lex>adj. Comp.</lex> = {#संपन्न#} {%versehen mit%} <ls>CARAKA.</ls> <ln>6,11.</ln> —2) <lex>n.</lex> = {#समं#} {#पदयुगम्#}. —Für {#सम्पदात्#} <ls>KATHĀS.</ls> <ln>45,366</ln> ist {#संमदात्#} vermuthet worden; <ab>vgl.</ab> die Uebersetzung von <ls>C. H. TAWNEY, Vol. I</ls>, <ln>431, N.</ln> <ls>KERN</ls> möchte {#संपदामाशिषः#} lesen.
+;-----------------
+502740 old —Mit {#प्रत्यव#} —1) {%zurückkommen, heimkehren, —in%} (<ab>Loc.</ab>) <ls>ŚAT. BR.</ls> —2) {#प्रत्यवसित#} —a) {%zur alten%} (schlechten) {%Lebensweise zurückgekehrt, rückfällig%} <ls>MBH.</ls> <ln>13,23,67</ln> (= {#आरूढपतित#} <ls>NĪLAK.</ls>; <ab>vgl.</ab> <ls>BAUDH.</ls> <ln>2,4,24</ln>). <ls>NĀRADA.</ls> (a.) 2,1,185 nach dem <ab>Comm.</ab> {%der den Stand des religiösen Bettlers wieder aufgegeben hat%}. —b) {%gegessen%}.
+502740 new —Mit {#प्रत्यव#} —1) {%zurückkommen, heimkehren, —in%} (<ab>Loc.</ab>) <ls>ŚAT. BR.</ls> —2) {#प्रत्यवसित#} —a) {%zur alten%} (schlechten) {%Lebensweise zurückgekehrt, rückfällig%} <ls>MBH.</ls> <ln>13,23,67</ln> (= {#आरूढपतित#} <ls>NĪLAK.</ls>; <ab>vgl.</ab> <ls>BAUDH.</ls> <ln>2,4,24</ln>). <ls>NĀRADA. (a.)</ls> <ln>2,1,185</ln> nach dem <ab>Comm.</ab> {%der den Stand des religiösen Bettlers wieder aufgegeben hat%}. —b) {%gegessen%}.
+;-----------------
+530325 old {#सौषुप्त#}¦ <lex>n.</lex> Bez. {%des 10ten Buches im <ls>MBH.</ls>%} = {#सौप्तिकं पर्व#} <ls>NĪLAK.</ls> zu <ls>MBH.</ls> <ln>1,2,325. 396.</ln>
+530325 new {#सौषुप्त#}¦ <lex>n.</lex> Bez. {%des 10ten Buches im%} <ls>MBH.</ls> = {#सौप्तिकं पर्व#} <ls>NĪLAK.</ls> zu <ls>MBH.</ls> <ln>1,2,325. 396.</ln>
+;-----------------
+531781 old —<ab>Desid.</ab> {#तुष्टूषति#} {%zu loben—, zu preisen beabsichtigen%} <ls>ṚGVIDHĀNA.</ls> <ln>1,1,5.</ln>
+531781 new —<ab>Desid.</ab> {#तुष्टूषति#} {%zu loben—, zu preisen beabsichtigen%} <ls>ṚGVIDHĀNA</ls> <ln>1,1,5.</ln>
+;-----------------
+531797 old —Mit {#सम्#} —1) {%besingen zusammen mit (<ab>Instr.</ab>), alle zusammen besingen%}. —2) {%preisen, verherrlichen, beloben%} überh. <ls>ṚGVIDHĀNA.</ls> <ln>1,1,6.</ln> —3) {#स꣫ंस्तुत#} —a) {%zusammen besungen, —gepriesen%}. —b) {%gepriesen, verherrlicht, gelobt%} überh. —c) {%zu einem <is>Stotra</is> zusammengerechnet%}, überh. {%zusammengezählt, zusammengenommen%}. —d) {%auf gleicher Stufe stehend mit, geltend für%} (<ab>Instr.</ab> oder im Comp. vorangehend) <ls>ĀPAST.</ls> <ln>1,1,27. 2,5. 3,43.</ln> —e) {%vertraut, bekannt%} (von Personen und Sachen)
+531797 new —Mit {#सम्#} —1) {%besingen zusammen mit (<ab>Instr.</ab>), alle zusammen besingen%}. —2) {%preisen, verherrlichen, beloben%} überh. <ls>ṚGVIDHĀNA</ls> <ln>1,1,6.</ln> —3) {#स꣫ंस्तुत#} —a) {%zusammen besungen, —gepriesen%}. —b) {%gepriesen, verherrlicht, gelobt%} überh. —c) {%zu einem <is>Stotra</is> zusammengerechnet%}, überh. {%zusammengezählt, zusammengenommen%}. —d) {%auf gleicher Stufe stehend mit, geltend für%} (<ab>Instr.</ab> oder im Comp. vorangehend) <ls>ĀPAST.</ls> <ln>1,1,27. 2,5. 3,43.</ln> —e) {%vertraut, bekannt%} (von Personen und Sachen)
+;-----------------
+536538 old —Mit {#वि#} —1) {%vergessen%}, mit <ab>Acc.</ab> {#विस्मरति#} = {#विस्मर्यते#} (!) <ab>Comm.</ab> zu <ls>ṚṢIMAṆḌALASTOTRA.</ls> <ln>105. 128</ln> nach <ls>JACOBI.</ls> —2) {#विस्मृत#} —a) {%der Jmd oder Etwas%} (<ab>Acc.</ab>) oder im Comp. vorangehend {%vergessen hat%}. Ohne Ergänzung {%der Alles vergessen hat%}. —b) {%vergessen von%} (<ab>Instr.</ab> oder <ab>Gen.</ab>). —3) {#विस्मृतवन्त्#} = 2)a)
+536538 new —Mit {#वि#} —1) {%vergessen%}, mit <ab>Acc.</ab> {#विस्मरति#} = {#विस्मर्यते#} (!) <ab>Comm.</ab> zu <ls>ṚṢIMAṆḌALASTOTRA</ls> <ln>105. 128</ln> nach <ls>JACOBI.</ls> —2) {#विस्मृत#} —a) {%der Jmd oder Etwas%} (<ab>Acc.</ab>) oder im Comp. vorangehend {%vergessen hat%}. Ohne Ergänzung {%der Alles vergessen hat%}. —b) {%vergessen von%} (<ab>Instr.</ab> oder <ab>Gen.</ab>). —3) {#विस्मृतवन्त्#} = 2)a)
+;-----------------
+538564 old —Mit {#अधि#} {%darüber hinbrausen%} in der Form {#अ꣫धि ष्व꣫णि#} (müsste unbetont sein) Nach <ls>GRASSMANN</ls> ist {#स्व꣫नि#} <ab>Loc.</ab> von {#स्वन्#} {%rauschend%}, nach <ls>AUFRECHT.</ls> (<ls>KUHN'S. Z.</ls> <ln>27,611</ln>) fehlerhaft für {#ष्ण꣫वि#} von {#स्नु꣫#}.
+538564 new —Mit {#अधि#} {%darüber hinbrausen%} in der Form {#अ꣫धि ष्व꣫णि#} (müsste unbetont sein) Nach <ls>GRASSMANN</ls> ist {#स्व꣫नि#} <ab>Loc.</ab> von {#स्वन्#} {%rauschend%}, nach <ls>AUFRECHT.</ls> (<ls>KUHN'S Z.</ls> <ln>27,611</ln>) fehlerhaft für {#ष्ण꣫वि#} von {#स्नु꣫#}.
+;-----------------
+544594 old —Mit {#अभिप्र#} {%losschlagen auf%} (<ab>Acc.</ab>) <ls>DAŚAK.(1883)</ls> <ln>163,15.</ln>
+544594 new —Mit {#अभिप्र#} {%losschlagen auf%} (<ab>Acc.</ab>) <ls>DAŚAK. (1883)</ls> <ln>163,15.</ln>
+;-----------------
+552269 old {#हेरुक#}¦ —1) <lex>m.</lex> —a) <ab>Bein.</ab> <is>Gaṇeśa's</is>. —b) <ab>N. pr.</ab> —α) eines göttlichen Wesens (angeblich im Gefolge <is>Śiva's</is>. —β) *eines <is>Buddha</is>. —γ) verschiedener Personen. —2) <lex>f.</lex> {#आ#} {%eine best. Pflanze%} <ls>ANTYEṢṬIK.</ls> und <ls>AV. PADDH</ls> zu <ls>KAUŚ.</ls> <ln>82,26.</ln>
+552269 new {#हेरुक#}¦ —1) <lex>m.</lex> —a) <ab>Bein.</ab> <is>Gaṇeśa's</is>. —b) <ab>N. pr.</ab> —α) eines göttlichen Wesens (angeblich im Gefolge <is>Śiva's</is>. —β) *eines <is>Buddha</is>. —γ) verschiedener Personen. —2) <lex>f.</lex> {#आ#} {%eine best. Pflanze%} <ls>ANTYEṢṬIK.</ls> und <ls>AV. PADDH.</ls> zu <ls>KAUŚ.</ls> <ln>82,26.</ln>
+;-----------------
