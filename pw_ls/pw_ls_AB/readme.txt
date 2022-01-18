@@ -216,6 +216,10 @@ cp temp_pwbib_input.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/pw/
  
 ****************************************************************
 begin second phase, leading to temp_pw_13.txt and temp_pw_AB_08.txt
+Note: a reference to zipped copy pw_AB_08.txt
+  (which is same as temp_pw_AB_08.txt)
+ is provided in comment
+ https://github.com/sanskrit-lexicon/PWK/issues/79#issuecomment-977402992
 ****************************************************************
 ---------------------------------------------------------------------------
 11-09-2021
