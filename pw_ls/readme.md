@@ -13,3 +13,8 @@ occuring in the PW dictionary.
   each of 6 volumes of PW.  Digitization pwbib_orig.txt provided by Thomas Malten, 
   from work done in 2003. See readme.md therein for details of reformatting.
 
+* **pw_ls_AB** general improvements to ls markup.
+
+* **spruch** Improve markup for references to 'Indische Spruch' so displays
+  can link to an html version of the verses.
+

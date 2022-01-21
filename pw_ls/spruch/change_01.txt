@@ -1,0 +1,679 @@
+; ==========================================================================
+; 4 instances of <ls>Spr.</ls>
+; ==========================================================================
+; -------------------------------------
+; <L>17193<pc>1207-3<k1>ima
+80693 old {#imA/n#}, {#imA/#} und {#imA/ni#} In der klass. <ls>Spr.</ls> nur <ab>Acc.</ab> <ab>Sg.</ab> und <ab>Nom.</ab> <ab>Acc.</ab> <ab>Sg.</ab> <ab>Du.</ab> und <ab>Pl.</ab> {#ime smaH#} {%da sind wir.%} {#yAH#} — {#imAstAH#} <ls>R. 5,13,31.</ls> {#imEs#} (!) <ls>MBH. 1,129,23.</ls> <ls>CARAKA. 607,5.</ls>
+; 
+80693 new {#imA/n#}, {#imA/#} und {#imA/ni#} In der klass. Spr. nur <ab>Acc.</ab> <ab>Sg.</ab> und <ab>Nom.</ab> <ab>Acc.</ab> <ab>Sg.</ab> <ab>Du.</ab> und <ab>Pl.</ab> {#ime smaH#} {%da sind wir.%} {#yAH#} — {#imAstAH#} <ls>R. 5,13,31.</ls> {#imEs#} (!) <ls>MBH. 1,129,23.</ls> <ls>CARAKA. 607,5.</ls>
+; -------------------------------------
+; <L>19525<pc>1239-1<k1>upacitra
+92421 old <div n="2">— b) {%<bot>Croton polyandrum</bot>%} <ls>Spr.</ls>
+; 
+92421 new <div n="2">— b) {%<bot>Croton polyandrum Spr.</bot>%} <ls></ls>
+; -------------------------------------
+; <L>22279<pc>1272-3<k1>eraRqaPalA
+105711 old {#*eraRqaPalA#}¦ <lex>f.</lex> {%<bot>Croton polyandrum</bot>%} <ls>Spr.</ls>
+; 
+105711 new {#*eraRqaPalA#}¦ <lex>f.</lex> {%<bot>Croton polyandrum Spr.</bot>%}
+; -------------------------------------
+; <L>131651<pc>7225-1<k1>smar
+661175 old <div n="1">— 3) {#vismAryate#} <ls>RĀJAT. 5,31</ls> fehlerhaft für {#vismaryate#} (<ab>Pass.</ab> von Simplex) <ab>Vgl.</ab> <ls>Spr.</ls>
+; 
+661175 new <div n="1">— 3) {#vismAryate#} <ls>RĀJAT. 5,318</ls> fehlerhaft für {#vismaryate#} (<ab>Pass.</ab> von Simplex): <ab>vgl.</ab> <ls>Spr. 2802</ls>
+; ==========================================================================
+; <ls>Spr. 182. 521.</ls> -> <ls>Spr. 182.</ls> <ls n="Spr.">521.</ls>
+; 107 cases
+; ==========================================================================
+; -------------------------------------
+; <L>201<pc>1003-2<k1>akftrima
+927 old {#akftrima#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%ungekünstelt , nicht durch Kunst erzeugt , natürlich%} <ls>Spr. 6964. 7290.</ls>
+; 
+927 new {#akftrima#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%ungekünstelt , nicht durch Kunst erzeugt , natürlich%} <ls>Spr. 6964.</ls> <ls n="Spr.">7290.</ls>
+; -------------------------------------
+; <L>248<pc>1003-3<k1>akleSa
+1137 old {#akleSa#}¦ <lex>m.</lex> {%keine Beschwerde (<ab>Abl.</ab> ohne Anstrengung%}) <ls>Spr. 50. 7748.</ls>
+; 
+1137 new {#akleSa#}¦ <lex>m.</lex> {%keine Beschwerde (<ab>Abl.</ab> ohne Anstrengung%}) <ls>Spr. 50.</ls> <ls n="Spr.">7748.</ls>
+; -------------------------------------
+; <L>427<pc>1005-3<k1>agaRya
+1981 old {#agaRya#}¦ <lex>Adj.</lex> Das. <ls>Spr. 7688. 7745.</ls>
+; 
+1981 new {#agaRya#}¦ <lex>Adj.</lex> Das. <ls>Spr. 7688.</ls> <ls n="Spr.">7745.</ls>
+; -------------------------------------
+; <L>464<pc>1006-2<k1>agADa
+2159 old <div n="1">— 1) <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%nicht seicht , tief%} (eig. und übertr.) <ls>128,2.</ls> {#°hfdaya#} <lex>Adj.</lex> <ls>Spr. 7617. 7643.</ls>
+; 
+2159 new <div n="1">— 1) <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%nicht seicht , tief%} (eig. und übertr.) <ls>128,2.</ls> {#°hfdaya#} <lex>Adj.</lex> <ls>Spr. 7617.</ls> <ls n="Spr.">7643.</ls>
+; -------------------------------------
+; <L>925<pc>1011-3<k1>aNgaka
+4296 old <div n="1">— 3) (<ls>Spr. 7645. 7657</ls>).
+; 
+4296 new <div n="1">— 3) (<ls>Spr. 7645.</ls> <ls n="Spr.">7657</ls>).
+; -------------------------------------
+; <L>1405<pc>1017-1<k1>ajYAna
+6541 old <div n="1">— 1) {%das Nichtwissen ; Unwissenheit , Unverstand%} <ls>211,32. 257,14.</ls> <ls>Spr. 110. 7853.</ls> {#ajYAnAt#} und {#ajYAnatas#} {%ohne Wissen%} <ls>43,9. 153,25. 28.</ls>
+; 
+6541 new <div n="1">— 1) {%das Nichtwissen ; Unwissenheit , Unverstand%} <ls>211,32. 257,14.</ls> <ls>Spr. 110.</ls> <ls n="Spr.">7853.</ls> {#ajYAnAt#} und {#ajYAnatas#} {%ohne Wissen%} <ls>43,9. 153,25. 28.</ls>
+; -------------------------------------
+; <L>1427<pc>1017-2<k1>aYcala
+6637 old {#aYcala#}¦ <lex>m.</lex> {%Saum — , Borte — , Zipfel eines Gewandes oder Tuches%} <ls>Spr. 5502. 7813.</ls> — Vgl , {#nayanA-Ycala#} und {#locanAYcala#}.
+; 
+6637 new {#aYcala#}¦ <lex>m.</lex> {%Saum — , Borte — , Zipfel eines Gewandes oder Tuches%} <ls>Spr. 5502.</ls> <ls n="Spr.">7813.</ls> — Vgl , {#nayanA-Ycala#} und {#locanAYcala#}.
+; -------------------------------------
+; <L>1739<pc>1021-2<k1>atitejas
+8128 old <div n="1">— 1) <lex>Adj.</lex> {%überaus glanzvoll ; von gewaltiger Kraft , — Macht%} <ls>Spr. 6902. 1435.</ls>
+; 
+8128 new <div n="1">— 1) <lex>Adj.</lex> {%überaus glanzvoll ; von gewaltiger Kraft , — Macht%} <ls>Spr. 6902.</ls> <ls n="Spr.">1435.</ls>
+; -------------------------------------
+; <L>2110<pc>1025-1<k1>atisaktimant
+9713 old {#atisaktimant#}¦ <lex>Adj.</lex> {%zu sehr hängend an%} (<ab>Loc.</ab>) <ls>Spr. 4450. 6802.</ls>
+; 
+9713 new {#atisaktimant#}¦ <lex>Adj.</lex> {%zu sehr hängend an%} (<ab>Loc.</ab>) <ls>Spr. 4450.</ls> <ls n="Spr.">6802.</ls>
+; -------------------------------------
+; <L>2325<pc>1027-2<k1>atyunnata
+10663 old {#atyunnata#}¦ <lex>Adj.</lex> {%überaus hoch%} <ls>Spr. 181. 183.</ls>
+; 
+10663 new {#atyunnata#}¦ <lex>Adj.</lex> {%überaus hoch%} <ls>Spr. 181.</ls> <ls n="Spr.">183.</ls>
+; -------------------------------------
+; <L>2584<pc>1030-2<k1>adya
+11857 old {#adya/#}¦ und selten {#adia/#} , auch {#adyA/#} (ved.) <ab>Adv.</ab> {%heute ; jetzt.%} {#adyEva#} {%schon heute , alsbald%} <ls>48,16. 163,7.</ls> {#adyApi#} {%noch heute , noch jetzt%} <ls>128,28.</ls> <ls>Spr. 7705. 7726.</ls> {%schon heute , — jetzt.%} {#adyApi#} mit einer Negation im Satze {%noch immer nicht%} <ls>43,12. 163,5. 250,5.</ls> {%jetzt noch nicht ; jetzt nicht mehr.%} {#adya pUrvam#} und {#adya yAvat#} (<ls>142,2</ls>) {%bis jetzt.%} {#adya praBfti#} und
+; 
+11857 new {#adya/#}¦ und selten {#adia/#} , auch {#adyA/#} (ved.) <ab>Adv.</ab> {%heute ; jetzt.%} {#adyEva#} {%schon heute , alsbald%} <ls>48,16. 163,7.</ls> {#adyApi#} {%noch heute , noch jetzt%} <ls>128,28.</ls> <ls>Spr. 7705.</ls> <ls n="Spr.">7726.</ls> {%schon heute , — jetzt.%} {#adyApi#} mit einer Negation im Satze {%noch immer nicht%} <ls>43,12. 163,5. 250,5.</ls> {%jetzt noch nicht ; jetzt nicht mehr.%} {#adya pUrvam#} und {#adya yAvat#} (<ls>142,2</ls>) {%bis jetzt.%} {#adya praBfti#} und
+; -------------------------------------
+; <L>3747<pc>1044-1<k1>anavekzaRa
+17133 old {#anavekzaRa#}¦ <lex>n.</lex> {%das Nichtaufpassen , Sorglosigkeit%} <ls>Spr. 2991. 6607.</ls>
+; 
+17133 new {#anavekzaRa#}¦ <lex>n.</lex> {%das Nichtaufpassen , Sorglosigkeit%} <ls>Spr. 2991.</ls> <ls n="Spr.">6607.</ls>
+; -------------------------------------
+; <L>4961<pc>1058-3<k1>anusArin
+22674 old <div n="1">— 2) {%nachgehend%} so v.a. {%trachtend nach , zu erreichen sich bestrebend%} <ls>Spr. 1656. 5403.</ls>
+; 
+22674 new <div n="1">— 2) {%nachgehend%} so v.a. {%trachtend nach , zu erreichen sich bestrebend%} <ls>Spr. 1656.</ls> <ls n="Spr.">5403.</ls>
+; -------------------------------------
+; <L>5200<pc>1061-2<k1>antatas
+23761 old <div n="1">— 3) {%am Schluss von (<ab>Gen.</ab>) ; schliesslich%} <ls>32,22. 33,1.</ls> <ls>Spr. 7703. 7781.</ls>
+; 
+23761 new <div n="1">— 3) {%am Schluss von (<ab>Gen.</ab>) ; schliesslich%} <ls>32,22. 33,1.</ls> <ls>Spr. 7703.</ls> <ls n="Spr.">7781.</ls>
+; -------------------------------------
+; <L>5498<pc>1065-1<k1>anDa
+25134 old <div n="2">— c) {%blind so v.a. stockfinster%} <ls>Spr. 7647. 7750.</ls>
+; 
+25134 new <div n="2">— c) {%blind so v.a. stockfinster%} <ls>Spr. 7647.</ls> <ls n="Spr.">7750.</ls>
+; -------------------------------------
+; <L>6262<pc>1073-3<k1>apaSabda
+28588 old <div n="1">— 1) {%üble Nachrede%} <ls>Spr. 2911. 7854.</ls>
+; 
+28588 new <div n="1">— 1) {%üble Nachrede%} <ls>Spr. 2911.</ls> <ls n="Spr.">7854.</ls>
+; -------------------------------------
+; <L>6699<pc>1078-3<k1>apragalBa
+30587 old {#apragalBa#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%feig , ängstlich , verzagt%} <ls>86,28. 181,30.</ls> <ls>Spr. 461. 7002</ls> <ls>ŚĀK. 26,10.</ls> <ls>VEṆĪS. 31,15.</ls>
+; 
+30587 new {#apragalBa#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%feig , ängstlich , verzagt%} <ls>86,28. 181,30.</ls> <ls>Spr. 461.</ls> <ls n="Spr.">7002</ls> <ls>ŚĀK. 26,10.</ls> <ls>VEṆĪS. 31,15.</ls>
+; -------------------------------------
+; <L>6868<pc>1080-3<k1>apraDAna
+31321 old {#apraDAna#}¦ <lex>Adj.</lex> {%nicht obenan stehend , eine untergeordnete Stellung einnehmend%} <ls>Spr. 453. 464.</ls> <ls>P. 2,3,19.</ls> (könnte hier auch <lex>n.</lex> {%etwas Untergeordnetes%} sein).
+; 
+31321 new {#apraDAna#}¦ <lex>Adj.</lex> {%nicht obenan stehend , eine untergeordnete Stellung einnehmend%} <ls>Spr. 453.</ls> <ls n="Spr.">464.</ls> <ls>P. 2,3,19.</ls> (könnte hier auch <lex>n.</lex> {%etwas Untergeordnetes%} sein).
+; -------------------------------------
+; <L>6984<pc>1082-1<k1>aprAptakAla
+31827 old <div n="1">— 1) <lex>Adj.</lex> {%dessen Zeit noch nicht gekommen ist%} (von Personen und Sachen) <ls>Spr. 468. 3595.</ls>
+; 
+31827 new <div n="1">— 1) <lex>Adj.</lex> {%dessen Zeit noch nicht gekommen ist%} (von Personen und Sachen) <ls>Spr. 468.</ls> <ls n="Spr.">3595.</ls>
+; -------------------------------------
+; <L>7055<pc>1082-3<k1>aPala
+32127 old <div n="2">— b) {%fruchtlos , unfruchtbar , keinen Nutzen bringend , ohne Erfolg , vergeblich%} <ls>71,26. 75,8.</ls> <ls>GAUT. 9,46.</ls> <ls>Spr. 424. 479.</ls> Dazu <ab>Nom.abstr.</ab> {#°tA#} <lex>f.</lex> <ls>MBH. 3,79,14.</ls>
+; 
+32127 new <div n="2">— b) {%fruchtlos , unfruchtbar , keinen Nutzen bringend , ohne Erfolg , vergeblich%} <ls>71,26. 75,8.</ls> <ls>GAUT. 9,46.</ls> <ls>Spr. 424.</ls> <ls n="Spr.">479.</ls> Dazu <ab>Nom.abstr.</ab> {#°tA#} <lex>f.</lex> <ls>MBH. 3,79,14.</ls>
+; -------------------------------------
+; <L>7128<pc>1083-3<k1>aboDa
+32455 old <div n="1">— 1) {%keine Einsicht habend , unverständig%} <ls>Spr. 641. 3677.</ls>
+; 
+32455 new <div n="1">— 1) {%keine Einsicht habend , unverständig%} <ls>Spr. 641.</ls> <ls n="Spr.">3677.</ls>
+; -------------------------------------
+; <L>7202<pc>1084-2<k1>aBakta
+32793 old <div n="1">— 3) {%nicht zugethan , — ergeben%} <ls>Spr. 4469. 6806.</ls> mit <ab>Loc.</ab> der Person <ls>BHĀG. P. 6,10,29.</ls>
+; 
+32793 new <div n="1">— 3) {%nicht zugethan , — ergeben%} <ls>Spr. 4469.</ls> <ls n="Spr.">6806.</ls> mit <ab>Loc.</ab> der Person <ls>BHĀG. P. 6,10,29.</ls>
+; -------------------------------------
+; <L>7321<pc>1085-3<k1>aBijAta
+33373 old <div n="1">— 2) <lex>n.</lex> {%edle Abstammung%} <ls>Spr. 4395. 6101.</ls>
+; 
+33373 new <div n="1">— 2) <lex>n.</lex> {%edle Abstammung%} <ls>Spr. 4395.</ls> <ls n="Spr.">6101.</ls>
+; -------------------------------------
+; <L>8397<pc>1098-2<k1>amftamaya
+38453 old <div n="1">— 2) {%nektarartig%} <ls>171,28. 175,17.</ls> {%aus Nektar bestehend.%} {#°SarIra#} <lex>Adj.</lex> vom Monde <ls>Spr. 551. 1168.</ls>
+; 
+38453 new <div n="1">— 2) {%nektarartig%} <ls>171,28. 175,17.</ls> {%aus Nektar bestehend.%} {#°SarIra#} <lex>Adj.</lex> vom Monde <ls>Spr. 551.</ls> <ls n="Spr.">1168.</ls>
+; -------------------------------------
+; <L>8869<pc>1103-3<k1>ayogya
+40640 old <div n="1">— 1) {%unbrauchbar , untauglich%} <ls>KĀTY. ŚR. 22,4,11.</ls> <ls>Spr. 735. 7666.</ls> {%sich zu Etwas nicht eignend , nicht befugt%} <ls>YĀJÑ. 2,235.</ls> {%Jmd (<ab>Loc.</ab>) nicht gewachsen%} <ls>VEṆĪS. 120.</ls>
+; 
+40640 new <div n="1">— 1) {%unbrauchbar , untauglich%} <ls>KĀTY. ŚR. 22,4,11.</ls> <ls>Spr. 735.</ls> <ls n="Spr.">7666.</ls> {%sich zu Etwas nicht eignend , nicht befugt%} <ls>YĀJÑ. 2,235.</ls> {%Jmd (<ab>Loc.</ab>) nicht gewachsen%} <ls>VEṆĪS. 120.</ls>
+; -------------------------------------
+; <L>9499<pc>1111-3<k1>arTaviparyaya
+43796 old {#arTaviparyaya#}¦ <lex>m.</lex> {%Verarmung , Armuth%} <ls>Spr. 1804. 2826.</ls>
+; 
+43796 new {#arTaviparyaya#}¦ <lex>m.</lex> {%Verarmung , Armuth%} <ls>Spr. 1804.</ls> <ls n="Spr.">2826.</ls>
+; -------------------------------------
+; <L>10039<pc>1118-2<k1>alIka
+46422 old <div n="2">— a) {%Stirn%} <ls>Spr. 1670. 2605</ls> (an beiden Stellen zugleich {%Falschheit%} ).
+; 
+46422 new <div n="2">— a) {%Stirn%} <ls>Spr. 1670.</ls> <ls n="Spr.">2605</ls> (an beiden Stellen zugleich {%Falschheit%} ).
+; -------------------------------------
+; <L>11000<pc>1129-3<k1>avidya
+50925 old {#avidya#}¦ <lex>Adj.</lex> {%ungebildet%} <ls>Spr. 684. 7833.</ls> {%ohne Wissen%} <ls>685.</ls>
+; 
+50925 new {#avidya#}¦ <lex>Adj.</lex> {%ungebildet%} <ls>Spr. 684.</ls> <ls n="Spr.">7833.</ls> {%ohne Wissen%} <ls>685.</ls>
+; -------------------------------------
+; <L>11157<pc>1131-2<k1>avivekin
+51606 old <div n="1">— 3) {%nicht richtig urtheilend , keine richtige Einsicht habend%} <ls>Spr. 693. 7696.</ls>
+; 
+51606 new <div n="1">— 3) {%nicht richtig urtheilend , keine richtige Einsicht habend%} <ls>Spr. 693.</ls> <ls n="Spr.">7696.</ls>
+; -------------------------------------
+; <L>11194<pc>1132-1<k1>avizaya
+51779 old <div n="1">— 1) {%kein Bereich.%} {#raveravizaye#} so v.a. {%da wohin die Sonne nicht dringt , wo sie nicht scheint%} <ls>Spr. 4439. 5507.</ls>
+; 
+51779 new <div n="1">— 1) {%kein Bereich.%} {#raveravizaye#} so v.a. {%da wohin die Sonne nicht dringt , wo sie nicht scheint%} <ls>Spr. 4439.</ls> <ls n="Spr.">5507.</ls>
+; -------------------------------------
+; <L>11743<pc>1138-2<k1>aSrAnta
+54324 old {#a/SrAnta#}¦ <lex>Adj.</lex> {%unermüdlich.%} {#°m#} <ab>Adv.</ab> <ls>Spr. 2065. 3274.</ls>
+; 
+54324 new {#a/SrAnta#}¦ <lex>Adj.</lex> {%unermüdlich.%} {#°m#} <ab>Adv.</ab> <ls>Spr. 2065.</ls> <ls n="Spr.">3274.</ls>
+; -------------------------------------
+; <L>11754<pc>1138-2<k1>aSruta
+54372 old <div n="2">— c) {%keine Gelehrsamkeit besitzend , ungelehrt%} <ls>Spr. 727. 1520.</ls>
+; 
+54372 new <div n="2">— c) {%keine Gelehrsamkeit besitzend , ungelehrt%} <ls>Spr. 727.</ls> <ls n="Spr.">1520.</ls>
+; -------------------------------------
+; <L>12424<pc>1147-2<k1>asamApta
+57645 old {#asamApta#}¦ <lex>Adj.</lex> {%nicht vollendet%} <ls>Spr. 760. 6576.</ls> {#°kaluza#} <lex>Adj.</lex> {%dessen Schmutz noch <lex>n.</lex> v. ist , so v.a. noch ferner sündigend%} (von einer best. Stufe der Seele hei den <is>Śaiva</is>) <ls>SARVAD. 86,8.</ls>
+; 
+57645 new {#asamApta#}¦ <lex>Adj.</lex> {%nicht vollendet%} <ls>Spr. 760.</ls> <ls n="Spr.">6576.</ls> {#°kaluza#} <lex>Adj.</lex> {%dessen Schmutz noch <lex>n.</lex> v. ist , so v.a. noch ferner sündigend%} (von einer best. Stufe der Seele hei den <is>Śaiva</is>) <ls>SARVAD. 86,8.</ls>
+; -------------------------------------
+; <L>13533<pc>1160-1<k1>Akzepa
+62738 old <div n="1">— 8) {%Schmähung , Beleidigung%} <ls>Spr. 3379. 7725.</ls>
+; 
+62738 new <div n="1">— 8) {%Schmähung , Beleidigung%} <ls>Spr. 3379.</ls> <ls n="Spr.">7725.</ls>
+; -------------------------------------
+; <L>14200<pc>1168-1<k1>AtmapUjA
+65830 old {#AtmapUjA#}¦ <lex>f.</lex> {%Eigenlob%} <ls>Spr. 869. 5794.</ls>
+; 
+65830 new {#AtmapUjA#}¦ <lex>f.</lex> {%Eigenlob%} <ls>Spr. 869.</ls> <ls n="Spr.">5794.</ls>
+; -------------------------------------
+; <L>14873<pc>1176-2<k1>ApadudDaraRa
+69075 old {#ApadudDaraRa#}¦ <lex>n.</lex> {%das Ziehen aus der Noth%} <ls>Spr. 6780. 6835.</ls>
+; 
+69075 new {#ApadudDaraRa#}¦ <lex>n.</lex> {%das Ziehen aus der Noth%} <ls>Spr. 6780.</ls> <ls n="Spr.">6835.</ls>
+; -------------------------------------
+; <L>14876<pc>1176-2<k1>Apadgata
+69089 old {#Apadgata#}¦ <lex>Adj.</lex> {%in's Unglück — , in Noth gerathen%} <ls>Spr. 963. 7733.</ls>
+; 
+69089 new {#Apadgata#}¦ <lex>Adj.</lex> {%in's Unglück — , in Noth gerathen%} <ls>Spr. 963.</ls> <ls n="Spr.">7733.</ls>
+; -------------------------------------
+; <L>14915<pc>1176-3<k1>ApAta
+69259 old <div n="1">— 3) {%unerwartetes Erscheinen , Eintritt , Eintreffen%} <ls>Spr. 3772. 6419.</ls> {#ApAtatas#} und {#ApAta°#} {%sofort , im Nu , beim ersten Blick.%} {#ApAtamAtre#} und {#ApAtamAtra°#} {%nur im ersten Augenblick.%}
+; 
+69259 new <div n="1">— 3) {%unerwartetes Erscheinen , Eintritt , Eintreffen%} <ls>Spr. 3772.</ls> <ls n="Spr.">6419.</ls> {#ApAtatas#} und {#ApAta°#} {%sofort , im Nu , beim ersten Blick.%} {#ApAtamAtre#} und {#ApAtamAtra°#} {%nur im ersten Augenblick.%}
+; -------------------------------------
+; <L>15086<pc>1178-3<k1>ABimuKya
+70053 old <div n="1">— 1) {%das Zugewandtsein%} (die Ergänzung im <ab>Gen.</ab> , <ab>Acc.</ab> oder im Comp. vorangehend) <ls>235,4. 290,6.</ls> <ls>Spr. 5708. 6195.</ls> <ab>Instr.</ab> als Umschreibung von {#aBi#} <ls>UTPALA.</ls> zu <ls>VARĀH. BṚH. 27 (25),29.</ls>
+; 
+70053 new <div n="1">— 1) {%das Zugewandtsein%} (die Ergänzung im <ab>Gen.</ab> , <ab>Acc.</ab> oder im Comp. vorangehend) <ls>235,4. 290,6.</ls> <ls>Spr. 5708.</ls> <ls n="Spr.">6195.</ls> <ab>Instr.</ab> als Umschreibung von {#aBi#} <ls>UTPALA.</ls> zu <ls>VARĀH. BṚH. 27 (25),29.</ls>
+; -------------------------------------
+; <L>15112<pc>1179-1<k1>ABoga
+70187 old <div n="1">— 4) {%Mannichfaltigkeit%} <ls>Spr. 1443. 7254.</ls>
+; 
+70187 new <div n="1">— 4) {%Mannichfaltigkeit%} <ls>Spr. 1443.</ls> <ls n="Spr.">7254.</ls>
+; -------------------------------------
+; <L>16637<pc>1201-1<k1>ikzudaRqa
+78115 old {#ikzudaRqa#}¦ <lex>m.</lex> <lex>n.</lex> {%Zuckerrohrstengel%} <ls>Spr. 1085. 2684.</ls>
+; 
+78115 new {#ikzudaRqa#}¦ <lex>m.</lex> <lex>n.</lex> {%Zuckerrohrstengel%} <ls>Spr. 1085.</ls> <ls n="Spr.">2684.</ls>
+; -------------------------------------
+; <L>16899<pc>1204-2<k1>indubimba
+79361 old {#indubimba#}¦ <lex>n.</lex> (<lex>adj.</lex> Comp. <lex>f.</lex> {#A#}) {%Mondscheibe%} <ls>Spr. 7721. 7813.</ls>
+; 
+79361 new {#indubimba#}¦ <lex>n.</lex> (<lex>adj.</lex> Comp. <lex>f.</lex> {#A#}) {%Mondscheibe%} <ls>Spr. 7721.</ls> <ls n="Spr.">7813.</ls>
+; -------------------------------------
+; <L>17204<pc>1207-3<k1>iyant
+80737 old {#i/yant#}¦ <lex>Adj.</lex> {%tantus , so gross , — viel , nur so gross , — viel , so klein , — unbedeutend%} <ls>136,4. 166,16. 248,18.</ls> <ls>Spr. 7751. 7856.</ls>
+; 
+80737 new {#i/yant#}¦ <lex>Adj.</lex> {%tantus , so gross , — viel , nur so gross , — viel , so klein , — unbedeutend%} <ls>136,4. 166,16. 248,18.</ls> <ls>Spr. 7751.</ls> <ls n="Spr.">7856.</ls>
+; -------------------------------------
+; <L>17894<pc>1218-2<k1>ujJ
+84435 old <div n="1">— 3) mit {#uYC#} verwechselt <ls>Spr. 5539. 6977.</ls>
+; 
+84435 new <div n="1">— 3) mit {#uYC#} verwechselt <ls>Spr. 5539.</ls> <ls n="Spr.">6977.</ls>
+; -------------------------------------
+; <L>19368<pc>1236-3<k1>unmeza
+91617 old <div n="1">— 4) {%das zu Tage Treten , Erscheinen%} <ls>Spr. 6887. 7750.</ls>
+; 
+91617 new <div n="1">— 4) {%das zu Tage Treten , Erscheinen%} <ls>Spr. 6887.</ls> <ls n="Spr.">7750.</ls>
+; -------------------------------------
+; <L>19413<pc>1237-2<k1>upakfti
+91854 old {#upakfti#}¦ <lex>f.</lex> {%Erweisung eines Dienstes oder Gefallens%} <ls>Spr. 7748. 7753.</ls>
+; 
+91854 new {#upakfti#}¦ <lex>f.</lex> {%Erweisung eines Dienstes oder Gefallens%} <ls>Spr. 7748.</ls> <ls n="Spr.">7753.</ls>
+; -------------------------------------
+; <L>19523<pc>1238-3<k1>upaciti
+92403 old <div n="1">— 1) {%Zunahme , Vermehrung%} <ls>Spr. 2810. 3474</ls> (<ab>Conj.</ab>
+; 
+92403 new <div n="1">— 1) {%Zunahme , Vermehrung%} <ls>Spr. 2810.</ls> <ls n="Spr.">3474</ls> (<ab>Conj.</ab>
+; -------------------------------------
+; <L>19995<pc>1244-2<k1>upavAsa
+94636 old <div n="1">— 1) {%Fasten%} (religiös und diätetisch) <ls>GAUT.</ls> <ls>Spr. 7623. 802.</ls>
+; 
+94636 new <div n="1">— 1) {%Fasten%} (religiös und diätetisch) <ls>GAUT.</ls> <ls>Spr. 7623.</ls> <ls n="Spr.">802.</ls>
+; -------------------------------------
+; <L>22191<pc>1271-3<k1>eRa
+105293 old <div n="1">— 2) <lex>f.</lex> {#eRI/#} {%das Weibchen des%} {#eRa#} <ls>Spr. 7618. 7783.</ls>
+; 
+105293 new <div n="1">— 2) <lex>f.</lex> {#eRI/#} {%das Weibchen des%} {#eRa#} <ls>Spr. 7618.</ls> <ls n="Spr.">7783.</ls>
+; -------------------------------------
+; <L>22404<pc>1274-1<k1>Ekamatya
+106258 old {#Ekamatya#}¦ <lex>n.</lex> {%Einmüthigkeit , Einstimmigkeit%} <ls>Spr. 1479. 1481.</ls>
+; 
+106258 new {#Ekamatya#}¦ <lex>n.</lex> {%Einmüthigkeit , Einstimmigkeit%} <ls>Spr. 1479.</ls> <ls n="Spr.">1481.</ls>
+; -------------------------------------
+; <L>24743<pc>2023-3<k1>karAlamba
+118159 old {#karAlamba#}¦ <lex>m.</lex> {%Handstütze , so v.a. Rettungsanker%} <ls>Spr. 4474. 7769.</ls>
+; 
+118159 new {#karAlamba#}¦ <lex>m.</lex> {%Handstütze , so v.a. Rettungsanker%} <ls>Spr. 4474.</ls> <ls n="Spr.">7769.</ls>
+; -------------------------------------
+; <L>25775<pc>2039-2<k1>kavi
+123752 old <div n="2">— e) {%der Planet Venus%} <ls>Spr. 7632. 7861</ls> (an beiden Stellen zugleich Dichter).
+; 
+123752 new <div n="2">— e) {%der Planet Venus%} <ls>Spr. 7632.</ls> <ls n="Spr.">7861</ls> (an beiden Stellen zugleich Dichter).
+; -------------------------------------
+; <L>25792<pc>2039-2<k1>kavitA
+123828 old {#kavitA#}¦ <lex>f.</lex> {%Dichterthum , Dichtkunst%} <ls>Spr. 7627. 7781.</ls> <ls>PRASANNAR. 4,11.</ls>
+; 
+123828 new {#kavitA#}¦ <lex>f.</lex> {%Dichterthum , Dichtkunst%} <ls>Spr. 7627.</ls> <ls n="Spr.">7781.</ls> <ls>PRASANNAR. 4,11.</ls>
+; -------------------------------------
+; <L>25926<pc>2041-1<k1>kasturikA
+124502 old {#*kasturikA#}¦ und {#kastUrikA#} <lex>f.</lex> (<ls>Spr. 7800. 7809</ls>) {%Moschus.%}
+; 
+124502 new {#*kasturikA#}¦ und {#kastUrikA#} <lex>f.</lex> (<ls>Spr. 7800.</ls> <ls n="Spr.">7809</ls>) {%Moschus.%}
+; -------------------------------------
+; <L>25931<pc>2041-2<k1>kastUrI
+124524 old <div n="1">— 1) {%Moschus%} <ls>Spr. 7680. 7803.</ls> <ls>BHĀVAPR. 1,183.</ls>
+; 
+124524 new <div n="1">— 1) {%Moschus%} <ls>Spr. 7680.</ls> <ls n="Spr.">7803.</ls> <ls>BHĀVAPR. 1,183.</ls>
+; -------------------------------------
+; <L>26155<pc>2044-1<k1>kAcamaRi
+125607 old {#kAcamaRi#}¦ <lex>m.</lex> {%Bergkrystall , Quarz%} <ls>Spr. 801. 7621.</ls>
+; 
+125607 new {#kAcamaRi#}¦ <lex>m.</lex> {%Bergkrystall , Quarz%} <ls>Spr. 801.</ls> <ls n="Spr.">7621.</ls>
+; -------------------------------------
+; <L>26368<pc>2046-2<k1>kAnta
+126633 old <div n="2">— a) {%Geliebter , Gatte%} <ls>170,7.</ls> <ls>Spr. 7619. 7678.</ls>
+; 
+126633 new <div n="2">— a) {%Geliebter , Gatte%} <ls>170,7.</ls> <ls>Spr. 7619.</ls> <ls n="Spr.">7678.</ls>
+; -------------------------------------
+; <L>26392<pc>2046-3<k1>kAnti
+126774 old <div n="1">— 3) {%liebliche Farbe , heller Schein%} (insbes. des Mondes <ls>116,17.</ls> <ls>Spr. 2121. 7756.</ls>
+; 
+126774 new <div n="1">— 3) {%liebliche Farbe , heller Schein%} (insbes. des Mondes <ls>116,17.</ls> <ls>Spr. 2121.</ls> <ls n="Spr.">7756.</ls>
+; -------------------------------------
+; <L>26583<pc>2049-1<k1>kAmam
+127730 old <div n="1">— 5) {%dennoch%} <ls>R. 4,16,50.</ls> <ls>Spr. 5911. 6776.</ls>
+; 
+127730 new <div n="1">— 5) {%dennoch%} <ls>R. 4,16,50.</ls> <ls>Spr. 5911.</ls> <ls n="Spr.">6776.</ls>
+; -------------------------------------
+; <L>26684<pc>2050-2<k1>kAmin
+128232 old <div n="2">— b) Weib überh. <ls>169,6.</ls> <ls>Spr. 7645. 7674.</ls>
+; 
+128232 new <div n="2">— b) Weib überh. <ls>169,6.</ls> <ls>Spr. 7645.</ls> <ls n="Spr.">7674.</ls>
+; -------------------------------------
+; <L>27226<pc>2057-3<k1>kAlayApa
+130985 old {#kAlayApa#}¦ <lex>m.</lex> (<ls>Spr. 466</ls>) und {#°na#} <lex>n.</lex> (<ls>Spr. 1691. 6815</ls>) {%das Verstreichenlassen der Zeit , Säumen , Zögern.%}
+; 
+130985 new {#kAlayApa#}¦ <lex>m.</lex> (<ls>Spr. 466</ls>) und {#°na#} <lex>n.</lex> (<ls>Spr. 1691.</ls> <ls n="Spr.">6815</ls>) {%das Verstreichenlassen der Zeit , Säumen , Zögern.%}
+; -------------------------------------
+; <L>28958<pc>2079-2<k1>kumBodBava
+139625 old {#kumBodBava#}¦ <lex>m.</lex> <ab>Bein.</ab> <is>Agastya</is>'s <ls>Spr. 7795. 7825.</ls>
+; 
+139625 new {#kumBodBava#}¦ <lex>m.</lex> <ab>Bein.</ab> <is>Agastya</is>'s <ls>Spr. 7795.</ls> <ls n="Spr.">7825.</ls>
+; -------------------------------------
+; <L>29382<pc>2084-1<k1>kuvAmanA
+141620 old {#kuvAmanA#}¦ <lex>f.</lex> {%eine böse Vorstellung%} <ls>Spr. 1904. 7700.</ls>
+; 
+141620 new {#kuvAmanA#}¦ <lex>f.</lex> {%eine böse Vorstellung%} <ls>Spr. 1904.</ls> <ls n="Spr.">7700.</ls>
+; -------------------------------------
+; <L>29394<pc>2084-2<k1>kuvftti
+141673 old {#kuvftti#}¦ <lex>f.</lex> {%ein schlechter Lebensunterhalt%} <ls>Spr. 1796. 1798.</ls>
+; 
+141673 new {#kuvftti#}¦ <lex>f.</lex> {%ein schlechter Lebensunterhalt%} <ls>Spr. 1796.</ls> <ls n="Spr.">1798.</ls>
+; -------------------------------------
+; <L>30046<pc>2092-1<k1>kftApakfta
+144927 old {#*kftApakfta#}¦ <lex>Adj.</lex> {%was wohl gethan und was versehen worden ist.%} <ab>Vgl.</ab> <ls>Spr. 923. 1557.</ls>
+; 
+144927 new {#*kftApakfta#}¦ <lex>Adj.</lex> {%was wohl gethan und was versehen worden ist.%} <ab>Vgl.</ab> <ls>Spr. 923.</ls> <ls n="Spr.">1557.</ls>
+; -------------------------------------
+; <L>34865<pc>2158-1<k1>garBa
+169887 old <div n="1">— 2) {%das Innere überh.%} <ls>152,21.</ls> <ls>Spr. 7686. 7774.</ls> {#indIvara°#} <ls>5543</ls> {#kamala°#} <ls>MBH. 1,172,9. 3,133,63. 309,11.</ls> {#padma°#} <ls>VARĀH. BṚH. S. 70,11.</ls> <ls>Chr. 249,25.</ls> {#amBoja°#} <ls>319,8.</ls> <ls>NAIṢ. 11,78.</ls> {#ramBA°#} <ls>Chr. 313,19.</ls> Am Ende eines <lex>adj.</lex> Comp. — {%in seinem Innern bergend , — enthaltend.%}
+; 
+169887 new <div n="1">— 2) {%das Innere überh.%} <ls>152,21.</ls> <ls>Spr. 7686.</ls> <ls n="Spr.">7774.</ls> {#indIvara°#} <ls>5543</ls> {#kamala°#} <ls>MBH. 1,172,9. 3,133,63. 309,11.</ls> {#padma°#} <ls>VARĀH. BṚH. S. 70,11.</ls> <ls>Chr. 249,25.</ls> {#amBoja°#} <ls>319,8.</ls> <ls>NAIṢ. 11,78.</ls> {#ramBA°#} <ls>Chr. 313,19.</ls> Am Ende eines <lex>adj.</lex> Comp. — {%in seinem Innern bergend , — enthaltend.%}
+; -------------------------------------
+; <L>37654<pc>2195-2<k1>Gaw
+184012 old <div n="2">— d) {%herbeiholen , herbeischaffen%} <ls>Spr. 2911. 4734.</ls> <ls>KATHĀS. 18,359.</ls>
+; 
+184012 new <div n="2">— d) {%herbeiholen , herbeischaffen%} <ls>Spr. 2911.</ls> <ls n="Spr.">4734.</ls> <ls>KATHĀS. 18,359.</ls>
+; -------------------------------------
+; <L>37656<pc>2195-3<k1>Gawaka
+184083 old <div n="2">— a) {%vollbringend , Etwas zu Stande bringend%} <ls>Spr. 1460. 7617.</ls>
+; 
+184083 new <div n="2">— a) {%vollbringend , Etwas zu Stande bringend%} <ls>Spr. 1460.</ls> <ls n="Spr.">7617.</ls>
+; -------------------------------------
+; <L>38419<pc>2206-2<k1>caYcu
+188208 old <div n="1">— 1) <lex>Adj.</lex> am Ende eines Comp. {%bekannt — , berühmt durch%} <ls>MBH. 13,17,107.</ls> <ls>Spr. 3391. 7821.</ls> <ab>Nom.abstr.</ab> {#°tA#} <lex>f.</lex> und {#°tva#} <lex>n.</lex> (<ls>DAŚAK. 13,4</ls>).
+; 
+188208 new <div n="1">— 1) <lex>Adj.</lex> am Ende eines Comp. {%bekannt — , berühmt durch%} <ls>MBH. 13,17,107.</ls> <ls>Spr. 3391.</ls> <ls n="Spr.">7821.</ls> <ab>Nom.abstr.</ab> {#°tA#} <lex>f.</lex> und {#°tva#} <lex>n.</lex> (<ls>DAŚAK. 13,4</ls>).
+; -------------------------------------
+; <L>39257<pc>2218-1<k1>caraRAnati
+192577 old {#caraRAnati#}¦ <lex>f.</lex> {%das sich zu Füssen Verbeugen , Fussfall%} <ls>Spr. 2528. 2915.</ls>
+; 
+192577 new {#caraRAnati#}¦ <lex>f.</lex> {%das sich zu Füssen Verbeugen , Fussfall%} <ls>Spr. 2528.</ls> <ls n="Spr.">2915.</ls>
+; -------------------------------------
+; <L>39677<pc>2223-3<k1>cAraRa
+194747 old <div n="2">— a) {%ein umherziehender Schauspieler.%} <ls>Spr. 2235. 2278.</ls> <ls>PAÑCAT. 43,4.</ls> <ls>RĀJAT. 1,22.</ls>
+; 
+194747 new <div n="2">— a) {%ein umherziehender Schauspieler.%} <ls>Spr. 2235.</ls> <ls n="Spr.">2278.</ls> <ls>PAÑCAT. 43,4.</ls> <ls>RĀJAT. 1,22.</ls>
+; -------------------------------------
+; <L>44859<pc>3016-2<k1>taruRendu
+222037 old {#taruRendu#}¦ <lex>m.</lex> {%der zunehmende Mond%} <ls>Spr. 4775. 7770.</ls>
+; 
+222037 new {#taruRendu#}¦ <lex>m.</lex> {%der zunehmende Mond%} <ls>Spr. 4775.</ls> <ls n="Spr.">7770.</ls>
+; -------------------------------------
+; <L>46763<pc>3041-1<k1>tfRI
+231534 old {#tfRI#}¦ <ab>Adv.</ab> mit {#kar#} {%einem Grashalm gleich achten , auf Nichts anschlagen%} <ls>NAIṢ. 3,54.</ls> <ls>Spr. 7629. 7659.</ls>
+; 
+231534 new {#tfRI#}¦ <ab>Adv.</ab> mit {#kar#} {%einem Grashalm gleich achten , auf Nichts anschlagen%} <ls>NAIṢ. 3,54.</ls> <ls>Spr. 7629.</ls> <ls n="Spr.">7659.</ls>
+; -------------------------------------
+; <L>51892<pc>3110-3<k1>dUzay
+257080 old <ls>Spr. 2855. 5737.</ls>
+; 
+257080 new <ls>Spr. 2855.</ls> <ls n="Spr.">5737.</ls>
+; -------------------------------------
+; <L>56473<pc>3176-1<k1>nadItIra
+280211 old {#nadItIra#}¦ <lex>n.</lex> {%Flussufer%} <ls>Spr. 3290. 7649.</ls>
+; 
+280211 new {#nadItIra#}¦ <lex>n.</lex> {%Flussufer%} <ls>Spr. 3290.</ls> <ls n="Spr.">7649.</ls>
+; -------------------------------------
+; <L>56961<pc>3183-2<k1>nart
+282790 old <div n="1">— 1) {%hinundher tanzen%} <ls>Spr. 7719. 7755.</ls>
+; 
+282790 new <div n="1">— 1) {%hinundher tanzen%} <ls>Spr. 7719.</ls> <ls n="Spr.">7755.</ls>
+; -------------------------------------
+; <L>62713<pc>4018-2<k1>pad
+311456 old <div n="1">— 8) {#Apanna#} fehlerhaft für {#Asanna#} und {#AyattaH#} <ab>vgl.</ab> <ls>Spr. 5939. 6869.</ls>
+; 
+311456 new <div n="1">— 8) {#Apanna#} fehlerhaft für {#Asanna#} und {#AyattaH#} <ab>vgl.</ab> <ls>Spr. 5939.</ls> <ls n="Spr.">6869.</ls>
+; -------------------------------------
+; <L>62713<pc>4018-2<k1>pad
+311641 old <div n="1">— 18) {%gewahr — , inne werden , hinter , Etwas kommen , eine Kenntniss von Etwas erlangen , kennen lernen , erfahren , erkennen , einsehen , begreifen.%} {#anyaTA#} {%eine falsche Meinung von Jmd%} (<ab>Acc.</ab>) {%haben%} <ls>Spr. 5619. 5651.</ls> {#pratipanna#}
+; 
+311641 new <div n="1">— 18) {%gewahr — , inne werden , hinter , Etwas kommen , eine Kenntniss von Etwas erlangen , kennen lernen , erfahren , erkennen , einsehen , begreifen.%} {#anyaTA#} {%eine falsche Meinung von Jmd%} (<ab>Acc.</ab>) {%haben%} <ls>Spr. 5619.</ls> <ls n="Spr.">5651.</ls> {#pratipanna#}
+; -------------------------------------
+; <L>63144<pc>4028-3<k1>para
+314116 old <div n="2">— e) in Bezug auf den Grad ; {%vorzüglicher , besser , trefflicher , ärger , — als%} <ab>Abl.</ab> , ausnahmsweise im Comp. vorangehend <ls>Spr. 2011. 6439</ls>), {%der vorzüglichste , beste , trefflichste , ärgste , summus.%} Compar. {#paratara#} mit <ab>Abl.</ab>
+; 
+314116 new <div n="2">— e) in Bezug auf den Grad ; {%vorzüglicher , besser , trefflicher , ärger , — als%} <ab>Abl.</ab> , ausnahmsweise im Comp. vorangehend <ls>Spr. 2011.</ls> <ls n="Spr.">6439</ls>), {%der vorzüglichste , beste , trefflichste , ärgste , summus.%} Compar. {#paratara#} mit <ab>Abl.</ab>
+; -------------------------------------
+; <L>64358<pc>4046-2<k1>parizvaNga
+320016 old <div n="1">— 2) {%Berührung — , Contact mit%} (im Comp. vorangehend) <ls>Spr. 5526. 6192.</ls>
+; 
+320016 new <div n="1">— 2) {%Berührung — , Contact mit%} (im Comp. vorangehend) <ls>Spr. 5526.</ls> <ls n="Spr.">6192.</ls>
+; -------------------------------------
+; <L>67804<pc>4095-1<k1>punar
+337335 old <div n="1">— 2) {%wieder , von Neuem , abermals.%} {#punarBUyaH#} <ab>dass.</ab> Mit {#BU#} {%wieder , entstehen , wieder neu werden ; sich wieder verheirathen%} (vom Weibe). {#pu/naHpunaH#} und das einfache {#punar#} (<ls>Spr. 3914. 7272</ls>) {%zu wiederholten Malen , immer und immer wieder.%} {#na punaH punaH#} {%nimmer wieder%} <ls>Spr. 4124. 4126.</ls>
+; 
+337335 new <div n="1">— 2) {%wieder , von Neuem , abermals.%} {#punarBUyaH#} <ab>dass.</ab> Mit {#BU#} {%wieder , entstehen , wieder neu werden ; sich wieder verheirathen%} (vom Weibe). {#pu/naHpunaH#} und das einfache {#punar#} (<ls>Spr. 3914.</ls> <ls n="Spr.">7272</ls>) {%zu wiederholten Malen , immer und immer wieder.%} {#na punaH punaH#} {%nimmer wieder%} <ls>Spr. 4124.</ls> <ls n="Spr.">4126.</ls>
+; -------------------------------------
+; <L>70677<pc>4134-1<k1>prajYa
+351292 old <div n="1">— 1) <lex>Adj.</lex> (<lex>f.</lex> {#A#} {%Einsicht habend , verständig.%} Am Ende eines Comp. {%kundig , sich verstehend auf.%} Die <ab>v.l.</ab> (z.B. <ls>Spr. 5985. 7048</ls>) hat hier und da das gangbarere {#prAjYa#}.
+; 
+351292 new <div n="1">— 1) <lex>Adj.</lex> (<lex>f.</lex> {#A#} {%Einsicht habend , verständig.%} Am Ende eines Comp. {%kundig , sich verstehend auf.%} Die <ab>v.l.</ab> (z.B. <ls>Spr. 5985.</ls> <ls n="Spr.">7048</ls>) hat hier und da das gangbarere {#prAjYa#}.
+; -------------------------------------
+; <L>74574<pc>4190-2<k1>prAvAra
+370335 old 2. {#prAvAra#}¦ <lex>Adj.</lex> {%auf Ueberwürfen sich findend.%} {#kIwaka#} <lex>m.</lex> {%Kleiderlaus%} <ls>Spr. 182. 521.</ls>
+; 
+370335 new 2. {#prAvAra#}¦ <lex>Adj.</lex> {%auf Ueberwürfen sich findend.%} {#kIwaka#} <lex>m.</lex> {%Kleiderlaus%} <ls>Spr. 182.</ls> <ls n="Spr.">521.</ls>
+; -------------------------------------
+; <L>79639<pc>4263-1<k1>BAvaSudDi
+395646 old {#BAvaSudDi#}¦ <lex>f.</lex> {%Reinheit der Gesinnung , — der Herzens%} <ls>Spr. 4579. 4873.</ls>
+; 
+395646 new {#BAvaSudDi#}¦ <lex>f.</lex> {%Reinheit der Gesinnung , — der Herzens%} <ls>Spr. 4579.</ls> <ls n="Spr.">4873.</ls>
+; -------------------------------------
+; <L>80067<pc>4270-3<k1>BujaMga
+398082 old <div n="2">— c) {%der Liebhaber einer Buhldirne , Galan%} (<ls>292,30.</ls> <ls>Spr. 7752. 7822</ls>), {%der liederliche Gefährte eines Fürsten.%} Auch in gutem Sinne {%der beständige Gefährte eines Fürsten%} (<ls>HARṢAC. 55,17</ls>) und {%Gatte%} (in {#pfTivI°#}).
+; 
+398082 new <div n="2">— c) {%der Liebhaber einer Buhldirne , Galan%} (<ls>292,30.</ls> <ls>Spr. 7752.</ls> <ls n="Spr.">7822</ls>), {%der liederliche Gefährte eines Fürsten.%} Auch in gutem Sinne {%der beständige Gefährte eines Fürsten%} (<ls>HARṢAC. 55,17</ls>) und {%Gatte%} (in {#pfTivI°#}).
+; -------------------------------------
+; <L>83276<pc>5029-1<k1>mandamandam
+414691 old <div n="1">— 1) {%ganz langsam , — gemächlich , allmählich%} <ls>Spr. 7729. 7729.</ls>
+; 
+414691 new <div n="1">— 1) {%ganz langsam , — gemächlich , allmählich%} <ls>Spr. 7729.</ls> <ls n="Spr.">7729.</ls>
+; -------------------------------------
+; <L>83864<pc>5038-2<k1>malinAtman
+417853 old <div n="1">— 2) {%von schmutziger Gesinnung%} <ls>Spr. 6219. 7849.</ls>
+; 
+417853 new <div n="1">— 2) {%von schmutziger Gesinnung%} <ls>Spr. 6219.</ls> <ls n="Spr.">7849.</ls>
+; -------------------------------------
+; <L>88387<pc>5101-2<k1>mftyukAla
+440451 old {#mftyukAla#}¦ <lex>m.</lex> {%Todesstunde%} <ls>Spr. 5515. 6533.</ls>
+; 
+440451 new {#mftyukAla#}¦ <lex>m.</lex> {%Todesstunde%} <ls>Spr. 5515.</ls> <ls n="Spr.">6533.</ls>
+; -------------------------------------
+; <L>92770<pc>5171-1<k1>ramBoru
+463058 old {#ramBoru#}¦ <lex>Adj.</lex> (<lex>f.</lex> eben so , aber häufiger {#°rU#}) {%mit Lenden , die Pisang-Stämmen gleichen%} , <ls>Spr. 7641. 7656.</ls>
+; 
+463058 new {#ramBoru#}¦ <lex>Adj.</lex> (<lex>f.</lex> eben so , aber häufiger {#°rU#}) {%mit Lenden , die Pisang-Stämmen gleichen%} , <ls>Spr. 7641.</ls> <ls n="Spr.">7656.</ls>
+; -------------------------------------
+; <L>93409<pc>5179-3<k1>rAjapriya
+466235 old <div n="2">— b) {%die Geliebte des Mondes%} <ls>Spr. 7757. 7760.</ls>
+; 
+466235 new <div n="2">— b) {%die Geliebte des Mondes%} <ls>Spr. 7757.</ls> <ls n="Spr.">7760.</ls>
+; -------------------------------------
+; <L>102742<pc>6094-2<k1>vidyArTin
+516281 old {#vidyArTin#}¦ <lex>Adj.</lex> = {#vidyArTa#} <ls>Spr. 1649. 6090.</ls> <ls>ŚAṂK.</ls> zu <ls>KAṬHOP. 2,4.</ls>
+; 
+516281 new {#vidyArTin#}¦ <lex>Adj.</lex> = {#vidyArTa#} <ls>Spr. 1649.</ls> <ls n="Spr.">6090.</ls> <ls>ŚAṂK.</ls> zu <ls>KAṬHOP. 2,4.</ls>
+; -------------------------------------
+; <L>102923<pc>6097-1<k1>viDi
+517233 old <div n="3">— α) <is>Brahman</is>'s <ls>Spr. 7637. 7728.</ls>
+; 
+517233 new <div n="3">— α) <is>Brahman</is>'s <ls>Spr. 7637.</ls> <ls n="Spr.">7728.</ls>
+; -------------------------------------
+; <L>103853<pc>6110-1<k1>vimuktakaRWa
+521879 old {#vimuktakaRWa°#}¦ und {#°m#} <ab>Adv.</ab> {%aus vollem Halse%} (schreien) <ls>Spr. 2696. 3158.</ls>
+; 
+521879 new {#vimuktakaRWa°#}¦ und {#°m#} <ab>Adv.</ab> {%aus vollem Halse%} (schreien) <ls>Spr. 2696.</ls> <ls n="Spr.">3158.</ls>
+; -------------------------------------
+; <L>106612<pc>6151-3<k1>vfdDopasevin
+535973 old {#vfdDopasevin#}¦ <lex>Adj.</lex> {%Alte ehrend%} <ls>Spr. 504. 6265.</ls> <ls>R. 5,36,63.</ls>
+; 
+535973 new {#vfdDopasevin#}¦ <lex>Adj.</lex> {%Alte ehrend%} <ls>Spr. 504.</ls> <ls n="Spr.">6265.</ls> <ls>R. 5,36,63.</ls>
+; -------------------------------------
+; <L>111036<pc>6216-2<k1>SaSimuKI
+558081 old {#SaSimuKI#}¦ <lex>f.</lex> {%eine Mondantlitzige%} <ls>Spr. 7619. 7818.</ls>
+; 
+558081 new {#SaSimuKI#}¦ <lex>f.</lex> {%eine Mondantlitzige%} <ls>Spr. 7619.</ls> <ls n="Spr.">7818.</ls>
+; -------------------------------------
+; <L>117743<pc>7021-3<k1>sacakitam
+591446 old {#sacakitam#}¦ <ab>Adv.</ab> {%zitternd , erschrocken%} <ls>306,28.</ls> <ls>Spr. 1637. 6897.</ls>
+; 
+591446 new {#sacakitam#}¦ <ab>Adv.</ab> {%zitternd , erschrocken%} <ls>306,28.</ls> <ls>Spr. 1637.</ls> <ls n="Spr.">6897.</ls>
+; -------------------------------------
+; <L>123926<pc>7115-1<k1>sAntvavAda
+622058 old {#sAntvavAda#}¦ <lex>m.</lex> <ab>Sg.</ab> und <ab>Pl.</ab> {%freundliche Worte%} <ls>Spr. 2696. 7765.</ls>
+; 
+622058 new {#sAntvavAda#}¦ <lex>m.</lex> <ab>Sg.</ab> und <ab>Pl.</ab> {%freundliche Worte%} <ls>Spr. 2696.</ls> <ls n="Spr.">7765.</ls>
+; -------------------------------------
+; <L>124134<pc>7117-3<k1>sAmasidDa
+623015 old {#sAmasidDa#}¦ <lex>Adj.</lex> {%durch gute Worte zu Wege gebracht%} <ls>Spr. 7012. 7018.</ls>
+; 
+623015 new {#sAmasidDa#}¦ <lex>Adj.</lex> {%durch gute Worte zu Wege gebracht%} <ls>Spr. 7012.</ls> <ls n="Spr.">7018.</ls>
+; -------------------------------------
+; <L>124335<pc>7120-2<k1>sAra
+623988 old <div n="2">— p) in der Rhetorik {%eine Art Klimax.%} Beispiel <ls>Spr. 2347. 5775.</ls>
+; 
+623988 new <div n="2">— p) in der Rhetorik {%eine Art Klimax.%} Beispiel <ls>Spr. 2347.</ls> <ls n="Spr.">5775.</ls>
+; -------------------------------------
+; <L>125344<pc>7135-1<k1>sindUra
+629033 old <div n="2">— a) {%Mennig%} <ls>292,22.</ls> <ls>Spr. 7745. 7798.</ls> <ls>VĀSAV. 58,4. 165,4. 192,2. 247,2.</ls>
+; 
+629033 new <div n="2">— a) {%Mennig%} <ls>292,22.</ls> <ls>Spr. 7745.</ls> <ls n="Spr.">7798.</ls> <ls>VĀSAV. 58,4. 165,4. 192,2. 247,2.</ls>
+; -------------------------------------
+; <L>129294<pc>7185-1<k1>sevana
+648452 old <div n="1">— 5) {%das Obliegen , Ausüben , Fröhnen ; Gebrauch , häufiger Genuss%} <ls>Spr. 7667. 7768.</ls>
+; 
+648452 new <div n="1">— 5) {%das Obliegen , Ausüben , Fröhnen ; Gebrauch , häufiger Genuss%} <ls>Spr. 7667.</ls> <ls n="Spr.">7768.</ls>
+; -------------------------------------
+; <L>129478<pc>7187-2<k1>sopadrava
+649324 old {#sopadrava#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%mit Widerwärtigkeiten — , mit Uebeln — , mit Gefahren verbunden%} <ls>Spr. 699. 6284.</ls>
+; 
+649324 new {#sopadrava#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%mit Widerwärtigkeiten — , mit Uebeln — , mit Gefahren verbunden%} <ls>Spr. 699.</ls> <ls n="Spr.">6284.</ls>
+; -------------------------------------
+; <L>130085<pc>7195-1<k1>sOraBa
+652178 old <div n="2">— a) {%das Wohlriechendsein , Wohlgeruch%} <ls>252,21.</ls> <ls>ŚIŚ. 6,14. 10,24.</ls> <ls>Spr. 7680. 7760.</ls> zu 1584.
+; 
+652178 new <div n="2">— a) {%das Wohlriechendsein , Wohlgeruch%} <ls>252,21.</ls> <ls>ŚIŚ. 6,14. 10,24.</ls> <ls>Spr. 7680.</ls> <ls n="Spr.">7760.</ls> zu 1584.
+; -------------------------------------
+; <L>131082<pc>7215-3<k1>sTirAramBa
+658124 old {#sTirAramBa#}¦ <lex>Adj.</lex> {%beim Begonnenen beharrend , Ausdauer habend%} <ls>M. 7,209.</ls> <ls>Spr. 269. 3842.</ls>
+; 
+658124 new {#sTirAramBa#}¦ <lex>Adj.</lex> {%beim Begonnenen beharrend , Ausdauer habend%} <ls>M. 7,209.</ls> <ls>Spr. 269.</ls> <ls n="Spr.">3842.</ls>
+; -------------------------------------
+; <L>131567<pc>7223-2<k1>sPuwavaktar
+660655 old {#sPuwavaktar#}¦ <ab>Nom.ag.</ab> {%deutlich reden , gerade heraus sprechend%} <ls>Spr. 3786. 7655.</ls>
+; 
+660655 new {#sPuwavaktar#}¦ <ab>Nom.ag.</ab> {%deutlich reden , gerade heraus sprechend%} <ls>Spr. 3786.</ls> <ls n="Spr.">7655.</ls>
+; -------------------------------------
+; <L>132078<pc>7232-3<k1>svadeSa
+663457 old <div n="1">— 2) {%das eigenen Land%} (<ls>Spr. 7267. 7277</ls>), {%der eigene Wohnort , Heimat%} <ls>112,30. 124,24. 126,31.</ls>
+; 
+663457 new <div n="1">— 2) {%das eigenen Land%} (<ls>Spr. 7267.</ls> <ls n="Spr.">7277</ls>), {%der eigene Wohnort , Heimat%} <ls>112,30. 124,24. 126,31.</ls>
+; -------------------------------------
+; <L>133682<pc>7259-2<k1>hariRIdfS
+672000 old {#hariRIdfS#}¦ <lex>f.</lex> {%eine Gazellenäugige%} <ls>Spr. 7631. 7745.</ls> <ls>Ind. St. 15,328.</ls>
+; 
+672000 new {#hariRIdfS#}¦ <lex>f.</lex> {%eine Gazellenäugige%} <ls>Spr. 7631.</ls> <ls n="Spr.">7745.</ls> <ls>Ind. St. 15,328.</ls>
+; ==========================================================================
+; <ls>Spr. I. J. K.</ls> ->
+; <ls>Spr. I.</ls> <ls n="Spr.">J.</ls>  <ls n="Spr.">K.</ls> 
+; ==========================================================================
+; -------------------------------------
+; <L>1900<pc>1023-1<k1>atiBAra
+8813 old 1. {#atiBAra#}¦ <lex>m.</lex> {%schwere Last%} <ls>132,26.</ls> {#cintA°#} {%von Sorgen%} <ls>311,11.</ls> so. v.a. {%eine zu schwere Arbeit%} <ls>Spr. 1926. 3307. 3557.</ls> <ls>R. 3,74,30. 6,23,22.</ls> ( {#atiBAva#} gedr.) {#anAsti vacanasyAtiBAraH#} so v.a. {%eine ausdrückliche Bestimmung ist mächtiger als Alles.%}
+; 
+8813 new 1. {#atiBAra#}¦ <lex>m.</lex> {%schwere Last%} <ls>132,26.</ls> {#cintA°#} {%von Sorgen%} <ls>311,11.</ls> so. v.a. {%eine zu schwere Arbeit%} <ls>Spr. 1926.</ls> <ls n="Spr.">3307.</ls> <ls n="Spr.">3557.</ls> <ls>R. 3,74,30. 6,23,22.</ls> ( {#atiBAva#} gedr.) {#anAsti vacanasyAtiBAraH#} so v.a. {%eine ausdrückliche Bestimmung ist mächtiger als Alles.%}
+; -------------------------------------
+; <L>8909<pc>1104-2<k1>arakzitar
+40901 old {#arakzitar#}¦ <ab>Nom.ag.</ab> {%kein Schützer%} <ls>89,6.</ls> <ls>Spr. 568. 1699. 609.</ls>
+; 
+40901 new {#arakzitar#}¦ <ab>Nom.ag.</ab> {%kein Schützer%} <ls>89,6.</ls> <ls>Spr. 568.</ls> <ls n="Spr.">1699.</ls> <ls n="Spr.">609.</ls>
+; -------------------------------------
+; <L>9458<pc>1111-1<k1>arTapati
+43592 old <div n="1">— 1) {%reicher Mann , grosser Herr%} <ls>Spr. 383. 762. 2029.</ls>
+; 
+43592 new <div n="1">— 1) {%reicher Mann , grosser Herr%} <ls>Spr. 383.</ls> <ls n="Spr.">762.</ls> <ls n="Spr.">2029.</ls>
+; -------------------------------------
+; <L>9477<pc>1111-2<k1>arTayukti
+43699 old {#arTayukti#}¦ <lex>f.</lex> {%Gewinn , Vortheil%} <ls>Spr. 589. 3678. 5679.</ls>
+; 
+43699 new {#arTayukti#}¦ <lex>f.</lex> {%Gewinn , Vortheil%} <ls>Spr. 589.</ls> <ls n="Spr.">3678.</ls> <ls n="Spr.">5679.</ls>
+; -------------------------------------
+; <L>26583<pc>2049-1<k1>kAmam
+127731 old <div n="1">— 6) {%wenn auch , gesetzt dass%} (gewöhnlich mit Imperat.) <ls>319,30.</ls> <ls>R. 6,93,49. 56.</ls> <ls>RAGH. 2,3.</ls> <ls>Spr. 1637. 3894. 7843.</ls>
+; 
+127731 new <div n="1">— 6) {%wenn auch , gesetzt dass%} (gewöhnlich mit Imperat.) <ls>319,30.</ls> <ls>R. 6,93,49. 56.</ls> <ls>RAGH. 2,3.</ls> <ls>Spr. 1637.</ls> <ls n="Spr.">3894.</ls> <ls n="Spr.">7843.</ls>
+; -------------------------------------
+; <L>27870<pc>2065-2<k1>kim
+134040 old <div n="3">— β) {#api#} (erst bei <ls>KĀLIDĀSA</ls>) 1) {%sehr , gehörig , heftig , stark%} <ls>Spr. 7620. 7658. 7715.</ls> Mit einer Negation {%durchaus nicht%} <ls>7828.</ls> <ls>RAGH. 2,57</ls> 2) {%noch mehr , ja sogar.%}
+; 
+134040 new <div n="3">— β) {#api#} (erst bei <ls>KĀLIDĀSA</ls>) 1) {%sehr , gehörig , heftig , stark%} <ls>Spr. 7620.</ls> <ls n="Spr.">7658.</ls> <ls n="Spr.">7715.</ls> Mit einer Negation {%durchaus nicht%} <ls>7828.</ls> <ls>RAGH. 2,57</ls> 2) {%noch mehr , ja sogar.%}
+; -------------------------------------
+; <L>40453<pc>2234-3<k1>cumb
+198780 old <div n="1">— 2) {%unmittelbar berühren%} <ls>Spr. 7699. 7833. 7843.</ls> {#mArge cumbite BAsvadaMSuBiH#} <ls>SARVAD. 39,4.</ls> {#aNgAracumbita#} <ls>MĀLATĪM. 12,5 (15,4. 38,2).</ls> {#cumbitAni madanidrayA nayanAni#} <ls>VIKRAMĀṄKAC. 14,7.</ls>
+; 
+198780 new <div n="1">— 2) {%unmittelbar berühren%} <ls>Spr. 7699.</ls> <ls n="Spr.">7833.</ls> <ls n="Spr.">7843.</ls> {#mArge cumbite BAsvadaMSuBiH#} <ls>SARVAD. 39,4.</ls> {#aNgAracumbita#} <ls>MĀLATĪM. 12,5 (15,4. 38,2).</ls> {#cumbitAni madanidrayA nayanAni#} <ls>VIKRAMĀṄKAC. 14,7.</ls>
+; -------------------------------------
+; <L>44301<pc>3005-3<k1>tadanu
+218736 old {#tadanu#}¦ <ab>Adv.</ab> {%darauf , alsdann , hierauf%} <ls>311,26.</ls> <ls>MEGH. 13.</ls> <ls>ŚRUT. 38</ls> (<ls>ŚRUT. (BR.) 39</ls>.) <ls>Spr. 4039. 6522. 7728</ls> ( {#AdO - tadanu#}) zu 2083.
+; 
+218736 new {#tadanu#}¦ <ab>Adv.</ab> {%darauf , alsdann , hierauf%} <ls>311,26.</ls> <ls>MEGH. 13.</ls> <ls>ŚRUT. 38</ls> (<ls>ŚRUT. (BR.) 39</ls>.) <ls>Spr. 4039.</ls> <ls n="Spr.">6522.</ls> <ls n="Spr.">7728</ls> ( {#AdO - tadanu#}) zu 2083.
+; -------------------------------------
+; <L>94602<pc>5197-2<k1>ruSant
+472282 old <div n="1">— 2) {%widerwärtig , ungünstig ; widerlich , abscheulich%} <ls>AV. 3,28,1. 4,16,6. 14,1,38.</ls> <ls>KAUŚ. 102.</ls> <ls>BHĀG. P. 4,4,17. 9,9,24.</ls> Insbes. {#ruSatI#} von einer Rede so v.a. {%verletzend%} <ls>6,10,28</ls> ; in dieser Verbindung auch {#ruzatI#} (<ls>MBH. 5,75,5.</ls> = {#rozavatI#} <ab>Comm.</ab>) und {#uzatI#} geschrieben ; <ab>vgl.</ab> <ls>Spr. 3542. 3646. 4732.</ls> {#ruzatI#} <ls>HARIV. 7796</ls> könnte {%Bösses im Sinne habend gegen%} (<ab>Gen.</ab>) bedeuten.
+; 
+472282 new <div n="1">— 2) {%widerwärtig , ungünstig ; widerlich , abscheulich%} <ls>AV. 3,28,1. 4,16,6. 14,1,38.</ls> <ls>KAUŚ. 102.</ls> <ls>BHĀG. P. 4,4,17. 9,9,24.</ls> Insbes. {#ruSatI#} von einer Rede so v.a. {%verletzend%} <ls>6,10,28</ls> ; in dieser Verbindung auch {#ruzatI#} (<ls>MBH. 5,75,5.</ls> = {#rozavatI#} <ab>Comm.</ab>) und {#uzatI#} geschrieben ; <ab>vgl.</ab> <ls>Spr. 3542.</ls> <ls n="Spr.">3646.</ls> <ls n="Spr.">4732.</ls> {#ruzatI#} <ls>HARIV. 7796</ls> könnte {%Bösses im Sinne habend gegen%} (<ab>Gen.</ab>) bedeuten.
+; -------------------------------------
+; <L>133436<pc>7250-2<k1>hataviDi
+669819 old 1. {#hataviDi#}¦ <lex>m.</lex> {%das abscheuliche — , verwünschte Schicksal%} <ls>Spr. 3367. 3701. 6193.</ls> <ls>VEṆĪS. 56,4.</ls> <ls>MAHĀN. 552.</ls> <ls>ŚIŚ. 11,64.</ls>
+; 
+669819 new 1. {#hataviDi#}¦ <lex>m.</lex> {%das abscheuliche — , verwünschte Schicksal%} <ls>Spr. 3367.</ls> <ls n="Spr.">3701.</ls> <ls n="Spr.">6193.</ls> <ls>VEṆĪS. 56,4.</ls> <ls>MAHĀN. 552.</ls> <ls>ŚIŚ. 11,64.</ls>
+; ==========================================================================
+; 12 remaining irregular <ls>Spr....</ls>
+; ==========================================================================
+; -------------------------------------
+; <L>200<pc>1003-2<k1>akftya
+923 old {#akftya#}¦ <lex>Adj.</lex> {%nicht zu thun , zu unterlassen ; <lex>n.</lex> ein zu unterlassendes Werk , Unrecht%} <ls>SUŚR. 1,86,4.</ls> <ls>Spr. 40. fg. 1879. fg.</ls> <ls>SĀH. D. 1,14.</ls> <ls>PAÑCAT. 128,12.</ls> {#°kArin#} <ls>MBH. 3,269,22.</ls>
+; 
+923 new {#akftya#}¦ <lex>Adj.</lex> {%nicht zu thun , zu unterlassen ; <lex>n.</lex> ein zu unterlassendes Werk , Unrecht%} <ls>SUŚR. 1,86,4.</ls> <ls>Spr. 40. fg.</ls> <ls n="Spr.">1879. fg.</ls> <ls>SĀH. D. 1,14.</ls> <ls>PAÑCAT. 128,12.</ls> {#°kArin#} <ls>MBH. 3,269,22.</ls>
+; -------------------------------------
+; <L>1834<pc>1022-2<k1>atiparicaya
+8525 old {#atiparicaya#}¦ <lex>m.</lex> {%zu nahe Bekanntschaft , zu grosse Vertrautheit%} <ls>Spr. 139. fg. 7722.</ls>
+; 
+8525 new {#atiparicaya#}¦ <lex>m.</lex> {%zu nahe Bekanntschaft , zu grosse Vertrautheit%} <ls>Spr. 139. fg.</ls> <ls n="Spr.">7722.</ls>
+; -------------------------------------
+; <L>2346<pc>1027-3<k1>atri
+10758 old <div n="2">— a) <ab>N.pr.</ab> eines alten <is>Ṛṣi</is> <ls>11,22.</ls> Aus seinen Augen entspringt der Mond <ls>Spr. 7620,7828.</ls> <ab>Pl.</ab> {%<is>Atri</is>'s Nachkommen.%}
+; 
+10758 new <div n="2">— a) <ab>N.pr.</ab> eines alten <is>Ṛṣi</is> <ls>11,22.</ls> Aus seinen Augen entspringt der Mond <ls>Spr. 7620.</ls> <ls n="Spr.">7828.</ls> <ab>Pl.</ab> {%<is>Atri</is>'s Nachkommen.%}
+; -------------------------------------
+; <L>4652<pc>1055-1<k1>anubanDa
+21250 old <div n="2">— d) {%Folge , die Folgen%} <ls>163,20.</ls> <ls>Spr. 318. fg. 4059. 4525.</ls>
+; 
+21250 new <div n="2">— d) {%Folge , die Folgen%} <ls>163,20.</ls> <ls>Spr. 318. fg.</ls> <ls n="Spr.">4059.</ls> <ls n="Spr.">4525.</ls>
+; -------------------------------------
+; <L>5210<pc>1061-3<k1>antar
+23814 old <div n="2">— c) mit <ab>Gen.</ab> {%in , innerhalb , zwischen , inmitten%} <ls>76,10. 137,20. 299,26. 304,23.</ls> <ls>Spr. 7646 .7732.</ls> {%aus — heraus%} <ls>ŚIŚ. 3,77.</ls>
+; 
+23814 new <div n="2">— c) mit <ab>Gen.</ab> {%in , innerhalb , zwischen , inmitten%} <ls>76,10. 137,20. 299,26. 304,23.</ls> <ls>Spr. 7646.</ls> <ls n="Spr.">7732.</ls> {%aus — heraus%} <ls>ŚIŚ. 3,77.</ls>
+; -------------------------------------
+; <L>5521<pc>1065-2<k1>anDas  No change made
+;25256 old <div n="1">— 4) {%Speise%} <ls>MBH.</ls> <ls>BHĀG. P.</ls> <ls>Spr. 7826, N.</ls>
+; 
+;25256 new <div n="1">— 4) {%Speise%} <ls>MBH.</ls> <ls>BHĀG. P.</ls> <ls>Spr. 7826, N.</ls>
+; -------------------------------------
+; <L>25469<pc>2034-1<k1>kalADara
+;122024 old <div n="1">— 1) <lex>Adj.</lex> {%im Besitz der Künste oder einer Kunst seiend%} <ls>Spr. 7861,d.</ls>
+; 
+;122024 new <div n="1">— 1) <lex>Adj.</lex> {%im Besitz der Künste oder einer Kunst seiend%} <ls>Spr. 7861,d.</ls>
+; -------------------------------------
+; <L>25469<pc>2034-1<k1>kalADara
+;122026 old <div n="2">— a) {%der Mond%} <ls>Spr. 7861,b.</ls> <ls>HĀSY. 43.</ls>
+; 
+;122026 new <div n="2">— a) {%der Mond%} <ls>Spr. 7861,b.</ls> <ls>HĀSY. 43.</ls>
+; -------------------------------------
+; <L>62714<pc>4021-2<k1>pad
+311759 old <div n="1">— 1) {%Fuss.%} {#padA#} (<ls>Spr. 76,77</ls>), {#padByAm#} u. {#padBis#} auch {%zu Fuss.%} Am Ende eines <lex>adj.</lex> Comp. auch {%sich an Jmds Füsse hängend.%}
+; 
+311759 new <div n="1">— 1) {%Fuss.%} {#padA#} (<ls>Spr. 7677</ls>), {#padByAm#} u. {#padBis#} auch {%zu Fuss.%} Am Ende eines <lex>adj.</lex> Comp. auch {%sich an Jmds Füsse hängend.%}
+; -------------------------------------
+; <L>64601<pc>4049-3<k1>paropakAra
+321195 old {#paropakAra#}¦ <lex>m.</lex> {%einem Andern erwiesene Dienste , Hülfeleistung%} <ls>Spr. 3981. fgg. 7718.</ls>
+; 
+321195 new {#paropakAra#}¦ <lex>m.</lex> {%einem Andern erwiesene Dienste , Hülfeleistung%} <ls>Spr. 3981. fgg.</ls> <ls n="Spr.">7718.</ls>
+; -------------------------------------
+; <L>71584<pc>4146-3<k1>pratizWa
+355651 old <div n="2">— k) {%eine hohe , ehrenvolle Stellung , hohes Ansehen%} <ls>Spr. 78,25.</ls> zu <ls>2542</ls> und <ls>3349</ls>.
+; 
+355651 new <div n="2">— k) {%eine hohe , ehrenvolle Stellung , hohes Ansehen%} <ls>Spr. 7825.</ls> zu <ls>2542</ls> und <ls>3349</ls>.
+; -------------------------------------
+; <L>90611<pc>5134-2<k1>yA
+451743 old <div n="1">— 4) {%von dannen gehen , vergehen , verschwinden%} <ls>Spr. 7750,7770.</ls>
+; 
+451743 new <div n="1">— 4) {%von dannen gehen , vergehen , verschwinden%} <ls>Spr. 7750.</ls> <ls n="Spr.">7770.</ls>
