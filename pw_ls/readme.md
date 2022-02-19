@@ -18,3 +18,4 @@ occuring in the PW dictionary.
 * **spruch** Improve markup for references to 'Indische Spruch' so displays
   can link to an html version of the verses.
 
+* **summary**  Generate a summary of counts of ls references for pwk
