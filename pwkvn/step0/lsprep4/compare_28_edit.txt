@@ -1,0 +1,581 @@
+0002	00000	ABHINAVAGUPTA	v0001	ABHINAVAGUPTA	Abhinavagupta	N. of a well-known author[CA]
+0001	00000	ACH. PADDH.	v0002	ACH. PADDH.	Ach. Paddh.	[UL]
+0043	00163	AGNI-P.	1004	AGNI-P.	Agni-P.	AGNIPURĀṆA in der Bibl. ind. 
+0005	00182	AIT. A1R.	1005	AIT. ĀR.	Ait. Ār.	AITAREYĀRAṆYAKA in der Bibl. ind. In der Regel citirt nach Seite und Zeile (KERN und ROTH). 
+0042	00212	AIT. BR.	1006	AIT. BR.	Ait. Br.	AITAREYABRĀHMAṆA, Ausg. von HAUG. 
+0008	00048	AK.	1008	AK.	Ak.	AMARAKOŚA, Ausg. von LOISELEUR DESLONGCHAMPS. 
+0009	00000	ALAM3KA1RAR.	v0003	ALAṂKĀRAR.	Alaṃkārar.	alaṃ-kāra—ratnākara (work)[CA]
+0006	00000	ALAM3KA1RAS.	v0004	ALAṂKĀRAS.	Alaṃkāras.	alaṃ-kāra—sarvasva (work) [CA]
+0005	00003	ALAM3KA1RAS4.	6001	ALAṂKĀRAŚ.	Alaṃkāraś.	ALAṂKĀRAŚEKHARA, lith. Ausg. Benares 1923 (TH. AUFRECHT und R. PISCHEL).
+0004	00005	ALAM3KA1RAT.	5003	ALAṂKĀRAT.	Alaṃkārat.	ALAṂKĀRATILAKA, Hdschr. (AUFRECHT). 
+0016	00001	ALAM3KA1RAV.	5004	ALAṂKĀRAV.	Alaṃkārav.	ALAṂKĀRAVIMARŚINĪ von JAYARATHA, Deccan Coll. Hdschr. No. 230 (PISCHEL). 
+0001	00002	A1NANDAL.	2002	ĀNANDAL.	Ānandal.	ĀNANDALAHARĪ in HAEBELIN's Anthologie. 
+0009	00016	ANARGHAR.	5005	ANARGHAR.	Anarghar.	ANARGHARĀGHAVA, Calcutta Śaka 1782 (AUFRECHT). 
+0001	00000	ANARGHYAR.	v0005	ANARGHYAR.	Anarghyar.	[UL]
+0001	00000	ANIR.	v0006	ANIR.	Anir.	a-niruddha, author of a Comm. on the Sāṃkhya-sūtras [CA]
+0085	00000	ANIRUDDHA	v0007	ANIRUDDHA	Aniruddha	a-niruddha, author of a Comm. on the Sāṃkhya-sūtras [CA]
+0001	00000	ANIRUDDHA'S	v0008	ANIRUDDHA'S	Aniruddha's	a-niruddha, author of a Comm. on the Sāṃkhya-sūtras [CA]
+0003	00001	ANTYESHT2IK.	X112	ANTYEṢṬIK.	Antyeṣṭik.	[unknown literary source]
+0001	00000	ANUKR.	v0009	ANUKR.	Anukr.	anu-kramaṇikā, a table or chapter of contents [CA]
+0002	00000	APARA1RKA	v0010	APARĀRKA	Aparārka	aparārka, the oldest known commentator of Yājñavalkya's law-book [CA]
+0107	00967	A1PAST.	1013	ĀPAST.	Āpast.	ĀPASTAMBA'S DHARMASŪTRA, Ausg. von BÜHLER. 
+0223	00012	A1PAST. GR2HY.	X028	ĀPAST. GṚHY.	Āpast. Gṛhy.	āpastamba—gṛhya n. N. of wk. by Āpastamba and his school [CA]
+0001	00000	A1PAST. GR2HYAS.	v0011	ĀPAST. GṚHYAS.	Āpast. Gṛhyas.	āpastamba—gṛhya n. N. of wk. by Āpastamba and his school [CA]
+0529	01106	A1PAST. S4R.	1014	ĀPAST. ŚR.	Āpast. Śr.	ĀPASTAMBA'S ŚRAUTASŪTRA, Hdschr. (GARME und ROTH). 
+0007	00448	A1RSH. BR.	1017	ĀRṢ. BR.	Ārṣ. Br.	ĀRṢEYABRĀHMAṆA, Ausg. von BURNELL. 
+0004	00004	ASAHA1YA	5006	ASAHĀYA	Asahāya	ASAHĀYA , ein Commentator des NĀRADA (JOLLY). 
+0025	00096	A1S4V. GR2HY.	1002	ĀŚV. GṚHY.	Āśv. Gṛhy.	ĀŚVALĀYANA'S GṚHYASŪTRA; Ausg. von STENZLER. 
+0025	00156	A1S4V. S4R.	1001	ĀŚV. ŚR.	Āśv. Śr.	ĀŚVALĀYANA's ŚRAUTASŪTRA in der Bibl. ind. 
+0011	00015	AS4VAV.	X110	AŚVAV.	Aśvav.	[UL]
+0001	00000	ATH. ANUKR.	v0012	ATH. ANUKR.	Ath. Anukr.	atharva—veda anu-kramaṇikā, a table or chapter of contents of [CA]
+0001	00000	ATH. PADDH.	v0013	ATH. PADDH.	Ath. Paddh.	atharva—veda paddhati (guide book to AV) [CA]
+0001	00000	ATH. PADDHATI	v0014	ATH. PADDHATI	Ath. Paddhati	atharva—veda paddhati (guide book to AV.) [CA]
+0002	00000	ATH. PAR.	v0015	ATH. PAR.	Ath. Par.	atharva—veda pari-śiṣṭa (appendix to AV.) [CA]
+0001	00000	AUCITYA1L.	v0016	AUCITYĀL.	Aucityāl.	aucityālaṃkāra, N. of wk. [CA]
+0074	00050	AUFRECHT	X015	AUFRECHT	Aufrecht	Simon Theodor Aufrecht (1822-1907), German Indologist [CA]
+0072	00668	AV.	1020	AV.	Av.	ATHARVAVEDA, Ausg. von ROTH und WHITNEY (ROTH). 
+0002	00001	AV. ANUKR.	X193	AV. ANUKR.	Av. Anukr.	atharva—veda anu-kramaṇikā, a table or chapter of contents of [CA]
+0001	00000	AV. PADD.	v0018	AV. PADD.	Av. Padd.	atharva—veda paddhati (guide book to AV) [CA]
+0008	00001	AV. PADDH.	Y016	AV. PADDH.	Av. Paddh.	atharva—veda paddhati (guide book to AV) [CA]
+0007	00065	AV. PAIPP.	1022	AV. PAIPP.	Av. Paipp.	AV. der PAIPPALĀDA-Schule, Hdschr. (ROTH). 
+0010	00044	AV. PARIS4.	1023	AV. PARIŚ.	Av. Pariś.	PARIŚIṢṬA zum AV. , Hdschr. (ROTH). 
+0003	00028	AV. PRA1T.	X134	AV. PRĀT.	Av. Prāt.	[UL]
+0001	00105	B. A. J.	1026	B. A. J.	B. A. J.	Bombay Asiatic Journal (GELDNER). 
+0028	00092	BA1DAR.	1025	BĀDAR.	Bādar.	BĀDARĀYAṆA'S BRAHMASŪTRA in der Bibl. ind. 
+0023	01216	BA1LAR.	1027	BĀLAR.	Bālar.	BĀLARĀMĀYAṆA, Benares 1869 (KERN). 
+0060	00118	BAUDH.	2003	BAUDH.	Baudh.	BAUDHĀYANA, nach Citaten in andern Werken. 
+0002	00000	BAUDH. GR2HY.	v0019	BAUDH. GṚHY.	Baudh. Gṛhy.	Baudhāyana Gṛhyasūtras[CA]
+0007	00000	BAUDH. GR2HY. PARIS4.	v0019	BAUDH. GṚHY. PARIŚIṢṬA	Baudh. Gṛhy. Pariśiṣṭa	Baudhāyana Gṛhyasūtras Pariśiṣṭa [CA]
+0002	00001	BAUDHA1YANA	2003a	BAUDHĀYANA	Baudhāyana	patr. of an ancient teacher (author of Gṛhya-, Dharma- and Śrauta -sūtras) [CA]
+0002	00021	BENF. Chr.	1029	BENF. Chr.	Benf. Chr.	BENFEY'S Chrestomathie. 
+0001	00000	BEZZENBERGER	v0020	BEZZENBERGER	Bezzenberger	Adalbert Bezzenberger (1851 - 1922), a German philologist [CA]
+0039	00035	BHADRAB.	5009	BHADRAB.	Bhadrab.	BHADRABĀHUCARITRA, herausgegeben von H. Y. JACOBI in Z. d. d. m. G. 38, 19. fgg. (JACOBI). 
+0035	00070	BHAG.	1030	BHAG.	Bhag.	BHAGAVADGITĀ, Ausg. von SCHLEGEL. 
+0199	00737	BHA1G. P.	1031	BHĀG. P.	Bhāg. P.	BHĀGAVATAPURĀṆA. Die 9 ersten Skandha nach BURNOUF's. Ausgabe, wenn nicht ausdrücklich. ed. Bomb. hinzugefügt wird; die letzten Skandha nach der ed. Bomb. In Klammern eingeschlossene Zahlen verweisen auf ed. Bomb. 
+0001	00006	BHA1M.	3002	BHĀM.	Bhām.	BHĀMATĪ in der Bibl. ind. (STENZLER). 
+0085	00088	BHA1M. V.	3044	BHĀM. V.	Bhām. V.	BHĀMINĪVILĀSA, Ausg. von ABELBERGAIGNER(CAPELLER. ) 
+0003	00000	BHA1MATI1	v0021	BHĀMATĪ	Bhāmatī	N. of a Comm. by Vācaspati-miśra on Śaṃkarâcārya's Comm. on the Brahma-sūtras [CA]
+0002	00001	BHAR. NA1T2YAS4.	X207	BHAR. NĀṬYAŚ.	Bhar. Nāṭyaś.	Nāṭya-śāstra or Bharata-śāstra, a manual of the dramatic art by Bharata [CA]
+0001	00000	BHA1RATA, NA1T2YAS4.	v0022	BHĀRATA, NĀṬYAŚ.	Nāṭya-śāstra or Bharata-śāstra, a manual of the dramatic art by Bharata [CA]
+0001	00000	BHA1RGAVA	v0023	BHĀRGAVA	Bhārgava	N. of various men, especially supposed authors of hymns [CA]
+0001	00007	BHA1SHA1P.	1033	BHĀṢĀP.	Bhāṣāp.	BHĀṢĀPARICCHEDA in der Bibl. ind. 
+0015	00380	BHAT2T2.	1034	BHAṬṬ.	Bhaṭṭ.	BHAṬṬIKĀVYA, Calcutta 1828. 
+0014	01668	BHA1VAPR.	1035	BHĀVAPR.	Bhāvapr.	BHĀVAPRAKĀŚA, Calcutta 1875 und Hdschr. (ROTH). 
+0001	00001	BHAVISHYAP.	5011	BHAVIṢYAP.	Bhaviṣyap.	BHAVIṢYAPURĀṆA Hdschr. (AUFRECHT). 
+0004	00000	BHOJA	v0024	BHOJA	Bhoja	Bojadeva, author of sev. works., esp. of a Comm. on the Yoga-sūtras [CA]
+0001	00028	BHOJA-PR.	1038	BHOJA-PR.	Bhoja-Pr.	BHOJAPRABANDHA, Benares 1925(KERN). 
+0007	00000	BHU1MIK.	v0025	BHŪMIK.	Bhūmik.	Bhūmikhaṇḍa, name of the 2nd book of the Padmapurāṇa [CA]
+0001	00000	BHU1MIKA1N2D2A	v0026	BHŪMIKĀṆḌA	Bhūmikāṇḍa	Bhūmikhaṇḍa, name of the 2nd book of the Padmapurāṇa ?[CA]
+0010	00001	BLOOMFIELD	X242	BLOOMFIELD	Bloomfield	Maurice Bloomfield (1855-1928), American Sanskrit scholar [CA]
+0001	00000	BODHA1YANA	v0027	BODHĀYANA	Bodhāyana	N. of a teacher and author of the Brahma-sūtra-vṛtti [CA]
+0002	00000	BOLL.	v0028	BOLL.	Boll.	Bollensen ?[UL]
+0001	00000	BRADKE	v0029	BRADKE	Bradke	Peter von BRADKE, 1853 - 1897. German (Livonian) Indologist. [CA]
+0001	00000	BRADKE'S	v0030	BRADKE'S	Bradke's	Peter von BRADKE, 1853 - 1897. German (Livonian) Indologist. [CA]
+0007	00000	BRA1HMAN2A1DHY.	v0031	BRĀHMAṆĀDHY.	Brāhmaṇādhy.	[UL][CA]
+0001	00000	BRA1HMAN2A1DHYA1YA	v0032	BRĀHMAṆĀDHYĀYA	Brāhmaṇādhyāya	[UL][CA]
+0001	00000	BRAHMAP.	v0033	BRAHMAP.	Brahmap.	= BRAMAPURĀṆA nach Citaten in verschiedenen Werkes [CA]
+0002	00000	BRAHMA-P. UTTARAKH.	v0034	BRAHMA-P. UTTARAKH.	Brahma-p. Uttarakh.	= BRAMAPURĀṆA nach Citaten in verschiedenen Werkes, uttara—khaṇḍa  (last chapter) [CA]
+0001	00000	BRAHMAV. P.	v0035	BRAHMAV. P.	Brahmav. P.	BRAHMAVAIVARTAPURĀṆA [CA]
+0001	00000	BRAHMAVAIV.	v0036	BRAHMAVAIV.	Brahmavaiv.	BRAHMAVAIVARTAPURĀṆA [CA]
+0001	00003	BRAHMAVAIV. P.	2004	BRAHMAVAIV. P.	Brahmavaiv. P.	BRAHMAVAIVARTAPURĀṆA. 
+0010	00024	BR2H. A1R. UP.	1046	BṚH. ĀR. UP.	Bṛh. Ār. Up.	BṚHADĀRAṆYAKOPANIṢAD in der Bibl. ind. 
+0001	00001	BR2HANM.	3003	BṚHANM.	Bṛhanm.	BṚHANMANU, nach Citaten in verschiedenen juristischen Büchern(JOLLY). 
+0005	00002	BR2HASP.	3004	BṚHASP.	Bṛhasp.	BṚHASPATI, nach Citaten in verschiedenen jurischen Büchern (JOLLY). 
+0016	00001	BR2HASPATI	X081	BṚHASPATI	Bṛhaspati	BṚHASPATI, nach Citaten in verschiedenen jurischen Büchern (JOLLY). [CA]
+0001	00000	BURGESS	v0037	BURGESS	Burgess	James Burgess (1832 - 1916), founder of The Indian Antiquary in 1872, and an archaeologist of India. [CA]
+0002	00000	BURN.	v0038	BURN.	Burn.	Arthur Coke Burnell (1840 - 1882), an English civil servant who  catalogued the Sanskrit manuscripts in southern India[CA]
+0001	00000	BURNELL	v0039	BURNELL	Burnell	Arthur Coke Burnell (1840 - 1882), an English civil servant who  catalogued the Sanskrit manuscripts in southern India[CA]
+0002	00983	BURNELL, T.	5013	BURNELL, T.	Burnell, T.	Classified Index to the Sanskrit Mss. in the Palace of Tanjore. By A. C. BURNELL. 
+0019	00018	BÜHLER	X170	BÜHLER	Bühler	Johann Georg Bühler (1837 - 1898),  a scholar of ancient Indian languages and law [CA]
+0001	00000	BÜHLER, A1PAST.	v0040	BÜHLER, ĀPAST.	Bühler, Āpast.	Āpastamba works translated by J. G. Bühler [CA]
+0031	00366	BÜHLER, Rep.	1047	BÜHLER, Rep.	Bühler, Rep.	Detailed Report of a Tour in search of Sanskrit Mss. made. in Kāsmir, Rajputana, and Central India. By G. BÜHLER, Bombay 1877. 
+0001	00000	CAL.	v0041	CAL.	Cal.	[UL]
+0034	00000	CAMPAKA	v0042	CAMPAKA	Campaka	Ueber das CAMPAKAŚREṢṬHIKATHĀNAKAM, die Geschichte vom Kaufmann CAMPAKA. Herausgegeben von A. WEBER in Sitzungsberichte der Königlich Preussischen Akademie der Wissenschaften zu Berlin. Yahrgang 1883. S. 567. fgg. 885. fgg. Vgl. Mélanges asiatiques tirés du Bulletin de l'Académie Impériale des Sciences de St. Pétersbourg. Tome IX, S. 75. fgg. 
+0011	00072	CAN2D2AK.	1136	CAṆḌAK.	Caṇḍak.	KṢEMĪŚVARA'S CAṆḌAKAUŚIKA (PISCHEL). 
+0001	00000	CAN2D2I1DA1SA	v0043	CAṆḌĪDĀSA	Caṇḍīdāsa	N. of the author of a Commentary on kāvya—prakāśa [CA]
+0045	00000	CAN2D2I1S4.	v0044	CAṆḌĪŚ.	Caṇḍīś.	Caṇḍīśapurāṇa n. another N. of Śivapurāṇa  [CA]
+0001	00000	CANDRA1LOKA	v0045	CANDRĀLOKA	Candrāloka	N. of wk. on rhetoric by Jaya-deva [CA]
+0001	00000	CANTOR	v0046	CANTOR	Cantor	Geschichte der Mathematik (WINDISCH) [CA]
+0002	00000	CAPPELLER	v0047	CAPPELLER	Cappeller	Carl Johann Wilhelm Cappeller (1840 - 1925), German Indologist [CA]
+0009	00000	CAPPELLER'S	v0048	CAPPELLER'S	Cappeller's	Carl Johann Wilhelm Cappeller (1840 - 1925), German Indologist [CA]
+0101	00000	CARAKA	v0049	CARAKA	Caraka	CARAKASAṂHITĀ, Calcutta 1929 und 1877 und Hdschr. im Besitz von ROTH (KERN und ROTH) [CA]
+0001	00000	CATURVIM3S4AYIMATA	v0050	CATURVIṂŚATIMATA	Caturviṃśatimata	Caturviṃśatitama the 24th chapter of Rāmāyaṇa ?[CA]
+0016	00009	CAURAP.	1147	CAURAP.	Caurap.	CAURAPAÑCĀŚIKĀ, Ausg. von BOHLEN. 
+0020	00080	CHA1ND. UP.	1154	CHĀND. UP.	Chānd. Up.	CHĀNDOGYOPANIṢAD in der Bibl. ind. 
+0001	00000	CHA1NDOGYAP.	v0052	CHĀNDOGYAP.	Chāndogyap.	[UL]
+0001	00000	CHILDERS	v0053	CHILDERS	Childers	Robert Caesar Childers (1838 - 1876), British Orientalist scholar, compiler of the first Pāli-English dictionary [CA]
+0005	00038	COLEBR. Alg.	1068	COLEBR. Alg.	Colebr. Alg.	COLEBROOKE, Algebra with Arithmetic and Mensuration u. s. w. London 1817. 
+0001	00004	COLEBR. Misc. Ess.	1069	COLEBR. Misc. Ess.	Colebr. Misc. Ess.	Miscellaneous Essays by H. T. COLEBROOKE. London. 1837. 
+0003	00002	COWELL	X274	COWELL	Cowell	Edward Byles Cowell, FBA (1826 - 1903) translator of Persian poetry and the first professor of Sanskrit at Cambridge University [CA]
+0001	00000	DAKSHA	v0054	DAKṢA	Dakṣa	[UL]
+0001	00000	DALAPATI'S NR2SIM3HAPRASA1DA	v0055	DALAPATI'S NṚSIṂHAPRASĀDA	Dalapati's Nṛsiṃhaprasāda	name of work[CA]
+0130	00013	DAMAYANTI1K.	X001	DAMAYANTĪK.	Damayantīk.	damayantī—kathā, name of work nala—campū [CA]
+0047	00006	DA1RILA	X073	DĀRILA	Dārila	N. of commentator on Kauśikasūtra [CA]
+0203	00398	DAS4AK.	1073	DAŚAK.	Daśak.	DAŚAKUMĀRA, Ausg. von BÜHLER (CAPELLER). 
+0001	00000	DAS4AKARM.	v0056	DAŚAKARM.	Daśakarm.	daśa—karma-paddhati, N. of wk. on the 10 ceremonies prescribed to the 3 twice-born classes [CA]
+0005	00069	DAS4AR.	1074	DAŚAR.	Daśar.	DAŚARŪPA in der Bibl. ind. 
+0001	00001	DATTAKAS4.	5020	DATTAKAŚ.	Dattakaś.	DATTAKAŚIROMAṆI, Calcutta 1867 (JOLLY). 
+0001	00000	DATTAKATILAKA	v0057	DATTAKATILAKA	Dattakatilaka	[UL]
+0001	00001	DA1Y.	2015	DĀY.	Dāy.	DĀYABHĀGA, Calcutta 1829. 
+0005	00003	DELBRÜCK	X096	DELBRÜCK	Delbrück	Berthold Delbrück (1842 - 1922), German linguist [CA]
+0025	00067	DES4I1N.	2016	DEŚĪN.	Deśīn.	HEMACANDRA'S DEŚĪNĀMĀLĀ, Hdschr. (PISCHEL). 
+0002	00002	DEVALA.	3009	DEVALA.	Devala.	DEVALA nach Citaten in verschiedenen juristischen Schriften (JOLLY). 
+0001	00000	DEVI1BHA1G.	v0058	DEVĪBHĀG.	Devībhāg.	devī—bhāgavata-purāṇa, N. of wk.[CA]
+0004	00000	DHANURVEDA	v0059	DHANURVEDA	Dhanurveda	The Science of Archery, by śārṅga—datta [CA]
+0002	00000	DHARAN2I	v0060	DHARAṆI	Dharaṇi	Dharaṇi-dāsa, author of dictionary called Dharaṇi—kośa [CA]
+0002	00000	DHARM.	v0061	DHARM.	Dharm.	[UL]
+0010	00000	DHARMAS4.	v0062	DHARMAŚ.	Dharmaś.	dharma—śāstra, N. of law book[CA]
+0184	00000	DHARMAS4ARM.	v0063	DHARMAŚARM.	Dharmaśarm.	Dharmaśarmābhy.	dharma—śarmābhyudaya, N. of wk.[CA]
+0047	00000	DHARMAS4ARMA1BHY.	v0064	DHARMAŚARMĀBHY.	Dharmaśarmābhy.	dharma—śarmābhyudaya, N. of wk. [CA]
+0013	00048	DHA1TUP.	1079	DHĀTUP.	Dhātup.	DHĀTUPĀṬHA, Ausg. von WESTERGAARD. 
+0001	00000	DHVANYA1LOKA	v0065	DHVANYĀLOKA	Dhvanyāloka	dhvany—āloka, or dhvany—ālocana, N. of wk.[CA]
+0001	00000	DI1PIKA1	v0066	DĪPIKĀ	Dīpikā	[UL]
+0001	00000	DIVYA1DAD.	v0067	DIVYĀDAD.	Divyādad.	[UL]
+0010	00000	DIVYA1V.	v0068	DIVYĀV.	Divyāv.	DIVYĀVADĀNA, Hdschr. (SCHIEFNER). [CA]
+0688	00114	DIVYA1VAD.	1084	DIVYĀVAD.	Divyāvad.	DIVYĀVADĀNA, Hdschr. (SCHIEFNER). 
+0001	00000	DRAVYAS4.	v0069	DRAVYAŚ.	Dravyaś.	[UL]
+0001	00000	DURGA1DA1SA	v0070	DURGĀDĀSA	Durgādāsa	N. of Commentator on Vopadeva[CA]
+0001	00001	EGGELING	X250	EGGELING	Eggeling	Hans Julius Eggeling (1842-1918), Professor of Sanskrit at the University of Edinburgh, translator and editor of the śata—patha—brāhmaṇa [CA]
+0001	00000	EITEL	v0071	EITEL	Eitel	Ernst Johann Eitel (1838 - 1908)m a German-born Protestant  missionary in China, Handbook of Chinese Buddhism, being a Sanskrit-Chinese Dictionary [CA]
+0001	00000	FLEET	v0072	FLEET	Fleet	John Faithfull Fleet (1847 - 1917), English epigraphist and linguist [CA]
+0001	00000	FRITZE	v0073	FRITZE	Fritze	FRITZE, Ludwig Fritze. (1833 - 1922) German Schoolteacher and Translator of Sanskrit Literature[CA]
+0011	01721	GAL.	1088	GAL.	Gal.	GALANO's Wörterbuch, Abschrift von WEBER;vgl. Monatsbericht der Kön. Pr. Akad. der Wissensch. 1876, S. 801. fgg. (CAPELLER). 
+0001	00000	GAN2AP.	v0075	GAṆAP.	Gaṇap.	[UL]
+0017	00065	GAN2AR.	1090	GAṆAR.	Gaṇar.	GAṆARATNAMAHODADHI, nach der im Druck befindlichen Ausg. von EGGELING. Nur ein paar Mal gelegentlich citirt. 
+0001	00039	GARBE	X105	GARBE	Garbe	Richard Karl Garbe, (1857 - 1927), a German Indologist who contributed to the study of Samkhya, Yoga and the Bhagavadgita. [CA]
+0002	00006	GARBHOP.	1097	GARBHOP.	Garbhop.	GARBHOPANIṢAD in Bibl. ind. (GELDNER und ROTH). 
+0001	00005	GARGA	X163	GARGA	Garga	[UL]
+0015	01111	GAUT.	1099	GAUT.	Gaut.	GAUTAMA'S DHARMAŚĀSTRA, Ausg. von STENZLER. 
+0015	00005	GELDNER	X080	GELDNER	Geldner	Karl Friedrich Geldner (1852-1929) German scholar of Iranian and Indian studies [CA]
+0024	00024	GI1T.	1100	GĪT.	Gīt.	GĪTAGOVINDA, Ausg. von LASSEN. 
+0002	00000	GI1TAG.	v0077	GĪTAG.	Gītag.	GĪTAGOVINDA, Ausg. von LASSEN. [CA]
+0059	00351	GOBH.	1101	GOBH.	Gobh.	GOBHILA'S GṚHYASŪTRA in der Bibl. ind. (ROTH). 
+0001	00000	GOBH. S4RA1DDH.	v0078	GOBH. ŚRĀDDH.	Gobh. Śrāddh.	[UL]
+0004	00008	GOBH. S4RA1DDHAK.	3013	GOBH. ŚRĀDDHAK.	Gobh. Śrāddhak.	GOBHILA'S ŚRĀDDHAKALPA in der Bibl. ind. 
+0004	00143	GOP. BR.	1104	GOP. BR.	Gop. Br.	GOPATHABRĀHMAṆA in der Bibl. ind. (ROTH). 
+0005	00000	GORR.	v0079	GORR.	Gorr.	Gaspare Gorresio, translator of RĀMĀYAṆA [CA]
+0001	00000	GOVIND.	v0080	GOVIND.	Govind.	[UL]
+0001	00000	GOVINDARA1JA	v0081	GOVINDARĀJA	Govindarāja	N. of a commentator on manu—smṛti[CA]
+0010	00000	GR2HY.	v0082	GṚHY.	Gṛhy.	[UL]
+0004	00060	GR2HYA1S.	2025	GṚHYĀS.	Gṛhyās.	GṚHYĀSAṂGRAHA in der Bibl. ind. 
+0005	00000	GR2HYAS.	v0083	GṚHYAS.	Gṛhyas.	gṛhya—sūtra, a ritual work containing directions for domestic rites and ceremonies [CA]
+0009	00091	H.	1106	H.	H.	HEMACANDRA'S ABHIDHĀNACINTĀMAṆI, Ausg. von BÖHTLINGK und RIEU. 
+0010	00089	H. an.	1108	H. an.	H. an.	HEMACANDRA'S ANEKĀRTHASAṂGRAHA. 
+0001	00000	HAEB. Chr.	v0086	HAEB. Chr.	Haeb. Chr.	HAEBERLIN Chrestomathy [CA]
+0030	00000	HA1LA	v0087	HĀLA	Hāla	[UL]
+0005	00017	HALA1Y.	1107	HALĀY.	Halāy.	HALĀYUDHA'S Wörterbuch, Ausg. von AUFRECHT. 
+0002	00050	HALL	X044	HALL	Hall	Fitzedward Hall (1825 - 1901), American Orientalist and philologist [UL]
+0001	00007	HA1R.	1109	HĀR.	Hār.	HĀRĀVALI. 
+0026	00000	HAR.	v0088	HAR.	Har.	[UL]
+0001	00000	HARAD.	v0089	HARAD.	Harad.	[UL]
+0106	00000	HARAVIJAYA	v0090	HARAVIJAYA	Haravijaya	hara—vijaya, N. of a poem by Ratnâkara.[CA]
+0002	00001	HA1RI1TA	X224	HĀRĪTA	Hārīta	N. of various authors &c. (esp. of a lawyer often quoted), [CA]
+0001	00000	HA1RI1TASAM3H.	v0091	HĀRĪTASAṂH.	Hārītasaṃh.	hārīta—saṃhitā,  N. of wk.[CA]
+0119	00929	HARIV.	1111	HARIV.	Hariv.	HARIVAṂŚA. Mit einer Zahi die ältere Calc. Ausg. gemeint, drei Zahlen die neuere lithographirte. 
+0001	00000	HARSHA	v0092	HARṢA	Harṣa	[UL]
+0110	00684	HARSHAC.	1112	HARṢAC.	Harṣac.	HARṢACARITA, Calcutta 1876 (KERN). 
+0002	00000	HAUG	v0094	HAUG	Haug	Martin Haug (1827 - 1876), a German orientalist.[CA]
+0215	00594	HEM. PAR.	2031	HEM. PAR.	Hem. Par.	HEMACANDRA'S PARIŚIṢṬAPARVAN, Hdschr. (JACOBI). 
+0001	00006	HEM. Pr. Gr.	X046	HEM. Pr. Gr.	Hem. Pr. Gr.	HEMACANDRA's Prākrit-Grammatik [CA]
+0005	00020	HEM. YOG.	1116	HEM. YOG.	Hem. Yog.	HEMACANDRA'S YOGAŚĀSTRA in Z. d. d. m. G. 28. Aus einem hdschr. Comm. hat WINISCH manche Berichtigung und Erklärung mir bereitwilligst zukommen lassen. 
+0001	00008	HEM. YOGAS4.	X045	HEM. YOGAŚ.	Hem. Yogaś.	HEMACANDRA'S YOGAŚĀSTRA in Z. d. d. m. G. 28. Aus einem hdschr. Comm. hat WINISCH manche Berichtigung und Erklärung mir bereitwilligst zukommen lassen [CA]
+0001	00000	HEM. YOGAY.	v0095	HEM. YOGAY.	Hem. Yogay.	yogayājñavalkya [CA]
+0248	01595	HEMA1DRI	1115	HEMĀDRI	Hemādri	HEMĀDRI'S CATURVARGACINTĀMAṆI in der Bibl. ind. 
+0003	00000	HILLEBRANDT	v0096	HILLEBRANDT	Hillebrandt	Alfred Hillebrandt (1853 - 1927), a German Sanskrit scholar.[CA]
+0001	00000	HILLERANDT'S	v0097	HILLERANDT'S	Hillerandt's	Alfred Hillebrandt (1853 - 1927), a German Sanskrit scholar.[CA]
+0003	00001	HIOUEN-THSANG	X255	HIOUEN-THSANG	Hiouen-Thsang	Histoire de la vie de HIOUEN-THSANG et de ses voyages dans l'Inde, &#13;&#10;traduite du Chinois par STANISLAS YULIEN. Paris 1853. (PWG) [CA]
+0001	00000	HIRAN2Y. S4R.	v0098	HIRAṆY. ŚR.	Hiraṇy. Śr.	[UL]
+0010	00048	HIT.	1119	HIT.	Hit.	HITOPADEŚA, Ausg. von SCHLEGEL und LASSEN. 
+0007	00002	HULTZSCH	X100	HULTZSCH	Hultzsch	Eugen Julius Theodor Hultzsch (1857 - 1927), German indologist and epigraphist, known for his work in deciphering the inscriptions of Ashoka.  [CA]
+0018	00242	Ind. Antiq.	1123	Ind. Antiq.	Ind. Antiq.	Indian Antiquary (ROTH). 
+0001	00000	Ind. Erb.	v0099	Ind. Erb.	Ind. Erb.	[UL]
+0001	00000	Ind. Ind.	v0100	Ind. Ind.	Ind. Ind.	[UL]
+0079	01847	Ind. St.	1124	Ind. St.	Ind. St.	Indische Studien von WEBER. 
+0005	00000	Ind. Str.	v0101	Ind. Str.	Ind. Str.	[UL]
+0032	00024	J. A. O. S.	1122	J. A. O. S.	J. A. O. S.	Journal of the American Oriental Society. 
+0012	00001	J. A. S.	2033a	J. A. S.	J. A. S.	Journal of the Asiatic Society of Bengal. Part I. (History, Antiquities, &c. ). [CA]
+0001	00000	J. BURGESS	v0102	J. BURGESS	J. Burgess	James Burgess (1832 - 1916), founder of The Indian Antiquary in 1872, and an archaeologist of India. [CA]
+0001	00000	J. JOLLY	v0103	J. JOLLY	J. Jolly	Julius Jolly (1849 - 1932), German scholar and translator of Indian law and medicine.[CA]
+0010	00022	J. R. A. S.	1128	J. R. A. S.	J. R. A. S.	Journal of the Royal Asiatic Society (KERN). 
+0004	00002	JACOBI	X140	JACOBI	Jacobi	Hermann Jacobi (1850 - 1937), German Indologist. [CA]
+0002	00000	JACOBI'S	v0104	JACOBI'S	Jacobi's	Hermann Jacobi (1850 - 1937), German Indologist.[CA]
+0003	00327	JAIM.	1086	JAIM.	Jaim.	JAIMINI'S Mimāṃsādarśana in der Bibl. ind. 
+0651	00171	JA1TAKAM.	6005	JĀTAKAM.	Jātakam.	JĀTAKAMĀLĀ, Hdschr. (H. KERN). 
+0004	00004	JOLLY	X150	JOLLY	Jolly	Julius Jolly (1849 - 1932), German scholar and translator of Indian law and medicine. [CA]
+0001	00000	JONARA1JA	v0105	JONARĀJA	Jonarāja	author of Rāja—taraṃgiṇī [CA]
+0050	01550	KA1D.	1130	KĀD.	Kād.	KĀDAMBARĪ, Calcutta Saṃvat 1919 (KERN). 
+0013	00024	KA1LAC.	1132	KĀLAC.	Kālac.	KĀLACAKRA, Hdschr. (SCHIEFNER). 
+0011	00012	KALPAS.	2036	KALPAS.	Kalpas.	KALPASŪTRA, herausg. von H. JACOBI (JACOBI und KERN). 
+0028	00080	KA1M. NI1TIS.	1133	KĀM. NĪTIS.	Kām. Nītis.	KĀMANDAKĪYANĪTISĀRA in der Bibl. ind. 
+0001	00000	KAN2A1DA	v0106	KAṆĀDA	Kaṇāda	N. given to the author of the Vaiśeṣika branch of the Nyāya philosophy [CA]
+0034	00224	KAP.	1137	KAP.	Kap.	KAPILA'S SĀṂKHYAPRAVACANA. Einen vollständigen Index hat WINDISCH ZU Verfügung gestellt. 
+0037	00053	KAP. S.	2043	KAP. S.	Kap. S.	KAPIṢṬHALAKAṬHASAṂHITA, Hdschr. (v. SCHRÖDER). 
+0051	00648	KA1RAN2D2.	2039	KĀRAṆḌ.	Kāraṇḍ.	KĀRAṆḌAVYŪHA, Calcutta 1873(KERN). 
+0001	00000	KA1RAN2D2AVY.	v0107	KĀRAṆḌAVY.	Kāraṇḍavy.	KĀRAṆḌAVYŪHA, Calcutta 1873(KERN). [CA]
+0004	00000	KA1RIKA1	v0108	KĀRIKĀ	Kārikā	[UL]
+0004	00003	KARMAPR.	1140	KARMAPR.	Karmapr.	KARMAPRADĪPA (STENZLER). Steht unter dem falschen Titel KĀTYĀYANASMṚTI im DHARMAŚĀSTRASAṂGRAHA, Vol. I, S 603-644. 
+0041	00414	KA1S4.	1129	KĀŚ.	Kāś.	KĀŚIKĀ VṚTTI in der Zeitschrift The PANDIT VII. fgg. 
+0079	00044	KA1S4I1KH.	5025	KĀŚĪKH.	Kāśīkh.	KĀŚĪKHAṆḌA, HDSCHR. (AUFRECHT). 
+0001	00000	KA1S4I1TILAKA	v0109	KĀŚĪTILAKA	Kāśītilaka	[UL]
+0001	00001	KA1T.	2040	KĀT.	Kāt.	KĀTANTRA, heraugsgegeben von EGGELING. 
+0001	00000	KA1TANTRA	v0110	KĀTANTRA	Kātantra	KĀTANTRA, heraugsgegeben von EGGELING. [CA]
+0039	00152	KA1T2H.	1141	KĀṬH.	Kāṭh.	KĀṬHAKA (WEBER). 
+0001	00006	KA1T2H. GR2HY.	2042	KĀṬH. GṚHY.	Kāṭh. Gṛhy.	KĀṬHAKAGṚHYASŪTRA, Hdschr. (JOLLY). 
+0002	00004	KATHA1RN2AVA	5027	KATHĀRṆAVA	Kathārṇava	KATHĀRṆAVA , Hdschr. (AUFRECHT). 
+0144	00578	KATHA1S.	1142	KATHĀS.	Kathās.	KATHĀSARITSĀGARA, Ausg. von BROCKHAUS. 
+0007	00010	KAT2HOP.	3018	KAṬHOP.	Kaṭhop.	KAṬHOP(ANIṢAD) in der Bibl. ind. 
+0007	00014	KA1TY.	5029	KĀTY.	Kāty.	KĀTYĀYANA'S PARIBH (ĀṢĀS) IN 'Zwölf Hymnen des Rigveda, herausgegeben von ERNST WIDISCH'S. 169. fgg. 
+0001	00000	KA1TY. PARIBH.	v0111	KĀTY. PARIBH.	Kāty. Paribh.	[UL]
+0088	00601	KA1TY. S4R.	1143	KĀTY. ŚR.	Kāty. Śr.	KĀTYĀYANA'S ŚRAUTASŪTRA, nach WEBER'S Index. 
+0001	00000	KA1TY. S4RA1DDHAK.	v0112	KĀTY. ŚRĀDDHAK.	Kāty. Śrāddhak.	[UL]
+0005	00000	KA1TYA1YANA	v0113	KĀTYĀYANA	Kātyāyana	Author of several treatises on ritual, grammar, etc.&#13;&#10; Author of the Vārttikas or critical annotations on the aphorisms of Pāṇini,&#13;&#10; of the Yajur-veda Prātiśākhya, and of the Śrauta-sūtras [CA]
+0199	00173	KAUS4.	1146	KAUŚ.	Kauś.	KAUŚIKA'S SŪTRA zum AV. , Hdschr. (ROTH und WEBER). 
+0013	00048	KAUSH. UP.	1149	KAUṢ. UP.	Kauṣ. Up.	KAUṢITAKIBRĀHMAṆOPANIṢAD in der Bibl. ind. 
+0016	00020	KAUTUKAR.	1150	KAUTUKAR.	Kautukar.	KAUTUKARATNĀKARA, Hdschr. (CAPELLER). 
+0019	00025	KAUTUKAS.	X050	KAUTUKAS.	Kautukas.	kautuka—sarvasva, N. of a comedy. [CA]
+0012	00029	KA1VYA1D.	X049	KĀVYĀD.	Kāvyād.	kāvyādarśa, N. of wk. on poetics by Daṇḍin[CA]
+0005	00002	KA1VYA1L.	5030	KĀVYĀL.	Kāvyāl.	KĀVYĀLOKALOCANA, Hdschr. (AUFRECHT). 
+0011	00125	KA1VYAPR.	1151	KĀVYAPR.	Kāvyapr.	KĀVYAPRAKĀŚA, Calcutta 1866. Nach Ullāsa und Sūtra citirt, wenn nicht S. (Seite) und Z. (Zeile) hinzungefügt werden. 
+0001	00000	KA1VYAPRAKA1S4ANIDARS4ANA	v0114	KĀVYAPRAKĀŚANIDARŚANA	Kāvyaprakāśanidarśana	N. of commentary on Kāvyaprakāśa work by Mammaṭa [CA]
+0001	00002	KENOP.	1152	KENOP.	Kenop.	KENOPANIṢAD in der Bibl. ind. 
+0004	00014	KERN	X039	KERN	Kern	Johan Hendrik Caspar Kern (1833 - 1917), Dutch linguist and Orientalist [CA]
+0001	00000	KHAN2D2APR.	v0115	KHAṆḌAPR.	Khaṇḍapr.	[UL]
+0001	00000	KHILA	v0116	KHILA	Khila	[UL]
+0001	00003	KIELHORN	X169	KIELHORN	Kielhorn	Lorenz Franz Kielhorn (1840 - 1908), German Indologist. [CA]
+0001	00000	KIELHORN'S	v0117	KIELHORN'S	Kielhorn's	Lorenz Franz Kielhorn (1840 - 1908), German Indologist. [CA]
+0232	00071	KIR.	1155	KIR.	Kir.	KIRĀTĀRJUNIYA, Calcutta 1814. 
+0001	00000	KIRA1T.	v0118	KIRĀT.	Kirāt.	KIRĀTĀRJUNIYA, Calcutta 1814. [CA]
+0001	00001	KLUGE	X285	KLUGE	Kluge	Friedrich Kluge (1856 - 1926), German philologist and educator. [CA]
+0003	00002	KNAUER	X133	KNAUER	Knauer	[UL]
+0011	00002	KSHEM.	6008	KṢEM.	Kṣem.	KṢEMENDRA'S KAVIKAṆṬĀBHARAṆA, herausgegeben von Y. SCHÖNBERG in den Sitzungsberichten der Phil-hist. Klasse der Kais. Ak. d. Ww. in Wien, Bd. 106 (C. CAPELLER). 
+0001	00004	KSHURIKOP.	1158	KṢURIKOP.	Kṣurikop.	KṢURIKOPANIṢAD in der Bibl. ind. 
+0006	00013	KUHN'S Z.	3022	KUHN'S Z.	Kuhn'S Z.	Franz Felix Adalbert Kuhn (1812 - 1881), Zeitschrift für vergleichende Sprachforschung anf dem Gebiete der indogermanischen Sprachen. 
+0001	00000	KUHN'S Zeitschr.	v0119	KUHN'S Zeitschr.	Kuhn's Zeitschr.	Franz Felix Adalbert Kuhn (1812 - 1881), Zeitschrift für vergleichende Sprachforschung anf dem Gebiete der indogermanischen Sprachen.[CA]
+0005	00001	KULA1RN2AVA	5033	KULĀRṆAVA	Kulārṇava	KULĀRṆAVA, Hdschr. (AUFRECHT). 
+0014	00085	KULL.	1159	KULL.	Kull.	KULLŪKA, Commentator des MANU. 
+0036	00094	KUMA1RAS.	1160	KUMĀRAS.	Kumāras.	KUMĀRASAṂBHAVA, Ausg. von STENZLER. 
+0001	00000	KUN2D2A1RKA	v0120	KUṆḌĀRKA	Kuṇḍārka	kuṇḍārka, N. of wk. [CA]
+0002	00002	KUSUM.	1162	KUSUM.	Kusum.	KUSUMĀÑJALI, Ausg. von COWELL. 
+0015	00000	KUT2T2ANI1M.	v0121	KUṬṬANĪM.	Kuṭṭanīm.	[UL]
+0009	00000	KUT2T2ANI1MATA	v0122	KUṬṬANĪMATA	Kuṭṭanīmata	[UL]
+0006	00072	LA.	1164	LA.	La.	LASSEN'S Anthologie 3te Ausg. 
+0005	00001	LAGHUK.	1165	LAGHUK.	Laghuk.	LAGHUKAUMUDĪ, Ausg. von BALLANTYNE, Benares 1876(CAPELLER). 
+0042	00548	LALIT.	1166	LALIT.	Lalit.	LALITAVISTARAPURĀṆA in der Bibl. ind. (KERN). 
+0029	00393	LA1T2Y.	1167	LĀṬY.	Lāṭy.	LĀṬYĀYANA'S ŚRAUTASŪTRA in der Bibl. ind. 
+0001	00000	LA^1^.	v0123	LA^1^.	La^1^.	LASSEN'S Anthologie (GILD. Bibl. 48) [CA]
+0014	00000	LEUMANN	v0124	LEUMANN	Leumann	Ernst Leumann (1859 - 1931), a Swiss jainologist, pioneer of the research of Jainism and Turkestan languages [CA]
+0003	00051	LI1LA1V.	1168	LĪLĀV.	Līlāv.	BHĀSKARA'S LĪLĀVATĪ, Calcutta 1846 (KERN). 
+0001	00000	LUDWIG	v0125	LUDWIG	Ludwig	[UL]
+0007	00063	Lot. de la b. l.	1170	Lot. de la b. l.	Lot. de la b. l.	BURNOUF, Lotus de la bonne loi. 
+0098	00474	M.	1171	M.	M.	MĀNAVADHARMAŚĀSTRA. 
+0040	00000	M. MÜLLER	v0126	M. MÜLLER	M. Müller	Friedrich Max Müller (1823 - 1900), a German-born philologist and Orientalist [CA]
+0001	00000	MACDONALD	v0127	MACDONALD	Macdonald	[UL]
+0002	00118	MADANAV.	1172	MADANAV.	Madanav.	MADANAPĀLA'S MADANAVINODA, Benares 1869 und Hdschr. (ROTH). 
+0001	00000	MA1DHAVI1YA1 DHA1TUVR2TTI	v0128	MĀDHAVĪYĀ DHĀTUVṚTTI	Mādhavīyā Dhātuvṛtti	N. of a treatise on Sanskṛt roots by Sāyaṇa[CA]
+0017	00193	MAHA1BH.	1174	MAHĀBH.	Mahābh.	MAHĀBHĀṢYA, lith. in Benares. 
+0001	00000	MAHA1D.	v0129	MAHĀD.	Mahād.	Mahā—deva, N. of a Tantra [CA]
+0025	00000	MAHA1DEVA	v0130	MAHĀDEVA	Mahādeva	Mahā—deva, N. of a Tantra [CA]
+0001	00000	MAHA1NA1T2AKA	v0131	MAHĀNĀṬAKA	Mahānāṭaka	N. of a drama in 14 acts fabled to have been composed by the monkey-chief Hanu-mat [CA]
+0001	00000	MAHA1PARIN.	v0132	MAHĀPARIN.	Mahāparin.	Mahā—parinirvāṇa, N. of a Buddhist Sūtra. [CA]
+0117	00152	MAHA1VI1RAC.	1176	MAHĀVĪRAC.	Mahāvīrac.	MAHĀVĪRACARITA, Ausg. von TRITHEN. 
+0831	00000	MAHA1VY.	v0133	MAHĀVY.	Mahāvy.	Mahā—vyutpatti, N. of a Sanskṛt-Tibetan lexicon.[CA]
+0002	00093	MAHI1DH.	1177	MAHĪDH.	Mahīdh.	MAHĪDHARA, Commentator der VS. 
+0002	00000	MAITR.	v0134	MAITR.	Maitr.	MAITRĀYAṆI SAṂHITĀ [CA]
+0518	00928	MAITR. S.	1179	MAITR. S.	Maitr. S.	MAITRĀYAṆI SAṂHITĀ, zur Herausgabe vorbereitet von L. SCHRÖDER. Da die accentuirten Hdschr. nicht gleich zu Anfang zur Hand waren, konnten einige Accente erst in den Nachträgen angegeben werden (SCHRÖDER). 
+0008	00047	MAITRYUP.	1178	MAITRYUP.	Maitryup.	MAITRYUPANIṢAD in der Bibl. ind. Die Accente, die wegen ihrer Fehlerhaftigkeit oft weggelassen oder durch (!) als verdächtig bezeichnet wurden, hat SCHRÖDER einer Hdschr. entnommen. 
+0074	00076	MA1LATI1M.	1180	MĀLATĪM.	Mālatīm.	MĀLATĪMĀDHAVA, nach zwei Ausgaben, Calcutta 1830 und Bombay 1876. 
+0010	00072	MA1LAV.	1181	MĀLAV.	Mālav.	MĀLAVIKĀGNIMITRA, Ausg. von TULLIBERG. 
+0004	00007	MALLIN.	X008	MALLIN.	Mallin.	Malli—nātha, N. of a poet and celebrated commentator [CA]
+0060	00194	MA1N. GR2HY.	1183	MĀN. GṚHY.	Mān. Gṛhy.	MĀNAVAGṚHYASŪTRA, nach einer Hdschr. in der Universitätsbibliothek zu Bombay (SCHRÖDER). 
+0035	00102	MA1N. S4R.	2049	MĀN. ŚR.	Mān. Śr.	MĀNAVAŚRAUTASŪTRA, Hdschr. (v. SCHRÖDER). 
+0001	00001	MA1NAVA	X268	MĀNAVA	Mānava	[UL]
+0002	00003	MA1N2D2. UP.	2050	MĀṆḌ. UP.	Māṇḍ. Up.	MĀṆḌŪKYOPANIṢAD in der BIbl. ind. 
+0001	00000	MAN3KHA	v0136	MAṄKHA	Maṅkha	Maṅkha, N. of a lexicographer [CA]
+0036	00135	MA1RK. P.	1186	MĀRK. P.	Mārk. P.	MĀRKAṆḌEYAPURĀṆA in der Bibl. ind. 
+0015	00006	MATSYAP.	5035	MATSYAP.	Matsyap.	MATSYAPURĀṆA, Poona-Ausg. (AUFRECHT). 
+0001	00000	MAVR	v0137	MAVR	Mavr	[UL]
+0825	03362	MBH.	1189	MBH.	Mbh.	MAHĀBHĀRATA, citirt nach Parvan, Adhyāya und Śloka der Bomb. Ausg. Die ältere Calcuttaer Ausg. mit zwei Zahlen wird nur dann angeführt, wenn sie eine abweichende Lesart bietet. 
+0005	00021	MED.	1190	MED.	Med.	MEDINIKOŚA. 
+0001	00004	MEDHA1T.	3026	MEDHĀT.	Medhāt.	MEDHĀTITHI, ein Scholiast des MANU (JOLLY). 
+0004	00139	MEGH.	1192	MEGH.	Megh.	MEGHADŪTA, Ausg. von STENZLER. 
+0017	00029	MIT.	1193	MIT.	Mit.	MITĀKṢARĀ. Bei zwei Zahlen ist der VYAVAHĀRĀDHYĀYA, Calcutta 1829, gemeint, bei zwei Zahlen mit folgendem {%a%} oder {%b%} nebst Angabe der Zeile -- das vollständige Werk in 4to. 
+0001	00000	MOHAM.	v0138	MOHAM.	Moham.	Moha—mudgara, N. of two works. [CA]
+0033	00210	MR2CCH.	1195	MṚCCH.	Mṛcch.	MṚCCHAKAṬIKA, Ausg. von STENZLER. Comm. zu MṚCCH. sind die Auszüge in den Anmerkungen zu meiner Uebersetzung dieses Schauspiels. 
+0043	00130	MUDRA1R.	1196	MUDRĀR.	Mudrār.	MUDRĀRĀKṢASA, nach zwei Ausgaben, Calcutta 1831 und 1926 (CAPELLER). 
+0005	00013	MUN2D2. UP.	3028	MUṆḌ. UP.	Muṇḍ. Up.	MUṆḌAKOPANIṢAD in der Bibl. ind. 
+0002	00003	Mon. d. B. A.	2052	Mon. d. B. A.	Mon. d. B. A.	Monatsberichte der Königlich Preussichen Akademie der Wissenschaften in Berlin. 
+0001	00000	Monatsb. d. B. A.	v0139	Monatsb. d. B. A.	Monatsb. D. B. A.	Monatsberichte der Kön. Akademie der Wissenschaften zu Berlin [CA]
+0001	00000	MÜLLER	v0140	MÜLLER	Müller	Friedrich Max Müller (1823 - 1900), a German-born philologist and Orientalist [CA]
+0002	00006	MÜLLER, SL.	3027	MÜLLER, SL.	Müller, Sl.	A History of Ancient Sanskrit Literature. By MAX MÜLLER. 1859. 
+0003	00038	NA1GA1N.	1197	NĀGĀN.	Nāgān.	NĀGĀNANDA nach zwei Calcuttaer Ausgaben (CAPELLER) 
+0241	00561	NAISH.	1198	NAIṢ.	Naiṣ.	NAIṢADHACARITA. 
+0001	00000	NANDAP.	v0141	NANDAP.	Nandap.	[UL]
+0004	00026	NA1R.	1199	NĀR.	Nār.	NĀRADA'S DHARMAŚĀSTRA (JOLLY). 
+0024	00015	NA1RADA	5037	NĀRADA	Nārada	NĀRADA (a.) bezeichnet die ausführlichere Recension NĀRADA'S (JOLLY). 
+0002	00000	NA1RA1YAN2A	v0142	NĀRĀYAṆA	Nārāyaṇa	[UL]
+0001	00042	NIGH.	2054	NIGH.	Nigh.	YĀSKA'S NIRUKTA sammt den NIGHAṆṬAVAS, herausgegeben und erläutert von RUDOLPH ROTH. 
+0002	00574	NIGH. PR.	1200	NIGH. PR.	Nigh. Pr.	NIGHAṆṬUPRAKĀŚA (ROTH). 
+0057	00318	NI1LAK.	1203	NĪLAK.	Nīlak.	NĪLAKAṆṬHA, Commentator des MBH. 
+0019	00105	NIR.	1205	NIR.	Nir.	NIRUKTA, Ausg. von ROTH (ROTH). 
+0001	00000	NR2SIM3HAPRASA1DA	v0143	NṚSIṂHAPRASĀDA	Nṛsiṃhaprasāda	Nṛsiṃhaprasāda, Name of work [CA]
+0001	00000	NYA1YA	v0144	NYĀYA	Nyāya	[UL]
+0001	00000	NYA1YAK.	v0145	NYĀYAK.	Nyāyak.	[UL]
+0001	00000	NYA1YAK. SA1M3KHYAPR.	v0146	NYĀYAK. SĀṂKHYAPR.	Nyāyak. Sāṃkhyapr.	[UL]
+0003	00402	NYA1YAM.	1206	NYĀYAM.	Nyāyam.	JAIMINIYANYĀYAMĀLĀVISTARA, Ausg. von GOLDSTÜCKER UND Cowell (KERN). 
+0001	00295	NYA1YAS.	1207	NYĀYAS.	Nyāyas.	GOTAMA'S NYĀYADARŚANA in der Bibl. ind. Die Ausg. Calcutta 1828 wird durch Beifügung von (1828) bezeichnet. (KERN). 
+0001	00001	NÖLDEKE	X222	NÖLDEKE	Nöldeke	Theodor Nöldeke (1836 - 1930), German orientalist and scholar [CA]
+0001	00000	OLD.	v0147	OLD.	Old.	Hermann Oldenberg (1854 - 1920), a German scholar of Indology [CA]
+0002	00000	OLDENBERG	v0148	OLDENBERG	Oldenberg	Hermann Oldenberg (1854 - 1920), a German scholar of Indology [CA]
+0001	00001	OPP.	X132a	OPP.	Opp.	[UL]
+0276	00000	OPP. Cat.	v0149	OPP. Cat.	Opp. Cat.	[UL]
+0134	00641	P.	1210	P.	P.	PĀṆINI, N. of the most eminent of all native Sanskṛt grammarians, author of the aṣṭādhyāyī and other works 
+0015	00000	PA1DA1RAVINDAS4.	v0151	PĀDĀRAVINDAŚ.	Pādāravindaś.	Pādāravindaśataka,  name of a poem [CA]
+0001	00000	PA1DA1RAVINDAS4AT.	v0152	PĀDĀRAVINDAŚAT.	Pādāravindaśat.	Pādāravindaśataka,  name of a poem [CA]
+0001	00000	PA1DA1RAVINDAS4ATAKA	v0153	PĀDĀRAVINDAŚATAKA	Pādāravindaśataka	Pādāravindaśataka,  name of a poem [CA]
+0005	00007	PADDH.	5038	PADDH.	Paddh.	PADDHATI zu MĀN (AVA) GṚHY (ASŪTRA), Hdschr. (v. BRADKE). 
+0001	00001	PADYA1VALI1	5039	PADYĀVALĪ	Padyāvalī	PADYĀVALĪ, Hdschr. (AUFRECHT). 
+0001	00000	PAIPP.	v0154	PAIPP.	Paipp.	[UL]
+0001	00000	PAIPP.-Rec.	v0155	PAIPP.-Rec.	Paipp.-rec.	[UL]
+0007	00338	PAN5CAD.	1211	PAÑCAD.	Pañcad.	PAÑCADAṆḌACCHATTRABANDHA, herausg. von WEBER. 
+0015	00077	PAN5CAR.	1212	PAÑCAR.	Pañcar.	NĀRADA'S PAÑCARĀTRA in der Bibl. ind. 
+0003	00000	PAN5CA1S4IKA1	v0156	PAÑCĀŚIKĀ	Pañcāśikā	name of several works [CA]
+0035	00239	PAN5CAT.	1213	PAÑCAT.	Pañcat.	 ohne nähere Angabe PAÑCATANTRA, vollständige Ausg. von KOSEGARTEN. Mit Beifügung von ed. Bomb. --die Ausg. von BÜHLER und KIELHORN. 
+0001	00000	PA1N2INI'S	v0157	PĀṆINI'S	Pāṇini's	PĀṆINI, N. of the most eminent of all native Sanskṛt grammarians, author of the aṣṭādhyāyī and other works [CA]
+0002	00000	PA1N2INI^2^	v0158	PĀṆINI^2^	Pāṇini^2^	PĀṆINI, N. of the most eminent of all native Sanskṛt grammarians, author of the aṣṭādhyāyī and other works [CA]
+0001	00000	PA1R. GR2H.	v0159	PĀR. GṚH.	Pār. Gṛh.	PĀRASKARA'S GṚHYASŪTRA, Ausg. von STENZLER. [CA]
+0039	00158	PA1R. GR2HY.	1215	PĀR. GṚHY.	Pār. Gṛhy.	PĀRASKARA'S GṚHYASŪTRA, Ausg. von STENZLER. 
+0001	00005	PARA1S4.	1214	PARĀŚ.	Parāś.	PARĀŚARA'S DHARMAŚĀSTRA (STENZLER). 
+0002	00001	PARA1S4ARA	X196	PARĀŚARA	Parāśara	name of the author of a well-known code of laws [CA]
+0002	00000	PARA1S4ARASAM3HITA1	v0160	PARĀŚARASAṂHITĀ	Parāśarasaṃhitā	Parāśarasaṃhitā, name of a work[CA]
+0001	00000	PA1RASI1PRAKA1S4A	v0161	PĀRASĪPRAKĀŚA	Pārasīprakāśa	[UL]
+0007	00012	PARIBH.	1216	PARIBH.	Paribh.	PARIBHĀṢĀ in PARIBHĀṢENDUŚEKHARA, Ausg. von KIELHORN. 
+0006	00014	PA1RS4VAN.	5040	PĀRŚVAN.	Pārśvan.	PĀRŚVANĀTHAKĀVYA, Hdschr. (AUFRECHT). 
+0026	00000	PA1RV.	v0163	PĀRV[CA].	Pārv.	[UL]
+0015	00003	PAT.	X052	PAT.	Pat.	PATAÑJALI, als Verfasser des MAHĀBHĀṢYA; nach Excerpten in&#13;&#10;BÖHTLINGK'S Ausgabe des PĀṆINI.[CA]
+0002	00000	PET.	v0164	PET.	Pet.	Peter Peterson (1847 - 1899), British (Scottish) Indologist [CA]
+0006	00002	PETERSON	X156	PETERSON	Peterson	Peter Peterson (1847 - 1899), British (Scottish) Indologist [CA]
+0001	00000	PHET2KA1RIN2I1-TANTRA	v0165	PHEṬKĀRIṆĪ-TANTRA	Pheṭkāriṇī-tantra	Phetkāriṇītantra, name of work[CA]
+0003	00000	PISCH.	v0166	PISCH.	Pisch.	Richard Pischel (1849 - 1908), German Indologist [CA]
+0056	00005	PISCHEL	X212	PISCHEL	Pischel	Richard Pischel (1849 - 1908), German Indologist [CA]
+0030	00051	PR. P.	3031	PR. P.	Pr. P.	PRACAṆḌAPĀṆḌAVA, EIN SCHAUSPIEL. HDSCHR. (CAPELLER). 
+0010	00058	PRAB.	1220	PRAB.	Prab.	PRABODHACANDRODAYA, Ausg. von BROCKHAUS. 
+0001	00000	PRAJA1PATI	v0167	PRAJĀPATI	Prajāpati	Name of several men and authors [CA]
+0004	00000	PRA1N2A1BHARAN2A	v0168	PRĀṆĀBHARAṆA	Prāṇābharaṇa	Prāṇābharaṇa, name of a poem.[CA]
+0002	00415	PRASANNAR.	1224	PRASANNAR.	Prasannar.	JAYADEVA'S PRASANNARĀGHAVA (KERN). 
+0004	00039	PRATA1PAR.	1225	PRATĀPAR.	Pratāpar.	PRATĀPARUDRIYA. 
+0001	00017	PRATIJN5A1S.	4009	PRATIJÑĀS.	Pratijñās.	PRATIJÑĀS(ŪTRA) berausg. von A. WEBER. 
+0003	00000	PRA1YAS4CITTAMAYU1KHA	v0169	PRĀYAŚCITTAMAYŪKHA	Prāyaścittamayūkha	Prāyaścittamayūkha, name of work [CA]
+0001	00001	PRA1YAS4CITTAT.	1222	PRĀYAŚCITTAT.	Prāyaścittat.	PRĀYAŚCITTATATTVA (ROTH). 
+0001	00000	PRA1YAS4CITTAV.	v0170	PRĀYAŚCITTAV.	Prāyaścittav.	[UL]
+0002	00047	PRIY.	1226	PRIY.	Priy.	PRIYADARŚIKĀ, Calcutta 18?? (CAPELLER). 
+0001	00000	PRIYAD.	v0171	PRIYAD.	Priyad.	PRIYADARŚIKĀ, Calcutta 18?? (CAPELLER). [CA]
+0001	00000	PU1RVAMI1MA1M3SA1	v0172	PŪRVAMĪMĀṂSĀ	Pūrvamīmāṃsā	Name of work by Somanātha [CA]
+0001	00000	Procc. A. O. S.	v0173	Procc. A. O. S.	Procc. A. O. S.	Proceedings of the American Oriental Society [CA]
+0226	00820	R.	1229	R.	R.	RĀMĀYAṆA. Das 1ste und 2te Kāṇḍa nach der Ausg. von SCHLEGEL, das 3--6te nach der von GORRESIO, das 7te nach der Bomb. Ausg., wenn nicht ausdrücklich eine andere Ausgabe genannt ist. Eine eingeklammerte Zahl bezieht ist sich auf ed. Bomb.	
+0046	00107	R. GORR.	X022	R. GORR.	R. Gorr.	RĀMĀYAṆA, translation by Gaspare Gorresio. [CA]
+0002	00000	R. PISCHEL	v0174	R. PISCHEL	R. Pischel	RĀMĀYAṆA, translation by Richard Pischel ?[CA]
+0245	00250	R. ed. Bomb.	X024	R. ed. Bomb.	R. ed. Bomb.	RĀMĀYAṆA, Bombay edition (Schlegel) [UL]
+0001	00012	R. ed. GORR.	X023	R. ed. GORR.	R. ed. Gorr.	RĀMĀYAṆA, translation by Gaspare Gorresio. [CA]
+0059	00223	RAGH.	1232	RAGH.	Ragh.	RAGHUVAṂŚA, Ausg. von STENZLER, wenn nicht ed. Calc. hinzuge- fügt wird. 
+0053	05867	RA1JAN.	1230	RĀJAN.	Rājan.	RĀJANIGHAṆṬU, Hdschr. (ROTH). 
+0049	00397	RA1JAT.	1231	RĀJAT.	Rājat.	RĀJATARAṂGIṆĪ. Die 6 ersten Bücher nach der Ausg. von TROYER. Die Beträge aus dem 7ten und 8ten Buche von KERN. 
+0001	00000	RA1M RA1S	v0175	RĀM RĀS	Rām Rās	[UL]
+0001	00024	RATNAM.	1233	RATNAM.	Ratnam.	RATNAMĀLĀ. (ROTH). 
+0001	00000	RA1YAMUKUT2A	v0176	RĀYAMUKUṬA	Rāyamukuṭa	Name of author [CA]
+0003	00000	RAYAT.	v0177	RAYAT.	Rayat.	[UL]
+0001	00000	REGNIER	v0178	REGNIER	Regnier	Adolphe Regnier (1804 - 1884), French philologist. [CA]
+0015	00006	ROTH	X116	ROTH	Roth	Heinrich Roth (1620 - 1668),  a German missionary and pioneering Sanskrit scholar, Grammatica Linguae Sanscretanae Brachmanum Indiae Orientalis [CA]
+0001	00007	R2TUS.	1235	ṚTUS.	Ṛtus.	RṬUSAṂHĀRA, Ausg. von BOHLEN. 
+0035	00000	RUDRAT2A, S4R2N3GA1RAT.	v0179	RUDRAṬA, ŚṚṄGĀRAT.	Rudraṭa, Śṛṅgārat.	Rudraṭa (with Śatānanda) N. of a writer on rhetoric, Śṛṅgārataṭinī, name of a work on rhetoric [CA]
+0005	00001	RUDRAT2A1LAM3KA1RAT2.	6011	RUDRAṬĀLAṂKĀRAṬ.	Rudraṭālaṃkāraṭ.	RUDRAṬĀLAṂKĀRAṬIPPAṆAKA, auch RUDRAṬAKĀVYĀLAṂKĀRAṬ. genannt (R. PISCHEL. ) 
+0001	00001	RUDRAYA1MALA	X113	RUDRAYĀMALA	Rudrayāmala	name of a Tantra work [CA]
+0001	00000	RUYYAKA, SAHR2D.	v0180	RUYYAKA, SAHṚD.	Ruyyaka, Sahṛd.	Ruyyaka (Rucaka), name of a teacher; Sahṛdayalīlā, name of a work on rhetoric [CA]
+0001	00000	RUYYAKA, SAHR2DAYALI1LA1	v0181	RUYYAKA, SAHṚDAYALĪLĀ	Ruyyaka, Sahṛdayalīlā	Ruyyaka (Rucaka), name of a teacher; Sahṛdayalīlā, name of a work on rhetoric [CA]
+0141	01556	R2V.	1236	ṚV.	Ṛv.	ṚGVEDA (ROTH). 
+0011	00079	R2V. PRA1T.	1237	ṚV. PRĀT.	Ṛv. Prāt.	PRĀTIŚĀKHYA zum ṚGVEDA. 
+0012	00719	S. S. S.	1254	S. S. S.	S. S. S.	SAṂGITASĀRASAṂGRAHA, Calcutta 1932 (CAPELLER). 
+0001	00000	S4ABDAR.	v0182	ŚABDAR.	Śabdar.	Śabdaratnamālā, name of grammars and dictionaries [CA]
+0015	00058	SADDH. P.	4011	SADDH. P.	Saddh. P.	SADDHARMAPUṆḌARĪKA (KERN) . 
+0001	00000	SA1DH.	v0183	SĀDH.	Sādh.	[UL]
+0011	00016	SADUKTIK.	5044	SADUKTIK.	Saduktik.	SADUKTIKARṆĀMṚTA von ŚRĪDHARADĀSA, Hdschr. (AUFRECHT). 
+0036	00155	SA1H. D.	1239	SĀH. D.	Sāh. D.	SĀHITYADARPAṆA in der Bibl. ind. 
+0002	00000	SAHR2DAYALI1LA1	v0184	SAHṚDAYALĪLĀ	Sahṛdayalīlā	name of a work on rhetoric [CA]
+0002	00000	SAHR2DAYA1LOKA	v0185	SAHṚDAYĀLOKA	Sahṛdayāloka	name of a work [CA]
+0020	00145	S4A1K.	1051	ŚĀK.	Śāk.	ŚĀKUNTALA, Ausg. von BÖHTLINGK, wenn nicht ausdrücklich PISCH. (PISCHEL) oder PRAMAC. (PREMACANDRA) hinzugefügt wird. 
+0003	00006	S4A1K. CH.	X111	ŚĀK. CH.	Śāk. Ch.	CHEZY'S Ausgabe des ŚĀKUNTALA (GILD. Bibl. 187) [CA]
+0003	00002	S4A1KTA1N.	5015	ŚĀKTĀN.	Śāktān.	ŚĀKTĀNANDATARAṂGIṆI Hdschr. (AUFRECHT). 
+0001	00000	S4AKUNTALA1	v0186	ŚAKUNTALĀ	Śakuntalā	Kālidāsa's drama called Abhijñāna-śakuntalā [CA]
+0001	00052	SA1MAV. BR.	1241	SĀMAV. BR.	Sāmav. Br.	SĀMAVIDHĀNABRĀHMAṆA, Ausg. von BURNELL. 
+0001	00000	SAMAYAMA1TR2KA1	v0187	SAMAYAMĀTṚKĀ	Samayamātṛkā	name of work[CA]
+0019	00101	SAM3HITOPAN.	1242	SAṂHITOPAN.	Saṃhitopan.	SAṂHITOPANIṢAD, Ausg. von BURNELL. 
+0024	00118	S4AM3K.	1052	ŚAṂK.	Śaṃk.	ŚAṂKARĀCĀRYA als Commentator verchiedener UPANIṢAD. 
+0001	00000	S4AM3KAR.	v0188	ŚAṂKAR.	Śaṃkar.	ŚAṂKARĀCĀRYA als Commentator verchiedener UPANIṢAD. [CA]
+0013	00001	S4AM3KARA	X147	ŚAṂKARA	Śaṃkara	ŚAṂKARĀCĀRYA als Commentator verchiedener UPANIṢAD. [CA]
+0001	00000	S4A1M3KH. GR2HY.	v0189	ŚĀṂKH. GṚHY.	Śāṃkh. Gṛhy.	Śāṅkhāyana—gṛhya-sūtra, the Gṛhya-sūtras ascribed to Śāṅkhāyana [CA]
+0002	00028	SA1M3KHYAK.	1243	SĀṂKHYAK.	Sāṃkhyak.	SĀṂKHYAKĀRIKĀ, Ausg. von WILSON. 
+0001	00000	SA1M3KHYAKA1R.	v0190	SĀṂKHYAKĀR.	Sāṃkhyakār.	SĀṂKHYAKĀRIKĀ, Ausg. von WILSON. [CA]
+0021	00001	SA1M3KHYAPR.	1243a	SĀṂKHYAPR.	Sāṃkhyapr.	Sāṃkhyapravacanabhāṣya, name of a Commentary  Vijñāna-bhikṣu [CA]
+0111	00000	SA1M3KHYAS.	v0191	SĀṂKHYAS.	Sāṃkhyas.	Sāṃkhyasūtra, name of six books of aphorisms of the Sāṃkhya philosophy ascribed to Kapila [CA]
+0001	00000	SA1M3KHYATATTVAK.	v0192	SĀṂKHYATATTVAK.	Sāṃkhyatattvak.	Sāṃkhyatattvakaumudī name of a Commentary on the Sāṃkhya by Vācaspati-miśra [CA]
+0002	00000	SA1M3KHYATATTVAKAUMUDI1	v0193	SĀṂKHYATATTVAKAUMUDĪ	Sāṃkhyatattvakaumudī	name of a Commentary on the Sāṃkhya by Vācaspati-miśra [CA]
+0001	00000	SAM3KSHEPAS4.	v0194	SAṂKṢEPAŚ.	Saṃkṣepaś.	Saṃkṣepaśārīraka, a summary in verse of Śaṃkarâcārya's Brahma-sūtra-bhāṣya by Sarvajñâtman Mahāmuni [CA]
+0008	00013	SAM3SK. K.	1245	SAṂSK. K.	Saṃsk. K.	ANANTADEVA'S SAṂSKĀRAKAUSTUBHA, obl. fol. 
+0002	00009	S4A1N2D2.	1053	ŚĀṆḌ.	Śāṇḍ.	The Aphorisms of SĀṆḌILYA in der Bibl. ind. 
+0045	00057	S4A1N3KH. BR.	1054	ŚĀṄKH. BR.	Śāṅkh. Br.	ŚĀṄKHĀYANA'S BRĀHMAṆA (WEBER). 
+0026	00145	S4A1N3KH. GR2HY.	1056	ŚĀṄKH. GṚHY.	Śāṅkh. Gṛhy.	ŚĀṄKHĀYANA'S GṚHYASŪTRA, herausg. von OLDENBERG in Ind. St. 15. 
+0073	00142	S4A1N3KH. S4R.	1055	ŚĀṄKH. ŚR.	Śāṅkh. Śr.	ŚĀṄKHĀYANA'S ŚRAUTASŪTRA (WEBER). 
+0001	00000	SA1N3KHYAS.	v0195	SĀṄKHYAS.	Sāṅkhyas.	Sāṃkhyasūtra, name of six books of aphorisms of the Sāṃkhya philosophy ascribed to Kapila [CA]
+0001	00000	S4A1RADA1-Hdschrr.	v0196	ŚĀRADĀ-Hdschrr.	Śāradā-hdschrr.	[UL]
+0019	00005	SARASVATI1K.	5046	SARASVATĪK.	Sarasvatīk.	SARASVATĪKAṆṬHĀBHARAṆA, Hdschr. (AUFRECHT). 
+0001	00000	S4ARMADHARM.	v0197	ŚARMADHARM.	Śarmadharm.	[UL]
+0007	00006	S4A1RN3G. PADDH.	1058	ŚĀRṄG. PADDH.	Śārṅg. Paddh.	ŚĀRṄGADHARA'S PADDHATI, Hdschr. im Asiatischen Museum der Kais. Ak. d. Ww. in St. petersbug. 
+0002	00039	S4A1RN3G. SAM3H.	1059	ŚĀRṄG. SAṂH.	Śārṅg. Saṃh.	ŚĀRṄGADHARA'S SAṂHITĀ, Bombay 1853 (ROTH). 
+0031	00136	SARVAD.	1248	SARVAD.	Sarvad.	SARVADARŚANASAṂGRAHA in der Bibl. ind. (KERN). 
+0010	00051	S4A1S4VATA	Y011	ŚĀŚVATA	Śāśvata	a lexicographer, author of the Anekârtha-samuccaya [CA]
+0115	01077	S4AT. BR.	1060	ŚAT. BR.	Śat. Br.	ŚATAPATHABRĀHMAṆA, nach WEBER'S Index. 
+0004	00015	S4ATR.	1063	ŚATR.	Śatr.	ŚATRUṂJAYAMĀHĀTMYA, Ausg. von WEBER. 
+0001	00000	SA1VASVATI1K.	v0198	SĀVASVATĪK.	Sāvasvatīk.	[UL]
+0071	00439	SA1Y.	1240	SĀY.	Sāy.	SĀYAṆA. 
+0001	00000	SA1YAN2A	v0199	SĀYAṆA	Sāyaṇa	N. of a learned Brāhman, also called Sāyaṇamādhava and Sāyaṇâcārya [CA]
+0002	00005	SCHIEFNER, TA1RAN.	5047	SCHIEFNER, TĀRAN.	Schiefner, Tāran.	TĀRĀNĀTHA'S Geschichte des Buddhismus in Indien, aus den Tibetschen übersetzt von ANTON SCHIEFNER. 
+0001	00000	SCHL.	v0200	SCHL.	Schl.	Karl Wilhelm Friedrich Schlegel (1772 - 1829)  German poet, literary critic, philosopher, philologist, and Indologist [CA]
+0001	00000	SHAD2GURUS4.	v0201	ṢAḌGURUŚ.	Ṣaḍguruś.	Ṣaḍguruśiṣya, a Commentator on Kātyāyana Ṛg-veda-sarvânukramaṇī[CA]
+0007	00018	SHAD2V. BR.	1251	ṢAḌV. BR.	Ṣaḍv. Br.	ṢAḌVIṂŚABRĀHMAṆA (WEBER). 
+0001	00000	SIDDHA1NTACANDRODAYA	v0202	SIDDHĀNTACANDRODAYA	Siddhāntacandrodaya	a commentary on the Tarka-saṃgraha, by Kṛṣṇa-dhūrjaṭi-dīkṣita [CA]
+0001	00005	S4IKSHA1	X127	ŚIKṢĀ	Śikṣā	[UL]
+0055	00042	S4I1LA1N3KA	2009	ŚĪLĀṄKA	Śīlāṅka	ŚĪLĀṄKA'S Commentar zum ĀCĀRĀṄGASŪTRA, Calcutta 1878 (JACOBI). 
+0480	01157	S4IS4.	1066	ŚIŚ.	Śiś.	ŚIŚUPĀLAVADHA, Calcutta 1815. 
+0001	00003	S4IVA-P.	5017	ŚIVA-P.	Śiva-P.	ŚIVA-PURĀṆA (SK. , dschr. No. 126 in verzeichnis der Oxforder Handschriften (AUFRECHT). 
+0007	00014	S4KDR.	2010	ŚKDR.	Śkdr.	ŚABDAKALPADRUMA. 
+0013	00000	S4OBH.	v0203	ŚOBH.	Śobh.	[UL]
+0003	00000	SOLF	v0204	SOLF	Solf	Wilhelm Heinrich Solf (1862 - 1936), German scholar, diplomat, jurist and statesman ?[CA]
+0003	00007	S4R.	Y009	ŚR.	Śr.	śāṅkhāyana—śrauta-sūtra [CA]
+0002	00000	S4RA1DDHAMAYU1KHA	v0205	ŚRĀDDHAMAYŪKHA	Śrāddhamayūkha	name of work[CA]
+0035	00000	S4RI1KAN2T2HAC.	v0206	ŚRĪKAṆṬHAC.	Śrīkaṇṭhac.	Śrīkaṇṭhacarita, name of a poem written by Maṅkha [CA]
+0001	00000	S4RI1KAN2T2HACARITA	v0207	ŚRĪKAṆṬHACARITA	Śrīkaṇṭhacarita	name of a poem written by Maṅkha [CA]
+0001	00000	S4RI1MA1LA1M.	v0208	ŚRĪMĀLĀM.	Śrīmālām.	[UL][
+0001	00007	S4RUT.	3007	ŚRUT.	Śrut.	ŚRUTABODHA in der Zeitschrift für die Kunde des Morgenlandes, Bd. IV. 
+0001	00000	STENZL.	v0209	STENZL.	Stenzl.	Adolf Friedrich Stenzler (1807 - 1887) German Indologist [CA]
+0005	00008	STENZLER	X057	STENZLER	Stenzler	Adolf Friedrich Stenzler (1807 - 1887) German Indologist [CA]
+0001	00000	SUBHA1SH.	v0210	SUBHĀṢ.	Subhāṣ.	SUBHĀṢITARATNĀKARA, Bombay 1872. [CA]
+0003	00022	SUBHA1SHITAR.	1255	SUBHĀṢITAR.	Subhāṣitar.	SUBHĀṢITARATNĀKARA, Bombay 1872. 
+0005	00000	SUBHA1SHITARATNABHA1N2D2A1GA1RA	v0211	SUBHĀṢITARATNABHĀṆḌĀGĀRA	Subhāṣitaratnabhāṇḍāgāra	[UL]
+0068	00032	SUBHA1SHITA1V.	5048	SUBHĀṢITĀV.	Subhāṣitāv.	SUBHĀṢITĀVALI von VALLABHADEVA, Hdschr. (AUFRECHT). 
+0001	00000	SUBHU1TI	v0212	SUBHŪTI	Subhūti	name of a lexicographer (also called -candra); author of a Commentary on the Amara-koṣa [CA]
+0049	00001	SUD.	X123	SUD.	Sud.	[UL]
+0001	00002	SUKHA1V.	3036	SUKHĀV.	Sukhāv.	SUKHĀVATĪVYŪHA nach der nocht nich erschienenen Ausg. von F. MAX MÜLLER.
+0001	00000	S4U1LAP. PRA1YAS4C.	v0213	ŚŪLAP. PRĀYAŚC.	Śūlap. Prāyaśc.	[UL]
+0001	00196	S4ULBAS.	1071	ŚULBAS.	Śulbas.	ŚULBASŪTRA in der Zeitschirft The Pandit IX. X und New Series I (CAPELLER). 
+0001	00000	SUMANTU	v0214	SUMANTU	Sumantu	[UL]
+0001	00105	SUPARN2.	1257	SUPARṆ.	Suparṇ.	SUPARṆĀDHYA, herausg. von ELIMAR GRUBE in Ind. St. 14. 
+0008	00046	SU1RYAS.	1259	SŪRYAS.	Sūryas.	SŪRYASIDDHĀNTA in der Bibl. ind. 
+0001	00000	SU1RYAS4.	v0215	SŪRYAŚ.	Sūryaś.	Sūryaśataka, name of worj[CA]
+0101	00541	SUS4R.	1256	SUŚR.	Suśr.	SUŚRUTA (ROTH). 
+0001	00054	SV.	1260	SV.	Sv.	SĀMAVEDA (ROTH). 
+0018	00000	SVAPNAC.	v0216	SVAPNAC.	Svapnac.	Svapnacintāmaṇi, name of work on oneiromancy [CA]
+0003	00029	S4VETA1S4V. UP.	1072	ŚVETĀŚV. UP.	Śvetāśv. Up.	ŚVETĀŚVATAROPANIṢAD in der Bibl. ind. 
+0140	03066	Spr.	1253	Spr.	Spr.	Indische Sprüche, herausg. von O. BÖHTLINGK. 2te Aufl. Von 7614 an in Melanges asiatiques, T. VIII, S. 217. fgg. Ebendaselbst S. 203. fgg. stehen die durch zu Spr. bezeichneten Varianten. 
+0037	00186	TAITT. A1R.	1262	TAITT. ĀR.	Taitt. Ār.	TAITTIRĪYĀRAṆYAKA in der Bibl. ind. 
+0001	00000	TAITT. BR.	v0217	TAITT. BR.	Taitt. Br.	Taittirīyabrāhmaṇa, the Brāhmaṇa of the Taittirīyas [CA]
+0001	00026	TAITT. UP.	1263	TAITT. UP.	Taitt. Up.	TAITTIRĪYOPANIṢAD in der Bibl. ind. 
+0001	00000	TAKAM.	v0218	TAKAM.	Takam.	[UL]
+0001	00000	TALAVAKA1RA-BR.	v0219	TALAVAKĀRA-BR.	Talavakāra-br.	Talavakārabrāhmaṇa, another name of Jaiminīyabrāhmaṇa[CA]
+0077	00423	TA1N2D2YA-BR.	1264	TĀṆḌYA-BR.	Tāṇḍya-Br.	TĀṆḌYABRĀHMAṆA in der Bibl. Im grossen Wörterbuch als PAÑCAV. BR. citirt. 
+0001	00003	TANTRAS.	X040	TANTRAS.	Tantras.	TANTRASĀRA, of a compilation [CA]
+0001	00000	TA1RAN.	v0220	TĀRAN.	Tāran.	Tāranātha,  name of a Tibetan author of a history of Buddhism[CA]
+0001	00000	TARKAK.	v0221	TARKAK.	Tarkak.	tarka—kārikā, name of a Vaiśeṣika work by Jīva-rāja Dīkṣita [CA]
+0002	00025	TARKAS.	1265	TARKAS.	Tarkas.	TARKASAṂGRAHA, Allahabad 1849 (ROTH). 
+0051	00298	TBR.	1267	TBR.	Tbr.	TAITTIRĪYA BRĀHMAṆA (ROTH). 
+0001	00006	TEJOB. UP.	2061	TEJOB. UP.	Tejob. Up.	TEJOBINDŪPANIṢAD in der Bibl. ind. (GELDNER). 
+0001	00000	TITHYA1DIT.	v0222	TITHYĀDIT.	Tithyādit.	[UL]
+0002	00000	TRIGLOTTE	v0223	TRIGLOTTE	Triglotte	buddhistische triglotte : a sanskrit-tibetan-mongolian glossary [CA]
+0004	00044	TRIK.	1268	TRIK.	Trik.	TRIKĀṆḌAŚEṢA. 
+0162	00509	TS.	1269	TS.	Ts.	TAITTIRĪYASAṂHITĀ (ROTH und WEBER). 
+0011	00212	TS. PRA1T.	1270	TS. PRĀT.	Ts. Prāt.	PRĀTIŚĀKHYA zur TS. , Ausg. von WHITNEY. 
+0001	00020	UJJVAL.	1271	UJJVAL.	Ujjval.	UJJVALADATTA, Commentator der UṆĀDISŪTRA. 
+0001	00010	UN2A1DIS.	1272	UṆĀDIS.	Uṇādis.	UṆĀDISŪTRA, herausg. von AUFRECHT. 
+0001	00001	UPAVANAVINODA	X216	UPAVANAVINODA	Upavanavinoda	name of work [CA]
+0001	00122	UTPALA	X002	UTPALA	Utpala	name of a lexicographer [CA]
+0037	00068	UTTAMAC.	5049	UTTAMAC.	Uttamac.	Ueber das UTTAMACARITRAKATHĀNAKAM, die Geschichte vom prinzen Trefflichst in Sitzungsserichte der Kön der Kön. Pr. Akademie der Ww- zu Berlin 1884, No. XVII. 
+0002	00000	UTTAR.	v0224	UTTAR.	Uttar.	UTTARARĀMACARITRA, nach zwei Ausgaben, Calcutta 1831 und 1862 [CA]
+0011	00028	UTTARAR.	1273	UTTARAR.	Uttarar.	UTTARARĀMACARITRA, nach zwei Ausgaben, Calcutta 1831 und 1862. 
+0001	00000	VA1CASPATIMIS4RA	v0225	VĀCASPATIMIŚRA	Vācaspatimiśra	name of various authors (esp. of a philosopher and celebrated lawyer) [CA]
+0003	00006	VA1GBH.	1274	VĀGBH.	Vāgbh.	VĀGBHAṬA'S ĀYURVEDADARŚANA (ROTH). 
+0007	00002	VA1GBHAT2A	X267	VĀGBHAṬA	Vāgbhaṭa	name of a writer on rhetoric (author of the Vāg-bhaṭâlaṃkāra) [CA]
+0001	00000	VA1GBHAT2A1LAM3KA1RA	v0226	VĀGBHAṬĀLAṂKĀRA	Vāgbhaṭālaṃkāra	name of work[CA]
+0001	00000	VAIJ.	v0227	VAIJ.	Vaij.	[UL]
+0002	00000	VAIJAY.	v0228	VAIJAY.	Vaijay.	[UL]
+0005	00000	VAIJAYANTI1	v0229	VAIJAYANTĪ	Vaijayantī	VAIJAYANTĪ, ein Wörterbuch. Excerpte daraus, angeführt in den&#13;&#10;Scholien zu KIR. und ŚIŚ., verdanken wir Professor STENZLER. [CA]
+0001	00000	VAIS4ESHIKA	v0230	VAIŚEṢIKA	Vaiśeṣika	name of the later of the two great divisions of the Nyāya school of philosophy,  founded by Kaṇâda[CA]
+0024	00455	VAITA1N.	1277	VAITĀN.	Vaitān.	VAITĀNASŪTRA, Ausg, von GARBE. 
+0061	00103	VAJRACCH.	3037	VAJRACCH.	Vajracch.	VAJRACCHEDIKĀ, herausgegeben von (F. MAX MÜLLER). 
+0002	00000	VAKROKTIPAN5CA1S4IKA1	v0231	VAKROKTIPAÑCĀŚIKĀ	Vakroktipañcāśikā	name of work [CA]
+0006	00001	VALL.	X214	VALL.	Vall.	[UL]
+0001	00000	VALLABHI1	v0232	VALLABHĪ	Vallabhī	name of a grammarian and various other writers and teachers [CA]
+0012	00122	VA1MANA	1280	VĀMANA	Vāmana	VĀMANA'S KĀVYĀLAṂKĀRAVṚTTI, Ausg. von CAPELLER. 
+0003	00000	VA1MANAP.	v0233	VĀMANAP.	Vāmanap.	vāmana—purāṇa, name of one of the 18 Purāṇas [CA]
+0005	00172	VARA1H. BR2H.	1282	VARĀH. BṚH.	Varāh. Bṛh.	VARĀHAMIHIRA'S BṚHAJJĀTAKA (KERN). 
+0037	00333	VARA1H. BR2H. S.	1283	VARĀH. BṚH. S.	Varāh. Bṛh. S.	VARĀHAMIHIRA'S BṚHATSAṂHITĀ (KERN). 
+0009	00240	VARA1H. YOGAY.	1284	VARĀH. YOGAY.	Varāh. Yogay.	VARĀHAMIHIRA'S YOGAYĀTRĀ, herausg. von KERN in Ind. St. 10. 14 und 15. 
+0001	00000	VA1RA1HAP.	v0234	VĀRĀHAP.	Vārāhap.	Vārāhapurāṇa, name of one of the 18 Purāṇas [CA]
+0001	00000	VARA1HAP.	v0235	VARĀHAP.	Varāhap.	Varāhapurāṇa, name of the fifteenth Purāṇa [CA]
+0017	00007	VARDHAMA1NAC.	X031	VARDHAMĀNAC.	Vardhamānac.	[UL]
+0098	00416	VA1SAV.	1288	VĀSAV.	Vāsav.	VĀSAVADATTĀ in der Bibl. ind. 
+0047	00092	VASISHT2HA	3038	VASIṢṬHA	Vasiṣṭha	VASIṢṬHA, nach der Ausg. von Benares (JOLLY). 
+0001	00053	VA1STUV.	2062	VĀSTUV.	Vāstuv.	VIŚVAKARMA'S VĀSTUVIDYĀ, Hdschr (KERN). 
+0005	00007	VA1YU-P.	1278	VĀYU-P.	Vāyu-P.	VĀYUPURĀṆA, nach Citaten in andern Werken. 
+0012	00000	VEDA1NTA	v0236	VEDĀNTA	Vedānta	name of the second and most important part of the Mīmāṉsā or third of the three great divisions of Hindū philosophy [CA]
+0001	00000	VEDA1RTHAD.	v0237	VEDĀRTHAD.	Vedārthad.	Vedārthadīpikā, name of work by Ṣaḍguruśiṣya [CA]
+0004	00192	VEN2I1S.	1289	VEṆĪS.	Veṇīs.	VEṆĪSAṂHĀRA, Ausg. von GRILL (CAPELLER). 
+0007	00002	VET.	1292	VET.	Vet.	VETĀLAPAÑCAVIṂŚATI in LA. 
+0001	00145	VIDDH.	1293	VIDDH.	Viddh.	VIDDHAŚĀLABHAÑJIKĀKHYANĀṬIKĀ in der Zeitschrift PRATNAKAMRANANDINI(CAPELLER). 
+0001	00000	VIDDHAS4.	v0238	VIDDHAŚ.	Viddhaś.	Viddhaśālabhañjikā, name of a drama by Rājaśekhara [CA]
+0001	00000	VIDDHAS4A1L.	v0239	VIDDHAŚĀL.	Viddhaśāl.	Viddhaśālabhañjikā, name of a drama by Rājaśekhara [CA]
+0014	00001	VIJN5.	X198	VIJÑ.	Vijñ.	Vijñānabhikṣu, name of a scholar [CA]
+0002	00000	VIJN5A1NABHIKSHU	v0240	VIJÑĀNABHIKṢU	Vijñānabhikṣu	name of a scholar [CA]
+0009	00051	VIKR.	1294	VIKR.	Vikr.	VIKRAMORVAŚĪ, Ausg. von BOLLENSEN. 
+0006	00000	VIKRAM.	v0241	VIKRAM.	Vikram.	VIKRAMORVAŚĪ, Ausg. von BOLLENSEN. [CA]
+0027	00382	VIKRAMA1N3KAC.	1295	VIKRAMĀṄKAC.	Vikramāṅkac.	VIKRAMĀṄKADEVACARITA, Ausg. von BÜHLER. 
+0001	00001	VI1RAM.	4013	VĪRAM.	Vīram.	VĪRAMITRODAYA, Khadirapura 1815(STENZLER) . 
+0001	00001	VISHN2U	X055	VIṢṆU	Viṣṇu	[UL]
+0132	00282	VISHN2US.	1296	VIṢṆUS.	Viṣṇus.	VIṢṆUSŪTRA, zur Herausgabe vorbereitet von Y. JOLLY (JOLLY) 
+0001	00000	VIS4VA	v0242	VIŚVA	Viśva	[UL]
+0014	00000	VIVA1DAR.	v0243	VIVĀDAR.	Vivādar.	Vivādaratnākara, name of work on law [CA]
+0011	00000	VIVA1DARATN.	v0244	VIVĀDARATN.	Vivādaratn.	Vivādaratnākara, name of work on law [CA]
+0006	00000	VIVA1DARATNA1KARA	v0245	VIVĀDARATNĀKARA	Vivādaratnākara	Vivādaratnākara, name of work on law [CA]
+0002	00046	VOP.	2066	VOP.	Vop.	VOPADEVA'S MUGDHABODHA, herausgegeben und erklärt von O. BÖHTLINGK. 
+0001	00000	VOPADEVA	v0246	VOPADEVA	Vopadeva	VOPADEVA'S MUGDHABODHA, herausgegeben und erklärt von O. BÖHTLINGK. [CA]
+0028	00915	VP.	1297	VP.	Vp.	VIṢṆUPURĀṆA ed. Bomb. 
+0009	00000	VP.^2^	v0247	VP.^2^	Vp.^2^	2te Auflage von WILSON's Uebersetzung des VIṢṆUPURĀṆA, herausgegeben von HALL. [CA]
+0013	00024	VR2SHABH.	3041	VṚṢABH.	Vṛṣabh.	VṚṢABHĀNUJA im 3ten und 4ten Bande des Pandit (CAPELLER). 
+0012	00230	VS.	1299	VS.	Vs.	VĀJASANEYISAṂHITĀ (ROTH und WEBER). 
+0002	00029	VS. PRA1T.	1300	VS. PRĀT.	Vs. Prāt.	PRĀTIŚĀKHYA zu VS in Ind. St. 4. 
+0002	00004	VYA1SA	X037	VYĀSA	Vyāsa	[UL]
+0008	00009	VYUTP.	3040	VYUTP.	Vyutp.	VYUTPATTI, ein Sanskrit-Tibetisches Wörterbuch aus dem TAÑJUR (SCHIEFNER). 
+0007	00059	Verz. d. B. H.	1290	Verz. d. B. H.	Verz. d. B. H.	WEBER, Verzeichniss der Berliner Handschriften. 
+0026	00152	Verz. d. Oxf. H.	1291	Verz. d. Oxf. H.	Verz. d. Oxf. H.	AUFRECHT, Verzeichniss der Oxforder Handschriften. 
+0001	00000	WARD	v0248	WARD	Ward	[UL]
+0005	00022	WEBER	6017	WEBER	Weber	Albrecht Friedrich Weber (1825 - 1901) was a German Indologist and historian[CA]
+0001	00000	WEBER, BHAG.	v0249	WEBER, BHAG.	Weber, Bhag.	[UL]
+0001	00003	WEBER, RA1MAT.	3042	WEBER, RĀMAT.	Weber, Rāmat.	WEBER'S Ausg. RĀMATĀPANĪYOPANIṢAD. 
+0002	00001	WHITNEY	X013	WHITNEY	Whitney	William Dwight Whitney (1827 - 1894) American linguist, philologist, and lexicographer known for his work on Sanskrit grammar[CA]
+0003	00004	WILSON	X071	WILSON	Wilson	Horace Hayman Wilson (1786 - 1860) English orientalist, the first Boden Professor of Sanskrit at Oxford University [CA]
+0001	00000	WILSON, SA1M3KHYAK.	v0250	WILSON, SĀṂKHYAK.	Wilson, Sāṃkhyak.	SĀṂKHYAKĀRIKĀ, Ausg. von WILSON. [CA]
+0005	00000	WINDISCH	v0251	WINDISCH	Windisch	Ernst Wilhelm Oskar Windisch (1844 - 1918) German classical philologist and comparative linguist who specialised in Sanskrit, Celtic and Indo-European studies [CA]
+0007	00000	WINTERNITZ	v0252	WINTERNITZ	Winternitz	Moriz Winternitz (1863 - 1937) Austrian indologist [CA]
+0001	00009	WISE	1305	WISE	Wise	Commentary on the Hindu System of Medicine, by T. A. WISE. Calcutta 1845. 
+0001	00000	Wiener Z. f. d. K. d. M.	v0253	Wiener Z. f. d. K. d. M.	Wiener Z. F. D. K. D. M.	Wiener Zeitschrift für die Kunde des Morgenlandes [CA]
+0001	00000	Wiener Zeitschr. f. d. K. d.	v0254	Wiener Zeitschr. f. d. K. d.	Wiener Zeitschr. F. D. K. D.	Wiener Zeitschrift für die Kunde des Morgenlandes [CA]
+0002	00000	Wiener Zeitschr. f. d. K. d. M.	v0255	Wiener Zeitschr. f. d. K. d. M.	Wiener Zeitschr. F. D. K. D. M.	Wiener Zeitschrift für die Kunde des Morgenlandes [CA]
+0001	00000	YA1DAVAPRAKA1S4A'S VAIJAYANTI1	v0256	YĀDAVAPRAKĀŚA'S VAIJAYANTĪ	Yādavaprakāśa's Vaijayantī	Vaijayantī, work by Yādavaprakāśa[CA]
+0063	00173	YA1JN5.	1121	YĀJÑ.	Yājñ.	YĀJÑAVALKYA's Gesetzbuch, Ausg. von STENZLER. 
+0001	00000	YAMA	v0257	YAMA	Yama	[UL]
+0021	00039	YOGAS.	1125	YOGAS.	Yogas.	YOGASŪTRA. 
+0001	00000	YOGAVA1S.	v0258	YOGAVĀS.	Yogavās.	Yogavāsiṣṭha, name of work, also called Vāsiṣṭharāmāyaṇa [CA]
+0065	00110	Z. d. d. m. G.	1306	Z. d. d. m. G.	Z. d. d. m. G.	Zeitschrift der deutschen morgenlandischen Gesellschaft 
+0154	00001	ZACH.	X030	ZACH.	Zach.	Beiträge zur indischen Lexicographie von THEODOR ZACHARIAE [CA]
+0003	00001	ZACHARIAE	X030a	ZACHARIAE	Zachariae	Beiträge zur indischen Lexicographie von THEODOR ZACHARIAE [CA]
+0001	00001	ZIMMER	X029	ZIMMER	Zimmer	 Heinrich Friedrich Zimmer (1851 - 1910) German Celticist and Indologist [CA]
+0007	00000	phil.-hist. Kl. d. Wiener Ak.	v0259	phil.-hist. Kl. d. Wiener Ak.	Phil.-hist. Kl. D. Wiener Ak.	[UL]
+0004	00000	phil.-hist. Kl. der Wiener Ak.	v0260	phil.-hist. Kl. der Wiener Ak.	Phil.-hist. Kl. Der Wiener Ak.	[UL]
+0004	00000	phil.-hist. Klasse der Wiener Ak.	v0261	phil.-hist. Klasse der Wiener Ak.	Phil.-hist. Klasse Der Wiener Ak.	[UL]

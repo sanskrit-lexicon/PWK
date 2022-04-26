@@ -1,0 +1,459 @@
+65 old <p>{#*akSabhAra#} m. {|gana|} {#vaMzAdi#}. 
+65 new <p>{#*akSabhAra#} m. {|gan2a|} {#vaMzAdi#}. 
+;-----------------
+414 old <p>{#adripati#} m. {%der%} {|Himavant.|} {#ºkanyA#} f. Bez. der ²{|Pa1rvati1|} <ls>DAS4AK.</ls> 15, 22. 
+414 new <p>{#adripati#} m. {%der%} {|Himavant|}. {#ºkanyA#} f. Bez. der ²{|Pa1rvati1|} <ls>DAS4AK.</ls> 15, 22. 
+;-----------------
+1059 old <p>{#abhijJAta#} m. N. pr. eines Sohnes des {|Yajn5aba1hu;|} ²n. N. pr. des von ihm beherrschten {|Vars2a|} <ls>BHA1G. ²P.</ls> 5, 20, 9. 
+1059 new <p>{#abhijJAta#} m. N. pr. eines Sohnes des {|Yajn5aba1hu|}; ²n. N. pr. des von ihm beherrschten {|Vars2a|} <ls>BHA1G. ²P.</ls> 5, 20, 9. 
+;-----------------
+1079 old <p>{#abhiyukta#} m. Pl. Bez. der {|Vais4ya|} in {|Kus4advi1pa.|} 
+1079 new <p>{#abhiyukta#} m. Pl. Bez. der {|Vais4ya|} in {|Kus4advi1pa|}. 
+;-----------------
+1111 old <p>{#abhyAsaGgya#} m. {%ein best.%} {|Eka1ha.|} 
+1111 new <p>{#abhyAsaGgya#} m. {%ein best.%} {|Eka1ha|}. 
+;-----------------
+1501 old <p>{#AkaiTabhavairi#} Adv. {%bis zum Feinde%} {|Kait2abha's,|} ²d. i. {%bis%} {|Vis2n2u|} <ls>NAISH.</ls> 6, 106. 
+1501 new <p>{#AkaiTabhavairi#} Adv. {%bis zum Feinde%} {|Kait2abha's|}, ²d. i. {%bis%} {|Vis2n2u|} <ls>NAISH.</ls> 6, 106. 
+;-----------------
+1530 old <p>{#Adicakrin#} Adj. {%der zuerst den Discus führte.%} ²{|Vis2n2u Kr2s2n2a|} <ls>AGNI-P.</ls> 31, 10. 
+1530 new <p>{#Adicakrin#} Adj. {%der zuerst den Discus führte.%} ²{|Vis2n2u-Kr2s2n2a|} <ls>AGNI-P.</ls> 31, 10. 
+;-----------------
+1661 old <p>{#Izaka#} m. {|S4iva.|} Loc. so v. a. {%in Nordost%} <ls>AGNI-P.</ls> 43, 3. 
+1661 new <p>{#Izaka#} m. {|S4iva|}. Loc. so v. a. {%in Nordost%} <ls>AGNI-P.</ls> 43, 3. 
+;-----------------
+2163 old <p>{#anubhraSTatejas#} Adj. {%dessen Glanz geschwunden ist%} ²{|(Agni)|} <ls>KAP. S.</ls> 29, 4. 
+2163 new <p>{#anubhraSTatejas#} Adj. {%dessen Glanz geschwunden ist%} ²({|Agni|}) <ls>KAP. S.</ls> 29, 4. 
+;-----------------
+2197 old <p>{#anyazRGga£#} n. {%das {|eine|} Horn%} <ls>MAITR. S.</ls> 1, 4, 15. 
+2197 new <p>{#anyazRGga£#} n. {%das eine Horn%} <ls>MAITR. S.</ls> 1, 4, 15. 
+;-----------------
+2287 old <p>1. {#abhaya#} 4) {%c%}) (Nachträge) an den angeführten Stel-²len {%ein die Sicherheit der Person andeutendes%} oder ²{%versprechendes Symbol.%} Vgl. z. B. <ls>WARD</ls>, a View ²of the History u. s. w. III, S. 11 «and with the ²fourth (hand) he {|(S4iva)|} forbids fear» 
+2287 new <p>1. {#abhaya#} 4) {%c%}) (Nachträge) an den angeführten Stel-²len {%ein die Sicherheit der Person andeutendes%} oder ²{%versprechendes Symbol.%} Vgl. z. B. <ls>WARD</ls>, a View ²of the History u. s. w. III, S. 11 «and with the ²fourth (hand) he ({|S4iva|}) forbids fear» 
+;-----------------
+2408 old <p>{#avadhUta#} und {#ºka#} n. Titel einer {|Upanis2ad.|} 
+2408 new <p>{#avadhUta#} und {#ºka#} n. Titel einer {|Upanis2ad|}. 
+;-----------------
+2605 old <p>{#Avazyaka#} n. und {#AvazyikI#} f. {%religiöse Pflicht%} ²<ls>HEM. PAR.</ls> {#AvazyakasUtra#} n. Titel eines {|Jaina-²Su1tra.|} 
+2605 new <p>{#Avazyaka#} n. und {#AvazyikI#} f. {%religiöse Pflicht%} ²<ls>HEM. PAR.</ls> {#AvazyakasUtra#} n. Titel eines {|Jaina-²Su1tra|}. 
+;-----------------
+2675 old <p>{#uttamagAya#} Adj. {%hoch gerühmt%} {|(Vis2n2u)|} <ls>BHA1G. P.</ls> ²4, 12, 21. 
+2675 new <p>{#uttamagAya#} Adj. {%hoch gerühmt%} ({|Vis2n2u|}) <ls>BHA1G. P.</ls> ²4, 12, 21. 
+;-----------------
+2747 old <p>{#urukrama£#} m. {%der weite Schritt%} {|(Vis2n2u's)|} <ls>MAITR. ²S.</ls> 1, 3, 9 (<ls>KAP. S.</ls> 3, 2. <ls>KA1T2H.</ls> 4, 2). 
+2747 new <p>{#urukrama£#} m. {%der weite Schritt%} ({|Vis2n2u's|}) <ls>MAITR. ²S.</ls> 1, 3, 9 (<ls>KAP. S.</ls> 3, 2. <ls>KA1T2H.</ls> 4, 2). 
+;-----------------
+2779 old <p>{#ekato£mukha#} Adj. (f. {#A#}) {%nur nach {|einer|} Seite hin ²gerichtet%} <ls>TBR.</ls> 3, 7, 5, 6. 
+2779 new <p>{#ekato£mukha#} Adj. (f. {#A#}) {%nur nach einer Seite hin ²gerichtet%} <ls>TBR.</ls> 3, 7, 5, 6. 
+;-----------------
+2781 old <p>{#ekadamana#} Adj. {%{|einen|} Wagenlenker habend.%} 
+2781 new <p>{#ekadamana#} Adj. {%einen Wagenlenker habend.%} 
+;-----------------
+2786 old <p>{#ekarazmi#} Adj. {%{|einen|} Zügel habend.%} 
+2786 new <p>{#ekarazmi#} Adj. {%einen Zügel habend.%} 
+;-----------------
+2787 old <p>{#ekavRSa£#} Adj. {%{|einen|} Stier habend%} <ls>AV.</ls> 5, 16, 1. 
+2787 new <p>{#ekavRSa£#} Adj. {%einen Stier habend%} <ls>AV.</ls> 5, 16, 1. 
+;-----------------
+2788 old <p>{#ekavyUhavibhAga#} Adj. als Beiw. {|Vis2nu's,|} {%wenn ²er sich nur als%} {|Va1sudeva|} {%manifestirt%}, <ls>MBH.</ls> 12, ²348, 57. 
+2788 new <p>{#ekavyUhavibhAga#} Adj. als Beiw. {|Vis2n2u's|}, {%wenn ²er sich nur als%} {|Va1sudeva|} {%manifestirt%}, <ls>MBH.</ls> 12, ²348, 57. 
+;-----------------
+2800 old <p>{#ekAdazavyUha#} Adj. {%in eilf Formen erscheinend%} ²{|(Rudra)|} <ls>BHA1G. P.</ls> 5, 25, 3. 
+2800 new <p>{#ekAdazavyUha#} Adj. {%in eilf Formen erscheinend%} ²({|Rudra|}) <ls>BHA1G. P.</ls> 5, 25, 3. 
+;-----------------
+2805 old <p>{#ekotibhAva#} m. {%das nur auf {|ein|} Ziel Gerichtet-²sein, Concentration.%} {#cetasaH#} <ls>LALIT.</ls> 436, 6. {#ekAbhi-²bhAva#} fehlerhaft 147, 8. 
+2805 new <p>{#ekotibhAva#} m. {%das nur auf ein Ziel Gerichtet-²sein, Concentration.%} {#cetasaH#} <ls>LALIT.</ls> 436, 6. {#ekAbhi-²bhAva#} fehlerhaft 147, 8. 
+;-----------------
+2824 old <p>{#aitareyAraNyaka#} n. Titel eines {|A1ran2yaka.|} 
+2824 new <p>{#aitareyAraNyaka#} n. Titel eines {|A1ran2yaka|}. 
+;-----------------
+2846 old <p>{#*kaThazATha#} nach <ls>KA1S4.</ls> zu <ls>P.</ls> 4, 3, 106 Du. {|Katha|} ²und {|S4a1t2ha.|} 
+2846 new <p>{#*kaThazATha#} nach <ls>KA1S4.</ls> zu <ls>P.</ls> 4, 3, 106 Du. {|Katha|} ²und {|S4a1t2ha|}. 
+;-----------------
+3024 old <p>{#kRSNapaNDitIya#} n. {|Krs2n2apan2d2ita's|} {%Werk%} <ls>OPP. ²Cat.</ls> 
+3024 new <p>{#kRSNapaNDitIya#} n. {|Kr2s2n2apan2d2ita's|} {%Werk%} <ls>OPP. ²Cat.</ls> 
+;-----------------
+3026 old <p>{#kRSNayAmala#} n. Titel eines {|Tantra.|} 
+3026 new <p>{#kRSNayAmala#} n. Titel eines {|Tantra|}. 
+;-----------------
+3040 old <p>{#kairAtaka#}, lies {|Kira1ta.|} 
+3040 new <p>{#kairAtaka#}, lies {|Kira1ta|}. 
+;-----------------
+3107 old <p>{#gAruDopaniSad#} f. Titel einer {|Upanis2ad.|} 
+3107 new <p>{#gAruDopaniSad#} f. Titel einer {|Upanis2ad|}. 
+;-----------------
+3519 old <p>{#animiSa#} 2) {%a%}) insbes. {|Vis2n2u.|} {#ºkSetra#} n. <ls>BHA1G. ²P.</ls> 1, 1, 4. 
+3519 new <p>{#animiSa#} 2) {%a%}) insbes. {|Vis2n2u|}. {#ºkSetra#} n. <ls>BHA1G. ²P.</ls> 1, 1, 4. 
+;-----------------
+3533 old <p>{#anirhANarca#} Adj. {%wobei an der Recitation der%} ²{|(Ya1jya1-)|} {%Verse Nichts fehlt%} <ls>AIT. BR.</ls> 3, 7, 4. 
+3533 new <p>{#anirhANarca#} Adj. {%wobei an der Recitation der%} ²({|Ya1jya1-|}) {%Verse Nichts fehlt%} <ls>AIT. BR.</ls> 3, 7, 4. 
+;-----------------
+3959 old <p>{#asapiNDa#}, lies {%entfernter verwandt als ein%} {|Sa-²pin2d2a.|} Auch <ls>VISHN2US.</ls> 22, 46. 
+3959 new <p>{#asapiNDa#}, lies {%entfernter verwandt als ein%} {|Sa-²pin2d2a|}. Auch <ls>VISHN2US.</ls> 22, 46. 
+;-----------------
+3972 old <p>{#asuradruh#} m. {%ein Feind der%} {|Asura,|} {%ein Gott%} ²<ls>S4IS4.</ls> 2, 35. 
+3972 new <p>{#asuradruh#} m. {%ein Feind der%} {|Asura|}, {%ein Gott%} ²<ls>S4IS4.</ls> 2, 35. 
+;-----------------
+4192 old <p>{#upalakSmI#} f. {%eine neben der%} {|Laks2mi|} {%genannte ²Gottheit%} <ls>MA1N. GR2HY.</ls> 2, 13. 
+4192 new <p>{#upalakSmI#} f. {%eine neben der%} {|Laks2mi1|} {%genannte ²Gottheit%} <ls>MA1N. GR2HY.</ls> 2, 13. 
+;-----------------
+4194 old <p>{#u£pavahas#} n. = {#u£pavaha#} <ls>S4AT. BR.</ls> in der {|Kan2va|}-Rec. 
+4194 new <p>{#u£pavahas#} n. = {#u£pavaha#} <ls>S4AT. BR.</ls> in der {|Ka1n2va|}-Rec. 
+;-----------------
+4230 old <p>{#RgyajJuHsAmAdimaya#} Adj. (f. {#I#}) {%aus%} {|R2c, Yajus, ²Saman|} {%u. s. w. gebildet%} <ls>VP.</ls> 4, 1, 6. 
+4230 new <p>{#RgyajJuHsAmAdimaya#} Adj. (f. {#I#}) {%aus%} {|R2c|}, {|Yajus|}, ²{|Sa1man|} {%u. s. w. gebildet%} <ls>VP.</ls> 4, 1, 6. 
+;-----------------
+4252 old <p>{#ekaparvan#} Adj. {%aus {|einem|} Absatze%} oder {%Gliede ²bestehend%} <ls>MBH.</ls> 4, 65, 3. 
+4252 new <p>{#ekaparvan#} Adj. {%aus einem Absatze%} oder {%Gliede ²bestehend%} <ls>MBH.</ls> 4, 65, 3. 
+;-----------------
+4263 old <p>{#ekazaGkha#} Adj. (f. {#a#}) {%nur {|eine|} Muschel als Schmuck ²tragend%} <ls>HARIV.</ls> 11164. 
+4263 new <p>{#ekazaGkha#} Adj. (f. {#a#}) {%nur eine Muschel als Schmuck ²tragend%} <ls>HARIV.</ls> 11164. 
+;-----------------
+4296 old <p>{#aujJasa#} auch N. pr. eines {|Tirtha|} <ls>VISHN2US.</ls> 85, ²52. {#ausajJa#} v. l. 
+4296 new <p>{#aujJasa#} auch N. pr. eines {|Ti1rtha|} <ls>VISHN2US.</ls> 85, ²52. {#ausajJa#} v. l. 
+;-----------------
+4306 old <p>{#ausajJa#} n. N. pr. eines {|Tirtha|} <ls>VISHN2US.</ls> 85, 52. ²v. l. {#aujJasa#}. 
+4306 new <p>{#ausajJa#} n. N. pr. eines {|Ti1rtha|} <ls>VISHN2US.</ls> 85, 52. ²v. l. {#aujJasa#}. 
+;-----------------
+4487 old <p>{#kSullaka£vaizvadeva#} m. {%ein best. kleiner Becher für die%} ²{|Vis4ve Devas|} <ls>MAITR. S.</ls> 2, 11, 5. 
+4487 new <p>{#kSullaka£vaizvadeva#} m. {%ein best. kleiner Becher für die%} ²{|Vis4ve Deva1s|} <ls>MAITR. S.</ls> 2, 11, 5. 
+;-----------------
+4527 old <p>{#gAyatrIyAman#} Adj. (f. {#ºyAmnI#}) {%under%} {|Gayatri|}-²{%Versen kommend%} <ls>A1PAST. S4R.</ls> 4, 7, 2. 
+4527 new <p>{#gAyatrIyAman#} Adj. (f. {#ºyAmnI#}) {%under%} {|Gayatri1|}-²{%Versen kommend%} <ls>A1PAST. S4R.</ls> 4, 7, 2. 
+;-----------------
+4530 old <p>{#girika#} 2) {%b%}) auch eines Wesens im Gefolge ²{|S4iva's.|} 
+4530 new <p>{#girika#} 2) {%b%}) auch eines Wesens im Gefolge ²{|S4iva's|}. 
+;-----------------
+4546 old <p>{#gotrin#} Adj. {%zu {|einem|} Geschlecht gehörig;%} m. ²{%Blutsverwandter%} <ls>VET.</ls> (U.) 39, 39. Nom. abstr. ²{#ºtritva#} n. <ls>BR2HANM.</ls> 
+4546 new <p>{#gotrin#} Adj. {%zu einem Geschlecht gehörig;%} m. ²{%Blutsverwandter%} <ls>VET.</ls> (U.) 39, 39. Nom. abstr. ²{#ºtritva#} n. <ls>BR2HANM.</ls> 
+;-----------------
+4683 old <p>{#Dimbha#} 1) {%e%}) N. pr. eines {|Danava|} <ls>HARIV.</ls> 2, ²102, 10. 
+4683 new <p>{#Dimbha#} 1) {%e%}) N. pr. eines {|Da1nava|} <ls>HARIV.</ls> 2, ²102, 10. 
+;-----------------
+4688 old <p>{#taNDulikAzrama#} m. N. pr. eines {|Tirtha|} <ls>VISHN2US.</ls> ²85, 24, v. l. 
+4688 new <p>{#taNDulikAzrama#} m. N. pr. eines {|Ti1rtha|} <ls>VISHN2US.</ls> ²85, 24, v. l. 
+;-----------------
+4753 old <p>{#tripurANaka#} (f. {#ºNikA#}) und {#tripurANIya#} (<ls>KULL.</ls> ²zu <ls>M.</ls> 11, 227) {%im Werthe von drei%} {|Puran2a|} {%(eine ²best. Münze).%} 
+4753 new <p>{#tripurANaka#} (f. {#ºNikA#}) und {#tripurANIya#} (<ls>KULL.</ls> ²zu <ls>M.</ls> 11, 227) {%im Werthe von drei%} {|Pura1n2a|} {%(eine ²best. Münze).%} 
+;-----------------
+4778 old <p>{#damaghoSajJa#} m. Patron. {|S4is4upala's|} <ls>S4IS4.</ls> 2, 60. 
+4778 new <p>{#damaghoSajJa#} m. Patron. {|S4is4upa1la's|} <ls>S4IS4.</ls> 2, 60. 
+;-----------------
+4839 old <p>{#dvAdazapanJjarikAstotra#} n. Titel eines {|Stotra.|} 
+4839 new <p>{#dvAdazapanJjarikAstotra#} n. Titel eines {|Stotra|}. 
+;-----------------
+4853 old <p>{#dvIpeza#} m. {%Herr über einen%} {|Dvipa,|} {%Unterkönig%} ²<ls>PR. P.</ls> 97. 
+4853 new <p>{#dvIpeza#} m. {%Herr über einen%} {|Dvi1pa|}, {%Unterkönig%} ²<ls>PR. P.</ls> 97. 
+;-----------------
+4865 old <p>{#dharmadroNa#} Bez. {%der Gesetzbücher%} {|Manu's, Vasi-²s2t2ha's, Yajn5avalkya's|} {%und%} {|Gautama's|} <ls>KA1TY. ²S4RA1DDHAK.</ls> 7. Comm. zu <ls>GOBH. S4RA1DDHAK.</ls> 7, 21. 
+4865 new <p>{#dharmadroNa#} Bez. {%der Gesetzbücher%} {|Manu's|}, {|Vasi-²s2t2ha's|}, {|Yajn5avalkya's|} {%und%} {|Gautama's|} <ls>KA1TY. ²S4RA1DDHAK.</ls> 7. Comm. zu <ls>GOBH. S4RA1DDHAK.</ls> 7, 21. 
+;-----------------
+5092 old <p>{#apRthAtmaja#} Adj. {%ohne%} {|Yudhis2t2hira,|} {%von%} J. ²{%erlöst%} <ls>VEN2I1S.</ls> 97. 
+5092 new <p>{#apRthAtmaja#} Adj. {%ohne%} {|Yudhis2t2hira|}, {%von%} J. ²{%erlöst%} <ls>VEN2I1S.</ls> 97. 
+;-----------------
+5131 old <p>{#aprattasauviSTakRta#} Adj. {%dem%} {|Agni Svis2t2akr2t|} ²{%noch nicht dargebracht%} <ls>A1PAST. S4R.</ls> 9, 15, 10. 
+5131 new <p>{#aprattasauviSTakRta#} Adj. {%dem%} {|Agni|} {|Svis2t2akr2t|} ²{%noch nicht dargebracht%} <ls>A1PAST. S4R.</ls> 9, 15, 10. 
+;-----------------
+5256 old <p>{#a£rakSas#} scheinbar <ls>MAITR. S.</ls> 1, 10, 20 (160, 8). Es ²ist zu lesen {#a£rakSohata#} {%unversehrt von%} {|Raks2as.|} 
+5256 new <p>{#a£rakSas#} scheinbar <ls>MAITR. S.</ls> 1, 10, 20 (160, 8). Es ²ist zu lesen {#a£rakSohata#} {%unversehrt von%} {|Raks2as|}. 
+;-----------------
+5320 old <p>{#aspya#} Adj. {%den%} {|Sphya|} {%nicht in der Hand hal-²tend%} <ls>A1PAST. S4R.</ls> 11, 9, 7. 
+5320 new <p>{#asphya#} Adj. {%den%} {|Sphya|} {%nicht in der Hand hal-²tend%} <ls>A1PAST. S4R.</ls> 11, 9, 7. 
+;-----------------
+5439 old <p>{#e£kapAtra#} Adj. {%in {|einem|} Gefässe enthalten%} <ls>TS.</ls> 6, ²4, 9, 3. 
+5439 new <p>{#e£kapAtra#} Adj. {%in einem Gefässe enthalten%} <ls>TS.</ls> 6, ²4, 9, 3. 
+;-----------------
+5441 old <p>{#ekabhAga#} m. {%{|ein|} Theil, ein Viertel%} <ls>PAN5CAR.</ls> 1, 14, ²50. 
+5441 new <p>{#ekabhAga#} m. {%ein Theil, ein Viertel%} <ls>PAN5CAR.</ls> 1, 14, ²50. 
+;-----------------
+5442 old <p>{#ekabhUmIzvara#} m. {%Alleinherrscher auf Erden%} {|(Na1-²ga1rjuna)|} <ls>RA1JAT.</ls> 1, 173. 
+5442 new <p>{#ekabhUmIzvara#} m. {%Alleinherrscher auf Erden%} ({|Na1-²ga1rjuna|}) <ls>RA1JAT.</ls> 1, 173. 
+;-----------------
+5444 old <p>{#ekamUrti#} f. {%{|eine|} Person%} Spr. 4205. 
+5444 new <p>{#ekamUrti#} f. {%eine Person%} Spr. 4205. 
+;-----------------
+5445 old <p>{#ekayajJa#} m. {%ein von {|einer|} Person dargebrachtes ²Opfer%} <ls>KA1TY. S4R.</ls> 25, 13, 30. 
+5445 new <p>{#ekayajJa#} m. {%ein von einer Person dargebrachtes ²Opfer%} <ls>KA1TY. S4R.</ls> 25, 13, 30. 
+;-----------------
+5571 old <p>{#caturavatta£#}, lies {%viermal abgeschnitten%} oder {%ge-²schöpft, aus vier%} {|Avada1na|} {%bestehend;%} n. so v. a. ²{%vier%} {|Avada1na.|} [Page4-299-a] 
+5571 new <p>{#caturavatta£#}, lies {%viermal abgeschnitten%} oder {%ge-²schöpft, aus vier%} {|Avada1na|} {%bestehend;%} n. so v. a. ²{%vier%} {|Avada1na|}. [Page4-299-a] 
+;-----------------
+5599 old <p>{#jagat#} 4) {%e%}) {%ein best.%} {|Sa1man.|} {#jagatsAman#} Adj. {%die-[Page4-299-b]²ses zum%} {|Sa1man|} {%habend%} <ls>A1PAST. S4R.</ls> 12, 14, 1. 
+5599 new <p>{#jagat#} 4) {%e%}) {%ein best.%} {|Sa1man|}. {#jagatsAman#} Adj. {%die-[Page4-299-b]²ses zum%} {|Sa1man|} {%habend%} <ls>A1PAST. S4R.</ls> 12, 14, 1. 
+;-----------------
+5620 old <p>{#*joTiGga#} m. 1) Bein. {|S4iva's.|} -- 2) = {#mahAvratin#}. 
+5620 new <p>{#*joTiGga#} m. 1) Bein. {|S4iva's|}. -- 2) = {#mahAvratin#}. 
+;-----------------
+5621 old <p>{#*joTin#} und {#*joTIGga#} m. Bein. {|S4iva's.|} 
+5621 new <p>{#*joTin#} und {#*joTIGga#} m. Bein. {|S4iva's|}. 
+;-----------------
+5628 old <p>{#tatobRhatIka#} Adj. {%an {|der|} Stelle die%} {|Br2hati1|} ²{%habend%} <ls>S4A1N3KH. S4R.</ls> 11, 12, 1. 
+5628 new <p>{#tatobRhatIka#} Adj. {%an der Stelle die%} {|Br2hati1|} ²{%habend%} <ls>S4A1N3KH. S4R.</ls> 11, 12, 1. 
+;-----------------
+5736 old <p>{#nandakumAra#} (<ls>BHA1M. V.</ls> 4, 32) und {#nandasuta#} (ebend. ²4, 29) m. Patron. {|Kr2s2n2a's.|} 
+5736 new <p>{#nandakumAra#} (<ls>BHA1M. V.</ls> 4, 32) und {#nandasuta#} (ebend. ²4, 29) m. Patron. {|Kr2s2n2a's|}. 
+;-----------------
+5908 old <p>{#badakasAna#} {|Badachsha1n|} <ls>BHA1VAPR.</ls> 1, 248. v. l. {#bAº#}. 
+5908 new <p>{#badakasAna#} {|Badachs2a1n|} <ls>BHA1VAPR.</ls> 1, 248. v. l. {#bAº#}. 
+;-----------------
+6000 old <p>{#aNahilapATaka#} N. pr. einer Stadt ({|Anhalva1r|}) ²Ind. Antiq. 6, 195. fgg. 
+6000 new <p>{#aNahilapATaka#} N. pr. einer Stadt ({|Anhalva1r|}) ²<ls>Ind. Antiq.</ls> 6, 195. fgg. 
+;-----------------
+6253 old <p>{#apaspaza#} (Nachtr. 3), an der angeführten Stelle ²zugleich {%ohne die Einleitung%} {|Patan5jali's|} {%zum%} ²{|Maha1bha1s2ya.|} 
+6253 new <p>{#apaspaza#} (Nachtr. 3), an der angeführten Stelle ²zugleich {%ohne die Einleitung%} {|Patan5jali's|} {%zum%} ²{|Maha1bha1s2ya|}. 
+;-----------------
+6320 old <p>{#amaraviveka#} m. Titel eines Commentars zum ²{|Amarakos4a.|} 
+6320 new <p>{#amaraviveka#} m. Titel eines Commentars zum ²{|Amarakos4a|}. 
+;-----------------
+6466 old <p>{#a£varuNagrAha#} m. {%das Nichtergriffenwerden von%} ²{|Varun2a.|} 
+6466 new <p>{#a£varuNagrAha#} m. {%das Nichtergriffenwerden von%} ²{|Varun2a|}. 
+;-----------------
+6870 old <p>{#upasAgaram#} Adv. {%beim%} {|(R2s2i) Sa1gara|} <ls>HEM. PAR.</ls> ²1, 454. 
+6870 new <p>{#upasAgaram#} Adv. {%beim%} ({|R2s2i|}) {|Sa1gara|} <ls>HEM. PAR.</ls> ²1, 454. 
+;-----------------
+7114 old <p>{#garbhapuroDAza#} m. {%ein Embryo%}-{|Purod2a1s4a.|} Wird ²nach dem {|Pas4upurod2a1s4a|} dargebracht, wenn ein ²weibliches Thier trächtig ist, <ls>A1PAST. S4R.</ls> 9, 19, 6. 7. 
+7114 new <p>{#garbhapuroDAza#} m. {%ein Embryo%}-{|Purod2a1s4a|}. Wird ²nach dem {|Pas4upurod2a1s4a|} dargebracht, wenn ein ²weibliches Thier trächtig ist, <ls>A1PAST. S4R.</ls> 9, 19, 6. 7. 
+;-----------------
+7264 old <p>{#jva£lana#} oder {#jvala£na#} {|(Padap.)|} 2) {%a%}) <ls>MAITR. S.</ls> 2, ²9, 1 (120, 10). 
+7264 new <p>{#jva£lana#} oder {#jvala£na#} ({|Padap.|}) 2) {%a%}) <ls>MAITR. S.</ls> 2, ²9, 1 (120, 10). 
+;-----------------
+7275 old <p>{#tatpRSTha#} Adj. {%mit {|dem|}%} {#pRSTha#} 4) {%verbunden%} <ls>S4A1N3KH. ²S4R.</ls> 14, 22, 6. 
+7275 new <p>{#tatpRSTha#} Adj. {%mit dem%} {#pRSTha#} 4) {%verbunden%} <ls>S4A1N3KH. ²S4R.</ls> 14, 22, 6. 
+;-----------------
+7308 old <p>{#tisraskAram#} Absol. {%in drei%} {|(R2c)|} {%verwandelnd%} ²<ls>A1S4V. S4R.</ls> 5, 15, 5. 
+7308 new <p>{#tisraskAram#} Absol. {%in drei%} ({|R2c|}) {%verwandelnd%} ²<ls>A1S4V. S4R.</ls> 5, 15, 5. 
+;-----------------
+7337 old <p>{#dakSajA#} f. {%eine Tochter%} {|Daks2a's;|} Pl. {%die Weiber ²des Mondes%} <ls>HEM. PAR.</ls> 2, 88. 
+7337 new <p>{#dakSajA#} f. {%eine Tochter%} {|Daks2a's|}; Pl. {%die Weiber ²des Mondes%} <ls>HEM. PAR.</ls> 2, 88. 
+;-----------------
+7465 old <p>{#nakSatra#} m. N. pr. eines {|Eka1das4a1ngin|} <ls>VARDHA-²MA1NAC.</ls> 1, 48. 
+7465 new <p>{#nakSatra#} m. N. pr. eines {|Eka1das4a1n3gin|} <ls>VARDHA-²MA1NAC.</ls> 1, 48. 
+;-----------------
+7619 old <p>{#pattrapati#} m. Bein. {|Garuda's|} <ls>S4IS4.</ls> 20, 73. 
+7619 new <p>{#pattrapati#} m. Bein. {|Garud2a's|} <ls>S4IS4.</ls> 20, 73. 
+;-----------------
+7670 old <p>{#paryuSaNa#} und {#paryuSitavya#} nicht buddh., sondern ²in der Sprache der {|Jaina.|} 
+7670 new <p>{#paryuSaNa#} und {#paryuSitavya#} nicht buddh., sondern ²in der Sprache der {|Jaina|}. 
+;-----------------
+7763 old <p>{#pUrvavideha#} m. {%das Land der östlichen%} {|Videha.|} ²{#ºlipi#} f. {%ein best. Art zu schreiben.%} 
+7763 new <p>{#pUrvavideha#} m. {%das Land der östlichen%} {|Videha|}. ²{#ºlipi#} f. {%ein best. Art zu schreiben.%} 
+;-----------------
+7840 old <p>{#proSTila (proSThila ?)#} m. N. pr. eines {|Dacapu1rvin|} ²<ls>VARDHAMA1NAC.</ls> 1, 45. 
+7840 new <p>{#proSTila (proSThila ?)#} m. N. pr. eines {|Das4apu1rvin|} ²<ls>VARDHAMA1NAC.</ls> 1, 45. 
+;-----------------
+7984 old <p>{#maNidvIpa#} m. 1) {%*die Haube der Schlange%} {|Ananta.|} ² -- 2) N. pr. einer mythischen {%Insel.%} 
+7984 new <p>{#maNidvIpa#} m. 1) {%*die Haube der Schlange%} {|Ananta|}. ² -- 2) N. pr. einer mythischen {%Insel.%} 
+;-----------------
+8137 old <p>{#akSata#} 2) nach dem Comm. zu <ls>R. ed. Bomb.</ls> 2, ²25, 37 f. {#A#} Pl. Nach H. an. und <ls>MED.</ls> m. n. auch ²{%Eunuch%} und nach H. s4. 43 m. Bein. {|S4iva's.|} [Page6-293-a] 
+8137 new <p>{#akSata#} 2) nach dem Comm. zu <ls>R. ed. Bomb.</ls> 2, ²25, 37 f. {#A#} Pl. Nach H. an. und <ls>MED.</ls> m. n. auch ²{%Eunuch%} und nach H. s4. 43 m. Bein. {|S4iva's|}. [Page6-293-a] 
+;-----------------
+8142 old <p>{#agni£daivata#}, lies {|Agni.|} 
+8142 new <p>{#agni£daivata#}, lies {|Agni|}. 
+;-----------------
+8238 old <p>{#adbhutasiMha#} m. {%Wunderlöwe%} {|(Vis2n2u)|} <ls>BHA1G. P.</ls> ²7, 10, 9. 
+8238 new <p>{#adbhutasiMha#} m. {%Wunderlöwe%} ({|Vis2n2u|}) <ls>BHA1G. P.</ls> ²7, 10, 9. 
+;-----------------
+8261 old <p>{#anantavijaya#} m. N. pr. der Muschel {|Yudhis2thi-²ra's|} <ls>BHAG.</ls> 1, 16. 
+8261 new <p>{#anantavijaya#} m. N. pr. der Muschel {|Yudhis2t2hi-²ra's|} <ls>BHAG.</ls> 1, 16. 
+;-----------------
+8322 old <p>{#anvaSTakA#}, lies {|As2t2aka1.|} 
+8322 new <p>{#anvaSTakA#}, lies {|As2t2aka1|}. 
+;-----------------
+8568 old <p>{#AnartasatkRta#} Adj. {%von den%} {|A1narta|} {%gefeiert%} ²{|(Kr2s2n2a)|} <ls>MBH.</ls> 5, 83, 45 (in einem Wortspiel). 
+8568 new <p>{#AnartasatkRta#} Adj. {%von den%} {|A1narta|} {%gefeiert%} ²({|Kr2s2n2a|}) <ls>MBH.</ls> 5, 83, 45 (in einem Wortspiel). 
+;-----------------
+8587 old <p>{#ArSeyabrAhmaNa#} n. Titel eines von <ls>BURNELL</ls> her-²ausgegebenen {|Bra1hman2a.|} 
+8587 new <p>{#ArSeyabrAhmaNa#} n. Titel eines von <ls>BURNELL</ls> her-²ausgegebenen {|Bra1hman2a|}. 
+;-----------------
+8666 old <p>{#RtumukhIya#} Adj. Bez. {%eines%} {|Shad2d2hotar,|} {%der ²jedesmal am Anfange der Jahreszeit zu vollziehen ²ist%}, <ls>A1PAST. S4R.</ls> 14, 14, 13. 
+8666 new <p>{#RtumukhIya#} Adj. Bez. {%eines%} {|S2ad2d2hotar|}, {%der ²jedesmal am Anfange der Jahreszeit zu vollziehen ²ist%}, <ls>A1PAST. S4R.</ls> 14, 14, 13. 
+;-----------------
+8674 old <p>2. {#ekaveda#} Adj. {%mit {|einem|}%} {|Veda|} {%vertraut, nur ei-²nen%} {|Veda|} {%studirend%} <ls>MBH.</ls> 3, 149, 20. 28. 5, 43, 42. 
+8674 new <p>2. {#ekaveda#} Adj. {%mit einem%} {|Veda|} {%vertraut, nur ei-²nen%} {|Veda|} {%studirend%} <ls>MBH.</ls> 3, 149, 20. 28. 5, 43, 42. 
+;-----------------
+8682 old <p>{#ekahAvin#} Adj. {%{|ein|} Opfer vollbringend%} <ls>S4A1N3KH. ²S4R.</ls> 2, 12, 8. 
+8682 new <p>{#ekahAvin#} Adj. {%ein Opfer vollbringend%} <ls>S4A1N3KH. ²S4R.</ls> 2, 12, 8. 
+;-----------------
+8689 old <p>{#aupacAyika#} Adj. als Bez. {%eines best.%} {|S4ra1ddha,|} ²= {#puSTizrAddha#} <ls>MÜLLER</ls>, Ren. (<ls>CAPPELLER'S</ls> Uebers.) 326. 
+8689 new <p>{#aupacAyika#} Adj. als Bez. {%eines best.%} {|S4ra1ddha|}, ²= {#puSTizrAddha#} <ls>MÜLLER</ls>, Ren. (<ls>CAPPELLER'S</ls> Uebers.) 326. 
+;-----------------
+8691 old <p>{#kaGka#} 1) {%a%}), lies {|Surasa1|} st {|Sarasa1.|} 
+8691 new <p>{#kaGka#} 1) {%a%}), lies {|Surasa1|} st {|Sarasa1|}. 
+;-----------------
+8716 old <p>{#kamalanayana#} 1) Adj. {%lotusäugig%} {|(Vis2n2u)|} 105, 5. ² -- 2) f. {#A#} {%eine Lotusäugige%} <ls>MA1LATI1M.</ls> 73, 8. 
+8716 new <p>{#kamalanayana#} 1) Adj. {%lotusäugig%} ({|Vis2n2u|}) 105, 5. ² -- 2) f. {#A#} {%eine Lotusäugige%} <ls>MA1LATI1M.</ls> 73, 8. 
+;-----------------
+8718 old <p>{#kayAdhu#} Z. 2, lies {|Hiran2yakas4ipu's|} st. {|Ka1s4yapa's.|} 
+8718 new <p>{#kayAdhu#} Z. 2, lies {|Hiran2yakas4ipu's|} st. {|Ka1s4yapa's|}. 
+;-----------------
+8741 old <p>{#kavikaNThAbharaNa#} n. Titel der Rhetorik {|Ks2e-²mendra's.|} 
+8741 new <p>{#kavikaNThAbharaNa#} n. Titel der Rhetorik {|Ks2e-²mendra's|}. 
+;-----------------
+8766 old <p>{#kIcakaveNuvetravant#} Adj. {%aus den%} {|Kicaka, Ven2u|} [Page6-300-b] ²{%und%} {|Vetra|} {%genannten Rohrarten bestehend%} <ls>BHA1G. ²P.</ls> 8, 2, 19. 
+8766 new <p>{#kIcakaveNuvetravant#} Adj. {%aus den%} {|Kicaka|}, {|Ven2u|} [Page6-300-b] ²{%und%} {|Vetra|} {%genannten Rohrarten bestehend%} <ls>BHA1G. ²P.</ls> 8, 2, 19. 
+;-----------------
+8833 old <p>{#gUrda#} m. angeblich {%eine best. Speise der%} {|Asura,|} ²nach welcher das {|Sa1man|} benannt worden ist. ²Nom. abstr. zu dem Namen des {|Sa1man|} {#ºtva#} n. ²ebend. 
+8833 new <p>{#gUrda#} m. angeblich {%eine best. Speise der%} {|Asura|}, ²nach welcher das {|Sa1man|} benannt worden ist. ²Nom. abstr. zu dem Namen des {|Sa1man|} {#ºtva#} n. ²ebend. 
+;-----------------
+8852 old <p>{#candrasUryAkSa#} Adj. {%Mond und Sonne als Augen ha-²bend%} {|(Vis2n2u)|} <ls>HARIV.</ls> 14189. 
+8852 new <p>{#candrasUryAkSa#} Adj. {%Mond und Sonne als Augen ha-²bend%} ({|Vis2n2u|}) <ls>HARIV.</ls> 14189. 
+;-----------------
+9067 old <p>{#puNDarIkekSaNa#} Adj. {%lotusäugig%} {|(Kr2s2n2a)|} <ls>MBH.</ls> 2, [Page6-303-c] ²24, 29. 
+9067 new <p>{#puNDarIkekSaNa#} Adj. {%lotusäugig%} ({|Kr2s2n2a|}) <ls>MBH.</ls> 2, [Page6-303-c] ²24, 29. 
+;-----------------
+9084 old <p>{#pauNDra#} 1) {%d%}) lies {|Bhi1ma's|} st. {|Bhi1s2ma's.|} 
+9084 new <p>{#pauNDra#} 1) {%d%}) lies {|Bhi1ma's|} st. {|Bhi1s2ma's|}. 
+;-----------------
+9130 old <p>{#balakSa (valakSa)#} mit {#pakSa#} m. {%die lichte Monatshälfte%} ²Ind. Antiq. 9, 185, 17. 
+9130 new <p>{#balakSa (valakSa)#} mit {#pakSa#} m. {%die lichte Monatshälfte%} ²<ls>Ind. Antiq.</ls> 9, 185, 17. 
+;-----------------
+9163 old <p>{#brahmezavaiSNava#} Adj. {%von%} {|Brahman, S4iva|} {%und%} {|Vi-²s2n2u|} {%stammend%} <ls>MA1RK. P.</ls> 17, 10. 
+9163 new <p>{#brahmezavaiSNava#} Adj. {%von%} {|Brahman|}, {|S4iva|} {%und%} {|Vi-²s2n2u|} {%stammend%} <ls>MA1RK. P.</ls> 17, 10. 
+;-----------------
+9226 old <p>{#muNDaneza#} m. Bein. {|Civa's|} <ls>KA1S4I1KH.</ls> 66, 32. 
+9226 new <p>{#muNDaneza#} m. Bein. {|S4iva's|} <ls>KA1S4I1KH.</ls> 66, 32. 
+;-----------------
+9357 old <p>{#ziraspada#} n. {%Obertheil%} <ls>CARAKA</ls> 86, 18 (nach {|einer|} ²Hdschr.). 
+9357 new <p>{#ziraspada#} n. {%Obertheil%} <ls>CARAKA</ls> 86, 18 (nach einer ²Hdschr.). 
+;-----------------
+9794 old <p>{#aGgArakA#} (!) f. N. pr. einer {|Ra1-²ks2ast|} <ls>R. ed. Bomb.</ls> 4, 41, 26. 
+9794 new <p>{#aGgArakA#} (!) f. N. pr. einer {|Ra1-²ks2asi1|} <ls>R. ed. Bomb.</ls> 4, 41, 26. 
+;-----------------
+11773 old <p>{#apAJcAlya#} n. {%Vernichtung der%} ²{|Pan5ka1la|} oder -- {%der Fürsten der%} ²P. <ls>MBH.</ls> 8, 82, 10. 
+11773 new <p>{#apAJcAlya#} n. {%Vernichtung der%} ²{|Pan5ca1la|} oder -- {%der Fürsten der%} ²P. <ls>MBH.</ls> 8, 82, 10. 
+;-----------------
+11833 old <p>{#apuruSa#} m. {%Unmensch, ein grausa-²mer Knecht%} {|(Yama's)|} <ls>JA1TAKAM.</ls> 29, 30. 
+11833 new <p>{#apuruSa#} m. {%Unmensch, ein grausa-²mer Knecht%} ({|Yama's|}) <ls>JA1TAKAM.</ls> 29, 30. 
+;-----------------
+12781 old <p>{#arhadvasana#} n. {%das Kleid des%} {|Di-²gambara,|} {%Luft%} <ls>JA1TAKAM.</ls> 11. 
+12781 new <p>{#arhadvasana#} n. {%das Kleid des%} {|Di-²gambara|}, {%Luft%} <ls>JA1TAKAM.</ls> 11. 
+;-----------------
+14528 old <p>{#indrANIgaurIpUjA#} f. {%Verehrung der%} ²{|Indra1n2i|} {%und%} {|Gauri1,|} {%eine best. ²Hochzeitsceremonie%} <ls>SUD.</ls> zu <ls>A1PAST. ²GR2HY.</ls> 2, 15. 
+14528 new <p>{#indrANIgaurIpUjA#} f. {%Verehrung der%} ²{|Indra1n2i1|} {%und%} {|Gauri1|}, {%eine best. ²Hochzeitsceremonie%} <ls>SUD.</ls> zu <ls>A1PAST. ²GR2HY.</ls> 2, 15. 
+;-----------------
+14529 old <p>{#indrANImaha#} m. {%Feier der%} {|Indra1n2i1,|} ²{%eine best. Hochzeitsceremonie%} <ls>SUD.</ls> ²zu <ls>A1PAST. GR2HY.</ls> 2, 15. 
+14529 new <p>{#indrANImaha#} m. {%Feier der%} {|Indra1n2i1|}, ²{%eine best. Hochzeitsceremonie%} <ls>SUD.</ls> ²zu <ls>A1PAST. GR2HY.</ls> 2, 15. 
+;-----------------
+14837 old <p>{#udaGkya#} I. ist <ls>KAUS4.</ls> 56, 13 Bein, des ²Dämons {|S4u1lva1n2a.|} 
+14837 new <p>{#udaGkya#} I. ist <ls>KAUS4.</ls> 56, 13 Bein, des ²Dämons {|S4u1lva1n2a|}. 
+;-----------------
+15354 old <p>{#e£kaloka#} Adj. {%{|eine|} Welt besitzend%} ²<ls>MAITR. S.</ls> 1, 10, 18 (158, 1). 
+15354 new <p>{#e£kaloka#} Adj. {%eine Welt besitzend%} ²<ls>MAITR. S.</ls> 1, 10, 18 (158, 1). 
+;-----------------
+15362 old <p>{#ekavidya#} Adj. {%mit {|einer|} Wissen-²schaft vertraut%} <ls>RUDRAT2A, S4R2N3GA1RAT.</ls> ²1, 41. 
+15362 new <p>{#ekavidya#} Adj. {%mit einer Wissen-²schaft vertraut%} <ls>RUDRAT2A, S4R2N3GA1RAT.</ls> ²1, 41. 
+;-----------------
+15403 old <p>{#ekAtmavAdin#} m. {%ein Bekenner ²des%} {|Vedanta|} <ls>ANIRUDDHA</ls> zu <ls>SA1M3-²KHYAS.</ls> 1, 29. 
+15403 new <p>{#ekAtmavAdin#} m. {%ein Bekenner ²des%} {|Veda1nta|} <ls>ANIRUDDHA</ls> zu <ls>SA1M3-²KHYAS.</ls> 1, 29. 
+;-----------------
+15419 old <p>{#*ekAsanika#} Adj. {%beim Essen auf ²{|einer|} Stelle bleibend%} <ls>MAHA1VY.</ls> 49. 
+15419 new <p>{#*ekAsanika#} Adj. {%beim Essen auf ²einer Stelle bleibend%} <ls>MAHA1VY.</ls> 49. 
+;-----------------
+15435 old <p>{#eNAGka#} auch {%das Zeichen Antilope%} ²Ind. Antiq. 1887, S. 64, N. 6. 
+15435 new <p>{#eNAGka#} auch {%das Zeichen Antilope%} ²<ls>Ind. Antiq.</ls> 1887, S. 64, N. 6. 
+;-----------------
+15844 old <p>{#kalpavrata#} n. {%eine best. Begehung ²des%} {|Brahmaka1rin|} <ls>AV. PADDH.</ls> zu ²<ls>KAUS4.</ls> 57. 
+15844 new <p>{#kalpavrata#} n. {%eine best. Begehung ²des%} {|Brahmaca1rin|} <ls>AV. PADDH.</ls> zu ²<ls>KAUS4.</ls> 57. 
+;-----------------
+16137 old <p>{#kudevendra#} m. {%ein schlechter Götter-²fürst%} {|(Indra),|} Bez. {|Nahus2a's|} ²<ls>MBH.</ls> 13, 99, 25. 
+16137 new <p>{#kudevendra#} m. {%ein schlechter Götter-²fürst%} ({|Indra|}), Bez. {|Nahus2a's|} ²<ls>MBH.</ls> 13, 99, 25. 
+;-----------------
+16162 old <p>{#kumudasakhI#} f. {%die Freundin der ²bei Nacht sich öffnenden%} {|Kumuda,|} ²Beiw. des Mondscheins <ls>JA1TAKAM.</ls> ²21, 27. 
+16162 new <p>{#kumudasakhI#} f. {%die Freundin der ²bei Nacht sich öffnenden%} {|Kumuda|}, ²Beiw. des Mondscheins <ls>JA1TAKAM.</ls> ²21, 27. 
+;-----------------
+16342 old <p>{#kerala#} II. n. Sg. {%das Land der%} {|Ke-²rala.|} 
+16342 new <p>{#kerala#} II. n. Sg. {%das Land der%} {|Ke-²rala|}. 
+;-----------------
+16392 old <p>{#kopana#} II. m. N. pr. eines {|Asura.|} 
+16392 new <p>{#kopana#} II. m. N. pr. eines {|Asura|}. 
+;-----------------
+16452 old <p>{#*kriyAvizAla#} n. Titel eines {|Pu1rva|} ²der {|Jaina.|} 
+16452 new <p>{#*kriyAvizAla#} n. Titel eines {|Pu1rva|} ²der {|Jaina|}. 
+;-----------------
+16564 old <p>{#kSaitrapatya#} n. II. auch {%das Opfer an%} ²{|Ks2etrapati,|} {%den Herrn des Fel-[Page7-336-b]²des%} <ls>A1PAST. GR2HY.</ls> 19, 13. 20, 18. 
+16564 new <p>{#kSaitrapatya#} n. II. auch {%das Opfer an%} ²{|Ks2etrapati|}, {%den Herrn des Fel-[Page7-336-b]²des%} <ls>A1PAST. GR2HY.</ls> 19, 13. 20, 18. 
+;-----------------
+16685 old <p>{#gaNAdhipati#} m. 1) Bein. {|S4iva's.|} -- ²2) {%*der Gott%} {|Gan2es4a.|} 
+16685 new <p>{#gaNAdhipati#} m. 1) Bein. {|S4iva's|}. -- ²2) {%*der Gott%} {|Gan2es4a|}. 
+;-----------------
+16796 old <p>{#*gAdhibhU#} m. Patron. {|Vis4va1mitra's|} 
+16796 new <p>{#*gAdhibhU#} m. Patron. {|Vis4va1mitra'|}. 
+;-----------------
+17117 old <p>{#caturmukhatIrtha#} n. N. pr. eines {|Ti1rtha.|} 
+17117 new <p>{#caturmukhatIrtha#} n. N. pr. eines {|Ti1rtha|}. 
+;-----------------
+17773 old <p>{#*tAlabhRt#} m. Bein. {|Balara1ma's.|} 
+17773 new <p>{#*tAlabhRt#} m. Bein. {|Balara1ma's|}. 
+;-----------------
+18043 old <p>{#dazabalabalin#} Adj. {%die zehn Kräfte ²besitzend%} {|(Buddha)|} <ls>DIVYA1VAD.</ls> 95, 16. ²124, 18. 
+18043 new <p>{#dazabalabalin#} Adj. {%die zehn Kräfte ²besitzend%} ({|Buddha|}) <ls>DIVYA1VAD.</ls> 95, 16. ²124, 18. 
+;-----------------
+18077 old <p>{#dArila#} m. N. pr. eines Commen-²tators des {|Kaus4ikasu1tra.|} 
+18077 new <p>{#dArila#} m. N. pr. eines Commen-²tators des {|Kaus4ikasu1tra|}. 
+;-----------------
+18319 old <p>{#dvAdazamaJjarikAstotra#} n. Titel ei-²nes {|Stotra.|} 
+18319 new <p>{#dvAdazamaJjarikAstotra#} n. Titel ei-²nes {|Stotra|}. 
+;-----------------
+18467 old <p>{#dhUmra£#} III. 3. In der Bed. 4) <ls>MBH.</ls> 1, ²63, 49. Pl. N. pr. eines {|Rs2i|}-Ge-²schlechts <ls>R. ed. Bomb.</ls> 3, 35, 31. 
+18467 new <p>{#dhUmra£#} III. 3. In der Bed. 4) <ls>MBH.</ls> 1, ²63, 49. Pl. N. pr. eines {|R2s2i|}-Ge-²schlechts <ls>R. ed. Bomb.</ls> 3, 35, 31. 
+;-----------------
+18526 old <p>{#nayacandrasUri#} m. N. pr. des Autors ²von {|Hammi1ramaha1ka1vya.|} 
+18526 new <p>{#nayacandrasUri#} m. N. pr. des Autors ²von {|Hammi1ramaha1ka1vya|}. 
+;-----------------
+18569 old <p>{#nAgabali#} m. {%Streuopfer an die%} ²{|Na1ga,|} {%eine best. Hochzeitsceremonie%} ²Comm. zu <ls>A1PAST. GR2HY.</ls> 2, 15. 
+18569 new <p>{#nAgabali#} m. {%Streuopfer an die%} ²{|Na1ga|}, {%eine best. Hochzeitsceremonie%} ²Comm. zu <ls>A1PAST. GR2HY.</ls> 2, 15. 
+;-----------------
+18697 old <p>{#nirupahita#} Adj. {%ohne%} {|Upadhi (U-²pa1dhi)|} <ls>ANIRUDDHA</ls> zu <ls>SA1M3KHYAS.</ls> 5, 79. 
+18697 new <p>{#nirupahita#} Adj. {%ohne%} {|Upadhi|} ({|U-²pa1dhi|}) <ls>ANIRUDDHA</ls> zu <ls>SA1M3KHYAS.</ls> 5, 79. 
+;-----------------
+18883 old <p>{#*naivazaikSAzaikSa#} m. {%weder ein%} {|S4ai-²ks2a|} {%noch ein%} {|As4aiks2a,|} d. i. {%ein ²unbekehrter Mensch%} <ls>MAHA1VY.</ls> 95, 10. 
+18883 new <p>{#*naivazaikSAzaikSa#} m. {%weder ein%} {|S4ai-²ks2a|} {%noch ein%} {|As4aiks2a|}, d. i. {%ein ²unbekehrter Mensch%} <ls>MAHA1VY.</ls> 95, 10. 
+;-----------------
+18949 old <p>{#paJcagatisamatikrAnta#} Adj. {%über die ²fünf Zustände hinaus%} {|(Buddha)|} <ls>DI-²VYA1VAD.</ls> 95, 18. 265, 1. 
+18949 new <p>{#paJcagatisamatikrAnta#} Adj. {%über die ²fünf Zustände hinaus%} ({|Buddha|}) <ls>DI-²VYA1VAD.</ls> 95, 18. 265, 1. 
+;-----------------
+19376 old <p>{#pura£stAtpuroDAza#} Adj. {%mit einem ²vorangehenden%} {|Puroda1s4a|} <ls>MAITR. ²S.</ls> 4, 3, 6 (45, 7). 
+19376 new <p>{#pura£stAtpuroDAza#} Adj. {%mit einem ²vorangehenden%} {|Purod2a1s4a|} <ls>MAITR. ²S.</ls> 4, 3, 6 (45, 7). 
+;-----------------
+19524 old <p>{#prajJApAramitA#} IV. Auch allgemei-²ner Titel eines nordbuddhistischen ²{|Su1tra,|} wovon verschiedene Redac-[Page7-360-b]²tionen bestehen, <ls>MAHA1VY.</ls> 65. 
+19524 new <p>{#prajJApAramitA#} IV. Auch allgemei-²ner Titel eines nordbuddhistischen ²{|Su1tra|}, wovon verschiedene Redac-[Page7-360-b]²tionen bestehen, <ls>MAHA1VY.</ls> 65. 
+;-----------------
+19770 old <p>{#prahasitanetra#} m. N. pr. eines ²{|Buddha.|} 
+19770 new <p>{#prahasitanetra#} m. N. pr. eines ²{|Buddha|}. 
+;-----------------
+20025 old <p>{#brAhmaNAda#} Adj. {%Brahmanen ver-²zehrend%} {|(Ra1ks2asa)|} <ls>MBH.</ls> 7, 176, 3. 
+20025 new <p>{#brAhmaNAda#} Adj. {%Brahmanen ver-²zehrend%} ({|Ra1ks2asa|}) <ls>MBH.</ls> 7, 176, 3. 
+;-----------------
+20391 old <p>{#mahiSAsuramardinI#} V. lies {|Durga1.|} 
+20391 new <p>{#mahiSAsuramardinI#} V. lies {|Durga1|}. 
+;-----------------
+20462 old <p>{#mIDhvaMs#} V. 3) f. {#mIDhuSI#} Bein. der ²{|Devi,|} Gattin des {|I1s4a1na,|} <ls>A1PAST. ²GR2HY.</ls> 20, 2. 
+20462 new <p>{#mIDhvaMs#} V. 3) f. {#mIDhuSI#} Bein. der ²{|Devi1|}, Gattin des {|I1s4a1na|}, <ls>A1PAST. ²GR2HY.</ls> 20, 2. 
+;-----------------
+20522 old <p>{#mRgatIrtha#} V. Z. 2, lies {%des%} {|Savana.|} 
+20522 new <p>{#mRgatIrtha#} V. Z. 2, lies {%des%} {|Savana|}. 
+;-----------------
+20525 old <p>{#mRgAruvrata#} (nicht {#mRgAraº#}) n. {%eine ²best. Begehung des%} {|Brahmaka1rin|} ²<ls>AV. PADD.</ls> zu <ls>KAUS4.</ls> 57. 
+20525 new <p>{#mRgAruvrata#} (nicht {#mRgAraº#}) n. {%eine ²best. Begehung des%} {|Brahmaca1rin|} ²<ls>AV. PADD.</ls> zu <ls>KAUS4.</ls> 57. 
+;-----------------
+20547 old <p>{#mailatrata#} (!) n. {%eine best. Begehung ²des%} {|Brahmaka1rin|} <ls>AV. PADDH.</ls> zu ²<ls>KAUS4.</ls> 57. 
+20547 new <p>{#mailatrata#} (!) n. {%eine best. Begehung ²des%} {|Brahmaca1rin|} <ls>AV. PADDH.</ls> zu ²<ls>KAUS4.</ls> 57. 
+;-----------------
+20569 old <p>{#yakSabali#} m. {%ein Streuopfer an die%} ²{|Yaks2a,|} {%eine best. Hochzeitscere-²monie%} Comm. zu <ls>A1PAST. GR2HY.</ls> 2, 15. 
+20569 new <p>{#yakSabali#} m. {%ein Streuopfer an die%} ²{|Yaks2a|}, {%eine best. Hochzeitscere-²monie%} Comm. zu <ls>A1PAST. GR2HY.</ls> 2, 15. 
+;-----------------
+20744 old <p>{#rAdheya#} m. Metron. {|Bhi1s2ma's.|} 
+20744 new <p>{#rAdheya#} m. Metron. {|Bhi1s2ma's|}. 
+;-----------------
+21422 old <p>{#zAlivAhana#}, Z. 2 lies {|Vikrama1-²ditya.|} 
+21422 new <p>{#zAlivAhana#}, Z. 2 lies {|Vikrama1-²ditya|}. 
+;-----------------
+21719 old <p>{#saMprajJAtayogin#} m. {%ein%} {|Yogin,|} {%der ²sich noch im Zustande des Bewusst-²seins befindet%}, <ls>ANIRUDDHA</ls> zu <ls>SA1N3-²KHYAS.</ls> 6, 50. 
+21719 new <p>{#saMprajJAtayogin#} m. {%ein%} {|Yogin|}, {%der ²sich noch im Zustande des Bewusst-²seins befindet%}, <ls>ANIRUDDHA</ls> zu <ls>SA1N3-²KHYAS.</ls> 6, 50. 
+;-----------------
+21889 old <p>{#surasravantI#} f. {%die himmlische%} {|Gan3-²a1|} <ls>HARAVIJAYA</ls> 9, 21. 
+21889 new <p>{#surasravantI#} f. {%die himmlische%} {|Gan3-²ga1|} <ls>HARAVIJAYA</ls> 9, 21. 
+;-----------------
+22065 old <p>{#adAnava#} m. {%kein%} {|Da1nava,|} {%ein Gott%} ²<ls>MBH.</ls> 1, 76, 14. 
+22065 new <p>{#adAnava#} m. {%kein%} {|Da1nava|}, {%ein Gott%} ²<ls>MBH.</ls> 1, 76, 14. 
+;-----------------

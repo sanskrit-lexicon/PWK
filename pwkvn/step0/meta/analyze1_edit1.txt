@@ -1,0 +1,850 @@
+x 09363 7-289-a aMzasvara 1
+x 09442 7-289-c akuNThadhiSNya 1
+y 09459 7-289-c akUrmapRSat 2
+y 09505 7-290-a akleza 4
+x 09576 7-290-b akSetratara 3
+x 09635 7-290-d agRdhru 2
+y 09639 7-290-d agRhyamANakAraNa 1
+x 09747 7-291-b aghazaMsin 1
+x 09807 7-291-d aGguliveSTana 2
+x 09818 7-291-d acakita 4
+y 09831 7-291-d acaladakSa 1
+x 09846 7-292-a acirAbhA 1
+x 09872 7-292-a acchaMra 1
+x 09877 7-292-a acyutarAjAbhyudaya 2
+x 09879 7-292-a acyutazataka 2
+x 09888 7-292-a ajagdhapASman 2
+x 09919 7-292-b ajigIpa 2
+x 09926 7-292-b ajihA 1
+x 09977 7-292-d aNAdIkSita 2
+x 09993 7-292-d atandrA 2
+x 10036 7-293-a aticirAt 2
+x 10040 7-293-a atijitakAzin 2
+x 10079 7-293-b atinamAmi 3
+x 10181 7-293-d ativarIyas 5
+x 10248 7-294-b atizlAghya 3
+x 10255 7-294-b atisaMharpa 2
+x 10275 7-294-c atisugandhin 6
+x 10356 7-295-a atrapus 2
+x 10362 7-295-a atrinitraprajAta 1
+x 10366 7-295-a atharvaNazikSA 2, atharvaNazIrSopaniSad 2, atharvaNopaniSad 2
+x 10379 7-295-a adabdhadhIti 5  
+y 10397 7-295-b aditsant 3
+x 10416 7-295-b adRzyatva 1
+x 10429 7-295-c adogdhara 3
+x 10450 7-295-c adrogham 3
+y 10459 7-295-c advaita 2
+x 10471 7-295-d adhararucaka 3
+x 10475 7-295-d adharAmvara 3
+x 10503 7-295-d adhikaraNa 2, adhikaraNazAstra 2, adhikaraNasArAvali 2
+y 10503 7-295-d adhikaraNa 2
+y 10520 7-296-a adhidaivatya 1
+x 10549 7-296-a adhivAsanaka 1
+x 10550 7-296-a adhivAmin 1
+x 10593 7-296-b adhyayanamAtravant 1
+x 10597 7-296-b adhyavasinatA 6 adhyavasitatA
+x 10613 7-296-c adhyUdhnI 1 <= adhyUdhrI
+x 10620 7-296-c adhvarama 1
+x 10622 7-296-c adhvaloSTa 3 <= adhvalISTa
+x 10647 7-296-d anaGgazekhara 2
+x 10655 7-296-d anaDvaha 3, anaDvaha 5 => anaDvah
+x 10663 7-296-d atatipAtayant 3 => anatipAtayant
+h 10713 7-297-a anantargarbhin 1
+h 10715 7-297-a anantavratavidhi 2
+h 10718 7-297-a anantAryadazaka 2
+h 10720 7-297-a anantopaniSad 2
+h 10760 7-297-b anapavyayant 3
+x 10777 7-297-c anabhijJAta 3
+x 10881 7-298-a anazanAvuka 1 => anazanAyuka
+x 10887 7-298-a anasthivit 1 => anasthicit
+x 10889 7-298-a anasvin 1 => 4
+x 10893 7-298-a anAkaSana 6 => anAkalana
+h 10907 7-298-b anAgAmitva 3
+h 10915 7-298-b anAtmajJatA 3
+x 10922 7-298-b anAtha 6 => 3
+x 10938 7-298-b anAdezana 1 <= anadezana
+h 10939 7-298-b anAdyantatva 3
+h 10979 7-298-c anAlambanatA 1
+x 10986 7-298-d anAvatayant 5 => anAvartayant
+x 11011 7-298-d anAhuta 1 <= anAhuna
+x 11043 7-299-a anirAkRtin 1 <= anirakRtin
+? 11072 7-299-b anivezaka 3
+x 11120 7-299-c anukhaGgam 1 => anukhaDgam
+h 11152 7-299-d anuttara 1
+h 11274 7-300-c anuyogitA 6
+xp 11316 7-300-d anuSThAyajJAyajJIya 3 <= atuSThAyajJAyajJIya
+h 11357 7-301-a anRtavAditA 5
+x11367 7-301-a anekAza 3 => anekAMza
+h 11421 7-301-b antarAvedI 5
+y 11421 7-301-b antarAvedI 6  not present in volume 6, only antarAvedi
+h 11442 7-301-c antarbhAvavAda 2
+? 11447 7-301-c antarmukha 4  4 has only antarmukham
+h 11454 7-301-c antarvAvant 5
+x 11484 7-301-d annadravyazUla 1 => annadravazUla (print change)
+h 11487 7-301-d annapAnavidhi 2
+? 11490 7-301-d annaMbhaTIya 2
+h 11511 7-301-d anyaparatva 1
+h 11517 7-302-a anyavarNatva 5
+x 11522 7-302-a anyAyatam 3 => anyAyatas
+h 11523 7-302-a anyAyapaJcaka 2
+h 11527 7-302-a anyoktizataka 5
+x 11542 7-302-a anvAkzAyag 2 => anvAkzAyam
+x 11565 7-302-b apakSigaNasaMvAta 2 => apakSigaNasaMGAta
+x 11566 7-302-b apakSigaNasaMpAta 2 <= apakSigaNasaMpAtaM
+x 11578 7-302-b apacikISu 5 => apacikIrSu
+x 11601 7-302-c apadRSTi 1 <= apadaSTi
+h 11633 7-302-d aparakriyA 2
+h 11636 7-302-d aparasUtra 2
+x 11643 7-302-d aparAtaMma 3 => aparAtaMsa
+x 11647 7-302-d aparAdhInatA 6
+x 11666 7-302-d aparicchedakartara 3 => aparicchedakartar
+x 11697 7-303-a apariteSThita 6 => apariveSThita
+h 11715 7-303-a aparokSAnuzruti 2
+x 11725 7-303-b apavatIya 3 => aparvatIya (print change)
+x 11791 7-303-c apAmaMbhaviSNu 1 <= a£pAsaMbhaviSNu
+x 11824 7-303-d apuNyazIla 1 => 2 (print change)
+x 11825 7-303-d aputryapazavya 2 => 1 (print change)
+x 11902 7-304-b apratikUlavAda 4 <= apratikUlavAdR
+? 11920 7-304-b apratibandha 2 
+? 11945 7-304-c apratiSikta 3
+h 11969 7-304-d apratyutthAyuka 2
+x 11975 7-304-d apradhAna 1 <= apradhAnaM
+x 11991 7-304-d aprayujyamAna 4 <= aprayujyanAna (print change)
+x 12052 7-305-b abandhura 5 <= abrandhura
+? 12068 7-305-b abIja 3
+h 12158 7-305-d abhinavakAverImAhAtmya 2
+h 12168 7-306-a abhinnanimittopAdAnasamarthana 2
+h 12177 7-306-a abhipItatva 3
+h 12227 7-306-b abhilaSitArthacintAmaNi 2
+x 12228 7-306-b abhilokhita 5 => abhilekhita
+x 12272 7-306-c abhihotavai 1 <= abhihotaiva
+x 12278 7-306-d abhIruNa 4 <= abho£ruNa
+x 12283 7-306-d abhujaMgavant 4 <= abhujagavant
+? 12312 7-306-d abhyAgAra 3
+x 12357 7-307-b amadhyaMdinasAci 5 => 6  (print change)
+h 12371 7-307-b amarakozapadapArijAta 2, amarakozabRhadvRtti 2
+h 12383 7-307-b amaruka 2
+h 12384 7-307-b amarezvaramAhAtmya 1, amarezvarayAtrA 1
+x 12399 7-307-b amASya 3 => amApya
+x 12430 7-307-c amRtavindu 2 => amRtabindu
+? 12449 7-307-d amotaputraka 3
+h 12449 7-307-d amotaputraka 5
+x 12519 7-308-a ayukparNa 5 <= ayukaparNa
+h 12529 7-308-b ayUpaka 4
+h 12542 7-308-b ayorajaska 1
+h 12599 7-308-c arugna 3
+h 12610 7-308-d aruNAmodinI 2
+? 12624 7-308-d arocin 1
+h 12653 7-309-a arjunArcApArijAta 1
+? 12660 7-309-a arthakAraNa 1
+x 12663 7-309-a arthakilbiSin 1 => 2 (print change)
+h 12671 7-309-a arthapaJcaka 2
+h 12715 7-309-b ardhadroNika 5
+x 12792 7-309-d alaghu 1 <= alaghnu
+h 12796 7-309-d alaMkAramayUkha 2
+h 12798 7-309-d alaMkArarahasya 2, alaMkArarAghava 2
+? 12807 7-310-a alaMtarAm 3  Mt vs nt
+x 12817 7-310-a alamelasaGgAstotra 2 => alamelamaGgAstotra
+h 12818 7-310-a alaMbudha 5
+h 12873 7-310-c avakUlana 6
+x 12897 7-310-c avacchedakatAnirukti 2
+x 12897 7-310-c avacchedakatAmAlA 2
+x 12897 7-310-c avacchedakatAleza 2
+x 12897 7-310-c avacchedakatAvAda 2
+x 12897 7-310-c avacchedakatAsAra 2
+x 12934 7-310-d avantIsukumAlaM 1 => avantIsukumAla
+x 12942 7-310-d avabodhanIyaM 2 => avabodhanIya
+h 12952 7-311-a avayavakroDa 2
+h 12952 7-311-a avayavagrantha 2
+h 12952 7-311-a avayavaTippaNI 2
+h 12952 7-311-a avayavaziromaNi 2
+h 12965 7-311-a avarundham 4
+? 12966 7-311-a avarodhaka 5
+x 13002 7-311-b avasakithakA 3 => avasakthikA
+x 13015 7-311-b avasa 1 => avasai
+? 13027 7-311-c avasvadant 1
+x 13076 7-311-d avikRpita 5 => avikRSita
+x 13115 7-312-a avidhijJa 1 <= avighijJa
+x 13120 7-312-a avidhya 5 <= avighijJa
+x 13138 7-312-a avivruvant 4 => avibruvant
+h 13154 7-312-b avimRSTavidheyAMzabhAva 5
+x 13197 7-312-c avisaMvAda 5 <= anisaMvAda
+h 13306 7-313-a azItamarIci 5
+h 13306 7-313-a azItaruc 5
+h 13310 7-313-a azItyakSaratva 1
+h 13331 7-313-b azocyatA 6
+x 13345 7-313-b azrAkyant 1 => azrAvayant
+x 13366 7-313-c azvatIrthaka 1 <= azvatIrthak
+h 13403 7-313-d aSTabrahmaviveka 2, aSTabhujASTaka 2
+h 13405 7-313-d aSTamaGgalya 2, aSTamahAmantra 2
+h 13415 7-313-d aSTasthAnaparIkSA 2
+h 13417 7-313-d aSTAGganighaNTu 2
+h 13419 7-313-d aSTAGgahRdayadIpikA 2
+h 13419 7-313-d aSTAGgahRdayasaMhitA 2
+h 13419 7-313-d aSTAGgahRdayasaMgraha 2
+h 13426 7-313-d aSTAdazasmRti 2
+h 13426 7-313-d aSTAdazasmRtisAra 2
+h 13426 7-313-d aSTAdazArthavAda 2
+h 13434 7-314-a aSTottarazatadivyadezasthalamAhAtmya 2
+h 13434 7-314-a aSTottarazatadivyadezasthalazloka 2
+h 13434 7-314-a aSTottarazatopaniSad 2
+x 13456 7-314-a asaMvijAna 3 => asaMvijJAna
+x 13458 7-314-a asaMvyabahitam 3 => asaMvyavahitam
+x 13478 7-314-b asaMkAze 3 => asakAze
+x 13479 7-314-b asaMkRdAvartin 6 => asakRdAvartin
+x 13481 7-314-b asaMkta 1 => asakta
+x 13497 7-314-b asaMjjant 3 => asajjant
+x 13498 7-314-b asaMjjita 6 => asajjita
+x 13520 7-314-c asadhnIcIna 6 <= asadhrIcIna
+x 13548 7-314-d asamAvRtta 5 <= asamavRtta
+? 13637 7-315-b asurendra 2
+h 13642 7-315-b asUsU 5
+x 13644 7-315-b asRkapAta 3 => asRkpAta
+h 13710 7-315-d asmRtadruh 3
+x 13726 7-316-a asvArtha 5 <= asvArthaM
+x 13747 7-316-a ahmarya 5 => ahArya
+h 13767 7-316-b ahIna 2
+x 13778 7-316-b ahomakaM 1 => ahomaka
+h 13807 7-316-c AkAzabhairavakalpa 2
+? 13815 7-316-c AkumAram 1
+h 13820 7-316-c AkRSTya 2
+x 13832 7-316-d AkrandiMta 2 => Akrandita
+h 13865 7-316-d AgamasArasaMgraha 2
+x 13895 7-317-a Acaturas 3 => Acaturam
+h 13904 7-317-a AcAradAya 2, AcAranavanIta 2, AcAraprazaMsA 2
+h 13908 7-317-a AcAryacampU 2
+h 13910 7-317-a AcAryaprapatti 2, AcAryaprArthanA 2, AcAryamaGgala 2, AcAryamahiman 2
+h 13912 7-317-b AcAryazikSA 2, AcAryasaptati 2
+h 13919 7-317-b Acyutanti 5
+x 13920 7-317-b AjakarauNa 5
+h 13940 7-317-b AJjaneyastava 2
+h 13954 7-317-c ANapay 5
+h 13987 7-317-c AtmaprakAzikAvivaraNa 2
+h 13989 7-317-c AtmapriyA 2
+h 14001 7-317-d AtmazlAghanA 6
+x 14003 7-317-d AttmasaMstha 6 => AtmasaMstha
+h 14009 7-317-d AtmArpaNazruti 2
+h 14016 7-317-d AtreyazikSA 2, AtreyasaMhitA 2
+h 14026 7-317-d AdikuNDanIya 2, AdikezavasthalamAhAtmya 2
+h 14064 7-318-a AdhAnapaJcaka 2, AdhAnapaJcakaprayoga 2
+x 14070 7-318-a Adhitmu 3 => Adhitsu
+h 14071 7-318-b AdhItayajuSTva 1
+h 14078 7-318-b AnandatANDavavarNana 2, AnandatAratamyakhaNDana 2, Anandatilaka 2, AnandatIrthIya 2
+h 14081 7-318-b AnandarAghava 2, AnandavardhIya 2, AnandavilAsa 2, AnandasAgarastava 2, AnandasAratAratamyakhaNDana 2
+h 14090 7-318-b Animila 2
+x 14092 7-318-b AnIlanipadhAyAma 1 => AnIlaniSadhAyAma
+h 14123 7-318-c Apastamba 2, ApastambagRhya 2, Apastambadharma 2, ApastambapUrvaprayoga 2, Apastambaprayoga 2, Apastambazrauta 2, ApastambasAmAnyasUtrabhASya 2, ApastambasUtra 2, ApastambasmRti 2, ApastambAparasUtra 2
+h 14124 7-318-c ApAkastha 3
+14140 7-318-c ApRccha 1 => ApRcchya
+14143 7-318-c Aptara 1 => Aptar
+? 14148 7-318-d ApyAyin 1
+h 14149 7-318-d Apyeyatva 2
+x 14152 7-318-d Apmara 1 => Apsara
+x 14153 7-318-d Avandhura 4 => Abandhura
+h 14165 7-318-d Abhizastya 6
+h 14192 7-319-a AmeSTaka 3
+h 14195 7-319-a AmnAyaSaTka 2
+x 14217 7-319-a Ayuj 3 <= AyujJ
+h 14221 7-319-b AyudhIyaka 6
+h 14233 7-319-b AraNyakopaniSad 2, AraNyabhASya 2, AraNyamahAprasthAnikA 2, AraNyazikSA 2, AraNyopaniSad 2
+h 14242 7-319-b ArAdhanakrama 2
+h 14249 7-319-b AruNazikSA 2
+h 14289 7-319-c AryApaJcAzat 2, AryAsvargArohaNaparvan 2
+x 14296 7-319-d AlakArika 1 => AlaMkArika
+h 14302 7-319-d AlavandArstotra 2
+h 14306 7-319-d AlAlamehin 5
+h 14322 7-319-d AvarNIzikSA 2
+h 14328 7-320-a AvazyakasUtra 2, AvazyikI 2
+h 14367 7-320-b AzIrpada 4
+? 14376 7-320-b Azauca 2
+h 14376 7-320-b AzaucakANDa 2
+h 14376 7-320-b AzaucacandrikA 2
+h 14376 7-320-b AzaucadIpikA 2
+h 14376 7-320-b Azaucavidhi 2
+h 14376 7-320-b Azaucazataka 2
+h 14380 7-320-b AzramavAsaparvan 2
+hx 14380 7-320-b AzramavAda 2 <= AzrayavAda  
+? 14390 7-320-b AzvalAyana 2
+h 14390 7-320-b AzvalAyanadIpikA 2
+h 14390 7-320-b AzvalAyanadharma 2
+h 14390 7-320-b AzvalAyanapUrvaprayoga 2
+h 14390 7-320-b AzvalAyanaprAyazcitta 2
+h 14390 7-320-b AzvalAyanazrauta 2
+h 14390 7-320-b AzvalAyanazrautasUtra 2
+h 14390 7-320-b AzvalAyanasUtra 2
+h 14390 7-320-b AzvalAyanasthAlIpAka 2
+h 14390 7-320-b AzvalAyanasmRti 2
+? 14399 7-320-c AsanapuTa 3
+h 14400 7-320-c AsanAdhyAya 2
+h 14446 7-320-d AhitAgnividhAna 2
+h 14452 7-320-d AhnikabhAskara 2
+h 14460 7-320-d ikSuyaSTimaya 1
+h 14465 7-321-a iGgyazikSA 2
+h14476 7-321-a itihAsottama 2
+h 14489 7-321-a indindira 5
+? 14493 7-321-a indIvarAkSa 3
+? 14494 7-321-b induka 1
+h 14500 7-321-b induratnezvaraprasAda 2
+x 14508 7-321-b indrajAla 3 <= indrajJAla
+x 14520 7-321-b indramahAkAmuka 6 => indramahakAmuka (print change)
+x 14521 7-321-b indrayAjin 3 <= indrayAjJin
+x 14628 7-322-a ugrarUpin 1 <= agrarUpin
+x 14644 7-322-b uccAraprasnAvasthAna 2 => uccAraprasrAvasthAna <= uccAraprastrAvasthAna
+? 14674 7-322-c ujjvala 2
+x 14680 7-322-c uDilla 4
+x 14681 7-322-c uDudazAphala 2 <= uDudazApAla
+x 14685 7-322-c utkatA 1
+x 14686 7-322-c utkacakumudraNavant 2 => utkacakumudgaNavant
+? 14687 7-322-c utkaNThitacintI 5
+x 14691 7-322-c utkarSatba 3 => utkarSatva
+h 14729 7-322-d uttaragArgya 2, uttaracampU 2
+h 14735 7-322-d uttaraprAyazcitta 2
+h 14739 7-323-a uttararAghavIya 2, uttararAmAyaNa 2
+x 14740 7-323-a uttaralI 1 <= uttaralA
+h 14745 7-323-a uttarasArasvAdinI 2
+h 14748 7-323-a uttarAtharvaNa 2
+h 14773 7-323-b utthApinI 6
+x 14790 7-323-b utpiJjalaka 3 <= utpinJjalaka
+x 14792 7-323-b utpuMsap 5 => utpuMsay
+x 14831 7-323-c udaksamAsa 4 <= udakasamAsa
+h 14920 7-324-a udyApanavidhAna 2
+u 14943 7-324-b unmattIkaraNa 1
+u 14945 7-324-b unmadiSNu 1
+h 14947 7-324-b unmAdaMcikitsApaTala 2
+x 14950 7-324-b unmiJja 3 <= unminJja
+u 14960 7-324-c upakarSam 1
+u 14968 7-324-c upakSepa 1
+x 14985 7-324-c upajIvitar 3 <= upajJIvitar
+u 14994 7-324-d upadezaratnamAlA 1
+u 14994 7-324-d upadezarasAyana 1
+h 14995 7-324-d upadezavivaraNa 2, upadezasahasrakratuvyAkhyA 2
+u 14996 7-324-d upadraSTrikA 1
+? 15018 7-324-d upanItirAga 3 
+u 15029 7-325-a upaprAtar 1
+u 15036 7-325-a upamAtar 1
+u 15040 7-325-a upayuktatamatva 1
+x 15056 7-325-a upariSTAddhomabhAj 3 <= upariSTAddhomabhAjJ
+u 15064 7-325-b upavatsyadbhakta 1
+u 15069 7-325-b upavAsaka 1
+x 15089 7-325-b upasaMjihIrpu 3 => upasaMjihIrSu <= upasaMbihIrSu 
+x 15093 7-325-b upasarjana 3 <= upasarjJana
+u 15098 7-325-c upaskAram 1
+u 15098 7-325-c upaskIrNa 1
+u 15111 7-325-c upAkartavya 1
+u 15115 7-325-c upAtti 1
+h 15116 7-325-c upAdAnatvasamarthana 2
+h 15118 7-325-c upAdhimaNDana 2, upAdhivAda 2
+u 15127 7-325-c upAsakAdhyayana 1
+u 15134 7-325-d upepsA 1
+u 15153 7-325-d ubhayadant 1
+x 15158 7-325-d ubhayAvAhu 3
+x 15163 7-326-a uraMdhrA 6
+u 15164 7-326-a urarI 1
+x 15170 7-326-a urudrapma 4 => urudrapsa
+u 15174 7-326-a urovidAram 1
+u 15178 7-326-a ulapya 1
+x 15179 7-326-a ulabhIya 2 <= ulabhoya
+h 15182 7-326-a ulkApAta 5
+x 15186 7-326-a ullama 3 => ullasa
+x 15188 7-326-a ullitvina 2 => ullikhita
+x 15198 7-326-b uSNamaham 3 => uSNamahas
+h 15202 7-326-b uSNISavijayadhAraNI 5
+u 15209 7-326-b UtimatA 1
+u 15214 7-326-b UnI 1
+u 15219 7-326-b Uruka 1
+u 15223 7-326-b Urjay 1
+x 15224 7-326-b Urjaspati 3 <= UrjJaspati
+u 15228 7-326-b UrNAmRdu 1
+x 15229 7-326-b UNAmradas 2 => UrNAmradas
+u 15232 7-326-c Urdhvajyotis 1
+x 15233 7-326-c Urdhvajvalana 3 <= UrdhvajJvalana
+h 15235 7-326-c UrdhvapuNDravacana 2
+u 15239 7-326-c UrdhvamUla 1
+h 15243 7-326-c Urdhvazalka 2
+u 15249 7-326-c Urdhvahastaka 1
+u 15255 7-326-c USmAy 1
+u 15262 7-326-d RkSakarNI 1
+u 15265 7-326-d Rguttama 1
+x 15266 7-326-d RgyajuHsAmAdimaya 3 <= RgyajJuHsAmAdimaya
+h 15267 7-326-d RgvedaprakRtipada 2
+h 15267 7-326-d Rgvedaprayoga 2
+h 15267 7-326-d RgvedaprAtizAkhya 2
+h 15267 7-326-d RgvedabrAhmaNa 2
+h 15267 7-326-d RgvedavidhAna 2
+h 15267 7-326-d Rgvedazivamantra 2
+h 15267 7-326-d RgvedAraNyaka 2
+u 15268 7-326-d Rcaka 1
+h 15270 7-326-d RjuvivaraNa 2, RjuvRtti 2
+h 15274 7-326-d RNavimocanazAnti 2
+u 15300 7-327-a RSabhanAthacaritra 1
+u 15303 7-327-a RSideza 1
+u 15303 7-327-a RSimaNDala 1
+u 15307 7-327-a e 1
+u 15310 7-327-a ekakarNa 1
+u 15331 7-327-a ekadhAraka 1
+h 15349 7-327-b ekamAlA 2
+u 15356 7-327-b ekavarNa 1 
+x 15357 7-327-b ekavartanin 5 <= ekavatanin
+h 15405 7-327-c ekAdazabhASAvyAkhyA 2
+x 15409 7-327-c ekAdazIvratakalpa 2
+u 15417 7-327-d ekAzIticakroddhAra 1
+u 15420 7-327-d ekIbhAvastotra 1
+? 15459 7-328-a evamAyuSyapramANa 2
+h 15466 7-328-a eSTrI 4
+u 15468 7-328-a ai 1
+u 15479 7-328-b airAvataka 1
+? 15501 7-328-b odanabhojikA 3 <= odanabhojJikA
+x 15503 7-328-b oSadhrivanaspatimant 6 => oSadhivanaspativant
+x 15509 7-328-b aujasa 3 <= aujJasa
+x 15510 7-328-b autkadya 5 => autkaTya
+h 15511 7-328-b auttarapattra 2
+h 15518 7-328-c audgAtraprayoga 2
+h 15541 7-328-c auSadhaprayoga 2
+x 15545 7-328-c ausaja 3 <= ausajJa
+h 15555 7-328-d kakkala 2
+h 15562 7-328-d kakSyamAlA 2
+h 15566 7-328-d kaGkapRSThin 2
+h 15590 7-329-a kaTItaruNa 2
+h 15592 7-329-a kaTukavallI 6
+h 15595 7-329-a kaTutumbinI 6, kaTutumbI 6
+h 15596 7-329-a kaTuzRGgAla 3
+h 15604 7-329-a kaNamUDaka 2
+x 15609 7-329-a kaNTakija 3 <= kaNTakijJa
+x 15618 7-329-a kaNDIrapuSpA 2 => kaNDIrapuSpI
+h 15645 7-329-b kanakadatta 6
+? 15651 7-329-b kanakasena 2
+h 15666 7-329-c kanyAdUSin 3
+h 15689 7-329-c kamalAkarNI 2, kamalAcalamAhAtmya 2, kamalinIkalahaMsa 2
+h 15710 7-329-d karaNDakanivApaka 3
+x 15716 7-329-d karapuTAJjali 3 <= karapuTAnJjali
+h 15731 7-330-a karuNaveditA 6
+h 15747 7-330-a karNapAsI 5
+x 15773 7-330-b karmada 3, yAdavant 3 => karmadAyAdavant
+h 15782 7-330-b karmavipAkamAdhavIya 2
+h 15789 7-330-b karmAntavyAkhyA 2
+h 15853 7-330-d kalyANaghRta 2
+h 15853 7-330-d kalyANapurImAhAtmya 2
+h 15853 7-330-d kalyAnibandhana 2
+h 15853 7-330-d kalyANIpariNaya 2
+h 15857 7-331-a kavacahara 5
+h 15867 7-331-a kavikarNapAza 2
+h 15867 7-331-a kavidIpikAnighaNTu 2
+h 15867 7-331-a kavirAkSasIya 2
+h 15867 7-331-a kavisaMjIvinI 2
+h 15867 7-331-a kavisevAdinighaNTu 2
+h 15867 7-331-a kavismRti 2
+x 15896 7-331-b kAjava 3 <= kAjJava
+x 15901 7-331-b kANAdasaMgraha 2 <= kANAdasagraha
+h 15901 7-331-b kANubhaTTIya 2
+h 15909 7-331-b kAtyAyanagRhya 2
+h 15909 7-331-b kAtyAyanopaniSad 2
+h 15918 7-331-b kAntAlIyakhaNDana 2
+h 15918 7-331-b kAntAlIyakhaNDanamaNDana 2
+x 15919 7-331-b kAntisudhAmaya 6 => kAntisudhAmaya
+h 15927 7-331-b kAmadogdhrI 2
+x 15933 7-331-c kAmavarSa 3 <= kAmagharSa
+h 15937 7-331-c kAmAsikASTaka 2
+x 15939 7-331-c kAmyayAjyA 3 <= kAmyayAjJyA
+h 15951 7-331-c kArakArthanyAya 2
+h 15963 7-331-d kArikA 2
+h 15963 7-331-d kArikAratna 2
+h 15963 7-331-d kArikAvali 2
+h 15963 7-331-d kArikAvyAkhyA 2
+h 15970 7-331-d kArtavIryArjuna 2
+h 15970 7-331-d kArtavIryArjunakavaca 2
+h 15970 7-331-d kArtavIryArjunadIpArAdhanavidhi 2
+h 15992 7-332-a kAlanirNayazikSA 2
+h 15994 7-332-a kAlanemipurANa 2
+h 15998 7-332-a kAlaprakAzikA 2
+h 16019 7-332-a kAlikulAmRta 2
+h 16019 7-332-a kAlidAsapaJcAzat 2
+h 16027 7-332-a kAvyakaumudI 2
+x 16028 7-332-a kAvyajovajJa 5 => kAvyajIvajJa
+h 16029 7-332-b kAvyadarpaNa 2
+h 16029 7-332-b kAvyadIpikA 2
+h 16029 7-332-b kAvyapaJcaka 2
+h 16029 7-332-b kAvyaprakAzikA 2
+x 16030 7-332-b kAvyavandha 4 => kAvyabandha
+h 16032 7-332-b kAvyalakSaNa 2
+h 16032 7-332-b kAvyasaMgraha 2
+h 16032 7-332-b kAvyAdarzikA 2
+h 16032 7-332-b kAvyAlaMkArakAmadhenu 2
+? 16034 7-332-b kAzI 2
+h 16034 7-332-b kAzIdAsaprahasana 2
+h 16034 7-332-b kAzIdharmasabhA 2
+? 16037 7-332-b kAzyapa 2
+h 16037 7-332-b kAzyapasaMhitA 2
+h 16037 7-332-b kAzyapasUtra 2
+h 16042 7-332-b kASThAlukalatA 5
+x 16045 7-332-b kiMvistAra 3 <= kivistAra
+h 16106 7-332-d kucelopAkhyAna 2
+x 16107 7-332-d kuJjarI 3 <= kunJjarI
+x 16107 7-332-d kuJjavant 3 <= kunJjavant
+x 16127 7-333-a kutapasauzruta 3 <= kutepasauzruta
+x 16172 7-333-b kuraGgamada 4 <= kuraGgamad
+h 16184 7-333-b kulatattvanirUpaNa 2
+? 16214 7-333-c kuzezalocanA 4
+h 16241 7-333-d kUTAghaTita 2
+x 16248 7-333-d kUpAdijalasthAnalakSaNa 2 <= kUpATijalasthAnalakSaNa
+h 16250 7-333-d kUrezavijaya 2
+h 16253 7-333-d kUrmaputrakevalicaritra 2
+x 16253 7-333-d kUrmAkRtimudgAlakSaNagrantha 2 <= kUrmAkRtimudrAlakSaNagrantha
+h 16255 7-333-d kUSmANDadIkSAnukramaNikA 2
+h 16258 7-333-d kRNuSvapAjIyA 3
+x 16274 7-334-a kRtAvasakithaka 3 => kRtAvasakthika
+h 16286 7-334-a kRdantatattvabodhinI 2
+h 16304 7-334-b kRSNacUrNikA 2
+x 16318 7-334-b kRSNabAla 2 => kRSNavAla
+h 16319 7-334-b kRSNavilAsa 2
+h 16319 7-334-b kRSNavratamAhAtmya 2
+h 16331 7-334-b kRSNAnadImAhAtmya 2
+h 16331 7-334-b kRSNArcana 2
+h 16331 7-334-b kRSNArjunIya 2
+h 16333 7-334-b kRSNAvatAracarita 2
+h 16333 7-334-b kRSNASTaka 2
+h 16333 7-334-b kRSNASTamIvrata 2
+h 16333 7-334-b kRSNodanta 2
+h 16343 7-334-c keralacintAmaNi 2
+h 16345 7-334-c keralIyadvAdazabhAva 2
+h 16345 7-334-c keralotpatti 2
+h 16350 7-334-c kevalAnvayin 2
+? 16368 7-334-c kaiyaTa 2
+h 16368 7-334-c kaiyaTabhASyapradIpikA 2
+h 16368 7-334-c kaiyaTIya 2
+x 16387 7-334-d koTizatatama 3 <= koTizatatana
+x 16391 7-334-d kopajanman 3 <= kopajJanman
+x 16400 7-334-d kozapIthin 3 <= korzapIthin
+x 16408 7-335-a kauja 3 <= kaujJa
+? 16411 7-335-a kautuka 3
+h 16411 7-335-a kautukasarvasva 3
+h 16427 7-335-a kauzikapurANa 2
+h 16432 7-335-a kaustubhabhUSaNa 2
+h 16432 7-335-a kauhalIyazikSA 2
+h 16444 7-335-b krANAya 6
+h 16451 7-335-b kriyAgopana 2
+h 16451 7-335-b kriyAdIpa 2
+h 16451 7-335-b kriyAnighaNTu 2
+h 16451 7-335-b kriyApradIpa 2
+x 16457 7-335-b krIDApariccheda 3 <= krIDAparicchada (print change)
+h 16461 7-335-b krudhmin 5
+x 16493 7-335-c kSatajapAta 3 <= kSatajJapAta
+h 16497 7-335-d kSatriyajapavidhAna 2
+? 16525 7-335-d kSArapattraka 2
+x 16545 7-336-a kSutsaMvAdha 6 => kSutsaMbAdha
+? 16553 7-336-a kSetranirmANanidhi 2
+x 16575 7-336-b khaJja 3 <= khanJja
+x 16582 7-336-b khaDgapaTTizin 3 <= khaGgapaTTizin
+x 16582 7-336-b khaDgapAta 3 <= khaGgapAta
+x 16584 7-336-b khaDgavAri 3 <= khaGgavAri
+h 16617 7-336-c khalekapotikA 5
+h 16655 7-336-d gaGgarAmabhaTTIya 2
+x 16657 7-336-d gajanimIlana 3 <= gajJanimIlana
+x 16659 7-336-d gajapUrva 3 <= gajJapUrva
+h 16660 7-336-d gajavaidya 2
+h 16660 7-336-d gajavaidyazAstra 2
+h 16662 7-336-d gajasUtrArthavAda 2
+h 16664 7-336-d gajAvartalakSaNa 2
+h 16667 7-336-d gajendramokSa 2
+x 16670 7-336-d gaJjulikA 3 <= ganJjulikA
+h 16678 7-337-a gaNacaturthIcandradarzanakathA 2
+h 16683 7-337-a gaNanighaNTu 2
+h 16683 7-337-a gaNapatipurANa 2
+h 16683 7-337-a gaNapatipurANapatividhAna 2
+h 16683 7-337-a gaNaphalaviveka 2
+h 16687 7-337-a gaNita 2
+h 16687 7-337-a gaNitacandrikA 2
+h 16687 7-337-a gaNitabhAskara 2
+h 16687 7-337-a gaNitasaMgraha 2
+h 16687 7-337-a gaNitAmRta 2
+h 16692 7-337-a gaNezvaradIkSitIya 2
+h 16713 7-337-b gadAdharIya 2
+h 16713 7-337-b gadyaTIkA 2
+h 16713 7-337-b gadyabhASya 2
+h 16713 7-337-b gadyavyAkhyA 2
+h 16748 7-337-c garuDapaJcAzat 2
+h 16748 7-337-c garuDazrIraGgamAhAtmya 2
+h 16758 7-337-d garbhapurImAhAtmya 2
+h 16768 7-337-d garmut 5
+h 16788 7-338-a gADhavarcastva 5
+? 16800 7-338-a gAyatrI 2
+h 16800 7-338-a gAyatrIkavaca 2
+h 16800 7-338-a gAyatrItattvadarpaNa 2
+h 16800 7-338-a gAyatrItAtparya 2
+h 16802 7-338-a gAyatrIhRdaya 2
+x 16809 7-338-a gira 2 => gir
+? 16818 7-338-b gItA 2
+h 16818 7-338-b gItAtAtparya 2
+h 16818 7-338-b gItAtAtparyacandrikA 2
+h 16818 7-338-b gItAtAtparyabodhikA 2
+h 16818 7-338-b gItApratipada 2
+h 16818 7-338-b gItArthasaMgraha 2
+h 16818 7-338-b gItAthasaMgraharakSA 2
+h 16818 7-338-b gItAvivRti 2
+h 16818 7-338-b gItAsamaGgalAcArapaddhati 2
+h 16818 7-338-b gItAsAra 2
+h 16820 7-338-b gIrvANazloka 2
+x 16821 7-338-b guMkAra 3 <= gukAra
+h 16832 7-338-b guNapATha 2
+? 16852 7-338-c guru 2
+? 16854 7-338-c guruvartitva 5  07129 has guruvartitA
+h 16856 7-338-c guruvidhivijaya 2
+h 16856 7-338-c gurUpasattivijaya 2
+h 16856 7-338-c gurvarthadIpikA 2
+x 16861 7-338-c guhyaruj 3 <= guhyarujJ
+h 16896 7-338-d gRhyaprazna 2
+h 16896 7-338-d gRhyaratna 2
+h 16896 7-338-d gRhyANDapille 2
+h 16896 7-338-d gRhyAyanaprayoga 2
+h 16912 7-339-a gotritva 3
+h 16915 7-339-a godAstuti 2
+h 16920 7-339-a gopadmavrata 2
+h 16924 7-339-a gopAlagiri 5
+h 116925 7-339-a gopAlaratnAkara 2
+h 116925 7-339-a gopAlaviMzati 2
+h 116928 7-339-a gopIcandanamAhAtmya 2
+h 116928 7-339-a ggopInAthIya 2
+h 116928 7-339-a ggopInAthIyaparibhASA 2
+h 116943 7-339-b govindagItA 2
+h 116945 7-339-b govindarAjIya 2
+h 116945 7-339-b govindavirudAvali 2
+h 116945 7-339-b govaidyazAstra 2
+h 116947 7-339-b gozAstra 2
+h 116950 7-339-b goSThIpurImAhAtmya 2
+h 16955 7-339-b gauDabrahmAnandIya 2
+h 16957 7-339-b gautamaprazna 2
+h 16957 7-339-b gautamamAhAtmya 2
+h 16957 7-339-b gautamazikSA 2
+h 16957 7-339-b gautamasaMhitA 2
+h 16957 7-339-b gautamasUtra 2
+h 16957 7-339-b gautamasmRti 2
+h 16962 7-339-b gaurijeya 3
+? 16963 7-339-b gaurI 2
+h 16963 7-339-b gaurIkAntIya 2
+h 16963 7-339-b gaurIpaJcAGga 2
+h 16965 7-339-b gaulAkSIya 2
+h 16965 7-339-b gaulIphala 2
+h 16971 7-339-c grahaceSTAvidhAna 2
+h 16974 7-339-c grahaNakriyAkrama 2
+h 16980 7-339-c grahArcanaprokSaNa 2
+h 16980 7-339-c grahArcanavidhi 2
+h 16980 7-339-c grahASTaka 2
+x 17023 7-339-d ghanamud 3 <= ghanemud
+? 17024 7-339-d ghanAsthikapha 3
+h 17069 7-340-a cakranyAsa 2
+? 17096 7-340-b caNDikA 2
+? 17096 7-340-b caNDikAkIlaka 2
+h 17096 7-340-b caNDikArgala 2
+h 17096 7-340-b caNDikAsaptati 2
+h 17108 7-340-b caturdazatattvArthasArasaMgraha 2
+h 17108 7-340-b caturdazalakSaNI 2
+h 17108 7-340-b caturdazalakSaNIkroDa 2
+h 17108 7-340-b caturdazalakSaNIjagadIzIya 2
+h 17110 7-340-b caturdazIstotra 2
+h 17110 7-340-b caturdazopaniSad 2
+? 17130 7-340-c caturvedatattvArthasaMgraha 2
+h 17130 7-340-c caturvedatAtparya 2
+h 17130 7-340-c caturvedatAtparyasaMgraha 2
+h 17130 7-340-c caturvedatAtparyasArasaMgraha 2
+x 17137 7-340-c catuSpathakRtAzaya 2 <= catuSpathakatAzaya
+h 17158 7-340-d candranArAyaNabhaTTIya 2
+h 17158 7-340-d candranArAyaNIya 2
+h 17167 7-340-d candrikAkhaNDana 2
+h 17167 7-340-d candrikAjanamejaya 2
+h 17169 7-340-d cannubhaTTIyaniruktivivaraNa 2
+h 17172 7-340-d camakabhASya 2
+? 17176 7-340-d cayana 2
+h 17176 7-340-d cayanapurANabhASya 2
+h 17176 7-340-d cayanaprayoga 2
+? 17176 7-340-d cayanamantrapada 2
+h 17178 7-340-d cayanAnandapille 2
+h 17189 7-341-a caramazlokacandrikA 2
+h 17189 7-341-a caramazlokaTippaNI 2
+h 17189 7-341-a caravikramacarita 2
+h 17203 7-341-a calAkSara 2
+h 17203 7-341-a calAkSarasUtra 2
+h 17203 7-341-a calitarAma 2
+h 17211 7-341-a cAkSuSIyanItizAstra 2
+h 17211 7-341-a cATuzloka 2
+h 17211 7-341-a cANakyasUtra 2
+h 17215 7-341-b cAturmAsyavratavidhi 2
+h 17215 7-341-b cAturmAsyahautra 2
+? 17255 7-341-c ciJcaNI 6
+h 17273 7-341-c citraraktapaTa 2
+h 17273 7-341-c citraratnAkara 2
+? 17278 7-341-c cidambara 2
+h 17278 7-341-c cidambaranaTana 2
+h 17278 7-341-c cidambaramAhAtmya 2
+h 17284 7-341-d cintAmaNi 2
+h 17284 7-341-d cintAmaNipratyakSa 2
+h 17284 7-341-d cintAmaNivyAptivAda 2
+h 17284 7-341-d cintAmaNizabdakhaNDa 2
+h 17284 7-341-d cinmayadIkSAvidhi 2
+? 17309 7-341-d cUDA 2
+h 17309 7-341-d cUDAmaNinATaka 2
+h 17309 7-341-d cUDAmaNimImAMsA 2
+h 17331 7-342-a corapaJcAzat 2
+h 17333 7-342-a colacarita 2
+h 17335 7-342-a colapparAjIya 2
+x 17354 7-342-b chadipmant 4 => chadiSmant
+h 17361 7-342-b chandaHzloka 2
+h 17361 7-342-b chandogAna 2
+h 17361 7-342-b chandodarpaNa 2
+h 17364 7-342-b chando'mbudhi 2
+h 17364 7-342-b chandoratnahalAyudha 2
+h 17364 7-342-b chandoviveka 2
+h 17370 7-342-b chAgarosamaya 5
+h 17374 7-342-c chAyApuruSAvabodhana 2
+h 17382 7-342-c churikAlakSaNa 2
+x 17387 7-342-c jagatkAraNakAraNa 3 <= jJagatkAraNakAraNa
+x 17387 7-342-c jagatparAyaNa 3 <= jJagatparAyaNa
+h 17388 7-342-c jagatsUtravAdArtha 2
+h 17388 7-342-c jagannAthamAhAtmya 2
+x 17389 7-342-c jagdha 3 <= jJagdha
+h 17401 7-342-c jaTizilAmAhAtmya 2 
+x 17403 7-342-d jatudhAman 3 <= jJatudhAman
+x 17409 7-342-d jananAtha 3 <= jJananAtha
+x 17411 7-342-d janapadaghAtaka 3 <= jJanapadaghAtaka
+x 17413 7-342-d janAtiga 3 <= jJanAtiga
+x 17415 7-342-d janidivasa 3 <= jJanidivasa
+x 17417 7-342-d janimant 3 <= jJanimant
+x 17426 7-342-d janmapattrikA 3 <= jJanmapattrikA
+x 17437 7-343-a jambhasuta 3 <= jJambhasuta
+? 17442 7-343-a jayantI 2
+h 17442 7-343-a jayantInirNaya 2
+h 17442 7-343-a jayantIvratakalpa 2
+h 17446 7-343-a jayarAmIya 2
+x 17451 7-343-a jarjara 3 <= jJarjJara
+x 17459 7-343-a jaladhenu 3 <= jJaladhenu
+x 17459 7-343-a jalapakSacara 3 <= jJalapakSacara
+x 17463 7-343-a jalamAtaGga 3 <= jJalamAtaGga
+? 17465 7-343-a jalaruhekSaNA 4
+x 17467 7-343-a jalavAyasa 3 <= jJalavAyasa
+h 17472 7-343-a jalodanapaJcaka 2
+x 17476 7-343-b javita 3 <= jJavita
+x 17477 7-343-b jasuri 3 <= jJasuri
+h 17481 7-343-b jAGgulika 5
+? 17484 7-343-b jAtaka 2
+h 17484 7-343-b jAtakakiraNAvali 2
+h 17484 7-343-b jAtakapArijAta 2
+h 17484 7-343-b jAtakaphalavicAra 2
+h 17484 7-343-b jAtakamuktAphala 2
+h 17484 7-343-b jAtakaratna 2
+h 17484 7-343-b jAtakaviSaya 2
+h 17484 7-343-b jAtakasaralI 2
+h 17484 7-343-b jAtakasArasaMgraha 2
+h 17484 7-343-b jAtakAdiprayoga 2
+h 17484 7-343-b jAtakAlaMkAra 2
+h 17484 7-343-b jAtakAlaMkAracintAmaNi 2
+h 17484 7-343-b jAtakAvalidIpikA 2
+h 17484 7-343-b jAtakAvalipradIpikA 2
+x 17485 7-343-b jAtaputra 3 <= jJAtaputra
+x 17487 7-343-b jAtamRta 3 <= jJAtamRta
+x 17489 7-343-b jAtavidyA 3 <= jJAtavidyA
+h 17491 7-343-b jAtikhaNDana 2
+h 17491 7-343-b jAticandrikA 2
+x 17493 7-343-b jAtyapahArin 3 <= jJAtyapahArin
+x 17499 7-343-b jAmivat 3 <= jJAmivat
+x 17501 7-343-b jAmbavatIharaNa 3 <= jJAmbavatIharaNa
+x 17516 7-343-c jinakalpika 3 <= jJinakalpika
+x 17535 7-343-d jIvanta 3 <= jJIvanta
+x 17540 7-343-d jIvAtu 3 <= jJIvAtu
+x 17549 7-343-d juSANavant 3 <= jJuSANavant
+x 17549 7-343-d jUtimant 3 <= jJUtimant
+x 17552 7-343-d jaiva 3 <= jaiva
+x 17557 7-343-d joSTra 3 <= joSTra
+x 17557 7-343-d joSTrI 3 <= jJoSTrI
+x 17586 7-344-a jyeSThasAman 6 <= jyaSThasAman
+x 17602 7-344-b jhakaTa 5 <= ktakaTa
+x 17651 7-344-d tavyavacana 5 => tathyavacana
+x 17821 7-346-a tundaparimArja 3 <= tundaparimArjJa
+x 17877 7-346-c tyajaya 5 => tyajapa
+h 17904 7-346-c triparvan 3
+h 17909 7-346-d tripurANIya 3
+x 17931 7-346-d trivyAsa 6 => trivyAma (print change)
+h 17941 7-346-d triHSamRddhatva 6
+? 18005 7-347-c dadhigaNa 5
+h 18016 7-347-c dandhana 3
+x 18016 7-347-c dandhvana 3 <= dandhrana
+x 18018 7-347-c damaghoSaja 3 <= damaghoSajJa
+h 18045 7-347-d dazarathalalitavrata 5
+h 18072 7-348-a dAmoradeva 3
+h 18153 7-348-c durIkSatA 5
+x 18156 7-348-c durgAsAvitri 6 <= durgAzAvitri
+x 18166 7-348-d durmaryAd 4 => durmaryAda
+x 18184 7-348-d duSprabhaJjana 3 <= duSprabhanJjana
+x 18199 7-349-a dUreheti 3 <= hUreheti
+h 18207 7-349-a dRDhekSurA 3
+x 18267 7-349-c daivejya 3 <= daivejJya
+x 18273 7-349-c doSabhAj 3 <= doSabhAjJ
+x 18317 7-349-d dvAdazapaJjarikAstotra 3 <= dvAdazapanJjarikAstotra
+x 18332 7-350-a dvijatva 3 <= dvijJatva
+h 18340 7-350-a dvipAtrINa 3
+x 18347 7-350-a dviyaja 3 <= dviyajJa
+h 18366 7-350-b dvyAcitika 3
+h 18366 7-350-b dvyAcitIna 3
+h 18366 7-350-b dvyADhakika 3
+h 18366 7-350-b dvyADhakIna 3
+x 18425 7-350-d dhavalavihaMgama 5  only in 6
+x 18441 7-350-d dhAra 2  2) not 2.
+x 18476 7-351-b dhRSTatA 3 <= dhUSTatA
+h 18493 7-351-b nakulAdyA 3
+x 18577 7-352-a nAtijalpaka 3 <= nAtijJalpaka
+x 18695 7-353-a niruddhapakaza 3 <= nirudvapakaza
+h 18695 7-353-a niruddhaprakaza 3
+x 18747 7-353-c nirvyaJjaka 3 <= nirvyanJjaka
+x 18751 7-353-c nirhrAdananilAyin 5 => nilAyin
+x 18751 7-353-c nirhrAdananilAyitA 5 => nilAyitA
+h 18776 7-353-d niSekasvarA 3
+h 18865 7-354-c nemapiSTatA 4
+x 18951 7-355-b paJcagRhItij 4 => paJcagRhItin
+x 19121 7-356-d parivalana 5 <= pAravalana (print change)
+h 19143 7-357-a pariharaNIyatA 5
+x 19150 7-357-a paro'hu 5 => paroM'hu
+h 19153 7-357-a paroGhu 5
+x 19166 7-357-a paryAntamatha 4 => paryAvasatha
+x 19183 7-357-b palitakaraNa 5 => palitaMkaraNa
+x 19207 7-357-c paSThavah 5 <= paSTava£h (print change)
+? 19212 7-357-c pAMsulekhana 6
+h 19237 7-357-c pANDvAti 4
+h 19275 7-358-a pArthona 5
+x 19284 7-358-a pAzA 5 => pAzI
+x 19290 7-358-a piJjulikA 5 <= piJculikA
+? 19324 7-358-c piSTI 4
+x 19395 7-359-a puSkaraviSTara 5 <= puSkaraviSThara
+x 19579 7-360-d pratimAnayitavyaM 4 => pratimAnayitavya
+h 19580 7-360-d pratimAsaMprokSaNam 6
+? 19782 7-362-c prAGmukha 4
+x 19785 7-362-c prAcInapratIcitas 5 <= prAcIpratIcitas (print change)
+h 19873 7-363-b bakulAraNyamAhAtmya 5
+x 19874 7-363-b badaksAna 4 <= badakasAna
+? 19887 7-363-b bappanIla 5 
+? 19950 7-363-d bAlAhaka 6
+h 19977 7-364-a bilvAraNyamAhAtmya 5
+h 19977 7-364-a bilvASTaka 5
+h 19979 7-364-a buddhakSetravaralocana 5
+h 20001 7-364-b bodhicittotpAdanazAstra 5
+x 20027 7-364-c bruDaDvakrA 5 <= braDadvakrA
+x 20040 7-364-c bhagnayati 5 => 6
+h 20183 7-365-d bhogamAlinI 6
+h 20185 7-365-d bhogavatI 6
+x 20281 7-366-d gadhyezmazAnam 5 => madhyezmazAnam
+x 20281 7-366-d madhRc 5 => madhvRc
+? 20381 7-367-c mahAzveta 5
+x 20473 7-368-b mukhaghANTekA 5 => mukhaghaNTikA
+x 20533 7-369-a medhapuSpa 5 => meghapuSpa
+x 20612 7-369-d yadacchAbhijJa 5 => yadRcchAbhijJa
+h 20658 7-370-b yuvarAjadivAkara 5
+h 20736 7-371-a rAjImatIparityAga 5
+h 20763 7-371-b ruS 5
+h 20804 7-371-c laghusamudIraNatva 6
+? 21204 7-375-d viSkambhe 6
+h 21209 7-375-d viSNvanusthita 6
+h 21236 7-376-a viheThaka 6
+h 21236 7-376-a viheThana 6
+? 21346 7-377-b zak 5
+h 21378 7-377-c zabdaprAch 6
+? 22038 7-384-1d aGgatA 1
+? 22156 7-386-a abhipavaNa 1
+x 22166 7-386-b ambikA 2 => 1
+? 22176 7-386-b ardhoruka 1
+? 22415 7-388-c nADiMdhama 5

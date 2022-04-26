@@ -1,0 +1,35 @@
+
+£  (\u00a3)  2436 := POUND SIGN
+   udatta Accent in {#X#}  (print uses superscript devanagari 'u')
+   2436 matches in 2153 lines for "£" in buffer: pwkvn_utf8.txt
+   All but one of these are in {#X#}, the exception is
+----------------------------------
+¹  (\u00b9)    54 := SUPERSCRIPT ONE
+   svarita Accent   (superscript vertical bar in devanagari)
+----------------------------------
+_  (not extended ascii -- ascii underline)  anudAtta accent
+   4 matches in 1 line for "_" in buffer: pwkvn_utf8.txt
+   These are all in the same entry (page4-299-c)
+
+6 matches in 2 lines for "_" in buffer: pwkvn_utf8.txt
+   5642:<p>{#tA_pi_n#} scheinbar <ls>TBR. 2, 1, 3?, 1. Es ist zu lesen ²{#upA¹rama_tAtA¹pi_#} (Aor.) {#vai#}. 
+  20334:<p>{#ma_ryA_s#} als Partikel = {#eva#} <ls>PISCHEL, ²Studien 61. fgg. <ls>MAITR. S. 3, 9, 3 (134, ²2). 4, 8, 2 (109, 4) nach der richtigen ²Lesart {#bahu¹rmaryA#}. 
+  
+5643 old <p>{#tA_pi_n#} scheinbar TBR. 2, 1, 3?, 1. Es ist zu lesen ²{#upA¹rama_tAtA¹pi_#} (Aor.) {#vai#}. 
+----------------------------------
+²  (\u00b2) 12899 := SUPERSCRIPT TWO
+   line break within entry.
+   Some occur within {#X#}, {%X%}, and {|X|}
+   584 matches in 527 lines for "{#[^#]*²" in buffer: pwkvn_utf8.txt
+   3533 matches in 3367 lines for "{%[^%]*²" in buffer: pwkvn_utf8.txt
+   134 matches for "{[|][^|]*²" in buffer: pwkvn_utf8.txt
+----------------------------------
+º  (\u00ba)  2044 := MASCULINE ORDINAL INDICATOR
+   These to be changed to
+   °  (\u00b0)  DEGREE SIGN
+----------------------------------
+Ñ  (\u00d1)   134 := LATIN CAPITAL LETTER N WITH TILDE
+Would be better to change these to N5, the usual letter-number coding.
+   
+----------------------------------
+

@@ -1,0 +1,909 @@
+172 old <p>{#aGkurArpaNavidhi#} m. Titel eines Werkes <ls>BÜHLER,</ls> ²Rep. No. 561. 
+172 new <p>{#aGkurArpaNavidhi#} m. Titel eines Werkes <ls>BÜHLER</ls>, ²Rep. No. 561. 
+;-----------------
+223 old <p>{#ajaDapramAtRsiddhi#} f. Titel eines Werkes <ls>BÜHLER,</ls> ²Rep. No. 433. 
+223 new <p>{#ajaDapramAtRsiddhi#} f. Titel eines Werkes <ls>BÜHLER</ls>, ²Rep. No. 433. 
+;-----------------
+394 old <p>{#aditikuNDalAharaNanATaka#} n. Titel eines {%Schau-²spiels%} <ls>BÜHLER,</ls> Rep. No. 104. 
+394 new <p>{#aditikuNDalAharaNanATaka#} n. Titel eines {%Schau-²spiels%} <ls>BÜHLER</ls>, Rep. No. 104. 
+;-----------------
+432 old <p>{#adhikamAsaphala#} n. Titel eines Werkes <ls>BÜHLER,</ls> ²Rep. No. 45. 
+432 new <p>{#adhikamAsaphala#} n. Titel eines Werkes <ls>BÜHLER</ls>, ²Rep. No. 45. 
+;-----------------
+486 old <p>{#adhriyamANa#} Adj. {%nicht mehr am Leben seiend%} ²<ls>MAVR,</ls> <ls>Ind. Erb.</ls> 18. 
+486 new <p>{#adhriyamANa#} Adj. {%nicht mehr am Leben seiend%} ²<ls>MAVR</ls>, <ls>Ind. Erb.</ls> 18. 
+;-----------------
+585 old <p>{#anavakarNita#} Adj. {%nicht überhört, -- in den Wind ²geschlagen%} <ls>KA1D. II,</ls> 115, 4. 
+585 new <p>{#anavakarNita#} Adj. {%nicht überhört, -- in den Wind ²geschlagen%} <ls>KA1D. II</ls>, 115, 4. 
+;-----------------
+684 old <p>{#aniruddhabhaTTa#} m. N. pr. eines Autors <ls>PISCHEL,</ls> de ²Gr. pr. 17. 
+684 new <p>{#aniruddhabhaTTa#} m. N. pr. eines Autors <ls>PISCHEL</ls>, de ²Gr. pr. 17. 
+;-----------------
+727 old <p>{#anuttaraprakAzapaJcAzikA#} f. Titel eines Werkes ²<ls>BÜHLER,</ls> Rep. No. 436. 
+727 new <p>{#anuttaraprakAzapaJcAzikA#} f. Titel eines Werkes ²<ls>BÜHLER</ls>, Rep. No. 436. 
+;-----------------
+829 old <p>{#anekArthakairavakaumudI#} f. Titel eines Werkes <ls>BÜH-²LER.</ls> Rep. No. 702. 
+829 new <p>{#anekArthakairavakaumudI#} f. Titel eines Werkes <ls>BÜH-²LER</ls>, Rep. No. 702. 
+;-----------------
+914 old <p>{#aparAjita#} 3) {%h%}) {%ein best. Backstein%} <ls>MAITR. S.</ls> 2, ²8, 14. -- {%i%}) N. pr. einer {|Sura1n3gana1|} <ls>Ind. St.</ls> 15. ² -- {%k%}) Titel eines Werkes <ls>BÜHLER,</ls> Rep. No. 47. ² -- 4) {%b%}) {%ein best. Spruch%} <ls>VARA1H. YOGAY.</ls> 8, 6. 
+914 new <p>{#aparAjita#} 3) {%h%}) {%ein best. Backstein%} <ls>MAITR. S.</ls> 2, ²8, 14. -- {%i%}) N. pr. einer {|Sura1n3gana1|} <ls>Ind. St.</ls> 15. ² -- {%k%}) Titel eines Werkes <ls>BÜHLER</ls>, Rep. No. 47. ² -- 4) {%b%}) {%ein best. Spruch%} <ls>VARA1H. YOGAY.</ls> 8, 6. 
+;-----------------
+932 old <p>{#aparihita#} Adj. = {#pariSecanahIna#} (<ls>NI1LAK.)</ls> <ls>MBH.</ls> ²13, 104, 90, v. l. 
+932 new <p>{#aparihita#} Adj. = {#pariSecanahIna#} (<ls>NI1LAK.</ls>) <ls>MBH.</ls> ²13, 104, 90, v. l. 
+;-----------------
+947 old <p>{#apazabdanirAkaraNa#} n. Titel eines gramm. Werkes ²<ls>BÜHLER,</ls> Rep. No. 271. 
+947 new <p>{#apazabdanirAkaraNa#} n. Titel eines gramm. Werkes ²<ls>BÜHLER</ls>, Rep. No. 271. 
+;-----------------
+1047 old <p>{#abhayapradAnasAra#} Titel eines Werkes <ls>BÜHLER,</ls> Rep. ²No. 409. 
+1047 new <p>{#abhayapradAnasAra#} Titel eines Werkes <ls>BÜHLER</ls>, Rep. ²No. 409. 
+;-----------------
+1052 old <p>{#abhAvagranthavyAkhyA#} f. Titel eines Werkes <ls>BÜH-²LER,</ls> Rep. No. 703. 
+1052 new <p>{#abhAvagranthavyAkhyA#} f. Titel eines Werkes <ls>BÜH-²LER</ls>, Rep. No. 703. 
+;-----------------
+1086 old <p>1. {#abhivAsas, ºvAsa#} <ls>A1RSH. BR.,</ls> aber wohl fehlerhaft. 
+1086 new <p>1. {#abhivAsas, ºvAsa#} <ls>A1RSH. BR.</ls>, aber wohl fehlerhaft. 
+;-----------------
+1113 old <p>{#abhyudgatA#}, gedr. {#abhiudgatA#}; statt dessen {#abhiru-²DgatA#} <ls>HAUG,</ls> Acc. 59. 
+1113 new <p>{#abhyudgatA#}, gedr. {#abhiudgatA#}; statt dessen {#abhiru-²DgatA#} <ls>HAUG</ls>, Acc. 59. 
+;-----------------
+1128 old <p>{#amaranAthamAhAtmya#} n. Titel eines Werkes <ls>BÜH-²LER,</ls> Rep. No. 48. 
+1128 new <p>{#amaranAthamAhAtmya#} n. Titel eines Werkes <ls>BÜH-²LER</ls>, Rep. No. 48. 
+;-----------------
+1133 old <p>{#amarezvarakalpa#} m., {#amarezvaramAhAtmya#} n. und {#amare-²zvarayAtrA#} f. Titel von Werken <ls>BÜHLER,</ls> Rep. No. 49. fgg. 
+1133 new <p>{#amarezvarakalpa#} m., {#amarezvaramAhAtmya#} n. und {#amare-²zvarayAtrA#} f. Titel von Werken <ls>BÜHLER</ls>, Rep. No. 49. fgg. 
+;-----------------
+1218 old <p>{#arthAlaMkAra#} m. auch Titel eines Werkes <ls>BÜHLER,</ls> ²Rep. No. 225. 
+1218 new <p>{#arthAlaMkAra#} m. auch Titel eines Werkes <ls>BÜHLER</ls>, ²Rep. No. 225. 
+;-----------------
+1228 old <p>{#ardhanArIzvarastotra#} n. Titel eines Werkes <ls>BÜH-²LER,</ls> Rep. No. 107. 
+1228 new <p>{#ardhanArIzvarastotra#} n. Titel eines Werkes <ls>BÜH-²LER</ls>, Rep. No. 107. 
+;-----------------
+1248 old <p>{#alaMkAraratnAkara#} m. Titel eines Werkes <ls>BÜHLER,</ls> ²Rep. No. 277. fgg. 
+1248 new <p>{#alaMkAraratnAkara#} m. Titel eines Werkes <ls>BÜHLER</ls>, ²Rep. No. 277. fgg. 
+;-----------------
+1251 old <p>{#alaMkArodAharaNa#} n. Titel zweier Werke <ls>BÜH-²LER,</ls> Rep. No. 240. fg. 
+1251 new <p>{#alaMkArodAharaNa#} n. Titel zweier Werke <ls>BÜH-²LER</ls>, Rep. No. 240. fg. 
+;-----------------
+1351 old <p>{#avyayavRtti#} f. Titel eines Werkes <ls>BÜHLER,</ls> Rep. ²No. 272. 
+1351 new <p>{#avyayavRtti#} f. Titel eines Werkes <ls>BÜHLER</ls>, Rep. ²No. 272. 
+;-----------------
+1544 old <p>{#AnandakAvya#} n. Titel eines Werkes <ls>BÜHLER,</ls> Rep. ²No. 108. 
+1544 new <p>{#AnandakAvya#} n. Titel eines Werkes <ls>BÜHLER</ls>, Rep. ²No. 108. 
+;-----------------
+1562 old <p>{#AptamImAMsAlaMkRti, ºmImAMsAvivRti#} und {#ºmImAM-²sAvRtti#} f. Titel von Werken <ls>BÜHLER,</ls> Rep. No. 564. ²fgg. {#AptAº#} in den zwei letzten Titeln. 
+1562 new <p>{#AptamImAMsAlaMkRti, ºmImAMsAvivRti#} und {#ºmImAM-²sAvRtti#} f. Titel von Werken <ls>BÜHLER</ls>, Rep. No. 564. ²fgg. {#AptAº#} in den zwei letzten Titeln. 
+;-----------------
+1645 old <p>{#indraprasthamAhAtmya#} n. Titel eines Werkes <ls>BÜH-²LER,</ls> Rep. No. 53. 
+1645 new <p>{#indraprasthamAhAtmya#} n. Titel eines Werkes <ls>BÜH-²LER</ls>, Rep. No. 53. 
+;-----------------
+1667 old <p>{#Izvarazataka#} n. Titel eines Werkes <ls>BÜHLER,</ls> Rep. ²No. 109. 
+1667 new <p>{#Izvarazataka#} n. Titel eines Werkes <ls>BÜHLER</ls>, Rep. ²No. 109. 
+;-----------------
+1819 old <p>{#agRhya#} auch {%*nicht von Andern abhängig%} <ls>BHAT2T2. [Page2-286-a]</ls> ²6, 61. 
+1819 new <p>{#agRhya#} auch {%*nicht von Andern abhängig%} <ls>BHAT2T2.</ls> [Page2-286-a] ²6, 61. 
+;-----------------
+1934 old <p>{#ataritra#} Adj. {%ohne Ruder%} ({%ohne Steuermann u. ²s. w.%} <ls>NI1LAK.)</ls> <ls>MBH.</ls> 5, 63, 8. {#anaritra#} v. l. 
+1934 new <p>{#ataritra#} Adj. {%ohne Ruder%} ({%ohne Steuermann u. ²s. w.%} <ls>NI1LAK.</ls>) <ls>MBH.</ls> 5, 63, 8. {#anaritra#} v. l. 
+;-----------------
+2287 old <p>1. {#abhaya#} 4) {%c%}) (Nachträge) an den angeführten Stel-²len {%ein die Sicherheit der Person andeutendes%} oder ²{%versprechendes Symbol.%} Vgl. z. B. <ls>WARD,</ls> a View ²of the History u. s. w. III, S. 11 «and with the ²fourth (hand) he {|(S4iva)|} forbids fear» 
+2287 new <p>1. {#abhaya#} 4) {%c%}) (Nachträge) an den angeführten Stel-²len {%ein die Sicherheit der Person andeutendes%} oder ²{%versprechendes Symbol.%} Vgl. z. B. <ls>WARD</ls>, a View ²of the History u. s. w. III, S. 11 «and with the ²fourth (hand) he {|(S4iva)|} forbids fear» 
+;-----------------
+2572 old <p>{#Apastambha#} und {#ºstambhIya = ºstamba#} und {#ºsta-²mbIya#} <ls>BÜHLER,</ls> Intr. to <ls>A1PAST.</ls> Transl. XXXIII. 
+2572 new <p>{#Apastambha#} und {#ºstambhIya = ºstamba#} und {#ºsta-²mbIya#} <ls>BÜHLER</ls>, Intr. to <ls>A1PAST.</ls> Transl. XXXIII. 
+;-----------------
+2601 old <p>{#AryAdvizatI#} f., {#AryApaJcAzat#} f., {#AryAsvargAroha-²Naparvan#} n. (<ls>MBH.)</ls> und {#AlavandArstotra#} n. Titel von ²Werken <ls>OPP.</ls> Cat. 1. 
+2601 new <p>{#AryAdvizatI#} f., {#AryApaJcAzat#} f., {#AryAsvargAroha-²Naparvan#} n. (<ls>MBH.</ls>) und {#AlavandArstotra#} n. Titel von ²Werken <ls>OPP.</ls> Cat. 1. 
+;-----------------
+2608 old <p>{#AzIrvacanamAlA#} f., {#AzaucakANDa, Azaucacandri-²kA#} f., {#AzaucadIpikA#} f., {#Azaucavidhi#} m., {#Azauca-²zataka#} n., {#AzramavAsaparvan#} n. (<ls>MBH.),</ls> {#AzrayavAda#} m., ²{#AzvalAyanadIpikA#} f., {#AzvalAyanadharma#} m., {#AzvalA-²yanapUrvaprayoga#} m., {#AzvalAyanaprAyazcitta#} n., {#AzvalA-²yAnazrauta#} n., {#ºsUtra#} n., {#AzvalAyanasUtra#} n., {#AzvalAya-²nasthAlIpAka#} m. und {#AzvalAyanasmati#} f. Titel von ²Werken <ls>OPP.</ls> Cat. 1. 
+2608 new <p>{#AzIrvacanamAlA#} f., {#AzaucakANDa, Azaucacandri-²kA#} f., {#AzaucadIpikA#} f., {#Azaucavidhi#} m., {#Azauca-²zataka#} n., {#AzramavAsaparvan#} n. (<ls>MBH.</ls>), {#AzrayavAda#} m., ²{#AzvalAyanadIpikA#} f., {#AzvalAyanadharma#} m., {#AzvalA-²yanapUrvaprayoga#} m., {#AzvalAyanaprAyazcitta#} n., {#AzvalA-²yAnazrauta#} n., {#ºsUtra#} n., {#AzvalAyanasUtra#} n., {#AzvalAya-²nasthAlIpAka#} m. und {#AzvalAyanasmati#} f. Titel von ²Werken <ls>OPP.</ls> Cat. 1. 
+;-----------------
+2613 old <p>{#AsurakANDa#} Titel eines Werkes (<ls>MBH.)</ls> <ls>OPP.</ls> Cat. 1. 
+2613 new <p>{#AsurakANDa#} Titel eines Werkes (<ls>MBH.</ls>) <ls>OPP.</ls> Cat. 1. 
+;-----------------
+2626 old <p>{#itvara#} 4) n. = {#iGgitamaraNa#} <ls>S4I1LA1N3KA.</ls> 
+2626 new <p>{#itvara#} 4) n. = {#iGgitamaraNa#} <ls>S4I1LA1N3KA</ls>. 
+;-----------------
+2725 old <p>{#upadezakarNikA#} f. Titel eines {|Jaina|}-Werkes ²<ls>BÜHLER,</ls> Rep. 1872 -- 73, S. 10. 
+2725 new <p>{#upadezakarNikA#} f. Titel eines {|Jaina|}-Werkes ²<ls>BÜHLER</ls>, Rep. 1872 -- 73, S. 10. 
+;-----------------
+2737 old <p>{#upavindhyAdri#} Adv. {%am Gebirge%} {|Vindhya|} <ls>HEM. [Page2-296-a] ²PAR.</ls> 2, 166. 
+2737 new <p>{#upavindhyAdri#} Adv. {%am Gebirge%} {|Vindhya|} <ls>HEM. [Page2-296-a]PAR.</ls> 2, 166. 
+;-----------------
+2769 old <p>{#Rtva#} auch = 2. {#Rtviya#} 2) <ls>A1PAST.</ls> 2, 5, 17; vgl. ²<ls>BÜHLER,</ls> Intr. to <ls>A1PAST.</ls> Transl. XIV. 
+2769 new <p>{#Rtva#} auch = 2. {#Rtviya#} 2) <ls>A1PAST.</ls> 2, 5, 17; vgl. ²<ls>BÜHLER</ls>, Intr. to <ls>A1PAST.</ls> Transl. XIV. 
+;-----------------
+2774 old <p>{#RSimaNDalaprakaraNa#} n. Titel eines {|Jaina|}-Wer-²kes <ls>BÜHLER,</ls> Rep. 1872 -- 73, S. 10. 
+2774 new <p>{#RSimaNDalaprakaraNa#} n. Titel eines {|Jaina|}-Wer-²kes <ls>BÜHLER</ls>, Rep. 1872 -- 73, S. 10. 
+;-----------------
+2818 old <p>{#evaMcirasthitika#} Adj. {%so lange bestehend%} <ls>LALIT</ls> ²441, 7. 
+2818 new <p>{#evaMcirasthitika#} Adj. {%so lange bestehend%} <ls>LALIT.</ls> ²441, 7. 
+;-----------------
+2830 old <p>{#auddezika#} von einem Almosen, {%das mit specieller ²Rücksicht auf einen Mönch bereitet wird%}, <ls>S4I1LA1N3KA. [Page2-297-a]</ls> 
+2830 new <p>{#auddezika#} von einem Almosen, {%das mit specieller ²Rücksicht auf einen Mönch bereitet wird%}, <ls>S4I1LA1N3KA</ls>. [Page2-297-a] 
+;-----------------
+3004 old <p>{#kusumamAlA#} f. Titel eines Werkes <ls>BÜHLER,</ls> Rep. ²1872 -- 73, S. 10. 
+3004 new <p>{#kusumamAlA#} f. Titel eines Werkes <ls>BÜHLER</ls>, Rep. ²1872 -- 73, S. 10. 
+;-----------------
+3083 old <p>{#gajareva#} m. N. pr. eines Pra1krit-Dichters <ls>HA1LA.</ls> 91. 
+3083 new <p>{#gajareva#} m. N. pr. eines Pra1krit-Dichters <ls>HA1LA</ls> 91. 
+;-----------------
+3096 old <p>{#gamAgamika#} m. {%Unterhändler, Botschafter%} <ls>J. A. [Page2-300-a] ²S.</ls> Beng. 47, 405, 35. 
+3096 new <p>{#gamAgamika#} m. {%Unterhändler, Botschafter%} <ls>J. A. [Page2-300-a]S.</ls> Beng. 47, 405, 35. 
+;-----------------
+3165 old <p>{#cAturmAsyatva#} n. Nom. abstr. zu {#cAturmAsya#} 1) {%b%}) <ls>KA1T2H</ls> ²36, 2. 
+3165 new <p>{#cAturmAsyatva#} n. Nom. abstr. zu {#cAturmAsya#} 1) {%b%}) <ls>KA1T2H.</ls> ²36, 2. 
+;-----------------
+3461 old <p>{#anapaga£#} <ls>S4AT. BR.,</ls> richtig {#a£napaga#} <ls>TS.</ls> 
+3461 new <p>{#anapaga£#} <ls>S4AT. BR.</ls>, richtig {#a£napaga#} <ls>TS.</ls> 
+;-----------------
+3639 old <p>{#aparAnta#} 2) {%a%}) = {|Konkan|} {#(koGkaNa)#} nach <ls>BÜHLER.</ls> 
+3639 new <p>{#aparAnta#} 2) {%a%}) = {|Konkan|} {#(koGkaNa)#} nach <ls>BÜHLER</ls>. 
+;-----------------
+3710 old <p>{#apragalbhatA#} f. {%Aengstlichkeit%} <ls>APARA1RKA.</ls> 
+3710 new <p>{#apragalbhatA#} f. {%Aengstlichkeit%} <ls>APARA1RKA</ls>. 
+;-----------------
+3755 old <p>{#abhAryApitRka#} Adj. {%weder Frau noch Vater ha-²bend%} <ls>BR2HASPATI.</ls> 
+3755 new <p>{#abhAryApitRka#} Adj. {%weder Frau noch Vater ha-²bend%} <ls>BR2HASPATI</ls>. 
+;-----------------
+3796 old <p>{#amRtApidhAna£#} (so zu accentuiren, Nachtr. 1) n. ²{%Decke des Unsterblichkeitstrankes%} (<ls>STENZLER)</ls> <ls>A1S4V. ²GR2HY.</ls> 1, 24, 28. <ls>MA1N. GR2HY.</ls> 1, 9. 
+3796 new <p>{#amRtApidhAna£#} (so zu accentuiren, Nachtr. 1) n. ²{%Decke des Unsterblichkeitstrankes%} (<ls>STENZLER</ls>) <ls>A1S4V. ²GR2HY.</ls> 1, 24, 28. <ls>MA1N. GR2HY.</ls> 1, 9. 
+;-----------------
+3797 old <p>{#amRtopasta£raNa#} (Nachtr. 1) n. {%Unterlage des Un-²sterblichkeitstrankes%} (<ls>STENZLER)</ls> <ls>A1S4V. GR2HY.</ls> 1, 24, 13. ²<ls>MA1N. GR2HY.</ls> 1, 9. 
+3797 new <p>{#amRtopasta£raNa#} (Nachtr. 1) n. {%Unterlage des Un-²sterblichkeitstrankes%} (<ls>STENZLER</ls>) <ls>A1S4V. GR2HY.</ls> 1, 24, 13. ²<ls>MA1N. GR2HY.</ls> 1, 9. 
+;-----------------
+3824 old <p>{#araNAvihArin#} Adj. {%dwelling in virtue%} (<ls>M. ²MÜLLER)</ls> <ls>VAJRACCH.</ls> 26, 12. 15. 16. 
+3824 new <p>{#araNAvihArin#} Adj. {%dwelling in virtue%} (<ls>M. ²MÜLLER</ls>) <ls>VAJRACCH.</ls> 26, 12. 15. 16. 
+;-----------------
+4035 old <p>{#Anandapura#} = {|Var2nagar|} (nach <ls>BÜHLER).</ls> 
+4035 new <p>{#Anandapura#} = {|Var2nagar|} (nach <ls>BÜHLER</ls>). 
+;-----------------
+4037 old <p>{#Anarta#} 1) {%c%}) = {%das nördliche%} {|Ka1t2hiava1d|} (nach ²<ls>BÜHLER).</ls> 
+4037 new <p>{#Anarta#} 1) {%c%}) = {%das nördliche%} {|Ka1t2hiava1d|} (nach ²<ls>BÜHLER</ls>). 
+;-----------------
+4172 old <p>{#unminJja#} m. {%Frage%} (nach <ls>M. MÜLLER)</ls> <ls>SUKHA1V.</ls> 4, 3. 
+4172 new <p>{#unminJja#} m. {%Frage%} (nach <ls>M. MÜLLER</ls>) <ls>SUKHA1V.</ls> 4, 3. 
+;-----------------
+4297 old <p>{#audarikazarIra#} n. {%der grobe, mit dem Tode ver-[Page3-258-c]²gehende Körper%} <ls>S4I1LA1N3KA.</ls> 1, 296. 
+4297 new <p>{#audarikazarIra#} n. {%der grobe, mit dem Tode ver-[Page3-258-c]²gehende Körper%} <ls>S4I1LA1N3KA</ls>. 1, 296. 
+;-----------------
+4367 old <p>{#kalvoTaka#} oder {#kalhoDhaka#} Adj. als Erklärung ²von {#gorahaya#} <ls>S4I1LA1N3KA.</ls> 2, 170. 
+4367 new <p>{#kalvoTaka#} oder {#kalhoDhaka#} Adj. als Erklärung ²von {#gorahaya#} <ls>S4I1LA1N3KA</ls>. 2, 170. 
+;-----------------
+4503 old <p>{#gacchanirgata#} Adj. (ein {|Jaina|}-Mönch) {%der nicht ²im Verbande mit Andern lebt%} <ls>S4I1LA1N3KA.</ls> 
+4503 new <p>{#gacchanirgata#} Adj. (ein {|Jaina|}-Mönch) {%der nicht ²im Verbande mit Andern lebt%} <ls>S4I1LA1N3KA</ls>. 
+;-----------------
+4504 old <p>{#gacchavAsin#} Adj. (ein {|Jaina|}-Mönch) {%der im ²Verbande mit Andern lebt%} <ls>S4I1LA1N3KA.</ls> 1, 367. 
+4504 new <p>{#gacchavAsin#} Adj. (ein {|Jaina|}-Mönch) {%der im ²Verbande mit Andern lebt%} <ls>S4I1LA1N3KA</ls>. 1, 367. 
+;-----------------
+4508 old <p>{#ganJjulikA#} f. = {#dIrghA gambhIrAH kuTilAH zlakSNA ²jJalAzayAH#} <ls>S4I1LA1N3KA.</ls> 2, 3. 3. 
+4508 new <p>{#ganJjulikA#} f. = {#dIrghA gambhIrAH kuTilAH zlakSNA ²jJalAzayAH#} <ls>S4I1LA1N3KA</ls>. 2, 3. 3. 
+;-----------------
+4939 old <p>{#acyutapraca#} m. N. pr. eines Mannes <ls>WILSON,</ls> Sel. ²W. 1, 140. 
+4939 new <p>{#acyutapraca#} m. N. pr. eines Mannes <ls>WILSON</ls>, Sel. ²W. 1, 140. 
+;-----------------
+5081 old <p>{#aparuSa#} auch {%nicht hart, weich, zart%} <ls>BHA1G. P. [Page4-293-a]</ls> ²5, 8, 18. 
+5081 new <p>{#aparuSa#} auch {%nicht hart, weich, zart%} <ls>BHA1G. P.</ls> [Page4-293-a] ²5, 8, 18. 
+;-----------------
+5188 old <p>{#abhidharma, ºjYAnaprasthAna, ºdharmaskandhapAda, ºprakara-²NazAsana, ºprakAzasAdhana, ºvijJAnakAyapAda#} n. {#ºvi-²bhASA#} <ls>EITEL,</ls> Chin. B. 
+5188 new <p>{#abhidharma, ºjYAnaprasthAna, ºdharmaskandhapAda, ºprakara-²NazAsana, ºprakAzasAdhana, ºvijJAnakAyapAda#} n. {#ºvi-²bhASA#} <ls>EITEL</ls>, Chin. B. 
+;-----------------
+5325 old <p>{#Akhedana#} n. {%das Heranziehen%} Comm. zu <ls>A1PAST. [Page4-296-a]</ls> ²<ls>S4R.</ls> 10, 28, 1. 
+5325 new <p>{#Akhedana#} n. {%das Heranziehen%} Comm. zu <ls>A1PAST. [Page4-296-a]S4R.</ls> 10, 28, 1. 
+;-----------------
+5332 old <p>{#AcArya#} 1) {%c%}) {%der Sohn eines ausgestossenen%} {|Vai-²s4ya|} <ls>M.</ls> 10, 23 (nach <ls>GOVINDARA1JA</ls> und <ls>NA1RA1YAN2A)</ls> ²und {|Devala|} (nach <ls>GOVIND.).</ls> Nach <ls>BÜHLER.</ls> 
+5332 new <p>{#AcArya#} 1) {%c%}) {%der Sohn eines ausgestossenen%} {|Vai-²s4ya|} <ls>M.</ls> 10, 23 (nach <ls>GOVINDARA1JA</ls> und <ls>NA1RA1YAN2A</ls>) ²und {|Devala|} (nach <ls>GOVIND.</ls>). Nach <ls>BÜHLER</ls>. 
+;-----------------
+5422 old <p>{#uroja#} m. Du. <ls>BHA1M. V,</ls> 2, 176. 
+5422 new <p>{#uroja#} m. Du. <ls>BHA1M. V.</ls> 2, 176. 
+;-----------------
+5597 old <p>{#chAya, chAyA#} bedeutet nach<ls>J. BURGESS</ls> auch {%Ab-²schrift, Copie.%} 
+5597 new <p>{#chAya, chAyA#} bedeutet nach <ls>J. BURGESS</ls> auch {%Ab-²schrift, Copie.%} 
+;-----------------
+5683 old <p>{#dIkSitayAjJika#} m. N. pr. eines Autors <ls>Verz. d. [Page4-300-b] ²B. H.</ls> No. 246. 
+5683 new <p>{#dIkSitayAjJika#} m. N. pr. eines Autors <ls>Verz. d. [Page4-300-b]B. H.</ls> No. 246. 
+;-----------------
+5821 old <p>{#paribhASitatva#} n. {%das Gelehrtwordensein%} Comm. ²zu <ls>R2V. PRA1T.</ls> 2, 5 bei <ls>M. MÜLLER.</ls> 
+5821 new <p>{#paribhASitatva#} n. {%das Gelehrtwordensein%} Comm. ²zu <ls>R2V. PRA1T.</ls> 2, 5 bei <ls>M. MÜLLER</ls>. 
+;-----------------
+5888 old <p>{#pratyAkhyAna#} (so zu lesen nach <ls>WINDISCH)</ls> Adj. {%be-²kämpft%} (Leidenschaft) <ls>HEM. YOGAY.</ls> 4, 7. 
+5888 new <p>{#pratyAkhyAna#} (so zu lesen nach <ls>WINDISCH</ls>) Adj. {%be-²kämpft%} (Leidenschaft) <ls>HEM. YOGAY.</ls> 4, 7. 
+;-----------------
+5963 old <p>{#aGkAvaGka£#} n. = {#aGkAGka£#} (so <ls>TS.)</ls> <ls>MAITR. S.</ls> 2, 8, 7 ²(112, 4). 
+5963 new <p>{#aGkAvaGka£#} n. = {#aGkAGka£#} (so <ls>TS.</ls>) <ls>MAITR. S.</ls> 2, 8, 7 ²(112, 4). 
+;-----------------
+6003 old <p>{#atitarpaNa#} n. {%Uebersättigung%} <ls>BHA1VAPR.</ls> (Hdschr.) ²36, {%b%} nach <ls>AUFRECHT.</ls> 
+6003 new <p>{#atitarpaNa#} n. {%Uebersättigung%} <ls>BHA1VAPR.</ls> (Hdschr.) ²36, {%b%} nach <ls>AUFRECHT</ls>. 
+;-----------------
+6062 old <p>{#adhararucaka#} n. {%reizende Lippen%} <ls>KA1D.</ls> 157, 7 (275, ²2. 3. ed. <ls>PET.</ls> 139, 19). 73, 1 (ed. <ls>PET.)</ls> Vgl. {#oSTha-²rucaka#} und {#oSTharucira#} weiter unten. 
+6062 new <p>{#adhararucaka#} n. {%reizende Lippen%} <ls>KA1D.</ls> 157, 7 (275, ²2. 3. ed. <ls>PET.</ls> 139, 19). 73, 1 (ed. <ls>PET.</ls>) Vgl. {#oSTha-²rucaka#} und {#oSTharucira#} weiter unten. 
+;-----------------
+6075 old <p>{#adhirUDha#} 1) Adj. s. u. 1. {#ruh#} mit {#adhi#}. -- 2) *f. ²{#A#} {%eine Frau vom 33sten bis zum 50sten Jahre%} ²<ls>BHA1VAPR.</ls> (Hdschr.) 46, {%a%} nach <ls>AUFRECHT.</ls> 
+6075 new <p>{#adhirUDha#} 1) Adj. s. u. 1. {#ruh#} mit {#adhi#}. -- 2) *f. ²{#A#} {%eine Frau vom 33sten bis zum 50sten Jahre%} ²<ls>BHA1VAPR.</ls> (Hdschr.) 46, {%a%} nach <ls>AUFRECHT</ls>. 
+;-----------------
+6083 old <p>{#adhiSThAna#} 1) in der Baukunst {%Grundlage, Fun-²dament%} <ls>RA1M RA1S,</ls> Architecture, S. 4 nach <ls>AUF-²RECHT.</ls> -- 5) auch buddh. {%Macht, mächtiger Wille;%} ²vgl. <ls>LALIT.</ls> 34, 4. 6. 7. 
+6083 new <p>{#adhiSThAna#} 1) in der Baukunst {%Grundlage, Fun-²dament%} <ls>RA1M RA1S</ls>, Architecture, S. 4 nach <ls>AUF-²RECHT</ls>. -- 5) auch buddh. {%Macht, mächtiger Wille;%} ²vgl. <ls>LALIT.</ls> 34, 4. 6. 7. 
+;-----------------
+6087 old <p>{#adhovAsas#} n. {%Untergewand%} <ls>MAHA1NA1T2AKA</ls> nach ²<ls>AUFRECHT.</ls> 
+6087 new <p>{#adhovAsas#} n. {%Untergewand%} <ls>MAHA1NA1T2AKA</ls> nach ²<ls>AUFRECHT</ls>. 
+;-----------------
+6132 old <p>{#anAgata#} 2) Loc. {%in der Zukunft%} <ls>M. MÜLLER,</ls> ²Ren. 299. 
+6132 new <p>{#anAgata#} 2) Loc. {%in der Zukunft%} <ls>M. MÜLLER</ls>, ²Ren. 299. 
+;-----------------
+6207 old <p>{#antyArdha#} m. {%Hintertheil%} <ls>M. MÜLLER,</ls> Ren. 323. 
+6207 new <p>{#antyArdha#} m. {%Hintertheil%} <ls>M. MÜLLER</ls>, Ren. 323. 
+;-----------------
+6211 old <p>{#andhatAmisra#} 2) wohl m. wie {#ºka#} <ls>VA1MANAP.</ls> Kap. ²11. {#roSAndhatAmisre#} <ls>ANARGHAR. S.</ls> 153. 
+6211 new <p>{#andhatAmisra#} 2) wohl m. wie {#ºka#} <ls>VA1MANAP.</ls> Kap. ²11. {#roSAndhatAmisre#} <ls>ANARGHAR.</ls> S. 153. 
+;-----------------
+6304 old <p>{#abhisaMgharSa#} m. {%Aneinanderreibung%} <ls>BHA1VAPR.</ls> (Hd-²schr.) 8, {%a%} nach <ls>AUFRECHT.</ls> 
+6304 new <p>{#abhisaMgharSa#} m. {%Aneinanderreibung%} <ls>BHA1VAPR.</ls> (Hd-²schr.) 8, {%a%} nach <ls>AUFRECHT</ls>. 
+;-----------------
+6359 old <p>{#arADI£tara#} (so zu verbinden nach <ls>LEUMANN)</ls> Adj. ²{%sehr langhörnig%} <ls>S4AT. BR.</ls> 4, 5, 5, 5. Vgl. {#arA£Da#} (Nachtr. ²4) und {#arADya|#}. 
+6359 new <p>{#arADI£tara#} (so zu verbinden nach <ls>LEUMANN</ls>) Adj. ²{%sehr langhörnig%} <ls>S4AT. BR.</ls> 4, 5, 5, 5. Vgl. {#arA£Da#} (Nachtr. ²4) und {#arADya|#}. 
+;-----------------
+6377 old <p>{#arch#} mit {#ava, avA£rchati#} (!) <ls>TS.,</ls> {#avArche£t#} <ls>S4AT. BR.</ls> ² -- Mit {#A#} {%Schaden nehmen%} <ls>MAITR. S.</ls> 1, 8, 3 (118, ²19), wo {#ya¹dArcha¹ti#} statt {#ya¹dAchaM¹ti#} zu lesen ist. 
+6377 new <p>{#arch#} mit {#ava, avA£rchati#} (!) <ls>TS.</ls>, {#avArche£t#} <ls>S4AT. BR.</ls> ² -- Mit {#A#} {%Schaden nehmen%} <ls>MAITR. S.</ls> 1, 8, 3 (118, ²19), wo {#ya¹dArcha¹ti#} statt {#ya¹dAchaM¹ti#} zu lesen ist. 
+;-----------------
+6379 old <p>{#*artni#} m. = 1. {#aratni#} <ls>SUBHU1TI</ls> bei <ls>RA1YAMUKUT2A</ls> ²zu <ls>AK.</ls> nach <ls>AUFRECHT. [Page5-245-b]</ls> 
+6379 new <p>{#*artni#} m. = 1. {#aratni#} <ls>SUBHU1TI</ls> bei <ls>RA1YAMUKUT2A</ls> ²zu <ls>AK.</ls> nach <ls>AUFRECHT</ls>. [Page5-245-b] 
+;-----------------
+6457 old <p>{#avatAraNikA#} f. {%Einleitung%} <ls>CAN2D2I1DA1SA</ls> zu <ls>KA1-²VYAPR.</ls> 1, 1 (nach <ls>AUFRECHT).</ls> 
+6457 new <p>{#avatAraNikA#} f. {%Einleitung%} <ls>CAN2D2I1DA1SA</ls> zu <ls>KA1-²VYAPR.</ls> 1, 1 (nach <ls>AUFRECHT</ls>). 
+;-----------------
+6633 old <p>{#asahAya#} m. auch N. pr. eines Commentators des ²<ls>NA1RADA.</ls> 
+6633 new <p>{#asahAya#} m. auch N. pr. eines Commentators des ²<ls>NA1RADA</ls>. 
+;-----------------
+6635 old <p>{#asAdhyamAnatva#} n. {%Undurchführbarkeit%} <ls>ASAHA1YA.</ls> 
+6635 new <p>{#asAdhyamAnatva#} n. {%Undurchführbarkeit%} <ls>ASAHA1YA</ls>. 
+;-----------------
+6680 old <p>{#AkoTanA#} (!) f. {%Bestrafung%} <ls>ASAHA1YA</ls> zu <ls>NA1RADA.</ls> 
+6680 new <p>{#AkoTanA#} (!) f. {%Bestrafung%} <ls>ASAHA1YA</ls> zu <ls>NA1RADA</ls>. 
+;-----------------
+6730 old <p>{#AtmavittA#} f. {%Selbsterkenntniss%} <ls>RAGH.</ls> 8, 10 (ed. ²Bomb.) nach <ls>LEUMANN.</ls> 
+6730 new <p>{#AtmavittA#} f. {%Selbsterkenntniss%} <ls>RAGH.</ls> 8, 10 (ed. ²Bomb.) nach <ls>LEUMANN</ls>. 
+;-----------------
+6746 old <p>{#Apoda#} m. Patron. des {|R2s2i Dhaumya|} <ls>MBH. [Page5-249-b]</ls> ²1, 3, 21. {#Ayoda#} v. l. 
+6746 new <p>{#Apoda#} m. Patron. des {|R2s2i Dhaumya|} <ls>MBH.</ls> [Page5-249-b] ²1, 3, 21. {#Ayoda#} v. l. 
+;-----------------
+6763 old <p>{#AlambanapratyayadhyAnazAstravyAkhyA#} f. Titel eines ²buddh. Werkes <ls>M. MÜLLER,</ls> Ren. 310, N. 3. 
+6763 new <p>{#AlambanapratyayadhyAnazAstravyAkhyA#} f. Titel eines ²buddh. Werkes <ls>M. MÜLLER</ls>, Ren. 310, N. 3. 
+;-----------------
+6791 old <p>{#*indrotthApana#} n. {%das Erwecken%} {|Indra's|} <ls>DES4I1N.</ls> 1, ²82. Vgl. <ls>WILSON,</ls> Sel. Works 1, 127. 
+6791 new <p>{#*indrotthApana#} n. {%das Erwecken%} {|Indra's|} <ls>DES4I1N.</ls> 1, ²82. Vgl. <ls>WILSON</ls>, Sel. Works 1, 127. 
+;-----------------
+6792 old <p>{#ilAsura#} m. {%ein Brahmane%} <ls>M. MÜLLER,</ls> Ren. 300. 
+6792 new <p>{#ilAsura#} m. {%ein Brahmane%} <ls>M. MÜLLER</ls>, Ren. 300. 
+;-----------------
+6834 old <p>{#udAsthita#} 1) *<ls>ZACH.</ls> Beitr. 
+6834 new <p>{#udAsthita#} 1) * <ls>ZACH.</ls> Beitr. 
+;-----------------
+6839 old <p>{#uddyotakara#} m. N. pr. eines Autors <ls>VA1SAV.</ls> 235, 3. ²M. <ls>MÜLLER,</ls> Ren. 290. 
+6839 new <p>{#uddyotakara#} m. N. pr. eines Autors <ls>VA1SAV.</ls> 235, 3. ²<ls>M. MÜLLER</ls>, Ren. 290. 
+;-----------------
+6871 old <p>{#upasthita#} 1) *<ls>ZACH.</ls> Beitr. Auch = {#dvArabheda#} ebend. 
+6871 new <p>{#upasthita#} 1) * <ls>ZACH.</ls> Beitr. Auch = {#dvArabheda#} ebend. 
+;-----------------
+6939 old <p>{#kaTistha#} Adj. {%an die Hüfte gelehnt%}, so v. a. {%noch ²auf den Armen getragen werdend%} <ls>HEM. PAR.</ls> 1, 228. ²2, 372. Vgl. <ls>J.</ls> <ls>JOLLY</ls> in der Deutschen Rundschau ²1883/84, No. 13. S. 50. 
+6939 new <p>{#kaTistha#} Adj. {%an die Hüfte gelehnt%}, so v. a. {%noch ²auf den Armen getragen werdend%} <ls>HEM. PAR.</ls> 1, 228. ²2, 372. Vgl. <ls>J. JOLLY</ls> in der Deutschen Rundschau ²1883/84, No. 13. S. 50. 
+;-----------------
+6966 old <p>{#*karNasuvarNa#} N. pr. eines Landes <ls>HIOUEN-THSANG.</ls> 
+6966 new <p>{#*karNasuvarNa#} N. pr. eines Landes <ls>HIOUEN-THSANG</ls>. 
+;-----------------
+7018 old <p>{#kumArajIva#} m. N. pr. eines Autors <ls>M. MÜLLER,</ls> ²Ren. 308. 
+7018 new <p>{#kumArajIva#} m. N. pr. eines Autors <ls>M. MÜLLER</ls>, ²Ren. 308. 
+;-----------------
+7056 old <p>{#kaurpa = kaurpi, kaurpya#} <ls>M. MÜLLER,</ls> Ren. 326. 
+7056 new <p>{#kaurpa = kaurpi, kaurpya#} <ls>M. MÜLLER</ls>, Ren. 326. 
+;-----------------
+7078 old <p>{#khaNDarakSa#} (Nachtr. 2) nach <ls>LEUMANN,</ls> Aup. Gl. ²{%Zollwächter.%} 
+7078 new <p>{#khaNDarakSa#} (Nachtr. 2) nach <ls>LEUMANN</ls>, Aup. Gl. ²{%Zollwächter.%} 
+;-----------------
+7090 old <p>{#kheTana#} auch {%das Entgehen%} <ls>ASAHA1YA</ls> zu <ls>NA1RADA.</ls> Vgl. ²mahratt. {#kheTaNe#}. 
+7090 new <p>{#kheTana#} auch {%das Entgehen%} <ls>ASAHA1YA</ls> zu <ls>NA1RADA</ls>. Vgl. ²mahratt. {#kheTaNe#}. 
+;-----------------
+7153 old <p>{#grAmaghAtin#} m. {%Dorfschlächter%} <ls>M. MÜLLER,</ls> Ren. ²269. 
+7153 new <p>{#grAmaghAtin#} m. {%Dorfschlächter%} <ls>M. MÜLLER</ls>, Ren. ²269. 
+;-----------------
+7248 old <p>{#juka#} m. <gr></gr>, {%die Wage im Thierkreise%} <ls>M. MÜL-²LER,</ls> Ren. 326. Richtig {#jUka#}, vgl. <ls>Ind. St.</ls> 2, 259. 
+7248 new <p>{#juka#} m. <gr></gr>, {%die Wage im Thierkreise%} <ls>M. MÜL-²LER</ls> Ren. 326. Richtig {#jUka#}, vgl. <ls>Ind. St.</ls> 2, 259. 
+;-----------------
+7267 old <p>{#TAparagrAma#} m. N. pr. eines {%Dorfes%} <ls>M. MÜLLER,</ls> ²Ren. 300. 
+7267 new <p>{#TAparagrAma#} m. N. pr. eines {%Dorfes%} <ls>M. MÜLLER</ls>, ²Ren. 300. 
+;-----------------
+7280 old <p>{#tadvasati#} Adj. {%dieses zum Wohnsitz habend, dort [Page5-255-b] ²wohnend%} <ls>M. MÜLLER,</ls> Ren. 300. 
+7280 new <p>{#tadvasati#} Adj. {%dieses zum Wohnsitz habend, dort [Page5-255-b] ²wohnend%} <ls>M. MÜLLER</ls>, Ren. 300. 
+;-----------------
+7288 old <p>{#tamAkhu#} m. {%Tabak%} <ls>SUBHA1SHITARATNABHA1N2D2A1GA1RA</ls> 131 ²nach <ls>AUFRECHT.</ls> 
+7288 new <p>{#tamAkhu#} m. {%Tabak%} <ls>SUBHA1SHITARATNABHA1N2D2A1GA1RA</ls> 131 ²nach <ls>AUFRECHT</ls>. 
+;-----------------
+7297 old <p>{#talArakSa#} m. <ls>CAMPAKA</ls> 422. Vgl. {#talavara#} bei <ls>LEU-²MANN,</ls> Aup. Gl. und <ls>Ind. St.</ls> 16, 38. {#talavAro#} im ²Pra1krit ist = {#talavara = purAdhyakSa#} <ls>BEZZENBERGER,</ls> ²Beitr. 3, 261. 
+7297 new <p>{#talArakSa#} m. <ls>CAMPAKA</ls> 422. Vgl. {#talavara#} bei <ls>LEU-²MANN</ls>, Aup. Gl. und <ls>Ind. St.</ls> 16, 38. {#talavAro#} im ²Pra1krit ist = {#talavara = purAdhyakSa#} <ls>BEZZENBERGER</ls>, ²Beitr. 3, 261. 
+;-----------------
+7317 old <p>{#tulAbhRt#} m. {%die Wage im Thierkreise%} <ls>M. MÜLLER,</ls> ²Ren. 324. 
+7317 new <p>{#tulAbhRt#} m. {%die Wage im Thierkreise%} <ls>M. MÜLLER</ls>, ²Ren. 324. 
+;-----------------
+7351 old <p>{#dalAdhIzvara#} m. N. pr. (= {#dalapati#}) des Verfassers ²von <ls>NR2SIM3HAPRASA1DA</ls> nach <ls>JOLLY.</ls> 
+7351 new <p>{#dalAdhIzvara#} m. N. pr. (= {#dalapati#}) des Verfassers ²von <ls>NR2SIM3HAPRASA1DA</ls> nach <ls>JOLLY</ls>. 
+;-----------------
+7365 old <p>{#*dAntadeva, *dAntabhadra#} und {#*dAntasena#} m. N. pr. ver-²schiedener Männer <ls>M. MÜLLER,</ls> Ren. 311, N. 1. 
+7365 new <p>{#*dAntadeva, *dAntabhadra#} und {#*dAntasena#} m. N. pr. ver-²schiedener Männer <ls>M. MÜLLER</ls>, Ren. 311, N. 1. 
+;-----------------
+7414 old <p>{#daizika#} n. {%eine Art Tanz%}, geschildert in {|Nr2tya-²sarvasva|} bei <ls>MALLIN.</ls> zu <ls>MEGH.</ls> 35 nach <ls>AUF-²RECHT.</ls> 
+7414 new <p>{#daizika#} n. {%eine Art Tanz%}, geschildert in {|Nr2tya-²sarvasva|} bei <ls>MALLIN.</ls> zu <ls>MEGH.</ls> 35 nach <ls>AUF-²RECHT</ls>. 
+;-----------------
+7436 old <p>{#*dharmayazas#} m. N. pr. eines Mannes <ls>M. MÜLLER,</ls> ²Ren. 312. 
+7436 new <p>{#*dharmayazas#} m. N. pr. eines Mannes <ls>M. MÜLLER</ls>, ²Ren. 312. 
+;-----------------
+7443 old <p>{#dhAnyakaTaka#} N. pr. eines Landes<ls>J. R. A. S.</ls> 1876, ²S. 27. Vgl. <ls>BURGESS,</ls> Archaeoi. Survey of Southern ²India, No. 3, S. 45. 54. <ls>HIOUEN-THSANG</ls> 2, 110. 
+7443 new <p>{#dhAnyakaTaka#} N. pr. eines Landes <ls>J. R. A. S.</ls> 1876, ²S. 27. Vgl. <ls>BURGESS</ls>, Archaeoi. Survey of Southern ²India, No. 3, S. 45. 54. <ls>HIOUEN-THSANG</ls> 2, 110. 
+;-----------------
+7493 old <p>{#*nAgAJcanA#} f. = {#nAgayaSTau dviradasya ca mudgare#} <ls>ZACH. [Page5-257-c]</ls> ²Beitr. 91. 
+7493 new <p>{#*nAgAJcanA#} f. = {#nAgayaSTau dviradasya ca mudgare#} <ls>ZACH.</ls> [Page5-257-c] ²Beitr. 91. 
+;-----------------
+7496 old <p>{#nAtirohiNI#} Adj. f. {%nicht zu roth%} (nach <ls>NI1LAK.)</ls> ²<ls>MBH.</ls> 2, 65, 33. 
+7496 new <p>{#nAtirohiNI#} Adj. f. {%nicht zu roth%} (nach <ls>NI1LAK.</ls>) ²<ls>MBH.</ls> 2, 65, 33. 
+;-----------------
+7519 old <p>{#niTala#} <ls>KA1S4I1TILAKA</ls> 25 nach <ls>AUFRECHT.</ls> 
+7519 new <p>{#niTala#} <ls>KA1S4I1TILAKA</ls> 25 nach <ls>AUFRECHT</ls>. 
+;-----------------
+7530 old <p>{#nirRNin#} Adj. {%schuldenfrei%} <ls>ASAHA1YA</ls> zu <ls>NA1RADA.</ls> 
+7530 new <p>{#nirRNin#} Adj. {%schuldenfrei%} <ls>ASAHA1YA</ls> zu <ls>NA1RADA</ls>. 
+;-----------------
+7582 old <p>{#naijAmaSAha#} m. N. pr. eines Fürsten Einl. zu ²<ls>DALAPATI'S NR2SIM3HAPRASA1DA</ls> (nach <ls>JOLLY).</ls> Vgl. {#ni-²jAma#}. 
+7582 new <p>{#naijAmaSAha#} m. N. pr. eines Fürsten Einl. zu ²<ls>DALAPATI'S NR2SIM3HAPRASA1DA</ls> (nach <ls>JOLLY</ls>). Vgl. {#ni-²jAma#}. 
+;-----------------
+7591 old <p>{#nyakSa#} 3) {%a%}) {#nyakSeNa#} {%vollständig%} <ls>S4I1LA1N3KA</ls> nach ²<ls>LEUMANN.</ls> 
+7591 new <p>{#nyakSa#} 3) {%a%}) {#nyakSeNa#} {%vollständig%} <ls>S4I1LA1N3KA</ls> nach ²<ls>LEUMANN</ls>. 
+;-----------------
+7603 old <p>{#paJcacUDaka#} Adj. = {#paJcacUDa#} 1) {%b%}) <ls>M. MÜLLER,</ls> Ren. ²299, N. 2. 
+7603 new <p>{#paJcacUDaka#} Adj. = {#paJcacUDa#} 1) {%b%}) <ls>M. MÜLLER</ls>, Ren. ²299, N. 2. 
+;-----------------
+7605 old <p>{#*paJcapariSad#} f. {%eine alle 5 Jahre stattfindende ²Versammlung%} <ls>HIOUEN-THSANG.</ls> 
+7605 new <p>{#*paJcapariSad#} f. {%eine alle 5 Jahre stattfindende ²Versammlung%} <ls>HIOUEN-THSANG</ls>. 
+;-----------------
+7634 old <p>{#*paramaprabha#} m. N. pr. eines Mannes <ls>M. MÜLLER,</ls> ²Ren. 312. 
+7634 new <p>{#*paramaprabha#} m. N. pr. eines Mannes <ls>M. MÜLLER</ls>, ²Ren. 312. 
+;-----------------
+7680 old <p>{#paspaza#} Adj. <ls>KA1VYAPR.</ls> 175, 5 = {#niHsAra#} nach ei-²nem Comm. (Mittheilung von <ls>AUFRECHT).</ls> Statt ²{#paspazA#} f. hat der Comm. zu <ls>S4IS4.</ls> 2, 112 {#paspaza#} m. 
+7680 new <p>{#paspaza#} Adj. <ls>KA1VYAPR.</ls> 175, 5 = {#niHsAra#} nach ei-²nem Comm. (Mittheilung von <ls>AUFRECHT</ls>). Statt ²{#paspazA#} f. hat der Comm. zu <ls>S4IS4.</ls> 2, 112 {#paspaza#} m. 
+;-----------------
+7691 old <p>{#pAThAntaray, ºyati#} {%für Etwas%} (Acc.) {%eine andere ²Lesart haben%} <ls>PISCHEL,</ls> die Recensionen der <ls>S4A-²KUNTALA1, S.</ls> 8. 
+7691 new <p>{#pAThAntaray, ºyati#} {%für Etwas%} (Acc.) {%eine andere ²Lesart haben%} <ls>PISCHEL</ls>, die Recensionen der <ls>S4A-²KUNTALA1, S.</ls> 8. 
+;-----------------
+7709 old <p>5. {#pArtha#} m. und {#pArthona#} m. <gr></gr>, {%die Jungfrau ²im Thierkreise%} <ls>M. MÜLLER,</ls> Ren. 326. 
+7709 new <p>5. {#pArtha#} m. und {#pArthona#} m. <gr></gr>, {%die Jungfrau ²im Thierkreise%} <ls>M. MÜLLER</ls>, Ren. 326. 
+;-----------------
+7747 old <p>{#pulakezin#} m. N. pr. eines Fürsten <ls>M. MÜLLER,</ls> ²Ren. 287. {#ºkezivallabha#} desgl. <ls>Ind. Antiq.</ls> 7, 163. ²8, 13. 
+7747 new <p>{#pulakezin#} m. N. pr. eines Fürsten <ls>M. MÜLLER</ls>, ²Ren. 287. {#ºkezivallabha#} desgl. <ls>Ind. Antiq.</ls> 7, 163. ²8, 13. 
+;-----------------
+7778 old <p>{#*prajJAcandra#} m. N. pr. eines buddh. Gelehrten <ls>M. ²MÜLLER,</ls> Ren. 312. 
+7778 new <p>{#*prajJAcandra#} m. N. pr. eines buddh. Gelehrten <ls>M. ²MÜLLER</ls>, Ren. 312. 
+;-----------------
+7898 old <p>{#bilvavRkSamAhAtmya#} n., {#bilvAraNyamAhAtmya#} n. ²und {#bilvASTaka#} n. Titel von Werken <ls>BURNELL, T. [Page5-262-a]</ls> 
+7898 new <p>{#bilvavRkSamAhAtmya#} n., {#bilvAraNyamAhAtmya#} n. ²und {#bilvASTaka#} n. Titel von Werken <ls>BURNELL, T.</ls> [Page5-262-a] 
+;-----------------
+7904 old <p>{#bRhattantrapati#} m. {%ein best. Beamter%} <ls>BÜHLER,</ls> Rep. 52. 
+7904 new <p>{#bRhattantrapati#} m. {%ein best. Beamter%} <ls>BÜHLER</ls>, Rep. 52. 
+;-----------------
+7908 old <p>{#bodhicittotpAdanazAstra#} n. Titel eines buddh. ²Werkes <ls>M. MÜLLER,</ls> Ren. 308. 
+7908 new <p>{#bodhicittotpAdanazAstra#} n. Titel eines buddh. ²Werkes <ls>M. MÜLLER</ls>, Ren. 308. 
+;-----------------
+7921 old <p>{#bhadrabAhu#} 2) {%ein best. vierfüssiges Thier%} <ls>MA1DHA-²VI1YA1 DHA1TUVR2TTI</ls> unter {#bAdhR loDane#} nach <ls>AUFRECHT.</ls> 
+7921 new <p>{#bhadrabAhu#} 2) {%ein best. vierfüssiges Thier%} <ls>MA1DHA-²VI1YA1 DHA1TUVR2TTI</ls> unter {#bAdhR loDane#} nach <ls>AUFRECHT</ls>. 
+;-----------------
+7927 old <p>{#bhayAy, bhayAyate#} {%sich fürchten%} <ls>PHET2KA1RIN2I1-TANTRA</ls> ²10 nach <ls>AUFRECHT.</ls> 
+7927 new <p>{#bhayAy, bhayAyate#} {%sich fürchten%} <ls>PHET2KA1RIN2I1-TANTRA</ls> ²10 nach <ls>AUFRECHT</ls>. 
+;-----------------
+7928 old <p>{#bhartRbhaTTa#} m. N. pr. = {#bhartRmeNTha#} <ls>M. MÜLLER,</ls> Ren. 314. 
+7928 new <p>{#bhartRbhaTTa#} m. N. pr. = {#bhartRmeNTha#} <ls>M. MÜLLER</ls>, Ren. 314. 
+;-----------------
+7935 old <p>{#*bhAjI#} nach <ls>DURGA1DA1SA</ls> zu <ls>VOPADEVA</ls> = {#paGkavya-²JjanavizeSaH#}. Mittheilung von <ls>AUFRECHT.</ls> 
+7935 new <p>{#*bhAjI#} nach <ls>DURGA1DA1SA</ls> zu <ls>VOPADEVA</ls> = {#paGkavya-²JjanavizeSaH#}. Mittheilung von <ls>AUFRECHT</ls>. 
+;-----------------
+7946 old <p>2. {#bhid#} 2) {%d%}) {%Unterschied%} <ls>VA1GBHAT2A1LAM3KA1RA</ls> 1, 20 ²nach <ls>AUFRECHT.</ls> 
+7946 new <p>2. {#bhid#} 2) {%d%}) {%Unterschied%} <ls>VA1GBHAT2A1LAM3KA1RA</ls> 1, 20 ²nach <ls>AUFRECHT</ls>. 
+;-----------------
+7965 old <p>{#bhRGgarola#} <ls>VA1SAV,</ls> 261, 2. Auch {%Biene%} und {%ein best. ²Vogel%} <ls>DHARAN2I</ls> ebend. 
+7965 new <p>{#bhRGgarola#} <ls>VA1SAV.</ls> 261, 2. Auch {%Biene%} und {%ein best. ²Vogel%} <ls>DHARAN2I</ls> ebend. 
+;-----------------
+8021 old <p>{#mayUrAkSa#} m. N. pr. eines Lehrers <ls>M. MÜLLER,</ls> Ren. ²299, N. 2. 
+8021 new <p>{#mayUrAkSa#} m. N. pr. eines Lehrers <ls>M. MÜLLER</ls>, Ren. ²299, N. 2. 
+;-----------------
+8036 old <p>{#mahAprabandha#} m. {%ein grosses literarisches Werk%} ²M. <ls>MÜLLER,</ls> Ren. 314. 
+8036 new <p>{#mahAprabandha#} m. {%ein grosses literarisches Werk%} ²<ls>M. MÜLLER</ls>, Ren. 314. 
+;-----------------
+8037 old <p>{#mahApreta#} m. {%ein grosser Verstorbener, -- Geist.%} ²{#brahmA viSNuzca rudrazca Izvarazca mahAzivaH | ete paJca ²mahApretA bhUtAdhipatayo matAH ||#} Citat aus <ls>RUDRAYA1-²MALA</ls> beim Schol. zu <ls>A1NANDAL.</ls> 94 nach <ls>AUFRECHT.</ls> 
+8037 new <p>{#mahApreta#} m. {%ein grosser Verstorbener, -- Geist.%} ²{#brahmA viSNuzca rudrazca Izvarazca mahAzivaH | ete paJca ²mahApretA bhUtAdhipatayo matAH ||#} Citat aus <ls>RUDRAYA1-²MALA</ls> beim Schol. zu <ls>A1NANDAL.</ls> 94 nach <ls>AUFRECHT</ls>. 
+;-----------------
+8040 old <p>{#mahAryasiddhAnta#} m. Titel eines astron. Werkes <ls>M. ²MÜLLER,</ls> Ren. 319, N. 2. 
+8040 new <p>{#mahAryasiddhAnta#} m. Titel eines astron. Werkes <ls>M. ²MÜLLER</ls>, Ren. 319, N. 2. 
+;-----------------
+8048 old <p>{#mAtRkula, mAtRdAsa#} und {#mAtRviSNu#} m. N. pr. ver-²schiedener Männer <ls>M. MÜLLER,</ls> Ren. 314, N. 1. 
+8048 new <p>{#mAtRkula, mAtRdAsa#} und {#mAtRviSNu#} m. N. pr. ver-²schiedener Männer <ls>M. MÜLLER</ls>, Ren. 314, N. 1. 
+;-----------------
+8061 old <p>{#mInamatsya#} m. Du. {%die Fische im Thierkreise%} <ls>M. ²MÜLLER,</ls> Ren. 323. 
+8061 new <p>{#mInamatsya#} m. Du. {%die Fische im Thierkreise%} <ls>M. ²MÜLLER</ls>, Ren. 323. 
+;-----------------
+8069 old <p>2. {#mud#} 5) in einer buddh. Inschr. {#(yeSAM mudvibhavaH paraH ²paramudaH svapne 'pi nAbhUttanau)#} nach E. <ls>HULTZSCH.</ls> 
+8069 new <p>2. {#mud#} 5) in einer buddh. Inschr. {#(yeSAM mudvibhavaH paraH ²paramudaH svapne 'pi nAbhUttanau)#} nach E. <ls>HULTZSCH</ls>. 
+;-----------------
+8071 old <p>{#muhUrtabhuvanonmArtaNDa#} m. Titel eines Werkes <ls>M. ²MÜLLER,</ls> Ren. 300. 
+8071 new <p>{#muhUrtabhuvanonmArtaNDa#} m. Titel eines Werkes <ls>M. ²MÜLLER</ls>, Ren. 300. 
+;-----------------
+8083 old <p>{#mokSavArttika#} Adj. {%auf die Erlösung bedacht%} <ls>MBH. [Page5-264-a]</ls> ²12, 320, 174. 
+8083 new <p>{#mokSavArttika#} Adj. {%auf die Erlösung bedacht%} <ls>MBH.</ls> [Page5-264-a] ²12, 320, 174. 
+;-----------------
+8096 old <p>{#raktAzaya = uras#} <ls>BHA1VAPR.</ls> (Hdschr.) 16, {%b%} nach ²<ls>AUFRECHT. [Page5-264-b]</ls> 
+8096 new <p>{#raktAzaya = uras#} <ls>BHA1VAPR.</ls> (Hdschr.) 16, {%b%} nach ²<ls>AUFRECHT</ls>. [Page5-264-b] 
+;-----------------
+8103 old <p>{#rathayAtaka#} n. Instr. so v. a. {%zu Wagen%} <ls>BÜHLER,</ls> ²Rep. LXXXVII, 8 in einer scenischen Bemerkung. 
+8103 new <p>{#rathayAtaka#} n. Instr. so v. a. {%zu Wagen%} <ls>BÜHLER</ls>, ²Rep. LXXXVII, 8 in einer scenischen Bemerkung. 
+;-----------------
+8156 old <p>{#acyutaprekSa#} m. N. pr. eines Lehrers <ls>M. MÜLLER,</ls> ²Ren. 360, N. 3. 
+8156 new <p>{#acyutaprekSa#} m. N. pr. eines Lehrers <ls>M. MÜLLER</ls>, ²Ren. 360, N. 3. 
+;-----------------
+8284 old <p>{#anAsedha = nirAtaGka#} <ls>VALL.</ls> zu <ls>S4IS4.</ls> 19, 44 nach ²<ls>HULTZSCH.</ls> 
+8284 new <p>{#anAsedha = nirAtaGka#} <ls>VALL.</ls> zu <ls>S4IS4.</ls> 19, 44 nach ²<ls>HULTZSCH</ls>. 
+;-----------------
+8360 old <p>{#abhyagra#} <ls>S4IS4.</ls> 19, 59 nach <ls>VALL.</ls> {%vorn befindlich%} und ²{%nahe bevorstehend%} (<ls>HULTZSCH).</ls> 
+8360 new <p>{#abhyagra#} <ls>S4IS4.</ls> 19, 59 nach <ls>VALL.</ls> {%vorn befindlich%} und ²{%nahe bevorstehend%} (<ls>HULTZSCH</ls>). 
+;-----------------
+8613 old <p>{#iyakS#} mit {#ava (ava -- iyakSva) = yaj#} mit {#ava#} <ls>A1PAST. [Page6-298-c]</ls> ²<ls>S4R.</ls> 14, 17, 1. Vgl. <ls>AV.</ls> 19, 3, 4. 
+8613 new <p>{#iyakS#} mit {#ava (ava -- iyakSva) = yaj#} mit {#ava#} <ls>A1PAST. [Page6-298-c]S4R.</ls> 14, 17, 1. Vgl. <ls>AV.</ls> 19, 3, 4. 
+;-----------------
+8662 old <p>{#ullalana#} Adj. {%schwärmend%} (Biene) <ls>S4IS4.</ls> 19, 84. ²v. l. {#ullalina#} nach <ls>HULTZSCH.</ls> 
+8662 new <p>{#ullalana#} Adj. {%schwärmend%} (Biene) <ls>S4IS4.</ls> 19, 84. ²v. l. {#ullalina#} nach <ls>HULTZSCH</ls>. 
+;-----------------
+8689 old <p>{#aupacAyika#} Adj. als Bez. {%eines best.%} {|S4ra1ddha,|} ²= {#puSTizrAddha#} <ls>MÜLLER,</ls> Ren. (<ls>CAPPELLER'S</ls> Uebers.) 326. 
+8689 new <p>{#aupacAyika#} Adj. als Bez. {%eines best.%} {|S4ra1ddha,|} ²= {#puSTizrAddha#} <ls>MÜLLER</ls>, Ren. (<ls>CAPPELLER'S</ls> Uebers.) 326. 
+;-----------------
+8733 old <p>{#karmAGgazrAddha#} n. {%ein best.%} {|S4ra1ddha|} <ls>M. MÜLLER,</ls> ²Ren. (<ls>CAPPELLER'S</ls> Uebers.) 326. 
+8733 new <p>{#karmAGgazrAddha#} n. {%ein best.%} {|S4ra1ddha|} <ls>M. MÜLLER</ls>, ²Ren. (<ls>CAPPELLER'S</ls> Uebers.) 326. 
+;-----------------
+8739 old <p>{#kalpazAla#} m. = {#kalpataru#} 1)<ls>J. A. O. S.</ls> 6, 505, ²S4l. 16. 
+8739 new <p>{#kalpazAla#} m. = {#kalpataru#} 1) <ls>J. A. O. S.</ls> 6, 505, ²S4l. 16. 
+;-----------------
+8743 old <p>{#kAkatuNDa#} 2) {%d%}) {%eine best. Stellung der rechten ²Hand beim Pfeilwurf%} <ls>S4A1RN3G. PADDH.,</ls> <ls>DHANURVEDA</ls> ²83. 88. 
+8743 new <p>{#kAkatuNDa#} 2) {%d%}) {%eine best. Stellung der rechten ²Hand beim Pfeilwurf%} <ls>S4A1RN3G. PADDH.</ls>, <ls>DHANURVEDA</ls> ²83. 88. 
+;-----------------
+8753 old <p>{#kAmyazrAddha#} n. {%ein best.%} {|S4ra1ddha|} <ls>M. MÜLLER,</ls> ²Ren. (<ls>CAPPELLER'S</ls> Uebers.) 325. 
+8753 new <p>{#kAmyazrAddha#} n. {%ein best.%} {|S4ra1ddha|} <ls>M. MÜLLER</ls>, ²Ren. (<ls>CAPPELLER'S</ls> Uebers.) 325. 
+;-----------------
+8834 old <p>{#gRdhrezvara#} m. N. pr. eines Gebirges <ls>M. MÜLLER.</ls> ²Ren. (<ls>CAPPELLER'S</ls> Uebers.) 326. 
+8834 new <p>{#gRdhrezvara#} m. N. pr. eines Gebirges <ls>M. MÜLLER</ls>, ²Ren. (<ls>CAPPELLER'S</ls> Uebers.) 326. 
+;-----------------
+8844 old <p>{#cakkalaka#} n. {%eine Verbindung von vier dem Sinne ²nach zusammengehörigen%} {|S4loka|} <ls>RA1JAT.</ls> 7, 193. ²<ls>VALL.</ls> zu <ls>S4IS4.</ls> 19, 29. <ls>JONARA1JA</ls> zu <ls>S4RI1KAN2T2HACARITA</ls> ²3, 50 (alle drei Belege nach <ls>S4A1RADA1-Hdschrr.).</ls> Mit-²theilung von <ls>HULTZSCH.</ls> Heisst sonst {#caturbhiH kula-²kam#}. 
+8844 new <p>{#cakkalaka#} n. {%eine Verbindung von vier dem Sinne ²nach zusammengehörigen%} {|S4loka|} <ls>RA1JAT.</ls> 7, 193. ²<ls>VALL.</ls> zu <ls>S4IS4.</ls> 19, 29. <ls>JONARA1JA</ls> zu <ls>S4RI1KAN2T2HACARITA</ls> ²3, 50 (alle drei Belege nach <ls>S4A1RADA1-Hdschrr.</ls>). Mit-²theilung von <ls>HULTZSCH</ls>. Heisst sonst {#caturbhiH kula-²kam#}. 
+;-----------------
+8856 old <p>{#cAturvedya#} n. (<ls>VASISHT2HA</ls> 3, 20) und {#cAturvedya#} n. ²(<ls>BAUDH.)</ls> auch {%ein Verein von vier%} {|Veda|}-{%Kennern.%} 
+8856 new <p>{#cAturvedya#} n. (<ls>VASISHT2HA</ls> 3, 20) und {#cAturvedya#} n. ²(<ls>BAUDH.</ls>) auch {%ein Verein von vier%} {|Veda|}-{%Kennern.%} 
+;-----------------
+8931 old <p>{#darpaN, ºNati#} {%einen Spiegel darstellen%} <ls>PISCHEL,</ls> ²De Gr. pr. 29. 
+8931 new <p>{#darpaN, ºNati#} {%einen Spiegel darstellen%} <ls>PISCHEL</ls>, ²De Gr. pr. 29. 
+;-----------------
+8960 old <p>{#daivazrAddha#} n. {%ein best.%} {|S4ra1ddha|} <ls>M. MÜLLER,</ls> Ren. ²(<ls>CAPPELLER'S</ls> Uebers.) 326. 
+8960 new <p>{#daivazrAddha#} n. {%ein best.%} {|S4ra1ddha|} <ls>M. MÜLLER</ls>, Ren. ²(<ls>CAPPELLER'S</ls> Uebers.) 326. 
+;-----------------
+9002 old <p>{#nityazrAddha#} n. {%ein best.%} {|S4ra1ddha|} <ls>M. MÜLLER,</ls> ²Ren. (<ls>CAPPELLER'S</ls> Uebers.) 325. 
+9002 new <p>{#nityazrAddha#} n. {%ein best.%} {|S4ra1ddha|} <ls>M. MÜLLER</ls>, ²Ren. (<ls>CAPPELLER'S</ls> Uebers.) 325. 
+;-----------------
+9005 old <p>{#nirmitsu#} Adj. mit Acc. {%zu schaffen wünschend%} ²<ls>SUBHA1SHITARATNABHA1N2D2A1GA1RA</ls> 344 nach <ls>AUFRECHT.</ls> 
+9005 new <p>{#nirmitsu#} Adj. mit Acc. {%zu schaffen wünschend%} ²<ls>SUBHA1SHITARATNABHA1N2D2A1GA1RA</ls> 344 nach <ls>AUFRECHT</ls>. 
+;-----------------
+9025 old <p>{#naimittikazrAddha#} n. {%ein best.%} {|S4ra1ddha|} <ls>M. MÜLLER,</ls> ²Ren. (<ls>CAPPELLER'S</ls> Uebers.) 325. 
+9025 new <p>{#naimittikazrAddha#} n. {%ein best.%} {|S4ra1ddha|} <ls>M. MÜLLER</ls>, ²Ren. (<ls>CAPPELLER'S</ls> Uebers.) 325. 
+;-----------------
+9061 old <p>{#pArvaNazrAddha#} n. {%ein best.%} {|S4ra1ddha|} <ls>M. MÜLLER,</ls> ²Ren. (<ls>CAPPELLER'S</ls> Uebers.) 325. 
+9061 new <p>{#pArvaNazrAddha#} n. {%ein best.%} {|S4ra1ddha|} <ls>M. MÜLLER</ls>, ²Ren. (<ls>CAPPELLER'S</ls> Uebers.) 325. 
+;-----------------
+9099 old <p>{#pratyupavezana#} n. = {#pratyupaveza#} <ls>R.</ls> 2, 111, 17 (120, 17 ²<ls>GORR.).</ls> 
+9099 new <p>{#pratyupavezana#} n. = {#pratyupaveza#} <ls>R.</ls> 2, 111, 17 (120, 17 ²<ls>GORR.</ls>). 
+;-----------------
+9105 old <p>{#pravighaTana#} n. {%das Zerschlagen%} <ls>MAHA1VI1RAC.</ls> (ed. ²Calc. 1857) 95 nach <ls>AUFRECHT.</ls> 
+9105 new <p>{#pravighaTana#} n. {%das Zerschlagen%} <ls>MAHA1VI1RAC.</ls> (ed. ²Calc. 1857) 95 nach <ls>AUFRECHT</ls>. 
+;-----------------
+9106 old <p>{#pravidalana#} n. {%das Zerschmettern%} ebend. 96 nach ²<ls>AUFRECHT.</ls> 
+9106 new <p>{#pravidalana#} n. {%das Zerschmettern%} ebend. 96 nach ²<ls>AUFRECHT</ls>. 
+;-----------------
+9127 old <p>{#babbula#} m. = {#babbUla#} <ls>SUBHA1SHITARATNABHA1N2D2A1GA1RA [Page6-304-b]</ls> ²328 nach <ls>AUFRECHT.</ls> 
+9127 new <p>{#babbula#} m. = {#babbUla#} <ls>SUBHA1SHITARATNABHA1N2D2A1GA1RA</ls> [Page6-304-b] ²328 nach <ls>AUFRECHT</ls>. 
+;-----------------
+9129 old <p>{#barbura#} m. dass. <ls>SUBHA1SHITARATNABHA1N2D2A1GA1RA</ls> 328 ²nach <ls>AUFRECHT.</ls> 
+9129 new <p>{#barbura#} m. dass. <ls>SUBHA1SHITARATNABHA1N2D2A1GA1RA</ls> 328 ²nach <ls>AUFRECHT</ls>. 
+;-----------------
+9161 old <p>{#brahmayUpa#} m. N. pr. einer Oertlichkeit <ls>M. MÜLLER,</ls> ²Ren. (<ls>CAPPELLER'S</ls> Uebers.) 326. 
+9161 new <p>{#brahmayUpa#} m. N. pr. einer Oertlichkeit <ls>M. MÜLLER</ls>, ²Ren. (<ls>CAPPELLER'S</ls> Uebers.) 326. 
+;-----------------
+9199 old <p>{#malanA = utpuMsanA#} <ls>VALL.</ls> zu <ls>S4IS4.</ls> 10, 110 nach ²<ls>HULTZSCH.</ls> 
+9199 new <p>{#malanA = utpuMsanA#} <ls>VALL.</ls> zu <ls>S4IS4.</ls> 10, 110 nach ²<ls>HULTZSCH</ls>. 
+;-----------------
+9217 old <p>{#mAyA#} f. (u. {#mAya#}) auch Bez. {%der Silbe%} {#hrIm#} <ls>SARVAD.</ls> ²171, 6 nach <ls>COWELL.</ls> 
+9217 new <p>{#mAyA#} f. (u. {#mAya#}) auch Bez. {%der Silbe%} {#hrIm#} <ls>SARVAD.</ls> ²171, 6 nach <ls>COWELL</ls>. 
+;-----------------
+9248 old <p>{#yAdavaprakAza#} m. N. pr. eines Lehrers <ls>M. MÜLLER,</ls> ²Ren. 360, N. 3. 
+9248 new <p>{#yAdavaprakAza#} m. N. pr. eines Lehrers <ls>M. MÜLLER</ls>, ²Ren. 360, N. 3. 
+;-----------------
+9259 old <p>{#ramA#} f. (u. {#rama#}) <ls>SARVAD.</ls> 171, 6 Bez. {%der Silbe%} {#zrIm#} ²nach <ls>COWELL.</ls> 
+9259 new <p>{#ramA#} f. (u. {#rama#}) <ls>SARVAD.</ls> 171, 6 Bez. {%der Silbe%} {#zrIm#} ²nach <ls>COWELL</ls>. 
+;-----------------
+9282 old <p>{#vaMzaka#} 2) {%a%}) <ls>SUBHA1SHITARATNABHA1N2D2A1GA1RA</ls> 27, 12 ²nach <ls>AUFRECHT.</ls> 
+9282 new <p>{#vaMzaka#} 2) {%a%}) <ls>SUBHA1SHITARATNABHA1N2D2A1GA1RA</ls> 27, 12 ²nach <ls>AUFRECHT</ls>. 
+;-----------------
+9319 old <p>{#vidAya#} 2) <ls>BRAHMAVAIV.</ls> <ls>P.</ls> 3, 17, 2. 31, 23 nach ²<ls>AUFRECHT.</ls> 
+9319 new <p>{#vidAya#} 2) <ls>BRAHMAVAIV.</ls> <ls>P.</ls> 3, 17, 2. 31, 23 nach ²<ls>AUFRECHT</ls>. 
+;-----------------
+10016 old <p>{#atikuJcita#} Adj. {%sehr kraus%} <ls>PAN5-²CA1S4IKA1</ls> (ed. <ls>SOLF)</ls> 44. 
+10016 new <p>{#atikuJcita#} Adj. {%sehr kraus%} <ls>PAN5-²CA1S4IKA1</ls> (ed. <ls>SOLF</ls>) 44. 
+;-----------------
+10140 old <p>{#atimanyu#} Adj. {%sehr wüthend%} <ls>MBH. [Page7-293-d]</ls> ²8, 22, 10. 
+10140 new <p>{#atimanyu#} Adj. {%sehr wüthend%} <ls>MBH.</ls> [Page7-293-d] ²8, 22, 10. 
+;-----------------
+10150 old <p>{#atimRdu#} Adj. {%überaus zart%} <ls>PAN5CA1-²S4IKA1</ls> (ed. <ls>SOLF)</ls> 24. 
+10150 new <p>{#atimRdu#} Adj. {%überaus zart%} <ls>PAN5CA1-²S4IKA1</ls> (ed. <ls>SOLF</ls>) 24. 
+;-----------------
+10202 old <p>{#ativizAla#} Adj. {%überaus umfang-²reich%} <ls>PAN5CA1S4IKA1</ls> (ed. <ls>SOLF)</ls> 14. 
+10202 new <p>{#ativizAla#} Adj. {%überaus umfang-²reich%} <ls>PAN5CA1S4IKA1</ls> (ed. <ls>SOLF</ls>) 14. 
+;-----------------
+10848 old <p>{#anavadanIya£#} und {#anavadAnI£ya#} (so ²zu betonen in <ls>MAITR. S.)</ls> I. 5. 
+10848 new <p>{#anavadanIya£#} und {#anavadAnI£ya#} (so ²zu betonen in <ls>MAITR. S.</ls>) I. 5. 
+;-----------------
+11579 old <p>{#apaci£t#} I. Vgl.<ls>J. A. O. S.</ls> 13, ²CCXVII. fgg. 
+11579 new <p>{#apaci£t#} I. Vgl. <ls>J. A. O. S.</ls> 13, ²CCXVII. fgg. 
+;-----------------
+12252 old <p>{#abhiSiJcana#} n. = {#abhiSecana#} (so ²<ls>SCHL.)</ls> 2) <ls>R.</ls> ed. Bomb. 2, 107, 9. 
+12252 new <p>{#abhiSiJcana#} n. = {#abhiSecana#} (so ²<ls>SCHL.</ls>) 2) <ls>R.</ls> ed. Bomb. 2, 107, 9. 
+;-----------------
+12763 old <p>{#ardhika#} I. 3. Auch <ls>M.</ls> (<ls>JOLLY)</ls> 4, 253. 
+12763 new <p>{#ardhika#} I. 3. Auch <ls>M.</ls> (<ls>JOLLY</ls>) 4, 253. 
+;-----------------
+12884 old <p>{#avagamana#} n. <ls>KAUS4.</ls> 16, 27 = {#anu-²rAga#} {%Ergebenheit%} nach <ls>DA1RILA.</ls> 
+12884 new <p>{#avagamana#} n. <ls>KAUS4.</ls> 16, 27 = {#anu-²rAga#} {%Ergebenheit%} nach <ls>DA1RILA</ls>. 
+;-----------------
+13428 old <p>{#aSTAvadhAnin#} Adj. {%der seine Auf-²merksamkeit auf acht Dinge zugleich ²richten kann%} <ls>SADDHA1NTACANDRODAYA [Page7-314-a]</ls> ²in <ls>TARKAK.</ls> Notes S. 34. 
+13428 new <p>{#aSTAvadhAnin#} Adj. {%der seine Auf-²merksamkeit auf acht Dinge zugleich ²richten kann%} <ls>SADDHA1NTACANDRODAYA</ls> [Page7-314-a] ²in <ls>TARKAK.</ls> Notes S. 34. 
+;-----------------
+13557 old <p>{#*asaMprakhyAna#} n. vielleicht {%Mangel ²an Einsicht%} <ls>MA-HA1VY.</ls> 127. 133. 
+13557 new <p>{#*asaMprakhyAna#} n. vielleicht {%Mangel ²an Einsicht%} <ls>MAHA1VY.</ls> 127. 133. 
+;-----------------
+14181 old <p>{#AmazrAddha#} I. ist {%ein%} {|S4r.|} {%mit unge-²kochten Speisen%} <ls>S4RA1DDHAMAYU1KHA [Page7-319-a]</ls> ²nach <ls>AUFRECHT.</ls> 
+14181 new <p>{#AmazrAddha#} I. ist {%ein%} {|S4r.|} {%mit unge-²kochten Speisen%} <ls>S4RA1DDHAMAYU1KHA</ls> [Page7-319-a] ²nach <ls>AUFRECHT</ls>. 
+;-----------------
+14455 old <p>{#Ahva#} I. <ls>KAUS4.</ls> 16, 14. m. = {#palAza#} ²nach <ls>DA1RILA.</ls> 
+14455 new <p>{#Ahva#} I. <ls>KAUS4.</ls> 16, 14. m. = {#palAza#} ²nach <ls>DA1RILA</ls>. 
+;-----------------
+14783 old <p>{#utpa£vana#} I. 2) <ls>S4AT. BR.</ls> 1, 3, 1, 12 viel-²leicht = {#udAna#} nach <ls>EGGELING.</ls> 
+14783 new <p>{#utpa£vana#} I. 2) <ls>S4AT. BR.</ls> 1, 3, 1, 12 viel-²leicht = {#udAna#} nach <ls>EGGELING</ls>. 
+;-----------------
+15196 old <p>{#uSNagata#} n. {%Begeisterung%} <ls>DIVYA1VAD. [Page7-326-b]</ls> ²80, 1. Vgl. {#USmagata#}. 
+15196 new <p>{#uSNagata#} n. {%Begeisterung%} <ls>DIVYA1VAD.</ls> [Page7-326-b] ²80, 1. Vgl. {#USmagata#}. 
+;-----------------
+15251 old <p>{#UlI#} f. {%Zwiebel%} <ls>CATURVIM3S4AYIMATA</ls> ²in <ls>PRA1YAS4CITTAMAYU1KHA</ls> nach <ls>AUF-²RECHT.</ls> 
+15251 new <p>{#UlI#} f. {%Zwiebel%} <ls>CATURVIM3S4AYIMATA</ls> ²in <ls>PRA1YAS4CITTAMAYU1KHA</ls> nach <ls>AUF-²RECHT</ls>. 
+;-----------------
+15288 old <p>{#RtebhaGga#} Adj. (f. {#A#}) {%ohne Trennung, ² -- Zerlegung%} <ls>GOBH.</ls> 1, 3, 17 Conj. von ²<ls>ROTH.</ls> 
+15288 new <p>{#RtebhaGga#} Adj. (f. {#A#}) {%ohne Trennung, ² -- Zerlegung%} <ls>GOBH.</ls> 1, 3, 17 Conj. von ²<ls>ROTH</ls>. 
+;-----------------
+15298 old <p>{#RSabha#} I. f. {#A#} {%ein Mädchen, welches ²in einer best. Beziehung Aehnlichkeit ²mit einem Stiere hat%}, <ls>A1PAST. GR2HY. [Page7-327-a]</ls> ²3, 11. Vgl. <ls>YA1DAVAPRAKA1S4A'S VAIJA-²YANTI1,</ls> <ls>BHU1MIKA1N2D2A,</ls> <ls>BRA1HMAN2A1DHYA1YA</ls> ²51: {#vRSabhA vRSalakSaNA#}. Soll auch in ²<ls>RAUDH. GR2HY.</ls> (in dessen unechtem ²Theil) vorkommen nach <ls>WINTERNITZ.</ls> 
+15298 new <p>{#RSabha#} I. f. {#A#} {%ein Mädchen, welches ²in einer best. Beziehung Aehnlichkeit ²mit einem Stiere hat%}, <ls>A1PAST. GR2HY.</ls> [Page7-327-a] ²3, 11. Vgl. <ls>YA1DAVAPRAKA1S4A'S VAIJA-²YANTI1</ls>, <ls>BHU1MIKA1N2D2A</ls>, <ls>BRA1HMAN2A1DHYA1YA</ls> ²51: {#vRSabhA vRSalakSaNA#}. Soll auch in ²<ls>RAUDH. GR2HY.</ls> (in dessen unechtem ²Theil) vorkommen nach <ls>WINTERNITZ</ls>. 
+;-----------------
+15673 old <p>{#kapiJjala#} II. 1) {%a%}) {#ºnyAyena#} (<ls>SA1Y.</ls> zu ²<ls>R2V.</ls> 3, 56, 5. <ls>SUD.</ls> zu <ls>A1PAST. GR2HY.</ls> 10, ²2. 3. <ls>KULL.</ls> zu <ls>M.</ls> 8, 105) {%nach Art der%} ²{|Kapin5jala|} und {#kapiJjalAdhikara-²NanyAyena#} (<ls>SHAD2GURUS4.</ls> in <ls>VEDA1RTHAD.</ls> ²72, 10) {%nach Art des%} {|Kap.|}-{%Abschnit-²tes%} (in der <ls>PU1RVAMI1MA1M3SA1)</ls> bedeuten ²so v. a. {%da schon drei eine Mehr-²zahl bilden.%} Im Opferritual heisst ²es nämlich: {#azvamedhe vasantAya kapi-²JjalAnAlabheta#}. Da das Tödten von ²lebenden Wesen soviel als möglich ²vermieden werden soll, hier aber ²eine Mehrzahl von Haselhühnern ²zu opfern vorgeschrieben wird, so ²wird, um beiden Vorschriften ge-²recht zu werden, {%drei%} (das Minimum ²der Mehrzahl) als Norm angesetzt. ²Vgl. <ls>VS.</ls> 24, 20. <ls>GAIM.</ls> 11, 1, 38. <ls>NYA1-²YAM.</ls> 11, 1, 9. Diese Erklärung des ²{|Nya1ya|} verdanke ich <ls>MACDONALD,</ls> der ²wiederum auf <ls>COWELL</ls> verweist. 
+15673 new <p>{#kapiJjala#} II. 1) {%a%}) {#ºnyAyena#} (<ls>SA1Y.</ls> zu ²<ls>R2V.</ls> 3, 56, 5. <ls>SUD.</ls> zu <ls>A1PAST. GR2HY.</ls> 10, ²2. 3. <ls>KULL.</ls> zu <ls>M.</ls> 8, 105) {%nach Art der%} ²{|Kapin5jala|} und {#kapiJjalAdhikara-²NanyAyena#} (<ls>SHAD2GURUS4.</ls> in <ls>VEDA1RTHAD.</ls> ²72, 10) {%nach Art des%} {|Kap.|}-{%Abschnit-²tes%} (in der <ls>PU1RVAMI1MA1M3SA1</ls>) bedeuten ²so v. a. {%da schon drei eine Mehr-²zahl bilden.%} Im Opferritual heisst ²es nämlich: {#azvamedhe vasantAya kapi-²JjalAnAlabheta#}. Da das Tödten von ²lebenden Wesen soviel als möglich ²vermieden werden soll, hier aber ²eine Mehrzahl von Haselhühnern ²zu opfern vorgeschrieben wird, so ²wird, um beiden Vorschriften ge-²recht zu werden, {%drei%} (das Minimum ²der Mehrzahl) als Norm angesetzt. ²Vgl. <ls>VS.</ls> 24, 20. <ls>GAIM.</ls> 11, 1, 38. <ls>NYA1-²YAM.</ls> 11, 1, 9. Diese Erklärung des ²{|Nya1ya|} verdanke ich <ls>MACDONALD</ls>, der ²wiederum auf <ls>COWELL</ls> verweist. 
+;-----------------
+16338 old <p>{#ketar#} m. {%eine best. Personification%} ²(als {|Agni|} erklärt) <ls>PA1R. GR2HY.</ls> 3, 4, 14. [Page7-334-c] ²{#ketA#} f. nach <ls>STENZLER.</ls> 
+16338 new <p>{#ketar#} m. {%eine best. Personification%} ²(als {|Agni|} erklärt) <ls>PA1R. GR2HY.</ls> 3, 4, 14. [Page7-334-c] ²{#ketA#} f. nach <ls>STENZLER</ls>. 
+;-----------------
+16444 old <p>{#krANA£#} und {#krANA£ya#} II. 6. Vgl. <ls>PI-²SCHEL,</ls> Vedische Studien 67. fgg. 
+16444 new <p>{#krANA£#} und {#krANA£ya#} II. 6. Vgl. <ls>PI-²SCHEL</ls>, Vedische Studien 67. fgg. 
+;-----------------
+16556 old <p>{#kSetrasA£dhas#} II. Vgl. <ls>PISCHEL,</ls> Vedi-²sche Studien 93. 
+16556 new <p>{#kSetrasA£dhas#} II. Vgl. <ls>PISCHEL</ls>, Vedi-²sche Studien 93. 
+;-----------------
+16724 old <p>{#gandharva#} II. Vgl. <ls>PISCHEL,</ls> Vedische ²Studien 77. fgg. 
+16724 new <p>{#gandharva#} II. Vgl. <ls>PISCHEL</ls>, Vedische ²Studien 77. fgg. 
+;-----------------
+16726 old <p>{#gandharvapratyupasthitA#} Adj. f. {%schwan-²ger geworden%} <ls>DIVYA1VAD.</ls> 1, 15. 440, ²13. Vgl. <ls>PISCHEL,</ls> Ved. St. 77. fgg. 
+16726 new <p>{#gandharvapratyupasthitA#} Adj. f. {%schwan-²ger geworden%} <ls>DIVYA1VAD.</ls> 1, 15. 440, ²13. Vgl. <ls>PISCHEL</ls>, Ved. St. 77. fgg. 
+;-----------------
+16754 old <p>{#garda#} und {#gardabha#} II. Vgl. <ls>PISCHEL,</ls> Ve-²dische Studien 82. fg. 
+16754 new <p>{#garda#} und {#gardabha#} II. Vgl. <ls>PISCHEL</ls>, Ve-²dische Studien 82. fg. 
+;-----------------
+16776 old <p>{#galdA#} II. Vgl. <ls>PISCHEL,</ls> Vedische ²Studien 83. fg. 
+16776 new <p>{#galdA#} II. Vgl. <ls>PISCHEL</ls>, Vedische ²Studien 83. fg. 
+;-----------------
+16787 old <p>{#gAjara#} {%Mohrrübe%} im <ls>BRAHMAP.</ls> nach ²<ls>AUFRECHT.</ls> 
+16787 new <p>{#gAjara#} {%Mohrrübe%} im <ls>BRAHMAP.</ls> nach ²<ls>AUFRECHT</ls>. 
+;-----------------
+16807 old <p>{#gAvaya#} 3. {#kuNapa#} n. <ls>PARA1S4ARASAM3HITA1</ls> ²11 nach <ls>AUFRECHT.</ls> 
+16807 new <p>{#gAvaya#} 3. {#kuNapa#} n. <ls>PARA1S4ARASAM3HITA1</ls> ²11 nach <ls>AUFRECHT</ls>. 
+;-----------------
+16903 old <p>{#go£agra#} II. Vgl. <ls>PISCHEL,</ls> Vedische ²Studien 51. 
+16903 new <p>{#go£agra#} II. Vgl. <ls>PISCHEL</ls>, Vedische ²Studien 51. 
+;-----------------
+17008 old <p>{#*gredha#} m. {%Gier, Begierde%} <ls>MAHA1VY. [Page7-339-d]</ls> ²245, 1145. Vgl. Pa1li {#gedha#}. 
+17008 new <p>{#*gredha#} m. {%Gier, Begierde%} <ls>MAHA1VY.</ls> [Page7-339-d] ²245, 1145. Vgl. Pa1li {#gedha#}. 
+;-----------------
+17163 old <p>{#candrA£gra#} II. Vgl. <ls>PISCHEL,</ls> Vedische ²Studien 51. fg. 
+17163 new <p>{#candrA£gra#} II. Vgl. <ls>PISCHEL</ls>, Vedische ²Studien 51. fg. 
+;-----------------
+17168 old <p>{#candrikAy, ºyate#} {%Mondschein dar-²stellen%} <ls>PRA1N2A1BHARAN2A</ls> 48 nach <ls>AUF-²RECHT.</ls> 
+17168 new <p>{#candrikAy, ºyate#} {%Mondschein dar-²stellen%} <ls>PRA1N2A1BHARAN2A</ls> 48 nach <ls>AUF-²RECHT</ls>. 
+;-----------------
+17224 old <p>{#cAndraka#} II. 2) <ls>VIJN5.</ls> zu <ls>YA1JN5.</ls> 3, ²290. fg. nach <ls>LEUMANN.</ls> 
+17224 new <p>{#cAndraka#} II. 2) <ls>VIJN5.</ls> zu <ls>YA1JN5.</ls> 3, ²290. fg. nach <ls>LEUMANN</ls>. 
+;-----------------
+17479 old <p>{#jahA£#} und {#ja£hAka#} II. Vgl. <ls>PISCHEL,</ls> ²Vedische Studien 63. 
+17479 new <p>{#jahA£#} und {#ja£hAka#} II. Vgl. <ls>PISCHEL</ls>, ²Vedische Studien 63. 
+;-----------------
+17489 old <p>{#jAtavidyA£#} II. 3. Vgl. <ls>PISCHEL,</ls> Ve-²dische Studien 95. 
+17489 new <p>{#jAtavidyA£#} II. 3. Vgl. <ls>PISCHEL</ls>, Ve-²dische Studien 95. 
+;-----------------
+17490 old <p>{#jAta£vedas#} II. 4. Vgl. <ls>PISCHEL,</ls> ebend. ²94. fg. 
+17490 new <p>{#jAta£vedas#} II. 4. Vgl. <ls>PISCHEL</ls>, ebend. ²94. fg. 
+;-----------------
+17498 old <p>{#jAmi£#} II. Vgl. <ls>PISCHEL,</ls> Vedische ²Studien 35. 
+17498 new <p>{#jAmi£#} II. Vgl. <ls>PISCHEL</ls>, Vedische ²Studien 35. 
+;-----------------
+17765 old <p>{#tArApajktaTikA#} f. {%eine best. dem%} ²{|S4am3kara|} {%zugeschriebene Hymne%} ²<ls>TANTRAS.</ls> nach <ls>LEUMANN.</ls> 
+17765 new <p>{#tArApajktaTikA#} f. {%eine best. dem%} ²{|S4am3kara|} {%zugeschriebene Hymne%} ²<ls>TANTRAS.</ls> nach <ls>LEUMANN</ls>. 
+;-----------------
+17845 old <p>{#tUryantI#} f. {%eine best. Pflanze%} <ls>A1PAST. [Page7-346-b]</ls> ²<ls>GR2HY.</ls> 14, 14. 
+17845 new <p>{#tUryantI#} f. {%eine best. Pflanze%} <ls>A1PAST.</ls> [Page7-346-b] ²<ls>GR2HY.</ls> 14, 14. 
+;-----------------
+17950 old <p>{#traipakSika#} Adj. {%drei Monatshälften ²während%} u. s. w. <ls>PRA1YAS4CITTAMAYU1KHA</ls> ²nach <ls>AUFRECHT.</ls> 
+17950 new <p>{#traipakSika#} Adj. {%drei Monatshälften ²während%} u. s. w. <ls>PRA1YAS4CITTAMAYU1KHA</ls> ²nach <ls>AUFRECHT</ls>. 
+;-----------------
+18011 old <p>{#dantapattrikA#} f. {%Ohrschmuck aus ²Elfenbein%} <ls>S4IS4.</ls> 1, 60. {%Kamm%} <ls>NI1LAK</ls> ²zu <ls>MBH.</ls> 1, 3, 157. 
+18011 new <p>{#dantapattrikA#} f. {%Ohrschmuck aus ²Elfenbein%} <ls>S4IS4.</ls> 1, 60. {%Kamm%} <ls>NI1LAK.</ls> ²zu <ls>MBH.</ls> 1, 3, 157. 
+;-----------------
+18216 old <p>{#dRSTahAni#} f. {%disparagement of ²sense-evidence%} (so <ls>HALL)</ls> <ls>SA1M3KHYAS.</ls> ²3, 74. 
+18216 new <p>{#dRSTahAni#} f. {%disparagement of ²sense-evidence%} (so <ls>HALL</ls>) <ls>SA1M3KHYAS.</ls> ²3, 74. 
+;-----------------
+18251 old <p>{#dezakapaTu#} n. {%Pilz%} <ls>KAUS4.</ls> 48, 10 nach ²<ls>DA1RILA.</ls> Vgl. {#paTu#} 3). 
+18251 new <p>{#dezakapaTu#} n. {%Pilz%} <ls>KAUS4.</ls> 48, 10 nach ²<ls>DA1RILA</ls>. Vgl. {#paTu#} 3). 
+;-----------------
+18293 old <p>{#dyotA#} f. <ls>A1PAST. GR2HY.</ls> 3, 11. <ls>BAUDH. ²GR2HY.</ls> <ls>PARIS4.</ls> Von den Commenta-²toren durch {%eine Schielende, Roth-²äugige%} oder {%Rothhaarige%} erklärt. ²Vgl. <ls>VAIJAYANTI1,</ls> <ls>BHU1MIK.,</ls> <ls>BRA1HMA-²N2A1DHY.</ls> 51. 
+18293 new <p>{#dyotA#} f. <ls>A1PAST. GR2HY.</ls> 3, 11. <ls>BAUDH. ²GR2HY.</ls> <ls>PARIS4.</ls> Von den Commenta-²toren durch {%eine Schielende, Roth-²äugige%} oder {%Rothhaarige%} erklärt. ²Vgl. <ls>VAIJAYANTI1</ls>, <ls>BHU1MIK.</ls>, <ls>BRA1HMA-²N2A1DHY.</ls> 51. 
+;-----------------
+18595 old <p>{#nA£nAdhI#} III. Vgl. <ls>PISCHEL,</ls> Vedische ²Studien 110. 
+18595 new <p>{#nA£nAdhI#} III. Vgl. <ls>PISCHEL</ls>, Vedische ²Studien 110. 
+;-----------------
+18882 old <p>{#nailakaNThi#} m. Patron. von {#nIla-²kaNTha#} <ls>KUN2D2A1RKA</ls> am Schluss nach ²<ls>AUFRECHT.</ls> 
+18882 new <p>{#nailakaNThi#} m. Patron. von {#nIla-²kaNTha#} <ls>KUN2D2A1RKA</ls> am Schluss nach ²<ls>AUFRECHT</ls>. 
+;-----------------
+18884 old <p>{#naivAsika#} III. {%wohnend%} <ls>MAHA1VY. [Page7-354-d]</ls> ²270, 32. <ls>DIVYA1VAD.</ls> 390, 4. 
+18884 new <p>{#naivAsika#} III. {%wohnend%} <ls>MAHA1VY.</ls> [Page7-354-d] ²270, 32. <ls>DIVYA1VAD.</ls> 390, 4. 
+;-----------------
+18944 old <p>{#pajra£#} IV. Vgl. <ls>PISCHEL,</ls> Ved. Stu-²dien 90. 
+18944 new <p>{#pajra£#} IV. Vgl. <ls>PISCHEL</ls>, Ved. Stu-²dien 90. 
+;-----------------
+19239 old <p>{#pAta#} IV. 5. 9) {%Knoten%} überh, nach ²<ls>JACOBI.</ls> 
+19239 new <p>{#pAta#} IV. 5. 9) {%Knoten%} überh, nach ²<ls>JACOBI</ls>. 
+;-----------------
+19323 old <p>{#piSTapepaNa#} n. {%das Mahlen von ²schon Gemahlenem%}, so v. a. {%das un-²nütze Wiederholen von etwas schon ²Gethanem.%} {#ºnyAya#} <ls>SUD.</ls> zu <ls>A1PAST. [Page7-358-c]</ls> ²<ls>GR2HY.</ls> 14, 9. 
+19323 new <p>{#piSTapepaNa#} n. {%das Mahlen von ²schon Gemahlenem%}, so v. a. {%das un-²nütze Wiederholen von etwas schon ²Gethanem.%} {#ºnyAya#} <ls>SUD.</ls> zu <ls>A1PAST.</ls> [Page7-358-c] ²<ls>GR2HY.</ls> 14, 9. 
+;-----------------
+19410 old <p>{#puSpAkSita#} und {#puSpAkSodaka#} häufig ²in der <ls>PADDH.</ls> zu <ls>KAUS4.</ls> nach <ls>BLOOM-²FIELD.</ls> [Page7-359-b] 
+19410 new <p>{#puSpAkSita#} und {#puSpAkSodaka#} häufig ²in der <ls>PADDH.</ls> zu <ls>KAUS4.</ls> nach <ls>BLOOM-²FIELD</ls>. [Page7-359-b] 
+;-----------------
+19445 old <p>{#pRkSa£, pRkSa£prayaj#} und {#pRkSa£yAma#} IV. Vgl. ²<ls>PISCHEL,</ls> Ved. Studien 95. fgg. 
+19445 new <p>{#pRkSa£, pRkSa£prayaj#} und {#pRkSa£yAma#} IV. Vgl. ²<ls>PISCHEL</ls>, Ved. Studien 95. fgg. 
+;-----------------
+19468 old <p>{#peru#} IV. Vgl. <ls>PISCHEL,</ls> Ved. Studien [Page7-359-d] ²81. fgg. 
+19468 new <p>{#peru#} IV. Vgl. <ls>PISCHEL</ls>, Ved. Studien [Page7-359-d] ²81. fgg. 
+;-----------------
+19514 old <p>{#prach#} IV. <ls>MA1LAV.</ls> 40 (ed. <ls>BOLL.)</ls> {#pR-²cchate va#} fehlerhaft für {#pRcchateva#} (mit ²{#mAdhavena#} zu verbinden). 
+19514 new <p>{#prach#} IV. <ls>MA1LAV.</ls> 40 (ed. <ls>BOLL.</ls>) {#pR-²cchate va#} fehlerhaft für {#pRcchateva#} (mit ²{#mAdhavena#} zu verbinden). 
+;-----------------
+19613 old <p>{#pratisUryam#} Adv. {%gegen die Sonne%} ²M. (<ls>JOLLY)</ls> 4, 52. 
+19613 new <p>{#pratisUryam#} Adv. {%gegen die Sonne%} ²M. (<ls>JOLLY</ls>) 4, 52. 
+;-----------------
+19767 old <p>{#prahaNana#} IV. {#prahaNanaM kAmazAstrapra-²siddhaM jaghanadvayatADanam#} <ls>KA1VYAPRAKA1S4A-²NIDARS4ANA</ls> 140, {%a%} nach <ls>PISCHEL.</ls> 
+19767 new <p>{#prahaNana#} IV. {#prahaNanaM kAmazAstrapra-²siddhaM jaghanadvayatADanam#} <ls>KA1VYAPRAKA1S4A-²NIDARS4ANA</ls> 140, {%a%} nach <ls>PISCHEL</ls>. 
+;-----------------
+20120 old <p>1. {#bhid#} mit {#antar#} IV. 5. -- Mit {#ava#} ²IV. {#ºbhinna#} {%verwundet%} <ls>JA1TAKAM.</ls> 24, 23. ² -- Mit {#upapra#} IV. Vgl. <ls>PISCHEL,</ls> Ve-²dische Studien 72. 
+20120 new <p>1. {#bhid#} mit {#antar#} IV. 5. -- Mit {#ava#} ²IV. {#ºbhinna#} {%verwundet%} <ls>JA1TAKAM.</ls> 24, 23. ² -- Mit {#upapra#} IV. Vgl. <ls>PISCHEL</ls>, Ve-²dische Studien 72. 
+;-----------------
+20223 old <p>{#maTUSikA, maDUSikA#} oder {#maNDUSikA#} ²f. <ls>A1PAST. GR2HY.</ls> 3, 11. <ls>BAUDH. GR2HY.</ls> ²<ls>PARIS4.</ls> auf verschiedene Weise er-²klärt. Vgl. {#nadhUSikA = svalpadehA#} ²<ls>VAIJAYANTI1,</ls> <ls>BHU1MIK.,</ls> <ls>BRA1HMAN2A1DHY.</ls> 51. 
+20223 new <p>{#maTUSikA, maDUSikA#} oder {#maNDUSikA#} ²f. <ls>A1PAST. GR2HY.</ls> 3, 11. <ls>BAUDH. GR2HY.</ls> ²<ls>PARIS4.</ls> auf verschiedene Weise er-²klärt. Vgl. {#nadhUSikA = svalpadehA#} ²<ls>VAIJAYANTI1</ls>, <ls>BHU1MIK.</ls>, <ls>BRA1HMAN2A1DHY.</ls> 51. 
+;-----------------
+20334 old <p>{#ma_ryA_s#} als Partikel = {#eva#} <ls>PISCHEL,</ls> ²Studien 61. fgg. <ls>MAITR. S.</ls> 3, 9, 3 (134, ²2). 4, 8, 2 (109, 4) nach der richtigen ²Lesart {#bahu¹rmaryA#}. 
+20334 new <p>{#ma_ryA_s#} als Partikel = {#eva#} <ls>PISCHEL</ls>, ²Studien 61. fgg. <ls>MAITR. S.</ls> 3, 9, 3 (134, ²2). 4, 8, 2 (109, 4) nach der richtigen ²Lesart {#bahu¹rmaryA#}. 
+;-----------------
+20535 old <p>{#medhayu£#} V. Vgl. <ls>PISCHEL,</ls> Vedische ²Studien 103. 
+20535 new <p>{#medhayu£#} V. Vgl. <ls>PISCHEL</ls>, Vedische ²Studien 103. 
+;-----------------
+20638 old <p>{#yA£mazruta#} und {#yAmahU£#} V. Vgl. <ls>PI-²SCHEL,</ls> Vedische Studien 98. 
+20638 new <p>{#yA£mazruta#} und {#yAmahU£#} V. Vgl. <ls>PI-²SCHEL</ls>, Vedische Studien 98. 
+;-----------------
+20667 old <p>{#ra£Mhi#} V. Vgl. <ls>PISCHEL,</ls> Vedische Stu-²dien 106. 
+20667 new <p>{#ra£Mhi#} V. Vgl. <ls>PISCHEL</ls>, Vedische Stu-²dien 106. 
+;-----------------
+20682 old <p>{#rajastu£r#} V. Vgl. <ls>PISCHEL,</ls> Vedische ²Studien 123. 
+20682 new <p>{#rajastu£r#} V. Vgl. <ls>PISCHEL</ls>, Vedische ²Studien 123. 
+;-----------------
+20699 old <p>{#rathatu£r#} V. Vgl. <ls>PISCHEL,</ls> Vedische ²Studien 123. fg. 
+20699 new <p>{#rathatu£r#} V. Vgl. <ls>PISCHEL</ls>, Vedische ²Studien 123. fg. 
+;-----------------
+20710 old <p>{#radhra£#} und {#ºtu£r#} V. Vgl. <ls>PISCHEL,</ls> Ve-²dische Studien 124. fgg. 
+20710 new <p>{#radhra£#} und {#ºtu£r#} V. Vgl. <ls>PISCHEL</ls>, Ve-²dische Studien 124. fgg. 
+;-----------------
+20737 old <p>{#rAtA#} Adj. f. <ls>A1PAST. GR2HY.</ls> 3, 11 auf ²verschiedene Weise gedeutet. = {#vi-²hAriNI#} <ls>VAIJAYANTI1,</ls> <ls>BHU1MIK.,</ls> <ls>BRA1-²HMAN2A1DHY.</ls> 52 nach <ls>WINTERNITZ.</ls> 
+20737 new <p>{#rAtA#} Adj. f. <ls>A1PAST. GR2HY.</ls> 3, 11 auf ²verschiedene Weise gedeutet. = {#vi-²hAriNI#} <ls>VAIJAYANTI1</ls>, <ls>BHU1MIK.</ls>, <ls>BRA1-²HMAN2A1DHY.</ls> 52 nach <ls>WINTERNITZ</ls>. 
+;-----------------
+20751 old <p>1. {#ri, rINa#} V. {%bekümmert, traurig%} ²<ls>DHARMAS4ARM.</ls> 8, 8. -- Mit {#ni#} V. Vgl. ²<ls>GELDNER,</ls> Vedische Studien 117. 
+20751 new <p>1. {#ri, rINa#} V. {%bekümmert, traurig%} ²<ls>DHARMAS4ARM.</ls> 8, 8. -- Mit {#ni#} V. Vgl. ²<ls>GELDNER</ls>, Vedische Studien 117. 
+;-----------------
+20768 old <p>{#rudra#} und {#rudra£vartani#} V. Vgl. <ls>PISCHEL,</ls> ²Vedische Studien 55. fgg. {#rudra#} 3) {%a%}) ²<ls>DAMAYANTI1K.</ls> 84. 
+20768 new <p>{#rudra#} und {#rudra£vartani#} V. Vgl. <ls>PISCHEL</ls>, ²Vedische Studien 55. fgg. {#rudra#} 3) {%a%}) ²<ls>DAMAYANTI1K.</ls> 84. 
+;-----------------
+20834 old <p>{#lipika#} m. {%Schreiber%} <ls>DIVYA1VAD. [Page7-372-a]</ls> ²293, 5. 
+20834 new <p>{#lipika#} m. {%Schreiber%} <ls>DIVYA1VAD.</ls> [Page7-372-a] ²293, 5. 
+;-----------------
+20865 old <p>1. {#va#} V. Scheinbar <ls>MA1LAV.</ls> (ed. <ls>BOLL.)</ls> ²40, da hier {#pRcchateva#} zu verbinden ist. 
+20865 new <p>1. {#va#} V. Scheinbar <ls>MA1LAV.</ls> (ed. <ls>BOLL.</ls>) ²40, da hier {#pRcchateva#} zu verbinden ist. 
+;-----------------
+20873 old <p>{#vaGgerikA#} f. {%Körbchen%} <ls>DAS4AK.</ls> (1883) ²66, 16. Vgl. die v. l. zu 70, 17 bei ²<ls>BÜHLER.</ls> 
+20873 new <p>{#vaGgerikA#} f. {%Körbchen%} <ls>DAS4AK.</ls> (1883) ²66, 16. Vgl. die v. l. zu 70, 17 bei ²<ls>BÜHLER</ls>. 
+;-----------------
+20887 old <p>{#va£na#} VI. Vgl. <ls>GELDNER,</ls> Vedische ²Studien 114. 
+20887 new <p>{#va£na#} VI. Vgl. <ls>GELDNER</ls>, Vedische ²Studien 114. 
+;-----------------
+20892 old <p>{#vanAza#} Adj. {%von Wasser lebend%} ²(nach <ls>NI1LAK.)</ls> <ls>MBH.</ls> 13, 14, 124. 
+20892 new <p>{#vanAza#} Adj. {%von Wasser lebend%} ²(nach <ls>NI1LAK.</ls>) <ls>MBH.</ls> 13, 14, 124. 
+;-----------------
+20928 old <p>{#varSakArI#} Adj. f. <ls>A1PAST. GR2HY.</ls> 3, 11. ²<ls>BAUDH. GR2HY.</ls> <ls>PARIS4.</ls> verschiedentlich ²erklärt = {#sravatpANipAdA#} <ls>VAIJAYANTI1,</ls> ²<ls>BHU1MIK.,</ls> <ls>BRA1HMAN2A1DHY.</ls> 52 nach <ls>WIN-²TERNITZ.</ls> 
+20928 new <p>{#varSakArI#} Adj. f. <ls>A1PAST. GR2HY.</ls> 3, 11. ²<ls>BAUDH. GR2HY.</ls> <ls>PARIS4.</ls> verschiedentlich ²erklärt = {#sravatpANipAdA#} <ls>VAIJAYANTI1</ls>, ²<ls>BHU1MIK.</ls>, <ls>BRA1HMAN2A1DHY.</ls> 52 nach <ls>WIN-²TERNITZ</ls>. 
+;-----------------
+20951 old <p>5. {#vas#} VI. Aor. {#avAksam#} (so alle [Page7-373-b] ²Hdschrr. nach <ls>AUFRECHT)</ls> <ls>AIT. BR.</ls> 1, ²28, 16 im Wortspiel mit {#vAk#} st. {#a-²vAtsam#} (so <ls>HAUG).</ls> 2) mit Acc. des ²Weibes <ls>MBH.</ls> 13, 4. 10. -- Mit {#vi#} VI. 6. 
+20951 new <p>5. {#vas#} VI. Aor. {#avAksam#} (so alle [Page7-373-b] ²Hdschrr. nach <ls>AUFRECHT</ls>) <ls>AIT. BR.</ls> 1, ²28, 16 im Wortspiel mit {#vAk#} st. {#a-²vAtsam#} (so <ls>HAUG</ls>). 2) mit Acc. des ²Weibes <ls>MBH.</ls> 13, 4. 10. -- Mit {#vi#} VI. 6. 
+;-----------------
+20952 old <p>{#vasati£#} VI. Vgl. <ls>PISCHEL,</ls> Vedische ²Studien 49. 
+20952 new <p>{#vasati£#} VI. Vgl. <ls>PISCHEL</ls>, Vedische ²Studien 49. 
+;-----------------
+20971 old <p>{#vAja£#} VI. Vgl. <ls>PISCHEL,</ls> Vedische ²Studien 45. fgg. 
+20971 new <p>{#vAja£#} VI. Vgl. <ls>PISCHEL</ls>, Vedische ²Studien 45. fgg. 
+;-----------------
+20973 old <p>{#vAji£nIvant#} VI. Vgl. <ls>PISCHEL,</ls> Ve-²dische Studien 9. fgg. 
+20973 new <p>{#vAji£nIvant#} VI. Vgl. <ls>PISCHEL</ls>, Ve-²dische Studien 9. fgg. 
+;-----------------
+20996 old <p>1. {#vAraNa£#} VI. Vgl. <ls>PISCHEL,</ls> Vedische ²Studien 100. fgg. 
+20996 new <p>1. {#vAraNa£#} VI. Vgl. <ls>PISCHEL</ls>, Vedische ²Studien 100. fgg. 
+;-----------------
+21009 old <p>{#vArSmaNa#} VI. <ls>KAUS4</ls> 23, 7 vielleicht {%ein ²in der Krone%} (vom Blitz) {%getroffener ²Baum.%} 
+21009 new <p>{#vArSmaNa#} VI. <ls>KAUS4.</ls> 23, 7 vielleicht {%ein ²in der Krone%} (vom Blitz) {%getroffener ²Baum.%} 
+;-----------------
+21019 old <p>{#vikaTa#} VI. Adj. f. <ls>A1PAST. GR2HY.</ls> 3, 11. ²<ls>BAUDH. GR2HY.</ls> <ls>PARIS4.</ls> = {#vikaTajaGghA#} ²oder {#vistIrNajaGghA#} Comm. = {#vi-²stIrNajAnu#} <ls>VAIJAY.,</ls> <ls>BHU1MIK.,</ls> <ls>BRA1HMA-²N2A1DHY.</ls> 47 nach <ls>WINTERNITZ.</ls> 
+21019 new <p>{#vikaTa#} VI. Adj. f. <ls>A1PAST. GR2HY.</ls> 3, 11. ²<ls>BAUDH. GR2HY.</ls> <ls>PARIS4.</ls> = {#vikaTajaGghA#} ²oder {#vistIrNajaGghA#} Comm. = {#vi-²stIrNajAnu#} <ls>VAIJAY.</ls>, <ls>BHU1MIK.</ls>, <ls>BRA1HMA-²N2A1DHY.</ls> 47 nach <ls>WINTERNITZ</ls>. 
+;-----------------
+21027 old <p>{#vikurvita#} VI. n. Sg. <ls>DIVYA1VAD. [Page7-374-a]</ls> ²269, 7. 
+21027 new <p>{#vikurvita#} VI. n. Sg. <ls>DIVYA1VAD.</ls> [Page7-374-a] ²269, 7. 
+;-----------------
+21178 old <p>{#vi£vAc#} VI. Vgl. <ls>PISCHEL,</ls> Vedische ²Studien 34. fgg. 
+21178 new <p>{#vi£vAc#} VI. Vgl. <ls>PISCHEL</ls>, Vedische ²Studien 34. fgg. 
+;-----------------
+21248 old <p>{#vR£thA#} VI. Vgl. <ls>GELDNER,</ls> Vedische ²Studien 115. fgg. 
+21248 new <p>{#vR£thA#} VI. Vgl. <ls>GELDNER</ls>, Vedische ²Studien 115. fgg. 
+;-----------------
+21340 old <p>{#vratasamAyana#} (d. i. {#ºsamApana#}) n. Bez. ²{%der Ceremonie%} {|Sama1vartana|} <ls>DAS4A²K.</ls> nach <ls>BLOOMFIELD.</ls> 
+21340 new <p>{#vratasamAyana#} (d. i. {#ºsamApana#}) n. Bez. ²{%der Ceremonie%} {|Sama1vartana|} <ls>DAS4A²K.</ls> nach <ls>BLOOMFIELD</ls>. 
+;-----------------
+21387 old <p>{#zarabhA#} Adj. f. <ls>A1PAST. GR2HY.</ls> 3, 11. ²<ls>BAUDH. GR2HY.</ls> <ls>PARIS4.</ls> verschiedentlich ²gedeutet. {#sarabhA = vizIrNAGgI#} <ls>VAI-²JAY.,</ls> <ls>BHU1MIK.</ls> <ls>BRA1HMAN2A1DHY.</ls> 51 nach ²<ls>WINTERNITZ.</ls> 
+21387 new <p>{#zarabhA#} Adj. f. <ls>A1PAST. GR2HY.</ls> 3, 11. ²<ls>BAUDH. GR2HY.</ls> <ls>PARIS4.</ls> verschiedentlich ²gedeutet. {#sarabhA = vizIrNAGgI#} <ls>VAI-²JAY.</ls>, <ls>BHU1MIK.</ls> <ls>BRA1HMAN2A1DHY.</ls> 51 nach ²<ls>WINTERNITZ</ls>. 
+;-----------------
+21395 old <p>{#za£ryA#} VI. Vgl. <ls>PISCHEL,</ls> Vedische ²Studien 106. 
+21395 new <p>{#za£ryA#} VI. Vgl. <ls>PISCHEL</ls>, Vedische ²Studien 106. 
+;-----------------
+21462 old <p>{#zuru£dh#} VI. Vgl. <ls>PISCHEL,</ls> Vedische ²Studien 32. fgg. 50. fgg. 
+21462 new <p>{#zuru£dh#} VI. Vgl. <ls>PISCHEL</ls>, Vedische ²Studien 32. fgg. 50. fgg. 
+;-----------------
+21501 old <p>{#zrI#} f. VI. Vgl. <ls>PISCHEL,</ls> Vedische ²Studien 53. fgg. 
+21501 new <p>{#zrI#} f. VI. Vgl. <ls>PISCHEL</ls>, Vedische ²Studien 53. fgg. 
+;-----------------
+21526 old <p>{#SaTprajJa#} VI. {#SaTprajJAH prAtivezmikAH ²sahRdayA ucyante#} <ls>ABHINAVAGUPTA</ls> zu ²<ls>DHVANYA1LOKA</ls> 303, {%a%} nach <ls>PISCHEL.</ls> 
+21526 new <p>{#SaTprajJa#} VI. {#SaTprajJAH prAtivezmikAH ²sahRdayA ucyante#} <ls>ABHINAVAGUPTA</ls> zu ²<ls>DHVANYA1LOKA</ls> 303, {%a%} nach <ls>PISCHEL</ls>. 
+;-----------------
+21626 old <p>{#sadrUpatva#} n. {%Realität%} <ls>SA1M3KHYAPR. [Page7-380-b]</ls> ²61, 10. 
+21626 new <p>{#sadrUpatva#} n. {%Realität%} <ls>SA1M3KHYAPR.</ls> [Page7-380-b] ²61, 10. 
+;-----------------
+21782 old <p>{#sallaya£#} <ls>S4AT. BR.</ls> 14, 7, 1, 19 (auch ²<ls>BR2H. A1R.</ls> <ls>UP.)</ls> ungewöhnliche Assi-²milation für {#saMlaya#}. 
+21782 new <p>{#sallaya£#} <ls>S4AT. BR.</ls> 14, 7, 1, 19 (auch ²<ls>BR2H. A1R.</ls> <ls>UP.</ls>) ungewöhnliche Assi-²milation für {#saMlaya#}. 
+;-----------------
+21811 old <p>{#sAgarAy, ºyate#} {%das Meer darstel-²len%} <ls>PRA1N2A1BHARAN2A</ls> 48 nach <ls>AUFRECHT.</ls> 
+21811 new <p>{#sAgarAy, ºyate#} {%das Meer darstel-²len%} <ls>PRA1N2A1BHARAN2A</ls> 48 nach <ls>AUFRECHT</ls>. 
+;-----------------
+21813 old <p>{#*sAMkAzikA#} Adj. f. = {#pitrAdigR-²heSvagnyAdidAyinI#} <ls>VAIJAYANTI1,</ls> <ls>BHU1-²MIK.,</ls> <ls>BRA1HMAN2A1DHY.</ls> 52 nach <ls>WINTER-²NITZ.</ls> 
+21813 new <p>{#*sAMkAzikA#} Adj. f. = {#pitrAdigR-²heSvagnyAdidAyinI#} <ls>VAIJAYANTI1</ls>, <ls>BHU1-²MIK.</ls>, <ls>BRA1HMAN2A1DHY.</ls> 52 nach <ls>WINTER-²NITZ</ls>. 
+;-----------------
+21819 old <p>2. {#sAdhanI#} VII. Mit {#kar#} {%als Mittel zu%} ²(Loc.) {%verwenden%} <ls>JA1TAKAM,</ls> 24, 12. 
+21819 new <p>2. {#sAdhanI#} VII. Mit {#kar#} {%als Mittel zu%} ²(Loc.) {%verwenden%} <ls>JA1TAKAM.</ls> 24, 12. 
+;-----------------
+21833 old <p>{#sAmAtyaka#} Adj. = {#sAmAtya#} 2) <ls>R. [Page7-382-d]</ls> ²ed. Bomb. 4, 60, 16. 
+21833 new <p>{#sAmAtyaka#} Adj. = {#sAmAtya#} 2) <ls>R.</ls> [Page7-382-d] ²ed. Bomb. 4, 60, 16. 
+;-----------------
+21858 old <p>{#sIra#} VII. 2) {%c%}) <ls>PRA1YAS4CITTAMAYU1KHA</ls> ²nach <ls>AUFRECHT.</ls> 
+21858 new <p>{#sIra#} VII. 2) {%c%}) <ls>PRA1YAS4CITTAMAYU1KHA</ls> ²nach <ls>AUFRECHT</ls>. 
+;-----------------
+21915 old <p>{#sU£da#} VII. Vgl. <ls>PISCHEL,</ls> Vedische ²Studien 72. fgg. 
+21915 new <p>{#sU£da#} VII. Vgl. <ls>PISCHEL</ls>, Vedische ²Studien 72. fgg. 
+;-----------------
+21927 old <p>{#saupratIka#} Adj. {%von einem Elephan-²ten.%} {#kuNapa#} n. <ls>PARA1S4ARASAM3HITA1</ls> 11 ²nach <ls>AUFRECHT.</ls> 
+21927 new <p>{#saupratIka#} Adj. {%von einem Elephan-²ten.%} {#kuNapa#} n. <ls>PARA1S4ARASAM3HITA1</ls> 11 ²nach <ls>AUFRECHT</ls>. 
+;-----------------
+21932 old <p>{#skanda#} Adj. {%eine Samenergiessung ²habend%} <ls>S4U1LAP. PRA1YAS4C.</ls> nach <ls>AUF-²RECHT.</ls> 
+21932 new <p>{#skanda#} Adj. {%eine Samenergiessung ²habend%} <ls>S4U1LAP. PRA1YAS4C.</ls> nach <ls>AUF-²RECHT</ls>. 
+;-----------------
+21935 old <p>{#stanaMdha#} Adj. = {#stanaMdhaya#} <ls>BRAHMAV. ²P.</ls> 2, 36, 66 nach <ls>AUFRECHT.</ls> 
+21935 new <p>{#stanaMdha#} Adj. = {#stanaMdhaya#} <ls>BRAHMAV. ²P.</ls> 2, 36, 66 nach <ls>AUFRECHT</ls>. 
+;-----------------
+21940 old <p>1. {#stava#} VII. {#stavAni vividhAni#} ²<ls>MATSYA-P.</ls> 17, 28 (37). 
+21940 new <p>1. {#stava#} VII. {#stavAni vividhAni#} ²<ls>MATSYAP.</ls> 17, 28 (37). 
+;-----------------
+21946 old <p>{#sthalavetasa#} m. {%Calamus Rotang%} ²<ls>MALLIN.</ls> zu <ls>MEGH.</ls> 14 nach <ls>AUFRECHT.</ls> 
+21946 new <p>{#sthalavetasa#} m. {%Calamus Rotang%} ²<ls>MALLIN.</ls> zu <ls>MEGH.</ls> 14 nach <ls>AUFRECHT</ls>. 
+;-----------------
+21948 old <p>{#sthavirAy, ºyate#} {%altern%} (vor der ²Zeit) <ls>BHA1VAPR.</ls> 46, {%a%} nach <ls>AUFRECHT.</ls> 
+21948 new <p>{#sthavirAy, ºyate#} {%altern%} (vor der ²Zeit) <ls>BHA1VAPR.</ls> 46, {%a%} nach <ls>AUFRECHT</ls>. 
+;-----------------
+21988 old <p>{#hatottara#} Adj. {%die Antwort schul-²dig bleibend%} <ls>VAKROKTIPAN5CA1S4IKA1</ls> 27 ²nach <ls>AUFRECHT.</ls> 
+21988 new <p>{#hatottara#} Adj. {%die Antwort schul-²dig bleibend%} <ls>VAKROKTIPAN5CA1S4IKA1</ls> 27 ²nach <ls>AUFRECHT</ls>. 
+;-----------------
+21992 old <p>{#haray, ºyati#} {%als Löwe auftreten%} ²<ls>PRA1N2A1BHARAN2A</ls> 49 nach <ls>AUFRECHT.</ls> 
+21992 new <p>{#haray, ºyati#} {%als Löwe auftreten%} ²<ls>PRA1N2A1BHARAN2A</ls> 49 nach <ls>AUFRECHT</ls>. 
+;-----------------
+21997 old <p>{#hala#} VII. n. {%knochen%} und {%Pflug%} <ls>VA-²KROKTIPAN5CA1S4IKA1</ls> 39 nach <ls>AUFRECHT.</ls> 
+21997 new <p>{#hala#} VII. n. {%knochen%} und {%Pflug%} <ls>VA-²KROKTIPAN5CA1S4IKA1</ls> 39 nach <ls>AUFRECHT</ls>. 
+;-----------------
+22001 old <p>{#hasanA£, haskarta£r#} und {#ha£skRta#} VII. ²Vgl. <ls>PISCHEL,</ls> Vedische Studien 111. fg. 
+22001 new <p>{#hasanA£, haskarta£r#} und {#ha£skRta#} VII. ²Vgl. <ls>PISCHEL</ls>, Vedische Studien 111. fg. 
+;-----------------
+22011 old <p>{#himAy, ºyate#} {%Schnee darstellen%} ²<ls>PRA1N2A1BHARAN2A</ls> 48 nach <ls>AUFRECHT.</ls> 
+22011 new <p>{#himAy, ºyate#} {%Schnee darstellen%} ²<ls>PRA1N2A1BHARAN2A</ls> 48 nach <ls>AUFRECHT</ls>. 
+;-----------------
+22019 old <p>{#heS#} und {#he£Sasvant#} VII. Vgl. <ls>PI-²SCHEL,</ls> Vedische Studien 45. fgg. 
+22019 new <p>{#heS#} und {#he£Sasvant#} VII. Vgl. <ls>PI-²SCHEL</ls>, Vedische Studien 45. fgg. 
+;-----------------
+22021 old <H>Schluss der [= Allerletzte <ls>TM] Nachträge. [8] 
+22021 new <H>Schluss der [= Allerletzte TM] Nachträge. [8] 
+;-----------------
+22060 old <p>{#atharI£#} I. Vgl. <ls>PISCHEL,</ls> Vedische ²Studien 99. fgg. 
+22060 new <p>{#atharI£#} I. Vgl. <ls>PISCHEL</ls>, Vedische ²Studien 99. fgg. 
+;-----------------
+22113 old <p>{#andhakAntaka#} m. Bein. {|S4iva's|} <ls>KIR. [Page7-385-d]</ls> ²12, 33. 
+22113 new <p>{#andhakAntaka#} m. Bein. {|S4iva's|} <ls>KIR.</ls> [Page7-385-d] ²12, 33. 
+;-----------------
+22136 old <p>{#aptu£r#} und {#aptU£rya#} I. Vgl. <ls>PISCHEL,</ls> ²Vedische Studien 122. fgg. 
+22136 new <p>{#aptu£r#} und {#aptU£rya#} I. Vgl. <ls>PISCHEL</ls>, ²Vedische Studien 122. fgg. 
+;-----------------
+22140 old <p>{#abdaparyaya#} m. {%Jahreswechsel%} <ls>M. [Page7-386-a]</ls> ²11, 27. 
+22140 new <p>{#abdaparyaya#} m. {%Jahreswechsel%} <ls>M.</ls> [Page7-386-a] ²11, 27. 
+;-----------------
+22170 old <p>{#a£radhra#} I. Vgl. <ls>PISCHEL,</ls> Vedische Stu-²dien 125. 
+22170 new <p>{#a£radhra#} I. Vgl. <ls>PISCHEL</ls>, Vedische Stu-²dien 125. 
+;-----------------
+22229 old <p>2. {#iSukR£t#} I. Vgl. <ls>PISCHEL,</ls> Vedische ²Studien 17. fg. 
+22229 new <p>2. {#iSukR£t#} I. Vgl. <ls>PISCHEL</ls>, Vedische ²Studien 17. fg. 
+;-----------------
+22250 old <p>{#upalaprakSi£n#} I. Vgl. <ls>PISCHEL,</ls> Ve-²dische Studien 108. fgg. 
+22250 new <p>{#upalaprakSi£n#} I. Vgl. <ls>PISCHEL</ls>, Ve-²dische Studien 108. fgg. 
+;-----------------
+22254 old <p>{#uza£dagh (ºdah)#} I. Vgl. <ls>GELDNER,</ls> ²Vedische Studien 114. fg. 
+22254 new <p>{#uza£dagh (ºdah)#} I. Vgl. <ls>GELDNER</ls>, ²Vedische Studien 114. fg. 
+;-----------------
+22256 old <p>{#Rca£se#} I. Vgl. <ls>PISCHEL,</ls> Vedische ²Studien 43. 
+22256 new <p>{#Rca£se#} I. Vgl. <ls>PISCHEL</ls>, Vedische ²Studien 43. 
+;-----------------
+22279 old <p>2. {#kAra£#} II. Vgl. <ls>GELDNER,</ls> Vedische ²Studien 119. fgg. 
+22279 new <p>2. {#kAra£#} II. Vgl. <ls>GELDNER</ls>, Vedische ²Studien 119. fgg. 
+;-----------------
+22280 old <p>{#kA£rAdhuni#} II. Vgl. <ls>PISCHEL,</ls> Vedi-²sche Studien 59. fg. 
+22280 new <p>{#kA£rAdhuni#} II. Vgl. <ls>PISCHEL</ls>, Vedi-²sche Studien 59. fg. 
+;-----------------
+22281 old <p>{#kAri£n#} II. Vgl. <ls>GELDNER,</ls> Vedische ²Studien 119. fgg. 
+22281 new <p>{#kAri£n#} II. Vgl. <ls>GELDNER</ls>, Vedische ²Studien 119. fgg. 
+;-----------------
+22287 old <p>{#kIri£#} II. Vgl. <ls>GELDNER,</ls> Vedische ²Studien 119. 
+22287 new <p>{#kIri£#} II. Vgl. <ls>GELDNER</ls>, Vedische ²Studien 119. 
+;-----------------
+22332 old <p>{#ca£rkRSe#} 1ste und 3te Sg. Med. Vgl. ²<ls>GELDNER,</ls> Vedische Studien 128. fgg. 
+22332 new <p>{#ca£rkRSe#} 1ste und 3te Sg. Med. Vgl. ²<ls>GELDNER</ls>, Vedische Studien 128. fgg. 
+;-----------------

@@ -1,0 +1,29 @@
+
+from version 0 to next version
+',%}' -> '%},'
+'.#}' -> '#}.'
+',#}' -> '#},'
+[Pagex-y-z+ n] -> [Pagex-y-z] 590
+[Pagex-y-1z+ n] -> [Pagex-y-1z] 4
+'- [Page1-290-c] ²' -> '-[Page1-290-c]²'   75
+\({#[^#]*\)_ → \1¹   35
+' ?#}' -> '#} ?' 4
+\({#[^#]*\)| → \1¹  27
+
+
+
+changes_01.txt
+1. 1 line
+<gr>beta</b> -> <gr>beta</gr>
+2. Ñ -> N5
+  134 instances
+3. ; [Page7-291-a]
+9677 old <p>{#agnima£ya, agni£mukha, agniraja#} und ²agnirU£pa I. 1. 
+9677 new <p>{#agnima£ya, agni£mukha, agniraja#} und ²{#agnirU£pa#} I. 1. 
+4. ×   MULTIPLICATION SIGN -> x (ascii x)  
+  1 instance line 4747
+
+
+changes_02.txt
+1. MASCULINE ORDINAL INDICATOR º -> DEGREE SIGN °
+  2044 instances

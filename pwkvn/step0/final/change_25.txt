@@ -1,0 +1,882 @@
+37 old <hw>{#aMhomuc#}</hw> m. N. pr. eines {|R2s2i|} <ls>A1RSH. BR.</ls> 
+37 new <hw>{#aMhomuc#}</hw> m. N. pr. eines {|R2shi|} <ls>A1RSH. BR.</ls> 
+;-----------------
+41 old <hw>{#akaNTha#}</hw> auch {%keine Stimme habend, heiser%} Spr. 4913. 
+41 new <hw>{#akaNTha#}</hw> auch {%keine Stimme habend, heiser%} <ls>Spr.</ls> 4913. 
+;-----------------
+118 old <hw>{#akiMcijjJa#}</hw> Adj. {%Nichts wissend%} Spr. 5188. 
+118 new <hw>{#akiMcijjJa#}</hw> Adj. {%Nichts wissend%} <ls>Spr.</ls> 5188. 
+;-----------------
+247 old <hw>{#a£kSatriya#}</hw> m. {%kein%} {|Ks2atriya|} <ls>S4AT. BR.</ls> 6, 6, 3, 12. 
+247 new <hw>{#a£kSatriya#}</hw> m. {%kein%} {|Kshatriya|} <ls>S4AT. BR.</ls> 6, 6, 3, 12. 
+;-----------------
+771 old <hw>{#acala#}</hw> 1) Nom. abstr. {#ºtva#} n. <ls>BA1DAR.</ls> 4, 1, 9. -- 2) ²{%c%}) N. pr. eines {|Devars2i|} <ls>VP.^2^</ls> 3, 68. 
+771 new <hw>{#acala#}</hw> 1) Nom. abstr. {#ºtva#} n. <ls>BA1DAR.</ls> 4, 1, 9. -- 2) ²{%c%}) N. pr. eines {|Devarshi|} <ls>VP.^2^</ls> 3, 68. 
+;-----------------
+795 old <hw>{#acApalya#}</hw> n. dass. Spr. 3870. 
+795 new <hw>{#acApalya#}</hw> n. dass. <ls>Spr.</ls> 3870. 
+;-----------------
+808 old <hw>{#acintanIya#}</hw> Adj. {%woran man nicht zu denken ²braucht, worauf man nicht zu achten hat%} Spr. 1823. 
+808 new <hw>{#acintanIya#}</hw> Adj. {%woran man nicht zu denken ²braucht, worauf man nicht zu achten hat%} <ls>Spr.</ls> 1823. 
+;-----------------
+874 old <hw>{#acyutaloka#}</hw> Adj. {%im Besitz von%} {|Vis2n2u's|} {%Welt.%} ²Nom. abstr. {#ºtA#} f. <ls>AGNI-P.</ls> 38, 3. 47. 
+874 new <hw>{#acyutaloka#}</hw> Adj. {%im Besitz von%} {|Vishn2u's|} {%Welt.%} ²Nom. abstr. {#ºtA#} f. <ls>AGNI-P.</ls> 38, 3. 47. 
+;-----------------
+1319 old <hw>{#ativaiSNava#}</hw> Adj. {%dem%} {|Vis2n2u|} {%sehr ergeben%} <ls>AGNI-P.²</ls> 19, 7. 
+1319 new <hw>{#ativaiSNava#}</hw> Adj. {%dem%} {|Vishn2u|} {%sehr ergeben%} <ls>AGNI-P.²</ls> 19, 7. 
+;-----------------
+1460 old <hw>{#atyAcAra#}</hw> m. {%zu feines Benehmen%} Spr. 156 (lauter ²Acc. anzunehmen). 
+1460 new <hw>{#atyAcAra#}</hw> m. {%zu feines Benehmen%} <ls>Spr.</ls> 156 (lauter ²Acc. anzunehmen). 
+;-----------------
+2647 old <hw>{#anAza#}</hw> Adj. (f. {#A#}) {%aller Erwartungen baar.%} {#A-²zAmanAzAM kar#} {%allen E. entsagen%} Spr. 7078. Vgl. ²{#nirAza#}. 
+2647 new <hw>{#anAza#}</hw> Adj. (f. {#A#}) {%aller Erwartungen baar.%} {#A-²zAmanAzAM kar#} {%allen E. entsagen%} <ls>Spr.</ls> 7078. Vgl. ²{#nirAza#}. 
+;-----------------
+3033 old <hw>{#anupapatti#}</hw> Adj. {%nicht zutreffend, unstatthaft, un-²möglich%} Spr. 6005. 
+3033 new <hw>{#anupapatti#}</hw> Adj. {%nicht zutreffend, unstatthaft, un-²möglich%} <ls>Spr.</ls> 6005. 
+;-----------------
+3202 old <hw>{#*anuviSNu#}</hw> Adv. {%nach%} {|Vis2n2u|} <ls>LAGHUK.</ls> 972. 
+3202 new <hw>{#*anuviSNu#}</hw> Adv. {%nach%} {|Vishn2u|} <ls>LAGHUK.</ls> 972. 
+;-----------------
+3230 old <hw>{#anuSTu£pchandas#}</hw> Adj. {%die%} {|Anus2t2ubh|} {%zum Metrum ²habend%} <ls>MAITR. S.</ls> 2, 3, 3. 
+3230 new <hw>{#anuSTu£pchandas#}</hw> Adj. {%die%} {|Anusht2ubh|} {%zum Metrum ²habend%} <ls>MAITR. S.</ls> 2, 3, 3. 
+;-----------------
+3725 old <hw>{#aparinirmita#}</hw> Adj. {%nicht geschaffen.%} {|Vis2n2u|} <ls>VI-²SHN2US.</ls> 98, 50. 
+3725 new <hw>{#aparinirmita#}</hw> Adj. {%nicht geschaffen.%} {|Vishn2u|} <ls>VI-²SHN2US.</ls> 98, 50. 
+;-----------------
+3757 old <hw>{#aparIkSita#}</hw> Adj. {%unbekannt%} <ls>R.</ls> 5, 81, 7. Spr. 543. 
+3757 new <hw>{#aparIkSita#}</hw> Adj. {%unbekannt%} <ls>R.</ls> 5, 81, 7. <ls>Spr.</ls> 543. 
+;-----------------
+3934 old <hw>{#apRSTha#}</hw> n. {%kein richtiges%} {|Pr2s2t2ha|} <ls>TA1N2D2YA-BR.</ls> 5, 2, 4. 
+3934 new <hw>{#apRSTha#}</hw> n. {%kein richtiges%} {|Pr2sht2ha|} <ls>TA1N2D2YA-BR.</ls> 5, 2, 4. 
+;-----------------
+4207 old <hom>1.</hom> <hw>{#abhaya#}</hw> 2) {%b%}) eines Sohnes des {|Idhmajihva|} <ls>BHA1G. ²P.</ls> 5, 20, 2. 3. Das Kind {|Dharma's|} ist eine Personi-²fication von 4) {%a%}), also n. <ls>BHA1G. P.</ls> 4, 1, 50. -- 3) {%c%}) ²N. pr. eines Flusses in {|Kraun5cadvi1pa|} <ls>BHA1G. P.</ls> ²5, 20, 22. -- 4) {%c%}) hierher vielleicht <ls>HEMA1DRI</ls> 1, 725, ²18. 727, 4. 790, 19. 2, {%a%}, 81, 14. 82, 1. 2. 84, 5. 99, 3. -- ²{%d%}) N. pr. des von {|Abhaya|} beherrschten {|Vars2a|} ²in {|Plaks2advi1pa|} <ls>BHA1G. P.</ls> 5, 20, 3. 
+4207 new <hom>1.</hom> <hw>{#abhaya#}</hw> 2) {%b%}) eines Sohnes des {|Idhmajihva|} <ls>BHA1G. ²P.</ls> 5, 20, 2. 3. Das Kind {|Dharma's|} ist eine Personi-²fication von 4) {%a%}), also n. <ls>BHA1G. P.</ls> 4, 1, 50. -- 3) {%c%}) ²N. pr. eines Flusses in {|Kraun5cadvi1pa|} <ls>BHA1G. P.</ls> ²5, 20, 22. -- 4) {%c%}) hierher vielleicht <ls>HEMA1DRI</ls> 1, 725, ²18. 727, 4. 790, 19. 2, {%a%}, 81, 14. 82, 1. 2. 84, 5. 99, 3. -- ²{%d%}) N. pr. des von {|Abhaya|} beherrschten {|Varsha|} ²in {|Plakshadvi1pa|} <ls>BHA1G. P.</ls> 5, 20, 3. 
+;-----------------
+4259 old <hw>{#abhijJAta#}</hw> m. N. pr. eines Sohnes des {|Yajn5aba1hu|}; ²n. N. pr. des von ihm beherrschten {|Vars2a|} <ls>BHA1G. ²P.</ls> 5, 20, 9. 
+4259 new <hw>{#abhijJAta#}</hw> m. N. pr. eines Sohnes des {|Yajn5aba1hu|}; ²n. N. pr. des von ihm beherrschten {|Varsha|} <ls>BHA1G. ²P.</ls> 5, 20, 9. 
+;-----------------
+4275 old <hw>{#abhinAmin#}</hw> m. N. pr. eines {|R2s2i|} im 6ten {|Man-²vantara|} <ls>VP.^2^</ls> 3, 13. 
+4275 new <hw>{#abhinAmin#}</hw> m. N. pr. eines {|R2shi|} im 6ten {|Man-²vantara|} <ls>VP.^2^</ls> 3, 13. 
+;-----------------
+4311 old <hw>{#abhimanyuka#}</hw> m. = {#abhimanyu#} N. pr. eines Sohnes ²des {|Manu Ca1ks2us2a|} <ls>AGNI-P.</ls> 18, 9. 
+4311 new <hw>{#abhimanyuka#}</hw> m. = {#abhimanyu#} N. pr. eines Sohnes ²des {|Manu Ca1kshusha|} <ls>AGNI-P.</ls> 18, 9. 
+;-----------------
+4327 old <hw>{#abhimAna#}</hw> 7) N. pr. eines {|R2s2i|} im 6ten {|Manvan-²tara|} <ls>VP.^2^</ls> 3, 12. 
+4327 new <hw>{#abhimAna#}</hw> 7) N. pr. eines {|R2shi|} im 6ten {|Manvan-²tara|} <ls>VP.^2^</ls> 3, 12. 
+;-----------------
+4669 old <hw>{#ambujAsanA#}</hw> f. Bein. der {|Laks2mi1|} <ls>DAS4AK.</ls> 40, 8. 
+4669 new <hw>{#ambujAsanA#}</hw> f. Bein. der {|Lakshmi1|} <ls>DAS4AK.</ls> 40, 8. 
+;-----------------
+4763 old <hw>{#arakSasya£#}</hw> Adj. {%frei von%} {|Raks2as|} <ls>MAITR. S.</ls> 3, 7, 7. 
+4763 new <hw>{#arakSasya£#}</hw> Adj. {%frei von%} {|Rakshas|} <ls>MAITR. S.</ls> 3, 7, 7. 
+;-----------------
+5073 old <hw>{#alIna#}</hw> Adj. {%nicht in Etwas steckend%} Spr. 3250. 
+5073 new <hw>{#alIna#}</hw> Adj. {%nicht in Etwas steckend%} <ls>Spr.</ls> 3250. 
+;-----------------
+5401 old <hw>{#avIkSita#}</hw> Adj. 1) {%vorher nicht gesehen%} <ls>NAISH.</ls> 1, ²40. 8, 12. -- 2) {%nicht erkannt%} Spr. 6213. 
+5401 new <hw>{#avIkSita#}</hw> Adj. 1) {%vorher nicht gesehen%} <ls>NAISH.</ls> 1, ²40. 8, 12. -- 2) {%nicht erkannt%} <ls>Spr.</ls> 6213. 
+;-----------------
+5437 old <hw>{#avyavasthitacitta#}</hw> Adj. {%unbeständigen Sinnes%} Spr. ²1988. 
+5437 new <hw>{#avyavasthitacitta#}</hw> Adj. {%unbeständigen Sinnes%} <ls>Spr.</ls> ²1988. 
+;-----------------
+5627 old <hw>{#azvazIrSa#}</hw> m. {%eine Form%} {|Vis2n2u's|} {%(mit einem ²Pferdekopf)%} <ls>AGNI-P.</ls> 43, 2; vgl. <ls>HEMA1DRI</ls> 1, 309, 1. 
+5627 new <hw>{#azvazIrSa#}</hw> m. {%eine Form%} {|Vishn2u's|} {%(mit einem ²Pferdekopf)%} <ls>AGNI-P.</ls> 43, 2; vgl. <ls>HEMA1DRI</ls> 1, 309, 1. 
+;-----------------
+5767 old <hw>{#asaMcetayamAna#}</hw> Adj. {%nicht gewahr werdend%} Spr. 6125. 
+5767 new <hw>{#asaMcetayamAna#}</hw> Adj. {%nicht gewahr werdend%} <ls>Spr.</ls> 6125. 
+;-----------------
+6031 old <hw>{#AkaiTabhavairi#}</hw> Adv. {%bis zum Feinde%} {|Kait2abha's|}, ²d. i. {%bis%} {|Vis2n2u|} <ls>NAISH.</ls> 6, 106. 
+6031 new <hw>{#AkaiTabhavairi#}</hw> Adv. {%bis zum Feinde%} {|Kait2abha's|}, ²d. i. {%bis%} {|Vishn2u|} <ls>NAISH.</ls> 6, 106. 
+;-----------------
+6123 old <hw>{#Atmayoni#}</hw> 4) {|Vis2n2u's|} <ls>MUDRA1R.</ls> 157, 1 (231, 5). 
+6123 new <hw>{#Atmayoni#}</hw> 4) {|Vishn2u's|} <ls>MUDRA1R.</ls> 157, 1 (231, 5). 
+;-----------------
+6147 old <hw>{#Adicakrin#}</hw> Adj. {%der zuerst den Discus führte.%} ²{|Vis2n2u-Kr2s2n2a|} <ls>AGNI-P.</ls> 31, 10. 
+6147 new <hw>{#Adicakrin#}</hw> Adj. {%der zuerst den Discus führte.%} ²{|Vishn2u-Kr2shn2a|} <ls>AGNI-P.</ls> 31, 10. 
+;-----------------
+6216 old <hw>{#AnIlaniSadhAyata#}</hw> Adj. {%vom Gebirge%} {|Ni1la|} {%bis zum ²Gebirge%} {|Nis2adha|} {%sich erstreckend%} <ls>HEMA1DRI</ls> 1, 295, ²21. 296, 6. 
+6216 new <hw>{#AnIlaniSadhAyata#}</hw> Adj. {%vom Gebirge%} {|Ni1la|} {%bis zum ²Gebirge%} {|Nishadha|} {%sich erstreckend%} <ls>HEMA1DRI</ls> 1, 295, ²21. 296, 6. 
+;-----------------
+6983 old <hw>{#upAtti#}</hw> f. {%Gebrauch, Anwendung%} Comm. zu <ls>KA1TY. ²S4R .1, 8, 2.
+6983 new <hw>{#upAtti#}</hw> f. {%Gebrauch, Anwendung%} Comm. zu <ls>KA1TY. ²S4R.</ls> .1, 8, 2.
+;-----------------
+7015 old <hw>{#Utima£tI#}</hw> f. {%der Vers%} R2V. 1, 30, 7 <ls>MAITR. S.</ls> 3, 1, 3.
+7015 new <hw>{#Utima£tI#}</hw> f. {%der Vers%} <ls>R2V.</ls> 1, 30, 7 <ls>MAITR. S.</ls> 3, 1, 3.
+;-----------------
+7174 old <hw>{#akAmin#}</hw> Adj. {%nicht verliebt%} Spr. 3786. 
+7174 new <hw>{#akAmin#}</hw> Adj. {%nicht verliebt%} <ls>Spr.</ls> 3786. 
+;-----------------
+7186 old <hw>{#akArpaNya#}</hw> Adj. {%ohne Jammern, -- Selbsterniedri-²gung%} Spr. 5256. 
+7186 new <hw>{#akArpaNya#}</hw> Adj. {%ohne Jammern, -- Selbsterniedri-²gung%} <ls>Spr.</ls> 5256. 
+;-----------------
+7214 old <hw>{#akuTila#}</hw> Adj. {%gerade%} (eig.) und {%redlich%} Spr. 351. 
+7214 new <hw>{#akuTila#}</hw> Adj. {%gerade%} (eig.) und {%redlich%} <ls>Spr.</ls> 351. 
+;-----------------
+7254 old <hw>{#akulaja#}</hw> Adj. {%aus niedrigem Geschlecht%} Spr. 4341, ²v. l. 
+7254 new <hw>{#akulaja#}</hw> Adj. {%aus niedrigem Geschlecht%} <ls>Spr.</ls> 4341, ²v. l. 
+;-----------------
+7379 old <hw>{#akSamin#}</hw> Adj. {%unbarmherzig%} Spr. 2425. [Page2-285-c] 
+7379 new <hw>{#akSamin#}</hw> Adj. {%unbarmherzig%} <ls>Spr.</ls> 2425. [Page2-285-c] 
+;-----------------
+7431 old <hw>{#akSyupaniSad#}</hw> f. Titel einer {|Upanis2ad|} <ls>OPP. Cat.</ls> 1. 
+7431 new <hw>{#akSyupaniSad#}</hw> f. Titel einer {|Upanishad|} <ls>OPP. Cat.</ls> 1. 
+;-----------------
+7455 old <hw>{#agamya#}</hw> 5) {%unpassend, ungeeignet%} Spr. 1791. 
+7455 new <hw>{#agamya#}</hw> 5) {%unpassend, ungeeignet%} <ls>Spr.</ls> 1791. 
+;-----------------
+7484 old <hw>{#aguNavant#}</hw> auch {%ohne Vorzüge, schlecht, böse%} Spr. ²2122. 
+7484 new <hw>{#aguNavant#}</hw> auch {%ohne Vorzüge, schlecht, böse%} <ls>Spr.</ls> ²2122. 
+;-----------------
+7488 old <hw>{#aguNazIla#}</hw> Adj. {%keine Vorzüge besitzend%} Spr. 2149. 
+7488 new <hw>{#aguNazIla#}</hw> Adj. {%keine Vorzüge besitzend%} <ls>Spr.</ls> 2149. 
+;-----------------
+7524 old <hom>2.</hom> <hw>{#agopAla#}</hw> Adj. (f. {#A#}) {%ohne Hirten%} Spr. 5159. 
+7524 new <hom>2.</hom> <hw>{#agopAla#}</hw> Adj. (f. {#A#}) {%ohne Hirten%} <ls>Spr.</ls> 5159. 
+;-----------------
+7625 old <hw>{#aghRNin#}</hw> Adj. 1) {%nicht weich, -- zu mitleidig%} Spr. ²310. -- 2) {%Nichts verachtend, mit Allem zufrieden%} ²<ls>MBH.</ls> 1, 167, 19. = {#lajjAhIna#} <ls>NI1LAK.</ls> 
+7625 new <hw>{#aghRNin#}</hw> Adj. 1) {%nicht weich, -- zu mitleidig%} <ls>Spr.</ls> ²310. -- 2) {%Nichts verachtend, mit Allem zufrieden%} ²<ls>MBH.</ls> 1, 167, 19. = {#lajjAhIna#} <ls>NI1LAK.</ls> 
+;-----------------
+8025 old <hw>{#atikRcchra#}</hw> 1) Adj. als Beiw. {|Vis2n2u's|} <ls>MBH.</ls> 12, ²338, 60. -- 2) {#ºm#} Adv. {%mit grosser Mühe%} <ls>BHA1G. P.</ls> ²5, 13, 10. 
+8025 new <hw>{#atikRcchra#}</hw> 1) Adj. als Beiw. {|Vishn2u's|} <ls>MBH.</ls> 12, ²338, 60. -- 2) {#ºm#} Adv. {%mit grosser Mühe%} <ls>BHA1G. P.</ls> ²5, 13, 10. 
+;-----------------
+8074 old <hw>{#aticirasya#}</hw> Gen. {%seit sehr langer Zeit%} Spr. 5256. ²<hw>{#ºcirAt#}</hw> Abl. {%nach l. Z., spät, endlich.%} 
+8074 new <hw>{#aticirasya#}</hw> Gen. {%seit sehr langer Zeit%} <ls>Spr.</ls> 5256. ²<hw>{#ºcirAt#}</hw> Abl. {%nach l. Z., spät, endlich.%} 
+;-----------------
+8282 old <hw>{#atyAga#}</hw> m. {%Nichthingabe.%} {#ºge tanoH#} so v. a. {%bei ²Lebzeiten%} Spr. 4021. 
+8282 new <hw>{#atyAga#}</hw> m. {%Nichthingabe.%} {#ºge tanoH#} so v. a. {%bei ²Lebzeiten%} <ls>Spr.</ls> 4021. 
+;-----------------
+8336 old <hw>{#adambhin#}</hw> Adj. {%aufrichtig, ehrlich%} Spr. 7353. Nom. ²abstr. {#ºmbhitva#} n. 
+8336 new <hw>{#adambhin#}</hw> Adj. {%aufrichtig, ehrlich%} <ls>Spr.</ls> 7353. Nom. ²abstr. {#ºmbhitva#} n. 
+;-----------------
+8368 old <hw>{#adRDha#}</hw> Adj. {%nicht fest haftend%} Spr. 6749. 
+8368 new <hw>{#adRDha#}</hw> Adj. {%nicht fest haftend%} <ls>Spr.</ls> 6749. 
+;-----------------
+8376 old <hw>{#adezakAlajJa#}</hw> Adj. {%weder dem Orte noch der Zeit ²entsprechend%} Spr. 198. 
+8376 new <hw>{#adezakAlajJa#}</hw> Adj. {%weder dem Orte noch der Zeit ²entsprechend%} <ls>Spr.</ls> 198. 
+;-----------------
+8450 old <hw>{#adhyAtmopaniSad#}</hw> f. Titel einer {|Upanis2ad|} <ls>OPP. ²Cat.</ls> 1. 
+8450 new <hw>{#adhyAtmopaniSad#}</hw> f. Titel einer {|Upanishad|} <ls>OPP. ²Cat.</ls> 1. 
+;-----------------
+8564 old <hw>{#anapAkRSTa#}</hw> Adj. {%nicht herabgezogen, -- erniedrigt%} ²Spr. 4766. 
+8564 new <hw>{#anapAkRSTa#}</hw> Adj. {%nicht herabgezogen, -- erniedrigt%} ²<ls>Spr.</ls> 4766. 
+;-----------------
+8704 old <hw>{#anAyatikSama#}</hw> Adj. {%nicht erspriesslich für die Folge%} ²Spr. 198. 
+8704 new <hw>{#anAyatikSama#}</hw> Adj. {%nicht erspriesslich für die Folge%} ²<ls>Spr.</ls> 198. 
+;-----------------
+8712 old <hw>{#anAsAdita#}</hw> Adj. {%nicht erreicht, wozu man nicht ²gekommen -- , nicht gelangt ist%} <ls>MBH.</ls> 1, 95, 59. Spr. ²6908. 
+8712 new <hw>{#anAsAdita#}</hw> Adj. {%nicht erreicht, wozu man nicht ²gekommen -- , nicht gelangt ist%} <ls>MBH.</ls> 1, 95, 59. <ls>Spr.</ls> ²6908. 
+;-----------------
+8761 old <hw>{#aniSkadhRk#}</hw> Adj. {%nicht einen%} {|Nis2ka|} {%genannten ²Schmuck tragend%} <ls>R.</ls> 1, 6, 9. 
+8761 new <hw>{#aniSkadhRk#}</hw> Adj. {%nicht einen%} {|Nishka|} {%genannten ²Schmuck tragend%} <ls>R.</ls> 1, 6, 9. 
+;-----------------
+9580 old <hw>{#amRtabinduskandopaniSad#}</hw> f. Titel einer {|Upani-²s2ad|} <ls>OPP. Cat.</ls> 1. 
+9580 new <hw>{#amRtabinduskandopaniSad#}</hw> f. Titel einer {|Upani-²shad|} <ls>OPP. Cat.</ls> 1. 
+;-----------------
+9657 old <hw>{#arUDhamUla#}</hw> Adj. {%noch keine Wurzeln geschlagen ²habend.%} Nom. abstr. {#ºtva#} n. Spr. 90. 
+9657 new <hw>{#arUDhamUla#}</hw> Adj. {%noch keine Wurzeln geschlagen ²habend.%} Nom. abstr. {#ºtva#} n. <ls>Spr.</ls> 90. 
+;-----------------
+9734 old <hw>{#ardhakArSika#}</hw> Adj. {%einen halben%} {|Kars2a|} {%wiegend%} ²<ls>SUS4R.</ls> 2, 88, 10. 
+9734 new <hw>{#ardhakArSika#}</hw> Adj. {%einen halben%} {|Karsha|} {%wiegend%} ²<ls>SUS4R.</ls> 2, 88, 10. 
+;-----------------
+9898 old <hw>{#avadhUta#}</hw> und <hw>{#ºka#}</hw> n. Titel einer {|Upanis2ad|}. 
+9898 new <hw>{#avadhUta#}</hw> und <hw>{#ºka#}</hw> n. Titel einer {|Upanishad|}. 
+;-----------------
+10021 old <hw>{#avimuktopaniSad#}</hw> f. Titel einer {|Upanis2ad|} ²<ls>OPP. Cat.</ls> 1. 
+10021 new <hw>{#avimuktopaniSad#}</hw> f. Titel einer {|Upanishad|} ²<ls>OPP. Cat.</ls> 1. 
+;-----------------
+10198 old <hw>{#asaMjAta#}</hw> Adj. {%nicht erstanden, -- zum Vorschein ²gekommen%} Spr. 2135. 
+10198 new <hw>{#asaMjAta#}</hw> Adj. {%nicht erstanden, -- zum Vorschein ²gekommen%} <ls>Spr.</ls> 2135. 
+;-----------------
+11001 old <hw>{#uttamagAya#}</hw> Adj. {%hoch gerühmt%} ({|Vis2n2u|}) <ls>BHA1G. P.</ls> ²4, 12, 21. 
+11001 new <hw>{#uttamagAya#}</hw> Adj. {%hoch gerühmt%} ({|Vishn2u|}) <ls>BHA1G. P.</ls> ²4, 12, 21. 
+;-----------------
+11096 old <hw>{#udaratADam#}</hw> Absol. {%sich auf den Bauch schlagend%} ²Spr. 5994. 
+11096 new <hw>{#udaratADam#}</hw> Absol. {%sich auf den Bauch schlagend%} ²<ls>Spr.</ls> 5994. 
+;-----------------
+11296 old <hw>{#urukrama£#}</hw> m. {%der weite Schritt%} ({|Vis2n2u's|}) <ls>MAITR. ²S.</ls> 1, 3, 9 (<ls>KAP. S.</ls> 3, 2. <ls>KA1T2H.</ls> 4, 2). 
+11296 new <hw>{#urukrama£#}</hw> m. {%der weite Schritt%} ({|Vishn2u's|}) <ls>MAITR. ²S.</ls> 1, 3, 9 (<ls>KAP. S.</ls> 3, 2. <ls>KA1T2H.</ls> 4, 2). 
+;-----------------
+11465 old <hw>{#ekavyUhavibhAga#}</hw> Adj. als Beiw. {|Vis2n2u's|}, {%wenn ²er sich nur als%} {|Va1sudeva|} {%manifestirt%}, <ls>MBH.</ls> 12, ²348, 57. 
+11465 new <hw>{#ekavyUhavibhAga#}</hw> Adj. als Beiw. {|Vishn2u's|}, {%wenn ²er sich nur als%} {|Va1sudeva|} {%manifestirt%}, <ls>MBH.</ls> 12, ²348, 57. 
+;-----------------
+12251 old <hw>{#kuNDikopaniSad#}</hw> f. Titel einer {|Upanis2ad|} <ls>OPP. ²Cat.</ls> 1. 
+12251 new <hw>{#kuNDikopaniSad#}</hw> f. Titel einer {|Upanishad|} <ls>OPP. ²Cat.</ls> 1. 
+;-----------------
+12446 old <hw>{#kRSNapaNDitIya#}</hw> n. {|Kr2s2n2apan2d2ita's|} {%Werk%} <ls>OPP. ²Cat.</ls> 
+12446 new <hw>{#kRSNapaNDitIya#}</hw> n. {|Kr2shn2apan2d2ita's|} {%Werk%} <ls>OPP. ²Cat.</ls> 
+;-----------------
+12795 old <hw>{#gAruDopaniSad#}</hw> f. Titel einer {|Upanis2ad|}. 
+12795 new <hw>{#gAruDopaniSad#}</hw> f. Titel einer {|Upanishad|}. 
+;-----------------
+13032 old <hw>{#*cANUramardana#}</hw> m. Bein. {|Kr2s2n2a's|} <ls>GAL.</ls> 
+13032 new <hw>{#*cANUramardana#}</hw> m. Bein. {|Kr2shn2a's|} <ls>GAL.</ls> 
+;-----------------
+13157 old <hw>{#aMzukapallava#}</hw> {%Schärpe%} Spr. 2931. 5822. <ls>RA1JAT.</ls> ²4, 576. [Page3-246-c] 
+13157 new <hw>{#aMzukapallava#}</hw> {%Schärpe%} <ls>Spr.</ls> 2931. 5822. <ls>RA1JAT.</ls> ²4, 576. [Page3-246-c] 
+;-----------------
+13181 old <hw>{#akApuruSavrata#}</hw> n. {%nicht die Weise eines elenden ²Wichts%} Spr. 398. 
+13181 new <hw>{#akApuruSavrata#}</hw> n. {%nicht die Weise eines elenden ²Wichts%} <ls>Spr.</ls> 398. 
+;-----------------
+13482 old <hw>{#acyutArcana#}</hw> m. Bein. {|Vis2n2u's|} <ls>VISHN2US.</ls> 98, 71. ²{#na cyutamarcanaM devAsuramanuSyebhyo yasya saH#} Comm. 
+13482 new <hw>{#acyutArcana#}</hw> m. Bein. {|Vishn2u's|} <ls>VISHN2US.</ls> 98, 71. ²{#na cyutamarcanaM devAsuramanuSyebhyo yasya saH#} Comm. 
+;-----------------
+13928 old <hw>{#adRSTakarman#}</hw> Adj. {%unerfahren in%} (Loc.) Spr. 5636. 
+13928 new <hw>{#adRSTakarman#}</hw> Adj. {%unerfahren in%} (Loc.) <ls>Spr.</ls> 5636. 
+;-----------------
+13960 old <hw>{#adoSajJa#}</hw> Adj. {%nicht wissend, was Fehler sind%}, ²Spr. 7071. 
+13960 new <hw>{#adoSajJa#}</hw> Adj. {%nicht wissend, was Fehler sind%}, ²<ls>Spr.</ls> 7071. 
+;-----------------
+14125 old <hw>{#adhvaraguru#}</hw> m. Beiw. {|Vis2n2u's|} <ls>VISHN2US.</ls> 1, 56. 
+14125 new <hw>{#adhvaraguru#}</hw> m. Beiw. {|Vishn2u's|} <ls>VISHN2US.</ls> 1, 56. 
+;-----------------
+14205 old <hw>{#ananuSThAna#}</hw> auch {%das Nichtsthun.%} Pl. Spr. 7321. 
+14205 new <hw>{#ananuSThAna#}</hw> auch {%das Nichtsthun.%} Pl. <ls>Spr.</ls> 7321. 
+;-----------------
+14417 old <hw>{#anAya#}</hw> Adj. {%keine Staatsweisheit besitzend%} Spr. ²1680. 
+14417 new <hw>{#anAya#}</hw> Adj. {%keine Staatsweisheit besitzend%} <ls>Spr.</ls> ²1680. 
+;-----------------
+14473 old <hw>{#animiSa#}</hw> 2) {%a%}) insbes. {|Vis2n2u|}. {#ºkSetra#} n. <ls>BHA1G. ²P.</ls> 1, 1, 4. 
+14473 new <hw>{#animiSa#}</hw> 2) {%a%}) insbes. {|Vishn2u|}. {#ºkSetra#} n. <ls>BHA1G. ²P.</ls> 1, 1, 4. 
+;-----------------
+14485 old <hw>{#aniyantraNA#}</hw> f. {%Unbeschränktheit%} Spr. 7207. 
+14485 new <hw>{#aniyantraNA#}</hw> f. {%Unbeschränktheit%} <ls>Spr.</ls> 7207. 
+;-----------------
+14565 old <hw>{#anItizAstrajJa#}</hw> Adj. {%mit den Lehren der Staats-²weisheit nicht vertraut%} Spr. 1395. 
+14565 new <hw>{#anItizAstrajJa#}</hw> Adj. {%mit den Lehren der Staats-²weisheit nicht vertraut%} <ls>Spr.</ls> 1395. 
+;-----------------
+14986 old <hw>{#aparicchedakartar#}</hw> Nom. ag. {%nicht richtig urthei-²lend%} Spr. 3959. 
+14986 new <hw>{#aparicchedakartar#}</hw> Nom. ag. {%nicht richtig urthei-²lend%} <ls>Spr.</ls> 3959. 
+;-----------------
+15014 old <hw>{#aparitoSa#}</hw> m. {%Unzufriedenheit%} Spr. 614. 
+15014 new <hw>{#aparitoSa#}</hw> m. {%Unzufriedenheit%} <ls>Spr.</ls> 614. 
+;-----------------
+15038 old <hw>{#aparibhASaNa#}</hw> Adj. {%nicht viel redend%} Spr. 4278, v. l. 
+15038 new <hw>{#aparibhASaNa#}</hw> Adj. {%nicht viel redend%} <ls>Spr.</ls> 4278, v. l. 
+;-----------------
+15094 old <hw>{#apalakSmaNa#}</hw> Adj. {%ohne%} {|Laks2man2a|} ({|Ra1ma's|} ²Bruder) <ls>BA1LAR.</ls> 115, 1. 
+15094 new <hw>{#apalakSmaNa#}</hw> Adj. {%ohne%} {|Lakshman2a|} ({|Ra1ma's|} ²Bruder) <ls>BA1LAR.</ls> 115, 1. 
+;-----------------
+15250 old <hw>{#apraNayin#}</hw> Adj. {%zu dem man sich nicht hingezo-²gen fühlt, den man nicht mag%} Spr. 941. 
+15250 new <hw>{#apraNayin#}</hw> Adj. {%zu dem man sich nicht hingezo-²gen fühlt, den man nicht mag%} <ls>Spr.</ls> 941. 
+;-----------------
+15278 old <hw>{#apratipUjita#}</hw> Adj. {%nicht geehrt%} Spr. 2407. 
+15278 new <hw>{#apratipUjita#}</hw> Adj. {%nicht geehrt%} <ls>Spr.</ls> 2407. 
+;-----------------
+15719 old <hw>{#arAjalakSman#}</hw> Adj. {%ohne königliche Insignien%} Spr. ²1395. 
+15719 new <hw>{#arAjalakSman#}</hw> Adj. {%ohne königliche Insignien%} <ls>Spr.</ls> ²1395. 
+;-----------------
+15872 old <hw>{#alajjAkara#}</hw> Adj. {%keine Schande bringend%} Spr. ²5911. 
+15872 new <hw>{#alajjAkara#}</hw> Adj. {%keine Schande bringend%} <ls>Spr.</ls> ²5911. 
+;-----------------
+16655 old <hw>{#ArSa#}</hw> 3) f. {#I#} {%eine nach der%} {|Ars2a|}-{%Ehe verhei-²rathete Frau%} <ls>VISHN2US.</ls> 24, 31. 
+16655 new <hw>{#ArSa#}</hw> 3) f. {#I#} {%eine nach der%} {|Arsha|}-{%Ehe verhei-²rathete Frau%} <ls>VISHN2US.</ls> 24, 31. 
+;-----------------
+17175 old <hw>{#upalakSmI#}</hw> f. {%eine neben der%} {|Laks2mi1|} {%genannte ²Gottheit%} <ls>MA1N. GR2HY.</ls> 2, 13. 
+17175 new <hw>{#upalakSmI#}</hw> f. {%eine neben der%} {|Lakshmi1|} {%genannte ²Gottheit%} <ls>MA1N. GR2HY.</ls> 2, 13. 
+;-----------------
+17299 old <hw>{#Urjaspati#}</hw> m. Bein. {|Vis2n2u's|} <ls>VISHN2US.</ls> 98, 17. 
+17299 new <hw>{#Urjaspati#}</hw> m. Bein. {|Vishn2u's|} <ls>VISHN2US.</ls> 98, 17. 
+;-----------------
+17515 old <hw>{#ekASTakAdIkSin#}</hw> Adj. {%zur%} {|Ekas2t2aka|} {%die Weihe ²nehmend%} <ls>LA1T2Y.</ls> 4, 8, 21. 
+17515 new <hw>{#ekASTakAdIkSin#}</hw> Adj. {%zur%} {|Ekasht2aka|} {%die Weihe ²nehmend%} <ls>LA1T2Y.</ls> 4, 8, 21. 
+;-----------------
+17638 old <hw>{#kaMsakRS#}</hw> m. Bein. {|Kr2s2n2a's|} <ls>S4IS4.</ls> 1, 16. 
+17638 new <hw>{#kaMsakRS#}</hw> m. Bein. {|Kr2shn2a's|} <ls>S4IS4.</ls> 1, 16. 
+;-----------------
+17691 old <hw>{#kathaMruru#}</hw> m. N. pr. eines {|Rayars2i|} <ls>SA1Y.</ls> zu <ls>R2V.</ls> ²4, 16, 10. 
+17691 new <hw>{#kathaMruru#}</hw> m. N. pr. eines {|Rayarshi|} <ls>SA1Y.</ls> zu <ls>R2V.</ls> ²4, 16, 10. 
+;-----------------
+17773 old <hw>{#karapuTI#}</hw> f. {%die hohle Hand%} Spr. 546. 3153. 5713. 
+17773 new <hw>{#karapuTI#}</hw> f. {%die hohle Hand%} <ls>Spr.</ls> 546. 3153. 5713. 
+;-----------------
+17785 old <hw>{#karikumbha#}</hw> m. Du. {%die beiden Erhöhungen auf ²der Stirn des Elephanten, die in der Brunstzeit ²stark anschwellen.%} {#ºpITha#} n. {%das Stirnbein beim ²Elephanten%} Spr. 3603. 
+17785 new <hw>{#karikumbha#}</hw> m. Du. {%die beiden Erhöhungen auf ²der Stirn des Elephanten, die in der Brunstzeit ²stark anschwellen.%} {#ºpITha#} n. {%das Stirnbein beim ²Elephanten%} <ls>Spr.</ls> 3603. 
+;-----------------
+17833 old <hw>{#karmapAtaka#}</hw> n. {%eine sündhafte That%} Spr. 1665. [Page3-259-b] 
+17833 new <hw>{#karmapAtaka#}</hw> n. {%eine sündhafte That%} <ls>Spr.</ls> 1665. [Page3-259-b] 
+;-----------------
+17925 old <hw>{#kAmapAla#}</hw> 1) {%c%}) {|Vis2n2u's|} <ls>VISHN2US.</ls> 98, 11. 
+17925 new <hw>{#kAmapAla#}</hw> 1) {%c%}) {|Vishn2u's|} <ls>VISHN2US.</ls> 98, 11. 
+;-----------------
+17978 old <hw>{#kAliya#}</hw>, <hw>{#kAliyAri#}</hw> m. Bein. {|Kr2s2n2a's|} <ls>PR. P.</ls> 58. 
+17978 new <hw>{#kAliya#}</hw>, <hw>{#kAliyAri#}</hw> m. Bein. {|Kr2shn2a's|} <ls>PR. P.</ls> 58. 
+;-----------------
+18078 old <hw>{#kupaThita#}</hw> Adj. {%der schlecht%} (seine Rolle) {%gelernt ²hat%} Spr. 6284. 
+18078 new <hw>{#kupaThita#}</hw> Adj. {%der schlecht%} (seine Rolle) {%gelernt ²hat%} <ls>Spr.</ls> 6284. 
+;-----------------
+18400 old <hw>{#khaNDaparazu#}</hw> m. auch Bein. {|Vis2n2u's|} <ls>VISHN2US.</ls> ²98, 73. 
+18400 new <hw>{#khaNDaparazu#}</hw> m. auch Bein. {|Vishn2u's|} <ls>VISHN2US.</ls> ²98, 73. 
+;-----------------
+18747 old <hw>{#caJcu#}</hw> 3) auch {#ºpuTaka#} Spr. 4462. 
+18747 new <hw>{#caJcu#}</hw> 3) auch {#ºpuTaka#} <ls>Spr.</ls> 4462. 
+;-----------------
+18953 old <hw>{#jagatkAraNakAraNa#}</hw> Beiw. {|Vis2n2u's|} <ls>VISHN2US.</ls> 1, 61. 
+18953 new <hw>{#jagatkAraNakAraNa#}</hw> Beiw. {|Vishn2u's|} <ls>VISHN2US.</ls> 1, 61. 
+;-----------------
+19593 old <hw>{#dAmodarIya#}</hw> Adj. {%dem%} {|Kr2s2n2a|} {%gehörig%} <ls>PR. P.</ls> 70. 
+19593 new <hw>{#dAmodarIya#}</hw> Adj. {%dem%} {|Kr2shn2a|} {%gehörig%} <ls>PR. P.</ls> 70. 
+;-----------------
+19895 old <hw>{#dharmadroNa#}</hw> Bez. {%der Gesetzbücher%} {|Manu's|}, {|Vasi-²s2t2ha's|}, {|Yajn5avalkya's|} {%und%} {|Gautama's|} <ls>KA1TY. ²S4RA1DDHAK.</ls> 7. Comm. zu <ls>GOBH. S4RA1DDHAK.</ls> 7, 21. 
+19895 new <hw>{#dharmadroNa#}</hw> Bez. {%der Gesetzbücher%} {|Manu's|}, {|Vasi-²sht2ha's|}, {|Yajn5avalkya's|} {%und%} {|Gautama's|} <ls>KA1TY. ²S4RA1DDHAK.</ls> 7. Comm. zu <ls>GOBH. S4RA1DDHAK.</ls> 7, 21. 
+;-----------------
+20320 old <hw>{#atiyAcita#}</hw> Adj. {%mit Bitten bestürmt%} Spr. 4384. 
+20320 new <hw>{#atiyAcita#}</hw> Adj. {%mit Bitten bestürmt%} <ls>Spr.</ls> 4384. 
+;-----------------
+20422 old <hw>{#ananyapratikriya#}</hw> Adj. {%keinen andern Ausweg ha-²bend%} Spr. 4397. 
+20422 new <hw>{#ananyapratikriya#}</hw> Adj. {%keinen andern Ausweg ha-²bend%} <ls>Spr.</ls> 4397. 
+;-----------------
+20506 old <hw>{#anAmukta#}</hw> Adj. {%nicht angelegt%} (ein Schmuck) ²Spr. 271, v. l. 
+20506 new <hw>{#anAmukta#}</hw> Adj. {%nicht angelegt%} (ein Schmuck) ²<ls>Spr.</ls> 271, v. l. 
+;-----------------
+20518 old <hw>{#anAyasita#}</hw> Adj. {%nicht in Bewegung gesetzt%} (Bo-²gen) Spr. 2289. 
+20518 new <hw>{#anAyasita#}</hw> Adj. {%nicht in Bewegung gesetzt%} (Bo-²gen) <ls>Spr.</ls> 2289. 
+;-----------------
+20550 old <hw>{#anukUlokta#}</hw> n. Pl. {%eine Rede nach Jmds Sinn%} Spr. ²3559. 
+20550 new <hw>{#anukUlokta#}</hw> n. Pl. {%eine Rede nach Jmds Sinn%} <ls>Spr.</ls> ²3559. 
+;-----------------
+20562 old <hw>{#anudayabhAj#}</hw> Adj. {%nicht aufgehend%} (Mond) Spr. 2669. 
+20562 new <hw>{#anudayabhAj#}</hw> Adj. {%nicht aufgehend%} (Mond) <ls>Spr.</ls> 2669. 
+;-----------------
+20590 old <hw>{#anupayAnt#}</hw> Adj. v. l. für {#anupayant#} Spr. 1699. 
+20590 new <hw>{#anupayAnt#}</hw> Adj. v. l. für {#anupayant#} <ls>Spr.</ls> 1699. 
+;-----------------
+20806 old <hw>{#apRthAtmaja#}</hw> Adj. {%ohne%} {|Yudhis2t2hira|}, {%von%} J. ²{%erlöst%} <ls>VEN2I1S.</ls> 97. 
+20806 new <hw>{#apRthAtmaja#}</hw> Adj. {%ohne%} {|Yudhisht2hira|}, {%von%} J. ²{%erlöst%} <ls>VEN2I1S.</ls> 97. 
+;-----------------
+20866 old <hw>{#apraNaya#}</hw> m. {%Nichtzuneigung, Kälte%} (des Herzens) ²Spr. 2991. 
+20866 new <hw>{#apraNaya#}</hw> m. {%Nichtzuneigung, Kälte%} (des Herzens) ²<ls>Spr.</ls> 2991. 
+;-----------------
+20963 old <hw>{#aprattasauviSTakRta#}</hw> Adj. {%dem%} {|Agni|} {|Svis2t2akr2t|} ²{%noch nicht dargebracht%} <ls>A1PAST. S4R.</ls> 9, 15, 10. 
+20963 new <hw>{#aprattasauviSTakRta#}</hw> Adj. {%dem%} {|Agni|} {|Svisht2akr2t|} ²{%noch nicht dargebracht%} <ls>A1PAST. S4R.</ls> 9, 15, 10. 
+;-----------------
+21111 old <hw>{#abahubhASin#}</hw> Adj. {%nicht viel redend%} <ls>A1S4V. S4R.</ls> 1, ²12, 30. Nom. abstr. {#ºSitA#} f. Spr. 740. 
+21111 new <hw>{#abahubhASin#}</hw> Adj. {%nicht viel redend%} <ls>A1S4V. S4R.</ls> 1, ²12, 30. Nom. abstr. {#ºSitA#} f. <ls>Spr.</ls> 740. 
+;-----------------
+21123 old <hw>{#abAndhava#}</hw>, f. {#A#} Spr. 685, v. l. 
+21123 new <hw>{#abAndhava#}</hw>, f. {#A#} <ls>Spr.</ls> 685, v. l. 
+;-----------------
+21220 old <hw>{#abhimata#}</hw> 1) Adj. s. u. {#man#} mit {#abhi#}. -- 2) n. ²{%Wunsch, Verlangen%} Spr. 2810. 
+21220 new <hw>{#abhimata#}</hw> 1) Adj. s. u. {#man#} mit {#abhi#}. -- 2) n. ²{%Wunsch, Verlangen%} <ls>Spr.</ls> 2810. 
+;-----------------
+21296 old <hw>{#abhraMzin#}</hw> Adj. {%unvergänglich, dauernd%} Spr. 6844. 
+21296 new <hw>{#abhraMzin#}</hw> Adj. {%unvergänglich, dauernd%} <ls>Spr.</ls> 6844. 
+;-----------------
+21466 old <hw>{#a£rakSas#}</hw> scheinbar <ls>MAITR. S.</ls> 1, 10, 20 (160, 8). Es ²ist zu lesen {#a£rakSohata#} {%unversehrt von%} {|Raks2as|}. 
+21466 new <hw>{#a£rakSas#}</hw> scheinbar <ls>MAITR. S.</ls> 1, 10, 20 (160, 8). Es ²ist zu lesen {#a£rakSohata#} {%unversehrt von%} {|Rakshas|}. 
+;-----------------
+21498 old <hw>{#arthay#}</hw> mit {#pra#}. Die Lexicographen führen für ²{#prArthita#} folgende Bedeutungen an: {#ardita, yAcita, ²abhiyukta, zatrusaMruddha, hata#} und {#abhihata#}. -- Mit {#sam#} ²10) {%bestätigen, begründen, rechtfertigen%} Comm. zu ²<ls>TS. PRA1T.</ls> -- 11) {#samarthita = samartha#} {%im Stande sei-²end%} Spr. 4005. -- In den meisten, vielleicht in ²allen Bedeutungen Denomin. von {#samartha#}. 
+21498 new <hw>{#arthay#}</hw> mit {#pra#}. Die Lexicographen führen für ²{#prArthita#} folgende Bedeutungen an: {#ardita, yAcita, ²abhiyukta, zatrusaMruddha, hata#} und {#abhihata#}. -- Mit {#sam#} ²10) {%bestätigen, begründen, rechtfertigen%} Comm. zu ²<ls>TS. PRA1T.</ls> -- 11) {#samarthita = samartha#} {%im Stande sei-²end%} <ls>Spr.</ls> 4005. -- In den meisten, vielleicht in ²allen Bedeutungen Denomin. von {#samartha#}. 
+;-----------------
+21563 old <hw>{#avaJcanatA#}</hw> f. {%Ehrlichkeit%} Spr. 3129. 
+21563 new <hw>{#avaJcanatA#}</hw> f. {%Ehrlichkeit%} <ls>Spr.</ls> 3129. 
+;-----------------
+21628 old <hw>{#avibhinna#}</hw> Adj. 1) {%ungetheilt, ungetrennt%} Spr. ²4142. {%nicht getrennt von%} (Abl.) <ls>KATHA1S.</ls> 27, 57. 34, ²118. -- 2) {%unverändert%} <ls>KATHA1S.</ls> 33, 8. 
+21628 new <hw>{#avibhinna#}</hw> Adj. 1) {%ungetheilt, ungetrennt%} <ls>Spr.</ls> ²4142. {%nicht getrennt von%} (Abl.) <ls>KATHA1S.</ls> 27, 57. 34, ²118. -- 2) {%unverändert%} <ls>KATHA1S.</ls> 33, 8. 
+;-----------------
+21966 old <hw>{#uccaiHpramodam#}</hw> Absol. {%unter lauten Freudenbezeu-²gungen%} Spr. 879. 
+21966 new <hw>{#uccaiHpramodam#}</hw> Absol. {%unter lauten Freudenbezeu-²gungen%} <ls>Spr.</ls> 879. 
+;-----------------
+22015 old <hw>{#udayavyayin#}</hw> Adj. {%steigend und fallend%} (in über-²tragener Bed.) Spr. 5644. 
+22015 new <hw>{#udayavyayin#}</hw> Adj. {%steigend und fallend%} (in über-²tragener Bed.) <ls>Spr.</ls> 5644. 
+;-----------------
+22103 old <hw>{#upasthAna#}</hw> m. Bez. {%der Sprüche, unter denen das ²Herantreten an die%} {|Dhis2n2ya|} {%geschieht%}, <ls>A1PAST. ²S4R.</ls> 11, 14, 8. [Page4-297-a] 
+22103 new <hw>{#upasthAna#}</hw> m. Bez. {%der Sprüche, unter denen das ²Herantreten an die%} {|Dhishn2ya|} {%geschieht%}, <ls>A1PAST. ²S4R.</ls> 11, 14, 8. [Page4-297-a] 
+;-----------------
+22188 old <hw>{#RSikalpa#}</hw> m. {%ein dem%} {|R2s2i|} {%nahekommender ²Brahmane, der die 6te Stufe unter den Brahma-²nen einnimmt%}, <ls>HEMA1DRI</ls> 1, 26, 4. 22. 
+22188 new <hw>{#RSikalpa#}</hw> m. {%ein dem%} {|R2shi|} {%nahekommender ²Brahmane, der die 6te Stufe unter den Brahma-²nen einnimmt%}, <ls>HEMA1DRI</ls> 1, 26, 4. 22. 
+;-----------------
+22224 old <hw>{#ekamUrti#}</hw> f. {%eine Person%} Spr. 4205. 
+22224 new <hw>{#ekamUrti#}</hw> f. {%eine Person%} <ls>Spr.</ls> 4205. 
+;-----------------
+22325 old <hw>{#kapolamUla#}</hw> n. {%Backenknochen%} Spr. 7001. 
+22325 new <hw>{#kapolamUla#}</hw> n. {%Backenknochen%} <ls>Spr.</ls> 7001. 
+;-----------------
+22337 old <hom>2.</hom> <hw>{#karmabuddhi#}</hw> Adj. {%der des Menschen Arbeit aner-²kennt, die menschliche Anstrengung für das Wahre ²hält%} Spr. 5323. 
+22337 new <hom>2.</hom> <hw>{#karmabuddhi#}</hw> Adj. {%der des Menschen Arbeit aner-²kennt, die menschliche Anstrengung für das Wahre ²hält%} <ls>Spr.</ls> 5323. 
+;-----------------
+22393 old <hw>{#kAlayApanA#}</hw> f. = {#ºyApana#} Spr. 4397. 
+22393 new <hw>{#kAlayApanA#}</hw> f. = {#ºyApana#} <ls>Spr.</ls> 4397. 
+;-----------------
+22421 old <hw>{#kuNThAzmamAlAmaya#}</hw> Adj. {%aus einer langen Reihe ²stumpfer Steine bestehend%} Spr. 3162. 
+22421 new <hw>{#kuNThAzmamAlAmaya#}</hw> Adj. {%aus einer langen Reihe ²stumpfer Steine bestehend%} <ls>Spr.</ls> 3162. 
+;-----------------
+22477 old <hw>{#kRtamUla#}</hw> Adj. {%fest wurzelnd, festen Fuss gefasst ²habend%} <ls>MBH.</ls> 1, 202, 11. 2, 5, 109. Spr. 6827. 
+22477 new <hw>{#kRtamUla#}</hw> Adj. {%fest wurzelnd, festen Fuss gefasst ²habend%} <ls>MBH.</ls> 1, 202, 11. 2, 5, 109. <ls>Spr.</ls> 6827. 
+;-----------------
+22533 old <hw>{#kaulakAvatI£#}</hw> Nom. Du. m. N. pr. zweier {|R2s2i|} ²<ls>MAITR. S.</ls> 2, 1, 3 (4, 3). 
+22533 new <hw>{#kaulakAvatI£#}</hw> Nom. Du. m. N. pr. zweier {|R2shi|} ²<ls>MAITR. S.</ls> 2, 1, 3 (4, 3). 
+;-----------------
+22698 old <hw>{#ghRtamadhumaya#}</hw> Adj. {%aus Ghee und Honig bestehend%} ²Spr. 6357. 
+22698 new <hw>{#ghRtamadhumaya#}</hw> Adj. {%aus Ghee und Honig bestehend%} ²<ls>Spr.</ls> 6357. 
+;-----------------
+22889 old <hw>{#jaladhikanyakA#}</hw> f. Patron. der {|Laks2mi1|} <ls>BHA1M. ²V.</ls> 4, 8. 
+22889 new <hw>{#jaladhikanyakA#}</hw> f. Patron. der {|Lakshmi1|} <ls>BHA1M. ²V.</ls> 4, 8. 
+;-----------------
+23258 old <hw>{#dezabhaGga#}</hw> m. {%Ruin des Landes%} Spr. 3084. 6080. ²<ls>KATHA1S.</ls> 21, 115. 
+23258 new <hw>{#dezabhaGga#}</hw> m. {%Ruin des Landes%} <ls>Spr.</ls> 3084. 6080. ²<ls>KATHA1S.</ls> 21, 115. 
+;-----------------
+23390 old <hw>{#nadImArga#}</hw> m. {%Flussbett%} Spr. 6988. 
+23390 new <hw>{#nadImArga#}</hw> m. {%Flussbett%} <ls>Spr.</ls> 6988. 
+;-----------------
+23398 old <hw>{#nandakumAra#}</hw> (<ls>BHA1M. V.</ls> 4, 32) und {#nandasuta#} (ebend. ²4, 29) m. Patron. {|Kr2s2n2a's|}. 
+23398 new <hw>{#nandakumAra#}</hw> (<ls>BHA1M. V.</ls> 4, 32) und {#nandasuta#} (ebend. ²4, 29) m. Patron. {|Kr2shn2a's|}. 
+;-----------------
+23534 old <hw>{#niSAdasthapati£#}</hw> m. {%das Oberhaupt der%} {|Nis2a1da|} ²<ls>MAITR. S.</ls> 2, 2, 4 (18, 15). 
+23534 new <hw>{#niSAdasthapati£#}</hw> m. {%das Oberhaupt der%} {|Nisha1da|} ²<ls>MAITR. S.</ls> 2, 2, 4 (18, 15). 
+;-----------------
+23562 old <hw>{#nRprajA#}</hw> f. Pl. {%Menschenkinder%} Spr. 862. 
+23562 new <hw>{#nRprajA#}</hw> f. Pl. {%Menschenkinder%} <ls>Spr.</ls> 862. 
+;-----------------
+23631 old <hw>{#paJcamahAkalpa#}</hw> Adj. Beiw. {|Vis2n2u's|} <ls>MBH.</ls> 12, ²338, No. 114. 
+23631 new <hw>{#paJcamahAkalpa#}</hw> Adj. Beiw. {|Vishn2u's|} <ls>MBH.</ls> 12, ²338, No. 114. 
+;-----------------
+23876 old <hw>{#puSpaketu#}</hw> 3) {%c%}) eines Fürsten von {|Pus2pabha-²dra|} <ls>HEM. PAR.</ls> 6, 94. 
+23876 new <hw>{#puSpaketu#}</hw> 3) {%c%}) eines Fürsten von {|Pushpabha-²dra|} <ls>HEM. PAR.</ls> 6, 94. 
+;-----------------
+23984 old <hw>{#prativRttAntam#}</hw> Adv. {%der Erzählung gemäss, wie ²man erzählt%} Spr. 6703. <ls>RA1JAT.</ls> 1, 189. 
+23984 new <hw>{#prativRttAntam#}</hw> Adv. {%der Erzählung gemäss, wie ²man erzählt%} <ls>Spr.</ls> 6703. <ls>RA1JAT.</ls> 1, 189. 
+;-----------------
+24088 old <hw>{#badaksAna#}</hw> {|Badachs2a1n|} <ls>BHA1VAPR.</ls> 1, 248. v. l. {#bAº#}. 
+24088 new <hw>{#badaksAna#}</hw> {|Badachsha1n|} <ls>BHA1VAPR.</ls> 1, 248. v. l. {#bAº#}. 
+;-----------------
+24112 old <hw>{#bahiSpavamAnAstAva#}</hw> m. {%der Ort, wo das%} {|Bahis2-²pavama1nastotra|} {%abgesungen wird.%} <ls>A1PAST. S4R.</ls> ²11, 14, 10. 
+24112 new <hw>{#bahiSpavamAnAstAva#}</hw> m. {%der Ort, wo das%} {|Bahish-²pavama1nastotra|} {%abgesungen wird.%} <ls>A1PAST. S4R.</ls> ²11, 14, 10. 
+;-----------------
+24226 old <hw>{#akhilalokanAtha#}</hw> m. {%Beschützer aller Welten%} ({|Vi-²s2n2u|}) <ls>BHA1G. P.</ls> 2, 7, 15. 
+24226 new <hw>{#akhilalokanAtha#}</hw> m. {%Beschützer aller Welten%} ({|Vi-²shn2u|}) <ls>BHA1G. P.</ls> 2, 7, 15. 
+;-----------------
+24423 old <hw>{#ajAtarajas#}</hw> Adj. {%noch blüthenstaublos%} und zu-²gleich {%noch nicht menstruirend%} Spr. 378. 
+24423 new <hw>{#ajAtarajas#}</hw> Adj. {%noch blüthenstaublos%} und zu-²gleich {%noch nicht menstruirend%} <ls>Spr.</ls> 378. 
+;-----------------
+24523 old <hw>{#atiraTita#}</hw> n. {%heftiges Kreischen.%} Pl. Spr. 379. 
+24523 new <hw>{#atiraTita#}</hw> n. {%heftiges Kreischen.%} Pl. <ls>Spr.</ls> 379. 
+;-----------------
+24603 old <hw>{#ativiSama#}</hw> Adj. (f. {#A#}) auch {%sehr beschwerlich, ² -- unbequem%} Spr. 1871. 
+24603 new <hw>{#ativiSama#}</hw> Adj. (f. {#A#}) auch {%sehr beschwerlich, ² -- unbequem%} <ls>Spr.</ls> 1871. 
+;-----------------
+24784 old <hw>{#adhizreSThi#}</hw> Adv. {%auf%} {|S4res2t2hin|} (werfen) <ls>HEM. ²PAR.</ls> 2, 67. 
+24784 new <hw>{#adhizreSThi#}</hw> Adv. {%auf%} {|S4resht2hin|} (werfen) <ls>HEM. ²PAR.</ls> 2, 67. 
+;-----------------
+24872 old <hw>{#ananuvaSaTkAra#}</hw> Adj. {%nicht von dem wiederholten%} ²{|Vas2at2|}-{%Ruf begleitet%} <ls>A1PAST. S4R.</ls> 12, 23, 9. 
+24872 new <hw>{#ananuvaSaTkAra#}</hw> Adj. {%nicht von dem wiederholten%} ²{|Vashat2|}-{%Ruf begleitet%} <ls>A1PAST. S4R.</ls> 12, 23, 9. 
+;-----------------
+25016 old <hw>{#anAlocita#}</hw> Adj. {%nicht erwogen, nicht überlegt%} ²<ls>PAN5CAT.</ls> 239, 4. Spr. 168. 
+25016 new <hw>{#anAlocita#}</hw> Adj. {%nicht erwogen, nicht überlegt%} ²<ls>PAN5CAT.</ls> 239, 4. <ls>Spr.</ls> 168. 
+;-----------------
+25196 old <hw>{#anuSTupkAram#}</hw> Absol. {%in eine%} {|Anus2t2ubh|} {%ver-²wandelnd%} <ls>A1S4V. S4R.</ls> 6, 3, 12. 
+25196 new <hw>{#anuSTupkAram#}</hw> Absol. {%in eine%} {|Anusht2ubh|} {%ver-²wandelnd%} <ls>A1S4V. S4R.</ls> 6, 3, 12. 
+;-----------------
+25200 old <hw>{#anuSTubgAyatrIkAram#}</hw> Absol. {%in eine%} {|Anus2t2ubh|} [Page5-243-b] ²{%und in eine%} {|Ga1yatri1|} {%verwandelnd%} <ls>A1S4V. S4R.</ls> 6, 2, 8. 
+25200 new <hw>{#anuSTubgAyatrIkAram#}</hw> Absol. {%in eine%} {|Anusht2ubh|} [Page5-243-b] ²{%und in eine%} {|Ga1yatri1|} {%verwandelnd%} <ls>A1S4V. S4R.</ls> 6, 2, 8. 
+;-----------------
+25393 old <hw>{#apakSapAtin#}</hw> Adj. {%mit den Flügeln nicht fliegend%} ²und {%parteiisch für%} {|Vis2n2u|} ({#a#}) <ls>VA1SAV.</ls> 113, 1. ²Auch {%*unparteiisch.%} 
+25393 new <hw>{#apakSapAtin#}</hw> Adj. {%mit den Flügeln nicht fliegend%} ²und {%parteiisch für%} {|Vishn2u|} ({#a#}) <ls>VA1SAV.</ls> 113, 1. ²Auch {%*unparteiisch.%} 
+;-----------------
+25473 old <hw>{#apaspaza#}</hw> (Nachtr. 3), an der angeführten Stelle ²zugleich {%ohne die Einleitung%} {|Patan5jali's|} {%zum%} ²{|Maha1bha1s2ya|}. 
+25473 new <hw>{#apaspaza#}</hw> (Nachtr. 3), an der angeführten Stelle ²zugleich {%ohne die Einleitung%} {|Patan5jali's|} {%zum%} ²{|Maha1bha1shya|}. 
+;-----------------
+25593 old <hw>{#abhikRSNam#}</hw> Adj. {%zu%} {|Kr2s2n2a|} {%hin%} <ls>S4IS4.</ls> 13, 41. 
+25593 new <hw>{#abhikRSNam#}</hw> Adj. {%zu%} {|Kr2shn2a|} {%hin%} <ls>S4IS4.</ls> 13, 41. 
+;-----------------
+25665 old <hw>{#abhizauri#}</hw> Adv. {%gegen%} {|Kr2s2n2a|} <ls>S4IS4.</ls> 20, 2. 
+25665 new <hw>{#abhizauri#}</hw> Adv. {%gegen%} {|Kr2shn2a|} <ls>S4IS4.</ls> 20, 2. 
+;-----------------
+25871 old <hw>{#arathin#}</hw> Adj. {%keinen Wagen habend%} Spr. 3666. 
+25871 new <hw>{#arathin#}</hw> Adj. {%keinen Wagen habend%} <ls>Spr.</ls> 3666. 
+;-----------------
+25887 old <hw>{#aravindanAbhi#}</hw> m. Bein. {|Vis2n2u's|} <ls>S4IS4.</ls> 3, 65. 
+25887 new <hw>{#aravindanAbhi#}</hw> m. Bein. {|Vishn2u's|} <ls>S4IS4.</ls> 3, 65. 
+;-----------------
+26012 old <hw>{#arthasaMsiddhi#}</hw> f. {%das Gelingen einer Sache%} <ls>KATHA1S.</ls> ²61, 55. {#ekArthaº#} {%das G. einer gemeinsamen Sache%} ²Spr. 4566. 
+26012 new <hw>{#arthasaMsiddhi#}</hw> f. {%das Gelingen einer Sache%} <ls>KATHA1S.</ls> ²61, 55. {#ekArthaº#} {%das G. einer gemeinsamen Sache%} ²<ls>Spr.</ls> 4566. 
+;-----------------
+26097 old <hom>2.</hom> <hw>{#alakSaNa#}</hw> 3) {%sich durch Nichts auszeichnend, un-²bedeutend%} Spr. 2095. -- 4) {%ohne Veranlassung ²geschehen%} <ls>R.</ls> 6, 95, 19. 
+26097 new <hom>2.</hom> <hw>{#alakSaNa#}</hw> 3) {%sich durch Nichts auszeichnend, un-²bedeutend%} <ls>Spr.</ls> 2095. -- 4) {%ohne Veranlassung ²geschehen%} <ls>R.</ls> 6, 95, 19. 
+;-----------------
+26125 old <hw>{#alaghubhava#}</hw> m. {%keine Erniedrigung%} Spr. 4253, v. l. 
+26125 new <hw>{#alaghubhava#}</hw> m. {%keine Erniedrigung%} <ls>Spr.</ls> 4253, v. l. 
+;-----------------
+26129 old <hw>{#alaGghanIyatA#}</hw> f. Nom. abstr. zu {#alaGghanIya#} {%nicht ²zu überschreiten%} und {%dem man nicht zu nahe tre-²ten darf%} Spr. 2579. 
+26129 new <hw>{#alaGghanIyatA#}</hw> f. Nom. abstr. zu {#alaGghanIya#} {%nicht ²zu überschreiten%} und {%dem man nicht zu nahe tre-²ten darf%} <ls>Spr.</ls> 2579. 
+;-----------------
+26207 old <hw>{#alekhya#}</hw> Adj. {%nicht zu rechnen -- , nicht zu zäh-²len zu%} (Loc.) Spr. 1536. 
+26207 new <hw>{#alekhya#}</hw> Adj. {%nicht zu rechnen -- , nicht zu zäh-²len zu%} (Loc.) <ls>Spr.</ls> 1536. 
+;-----------------
+26383 old <hw>{#avazya#}</hw> Adj. {%sich Jmds Willen nicht fügend%} <ls>KA-²T2HOP.</ls> 3, 5. Spr. 1767. {#avazyam#} s. bes. 
+26383 new <hw>{#avazya#}</hw> Adj. {%sich Jmds Willen nicht fügend%} <ls>KA-²T2HOP.</ls> 3, 5. <ls>Spr.</ls> 1767. {#avazyam#} s. bes. 
+;-----------------
+26479 old <hw>{#avikatthin#}</hw> Adj. {%nicht prahlend%} Spr. 6233. 
+26479 new <hw>{#avikatthin#}</hw> Adj. {%nicht prahlend%} <ls>Spr.</ls> 6233. 
+;-----------------
+26511 old <hom>2.</hom> <hw>{#avikrama#}</hw> Adj. {%keinen Muth an den Tag legend%} ²Spr. 6149. 
+26511 new <hom>2.</hom> <hw>{#avikrama#}</hw> Adj. {%keinen Muth an den Tag legend%} ²<ls>Spr.</ls> 6149. 
+;-----------------
+26571 old <hw>{#avitRptaka#}</hw> Adj. {%der sich noch nicht gesättigt hat ²an%} (Gen.) Spr. 6692. 
+26571 new <hw>{#avitRptaka#}</hw> Adj. {%der sich noch nicht gesättigt hat ²an%} (Gen.) <ls>Spr.</ls> 6692. 
+;-----------------
+26607 old <hw>{#avinazvara#}</hw> Adj. {%unvergänglich%} Spr. 6727. 
+26607 new <hw>{#avinazvara#}</hw> Adj. {%unvergänglich%} <ls>Spr.</ls> 6727. 
+;-----------------
+26688 old <hw>{#aviruddha#}</hw> auch {%nicht verfeindet, nicht in Feind-²schaft lebend mit%} (Instr., Gen. oder im Comp. vor-²angehend) Spr. 165. <ls>R.</ls> 1, 7, 8. <ls>MBH.</ls> 12, 116, 18. ²<ls>RAGH.</ls> 10, 81. {%ungehemmt%} <ls>VIKR.</ls> 49, 11. {%nicht wider-²wärtig, -- gehässig, -- unangenehm, gefällig%} <ls>KA-²THA1S.</ls> 71, 210. Spr. 165. 
+26688 new <hw>{#aviruddha#}</hw> auch {%nicht verfeindet, nicht in Feind-²schaft lebend mit%} (Instr., Gen. oder im Comp. vor-²angehend) <ls>Spr.</ls> 165. <ls>R.</ls> 1, 7, 8. <ls>MBH.</ls> 12, 116, 18. ²<ls>RAGH.</ls> 10, 81. {%ungehemmt%} <ls>VIKR.</ls> 49, 11. {%nicht wider-²wärtig, -- gehässig, -- unangenehm, gefällig%} <ls>KA-²THA1S.</ls> 71, 210. <ls>Spr.</ls> 165. 
+;-----------------
+27130 old <hw>{#ahipati#}</hw> m. {%der Schlangendämon%} {|S4es2a|} <ls>S4IS4.</ls> 9, 25. 
+27130 new <hw>{#ahipati#}</hw> m. {%der Schlangendämon%} {|S4esha|} <ls>S4IS4.</ls> 9, 25. 
+;-----------------
+27459 old <hw>{#Apoda#}</hw> m. Patron. des {|R2s2i Dhaumya|} <ls>MBH.</ls> [Page5-249-b] ²1, 3, 21. {#Ayoda#} v. l. 
+27459 new <hw>{#Apoda#}</hw> m. Patron. des {|R2shi Dhaumya|} <ls>MBH.</ls> [Page5-249-b] ²1, 3, 21. {#Ayoda#} v. l. 
+;-----------------
+27519 old <hw>{#ArSoDhA#}</hw> f. {%eine nach der Weise der%} {|R2s2i|} {%geeh-²lichte Frau%} <ls>M.</ls> 3, 38. 
+27519 new <hw>{#ArSoDhA#}</hw> f. {%eine nach der Weise der%} {|R2shi|} {%geeh-²lichte Frau%} <ls>M.</ls> 3, 38. 
+;-----------------
+27681 old <hw>{#uccairabhijana#}</hw> Adj. {%von hoher Abstammung%} <ls>MU7-[Page5-250-a]²DRA1R.</ls> 131, 1 (194, 4). 
+27681 new <hw>{#uccairabhijana#}</hw> Adj. {%von hoher Abstammung%} <ls>MU-[Page5-250-a]²DRA1R.</ls> 131, 1 (194, 4). 
+;-----------------
+27913 old <hw>{#upaprasannarSi#}</hw> Adv. {%zum%} {|R2s2i Prasanna(can-²dra)|} <ls>HEM. PAR.</ls> 1, 470. 
+27913 new <hw>{#upaprasannarSi#}</hw> Adv. {%zum%} {|R2shi Prasanna(can-²dra)|} <ls>HEM. PAR.</ls> 1, 470. 
+;-----------------
+27957 old <hw>{#upasAgaram#}</hw> Adv. {%beim%} ({|R2s2i|}) {|Sa1gara|} <ls>HEM. PAR.</ls> ²1, 454. 
+27957 new <hw>{#upasAgaram#}</hw> Adv. {%beim%} ({|R2shi|}) {|Sa1gara|} <ls>HEM. PAR.</ls> ²1, 454. 
+;-----------------
+28184 old <hw>{#aupendra#}</hw> Adj. {%dem%} {|Vis2n2u|} {%eigen%} u. s. w. <ls>S4IS4.</ls> 20, 79. 
+28184 new <hw>{#aupendra#}</hw> Adj. {%dem%} {|Vishn2u|} {%eigen%} u. s. w. <ls>S4IS4.</ls> 20, 79. 
+;-----------------
+28530 old <hw>{#kIrti£#}</hw> 1) {%b%}). Dass das Wort nicht, wie <ls>KULL.</ls> zu [Page5-252-b] ²M. 4, 94 und 11, 49 annimmt, {%Ruhm nach dem Tode%} ²bedeute, ersieht man aus <ls>M.</ls> 2, 9. 5, 166. 8, 81. ²Wenn es 4, 94 und 11, 40 und Spr. 6683 neben ²{#yazas#} erscheint, so ist damit wohl nichts Anderes ²gemeint als im Deutschen mit {%Ruhm und Ehre.%} ²Dasselbe gilt von {#yaso vA kiti vA#} in einer {|A-²s4oka|}-Inschrift (Z. d. d. m. G. 37, 573. 575). 
+28530 new <hw>{#kIrti£#}</hw> 1) {%b%}). Dass das Wort nicht, wie <ls>KULL.</ls> zu [Page5-252-b] ²M. 4, 94 und 11, 49 annimmt, {%Ruhm nach dem Tode%} ²bedeute, ersieht man aus <ls>M.</ls> 2, 9. 5, 166. 8, 81. ²Wenn es 4, 94 und 11, 40 und <ls>Spr.</ls> 6683 neben ²{#yazas#} erscheint, so ist damit wohl nichts Anderes ²gemeint als im Deutschen mit {%Ruhm und Ehre.%} ²Dasselbe gilt von {#yaso vA kiti vA#} in einer {|A-²s4oka|}-Inschrift (Z. d. d. m. G. 37, 573. 575). 
+;-----------------
+28562 old <hw>{#kumArarAja#}</hw> m. Bein. {|Hars2avardhana's|} ebend. ²286. 
+28562 new <hw>{#kumArarAja#}</hw> m. Bein. {|Harshavardhana's|} ebend. ²286. 
+;-----------------
+28619 old <hw>{#kusumalAvI#}</hw> f. {%Blumenleserin%} Spr. 3702. 
+28619 new <hw>{#kusumalAvI#}</hw> f. {%Blumenleserin%} <ls>Spr.</ls> 3702. 
+;-----------------
+28939 old <hw>{#garuDaketu#}</hw> m. Bein. {|Vis2n2u's|} <ls>UTTAMAC.</ls> 87. 
+28939 new <hw>{#garuDaketu#}</hw> m. Bein. {|Vishn2u's|} <ls>UTTAMAC.</ls> 87. 
+;-----------------
+29071 old <hw>{#gorAsya#}</hw> Adj. als Beiw. {|Kr2s2n2a's|} <ls>PAN5CAR.</ls> 4, 8, 16. 
+29071 new <hw>{#gorAsya#}</hw> Adj. als Beiw. {|Kr2shn2a's|} <ls>PAN5CAR.</ls> 4, 8, 16. 
+;-----------------
+29199 old <hw>{#caturaSTaka#}</hw> Adj. {%vier%} {|As2t2aka1|} {%genannte Tage ha-²bend%} <ls>GOBH.</ls> 3, 10, 4. 
+29199 new <hw>{#caturaSTaka#}</hw> Adj. {%vier%} {|Asht2aka1|} {%genannte Tage ha-²bend%} <ls>GOBH.</ls> 3, 10, 4. 
+;-----------------
+29437 old <hw>{#jalarekhA#}</hw> auch {%Wasserstreifen%} Spr. 4952. 
+29437 new <hw>{#jalarekhA#}</hw> auch {%Wasserstreifen%} <ls>Spr.</ls> 4952. 
+;-----------------
+29490 old <hw>{#juka#}</hw> m. <gr></gr>, {%die Wage im Thierkreise%} <ls>M. MÜL-²LER</ls> Ren. 326. Richtig {#jUka#}, vgl. <ls>Ind. St.</ls> 2, 259. 
+29490 new <hw>{#juka#}</hw> m. <gr>greek1</gr>, {%die Wage im Thierkreise%} <ls>M. MÜL-²LER</ls> Ren. 326. Richtig {#jUka#}, vgl. <ls>Ind. St.</ls> 2, 259. 
+;-----------------
+29847 old <hw>{#dakSajA#}</hw> f. {%eine Tochter%} {|Daks2a's|}; Pl. {%die Weiber ²des Mondes%} <ls>HEM. PAR.</ls> 2, 88. 
+29847 new <hw>{#dakSajA#}</hw> f. {%eine Tochter%} {|Daksha's|}; Pl. {%die Weiber ²des Mondes%} <ls>HEM. PAR.</ls> 2, 88. 
+;-----------------
+30148 old <hw>{#daivavidhi#}</hw> m. {%Schicksal.%} Pl. Spr. 7049. 
+30148 new <hw>{#daivavidhi#}</hw> m. {%Schicksal.%} Pl. <ls>Spr.</ls> 7049. 
+;-----------------
+30224 old <hw>{#dhanaviparyaya#}</hw> m. {%Verlust des Vermögens%} Spr. 6050. 
+30224 new <hw>{#dhanaviparyaya#}</hw> m. {%Verlust des Vermögens%} <ls>Spr.</ls> 6050. 
+;-----------------
+30430 old <hw>{#naravIra#}</hw> m. {%ein heldenmüthiger -- , ausgezeich-²neter Mann%} <ls>MBH.</ls> 3, 69, 29. {#ºloka#} m. so v. a. {%die ²Menschenkinder%} Spr. 5467. 
+30430 new <hw>{#naravIra#}</hw> m. {%ein heldenmüthiger -- , ausgezeich-²neter Mann%} <ls>MBH.</ls> 3, 69, 29. {#ºloka#} m. so v. a. {%die ²Menschenkinder%} <ls>Spr.</ls> 5467. 
+;-----------------
+30610 old <hw>{#nimnagAsuta#}</hw> m. Metron. {|Bhi1s2ma's|} <ls>S4IS4.</ls> 15, 21. 
+30610 new <hw>{#nimnagAsuta#}</hw> m. Metron. {|Bhi1shma's|} <ls>S4IS4.</ls> 15, 21. 
+;-----------------
+30751 old <hw>{#niSphala#}</hw> 1) {%b%}) Nom. abstr. {#ºtA#} f. Spr. 5853, v. l. 
+30751 new <hw>{#niSphala#}</hw> 1) {%b%}) Nom. abstr. {#ºtA#} f. <ls>Spr.</ls> 5853, v. l. 
+;-----------------
+31063 old <hw>{#paravarga#}</hw> m. {%die Partei eines Andern, eine fremde ²Partei%} Spr. 906. 
+31063 new <hw>{#paravarga#}</hw> m. {%die Partei eines Andern, eine fremde ²Partei%} <ls>Spr.</ls> 906. 
+;-----------------
+31294 old <hw>{#pANipuTa#}</hw> {%die hohle Hand%} Spr. 7784. 
+31294 new <hw>{#pANipuTa#}</hw> {%die hohle Hand%} <ls>Spr.</ls> 7784. 
+;-----------------
+31348 old <hom>5.</hom> <hw>{#pArtha#}</hw> m. und <hw>{#pArthona#}</hw> m. <gr></gr>, {%die Jungfrau ²im Thierkreise%} <ls>M. MÜLLER</ls>, Ren. 326. 
+31348 new <hom>5.</hom> <hw>{#pArtha#}</hw> m. und <hw>{#pArthona#}</hw> m. <gr>greek2</gr>, {%die Jungfrau ²im Thierkreise%} <ls>M. MÜLLER</ls>, Ren. 326. 
+;-----------------
+31412 old <hw>{#pizitavasAmaya#}</hw> Adj. (f. {#I#}) {%aus Fleisch und Fett ²bestehend%} Spr. 6154. 
+31412 new <hw>{#pizitavasAmaya#}</hw> Adj. (f. {#I#}) {%aus Fleisch und Fett ²bestehend%} <ls>Spr.</ls> 6154. 
+;-----------------
+31448 old <hw>{#puNDarIkekSaNa#}</hw> m. Bein. {|Kr2s2n2a's|} <ls>MBH.</ls> 2, 24, 29. 
+31448 new <hw>{#puNDarIkekSaNa#}</hw> m. Bein. {|Kr2shn2a's|} <ls>MBH.</ls> 2, 24, 29. 
+;-----------------
+31957 old <hw>{#balidveSin#}</hw> m. Bein. {|Vis2n2u's|} <ls>ALAM3KA1RAV.</ls> ²179, {%a.%} 
+31957 new <hw>{#balidveSin#}</hw> m. Bein. {|Vishn2u's|} <ls>ALAM3KA1RAV.</ls> ²179, {%a.%} 
+;-----------------
+32325 old <hw>{#bhImapUrvaja#}</hw> m. Bein. {|Yudhis2t2hira's|} <ls>S4IS4.</ls> 16, 44. 
+32325 new <hw>{#bhImapUrvaja#}</hw> m. Bein. {|Yudhisht2hira's|} <ls>S4IS4.</ls> 16, 44. 
+;-----------------
+32409 old <hw>{#bhramaraketu#}</hw> m. N. pr. eines {|Ra1ks2asa|} <ls>UTTAMAC.</ls> ²31. fgg. 
+32409 new <hw>{#bhramaraketu#}</hw> m. N. pr. eines {|Ra1kshasa|} <ls>UTTAMAC.</ls> ²31. fgg. 
+;-----------------
+32497 old <hw>{#madAlasa#}</hw> 2) {%a%}) auch N. pr. einer Tochter des ²{|Ra1ks2asa Bhramaraketu|} <ls>UTTAMAC.</ls> 93. 
+32497 new <hw>{#madAlasa#}</hw> 2) {%a%}) auch N. pr. einer Tochter des ²{|Ra1kshasa Bhramaraketu|} <ls>UTTAMAC.</ls> 93. 
+;-----------------
+33247 old <hw>{#ativaiSamya#}</hw> n. {%grosse Ungleichheit des Bodens%} ²Spr. 6239. 
+33247 new <hw>{#ativaiSamya#}</hw> n. {%grosse Ungleichheit des Bodens%} ²<ls>Spr.</ls> 6239. 
+;-----------------
+33279 old <hw>{#atizaTha#}</hw> Adj. {%überaus falsch, -- hinterlistig, -- ²boshaft%} <ls>MBH.</ls> 13, 33, 11. Spr. 4258. 
+33279 new <hw>{#atizaTha#}</hw> Adj. {%überaus falsch, -- hinterlistig, -- ²boshaft%} <ls>MBH.</ls> 13, 33, 11. <ls>Spr.</ls> 4258. 
+;-----------------
+33283 old <hw>{#atizayitatva#}</hw> n. {%Ungewöhnlichkeit, Ausserordent-²lichkeit%} Spr. 1685, N. 
+33283 new <hw>{#atizayitatva#}</hw> n. {%Ungewöhnlichkeit, Ausserordent-²lichkeit%} <ls>Spr.</ls> 1685, N. 
+;-----------------
+33299 old <hw>{#atizIta#}</hw> 1) Adj. {%sehr kühlend%} <ls>SUS4R.</ls> 1, 184, 1. -- ²2) n. {%grosse -- , zu grosse Kälte%} Spr. 2504. <ls>MA1RK. ²P.</ls> 99, 4. 9. 
+33299 new <hw>{#atizIta#}</hw> 1) Adj. {%sehr kühlend%} <ls>SUS4R.</ls> 1, 184, 1. -- ²2) n. {%grosse -- , zu grosse Kälte%} <ls>Spr.</ls> 2504. <ls>MA1RK. ²P.</ls> 99, 4. 9. 
+;-----------------
+33340 old <hw>{#atisaMkaTa#}</hw> 1) Adj. {%überaus schwierig, -- gefähr-²lich%} <ls>MA1RK. P.</ls> 45, 5. -- 2) n. {%a%}) {%ausserordentliche ²Dichtigkeit%} <ls>RA1JAT.</ls> 6, 249. -- {%b%}) {%grosse Noth, -- Ge-²fahr%} Spr. 3170. <ls>MA1LATI1M.</ls> 103, 19. Comm. zu <ls>KU-²MA1RAS.</ls> 3. 23. 
+33340 new <hw>{#atisaMkaTa#}</hw> 1) Adj. {%überaus schwierig, -- gefähr-²lich%} <ls>MA1RK. P.</ls> 45, 5. -- 2) n. {%a%}) {%ausserordentliche ²Dichtigkeit%} <ls>RA1JAT.</ls> 6, 249. -- {%b%}) {%grosse Noth, -- Ge-²fahr%} <ls>Spr.</ls> 3170. <ls>MA1LATI1M.</ls> 103, 19. Comm. zu <ls>KU-²MA1RAS.</ls> 3. 23. 
+;-----------------
+33413 old <hw>{#atisuvRtta#}</hw> Adj. 1) {%sehr hübsch rund%} Spr. 4961. ² -- 2) {%von sehr gutem Betragen%} <ls>KATHA1S.</ls> 29, 72. 
+33413 new <hw>{#atisuvRtta#}</hw> Adj. 1) {%sehr hübsch rund%} <ls>Spr.</ls> 4961. ² -- 2) {%von sehr gutem Betragen%} <ls>KATHA1S.</ls> 29, 72. 
+;-----------------
+33441 old <hw>{#atihArin#}</hw> Adj. {%sehr reizend%} Spr. 4961. 
+33441 new <hw>{#atihArin#}</hw> Adj. {%sehr reizend%} <ls>Spr.</ls> 4961. 
+;-----------------
+33481 old <hw>{#adbhutasiMha#}</hw> m. {%Wunderlöwe%} ({|Vis2n2u|}) <ls>BHA1G. P.</ls> ²7, 10, 9. 
+33481 new <hw>{#adbhutasiMha#}</hw> m. {%Wunderlöwe%} ({|Vishn2u|}) <ls>BHA1G. P.</ls> ²7, 10, 9. 
+;-----------------
+33573 old <hw>{#anantavijaya#}</hw> m. N. pr. der Muschel {|Yudhis2t2hi-²ra's|} <ls>BHAG.</ls> 1, 16. 
+33573 new <hw>{#anantavijaya#}</hw> m. N. pr. der Muschel {|Yudhisht2hi-²ra's|} <ls>BHAG.</ls> 1, 16. 
+;-----------------
+33709 old <hw>{#anupahata#}</hw> auch so v. a. {%unbestritten%} Spr. 4310. 
+33709 new <hw>{#anupahata#}</hw> auch so v. a. {%unbestritten%} <ls>Spr.</ls> 4310. 
+;-----------------
+33763 old <hw>{#anaiSTika#}</hw> Adj. {%nicht zur%} {|Is2t2i|} {%gehörend.%} Nom. ²abstr. {#tva#} n. Comm. zu <ls>A1PAST. S4R.</ls> 15, 5, 19. 
+33763 new <hw>{#anaiSTika#}</hw> Adj. {%nicht zur%} {|Isht2i|} {%gehörend.%} Nom. ²abstr. {#tva#} n. Comm. zu <ls>A1PAST. S4R.</ls> 15, 5, 19. 
+;-----------------
+33819 old <hw>{#anvaSTakA#}</hw>, lies {|As2t2aka1|}. 
+33819 new <hw>{#anvaSTakA#}</hw>, lies {|Asht2aka1|}. 
+;-----------------
+33864 old <hw>{#apasarpya#}</hw> (Conj.) Adj. {%fortzujagen%} Spr. 574. 
+33864 new <hw>{#apasarpya#}</hw> (Conj.) Adj. {%fortzujagen%} <ls>Spr.</ls> 574. 
+;-----------------
+33988 old <hw>{#amRtaturaMga#}</hw> (wohl {#ºtaraMga#}) m. Titel eines Werkes ²des {|Ks2emendra|} Sitzungsberichte der <ls>phil.-hist. ²Klasse der Wiener Ak.</ls> 106, 480. 
+33988 new <hw>{#amRtaturaMga#}</hw> (wohl {#ºtaraMga#}) m. Titel eines Werkes ²des {|Kshemendra|} Sitzungsberichte der <ls>phil.-hist. ²Klasse der Wiener Ak.</ls> 106, 480. 
+;-----------------
+34201 old <hw>{#avizvasta#}</hw> Adj. {%der einem Andern nicht traut%} <ls>R.</ls> ²3, 1. 25. Spr. 287. 3412. 3431. fgg. 5923. 6209. 
+34201 new <hw>{#avizvasta#}</hw> Adj. {%der einem Andern nicht traut%} <ls>R.</ls> ²3, 1. 25. <ls>Spr.</ls> 287. 3412. 3431. fgg. 5923. 6209. 
+;-----------------
+34269 old <hw>{#avyatha#}</hw> 1) {%c%}) {%nicht fehlgehend%} (Opfer) <ls>YA1JN5.</ls> 1, 315; ²vgl. Spr. 3493. 
+34269 new <hw>{#avyatha#}</hw> 1) {%c%}) {%nicht fehlgehend%} (Opfer) <ls>YA1JN5.</ls> 1, 315; ²vgl. <ls>Spr.</ls> 3493. 
+;-----------------
+34329 old <hw>{#azastravadha#}</hw> m. {%ein Mord ohne Waffe%} Spr. 5530. 
+34329 new <hw>{#azastravadha#}</hw> m. {%ein Mord ohne Waffe%} <ls>Spr.</ls> 5530. 
+;-----------------
+34353 old <hw>{#azubhAtmaka#}</hw> Adj. {%bösgesinnt%} Spr. 414. 
+34353 new <hw>{#azubhAtmaka#}</hw> Adj. {%bösgesinnt%} <ls>Spr.</ls> 414. 
+;-----------------
+34422 old <hw>{#aSTAviMzin#}</hw> m. Du. Bez. {%des dem%} {|Vis2uvant|}-²{%Tage vorausgehenden und nachfolgenden rituellen ²Monates in einer Jahresfeier%} <ls>S4A1N3KH. S4R.</ls> 13, 25, 5. 
+34422 new <hw>{#aSTAviMzin#}</hw> m. Du. Bez. {%des dem%} {|Vishuvant|}-²{%Tage vorausgehenden und nachfolgenden rituellen ²Monates in einer Jahresfeier%} <ls>S4A1N3KH. S4R.</ls> 13, 25, 5. 
+;-----------------
+34518 old <hw>{#asatkRta#}</hw> auch {%unfreundlich gereicht%} (Gabe) Spr. ²199. 
+34518 new <hw>{#asatkRta#}</hw> auch {%unfreundlich gereicht%} (Gabe) <ls>Spr.</ls> ²199. 
+;-----------------
+34530 old <hw>{#asatsaMparka#}</hw> m. {%eine Berührung mit Unwürdigen, ² -- mit Schlechten%} Spr. 7463. 
+34530 new <hw>{#asatsaMparka#}</hw> m. {%eine Berührung mit Unwürdigen, ² -- mit Schlechten%} <ls>Spr.</ls> 7463. 
+;-----------------
+34554 old <hw>{#asaMdeham#}</hw> Adv. {%ohne Zweifel, sicher%} Spr. 182. 
+34554 new <hw>{#asaMdeham#}</hw> Adv. {%ohne Zweifel, sicher%} <ls>Spr.</ls> 182. 
+;-----------------
+34586 old <hw>{#asarvajJa#}</hw> Adj. {%nicht allwissend%} Spr. 2801. 
+34586 new <hw>{#asarvajJa#}</hw> Adj. {%nicht allwissend%} <ls>Spr.</ls> 2801. 
+;-----------------
+34594 old <hw>{#asavya#}</hw> 1) Loc. {%zur Rechten%} Spr. 4149. 
+34594 new <hw>{#asavya#}</hw> 1) Loc. {%zur Rechten%} <ls>Spr.</ls> 4149. 
+;-----------------
+34714 old <hw>{#ahApayant#}</hw> Adj. {%es nicht fehlen lassend an%} (Acc.) ²Spr. 1003. {#kAlam#} so v. a. {%keine Zeit verlierend, ²nicht säumend%} <ls>KA1M. NI1TIS.</ls> 5, 64. 
+34714 new <hw>{#ahApayant#}</hw> Adj. {%es nicht fehlen lassend an%} (Acc.) ²<ls>Spr.</ls> 1003. {#kAlam#} so v. a. {%keine Zeit verlierend, ²nicht säumend%} <ls>KA1M. NI1TIS.</ls> 5, 64. 
+;-----------------
+34795 old <hw>{#AdhAtar#}</hw> Nom. ag. {%Lehrer%} Spr. 4029. 
+34795 new <hw>{#AdhAtar#}</hw> Nom. ag. {%Lehrer%} <ls>Spr.</ls> 4029. 
+;-----------------
+34807 old <hw>{#AnartasatkRta#}</hw> Adj. {%von den%} {|A1narta|} {%gefeiert%} ²({|Kr2s2n2a|}) <ls>MBH.</ls> 5, 83, 45 (in einem Wortspiel). 
+34807 new <hw>{#AnartasatkRta#}</hw> Adj. {%von den%} {|A1narta|} {%gefeiert%} ²({|Kr2shn2a|}) <ls>MBH.</ls> 5, 83, 45 (in einem Wortspiel). 
+;-----------------
+34831 old <hw>{#ApatsahAya#}</hw> Adj. {%Helfer in der Noth%} Spr. 6878. 
+34831 new <hw>{#ApatsahAya#}</hw> Adj. {%Helfer in der Noth%} <ls>Spr.</ls> 6878. 
+;-----------------
+35037 old <hw>{#uttripada#}</hw> n. {%ein aufrecht stehender Dreifuss%} Spr. ²3660, v. l. 
+35037 new <hw>{#uttripada#}</hw> n. {%ein aufrecht stehender Dreifuss%} <ls>Spr.</ls> ²3660, v. l. 
+;-----------------
+35202 old <hw>{#RtumukhIya#}</hw> Adj. Bez. {%eines%} {|S2ad2d2hotar|}, {%der ²jedesmal am Anfange der Jahreszeit zu vollziehen ²ist%}, <ls>A1PAST. S4R.</ls> 14, 14, 13. 
+35202 new <hw>{#RtumukhIya#}</hw> Adj. Bez. {%eines%} {|SHad2d2hotar|}, {%der ²jedesmal am Anfange der Jahreszeit zu vollziehen ²ist%}, <ls>A1PAST. S4R.</ls> 14, 14, 13. 
+;-----------------
+35218 old <hw>{#RSivATa#}</hw> m. {|R2s2i|}-{%Convent%} <ls>R.</ls> 1, 50, 4. 
+35218 new <hw>{#RSivATa#}</hw> m. {|R2shi|}-{%Convent%} <ls>R.</ls> 1, 50, 4. 
+;-----------------
+35262 old <hw>{#ekasviSTakRt#}</hw> Adj. {%mit einer gemeinsamen ²Schlussgabe an%} {|Svis2t2akr2t|} {%versehen.%} 
+35262 new <hw>{#ekasviSTakRt#}</hw> Adj. {%mit einer gemeinsamen ²Schlussgabe an%} {|Svisht2akr2t|} {%versehen.%} 
+;-----------------
+35339 old <hw>{#kaNika#}</hw> 1) f. N. pr. eines Ministers des {|Dhr2ta-²ra1s2t2ra|} <ls>MBH.</ls> 1, 140, 2. 
+35339 new <hw>{#kaNika#}</hw> 1) f. N. pr. eines Ministers des {|Dhr2ta-²ra1sht2ra|} <ls>MBH.</ls> 1, 140, 2. 
+;-----------------
+35392 old <hw>{#kapaTazatamaya#}</hw> Adj. {%aus hundertfachem Betrug be-²stehend%} Spr. 1038. 
+35392 new <hw>{#kapaTazatamaya#}</hw> Adj. {%aus hundertfachem Betrug be-²stehend%} <ls>Spr.</ls> 1038. 
+;-----------------
+35404 old <hw>{#kamalanayana#}</hw> 1) Adj. {%lotusäugig%} ({|Vis2n2u|}) 105, 5. ² -- 2) f. {#A#} {%eine Lotusäugige%} <ls>MA1LATI1M.</ls> 73, 8. 
+35404 new <hw>{#kamalanayana#}</hw> 1) Adj. {%lotusäugig%} ({|Vishn2u|}) 105, 5. ² -- 2) f. {#A#} {%eine Lotusäugige%} <ls>MA1LATI1M.</ls> 73, 8. 
+;-----------------
+35505 old <hw>{#kavikaNThAbharaNa#}</hw> n. Titel der Rhetorik {|Ks2e-²mendra's|}. 
+35505 new <hw>{#kavikaNThAbharaNa#}</hw> n. Titel der Rhetorik {|Kshe-²mendra's|}. 
+;-----------------
+35848 old <hw>{#garbhasaMkarita#}</hw> m. {%Mischling%} Spr. 5749. 
+35848 new <hw>{#garbhasaMkarita#}</hw> m. {%Mischling%} <ls>Spr.</ls> 5749. 
+;-----------------
+35952 old <hw>{#candrasUryAkSa#}</hw> Adj. {%Mond und Sonne als Augen ha-²bend%} ({|Vis2n2u|}) <ls>HARIV.</ls> 14189. 
+35952 new <hw>{#candrasUryAkSa#}</hw> Adj. {%Mond und Sonne als Augen ha-²bend%} ({|Vishn2u|}) <ls>HARIV.</ls> 14189. 
+;-----------------
+36069 old <hw>{#jalasaMniveza#}</hw> m. {%Wasserbehälter%} Spr. 1913. 
+36069 new <hw>{#jalasaMniveza#}</hw> m. {%Wasserbehälter%} <ls>Spr.</ls> 1913. 
+;-----------------
+36125 old <hw>{#taTa#}</hw> n. Spr. 7183. 
+36125 new <hw>{#taTa#}</hw> n. <ls>Spr.</ls> 7183. 
+;-----------------
+36284 old <hw>{#dazazatAra#}</hw> n. {%der aus 1000 Speichen bestehende ²Diskus%} {|Vis2n2u's|} <ls>BHA1G. P.</ls> 3, 28, 27. 
+36284 new <hw>{#dazazatAra#}</hw> n. {%der aus 1000 Speichen bestehende ²Diskus%} {|Vishn2u's|} <ls>BHA1G. P.</ls> 3, 28, 27. 
+;-----------------
+36821 old <hw>{#puNDarIkekSaNa#}</hw> Adj. {%lotusäugig%} ({|Kr2s2n2a|}) <ls>MBH.</ls> 2, [Page6-303-c] ²24, 29. 
+36821 new <hw>{#puNDarIkekSaNa#}</hw> Adj. {%lotusäugig%} ({|Kr2shn2a|}) <ls>MBH.</ls> 2, [Page6-303-c] ²24, 29. 
+;-----------------
+36891 old <hw>{#pauNDra#}</hw> 1) {%d%}) lies {|Bhi1ma's|} st. {|Bhi1s2ma's|}. 
+36891 new <hw>{#pauNDra#}</hw> 1) {%d%}) lies {|Bhi1ma's|} st. {|Bhi1shma's|}. 
+;-----------------
+36941 old <hw>{#pratihiMsita#}</hw> n. {%Vergeltung eines zugefügten Lei-²des, -- einer Unbill, Rache%} Spr. 1874. 
+36941 new <hw>{#pratihiMsita#}</hw> n. {%Vergeltung eines zugefügten Lei-²des, -- einer Unbill, Rache%} <ls>Spr.</ls> 1874. 
+;-----------------
+37045 old <hw>{#priyasAhasa#}</hw> Adj. {%Unbesonnenheiten mögend.%} Nom. ²abstr. {#ºtva#} n. Spr. 2604. 
+37045 new <hw>{#priyasAhasa#}</hw> Adj. {%Unbesonnenheiten mögend.%} Nom. ²abstr. {#ºtva#} n. <ls>Spr.</ls> 2604. 
+;-----------------
+37148 old <hw>{#bASkalikA#}</hw> f. {%der Text der%} {|Ba1s2kala|} Comm. ²zu <ls>S4A1N3KH. S4R.</ls> 12, 13, 5. 
+37148 new <hw>{#bASkalikA#}</hw> f. {%der Text der%} {|Ba1shkala|} Comm. ²zu <ls>S4A1N3KH. S4R.</ls> 12, 13, 5. 
+;-----------------
+37212 old <hw>{#brahmezavaiSNava#}</hw> Adj. {%von%} {|Brahman|}, {|S4iva|} {%und%} {|Vi-²s2n2u|} {%stammend%} <ls>MA1RK. P.</ls> 17, 10. 
+37212 new <hw>{#brahmezavaiSNava#}</hw> Adj. {%von%} {|Brahman|}, {|S4iva|} {%und%} {|Vi-²shn2u|} {%stammend%} <ls>MA1RK. P.</ls> 17, 10. 
+;-----------------
+37305 old <hw>{#madhunihan#}</hw> Adj. Beiw. {|Vis2n2us|} <ls>MBH.</ls> 3, 18, 24. 
+37305 new <hw>{#madhunihan#}</hw> Adj. Beiw. {|Vishn2us|} <ls>MBH.</ls> 3, 18, 24. 
+;-----------------
+37542 old <hom>1.</hom> <hw>{#yavya#}</hw> 2) {%b%}) Pl. N. pr. eines {|R2s2i|}-Geschlechts. 
+37542 new <hom>1.</hom> <hw>{#yavya#}</hw> 2) {%b%}) Pl. N. pr. eines {|R2shi|}-Geschlechts. 
+;-----------------
+37643 old <hw>{#lakSaNasaMniveza#}</hw> m. {%Brandmarkung%} Spr. 6295. 
+37643 new <hw>{#lakSaNasaMniveza#}</hw> m. {%Brandmarkung%} <ls>Spr.</ls> 6295. 
+;-----------------
+37680 old <hw>{#lokasAraGga#}</hw> m. Bein. {|Vis2n2u's|} <ls>MBH.</ls> 13, 149, 97. 
+37680 new <hw>{#lokasAraGga#}</hw> m. Bein. {|Vishn2u's|} <ls>MBH.</ls> 13, 149, 97. 
+;-----------------
+37976 old <hw>{#zakasthAna#}</hw>, lies <gr></gr>. 
+37976 new <hw>{#zakasthAna#}</hw>, lies <gr>greek3</gr>. 
+;-----------------
+39796 old <hw>{#aGgArakA#}</hw> (!) f. N. pr. einer {|Ra1-²ks2asi1|} <ls>R. ed. Bomb.</ls> 4, 41, 26. 
+39796 new <hw>{#aGgArakA#}</hw> (!) f. N. pr. einer {|Ra1-²kshasi1|} <ls>R. ed. Bomb.</ls> 4, 41, 26. 
+;-----------------
+40244 old <hw>{#ajamIDha#}</hw> I. Als Bein. {|Yudhis2t2hi-²ra's|} <ls>MBH.</ls> 1, 191. 20. 
+40244 new <hw>{#ajamIDha#}</hw> I. Als Bein. {|Yudhisht2hi-²ra's|} <ls>MBH.</ls> 1, 191. 20. 
+;-----------------
+40428 old <hw>{#aJjanaparvan#}</hw> m. N. pr. eines {|Ra1k-²s2asa|} <ls>MBH.</ls> 7, 156, 81. 83 u. s. w. 
+40428 new <hw>{#aJjanaparvan#}</hw> m. N. pr. eines {|Ra1k-²shasa|} <ls>MBH.</ls> 7, 156, 81. 83 u. s. w. 
+;-----------------
+54685 old <hw>{#aSTakAzrAddha#}</hw> n. {%das%} {|As2t2aka1|}-{%Ma-²nenopfer%} <ls>SUD.</ls> zu <ls>A1PAST. GR2HY.</ls> 22, 2. 
+54685 new <hw>{#aSTakAzrAddha#}</hw> n. {%das%} {|Asht2aka1|}-{%Ma-²nenopfer%} <ls>SUD.</ls> zu <ls>A1PAST. GR2HY.</ls> 22, 2. 
+;-----------------
+54697 old <hw>{#aSTakyA#}</hw> f. {|As2t2aka1|}-{%Kuh%} <ls>KAUS4.</ls> ²19, 28. 
+54697 new <hw>{#aSTakyA#}</hw> f. {|Asht2aka1|}-{%Kuh%} <ls>KAUS4.</ls> ²19, 28. 
+;-----------------
+56912 old <hw>{#*ATavakayakSa#}</hw> m. Bez. {%eines best.%} ²{|Yaks2a|} <ls>MAHA1VY.</ls> 169. 
+56912 new <hw>{#*ATavakayakSa#}</hw> m. Bez. {%eines best.%} ²{|Yaksha|} <ls>MAHA1VY.</ls> 169. 
+;-----------------
+63732 old <hw>{#kaNTakidruma#}</hw> m. {%ein Baum mit Dor-²nen%} Spr. 1736. 
+63732 new <hw>{#kaNTakidruma#}</hw> m. {%ein Baum mit Dor-²nen%} <ls>Spr.</ls> 1736. 
+;-----------------
+65897 old <hw>{#kudevendra#}</hw> m. {%ein schlechter Götter-²fürst%} ({|Indra|}), Bez. {|Nahus2a's|} ²<ls>MBH.</ls> 13, 99, 25. 
+65897 new <hw>{#kudevendra#}</hw> m. {%ein schlechter Götter-²fürst%} ({|Indra|}), Bez. {|Nahusha's|} ²<ls>MBH.</ls> 13, 99, 25. 
+;-----------------
+66536 old <hw>{#kRmiza#}</hw> II. N. pr. eines {|Yaks2a|} ²<ls>DIVYA1VAD.</ls> 434, 18. fgg. 
+66536 new <hw>{#kRmiza#}</hw> II. N. pr. eines {|Yaksha|} ²<ls>DIVYA1VAD.</ls> 434, 18. fgg. 
+;-----------------
+67065 old <hw>{#kaurukSetra#}</hw> m. Pl. {%die Bewohner von%} ²{|Kuruks2etra|} <ls>M.</ls> 7, 193 nach der ²richtigen Lesart. 
+67065 new <hw>{#kaurukSetra#}</hw> m. Pl. {%die Bewohner von%} ²{|Kurukshetra|} <ls>M.</ls> 7, 193 nach der ²richtigen Lesart. 
+;-----------------
+67649 old <hw>{#kSaitrapatya#}</hw> n. II. auch {%das Opfer an%} ²{|Ks2etrapati|}, {%den Herrn des Fel-[Page7-336-b]²des%} <ls>A1PAST. GR2HY.</ls> 19, 13. 20, 18. 
+67649 new <hw>{#kSaitrapatya#}</hw> n. II. auch {%das Opfer an%} ²{|Kshetrapati|}, {%den Herrn des Fel-[Page7-336-b]²des%} <ls>A1PAST. GR2HY.</ls> 19, 13. 20, 18. 
+;-----------------
+69784 old <hw>{#caJcala#}</hw> II. 2) {%b%}) mit einem *zu ver-²sehen. -- 3) {%a%}) Spr. 4242. 
+69784 new <hw>{#caJcala#}</hw> II. 2) {%b%}) mit einem *zu ver-²sehen. -- 3) {%a%}) <ls>Spr.</ls> 4242. 
+;-----------------
+73409 old <hw>{#dakarAkSasa#}</hw> m. {%ein Wasser%}-{|Ra1ks2a-²sa|} <ls>DIVYA1VAD.</ls> 105, 3. fgg. 
+73409 new <hw>{#dakarAkSasa#}</hw> m. {%ein Wasser%}-{|Ra1ksha-²sa|} <ls>DIVYA1VAD.</ls> 105, 3. fgg. 
+;-----------------
+73982 old <hw>{#divaukasa#}</hw> III. N. pr. eines {|Yaks2a|} ²<ls>DIVYA1VAD.</ls> 211, 5. 214, 5. fgg. 
+73982 new <hw>{#divaukasa#}</hw> III. N. pr. eines {|Yaksha|} ²<ls>DIVYA1VAD.</ls> 211, 5. 214, 5. fgg. 
+;-----------------
+74769 old <hw>{#draviNezvara#}</hw> auch Bein. {|Kubera's|} ²Spr. 7049. 
+74769 new <hw>{#draviNezvara#}</hw> auch Bein. {|Kubera's|} ²<ls>Spr.</ls> 7049. 
+;-----------------
+75455 old <hw>{#dhUmra£#}</hw> III. 3. In der Bed. 4) <ls>MBH.</ls> 1, ²63, 49. Pl. N. pr. eines {|R2s2i|}-Ge-²schlechts <ls>R. ed. Bomb.</ls> 3, 35, 31. 
+75455 new <hw>{#dhUmra£#}</hw> III. 3. In der Bed. 4) <ls>MBH.</ls> 1, ²63, 49. Pl. N. pr. eines {|R2shi|}-Ge-²schlechts <ls>R. ed. Bomb.</ls> 3, 35, 31. 
+;-----------------
+76635 old <hw>{#nizAkara#}</hw> auch N. pr. eines {|R2s2i|} ²R. ed. Bomb. 4, 60, 8. 9. 13. 63, 4. 10. 
+76635 new <hw>{#nizAkara#}</hw> auch N. pr. eines {|R2shi|} ²R. ed. Bomb. 4, 60, 8. 9. 13. 63, 4. 10. 
+;-----------------
+76955 old <hw>{#nIlAda#}</hw> m. N. pr. eines {|Yaks2a|} ²<ls>DIVYA1VAD.</ls> 113, 11. 122, 23. 
+76955 new <hw>{#nIlAda#}</hw> m. N. pr. eines {|Yaksha|} ²<ls>DIVYA1VAD.</ls> 113, 11. 122, 23. 
+;-----------------
+77142 old <hw>{#*naivazaikSAzaikSa#}</hw> m. {%weder ein%} {|S4ai-²ks2a|} {%noch ein%} {|As4aiks2a|}, d. i. {%ein ²unbekehrter Mensch%} <ls>MAHA1VY.</ls> 95, 10. 
+77142 new <hw>{#*naivazaikSAzaikSa#}</hw> m. {%weder ein%} {|S4ai-²ksha|} {%noch ein%} {|As4aiksha|}, d. i. {%ein ²unbekehrter Mensch%} <ls>MAHA1VY.</ls> 95, 10. 
+;-----------------
+77488 old <hw>{#paJcArSeya#}</hw> Adj. {%fünf%} {|R2s2i|} {%in sei-²nem Stammbaum habend%} <ls>HAR.</ls> zu ²<ls>A1PAST. GR2HY.</ls> 16, 6. 
+77488 new <hw>{#paJcArSeya#}</hw> Adj. {%fünf%} {|R2shi|} {%in sei-²nem Stammbaum habend%} <ls>HAR.</ls> zu ²<ls>A1PAST. GR2HY.</ls> 16, 6. 
+;-----------------
+78689 old <hom>1.</hom> <hw>{#pAra#}</hw> IV. n. {%eine Art%} {|Tus2t2i|} <ls>ANI-²RUDDHA</ls> und <ls>MAHA1DEVA</ls> zu <ls>SA1M3KHYAS.</ls> ²3, 43. 
+78689 new <hom>1.</hom> <hw>{#pAra#}</hw> IV. n. {%eine Art%} {|Tusht2i|} <ls>ANI-²RUDDHA</ls> und <ls>MAHA1DEVA</ls> zu <ls>SA1M3KHYAS.</ls> ²3, 43. 
+;-----------------
+78697 old <hw>{#pArapAra#}</hw> IV. n. {%eine Art%} {|Tus2t2i|} ²<ls>ANIRUDDHA</ls> und <ls>MAHA1DEVA</ls> zu <ls>SA1M3-²KHYAS.</ls> 3, 43. 
+78697 new <hw>{#pArapAra#}</hw> IV. n. {%eine Art%} {|Tusht2i|} ²<ls>ANIRUDDHA</ls> und <ls>MAHA1DEVA</ls> zu <ls>SA1M3-²KHYAS.</ls> 3, 43. 
+;-----------------
+78726 old <hw>{#pAriSadya#}</hw> IV. m. {%eine zu der kö-²niglichen%} {|Paris2ad|} {%gehörige Per-²son%} <ls>DIVYA1VAD.</ls> 291, 27. 
+78726 new <hw>{#pAriSadya#}</hw> IV. m. {%eine zu der kö-²niglichen%} {|Parishad|} {%gehörige Per-²son%} <ls>DIVYA1VAD.</ls> 291, 27. 
+;-----------------
+79245 old <hw>{#puSTikarman#}</hw> IV. m. {%ein auf das%} {|Pu-²s2t2ikarman|} {%bezüglicher Spruch%} ²<ls>KAUS4.</ls> 24, 45. 
+79245 new <hw>{#puSTikarman#}</hw> IV. m. {%ein auf das%} {|Pu-²sht2ikarman|} {%bezüglicher Spruch%} ²<ls>KAUS4.</ls> 24, 45. 
+;-----------------
+81805 old <hw>{#brAhmaNAda#}</hw> Adj. {%Brahmanen ver-²zehrend%} ({|Ra1ks2asa|}) <ls>MBH.</ls> 7, 176, 3. 
+81805 new <hw>{#brAhmaNAda#}</hw> Adj. {%Brahmanen ver-²zehrend%} ({|Ra1kshasa|}) <ls>MBH.</ls> 7, 176, 3. 
+;-----------------
+84012 old <hw>{#yakSabali#}</hw> m. {%ein Streuopfer an die%} ²{|Yaks2a|}, {%eine best. Hochzeitscere-²monie%} Comm. zu <ls>A1PAST. GR2HY.</ls> 2, 15. 
+84012 new <hw>{#yakSabali#}</hw> m. {%ein Streuopfer an die%} ²{|Yaksha|}, {%eine best. Hochzeitscere-²monie%} Comm. zu <ls>A1PAST. GR2HY.</ls> 2, 15. 
+;-----------------
+84076 old <hw>{#yatharSi#}</hw> V. Adv. {%je nach der Zahl ²der%} {|R2s2i|} <ls>A1PAST. GR2HY.</ls> 16, 6. 
+84076 new <hw>{#yatharSi#}</hw> V. Adv. {%je nach der Zahl ²der%} {|R2shi|} <ls>A1PAST. GR2HY.</ls> 16, 6. 
+;-----------------
+84721 old <hw>{#rAdheya#}</hw> m. Metron. {|Bhi1s2ma's|}. 
+84721 new <hw>{#rAdheya#}</hw> m. Metron. {|Bhi1shma's|}. 
+;-----------------
+86513 old <hw>{#vizeSavAdin#}</hw> m. {%ein Anhänger des%} ²{|Vais4es2ika|}-{%Systems%} <ls>ANIRUDDHA</ls> ²zu <ls>SA1M3KHYAS.</ls> 1, 92. 
+86513 new <hw>{#vizeSavAdin#}</hw> m. {%ein Anhänger des%} ²{|Vais4eshika|}-{%Systems%} <ls>ANIRUDDHA</ls> ²zu <ls>SA1M3KHYAS.</ls> 1, 92. 
+;-----------------
+86789 old <hw>{#vRSTi#}</hw> VI. f. {%eine best.%} {|Tus2t2i|} {%im%} ²{|Sa1m3khya|} <ls>VA1CASPATIMIS4RA</ls> zu <ls>KA1RIKA1</ls> ²50. <ls>VIJN5A1NABHIKSHU</ls>, <ls>ANIRUDDHA</ls> und ²<ls>MAHA1DEVA</ls> zu <ls>SA1M3KHYAS.</ls> 3, 43. 
+86789 new <hw>{#vRSTi#}</hw> VI. f. {%eine best.%} {|Tusht2i|} {%im%} ²{|Sa1m3khya|} <ls>VA1CASPATIMIS4RA</ls> zu <ls>KA1RIKA1</ls> ²50. <ls>VIJN5A1NABHIKSHU</ls>, <ls>ANIRUDDHA</ls> und ²<ls>MAHA1DEVA</ls> zu <ls>SA1M3KHYAS.</ls> 3, 43. 
+;-----------------
+87338 old <hw>{#zarmin#}</hw> VI. m. N. pr. eines {|R2s2i|} ²<ls>MBH.</ls> 13, 68, 6. 24. 
+87338 new <hw>{#zarmin#}</hw> VI. m. N. pr. eines {|R2shi|} ²<ls>MBH.</ls> 13, 68, 6. 24. 
+;-----------------
+87446 old <hw>{#zArGgadhanus#}</hw> m. Bein. {|Vis2n2u's|} <ls>DA-²MAYANTI1K.</ls> 138. 
+87446 new <hw>{#zArGgadhanus#}</hw> m. Bein. {|Vishn2u's|} <ls>DA-²MAYANTI1K.</ls> 138. 
+;-----------------
+87538 old <hw>{#zItAMzubhAj#}</hw> {%ein%} {|Naks2atra|} <ls>CAN2-[Page7-378-b]²D2I1S4.</ls> 94. 
+87538 new <hw>{#zItAMzubhAj#}</hw> {%ein%} {|Nakshatra|} <ls>CAN2-[Page7-378-b]²D2I1S4.</ls> 94. 
+;-----------------
+89033 old <hw>{#sAtAgiri#}</hw> m. N. pr. eines {|Yaks2a|} ²<ls>JA1TAKAM.</ls> 19, 35. 
+89033 new <hw>{#sAtAgiri#}</hw> m. N. pr. eines {|Yaksha|} ²<ls>JA1TAKAM.</ls> 19, 35. 
+;-----------------
+89917 old <hw>{#agnizikha#}</hw> I. 1. N. pr. eines {|Ra1-²ks2asa|} <ls>KATHA1S.</ls> 39, 84. 
+89917 new <hw>{#agnizikha#}</hw> I. 1. N. pr. eines {|Ra1-²kshasa|} <ls>KATHA1S.</ls> 39, 84. 
+;-----------------
+90811 old <hw>{#etadupaniSad#}</hw> Adj. {%zu dieser%} {|Upa-²nis2ad|} {%sich bekennend%} <ls>CHA1ND. UP.</ls> ²8, 8, 4. 
+90811 new <hw>{#etadupaniSad#}</hw> Adj. {%zu dieser%} {|Upa-²nishad|} {%sich bekennend%} <ls>CHA1ND. UP.</ls> ²8, 8, 4. 
+;-----------------
+91339 old <hw>{#durdharSa#}</hw> III. m. N. pr. eines {|Ra1-²ks2asa|} <ls>R.</ls> 5, 41, 2. 24. fgg. 
+91339 new <hw>{#durdharSa#}</hw> III. m. N. pr. eines {|Ra1-²kshasa|} <ls>R.</ls> 5, 41, 2. 24. fgg. 
+;-----------------
+91431 old <hw>{#nADiMdhama#}</hw> III. 5. 7. in {#pAJcajanyaº#} ²{%der die Muschel P. bläst%}, d. i. {|Vi-²s2n2u|} ebend. 1, 31. 
+91431 new <hw>{#nADiMdhama#}</hw> III. 5. 7. in {#pAJcajanyaº#} ²{%der die Muschel P. bläst%}, d. i. {|Vi-²shn2u|} ebend. 1, 31. 
+;-----------------

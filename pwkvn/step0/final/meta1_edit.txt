@@ -1,0 +1,778 @@
+00027 {#ºtas#} º> {#akAraNatas#} <prev>{#akAraNa#}</prev>
+00048 {#ºm#} º> {#akramam#} <prev>{#akrama#}</prev>
+00074 {#ºryaM#} º> {#akSaryaM#} <prev>{#akSarya#}</prev>
+00115 {#*ºka#} => {#*agRhapatika#} <prev>{#*agRhapati#}</prev>
+00147 {#ºdevatA#} º> {#agnyAdheyadevatA#} <prev>{#agnyAdheya#}</prev>
+00334 {#ºm#} º> {#atizIghram#} <prev>{#atizIghra#}</prev>
+00412 {#ºka#} º> {#adravyArthaka#} <prev>{#adravyArtha#}</prev>
+00651 {#ºnatA#} º> {#anAlambanatA#} <prev>{#anAlamba#}</prev>
+00745 {#ºkramya#} º> {#anupakramya#} <prev>{#anupakramaNIya#}</prev>
+00745 {#ºkrAmya#} º> {#anupakrAmya#} <prev>{#ºkramya#}</prev>
+00773 {#ºyena#} º> {#anupAyena#} <prev>{#anupAya#}</prev>
+00882 {#ºtva#} º> {#anyaparatva#} <prev>{#anyapara#}</prev>
+01086 {#ºvAsa#} º> {#abhivAsa#} <prev>{#abhivAsas#}</prev>
+01133 {#amare-²zvarayAtrA#} => {#amarezvarayAtrA#}
+01180 {#ºska#} º> {#ayorajaska#} <prev>{#ayorajas#}</prev>
+01202 {#arjunArcAº#} º> {#arjunArcApArijAta#} <prev>{#arjunArcapArijAta#}</prev>
+01379 {#ºm#} º> {#azUnyArtham#} <prev>{#azUnyArtha#}</prev>
+01540 {#ºjuSTva£#} º> {#AdhItayajuSTva£#} <prev>{#AdhItayajus#}</prev>
+01562 {#ºmImAMsAvivRti#} º> {#AptamImAMsAvivRti#} <prev>{#AptamImAMsAlaMkRti#}</prev>
+01562 {#ºmImAM-²sAvRtti#} º> {#AptamImAMsAvRtti#} <prev>{#ºmImAMsAvivRti#}</prev>
+01630 {#ºmaya#} º> {#ikSuyaSTimaya#} <prev>{#ikSuyaSTi#}</prev>
+01684 {#ºtA#} º> {#utkatA#} <prev>{#utka#}</prev>
+01770 {#ºm#} º> {#akRpaNam#} <prev>{#akRpaNa#}</prev>
+01861 {#ºveSTana#} º> {#aGguliveSTana#} <prev>{#aGguliveSTaka#}</prev>
+01875 {#ºtas#} º> {#aciratas#} <prev>{#akRpaNa#}</prev>
+01923 {#ºka#} º> {#atajjAtIyaka#} <prev>{#atajjAtIya#}</prev>
+01959 {#ºcirAt#} º> {#aticirAt#} <prev>{#aticirasya#}</prev>
+02020 {#atharva-²NazIrSopaniSad#} => {#atharvaNazIrSopaniSad#}
+02038 {#a-²dvaitapaJcapadI#} => {#advaitapaJcapadI#}
+02038 {#advaita-²vidyAvijaya#} => {#advaitavidyAvijaya#}
+02042 {#ºkaraNazAstra#} º> {#adhikaraNazAstra#} <prev>{#adhikaraNacintAmaNi#}</prev>
+02042 {#ºka-²raNasArAvali#} º> {#adhikaraNasArAvali#} <prev>{#ºkaraNazAstra#}</prev>
+02070 {#ºvratavidhi#} º> {#anantavratavidhi#} <prev>{#anantavratakalpa#}</prev>
+02121 {#ºzikSA#} º> {#aniGgyazikSA#} <prev>{#aniGgya#}</prev>
+02131 {#ani[H]STubdha#} => {#aniSTubdha#},{#aniHSTubdha#}
+02187 {#ºrbhAvavAda#} º> {#antarbhAvavAda#} <prev>{#antarbhAvaprakAzikA#}</prev>
+02200 {#ºvRtti#} º> {#anyAyavRtti#} <prev>{#anyAya#}</prev>
+02303 {#ºsamarthana#} º> {#abhinnanimittopAdAnasamarthana#} <prev>{#abhinnanimittopAdAna#}</prev>
+02319 {#ºtama#} º> {#abhramupriyatama#} <prev>{#abhramupriya#}</prev>
+02322 {#ºkozapadapArijAta#} º> {#amarakozapadapArijAta#} <prev>{#amarakozapaJcikA#}</prev>
+02322 {#ºkozabRhadvRtti#} º> {#amarakozabRhadvRtti#} <prev>{#amarakozapaJcikA#}</prev>
+02380 {#ºkAramayUkha#} º> {#alaMkAramayUkha#} <prev>{#alaMkAranikarSa#}</prev>
+02380 {#ºkArarahasya#} º> {#alaMkArarahasya#} <prev>{#alaMkAranikarSa#}</prev>
+02380 {#ºkArarAghava#} º> {#alaMkArarAghava#} <prev>{#alaMkAranikarSa#}</prev>
+02394 {#ºkRtAvaº#} º> {#kRtAvakuNThanaº#} <prev>{#avakuNThana#}</prev>
+02403 {#ºchedakatAnirukti#} º> {#avacchedakatAnirukti#} <prev>{#avacchedakatattvanirukti#}</prev>
+02403 {#ºche-²dakatAmAlA#} º> {#avacchedakatAmAlA#} <prev>{##}</prev>
+02403 {#ºchedakatAleza#} º> {#avacchedakatAleza#} <prev>{##}</prev>
+02403 {#ºchedakatAvAda#} º> {#avacchedakatAvAda#} <prev>{##}</prev>
+02403 {#ºchedakatAsAra#} º> {#avacºchedakatAsAra#} <prev>{##}</prev>
+02408 {#ºka#} º> {#avadhUtaka#} <prev>{#avadhUta#}</prev>
+02413 {#ºkroDa#} º> {#avayavakroDa#} <prev>{#avayava#}</prev>
+02413 {#ºgrantha#} º> {#avayavagrantha#} <prev>{#avayava#}</prev>
+02413 {#ºTippaNI#} º> {#avayavaTippaNI#} <prev>{#avayava#}</prev>
+02413 {#ºziromaNi#} º> {#avayavaziromaNi#} <prev>{#avayava#}</prev>
+02415 {#ºzikSA#} º> {#avarNIzikSA#} <prev>{#avarNI#}</prev>
+02421 {#ºsvApinI#} º> {#avasvApinI#} <prev>{#avasvApanikA#}</prev>
+02459 {#ºtrayabhaTTa-²bhAskara#} º> {#aSTakatrayabhaTTabhAskara#} <prev>{#aSTaka#}</prev>
+02459 {#ºbhASya#} º> {#aSTakabhASya#} <prev>{#aSTaka#}</prev>
+02459 {#ºvargaprayoga#} º> {#aSTakavargaprayoga#} <prev>{#aSTaka#}</prev>
+02465 {#ºhRdayasaMhitA#} º> {#aSTAGgahRdayasaMhitA#} <prev>{#aSTAGgahRdayadIpikA#}</prev>
+02465 {#ºhR-²dayasaMgraha#} º> {#aSTAGgahRdayasaMgraha#} <prev>{#aSTAGgahRdayadIpikA#}</prev>
+02469 {#ºdazasmRti#} º> {#aSTAdazasmRti#} <prev>{#aSTAdazavAda#}</prev>
+02469 {#ºsmRtisAra#} º> {#aSTAdazasmRtisAra#} <prev>{#ºdazasmRti#}</prev>
+02469 {#ºdazArthavAda#} º> {#aSTAdazArthavAda#} <prev>{#ºdazasmRti#}</prev>
+02471 {#ºdezasthalamAhA-²tmya#} º> {#aSTottarazatadivyadezasthalamAhAtmya#} <prev>{#aSTottarazatadivyadezanirUpaNa#}</prev>
+02471 {#ºsthalazloka#} º> {#aSTottarazatadivyadezasthalazloka#} <prev>{#aSTottarazatadivyadezasthalamAhAtmya#}</prev>
+02471 {#ºzatopaniSad#} º> {#aSTottarazatopaniSad#} <prev>{#aSTottarazatadivyadezasthalazloka#}</prev>
+02517 {#ºkalpa#} º> {#AkAzabhairavakalpa#} <prev>{#AkAzabhairava#}</prev>
+02537 {#A-²cAranavanIta#} => {#AcAranavanIta#}
+02537 {#A-²cAryaprapatti#} => {#AcAryaprapatti#}
+02537 {#A-²cAryamahiman#} => {#AcAryamahiman#}
+02550 {#AtmaprakAzikAviva-²raNa#} => {#AtmaprakAzikAvivaraNa#}
+02554 {#ºzruti#} º> {#AtmArpaNazruti#} <prev>{#AtmArpaNa#}</prev>
+02564 {#ºpaJcaka#} º> {#AdhAnapaJcaka#} <prev>{#AdhAna#}</prev>
+02564 {#ºpaJcakaprayoga#} º> {#AdhAnapaJcakaprayoga#} <prev>{#AdhAna#}</prev>
+02566 {#Ananda-²tAratamyakhaNDana#} => {#AnandatAratamyakhaNDana#}
+02566 {#AnandatI-²rthIya#} => {#AnandatIrthIya#}
+02566 {#Anandavi-²lAsa#} => {#AnandavilAsa#}
+02566 {#AnandasAratArata-²myakhaNDana#} => {#AnandasAratAratamyakhaNDana#}
+02571 {#ºstambadharma#} º> {#Apastambadharma#} <prev>{#ApastambagRhya#}</prev>
+02571 {#ºstambapUrvaprayoga#} º> {#ApastambapUrvaprayoga#} <prev>{##}</prev>
+02571 {#ºstambaprayoga#} º> {#Apastambaprayoga#} <prev>{##}</prev>
+02571 {#ºstambazrauta#} º> {#Apastambazrauta#} <prev>{##}</prev>
+02571 {#ºstambasAmAnyasUtrabhASya#} º> {#ApastambasAmAnyasUtrabhASya#} <prev>{##}</prev>
+02571 {#ºstambasUtra#} º> {#ApastambasUtra#} <prev>{##}</prev>
+02571 {#ºsta-²mbasmRti#} º> {#ApastambasmRti#} <prev>{##}</prev>
+02571 {#ºstambAparasUtra#} º> {#ApastambAparasUtra#} <prev>{##}</prev>
+02572 {#ºstambhIya#} º> {#ApastambhIya#} <prev>{#Apastambha#}</prev>
+02572 {#ºstamba#} º> {#Apastamba#} <prev>{#Apastambha#}</prev>
+02572 {#ºsta-²mbIya#} º> {#ApastambIya#} <prev>{#ºstambhIya#}</prev>
+02593 {#AraNya-²kopaniSad#} => {#AraNyakopaniSad#}
+02593 {#AraNyamahAprastAni-²kA#} => {#AraNyamahAprastAnikA#} 
+02593 {#ºprasthAnikA#} º> {#AraNyamahAprasthAnikA#} <prev>{#AraNyamahAprastAnikA#}</prev>
+02593 {#AraNyo-²paniSad#} => {#AraNyopaniSad#}
+02601 {#AryAsvargAroha-²Naparvan#} => {#AryAsvargArohaNaparvan#}
+02602 {#ºka#} º> {#AlApaka#} <prev>{#AlApa#}</prev>
+02604 {#ºzikSA#} º> {#AvarNIzikSA#} <prev>{#AvarNI#}</prev>
+02608 {#Azaucacandri-²kA#} => {#AzaucacandrikA#}
+02608 {#Azauca-²zataka#} => {#Azaucazataka#}
+02608 {#AzvalA-²yanapUrvaprayoga#} => {#AzvalAyanapUrvaprayoga#}
+02608 {#AzvalA-²yanazrauta#} => {#AzvalAyanazrauta#}
+02608 {#ºsUtra#} º> {#AzvalAyanazrautasUtra#} <prev>{#AzvalAyanazrauta#}</prev>
+02608 {#AzvalAya-²nasthAlIpAka#} => {#AzvalAyanasthAlIpAka#}
+02618 {#ºgnividhAna#} º> {#AhitAgnividhAna#} <prev>{#AhitAgnibrAhmaNa#}</prev>
+02618 {#Ahni-²kabhAskara#} => {#AhnikabhAskara#}
+02663 {#ºrkI#} º> {#uccodarkI#} <prev>{#uccodarki#}</prev>
+02681 {#uttarA-²tharvaNa#} => {#uttarAtharvaNa#}
+02726 {#ºdezavivaraNa#} º> {#upadezavivaraNa#} <prev>{#upadezasUtra#}</prev>
+02726 {#ºdezasahasrakra-²tuvyAkhyA#} º> {#upadezasahasrakratuvyAkhyA#} <prev>{#upadezasUtra#}</prev>
+02741 {#upAdhi-²maNDana#} => {#upAdhimaNDana#}
+02757 {#ºpuNDravacana#} º> {#UrdhvapuNDravacana#} <prev>{#UrdhvapuNDradhAraNa#}</prev>
+02761 {#ºgoha£#} º> {#Uvadhyagoha£#} <prev>{#Uvadhya#}</prev>
+02764 {#ºvedaprakRtipada#} º> {#RgvedaprakRtipada#} <prev>{#Rgvedapada#}</prev>
+02764 {#ºvedapramANa#} º> {#RgvedapramANa#} <prev>{##}</prev>
+02764 {#ºvedaprayoga#} º> {#Rgvedaprayoga#} <prev>{##}</prev>
+02764 {#ºvedaprAtizAkhya#} º> {#RgvedaprAtizAkhya#} <prev>{##}</prev>
+02764 {#ºvedabrAhmaNa#} º> {#RgvedabrAhmaNa#} <prev>{##}</prev>
+02764 {#ºvedavidhAna#} º> {#RgvedavidhAna#} <prev>{##}</prev>
+02764 {#ºvedazivamantra#} º> {#Rgvedazivamantra#} <prev>{##}</prev>
+02764 {#ºvedAraNyaka#} º> {#RgvedAraNyaka#} <prev>{##}</prev>
+02764 {#R-²juvivaraNa#} => {#RjuvivaraNa#}
+02798 {#ºdazabhASAvyAkhyA#} º> {#ekAdazabhASAvyAkhyA#} <prev>{#ekAdazaprayoga#}</prev>
+02801 {#ºdazIvratakalpa#} º> {#ekAdazIvratakalpa#} <prev>{#ekAdazImAhAtmya#}</prev>
+02836 {#ºpRSThin#} º> {#kaGkapRSThin#} <prev>{#kaGkapRSThI#}</prev>
+02847 {#ºmUDaka#} º> {#kaNamUDaka#} <prev>{#kaNamUTaka#}</prev>
+02871 {#kamalAcalamAhA-²tmya#} => {#kamalAcalamAhAtmya#}
+02895 {#ºvipAkamAdhavIya#} º> {#karmavipAkamAdhavIya#} <prev>{#karmavipAkamahArNava#}</prev>
+02915 {#ºnibandhana#} º> {#kalyANasaugandhikAnibandhana#} <prev>{#kalyANasaugandhikA#}</prev>
+02915 {#kalyA-²NIpariNaya#} => {#kalyANIpariNaya#}
+02917 {#kavidIpi-²kAnighaNTu#} => {#kavidIpikAnighaNTu#}
+02928 {#ºbhaTTIya#} º> {#kANubhaTTIya#} <prev>{#kANubhaTTa#}</prev>
+02930 {#kAtyA-²yanopaniSad#} => {#kAtyAyanopaniSad#}
+02933 {#ºkhaNDana#} º> {#kAntAlIyakhaNDana#} <prev>{#kAntAlIya#}</prev>
+02933 {#ºkhaNDanamaNDana#} º> {#kAntAlIyakhaNDanamaNDana#} <prev>{#kAntAlIya#}</prev>
+02941 {#ºvIryArjunadIpArAdhanavidhi#} º> {#kArtavIryArjunadIpArAdhanavidhi#} <prev>{#kArtavIryArjunakavaca#}</prev>
+02948 {#kAlanemipu-²rANa#} => {#kAlanemipurANa#}
+02959 {#kAvyaprakAzi-²kA#} => {#kAvyaprakAzikA#}
+02959 {#kAvyAdarzi-²kA#} => {#kAvyAdarzikA#}
+02961 {#kAzIdharma-²sabhA#} => {#kAzIdharmasabhA#}
+03013 {#ºputrakevalicaritra#} º> {#kUrmaputrakevalicaritra#} <prev>{#kUrmaputrakathA#}</prev>
+03029 {#kRSNavratamA-²hAtmya#} => {#kRSNavratamAhAtmya#}
+03033 {#keralIya-²dvAdazabhAva#} => {#keralIyadvAdazabhAva#}
+03035 {#kevalA-²nvayin#} => {#kevalAnvayin#}
+03038 {#kaiya-[Page2-299-b]²TIya#} => {#kaiyaTIya#}
+03047 {#kaumudIpra-²kAza#} => {#kaumudIprakAza#}
+03047 {#kau-²stubhabhUSaNa#} => {#kaustubhabhUSaNa#}
+03080 {#ºTTIya#} º> {#gaGgarAmabhaTTIya#} <prev>{#gaGgarAmabhaTTa#}</prev>
+03084 {#ºzAstra#} º> {#gajavaidyazAstra#} <prev>{#gajavaidya#}</prev>
+03086 {#ºsUtrArthavAda#} º> {#gajasUtrArthavAda#} <prev>{#gajasUtravAda#}</prev>
+03088 {#gaNa-²nighaNTu#} => {#gaNanighaNTu#}
+03088 {#ºpatividhAna#} º> {#gaNapatividhAna#} <prev>{#gaNapatipurANa#}</prev>
+03088 {#gaNa-²phalaviveka#} => {#gaNaphalaviveka#}
+03089 {#ºtIya#} º> {#gaNezvaradIkSitIya#} <prev>{#gaNezvaradIkSita#}</prev>
+03098 {#garuDapaJcA-²zat#} => {#garuDapaJcAzat#}
+03110 {#ºcandrikA#} º> {#gItAtAtparyacandrikA#} <prev>{#gItAtAtparya#}</prev>
+03110 {#ºbodhikA#} º> {#gItAtAtparyabodhikA#} <prev>{#gItAtAtparya#}</prev>
+03110 {#ºrakSA#} º> {#gItArthasaMgraharakSA#} <prev>{#gItArthasaMgraha#}</prev>
+03114 {#gu-²rutaraMgiNI#} => {#gurutaraMgiNI#}
+03114 {#gurvartha-²dIpikA#} => {#gurvarthadIpikA#}
+03119 {#gRhyAya-²naprayoga#} => {#gRhyAyanaprayoga#}
+03125 {#go-²pAlaratnAkara#} => {#gopAlaratnAkara#}
+03125 {#ºpAlaviMzati#} º> {#gopAlaviMzati#} <prev>{##}</prev>
+03125 {#gopIcandanamAhA-²tmya#} => {#gopIcandanamAhAtmya#}
+03125 {#ºparibhASA#} º> {#gopInAthIyaparibhASA#} <prev>{#gopInAthIya#}</prev>
+03125 {#ºvindarAjIya#} º> {#govindarAjIya#} <prev>{#govindagItA#}</prev>
+03125 {#ºvindavirudAvali#} º> {#govindavirudAvali#} <prev>{#go#}</prev>
+03125 {#govaidya-²zAstra#} => {#govaidyazAstra#}
+03127 {#ºndIya#} º> {#gauDabrahmAnandIya#} <prev>{#gauDabrahmAnanda#}</prev>
+03128 {#gautama-²smRti#} => {#gautamasmRti#}
+03130 {#grahaNa-²kriyAkrama#} => {#grahaNakriyAkrama#}
+03141 {#ºrdaza-²lakSaNI#} º> {#caturdazalakSaNI#} <prev>{#caturdaza...#}</prev>
+03141 {#ºkroDa#} º> {#caturdazalakSaNIkroDa#} <prev>{#caturdazalakSaNI#}</prev>
+03141 {#ºjagadIzIya#} º> {#caturdazalakSaNIjagadIzIya#} <prev>{#caturdazalakSaNI#}</prev>
+03141 {#ºrdazIstotra#} º> {#caturdazIstotra#} <prev>{#caturdaza...#}</prev>
+03141 {#ºrdazopaniSad#} º> {#caturdazopaniSad#} <prev>{#caturdaza...#}</prev>
+03145 {#ºrvedatAtparya#} º> {#caturvedatAtparya#} <prev>{#caturvedatattvArthasArasaMgraha#}</prev>
+03145 {#ºsaMgraha#} º> {#caturvedatAtparyasaMgraha#} <prev>{#caturvedatAtparya#}</prev>
+03145 {#ºsArasaMgraha#} º> {#caturvedatAtparyasArasaMgraha#} <prev>{#caturvedatAtparya#}</prev>
+03152 {#candranArAya-²NIya#} => {#candranArAyaNIya#}
+03154 {#ºniruktivivaraNa#} º> {#cannubhaTTIyaniruktivivaraNa#} <prev>{#cannubhaTTIya#}</prev>
+03158 {#ºzlokaTippa-²NI#} º> {#caramazlokaTippaNI#} <prev>{#caramazlokacandrikA#}</prev>
+03161 {#ºsUtra#} º> {#calAkSarasUtra#} <prev>{#calAkSara#}</prev>
+03161 {#cAkSu-²SIyanItizAstra#} => {#cAkSuSIyanItizAstra#}
+03166 {#ºrmAsyavratavidhi#} º> {#cAturmAsyavratavidhi#} <prev>{#cAturmAsyavidhAna#}</prev>
+03166 {#ºrmAsyahautra#} º> {#cAturmAsyahautra#} <prev>{##}</prev>
+03174 {#ci-²dambaranaTana#} => {#cidambaranaTana#}
+03174 {#cintAmaNipra-²tyakSa#} => {#cintAmaNipratyakSa#}
+03174 {#ºmaNivyAptivAda#} º> {#cintAmaNivyAptivAda#} <prev>{#cintAmaNi...#}</prev>
+03174 {#ºmaNizabdakhaNDa#} º> {#cintAmaNizabdakhaNDa#} <prev>{#cintAmaNi...#}</prev>
+03176 {#ºmaNimI-²mAMsA#} º> {#cUDAmaNimImAMsA#} <prev>{#cUDAmaNinATaka#}</prev>
+03176 {#colappa-²rAjIya#} => {#colapparAjIya#}
+03178 {#chando-²darpaNa#} => {#chandodarpaNa#}
+03178 {#chando-²viveka#} => {#chandoviveka#}
+03181 {#ºnnAthamAhAtmya#} º> {#jagannAthamAhAtmya#} <prev>{#jagannAthatarkapaJcAnana#}</prev>
+03181 {#ºnnAthIya#} º> {#jagannAthIya#} <prev>{#jagannAthamAhAtmya#}</prev>
+03181 {#ºmUla#} º> {#jaTAdarpaNamUla#} <prev>{#jaTAdarpaNa#}</prev>
+03181 {#ºzikSA#} º> {#jaTAmaNizikSA#} <prev>{#jaTAmaNi#}</prev>
+03185 {#jayantIvrata-²kalpa#} => {#jayantIvratakalpa#}
+03185 {#jAtaka-²kiraNAvali#} => {#jAtakakiraNAvali#}
+03185 {#jAtakaphalavi-²cAra#} => {#jAtakaphalavicAra#}
+03185 {#jAtaka-[Page2-301-c]²viSaya#} => {#jAtakaviSaya#}
+03185 {#jA-²takAdiprayoga#} => {#jAtakAdiprayoga#}
+03185 {#ºvalipra-²dIpikA#} º> {#jAtakAvalipradIpikA#} <prev>{#jAtakAvalidIpikA#}</prev>
+03185 {#ºcintAmaNi#} º> {#jAtakAlaMkAracintAmaNi#} <prev>{#jAtakAlaMkAra#}</prev>
+03185 {#jA-²tikhaNDana#} => {#jAtikhaNDana#}
+03316 {#ºnamAmi#} º> {#atinamAmi#} <prev>{#atinanAmin#}</prev>
+03489 {#ºmitva#} º> {#anAgAmitva#} <prev>{#anAgAmin#}</prev>
+03493 {#ºtA#} º> {#anAtmajJatA#} <prev>{#anAtmajJa#}</prev>
+03502 {#ºtva#} º> {#anAdyantatva#} <prev>{#anAdyanta#}</prev>
+03764 {#ºtva#} º> {#abhipItatva#} <prev>{#abhipIta#}</prev>
+04118 {#ºn#} º> {#ugragandhin#} <prev>{#ugragandhi#}</prev>
+04317 {#ºzRGgAla#} º> {#kaTuzRGgAla#} <prev>{#kaTuzRGgATa#}</prev>
+04327 {#ºdUSin#} º> {#kanyAdUSin#} <prev>{#kanyAdUSayitar#}</prev>
+04336 {#ºka#} º> {#karaNDakanivApaka#} <prev>{#karaNDakanivApa#}</prev>
+04435 {#ºpAjIyA#} º> {#kRNuSvapAjIyA#} <prev>{#kRNuSvapAjavatI#}</prev>
+04526 {#ºyuta#} º> {#gAtrayuta#} <prev>{#gAtra#}</prev>
+04546 {#ºtritva#} º> {#gotritva#} <prev>{gotrin##}</prev>
+04551 {#*ºpadapram#} => {#*goSpadapram#} <prev>{#*goSpadapUram#}</prev>
+04598 {#*ºn#} => {#*candrAzman#} <prev>{#*candrAzma#}</prev>
+04735 {#ºpUlaka#} º> {#*tRNapUlaka#} <prev>{#*tRNapUla#}</prev>
+04801 {#duHkhasparza(m)#} => {#duHkhasparza#},{#duHkhasparzam#}
+04855 {#*dvyAci-²tIna#} => {#*dvyAcitIna#}
+04897 {#ºddhaprakaza#} º> {#niruddhaprakaza#} <prev>{#niruddhapakaza#}</prev>
+05130 {#ºdaivata#} º> {#aprattadaivata#} <prev>{#aprattadevata#}</prev>
+05188 {#ºjJAnaprasthAna#} º> {#abhidharmajJAnaprasthAna#} <prev>{#abhidharma#}</prev>
+05188 {#ºdharmaskandhapAda#} º> {#abhidharmaskandhapAda#} <prev>{#abhidharma#}</prev>
+05188 {#ºprakara-²NazAsana#} º> {#abhidharmaprakaraNazAsana#} <prev>{#abhidharma#}</prev>
+05188 {#ºprakAzasAdhana#} º> {#abhidharmaprakAzasAdhana#} <prev>{##}</prev>
+05188 {#ºvijJAnakAyapAda#} º> {#abhidharmavijJAnakAyapAda#} <prev>{#abhidharma#}</prev>
+05188 {#ºvi-²bhASA#} º> {#abhidharmavibhASA#} <prev>{#abhidharma#}</prev>
+05255 {#ºka#} º> {#ayUpaka#} <prev>{#ayUpa#}</prev>
+05269 {#ºbhAgin#} º> {#ardhabhAgin#} <prev>{#ardhabhAgika#}</prev>
+05310 {#ºjuS#} º> {#asatpathajuS#} <prev>{#asatpatha#}</prev>
+05349 {#Ayata*#} => {#Ayata*#}
+05361 {#A-²zI£rpada#} => {#AzI£rpada#}
+06195 {#ºditA#} º> {#anRtavAditA#} <prev>{#anRtavAdin#}</prev>
+06202 {#ºvedI#} º> {#antarAvedI#} <prev>{#antarAvedi#}</prev>
+06206 {#ºvant#} º> {#antarvA£vant#} <prev>{#antarvA£vat#}</prev>
+06549 {#ºbhAva#} º> {#avimRSTavidheyAMzabhAva#} <prev>{#avimRSTavidheyAMza#}</prev>
+06221 {#ºtva#} º> {#anyavarNatva#} <prev>{#anyavarNa#}</prev>
+06392 {#ºdroNika#} º> {#ardhadroNika#} <prev>{#ardhadrauNika#}</prev>
+06698 {#ºrauNa#} º> {#AjakarauNa#} <prev>{#AjakaroNa#}</prev>
+06961 {#*ºpAsI#} º> {#karNapAsI#} <prev>{#karNapAzI#}</prev>
+06999 {#kAvyasyAza-²yajJaH#} => {#kAvyasyAzayajJaH#}
+06765 {#ºmehin#} º> {#AlAlamehin#} <prev>{#AlAla#}</prev>
+06885 {#*ºdhAraNI#} º> {#uSNISavijayadhAraNI#} <prev>{#uSNISavijaya#}</prev>
+07022 {#ºvAca#} º> {#ku£yavAca#} <prev>{#ku£yavAc#}</prev>
+07091 {#*ºtAla#} º> {#*kheDDatAla#} <prev>{#*kheDDa#}</prev>
+07119 {#ºvarcastva#} º> {#gADhavarcastva#} <prev>{#gADhavarcas#}</prev>
+07129 {#ºrtitA#} º> {#guruvartitA#} <prev>{#guruvartin#}</prev>
+07232 {#ºkAntAzman#} º> {#jalakAntAzman#} <prev>{#jalakAnta#}</prev>
+07353 {#dazarathalali-²tavrata#} => {#dazarathalalitavrata#}
+07352 {#ºka#} º> {#davaraka#} <prev>{#davara#}</prev>
+07389 {#ºtA#} º> {#durIkSatA#} <prev>{#durIkSa#}</prev>
+07545 {#ºyitA#} º> {#nilAyitA#} <prev>{#nilAyin#}</prev>
+07664 {#ºtA#} º> {#pariharaNIyatA#} <prev>{#pariharaNIya#}</prev>
+07700 {#*ºbheda#} => {#*pAtabheda#} <prev>{#pAta#}</prev>
+07853 {#ºka#} º> {#bappaka#} <prev>{#bappa#}</prev>
+08107 {#ºparityAga#} º> {#rAjImatIparityAga#} <prev>{#rAjImatI#}</prev>
+08144 {#ºm#} º> {#agnisAkSikam#} <prev>{#agnisAkSika#}</prev>
+08171 {#ºvartin#} º> {#atibhUmivartin#} <prev>{#atibhUmi#}</prev>
+08218 {#ºn#} º> {#atisugandhin#} <prev>{#atisugandhi#}</prev>
+08298 {#ºgitA#} º> {#anuyogitA#} <prev>{#anuyogin#}</prev>
+08306 {#ºkArin#} º> {#anRtakArin#} <prev>{#anRtakAraka#}</prev>
+08327 {#ºtA#} º> {#aparAdhInatA#} <prev>{#aparAdhIna#}</prev>
+08459 {#ºtva#} º> {#azocyatva#} <prev>{#azocya#}</prev>
+08459 {#ºtA#} º> {#azocyatA#} <prev>{#azocya#}</prev>
+08558 {#ºnA#} º> {#AtmazlAghanA#} <prev>{#AtmazlAghana#}</prev>
+08708 {#ºdatta#} º> {#kanakadatta#} <prev>{#kanakadanta#}</prev>
+08727 {#ºditA#} º> {#karuNaveditA#} <prev>{#karuNavedin#}</prev>
+08770 {#ºhAri#} º> {#kuthahAri#} <prev>{#kuthahAra#}</prev>
+08770 {#ºhArI#} º> {#kuthahArI#} <prev>{#kuthahAra#}</prev>
+08922 {#ºtva£#} º> {#triHSamRddhatva£#} <prev>{#triHSamRddha#}</prev>
+08978 {#ºvihaMgama#} º> {#dhavalavihaMgama#} <prev>{#dhavalapakSa#}</prev>
+09075 {#ºSi£dhvan#} º> {#puruniHSi£dhvan#} <prev>{#puruniHSi£dh#}</prev>
+09082 {#ºka#} º> {#peTTAlaka#} <prev>{#peTTAla#}</prev>
+09090 {#ºkSaNam#} º> {#pratimAsaMprokSaNam#} <prev>{#pratimAsaMprokSaNa#}</prev>
+09272 {#ºtva#} º> {#laghusamudIraNatva#} <prev>{#laghusamudIraNa#}</prev>
+09286 {#ºyita#} º> {#vajrapAtAyita#} <prev>{#vajrapAtAy#}</prev>
+09313 {#ºka#} º> {#vAlAhaka#} <prev>{#vAlAha#}</prev>
+09353 {#ºprAch#} º> {#zabdaprAch#} <prev>{#zabdaprAz#}</prev>
+09434 {#akAlani-²yama#} => {#akAlaniyama#}
+09435 {#akiM-²cid#} => {#akiMcid#}
+09447 {#aku-²thita#} => {#akuthita#}
+09465 {#ºka#} º> {#akRtaprajJaka#} <prev>{#akRtaprajJa#}</prev>
+09565 {#akSinikA-²Nam#} => {#akSinikANam#}
+09574 {#a-²kSudraparivAra#} => {#akSudraparivAra#}
+09611 {#ºya#} º> {#agastIya#} <prev>{#agastI#}</prev>
+09636 {#ºka#} º> {#agRhapatika#} <prev>{#agRhapati#}</prev>
+09741 {#ºpaJcaSaSTi#} º> {#aghapaJcaSaSTi#} <prev>{#aghapaJcavivecana#}</prev>
+09807 {#ºveSTana#} º> {#aGguliveSTana#} <prev>{#aGguliveSTaka#}</prev>
+09819 {#a-²cakSuSya#} => {#acakSuSya#}
+09862 {#a£cchi-²dratva#} => {#a£cchidratva#}
+09874 {#acyutakSi-²ti#} => {#acyutakSiti#}
+09896 {#a-²janAzam#} => {#ajanAzam#}
+10006 {#atA-²ntava#} => {#atAntava#}
+10015 {#a-²tikITaka#} => {#atikITaka#}
+10017 {#ati-²kutUhala#} => {#atikutUhala#}
+10024 {#atikSutpa-²rIta#} => {#atikSutparIta#}
+10026 {#atigA-²rdhya#} => {#atigArdhya#}
+10036 {#atici-²rasya#} => {#aticirasya#}
+10036 {#ºcirAt#} º> {#aticirAt#} <prev>{#atici-²rasya#}</prev>
+10040 {#a-²tijarant#} => {#atijarant#}
+10040 {#atijitakA-²zin#} => {#atijitakAzin#}
+10049 {#ati-²tRTparIta#} => {#atitRTparIta#}
+10065 {#a-²tidurlalita#} => {#atidurlalita#}
+10092 {#atipA-²NDukambala#} => {#atipANDukambala#}
+10110 {#atipravila-²mbita#} => {#atipravilambita#}
+10118 {#a-²tipraiSa#} => {#atipraiSa#}
+10187 {#a-²tivigrahin#} => {#ativigrahin#}
+10200 {#a-²tivilamba#} => {#ativilamba#}
+10226 {#ati-²vyasanin#} => {#ativyasanin#}
+10227 {#a-²tivyutpanna#} => {#ativyutpanna#}
+10236 {#ati-²zAta#} => {#atizAta#}
+10257 {#a-²tisatkRta#} => {#atisatkRta#}
+10275 {#ati-²sitAGgavihaMga#} => {#atisitAGgavihaMga#}
+10275 {#ºn#} º> {#atisugandhin#} <prev>{#atisugandhi#}</prev>
+10346 {#a-²tyudAra#} => {#atyudAra#}
+10366 {#atharvaNazi-²kSA#} => {#atharvaNazikSA#}
+10366 {#atharva-²NopaniSad#} => {#atharvaNopaniSad#}
+10416 {#adR-²zyatva#} => {#adRzyatva#}
+10446 {#ºka#} º> {#adravyArthaka#} <prev>{#adravyArtha#}</prev>
+10459 {#ºdIpikAsAkSiviveka#} º> {#advaitadIpikAsAkSiviveka#} <prev>{#advaita#}</prev>
+10459 {#ºni-²rNaya#} º> {#advaitanirNaya#} <prev>{#advaita#}</prev>
+10459 {#ºpaJcapadI#} º> {#advaitapaJcapadI#} <prev>{#advaita#}</prev>
+10459 {#ºpaJcaratna#} º> {#advaitapaJcaratna#} <prev>{#advaita#}</prev>
+10459 {#ºparibhASA#} º> {#advaitaparibhASA#} <prev>{#advaita#}</prev>
+10459 {#ºbahiSkAra#} º> {#advaitabahiSkAra#} <prev>{#advaita#}</prev>
+10459 {#ºbodha#} º> {#advaitabodha#} <prev>{#advaita#}</prev>
+10459 {#ºmaGgala#} º> {#advaitamaGgala#} <prev>{#advaita#}</prev>
+10459 {#ºmukhara#} º> {#advaitamaGgala#} <prev>{#advaita#}</prev>
+10459 {#ºratnakoza#} º> {#advaitaratnakoza#} <prev>{#advaita#}</prev>
+10459 {#ºrahasya#} º> {#advaitarahasya#} <prev>{#advaita#}</prev>
+10459 {#ºvidyAvijaya#} º> {#advaitavidyAvijaya#} <prev>{#advaita#}</prev>
+10459 {#ºvidyAvilAsa#} º> {#advaitavidyAvilAsa#} <prev>{#advaita#}</prev>
+10459 {#ºvyAkhyA#} º> {#advaitavyAkhyA#} <prev>{#advaita#}</prev>
+10459 {#ºsaMgraha#} º> {#advaitasaMgraha#} <prev>{#advaita#}</prev>
+10503 {#ºcintAmaNi#} º> {#adhikaraNacintAmaNi#} <prev>{#adhikaraNa#}</prev>
+10503 {#ºzAstra#} º> {#adhikaraNazAstra#} <prev>{#adhikaraNa#}</prev>
+10503 {#ºsArAvali#} º> {#adhikaraNasArAvali#} <prev>{#adhikaraNa#}</prev>
+10510 {#ºritva#} º> {#adhikAritva#} <prev>{#adhikAritA#}</prev>
+10520 {#ºdaivatva#} º> {#a£dhidaivatva#} <prev>{#a£dhidaivatya#}</prev>
+10578 {#adhonA-²bhi£#} => {#adhonAbhi£#}
+10687 {#ana-²niyogapUrva#} => {#ananiyogapUrva#}
+10713 {#ºrgarbhin#} º> {#anantargarbhin#} <prev>{#anantargarbhaka#}</prev>
+10715 {#ºvratavidhi#} º> {#anantavratavidhi#} <prev>{#anantavratakalpa#}</prev>
+10738 {#ananya-²bhedya#} => {#ananyabhedya#}
+10883 {#anasU-²yin#} => {#anasUyin#}
+10907 {#ºmitva#} º> {#anAgAmitva#} <prev>{#anAgAmin#}</prev>
+10911 {#anA-²cchAdita#} => {#anAcchAdita#}
+10915 {#ºtA#} º> {#anAtmajJatA#} <prev>{#anAtmajJa#}</prev>
+10931 {#anAdimadhya-²paryanta#} => {#anAdimadhyaparyanta#}
+10939 {#ºtva#} º> {#anAdyantatva#} <prev>{#anAdyanta#}</prev>
+10942 {#ºka#} º> {#anApattika#} <prev>{#anApatti#}</prev>
+10990 {#anAviHsraganu-²lepa#} => {#anAviHsraganulepa#}
+11014 {#ºdhUra#} º> {#anikSiptadhUra#} <prev>{#anikSiptadhura#}</prev>
+11042 {#ani-²rAkariSNu#} => {#anirAkariSNu#}
+11047 {#ani-²ruddhamaya#} => {#aniruddhamaya#}
+11053 {#ani-²rmukta#} => {#anirmukta#}
+11066 {#a-²nilAtmaja#} => {#anilAtmaja#}
+11089 {#ani[H]STubdha#} => {#aniSTubdha#},{#aniHSTubdha#}
+11090 {#ani[H]SThitAza#} => {#aniSThitAza#},{#aniHSThitAza#}
+11115 {#anukUlakA-²rin#} => {#anukUlakArin#}
+11138 {#anu-²cyamAna#} => {#anucyamAna#}
+11148 {#anu-²tkIrNa#} => {#anutkIrNa#}
+11153 {#anuttaraprakAzapaJcA-²zikA#} => {#anuttaraprakAzapaJcAzikA#}
+11185 {#anupaku-²rvANa#} => {#anupakurvANa#}
+11185 {#ºkramya#} º> {#anupakramya#} <prev>{#anupakramaNIya#}</prev>
+11185 {#ºkrAmya#} º> {#anupakrAmya#} <prev>{#anupakramaNIya#}</prev>
+11209 {#anupala-²kSyamANa#} => {#anupalakSyamANa#}
+11274 {#ºgitA#} º> {#anuyogitA#} <prev>{#anuyogin#}</prev>
+11316 {#ºyajJAyajJIya#} º> {#anuSThAyajJAyajJIya#} <prev>{#anuSThAyajJayajJIya#}</prev>
+11355 {#ºkArin#} º> {#anRtakArin#} <prev>{#anRtakAraka#}</prev>
+11357 {#ºditA#} º> {#anRtavAditA#} <prev>{#anRtavAdin#}</prev>
+11417 {#antarA-²tma£n#} => {#antarAtma£n#}
+11421 {#ºvedI#} º> {#antarAvedI#} <prev>{#antarAvedi#}</prev>
+11442 {#ºrbhAvavAda#} º> {#antarbhAvavAda#} <prev>{#antarbhAvaprakAzikA#}</prev>
+11468 {#antrApIDapraka-[Page7-301-d]²rSin#} => {#antrApIDaprakarSin#}
+11511 {#ºtva#} º> {#anyaparatva#} <prev>{#anyapara#}</prev>
+11517 {#ºtva#} º> {#anyavarNatva#} <prev>{#anyavarNa#}</prev>
+11521 {#ºvRtti#} º> {#anyAyavRtti#} <prev>{#anyAya#}</prev>
+11523 {#anyAyapa-²Jcaka#} => {#anyAyapaJcaka#}
+11527 {#anyokti-²zataka#} => {#anyoktizataka#}
+11592 {#apatyasneha-²kRpAmaya#} => {#apatyasnehakRpAmaya#}
+11623 {#ºapamAnaka#} º> {#apamAnaka#} <prev>{#apamada#}</prev>
+11647 {#ºtA#} º> {#aparAdhInatA#} <prev>{#aparAdhIna#}</prev>
+11871 {#apra-²khyAla#} => {#aprakhyAla#}
+11899 {#aprati-²kAGkSin#} => {#apratikAGkSin#}
+11912 {#a-²pratitarkita#} => {#apratitarkita#}
+11964 {#ºdaivata#} º> {#aprattadaivata#} <prev>{#aprattadevata#}</prev>
+11964 {#aprattasauviSTa-²kRta#} => {#aprattasauviSTakRta#}
+12056 {#abahi-²rvAsas#} => {#abahirvAsas#}
+12097 {#abhava-²dIya#} => {#abhavadIya#}
+12168 {#ºsamarthana#} º> {#abhinnanimittopAdAnasamarthana#} <prev>{#abhinnanimittopAdAna#}</prev>
+12177 {#ºtva#} º> {#abhipItatva#} <prev>{#abhipIta#}</prev>
+12204 {#abhi-²mAna#} => {#abhimAna#}
+12228 {#abhiva-²nanIya#} => {#abhivananIya#}
+12234 {#ºvAsas#} º> {#abhivAsas#} <prev>{#abhivAsa#}</prev>
+12371 {#ºkozapadapAri-²jAta#} º> {#amarakozapadapArijAta#} <prev>{#amarakozapaJcikA#}</prev>
+12371 {#ºkozabRhadvRtti#} º> {#amarakozabRhadvRtti#} <prev>{#amarakozapaJcik#}</prev>
+12424 {#ºtaraMga#} º> {#amRtataraMga#} <prev>{#amRtaturaMga#}</prev>
+12430 {#amRtabinduskando-²paniSad#} => {#amRtabinduskandopaniSad#}
+12461 {#ambu-²jinI#} => {#ambujinI#}
+12542 {#ºska#} º> {#ayorajaska#} <prev>{#ayorajas#}</prev>
+12610 {#aruNA-²modinI#} => {#aruNAmodinI#}
+12715 {#ºdrauNika#} º> {#ardhadrauNika#} <prev>{#ardhadroNika#}</prev>
+12733 {#ºbhAgin#} º> {#ardhabhAgin#} <prev>{#ardhabhAgika#}</prev>
+12777 {#ºarhaka#} º> {#ºarhaka#} <prev>{#arzasin#}</prev>
+12796 {#ºkAramayUkha#} º> {#alaMkAramayUkha#} <prev>{#alaMkAranikarSa#}</prev>
+12798 {#ºkArarAghava#} º> {#alaMkArarAghava#} <prev>{#alaMkArarahasya#}</prev>
+12832 {#ali-²mbaka#} => {#alimbaka#}
+12835 {#a-²lIDha#} => {#alIDha#}
+12838 {#a-²lokavrata#} => {#alokavrata#}
+12851 {#a-²lpaparikara#} => {#alpaparikara#}
+12858 {#a-²lpazruta#} => {#alpazruta#}
+12875 {#avakrace-²tas#} => {#avakracetas#}
+12897 {#ºchedakatA-²nirukti#} º> {#avacchedakatAnirukti#} <prev>{#avacchedakatattvanirukti#}</prev>
+12897 {#ºchedakatAmAlA#} º> {#avacchedakatAmAlA#} <prev>{#avac#}</prev>
+12897 {#ºchedakatA-²leza#} º> {#avacchedakatAleza#} <prev>{#avac#}</prev>
+12897 {#ºchedakatAvAda#} º> {#avacchedakatAvAda#} <prev>{#avac#}</prev>
+12897 {#ºchedakatAsAra#} º> {#avacchedakatAsAra#} <prev>{#avac#}</prev>
+12919 {#ºavadhika#} º> {#avadhika#} <prev>{#avadhAnavant#}</prev>
+12920 {#ºka#} º> {#avadhUtaka#} <prev>{#avadhUta#}</prev>
+12934 {#ava-²ntIsukumAla#} => {#avantIsukumAla#}
+12952 {#avayava-²TippaNI#} => {#avayavaTippaNI#}
+12971 {#ºzikSA#} º> {#avarNIzikSA#} <prev>{#avarNI#}</prev>
+12991 {#avalgu-²kArin#} => {#avalgukArin#}
+13028 {#ºsvApinI#} º> {#avasvApinI#} <prev>{#avasvApanikA#}</prev>
+13079 {#avi-²krayya#} => {#avikrayya#}
+13088 {#avighna-²tas#} => {#avighnatas#}
+13105 {#ºtRSa#} º> {#avitRSa#} <prev>{#avitRS#}</prev>
+13154 {#ºbhAva#} º> {#avimRSTavidheyAMzabhAva#} <prev>{#avimRSTavidheyAMza#}</prev>
+13175 {#avile-²pin#} => {#avilepin#}
+13306 {#a-²zItaruc#} => {#azItaruc#}
+13310 {#ºtva#} º> {#azItyakSaratva#} <prev>{#azItyakSara#}</prev>
+13331 {#ºtA#} º> {#azocyatA#} <prev>{#azocya#}</prev>
+13377 {#ºpadanIya#} º> {#azvaprapadanIya#} <prev>{#azvaprapadana#}</prev>
+13419 {#ºhRdayasaM-²hitA#} º> {#aSTAGgahRdayasaMhitA#} <prev>{#aSTAGgahRdayadIpikA#}</prev>
+13419 {#ºhRdayasaMgraha#} º> {#aSTAGgahRdayasaMgraha#} <prev>{#ºhRdayasaM-²hitA#}</prev>
+13426 {#ºdazasmRti#} º> {#aSTAdazasmRti#} <prev>{#aSTAdazavAda#}</prev>
+13426 {#ºsmRti-²sAra#} º> {#aSTAdazasmRtisAra#} <prev>{#aSTAdazasmRti#}</prev>
+13426 {#ºdazArthavAda#} º> {#aSTAdazArthavAda#} <prev>{#ºsmRti-²sAra#}</prev>
+13434 {#ºde-²zasthalamAhAtmya#} º> {#aSTottarazatadivyadezasthalamAhAtmya#} <prev>{#aSTottarazatadivyadezanirUpaNa#}</prev>
+13434 {#ºsthalazloka#} º> {#aSTottarazatadivyadezasthalazloka#} <prev>{#aSTottarazatadivyadezasthalamAhAtmya#}</prev>
+13434 {#ºzatopaniSad#} º> {#aSTottarazatopaniSad#} <prev>{#aSTottarazatadivyadezasthalazloka#}</prev>
+13524 {#a-²saMdeham#} => {#asaMdeham#}
+13532 {#a-²sabhyArthAntara#} => {#asabhyArthAntara#}
+13788 {#ºAkarNin#} º> {#ºAkarNin#} <prev>{#AkarNadezAntam#}</prev>
+13807 {#ºkalpa#} º> {#AkAzabhairavakalpa#} <prev>{#AkAzabhairava#}</prev>
+13868 {#ºya#} º> {#AgastIya#} <prev>{#AgastI#}</prev>
+13897 {#AcandrArkakSitisama-²kAlam#} => {#AcandrArkakSitisamakAlam#}
+13904 {#AcArana-²vanIta#} => {#AcAranavanIta#}
+13910 {#A-²cAryamaGgala#} => {#AcAryamaGgala#}
+13920 {#ºrauNa#} º> {#AjakarauNa#} <prev>{#AjakaroNa#}</prev>
+13920 {#AjAtazA-²trava#} => {#AjAtazAtrava#}
+13999 {#Atmavika-²tthana#} => {#Atmavikatthana#}
+14001 {#ºnA#} º> {#AtmazlAghanA#} <prev>{#AtmazlAghana#}</prev>
+14001 {#ºzlAghA#} º> {#AtmazlAghA#} <prev>{#AtmazlAghanA#}</prev>
+14026 {#Adikezavastha-²lamAhAtmya#} => {#AdikezavasthalamAhAtmya#}
+14064 {#ºprayoga#} º> {#AdhAnapaJcakaprayoga#} <prev>{#AdhAnapaJcaka#}</prev>
+14071 {#ºyajuSTva£#} º> {#AdhItayajuSTva£#} <prev>{#AdhItayajus#}</prev>
+14078 {#AnandatANDavavarNa-²na#} => {#AnandatANDavavarNana#}
+14078 {#Anandati-²laka#} => {#Anandatilaka#}
+14081 {#Ana-²ndavilAsa#} => {#AnandavilAsa#}
+14092 {#AnIlani-²SadhAyAma#} => {#AnIlaniSadhAyAma#}
+14123 {#ºgRhya#} º> {#ApastambagRhya#} <prev>{#Apastamba#}</prev>
+14123 {#ºdharma#} º> {#Apastambadharma#} <prev>{#Apastamba#}</prev>
+14123 {#ºpUrvapra-²yoga#} º> {#ApastambapUrvaprayoga#} <prev>{#Apastamba#}</prev>
+14123 {#ºprayoga#} º> {#Apastambaprayoga#} <prev>{#Apastamba#}</prev>
+14123 {#ºzrauta#} º> {#Apastambazrauta#} <prev>{#Apastamba#}</prev>
+14123 {#ºsAmAnyasUtra-²bhASya#} º> {#ApastambasAmAnyasUtrabhASya#} <prev>{#Apastamba#}</prev>
+14123 {#ºsUtra#} º> {#ApastambasUtra#} <prev>{#Apastamba#}</prev>
+14123 {#ºsmRti#} º> {#ApastambasmRti#} <prev>{#Apastamba#}</prev>
+14123 {#ApastambApara-²sUtra#} => {#ApastambAparasUtra#}
+14143 {#ºmImAMsAvivRti#} º> {#AptamImAMsAvivRti#} <prev>AptamImAMsAlaMkRti</prev>
+14143 {#ºmImAMsAvRtti#} º> {#AptamImAMsAvRtti#} <prev>AptamImAMsAlaMkRti</prev>
+14192 {#ºkA#} º> {#AmeSTakA#} <prev>{#AmeSTaka#}</prev>
+14215 {#ºpatnI#} º> {#AyuHpatnI#} <prev>{#AyuHpati#}</prev>
+14224 {#ºpatnI#} º> {#AyuSpatnI#} <prev>{#AyuSpati#}</prev>
+14233 {#AraNyakabhA-²Sya#} => {#AraNyakabhASya#}
+14233 {#AraNyazi-²kSA#} => {#AraNyazikSA#}
+14289 {#A-[Page7-319-d]²ryAsvargArohaNaparvan#} => {#AryAsvargArohaNaparvan#}
+14299 {#AlambanapratyayadhyAnazAstravyA-²khyA#} => {#AlambanapratyayadhyAnazAstravyAkhyA#}
+14306 {#ºmehin#} º> {#AlAlamehin#} <prev>{#AlAla#}</prev>
+14322 {#ºzikSA#} º> {#AvarNIzikSA#} <prev>{#AvarNI#}</prev>
+14356 {#AzA-²pallI#} => {#AzApallI#}
+14376 {#ºkANDa#} º> {#AzaucakANDa#} <prev>{#Azauca#}</prev>
+14376 {#ºcandrikA#} º> {#AzaucacandrikA#} <prev>{#Azauca#}</prev>
+14376 {#ºdI-²pikA#} º> {#AzaucadIpikA#} <prev>{#Azauca#}</prev>
+14376 {#ºvidhi#} º> {#Azaucavidhi#} <prev>{#Azauca#}</prev>
+14376 {#ºzataka#} º> {#Azaucazataka#} <prev>{#Azauca#}</prev>
+14390 {#ºdIpikA#} º> {#AzvalAyanadIpikA#} <prev>{#AzvalAyana#}</prev>
+14390 {#ºdharma#} º> {#AzvalAyanadharma#} <prev>{#AzvalAyana#}</prev>
+14390 {#ºpU-²rvaprayoga#} º> {#AzvalAyanapUrvaprayoga#} <prev>{#AzvalAyana#}</prev>
+14390 {#ºprAyazcitta#} º> {#AzvalAyanaprAyazcitta#} <prev>{#AzvalAyana#}</prev>
+14390 {#ºzrauta#} º> {#AzvalAyanazrauta#} <prev>{#AzvalAyana#}</prev>
+14390 {#ºzrauta-²sUtra#} º> {#AzvalAyanazrautasUtra#} <prev>{#AzvalAyana#}</prev>
+14390 {#ºsUtra#} º> {#AzvalAyanasUtra#} <prev>{#AzvalAyana#}</prev>
+14390 {#ºsthAlIpAka#} º> {#AzvalAyanasthAlIpAka#} <prev>{#AzvalAyana#}</prev>
+14390 {#ºsmRti#} º> {#AzvalAyanasmRti#} <prev>{#AzvalAyana#}</prev>
+14446 {#AhitA-²gnividhAna#} => {#AhitAgnividhAna#}
+14460 {#ºmaya#} º> {#ikSuyaSTimaya#} <prev>{#ikSuyaSTi#}</prev>
+14476 {#itihAsasamu-²ccayasaMgraha#} => {#itihAsasamuccayasaMgraha#}
+14494 {#ºkA#} º> {#indukA#} <prev>{#induka#}</prev>
+14555 {#ºdhanvan#} º> {#iSudhanvan#} <prev>{#iSudhanva£#}</prev>
+14555 {#ºdhanvi£n#} º> {#iSudhanvi£n#} <prev>{#ºdhanvan#}</prev>
+14656 {#ºrkI#} º> {#uccodarkI#} <prev>{#uccodarki#}</prev>
+14685 {#ºtA#} º> {#utkatA#} <prev>{#utka#}</prev>
+14773 {#ºpinI#} º> {#utthApinI#} <prev>{#utthApana#}</prev>
+14958 {#upaka-²rNam#} => {#upakarNam#}
+14995 {#upadezasahasrakratu-²vyAkhyA#} => {#upadezasahasrakratuvyAkhyA#}
+15001 {#ºvArika#} º> {#upadhivArika#} <prev>{#upadhivAra#}</prev>
+15118 {#u-²pAnasyaka#} => {#upAnasyaka#}
+15151 {#ubha-²yatovIvadha#} => {#ubhayatovIvadha#}
+15202 {#ºdhAraNI#} º> {#uSNISavijayadhAraNI#} <prev>{#uSNISavijaya#}</prev>
+15202 {#uSNI-²SavijayA#} => {#uSNISavijayA#}
+15235 {#ºpuNDravacana#} º> {#UrdhvapuNDravacana#} <prev>{#UrdhvapuNDradhAraNa#}</prev>
+15243 {#Urdhva-²zAkha#} => {#UrdhvazAkha#}
+15267 {#ºvedaprakRtipada#} º> {#RgvedaprakRtipada#} <prev>{#Rgvedapada#}</prev>
+15267 {#ºvedapra-²mANa#} º> {#RgvedapramANa#} <prev>{#RgvedapramANa#}</prev>
+15267 {#ºvedaprayoga#} º> {#Rgvedaprayoga#} <prev>{#Rg#}</prev>
+15267 {#ºvedaprAtizAkhya#} º> {#RgvedaprAtizAkhya#} <prev>{#Rg#}</prev>
+15267 {#ºvedabrAhmaNa#} º> {#RgvedabrAhmaNa#} <prev>{#Rg#}</prev>
+15267 {#ºvedavidhAna#} º> {#RgvedavidhAna#} <prev>{#Rg#}</prev>
+15267 {#ºvedazi-²vamantra#} º> {#Rgvedazivamantra#} <prev>{#Rg#}</prev>
+15267 {#ºvedAraNyaka#} º> {#RgvedAraNyaka#} <prev>{#Rg#}</prev>
+15359 {#ekaviMza-²tidakSiNa#} => {#ekaviMzatidakSiNa#}
+15405 {#ºdazabhASAvyAkhyA#} º> {#ekAdazabhASAvyAkhyA#} <prev>{#ekA#}</prev>
+15406 {#ekAdazA-²Ggin#} => {#ekAdazAGgin#}
+15409 {#ºdazIvra-²takalpa#} º> {#ekAdazIvratakalpa#} <prev>{#ekA#}</prev>
+15423 {#ekoti-²bhAva#} => {#ekotibhAva#}
+15455 {#evaMjA-²ti#} => {#evaMjAti#}
+15475 {#aitareyAra-²Nyaka#} => {#aitareyAraNyaka#}
+15566 {#ºpRSThI#} º> {#kaGkapRSThI#} <prev>{#kaGkapRSThin#}</prev>
+15573 {#ka-²cchapArAvata#} => {#kacchapArAvata#}
+15595 {#ºtumbI#} º> {#kaTutumbI#} <prev>{#kaTutumbinI#}</prev>
+15596 {#ºzRGgAla#} º> {#kaTuzRGgAla#} <prev>{#kaTuzRGgATa#}</prev>
+15604 {#ºmUDaka#} º> {#kaNamUDaka#} <prev>{#kaNamUTaka#}</prev>
+15616 {#kaNTha-²sUtra#} => {#kaNThasUtra#}
+15645 {#ºdanta#} º> {#kanakadanta#} <prev>{#kanakadatta#}</prev>
+15646 {#ka-²nakapattana#} => {#kanakapattana#}
+15666 {#ºdUSin#} º> {#kanyAdUSin#} <prev>{#kanyAdUSayitar#}</prev>
+15689 {#kamalA-[Page7-329-d]²calamAhAtmya#} => {#kamalAcalamAhAtmya#}
+15747 {#ºpAsI#} º> {#karNapAsI#} <prev>{#karNapAzI#}</prev>
+15751 {#karNa-²lAlikA#} => {#karNalAlikA#}
+15782 {#ºvipAka-²mAdhavIya#} º> {#karmavipAkamAdhavIya#} <prev>{#karmavipAkamahArNava#}</prev>
+15848 {#kalpauSadhasevA-²diprakAra#} => {#kalpauSadhasevAdiprakAra#}
+15853 {#kalyANapurImAhA-²tmya#} => {#kalyANapurImAhAtmya#}
+15853 {#kalyANasauga-[Page7-331-a]²ndhikA#} => {#kalyANasaugandhikA#}
+15853 {#ºnibandhana#} º> {#kalyANasaugandhikAnibandhana#} <prev>{#kalyANasaugandhikA#}</prev>
+15853 {#kalyANIpari-²Naya#} => {#kalyANIpariNaya#}
+15867 {#kavidIpikAnigha-²NTu#} => {#kavidIpikAnighaNTu#}
+15901 {#ºbhaTTIya#} º> {#kANubhaTTIya#} <prev>{#kANubhaTTa#}</prev>
+15918 {#ºkhaNDana#} º> {#kAntAlIyakhaNDana#} <prev>{#kAntAlIya#}</prev>
+15918 {#ºkhaNDa-²namaNDana#} º> {#kAntAlIyakhaNDanamaNDana#} <prev>{#ºkhaNDana#}</prev>
+15948 {#kA-²yoDhaja#} => {#kAyoDhaja#}
+15963 {#ºdarpaNa#} º> {#kArikAdarpaNa#} <prev>{#kArikA#}</prev>
+15963 {#ºratna#} º> {#kArikAratna#} <prev>{#kArikA#}</prev>
+15963 {#ºvali#} º> {#kArikAvali#} <prev>{#kArikA#}</prev>
+15963 {#ºvyAkhyA#} º> {#kArikAvyAkhyA#} <prev>{#kArikA#}</prev>
+15970 {#ºkavaca#} º> {#kArtavIryArjunakavaca#} <prev>{#kArtavIryArjuna#}</prev>
+15970 {#ºdIpA-²rAdhanavidhi#} º> {#kArtavIryArjunadIpArAdhanavidhi#} <prev>{#ºkavaca#}</prev>
+15992 {#kAlanirNayazi-²kSA#} => {#kAlanirNayazikSA#}
+16019 {#kAli-²dAsacandrikA#} => {#kAlidAsacandrikA#}
+16019 {#ºdAsapaJcAzat#} º> {#kAlidAsapaJcAzat#} <prev>{#kAli-²dAsacandrikA#}</prev>
+16029 {#kAvya-²paJcaka#} => {#kAvyapaJcaka#}
+16032 {#kAvyA-²darzikA#} => {#kAvyAdarzikA#}
+16034 {#ºkArikA#} º> {#kAzIkArikA#} <prev>{#kAzI#}</prev>
+16034 {#ºdAsaprahasana#} º> {#kAzIdAsaprahasana#} <prev>{#ºkArikA#}</prev>
+16034 {#ºdharmasabhA#} º> {#kAzIdharmasabhA#} <prev>{#ºdAsaprahasana#}</prev>
+16037 {#ºsaMhitA#} º> {#kAzyapasaMhitA#} <prev>{#kAzyapa#}</prev>
+16037 {#ºsUtra#} º> {#kAzyapasUtra#} <prev>{#ºsaMhitA#}</prev>
+16042 {#ºlatA#} º> {#kASThAlukalatA#} <prev>{#kASThAluka#}</prev>
+16124 {#ºka#} º> {#kuNDalaka#} <prev>{#kuNDala#}</prev>
+16136 {#ºhAri#} º> {#kuthahAri#} <prev>{#kuthahAra#}</prev>
+16165 {#kumbhagho-²NamAhAtmya#} => {#kumbhaghoNamAhAtmya#}
+16253 {#ºputrakevalicaritra#} º> {#kUrmaputrakevalicaritra#} <prev>{#kUrmaputrakathA#}</prev>
+16253 {#kUrmAkRtimudgAla-²kSaNagrantha#} => {#kUrmAkRtimudgAlakSaNagrantha#}
+16258 {#ºpAjIyA#} º> {#kRNuSvapAjIyA#} <prev>{#kRNuSvapAjavatI#}</prev>
+16319 {#kRSNa-²vratamAhAtmya#} => {#kRSNavratamAhAtmya#}
+16333 {#kRSNA-²STamIvrata#} => {#kRSNASTamIvrata#}
+16345 {#keralotpa-²tti#} => {#keralotpatti#}
+16368 {#ºpradIpa#} º> {#kaiyaTapradIpa#} <prev>{#kaiyaTa#}</prev>
+16368 {#ºbhASyapradIpikA#} º> {#kaiyaTabhASyapradIpikA#} <prev>{#ºpradIpa#}</prev>
+16368 {#ºTIya#} º> {#kaiyaTIya#} <prev>{#ºbhASyapradIpikA#}</prev>
+16387 {#koTizatasahasra-²tama#} => {#koTizatasahasratama#}
+16411 {#ºrahasya#} º> {#kautukarahasya#} <prev>{#kautuka#}</prev>
+16411 {#ºsarvasva#} º> {#kautukasarvasva#} <prev>{#ºrahasya#}</prev>
+16451 {#kriyAni-²ghaNTu#} => {#kriyAnighaNTu#}
+16617 {#ºkapotikA#} º> {#khalekapotikA#} <prev>{#khalekapotanyAya#}</prev>
+16642 {#ºtAla#} º> {#kheDDatAla#} <prev>{#kheDDa#}</prev>
+16655 {#ºbhaTTIya#} º> {#gaGgarAmabhaTTIya#} <prev>{#gaGgarAmabhaTTa#}</prev>
+16657 {#gacchAnta-²rgata#} => {#gacchAntargata#}
+16660 {#ºzAstra#} º> {#gajavaidyazAstra#} <prev>{#gajavaidya#}</prev>
+16662 {#ºsUtrArthavAda#} º> {#gajasUtrArthavAda#} <prev>{#gajasUtravAda#}</prev>
+16678 {#gaNacaturthIcandradarza-²nakathA#} => {#gaNacaturthIcandradarzanakathA#}
+16683 {#ºpati-²vidhAna#} º> {#gaNapatividhAna#} <prev>{#gaNapatipurANa#}</prev>
+16687 {#ºcandrikA#} º> {#gaNitacandrikA#} <prev>{#gaNita#}</prev>
+16687 {#ºbhAskara#} º> {#gaNitabhAskara#} <prev>{#ºcandrikA#}</prev>
+16687 {#ºsaM-²graha#} º> {#gaNitasaMgraha#} <prev>{#ºbhAskara#}</prev>
+16692 {#ºtIya#} º> {#gaNezvaradIkSitIya#} <prev>{#gaNezvaradIkSita#}</prev>
+16748 {#garuDazrIraGgamAhA-²tmya#} => {#garuDazrIraGgamAhAtmya#}
+16764 {#garbhasaM-²plava#} => {#garbhasaMplava#}
+16800 {#ºkalpa#} º> {#gAyatrIkalpa#} <prev>{#gAyatrI#}</prev>
+16800 {#ºkavaca#} º> {#gAyatrIkavaca#} <prev>{#ºkalpa#}</prev>
+16800 {#ºtattvada-²rpaNa#} º> {#gAyatrItattvadarpaNa#} <prev>{#ºkavaca#}</prev>
+16800 {#ºtAtparya#} º> {#gAyatrItAtparya#} <prev>{#ºtattvada-²rpaNa#}</prev>
+16818 {#ºgUDhArthadIpikA#} º> {#gItAgUDhArthadIpikA#} <prev>{#gItA#}</prev>
+16818 {#ºtAtparya#} º> {#gItAtAtparya#} <prev>{#ºgUDhArthadIpikA#}</prev>
+16818 {#ºtAtparyacandrikA#} º> {#gItAtAtparyacandrikA#} <prev>{#ºtAtparya#}</prev>
+16818 {#ºtAtparyabodhikA#} º> {#gItAtAtparyabodhikA#} <prev>{#ºtAtparyacandrikA#}</prev>
+16818 {#ºpratipada#} º> {#gItApratipada#} <prev>{#ºtAtparyabodhikA#}</prev>
+16818 {#ºrthasaMgraha#} º> {#gItArthasaMgraha#} <prev>{#ºpratipada#}</prev>
+16818 {#ºrthasaMgraharakSA#} º> {#gItArthasaMgraharakSA#} <prev>{#ºrthasaMgraha#}</prev>
+16818 {#ºvivRti#} º> {#gItAvivRti#} <prev>{#ºrthasaMgraharakSA#}</prev>
+16818 {#ºsamaGgalAcArapaddhati#} º> {#gItAsamaGgalAcArapaddhati#} <prev>{#ºvivRti#}</prev>
+16818 {#ºsAra#} º> {#gItAsAra#} <prev>{#ºsamaGgalAcArapaddhati#}</prev>
+16830 {#gu-²Natantra#} => {#guNatantra#}
+16852 {#ºcandrikA#} º> {#gurucandrikA#} <prev>{#guru#}</prev>
+16852 {#ºjJAnavAsiSTha#} º> {#gurujJAnavAsiSTha#} <prev>{#guru#}</prev>
+16852 {#ºtaraMgiNI#} º> {#gurutaraMgiNI#} <prev>{#guru#}</prev>
+16852 {#ºdIpikA#} º> {#gurudIpikA#} <prev>{#guru#}</prev>
+16852 {#ºnADi#} º> {#gurunADi#} <prev>{#guru#}</prev>
+16852 {#ºbhAvaprakAzikA#} º> {#gurubhAvaprakAzikA#} <prev>{#guru#}</prev>
+16854 {#ºrtitva#} º> {#guruvartitva#} <prev>{#guruvartin#}</prev>
+16912 {#ºtritva#} º> {#gotritva#} <prev>{#gotrin#}</prev>
+16925 {#ºpAlaviMzati#} º> {#gopAlaviMzati#} <prev>{#gopAlaratnAkara#}</prev>
+16928 {#ºparibhASA#} º> {#gopInAthIyaparibhASA#} <prev>{#gopInAthIya#}</prev>
+16931 {#ºphaNikA#} º> {#gophaNikA#} <prev>{#gophaNA#}</prev>
+16945 {#ºvindavirudAva-²li#} º> {#govindavirudAvali#} <prev>{#govindarAjIya#}</prev>
+16952 {#ºpram#} º> {#goSpadapram#} <prev>{#goSpadapUram#}</prev>
+16955 {#ºnandIya#} º> {#gauDabrahmAnandIya#} <prev>{#gauDabrahmAnanda#}</prev>
+16957 {#gautamamAhA-²tmya#} => {#gautamamAhAtmya#}
+16957 {#gau-²tamasUtra#} => {#gautamasUtra#}
+16963 {#ºkAntIya#} º> {#gaurIkAntIya#} <prev>{#gaurI#}</prev>
+16963 {#ºpaJcAGga#} º> {#gaurIpaJcAGga#} <prev>{#ºkAntIya#}</prev>
+17096 {#ºkIlaka#} º> {#caNDikAkIlaka#} <prev>{#caNDikA#}</prev>
+17096 {#ºrgala#} º> {#caNDikArgala#} <prev>{#ºkIlaka#}</prev>
+17096 {#ºsaptati#} º> {#caNDikAsaptati#} <prev>{#ºrgala#}</prev>
+17108 {#ºrdazalakSa-²NI#} º> {#caturdazalakSaNI#} <prev>{#caturdazatattvArthasArasaMgraha#}</prev>
+17108 {#ºkroDa#} º> {#caturdazalakSaNIkroDa#} <prev>{#ºrdazalakSa-²NI#}</prev>
+17108 {#ºjagadIzIya#} º> {#caturdazalakSaNIjagadIzIya#} <prev>{#ºkroDa#}</prev>
+17110 {#ºrdazopaniSad#} º> {#caturdazopaniSad#} <prev>{#caturdazIstotra#}</prev>
+17130 {#ºrvedatAtparya#} º> {#caturvedatAtparya#} <prev>{#caturvedatattvArthasaMgraha#}</prev>
+17130 {#ºsaMgraha#} º> {#caturvedatAtparyasaMgraha#} <prev>{#ºrvedatAtparya#}</prev>
+17130 {#ºsArasaMgraha#} º> {#caturvedatAtparyasArasaMgraha#} <prev>{#ºsaMgraha#}</prev>
+17158 {#candranArA-²yaNabhaTTIya#} => {#candranArAyaNabhaTTIya#}
+17166 {#ºn#} º> {#candrAzman#} <prev>{#candrAzma#}</prev>
+17169 {#ºniruktivivaraNa#} º> {#cannubhaTTIyaniruktivivaraNa#} <prev>{#cannubhaTTIya#}</prev>
+17176 {#ºkArikA#} º> {#cayanakArikA#} <prev>{#cayana#}</prev>
+17176 {#ºpurANabhASya#} º> {#cayanapurANabhASya#} <prev>{#ºkArikA#}</prev>
+17176 {#ºpra-²yoga#} º> {#cayanaprayoga#} <prev>{#ºpurANabhASya#}</prev>
+17176 {#ºmantrapada#} º> {#cayanamantrapada#} <prev>{#ºpra-²yoga#}</prev>
+17186 {#ºm#} º> {#caramam#} <prev>{#carama#}</prev>
+17189 {#ºzlokaTippaNI#} º> {#caramazlokaTippaNI#} <prev>{#caramazlokacandrikA#}</prev>
+17203 {#ºsUtra#} º> {#calAkSarasUtra#} <prev>{#calAkSara#}</prev>
+17211 {#cA-²NakyasUtra#} => {#cANakyasUtra#}
+17215 {#ºmAsyavratavidhi#} º> {#cAturmAsyavratavidhi#} <prev>{#cAturmAsyavidhAna#}</prev>
+17215 {#ºrmAsyahautra#} º> {#cAturmAsyahautra#} <prev>{#ºmAsyavratavidhi#}</prev>
+17217 {#ºrvaidya#} º> {#cAturvaidya#} <prev>{#cAturvedya#}</prev>
+17278 {#ºnaTana#} º> {#cidambaranaTana#} <prev>{#cidambara#}</prev>
+17278 {#ºmAhAtmya#} º> {#cidambaramAhAtmya#} <prev>{#ºnaTana#}</prev>
+17284 {#ºpratyakSa#} º> {#cintAmaNipratyakSa#} <prev>{#cintAmaNi#}</prev>
+17284 {#ºvyAptivAda#} º> {#cintAmaNivyAptivAda#} <prev>{#ºpratyakSa#}</prev>
+17284 {#ºzabdakhaNDa#} º> {#cintAmaNizabdakhaNDa#} <prev>{#ºvyAptivAda#}</prev>
+17309 {#ºcandravijaya#} º> {#cUDAcandravijaya#} <prev>{#cUDA#}</prev>
+17309 {#ºmaNinATaka#} º> {#cUDAmaNinATaka#} <prev>{#ºcandravijaya#}</prev>
+17309 {#ºmaNimImAMsA#} º> {#cUDAmaNimImAMsA#} <prev>{#ºmaNinATaka#}</prev>
+17361 {#chando-²darpaNa#} => {#chandodarpaNa#}
+17371 {#ºyA#} º> {#chAyA#} <prev>{#chAya#}</prev>
+17388 {#jaga-²dIzIya#} => {#jagadIzIya#}
+17388 {#jagannAthatarkapaJcA-²nana#} => {#jagannAthatarkapaJcAnana#}
+17388 {#ºnnAthamAhAtmya#} º> {#jagannAthamAhAtmya#} <prev>{#jagannAthatarkapaJcA-²nana#}</prev>
+17388 {#ºnnAthIya#} º> {#jagannAthIya#} <prev>{#ºnnAthamAhAtmya#}</prev>
+17394 {#ºmUla#} º> {#jaTAdarpaNamUla#} <prev>{#jaTAdarpaNa#}</prev>
+17396 {#ºzikSA#} º> {#jaTAmaNizikSA#} <prev>{#jaTAmaNi#}</prev>
+17442 {#ºnirNaya#} º> {#jayantInirNaya#} <prev>{#jayantI#}</prev>
+17442 {#ºvratakalpa#} º> {#jayantIvratakalpa#} <prev>{#ºnirNaya#}</prev>
+17484 {#ºkiraNAvali#} º> {#jAtakakiraNAvali#} <prev>{#jAtaka#}</prev>
+17484 {#ºpArijAta#} º> {#jAtakapArijAta#} <prev>{#ºkiraNAvali#}</prev>
+17484 {#ºphalavicAra#} º> {#jAtakaphalavicAra#} <prev>{#ºpArijAta#}</prev>
+17484 {#ºmuktAphala#} º> {#jAtakamuktAphala#} <prev>{#ºphalavicAra#}</prev>
+17484 {#ºratna#} º> {#jAtakaratna#} <prev>{#ºmuktAphala#}</prev>
+17484 {#ºvi-²Saya#} º> {#jAtakaviSaya#} <prev>{#ºratna#}</prev>
+17484 {#ºsaralI#} º> {#jAtakasaralI#} <prev>{#ºvi-²Saya#}</prev>
+17484 {#ºsArasaMgraha#} º> {#jAtakasArasaMgraha#} <prev>{#ºsaralI#}</prev>
+17484 {#ºkAdipra-²yoga#} º> {#jAtakAdiprayoga#} <prev>{#ºsArasaMgraha#}</prev>
+17484 {#ºkAlaMkAra#} º> {#jAtakAlaMkAra#} <prev>{#ºkAdipra-²yoga#}</prev>
+17484 {#ºkAlaMkAracintAma-²Ni#} º> {#jAtakAlaMkAracintAmaNi#} <prev>{#ºkAlaMkAra#}</prev>
+17484 {#ºkAvalidIpikA#} º> {#jAtakAvalidIpikA#} <prev>{#ºkAlaMkAracintAma-²Ni#}</prev>
+17484 {#ºkAvali-²pradIpikA#} º> {#jAtakAvalipradIpikA#} <prev>{#ºkAvalidIpikA#}</prev>
+17662 {#ta-²ddharmya#} => {#taddharmya#}
+17857 {#ºka#} º> {#tRNapUlaka#} <prev>{#tRNapUla#}</prev>
+17904 {#ºn#} º> {#triparvan#} <prev>{#triparva#}</prev>
+17909 {#ºpurANIya#} º> {#tripurANIya#} <prev>{#tripurANaka#}</prev>
+17945 {#ºhalikAzrama#} º> {#trihalikAzrama#} <prev>{#trihalikAgrAma#}</prev>
+18038 {#ºka#} º> {#davaraka#} <prev>{#davara#}</prev>
+18045 {#ºlalitA-²vrata#} º> {#dazarathalalitAvrata#} <prev>{#dazarathalalitavrata#}</prev>
+18132 {#duHkhasparza[m]#} => {#duHkhasparza#},{#duHkhasparzam#}
+18153 {#ºtA#} º> {#durIkSatA#} <prev>{#durIkSa#}</prev>
+18233 {#ºnizreNI#} º> {#devanizreNI#} <prev>{#devanizrayaNI#}</prev>
+18239 {#ºSya¹#} º> {#devamanuSya¹#} <prev>{#devamanuSya£#}</prev>
+18273 {#doSa-²bhAj#} => {#doSabhAj#}
+18279 {#*dau[H]SThulya#} => {#*dauSThulya#},{#*dauHSThulya#}
+18336 {#dvi-²dhAbhAvam#} => {#dvidhAbhAvam#}
+18340 {#ºpAtrINa#} º> {#dvipAtrINa#} <prev>{#dvipAtrika#}</prev>
+18353 {#dvi-²ziraska#} => {#dviziraska#}
+18366 {#ºcitika#} º> {#dvyAcitika#} <prev>{#dvyAcita#}</prev>
+18366 {#ºcitIna#} º> {#dvyAcitIna#} <prev>{#ºcitika#}</prev>
+18366 {#dvyA-²Dhaka#} => {#dvyADhaka#}
+18366 {#dvyA-²rSeya#} => {#dvyArSeya#}
+18425 {#ºvihaMgama#} º> {#dhavalavihaMgama#} <prev>{#dhavalapakSa#}</prev>
+18490 {#dhvAjava-²dAyani#} => {#dhvAjavadAyani#}
+18582 {#nA-²tilampaTa#} => {#nAtilampaTa#}
+18582 {#nAtivila-²mbin#} => {#nAtivilambin#}
+18599 {#nAnAmantraugha-²siddhimant#} => {#nAnAmantraughasiddhimant#}
+18695 {#ºprakaza#} º> {#niruddhaprakaza#} <prev>{#niruddhapakaza#}</prev>
+18751 {#ºnilAyin#} º> {#nilAyin#} <prev>{#nirhrAdana#}</prev>
+18751 {#ºyitA#} º> {#nilAyitA#} <prev>{#ºnilAyin#}</prev>
+18833 {#nI-²lakuNDa#} => {#nIlakuNDa#}
+18952 {#paJca-²pariSad#} => {#paJcapariSad#}
+19062 {#ºzAlin#} º> {#parAgvadanazAlin#} <prev>{#parAgvadana#}</prev>
+19121 {#pariva-²strA#} => {#parivastrA#}
+19143 {#ºtA#} º> {#pariharaNIyatA#} <prev>{#pariharaNIya#}</prev>
+19259 {#pA-²pArambhavant#} => {#pApArambhavant#}
+19276 {#pA-²rSNiga#} => {#pArSNiga#}
+19356 {#ºsahasrin#} º> {#putrasahasrin#} <prev>{#putrasahasraka#}</prev>
+19383 {#ºSi£dhvan#} º> {#puruniHSi£dhvan#} <prev>{#puruniHSi£dh#}</prev>
+19384 {#ºka#} º> {#puruSaka#} <prev>{#puruSa#}</prev>
+19406 {#ºrAja#} º> {#puSparAja#} <prev>{#puSparAga#}</prev>
+19413 {#ºrAja#} º> {#puSyarAja#} <prev>{#puSyarAga#}</prev>
+19441 {#pUrvavipra-²tiSedha#} => {#pUrvavipratiSedha#}
+19466 {#ºka#} º> {#peTTAlaka#} <prev>{#peTTAla#}</prev>
+19559 {#*pratini[H]sRjya#} => {#*pratinisRjya#},{#*pratiniHsRjya#}
+19568 {#ºsrabdhi#} º> {#*pratiprasrabdhi#} <prev>{#*pratiprazrabdhi#}</prev>
+19577 {#pratimahAvyAhR-²ti#} => {#pratimahAvyAhRti#}
+19580 {#ºkSaNam#} º> {#pratimAsaMprokSaNam#} <prev>{#pratimAsaMprokSaNa#}</prev>
+19604 {#pratisaMskA-²raNA#} => {#pratisaMskAraNA#}
+19781 {#prAgvA-²Takula#} => {#prAgvATakula#}
+19785 {#prAcInamA-²trAvAsas#} => {#prAcInamAtrAvAsas#}
+19873 {#bakulAbhara-²NacATu#} => {#bakulAbharaNacATu#}
+19887 {#ºka#} º> {#bappaka#} <prev>{#bappa#}</prev>
+19907 {#ºzi#} º> {#balizi#} <prev>{#baliza#}</prev>
+19907 {#ºzI#} º> {#balizI#} <prev>{#ºzi#}</prev>
+19907 {#balI-²vAka#} => {#balIvAka#}
+19919 {#ºsadasam#} º> {#bahiHsadasam#} <prev>{#bahiHsadas#}</prev>
+19919 {#bahiH-²stomabhAga£m#} => {#bahiHstomabhAga£m#}
+19932 {#ºsahasrin#} º> {#bahuvarSasahasrin#} <prev>{#bahuvarSasahasraka#}</prev>
+19944 {#vAº#} => {#vArDhya#}
+19944 {#ºka#} º> {#bArbaraka#} <prev>{#bArbara#}</prev>
+19950 {#vAº#} => {#vAlAha#}
+19950 {#ºka#} º> {#bAlAhaka#} <prev>{#vAº#}</prev>
+19964 {#binduprati-²SThAnamaya#} => {#bindupratiSThAnamaya#}
+19979 {#ºkSetrasamAdhi#} º> {#buddhakSetrasamAdhi#} <prev>{#buddhakSetravaralocana#}</prev>
+20001 {#ºcittotpA-²danazAstra#} º> {#bodhicittotpAdanazAstra#} <prev>{#bodhicittavivaraNa#}</prev>
+20033 {#ºpRthivya#} º> {#bhaktIdyAvApRthivya#} <prev>{#bhaktIdyAvApRthivI#}</prev>
+20128 {#ºka#} º> {#bhiruka#} <prev>{#bhiru#}</prev>
+20242 {#ºkI#} º> {#maNDUkI#} <prev>{#maNDUka#}</prev>
+20281 {#ma-²dhvRc#} => {#madhvRc#}
+20296 {#ºnAma£n#} º> {#manuSyanAma£n#} <prev>{#manuSyanAma£#}</prev>
+20380 {#ma-²hAzrotriya#} => {#mahAzrotriya#}
+20544 {#maitrIpAra-²mitA#} => {#maitrIpAramitA#}
+20600 {#yathA-²sUtram#} => {#yathAsUtram#}
+20658 {#ºdivAkara#} º> {#yuvarAjadivAkara#} <prev>{#yuvarAja#}</prev>
+20710 {#ºtu£r#} º> {#radhra£tu£r#} <prev>{#radhra£#}</prev>
+20736 {#ºparityAga#} º> {#rAjImatIparityAga#} <prev>{#rAjImatI#}</prev>
+20804 {#ºtva#} º> {#laghusamudIraNatva#} <prev>{#laghusamudIraNa#}</prev>
+20930 {#ºsahasrika#} º> {#varSasahasrika#} <prev>{#varSasahasraka#}</prev>
+20930 {#ºsahasrin#} º> {#varSasahasrin#} <prev>{#ºsahasrika#}</prev>
+20930 {#ºsahasrIya#} º> {#varSasahasrIya#} <prev>{#ºsahasrin#}</prev>
+20990 {#ºnikA#} º> {#vAmanikA#} <prev>{#vAmanaka#}</prev>
+21011 {#ºka#} º> {#vAlAhaka#} <prev>{#vAlAha#}</prev>
+21209 {#ºsthita#} º> {#vi£SNvanusthita#} <prev>{#vi£SNvanuSThita#}</prev>
+21378 {#ºprAz#} º> {#zabdaprAz#} <prev>{#zabdaprAch#}</prev>
+21764 {#*sarvatathAgatadharmavAGniSprapaJcajJAnamu-²drA#} => {#*sarvatathAgatadharmavAGniSprapaJcajJAnamudrA#}
+22006 {#ºkakSya#} º> {#hastikakSya#} <prev>{#hastikakSa#}</prev>
+22254 {#ºdah#} º> {#uza£dah#} <prev>{#uza£dagh#}</prev>

@@ -1,0 +1,9 @@
+2613 old <p>{#AsurakANDa#} Titel eines Werkes (<ls>MBH.) OPP. Cat. 1. 
+2613 new <p>{#AsurakANDa#} Titel eines Werkes (<ls>MBH.) <ls>OPP. Cat. 1. 
+;-----------------
+4172 old <p>{#unminJja#} m. {%Frage%} (nach <ls>M. MÜLLER) SUKHAV. 4, 3. 
+4172 new <p>{#unminJja#} m. {%Frage%} (nach <ls>M. MÜLLER) <ls>SUKHA1V. 4, 3. 
+;-----------------
+20951 old <p>5. {#vas#} VI. Aor. {#avAksam#} (so alle [Page7-373-b] ²Hdschrr. nach <ls>AUFRECHT) AIT. BR. 1, ²28, 16 im Wortspiel mit {#vAk#} st. {#a-²vAtsam#} (so <ls>HAUG). 2) mit Acc. des ²Weibes <ls>MBH. 13, 4. 10. -- Mit {#vi#} VI. 6. 
+20951 new <p>5. {#vas#} VI. Aor. {#avAksam#} (so alle [Page7-373-b] ²Hdschrr. nach <ls>AUFRECHT) <ls>AIT. BR. 1, ²28, 16 im Wortspiel mit {#vAk#} st. {#a-²vAtsam#} (so <ls>HAUG). 2) mit Acc. des ²Weibes <ls>MBH. 13, 4. 10. -- Mit {#vi#} VI. 6. 
+;-----------------

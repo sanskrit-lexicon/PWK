@@ -1,0 +1,381 @@
+691 old <hw>{#aGkurArpaNavidhi#}</hw> <ab>m.</ab> Titel eines Werkes <ls>BÜHLER</ls>, ²Rep. No. 561. 
+691 new <hw>{#aGkurArpaNavidhi#}</hw> <ab>m.</ab> Titel eines Werkes <ls>BÜHLER, ²Rep.</ls> No. 561. 
+;-----------------
+898 old <hw>{#ajaDapramAtRsiddhi#}</hw> <ab>f.</ab> Titel eines Werkes <ls>BÜHLER</ls>, ²Rep. No. 433. 
+898 new <hw>{#ajaDapramAtRsiddhi#}</hw> <ab>f.</ab> Titel eines Werkes <ls>BÜHLER, ²Rep.</ls> No. 433. 
+;-----------------
+1584 old <hw>{#aditikuNDalAharaNanATaka#}</hw> <ab>n.</ab> Titel eines {%Schau-²spiels%} <ls>BÜHLER</ls>, Rep. No. 104. 
+1584 new <hw>{#aditikuNDalAharaNanATaka#}</hw> <ab>n.</ab> Titel eines {%Schau-²spiels%} <ls>BÜHLER, Rep.</ls> No. 104. 
+;-----------------
+1738 old <hw>{#adhikamAsaphala#}</hw> <ab>n.</ab> Titel eines Werkes <ls>BÜHLER</ls>, ²Rep. No. 45. 
+1738 new <hw>{#adhikamAsaphala#}</hw> <ab>n.</ab> Titel eines Werkes <ls>BÜHLER, ²Rep.</ls> No. 45. 
+;-----------------
+2059 old <hw>{#anatipAda#}</hw> <ab>m.</ab> {%das Nichtüberschreiten, -- springen%} ²<ls>TA1N2D2YA-BR.</ls> 4. 5. 12. 7, 3, 23. 
+2059 new <hw>{#anatipAda#}</hw> <ab>m.</ab> {%das Nichtüberschreiten, -- springen%} ²<ls>TA1N2D2YA-BR.</ls> 4, 5, 12. 7, 3, 23. 
+;-----------------
+2924 old <hw>{#anuttaraprakAzapaJcAzikA#}</hw> <ab>f.</ab> Titel eines Werkes ²<ls>BÜHLER</ls>, Rep. No. 436. 
+2924 new <hw>{#anuttaraprakAzapaJcAzikA#}</hw> <ab>f.</ab> Titel eines Werkes ²<ls>BÜHLER, Rep.</ls> No. 436. 
+;-----------------
+2936 old <hw>{#anutsRSTa#}</hw> auch {%nicht ausgesetzt, unausgesetzt ge-²feiert%} <ls>TA1N2D2YA-BR.</ls> 5, 10. 2. 3. 
+2936 new <hw>{#anutsRSTa#}</hw> auch {%nicht ausgesetzt, unausgesetzt ge-²feiert%} <ls>TA1N2D2YA-BR.</ls> 5, 10, 2. 3. 
+;-----------------
+3335 old <hw>{#anekArthakairavakaumudI#}</hw> <ab>f.</ab> Titel eines Werkes <ls>BÜH-²LER</ls>, Rep. No. 702. 
+3335 new <hw>{#anekArthakairavakaumudI#}</hw> <ab>f.</ab> Titel eines Werkes <ls>BÜH-²LER, Rep.</ls> No. 702. 
+;-----------------
+3677 old <hw>{#aparAjita#}</hw> 3) {%h%}) {%ein <ab>best.</ab> Backstein%} <ls>MAITR. S.</ls> 2, ²8, 14. -- {%i%}) <ab>N. pr.</ab> einer {|Sura1n3gana1|} <ls>Ind. St.</ls> 15. ² -- {%k%}) Titel eines Werkes <ls>BÜHLER</ls>, Rep. No. 47. ² -- 4) {%b%}) {%ein <ab>best.</ab> Spruch%} <ls>VARA1H. YOGAY.</ls> 8, 6. 
+3677 new <hw>{#aparAjita#}</hw> 3) {%h%}) {%ein <ab>best.</ab> Backstein%} <ls>MAITR. S.</ls> 2, ²8, 14. -- {%i%}) <ab>N. pr.</ab> einer {|Sura1n3gana1|} <ls>Ind. St.</ls> 15. ² -- {%k%}) Titel eines Werkes <ls>BÜHLER, Rep.</ls> No. 47. ² -- 4) {%b%}) {%ein <ab>best.</ab> Spruch%} <ls>VARA1H. YOGAY.</ls> 8, 6. 
+;-----------------
+3810 old <hw>{#apazabdanirAkaraNa#}</hw> <ab>n.</ab> Titel eines gramm. Werkes ²<ls>BÜHLER</ls>, Rep. No. 271. 
+3810 new <hw>{#apazabdanirAkaraNa#}</hw> <ab>n.</ab> Titel eines gramm. Werkes ²<ls>BÜHLER, Rep.</ls> No. 271. 
+;-----------------
+4211 old <hw>{#abhayapradAnasAra#}</hw> Titel eines Werkes <ls>BÜHLER</ls>, Rep. ²No. 409. 
+4211 new <hw>{#abhayapradAnasAra#}</hw> Titel eines Werkes <ls>BÜHLER, Rep.</ls> ²No. 409. 
+;-----------------
+4231 old <hw>{#abhAvagranthavyAkhyA#}</hw> <ab>f.</ab> Titel eines Werkes <ls>BÜH-²LER</ls>, Rep. No. 703. 
+4231 new <hw>{#abhAvagranthavyAkhyA#}</hw> <ab>f.</ab> Titel eines Werkes <ls>BÜH-²LER, Rep.</ls> No. 703. 
+;-----------------
+4536 old <hw>{#amaranAthamAhAtmya#}</hw> <ab>n.</ab> Titel eines Werkes <ls>BÜH-²LER</ls>, Rep. No. 48. 
+4536 new <hw>{#amaranAthamAhAtmya#}</hw> <ab>n.</ab> Titel eines Werkes <ls>BÜH-²LER, Rep.</ls> No. 48. 
+;-----------------
+4557 old <hw>{#amarezvarakalpa#}</hw> <ab>m.</ab>, <hw>{#amarezvaramAhAtmya#}</hw> <ab>n.</ab> und <hw>{#amare-²zvarayAtrA#}</hw> <ab>f.</ab> Titel von Werken <ls>BÜHLER</ls>, Rep. No. 49. fgg. 
+4557 new <hw>{#amarezvarakalpa#}</hw> <ab>m.</ab>, <hw>{#amarezvaramAhAtmya#}</hw> <ab>n.</ab> und <hw>{#amare-²zvarayAtrA#}</hw> <ab>f.</ab> Titel von Werken <ls>BÜHLER, Rep.</ls> No. 49. fgg. 
+;-----------------
+4900 old <hw>{#arthAlaMkAra#}</hw> <ab>m.</ab> auch Titel eines Werkes <ls>BÜHLER</ls>, ²Rep. No. 225. 
+4900 new <hw>{#arthAlaMkAra#}</hw> <ab>m.</ab> auch Titel eines Werkes <ls>BÜHLER, ²Rep.</ls> No. 225. 
+;-----------------
+4941 old <hw>{#ardhanArIzvarastotra#}</hw> <ab>n.</ab> Titel eines Werkes <ls>BÜH-²LER</ls>, Rep. No. 107. 
+4941 new <hw>{#ardhanArIzvarastotra#}</hw> <ab>n.</ab> Titel eines Werkes <ls>BÜH-²LER, Rep.</ls> No. 107. 
+;-----------------
+5021 old <hw>{#alaMkAraratnAkara#}</hw> <ab>m.</ab> Titel eines Werkes <ls>BÜHLER</ls>, ²Rep. No. 277. fgg. 
+5021 new <hw>{#alaMkAraratnAkara#}</hw> <ab>m.</ab> Titel eines Werkes <ls>BÜHLER, ²Rep.</ls> No. 277. fgg. 
+;-----------------
+5033 old <hw>{#alaMkArodAharaNa#}</hw> <ab>n.</ab> Titel zweier Werke <ls>BÜH-²LER</ls>, Rep. No. 240. fg. 
+5033 new <hw>{#alaMkArodAharaNa#}</hw> <ab>n.</ab> Titel zweier Werke <ls>BÜH-²LER, Rep.</ls> No. 240. fg. 
+;-----------------
+5433 old <hw>{#avyayavRtti#}</hw> <ab>f.</ab> Titel eines Werkes <ls>BÜHLER</ls>, Rep. ²No. 272. 
+5433 new <hw>{#avyayavRtti#}</hw> <ab>f.</ab> Titel eines Werkes <ls>BÜHLER, Rep.</ls> ²No. 272. 
+;-----------------
+5607 old <hw>{#azvattha#}</hw> 1) {%a%}) {#ºzAkhA£#} <ab>f.</ab> <ls>MAITR. S.</ls> 2. 6. 6. <ab>Nom. abstr.</ab> ²{#azvatthatva£#} <ab>n.</ab> 1, 6, 12. 
+5607 new <hw>{#azvattha#}</hw> 1) {%a%}) {#ºzAkhA£#} <ab>f.</ab> <ls>MAITR. S.</ls> 2, 6, 6. <ab>Nom. abstr.</ab> ²{#azvatthatva£#} <ab>n.</ab> <ls n="MAITR. S.">1, 6, 12.</ls> 
+;-----------------
+6204 old <hw>{#AnandakAvya#}</hw> <ab>n.</ab> Titel eines Werkes <ls>BÜHLER</ls>, Rep. ²No. 108. 
+6204 new <hw>{#AnandakAvya#}</hw> <ab>n.</ab> Titel eines Werkes <ls>BÜHLER, Rep.</ls> ²No. 108. 
+;-----------------
+6277 old <hw>{#AptamImAMsAlaMkRti#}</hw>, <hw>{#ºmImAMsAvivRti#}</hw> und <hw>{#ºmImAM-²sAvRtti#}</hw> <ab>f.</ab> Titel von Werken <ls>BÜHLER</ls>, Rep. No. 564. ²fgg. {#AptAº#} in den zwei letzten Titeln. 
+6277 new <hw>{#AptamImAMsAlaMkRti#}</hw>, <hw>{#ºmImAMsAvivRti#}</hw> und <hw>{#ºmImAM-²sAvRtti#}</hw> <ab>f.</ab> Titel von Werken <ls>BÜHLER, Rep.</ls> No. 564. ²fgg. {#AptAº#} in den zwei letzten Titeln. 
+;-----------------
+6610 old <hw>{#indraprasthamAhAtmya#}</hw> <ab>n.</ab> Titel eines Werkes <ls>BÜH-²LER</ls>, Rep. No. 53. 
+6610 new <hw>{#indraprasthamAhAtmya#}</hw> <ab>n.</ab> Titel eines Werkes <ls>BÜH-²LER, Rep.</ls> No. 53. 
+;-----------------
+6698 old <hw>{#Izvarazataka#}</hw> <ab>n.</ab> Titel eines Werkes <ls>BÜHLER</ls>, Rep. ²No. 109. 
+6698 new <hw>{#Izvarazataka#}</hw> <ab>n.</ab> Titel eines Werkes <ls>BÜHLER, Rep.</ls> ²No. 109. 
+;-----------------
+6935 old <hw>{#upadezaratnamAlA#}</hw> <ab>f.</ab> Titel eines Werkes <ls>BÜHLER</ls>, ²Rep. No. 568.
+6935 new <hw>{#upadezaratnamAlA#}</hw> <ab>f.</ab> Titel eines Werkes <ls>BÜHLER, ²Rep.</ls> No. 568.
+;-----------------
+6987 old <hw>{#upAsakAdhyayana#}</hw> <ab>n.</ab> Titel eines Werkes <ls>BÜHLER</ls>, ²Rep. No. 569.
+6987 new <hw>{#upAsakAdhyayana#}</hw> <ab>n.</ab> Titel eines Werkes <ls>BÜHLER, ²Rep.</ls> No. 569.
+;-----------------
+7064 old <hw>{#Rcaka#}</hw> Titel eines Werkes <ls>BÜHLER</ls>, Rep. No. 6. 7.
+7064 new <hw>{#Rcaka#}</hw> Titel eines Werkes <ls>BÜHLER, Rep.</ls> No. 6. 7.
+;-----------------
+7076 old <hw>{#RSimaNDala#}</hw> <ab>n.</ab> Titel eines Werkes <ls>BÜHLER</ls>, Rep. ²No. 571.
+7076 new <hw>{#RSimaNDala#}</hw> <ab>n.</ab> Titel eines Werkes <ls>BÜHLER, Rep.</ls> ²No. 571.
+;-----------------
+7100 old <hw>{#ekIbhAvastotra#}</hw> <ab>n.</ab> desgl. <ls>BÜHLER</ls>, Rep. No. 572.
+7100 new <hw>{#ekIbhAvastotra#}</hw> <ab>n.</ab> desgl. <ls>BÜHLER, Rep.</ls> No. 572.
+;-----------------
+7532 old <hw>{#agnikhadA#}</hw> <ab>f.</ab> {%Höllenpfanne%} oder {%Höllenofen%} <ls>KA1-²RAN2D2.</ls> 10, 12. 37, 4. 98. 5. 
+7532 new <hw>{#agnikhadA#}</hw> <ab>f.</ab> {%Höllenpfanne%} oder {%Höllenofen%} <ls>KA1-²RAN2D2.</ls> 10, 12. 37, 4. 98, 5. 
+;-----------------
+7653 old <hw>{#aGgarAja#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines Pra1krit-Dichters <ls>HA1LA</ls> 31. 
+7653 new <hw>{#aGgarAja#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines <as1>Pra1krit</as1>-Dichters <ls>HA1LA</ls> 31. 
+;-----------------
+8774 old <hw>{#anIka#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines Pra1krit-Dichters <ls>HA1LA</ls> 10. 
+8774 new <hw>{#anIka#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines <as1>Pra1krit</as1>-Dichters <ls>HA1LA</ls> 10. 
+;-----------------
+8922 old <hw>{#anurAga#}</hw> 5) <ab>N. pr.</ab> eines Pra1krit-Dichters <ls>HA1LA</ls> 33. 
+8922 new <hw>{#anurAga#}</hw> 5) <ab>N. pr.</ab> eines <as1>Pra1krit</as1>-Dichters <ls>HA1LA</ls> 33. 
+;-----------------
+9551 old <hw>{#amararAja#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines Pra1krit-Dichters <ls>HA1LA</ls> 7. [Page2-291-b] 
+9551 new <hw>{#amararAja#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines <as1>Pra1krit</as1>-Dichters <ls>HA1LA</ls> 7. [Page2-291-b] 
+;-----------------
+9564 old <hw>{#amRta#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines Pra1krit-Dichters <ls>HA1LA</ls> 43. 
+9564 new <hw>{#amRta#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines <as1>Pra1krit</as1>-Dichters <ls>HA1LA</ls> 43. 
+;-----------------
+9754 old <hw>{#ardharAja#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines Pra1krit-Dichters <ls>HA1LA</ls> 26. 
+9754 new <hw>{#ardharAja#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines <as1>Pra1krit</as1>-Dichters <ls>HA1LA</ls> 26. 
+;-----------------
+9795 old <hw>{#alika#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines Pra1krit-Dichters <ls>HA1LA</ls> 107. 
+9795 new <hw>{#alika#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines <as1>Pra1krit</as1>-Dichters <ls>HA1LA</ls> 107. 
+;-----------------
+9889 old <hw>{#avaTaGka#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines Pra1krit-Dichters <ls>HA1LA</ls> 37. 
+9889 new <hw>{#avaTaGka#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines <as1>Pra1krit</as1>-Dichters <ls>HA1LA</ls> 37. 
+;-----------------
+10025 old <hw>{#avirAga#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines Pra1krit-Dichters <ls>HA1LA</ls> ²123. 
+10025 new <hw>{#avirAga#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines <as1>Pra1krit</as1>-Dichters <ls>HA1LA</ls> ²123. 
+;-----------------
+10210 old <hw>{#asadRza#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines Pra1krit-Dichters <ls>HA1LA</ls> 58. 
+10210 new <hw>{#asadRza#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines <as1>Pra1krit</as1>-Dichters <ls>HA1LA</ls> 58. 
+;-----------------
+10527 old <hw>{#AdivarAha#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines Pra1krit-Dichters ²<ls>HA1LA</ls> 85. 
+10527 new <hw>{#AdivarAha#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines <as1>Pra1krit</as1>-Dichters ²<ls>HA1LA</ls> 85. 
+;-----------------
+11206 old <hw>{#upadezakarNikA#}</hw> <ab>f.</ab> Titel eines {|Jaina|}-Werkes ²<ls>BÜHLER</ls>, Rep. 1872 -- 73, S. 10. 
+11206 new <hw>{#upadezakarNikA#}</hw> <ab>f.</ab> Titel eines {|Jaina|}-Werkes ²<ls>BÜHLER, Rep.</ls> 1872 -- 73, S. 10. 
+;-----------------
+11408 old <hw>{#RSimaNDalaprakaraNa#}</hw> <ab>n.</ab> Titel eines {|Jaina|}-Wer-²kes <ls>BÜHLER</ls>, Rep. 1872 -- 73, S. 10. 
+11408 new <hw>{#RSimaNDalaprakaraNa#}</hw> <ab>n.</ab> Titel eines {|Jaina|}-Wer-²kes <ls>BÜHLER, Rep.</ls> 1872 -- 73, S. 10. 
+;-----------------
+11627 old <hw>{#ogaNa£#}</hw>, <ab>vgl.</ab> Pa1li {#ogaNa#} {%gewaltig, -- gross.%} 
+11627 new <hw>{#ogaNa£#}</hw>, <ab>vgl.</ab> <as1>Pa1li</as1> {#ogaNa#} {%gewaltig, -- gross.%} 
+;-----------------
+11692 old <hw>{#kaTilla#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines Pra1krit-Dichters <ls>HA1LA</ls> 80. 
+11692 new <hw>{#kaTilla#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines <as1>Pra1krit</as1>-Dichters <ls>HA1LA</ls> 80. 
+;-----------------
+11803 old <hom>3.</hom> <hw>{#kamala#}</hw> 2) {%e%}) <gr>gamma</gr>) eines Pra1krit-Dichters <ls>HA1LA</ls> 115. 
+11803 new <hom>3.</hom> <hw>{#kamala#}</hw> 2) {%e%}) <gr>gamma</gr>) eines <as1>Pra1krit</as1>-Dichters <ls>HA1LA</ls> 115. 
+;-----------------
+11865 old <hw>{#karNaputra#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines Pra1krit-Dichters <ls>HA1LA</ls> 122. 
+11865 new <hw>{#karNaputra#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines <as1>Pra1krit</as1>-Dichters <ls>HA1LA</ls> 122. 
+;-----------------
+11946 old <hw>{#kalirAja#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines Pra1krit-Dichters <ls>HA1LA</ls> 21. 
+11946 new <hw>{#kalirAja#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines <as1>Pra1krit</as1>-Dichters <ls>HA1LA</ls> 21. 
+;-----------------
+11954 old <hw>{#kalpa#}</hw> 3) richtig {#kalya#} ({#kalyA#}), wie sich aus der ²Pra1kritform {#kallA#} <ls>DES4I1N.</ls> 2, 2 ergiebt. -- <ls>MBH.</ls> 7, ²1626 fehlerhaft für {#talpa#}. 
+11954 new <hw>{#kalpa#}</hw> 3) richtig {#kalya#} ({#kalyA#}), wie sich aus der ²<as1>Pra1krit</as1>form {#kallA#} <ls>DES4I1N.</ls> 2, 2 ergiebt. -- <ls>MBH.</ls> 7, ²1626 fehlerhaft für {#talpa#}. 
+;-----------------
+12017 old <hw>{#kAkapeya#}</hw>, lies {%bis an den Uferrand voll Wasser, ²so dass eine Krähe daraus trinken kann.%} Im Pa1li ²<ls>MAHA1PARIN.</ls> in <ls>J. R. A. S.</ls> 1875. S. 64, Z. 23. 
+12017 new <hw>{#kAkapeya#}</hw>, lies {%bis an den Uferrand voll Wasser, ²so dass eine Krähe daraus trinken kann.%} Im <as1>Pa1li</as1> ²<ls>MAHA1PARIN.</ls> in <ls>J. R. A. S.</ls> 1875. S. 64, Z. 23. 
+;-----------------
+12146 old <hw>{#kAlasAra#}</hw> 2) {%c%}) <ab>N. pr.</ab> eines Pra1krit-Dichters ²<ls>HA1LA</ls> 25. 
+12146 new <hw>{#kAlasAra#}</hw> 2) {%c%}) <ab>N. pr.</ab> eines <as1>Pra1krit</as1>-Dichters ²<ls>HA1LA</ls> 25. 
+;-----------------
+12163 old <hw>{#kAlita#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines Pra1krit-Dichters <ls>HA1LA</ls> 63. 
+12163 new <hw>{#kAlita#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines <as1>Pra1krit</as1>-Dichters <ls>HA1LA</ls> 63. 
+;-----------------
+12222 old <hw>{#kIrtirAya#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines Pra1krit-Dichters <ls>HA1LA</ls> ²135. 
+12222 new <hw>{#kIrtirAya#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines <as1>Pra1krit</as1>-Dichters <ls>HA1LA</ls> ²135. 
+;-----------------
+12275 old <hw>{#kundaputra#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines Pra1krit-Dichters <ls>HA1LA</ls> 136. 
+12275 new <hw>{#kundaputra#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines <as1>Pra1krit</as1>-Dichters <ls>HA1LA</ls> 136. 
+;-----------------
+12360 old <hw>{#kusumamAlA#}</hw> <ab>f.</ab> Titel eines Werkes <ls>BÜHLER</ls>, Rep. ²1872 -- 73, S. 10. 
+12360 new <hw>{#kusumamAlA#}</hw> <ab>f.</ab> Titel eines Werkes <ls>BÜHLER, Rep.</ls> ²1872 -- 73, S. 10. 
+;-----------------
+12412 old <hw>{#kRtajJazIla#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines Pra1krit-Dichters ²<ls>HA1LA</ls> 83. 
+12412 new <hw>{#kRtajJazIla#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines <as1>Pra1krit</as1>-Dichters ²<ls>HA1LA</ls> 83. 
+;-----------------
+12691 old <hw>{#gajareva#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines Pra1krit-Dichters <ls>HA1LA</ls> 91. 
+12691 new <hw>{#gajareva#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines <as1>Pra1krit</as1>-Dichters <ls>HA1LA</ls> 91. 
+;-----------------
+12700 old <hw>{#gajasiMha#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines Pra1krit-Dichters <ls>HA1LA</ls> 15. 
+12700 new <hw>{#gajasiMha#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines <as1>Pra1krit</as1>-Dichters <ls>HA1LA</ls> 15. 
+;-----------------
+12727 old <hw>{#gatalajja#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines Pra1krit-Dichters <ls>HA1LA</ls> 57. 
+12727 new <hw>{#gatalajja#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines <as1>Pra1krit</as1>-Dichters <ls>HA1LA</ls> 57. 
+;-----------------
+12740 old <hw>{#gandharAja#}</hw> 1) {%c%}) <ab>N. pr.</ab> eines Pra1krit-Dichters ²<ls>HA1LA</ls> 121. 
+12740 new <hw>{#gandharAja#}</hw> 1) {%c%}) <ab>N. pr.</ab> eines <as1>Pra1krit</as1>-Dichters ²<ls>HA1LA</ls> 121. 
+;-----------------
+12912 old <hw>{#grAmakUTa#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines Pra1krit-Dichters <ls>HA1LA</ls> 88. 
+12912 new <hw>{#grAmakUTa#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines <as1>Pra1krit</as1>-Dichters <ls>HA1LA</ls> 88. 
+;-----------------
+13086 old <hw>{#cuzcuSA#}</hw>, die dem <ls>MA1NAVA</ls> entsprechende Stelle ²in der <ls>PADDH.</ls> zu <ls>MAITR. S. S.</ls> 53 lautet: {#vyunmarzaM ²hAryojanaM sarve bhakSayanti cuzcUSAkAraM#} ({#bhakSayantaH zuzruSA-²kAraM#} <ls>MA1N. S4R.</ls> 2, 5, 4 <ab>Hdschr.</ab>) {#dhAnAH saMdazya rayyai#} [Page2-301-a] ²{#tvA poSAya tvetyuttaravedyAM nivapati#}. 
+13086 new <hw>{#cuzcuSA#}</hw>, die dem <ls>MA1NAVA</ls> entsprechende Stelle ²in der <ls>PADDH.</ls> zu <ls>MAITR. S.</ls> S. 53 lautet: {#vyunmarzaM ²hAryojanaM sarve bhakSayanti cuzcUSAkAraM#} ({#bhakSayantaH zuzruSA-²kAraM#} <ls>MA1N. S4R.</ls> 2, 5, 4 <ab>Hdschr.</ab>) {#dhAnAH saMdazya rayyai#} [Page2-301-a] ²{#tvA poSAya tvetyuttaravedyAM nivapati#}. 
+;-----------------
+19413 old <hw>{#trinAli#}</hw> <ab>Adj.</ab> {%einen Zeitraum von 3x24 Mi-²nuten ausfüllend%} <ls>SA1H. D.</ls> 553. 
+19413 new <hw>{#trinAli#}</hw> <ab>Adj.</ab> {%einen Zeitraum von 3 x 24 Mi-²nuten ausfüllend%} <ls>SA1H. D.</ls> 553. 
+;-----------------
+19556 old <hw>{#dazanAli#}</hw> <ab>Adj.</ab> {%einen Zeitraum von 10x24 Minu-²ten ausfüllend%} <ls>SA1H. D.</ls> 553. 
+19556 new <hw>{#dazanAli#}</hw> <ab>Adj.</ab> {%einen Zeitraum von 10 x 24 Minu-²ten ausfüllend%} <ls>SA1H. D.</ls> 553. 
+;-----------------
+21470 old <hw>{#araNAvihArin#}</hw> (Nachtr. 3) wohl verdorben. ²Man könnte {#Aryaviº#} vermuthen; <ab>vgl.</ab> im Pa1li {#a-²riyavihAro#} bei <ls>CHILDERS</ls> unter {#brahmavihAro#}. 
+21470 new <hw>{#araNAvihArin#}</hw> (Nachtr. 3) wohl verdorben. ²Man könnte {#Aryaviº#} vermuthen; <ab>vgl.</ab> im <as1>Pa1li</as1> {#a-²riyavihAro#} bei <ls>CHILDERS</ls> unter {#brahmavihAro#}. 
+;-----------------
+21975 old <hw>{#uDigalla#}</hw> (richtiger) und <hw>{#uDilla#}</hw> {%Cloake%} <ls>Lot. de ²la b. l.</ls> 384. fg. Nach dem Pa1li {#oligallo#} hätte ²man {#oDigalla#} erwartet. 
+21975 new <hw>{#uDigalla#}</hw> (richtiger) und <hw>{#uDilla#}</hw> {%Cloake%} <ls>Lot. de ²la b. l.</ls> 384. fg. Nach dem <as1>Pa1li</as1> {#oligallo#} hätte ²man {#oDigalla#} erwartet. 
+;-----------------
+22075 old <hw>{#upamarditatva#}</hw> <ab>n.</ab> {%das Beseitigtsein%} <ls>S4AM3K.</ls> zu <ls>CHA1ND. ²UP. S.</ls> 6. 
+22075 new <hw>{#upamarditatva#}</hw> <ab>n.</ab> {%das Beseitigtsein%} <ls>S4AM3K.</ls> zu <ls>CHA1ND. ²UP.</ls> S. 6. 
+;-----------------
+24152 old <hw>{#bhUri#}</hw> (wohl f.; <ab>vgl.</ab> {#bhUrI#} im Pa1li) {%Verstand, In-²tellect%} <ls>LALIT.</ls> 444, 1. 445, 12. [Page5-240-b] 
+24152 new <hw>{#bhUri#}</hw> (wohl f.; <ab>vgl.</ab> {#bhUrI#} im <as1>Pa1li</as1>) {%Verstand, In-²tellect%} <ls>LALIT.</ls> 444, 1. 445, 12. [Page5-240-b] 
+;-----------------
+24291 old <hw>{#agresara#}</hw> 2) {%der vorzüglichste unter%} (<ab>Gen.</ab>) <ls>KHAN-²D2APR.</ls> 105. 
+24291 new <hw>{#agresara#}</hw> 2) {%der vorzüglichste unter%} (<ab>Gen.</ab>) <ls>KHAN2-²D2APR.</ls> 105. 
+;-----------------
+24692 old <hom>1.</hom> <hw>{#adoSa#}</hw> auch {%kein Fehler%} <ls>SA1Y.</ls> zu <ls>R2V.</ls> 1. 13. 1. 
+24692 new <hom>1.</hom> <hw>{#adoSa#}</hw> auch {%kein Fehler%} <ls>SA1Y.</ls> zu <ls>R2V.</ls> 1, 13, 1. 
+;-----------------
+25369 old <hw>{#anvajiravati#}</hw> <ab>Adv.</ab> {%längs der%} {|Ajiravati1|} <ls>HAR-²SHAK.</ls> (1936) 132, 11. 
+25369 new <hw>{#anvajiravati#}</hw> <ab>Adv.</ab> {%längs der%} {|Ajiravati1|} <ls>HAR-²SHAC.</ls> (1936) 132, 11. 
+;-----------------
+26893 old <hw>{#azubha#}</hw> 2) zu streichen, da H. 955, <ab>Sch.</ab> nach <ls>AUFRECHT</ls> ²{#yacchAzvataH#} die richtige Lesart ist. <ab>Vgl.</ab> <ls>S4A1S4VATA</ls> 661. 
+26893 new <hw>{#azubha#}</hw> 2) zu streichen, da <ls>H.</ls> 955, <ab>Sch.</ab> nach <ls>AUFRECHT</ls> ²{#yacchAzvataH#} die richtige Lesart ist. <ab>Vgl.</ab> <ls>S4A1S4VATA</ls> 661. 
+;-----------------
+27317 old <hw>{#A£NDapIta#}</hw> (Accent2 !) <ab>Adj.</ab> {%Eier geschlürft habend%} ²<ls>TAITT. A1R.</ls> 1, 27, 6. 
+27317 new <hw>{#A£NDapIta#}</hw> (Accent !) <ab>Adj.</ab> {%Eier geschlürft habend%} ²<ls>TAITT. A1R.</ls> 1, 27, 6. 
+;-----------------
+27523 old <hw>{#Alapita#}</hw> <ab>n.</ab> {%Unterredung mit%} (<ab>Gen.</ab>) <ls>MBH.</ls> 5, 29, ²8. {%Gerede%} Chr. 299, 3 (im Pra1krit). 
+27523 new <hw>{#Alapita#}</hw> <ab>n.</ab> {%Unterredung mit%} (<ab>Gen.</ab>) <ls>MBH.</ls> 5, 29, ²8. {%Gerede%} Chr. 299, 3 (im <as1>Pra1krit</as1>). 
+;-----------------
+27612 old <hw>{#iGgAla#}</hw> <ab>m.</ab> pra1kritisch für {#aGgAra#} {%Kohle%} <ls>HARSHA</ls> ²im <ab>Comm.</ab> zu <ls>VA1SAV.</ls> 191. <ab>Vgl.</ab> <ls>HEM. Pr. Gr.</ls> 1, 47. ²254 und die Anm. zu 1, 47. 
+27612 new <hw>{#iGgAla#}</hw> <ab>m.</ab> <as1>pra1kritisch</as1> für {#aGgAra#} {%Kohle%} <ls>HARSHA</ls> ²im <ab>Comm.</ab> zu <ls>VA1SAV.</ls> 191. <ab>Vgl.</ab> <ls>HEM. Pr. Gr.</ls> 1, 47. ²254 und die Anm. zu 1, 47. 
+;-----------------
+29450 old <hw>{#jAGgalIka#}</hw> <ab>m.</ab> {%Giftbeschwörer%} <ls>HARSHAC.</ls> 30, 3. v. ²l. (95, 7) <hw>{#jAGgulika#}</hw>. 
+29450 new <hw>{#jAGgalIka#}</hw> <ab>m.</ab> {%Giftbeschwörer%} <ls>HARSHAC.</ls> 30, 3. <ab>v. ²l.</ab> (<ls n="HARSHAC.">95, 7</ls>) <hw>{#jAGgulika#}</hw>. 
+;-----------------
+29687 old <hw>{#talArakSa#}</hw> <ab>m.</ab> <ls>CAMPAKA</ls> 422. <ab>Vgl.</ab> {#talavara#} bei <ls>LEU-²MANN</ls>, Aup. Gl. und <ls>Ind. St.</ls> 16, 38. {#talavAro#} im ²Pra1krit ist = {#talavara = purAdhyakSa#} <ls>BEZZENBERGER</ls>, ²Beitr. 3, 261. 
+29687 new <hw>{#talArakSa#}</hw> <ab>m.</ab> <ls>CAMPAKA</ls> 422. <ab>Vgl.</ab> {#talavara#} bei <ls>LEU-²MANN</ls>, Aup. Gl. und <ls>Ind. St.</ls> 16, 38. {#talavAro#} im ²<as1>Pra1krit</as1> ist = {#talavara = purAdhyakSa#} <ls>BEZZENBERGER</ls>, ²Beitr. 3, 261. 
+;-----------------
+30578 old <hw>{#nijAma#}</hw> <ab>m.</ab> {%Niza1m%} <ls>Z. d. d. m. G.</ls> 37, 546. <ab>Vgl.</ab> ²{#naijAmaSAha#}. 
+30578 new <hw>{#nijAma#}</hw> <ab>m.</ab> {%<as1>Niza1m</as1>%} <ls>Z. d. d. m. G.</ls> 37, 546. <ab>Vgl.</ab> ²{#naijAmaSAha#}. 
+;-----------------
+30979 old <hw>{#pattracchedya#}</hw> ist wohl <ab>n.</ab> <ls>KA1D.</ls> (ed. Bomb.) 75, 17 ²bezeichnet es {%eine <ab>best.</ab> Kunstfertigkeit%} ({#ketakAdi-²pattracchedana#} Glosse). Im Pra1krit {#pattacchejja#} <ls>LEUMANN</ls>, ²Aup. Gl. 
+30979 new <hw>{#pattracchedya#}</hw> ist wohl <ab>n.</ab> <ls>KA1D.</ls> (ed. Bomb.) 75, 17 ²bezeichnet es {%eine <ab>best.</ab> Kunstfertigkeit%} ({#ketakAdi-²pattracchedana#} Glosse). Im <as1>Pra1krit</as1> {#pattacchejja#} <ls>LEUMANN</ls>, ²Aup. Gl. 
+;-----------------
+31974 old <hw>{#balIvAka#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines {|Muni|} <ls>MBH.</ls> 2, 109. v. ²l. {#balivAka#}. [Page5-261-c] 
+31974 new <hw>{#balIvAka#}</hw> <ab>m.</ab> <ab>N. pr.</ab> eines {|Muni|} <ls>MBH.</ls> 2, 109. <ab>v. ²l.</ab> {#balivAka#}. [Page5-261-c] 
+;-----------------
+32137 old <hw>{#bRhattantrapati#}</hw> <ab>m.</ab> {%ein <ab>best.</ab> Beamter%} <ls>BÜHLER</ls>, Rep. 52. 
+32137 new <hw>{#bRhattantrapati#}</hw> <ab>m.</ab> {%ein <ab>best.</ab> Beamter%} <ls>BÜHLER, Rep.</ls> 52. 
+;-----------------
+32936 old <hw>{#rathayAtaka#}</hw> <ab>n.</ab> <ab>Instr.</ab> so <ab>v. a.</ab> {%zu Wagen%} <ls>BÜHLER</ls>, ²Rep. LXXXVII, 8 in einer scenischen Bemerkung. 
+32936 new <hw>{#rathayAtaka#}</hw> <ab>n.</ab> <ab>Instr.</ab> so <ab>v. a.</ab> {%zu Wagen%} <ls>BÜHLER, ²Rep.</ls> LXXXVII, 8 in einer scenischen Bemerkung. 
+;-----------------
+33072 old <hw>{#akSata#}</hw> 2) nach dem <ab>Comm.</ab> zu <ls>R. ed. Bomb.</ls> 2, ²25, 37 <ab>f.</ab> {#A#} <ab>Pl.</ab> Nach <ls>H. an.</ls> und <ls>MED.</ls> <ab>m.</ab> <ab>n.</ab> auch ²{%Eunuch%} und nach H. s4. 43 <ab>m.</ab> <ab>Bein.</ab> {|S4iva's|}. [Page6-293-a] 
+33072 new <hw>{#akSata#}</hw> 2) nach dem <ab>Comm.</ab> zu <ls>R. ed. Bomb.</ls> 2, ²25, 37 <ab>f.</ab> {#A#} <ab>Pl.</ab> Nach <ls>H. an.</ls> und <ls>MED.</ls> <ab>m.</ab> <ab>n.</ab> auch ²{%Eunuch%} und nach H. <as1>s4.</as1> 43 <ab>m.</ab> <ab>Bein.</ab> {|S4iva's|}. [Page6-293-a] 
+;-----------------
+33211 old <hw>{#atibhUmi#}</hw>, <hw>{#ºvartin#}</hw> <ls>S4A1K.</ls> (Ka1s4m.) 618, 2. 
+33211 new <hw>{#atibhUmi#}</hw>, <hw>{#ºvartin#}</hw> <ls>S4A1K.</ls> (<as1>Ka1s4m.</as1>) 618, 2. 
+;-----------------
+33791 old <hw>{#andolay#}</hw> im Pra1krit 294, 19. 
+33791 new <hw>{#andolay#}</hw> im <as1>Pra1krit</as1> 294, 19. 
+;-----------------
+34181 old <hw>{#avizaGkita#}</hw> <ab>Adj.</ab> 1) {%keine Scheu empfindend, nicht ²ängstlich, kein Bedenken habend%} <ls>MBH.</ls> 5, 16, 8. <ls>VIKR.</ls> ²81, 11. <ls>MA1RK. P.</ls> 16, 3. <ls>RA1JAT.</ls> 6, 330. -- 2) {%nicht be-²anstandet, -- in Zweifel gezogen, -- mit Misstrauen ²betrachtet%} <ls>R. GORR.</ls> 2. 109. 51. 
+34181 new <hw>{#avizaGkita#}</hw> <ab>Adj.</ab> 1) {%keine Scheu empfindend, nicht ²ängstlich, kein Bedenken habend%} <ls>MBH.</ls> 5, 16, 8. <ls>VIKR.</ls> ²81, 11. <ls>MA1RK. P.</ls> 16, 3. <ls>RA1JAT.</ls> 6, 330. -- 2) {%nicht be-²anstandet, -- in Zweifel gezogen, -- mit Misstrauen ²betrachtet%} <ls>R. GORR.</ls> 2, 109, 51. 
+;-----------------
+34309 old <hw>{#azakyasamuccheda#}</hw> <ab>Adj.</ab> {%unvernichtbar%} <ls>WILSON, SA1M3-²KHYAK. S.</ls> 8 (zu lesen {#syAdvAzakyasaº#}). <ab>Nom. abstr.</ab> ²{#ºtA#} <ab>f.</ab> S. 9. 
+34309 new <hw>{#azakyasamuccheda#}</hw> <ab>Adj.</ab> {%unvernichtbar%} <ls>WILSON, SA1M3-²KHYAK.</ls> S. 8 (zu lesen {#syAdvAzakyasaº#}). <ab>Nom. abstr.</ab> ²{#ºtA#} <ab>f.</ab> S. 9. 
+;-----------------
+35432 old <hw>{#karamarI#}</hw>, <ab>vgl.</ab> Pa1li {#karamara#} {%Gefangener.%} 
+35432 new <hw>{#karamarI#}</hw>, <ab>vgl.</ab> <as1>Pa1li</as1> {#karamara#} {%Gefangener.%} 
+;-----------------
+35497 old <hw>{#kalpazAla#}</hw> <ab>m.</ab> = {#kalpataru#} 1) <ls>J. A. O. S.</ls> 6, 505, ²S4l. 16. 
+35497 new <hw>{#kalpazAla#}</hw> <ab>m.</ab> = {#kalpataru#} 1) <ls>J. A. O. S.</ls> 6, 505, ²<as1>S4l.</as1> 16. 
+;-----------------
+35683 old <hw>{#kRtodvAha#}</hw> <ab>Adj.</ab> {%die Ehe vollzogen habend, verhei-²rathet%} <ls>R.</ls> 1, 25, 10. 34. 52. 35, 1. 
+35683 new <hw>{#kRtodvAha#}</hw> <ab>Adj.</ab> {%die Ehe vollzogen habend, verhei-²rathet%} <ls>R.</ls> 1, 25, 10. 34, 52. 35, 1. 
+;-----------------
+35792 old <hw>{#khaNDamodaka#}</hw> im Pra1krit <ls>VIKRAM.</ls> 39, 12. 
+35792 new <hw>{#khaNDamodaka#}</hw> im <as1>Pra1krit</as1> <ls>VIKRAM.</ls> 39, 12. 
+;-----------------
+35904 old <hw>{#ghRNAvant#}</hw> <ab>Adj.</ab> {%ekelhaft%} <ls>SARASVATI1K.</ls> 6, S4l. 17. 
+35904 new <hw>{#ghRNAvant#}</hw> <ab>Adj.</ab> {%ekelhaft%} <ls>SARASVATI1K.</ls> 6, <as1>S4l.</as1> 17. 
+;-----------------
+36579 old <hw>{#nizcayakRt#}</hw> <ab>Adj.</ab> {%einen <ab>best.</ab> Sinn gebend%} <ls>SA1VASVA-²TI1K.</ls> 4, S4l. 12. 
+36579 new <hw>{#nizcayakRt#}</hw> <ab>Adj.</ab> {%einen <ab>best.</ab> Sinn gebend%} <ls>SA1VASVA-²TI1K.</ls> 4, <as1>S4l.</as1> 12. 
+;-----------------
+36720 old <hw>{#paribhakSa#}</hw> <ab>m.</ab> {%das Umge4hen Jmds beim Essen, eine ²<ab>best.</ab> Begehung%} <ls>A1PAST. S4R.</ls> 14, 31, 9. <ab>Vgl.</ab> {#aº#}. 
+36720 new <hw>{#paribhakSa#}</hw> <ab>m.</ab> {%das <as1>Umge4hen</as1> Jmds beim Essen, eine ²<ab>best.</ab> Begehung%} <ls>A1PAST. S4R.</ls> 14, 31, 9. <ab>Vgl.</ab> {#aº#}. 
+;-----------------
+42632 old <hw>{#adharima#}</hw> <ab>Adj.</ab> {%der niedrigste%} <ls>DIVYA1-²VAD.</ls> 99, 14. <ab>Vgl.</ab> {#uparima#} im Pa1li. 
+42632 new <hw>{#adharima#}</hw> <ab>Adj.</ab> {%der niedrigste%} <ls>DIVYA1-²VAD.</ls> 99, 14. <ab>Vgl.</ab> {#uparima#} im <as1>Pa1li</as1>. 
+;-----------------
+56170 old <hw>{#ahiraNyava#}</hw> <ab>Adj.</ab> {%keinen Gold-²schmuck besitzend, -- tragend%} <ls>S4A1N3KH. ²S4R.</ls> 12. 21. 1. 
+56170 new <hw>{#ahiraNyava#}</hw> <ab>Adj.</ab> {%keinen Gold-²schmuck besitzend, -- tragend%} <ls>S4A1N3KH. ²S4R.</ls> 12, 21, 1. 
+;-----------------
+60857 old <hw>{#*uddhRtakaThina#}</hw> <ab>n.</ab> <ls>MAHA1VY.</ls> 281, 204 = ²Pa1li {#kaThinoddhAra, kaThinobbhAra#}. 
+60857 new <hw>{#*uddhRtakaThina#}</hw> <ab>n.</ab> <ls>MAHA1VY.</ls> 281, 204 = ²<as1>Pa1li</as1> {#kaThinoddhAra, kaThinobbhAra#}. 
+;-----------------
+60919 old <hw>{#*udyUthikAgamana#}</hw> <ab>n.</ab> etwa {%das Hin-[Page7-324-b]²rennen zu einem Auflauf%} <ls>MAHA1VY.</ls> ²261. <ab>Vgl.</ab> jedoch Pa1li {#uyyodhika#}. 
+60919 new <hw>{#*udyUthikAgamana#}</hw> <ab>n.</ab> etwa {%das Hin-[Page7-324-b]²rennen zu einem Auflauf%} <ls>MAHA1VY.</ls> ²261. <ab>Vgl.</ab> jedoch <as1>Pa1li</as1> {#uyyodhika#}. 
+;-----------------
+62256 old <hw>{#UlI#}</hw> <ab>f.</ab> {%Zwiebel%} <ls>CATURVIM3S4AYIMATA</ls> ²in <ls>PRA1YAS4CITTAMAYU1KHA</ls> nach <ls>AUF-²RECHT</ls>. 
+62256 new <hw>{#UlI#}</hw> <ab>f.</ab> {%Zwiebel%} <ls>CATURVIM3S4ATIMATA</ls> ²in <ls>PRA1YAS4CITTAMAYU1KHA</ls> nach <ls>AUF-²RECHT</ls>. 
+;-----------------
+62964 old <hw>{#ekaikatra#}</hw>, <hw>{#ekaikavant#}</hw> und <hw>{#ekoti-²bhAva#}</hw> ({#ekotIbhAva#} <ls>MAHA1VY.</ls> 67. 85 [v. ²l. {#ekotiº#}]; <ab>vgl.</ab> Proceedings of the ²As. Soc. of Bengal 1887, S. 167. fgg. ²223. fg. 249 und {#ekoti#}) 2. 
+62964 new <hw>{#ekaikatra#}</hw>, <hw>{#ekaikavant#}</hw> und <hw>{#ekoti-²bhAva#}</hw> ({#ekotIbhAva#} <ls>MAHA1VY.</ls> 67. 85 [<ab>v. ²l.</ab> {#ekotiº#}]; <ab>vgl.</ab> Proceedings of the ²As. Soc. of Bengal 1887, S. 167. fgg. ²223. fg. 249 und {#ekoti#}) 2. 
+;-----------------
+63408 old <hw>{#*aupanAyika#}</hw> <ab>Adj.</ab> <ls>MAHA1VY.</ls> 63. <ab>Vgl.</ab> ²Pa1li {#opanayika#}. 
+63408 new <hw>{#*aupanAyika#}</hw> <ab>Adj.</ab> <ls>MAHA1VY.</ls> 63. <ab>Vgl.</ab> ²<as1>Pa1li</as1> {#opanayika#}. 
+;-----------------
+63993 old <hw>{#kapiJjala#}</hw> II. 1) {%a%}) {#ºnyAyena#} (<ls>SA1Y.</ls> zu ²<ls>R2V.</ls> 3, 56, 5. <ls>SUD.</ls> zu <ls>A1PAST. GR2HY.</ls> 10, ²2. 3. <ls>KULL.</ls> zu <ls>M.</ls> 8, 105) {%nach Art der%} ²{|Kapin5jala|} und {#kapiJjalAdhikara-²NanyAyena#} (<ls>SHAD2GURUS4.</ls> in <ls>VEDA1RTHAD.</ls> ²72, 10) {%nach Art des%} {|Kap.|}-{%Abschnit-²tes%} (in der <ls>PU1RVAMI1MA1M3SA1</ls>) bedeuten ²so <ab>v. a.</ab> {%da schon drei eine Mehr-²zahl bilden.%} Im Opferritual heisst ²es nämlich: {#azvamedhe vasantAya kapi-²JjalAnAlabheta#}. Da das Tödten von ²lebenden Wesen soviel als möglich ²vermieden werden soll, hier aber ²eine Mehrzahl von Haselhühnern ²zu opfern vorgeschrieben wird, so ²wird, um beiden Vorschriften ge-²recht zu werden, {%drei%} (das Minimum ²der Mehrzahl) als Norm angesetzt. ²<ab>Vgl.</ab> <ls>VS.</ls> 24, 20. <ls>GAIM.</ls> 11, 1, 38. <ls>NYA1-²YAM.</ls> 11, 1, 9. Diese Erklärung des ²{|Nya1ya|} verdanke ich <ls>MACDONALD</ls>, der ²wiederum auf <ls>COWELL</ls> verweist. 
+63993 new <hw>{#kapiJjala#}</hw> II. 1) {%a%}) {#ºnyAyena#} (<ls>SA1Y.</ls> zu ²<ls>R2V.</ls> 3, 56, 5. <ls>SUD.</ls> zu <ls>A1PAST. GR2HY.</ls> 10, ²2. 3. <ls>KULL.</ls> zu <ls>M.</ls> 8, 105) {%nach Art der%} ²{|Kapin5jala|} und {#kapiJjalAdhikara-²NanyAyena#} (<ls>SHAD2GURUS4.</ls> in <ls>VEDA1RTHAD.</ls> ²72, 10) {%nach Art des%} {|Kap.|}-{%Abschnit-²tes%} (in der <ls>PU1RVAMI1MA1M3SA1</ls>) bedeuten ²so <ab>v. a.</ab> {%da schon drei eine Mehr-²zahl bilden.%} Im Opferritual heisst ²es nämlich: {#azvamedhe vasantAya kapi-²JjalAnAlabheta#}. Da das Tödten von ²lebenden Wesen soviel als möglich ²vermieden werden soll, hier aber ²eine Mehrzahl von Haselhühnern ²zu opfern vorgeschrieben wird, so ²wird, um beiden Vorschriften ge-²recht zu werden, {%drei%} (das Minimum ²der Mehrzahl) als Norm angesetzt. ²<ab>Vgl.</ab> <ls>VS.</ls> 24, 20. <ls>JAIM.</ls> 11, 1, 38. <ls>NYA1-²YAM.</ls> 11, 1, 9. Diese Erklärung des ²{|Nya1ya|} verdanke ich <ls>MACDONALD</ls>, der ²wiederum auf <ls>COWELL</ls> verweist. 
+;-----------------
+64208 old <hw>{#karimakara#}</hw> II. im Pra1krit <ls>VIKR.</ls> 117. 
+64208 new <hw>{#karimakara#}</hw> II. im <as1>Pra1krit</as1> <ls>VIKR.</ls> 117. 
+;-----------------
+64805 old <hw>{#*kazambakajAta#}</hw> <ab>Adj.</ab> {%besudelt, un-²rein%} <ls>MAHA1VY.</ls> 278. <ab>Vgl.</ab> Pa1li {#kasambu#}. 
+64805 new <hw>{#*kazambakajAta#}</hw> <ab>Adj.</ab> {%besudelt, un-²rein%} <ls>MAHA1VY.</ls> 278. <ab>Vgl.</ab> <as1>Pa1li</as1> {#kasambu#}. 
+;-----------------
+67754 old <hw>{#*khaNDaphulla#}</hw> <ab>Adj.</ab> {%zerrüttet, de4labre4%} ²<ls>MAHA1VY.</ls> 281, 225. 
+67754 new <hw>{#*khaNDaphulla#}</hw> <ab>Adj.</ab> {%zerrüttet, <as1>de4labre4</as1>%} ²<ls>MAHA1VY.</ls> 281, 225. 
+;-----------------
+68908 old <hw>{#gRddhitva#}</hw> und <hw>{#gRddhin#}</hw> II. richtig, <ab>vgl.</ab> ²Pa1li {#giddhin#}. 
+68908 new <hw>{#gRddhitva#}</hw> und <hw>{#gRddhin#}</hw> II. richtig, <ab>vgl.</ab> ²<as1>Pa1li</as1> {#giddhin#}. 
+;-----------------
+69469 old <hw>{#*gredha#}</hw> <ab>m.</ab> {%Gier, Begierde%} <ls>MAHA1VY.</ls> [Page7-339-d] ²245, 1145. <ab>Vgl.</ab> Pa1li {#gedha#}. 
+69469 new <hw>{#*gredha#}</hw> <ab>m.</ab> {%Gier, Begierde%} <ls>MAHA1VY.</ls> [Page7-339-d] ²245, 1145. <ab>Vgl.</ab> <as1>Pa1li</as1> {#gedha#}. 
+;-----------------
+71551 old <hw>{#*jijJAsthi#}</hw> <ls>GAN2AP.</ls> 194, 32 und {#si-²JjAstha#} <ab>n.</ab> 33 nach <ls>LEUMANN</ls> fehlerhaft ²für {#miJjAsthi#} oder {#ºstha#} {%Knochen-²mark.%} Im Pra1krit ist {#miJjA = majjan#}. 
+71551 new <hw>{#*jijJAsthi#}</hw> <ls>GAN2AP.</ls> 194, 32 und {#si-²JjAstha#} <ab>n.</ab> 33 nach <ls>LEUMANN</ls> fehlerhaft ²für {#miJjAsthi#} oder {#ºstha#} {%Knochen-²mark.%} Im <as1>Pra1krit</as1> ist {#miJjA = majjan#}. 
+;-----------------
+72794 old <hw>{#*tuNava#}</hw> <ab>m.</ab> {%eine Art Trommel%} <ls>MA-²HA1VY.</ls> 218, 8. <ab>Vgl.</ab> Pa1li {#tiNava#}. 
+72794 new <hw>{#*tuNava#}</hw> <ab>m.</ab> {%eine Art Trommel%} <ls>MA-²HA1VY.</ls> 218, 8. <ab>Vgl.</ab> <as1>Pa1li</as1> {#tiNava#}. 
+;-----------------
+74745 old <hw>{#dyotA#}</hw> <ab>f.</ab> <ls>A1PAST. GR2HY.</ls> 3, 11. <ls>BAUDH. ²GR2HY.</ls> <ls>PARIS4.</ls> Von den Commenta-²toren durch {%eine Schielende, Roth-²äugige%} oder {%Rothhaarige%} erklärt. ²<ab>Vgl.</ab> <ls>VAIJAYANTI1</ls>, <ls>BHU1MIK.</ls>, <ls>BRA1HMA-²N2A1DHY.</ls> 51. 
+74745 new <hw>{#dyotA#}</hw> <ab>f.</ab> <ls>A1PAST. GR2HY.</ls> 3, 11. <ls>BAUDH. ²GR2HY. PARIS4.</ls> Von den Commenta-²toren durch {%eine Schielende, Roth-²äugige%} oder {%Rothhaarige%} erklärt. ²<ab>Vgl.</ab> <ls>VAIJAYANTI1</ls>, <ls>BHU1MIK.</ls>, <ls>BRA1HMA-²N2A1DHY.</ls> 51. 
+;-----------------
+77162 old <hw>{#naiSpeSika#}</hw> III. <ab>Vgl.</ab> Pa1li {#nippesika#}. ²*<ab>Nom. abstr.</ab> {#ºtva#} <ab>n.</ab> <ls>MAHA1VY.</ls> 127, 55. 
+77162 new <hw>{#naiSpeSika#}</hw> III. <ab>Vgl.</ab> <as1>Pa1li</as1> {#nippesika#}. ²*<ab>Nom. abstr.</ab> {#ºtva#} <ab>n.</ab> <ls>MAHA1VY.</ls> 127, 55. 
+;-----------------
+78605 old <hw>{#*pAtI#}</hw> (eig. {|Pa1li|}) <ab>f.</ab> = {#pAtrI#} <ls>MA-²HA1VY.</ls> 197, 115. 
+78605 new <hw>{#*pAtI#}</hw> (eig. {|<as1>Pa1li</as1>|}) <ab>f.</ab> = {#pAtrI#} <ls>MA-²HA1VY.</ls> 197, 115. 
+;-----------------
+79559 old <hw>{#*pailottika#}</hw> <ab>n.</ab> <ls>MAHA1VY.</ls> 281, 242. <ab>Vgl.</ab> ²Pa1li {#pilotikA#}. 
+79559 new <hw>{#*pailottika#}</hw> <ab>n.</ab> <ls>MAHA1VY.</ls> 281, 242. <ab>Vgl.</ab> ²<as1>Pa1li</as1> {#pilotikA#}. 
+;-----------------
+79583 old <hw>{#*popphala#}</hw> <ab>n.</ab> pra1kritisch für {#pUgaphala#} ²<ls>MAHA1VY.</ls> 231, 33. 
+79583 new <hw>{#*popphala#}</hw> <ab>n.</ab> <as1>pra1kritisch</as1> für {#pUgaphala#} ²<ls>MAHA1VY.</ls> 231, 33. 
+;-----------------
+79587 old <hw>{#*poSa#}</hw> IV. pra1kritisch für {#puruSa#} <ls>MA-²HA1VY.</ls> 207, 5. 
+79587 new <hw>{#*poSa#}</hw> IV. <as1>pra1kritisch</as1> für {#puruSa#} <ls>MA-²HA1VY.</ls> 207, 5. 
+;-----------------
+82091 old <hw>{#bhAjanavArika#}</hw> <ab>m.</ab> {%Gefässbewahrer%} ²<ls>MAHA1VY.</ls> 274, 14. <ls>DIVYA1VAD.</ls> 45, 20 (v. ²l. {#ºcArika#}). 
+82091 new <hw>{#bhAjanavArika#}</hw> <ab>m.</ab> {%Gefässbewahrer%} ²<ls>MAHA1VY.</ls> 274, 14. <ls>DIVYA1VAD.</ls> 45, 20 (<ab>v. ²l.</ab> {#ºcArika#}). 
+;-----------------
+82607 old <hw>{#maTUSikA#}</hw>, <hw>{#maDUSikA#}</hw> oder {#maNDUSikA#} ²<ab>f.</ab> <ls>A1PAST. GR2HY.</ls> 3, 11. <ls>BAUDH. GR2HY.</ls> ²<ls>PARIS4.</ls> auf verschiedene Weise er-²klärt. <ab>Vgl.</ab> {#nadhUSikA = svalpadehA#} ²<ls>VAIJAYANTI1</ls>, <ls>BHU1MIK.</ls>, <ls>BRA1HMAN2A1DHY.</ls> 51. 
+82607 new <hw>{#maTUSikA#}</hw>, <hw>{#maDUSikA#}</hw> oder {#maNDUSikA#} ²<ab>f.</ab> <ls>A1PAST. GR2HY.</ls> 3, 11. <ls>BAUDH. GR2HY. ²PARIS4.</ls> auf verschiedene Weise er-²klärt. <ab>Vgl.</ab> {#nadhUSikA = svalpadehA#} ²<ls>VAIJAYANTI1</ls>, <ls>BHU1MIK.</ls>, <ls>BRA1HMAN2A1DHY.</ls> 51. 
+;-----------------
+83685 old <hom>1.</hom> <hw>{#muc#}</hw> V. 12) {%Jmd%} (<ab>Gen.</ab>) {%entwischen%} ²<ls>GA1TAKAM.</ls> 20. 21, 11. 22. -- Mit {#pra#} ²auch {%sich losmachen von%} (<ab>Gen.</ab>), {%ent-²gehen%} <ls>R. ed. Bomb.</ls> 3, 66, 11. {#pramukta#} {%frei ²von%} (<ab>Abl.</ab>) <ls>MAHA1VY.</ls> 19, 47. -- Mit {#vi, ²ºmukta#} {%Jmd%} (<ab>Gen.</ab>) {%entkommen%} <ls>JA1TA-²KAM.</ls> 21. 23. -- Mit {#pratisam, ºsaMmukta#} {%er-²löst, von einem peinlichen Zustande ²befreit%} <ls>R. ed. Bomb.</ls> 4, 59, 5. 
+83685 new <hom>1.</hom> <hw>{#muc#}</hw> V. 12) {%Jmd%} (<ab>Gen.</ab>) {%entwischen%} ²<ls>JA1TAKAM.</ls> 20. 21, 11. 22. -- Mit {#pra#} ²auch {%sich losmachen von%} (<ab>Gen.</ab>), {%ent-²gehen%} <ls>R. ed. Bomb.</ls> 3, 66, 11. {#pramukta#} {%frei ²von%} (<ab>Abl.</ab>) <ls>MAHA1VY.</ls> 19, 47. -- Mit {#vi, ²ºmukta#} {%Jmd%} (<ab>Gen.</ab>) {%entkommen%} <ls>JA1TA-²KAM.</ls> 21. 23. -- Mit {#pratisam, ºsaMmukta#} {%er-²löst, von einem peinlichen Zustande ²befreit%} <ls>R. ed. Bomb.</ls> 4, 59, 5. 
+;-----------------
+85326 old <hw>{#vanIpaka#}</hw> <ab>m.</ab> = {#vanIyaka#} <ls>JA1TAKAM.</ls> ²18. <ls>DIVYA1VAD.</ls> 414, 18. {#vanIyaka#} 83, 19. ²<ab>Vgl.</ab> Pa1li {#vanibbaka#}. 
+85326 new <hw>{#vanIpaka#}</hw> <ab>m.</ab> = {#vanIyaka#} <ls>JA1TAKAM.</ls> ²18. <ls>DIVYA1VAD.</ls> 414, 18. {#vanIyaka#} 83, 19. ²<ab>Vgl.</ab> <as1>Pa1li</as1> {#vanibbaka#}. 
+;-----------------
+85463 old <hw>{#varSakArI#}</hw> <ab>Adj.</ab> <ab>f.</ab> <ls>A1PAST. GR2HY.</ls> 3, 11. ²<ls>BAUDH. GR2HY.</ls> <ls>PARIS4.</ls> verschiedentlich ²erklärt = {#sravatpANipAdA#} <ls>VAIJAYANTI1</ls>, ²<ls>BHU1MIK.</ls>, <ls>BRA1HMAN2A1DHY.</ls> 52 nach <ls>WIN-²TERNITZ</ls>. 
+85463 new <hw>{#varSakArI#}</hw> <ab>Adj.</ab> <ab>f.</ab> <ls>A1PAST. GR2HY.</ls> 3, 11. ²<ls>BAUDH. GR2HY. PARIS4.</ls> verschiedentlich ²erklärt = {#sravatpANipAdA#} <ls>VAIJAYANTI1</ls>, ²<ls>BHU1MIK.</ls>, <ls>BRA1HMAN2A1DHY.</ls> 52 nach <ls>WIN-²TERNITZ</ls>. 
+;-----------------
+85818 old <hom>3.</hom> <hw>{#vAh#}</hw> VI. {#*vAhita#} {%entfernt, zu ²Nichte gemacht%} <ls>MAHA1VY.</ls> 19, 70. 130, ²8. Das Pa1li spricht für {#bAh#}. 
+85818 new <hom>3.</hom> <hw>{#vAh#}</hw> VI. {#*vAhita#} {%entfernt, zu ²Nichte gemacht%} <ls>MAHA1VY.</ls> 19, 70. 130, ²8. Das <as1>Pa1li</as1> spricht für {#bAh#}. 
+;-----------------
+85831 old <hw>{#vikaTa#}</hw> VI. <ab>Adj.</ab> <ab>f.</ab> <ls>A1PAST. GR2HY.</ls> 3, 11. ²<ls>BAUDH. GR2HY.</ls> <ls>PARIS4.</ls> = {#vikaTajaGghA#} ²oder {#vistIrNajaGghA#} <ab>Comm.</ab> = {#vi-²stIrNajAnu#} <ls>VAIJAY.</ls>, <ls>BHU1MIK.</ls>, <ls>BRA1HMA-²N2A1DHY.</ls> 47 nach <ls>WINTERNITZ</ls>. 
+85831 new <hw>{#vikaTa#}</hw> VI. <ab>Adj.</ab> <ab>f.</ab> <ls>A1PAST. GR2HY.</ls> 3, 11. ²<ls>BAUDH. GR2HY. PARIS4.</ls> = {#vikaTajaGghA#} ²oder {#vistIrNajaGghA#} <ab>Comm.</ab> = {#vi-²stIrNajAnu#} <ls>VAIJAY.</ls>, <ls>BHU1MIK.</ls>, <ls>BRA1HMA-²N2A1DHY.</ls> 47 nach <ls>WINTERNITZ</ls>. 
+;-----------------
+85991 old <hw>{#*viThapana#}</hw> <ab>n.</ab> <ls>MAHA1VY.</ls> 245, 827 pra1-²kritisch für {#viSThApana#}. 
+85991 new <hw>{#*viThapana#}</hw> <ab>n.</ab> <ls>MAHA1VY.</ls> 245, 827 <as1>pra1</as1>-²kritisch für {#viSThApana#}. 
+;-----------------
+86092 old <hw>{#vinata#}</hw> VI. 3) <ab>f.</ab> <ls>A1PAST. GR2HY.</ls> 3, 11. ²<ls>BAUDH. GR2HY.</ls> <ls>PARIS4.</ls> {%ein Mädchen mit ²krummen Gliedern%} oder {%eine bucklige%} ²<ab>Comm.</ab> 
+86092 new <hw>{#vinata#}</hw> VI. 3) <ab>f.</ab> <ls>A1PAST. GR2HY.</ls> 3, 11. ²<ls>BAUDH. GR2HY. PARIS4.</ls> {%ein Mädchen mit ²krummen Gliedern%} oder {%eine bucklige%} ²<ab>Comm.</ab> 
+;-----------------
+87310 old <hw>{#zarabhA#}</hw> <ab>Adj.</ab> <ab>f.</ab> <ls>A1PAST. GR2HY.</ls> 3, 11. ²<ls>BAUDH. GR2HY.</ls> <ls>PARIS4.</ls> verschiedentlich ²gedeutet. {#sarabhA = vizIrNAGgI#} <ls>VAI-²JAY.</ls>, <ls>BHU1MIK.</ls> <ls>BRA1HMAN2A1DHY.</ls> 51 nach ²<ls>WINTERNITZ</ls>. 
+87310 new <hw>{#zarabhA#}</hw> <ab>Adj.</ab> <ab>f.</ab> <ls>A1PAST. GR2HY.</ls> 3, 11. ²<ls>BAUDH. GR2HY. PARIS4.</ls> verschiedentlich ²gedeutet. {#sarabhA = vizIrNAGgI#} <ls>VAI-²JAY.</ls>, <ls>BHU1MIK.</ls> <ls>BRA1HMAN2A1DHY.</ls> 51 nach ²<ls>WINTERNITZ</ls>. 
+;-----------------
+87334 old <hw>{#zarmavarmagaNa#}</hw> <ab>m.</ab> {%ein best.%} {|Gan2a|} {%von ²Sprüchen im%} <ls>AV. ATH.</ls> <ls>PARIS4.</ls> 34, 14. ²<ls>ATH. PADDHATI</ls> <ab>u. s. w.</ab> 
+87334 new <hw>{#zarmavarmagaNa#}</hw> <ab>m.</ab> {%ein best.%} {|Gan2a|} {%von ²Sprüchen im%} <ls>AV.</ls> <ls>ATH. PARIS4.</ls> 34, 14. ²<ls>ATH. PADDHATI</ls> <ab>u. s. w.</ab> 
+;-----------------
+89013 old <hw>{#sAMkArikA#}</hw> <ab>Adj.</ab> <ab>f.</ab> <ls>A1PAST. GR2HY.</ls> ²3, 11. <ls>BAUDH. GR2HY.</ls> <ls>PARIS4.</ls> verschie-²dentlich gedeutet. [Page7-382-c] 
+89013 new <hw>{#sAMkArikA#}</hw> <ab>Adj.</ab> <ab>f.</ab> <ls>A1PAST. GR2HY.</ls> ²3, 11. <ls>BAUDH. GR2HY. PARIS4.</ls> verschie-²dentlich gedeutet. [Page7-382-c] 
+;-----------------

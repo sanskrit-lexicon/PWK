@@ -1,0 +1,132 @@
+114 old <p>{#agRha#} Adj. {%hauslos.%} Nom. abstr. {#ºtA#} f. <ls>TA1N2D2YA-²BR.</ls> 10, 5, 16. 
+114 new <p>{#agRha#} Adj. {%hauslos.%} Nom. abstr. {#ºtA#} f. <ls>TA1N2D2YA-BR.</ls>² 10, 5, 16. 
+;-----------------
+196 old <p>{#acAturmAsya#} Adj. {%ohne%} {|Ca1turma1sya|}-{%Opfer%} <ls>MUN2D2.</ls> ²Up. 1, 2, 3. 
+196 new <p>{#acAturmAsya#} Adj. {%ohne%} {|Ca1turma1sya|}-{%Opfer%} <ls>MUN2D2. ²UP.</ls> 1, 2, 3. 
+;-----------------
+591 old <p>{#anavapAda#} m. {%das Nichtdaruntergerathen%} <ls>TA1N2D2YA-²BR.</ls> 4, 5, 12. 
+591 new <p>{#anavapAda#} m. {%das Nichtdaruntergerathen%} <ls>TA1N2D2YA-BR.</ls>² 4, 5, 12. 
+;-----------------
+671 old <p>{#aniDa#} Adj. {%nicht das Wort%} {#iDA#} {%enthaltend%} <ls>TA1N2D2YA-²BR.</ls> 6, 9, 23. 
+671 new <p>{#aniDa#} Adj. {%nicht das Wort%} {#iDA#} {%enthaltend%} <ls>TA1N2D2YA-BR.</ls>² 6, 9, 23. 
+;-----------------
+845 old <p>{#antanAman#} Adj. {%das Ende bezeichnend%} <ls>TA1N2D2YA-²BR.</ls> 5, 9, 4. 5. 
+845 new <p>{#antanAman#} Adj. {%das Ende bezeichnend%} <ls>TA1N2D2YA-BR.</ls>² 5, 9, 4. 5. 
+;-----------------
+873 old <p>{#andhasvant#} Adj. {%das Wort%} {#andhas#} {%enthaltend%} <ls>TA1N2D2YA-²BR.</ls> 12, 3, 3. 
+873 new <p>{#andhasvant#} Adj. {%das Wort%} {#andhas#} {%enthaltend%} <ls>TA1N2D2YA-BR.</ls>² 12, 3, 3. 
+;-----------------
+908 old <p>{#apanutti#} f. {%Vertreibung, Verscheuchung%} <ls>TA1N2D2YA-²BR.</ls> 12, 4, 10. <ls>VAITA1N.</ls> 
+908 new <p>{#apanutti#} f. {%Vertreibung, Verscheuchung%} <ls>TA1N2D2YA-BR.</ls>² 12, 4, 10. <ls>VAITA1N.</ls> 
+;-----------------
+922 old <p>{#aparigRhIta#} Adj. 1) {%nicht eingepfercht%} <ls>TA1N2D2YA-²BR.</ls> 6, 8, 10. -- 2) {%von Niemand in Besitz genom-²men, N. gehörend%} <ls>A1PAST.</ls> 
+922 new <p>{#aparigRhIta#} Adj. 1) {%nicht eingepfercht%} <ls>TA1N2D2YA-BR.</ls>² 6, 8, 10. -- 2) {%von Niemand in Besitz genom-²men, N. gehörend%} <ls>A1PAST.</ls> 
+;-----------------
+931 old <p>{#aparizrita#} n. {%kein eingeschlossener Platz%} <ls>TA1N2D2YA-[Page1-291-b]²BR.</ls> 6, 8, 10. 
+931 new <p>{#aparizrita#} n. {%kein eingeschlossener Platz%} <ls>TA1N2D2YA-BR.</ls>[Page1-291-b] 6, 8, 10. 
+;-----------------
+991 old <p>{#apratigRhIta#} Adj. {%nicht angenommen%} <ls>TA1N2D2YA-²BR.</ls> 13, 7, 12. 13. 
+991 new <p>{#apratigRhIta#} Adj. {%nicht angenommen%} <ls>TA1N2D2YA-BR.</ls>² 13, 7, 12. 13. 
+;-----------------
+1071 old <p>{#abhimant#} Adj. {%das Wort%} {#abhi#} {%enthaltend%} <ls>TA1N2D2YA-²BR.</ls> 10, 6, 5. 
+1071 new <p>{#abhimant#} Adj. {%das Wort%} {#abhi#} {%enthaltend%} <ls>TA1N2D2YA-BR.</ls>² 10, 6, 5. 
+;-----------------
+1398 old <p>{#azvavant#} Adj. {%das Wort%} {#azva#} {%enthaltend%} <ls>TA1N2D2YA-²BR.</ls> 12, 4, 15. 
+1398 new <p>{#azvavant#} Adj. {%das Wort%} {#azva#} {%enthaltend%} <ls>TA1N2D2YA-BR.</ls>² 12, 4, 15. 
+;-----------------
+1449 old <p>{#asaMbhindant#} Adj. (f. {#ºtI#}) {%nicht verletzend%} <ls>TA1N2D2YA-²BR.</ls> 7, 9, 11. 
+1449 new <p>{#asaMbhindant#} Adj. (f. {#ºtI#}) {%nicht verletzend%} <ls>TA1N2D2YA-BR.</ls>² 7, 9, 11. 
+;-----------------
+1476 old <p>{#asmaddevatya#} Adj. {%uns zur Gottheit habend%} <ls>TA1N2D2YA-²BR.</ls> 9, 1, 36. 
+1476 new <p>{#asmaddevatya#} Adj. {%uns zur Gottheit habend%} <ls>TA1N2D2YA-BR.</ls>² 9, 1, 36. 
+;-----------------
+1703 old <p>{#utsRjya#} Adj. {%auszusetzen, nicht zu feiern%} <ls>TA1N2D2YA-²BR.</ls> 5, 10, 4. 
+1703 new <p>{#utsRjya#} Adj. {%auszusetzen, nicht zu feiern%} <ls>TA1N2D2YA-BR.</ls>² 5, 10, 4. 
+;-----------------
+4114 old <p>{#uktipratyuktikA#} f. {%Rede und Gegenrede%} <ls>MAHA-²VIRAC.</ls> 59, 11. 
+4114 new <p>{#uktipratyuktikA#} f. {%Rede und Gegenrede%} <ls>MAHA1-²VI1RAC.</ls> 59, 11. 
+;-----------------
+4281 old <p>{#edh edhita#} {%erfüllt -- , voll von%} (Instr.) <ls>MAHAVI-²RAC.</ls> 122, 4. 
+4281 new <p>{#edh edhita#} {%erfüllt -- , voll von%} (Instr.) <ls>MAHA1VI1-²RAC.</ls> 122, 4. 
+;-----------------
+4312 old <p>{#kaGkaNa#} 1) auch = {#hastasUtra#} {%Hochzeitsschnar%} <ls>MA-²HAVIRAC.</ls> 38, 5. 
+4312 new <p>{#kaGkaNa#} 1) auch = {#hastasUtra#} {%Hochzeitsschnar%} <ls>MA-²HA1VI1RAC.</ls> 38, 5. 
+;-----------------
+4334 old <p>1. {#kar#} mit {#abhyA#} in {#punarabhyAkAram#}. -- Mit {#pravi#} ²(metrisch st. {#vipra#}), {#ºkRta#} n. impers. {%gesündigt%} <ls>MA-²HAVIRAC.</ls> 80, 11. 
+4334 new <p>1. {#kar#} mit {#abhyA#} in {#punarabhyAkAram#}. -- Mit {#pravi#} ²(metrisch st. {#vipra#}), {#ºkRta#} n. impers. {%gesündigt%} <ls>MA-²HA1VI1RAC.</ls> 80, 11. 
+;-----------------
+4377 old <p>{#kAbandhya#} n. {%der Zustand eines Rumpfes%} <ls>MAHA-²VIRAC.</ls> 83, 9. 
+4377 new <p>{#kAbandhya#} n. {%der Zustand eines Rumpfes%} <ls>MAHA1-²VI1RAC.</ls> 83, 9. 
+;-----------------
+4394 old <p>{#kAzmalya#} n. {%Kleinmuth, Verzweiflung%} <ls>MAHAVI-²RAC.</ls> 83, 12. 
+4394 new <p>{#kAzmalya#} n. {%Kleinmuth, Verzweiflung%} <ls>MAHA1VI1-²RAC.</ls> 83, 12. 
+;-----------------
+4434 old <p>{#kRcchrasAdhya#} Adj. {%schwer zu bewerkstelligen%} <ls>MA-²HAVIRAC.</ls> 54, 9. 
+4434 new <p>{#kRcchrasAdhya#} Adj. {%schwer zu bewerkstelligen%} <ls>MA-²HA1VI1RAC.</ls> 54, 9. 
+;-----------------
+4476 old <p>{#kSatriyAntakara#} m. Bein. {|Paras4urama's|} <ls>MAHA-²VIRAC.</ls> 24, 19. 
+4476 new <p>{#kSatriyAntakara#} m. Bein. {|Paras4urama's|} <ls>MAHA1-²VI1RAC.</ls> 24, 19. 
+;-----------------
+4579 old <p>{#cakrabhrama#} auch Adj. {%sich wie ein Rad drehend%} <ls>MA-²HAVIRAC.</ls> 101, 12. 
+4579 new <p>{#cakrabhrama#} auch Adj. {%sich wie ein Rad drehend%} <ls>MA-²HA1VI1RAC.</ls> 101, 12. 
+;-----------------
+4673 old <p>{#jJvalita#} 2) auch {%helles Lodern%} <ls>MBH.</ls> 5, 133, 15. 
+4673 new <p>{#jvalita#} 2) auch {%helles Lodern%} <ls>MBH.</ls> 5, 133, 15. 
+;-----------------
+4674 old <p>{#ktaMkRti#} f. = {#ktaMkAra#} <ls>CAURAP.</ls> (A.) 102. 106. 
+4674 new <p>{#jhaMkRti#} f. = {#jhaMkAra#} <ls>CAURAP.</ls> (A.) 102. 106. 
+;-----------------
+4675 old <p>{#ktaT#} mit {#nis, nirktATita#} {%geborsten%} <ls>DES4I1N.</ls> 6, 27. 
+4675 new <p>{#jhaT#} mit {#nis, nirjhATita#} {%geborsten%} <ls>DES4I1N.</ls> 6, 27. 
+;-----------------
+4676 old <p>{#ktaNajJktaNatkArin#} Adj. {%rauschend%} <ls>PR. P.</ls> 137. 
+4676 new <p>{#jhaNajjhaNatkArin#} Adj. {%rauschend%} <ls>PR. P.</ls> 137. 
+;-----------------
+4677 old <p>{#ktara#} 2) <ls>MAHA1VI1RAC.</ls> 102, 8. 
+4677 new <p>{#jhara#} 2) <ls>MAHA1VI1RAC.</ls> 102, 8. 
+;-----------------
+4678 old <p>{#ktallIkA#} f. {%Grille%} (Insect) <ls>SVAPNAC.</ls> 2, 23. 
+4678 new <p>{#jhallIkA#} f. {%Grille%} (Insect) <ls>SVAPNAC.</ls> 2, 23. 
+;-----------------
+4679 old <p>{#ktAMkArin#} Adj. = {#ktaMkArin#} <ls>MAHA1VI1RAC.</ls> 51, 2. 
+4679 new <p>{#jhAMkArin#} Adj. = {#jhaMkArin#} <ls>MAHA1VI1RAC.</ls> 51, 2. 
+;-----------------
+4733 old <p>{#tUSNIMdaNDa#} m. {%eine geheime Bestrafung%} <ls>MAHAVI-²RAC.</ls> 54, 10. 
+4733 new <p>{#tUSNIMdaNDa#} m. {%eine geheime Bestrafung%} <ls>MAHA1VI1-²RAC.</ls> 54, 10. 
+;-----------------
+4854 old <p>{#dvedhAkriyA#} f. {%das Zerbrechen, Zerspalten%} <ls>MAHA-²VIRAC.</ls> 32, 12. 
+4854 new <p>{#dvedhAkriyA#} f. {%das Zerbrechen, Zerspalten%} <ls>MAHA1-²VI1RAC.</ls> 32, 12. 
+;-----------------
+4902 old <p>{#niSkoza#} Adj. {%aus der Scheide gezogen%} <ls>MAHAVI-²RAC.</ls> 115, 4. 
+4902 new <p>{#niSkoza#} Adj. {%aus der Scheide gezogen%} <ls>MAHA1VI1-²RAC.</ls> 115, 4. 
+;-----------------
+7474 old <p>{#nandanabhaTTAcArya#} m. N. pr. eines Autors Einl. zu ²<ls>S4A1S4VATA XI, N.</ls> 2. 
+7474 new <p>{#nandanabhaTTAcArya#} m. N. pr. eines Autors Einl. zu ²<ls>S4A1S4VATA</ls> XI, N. 2. 
+;-----------------
+8034 old <p>{#mahAkSapaNaka#} m. N. pr. eines Lexicographen <ls>ZACH.</ls> ²in der Einl. zu <ls>S4A1S4VATA X.</ls> 
+8034 new <p>{#mahAkSapaNaka#} m. N. pr. eines Lexicographen <ls>ZACH.</ls> ²in der Einl. zu <ls>S4A1S4VATA</ls> X. 
+;-----------------
+17602 old <p>{#ktakaTa#} 5. 
+17602 new <p>{#jhakaTa#} 5. 
+;-----------------
+17603 old <p>{#ktaMkRti, ktaT#} mit {#nis#} und {#ktaNa-²jktaNatkArin#} 3. 
+17603 new <p>{#jhaMkRti, jhaT#} mit {#nis#} und {#jhaNa-²jjhaNatkArin#} 3. 
+;-----------------
+17604 old <p>{#ktara#} II. 3. 
+17604 new <p>{#jhara#} II. 3. 
+;-----------------
+17605 old <p>{#ktalaJktalA#} f. {%das Ohrenbewegen ²der Elephanten%} <ls>DHARMAS4ARM.</ls> 6, 35. ²Richtig wohl {#ktalajktalA#}. 
+17605 new <p>{#jhalaJjhalA#} f. {%das Ohrenbewegen ²der Elephanten%} <ls>DHARMAS4ARM.</ls> 6, 35. ²Richtig wohl {#jhalajjhalA#}. 
+;-----------------
+17606 old <p>{#ktallIkA#} und {#ktAMkArin#} 3. 
+17606 new <p>{#jhallIkA#} und {#jhAMkArin#} 3. 
+;-----------------
+17765 old <p>{#tArApajktaTikA#} f. {%eine best. dem%} ²{|S4am3kara|} {%zugeschriebene Hymne%} ²<ls>TANTRAS.</ls> nach <ls>LEUMANN</ls>. 
+17765 new <p>{#tArApajjhaTikA#} f. {%eine best. dem%} ²{|S4am3kara|} {%zugeschriebene Hymne%} ²<ls>TANTRAS.</ls> nach <ls>LEUMANN</ls>. 
+;-----------------
+19359 old <p>{#punarjIvAtu#} f. {%Wiedergeburt%} <ls>TA1N2D2YA-²BR.</ls> 1, 5, 18. 
+19359 new <p>{#punarjIvAtu#} f. {%Wiedergeburt%} <ls>TA1N2D2YA-BR.</ls>² 1, 5, 18. 
+;-----------------
+20021 old <p>{#brahmojkta#} IV. 1) Nom. abstr. {#ºtva#} n. ²<ls>VIJN5.</ls> zu <ls>YA1JN5.</ls> 3, 29. 30. 
+20021 new <p>{#brahmojjha#} IV. 1) Nom. abstr. {#ºtva#} n. ²<ls>VIJN5.</ls> zu <ls>YA1JN5.</ls> 3, 29. 30. 
+;-----------------

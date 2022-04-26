@@ -1,0 +1,81 @@
+396 old <p n="00396" pc="1-285-c"><hw>{#adivAsvApin#}</hw> Adj. {%nicht am Tageschlafend%} <ls>A1PAST.</ls> 
+396 new <p n="00396" pc="1-285-c"><hw>{#adivAsvApin#}</hw> Adj. {%nicht am Tage schlafend%} <ls>A1PAST.</ls> 
+;-----------------
+677 old <p n="00677" pc="1-288-c"><hw>{#a£niyasita#}</hw> Adj. {%nicht eingeschnumpft%} <ls>S4AT. BR.</ls> ²2, 1, 4, 27. 
+677 new <p n="00677" pc="1-288-c"><hw>{#a£niyasita#}</hw> Adj. {%nicht eingeschrumpft%} <ls>S4AT. BR.</ls> ²2, 1, 4, 27. 
+;-----------------
+1701 old <p n="01701" pc="1-298-c"><hw>{#utphullatanUruhI#}</hw> Adv. mit {#kar#} {%bowirken, dass bei ²Jmd die Härchen (Federn) sich erheben%} <ls>NAISH.</ls> 2, 2. 
+1701 new <p n="01701" pc="1-298-c"><hw>{#utphullatanUruhI#}</hw> Adv. mit {#kar#} {%bewirken, dass bei ²Jmd die Härchen (Federn) sich erheben%} <ls>NAISH.</ls> 2, 2. 
+;-----------------
+1849 old <p n="01799" pc="2-285-c"><hw>{#akSIrAkSArAlavaNa#}</hw> n. Sg. {%keine Milch, nichts Aez-²zendes und nichts Salziges%} <ls>A1PAST.</ls> 1, 28, 11. 
+1849 new <p n="01799" pc="2-285-c"><hw>{#akSIrAkSArAlavaNa#}</hw> n. Sg. {%keine Milch, nichts Aet-²zendes und nichts Salziges%} <ls>A1PAST.</ls> 1, 28, 11. 
+;-----------------
+2584 old <p n="02534" pc="2-293-b"><hw>{#AghoSiNI#}</hw> f. Pl. {%bestimmte dämoni7sche Wesen%} ²<ls>Ind. St.</ls> 15, 144. 
+2584 new <p n="02534" pc="2-293-b"><hw>{#AghoSiNI#}</hw> f. Pl. {%bestimmte dämonische Wesen%} ²<ls>Ind. St.</ls> 15, 144. 
+;-----------------
+2808 old <p n="02758" pc="2-296-a"><hw>{#Urdhvazakala#}</hw> (<ls>KAP. S.</ls> 41, 1) und <hw>{#Urdhva£zalka#}</hw> (<ls>MAITR. ²S.</ls> 3, 9, 2) {%mit aufwarts gerichtetem Spahn.%} 
+2808 new <p n="02758" pc="2-296-a"><hw>{#Urdhvazakala#}</hw> (<ls>KAP. S.</ls> 41, 1) und <hw>{#Urdhva£zalka#}</hw> (<ls>MAITR. ²S.</ls> 3, 9, 2) {%mit aufwärts gerichtetem Spahn.%} 
+;-----------------
+3335 old <p n="03285" pc="3-247-c"><hw>{#aTTapAla#}</hw> m. etwa {%Marktaufscher%} <ls>VET.</ls> (U.) S. 121 ²zu 17, 2. 
+3335 new <p n="03285" pc="3-247-c"><hw>{#aTTapAla#}</hw> m. etwa {%Marktaufseher%} <ls>VET.</ls> (U.) S. 121 ²zu 17, 2. 
+;-----------------
+3809 old <p n="03759" pc="3-252-c"><hw>{#abhijana#}</hw> vielleicht {%Geschlechts%}-oder {%Ortsgenosse%} ²<ls>A1S4V. S4R.</ls> 9, 11, 1. 
+3809 new <p n="03759" pc="3-252-c"><hw>{#abhijana#}</hw> vielleicht {%Geschlechts%}- oder {%Ortsgenosse%} ²<ls>A1S4V. S4R.</ls> 9, 11, 1. 
+;-----------------
+4887 old <p n="04837" pc="3-264-b"><hw>{#dyUtakiMkarI#}</hw> f. {%eine im Würfelspiel-gewonnene ²Sclavin%} <ls>PR. P.</ls> 131. 
+4887 new <p n="04837" pc="3-264-b"><hw>{#dyUtakiMkarI#}</hw> f. {%eine im Würfelspiel gewonnene ²Sclavin%} <ls>PR. P.</ls> 131. 
+;-----------------
+5009 old <p n="04959" pc="4-291-b"><hw>{#atipriya#}</hw> (Nachtr. 1), Instr. {%auf eine sehr enge-²nehme Weise%} <ls>HIT.</ls> 60, 5, v. l. 
+5009 new <p n="04959" pc="4-291-b"><hw>{#atipriya#}</hw> (Nachtr. 1), Instr. {%auf eine sehr ange-²nehme Weise%} <ls>HIT.</ls> 60, 5, v. l. 
+;-----------------
+5619 old <p n="05569" pc="4-298-c"><hw>{#caTulay#}</hw>, {#ºyati#} {%hinundher bewegen%} <ls>BHA1M. V.</ls> 2, ²87. 97. 
+5619 new <p n="05569" pc="4-298-c"><hw>{#caTulay#}</hw>, {#ºyati#} {%hin- und herbewegen%} <ls>BHA1M. V.</ls> 2, ²87. 97. 
+;-----------------
+6397 old <p n="06347" pc="5-244-c"><hw>{#arakSya#}</hw> Adj. {%nicht zu schutzen, keinen Schutz ²verdienend%} <ls>KATHA1S.</ls> 62, 82. [Page5-245-a] 
+6397 new <p n="06347" pc="5-244-c"><hw>{#arakSya#}</hw> Adj. {%nicht zu schützen, keinen Schutz ²verdienend%} <ls>KATHA1S.</ls> 62, 82. [Page5-245-a] 
+;-----------------
+6869 old <p n="06819" pc="5-250-a"><hw>{#ºutsArin#}</hw> Adj. {%sich ausdehend -- , sich richtend ²auf%} <ls>GI1T.</ls> 2, 19. 
+6869 new <p n="06819" pc="5-250-a"><hw>{#ºutsArin#}</hw> Adj. {%sich ausdehnend -- , sich richtend ²auf%} <ls>GI1T.</ls> 2, 19. 
+;-----------------
+7006 old <p n="06956" pc="5-251-c"><hw>{#karabhIya#}</hw> Adj. {%für Kamele bestimmt, mit de-²Pflege derselben betraut%} <ls>HARSHAC.</ls> 67, 10 (218, 7). 
+7006 new <p n="06956" pc="5-251-c"><hw>{#karabhIya#}</hw> Adj. {%für Kamele bestimmt, mit der ²Pflege derselben betraut%} <ls>HARSHAC.</ls> 67, 10 (218, 7). 
+;-----------------
+7466 old <p n="07416" pc="5-256-c"><hw>{#dolArUDha#}</hw> Adj. (f. {#A#}) 1) {%in einem Palanguin ²sitzend%} <ls>PAN5CAT.</ls> 256, 16. -- 2) {%auf einer Schaukel ²sitzend%}, so v. a. {%schwankend, in Zweifel seiend, ² -- über%} (im Comp. vorangehend). Mit und ohne ²{#iva#} <ls>KATHA1S.</ls> 32, 9. 57, 102. 67, 30. 83, 31. 119, 190. 
+7466 new <p n="07416" pc="5-256-c"><hw>{#dolArUDha#}</hw> Adj. (f. {#A#}) 1) {%in einem Palanquin ²sitzend%} <ls>PAN5CAT.</ls> 256, 16. -- 2) {%auf einer Schaukel ²sitzend%}, so v. a. {%schwankend, in Zweifel seiend, ² -- über%} (im Comp. vorangehend). Mit und ohne ²{#iva#} <ls>KATHA1S.</ls> 32, 9. 57, 102. 67, 30. 83, 31. 119, 190. 
+;-----------------
+14459 old <p n="14409" pc="7-320-c"><hw>{#AsInanyAya#}</hw> Adj. {%wobei die siz-²zende Stellung als Regel dient%} <ls>S4A1N3KH. ²S4R.</ls> 1, 1, 15. 
+14459 new <p n="14409" pc="7-320-c"><hw>{#AsInanyAya#}</hw> Adj. {%wobei die sit-²zende Stellung als Regel dient%} <ls>S4A1N3KH. ²S4R.</ls> 1, 1, 15. 
+;-----------------
+14908 old <p n="14858" pc="7-323-d"><hw>{#udAja£#}</hw> I. Lies {%Auswahl, das Praeci-²punm%} (aus erbeutetem Vieh) und ²vgl. noch <ls>MAITR. S.</ls> 4, 3, 1 (40, 16). 2 ²(41, 15). 6, 8 (91, 17). Festgr. 25. 
+14908 new <p n="14858" pc="7-323-d"><hw>{#udAja£#}</hw> I. Lies {%Auswahl, das Praeci-²puum%} (aus erbeutetem Vieh) und ²vgl. noch <ls>MAITR. S.</ls> 4, 3, 1 (40, 16). 2 ²(41, 15). 6, 8 (91, 17). Festgr. 25. 
+;-----------------
+15189 old <p n="15139" pc="7-325-d"><hw>{#upoSadhoSita#}</hw> Adj. {%die Fästen be-²obachtend%} <ls>DIVYA1VAD.</ls> 116, 22. 121, 19. 
+15189 new <p n="15139" pc="7-325-d"><hw>{#upoSadhoSita#}</hw> Adj. {%die Fasten be-²obachtend%} <ls>DIVYA1VAD.</ls> 116, 22. 121, 19. 
+;-----------------
+15275 old <p n="15225" pc="7-326-b"><hw>{#UrjA£huti#}</hw> I. f. {%eine saftige -- , nah-²rende Opfergabe%} <ls>MAITR. S.</ls> 1, 10, 9 ²(149, 6). 
+15275 new <p n="15225" pc="7-326-b"><hw>{#UrjA£huti#}</hw> I. f. {%eine saftige -- , näh-²rende Opfergabe%} <ls>MAITR. S.</ls> 1, 10, 9 ²(149, 6). 
+;-----------------
+16831 old <p n="16781" pc="7-338-a"><hw>{#gavAsthi#}</hw> Adj. Bez. {%einer Art von ²Pfetlen, die in einem ehrlichen Kam-²pfe nicht gebraucht werden dürfen%}, ²<ls>MBH.</ls> 7, 189, 12. 
+16831 new <p n="16781" pc="7-338-a"><hw>{#gavAsthi#}</hw> Adj. Bez. {%einer Art von ²Pfeilen, die in einem ehrlichen Kam-²pfe nicht gebraucht werden dürfen%}, ²<ls>MBH.</ls> 7, 189, 12. 
+;-----------------
+19153 old <p n="19103" pc="7-356-c"><hw>{#paripiNDI#}</hw> Adv. mit {#kar#} {%in Ku-²geigestalt bringen%} <ls>DIVYA1VAD.</ls> 516, 7. 
+19153 new <p n="19103" pc="7-356-c"><hw>{#paripiNDI#}</hw> Adv. mit {#kar#} {%in Ku-²gelgestalt bringen%} <ls>DIVYA1VAD.</ls> 516, 7. 
+;-----------------
+19980 old <p n="19930" pc="7-363-d"><hw>{#bahulIkAra#}</hw> m. {%eifrige Uebung, -- ²Pfiege%} <ls>LALIT.</ls> 445, 11. 
+19980 new <p n="19930" pc="7-363-d"><hw>{#bahulIkAra#}</hw> m. {%eifrige Uebung, -- ²Pflege%} <ls>LALIT.</ls> 445, 11. 
+;-----------------
+19992 old <p n="19942" pc="7-363-d"><hw>{#ºbAdhin#}</hw> Adj. {%beein trächtigend, hin-²derlich%} <ls>JA1TAKAM.</ls> 6, 4. 
+19992 new <p n="19942" pc="7-363-d"><hw>{#ºbAdhin#}</hw> Adj. {%beeinträchtigend, hin-²derlich%} <ls>JA1TAKAM.</ls> 6, 4. 
+;-----------------
+20035 old <p n="19985" pc="7-364-a"><hw>{#bubhUSu#}</hw> IV. 4. 3) {%zu sein -- , zu wer-²den wunschend%} auch <ls>S4IS4.</ls> 1, 49. 
+20035 new <p n="19985" pc="7-364-a"><hw>{#bubhUSu#}</hw> IV. 4. 3) {%zu sein -- , zu wer-²den wünschend%} auch <ls>S4IS4.</ls> 1, 49. 
+;-----------------
+20287 old <p n="20237" pc="7-366-b"><hw>{#*maNDalamADa#}</hw> (so zu lesen) m. {%Pa-²villen%} <ls>MAHA1VY.</ls> 226, 43. {#ºvATa#} <ls>DIVYA1-²VAD.</ls> 288, 15. {#maNDavATa#} 268, 15. 
+20287 new <p n="20237" pc="7-366-b"><hw>{#*maNDalamADa#}</hw> (so zu lesen) m. {%Pa-²villon%} <ls>MAHA1VY.</ls> 226, 43. {#ºvATa#} <ls>DIVYA1-²VAD.</ls> 288, 15. {#maNDavATa#} 268, 15. 
+;-----------------
+21351 old <p n="21301" pc="7-376-d"><hw>{#*vyantI#}</hw> Adv. mit {#kar#} {%fern halter ²beseitigen%} <ls>MAHA1VY.</ls> 245. {#*ºbhAva#} m. ²{%das Beseitigtsein%} 245, 1259. 
+21351 new <p n="21301" pc="7-376-d"><hw>{#*vyantI#}</hw> Adv. mit {#kar#} {%fern halten ²beseitigen%} <ls>MAHA1VY.</ls> 245. {#*ºbhAva#} m. ²{%das Beseitigtsein%} 245, 1259. 
+;-----------------
+21761 old <p n="21711" pc="7-381-a"><hw>{#saMpad#}</hw> VII. {%Gleichsetzung von Aebn-²lichem%} <ls>S4AM3KARA</ls> zu <ls>VEDA1NTA</ls> 68, 2. 
+21761 new <p n="21711" pc="7-381-a"><hw>{#saMpad#}</hw> VII. {%Gleichsetzung von Aehn-²lichem%} <ls>S4AM3KARA</ls> zu <ls>VEDA1NTA</ls> 68, 2. 
+;-----------------
