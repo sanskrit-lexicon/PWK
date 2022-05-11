@@ -1,0 +1,315 @@
+; <L>2<pc>1-282-a<k1>a
+4 old <althws>{#asvaptum#}</althws>
+4 new 
+;
+5 old <hom>2.</hom> <hw>{#a°#}</hw>, <hw>{#asvaptum#}</hw> <ls>TĀṆḌYA-BR. 10, 4, 4.</ls> 
+5 new <hom>2.</hom> <hw>{#a°#}</hw>, {#asvaptum#} <ls>TĀṆḌYA-BR. 10, 4, 4.</ls> 
+; ---------------------------
+; <L>27<pc>1-282-b<k1>akAraRa
+105 old <althws>{#akAraRatas#}</althws>
+105 new 
+;
+106 old <hom>1.</hom> <hw>{#akAraRa#}</hw>, <hw>{#°tas#}</hw> = {#akAraRAt#} <ab>u. s. w.</ab> <ls>ŚIŚ. 10, 16.</ls> 
+106 new <hom>1.</hom> <hw>{#akAraRa#}</hw>, {#°tas#} = {#akAraRAt#} <ab>u. s. w.</ab> <ls>ŚIŚ. 10, 16.</ls> 
+; ---------------------------
+; <L>48<pc>1-282-b<k1>akrama
+190 old <althws>{#akramam#}</althws>
+190 new 
+;
+191 old <hom>2.</hom> <hw>{#akrama#}</hw>, <hw>{#°m#}</hw> <ab>Adv.</ab> {%gleichzeitig%} <ls>NAIṢ. 8, 4.</ls> 
+191 new <hom>2.</hom> <hw>{#akrama#}</hw>, {#°m#} <ab>Adv.</ab> {%gleichzeitig%} <ls>NAIṢ. 8, 4.</ls> 
+; ---------------------------
+; <L>69<pc>1-282-c<k1>akzayya
+275 old <althws>{#akzayyodaka#}</althws>
+275 new 
+;
+276 old <hw>{#akzayya#}</hw>, <hw>{#akzayyodaka#}</hw> <ab>n.</ab> {%Wasser, begleitet von dem <lb/>Wunsche, dass es nie mangeln möge%}, <ls>YĀJÑ. 1, 242.</ls> <lb/><ls>VIṢṆUS. 21, 4.</ls> <ls n="VIṢṆUS.">73, 27.</ls> {#akzayyasTAne#} <ls>ŚĀṄKH. GṚHY. 4, <lb/>2.</ls> <ls>YĀJÑ. 1, 251.</ls> 
+276 new <hw>{#akzayya#}</hw>, {#akzayyodaka#} <ab>n.</ab> {%Wasser, begleitet von dem <lb/>Wunsche, dass es nie mangeln möge%}, <ls>YĀJÑ. 1, 242.</ls> <lb/><ls>VIṢṆUS. 21, 4.</ls> <ls n="VIṢṆUS.">73, 27.</ls> {#akzayyasTAne#} <ls>ŚĀṄKH. GṚHY. 4, <lb/>2.</ls> <ls>YĀJÑ. 1, 251.</ls> 
+; ---------------------------
+; <L>74<pc>1-282-c<k1>akzarya
+296 old <althws>{#akzaryaM#}</althws>
+296 new 
+;
+297 old <hw>{#akzarya#}</hw>, <hw>{#°ryaM#}</hw> {#revat#} Name eines <is>Sāman</is> <ls>ĀRṢ. BR.</ls> 
+297 new <hw>{#akzarya#}</hw>, {#°ryaM#} {#revat#} Name eines <is>Sāman</is> <ls>ĀRṢ. BR.</ls> 
+; ---------------------------
+; <L>334<pc>1-285-b<k1>atiSIGra
+1343 old <althws>{#atiSIGram#}</althws>
+1343 new 
+;
+1344 old <hw>{#atiSIGra#}</hw>, <hw>{#°m#}</hw> <ab>Adv.</ab> <ls>SAṂHITOPAN. 9, 1.</ls> 
+1344 new <hw>{#atiSIGra#}</hw>, {#°m#} <ab>Adv.</ab> <ls>SAṂHITOPAN. 9, 1.</ls> 
+; ---------------------------
+; <L>773<pc>1-289-c<k1>anupAya
+3116 old <althws>{#anupAyena#}</althws>
+3116 new 
+;
+3117 old <hw>{#anupAya#}</hw>, <hw>{#°yena#}</hw> so <ab>v. a.</ab> {%zwecklos%} <ls>MBH. 12, 88, 13.</ls> 
+3117 new <hw>{#anupAya#}</hw>, {#°yena#} so <ab>v. a.</ab> {%zwecklos%} <ls>MBH. 12, 88, 13.</ls> 
+; ---------------------------
+; <L>895<pc>1-290-c<k1>apacAyin
+3607 old <althws>{#vfdDApacAyitva#}</althws>
+3607 new 
+;
+3608 old <hw>{#apacAyin#}</hw>, <hw>{#vfdDApacAyitva#}</hw> <ab>n.</ab> (so zu lesen) <ls>MBH. <lb/>14, 2198.</ls> 
+3608 new <hw>{#apacAyin#}</hw>, {#vfdDApacAyitva#} <ab>n.</ab> (so zu lesen) <ls>MBH. <lb/>14, 2198.</ls> 
+; ---------------------------
+; <L>1202<pc>1-293-c<k1>arjunArcapArijAta
+4842 old <althws>{#arjunArcApArijAta#}</althws>
+4842 new 
+;
+4843 old <hw>{#arjunArcapArijAta#}</hw>, lies <hw>{#arjunArcA°#}</hw>. 
+4843 new <hw>{#arjunArcapArijAta#}</hw>, lies {#arjunArcA°#}. 
+; ---------------------------
+; <L>1221<pc>1-294-a<k1>arD
+4919 old <althws>{#fdDa#}</althws>
+4919 new 
+;
+4920 old <hw>{#arD#}</hw>, <hw>{#fdDa/#}</hw> 3) {%gelungen%} <ls>VS. 18, 11.</ls> -- Mit {#vi, vyfdDa#} <lb/>{%sündlich%} <ls>ĀPAST.</ls> 
+4920 new <hw>{#arD#}</hw>, {#fdDa/#} 3) {%gelungen%} <ls>VS. 18, 11.</ls> -- Mit {#vi, vyfdDa#} <lb/>{%sündlich%} <ls>ĀPAST.</ls> 
+; ---------------------------
+; <L>1379<pc>1-295-b<k1>aSUnyArTa
+5553 old <althws>{#aSUnyArTam#}</althws>
+5553 new 
+;
+5554 old <hom>1.</hom> <hw>{#aSUnyArTa#}</hw> <ab>m.</ab> {%Aufklärung%} <ls>MUDRĀR. 168, 4</ls> (<ab>n.</ab> A.). [Page1-295-c] <hw>{#°m#}</hw> <ab>Adv.</ab> {%zur A.%} 108, 2. 115, 15 (176, 9). 
+5554 new <hom>1.</hom> <hw>{#aSUnyArTa#}</hw> <ab>m.</ab> {%Aufklärung%} <ls>MUDRĀR. 168, 4</ls> (<ab>n.</ab> A.). [Page1-295-c] {#°m#} <ab>Adv.</ab> {%zur A.%} 108, 2. 115, 15 (176, 9). 
+; ---------------------------
+; <L>1748<pc>1-299-b<k1>Urjay
+7034 old <althws>{#Urjitam#}</althws>
+7034 new 
+;
+7035 old <hw>{#Urjay#}</hw>, <hw>{#Urjitam#}</hw> <ab>Adv.</ab> {%stolz, mit Selbstbewusst-<lb/>sein%} <ls>NĀGĀN. 62, 21</ls> (82, 9).
+7035 new <hw>{#Urjay#}</hw>, {#Urjitam#} <ab>Adv.</ab> {%stolz, mit Selbstbewusst-<lb/>sein%} <ls>NĀGĀN. 62, 21</ls> (82, 9).
+; ---------------------------
+; <L>1819<pc>2-285-b<k1>akfpaRa
+7317 old <althws>{#akfpaRam#}</althws>
+7317 new 
+;
+7318 old <hw>{#akfpaRa#}</hw>, <hw>{#°m#}</hw> <ab>Adv.</ab> {%nicht kläglich thuend.%} 
+7318 new <hw>{#akfpaRa#}</hw>, {#°m#} <ab>Adv.</ab> {%nicht kläglich thuend.%} 
+; ---------------------------
+; <L>1924<pc>2-286-b<k1>acira
+7741 old <althws>{#aciratas#}</althws>
+7741 new 
+;
+7742 old <hw>{#acira#}</hw>, <hw>{#°tas#}</hw> = {#acirAt#}. 
+7742 new <hw>{#acira#}</hw>, {#°tas#} = {#acirAt#}. 
+; ---------------------------
+; <L>2368<pc>2-291-a<k1>aBramupriya
+9540 old <althws>{#aBramupriyatama#}</althws>
+9540 new 
+;
+9541 old <hw>{#aBramupriya#}</hw>, <hw>{#°tama#}</hw> <ls>VIKRAMĀṄKAC. 5, 16.</ls> 
+9541 new <hw>{#aBramupriya#}</hw>, {#°tama#} <ls>VIKRAMĀṄKAC. 5, 16.</ls> 
+; ---------------------------
+; <L>2443<pc>2-292-a<k1>avakuRWana
+9846 old <althws>{#kftAvakuRWana#}</althws>
+9846 new 
+;
+9847 old <hw>{#avakuRWana#}</hw>, <hw>{#°kftAva°#}</hw> <ab>Adj.</ab> (<ab>f.</ab> {#A#}) {%eingehüllt in%} <lb/><ls>HARṢAC. 147, 13.</ls> 
+9847 new <hw>{#avakuRWana#}</hw>, {#°kftAva°#} <ab>Adj.</ab> (<ab>f.</ab> {#A#}) {%eingehüllt in%} <lb/><ls>HARṢAC. 147, 13.</ls> 
+; ---------------------------
+; <L>3161<pc>2-300-a<k1>guRq
+12818 old <althws>{#pariguRqita#}</althws>
+12818 new 
+;
+12819 old <hw>{#guRq#}</hw>, <hw>{#pariguRqita#}</hw> {%bestäubt%} <ls>ŚĪLĀṄKA 2, 4.</ls> 
+12819 new <hw>{#guRq#}</hw>, {#pariguRqita#} {%bestäubt%} <ls>ŚĪLĀṄKA 2, 4.</ls> 
+; ---------------------------
+; <L>4118<pc>3-256-a<k1>Avis
+16681 old <althws>{#Avirhita#}</althws>
+16681 new 
+;
+16682 old <hw>{#Avis#}</hw>, <hw>{#Avirhita#}</hw> {%zum Vorschein gekommen%} <lb/><ls>BHĀG. P. 2, 7, 36.</ls> 
+16682 new <hw>{#Avis#}</hw>, {#Avirhita#} {%zum Vorschein gekommen%} <lb/><ls>BHĀG. P. 2, 7, 36.</ls> 
+; ---------------------------
+; <L>4145<pc>3-256-b<k1>ima
+16790 old <althws>{#imezu#}</althws>
+16790 new 
+;
+16791 old <hw>{#ima#}</hw>, <hw>{#imezu#}</hw> <ls>VAJRACCH. 22, 9.</ls> <ls n="VAJRACCH. 22,">13.</ls> <ls n="VAJRACCH. 22,">17.</ls> <ls n="VAJRACCH.">23, 2.</ls> 
+16791 new <hw>{#ima#}</hw>, {#imezu#} <ls>VAJRACCH. 22, 9.</ls> <ls n="VAJRACCH. 22,">13.</ls> <ls n="VAJRACCH. 22,">17.</ls> <ls n="VAJRACCH.">23, 2.</ls> 
+; ---------------------------
+; <L>4161<pc>3-256-b<k1>Iyakz
+16855 old <althws>{#IyakzamARa#}</althws>
+16855 new 
+;
+16856 old <hw>{#Iyakz#}</hw>, <hw>{#I/yakzamARa#}</hw> = {#i/yakzamARa#} <ls>MAITR. S. 2, 10, 6.</ls> 
+16856 new <hw>{#Iyakz#}</hw>, {#I/yakzamARa#} = {#i/yakzamARa#} <ls>MAITR. S. 2, 10, 6.</ls> 
+; ---------------------------
+; <L>4330<pc>3-258-b<k1>eD
+17533 old <althws>{#eDita#}</althws>
+17533 new 
+;
+17534 old <hw>{#eD#}</hw> <hw>{#eDita#}</hw> {%erfüllt -- , voll von%} (<ab>Instr.</ab>) <ls>MAHĀVĪ-<lb/>RAC. 122, 4.</ls> 
+17534 new <hw>{#eD#}</hw> {#eDita#} {%erfüllt -- , voll von%} (<ab>Instr.</ab>) <ls>MAHĀVĪ-<lb/>RAC. 122, 4.</ls> 
+; ---------------------------
+; <L>4335<pc>3-258-b<k1>evam
+17554 old <althws>{#evamevo#}</althws>
+17554 new 
+;
+17555 old <hw>{#evam#}</hw>, <hw>{#evamevo#}</hw> {%gerade so%} (an Schluss eines Ab-<lb/>schnittes) <ls>MĀN. GṚHY. 1, 23.</ls> 
+17555 new <hw>{#evam#}</hw>, {#evamevo#} {%gerade so%} (an Schluss eines Ab-<lb/>schnittes) <ls>MĀN. GṚHY. 1, 23.</ls> 
+; ---------------------------
+; <L>4440<pc>3-259-c<k1>kAliya
+17979 old <althws>{#kAliyAri#}</althws>
+17979 new 
+;
+17980 old <hw>{#kAliya#}</hw>, <hw>{#kAliyAri#}</hw> <ab>m.</ab> <ab>Bein.</ab> <is>Kṛṣṇa's</is> <ls>PR. P. 58.</ls> 
+17980 new <hw>{#kAliya#}</hw>, {#kAliyAri#} <ab>m.</ab> <ab>Bein.</ab> <is>Kṛṣṇa's</is> <ls>PR. P. 58.</ls> 
+; ---------------------------
+; <L>4636<pc>3-261-c<k1>caturdvAra
+18769 old <althws>{#puruza#}</althws>
+18769 new 
+;
+18770 old <hw>{#caturdvAra#}</hw>, <hw>{#puruza#}</hw> <ls>MBH. 12, 269, 23.</ls> 
+18770 new <hw>{#caturdvAra#}</hw>, {#puruza#} <ls>MBH. 12, 269, 23.</ls> 
+; ---------------------------
+; <L>4709<pc>3-262-b<k1>jIvanta
+19063 old <althws>{#jIvantI#}</althws>
+19063 new 
+;
+19064 old <hw>{#jIvanta#}</hw>, <hw>{#jIvantI#}</hw> <ab>f.</ab> auch {%ein <ab>best.</ab> Gestirn%} <ls>MĀN. <lb/>GṚHY. 1, 14.</ls> 
+19064 new <hw>{#jIvanta#}</hw>, {#jIvantI#} <ab>f.</ab> auch {%ein <ab>best.</ab> Gestirn%} <ls>MĀN. <lb/>GṚHY. 1, 14.</ls> 
+; ---------------------------
+; <L>4735<pc>3-262-c<k1>ta
+19169 old <althws>{#te#}</althws>
+19169 new 
+;
+19170 old <hom>2.</hom> <hw>{#ta#}</hw>, <hw>{#te#}</hw> auch Acc.; <ab>s.</ab> <ls>PISCHEL</ls> in <ls>Z. d. d. m. G. 33, <lb/>714.</ls> <ab>fg.</ab> 
+19170 new <hom>2.</hom> <hw>{#ta#}</hw>, {#te#} auch Acc.; <ab>s.</ab> <ls>PISCHEL</ls> in <ls>Z. d. d. m. G. 33, <lb/>714.</ls> <ab>fg.</ab> 
+; ---------------------------
+; <L>5033<pc>4-291-c<k1>adva
+20374 old <althws>{#advayos#}</althws>
+20374 new 
+;
+20375 old <hw>{#adva#}</hw>, <hw>{#advayos#}</hw> <ab>Loc.</ab> <ab>Du.</ab> {%nicht in den zwei Ge-<lb/>schlechtern%}, d. i. {%im Neutrum%} <ls>TRIK. 1, 2, 9.</ls> 
+20375 new <hw>{#adva#}</hw>, {#advayos#} <ab>Loc.</ab> <ab>Du.</ab> {%nicht in den zwei Ge-<lb/>schlechtern%}, d. i. {%im Neutrum%} <ls>TRIK. 1, 2, 9.</ls> 
+; ---------------------------
+; <L>5036<pc>4-291-c<k1>aDaray
+20387 old <althws>{#aDarita#}</althws>
+20387 new 
+;
+20388 old <hw>{#aDaray#}</hw>, <hw>{#aDarita#}</hw> {%übertroffen%} <ls>BHĀM. V. 2, 180.</ls> 
+20388 new <hw>{#aDaray#}</hw>, {#aDarita#} {%übertroffen%} <ls>BHĀM. V. 2, 180.</ls> 
+; ---------------------------
+; <L>5266<pc>4-294-b<k1>aBrAy
+21310 old <althws>{#aBrAyita#}</althws>
+21310 new 
+;
+21311 old <hw>{#°aBrAy#}</hw>, <hw>{#aBrAyita#}</hw> {%einer Wolke gleichend%} <ls>BHĀM. V. <lb/>1, 41.</ls> 
+21311 new <hw>{#°aBrAy#}</hw>, {#aBrAyita#} {%einer Wolke gleichend%} <ls>BHĀM. V. <lb/>1, 41.</ls> 
+; ---------------------------
+; <L>5468<pc>4-297-a<k1>uB
+22125 old <althws>{#umBita#}</althws>
+22125 new 
+;
+22126 old <hw>{#uB#}</hw>, <hw>{#umBita#}</hw> {%eingeschlossen, darin enthalten%} <lb/><ls>BHĀM. V. 2, 142.</ls> 
+22126 new <hw>{#uB#}</hw>, {#umBita#} {%eingeschlossen, darin enthalten%} <lb/><ls>BHĀM. V. 2, 142.</ls> 
+; ---------------------------
+; <L>5623<pc>4-299-a<k1>caturbila
+22748 old <althws>{#UDas#}</althws>
+22748 new 
+;
+22749 old <hw>{#caturbila#}</hw>, <hw>{#UDas#}</hw> <ab>n.</ab> <ls>ŚĀṄKH. GṚHY. 3, 9.</ls> <ls>ĀŚV. GṚHY. <lb/>2, 10, 6.</ls> 
+22749 new <hw>{#caturbila#}</hw>, {#UDas#} <ab>n.</ab> <ls>ŚĀṄKH. GṚHY. 3, 9.</ls> <ls>ĀŚV. GṚHY. <lb/>2, 10, 6.</ls> 
+; ---------------------------
+; <L>7048<pc>5-252-a<k1>kAvyajIvajYa
+28482 old <althws>{#kAvyasyASayajYaH#}</althws>
+28482 new 
+;
+28483 old <hw>{#kAvyajIvajYa#}</hw> = {#SukragurubuDa#} und <hw>{#kAvyasyASa-<lb/>yajYaH#}</hw> <ls>VĀSAV. 114, 1.</ls> 
+28483 new <hw>{#kAvyajIvajYa#}</hw> = {#SukragurubuDa#} und {#kAvyasyASa-<lb/>yajYaH#} <ls>VĀSAV. 114, 1.</ls> 
+; ---------------------------
+; <L>7105<pc>5-252-c<k1>kOrpa
+28713 old <althws>{#kOrpya#}</althws>
+28713 new 
+;
+28714 old <hw>{#kOrpa#}</hw> = {#kOrpi#}, <hw>{#kOrpya#}</hw> <ls>M. MÜLLER</ls>, Ren. 326. 
+28714 new <hw>{#kOrpa#}</hw> = {#kOrpi#}, {#kOrpya#} <ls>M. MÜLLER</ls>, Ren. 326. 
+; ---------------------------
+; <L>7268<pc>5-254-b<k1>jan
+29373 old <althws>{#nirjAta#}</althws>
+29373 new 
+;
+29374 old <hw>{#jan#}</hw>, <hw>{#nirjAta#}</hw> (mit {#niryAta#} wechselnd) bedeutet <lb/>{%vollkommen vertraut mit%}, steht also richtig nach. 
+29374 new <hw>{#jan#}</hw>, {#nirjAta#} (mit {#niryAta#} wechselnd) bedeutet <lb/>{%vollkommen vertraut mit%}, steht also richtig nach. 
+; ---------------------------
+; <L>7518<pc>5-257-b<k1>naw
+30383 old <althws>{#nawita#}</althws>
+30383 new 
+;
+30384 old <hw>{#naw#}</hw>, <hw>{#nawita#}</hw> wohl so <ab>v. a.</ab> {%überdrüssig;%} mit <ab>Instr.</ab> <lb/><ls>HEM. PAR. 1, 172.</ls> <ab>Vgl.</ab> <ls>HĀLA</ls>, S. 27. -- Mit {#vi, °na-<lb/>wita#} {%hinundher tanzend, -- schwärmend%} (von Bie-<lb/>nen) <ls>VĀSAV. 180, 3.</ls> <ab>Vgl.</ab> {#vinawana#}. 
+30384 new <hw>{#naw#}</hw>, {#nawita#} wohl so <ab>v. a.</ab> {%überdrüssig;%} mit <ab>Instr.</ab> <lb/><ls>HEM. PAR. 1, 172.</ls> <ab>Vgl.</ab> <ls>HĀLA</ls>, S. 27. -- Mit {#vi, °na-<lb/>wita#} {%hinundher tanzend, -- schwärmend%} (von Bie-<lb/>nen) <ls>VĀSAV. 180, 3.</ls> <ab>Vgl.</ab> {#vinawana#}. 
+; ---------------------------
+; <L>7904<pc>5-261-b<k1>barAsI
+31938 old <althws>{#varASi#}</althws>
+31938 new 
+;
+31939 old <hw>{#barAsI#}</hw>, <hw>{#varASi#}</hw> <ls>HEM. PAR. 1, 186.</ls> 
+31939 new <hw>{#barAsI#}</hw>, {#varASi#} <ls>HEM. PAR. 1, 186.</ls> 
+; ---------------------------
+; <L>8193<pc>6-293-a<k1>agnisAkzika
+33103 old <althws>{#agnisAkzikam#}</althws>
+33103 new 
+;
+33104 old <hw>{#agnisAkzika#}</hw>, <hw>{#°m#}</hw> <ab>Adv.</ab> {%coram igne%} <ls>MBH. 1, 198, 17.</ls> <lb/><ls>SUŚR. 1, 7, 4.</ls> <ls n="SUŚR. 1, 7,">5.</ls> {#paYcabARAgni°#} <ls>MĀLAV. 70</ls> (<ls n="MĀLAV.">71</ls>). 
+33104 new <hw>{#agnisAkzika#}</hw>, {#°m#} <ab>Adv.</ab> {%coram igne%} <ls>MBH. 1, 198, 17.</ls> <lb/><ls>SUŚR. 1, 7, 4.</ls> <ls n="SUŚR. 1, 7,">5.</ls> {#paYcabARAgni°#} <ls>MĀLAV. 70</ls> (<ls n="MĀLAV.">71</ls>). 
+; ---------------------------
+; <L>8818<pc>6-300-b<k1>kuRW
+35619 old <althws>{#kuRWita#}</althws>
+35619 new 
+;
+35620 old <hom>2.</hom> <hw>{#kuRW#}</hw>, <hw>{#kuRWita#}</hw> = {#guRWita#} <ls>BAUDH. 2, 6, 33.</ls> 
+35620 new <hom>2.</hom> <hw>{#kuRW#}</hw>, {#kuRWita#} = {#guRWita#} <ls>BAUDH. 2, 6, 33.</ls> 
+; ---------------------------
+; <L>8921<pc>6-301-b<k1>Cid
+36034 old <althws>{#CindatprARi#}</althws>
+36034 new 
+;
+36035 old <hom>1.</hom> <hw>{#Cid#}</hw>, <hw>{#CindatprARi#}</hw> (<ab>Nomin.</ab>) {%ein grasfressendes <lb/>Thier%} <ls>ĀPAST. ŚR. 9, 13, 1.</ls> <ls n="ĀPAST. ŚR. 9,">16, 8.</ls> 
+36035 new <hom>1.</hom> <hw>{#Cid#}</hw>, {#CindatprARi#} (<ab>Nomin.</ab>) {%ein grasfressendes <lb/>Thier%} <ls>ĀPAST. ŚR. 9, 13, 1.</ls> <ls n="ĀPAST. ŚR. 9,">16, 8.</ls> 
+; ---------------------------
+; <L>8953<pc>6-301-c<k1>tarq
+36163 old <althws>{#saMtfqya#}</althws>
+36163 new 
+;
+36164 old <hw>{#tarq#}</hw>, <hw>{#saMtfqya#}</hw> <ls>ŚĀṄKH. ŚR. 17, 12, 1</ls> wohl nur fehler-<lb/>haft für {#saMtfdya#}. 
+36164 new <hw>{#tarq#}</hw>, {#saMtfqya#} <ls>ŚĀṄKH. ŚR. 17, 12, 1</ls> wohl nur fehler-<lb/>haft für {#saMtfdya#}. 
+; ---------------------------
+; <L>8981<pc>6-302-a<k1>dal
+36277 old <althws>{#dalita#}</althws>
+36277 new 
+;
+36278 old <hw>{#dal#}</hw>, <hw>{#dalita#}</hw> auch {%zerrieben%} <ls>ŚIŚ. 6, 35.</ls> 
+36278 new <hw>{#dal#}</hw>, {#dalita#} auch {%zerrieben%} <ls>ŚIŚ. 6, 35.</ls> 
+; ---------------------------
+; <L>9069<pc>6-303-a<k1>nuq
+36633 old <althws>{#vinuqya#}</althws>
+36633 new 
+;
+36634 old <hw>{#nuq#}</hw>, <hw>{#vinuqya#}</hw> <ls>ŚĀṄKH. ŚR. 17, 12, 1</ls> wohl fehlerhaft <lb/>für {#vinudya#}, wie eben daselbst {#saMtfqya#} für {#saMtfdya#}. 
+36634 new <hw>{#nuq#}</hw>, {#vinuqya#} <ls>ŚĀṄKH. ŚR. 17, 12, 1</ls> wohl fehlerhaft <lb/>für {#vinudya#}, wie eben daselbst {#saMtfqya#} für {#saMtfdya#}. 
+; ---------------------------
+; <L>9173<pc>6-304-a<k1>plI
+37055 old <althws>{#viplIyante#}</althws>
+37055 new 
+;
+37056 old <hw>{#plI#}</hw>, <hw>{#viplIyante#}</hw> <ls>SĀMAV. BR.</ls> fehlerhaft für {#vivlIyante#}. 
+37056 new <hw>{#plI#}</hw>, {#viplIyante#} <ls>SĀMAV. BR.</ls> fehlerhaft für {#vivlIyante#}. 
+; ---------------------------
+; <L>9251<pc>6-305-a<k1>mahant
+37371 old <althws>{#mahatas#}</althws>
+37371 new 
+;
+37372 old <hw>{#mahant#}</hw>, <hw>{#mahatas#}</hw> <ab>Abl.</ab> {%von grösserem Werth%} (Ge-<lb/>gensatz {#hInatas#}) <ls>VASIṢṬHA 2, 37.</ls> 
+37372 new <hw>{#mahant#}</hw>, {#mahatas#} <ab>Abl.</ab> {%von grösserem Werth%} (Ge-<lb/>gensatz {#hInatas#}) <ls>VASIṢṬHA 2, 37.</ls> 
+; ---------------------------
+; <L>9314<pc>6-305-c<k1>riB
+37624 old <althws>{#reBamARa#}</althws>
+37624 new 
+;
+37625 old <hw>{#riB#}</hw>, <hw>{#reBamARa#}</hw> {%brüllend%} (Kuh) <ls>MBH. 4, 53, 25.</ls> <ab>Vgl.</ab> {#reB#}. 
+37625 new <hw>{#riB#}</hw>, {#reBamARa#} {%brüllend%} (Kuh) <ls>MBH. 4, 53, 25.</ls> <ab>Vgl.</ab> {#reB#}. 
+; ---------------------------

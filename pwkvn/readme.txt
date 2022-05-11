@@ -11,3 +11,6 @@ digitization.
 install Discusses the changes required to various repositories
 for a new pwkvn 'dictionary' in the Cologne sanskrit-lexicon.
 
+step1: various editing
+step1/althws  : revise the althws markup
+

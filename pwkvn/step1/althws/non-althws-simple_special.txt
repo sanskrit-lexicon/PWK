@@ -1,0 +1,34 @@
+;Volume-1:
+done ;<L>246 ; should have "</hw> und <hw>" in place of "</hw> u. <hw>".
+done ;<L>725 ; however, this internally has two more new entries to be split as <L>725.1 "1. अनुत्तर" and <L>725.2 "2. अनुत्तर"
+;-----------
+;Volume-2:
+nochange ;<L>2654 ; आवश्यकसूत्र is not an althw, but a sub-hw internal in the body.
+done ;<L>2727 ; is a continuation of <L>2726, and not a new entry & both are to be merged.   
+;-----------
+;Volume-3:
+done ;<L>3429 ; althw should be अदूरेबान्धव
+;-----------
+;Volume-4:
+;-----------
+;Volume-5:
+done ;<L>7164 (Jim)  mark only garut as alt headword  (cf L=16817 vol 7)
+;-----------
+;Volume-6:
+done; <L>8508 (Jim)  only aSocyatA as althws (not aSocyatva, aSocyaM)
+  cf. L=13380 in vol 7.
+no change ;<L>8746 ; mentions repositioning of two entries (कटुकविटप & कटुतुम्बी); how to treat this entry? probably like at <L>8844, may have just these two words as althws.  
+
+  confer vol 7: 15641 and 15644 
+; <L>9355   jim: no althws found.
+
+--------------------
+Observations where Volume 7 has overlooked some headwords of earlier volumes
+no change (Jim); <L>7168 gAQavarcas, gAQavarcastva.  
+   Vol. 7 has only <L>16837 gAQavarcastva   possible error in vol 7?
+no change (Jim); <L>8776 karuRavedin, karuRaveditA
+   vol 7 has only karuRaveditA cf. <L>15780
+no change (Jim): <L>8971 triHzamfdDa, triHzamfdDatva
+   Vol 7 has only triHzamfdDatva  cf. <L>17989
+--------------------
+done; <L>16168  (Jim) mark {#kuRW#} as althw. cf <L>8818<pc>6-300-b<k1>kuRW
