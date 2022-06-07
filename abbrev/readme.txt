@@ -1,0 +1,90 @@
+Improve abbreviation markup in PWK.
+
+
+cd /c/xampp/htdocs/sanskrit-lexicon/pwk/abbrev
+Revise the althws (and hw) markup.
+
+Ref: https://github.com/sanskrit-lexicon/PWK/issues/88
+
+temp_pw_0.txt  take from csl-orig
+
+cp /c/xampp/htdocs/cologne/csl-orig/v02/pw/pw.txt temp_pw_0.txt
+(commit 3f50f9706793227e7a886e1fd89155a02cf5958f)
+
+cp /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/pw/pywork/pwab/pwab_input.txt temp_pwab_input.txt
+  (commit b41dbcdb2d01d14aed3550344b653c9fac555452)
+
+
+====================================================================
+freq_ab.txt   Frequency of <ab>X</ab> OR <lex>X</lex>
+# cp /c/xampp/htdocs/sanskrit-lexicon/INM/greek/issue9/freq_greek.py freq_ab.py
+python freq_ab.py temp_pw_0.txt temp_pwab_input.txt freq_ab.txt
+
+682616 lines read from temp_pw_0.txt
+135787 entries found
+64 abbreviations read from temp_pwab_input.txt
+62 different greek strings
+62 records written to freq_ab.txt
+1 abbreviations without tooltip
+   Prol. 1 unknown
+3 abbreviation tips unused:
+   best. bestimmte - a certain (kind of)
+   v.a. vor allem - above all, especially
+   gedr. gedruckt - printed
+
+====================================================================
+abbreviations in italics.  A potential problem for english translation
+773 matches in 757 lines for "{%[^%]*<ab" in buffer: temp_pw_0.txt
+====================================================================
+Find unmarked abbreviations.
+Generate changes for markup of abbreviations not yet marked.
+python unmarked_ab.py temp_pw_0.txt temp_pwab_input.txt change_1.txt
+
+date;python unmarked_ab.py temp_pw_0.txt temp_pwab_input.txt change_1.txt;date
+Tue Jun  7 17:08:13 EDT 2022
+682616 lines read from temp_pw_0.txt
+135787 entries found
+64 abbreviations read from temp_pwab_input.txt
+6496 lines changed
+change records written to change_1.txt
+Abl. 1
+Adv. 1
+best. 224
+ebend. 6
+gedr. 234
+Hdschr. 26
+Med. 1
+s. 547
+Sch. 8
+Schol. 33
+u.s.w. 1790
+v.a. 4025
+v.u. 92
+vgl. 8
+6996 abbreviations marked
+Tue Jun  7 17:10:24 EDT 2022
+
+# implement changes in temp_pw_1.txt
+python updateByLine.py temp_pw_0.txt change_1.txt temp_pw_1.txt
+6496 change transactions from change_1.txt
+
+====================================================================
+installation of temp_pw_1.txt
+
+install: csl-orig/v02/pw/pw.txt
+cp temp_pw_1.txt /c/xampp/htdocs/cologne/csl-orig/v02/pw/pw.txt
+
+# check xml validity
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh pw  ../../pw
+sh xmlchk_xampp.sh pw
+ # ok 
+# commit/push to csl-orig
+cd /c/xampp/htdocs/cologne/csl-orig/v02/pw
+# return home
+cd /c/xampp/htdocs/sanskrit-lexicon/pwk/abbrev
+========================================================
+# generate new frequency count with revised pw:
+python freq_ab.py temp_pw_1.txt temp_pwab_input.txt freq_ab_1.txt
+
+====================================================================

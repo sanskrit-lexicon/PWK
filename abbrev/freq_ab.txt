@@ -1,0 +1,62 @@
+Abl. 1366 Ablativ - ablative (case)
+Absol. 379 Absolutiv - absolutive (case)
+Acc. 4720 Accusativ - accusative (case)
+Act. 619 Activ - active 
+Adj. 42820 Adjectiv - adjective
+adj. 1850 adjectivisch - adjective
+Adv. 3894 Adverb - adverb
+adv. 41 adverbial? - adverbial
+Aor. 75 Aorist - aorist
+Bein. 3397 Beiname - epithet, by name
+Beinn. 7 Beinamen - epithets, by names
+Caus. 2579 Causativ - causative
+Comm. 2280 Commentar? - commentary
+Conj. 216 Conjunctiv? - subjunctive (mood)
+dass. 1816 dasselbe - the same
+Dat. 958 Dativ - dative (case)
+Denom. 46 Denominativ? - denominative
+Desid. 474 Desiderativ - desiderative
+Du. 534 Dual - dual 
+ebend. 447 ebenda - ibid. (ibidem) - in the same source
+f. 35223 femininum - feminine
+Gen. 1922 Genitiv - genitive (case)
+Hdschr. 2 Handschrift - manuscript
+Indecl. 87 Indeclinabilum - indeclinable
+Inf. 156 Infinitiv - infinitive
+Infin. 464 Infinitiv - infinitive
+Instr. 2166 Instrumental - instrumental (case)
+Intens. 376 Intensiv - intensive
+Interj. 97 Interjection - interjection 
+Loc. 2691 Locativ - locative case
+m. 54338 masculinum - masculine
+Med. 1295 Medium – ātmanepada
+Metron. 296 Metronym(Deu.)/Metronymicum(Lat.) - metronym
+Metronn. 1 Metronyme(Deu.)/Metronymica(Lat.) - metronym
+n. 29326 neutrum - neuter
+N. 138 Namen? - name
+N.ag. 39 ? - ?
+N.pr. 18468 Nomen proprium? - proper noun
+Nom. 554 Nomen? - noun
+Nom.abstr. 2597 Nomen abstractum - abstract noun
+Nom.ag. 903 Nomen agentis - nomen agentis
+Nomin. 185 Nominativ - nominative (case)
+Partic. 833 Participium - participle
+Pass. 434 Passiv - passive
+Patron. 2000 Patronym (Deu.)/Patronymicum(Lat.) - patronym
+Patronn. 3 Patronyme(Deu.)/Patrnymica (Lat.) - patronyms
+Pl. 4575 Plural - plural
+Potent. 70 Potentialis - potential mood
+Prol. 1 [unknown]
+Präp. 12 Präposition - preposition
+s. 234 siehe - see
+s.u. 1173 siehe unten?/unter? - see below/under
+Sch. 212 Scholiast or Commentator
+Schol. 1 Scholiast or Commentator
+Sg. 734 Singular - singular
+Subst. 302 Substantiv - noun
+u.s.w. 3 und so weiter - and so on, and so forth = etc.
+v.l. 2545 vide licet - that us to say, namely
+v.u. 4 von unten - line number counted from below, from the last line up
+Vgl. 2125 Vergleiche - compare
+vgl. 617 vergleiche - compare
+Voc. 58 Vocativ - vocative (case)
