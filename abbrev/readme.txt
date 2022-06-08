@@ -88,3 +88,44 @@ cd /c/xampp/htdocs/sanskrit-lexicon/pwk/abbrev
 python freq_ab.py temp_pw_1.txt temp_pwab_input.txt freq_ab_1.txt
 
 ====================================================================
+# ab markup within italic texts
+====================================================================
+python unmarked_ab_italic.py temp_pw_1.txt temp_pwab_input.txt change_2.txt
+
+682616 lines read from temp_pw_1.txt
+135787 entries found
+64 abbreviations read from temp_pwab_input.txt
+10450 lines changed
+change records written to change_2.txt
+best. 9792
+f. 2
+m. 2
+s. 13
+Sch. 11
+Schol. 1
+u.s.w. 125
+v.a. 542
+10488 abbreviations marked
+
+# implement changes in temp_pw_2.txt
+python updateByLine.py temp_pw_1.txt change_2.txt temp_pw_2.txt
+10450 change transactions from change_2.txt
+====================================================================
+installation of temp_pw_2.txt
+
+install: csl-orig/v02/pw/pw.txt
+cp temp_pw_2.txt /c/xampp/htdocs/cologne/csl-orig/v02/pw/pw.txt
+
+# check xml validity
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh pw  ../../pw
+sh xmlchk_xampp.sh pw
+ # ok 
+# commit/push to csl-orig
+cd /c/xampp/htdocs/cologne/csl-orig/v02/pw
+# return home
+cd /c/xampp/htdocs/sanskrit-lexicon/pwk/abbrev
+====================================================================
+# generate new frequency count with revised pw:
+python freq_ab.py temp_pw_2.txt temp_pwab_input.txt freq_ab_2.txt
+====================================================================
