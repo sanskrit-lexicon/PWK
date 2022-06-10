@@ -1,0 +1,36 @@
+18753 old {#aniyukta#}¦ <lex>Adj.</lex> {%nicht beauftragt , nicht speciell angewiesen%} <ls>197,7. 210,25. 26.</ls> <ls>YĀJÑ. 3,288.</ls> <ls>HARIV. 7338.</ls> <ls>R. GORR. 2,62,2. 95,16.</ls> <ls>KATHĀS. 60,112.</ls> {%nicht betraut mit%} (<ab>Loc.</ab>) <ls>Spr. 299.</ls>
+18753 new {#aniyukta#}¦ <lex>Adj.</lex> {%nicht beauftragt , nicht speciell angewiesen%} <ls>197,7. 210,25. 26.</ls> <ls>YĀJÑ. 3,288.</ls> <ls>HARIV. 7338.</ls> <ls>R. GORR. 2,62,2.</ls> <ls n="R. GORR. 2,">95,16.</ls> <ls>KATHĀS. 60,112.</ls> {%nicht betraut mit%} (<ab>Loc.</ab>) <ls>Spr. 299.</ls>
+;-----------------
+23299 old {#anekavarzaSatika#}¦ <lex>Adj.</lex> {%viele hundert Jahre alt%} <ls>R. ed. GORR. 2,1,25. 3,73,26.</ls>
+23299 new {#anekavarzaSatika#}¦ <lex>Adj.</lex> {%viele hundert Jahre alt%} <ls>R. ed. GORR. 2,1,25. </ls> <ls n="R. ed. GORR.">3,73,26.</ls>
+;-----------------
+34512 old {#aBiruta#}¦ <lex>n.</lex> {%Gesang%} <ls>R. GORR. 1,9,15</ls> (<ls>R. ed. SCHL. 17</ls>). {%Geschrei%} <ls>6,70,19.</ls>
+34512 new {#aBiruta#}¦ <lex>n.</lex> {%Gesang%} <ls>R. GORR. 1,9,15</ls> (<ls>R. ed. SCHL. 17</ls>). {%Geschrei%} <ls n="R. GORR.">6,70,19.</ls>
+;-----------------
+167991 old {#ganDarvavidyA#}¦ <lex>f.</lex> {%die Kunst der <is>Gandharva</is> 1)a) , Gesang%} <ab>Pl.</ab> <ls>R. GORR. 1,79,21.</ls> im Comp. <ls>80,4.</ls>
+167991 new {#ganDarvavidyA#}¦ <lex>f.</lex> {%die Kunst der <is>Gandharva</is> 1)a) , Gesang%} <ab>Pl.</ab> <ls>R. GORR. 1,79,21.</ls> im Comp. <ls n="R. GORR. 1,">80,4.</ls>
+;-----------------
+328517 old {#pApadarSin#}¦ <lex>Adj.</lex> dass , <ls>R. 2,35,25. 73,5.</ls> <ls>R. GORR. 2,6,13. 8,37.</ls>
+328517 new {#pApadarSin#}¦ <lex>Adj.</lex> dass , <ls>R. 2,35,25. 73,5.</ls> <ls>R. GORR. 2,6,13.</ls> <ls n="R. GORR. 2,">8,37.</ls>
+;-----------------
+334688 old <div n="1">— 1) {%drücken , pressen.%} {#pIqita#} {%gedrückt , gequetscht%} , {#°m#} <lex>Adj.</lex> {%fest andrückend%} (Jmd umarmen) <ls>R. GORR. 1,71,25. 79,10.</ls>
+334688 new <div n="1">— 1) {%drücken , pressen.%} {#pIqita#} {%gedrückt , gequetscht%} , {#°m#} <lex>Adj.</lex> {%fest andrückend%} (Jmd umarmen) <ls>R. GORR. 1,71,25.</ls> <ls n="R. GORR. 1,">79,10.</ls>
+;-----------------
+353044 old {#pratijYApAraga#}¦ <lex>Adj.</lex> {%sein Wort haltend%} <ls>R. GORR. 2,137,15. 3,53,8.</ls>
+353044 new {#pratijYApAraga#}¦ <lex>Adj.</lex> {%sein Wort haltend%} <ls>R. GORR. 2,137,15.</ls> <ls n="R. GORR.">3,53,8.</ls>
+;-----------------
+497243 old {#varzArAtra#}¦ <lex>m.</lex> (R. 4 , 26 , 24. 7 , 64 , 10) und {#°rAtri#} <lex>f.</lex> <ls>R. GORR. 1,3,18</ls>) {%die Regenzeit.%}
+497243 new {#varzArAtra#}¦ <lex>m.</lex> (<ls>R. 4,26,24.</ls> <ls n="R.">7,64,10</ls>) und {#°rAtri#} <lex>f.</lex> <ls>R. GORR. 1,3,18</ls>) {%die Regenzeit.%}
+;-----------------
+552837 old {#SatasAhasrasaMKya#}¦ <lex>Adj.</lex> = {#SatasAhasra#} 1) <ls>R. GORR. 1,20,18. 4,39,34.</ls>
+552837 new {#SatasAhasrasaMKya#}¦ <lex>Adj.</lex> = {#SatasAhasra#} 1) <ls>R. GORR. 1,20,18.</ls> <ls n="R. GORR.">4,39,34.</ls>
+;-----------------
+630792 old {#sukfzwa#}¦ <lex>Adj.</lex> {%wohlgepflügt%} <ls>R. GORR. 2,46,5. 109,22.</ls>
+630792 new {#sukfzwa#}¦ <lex>Adj.</lex> {%wohlgepflügt%} <ls>R. GORR. 2,46,5.</ls> <ls n="R. GORR. 2,">109,22.</ls>
+;-----------------
+643659 old <div n="1">— 2) {%überaus fest , — compact , gedrungen%} (Körper <ls>CARAKA. 314,20</ls> ) <ls>R. 2,89,12.</ls> <ls>R. GORR. 2,39,29. 5,2,18.</ls> <ls>VARĀH. BṚH. S. S. 3, Z. 11.</ls> <ab>Acc.</ab> mit {#kar#} {%ganz fest schliessen%} <ls>MṚCCH. 55,22.</ls>
+643659 new <div n="1">— 2) {%überaus fest , — compact , gedrungen%} (Körper <ls>CARAKA. 314,20</ls> ) <ls>R. 2,89,12.</ls> <ls>R. GORR. 2,39,29.</ls> <ls n="R. GORR.">5,2,18.</ls> <ls>VARĀH. BṚH. S. S. 3, Z. 11.</ls> <ab>Acc.</ab> mit {#kar#} {%ganz fest schliessen%} <ls>MṚCCH. 55,22.</ls>
+;-----------------
+672504 old {#haripiNgala#}¦ <lex>Adj.</lex> <ab>dass.</ab> <ls>MBH. 13,160,14.</ls> <ls>R. GORR. 1,60,12. 4,20,21.</ls> <ls>R. ed. Bomb. 7,23,4,32.</ls>
+672504 new {#haripiNgala#}¦ <lex>Adj.</lex> <ab>dass.</ab> <ls>MBH. 13,160,14.</ls> <ls>R. GORR. 1,60,12.</ls> <ls n="R. GORR.">4,20,21.</ls> <ls>R. ed. Bomb. 7,23,4,32.</ls>
+;-----------------

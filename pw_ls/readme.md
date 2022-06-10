@@ -19,3 +19,5 @@ occuring in the PW dictionary.
   can link to an html version of the verses.
 
 * **summary**  Generate a summary of counts of ls references for pwk
+
+* **pw_ls/gorr**  improve link markup for references to Gorresio version of Ramayana.

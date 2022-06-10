@@ -1,0 +1,54 @@
+19902 old {#anugrAhya#}¦ <lex>Adj.</lex> {%dem man eine Gunst — , einen Gefallen erzeigen will%} <ls>GAUT. 6,24.</ls> begünstigt werdend , in Gunst stehend bei (<ab>Gen.</ab>). <ls>R. 4,7,2. 6,106,11.</ls> <ls>KĀD. 68,3.</ls> <ab>v.u.</ab> Davon {#°tA#} <lex>f.</lex> <ab>Nom.abstr.</ab>
+19902 new {#anugrAhya#}¦ <lex>Adj.</lex> {%dem man eine Gunst — , einen Gefallen erzeigen will%} <ls>GAUT. 6,24.</ls> begünstigt werdend , in Gunst stehend bei (<ab>Gen.</ab>). <ls>R. 4,7,2.</ls> <ls n="R.">6,106,11.</ls> <ls>KĀD. 68,3.</ls> <ab>v.u.</ab> Davon {#°tA#} <lex>f.</lex> <ab>Nom.abstr.</ab>
+;-----------------
+23852 old <div n="1">— 1) {%steckend in%} (<ab>Gen.</ab> oder im Comp. vorangehend) <ls>120,25.</ls> <ls>R. 5,31,9. 83,7.</ls>
+23852 new <div n="1">— 1) {%steckend in%} (<ab>Gen.</ab> oder im Comp. vorangehend) <ls>120,25.</ls> <ls>R. 5,31,9.</ls> <ls n="R. 5,">83,7.</ls>
+;-----------------
+36447 old <div n="1">— 3) {%glücklicher Erfolg , Glück , Heil%} <ls>R. 4,26,8. 62,24.</ls> <ab>Pl.</ab> <ls>Chr. 291,16.</ls>
+36447 new <div n="1">— 3) {%glücklicher Erfolg , Glück , Heil%} <ls>R. 4,26,8.</ls> <ls n="R. 4,">62,24.</ls> <ab>Pl.</ab> <ls>Chr. 291,16.</ls>
+;-----------------
+38397 old <div n="1">— 2) <lex>m.</lex> {%ein Gott%} <ls>R. 1,16,4. 6,4,7.</ls>
+38397 new <div n="1">— 2) <lex>m.</lex> {%ein Gott%} <ls>R. 1,16,4.</ls> <ls n="R.">6,4,7.</ls>
+;-----------------
+40410 old <div n="2">— e) {%nicht angestellt%} <ls>R. 3,37,7. 10. 41,2.</ls>
+40410 new <div n="2">— e) {%nicht angestellt%} <ls>R. 3,37,7.</ls> <ls n="R. 3,37,">10.</ls> <ls n="R. 3,">41,2.</ls>
+;-----------------
+65200 old {#AtapApAya#}¦ <lex>m.</lex> {%Ablauf der heissen Jahreszeit , Beginn der Regenzeit%} <ls>R. 2,93,9. 6,15,24. 79,56.</ls>
+65200 new {#AtapApAya#}¦ <lex>m.</lex> {%Ablauf der heissen Jahreszeit , Beginn der Regenzeit%} <ls>R. 2,93,9.</ls> <ls n="R.">6,15,24.</ls> <ls n="R. 6,">79,56.</ls>
+;-----------------
+65744 old {#AtmanApaYcama#}¦ <lex>Adj.</lex> {%selbfünft%} <ls>R. 4,5,9. 5,89,47.</ls>
+65744 new {#AtmanApaYcama#}¦ <lex>Adj.</lex> {%selbfünft%} <ls>R. 4,5,9.</ls> <ls n="R.">5,89,47.</ls>
+;-----------------
+81160 old <div n="1">— 2) {#icCayAmi#} <ls>R. 7,59,1. 25</ls> = {#icCAmi#} {%ich bin Willens.%}
+81160 new <div n="1">— 2) {#icCayAmi#} <ls>R. 7,59,1.</ls> <ls n="R. 7,59,">25</ls> = {#icCAmi#} {%ich bin Willens.%}
+;-----------------
+113085 old {#kaTaMrUpa#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%wie aussehend?%} <ls>R. 3,73,9. 5,12,3. 6,99,15.</ls>
+113085 new {#kaTaMrUpa#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%wie aussehend?%} <ls>R. 3,73,9.</ls> <ls n="R.">5,12,3.</ls> <ls n="R.">6,99,15.</ls>
+;-----------------
+122458 old <div n="1">— 3) <lex>f.</lex> {#I#} <ls>R. 2,55,4. 12. 13</ls> fehlerhaft für {#kAlindI#}.
+122458 new <div n="1">— 3) <lex>f.</lex> {#I#} <ls>R. 2,55,4.</ls> <ls n="R. 2,55,">12.</ls> <ls n="R. 2,55,">13</ls> fehlerhaft für {#kAlindI#}.
+;-----------------
+130630 old {#kAladaRqa#}¦ <lex>m.</lex> {%Todesstab , die Keule des Todesgottes%} <ls>49,22. 148,7.</ls> <ls>R. 1,56,2. 3,35,43.</ls>
+130630 new {#kAladaRqa#}¦ <lex>m.</lex> {%Todesstab , die Keule des Todesgottes%} <ls>49,22. 148,7.</ls> <ls>R. 1,56,2.</ls> <ls n="R.">3,35,43.</ls>
+;-----------------
+144327 old {#kftakAma#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%der seinen Wunsch erreicht hat , befriedigt%} <ls>R. 1,66,6. 2,53,6.</ls>
+144327 new {#kftakAma#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%der seinen Wunsch erreicht hat , befriedigt%} <ls>R. 1,66,6.</ls> <ls n="R.">2,53,6.</ls>
+;-----------------
+212594 old {#jIvitAntaka#}¦ <lex>Adj.</lex> {%dem Leben ein Ende machend%} <ls>R. 3,25,5. 4,6,10.</ls> Auch <ab>Bein.</ab> <is>Śiva</is>'s.
+212594 new {#jIvitAntaka#}¦ <lex>Adj.</lex> {%dem Leben ein Ende machend%} <ls>R. 3,25,5.</ls> <ls n="R.">4,6,10.</ls> Auch <ab>Bein.</ab> <is>Śiva</is>'s.
+;-----------------
+616509 old {#sasyaSAlin#}¦ <lex>Adj.</lex> {%reich an Saatfeldern%} <ls>R. 3,22,5. 5,80,31.</ls> <ls>HEMĀDRI 1,288,1.</ls>
+616509 new {#sasyaSAlin#}¦ <lex>Adj.</lex> {%reich an Saatfeldern%} <ls>R. 3,22,5.</ls> <ls n="R.">5,80,31.</ls> <ls>HEMĀDRI 1,288,1.</ls>
+;-----------------
+620039 old 2. {#sAgarAnta#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%bis an's Meer reichend , meerumgrenzt%} (die Erde) <ls>R. 1,5,1. 2,12,32.</ls> <ls>Ind. St. 15,426.</ls>
+620039 new 2. {#sAgarAnta#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%bis an's Meer reichend , meerumgrenzt%} (die Erde) <ls>R. 1,5,1.</ls> <ls n="R.">2,12,32.</ls> <ls>Ind. St. 15,426.</ls>
+;-----------------
+631473 old {#suKasaMyAna#}¦ <lex>n.</lex> {%ein behagliches Reisen , — Fortkommen%} <ls>R. 5,86,9. 10.</ls>
+631473 new {#suKasaMyAna#}¦ <lex>n.</lex> {%ein behagliches Reisen , — Fortkommen%} <ls>R. 5,86,9.</ls> <ls n="R. 5,86,">10.</ls>
+;-----------------
+635579 old {#sunyasta#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%schön hingestreckt , — liegend%} <ls>R. 5,10,1. 14,22.</ls>
+635579 new {#sunyasta#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%schön hingestreckt , — liegend%} <ls>R. 5,10,1.</ls> <ls n="R. 5,">14,22.</ls>
+;-----------------
+673686 old 1. {#halamuKa#}¦ <lex>n.</lex> {%Pflugschar%} <ls>R. 5,19,4. 7,17,37.</ls>
+673686 new 1. {#halamuKa#}¦ <lex>n.</lex> {%Pflugschar%} <ls>R. 5,19,4.</ls> <ls n="R.">7,17,37.</ls>
+;-----------------
