@@ -19,4 +19,4 @@ This is for changing 'Pron.' to 'Pronoun'.
 We don't really want to do this, it's just an example.
 python change_sample.py temp_pw_0.txt change_sample.txt
 # apply changes
-python updateByLine.py temp_pw_0.txt change_sample.txt temp_pw_1.txt
+python updateByLine.py temp_pw_0.txt change_sample.txt temp_pw_sample.txt
