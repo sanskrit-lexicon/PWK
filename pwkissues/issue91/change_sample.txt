@@ -1,0 +1,179 @@
+; **********************************************************
+; change_sample.txt  (36 changes in 34 entries) 
+; **********************************************************
+; ----------------------------------------------------------
+; (1) <L>1<pc>1001-1<k1>a
+; ----------------------------------------------------------
+7 old 1. {#a#}¦ Pron. der 3ten Person. Davon {#asmE/ , asyE/ , asmA/t , asyA/s , asya/ , asmi/n , asyA/m , AByA/m , eBi/s , ABi/s , eBya/s , ABya/s , ezA/m , AsA/m ezu/ , Asu/#} {%Diesem , diesem hier%} <ab>u.s.w.</ab> Unbetont <ab>Subst.</ab> {%ihm , ihr%} <ab>u.s.w.</ab> <ab>Vgl.</ab> {#ayam , ayA , idam , ima , iyam , ena , enA#}.
+7 new 1. {#a#}¦ Pronoun der 3ten Person. Davon {#asmE/ , asyE/ , asmA/t , asyA/s , asya/ , asmi/n , asyA/m , AByA/m , eBi/s , ABi/s , eBya/s , ABya/s , ezA/m , AsA/m ezu/ , Asu/#} {%Diesem , diesem hier%} <ab>u.s.w.</ab> Unbetont <ab>Subst.</ab> {%ihm , ihr%} <ab>u.s.w.</ab> <ab>Vgl.</ab> {#ayam , ayA , idam , ima , iyam , ena , enA#}.
+; ----------------------------------------------------------
+; (1) <L>181<pc>1003-1<k1>akUpAra
+; ----------------------------------------------------------
+839 old <div n="1">— 3) <lex>f.</lex> {#A#} <ab>N.pr.</ab> einer <is>Āṅgirasī</is>. — {#kU#} = {#kU#} Pron. interr.
+839 new <div n="1">— 3) <lex>f.</lex> {#A#} <ab>N.pr.</ab> einer <is>Āṅgirasī</is>. — {#kU#} = {#kU#} Pronoun interr.
+; ----------------------------------------------------------
+; (1) <L>3172<pc>1037-3<k1>ana
+; ----------------------------------------------------------
+14612 old 1. {#ana#}¦ Pron. der 3ten Person {%dieser , dieser hier.%} Davon nur {#ane/na , ana/yA#} und {#anayos#} (<ls>260,26. 281,27</ls>). <ab>Vgl.</ab> {#anA/#}.
+14612 new 1. {#ana#}¦ Pronoun der 3ten Person {%dieser , dieser hier.%} Davon nur {#ane/na , ana/yA#} und {#anayos#} (<ls>260,26. 281,27</ls>). <ab>Vgl.</ab> {#anA/#}.
+; ----------------------------------------------------------
+; (1) <L>8061<pc>1094-2<k1>ama
+; ----------------------------------------------------------
+36845 old 1. {#a/ma#}¦ Pron. {%dieser.%} von den Commentatoren als {#prAna#} gedeutet.
+36845 new 1. {#a/ma#}¦ Pronoun {%dieser.%} von den Commentatoren als {#prAna#} gedeutet.
+; ----------------------------------------------------------
+; (1) <L>8321<pc>1097-2<k1>amuka
+; ----------------------------------------------------------
+38055 old {#amuka#}¦ Pron. (<lex>f.</lex> {#A#}) {%der und der%} , die Stelle eine Namens vertretend und unserem <ab>N.</ab><ab>N.</ab> entsprechend
+38055 new {#amuka#}¦ Pronoun (<lex>f.</lex> {#A#}) {%der und der%} , die Stelle eine Namens vertretend und unserem <ab>N.</ab><ab>N.</ab> entsprechend
+; ----------------------------------------------------------
+; (1) <L>11326<pc>1133-2<k1>avos
+; ----------------------------------------------------------
+52351 old {#avo/s#}¦ wohl = {#ayo/s#} vom Pron. {#i#}.
+52351 new {#avo/s#}¦ wohl = {#ayo/s#} vom Pronoun {#i#}.
+; ----------------------------------------------------------
+; (1) <L>12983<pc>1153-3<k1>asma
+; ----------------------------------------------------------
+60170 old 1. {#asma/#}¦ Pron. der 1ten Person <ab>Pl.</ab> Davon {#asmA/n , asmA/Bis , asma/Byam , asma/t#} (auch am Anf. eines Comp.) , {#asmattas#} (<ls>59,30.</ls> <ls>MUDRĀR. 8,13</ls> oder <ls>25,5</ls>). {#asme/#} <ab>Dat.</ab> <ab>Loc.</ab> ved. , {#asmA/kam , asmA/su#}.
+60170 new 1. {#asma/#}¦ Pronoun der 1ten Person <ab>Pl.</ab> Davon {#asmA/n , asmA/Bis , asma/Byam , asma/t#} (auch am Anf. eines Comp.) , {#asmattas#} (<ls>59,30.</ls> <ls>MUDRĀR. 8,13</ls> oder <ls>25,5</ls>). {#asme/#} <ab>Dat.</ab> <ab>Loc.</ab> ved. , {#asmA/kam , asmA/su#}.
+; ----------------------------------------------------------
+; (1) <L>12984<pc>1153-3<k1>asma
+; ----------------------------------------------------------
+60174 old 2. {#asma#}¦ Pron. der 3ten Person <ab>Sg.</ab> Davon {#asmE/#} und {#a/smE , asmA/t , asmi/n#} Als Substantiv unbetont.
+60174 new 2. {#asma#}¦ Pronoun der 3ten Person <ab>Sg.</ab> Davon {#asmE/#} und {#a/smE , asmA/t , asmi/n#} Als Substantiv unbetont.
+; ----------------------------------------------------------
+; (1) <L>14177<pc>1167-3<k1>Atman
+; ----------------------------------------------------------
+65717 old <div n="1">— 3) {%das Selbst , die eigene Person.%} Häufig in der Function eines Pron. reflex. {#AtmanA - akarot#} {%ipse fecit%} <ls>KĀD. 27,21.</ls> <ls>II,112,18.</ls> {#saMstamBayAtmAnamAtmanA#} {%ipsum ipse%} <ls>R. GORR. 2,53,38.</ls> {#Atma/n#} <ab>Loc.</ab> mit {#DA#} oder {#kar#} {%in sich aufnehmen , sich aneignen.%}
+65717 new <div n="1">— 3) {%das Selbst , die eigene Person.%} Häufig in der Function eines Pronoun reflex. {#AtmanA - akarot#} {%ipse fecit%} <ls>KĀD. 27,21.</ls> <ls>II,112,18.</ls> {#saMstamBayAtmAnamAtmanA#} {%ipsum ipse%} <ls>R. GORR. 2,53,38.</ls> {#Atma/n#} <ab>Loc.</ab> mit {#DA#} oder {#kar#} {%in sich aufnehmen , sich aneignen.%}
+; ----------------------------------------------------------
+; (1) <L>15894<pc>1188-1<k1>Ava
+; ----------------------------------------------------------
+73905 old {#Ava/#}¦ Pron. der 1ten P. <ab>Du.</ab> <ab>Nom.</ab> {#Ava/m#} und {#AvAm#} , <ab>Acc.</ab> {#AvA/m#}. <ab>Instr.</ab> <ab>Dat.</ab> <ab>Abl.</ab> {#Ava/ByAm#} <ab>Abl.</ab> auch {#Ava/t#} , <ab>Gen.</ab> <ab>Loc.</ab> {#Ava/yos#}.
+73905 new {#Ava/#}¦ Pronoun der 1ten P. <ab>Du.</ab> <ab>Nom.</ab> {#Ava/m#} und {#AvAm#} , <ab>Acc.</ab> {#AvA/m#}. <ab>Instr.</ab> <ab>Dat.</ab> <ab>Abl.</ab> {#Ava/ByAm#} <ab>Abl.</ab> auch {#Ava/t#} , <ab>Gen.</ab> <ab>Loc.</ab> {#Ava/yos#}.
+; ----------------------------------------------------------
+; (1) <L>17193<pc>1207-3<k1>ima
+; ----------------------------------------------------------
+80692 old {#ima/#}¦ Pron. {%dieser , — hier.%} Davon {#ima/m , imA/m , ima/sya ; imA/#} oder {#imO/ , ime/#} (<lex>f.</lex> <lex>n.</lex> ) ; {#ime/ , imA/s#} (<ab>Nom.</ab> <ab>Acc.</ab>) ,
+80692 new {#ima/#}¦ Pronoun {%dieser , — hier.%} Davon {#ima/m , imA/m , ima/sya ; imA/#} oder {#imO/ , ime/#} (<lex>f.</lex> <lex>n.</lex> ) ; {#ime/ , imA/s#} (<ab>Nom.</ab> <ab>Acc.</ab>) ,
+; ----------------------------------------------------------
+; (1) <L>17609<pc>1214-3<k1>u
+; ----------------------------------------------------------
+83005 old <div n="1">— 4) besonders beliebt nach einem Pron. demonstr. , relat. oder interrog. , nach einigen Partikeln und am Ende eines Stollens nach einem <ab>Infin.</ab> auf {#tavE#} ( {#tavA u#}). Meinstens nur durch eine stärkere Betonung wiederzugeben.
+83005 new <div n="1">— 4) besonders beliebt nach einem Pronoun demonstr. , relat. oder interrog. , nach einigen Partikeln und am Ende eines Stollens nach einem <ab>Infin.</ab> auf {#tavE#} ( {#tavA u#}). Meinstens nur durch eine stärkere Betonung wiederzugeben.
+; ----------------------------------------------------------
+; (1) <L>22212<pc>1271-3<k1>eta
+; ----------------------------------------------------------
+105379 old 1. {#eta/#}¦ Pron. (<lex>f.</lex> {#A/#}) {%dieser hier , dieser.%} Davon alle Casus mit Ausnahme des <ab>Nom.</ab> <ab>Sg.</ab> <lex>m.</lex> und <lex>f.</lex> Diese lauten {#eza(s)#} und {#ezA#}. Weist häufiger auf etwas Vorangehendes als auf etwas Folgendes hin. {#etasmin#} {%in diesem Falle%} <ls>308,14.</ls> {#eza yAti SivaH panTAH#} {%hier geht%} , {#eza kAlaH#} {%jetzt ist die Zeit.%} {#ezatvAM nayAmi#} {#svargam#} {%wie ich hier stehe , stracks.%} Congruirt als Subject in genere und numero in der Regel mit dem Prädicat ohne Rücksicht auf das zu ergänzende Nomen. Häufig mit andern Demonstrativen , mit dem Relativum und Interrogativum verbunden , und wie {#ta#} in Correlation mit dem Relativum. {#etena#} — {#yatas#} {%deshalb - weil.%}
+105379 new 1. {#eta/#}¦ Pronoun (<lex>f.</lex> {#A/#}) {%dieser hier , dieser.%} Davon alle Casus mit Ausnahme des <ab>Nom.</ab> <ab>Sg.</ab> <lex>m.</lex> und <lex>f.</lex> Diese lauten {#eza(s)#} und {#ezA#}. Weist häufiger auf etwas Vorangehendes als auf etwas Folgendes hin. {#etasmin#} {%in diesem Falle%} <ls>308,14.</ls> {#eza yAti SivaH panTAH#} {%hier geht%} , {#eza kAlaH#} {%jetzt ist die Zeit.%} {#ezatvAM nayAmi#} {#svargam#} {%wie ich hier stehe , stracks.%} Congruirt als Subject in genere und numero in der Regel mit dem Prädicat ohne Rücksicht auf das zu ergänzende Nomen. Häufig mit andern Demonstrativen , mit dem Relativum und Interrogativum verbunden , und wie {#ta#} in Correlation mit dem Relativum. {#etena#} — {#yatas#} {%deshalb - weil.%}
+; ----------------------------------------------------------
+; (1) <L>22261<pc>1272-2<k1>ena
+; ----------------------------------------------------------
+105617 old 1. {#ena#}¦ Pron. subst. der 3ten Person {%(er , sie , es.)%} Davon folgende oblique Casus: {#enam , enAm#} (einmal im <ls>ṚV.</ls> {#enA/m#} am Anfange eines Stollens). {#enad , enena , enayA ; enO , ene , enayos#} und {#enos#} (ved.): {#enAn#}
+105617 new 1. {#ena#}¦ Pronoun subst. der 3ten Person {%(er , sie , es.)%} Davon folgende oblique Casus: {#enam , enAm#} (einmal im <ls>ṚV.</ls> {#enA/m#} am Anfange eines Stollens). {#enad , enena , enayA ; enO , ene , enayos#} und {#enos#} (ved.): {#enAn#}
+; ----------------------------------------------------------
+; (2) <L>23118<pc>2001-1<k1>ka
+; ----------------------------------------------------------
+109554 old 1. {#ka/#}¦ Pron. interr. (<ab>Nom.</ab> <ab>Acc.</ab> <lex>n.</lex> {#ka/d#} , später {#ki/m#})
+109554 new 1. {#ka/#}¦ Pronoun interr. (<ab>Nom.</ab> <ab>Acc.</ab> <lex>n.</lex> {#ka/d#} , später {#ki/m#})
+; ..................................
+109558 old <div n="1">— 2) als Pron. indef. {%Jemand , irgendwer , was , — welcher.%} {#ya/tki/ma/karam#} <ls>28,25.</ls> <ls>ŚAT. BR. 1,7,3,19.</ls> Meistens in negativen Sätzen oder in Verbindung mit verschiedenen Partikeln.
+109558 new <div n="1">— 2) als Pronoun indef. {%Jemand , irgendwer , was , — welcher.%} {#ya/tki/ma/karam#} <ls>28,25.</ls> <ls>ŚAT. BR. 1,7,3,19.</ls> Meistens in negativen Sätzen oder in Verbindung mit verschiedenen Partikeln.
+; ----------------------------------------------------------
+; (1) <L>23779<pc>2009-1<k1>katama
+; ----------------------------------------------------------
+112918 old {#katama/#}¦ Pron. interr.
+112918 new {#katama/#}¦ Pronoun interr.
+; ----------------------------------------------------------
+; (1) <L>23782<pc>2009-1<k1>katara
+; ----------------------------------------------------------
+112934 old {#katara/#}¦ Pron. inter.
+112934 new {#katara/#}¦ Pronoun inter.
+; ----------------------------------------------------------
+; (1) <L>23784<pc>2009-1<k1>kati
+; ----------------------------------------------------------
+112945 old 1. {#ka/ti#}¦ Pron. interr.
+112945 new 1. {#ka/ti#}¦ Pronoun interr.
+; ----------------------------------------------------------
+; (1) <L>27802<pc>2064-3<k1>kiMcitka
+; ----------------------------------------------------------
+133722 old {#kiMcitka#}¦ Pron. indef. Mit vorangehendem {#ya#} {%jeglich , jeder beliebige%} <ls>AIT. BR. 2,9.</ls>
+133722 new {#kiMcitka#}¦ Pronoun indef. Mit vorangehendem {#ya#} {%jeglich , jeder beliebige%} <ls>AIT. BR. 2,9.</ls>
+; ----------------------------------------------------------
+; (1) <L>28109<pc>2068-3<k1>ku
+; ----------------------------------------------------------
+135279 old 1. {#ku#}¦ Pron. interr. in {#kutas#} <ab>u.s.w.</ab> Drückt am Anfange eines Comp. {%Mangel%} aus. <ab>Vgl.</ab> {#kU/#}.
+135279 new 1. {#ku#}¦ Pronoun interr. in {#kutas#} <ab>u.s.w.</ab> Drückt am Anfange eines Comp. {%Mangel%} aus. <ab>Vgl.</ab> {#kU/#}.
+; ----------------------------------------------------------
+; (1) <L>44029<pc>2284-3<k1>ta
+; ----------------------------------------------------------
+217313 old <div n="1">— 1) <lex>Adj.</lex> <ab>Subst.</ab> {%der (als Correl. von {#ya#} , des in das Regel vorangeht%}) , {%dieser , er.%} Nicht selten in Verbindung mit dem Pron. oder einem Verbum fin. der 1ten oder 2ten Person , mit einem andern Demonstr. und dem Relat. (in demselben Satze). nach einem Substantiv hebt es dieses in irgend einer Beziehung hervor. <ls>MBH. 3,67,10</ls> ist {#tasya mandasya#} so <ab>v.a.</ab> {#mamama°#}. Wiederholt {%dieser und jener , mannichfach , jeglich , respective dieser oder jener.%} {#tenEva tenEva paTA#} {%ganz auf demselben Wege.%} In Verbindung mit dem Relat. in demselben Satze (mit oder ohne {#vA#} nach jedem Pron.) {%welcher immer , der erste beste , jeglich.%} Wiederholt in Correl. mit dem einfachen oder wiederholten Relat. {%welcher immer , wer immer - der.%} Statt des zweiten Relativs auch 1. {#ka#} mit {#cid#} , in welchem Falle auch ein einfaches {#ta#} folgt. {#tadyaTA#} {%damit verhält es sich wie folgt , nämlich.%}
+217313 new <div n="1">— 1) <lex>Adj.</lex> <ab>Subst.</ab> {%der (als Correl. von {#ya#} , des in das Regel vorangeht%}) , {%dieser , er.%} Nicht selten in Verbindung mit dem Pronoun oder einem Verbum fin. der 1ten oder 2ten Person , mit einem andern Demonstr. und dem Relat. (in demselben Satze). nach einem Substantiv hebt es dieses in irgend einer Beziehung hervor. <ls>MBH. 3,67,10</ls> ist {#tasya mandasya#} so <ab>v.a.</ab> {#mamama°#}. Wiederholt {%dieser und jener , mannichfach , jeglich , respective dieser oder jener.%} {#tenEva tenEva paTA#} {%ganz auf demselben Wege.%} In Verbindung mit dem Relat. in demselben Satze (mit oder ohne {#vA#} nach jedem Pronoun) {%welcher immer , der erste beste , jeglich.%} Wiederholt in Correl. mit dem einfachen oder wiederholten Relat. {%welcher immer , wer immer - der.%} Statt des zweiten Relativs auch 1. {#ka#} mit {#cid#} , in welchem Falle auch ein einfaches {#ta#} folgt. {#tadyaTA#} {%damit verhält es sich wie folgt , nämlich.%}
+; ----------------------------------------------------------
+; (2) <L>44380<pc>3007-3<k1>tanu
+; ----------------------------------------------------------
+219220 old <div n="2">— c) {%die eigene Person , das Selbst%} (häufig die Stelle des Pron. reflex. vertretend).
+219220 new <div n="2">— c) {%die eigene Person , das Selbst%} (häufig die Stelle des Pronoun reflex. vertretend).
+; ..................................
+219222 old <div n="2">— c) {%die eigene Person , das Selbst%} (häufig die Stelle des Pron. reflex. vertretend).
+219222 new <div n="2">— c) {%die eigene Person , das Selbst%} (häufig die Stelle des Pronoun reflex. vertretend).
+; ----------------------------------------------------------
+; (1) <L>44988<pc>3018-2<k1>tarhi
+; ----------------------------------------------------------
+222745 old {#ta/rhi#}¦ <ab>Adv.</ab> {%zu der Zeit , damals , in dem Augenblicke , dann , alsdann , in dem Falle.%} In der Bed. {%dann , in dem Falle%} besonders beliebt in Verbindung mit einem Imperat. oder einem Pron. interr. (<ls>243,11</ls>). Die Correlativa sind {#ya/d , yadA/ , ya/rhi , ya/tra , yadi#} (einmal {#tarhi tadA#} und {#ced#}.
+222745 new {#ta/rhi#}¦ <ab>Adv.</ab> {%zu der Zeit , damals , in dem Augenblicke , dann , alsdann , in dem Falle.%} In der Bed. {%dann , in dem Falle%} besonders beliebt in Verbindung mit einem Imperat. oder einem Pronoun interr. (<ls>243,11</ls>). Die Correlativa sind {#ya/d , yadA/ , ya/rhi , ya/tra , yadi#} (einmal {#tarhi tadA#} und {#ced#}.
+; ----------------------------------------------------------
+; (1) <L>47183<pc>3045-3<k1>tya
+; ----------------------------------------------------------
+233523 old {#tya/#}¦ und {#tia/#} Pron. {%jener , jener bekannte%} ; öfters abgeschwächt zum Artikel. Wird durch {#cid#} hervorgehoben ; beliebt ist die Stellung nach {#uta#} am Anfange eines Satzes ; auch mit andern Demonstrativen verbunden. {#tya/sya#} so <ab>v.a.</ab> {#ma/ma#}. Neben {#sacca tyacca#} auch {#sa/cca tya/M ca#} (wegen {#satyam#} , das in {#sat#} + {#tyam#} zerlegt wird). <ab>Vgl.</ab> auch {#tya/d#}.
+233523 new {#tya/#}¦ und {#tia/#} Pronoun {%jener , jener bekannte%} ; öfters abgeschwächt zum Artikel. Wird durch {#cid#} hervorgehoben ; beliebt ist die Stellung nach {#uta#} am Anfange eines Satzes ; auch mit andern Demonstrativen verbunden. {#tya/sya#} so <ab>v.a.</ab> {#ma/ma#}. Neben {#sacca tyacca#} auch {#sa/cca tya/M ca#} (wegen {#satyam#} , das in {#sat#} + {#tyam#} zerlegt wird). <ab>Vgl.</ab> auch {#tya/d#}.
+; ----------------------------------------------------------
+; (1) <L>56513<pc>3176-2<k1>nanu
+; ----------------------------------------------------------
+280387 old <div n="1">— 2) {%nonne , ja (unbetont) , doch wohl.%} Mit einem Imper. oder einem Pron. interr. {%doch.%} {#*nanu gacCAmi#} {%ich kann doch wohl gehen?%} {#*akArzIH kim nanu karomi#} {%hast du es gethan? Ich habe es ja gethan.%} In der Verbindung {#nanvastu - taTApi#} und {#nanu mA BUt - taTApi#} gehört {#nanu#} zu dem mit {#taTApi#} beginnenden Nachsatz. {#nanu ca#} am Anfange eines Satzes {%doch wohl%} <ls>228,19</ls> (hier folgt {#na tu#}). <ls>232,2.</ls>
+280387 new <div n="1">— 2) {%nonne , ja (unbetont) , doch wohl.%} Mit einem Imper. oder einem Pronoun interr. {%doch.%} {#*nanu gacCAmi#} {%ich kann doch wohl gehen?%} {#*akArzIH kim nanu karomi#} {%hast du es gethan? Ich habe es ja gethan.%} In der Verbindung {#nanvastu - taTApi#} und {#nanu mA BUt - taTApi#} gehört {#nanu#} zu dem mit {#taTApi#} beginnenden Nachsatz. {#nanu ca#} am Anfange eines Satzes {%doch wohl%} <ls>228,19</ls> (hier folgt {#na tu#}). <ls>232,2.</ls>
+; ----------------------------------------------------------
+; (1) <L>57903<pc>3196-1<k1>nAman
+; ----------------------------------------------------------
+287385 old <div n="2">— d) nach einem Pron. interr. {%doch , wohl.%}
+287385 new <div n="2">— d) nach einem Pronoun interr. {%doch , wohl.%}
+; ----------------------------------------------------------
+; (1) <L>58411<pc>3202-3<k1>nija
+; ----------------------------------------------------------
+289880 old <div n="2">— c) {%eigen.%} Ist häufig auf eine andere Person als des Subject zu beziehen und , namentlich in der späteren Literatur , so abgeschwächt , dass es durch ein entsprechendes Pron. poss. wiederzugeben ist.
+289880 new <div n="2">— c) {%eigen.%} Ist häufig auf eine andere Person als des Subject zu beziehen und , namentlich in der späteren Literatur , so abgeschwächt , dass es durch ein entsprechendes Pronoun poss. wiederzugeben ist.
+; ----------------------------------------------------------
+; (1) <L>89314<pc>5113-3<k1>ya
+; ----------------------------------------------------------
+445106 old 1. {#ya/#}¦ Pron. rel. (<lex>f.</lex> {#A/#})
+445106 new 1. {#ya/#}¦ Pronoun rel. (<lex>f.</lex> {#A/#})
+; ----------------------------------------------------------
+; (1) <L>89316<pc>5114-1<k1>yaka
+; ----------------------------------------------------------
+445132 old {#yaka/#}¦ Pron. rel. (<lex>f.</lex> {#yakA/#}) = {#ya/#} {%wer , welcher%} <ls>HEM. PAR. 2,231.</ls>
+445132 new {#yaka/#}¦ Pronoun rel. (<lex>f.</lex> {#yakA/#}) = {#ya/#} {%wer , welcher%} <ls>HEM. PAR. 2,231.</ls>
+; ----------------------------------------------------------
+; (1) <L>116497<pc>7001-1<k1>sa
+; ----------------------------------------------------------
+585159 old 1. {#sa/#}¦ Pron. {%dieser , der%} (auch zum Artikel abgeschwächt) ; {%er , sie.%} Nur <ab>Nom.</ab> <ab>Sg.</ab> <lex>m.</lex> und <lex>f.</lex> ( {#sA/#}) und im <ls>ṚV.</ls> der <ab>Loc.</ab> {#sa/smin#}. Vor Consonanten fehlt das Casuszeichen im <ab>Nom.</ab> <lex>m.</lex> , erhalten hat es sich vor {#par#} nur {#pa#} nur <ls>ṚV. 5,2,4</ls> und vor {#ta#} nur <ab>ebend.</ab> <ls>8,33,16</ls> und <ls>HARIV. 11357</ls> (hier jedoch <ab>v.l.</ab>): mit einem folgenden Vocal verschmilzt bisweilen das {#a#} von {#sa#}. {#sA/#} metrisch für {#sa/#} <ls>ṚV. 1,145,1.</ls> Dieses Pronomen wird oft durch ein anderes Pron. der dritten Person ( {#eza/#} , {#ezA/#} , {#aya/m#} , {#iya/m#} , {#BavAn#}) verstärkt und verbindet sich {%hinweisend%} auch mit der ersten und zweiten Person <ab>Sg.</ab> (mit und ohne {#aha/m#} oder {#tva/m#}) {#so#} (tonlos) {#'ha/m#} <ls>VS. 18,35.</ls> <ls>MAITR. S. 2,12,1.</ls> {#so^ 'ha/m#} <ls>TS. 4,7,12,3.</ls> Im <is>Brāhmaṇa</is> ist die Verbindung mit einem Rel. ( {#ya/H#} , {#ya/d#} , {#ya/di#} , {#ya/TA#}) am Anfange eines Satzes beliebt. Aus diesem Gebrauch , wobei der Satzanfang wie zur festen Formel wurde , entspringt der andere , gleichfalls im <is>Brāhmaṇa</is>. <ab>dass.</ab> {#sa#} vor einem Rel. auch in Fällen bleibt , wo die Construction ein anderes Genus und einen anderen Numerus verlangt , oder wo es vollkommen pleonastisch ist. Ein solches pleonastisches {#sa#} findet sich in buddhistischen Schriften am Anfange eines Satzes vor {#ced#} , so z.B. <ls>VAJRACCH. 17,12. 21,3. 31,14. 36,3.</ls> <ls>SUKHĀV. 11,9. fgg.</ls> Im <is>Sāṃkhya</is> bezeichnet {#sa#} wie {#eza#} , {#ka#} und {#ya#} auch den <is>Puruṣa</is>.
+585159 new 1. {#sa/#}¦ Pronoun {%dieser , der%} (auch zum Artikel abgeschwächt) ; {%er , sie.%} Nur <ab>Nom.</ab> <ab>Sg.</ab> <lex>m.</lex> und <lex>f.</lex> ( {#sA/#}) und im <ls>ṚV.</ls> der <ab>Loc.</ab> {#sa/smin#}. Vor Consonanten fehlt das Casuszeichen im <ab>Nom.</ab> <lex>m.</lex> , erhalten hat es sich vor {#par#} nur {#pa#} nur <ls>ṚV. 5,2,4</ls> und vor {#ta#} nur <ab>ebend.</ab> <ls>8,33,16</ls> und <ls>HARIV. 11357</ls> (hier jedoch <ab>v.l.</ab>): mit einem folgenden Vocal verschmilzt bisweilen das {#a#} von {#sa#}. {#sA/#} metrisch für {#sa/#} <ls>ṚV. 1,145,1.</ls> Dieses Pronomen wird oft durch ein anderes Pronoun der dritten Person ( {#eza/#} , {#ezA/#} , {#aya/m#} , {#iya/m#} , {#BavAn#}) verstärkt und verbindet sich {%hinweisend%} auch mit der ersten und zweiten Person <ab>Sg.</ab> (mit und ohne {#aha/m#} oder {#tva/m#}) {#so#} (tonlos) {#'ha/m#} <ls>VS. 18,35.</ls> <ls>MAITR. S. 2,12,1.</ls> {#so^ 'ha/m#} <ls>TS. 4,7,12,3.</ls> Im <is>Brāhmaṇa</is> ist die Verbindung mit einem Rel. ( {#ya/H#} , {#ya/d#} , {#ya/di#} , {#ya/TA#}) am Anfange eines Satzes beliebt. Aus diesem Gebrauch , wobei der Satzanfang wie zur festen Formel wurde , entspringt der andere , gleichfalls im <is>Brāhmaṇa</is>. <ab>dass.</ab> {#sa#} vor einem Rel. auch in Fällen bleibt , wo die Construction ein anderes Genus und einen anderen Numerus verlangt , oder wo es vollkommen pleonastisch ist. Ein solches pleonastisches {#sa#} findet sich in buddhistischen Schriften am Anfange eines Satzes vor {#ced#} , so z.B. <ls>VAJRACCH. 17,12. 21,3. 31,14. 36,3.</ls> <ls>SUKHĀV. 11,9. fgg.</ls> Im <is>Sāṃkhya</is> bezeichnet {#sa#} wie {#eza#} , {#ka#} und {#ya#} auch den <is>Puruṣa</is>.
+; ----------------------------------------------------------
+; (1) <L>119775<pc>7052-3<k1>sama
+; ----------------------------------------------------------
+601514 old 1. {#sama#}¦ Pron.
+601514 new 1. {#sama#}¦ Pronoun
+; ----------------------------------------------------------
+; (1) <L>123352<pc>7106-3<k1>sA
+; ----------------------------------------------------------
+619276 old 4. {#sA/#}¦ Pron. <lex>f.</lex> <ab>s.u.</ab> 1. {#sa#}.
+619276 new 4. {#sA/#}¦ Pronoun <lex>f.</lex> <ab>s.u.</ab> 1. {#sa#}.
+; ----------------------------------------------------------
+; (1) <L>131955<pc>7230-3<k1>sva
+; ----------------------------------------------------------
+662843 old <div n="1">— 2) <lex>m.</lex> <lex>n.</lex> {%die eigene Person , das Selbst , das Ich%} ; in den obliquen Casus als Pron. refl. verwendet , auch mit Zurückbeziehung auf Unbelebtes. {#svaM ca brahma ca#} {%ein Ich und <is>Brahman</is>.%} {#na svaM Sikzayasi svayam#} {%dich selbst%} <ls>HEM. PAR. 1,332.</ls> {#svaM nindantaH#} {%sich selbst tadelnd%} <ls>UTTAMAC. 195.</ls> {#sEnikAH#} {#svAnyavartanta#} {%die Krieger kümmerten sich%} (nur) {%um sich.%} {#svapratipannezu kuryodanugraham#} {%er erweise Gnade denen , die zu ihm seine <sic/> Zuflucht genommen haben%} , <ls>MBH. 3,150,48.</ls>
+662843 new <div n="1">— 2) <lex>m.</lex> <lex>n.</lex> {%die eigene Person , das Selbst , das Ich%} ; in den obliquen Casus als Pronoun refl. verwendet , auch mit Zurückbeziehung auf Unbelebtes. {#svaM ca brahma ca#} {%ein Ich und <is>Brahman</is>.%} {#na svaM Sikzayasi svayam#} {%dich selbst%} <ls>HEM. PAR. 1,332.</ls> {#svaM nindantaH#} {%sich selbst tadelnd%} <ls>UTTAMAC. 195.</ls> {#sEnikAH#} {#svAnyavartanta#} {%die Krieger kümmerten sich%} (nur) {%um sich.%} {#svapratipannezu kuryodanugraham#} {%er erweise Gnade denen , die zu ihm seine <sic/> Zuflucht genommen haben%} , <ls>MBH. 3,150,48.</ls>
+; ----------------------------------------------------------
+; (1) <L>132949<pc>7244-1<k1>svAtman
+; ----------------------------------------------------------
+667541 old {#svAtman#}¦ <lex>m.</lex> {%das eigene Selbst%} (als Pron. reflex. fungiren) , {%sein eigenes Wesen.%}
+667541 new {#svAtman#}¦ <lex>m.</lex> {%das eigene Selbst%} (als Pronoun reflex. fungiren) , {%sein eigenes Wesen.%}
