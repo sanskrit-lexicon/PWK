@@ -22,9 +22,9 @@ def make_changes(entries):
   for iline,line in enumerate(entry.datalines):
    x = re.findall(r'{%[^%]+{#.+#}', line)
    if (x):
-   	line1 = line
-   	pattern = '({#.+#})'
-   	repl = r'%} \1 {%'
+    line1 = line
+    pattern = '({#.+#})'
+    repl = r'%} \1 {%'
     newline = re.sub(pattern,repl,line1)
     if newline == line:
     # Our replacement didn't change the line. Don't generate a change
