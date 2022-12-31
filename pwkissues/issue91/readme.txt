@@ -20,3 +20,5 @@ We don't really want to do this, it's just an example.
 python change_sample.py temp_pw_0.txt change_sample.txt
 # apply changes
 python updateByLine.py temp_pw_0.txt change_sample.txt temp_pw_sample.txt
+---------------------------------------------------------
+# change_1.py usage:
