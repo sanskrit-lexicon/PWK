@@ -22,3 +22,4 @@ python change_sample.py temp_pw_0.txt change_sample.txt
 python updateByLine.py temp_pw_0.txt change_sample.txt temp_pw_sample.txt
 ---------------------------------------------------------
 # change_1.py usage:
+python change_1.py temp_pw_0.txt change_1.txt

@@ -11,30 +11,31 @@ class Change(object):
   # the old line is entry.datalines[iline]
   self.newline = newline # the new line
 
+def change_line(line):
+ x = re.findall(r'{%[^%]+{#.+#}', line)
+ if x is None:
+  newline = line
+ else:
+  line1 = line
+  pattern = r'({#.+#})'
+  repl = r'%} \1 {%'
+  newline = re.sub(pattern,repl,line1)
+ return newline
+
 def make_changes(entries):
  # add 'changes' attribute to each each entry.
  # changes will be a list of Change objects.
  n = 0
  for entry in entries:
   changes = []
-  # metaline = entry.metaline
-  # lnummeta = entry.linenum1
-  for iline,line in enumerate(entry.datalines):
-   x = re.findall(r'{%[^%]+{#.+#}', line)
-   if x is None:
-    newline = line
-   else:
-    line1 = line
-    pattern = r'({#.+#})'
-    repl = r'%} \1 {%'
-    newline = re.sub(pattern,repl,line1)
-   if newline == line:
+  newline = change_line(line)
+  if newline == line:
     # Our replacement didn't change the line. Don't generate a change
-    continue
+   continue
    # Our replacement DID change the line. DO generate a Change object
-    change = Change(iline,newline)
+   change = Change(iline,newline)
    # Append change to list of changes for this entry
-    changes.append(change)
+   changes.append(change)
   # bottome of for iline loop
   # add the 'changes' attribute to the entry
   entry.changes = changes
