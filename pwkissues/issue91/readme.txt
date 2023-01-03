@@ -49,8 +49,15 @@ diff result1.txt result2.txt
 # test3.py actually does the same thing as test2.py,
 #  but without surplus function re.findall
 # The input test3.txt is identical to test1.txt and to test2.txt
-# The program constructs result2.txt
+# The program constructs result3.txt
 python test3.py test1.txt result3.txt
+---------------------------------------------------------
+# test4.py usage
+# Modify write_lines to show both lines and newlines, for easy comparison
+# Change_one_line is the same as in test3.py
+# We reuse the input file test1.txt
+# The program constructs result4.txt
+python test4.py test1.txt result4.txt
 ---------------------------------------------------------
 ---------------------------------------------------------
 # change_1.py usage:
