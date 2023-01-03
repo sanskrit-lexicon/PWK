@@ -44,6 +44,13 @@ diff result1.txt result2.txt
 # If (as in this case) there are NO differences between
 # result1.txt and result2.txt, then NOTHING will be printed to terminal!
 ---------------------------------------------------------
+# test3.py usage
+# A minor refactoring  (rearrangement) of test2.py.
+# test3.py actually does the same thing as test2.py,
+#  but without surplus function re.findall
+# The input test3.txt is identical to test1.txt and to test2.txt
+# The program constructs result2.txt
+python test3.py test1.txt result3.txt
 ---------------------------------------------------------
 ---------------------------------------------------------
 # change_1.py usage:

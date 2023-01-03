@@ -28,14 +28,15 @@ def make_changes(entries):
  n = 0
  for entry in entries:
   changes = []
-  newline = change_line(line)
-  if newline == line:
+  for iline,line in enumerate(entry.datalines):
+   newline = change_line(line)
+   if newline == line:
     # Our replacement didn't change the line. Don't generate a change
-   continue
+    continue
    # Our replacement DID change the line. DO generate a Change object
-   change = Change(iline,newline)
+    change = Change(iline,newline)
    # Append change to list of changes for this entry
-   changes.append(change)
+    changes.append(change)
   # bottome of for iline loop
   # add the 'changes' attribute to the entry
   entry.changes = changes
