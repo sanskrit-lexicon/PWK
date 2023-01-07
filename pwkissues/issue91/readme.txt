@@ -59,6 +59,16 @@ python test3.py test1.txt result3.txt
 # The program constructs result4.txt
 python test4.py test1.txt result4.txt
 ---------------------------------------------------------
+# test5.py usage
+# Use re.search to learn about 'match-groups'
+python test5.py "PATTERN" "LINE"
+Program executes 'm = re.search(PATTERN,LINE)'
+ The value of 'm' is either NONE or a Match object.
+ program prints the substring of LINE matching PATTERN,
+ and, if there are groups in PATTERN, information about the groups.
+ PATTERN has a 'group' if there is a sub-pattern enclosed in parens,
+   Example PATTERN = "(dog|cat).*(runs|jumps)"  has two groups
+---------------------------------------------------------
 ---------------------------------------------------------
 # change_1.py usage:
 python change_1.py temp_pw_0.txt change_1.txt
