@@ -69,6 +69,11 @@ Program executes 'm = re.search(PATTERN,LINE)'
  PATTERN has a 'group' if there is a sub-pattern enclosed in parens,
    Example PATTERN = "(dog|cat).*(runs|jumps)"  has two groups
 ---------------------------------------------------------
+# test6.py usage
+# A minor refactoring  (rearrangement) of test4.py.
+# But now we use more flexible patterns
+# This program constructs the 'DIFFERENT' lines by more otimal way
+python test6.py test1.txt result6.txt
 ---------------------------------------------------------
 # change_1.py usage:
 python change_1.py temp_pw_0.txt change_1.txt

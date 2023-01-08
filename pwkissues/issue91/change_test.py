@@ -1,5 +1,5 @@
 # coding=utf-8
-""" change_1.py
+""" change_test.py
 """
 from __future__ import print_function
 import sys, re,codecs
@@ -12,14 +12,9 @@ class Change(object):
   self.newline = newline # the new line
 
 def change_line(line):
- x = re.findall(r'{%[^%]+{#.+#}', line)
- if x is None:
-  newline = line
- else:
-  line1 = line
-  pattern = r'({#.+#})'
-  repl = r'%} \1 {%'
-  newline = re.sub(pattern,repl,line1)
+ pattern = r'{%(.+\S)(.*\s?{#.+#}.*\s)(.+)%}'
+ repl = r'{%\1%}\2{%\3%}'
+ newline = re.sub(pattern,repl,line)
  return newline
 
 def make_changes(entries):

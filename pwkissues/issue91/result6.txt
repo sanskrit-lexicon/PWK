@@ -1,0 +1,24 @@
+; line 1: newline and oldline are DIFFERENT
+OLDLINE old = '1) {%erfreuen. {#anumodita#} erfreut.%} ddddd
+NEWLINE old = '1) {%erfreuen.%} {#anumodita#} {%erfreut.%} ddddd
+; -----------------------------------------------------
+; line 2: newline and oldline are SAME
+OLDLINE 
+NEWLINE 
+; -----------------------------------------------------
+; line 3: newline and oldline are DIFFERENT
+OLDLINE oldffff = '2) {%erfreuen. {#anumodita#} erfreut.%} ddddd
+NEWLINE oldffff = '2) {%erfreuen.%} {#anumodita#} {%erfreut.%} ddddd
+; -----------------------------------------------------
+; line 4: newline and oldline are DIFFERENT
+OLDLINE old = '1) {%erfreuen. {#anumodita#} erfreut.%}
+NEWLINE old = '1) {%erfreuen.%} {#anumodita#} {%erfreut.%}
+; -----------------------------------------------------
+; line 5: newline and oldline are DIFFERENT
+OLDLINE old = '1) {%erfreuen.% {#anumodita#} erfreut.%} %ddddd%
+NEWLINE old = '1) {%erfreuen.%%} {#anumodita#} {%erfreut.%} %ddddd%
+; -----------------------------------------------------
+; line 6: newline and oldline are SAME
+OLDLINE sssssssssssf
+NEWLINE sssssssssssf
+; -----------------------------------------------------
