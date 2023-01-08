@@ -1,0 +1,53 @@
+; **********************************************************
+; change_test1.txt  (10 changes in 10 entries) 
+; **********************************************************
+; ----------------------------------------------------------
+; (1) <L>2<pc>1001-1<k1>a
+; ----------------------------------------------------------
+11 old 2. {#a°#}¦ vor Consonanten , {#an°#} vor Vocalen = <lang n="greek">ἀ, ἀν</lang> priv. {#abrAhmaRa#} {%kein Brahman%} , {#anaDyAya#} {%kein Lesen%} , {#asveda#} {%schweisslos%} , {#anaNga#} {%körperlos%} , {#aSuci#} {%unrein%} , {#atarha#} {%unwürdig%} , {#akftvA#} {%nicht gethan habend%} , {#anarcitum#} (selten) {%nicht ehren%} , {#aspfhayanti#} (<ls>BHĀG. P.</ls> <ls>ŚIŚ. 15,33</ls>) {%sie begehren nicht.%}
+11 new 2. {#a°#}¦ vor Consonanten , {#an°#} vor Vocalen = <lang n="greek">ἀ, ἀν</lang> priv. {#abrAhmaRa#} [[{%kein Brahman%} , {#anaDyAya#} {%kein Lesen%} , {#asveda#} {%schweisslos%} , {#anaNga#} {%körperlos%} , {#aSuci#} {%unrein%} , {#atarha#} {%unwürdig%} , {#akftvA#} {%nicht gethan habend%} , {#anarcitum#} (selten) {%nicht ehren%} ,%} {#aspfhayanti#} (<ls>BHĀG. P.</ls> <ls>ŚIŚ. 15,33</ls>) {%sie begehren {%nicht.%}]]
+; ----------------------------------------------------------
+; (1) <L>42<pc>1001-2<k1>aMsaBAra
+; ----------------------------------------------------------
+207 old {#*aMsaBAra#}¦ <lex>m.</lex> {%Schulterlast.%} {#*°BArika#} <lex>Adj.</lex> {%auf der Schulter eine Last tragend.%}
+207 new {#*aMsaBAra#}¦ <lex>m.</lex> [[{%Schulterlast.%}%} {#*°BArika#} <lex>Adj.</lex> {%auf der Schulter eine Last {%tragend.%}]]
+; ----------------------------------------------------------
+; (1) <L>123<pc>1002-2<k1>akARqa
+; ----------------------------------------------------------
+580 old {#akARqa#}¦ <lex>Adj.</lex> {%ohne wahrnehmbare Veranlassung erscheinend , unerwartet.%} {#akARqe#} {%ohne wahrnehmbare Veranlassung , unerwartet , plötzlich.%}
+580 new {#akARqa#}¦ <lex>Adj.</lex> [[{%ohne wahrnehmbare Veranlassung erscheinend , unerwartet.%}%} {#akARqe#} {%ohne wahrnehmbare Veranlassung , unerwartet , {%plötzlich.%}]]
+; ----------------------------------------------------------
+; (1) <L>134<pc>1002-2<k1>akAraRa
+; ----------------------------------------------------------
+627 old 1. {#akAraRa#}¦ <lex>n.</lex> {%kein Grund.%} {#°RAtU , °Rena#} und {#°Re#} (<ls>305,22. 317,2. 325,11</ls>) {%ohne Veranlassung , — Grund.%} {#akAraRa°#} <ab>dass.</ab> <ls>177,23.</ls>
+627 new 1. {#akAraRa#}¦ <lex>n.</lex> [[{%kein Grund.%} {#°RAtU , °Rena#} und%} {#°Re#} (<ls>305,22. 317,2. 325,11</ls>) {%ohne Veranlassung , — {%Grund.%}]] {#akAraRa°#} <ab>dass.</ab> <ls>177,23.</ls>
+; ----------------------------------------------------------
+; (1) <L>140<pc>1002-3<k1>akArya
+; ----------------------------------------------------------
+653 old <div n="1">— 1) {%was nicht gethan werden kann oder darf%} ; <lex>n.</lex> {%Unthat , eine unerlaubte Handlung%} <ls>41,25. 26. 46,10. 181,23. 315,32.</ls> {#°tama#} {%was vor Allem nicht gethan werden darf.%}
+653 new <div n="1">— 1) [[{%was nicht gethan werden kann oder darf%} ; <lex>n.</lex> {%Unthat , eine unerlaubte Handlung%} <ls>41,25. 26. 46,10. 181,23. 315,32.</ls>%} {#°tama#} {%was vor Allem nicht gethan werden {%darf.%}]]
+; ----------------------------------------------------------
+; (1) <L>143<pc>1002-3<k1>akAla
+; ----------------------------------------------------------
+666 old {#akAla#}¦ <lex>m.</lex> {%Unzeit%}: {#°le#} {%zur Unzeit , ausser der Zeit%} ; {#°latas#} <ab>dass.</ab> <ls>170,18.</ls> {#akAla°#} <ab>dass.</ab> <ab>ebend.</ab>
+666 new {#akAla#}¦ <lex>m.</lex> [[{%Unzeit%}:%} {#°le#} {%zur Unzeit , ausser der {%Zeit%}]] ; {#°latas#} <ab>dass.</ab> <ls>170,18.</ls> {#akAla°#} <ab>dass.</ab> <ab>ebend.</ab>
+; ----------------------------------------------------------
+; (1) <L>160<pc>1002-3<k1>akIrti
+; ----------------------------------------------------------
+736 old {#akIrti#}¦ <lex>f.</lex> {%Unehre , Schande%} <ls>Spr. 7710</ls> (<ab>Pl.</ab>). {#°kara#} <lex>Adj.</lex> {%Schande bringend%} <ls>Chr. 160,17.</ls>
+736 new {#akIrti#}¦ <lex>f.</lex> [[{%Unehre , Schande%} <ls>Spr. 7710</ls> (<ab>Pl.</ab>).%} {#°kara#} <lex>Adj.</lex> {%Schande {%bringend%}]] <ls>Chr. 160,17.</ls>
+; ----------------------------------------------------------
+; (1) <L>221<pc>1003-2<k1>aktu
+; ----------------------------------------------------------
+1017 old <div n="1">— 2) {%Dunkel , Nacht.%} {#aktu/Bis#} {%bei Nacht%} <ls>9,25.</ls>
+1017 new <div n="1">— 2) [[{%Dunkel , Nacht.%}%} {#aktu/Bis#} {%bei {%Nacht%}]] <ls>9,25.</ls>
+; ----------------------------------------------------------
+; (1) <L>228<pc>1003-3<k1>akrama
+; ----------------------------------------------------------
+1049 old 1. {#akrama#}¦ <lex>m.</lex> {%gestörte Ordnung , Ungehörigkeit , Verkehrtheit%} <ls>Spr. 1103.</ls> <ls>BHĀG. P. 4,16,7.</ls> {#akramAt#} {%gegen alle Ordnung , widernatürlich.%}
+1049 new 1. {#akrama#}¦ <lex>m.</lex> [[{%gestörte Ordnung , Ungehörigkeit , Verkehrtheit%} <ls>Spr. 1103.</ls> <ls>BHĀG. P. 4,16,7.</ls>%} {#akramAt#} {%gegen alle Ordnung , {%widernatürlich.%}]]
+; ----------------------------------------------------------
+; (1) <L>246<pc>1003-3<k1>aklIba
+; ----------------------------------------------------------
+1129 old {#aklIba#}¦ <lex>Adj.</lex> {%männlich.%} Davon {#°tA#} <lex>f.</lex> {%männliches Benehmen.%}
+1129 new {#aklIba#}¦ <lex>Adj.</lex> [[{%männlich.%} Davon%} {#°tA#} <lex>f.</lex> {%männliches {%Benehmen.%}]]

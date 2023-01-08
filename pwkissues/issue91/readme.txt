@@ -75,5 +75,11 @@ Program executes 'm = re.search(PATTERN,LINE)'
 # This program constructs the 'DIFFERENT' lines by more otimal way
 python test6.py test1.txt result6.txt
 ---------------------------------------------------------
+# change_test1.py usage:
+# limit number of changes to 10.  Add temporary [[...]] markup to
+# changed lines, so we can more easily identify what our patterns
+# are finding. 
+python change_test1.py temp_pw_0.txt change_test1.txt
+---------------------------------------------------------
 # change_1.py usage:
 python change_1.py temp_pw_0.txt change_1.txt
