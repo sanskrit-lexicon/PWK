@@ -75,6 +75,20 @@ Program executes 'm = re.search(PATTERN,LINE)'
 # This program constructs the 'DIFFERENT' lines by more otimal way
 python test6.py test1.txt result6.txt
 ---------------------------------------------------------
+# test7.py usage
+# first attempt to use a function as 2nd ('repl') argument of re.sub
+# program does not work quite right, mainly because of function
+# FUNCTION_new_pattern.
+python test7.py test1.txt result7.txt
+---------------------------------------------------------
+# test8.py usage
+# revision of test7, correcting FUNCTION_new_pattern
+# FUNCTION_new_pattern.
+# also slightly changed the pattern and repl in FUNCTION_new_pattern
+python test8.py test8.txt result8.txt
+# Also, run test8 with a new test file (test8a.txt)
+python test8.py test8a.txt result8a.txt
+---------------------------------------------------------
 # change_test1.py usage:
 # limit number of changes to 10.  Add temporary [[...]] markup to
 # changed lines, so we can more easily identify what our patterns

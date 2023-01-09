@@ -1,0 +1,16 @@
+; line 1: newline and oldline are DIFFERENT
+OLDLINE 1. {#aRyanta#} <lex>Adj.</lex> {%nicht mit dem Character des Causativs {#i#} versehen%} <ls>225,23.</ls>
+NEWLINE 1. {#aRyanta#} <lex>Adj.</lex> {%nicht mit dem Character des Causativs%} {#i#} {%versehen%} <ls>225,23.</ls>
+; -----------------------------------------------------
+; line 2: newline and oldline are DIFFERENT
+OLDLINE 2. <lex>Adj.</lex> {%mit {#A#} versehen.%}
+NEWLINE 2. <lex>Adj.</lex> {%mit%} {#A#} {%versehen.%}
+; -----------------------------------------------------
+; line 3: newline and oldline are DIFFERENT
+OLDLINE 3. {%der mit {#Avis#} und {#Avitta#} beginnenden Formeln in%} <ls>VS. 10,9.</ls>
+NEWLINE 3. {%der mit%} {#Avis#} {%und%} {#Avitta#} {%beginnenden Formeln in%} <ls>VS. 10,9.</ls>
+; -----------------------------------------------------
+; line 4: newline and oldline are SAME
+OLDLINE 4. <lex>Adj.</lex> {%besessen von.%} {#madanAve#} {%verliebt%}
+NEWLINE 4. <lex>Adj.</lex> {%besessen von.%} {#madanAve#} {%verliebt%}
+; -----------------------------------------------------

@@ -1,0 +1,53 @@
+; **********************************************************
+; change_test2.txt  (10 changes in 10 entries) 
+; **********************************************************
+; ----------------------------------------------------------
+; (1) <L>1577<pc>1019-2<k1>aRyanta
+; ----------------------------------------------------------
+7400 old {#aRyanta#}¦ <lex>Adj.</lex> {%nicht mit dem Character des Causativs {#i#} versehen%} <ls>225,23.</ls>
+7400 new {#aRyanta#}¦ <lex>Adj.</lex> [[{%nicht mit dem Character des Causativs%} {#i#} {%versehen%}]] <ls>225,23.</ls>
+; ----------------------------------------------------------
+; (1) <L>5136<pc>1060-3<k1>anoMkfta
+; ----------------------------------------------------------
+23461 old {#anoMkfta#}¦ <lex>Adj.</lex> {%nicht von {#om#} begleitet.%}
+23461 new {#anoMkfta#}¦ <lex>Adj.</lex> [[{%nicht von%} {#om#} {%begleitet.%}]]
+; ----------------------------------------------------------
+; (1) <L>7007<pc>1082-2<k1>aprASitriya
+; ----------------------------------------------------------
+31921 old {#aprASitriya/#}¦ <lex>Adj.</lex> {%ungeeignet für die {#prASitra#} genannte Speise%} <ls>TS. 2,6,8,5.</ls>
+31921 new {#aprASitriya/#}¦ <lex>Adj.</lex> [[{%ungeeignet für die%} {#prASitra#} {%genannte Speise%}]] <ls>TS. 2,6,8,5.</ls>
+; ----------------------------------------------------------
+; (1) <L>7729<pc>1090-3<k1>aBisaMBava
+; ----------------------------------------------------------
+35296 old {#aBisaMBava#}¦ <lex>m.</lex> {%Erreichung und {#°na#} <lex>n.</lex> das Erreichen%} <ls>ŚAṂK. zu BĀDAR. 4,3,5. 6.</ls>
+35296 new {#aBisaMBava#}¦ <lex>m.</lex> [[{%Erreichung und%} {#°na#} {%<lex>n.</lex> das Erreichen%}]] <ls>ŚAṂK. zu BĀDAR. 4,3,5. 6.</ls>
+; ----------------------------------------------------------
+; (1) <L>8435<pc>1098-3<k1>amftAzwaka
+; ----------------------------------------------------------
+38615 old {#amftAzwaka#}¦ <lex>n.</lex> {%eine Verbindung von acht Stoffen , unter denen {#amftA#} (Cocculus cordifolius) vornan steht%} <ls>Mat. med. 136. 192.</ls>
+38615 new {#amftAzwaka#}¦ <lex>n.</lex> [[{%eine Verbindung von acht Stoffen , unter denen%} {#amftA#} {%(Cocculus cordifolius) vornan steht%}]] <ls>Mat. med. 136. 192.</ls>
+; ----------------------------------------------------------
+; (1) <L>11397<pc>1134-2<k1>avyaveta
+; ----------------------------------------------------------
+52714 old <div n="1">— 2) {%durch {#a#} getrennt%} <ls>VS. PRĀT. 3,64.</ls>
+52714 new <div n="1">— 2) [[{%durch%} {#a#} {%getrennt%}]] <ls>VS. PRĀT. 3,64.</ls>
+; ----------------------------------------------------------
+; (1) <L>15595<pc>1184-3<k1>ArGya
+; ----------------------------------------------------------
+72479 old {#ArGya#}¦ <lex>Adj.</lex> {%von der {#ArGA#} genannten Biene kommend.%}
+72479 new {#ArGya#}¦ <lex>Adj.</lex> [[{%von der%} {#ArGA#} {%genannten Biene kommend.%}]]
+; ----------------------------------------------------------
+; (1) <L>15903<pc>1188-2<k1>Avant
+; ----------------------------------------------------------
+73944 old {#Avant#}¦ <lex>Adj.</lex> {%mit {#A#} versehen.%}
+73944 new {#Avant#}¦ <lex>Adj.</lex> [[{%mit%} {#A#} {%versehen.%}]]
+; ----------------------------------------------------------
+; (1) <L>15988<pc>1189-2<k1>Avid
+; ----------------------------------------------------------
+74395 old <div n="1">— 2) Bez. {%der mit {#Avis#} und {#Avitta#} beginnenden Formeln in%} <ls>VS. 10,9.</ls>
+74395 new <div n="1">— 2) Bez. [[{%der mit%} {#Avis#} {%und%} {#Avitta#} {%beginnenden Formeln in%}]] <ls>VS. 10,9.</ls>
+; ----------------------------------------------------------
+; (1) <L>16624<pc>1197-3<k1>i
+; ----------------------------------------------------------
+77864 old <div n="1">— 1) {%gekommen zu oder in (<ab>Acc.</ab>). {#gfham#} so <ab>v.a.</ab> stehend — , sich befindend in.%}
+77864 new <div n="1">— 1) [[{%gekommen zu oder in (<ab>Acc.</ab>).%} {#gfham#} {%so <ab>v.a.</ab> stehend — , sich befindend in.%}]]
