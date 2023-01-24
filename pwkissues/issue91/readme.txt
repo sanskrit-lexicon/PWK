@@ -95,5 +95,12 @@ python test8.py test8a.txt result8a.txt
 # are finding. 
 python change_test1.py temp_pw_0.txt change_test1.txt
 ---------------------------------------------------------
+# change_test3.py usage:
+# A minor changing of change_test2.py (modifies change_test1.py, using the ideas of test8)
+# Add temporary [[...]] markup to
+# changed lines, so we can more easily identify what our patterns
+# are finding. 
+python change_test3.py temp_pw_0.txt change_test3.txt
+---------------------------------------------------------
 # change_1.py usage:
 python change_1.py temp_pw_0.txt change_1.txt

@@ -32,7 +32,7 @@ def FUNCTION_new_pattern(m):
  #  m.group(0) is the text matching pattern of change_one_line's re.sub
  # i.e., in this case, m.group(0) = {%...%}
  text = m.group(0)  # {%...%}
- # within text, we can change all ' {#...#} ' to '%} {#...#} {#'
+ # within text, we can change all ' {#...#} ' to '%} {#...#} {%'
  pattern = ' {#([^#]*)#} '
  repl = r'%} {#\1#} {%'
  newtext = re.sub(pattern,repl,text)
@@ -54,7 +54,7 @@ def FUNCTION_new_pattern(m):
  #  m.group(0) is the text matching pattern of change_one_line's re.sub
  # i.e., in this case, m.group(0) = {%...%}
  text = m.group(0)  # {%...%}
- # within text, we can change all ' {#...#} ' to '%} {#...#} {#'
+ # within text, we can change all ' {#...#} ' to '%} {#...#} {%'
  pattern = ' {#([^#]*)#} '
  repl = r'%} {#\1#} {%'
  newtext = re.sub(pattern,repl,text)
