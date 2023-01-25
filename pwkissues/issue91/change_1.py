@@ -1,6 +1,6 @@
 # coding=utf-8
 """ change_1.py
-"""
+  """
 from __future__ import print_function
 import sys, re,codecs
 import digentry
@@ -11,34 +11,48 @@ class Change(object):
   # the old line is entry.datalines[iline]
   self.newline = newline # the new line
 
+def change_line_helper(m):
+ # This function is passed as the 'repl' argument of re.sub in change_one_line
+ # 'm' is a 'Match' object which matches the 'pattern' of
+ #   the re.sub in change_one_line.
+ #  m.group(0) is the text matching pattern of change_one_line's re.sub
+ # i.e., in this case, m.group(0) = {%...%}
+ text = m.group(0)  # {%...%}
+ # within text, we can change all ' {#...#} ' to '%} {#...#} {%'
+ pattern = ' {#([^#]*)#} '
+ repl = r'%} {#\1#} {%'
+ newtext = re.sub(pattern,repl,text)
+ # return newtext.  It will replace the string matched
+ # by re.sub in change_one_line
+ return newtext
+
+def change_line(line):
+ pattern = r'{%.*?%}'
+ repl = change_line_helper
+ newline = re.sub(pattern,repl,line)
+ return newline
+
 def make_changes(entries):
  # add 'changes' attribute to each each entry.
  # changes will be a list of Change objects.
  n = 0
  for entry in entries:
   changes = []
-  # metaline = entry.metaline
-  # lnummeta = entry.linenum1
   for iline,line in enumerate(entry.datalines):
-   x = re.findall(r'{%[^%]+{#.+#}', line)
-   if x is None:
-    newline = line
-   else:
-    line1 = line
-    pattern = r'({#.+#})'
-    repl = r'%} \1 {%'
-    newline = re.sub(pattern,repl,line1)
+   newline = change_line(line)
    if newline == line:
     # Our replacement didn't change the line. Don't generate a change
     continue
    # Our replacement DID change the line. DO generate a Change object
-    change = Change(iline,newline)
+   n = n + 1  # count this change (for debugging)
+   
+   change = Change(iline,newline)
    # Append change to list of changes for this entry
-    changes.append(change)
-  # bottome of for iline loop
+   changes.append(change)
+  # bottom of for iline loop
   # add the 'changes' attribute to the entry
   entry.changes = changes
-
+  
 def write_changes(fileout,entries):
  # get total number of lines changed, for documentation
  nchange = 0 # total number of changes

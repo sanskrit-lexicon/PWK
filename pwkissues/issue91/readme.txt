@@ -103,4 +103,6 @@ python change_test1.py temp_pw_0.txt change_test1.txt
 python change_test3.py temp_pw_0.txt change_test3.txt
 ---------------------------------------------------------
 # change_1.py usage:
+# A minor changing of change_test2.py (modifies change_test1.py, using the ideas of test8)
+# Removed temporary [[...]] markup to changed lines
 python change_1.py temp_pw_0.txt change_1.txt
