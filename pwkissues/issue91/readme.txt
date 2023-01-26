@@ -106,3 +106,60 @@ python change_test3.py temp_pw_0.txt change_test3.txt
 # A minor changing of change_test2.py (modifies change_test1.py, using the ideas of test8)
 # Removed temporary [[...]] markup to changed lines
 python change_1.py temp_pw_0.txt change_1.txt
+---------------------------------------------------------
+---------------------------------------------------------
+# installation of change_1.txt (Jim)
+python updateByLine.py temp_pw_0.txt change_1.txt temp_pw_1.txt
+# 222 change transactions from change_1.txt
+---------------------------
+# put new version of pw.txt into csl-orig
+cp temp_pw_1.txt /c/xampp/htdocs/cologne/csl-orig/v02/pw/pw.txt
+
+---------------------------
+# reconstruct local dictionary -- make sure new pw.xml validates
+cd  /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'pw ' redo_xampp_all.sh
+sh generate_dict.sh pw  ../../pw
+# creates pw.xml and installs local displays into
+# /c/xampp/htdocs/cologne/pw directory
+---------------------------
+# validation of local pw.xml
+# this uses python program xmlvalidate.py in /c/xampp/htdocs/cologne/
+# in Jim's installation.  At Cologne, this validation
+# is done by the 'xmllint' program, but this is not part of git bash.
+sh xmlchk_xampp.sh pw
+python3 ../../xmlvalidate.py ../../pw/pywork/pw.xml ../../pw/pywork/pw.dtd
+ok  # <<< this confirms that pw.xml validates in relation to pw.dtd.
+---------------------------
+# Now that we have checked the form based on the revised pw.txt,
+# we can commit csl-orig and push to github
+/c/xampp/htdocs/cologne/csl-orig/
+git pull # in case someone else has pushed changes to github
+# Already up to date.  -- No other changes at this time
+git status
+# v02/pw/pw.txt   << That's the only change, our new version, as expected
+git add .
+git status  # just to be sure we know what will be committed.
+ # modified:   v02/pw/pw.txt
+# commit , include reference to this issue 91.
+git commit -m "PW remove Sanskrit italics.
+Ref: https://github.com/sanskrit-lexicon/PWK/issues/91"
+# 1 file changed, 223 insertions(+), 223 deletions(-)
+git push  # sync csl-orig with github
+---------------------------
+# sync Cologne with github
+# login to cologne site via ssh
+# cd to location of scans directory at cologne. Then,
+cd csl-orig
+git pull
+ #  v02/pw/pw.txt | 446 +++++++++++++++++++++++++++++-----------------------------
+ # 1 file changed, 223 insertions(+), 223 deletions(-)
+# regenerate pw displays at Cologne, using new pw.txt
+cd ../csl-pywork/v02
+grep 'pw ' redo_cologne_all.sh  # get the cologne command to regenerate pw
+# execute the script
+sh generate_dict.sh pw  ../../PWScan/2020/
+# lots of output. Everything works ok.
+# installation of new pw at Cologne FINISHED.
+---------------------------------------------------------
+---------------------------------------------------------
