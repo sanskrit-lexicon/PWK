@@ -1,0 +1,848 @@
+80183	ALL	As of 2023-04-02
+00005	NUMBER	ls starts with number
+00023	UNKNOWN	ls is unknown
+07147	Chr.	BÖHTLINGK'S Sanskrit-Chresthomathie, 2te
+05877	RĀJAN.	RĀJANIGHAṆṬU, Hdschr. (ROTH). 
+03403	MBH.	MAHĀBHĀRATA, citirt nach Parvan, Adhyāya
+03110	Spr.	Indische Sprüche, herausg. von O. BÖHTLI
+01905	CARAKA.	CARAKASAṂHITĀ, Calcutta 1929 und 1877 un
+01857	Ind. St.	Indische Studien von WEBER. 
+01787	OPP. CAT.	List of Sanskrit Manuscripts in Private 
+01721	GAL.	GALANOS's Wörterbuch, Abschrift von WEBE
+01672	BHĀVAPR.	BHĀVAPRAKĀŚA, Calcutta 1875 und Hdschr. 
+01622	HEMĀDRI	HEMĀDRI'S CATURVARGACINTĀMAṆI in der Bib
+01595	ṚV.	ṚGVEDA (ROTH). 
+01570	KĀD.	KĀDAMBARĪ, Calcutta Saṃvat 1919 (KERN). 
+01218	BĀLAR.	BĀLARĀMĀYAṆA, Benares 1869 (KERN). 
+01157	ŚIŚ.	ŚIŚUPĀLAVADHA, Calcutta 1815. 
+01129	ĀPAST. ŚR.	ĀPASTAMBA'S ŚRAUTASŪTRA, Hdschr. (GARME 
+01115	GAUT.	GAUTAMA'S DHARMAŚĀSTRA, Ausg. von STENZL
+01094	ŚAT. BR.	ŚATAPATHABRĀHMAṆA, nach WEBER'S Index. 
+00983	BURNELL, T.	Classified Index to the Sanskrit Mss. in
+00976	ĀPAST.	ĀPASTAMBA'S DHARMASŪTRA, Ausg. von BÜHLE
+00939	HARIV.	HARIVAṂŚA. Mit einer Zahi die ältere Cal
+00931	MAITR. S.	MAITRĀYAṆI SAṂHITĀ, zur Herausgabe vorbe
+00919	VP.	VIṢṆUPURĀṆA ed. Bomb. 
+00851	R.	RĀMĀYAṆA. Das 1ste und 2te Kāṇḍa nach de
+00740	BHĀG. P.	BHĀGAVATAPURĀṆA. Die 9 ersten Skandha na
+00725	S. S. S.	SAṂGITASĀRASAṂGRAHA, Calcutta 1932 (CAPE
+00685	HARṢAC.	HARṢACARITA, Calcutta 1876 (KERN). 
+00676	AV.	ATHARVAVEDA, Ausg. von ROTH und WHITNEY 
+00649	KĀRAṆḌ.	KĀRAṆḌAVYŪHA, Calcutta 1873(KERN). 
+00648	P.	PĀṆINI. 
+00613	KĀTY. ŚR.	KĀTYĀYANA'S ŚRAUTASŪTRA, nach WEBER'S In
+00603	HEM. PAR.	HEMACANDRA'S PARIŚIṢṬAPARVAN, Hdschr. (J
+00582	VP.²	2te Auflage von WILSON's Uebersetzung de
+00580	KATHĀS.	KATHĀSARITSĀGARA, Ausg. von BROCKHAUS. 
+00574	NIGH. PR.	NIGHAṆṬUPRAKĀŚA (ROTH). 
+00563	NAIṢ.	NAIṢADHACARITA. 
+00550	LALIT.	LALITAVISTARAPURĀṆA in der Bibl. ind. (K
+00542	SUŚR.	SUŚRUTA (ROTRH). 
+00513	TS.	TAITTIRĪYASAṂHITĀ (ROTH und WEBER). 
+00474	M.	MĀNAVADHARMAŚĀSTRA. 
+00455	VAITĀN.	VAITĀNASŪTRA, Ausg, von GARBE. 
+00448	ĀRṢ. BR.	ĀRṢEYABRĀHMAṆA, Ausg. von BURNELL. 
+00439	SĀY.	SĀYAṆA. 
+00425	TĀṆḌYA-BR.	TĀṆḌYABRĀHMAṆA in der Bibl. Im grossen W
+00424	Mat. med.	The Materia medica of the Hindus compile
+00416	VĀSAV.	VĀSAVADATTĀ in der Bibl. ind. 
+00415	PRASANNAR.	JAYADEVA'S PRASANNARĀGHAVA (KERN). 
+00414	KĀŚ.	KĀŚIKĀ VṚTTI in der Zeitschrift The PAND
+00408	NYĀYAM.	JAIMINIYANYĀYAMĀLĀVISTARA, Ausg. von GOL
+00399	RĀJAT.	RĀJATARAṂGIṆĪ. Die 6 ersten Bücher nach 
+00398	DAŚAK.	DAŚAKUMĀRA, Ausg. von BÜHLER (CAPELLER).
+00396	LĀṬY.	LĀṬYĀYANA'S ŚRAUTASŪTRA in der Bibl. ind
+00389	ŚAṂK. zu BĀDAR.	[unknown literary source]
+00388	VIKRAMĀṄKAC.	VIKRAMĀṄKADEVACARITA, Ausg. von BÜHLER. 
+00380	BHAṬṬ.	BHAṬṬIKĀVYA, Calcutta 1828. 
+00369	BÜHLER, Rep.	Detailed Report of a Tour in search of S
+00352	GOBH.	GOBHILA'S GṚHYASŪTRA in der Bibl. ind. (
+00339	PAÑCAD.	PAÑCADAṆḌACCHATTRABANDHA, herausg. von W
+00334	VARĀH. BṚH. S.	VARĀHAMIHIRA'S BṚHATSAṂHITĀ (KERN). 
+00332	JAIM.	JAIMINI'S Mimāṃsādarśana in der Bibl. in
+00318	NĪLAK.	NĪLAKAṆṬHA, Commentator des MBH. 
+00302	NYĀYAS.	GOTAMA'S NYĀYADARŚANA in der Bibl. ind. 
+00301	TBR.	TAITTIRĪYA BRĀHMAṆA (ROTH). 
+00282	VIṢṆUS.	VIṢṆUSŪTRA, zur Herausgabe vorbereitet v
+00252	R. ed. Bomb.	[unknown literary source]
+00249	Ind. Antiq.	Indian Antiquary (ROTH). 
+00241	VARĀH. YOGAY.	VARĀHAMIHIRA'S YOGAYĀTRĀ, herausg. von K
+00239	PAÑCAT.	 ohne nähere Angabe PAÑCATANTRA, vollstä
+00230	VS.	VĀJASANEYISAṂHITĀ (ROTH und WEBER). 
+00225	KAP.	KAPILA'S SĀṂKHYAPRAVACANA. Einen vollstä
+00223	RAGH.	RAGHUVAṂŚA, Ausg. von STENZLER, wenn nic
+00213	AIT. BR.	AITAREYABRĀHMAṆA, Ausg. von HAUG. 
+00212	MṚCCH.	MṚCCHAKAṬIKA, Ausg. von STENZLER. Comm. 
+00212	TS. PRĀT.	PRĀTIŚĀKHYA zur TS. , Ausg. von WHITNEY.
+00197	ŚULBAS.	ŚULBASŪTRA in der Zeitschirft The Pandit
+00194	MAHĀBH.	MAHĀBHĀṢYA, lith. in Benares. 
+00194	MĀN. GṚHY.	MĀNAVAGṚHYASŪTRA, nach einer Hdschr. in 
+00192	VEṆĪS.	VEṆĪSAṂHĀRA, Ausg. von GRILL (CAPELLER).
+00187	TAITT. ĀR.	TAITTIRĪYĀRAṆYAKA in der Bibl. ind. 
+00182	AIT. ĀR.	AITAREYĀRAṆYAKA in der Bibl. ind. In der
+00175	JĀTAKAM.	JĀTAKAMĀLĀ, Hdschr. (H. KERN). 
+00173	KAUŚ.	KAUŚIKA'S SŪTRA zum AV. , Hdschr. (ROTH 
+00173	YĀJÑ.	YĀJÑAVALKYA's Gesetzbuch, Ausg. von STEN
+00172	VARĀH. BṚH.	VARĀHAMIHIRA'S BṚHAJJĀTAKA (KERN). 
+00163	AGNI-P.	AGNIPURĀṆA in der Bibl. ind. 
+00159	PĀR. GṚHY.	PĀRASKARA'S GṚHYASŪTRA, Ausg. von STENZL
+00157	Vārtt.	Vārttika. 
+00156	SĀH. D.	SĀHITYADARPAṆA in der Bibl. ind. 
+00156	ĀŚV. ŚR.	ĀŚVALĀYANA's ŚRAUTASŪTRA in der Bibl. in
+00155	Verz. d. Oxf. H.	AUFRECHT, Verzeichniss der Oxforder Hand
+00152	KĀṬH.	KĀṬHAKA (WEBER). 
+00152	MAHĀVĪRAC.	MAHĀVĪRACARITA, Ausg. von TRITHEN. 
+00152	PAT. zu P.	PATAÑJALI ZU PĀṆINI. 
+00145	VIDDH.	VIDDHAŚĀLABHAÑJIKĀKHYANĀṬIKĀ in der Zeit
+00145	ŚĀK.	ŚĀKUNTALA, Ausg. von BÖHTLINGK, wenn nic
+00145	ŚĀṄKH. GṚHY.	ŚĀṄKHĀYANA'S GṚHYASŪTRA, herausg. von OL
+00144	ŚĀṄKH. ŚR.	ŚĀṄKHĀYANA'S ŚRAUTASŪTRA (WEBER). 
+00143	GOP. BR.	GOPATHABRĀHMAṆA in der Bibl. ind. (ROTH)
+00139	MEGH.	MEGHADŪTA, Ausg. von STENZLER. 
+00136	SARVAD.	SARVADARŚANASAṂGRAHA in der Bibl. ind. (
+00135	MĀRK. P.	MĀRKAṆḌEYAPURĀṆA in der Bibl. ind. 
+00130	MUDRĀR.	MUDRĀRĀKṢASA, nach zwei Ausgaben, Calcut
+00130	ĀRYABH.	ĀRYABHAṬA Ausg. von KERN (KERN). 
+00125	KĀVYAPR.	KĀVYAPRAKĀŚA, Calcutta 1866. Nach Ullāsa
+00122	UTPALA	a lexicographer [unknown literary source
+00122	VĀMANA	VĀMANA'S KĀVYĀLAṂKĀRAVṚTTI, Ausg. von CA
+00119	R. GORR.	 RĀMĀYAṆA, translation by Gaspare Gorres
+00118	BAUDH.	BAUDHĀYANA, nach Citaten in andern Werke
+00118	MADANAV.	MADANAPĀLA'S MADANAVINODA, Benares 1869 
+00118	ŚAṂK.	ŚAṂKARĀCĀRYA als Commentator verchiedene
+00114	DIVYĀVAD.	DIVYĀVADĀNA, Hdschr. (SCHIEFNER). 
+00111	CAMPAKA.	Ueber das CAMPAKAŚREṢṬHIKATHĀNAKAM, die 
+00110	Z. d. d. m. G.	Zeitschrift der deutschen morgenlandisch
+00107	ZACH. Beitr.	Beiträge zur indischen Lexicographie von
+00105	B. A. J.	Bombay Asiatic Journal (GELDNER). 
+00105	NIR.	NIRUKTA, Ausg. von ROTH (ROTH). 
+00105	SUPARṆ.	SUPARṆĀDHYA, herausg. von ELIMAR GRUBE i
+00104	DHŪRTAN.	DHŪRTANĀṬAKA, Hdschr. (CAPELLER). 
+00104	VAJRACCH.	VAJRACCHEDIKĀ, herausgegeben von (F. MAX
+00102	MĀN. ŚR.	MĀNAVAŚRAUTASŪTRA, Hdschr. (v. SCHRÖDER)
+00101	SAṂHITOPAN.	SAṂHITOPANIṢAD, Ausg. von BURNELL. 
+00097	ĀŚV. GṚHY.	ĀŚVALĀYANA'S GṚHYASŪTRA; Ausg. von STENZ
+00095	BĀDAR.	BĀDARĀYAṆA'S BRAHMASŪTRA in der Bibl. in
+00094	KUMĀRAS.	KUMĀRASAṂBHAVA, Ausg. von STENZLER. 
+00093	MAHĪDH.	MAHĪDHARA, Commentator der VS. 
+00093	VASIṢṬHA	VASIṢṬHA, nach der Ausg. von Benares (JO
+00091	H.	HEMACANDRA'S ABHIDHĀNACINTĀMAṆI, Ausg. v
+00090	DHANV.	DHANVANTARI'S Wörterbuch, Hdschr. (ROTH)
+00089	H. an.	HEMACANDRA'S ANEKĀRTHASAṂGRAHA. 
+00088	BHĀM. V.	BHĀMINĪVILĀSA, Ausg. von ABELBERGAIGNER(
+00085	KULL.	KULLŪKA, Commentator des MANU. 
+00083	HĀSY.	HĀSYĀRṆAVA, Bombay 1757 und Hdschr. (CAP
+00081	CHĀND. UP.	CHĀNDOGYOPANIṢAD in der Bibl. ind. 
+00080	KĀM. NĪTIS.	KĀMANDAKĪYANĪTISĀRA in der Bibl. ind. 
+00080	ed. Bomb.	Bombay edition [unknown literary source]
+00080	ṚV. PRĀT.	PRĀTIŚĀKHYA zum ṚGVEDA. 
+00077	PAÑCAR.	NĀRADA'S PAÑCARĀTRA in der Bibl. ind. 
+00076	MĀLATĪM.	MĀLATĪMĀDHAVA, nach zwei Ausgaben, Calcu
+00075	GOLĀDHY.	BHĀSKARA'S GOLĀDHYĀYA (KERN). 
+00072	CAṆḌAK.	KṢEMĪŚVARA'S CAṆḌAKAUŚIKA (PISCHEL). 
+00072	LA.	LASSEN'S Anthologie 3te Ausg. 
+00072	MĀLAV.	MĀLAVIKĀGNIMITRA, Ausg. von TULLIBERG. 
+00071	KIR.	KIRĀTĀRJUNIYA, Calcutta 1814. 
+00070	BHAG.	BHAGAVADGITĀ, Ausg. von SCHLEGEL. 
+00070	UTTAMAC.	Ueber das UTTAMACARITRAKATHĀNAKAM, die G
+00069	DAŚAR.	DAŚARŪPA in der Bibl. ind. 
+00069	ĀRYAV.	ĀRYAVIDYĀSUDHĀKARA, Bombay 1868 (KERN). 
+00067	DEŚĪN.	HEMACANDRA'S DEŚĪNĀMĀLĀ, Hdschr. (PISCHE
+00066	AV. PAIPP.	AV. der PAIPPALĀDA-Schule, Hdschr. (ROTH
+00065	GAṆAR.	GAṆARATNAMAHODADHI, nach der im Druck be
+00064	Lot. de la b. l.	BURNOUF, Lotus de la bonne loi. 
+00061	PAÑCAT. ed. Bomb.	[unknown literary source]
+00060	GṚHYĀS.	GṚHYĀSAṂGRAHA in der Bibl. ind. 
+00059	DH. V.	DHANAṂJAYAVIJAYA, Calcutta 1871 (CAPELLE
+00059	Verz. d. B. H.	WEBER, Verzeichniss der Berliner Handsch
+00058	PRAB.	PRABODHACANDRODAYA, Ausg. von BROCKHAUS.
+00058	SADDH. P.	SADDHARMAPUṆḌARĪKA (KERN) . 
+00057	DAŚAK. (1925)	DAŚAKUMĀRACARITA, Calcutta [unknown lite
+00057	ŚĀṄKH. BR.	ŚĀṄKHĀYANA'S BRĀHMAṆA (WEBER). 
+00054	MANTRABR.	MANTRABRĀHMAṆA, Calcutta 1872(ROTH). 
+00054	SV.	SĀMAVEDA (ROTH). 
+00053	BĪJAG.	BĪJAGAṆITA, Calcutta 1846(KERN). 
+00053	KAP. S.	KAPIṢṬHALAKAṬHASAṂHITA, Hdschr. (v. SCHR
+00053	PR. P.	PRACAṆḌAPĀṆḌAVA, EIN SCHAUSPIEL. HDSCHR.
+00053	VĀSTUV.	VIŚVAKARMA'S VĀSTUVIDYĀ, Hdschr (KERN). 
+00052	SĀMAV. BR.	SĀMAVIDHĀNABRĀHMAṆA, Ausg. von BURNELL. 
+00052	WEBER, Lit.	Akademische Vorlesung über Indische Lite
+00051	LĪLĀV.	BHĀSKARA'S LĪLĀVATĪ, Calcutta 1846 (KERN
+00051	VIKR.	VIKRAMORVAŚĪ, Ausg. von BOLLENSEN. 
+00051	ŚĀŚVATA	[unknown literary source]
+00050	AUFRECHT	[unknown literary source]
+00050	HALL	Fitzedward Hall [unknown literary source
+00049	RASENDRAC.	RASENDRACINTĀMAṆI Calcutta 1878 (ROTH). 
+00048	AK.	AMARAKOŚA, Ausg. von LOISELEUR DESLONGCH
+00048	DHĀTUP.	DHĀTUPĀṬHA, Ausg. von WESTERGAARD. 
+00048	HIT.	HITOPADEŚA, Ausg. von SCHLEGEL und LASSE
+00048	KAUṢ. UP.	KAUṢITAKIBRĀHMAṆOPANIṢAD in der Bibl. in
+00047	MAITRYUP.	MAITRYUPANIṢAD in der Bibl. ind. Die Acc
+00047	PRIY.	PRIYADARŚIKĀ, Calcutta 18?? (CAPELLER). 
+00047	SŪRYAS.	SŪRYASIDDHĀNTA in der Bibl. ind. 
+00046	VOP.	VOPADEVA'S MUGDHABODHA, herausgegeben un
+00045	BHĀG. P. ed. Bomb.	[unknown literary source]
+00044	AV. PARIŚ.	PARIŚIṢṬA zum AV. , Hdschr. (ROTH). 
+00044	KĀŚĪKH.	KĀŚĪKHAṆḌA, HDSCHR. (AUFRECHT). 
+00044	TRIK.	TRIKĀṆḌAŚEṢA. 
+00042	NIGH.	YĀSKA'S NIRUKTA sammt den NIGHAṆṬAVAS, h
+00042	ŚĪLĀṄKA	ŚĪLĀṄKA'S Commentar zum ĀCĀRĀṄGASŪTRA, C
+00040	BHĀR. NĀṬYAŚ.	BHĀRATĪYANĀṬYAŚĀSTRA am Schluss von DAŚA
+00040	PRATĀPAR.	PRATĀPARUDRIYA. 
+00039	GARBE	Richard Garbe [unknown literary source]
+00039	YOGAS.	YOGASŪTRA. 
+00039	ŚĀRṄG. SAṂH.	ŚĀRṄGADHARA'S SAṂHITĀ, Bombay 1853 (ROTH
+00038	COLEBR. Alg.	COLEBROOKE, Algebra with Arithmetic and 
+00038	NĀGĀN.	NĀGĀNANDA nach zwei Calcuttaer Ausgaben 
+00037	EITEL, Chin. B.	Hand-Book for the student of Chinese Bud
+00036	MBH. ed. Vardh.	MBH. ed. Vardh. ist die auf Kosten des F
+00035	BHADRAB.	BHADRABĀHUCARITRA, herausgegeben von H. 
+00034	KUMĀRASV.	KUMĀRASVĀMIN, Commentator des PRATĀPAR. 
+00034	NṚS. UP.	NṚSIṂHATĀPANĪYOPANIṢAD, herausg. von WEB
+00033	HARṢAC. (ed. Bomb.)	[unknown literary source]
+00033	RASAR.	RASAR. RASARATNĀKARA, Calcutta 1878 (ROT
+00033	SUBHĀṢITĀV.	SUBHĀṢITĀVALI von VALLABHADEVA, Hdschr. 
+00032	GAṆIT.	GAṆITĀDHĀYA in BHĀSKARA'S SIDDHĀNTA ŚIRO
+00030	JOLLY, Schuld.	JOLLY, ueber das indische Schuldrecht, i
+00030	VS. PRĀT.	PRĀTIŚĀKHYA zu VS in Ind. St. 4. 
+00029	KĀVYĀD.	[unknown literary source]
+00029	MIT.	MITĀKṢARĀ. Bei zwei Zahlen ist der VYAVA
+00029	ŚVETĀŚV. UP.	ŚVETĀŚVATAROPANIṢAD in der Bibl. ind. 
+00028	AV. PRĀT.	[unknown literary source]
+00028	BHOJA-PR.	BHOJAPRABANDHA, Benares 1925(KERN). 
+00028	MBH. ed. Bomb.	[unknown literary source]
+00028	SĀṂKHYAK.	SĀṂKHYAKĀRIKĀ, Ausg. von WILSON. 
+00028	TATTVAS.	TATTVASAMĀSA, Mirzapore 1850(ROTH). 
+00028	UTTARAR.	UTTARARĀMACARITRA, nach zwei Ausgaben, C
+00028	VĀS.	VĀSANTIKĀ, Hdschr. (CAPELLER). 
+00026	GRASSMANN	[unknown literary source]
+00026	MAHĀBH. (K.)	KIELHORN'S Ausg. des MAHĀBHĀṢYA. 
+00026	NĀR.	NĀRADA'S DHARMAŚĀSTRA (JOLLY). 
+00026	TAITT. UP.	TAITTIRĪYOPANIṢAD in der Bibl. ind. 
+00025	GOVINDĀN.	GOVINDĀNANDA, Glossator zu ŚAṂKARĀCĀRYA'
+00025	KAUTUKAS.	[unknown literary source]
+00025	TARKAS.	TARKASAṂGRAHA, Allahabad 1849(ROTH). 
+00024	BṚH. ĀR. UP.	BṚHADĀRAṆYAKOPANIṢAD in der Bibl. ind. 
+00024	GĪT.	GĪTAGOVINDA, Ausg. von LASSEN. 
+00024	J. A. O. S.	Journal of the American Oriental Society
+00024	KĀLAC.	KĀLACAKRA, Hdschr. (SCHIEFNER). 
+00024	RATNAM.	RATNAMĀLĀ. (ROTH). 
+00024	VṚṢABH.	VṚṢABHĀNUJA im 3ten und 4ten Bande des P
+00023	NAIGH.	[unknown literary source]
+00023	PISCHEL, de Gr. pr.	PISCHEL, de Grammaticis prācriticis. Vra
+00022	AV. PRĀYAŚC.	PRĀYAŚCITTA zum AV. , Hdschr. (ROTH). 
+00022	GOLD.	GOLDSTÜCKER'S Wörterbuch 
+00022	J. R. A. S.	Journal of the Royal Asiatic Society (KE
+00022	SUBHĀṢITAR.	SUBHĀṢITARATNĀKARA, Bombay 1872. 
+00022	WEBER	Albrecht Weber
+00021	BENF. Chr.	BENFEY'S Chrestomathie. 
+00021	DHŪRTAS.	DHŪRTASAMĀGAMA in LASSEN'S Anthologie. 
+00021	KAṆ.	KAṆĀDA'S VAIŚEṢIKADARŚANA in der Bibl. i
+00021	MED.	MEDINIKOŚA. 
+00021	ŚUKAS.	ŚUKASAṂDEŚA in Journal of the Royal Asia
+00020	Bomb. Ausgg.	Bombay editions [unknown literary source
+00020	HEM. YOG.	HEMACANDRA'S YOGAŚĀSTRA in Z. d. d. m. G
+00020	KAUTUKAR.	KAUTUKARATNĀKARA, Hdschr. (CAPELLER). 
+00020	UJJVAL.	UJJVALADATTA, Commentator der UṆĀDISŪTRA
+00018	BÜHLER	[unknown literary source]
+00018	MĀLATĪM. ed. Bomb.	[unknown literary source]
+00018	VAṂŚABR.	VAṂŚABRĀHMAṆA, Ausg. von BURNELL (ROTH).
+00018	ṢAḌV. BR.	ṢAḌVIṂŚABRĀHMAṆA (WEBER). 
+00017	HALĀY.	HALĀYUDHA'S Wörterbuch, Ausg. von AUFREC
+00017	PRATIJÑĀS.	PRATIJÑĀS(ŪTRA) berausg. von A. WEBER. 
+00017	SIDDH. K.	[unknown literary source]
+00016	AMṚT. UP.	AMṚTABINDŪPANIṢAD in der Bibl. ind. (GEL
+00016	ANARGHAR.	ANARGHARĀGHAVA, Calcutta Śaka 1782 (AUFR
+00016	CAKR.	CAKRADATTA, Commentator von CARAKA und S
+00016	L. K.	LAGHUK. 
+00016	SADUKTIK.	SADUKTIKARṆĀMṚTA von ŚRĪDHARADĀSA, Hdsch
+00016	SAṂSK. K.	ANANTADEVA'S SAṂSKĀRAKAUSTUBHA, obl. fol
+00015	AŚVAV.	[unknown literary source]
+00015	NĀRADA	NĀRADA (a.) bezeichnet die ausführlicher
+00015	VET. (U.)	VETĀLAPAÑCA VIṂŚATIKĀ, herausgegeben von
+00015	ŚATR.	ŚATRUṂJAYAMĀHĀTMYA, Ausg. von WEBER. 
+00014	CAURAP. (A.)	[unknown literary source]
+00014	KERN	Johan Hendrik Caspar Kern [unknown liter
+00014	KĀTY.	KĀTYĀYANA'S PARIBH (ĀṢĀS) IN 'Zwölf Hymn
+00014	NY. K.	NYĀYAKOŚA or Dictionary of the technical
+00014	PĀRŚVAN.	PĀRŚVANĀTHAKĀVYA, Hdschr. (AUFRECHT). 
+00014	ŚKDR.	ŚABDAKALPADRUMA. 
+00013	DAMAYANTĪK.	[unknown literary source]
+00013	KUHN'S Z.	Zeitschrift für vergleichende Sprachfors
+00013	MUṆḌ. UP.	MUṆḌAKOPANIṢAD in der Bibl. ind. 
+00013	MĀṆḌ. ŚIKṢĀ.	MĀṆḌŪKI ŚIKṢĀ(WEBER). 
+00013	NALOD.	[unknown literary source]
+00013	R. ed. GORR.	 RĀMĀYAṆA, translation by Gaspare Gorres
+00012	Cat. WILLMOT.	A Catalogue of Sanskrit Mss. existing in
+00012	GAṆIT. BHAGAṆ.	GAṆITA, BHAGAṆĀDHYĀYA (KERN). 
+00012	GAṆIT. TRIPR.	GAṆITA, TRIPRAŚANĀDHIKĀRA (KERN). 
+00012	KALPAS.	KALPASŪTRA, herausg. von H. JACOBI (JACO
+00012	KUVALAY.	KUVALAYĀNANDA. , nach zwei lithogr. Ausg
+00012	PARIBH.	PARIBHĀṢĀ in PARIBHĀṢENDUŚEKHARA, Ausg. 
+00012	ĀPAST. GṚHY.	[unknown literary source]
+00011	SĀRĀV.	SĀRĀVALI, citirt bei UTPALA ZU VARĀH. BṚ
+00011	ed. Vardh.	MBH. ed. Vardh. ist die auf Kosten des F
+00010	AIT. UP.	AITAREYOPANIṢAD in der Bibl. ind. 
+00010	Bibl. ind.	Bibliotheca indica. 
+00010	DHYĀNAB. UP.	DHYĀNABINDŪPANIṢAD in der Bibl. ind. (GE
+00010	GAṆIT. SPAṢṬ.	GAṆITA, SPAṢṬĀDHIKĀRA (KERN). 
+00010	HARṢAC. (Śaka 1936)	[unknown literary source]
+00010	KAṬHOP.	KAṬHOP(ANIṢAD) in der Bibl. ind. 
+00010	PAÑCAT. ed. orn.	KOSEGARTEN, PAÑCATANTRA sive quinque par
+00010	RAGH. ed. Calc.	[unknown literary source]
+00010	UṆĀDIS.	UṆĀDISŪTRA, herausg. von AUFRECHT. 
+00010	VĀLAKH.	VĀLAKHILYA, die zwischen ṚV. 8, 84 und 4
+00010	WEBER, JYOT.	WEBER, Ueber den Vedakalender, Namens JY
+00010	ĀPAST. GAUT.	[unknown literary source]
+00010	ŚĀK. (PISCH.)	[unknown literary source]
+00009	AV. JYOT.	JYOTIṢA zum AV. , Hdschr. (ROTH). 
+00009	BURN. Intr.	BURNOUF, Introdution a l'historie du Bud
+00009	CARAKA. ed. Calc.	[unknown literary source]
+00009	CAURAP.	CAURAPAÑCĀŚIKĀ, Ausg. von BOHLEN. 
+00009	CŪLIKOP.	CŪLIKOPANIṢAD in der Bibl. ind. (GELDNER
+00009	GAUḌAP.	GAUḌAPĀDA, Commentator der SĀṂKHYAKĀRIKĀ
+00009	HARṢAC. (1936)	[unknown literary source]
+00009	HĀLA.	HĀLA. Citirt nach der neuen noch im Druc
+00009	M. MÜLLER, Ren.	The Renaissance of Sanskrit Literature i
+00009	PRAŚNOP.	PRAŚNOPANIṢAD in der Bibl. ind. 
+00009	SAṂNY. UP.	SAṂNYĀSOPANIṢAD in der Bibl. ind. (GELDN
+00009	VIŚVA.	VIŚVAKOŚA (PISCHEL). 
+00009	VYUTP.	VYUTPATTI, ein Sanskrit-Tibetisches Wört
+00009	WISE	Commentary on the Hindu System of Medici
+00009	ŚĀṆḌ.	The Aphorisms of SĀṆḌILYA in der Bibl. i
+00008	BRĀHMAṆA	[unknown literary source]
+00008	GOBH. ŚRĀDDHAK.	GOBHILA'S ŚRĀDDHAKALPA in der Bibl. ind.
+00008	GOLĀDHY. BHUV.	GOLĀDHYĀYA, BHUVANAKOŚA (KERN). 
+00008	HEM. YOGAŚ.	[unknown literary source]
+00008	NĀRADA (a.)	bezeichnet die ausführlichere Recension 
+00008	STENZLER	Adolf Friedrich Stenzler [unknown litera
+00008	SŪRYAD.	SŪRYADEVAYAJVAN (KERN). 
+00008	ed. Calc.	Calcutta edition [unknown literary sourc
+00008	ŚIRA-UP.	ŚIRAUPANIṢAD in der Bibl. ind. (GELDNER 
+00007	BHĀṢĀP.	BHĀṢĀPARICCHEDA in der Bibl. ind. 
+00007	BRAHMABINDŪP.	BRAHMABINDŪPANIṢAD in der Bibl. ind. (GE
+00007	BRAHMOP.	BRAHMOPANIṢAD in der Bibl. ind. (GELDNER
+00007	Cat. GUYAR.	A Catalogue of Sanskrit Manuscripts cont
+00007	DAIV. BR.	DAIVATABRĀHMAṆA, Calcutta 1875 und Ausg.
+00007	GAṆIT. PRATYABD.	GAṆITA, PRATYABDAŚUDDI (KERN). 
+00007	HEM. Pr. Gr.	[unknown literary source]
+00007	HILLEBR. N.	[unknown literary source]
+00007	HĀR.	HĀRĀVALI. 
+00007	J. A. S. Beng.	Journal of the Asiatic Society of Bengal
+00007	KĀṬH. GṚHY.	KĀṬHAKAGṚHYASŪTRA, Hdschr. (JOLLY). 
+00007	MALLIN.	[unknown literary source]
+00007	MED. t.	[unknown literary source]
+00007	PADDH.	PADDHATI zu MĀN (AVA) GṚHY (ASŪTRA), Hds
+00007	VARDHAMĀNAC.	[unknown literary source]
+00007	VIJÑĀNEŚVARA	[unknown literary source]
+00007	VĀYU-P.	VĀYUPURĀṆA, nach Citaten in andern Werke
+00007	WEBER, KṚṢṆAJ.	WEBER, Ueber die KṚṢṆAJANMĀṢṬAMĪ. Berlin
+00007	ĀŚV. GṚHY. PARIŚ.	PARIŚIṢṬA ZU ĀŚV. GṚHY. in der Bibl. ind
+00007	ŚR.	[unknown literary source]
+00007	ŚRUT.	ŚRUTABODHA in der Zeitschrift für die Ku
+00007	ṚTUS.	RṬUSAṂHĀRA, Ausg. von BOHLEN. 
+00006	BHĀM.	BHĀMATĪ in der Bibl. ind. (STENZLER). 
+00006	BURNOUF	Eugène Burnouf [unknown literary source]
+00006	BṚHADD.	BṚHADDEVATĀ. 
+00006	CUNNINGHAM, Arch. Surv.	CUNNINGHAM, Archaeological Survey of Ind
+00006	Cat. NW. PR.	A Catalogue of S. Mss. in private libart
+00006	DĀRILA	[unknown literary source]
+00006	GARBHOP.	GARBHOPANIṢAD in Bibl. ind. (GELDNER und
+00006	GAṆIT. BHAGRAH.	GAṆITA, BHAGRAHAYUTYADHIKĀRA (KERN). 
+00006	GAṆIT. GRAH.	GAṆITA, GRAHĀNAYADHĀYA (KERN). 
+00006	LOKAPR.	LOKAPRAKĀŚA (JOLLY) 
+00006	MATSYAP.	MATSYAPURĀṆA, Poona-Ausg. (AUFRECHT). 
+00006	MED. k.	[unknown literary source]
+00006	MOLESW.	A Dictionary, Marāṭhi and English, compi
+00006	MÜLLER, SL.	A History of Ancient Sanskrit Literature
+00006	NĪLAR. UP.	NĪLARUDROPANIṢAD in der Bibl. ind. (GELD
+00006	ROTH	Heinrich Roth [unknown literary source]
+00006	SATYA	[unknown literary source]
+00006	TAITT. PRĀT.	[unknown literary source]
+00006	TEJOB. UP.	TEJOBINDŪPANIṢAD in der Bibl. ind. (GELD
+00006	VĀGBH.	VĀGBHAṬA'S ĀYURVEDADARŚANA (ROTH). 
+00006	ŚĀK. CH.	[unknown literary source]
+00006	ŚĀRṄG. PADDH.	ŚĀRṄGADHARA'S PADDHATI, Hdschr. im Asiat
+00005	ALAṂKĀRAT.	ALAṂKĀRATILAKA, Hdschr. (AUFRECHT). 
+00005	BENFEY	[unknown literary source]
+00005	BÜHL. GUZ.	Catalogue of S. Mss. fromm Guzerat etc. 
+00005	CAKR. zu SUŚR.	[unknown literary source]
+00005	DURGA. zu NIR.	[unknown literary source]
+00005	GARGA	[unknown literary source]
+00005	GELDNER	Karl Friedrich Geldner [unknown literary
+00005	HAṂSOP.	HAṂSOPANIṢAD in der Bibl. ind. (GELDNER)
+00005	KĀLIDĀSA	[unknown literary source]
+00005	MBH. ed. Calc.	[unknown literary source]
+00005	NṚS. TĀP. UP.	[unknown literary source]
+00005	PARĀŚ.	PARĀŚARA'S DHARMAŚĀSTRA (STENZLER). 
+00005	PISCHEL	Richard Pischel [unknown literary source
+00005	SARASVATĪK.	SARASVATĪKAṆṬHĀBHARAṆA, Hdschr. (AUFRECH
+00005	SCHIEFNER, TĀRAN.	TĀRĀNĀTHA'S Geschichte des Buddhismus in
+00005	SIDDH. ŚIR.	SIDDHĀNTAŚIROMAṆI (KERN). 
+00005	VIVEKAV.	VIVEKAVILĀSA im Journal PRATNAKAMRANANDI
+00005	VIVĀDAC.	VIVĀDACINTĀMAṆI, Calcutta {#saMvat#} {#1
+00005	ŚABDAC.	ŚABDACANDRIKĀ, nach GOLDSTÜCKER. 
+00005	ŚIKṢĀ	[unknown literary source]
+00004	ANUPADAS.	[unknown literary source]
+00004	ASAHĀYA	ASAHĀYA , ein Commentator des NĀRADA (JO
+00004	BHĀG. P. ed. BURN.	[unknown literary source]
+00004	BHĀVAPR. (Hdschr.)	BHĀVAPRAKĀŚA,  Hdschr. (ROTH). 
+00004	Bomb. Ausg.	Bombay edition [unknown literary source]
+00004	CAITANY.	CAITANYACANDRODAYA in der Bibl. ind. (PI
+00004	CHANDOM.	CHANDOMAÑJARI, herusg. von BROCKHAUS in 
+00004	COLEBR. Misc. Ess.	Miscellaneous Essays by H. T. COLEBROOKE
+00004	GAṆIT. KAKṢ.	GAṆITA, KAKṢĀDHYĀYA (KERN). [unknown lit
+00004	H. ś.	[unknown literary source]
+00004	HIḌ.	HIḌIMBAVADHA, Ausg. von Bopp. 
+00004	JOLLY	Julius Jolly [unknown literary source]
+00004	KAIY.	[unknown literary source]
+00004	KATHĀRṆAVA	KATHĀRṆAVA , Hdschr. (AUFRECHT). 
+00004	KĀD. (ed. Bomb.)	[unknown literary source]
+00004	KṢURIKOP.	KṢURIKOPANIṢAD in der Bibl. ind. 
+00004	MEDHĀT.	MEDHĀTITHI, ein Scholiast des MANU (JOLL
+00004	MĀLATĪM. (ed. Bomb.)	[unknown literary source]
+00004	MĀLAV. ed. BOLL.	[unknown literary source]
+00004	NĀDAB. UP.	NĀDABINŪPANIṢAD in der Bibl. ind. (GELDN
+00004	VAJRAS.	VAJRASŪCI, Ausg. von WEBER. 
+00004	VET.	VETĀLAPAÑCAVIṂŚATI in LA. 
+00004	VRATARĀJA	[unknown literary source]
+00004	VYĀSA	[unknown literary source]
+00004	WEBER, Nax.	WEBER, Die vedischen Nachrichten von den
+00004	WILSON	Horace Hayman Wilson [unknown literary s
+00004	YAVANEŚVARA	[unknown literary source]
+00004	YOGAT. UP.	YOGATATTVOPANIṢAD in der Bibl. ind. (GEL
+00004	ĀRUṆ. UP.	ĀRUṆEYOPANIṢAD in der Bibl. ind. (GELDNE
+00004	ŚUKRAN.	ŚUKRANĪTI in OPPERT, On the army organiz
+00004	ŚĀNT.	ŚĀNTANAVA'S PHIṬSŪTRA, AUSG. VON KIELHOR
+00003	ALAṂKĀRAŚ.	ALAṂKĀRAŚEKHARA, lith. Ausg. Benares 192
+00003	APARĀRKA.	APARĀRKA (JOLLY). 
+00003	ARJ.	[unknown literary source]
+00003	AV. PAR.	AV.PARIŚ. [unknown literary source]
+00003	BHARATA	[unknown literary source]
+00003	BHĀRADVĀJA	[unknown literary source]
+00003	BHĀVAPR. Hdschr.	BHĀVAPRAKĀŚA,  Hdschr. (ROTH). 
+00003	BRAHMAVAIV. P.	BRAHMAVAIVARTAPURĀṆA. 
+00003	CĀṆ.	CĀṆAKYA in HAEBERLIN'S Anthologie. 
+00003	DAŚAK. (ed. WILSON)	[unknown literary source]
+00003	DELBRÜCK	[unknown literary source]
+00003	FÜHRER, BṚH.	Darstellung der Lehre von den Schriften 
+00003	GOVARDH.	Govardhana's SAPTAŚATĪ (WEBER) . 
+00003	HARṢAC. (ed. K.)	[unknown literary source]
+00003	HARṢAC. ed. Bomb.	[unknown literary source]
+00003	JĀBĀLOP.	JĀBĀLOPANIṢAD in der Bibl. ind. (GELDNER
+00003	KAIVALYOP.	KAIVALYOPANIṢAD in der Bibl. ind. 
+00003	KARMAPR.	KARMAPRADĪPA (STENZLER). Steht unter dem
+00003	KAUṢ. ĀR.	KAUṢITAKĀRAṆYAKA (WEBER). 
+00003	KIELHORN	Lorenz Franz Kielhorn [unknown literary 
+00003	KUMĀRILA	[unknown literary source]
+00003	KĀD. (1793)	[unknown literary source]
+00003	KĀTY. ŚR. PADDH.	[unknown literary source]
+00003	KĀŚYAPA	[unknown literary source]
+00003	M. MÜLLER.	[unknown literary source]
+00003	MAHĀVASTU	[unknown literary source]
+00003	MAHĀŚ.	MAHĀŚĀNTI, Hdschr. (ROTH). 
+00003	MATSYA-P.	MATSYAPURĀṆA, Poona-Ausg. (AUFRECHT). 
+00003	MED. dh.	[unknown literary source]
+00003	MED. y.	[unknown literary source]
+00003	Mon. d. B. A.	Monatsberichte der Königlich Preussichen
+00003	MĀṆḌ. UP.	MĀṆḌŪKYOPANIṢAD in der BIbl. ind. 
+00003	OLD. Buddha.	Buddha. Sein Leben, seine Lehre, seine G
+00003	PANDIT	[unknown literary source]
+00003	PAT.	Patañjali [unknown literary source]
+00003	PAÑCAT. ed. KOSEG.	[unknown literary source]
+00003	PUṢPAS.	PUṢPASŪTRA (WEBER). 
+00003	SARVOPAN.	SARVOPANIṢATSĀRA in der Bibl. ind. (GELD
+00003	SCHRÖDER	[unknown literary source]
+00003	SĀRAS.	SĀRASUNDARĪ, ein Commentar zu AK. 
+00003	SĀV.	SĀVITRĪ, herausg. von Bopp. 
+00003	TANTRAS.	? TANTRASĀRA [unknown literary source]
+00003	TAWNEY	Charles Henry Tawney [unknown literary s
+00003	Verz. d. Cambr. H.	[unknown literary source]
+00003	WEBER, RĀMAT.	WEBER'S Ausg. RĀMATĀPANĪYOPANIṢAD. 
+00003	ŚIVA-P.	ŚIVA-PURĀṆA (SK. , dschr. No. 126 in ver
+00003	ŚRUT. (BR.)	ŚRUTABODHA, Ausg. von BROCKHAUS. 
+00003	ŚĀK. PISCH.	[unknown literary source]
+00003	ŚĀK. ed. PISCH.	[unknown literary source]
+00002	AINSLIE.	AINSLIE, Materia indica. London 1826. 
+00002	AV. (Hdschrr.)	ATHARVAVEDA, Manuscripts. [unknown liter
+00002	BHAVIṢYOTT. P.	BHAVIṢYOTTARAPURĀṆA nach Citaten in ande
+00002	BHOJA-CAR.	BHOJACARITRA, Madras 1862 (STENZLER). 
+00002	BRAHMA-P.	BRAMAPURĀṆA nach Citaten in verschiedene
+00002	BRAHMAS.	BĀDAR. 
+00002	BRĀHMAṆ.	[unknown literary source]
+00002	BURNELL, VAṂŚABR.	[unknown literary source]
+00002	Bomb. Ausgaben	Bombay editions [unknown literary source
+00002	BṚHASP.	BṚHASPATI, nach Citaten in verschiedenen
+00002	CARAKA. (ed. Calc.)	[unknown literary source]
+00002	CHILDERS.	CHILDERS' Pali-Wörterbuch. 
+00002	COWELL	[unknown literary source]
+00002	Cat. KIELH.	Cat. C. PR. 
+00002	DEVALA.	DEVALA nach Citaten in verschiedenen jur
+00002	DHŪRTAS. (ed. LASSEN)	[unknown literary source]
+00002	DRAUP.	[unknown literary source]
+00002	DURGA	[unknown literary source]
+00002	GAṆIT. ADHIM.	GAṆITA, ADHIMĀSANIRṆAYA (KERN). 
+00002	GṚHYĀS. (ed. BLOOMFIELD)	[unknown literary source]
+00002	HARADATTA	[unknown literary source]
+00002	HARṢAC. (B.)	[unknown literary source]
+00002	HARṢAC. [Śaka 1936]	[unknown literary source]
+00002	HAUG, Acc.	HAUG, Ueber das Wesen und den Werth des 
+00002	HULTZSCH	Eugen Julius Theodor Hultzsch  [unknown 
+00002	Ind.	[unknown literary source]
+00002	JACOBI	Hermann Jacobi [unknown literary source]
+00002	JACOBI, KALPAS. Intr.	[unknown literary source]
+00002	JAṬĀDH.	JAṬĀDHARA im ŚKDR. 
+00002	KAHĪRASV.	[unknown literary source]
+00002	KAIYAṬA	[unknown literary source]
+00002	KENOP.	KENOPANIṢAD in der Bibl. ind. 
+00002	KNAUER	[unknown literary source]
+00002	KUMĀRAS. (1868)	[unknown literary source]
+00002	KUSUM.	KUSUMĀÑJALI, Ausg. von COWELL. 
+00002	KĀVYĀL.	KĀVYĀLOKALOCANA, Hdschr. (AUFRECHT). 
+00002	KĀṆVA-REC.	[unknown literary source]
+00002	KĀṆḌ.	KĀṆḌŪPĀKHYĀNA in LA. 
+00002	KṢEM.	KṢEMENDRA'S KAVIKAṆṬĀBHARAṆA, herausgege
+00002	LALLA	[unknown literary source]
+00002	MAGAVY.	Ueber zwei Parteischriften zu Gunsten de
+00002	MANU	[unknown literary source]
+00002	MATSYOP.	[unknown literary source]
+00002	MED. avy.	AVYAYĀNEKĀRTHAVARGA am Ende des MEDINIKO
+00002	MED. r.	[unknown literary source]
+00002	MED. v.	[unknown literary source]
+00002	MĀHABH.	[unknown literary source]
+00002	MĀLAV. (ed. BOLL.)	[unknown literary source]
+00002	MĀṆḌAVYA	[unknown literary source]
+00002	NERIOSENGH	[unknown literary source]
+00002	NIDĀNAS.	NIDĀNASŪTRA (A. WEBER). 
+00002	NIRGHAṆṬU	[unknown literary source]
+00002	NIRṆAYAS.	NIRṆAYASINDHU. 
+00002	PETERSON	Peter Peterson [unknown literary source]
+00002	PRAYOGAR.	NĀRĀYAṆABHAṬṬA'S PRAYOGARATNA (STENZLER)
+00002	R. ed. SCHL.	[unknown literary source]
+00002	RĀMAPŪRVAT. UP.	RĀMAPŪRVATĀPANĪYOPANIṢAD in der Bibl. in
+00002	SUKHĀV.	SUKHĀVATĪVYŪHA nach der nocht nich ersch
+00002	Sitzungsberichte d. K. Pr. Ak. d. Ww.	 [unknown literary source]
+00002	TANTRASĀRA	[unknown literary source]
+00002	UVAṬA	Name of a commentator on the Ṛgveda-prāt
+00002	VARĀH. LAGH.	VARĀHAMIHIRA'S LAGHUJĀTAKA. Die zwei ers
+00002	VARĀH. LAGHUJ.	VARĀHAMIHIRA'S LAGHUJĀTAKA. 
+00002	VĀGBHAṬA	[unknown literary source]
+00002	WASSILYEW	[unknown literary source]
+00002	WHITNEY, Gr.	[unknown literary source]
+00002	YOGAY.	[unknown literary source]
+00002	YOGAŚ. UP.	YOGAŚIKHOPANIṢAD in der Bibl. ind. (GELD
+00002	YĀSKA	[unknown literary source]
+00002	ZIMMER, Altind. Leben	[unknown literary source]
+00002	ĀCĀRĀDARŚA	[unknown literary source]
+00002	ĀNANDAG.	ĀNANDAGIRI, Glossator zu ŚAṂKARĀCĀRYA'S 
+00002	ĀNANDAL.	ĀNANDALAHARĪ in HAEBELIN's Anthologie. 
+00002	ĪŚOP.	[unknown literary source]
+00002	ŚAṂK. VIJ.	ŚAṂKARAVIJAYA in der Bibl. ind. 
+00002	ŚĀK. (CH.)	[unknown literary source]
+00002	ŚĀKTĀN.	ŚĀKTĀNANDATARAṂGIṆI Hdschr. (AUFRECHT). 
+00002	ŚĀṄKH. ĀR.	[unknown literary source]
+00002	ṚGVIDHĀNA	[unknown literary source]
+00001	AIT.	[unknown literary source]
+00001	ALAṂKĀRAV.	ALAṂKĀRAVIMARŚINĪ von JAYARATHA, Deccan 
+00001	ANTYEṢṬIK.	[unknown literary source]
+00001	ANUKR. zu ṚV.	ANUKRAMAṆIKĀ zu ṚV. im Comm. SĀYAṆA'S. 
+00001	ANUPADA	[unknown literary source]
+00001	ATHARVAPADDH.	[unknown literary source]
+00001	ATHARVAŚIKHOP.	[unknown literary source]
+00001	AUPAMANYAVA	[unknown literary source]
+00001	AV. ANUKR.	[unknown literary source]
+00001	AV. JYOTIṢA.	[unknown literary source]
+00001	AV. PADDH.	[unknown literary source]
+00001	B. A. I.	[unknown literary source]
+00001	BAUDH. GṚHY. PARIŚ.	[unknown literary source]
+00001	BAUDHĀYANA	BAUDHĀYANA [unknown literary source]
+00001	BH.	[unknown literary source]
+00001	BHAR.	[unknown literary source]
+00001	BHAR. NĀṬYAŚ.	[unknown literary source]
+00001	BHARAṬAKA.	BHARAṬAKADVĀTRIṂŚIKĀ, Hdschr. (AUFRECHT)
+00001	BHAVIṢYAP.	BHAVIṢYAPURĀṆA Hdschr. (AUFRECHT). 
+00001	BHĀG.	[unknown literary source]
+00001	BHĀG. ed. Bomb.	[unknown literary source]
+00001	BHĀGURI	[unknown literary source]
+00001	BLOOMFIELD	[unknown literary source]
+00001	Beitr. z. K. d. ig. Spr.	Beiträge zur Kunde der indogermanischen 
+00001	Berl. Mon.	Monatsbericht der Königlich Preussischen
+00001	Bl.	Bloomfield [unknown literary source]
+00001	Bomb.	Bombay  [unknown literary source]
+00001	Bull. de l'Ac. des Soc. de St. P.	 ?[unknown literary source]
+00001	BṚHANM.	BṚHANMANU, nach Citaten in verschiedenen
+00001	BṚHASPATI	[unknown literary source]
+00001	C. H. TAWNEY, Vol. I	[unknown literary source]
+00001	CAKRADATTA	[unknown literary source]
+00001	CANDRAGRAH.	[unknown literary source]
+00001	CANTOR.	CANTOR, Geschichte der Mathematik (WINDI
+00001	CAURAP. (ed. SOLF)	[unknown literary source]
+00001	CAṆḌIDĀSA	[unknown literary source]
+00001	CHANDOGAPARIŚ.	[unknown literary source]
+00001	CHANDOGOPARIŚ.	[unknown literary source]
+00001	CSOMA	[unknown literary source]
+00001	Calc.	Calcutta edition [unknown literary sourc
+00001	Calc. Ausg.	Calcutta edition [unknown literary sourc
+00001	Cat. ALLAR.	A Catalogue of Sanscrit Manuscripts in O
+00001	Cat. C. PR.	A Catalogue of S. Mss. existing in the c
+00001	Cat. C. Pr.	A Catalogue of S. Mss. existing in the c
+00001	Catal. of Skt. Mss.	Catalog of Sanskrit Manuscripts [unknown
+00001	DARPAD.	DARPADALANA von KṢEMENDRA, Hdschr. (AUFR
+00001	DATTAKAŚ.	DATTAKAŚIROMAṆI, Calcutta 1867 (JOLLY). 
+00001	DAŚAK. (1883)	DAŚAKUMĀRACARITA, Calcutta [unknown lite
+00001	DAŚAK. (WILSON)	[unknown literary source]
+00001	DAŚAK. (ed. W.)	[unknown literary source]
+00001	DAŚAK. [1925]	DAŚAKUMĀRACARITA , Calcutta [unknown lit
+00001	DEVATĀDHY. BRĀHM.	DAIV. BR. <NF> 
+00001	DHAMMAP.	DHAMMAPADA, Ausg. von FAUṢÖLL. 
+00001	DHANURV.	[unknown literary source]
+00001	DHŪRTAS. ed. Calc.	[unknown literary source]
+00001	DONNER, PIṆḌ.	PIṆḌAPITṚYAJÑA, von Dr. O. DONNER. Berli
+00001	DRAVYAV.	[unknown literary source]
+00001	DURGĀDĀSA zu VOP.	[unknown literary source]
+00001	DĀY.	DĀYABHĀGA, Calcutta 1829. 
+00001	EGGELING	Heinrich Julius Eggeling  [unknown liter
+00001	FOUCAUX	FOUCAUX Philippe Édouard Foucaux [unknow
+00001	GAUT. BĀLAR.	[unknown literary source]
+00001	GAṆ. BHAGRAHAY.	[unknown literary source]
+00001	GAṆIT. GRAHAY.	[unknown literary source]
+00001	GAṆIT. GRAHĀN.	[unknown literary source]
+00001	GAṆIT. KAKṢĀDH.	[unknown literary source]
+00001	GAṆIT. PARVASAṂBH.	[unknown literary source]
+00001	GAṆITA, CANDRAGR.	GAṆITA,CANDRAGRAHĀDHIKĀRA (KERN). 
+00001	GAṆITA, GRAHACCH.	GAṆITA,GRAHACCHĀYĀDHIKĀRA (KERN) . 
+00001	GAṆITA, SŪRYAGR.	GAṆITA,SŪRYAGRAHAṆĀDHIKĀRA (KERN) . 
+00001	GILD, Bibl.	[unknown literary source]
+00001	GOBH. (KNAUER)	[unknown literary source]
+00001	GOBH. (ed. KNAUER)	[unknown literary source]
+00001	Gött. Nachr. 1876	[unknown literary source] (jaJJa)
+00001	Gött. Nachr. 1880	[unknown literary source]
+00001	GĀR. UP.	GĀRUḌOPANIṢAD in der Bibl. ind. 
+00001	HAEB. Anth.	HAEBERLIN'S Anthology, Calcutta 1847. 
+00001	HANUM. UP.	HANUMADUKTARĀMOPANIṢAD in der Bibl. ind.
+00001	HARISV.	HarisvAmin
+00001	HARIV. LANGL.	LANGLOIS' Uebersetzung des Harivaṃśa. 
+00001	HARṢAC. (Bomb.)	[unknown literary source]
+00001	HARṢAC. [ed. Bomb.]	[unknown literary source]
+00001	HEDRI	[unknown literary source]
+00001	HEM. Pr. Gr. (ed. PISCHEL)	[unknown literary source]
+00001	HEM. Pr. Gr. ed. Bomb.	HEMACANDRA's Prākrit-Grammatik, Bombay (
+00001	HIOUEN-THSANG	[unknown literary source]
+00001	HIRAṆYAKEŚIN	[unknown literary source]
+00001	HIT. ed. JOHNS.	HITOPADEŚA, Ausg. von JOHNSON, Lonon und
+00001	HODGSON, Ess.	[unknown literary source]
+00001	HODGSON, Essays.	[unknown literary source]
+00001	HĀRĪTA	[unknown literary source]
+00001	J. A. S.	? Journal of the Asiatic Society of Beng
+00001	JAIM. BHĀR.	JAIMINI'S BHĀRATA, nach Citaten in Ind. 
+00001	JAIMINI	[unknown literary source]
+00001	JOLLY, Tagore Law Lectures	[unknown literary source]
+00001	JYOT.	[unknown literary source]
+00001	KAIYY.	[unknown literary source]
+00001	KAMALĀKARA	[unknown literary source]
+00001	KAP. (BALL.)	[unknown literary source]
+00001	KAP. (ed. Allah. 1852)	KAPILA'S SĀṂKHYAPRAVACANA. [unknown lite
+00001	KAṆṬHAŚR. UP.	KAṆṬHAŚRUTYUPANIṢAD in der Bibl. ind. 
+00001	KHILA.	[unknown literary source]
+00001	KIELH. Rep. (1881)	[unknown literary source]
+00001	KLUGE	Friedrich Kluge [unknown literary source
+00001	KOS.	KOSEGARTEN [unknown literary source]
+00001	KOSEG. Ausg.	KOSEGARTEN edition of PAÑCATANTRA  [unkn
+00001	KUHN	[unknown literary source]
+00001	KUHN'S Beitrr.	[unknown literary source]
+00001	KULĀRṆAVA	KULĀRṆAVA, Hdschr. (AUFRECHT). 
+00001	KĀD. (Śaka 1793)	[unknown literary source]
+00001	KĀD. ed. Bomb.	[unknown literary source]
+00001	KĀT.	KĀTANTRA, heraugsgegeben von EGGELING. 
+00001	KĀTANTRA.	[unknown literary source]
+00001	KĀTY. DH.	KĀTYĀYANA'S DHARMAŚĀSTRA (STENZLER). 
+00001	KĀTY. KARM.	KĀTY(ĀYANA'S)KARMAPRADĪPA (STENZLER). 
+00001	KĀTY. SNĀNAS.	KĀTYĀYANA'S SNĀNASŪTRA (STENZLER). 
+00001	KṚṢIS.	PARĀŚARA'S KṚṢISAṂGRAHA, Calcutta 1862(R
+00001	KṢITĪŚ.	KṢITĪŚAVAṂŚĀVALĪCARITA, Ausg. von PERTSC
+00001	LAGHUK.	LAGHUKAUMUDĪ, Ausg. von BALLANTYNE, Bena
+00001	LANMAN	[unknown literary source]
+00001	LIA.	LASSEN'S Indische Alterthunmskunde. 
+00001	M. (ed. JOLLY)	[unknown literary source]
+00001	M. K. S.	[unknown literary source]
+00001	M. MÜLLER'S Ausg. des ṚV.	 [unknown literary source] 
+00001	MAD.	[unknown literary source]
+00001	MADHUS.	[unknown literary source]
+00001	MADHYAM.	[unknown literary source]
+00001	MAHĀBH. [K.]	KIELHORN'S Ausg. des MAHĀBHĀṢYA. 
+00001	MAHĀN.	[unknown literary source]
+00001	MAHĀVASTU (ed. SENART)	[unknown literary source]
+00001	MALLIKĀMĀRUTA	[unknown literary source]
+00001	MAŚ.	[unknown literary source]
+00001	MAṆIMĀLĀ	[unknown literary source]
+00001	MAṆITTHA	MAṆITTHA Name of an astronomer [unknown 
+00001	MBH. ed. Vardham.	[unknown literary source]
+00001	MED. g.	[unknown literary source]
+00001	MED. j.	[unknown literary source]
+00001	MED. m.	[unknown literary source]
+00001	MED. n.	[unknown literary source]
+00001	MED. p.	[unknown literary source]
+00001	MED. s.	[unknown literary source]
+00001	MED. th.	[unknown literary source]
+00001	MED. ṣ.	[unknown literary source]
+00001	MUDRĀR. (1926)	[unknown literary source]
+00001	MUDRĀR. (a. A.)	[unknown literary source]
+00001	MUDRĀR. (n. A.)	[unknown literary source]
+00001	MUIR. ST.	[unknown literary source]
+00001	Mel. asiat.	[unknown literary source]
+00001	Monatsberichte d. Kön. Pr. Ak. d. Ww.	Monatsberichte der Königlich Preussichen
+00001	MĀDH. KĀLAN.	MĀDHAVA'S KĀLANIRṆAYA (WEBER). 
+00001	MĀDHAVĪYADHĀT.	[unknown literary source]
+00001	MĀDHAVĪYADHĀTUVṚTTI	[unknown literary source]
+00001	MĀLAV. ed. Bomb.	[unknown literary source]
+00001	MĀLAV. ed. Calc.	[unknown literary source]
+00001	MĀN. K. S.	MĀNAVAKALPASŪTRA, nach Citaten bei GOLD.
+00001	MĀNAVA	[unknown literary source]
+00001	NIGH. PR. KAUŚ.	NIGHAṆṬUPRAKĀŚA (ROTH). 
+00001	NYĀYAS. (1828)	GOTAMA'S NYĀYADARŚANA in der Bibl. ind. 
+00001	NYĀYAS. (1829)	[unknown literary source]
+00001	NÖLDEKE	Theodor Nöldeke [unknown literary source
+00001	NĀRADA [a.]	bezeichnet die ausführlichere Recension 
+00001	NĪL.	A rational Refutation of the Hindu Phiso
+00001	NṚS. UP. (Bibl. ind.)	[unknown literary source]
+00001	OPP.	[unknown literary source]
+00001	OPPERT	Gustav Solomon Oppert [unknown literary 
+00001	P. W.	[unknown literary source]
+00001	PADMA-P.	[unknown literary source]
+00001	PADMAP.	[unknown literary source]
+00001	PADYĀVALĪ	PADYĀVALĪ, Hdschr. (AUFRECHT). 
+00001	PAIṬHĪNASI	[unknown literary source]
+00001	PARAMAHAṂSOP.	[unknown literary source]
+00001	PARAMĀRTHAS.	PARAMĀRTHASĀRA (TH. AUFRECHT). 
+00001	PARIBHĀṢENDUŚEKHARA	[unknown literary source]
+00001	PARĀŚARA	[unknown literary source]
+00001	PARĀŚARASMṚTI	[unknown literary source]
+00001	PATAÑJALI	[unknown literary source]
+00001	PAÑCĀŚIKĀ (ed. SOLF)	[unknown literary source]
+00001	PIṆḌOP.	PIṆḌOPANIṢAD in der Bibl. ind. (GELDNER 
+00001	PRAKRIYĀK.	PRAKRIYĀKAUMUDĪ, Hdschr. (Aufrecht).
+00001	PRĀYAŚCITTAT.	PRĀYAŚCITTATATTVA (ROTH). 
+00001	PRĀYAŚCITTAVIVEKA	PRĀYAŚCITTAVIVEKA, Hdschr. (AUFRECHT). [
+00001	PULASTYA	[unknown literary source]
+00001	PUṢPADANTA	[unknown literary source]
+00001	Procc. A. S. B.	Proceedings of the Asiatic Society of Be
+00001	PĀṆINI	[unknown literary source]
+00001	R. SCHL.	[unknown literary source]
+00001	RICE, Bangalore	[unknown literary source]
+00001	ROTH, Zur Lit.	[unknown literary source]
+00001	ROXB.	Flora indica or description of Indian Pl
+00001	ROXBURGH, Flora ind.	Flora indica or description of Indian Pl
+00001	RUDOLF MEYER	[unknown literary source]
+00001	RUDRAYĀMALA	[unknown literary source]
+00001	RUDRAṬA, KĀVYĀLAṂKĀRA	[unknown literary source]
+00001	RUDRAṬĀLAṂKĀRAṬ.	RUDRAṬĀLAṂKĀRAṬIPPAṆAKA, auch RUDRAṬAKĀV
+00001	RĀJAN. (Hdschr.)	RĀJANIGHAṆṬU, Hdschr. (ROTH). 
+00001	RĀJAT. ed. Calc.	[unknown literary source]
+00001	RĀJAV.	RĀJAVALLABHA, nach Citaten ŚKDR. 
+00001	RĀJENDR. Not.	Notices of Sanskrit Mss. by RĀJENDRALĀLA
+00001	RĀM. RĀS.	[unknown literary source]
+00001	RĀMADĀSA	[unknown literary source]
+00001	RĀYAM.	[unknown literary source]
+00001	SCHLEGEL	Friedrich Schlegel [unknown literary sou
+00001	SCHÖNBERG, KṢ.	[unknown literary source]
+00001	SCHÖNBERG, KṢEM.	[unknown literary source]
+00001	SETUB.	SETUBANDHA, herausgegeben von SIEGFRIED 
+00001	SIDDH. K. (neue Ausg.)	[unknown literary source]
+00001	SIDDH. K. ed. TĀR.	[unknown literary source]
+00001	SIDDH. K. ed. TĀRĀN.	[unknown literary source]
+00001	SMṚTIM.	[unknown literary source]
+00001	SOMAKARMAPR.	SOMAKARMAPRADĪPA des RĀMA, Hdschr. (ROTH
+00001	SPEYER	Jacob Samuel Speyer [unknown literary so
+00001	ST. JULIEN	[unknown literary source]
+00001	SUBHĀṢITARATNABH.	SUBHĀṢITARATNABHĀṆḌĀGĀRA (TH. AUFRECHT).
+00001	SUBHĀṢITARATNABH. PRAK.	[unknown literary source]
+00001	SUD.	[unknown literary source]
+00001	SV. (Calc. Ausg.)	SĀMAVEDA [unknown literary source)
+00001	SV. ĀR.	ĀRAṆYAKA zum SV. (ROTH). 
+00001	Sitzungsberichte der Phil-hist. Kl. der Wiener Ak.	 ?[unknown literary source]
+00001	Sitzungsberichte der Wiener Ak.	  [unknown literary source]
+00001	Sitzungsberichte der phil-hist. Kl. der Wiener Ak.	 ?[unknown literary source]
+00001	Sitzungsberr. d. K. Pr. Ak. d. Ww.	 [unknown literary source]
+00001	Str.	[unknown literary source]
+00001	SĀDHANAM.	[unknown literary source]
+00001	SĀH. D. (1828)	[unknown literary source]
+00001	SĀMAVIDH. BR.	[unknown literary source]
+00001	SĀMĀNYAN.	[unknown literary source]
+00001	SĀṂKHYAPR.	[unknown literary source]
+00001	Sāg.	[unknown literary source]
+00001	TAL. BR.	A legend from the TALAVAKĀRA or JAIMINĪY
+00001	TATTVAK.	TATTVAKAUMUDĪ (H. Kern). 
+00001	TRIVIKRAMA	[unknown literary source]
+00001	TS. (ed. WEBER)	TAITTIRĪYASAṂHITĀ (WEBER). 
+00001	TĀṆḌYA-BR. Hdschrr.	[unknown literary source]
+00001	UPALEKHA	[unknown literary source]
+00001	UPAVANAVINODA	[unknown literary source]
+00001	UTPALINĪ	[unknown literary source]
+00001	UTTARAR. (1862)	[unknown literary source]
+00001	UTTARARĀMAC.	UTTARARĀMACARITRA, nach zwei Ausgaben, C
+00001	VAIDYABH.	VAIDYABHĀṢYA (ROTH). 
+00001	VAIDYAKA	a physician [unknown literary source]
+00001	VALL.	[unknown literary source]
+00001	VARARUCI	[unknown literary source]
+00001	VARIṢṬHA	[unknown literary source]
+00001	VARĀH.	[unknown literary source]
+00001	VEDĀNTASĀRA (1829)	[unknown literary source]
+00001	VIJAYAGAṆĪ	(? MW short 'i') [unknown literary sourc
+00001	VIJÑ.	[unknown literary source]
+00001	VIKR. drāv.	KĀLIDĀSA'S VIKRAMORVAŚĪYAM nach drāvidis
+00001	VIKR. ed. BOLL.	[unknown literary source]
+00001	VIKR. ed. PISCH.	[unknown literary source]
+00001	VIKR. ed. PISCHEL	VIKR.drāv. [unknown literary source]
+00001	VIVEK.	[unknown literary source]
+00001	VIŚVAPR.	[unknown literary source]
+00001	VIṢṆU	[unknown literary source]
+00001	VIṢṆUCANDRA	[unknown literary source]
+00001	VIṬṬHALA	[unknown literary source]
+00001	Vardh.	[unknown literary source]
+00001	Verz. d. Pet. H.	[unknown literary source]
+00001	VĀSIṢṬHA	[unknown literary source]
+00001	VĀḌI.	[unknown literary source]
+00001	VĪRAM.	VĪRAMITRODAYA, Khadirapura 1815(STENZLER
+00001	VĪRAMITROD.	[unknown literary source]
+00001	VĪRAMITRODAYA	[unknown literary source]
+00001	VṚTTARATNĀKARA	[unknown literary source]
+00001	WASSILYEW, Der Buddh.	[unknown literary source]
+00001	WEBER, RĀMAT. UP.	[unknown literary source]
+00001	WHITNEY	William Dwight Whitney [unknown literary
+00001	WHITNEY, Ind.	[unknown literary source]
+00001	WHITNEY, Roots	[unknown literary source]
+00001	WILSON, Sel. Spec.	WILSON, Select Specimens of the Theatre 
+00001	WILSON, Sel. W.	Select Works of H. H. WILSON. 
+00001	WILSON, SĀṂKHYAK.	[unknown literary source]
+00001	WIND. SANC.	FRIDERICI HENR. HUG. WINDISHMANNI SANCAR
+00001	WRIGHT, Hist. of. Nep.	[unknown literary source]
+00001	YANTRĀDHY.	[unknown literary source]
+00001	YAŚNA.	[unknown literary source]
+00001	Z. f. d. K. d. M.	Zeitschrift für die Kunde des Morgenland
+00001	ZACH.	[unknown literary source]
+00001	ZACHARIAE	Theodore Zachariae [unknown literary sou
+00001	ZIMMER	 Heinrich Zimmer [unknown literary sourc
+00001	ed. Boll.	Bollensen edition [unknown literary sour
+00001	ed. M.	PRĀTIŚĀKHYA zum ṚGVEDA. [unknown literar
+00001	ĀJAN.	[unknown literary source]
+00001	ĀNANDAGIRI	[unknown literary source]
+00001	ĀTMOPAN.	ĀTMOPANIṢAD in der Bibl. ind. (GELDER un
+00001	ĀŚV. GṚHY. (Bibl. ind.)	[unknown literary source]
+00001	ŚAT. BR. (KĀṆVA-Rec.)	ŚATAPATHABRĀHMAṆA ?
+00001	ŚAṂKARA	[unknown literary source]
+00001	ŚKDR. Hdschr.	ŚABDAKALPADRUMA manuscript [unknown lite
+00001	ŚRUT. (ed. EWALD)	Heinrich Ewald [unknown literary source]
+00001	ŚRĪP.	ŚRĪPATI. 
+00001	ŚRĪPATI	[unknown literary source]
+00001	ŚĀK. ed. PREMAC.	[unknown literary source]
+00001	ŚĀNTIŚ.	ŚĀNTIŚATAKA in HAEBERLIN'S Anthologie. 
+00001	ŚĀRṄG. S.	[unknown literary source]
+00001	ŚĀṄKH.	[unknown literary source]
+00001	ŚŪDRADH.	[unknown literary source]
+00001	ŚŪLAPĀṆĪ	[unknown literary source]
+00001	ṚKT.	ṚKTANTRA, herausgegeben von BURNELL (STE
+00001	ṚV. PRĀT. (ed. M.)	PRĀTIŚĀKHYA zum ṚGVEDA. 
+00001	ṚV. ed. M.	[unknown literary source]
+00001	ṚṢIMAṆḌALASTOTRA	[unknown literary source]
+00001	ṢAḌGURUŚIṢYA	N. of a Commentator on Kātyāyana's Ṛg-ve
+00000	G. GORR.	Gaspare Gorresio, translator of RĀMĀYAṆA
