@@ -1,0 +1,168 @@
+; <L>1792<pc>1021-3<k1>atideSya
+; problem with: S. 7.
+8355 old {#atideSya#}¦ <lex>Adj.</lex> {%zu übertragen , auszudehnen auf%} <ls>NYĀYAM. 7,2,1.</ls> Davon <ab>Nom.abstr.</ab> {#°tva#} <lex>n.</lex> <ls>S. 7.</ls>
+; correction: ?
+8355 new {#atideSya#}¦ <lex>Adj.</lex> {%zu übertragen , auszudehnen auf%} <ls>NYĀYAM. 7,2,1.</ls> Davon <ab>Nom.abstr.</ab> {#°tva#} <lex>n.</lex> <ls>S. 7.</ls>
+;--------------------------------------------------
+; <L>5783<pc>1068-3<k1>anvIkzaRa
+; problem with: S. 3,Z. 4
+26421 old {#anvIkzaRa#}¦ <lex>n.</lex> {%das Untersuchen , Nachforschen%} <ls>NYĀYAS.</ls> <ab>Comm.</ab> <ls>S. 3,Z. 4</ls> <ab>v.u.</ab>
+; correction: ?
+26421 new {#anvIkzaRa#}¦ <lex>n.</lex> {%das Untersuchen , Nachforschen%} <ls>NYĀYAS.</ls> <ab>Comm.</ab> <ls>S. 3,Z. 4</ls> <ab>v.u.</ab>
+;--------------------------------------------------
+; <L>5784<pc>1068-3<k1>anvIkzA
+; problem with: S. 3,Z. 4
+26427 old <div n="1">— 2) {%Untersuchung , logische Prüfung%} <ls>NYĀYAS.</ls> <ab>Comm.</ab> <ls>S. 3,Z. 4</ls> <ab>v.u.</ab>
+; correction: ?
+26427 new <div n="1">— 2) {%Untersuchung , logische Prüfung%} <ls>NYĀYAS.</ls> <ab>Comm.</ab> <ls>S. 3,Z. 4</ls> <ab>v.u.</ab>
+;--------------------------------------------------
+; <L>6449<pc>1075-3<k1>apArayant
+; problem with: II,42,14.
+29449 old <ls>II,42,14.</ls>
+; correction: ?
+29449 new <ls>II,42,14.</ls>
+;--------------------------------------------------
+; <L>7213<pc>1084-2<k1>aBadra
+; problem with: 1,31,13.
+32841 old {#aBadra#}¦ <lex>Adj.</lex> {%unheilvoll ; <lex>n.</lex> Unheil%} <ls>GAUT. 9,20.</ls> <ls>ĀPAST.</ls> bei <ls>KULL.</ls> zu <ls>M. 4,139</ls> ; anders der <ab>gedr.</ab> Text <ls>1,31,13.</ls>
+; correction: ?
+32841 new {#aBadra#}¦ <lex>Adj.</lex> {%unheilvoll ; <lex>n.</lex> Unheil%} <ls>GAUT. 9,20.</ls> <ls>ĀPAST.</ls> bei <ls>KULL.</ls> zu <ls>M. 4,139</ls> ; anders der <ab>gedr.</ab> Text <ls>1,31,13.</ls>
+;--------------------------------------------------
+; <L>9863<pc>1116-1<k1>arh
+; problem with: II,72,5.
+45539 old <div n="p">— Mit {#aBi#}, {#aByarhita#} <ab>Partic.</ab> <ab>Caus.</ab> {%sehr hoch geehrt%} <ls>KĀD. 234,22.</ls> {%höher geehrt%} <ls>II,72,5.</ls> {%würdiger , höher in Ansehen stehend , grösseres Gewicht habend als (<ab>Abl.</ab>%}) <ls>ŚAṂK. zu BĀDAR. 2,2,1.</ls>
+; correction: ?
+45539 new <div n="p">— Mit {#aBi#}, {#aByarhita#} <ab>Partic.</ab> <ab>Caus.</ab> {%sehr hoch geehrt%} <ls>KĀD. 234,22.</ls> {%höher geehrt%} <ls>II,72,5.</ls> {%würdiger , höher in Ansehen stehend , grösseres Gewicht habend als (<ab>Abl.</ab>%}) <ls>ŚAṂK. zu BĀDAR. 2,2,1.</ls>
+;--------------------------------------------------
+; <L>10401<pc>1122-2<k1>avaDi
+; problem with: II,42,14.
+48063 old <div n="1">— 2) {%Grenze , Grenzpunkt%} <ls>ŚAT. BR. 8,7,2,12.</ls> {%das Non plus ultra%} <ls>PRASANNAR. 57,17.</ls> <ls>BĀLAR. 253,13.</ls> <ls>KĀD. 139,12.</ls> <ls>II,42,14.</ls> {%First , Termin%} <ls>BHĀVAPR. 3,17.</ls> <ls>MEGH. 84.</ls> {#°avaDi#} <ab>Acc.</ab> und {#avaDes#} (nach einem <ab>Gen.</ab> Oer am Ende eines Comp.) <ab>Abl.</ab> <ab>Adv.</ab> {%bis.%} {#mAsatrayAvaDi#}. <ab>Adv.</ab> {%drei Monate lang.%}
+; correction: ?
+48063 new <div n="1">— 2) {%Grenze , Grenzpunkt%} <ls>ŚAT. BR. 8,7,2,12.</ls> {%das Non plus ultra%} <ls>PRASANNAR. 57,17.</ls> <ls>BĀLAR. 253,13.</ls> <ls>KĀD. 139,12.</ls> <ls>II,42,14.</ls> {%First , Termin%} <ls>BHĀVAPR. 3,17.</ls> <ls>MEGH. 84.</ls> {#°avaDi#} <ab>Acc.</ab> und {#avaDes#} (nach einem <ab>Gen.</ab> Oer am Ende eines Comp.) <ab>Abl.</ab> <ab>Adv.</ab> {%bis.%} {#mAsatrayAvaDi#}. <ab>Adv.</ab> {%drei Monate lang.%}
+;--------------------------------------------------
+; <L>14177<pc>1167-3<k1>Atman
+; problem with: II,112,18.
+65717 old <div n="1">— 3) {%das Selbst , die eigene Person.%} Häufig in der Function eines Pron. reflex. {#AtmanA - akarot#} {%ipse fecit%} <ls>KĀD. 27,21.</ls> <ls>II,112,18.</ls> {#saMstamBayAtmAnamAtmanA#} {%ipsum ipse%} <ls>R. GORR. 2,53,38.</ls> {#Atma/n#} <ab>Loc.</ab> mit {#DA#} oder {#kar#} {%in sich aufnehmen , sich aneignen.%}
+; correction: ?
+65717 new <div n="1">— 3) {%das Selbst , die eigene Person.%} Häufig in der Function eines Pron. reflex. {#AtmanA - akarot#} {%ipse fecit%} <ls>KĀD. 27,21.</ls> <ls>II,112,18.</ls> {#saMstamBayAtmAnamAtmanA#} {%ipsum ipse%} <ls>R. GORR. 2,53,38.</ls> {#Atma/n#} <ab>Loc.</ab> mit {#DA#} oder {#kar#} {%in sich aufnehmen , sich aneignen.%}
+;--------------------------------------------------
+; <L>14934<pc>1177-1<k1>ApiYjara
+; problem with: II,98,4.
+69341 old <div n="1">— 1) <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%röthlich , gelbröthlich%} <ls>KĀD. 11,15.</ls> <ls>II,98,4.</ls>
+; correction: ?
+69341 new <div n="1">— 1) <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%röthlich , gelbröthlich%} <ls>KĀD. 11,15.</ls> <ls>II,98,4.</ls>
+;--------------------------------------------------
+; <L>17967<pc>1219-2<k1>utkaRwakita
+; problem with: II,70,17. 79,10. 121,23.
+84777 old {#utkaRwakita#}¦ <lex>Adj.</lex> {%mit aufgerichteten Dornen , — Härchen%} <ls>KĀD. 253,8.</ls> <ls>II,70,17. 79,10. 121,23.</ls>
+; correction: ?
+84777 new {#utkaRwakita#}¦ <lex>Adj.</lex> {%mit aufgerichteten Dornen , — Härchen%} <ls>KĀD. 253,8.</ls> <ls>II,70,17. 79,10. 121,23.</ls>
+;--------------------------------------------------
+; <L>18210<pc>1222-2<k1>uttarala
+; problem with: II,10,8.
+85928 old {#uttarala#}¦ <lex>Adj.</lex> {%aufzuckend , erzitternd%} <ls>BĀLAR. 84,10.</ls> <ls>KĀD. 246,10.</ls> <ls>II,10,8.</ls>
+; correction: ?
+85928 new {#uttarala#}¦ <lex>Adj.</lex> {%aufzuckend , erzitternd%} <ls>BĀLAR. 84,10.</ls> <ls>KĀD. 246,10.</ls> <ls>II,10,8.</ls>
+;--------------------------------------------------
+; <L>18445<pc>1225-2<k1>utpIqa
+; problem with: II,125,15.
+87036 old <div n="1">— 1) {%das Drücken , Druck%} <ls>KĀD. 91,17.</ls> <ls>II,125,15.</ls>
+; correction: ?
+87036 new <div n="1">— 1) {%das Drücken , Druck%} <ls>KĀD. 91,17.</ls> <ls>II,125,15.</ls>
+;--------------------------------------------------
+; <L>19232<pc>1235-1<k1>udvAhinI
+; problem with: 772
+90933 old {#*udvAhinI#}¦ <lex>f.</lex> {%Strick%} <ab>Med.</ab> <lex>n.</lex> <ls>772</ls> fehlerhaft für {#udvAhanI#}.
+; correction: ?
+90933 new {#*udvAhinI#}¦ <lex>f.</lex> {%Strick%} <ab>Med.</ab> <lex>n.</lex> <ls>772</ls> fehlerhaft für {#udvAhanI#}.
+;--------------------------------------------------
+; <L>19875<pc>1243-1<k1>upari
+; problem with: II,89,17.
+94081 old <div n="2">— b) {%überdies , dazu , ferner.%} Wiederholt {%immer wieder%} <ls>KĀD. 188,18.</ls> <ls>II,89,17.</ls>
+; correction: ?
+94081 new <div n="2">— b) {%überdies , dazu , ferner.%} Wiederholt {%immer wieder%} <ls>KĀD. 188,18.</ls> <ls>II,89,17.</ls>
+;--------------------------------------------------
+; <L>23066<pc>1281-2<k1>OrvAgni
+; problem with: II,50,10
+109296 old {#OrvAgni#}¦ und {#OrvAnala#} (<ls>KĀD. 48,2.</ls> <ls>II,50,10</ls>) <lex>m.</lex> =  ^3. {#Orva#} 2).
+; correction: ?
+109296 new {#OrvAgni#}¦ und {#OrvAnala#} (<ls>KĀD. 48,2.</ls> <ls>II,50,10</ls>) <lex>m.</lex> =  ^3. {#Orva#} 2).
+;--------------------------------------------------
+; <L>25585<pc>2035-3<k1>kalp
+; problem with: 30.
+122699 old <div n="1">— 1) {%entsprechen , richtig — , in Ordnung sein%} <ls>ŚAṂK. zu BĀDAR. 2,2,9.</ls> so <ab>v.a.</ab> {%ganz gut möglich sein , sich ganz gut erklären lassen zu%} <ls>30.</ls>
+; correction: ?
+122699 new <div n="1">— 1) {%entsprechen , richtig — , in Ordnung sein%} <ls>ŚAṂK. zu BĀDAR. 2,2,9.</ls> so <ab>v.a.</ab> {%ganz gut möglich sein , sich ganz gut erklären lassen zu%} <ls>30.</ls>
+;--------------------------------------------------
+; <L>26432<pc>2047-2<k1>kApAlika
+; problem with: S. 592
+126961 old <div n="2">— a) {%ein Anhänger einer <ab>best.</ab> <is>Śiva</is>'itischen Secte , der mit Menschenschädeln sich schmückt und aus ihnen isst%} , <ls>GOVINDĀN.</ls> zu <ls>BĀDAR. 2,2,27</ls> (<ls>S. 592</ls>).
+; correction: ?
+126961 new <div n="2">— a) {%ein Anhänger einer <ab>best.</ab> <is>Śiva</is>'itischen Secte , der mit Menschenschädeln sich schmückt und aus ihnen isst%} , <ls>GOVINDĀN.</ls> zu <ls>BĀDAR. 2,2,27</ls> (<ls>S. 592</ls>).
+;--------------------------------------------------
+; <L>29228<pc>2082-2<k1>kulANgAra
+; problem with: Hariv. 9940.
+140886 old <div n="1">— 2) <lex>f.</lex> {#I#} <ab>dass.</ab> von einem Frauenzimmer gesagt <ls>Hariv. 9940.</ls>
+; correction: ?
+140886 new <div n="1">— 2) <lex>f.</lex> {#I#} <ab>dass.</ab> von einem Frauenzimmer gesagt <ls>Hariv. 9940.</ls>
+;--------------------------------------------------
+; <L>37528<pc>2193-2<k1>grAmIna
+; problem with: 58
+183317 old {#grAmIna#}¦ <ab>Med.</ab> <lex>n.</lex> <ls>58</ls> fehlerhaft für {#grAmIRa#} (aber kein Druckfehler).
+; correction: ?
+183317 new {#grAmIna#}¦ <ab>Med.</ab> <lex>n.</lex> <ls>58</ls> fehlerhaft für {#grAmIRa#} (aber kein Druckfehler).
+;--------------------------------------------------
+; <L>50250<pc>3088-2<k1>div
+; problem with: S. 44, Z. 13.
+248904 old <div n="1">— 2) {%Strahlen%} <ls>BHĀG. P.</ls> {#dIvyati#} = {#dyotyate#} <ls>SĀY.</ls> zu <ls>ṚV. 1,1,1.</ls> (<ls>S. 44, Z. 13.</ls>)
+; correction: ?
+248904 new <div n="1">— 2) {%Strahlen%} <ls>BHĀG. P.</ls> {#dIvyati#} = {#dyotyate#} <ls>SĀY.</ls> zu <ls>ṚV. 1,1,1.</ls> (<ls>S. 44, Z. 13.</ls>)
+;--------------------------------------------------
+; <L>55942<pc>3169-1<k1>DrAji
+; problem with: MAITR. 4,9,5.
+277529 old <div n="1">— 1) {%das Streichen , Zug%} (des Windes) <ls>MAITR. S. 1,2,17.</ls> {#DrAji/#} <ls n="MAITR.">4,9,5.</ls>
+; correction: ?
+277529 new <div n="1">— 1) {%das Streichen , Zug%} (des Windes) <ls>MAITR. S. 1,2,17.</ls> {#DrAji/#} <ls n="MAITR.">4,9,5.</ls>
+;--------------------------------------------------
+; <L>68818<pc>4109-2<k1>pUtara
+; problem with: 2, S. 40
+342260 old {#pUtara#}¦ <lex>m.</lex> {%ein <ab>best.</ab> Wasserthier%} <ls>GAṆAR. 4,291.</ls> <ls>HEM. Pr. Gr. (ed. PISCHEL) 1,170.</ls> Bildlich {%von einem ganz unbedeutenden Menschen%} im Gegens. zu {#kuYjara#} {%Elephant%} als Bez. {%eines sehr hoch stehenden Mannes%} <ls>HEM. PAR. 1,230.</ls> Daher wohl = {#aDama#} nach <ls>TRIVIKRAMA</ls>  bei <ls>PISCHEL</ls>  a.a.O. <ls>2, S. 40</ls> (zu <ls n="Chr.">1,170</ls>).
+; correction: ?
+342260 new {#pUtara#}¦ <lex>m.</lex> {%ein <ab>best.</ab> Wasserthier%} <ls>GAṆAR. 4,291.</ls> <ls>HEM. Pr. Gr. (ed. PISCHEL) 1,170.</ls> Bildlich {%von einem ganz unbedeutenden Menschen%} im Gegens. zu {#kuYjara#} {%Elephant%} als Bez. {%eines sehr hoch stehenden Mannes%} <ls>HEM. PAR. 1,230.</ls> Daher wohl = {#aDama#} nach <ls>TRIVIKRAMA</ls>  bei <ls>PISCHEL</ls>  a.a.O. <ls>2, S. 40</ls> (zu <ls n="Chr.">1,170</ls>).
+;--------------------------------------------------
+; <L>71641<pc>4147-3<k1>pratisaMDAna
+; problem with: S. 1129,Z. 2
+355911 old <div n="1">— 1) {%das Wiederzusammenbringen , -fügen , Zusammenfügung%} <ls>ŚAṂK.</ls> zu <ls>BĀLAR. 4,3,14</ls> (<ls>S. 1129,Z. 2</ls>).
+; correction: ?
+355911 new <div n="1">— 1) {%das Wiederzusammenbringen , -fügen , Zusammenfügung%} <ls>ŚAṂK.</ls> zu <ls>BĀLAR. 4,3,14</ls> (<ls>S. 1129,Z. 2</ls>).
+;--------------------------------------------------
+; <L>76963<pc>4224-2<k1>bAhya
+; problem with: S. 1056,Z. 13
+382355 old <div n="2">— a) {%aussen befindlich , draussen%} (vor der Thür , vor dem Hause , vor dem Dorfe <ab>u.s.w.</ab>) — , {%ausserhalb von%} (<ab>Abl.</ab> oder im Comp. vorangehend) {%gelegen%} <ab>u.s.w.</ab> , {%der äussere.%} <ab>Acc.</ab> mit {#kar#} {%hinausweisen , von sich fern halten.%} {#tadDita#} <lex>m.</lex> so. <ab>v.a.</ab> {%ein neu hinzutretendes <is>Taddhita</is>-Suffix.%} Auch Compar. {#bAhyatara#} <ls>ŚAṂK.</ls> zu <ls>BĀLAR. 4,1,2</ls> (<ls>S. 1056,Z. 13</ls>).
+; correction: ?
+382355 new <div n="2">— a) {%aussen befindlich , draussen%} (vor der Thür , vor dem Hause , vor dem Dorfe <ab>u.s.w.</ab>) — , {%ausserhalb von%} (<ab>Abl.</ab> oder im Comp. vorangehend) {%gelegen%} <ab>u.s.w.</ab> , {%der äussere.%} <ab>Acc.</ab> mit {#kar#} {%hinausweisen , von sich fern halten.%} {#tadDita#} <lex>m.</lex> so. <ab>v.a.</ab> {%ein neu hinzutretendes <is>Taddhita</is>-Suffix.%} Auch Compar. {#bAhyatara#} <ls>ŚAṂK.</ls> zu <ls>BĀLAR. 4,1,2</ls> (<ls>S. 1056,Z. 13</ls>).
+;--------------------------------------------------
+; <L>84648<pc>5047-3<k1>mahAbudDi
+; problem with:  VP. 6,4,29.
+421675 old 1. {#mahAbudDi#}¦ angeblich <lex>f.</lex> {%der Intellect%} <ls>VP.² 5,199.</ls> Die richtige Lesart ist {#°budDe#} <ab>Voc.</ab> <ls> VP. 6,4,29.</ls>
+; correction: ?
+421675 new 1. {#mahAbudDi#}¦ angeblich <lex>f.</lex> {%der Intellect%} <ls>VP.² 5,199.</ls> Die richtige Lesart ist {#°budDe#} <ab>Voc.</ab> <ls> VP. 6,4,29.</ls>
+;--------------------------------------------------
+; <L>99366<pc>6045-1<k1>vasantotsava
+; problem with: S. 115. fg.
+499180 old {#vasantotsava#}¦ <lex>m.</lex> {%das Frühlingsfest%} <ls n="Chr.">290,15.</ls> <ls n="Chr.">292,1.</ls> <ls>MĀLAV. ed. Calc. 1,10</ls> (<ab>vgl.</ab> <ls>S. 115. fg.</ls>).
+; correction: ?
+499180 new {#vasantotsava#}¦ <lex>m.</lex> {%das Frühlingsfest%} <ls n="Chr.">290,15.</ls> <ls n="Chr.">292,1.</ls> <ls>MĀLAV. ed. Calc. 1,10</ls> (<ab>vgl.</ab> <ls>S. 115. fg.</ls>).
+;--------------------------------------------------
+; <L>100922<pc>6067-2<k1>vAri
+; problem with: S. 310.
+507002 old <div n="1">— 3) {%*Rede , die Göttin der Rede.%} {#vArI#} scheinbar in <ls>Sitzungsberr. d. K. Pr. Ak. d. Ww. 1884 , S. 82</ls> , da hier statt {#mahAnayabAri bAri#} zu lesen ist {#mahAnayaparivAre#} ; <ab>vgl.</ab> <ab>ebend.</ab> <ls>S. 310.</ls>
+; correction: ?
+507002 new <div n="1">— 3) {%*Rede , die Göttin der Rede.%} {#vArI#} scheinbar in <ls>Sitzungsberr. d. K. Pr. Ak. d. Ww. 1884 , S. 82</ls> , da hier statt {#mahAnayabAri bAri#} zu lesen ist {#mahAnayaparivAre#} ; <ab>vgl.</ab> <ab>ebend.</ab> <ls>S. 310.</ls>
+;--------------------------------------------------
+; <L>114849<pc>6268-2<k1>SramaRa
+; problem with:  R. 1,1,55
+576955 old <div n="1">— 3) *<lex>f.</lex> {#A#} = {#SabarIBid#} (<ab>vgl.</ab> <ls> R. 1,1,55</ls>), {#maMsI , muRqIrI#} und {#sudarSanA#}.
+; correction: ?
+576955 new <div n="1">— 3) *<lex>f.</lex> {#A#} = {#SabarIBid#} (<ab>vgl.</ab> <ls> R. 1,1,55</ls>), {#maMsI , muRqIrI#} und {#sudarSanA#}.
+;--------------------------------------------------

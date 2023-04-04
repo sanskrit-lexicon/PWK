@@ -209,3 +209,10 @@ sh generate_dict.sh pw  ../../PWScan/2020/
 ---------------------------------------------------------
 Recompute the summary.
 python lsextract_all.py temp_pw_1.txt temp_pw_tooltip.txt lsextract_pw_1.txt
+---------------------------------------------------------
+ls_num_and_unknown
+
+python ls_num_and_unknown.py temp_pw_1.txt temp_pw_tooltip.txt ls_num_and_unknown.txt
+
+28 cases written to ls_num_and_unknown.txt
+---------------------------------------------------------
