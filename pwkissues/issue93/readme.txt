@@ -215,4 +215,51 @@ ls_num_and_unknown
 python ls_num_and_unknown.py temp_pw_1.txt temp_pw_tooltip.txt ls_num_and_unknown.txt
 
 28 cases written to ls_num_and_unknown.txt
+cp ls_num_and_unknown.txt change_2.txt
+# Manually edit change_2.txt and correct (use Andhrabharati suggestions).
+
+python updateByLine.py temp_pw_1.txt change_2.txt temp_pw_2.txt
+# 32 change transactions from change_2.txt
+
+# Recompute the summary.
+python lsextract_all.py temp_pw_2.txt temp_pw_tooltip.txt lsextract_pw_2.txt
+# 5 show as unknown.
+python ls_num_and_unknown.py temp_pw_2.txt temp_pw_tooltip.txt ls_num_and_unknown_2.txt
+These are questions of capitalization. PW has 'Med.' for these, versus
+the normal 'MED.'  Solution is to revise change_2.txt to use 'MED.'
+Also, make change to tooltips. Currently, There are tooltips for not only
+'MED.' but also 'MED. k.', 'MEd. m.', etc.  These are not needed.
+Remove them and just use 'MED.'
+However, retain MED. avy. AVYAYĀNEKĀRTHAVARGA am Ende des MEDINIKOŚA.
+
+# Recompute extracts, using these revisions
+python lsextract_all.py temp_pw_2.txt temp_pw_tooltip.txt lsextract_pw_2.txt
+# Now there are no 'NUMBER' and 'UNKNOWN' instances! Hurray!.
+
+cd /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue93
+
+cp temp_pw_tooltip.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/pw/pywork/pwauth/pwbib_input.txt
+---------------------------------------------------------
+# put new version of pw.txt into csl-orig
+cp temp_pw_2.txt /c/xampp/htdocs/cologne/csl-orig/v02/pw/pw.txt
+
+---------------------------
+# reconstruct local dictionary -- make sure new pw.xml validates
+cd  /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'pw ' redo_xampp_all.sh
+sh generate_dict.sh pw  ../../pw
+sh xmlchk_xampp.sh pw
+# ok
+
+cd /c/xampp/htdocs/cologne/csl-orig/
+update and push
+cd /c/xampp/htdocs/cologne/csl-pywork
+add (pw tooltips), and push
+
+--------------------------------
+sync csl-orig and csl-pywork at cologne to Github.
+
+
+cd /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue93
+push changes to github, and add comment to issue#93.
 ---------------------------------------------------------

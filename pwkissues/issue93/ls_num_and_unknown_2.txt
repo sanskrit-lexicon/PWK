@@ -1,0 +1,30 @@
+; <L>19232<pc>1235-1<k1>udvAhinI
+; problem with: Med. n. 772
+90933 old {#*udvAhinI#}¦ <lex>f.</lex> {%Strick%} <ls>Med. n. 772</ls> fehlerhaft für {#udvAhanI#}.
+; correction: ?
+90933 new {#*udvAhinI#}¦ <lex>f.</lex> {%Strick%} <ls>Med. n. 772</ls> fehlerhaft für {#udvAhanI#}.
+;--------------------------------------------------
+; <L>37528<pc>2193-2<k1>grAmIna
+; problem with: Med. n. 58
+183317 old {#grAmIna#}¦ <ls>Med. n. 58</ls> fehlerhaft für {#grAmIRa#} (aber kein Druckfehler).
+; correction: ?
+183317 new {#grAmIna#}¦ <ls>Med. n. 58</ls> fehlerhaft für {#grAmIRa#} (aber kein Druckfehler).
+;--------------------------------------------------
+; <L>41922<pc>2256-3<k1>jarAwa
+; problem with: Med. r. 184.
+206651 old {#*jarAwa#}¦ = {#pArpara#} <ls>H. an. 3,575.</ls> <ls>Med. r. 184.</ls>
+; correction: ?
+206651 new {#*jarAwa#}¦ = {#pArpara#} <ls>H. an. 3,575.</ls> <ls>Med. r. 184.</ls>
+;--------------------------------------------------
+; <L>55114<pc>3156-2<k1>DAtfkA
+; problem with: Med. k. 138
+273157 old {#*DAtfkA#}¦ <lex>f.</lex> <ls>Med. k. 138</ls> fehlerhaft für {#DAtrikA#}.
+; correction: ?
+273157 new {#*DAtfkA#}¦ <lex>f.</lex> <ls>Med. k. 138</ls> fehlerhaft für {#DAtrikA#}.
+;--------------------------------------------------
+; <L>62563<pc>4016-3<k1>pattra
+; problem with: Med. r. 56.
+310660 old <div n="1">— 3) {%*Vogel%} <ls>Med. r. 56.</ls>
+; correction: ?
+310660 new <div n="1">— 3) {%*Vogel%} <ls>Med. r. 56.</ls>
+;--------------------------------------------------
