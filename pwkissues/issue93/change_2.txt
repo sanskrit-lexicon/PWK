@@ -196,3 +196,7 @@
 ; <L>132069<pc>7232-2<k1>svad
 663403 old <div n="2">— b) {%Jmd geniessbar machen%} so <ab>v.a.</ab> {%beruhigen , besänftigen%} , <ab>Med.</ab> R.V. 9 , 105 , 1. <ab>Vgl.</ab> {#svaDay#}.
 663403 new <div n="2">— b) {%Jmd geniessbar machen%} so <ab>v.a.</ab> {%beruhigen , besänftigen%} , <ab>Med.</ab> <ls>ṚV. 9,105,1.</ls> <ab>Vgl.</ab> {#svaDay#}.
+; **********************************************************************************
+; <L>55553<pc>3164-1<k1>DUmaka
+275600 old <div n="2">— c) <ls>MED. k. 13</ls> fehlerhaft für {#BUmikA#}.
+275600 new <div n="2">— c) <ls>MED. k. 134</ls> fehlerhaft für {#BUmikA#}.

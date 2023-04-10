@@ -219,7 +219,7 @@ cp ls_num_and_unknown.txt change_2.txt
 # Manually edit change_2.txt and correct (use Andhrabharati suggestions).
 
 python updateByLine.py temp_pw_1.txt change_2.txt temp_pw_2.txt
-# 32 change transactions from change_2.txt
+# 33 change transactions from change_2.txt
 
 # Recompute the summary.
 python lsextract_all.py temp_pw_2.txt temp_pw_tooltip.txt lsextract_pw_2.txt
