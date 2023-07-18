@@ -1,0 +1,101 @@
+; **********************************************************
+; changes noticed during devanagari conversion
+; **********************************************************
+; <L>9574<pc>1112-3<k1>ard<k2>ard/<e>500
+44142 old <L>9574<pc>1112-3<k1>ard<k2>ard/<e>500
+;
+44142 new <L>9574<pc>1112-3<k1>ard<k2>ard<e>500
+;---------------------------------------------------
+; <L>9574<pc>1112-3<k1>ard<k2>ard/<e>500
+44143 old {#ard/#}¦ {#fdati#} (<ls>ṚV.</ls>), {#a/rdati#} und {#*fRatti#}
+;
+44143 new {#ard#}¦ {#fdati#} (<ls>ṚV.</ls>), {#a/rdati#} und {#*fRatti#}
+;---------------------------------------------------
+; <L>29905<pc>2090-2<k1>kfY<k2>kfY<e>000
+144239 old {#kfY#}¦ Bez. {%der Wurzel.%} {#kar^1 , karoti , kurute#} <ls n="Chr.">235,25.</ls>
+;
+144239 new {#kfY#}¦ Bez. {%der Wurzel.%} 1. {#kar#} , {#karoti , kurute#} <ls n="Chr.">235,25.</ls>
+;---------------------------------------------------
+; <L>52049<pc>3112-3<k1>dfSAna<k2>df/SAna<e>100
+257830 old <div n="1">— 1) <ab>Partic.</ab> von {#daS^#}
+;
+257830 new <div n="1">— 1) <ab>Partic.</ab> von {#darS#}
+;---------------------------------------------------
+; <L>60799<pc>3236-3<k1>nIv<k2>*nIv/<e>107
+301808 old <L>60799<pc>3236-3<k1>nIv<k2>*nIv/<e>107
+;
+301808 new <L>60799<pc>3236-3<k1>nIv<k2>*nIv<e>107
+;---------------------------------------------------
+; <L>60799<pc>3236-3<k1>nIv<k2>*nIv/<e>107
+301809 old {#*nIv/#}¦ {#nIvati (sTOlye)#}.
+;
+301809 new {#*nIv#},¦ {#nIvati (sTOlye)#}.
+;---------------------------------------------------
+; <L>85535<pc>5059-3<k1>mA<k2>mA<h>5<e>500
+426024 old <div n="m">— <ab>Intens.</ab> <ab>Partic.</ab> {#m^myat#} ( {#mo/miat#}) {%blökend%} (vom Bock).
+;
+426024 new <div n="m">— <ab>Intens.</ab> <ab>Partic.</ab> {#memyat#} ( {#mo/miat#}) {%blökend%} (vom Bock).
+;---------------------------------------------------
+; <L>86749<pc>5076-3<k1>mi<k2>mi<h>2<e>500
+432160 old <div n="p">— Mit {#parA#} {%zurückkehren%} im <ab>Partic.</ab> Fut. {#parA-m^zyan#} <ls>AIT. BR.</ls>
+;
+432160 new <div n="p">— Mit {#parA#} {%zurückkehren%} im <ab>Partic.</ab> Fut. {#parA-mezyan#} <ls>AIT. BR.</ls>
+;---------------------------------------------------
+; <L>97406<pc>6006-1<k1>vaj<k2>*vaj<e>500
+487480 old {#*vaj#}¦ , {#vajati#} ( {#gatO#}). {#vajayanti#} <ls>MBH. 2,1142</ls> fehlerhaft für {#var/jayanti#}. {#vAjay#} <ab>s.</ab> bes.
+;
+487480 new {#*vaj#}¦ , {#vajati#} ( {#gatO#}). {#vajayanti#} <ls>MBH. 2,1142</ls> fehlerhaft für {#varjayanti#}. {#vAjay#} <ab>s.</ab> bes.
+;---------------------------------------------------
+; <L>99664<pc>6048-3<k1>vasyasa<k2>vasyasa<e>000
+500583 old {#vasyasa#}¦ in {#pApa°#} und {#Svovasyas/#}.
+;
+500583 new {#vasyasa#}¦ in {#pApa°#} und {#Svovasyasa/#}.
+;---------------------------------------------------
+; <L>105645<pc>6139-1<k1>visarman<k2>visarma/n<e>100
+531294 old {#visarma/n#}¦ <lex>m.</lex> {%das Zerrinnen.%} {#visarmA/RaM kar/#} {%Etwas%} (<ab>Acc.</ab>) {%zerrinnen lassen.%}
+;
+531294 new {#visarma/n#}¦ <lex>m.</lex> {%das Zerrinnen.%} {#visarmA/RaM kar#} {%Etwas%} (<ab>Acc.</ab>) {%zerrinnen lassen.%}
+;---------------------------------------------------
+; <L>129442<pc>7187-1<k1>sotva<k2>(sotva)<e>100
+649155 old {#(sotva)#}¦ {#sp/tua#} <lex>Adj.</lex> {%zu keltern.%}
+;
+649155 new {#(sotva)#}¦ {#so/tua#} <lex>Adj.</lex> {%zu keltern.%}
+;---------------------------------------------------
+; **********************************************************
+; changes noticed during iast (roman) conversion
+; **********************************************************
+; <L>155<pc>1002-3<k1>akiMcanatA<k2>akiMcanatA<e>100
+716 old {#akiMcanatA#}¦ <lex>f.</lex> und {#aki^canatva#} <lex>n.</lex> {%Besitzlosigkeit , Armuth.%}
+;
+716 new {#akiMcanatA#}¦ <lex>f.</lex> und {#akiMcanatva#} <lex>n.</lex> {%Besitzlosigkeit , Armuth.%}
+;---------------------------------------------------
+; <L>22598<pc>1276-2<k1>o<k2>o/<h>3<e>000
+107183 old 3. {#o/#}¦ <ls n="Chr.">6,7.</ls> <ls n="Chr.">18,22</ls> =  ^2. {#A/^2+u#}
+;
+107183 new 3. {#o/#}¦ <ls n="Chr.">6,7.</ls> <ls n="Chr.">18,22</ls> =  ^2. {#A/#} + ^2. {#u#}
+;---------------------------------------------------
+; <L>55397<pc>3160-3<k1>Diz<k2>*Diz<h>1<e>000
+274662 old 1. {#*Diz#}¦ = {#DA^1 , diDezwi#} ( {#Sabde#}).
+;
+274662 new 1. {#*Diz#}¦ = 1. {#DA#}. {#diDezwi#} ({#Sabde#}).
+;---------------------------------------------------
+; <L>83663<pc>5034-1<k1>marj<k2>marj<h>1<e>500
+416714 old <div n="1">— 2) {%Etwas abwaschen%} , so <ab>v.a.</ab> {%rächen.%} {#0ratimArjita#}.
+;
+416714 new <div n="1">— 2) {%Etwas abwaschen%} , so <ab>v.a.</ab> {%rächen.%} {#pratimArjita#}.
+;---------------------------------------------------
+; <L>89765<pc>5120-3<k1>yaTA<k2>ya/TA<e>108
+447320 old <div n="1">— 1) {%wie , gleichwie%} (einem {#ta/TA , taTA taTA#} [106 , 33] , {#eva/ , evam#} oder {#tadvat#} entsprechend). {#ya/TA vA#} (nach einem vorangehenden {#vA#} ) {%oder wie sonst.%} {#ya/TA cit , ya/TA ha , ya/TA ha vE (33 , 7) , yaTA - iva , iva yaTA , ya/TevANga/#} (<ls>ṚV. 10,86,7</ls>), {#ya/TEva ha#} (<ls>Chr. 36,22</ls>). {%*Auch als Ausruf der Verwunderung.%} {#yaTo etat#} {%was das betrifft (dass)%}. {#yaTA - taTA#} {%oder%} {#yaTA - tEna satyEna#} bei Betheuerungen und festen Behauptungen {%so gewiss - so wahr%} ; ausnahmsweise wechseln in diesem Falle {#yaTA#} und {#taTA#} ihre Stellen.
+;
+447320 new <div n="1">— 1) {%wie , gleichwie%} (einem {#ta/TA , taTA taTA#} [106 , 33] , {#eva/ , evam#} oder {#tadvat#} entsprechend). {#ya/TA vA#} (nach einem vorangehenden {#vA#} ) {%oder wie sonst.%} {#ya/TA cit , ya/TA ha , ya/TA ha vE#} (33 , 7) , {#yaTA - iva , iva yaTA , ya/TevANga/#} (<ls>ṚV. 10,86,7</ls>), {#ya/TEva ha#} (<ls>Chr. 36,22</ls>). {%*Auch als Ausruf der Verwunderung.%} {#yaTo etat#} {%was das betrifft (dass)%}. {#yaTA - taTA#} {%oder%} {#yaTA - tEna satyEna#} bei Betheuerungen und festen Behauptungen {%so gewiss - so wahr%} ; ausnahmsweise wechseln in diesem Falle {#yaTA#} und {#taTA#} ihre Stellen.
+;---------------------------------------------------
+; <L>104498<pc>6122-3<k1>viS<k2>vi/S<h>2<e>100
+525581 old <div n="1">— 2) <ab>Sg.</ab> und <ab>Pl.</ab> {%Gemeinde%} (zunächst {%die kleinere Vereinigung innerhalb des Volkes) ; Stamm , Volk%} ; <ab>Pl.</ab> {%die Unterthanen , Leute , Mannschaft%} , {#viSAM patiH#} , {#viSAM nATaH#} , {#viSamISvara:#} und {#viSAM varizWaH#} so <ab>v.a.</ab> {%Fürst , König.%}
+;
+525581 new <div n="1">— 2) <ab>Sg.</ab> und <ab>Pl.</ab> {%Gemeinde%} (zunächst {%die kleinere Vereinigung innerhalb des Volkes) ; Stamm , Volk%} ; <ab>Pl.</ab> {%die Unterthanen , Leute , Mannschaft%} , {#viSAM patiH#} , {#viSAM nATaH#} , {#viSamISvaraH#} und {#viSAM varizWaH#} so <ab>v.a.</ab> {%Fürst , König.%}
+;---------------------------------------------------
+; <L>122811<pc>7098-2<k1>sah<k2>sah<h>1<e>500
+616619 old <div n="1">— 2) {%vermögen , im Stande sein%} (sowohl physisch als auch moralisch) ; {%sich bewogen fühlen , wollen%} ; die Ergänzung ein <ab>Infin.</ab> (<ls>DIVYĀVAD. 93,13. 17. 125,19. 293,26</ls>), ein <ab>Acc.</ab> {%({#svArTam#} so <ab>v.a.</ab> seine Sache zu betreiben vermögen)%} , {#°arTam#} ({#sekArtham#} {%zu begiessen%}), <ab>Acc.</ab> mit {#prati#} <ls>ŚIŚ. 14,83</ls>), <ab>Loc.</ab> oder <ab>Dat.</ab> Mit {#na#} und <ab>Infin.</ab> so <ab>v.a.</ab> {%sich nicht entschliessen können zu%} <ls>DIVYĀVAD. 502,2.</ls>
+;
+616619 new <div n="1">— 2) {%vermögen , im Stande sein%} (sowohl physisch als auch moralisch) ; {%sich bewogen fühlen , wollen%} ; die Ergänzung ein <ab>Infin.</ab> (<ls>DIVYĀVAD. 93,13. 17. 125,19. 293,26</ls>), ein <ab>Acc.</ab> {%({#svArTam#} so <ab>v.a.</ab> seine Sache zu betreiben vermögen)%} , {#°arTam#} ({#sekArTam#} {%zu begiessen%}), <ab>Acc.</ab> mit {#prati#} <ls>ŚIŚ. 14,83</ls>), <ab>Loc.</ab> oder <ab>Dat.</ab> Mit {#na#} und <ab>Infin.</ab> so <ab>v.a.</ab> {%sich nicht entschliessen können zu%} <ls>DIVYĀVAD. 502,2.</ls>
+;---------------------------------------------------
