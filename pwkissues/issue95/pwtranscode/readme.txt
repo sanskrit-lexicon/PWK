@@ -87,6 +87,7 @@ slp1a <L>139373<pc>704,3<k1>prAGoma<k2>prAg—homa<e>3
 
 Discussion of pw_deva.txt
 -------------------------
+NOTE: This uses the 'MW' transcoding rules:"  slp1_deva.xml and deva_slp1.xml
 
 This is how we can transcode pw.txt to Devanagari.
 
@@ -96,4 +97,19 @@ python pw_transcode.py deva slp1 pw_deva.txt temp_pw_slp1.txt
 
 Now, pw.txt and temp_pw_slp1.txt should be the same
 diff pw.txt temp_pw_slp1.txt 
+The files are the same!
+
+Discussion of 
+-------------------------
+NOTE: This uses the 'PW' transcoding rules:"  slp1_deva1.xml and deva1_slp1.xml
+(taken from csl-websanlexicon).
+
+This is how we can transcode pw.txt to Devanagari.
+
+python pw_transcode.py slp1 deva1 temp_pw_0.txt temp_pw_0_deva1.txt 
+
+python pw_transcode.py deva1 slp1 temp_pw_0_deva1.txt temp_pw_0_deva1_slp1.txt
+
+Now, temp_pw_0.txt and temp_pw_0_deva1_slp1.txt should be the same
+diff temp_pw_0.txt temp_pw_0_deva1_slp1.txt 
 The files are the same!
