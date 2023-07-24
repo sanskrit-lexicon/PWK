@@ -15,3 +15,9 @@ gra_tooltip.txt
 Ref: https://github.com/sanskrit-lexicon/PWK/issues/96
 
 AV.  ATHARVAVEDA, Ausg. von ROTH und WHITNEY (ROTH). 
+----------------------------------------
+07-24-2023
+
+evaluate initial Andhrabharati version.
+See directory compare0.
+
