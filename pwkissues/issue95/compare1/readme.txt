@@ -61,5 +61,17 @@ ab1 has 135771 entries
 
 ab1 has 14 fewer metalines than ab0!.
 ---------------------------------------------------------
+07-25-2023
+take into account 4 AB comments ending at
+  https://github.com/sanskrit-lexicon/PWK/issues/95#issuecomment-1649160875
+ 
 
-  
+Revise temp_pw_ab_1.txt,
+python ../diff_to_changes_dict.py ../temp_pw_ab_1_orig.txt ../temp_pw_ab_1.txt change_ab_1.txt
+10 changes written to change_ab_1.txt
+
+remake dev1
+cd ../
+sh redo.sh 1
+python /c/xampp/htdocs/cologne/xmlvalidate.py dev1/pywork/pw.xml dev1/pywork/pw.dtd
+

@@ -1,8 +1,3 @@
-; <L>14083<pc>1166-3<k1>Ati<k2>Ati/<e>100
-64610 old {#Ati/#} und {#AtI/#}¦ <lex>f.</lex> {%ein <ab>best.</ab> Wasservogel%}. *{%<zoo>Turdus ginginianus H.</zoo>%}
-;
-64610 new {#Ati/#} und {#AtI/#}¦ <lex>f.</lex> {%ein <ab>best.</ab> Wasservogel%}. *{%<bio>Turdus ginginianus H.</bio>%}
-;---------------------------------------------------
 ; <L>20967<pc>1256-1<k1>UKara<k2>UKara<e>100
 98236 old {#UKara#}¦ <lex>m.</lex> <ab>Pl.</ab> <ab>N. pr.</ab> einer <is>Śiva</is>ʼitischen</is> Secte.
 ;
@@ -21,17 +16,12 @@
 ; <L>76880<pc>4223-2<k1>bAhAdura<k2>bAhAdura<e>100
 377536 old {#bAhAdura#}¦ <lex>m.</lex> als <ab>Beiw.</ab> von neuerer Zeit so <ab>v. a.</ab> {%Held%} (<lang n="arabic">بهاتور</lang>, <lang n="???">???</lang>, <lang n="russian">богатырь</lang>).
 ;
-377536 new {#bAhAdura#}¦ <lex>m.</lex> als <ab>Beiw.</ab> von neuerer Zeit so <ab>v. a.</ab> {%Held%} (<lang n="arabic">بهاتور</lang>, <lang n="unknown">???</lang>, <lang n="russian">богатырь</lang>).
+377536 new {#bAhAdura#}¦ <lex>m.</lex> als <ab>Beiw.</ab> von neuerer Zeit so <ab>v. a.</ab> {%Held%} (<lang n="arabic">بهاتور</lang>, <lang n="UNK">???</lang>, <lang n="russian">богатырь</lang>).
 ;---------------------------------------------------
 ; <L>81244<pc>4289-2<k1>BrAtar<k2>BrA/tar<e>100
 399631 old <div n="1">— 1〉 {%Bruder%}. Häufig als <ab>Bez.</ab> eines nahe Befreundeten, eines Wesens ähnlichen%} oder überhaupt in der traulichen Anrede. {#BrAtarO#}* {%Bruder und Schwester;%} <ls n="Chr.">135,19</ls> werden {%Vater und Sohn%} so genannt, darauf hin, dass der Vater die Tochter der Frau des Sohnes (die aber nicht die Tochter des Sohnes ist) geheirathet hat. {#pitfvyaputraBrAtaras#} {%Söhne des Oheims und zugleich Brüder,%} so <ab>v. a.</ab> {%Vetter%}.
 ;
 399631 new <div n="1">— 1〉 {%Bruder%}. Häufig als <ab>Bez.</ab> {%eines nahe Befreundeten, eines Wesensähnlichen%} oder überhaupt in der traulichen Anrede. {#BrAtarO#}* {%Bruder und Schwester;%} <ls n="Chr.">135,19</ls> werden {%Vater und Sohn%} so genannt, darauf hin, dass der Vater die Tochter der Frau des Sohnes (die aber nicht die Tochter des Sohnes ist) geheirathet hat. {#pitfvyaputraBrAtaras#} {%Söhne des Oheims und zugleich Brüder,%} so <ab>v. a.</ab> {%Vetter%}.
-;---------------------------------------------------
-; <L>83401<pc>5030-2<k1>manyA<k2>ma/nyA<e>107
-410432 old {#ma/nyA#}, {#ma/niA#}¦ <lex>f.</lex> <ab>Du.</ab> und <ab>Pl.</ab> {%die Nackenmuskeln,%} {%<zoo>Musculus cucullaris s. trapezius</zoo>%}, {%Nacken%}.
-;
-410432 new {#ma/nyA#}, {#ma/niA#}¦ <lex>f.</lex> <ab>Du.</ab> und <ab>Pl.</ab> {%die Nackenmuskeln,%} {%<bio>Musculus cucullaris s. trapezius</bio>%}, {%Nacken%}.
 ;---------------------------------------------------
 ; <L>96287<pc>5227-3<k1>lI<k2>lI<h>1<e>500
 475943 old <div n="p">— Mit {#vi#} ({#°lIyate#}, {#°lilyus#}, {#°lIya}, *⁾{#°lAya#})
