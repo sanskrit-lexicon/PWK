@@ -50,18 +50,35 @@ def write_diffs(fileout,diffs):
    for out in outarr:
     f.write(out+'\n')
  print(len(diffs),"differences written to",fileout)
+def hwdiffs(lines0,lines1):
+ metas0 = [line for line in lines0 if line.startswith('<L>')]
+ metas1 = [line for line in lines1 if line.startswith('<L>')]
+ print('ab0 has %s entries' % len(metas0))
+ print('ab1 has %s entries' % len(metas1))
+ a = set(metas0)
+ b = set(metas1)
+ c = a.intersection(b)
+ print('%s metalines are identical' % len(c))
+ d = a.difference(b)
+ outarr = []
+ print('%s metalines are in ab0 only' % len(d))
+ d1 = b.difference(a)
+ print('%s metalines are in ab1 only' % len(d1))
  
-def hwdiffs(cdsl_lines,ab_lines):
- cdsl_metas = [line for line in cdsl_lines if line.startswith('<L>')]
- ab_metas = [line for line in ab_lines if line.startswith('<L>')]
- print('ab0 has %s entries' % len(cdsl_metas))
- print('ab1 has %s entries' % len(ab_metas))
+ for meta in metas0:
+  if meta not in b:
+   print('only ab0: %s ' % meta)
+ print()
+ for meta in metas1:
+  if meta not in a:
+   print('only ab1: %s ' % meta)
+ 
  print('exiting in hwdiffs')
- exit(1)
- assert len(cdsl_metas) == len(ab_metas)
+ return
+ assert len(metas0) == len(metas1)
  diffs = []
- for iline,line in enumerate(cdsl_metas):
-  line1 = ab_metas[iline]
+ for iline,line in enumerate(metas0):
+  line1 = metas1[iline]
   if line != line1:
    diff = (line,line1)
    diffs.append(diff)
@@ -74,7 +91,7 @@ if __name__=="__main__":
  fileout = sys.argv[3] # 
  lines = read_lines(filein)
  lines1 = read_lines(filein1)
- diffs = hwdiffs(lines,lines1)
- 
- write_diffs(fileout,diffs)
+ hwdiffs(lines,lines1) #count comparison
+ #diffs = hwdiffs_L(lines,lines1)
+ #write_diffs(fileout,diffs)
  
