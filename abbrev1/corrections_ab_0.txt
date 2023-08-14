@@ -1,0 +1,37 @@
+old: <is>Śiva</is>ʼitischen</is>
+new: <is>Śiva</is>ʼitischen
+
+old: <bot>Croton polyandrum oder Tiglium</bot>, Myrobalanenbaum</bot>
+new: <bot>Croton polyandrum oder Tiglium</bot>, <bot>Myrobalanenbaum</bot>
+
+old: <ab n="Altersschwäche"A.</ab>
+new: <ab n="Altersschwäche">A.</ab>
+
+old: {%Bruder%}. Häufig als <ab>Bez.</ab> eines nahe Befreundeten, eines Wesens ähnlichen%} oder überhaupt in der traulichen Anrede.
+new: {%Bruder%}. Häufig als <ab>Bez.</ab> {%eines nahe Befreundeten, eines Wesensähnlichen%} oder überhaupt in der traulichen Anrede.
+
+old: {#°lIya}, *{#°lAya#})
+new: {#°lIya#}, *{#°lAya#})
+old: <F>*⁾Wäre bis auf das {#la#} ein regelmässige Imperfect von {#ay#}, {#ayate#} mit {#nis#}.</F>
+new: [Fußnote: *Wäre bis auf das {#la#} ein regelmässiges Imperfect von {#ay#}, {#ayate#} mit {#nis#}.]
+NOTE: The <F>x</F> element does not parse in xml.
+  Since there is only one instance,
+  let's use another form for this instance
+
+old: <s>varh</s>  <ab>s.</ab> >hom>1.</hom> und
+new: <s>varh</s>  <ab>s.</ab> <hom>1.</hom> und
+
+old: <s>varh</s>  <ab>s.</ab> >hom>1.</hom> und
+new: <s>varh</s>  <ab>s.</ab> <hom>1.</hom> und
+
+old: <ls n="KĀD. >177,1</ls>
+new: <ls n="KĀD.">177,1</ls>
+
+old: <ls n="Pāṇini>P.</ls>
+new: <ls n="Pāṇini">P.</ls>
+
+------------------------------
+old: <lang n="???">???</lang>
+new: <lang>???</lang>
+Only one instance.  Make it so this parses.
+
