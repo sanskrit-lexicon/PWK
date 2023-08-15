@@ -1,4 +1,7 @@
 abbrev1/readme.txt
+NOTE:  08-15-2023  THIS DIRECTORY ORPHANED.
+  Work moved to pwkissues/issue88
+  
 Improve abbreviation markup in PWK.
 August 2023
 This continues the work of 'abbrev' directory.
