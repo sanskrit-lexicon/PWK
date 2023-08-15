@@ -1,0 +1,131 @@
+; None
+; old: <LEND>〉
+; new: <LEND>
+; -----
+2051 old <LEND>〉
+;
+2051 new <LEND>
+; --------------------------------------------------------
+; <L>13353<pc>1158-1<k1>AkAraka<k2>AkAraka<e>100
+; old: <L>13353<pc>1158-1<k1>AkAraka<k2>AkAraka<e>100
+; new: <L>13353<pc>1158-1<k1>Akarika<k2>Akarika<e>100
+; -----
+61243 old <L>13353<pc>1158-1<k1>AkAraka<k2>AkAraka<e>100
+;
+61243 new <L>13353<pc>1158-1<k1>Akarika<k2>Akarika<e>100
+; --------------------------------------------------------
+; <L>13353<pc>1158-1<k1>AkAraka<k2>AkAraka<e>100
+; old: {#AkAraka#}¦ <lex>Adj.</lex>
+; new: {#Akarika#}¦ <lex>Adj.</lex>
+; -----
+61244 old {#AkAraka#}¦ <lex>Adj.</lex> {%in einer Mine beschäftigt,%} <lex>m.</lex> {%Bergmann%} <ls>KĀŚ.</ls> zu <ls>P. 4,4,69</ls>.
+;
+61244 new {#Akarika#}¦ <lex>Adj.</lex> {%in einer Mine beschäftigt,%} <lex>m.</lex> {%Bergmann%} <ls>KĀŚ.</ls> zu <ls>P. 4,4,69</ls>.
+; --------------------------------------------------------
+; <L>19684<pc>1240-3<k1>upanikzepa<k2>upanikzepa<e>100ṇ
+; old: upanikzepa<e>100ṇ
+; new: upanikzepa<e>100
+; -----
+92175 old <L>19684<pc>1240-3<k1>upanikzepa<k2>upanikzepa<e>100ṇ
+;
+92175 new <L>19684<pc>1240-3<k1>upanikzepa<k2>upanikzepa<e>100
+; --------------------------------------------------------
+; <L>20967<pc>1256-1<k1>UKara<k2>UKara<e>100
+; old: <is>Śiva</is>ʼitischen</is>
+; new: <is>Śiva</is>ʼitischen
+; -----
+98236 old {#UKara#}¦ <lex>m.</lex> <ab>Pl.</ab> <ab>N. pr.</ab> einer <is>Śiva</is>ʼitischen</is> Secte.
+;
+98236 new {#UKara#}¦ <lex>m.</lex> <ab>Pl.</ab> <ab>N. pr.</ab> einer <is>Śiva</is>ʼitischen Secte.
+; --------------------------------------------------------
+; <L>39963<pc>2228-1<k1>citra<k2>citra/<e>100
+; old: <bot>Croton polyandrum oder Tiglium</bot>, Myrobalanenbaum</bot>
+; new: <bot>Croton polyandrum oder Tiglium</bot>, <bot>Myrobalanenbaum</bot>
+; -----
+194132 old <div n="2">— c〉 <ab>Bez.</ab> {%verschiedener Pflanzen%} <ls>CARAKA. 7,12</ls>. (= {#dravantI#}). Nach den Lexicographen: {%<bot>Salvinia cucullata</bot>, <bot>Cucumis maderaspatanus</bot>, Koloquinthe, <bot>Ricinus communis</bot>, <bot>Croton polyandrum oder Tiglium</bot>, Myrobalanenbaum</bot>, <bot>Rubia Munjista</bot>%} und {%ein <ab>best.</ab> Gras%} ({#gaRqadUrvA#}).
+;
+194132 new <div n="2">— c〉 <ab>Bez.</ab> {%verschiedener Pflanzen%} <ls>CARAKA. 7,12</ls>. (= {#dravantI#}). Nach den Lexicographen: {%<bot>Salvinia cucullata</bot>, <bot>Cucumis maderaspatanus</bot>, Koloquinthe, <bot>Ricinus communis</bot>, <bot>Croton polyandrum oder Tiglium</bot>, <bot>Myrobalanenbaum</bot>, <bot>Rubia Munjista</bot>%} und {%ein <ab>best.</ab> Gras%} ({#gaRqadUrvA#}).
+; --------------------------------------------------------
+; <L>41943<pc>2257-1<k1>jariman<k2>jarima/n<e>100
+; old: <ab n="Altersschwäche"A.</ab>
+; new: <ab n="Altersschwäche">A.</ab>
+; -----
+204461 old {#jarima/n#}¦ <lex>m.</lex> {%Alter, Altersschwäche, Tod durch <ab n="Altersschwäche"A.</ab>%}
+;
+204461 new {#jarima/n#}¦ <lex>m.</lex> {%Alter, Altersschwäche, Tod durch <ab n="Altersschwäche">A.</ab>%}
+; --------------------------------------------------------
+; <L>76880<pc>4223-2<k1>bAhAdura<k2>bAhAdura<e>100
+; old: <lang n="???">???</lang>
+; new: <lang>???</lang>
+; -----
+; old: <lang>???</lang>
+; new: <lang n="UNK">???</lang>
+; -----
+377536 old {#bAhAdura#}¦ <lex>m.</lex> als <ab>Beiw.</ab> von neuerer Zeit so <ab>v. a.</ab> {%Held%} (<lang n="arabic">بهاتور</lang>, <lang n="???">???</lang>, <lang n="russian">богатырь</lang>).
+;
+377536 new {#bAhAdura#}¦ <lex>m.</lex> als <ab>Beiw.</ab> von neuerer Zeit so <ab>v. a.</ab> {%Held%} (<lang n="arabic">بهاتور</lang>, <lang n="UNK">???</lang>, <lang n="russian">богатырь</lang>).
+; --------------------------------------------------------
+; <L>81244<pc>4289-2<k1>BrAtar<k2>BrA/tar<e>100
+; old: {%Bruder%}. Häufig als <ab>Bez.</ab> eines nahe Befreundeten, eines Wesens ähnlichen%} oder überhaupt in der traulichen Anrede.
+; new: {%Bruder%}. Häufig als <ab>Bez.</ab> {%eines nahe Befreundeten, eines Wesensähnlichen%} oder überhaupt in der traulichen Anrede.
+; -----
+399631 old <div n="1">— 1〉 {%Bruder%}. Häufig als <ab>Bez.</ab> eines nahe Befreundeten, eines Wesens ähnlichen%} oder überhaupt in der traulichen Anrede. {#BrAtarO#}* {%Bruder und Schwester;%} <ls n="Chr.">135,19</ls> werden {%Vater und Sohn%} so genannt, darauf hin, dass der Vater die Tochter der Frau des Sohnes (die aber nicht die Tochter des Sohnes ist) geheirathet hat. {#pitfvyaputraBrAtaras#} {%Söhne des Oheims und zugleich Brüder,%} so <ab>v. a.</ab> {%Vetter%}.
+;
+399631 new <div n="1">— 1〉 {%Bruder%}. Häufig als <ab>Bez.</ab> {%eines nahe Befreundeten, eines Wesensähnlichen%} oder überhaupt in der traulichen Anrede. {#BrAtarO#}* {%Bruder und Schwester;%} <ls n="Chr.">135,19</ls> werden {%Vater und Sohn%} so genannt, darauf hin, dass der Vater die Tochter der Frau des Sohnes (die aber nicht die Tochter des Sohnes ist) geheirathet hat. {#pitfvyaputraBrAtaras#} {%Söhne des Oheims und zugleich Brüder,%} so <ab>v. a.</ab> {%Vetter%}.
+; --------------------------------------------------------
+; <L>96287<pc>5227-3<k1>lI<k2>lI<h>1<e>500
+; old: {#°lIya}, *⁾{#°lAya#})
+; new: {#°lIya#}, *{#°lAya#})
+; -----
+475943 old <div n="p">— Mit {#vi#} ({#°lIyate#}, {#°lilyus#}, {#°lIya}, *⁾{#°lAya#})
+;
+475943 new <div n="p">— Mit {#vi#} ({#°lIyate#}, {#°lilyus#}, {#°lIya#}, *{#°lAya#})
+; --------------------------------------------------------
+; <L>96287<pc>5227-3<k1>lI<k2>lI<h>1<e>500
+; old: <F>*⁾Wäre bis auf das {#la#} ein regelmässige Imperfect von {#ay#}, {#ayate#} mit {#nis#}.</F>
+; new: [Fußnote: *Wäre bis auf das {#la#} ein regelmässiges Imperfect von {#ay#}, {#ayate#} mit {#nis#}.]
+; -----
+475944 old <F>*⁾Wäre bis auf das {#la#} ein regelmässige Imperfect von {#ay#}, {#ayate#} mit {#nis#}.</F>
+;
+475944 new [Fußnote: *Wäre bis auf das {#la#} ein regelmässiges Imperfect von {#ay#}, {#ayate#} mit {#nis#}.]
+; --------------------------------------------------------
+; <L>99072<pc>6039-1<k1>varh<k2>varh<e>500
+; old: {#varh#}¦ <ab>s.</ab> >hom>1.</hom> und
+; new: {#varh#}¦ <ab>s.</ab> <hom>1.</hom> und
+; -----
+491449 old {#varh#}¦ <ab>s.</ab> >hom>1.</hom> und <hom>2.</hom> {#barh#}.
+;
+491449 new {#varh#}¦ <ab>s.</ab> <hom>1.</hom> und <hom>2.</hom> {#barh#}.
+; --------------------------------------------------------
+; <L>107257<pc>6160-2<k1>vedI<k2>vedI<e>100
+; old: <ab>s. u.</ab> >hom>1.</hom> und <hom>2.</hom>
+; new: <ab>s. u.</ab> <hom>1.</hom> und <hom>2.</hom>
+; -----
+532605 old {#vedI#}¦ <lex>f.</lex> <ab>s. u.</ab> >hom>1.</hom> und <hom>2.</hom> {#vedi#}.
+;
+532605 new {#vedI#}¦ <lex>f.</lex> <ab>s. u.</ab> <hom>1.</hom> und <hom>2.</hom> {#vedi#}.
+; --------------------------------------------------------
+; <L>120161<pc>7058-2<k1>samaha<k2>sa\ma\ha\<e>100
+; old: (= {#praSasta#} {#saDana#} <ab>u. s. w.</ab>)
+; new: (= {#praSasta#}, {#saDana#} <ab>u. s. w.</ab>)
+; -----
+595959 old {#sa\ma\ha\#}¦ <lex>Adv.</lex> {%irgendwie, so oder so%}. Nach <ls>SĀY.</ls> <lex>Adj.</lex> (= {#praSasta#} {#saDana#} <ab>u. s. w.</ab>) im <ab>Voc.</ab>
+;
+595959 new {#sa\ma\ha\#}¦ <lex>Adv.</lex> {%irgendwie, so oder so%}. Nach <ls>SĀY.</ls> <lex>Adj.</lex> (= {#praSasta#}, {#saDana#} <ab>u. s. w.</ab>) im <ab>Voc.</ab>
+; --------------------------------------------------------
+; <L>131520<pc>7222-3<k1>sPal<k2>sPal<e>500
+; old: <ls n="KĀD. >177,1</ls>
+; new: <ls n="KĀD.">177,1</ls>
+; -----
+652261 old <div n="1">— 1〉 {%anprallen lassen an, schlagen —, patschen auf%} (<ab>Acc.</ab> <ls>ŚIŚ. 18,9. 20,7</ls>), (eine Laute) {%schlagen%} (<ls>KĀD. 99,7</ls> = <ls n="KĀD. >177,1</ls>), {%schleudern gegen%} (<ab>Loc.</ab>). {#lANgUlam#} so <ab>v. a.</ab> {%mit dem Schweife schlagen%}.
+;
+652261 new <div n="1">— 1〉 {%anprallen lassen an, schlagen —, patschen auf%} (<ab>Acc.</ab> <ls>ŚIŚ. 18,9. 20,7</ls>), (eine Laute) {%schlagen%} (<ls>KĀD. 99,7</ls> = <ls n="KĀD.">177,1</ls>), {%schleudern gegen%} (<ab>Loc.</ab>). {#lANgUlam#} so <ab>v. a.</ab> {%mit dem Schweife schlagen%}.
+; --------------------------------------------------------
+; <L>133040<pc>7245-2<k1>svAnta<k2>svAnta<e>100
+; old: <ls n="Pāṇini>P.</ls>
+; new: <ls n="Pāṇini">P.</ls>
+; -----
+659744 old <div n="2">— b〉 *{%Höhle%}. — Nach <ls n="Pāṇini>P.</ls> <ab>Partic.</ab> von {#svan#}.
+;
+659744 new <div n="2">— b〉 *{%Höhle%}. — Nach <ls n="Pāṇini">P.</ls> <ab>Partic.</ab> von {#svan#}.
+; --------------------------------------------------------
