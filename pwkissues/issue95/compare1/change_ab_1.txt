@@ -1,3 +1,23 @@
+; <L>444<pc>1006-1<k1>agaru<k2>*agaru<e>100
+2051 old <LEND>〉
+;
+2051 new <LEND>
+;---------------------------------------------------
+; <L>13353<pc>1158-1<k1>AkAraka<k2>AkAraka<e>100
+61243 old <L>13353<pc>1158-1<k1>AkAraka<k2>AkAraka<e>100
+;
+61243 new <L>13353<pc>1158-1<k1>Akarika<k2>Akarika<e>100
+;---------------------------------------------------
+; <L>13353<pc>1158-1<k1>AkAraka<k2>AkAraka<e>100
+61244 old {#AkAraka#}¦ <lex>Adj.</lex> {%in einer Mine beschäftigt,%} <lex>m.</lex> {%Bergmann%} <ls>KĀŚ.</ls> zu <ls>P. 4,4,69</ls>.
+;
+61244 new {#Akarika#}¦ <lex>Adj.</lex> {%in einer Mine beschäftigt,%} <lex>m.</lex> {%Bergmann%} <ls>KĀŚ.</ls> zu <ls>P. 4,4,69</ls>.
+;---------------------------------------------------
+; <L>19684<pc>1240-3<k1>upanikzepa<k2>upanikzepa<e>100ṇ
+92175 old <L>19684<pc>1240-3<k1>upanikzepa<k2>upanikzepa<e>100ṇ
+;
+92175 new <L>19684<pc>1240-3<k1>upanikzepa<k2>upanikzepa<e>100
+;---------------------------------------------------
 ; <L>20967<pc>1256-1<k1>UKara<k2>UKara<e>100
 98236 old {#UKara#}¦ <lex>m.</lex> <ab>Pl.</ab> <ab>N. pr.</ab> einer <is>Śiva</is>ʼitischen</is> Secte.
 ;
@@ -37,6 +57,11 @@
 532605 old {#vedI#}¦ <lex>f.</lex> <ab>s. u.</ab> >hom>1.</hom> und <hom>2.</hom> {#vedi#}.
 ;
 532605 new {#vedI#}¦ <lex>f.</lex> <ab>s. u.</ab> <hom>1.</hom> und <hom>2.</hom> {#vedi#}.
+;---------------------------------------------------
+; <L>120161<pc>7058-2<k1>samaha<k2>sa\ma\ha\<e>100
+595959 old {#sa\ma\ha\#}¦ <lex>Adv.</lex> {%irgendwie, so oder so%}. Nach <ls>SĀY.</ls> <lex>Adj.</lex> (= {#praSasta#} {#saDana#} <ab>u. s. w.</ab>) im <ab>Voc.</ab>
+;
+595959 new {#sa\ma\ha\#}¦ <lex>Adv.</lex> {%irgendwie, so oder so%}. Nach <ls>SĀY.</ls> <lex>Adj.</lex> (= {#praSasta#}, {#saDana#} <ab>u. s. w.</ab>) im <ab>Voc.</ab>
 ;---------------------------------------------------
 ; <L>131520<pc>7222-3<k1>sPal<k2>sPal<e>500
 652261 old <div n="1">— 1〉 {%anprallen lassen an, schlagen —, patschen auf%} (<ab>Acc.</ab> <ls>ŚIŚ. 18,9. 20,7</ls>), (eine Laute) {%schlagen%} (<ls>KĀD. 99,7</ls> = <ls n="KĀD. >177,1</ls>), {%schleudern gegen%} (<ab>Loc.</ab>). {#lANgUlam#} so <ab>v. a.</ab> {%mit dem Schweife schlagen%}.

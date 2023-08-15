@@ -1,0 +1,9 @@
+old <L>13353<pc>1158-1<k1>AkAraka<k2>AkAraka<e>100
+new <L>13353<pc>1158-1<k1>Akarika<k2>Akarika<e>100
+   reasons: alphabetical order. pwg
+
+new: <L>78979<pc>4253-2<k1>Barb<k2>°Barb<e>500
+old: <L>78979<pc>4253-2<k1>Barb<k2>*Barb<e>500
+Ref: https://github.com/sanskrit-lexicon/PWK/issues/95#issuecomment-1650835794
+
+

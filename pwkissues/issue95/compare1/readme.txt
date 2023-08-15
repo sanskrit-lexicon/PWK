@@ -89,20 +89,23 @@ ab1 errors ?  (based on differences between metalines in ab0, ab1 versions.
 only ab0: <L>13353<pc>1158-1<k1>Akarika<k2>Akarika<e>100
 only ab1: <L>13353<pc>1158-1<k1>AkAraka<k2>AkAraka<e>100
    ab1 error?  cf pwg, alphabetical order  (Note: 'pw print error')
-
+   yes. AB agrees
+   
 only ab0: <L>19684<pc>1240-3<k1>upanikzepa<k2>upanikzepa<e>100
 only ab1: <L>19684<pc>1240-3<k1>upanikzepa<k2>upanikzepa<e>100ṇ
    ab1 error? ṇ
-
+   yes: AB agrees
+   
 only ab0: <L>78979<pc>4253-2<k1>Barb<k2>°Barb<e>500
 only ab1: <L>78979<pc>4253-2<k1>Barb<k2>*Barb<e>500
-      ab1 error?
-
+      ab1 error?  
+      No. AB disagrees. Ref: https://github.com/sanskrit-lexicon/PWK/issues/95#issuecomment-1650835794
+      
 only ab0: <L>120161<pc>7058-2<k1>samaha<k2>samaha.<e>100
 only ab1: <L>120161<pc>7058-2<k1>samaha<k2>sa\ma\ha\<e>100
      ab1 correction.
      additionally, ab1 error?: (add comma) {#praSasta#}, {#saDana#}
-
+     yes: AB agrees.
 ---------------------
  The rest are ab0 errors corrected in ab1
 only ab0: <L>2585<pc>1030-3<k1>adyAraBya<k2>adyAraBya<e>100 merged into 2584-adya
@@ -156,3 +159,7 @@ only ab0: <L>129746<pc>7190-3<k1>somAmbuya<k2>somAmbuya<e>100
 only ab1: <L>129746<pc>7190-3<k1>somAmbupa<k2>somAmbupa<e>100
      ab1 correction
      
+RERUN
+python ../diff_to_changes_dict.py ../temp_pw_ab_1_orig.txt ../temp_pw_ab_1.txt change_ab_1.txt
+15 changes written to change_ab_1.txt
+----------------------------------------------------------------------
