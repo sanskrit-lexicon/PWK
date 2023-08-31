@@ -54,7 +54,7 @@ v.a.	<id>v.a.</id> <disp>vor allem - above all, especially</disp>
 gedr.	<id>gedr.</id> <disp>gedruckt - printed</disp>
 u.s.w.	<id>u.s.w.</id> <disp>und so weiter - and so on, and so forth = etc.</disp>
 Vgl.	<id>Vgl.</id> <disp>Vergleiche - compare</disp>
-vgl.	<id>Vgl.</id> <disp>vergleiche - compare</disp>
+vgl.	<id>vgl.</id> <disp>vergleiche - compare</disp>
 Voc.	<id>Voc.</id> <disp>Vocativ - vocative (case)</disp>
 Adj.	<id>Adj.</id> <disp>Adjectiv - adjective</disp>
 adj.	<id>adj.</id> <disp>adjectivisch - adjective</disp>

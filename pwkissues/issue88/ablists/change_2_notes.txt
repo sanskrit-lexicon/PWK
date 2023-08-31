@@ -1,0 +1,4561 @@
+-------------------------------------------------------
+Notes on changes to temp_pw_2.txt. 
+-------------------------------------------------------
+#1: <L>2585<pc>1030-3<k1>adyAraBya<k2>adyAraBya<e>100
+#2: <L>2586<pc>1030-3<k1>adyatana<k2>adyatana<e>100
+ Merge 2585 into 2584
+-----
+#1: <L>5654<pc>1067-1<k1>anyadAsTita<k2>*anyadAsTita<e>100
+#2: <L>5655<pc>1067-1<k1>anyadIya<k2>anyadIya<e>100
+ merge 5654 into 5653
+-----
+#1: <L>13614<pc>1161-1<k1>matsya<k2>*°matsya<e>108
+#2: <L>13615<pc>1161-1<k1>AgatAgama<k2>AgatAgama<e>100
+ merge 13614 into 13613
+-----
+#1: <L>15675<pc>1185-2<k1>ArDadroRika<k2>*ArDadroRika<e>100
+#2: <L>15676<pc>1185-2<k1>ArDaDAtuka<k2>ArDaDAtuka<e>100
+ merge 15675 into 15674
+-----
+#1: <L>22636<pc>1276-3<k1>ojasvant<k2>o/jasvant<e>100
+#2: <L>22637<pc>1276-3<k1>ojasvitA<k2>ojasvitA<e>100
+
+ merge 22636 into 22635
+-----
+#1: <L>22840<pc>1279-1<k1>Odanyi<k2>*Odanyi<e>100
+#2: <L>22841<pc>1279-1<k1>Odanvata<k2>Odanvata<e>100
+
+ merge 22840 into 22839
+-----
+merge 27164 into 27163
+-----
+#1: <L>35708<pc>2169-2<k1>guRadiDitiwippaRI<k2>guRadiDitiwippaRI<e>100
+#2: <L>35708<pc>2169-2<k1>guRadIDitiwippaRI<k2>guRadIDitiwippaRI<e>100
+
+guRadiDi -> guRadIDi
+-----
+#1: <L>42554<pc>2264-1<k1>tika<k2>*°tika<e>100
+#2: <L>42555<pc>2264-1<k1>jAnuprahfta<k2>*jAnuprahfta<e>100
+
+Merge 42554 into 42553
+-----
+#1: <L>44029<pc>2284-3<k1>ta<k2>ta/<h>1<e>500
+#2: <L>44029<pc>3001-1<k1>ta<k2>ta/<h>1<e>500
+ change pc
+-----
+#1: <L>61551<pc>3246-2<k1>pa<k2>pa<h>1<e>500
+#2: <L>61551<pc>4001-1<k1>pa<k2>pa<h>1<e>500
+ change pc
+-----
+#1: <L>61775<pc>4004-2<k1>pacaMbacA<k2>*pacaMbacA<e>100
+#2: <L>61776<pc>4004-2<k1>pacalavaRA<k2>*pacalavaRA<e>100
+ merge 61775 into 61774
+-----
+#1: <L>68374<pc>4102-2<k1>pattraJaMkAra<k2>pattraJaMkAra<e>000
+#2: <L>68375<pc>4102-2<k1>puroqAS<k2>puroqA/S<e>107
+ merge 68374 into 68373
+-----
+#1: <L>78596<pc>4247-3<k1>BawwasvAmin<k2>BawwasvAmin<e>100
+#2: <L>78597<pc>4247-3<k1>BawwAcArya<k2>BawwAcArya<e>100
+ merge 78596 into 78595
+-----
+#1: <L>78979<pc>4253-2<k1>Barb<k2>°Barb<e>500
+#2: <L>78979<pc>4253-2<k1>Barb<k2>*Barb<e>500
+
+ change in k2
+-----
+#1: <L>80064<pc>4270-3<k1>BujagASana<k2>*BujagASana<e>100
+#2: <L>80065<pc>4270-3<k1>Bujagendra<k2>Bujagendra<e>100
+ merge 80064 into 80063
+-----
+#1: <L>83062<pc>5025-3<k1>mantUya<k2>*mantUya<e>500
+#2: <L>83062<pc>5025-3<k1>mantUy<k2>*mantUy<e>500
+ k1, k2 change
+-----
+#1: <L>99939<pc>6054-2<k1>nirveda<k2>nirveda<e>100
+#2: <L>99940<pc>6054-2<k1>vAgyajYa<k2>vAgyajYa<e>100
+ merge 99939 into 99938
+-----
+#1: <L>106581<pc>6151-1<k1>vfdDasuSuta<k2>vfdDasuSuta<e>100
+#2: <L>106581<pc>6151-1<k1>vfdDasuSruta<k2>vfdDasuSruta<e>100
+ Suta -> Sruta
+-----
+#1: <L>117791<pc>7022-1<k1>saccaritrasuDAniDi<k2>saccaritrasuDAniDi<e>100
+#2: <L>117792<pc>7022-1<k1>saccaryA<k2>saccaryA<e>100
+ merge 117791 into 117790
+-----
+#1: <L>120161<pc>7058-2<k1>samaha<k2>samaha.<e>100
+#2: <L>120161<pc>7058-2<k1>samaha<k2>sa\ma\ha\<e>100
+ Accents in k2
+-----
+#1: <L>129746<pc>7190-3<k1>somAmbuya<k2>somAmbuya<e>100
+#2: <L>129746<pc>7190-3<k1>somAmbupa<k2>somAmbupa<e>100
+ buya -> bupa
+-------------------------------------------------------
+; comparing abbreviations
+;L=51
+old: {%Herr der Noth , <ab>N.</ab> des Schaltmonats.%}
+new: {%Herr der Noth,%} <ab n="Noth">N.</ab> des Schaltmonats.
+-----
+; L=112
+old: <ab>Inf.</ab> oder im <ab>Comp.</ab>
+new: <ab>Inf.</ab> oder im Comp.
+Global change:
+' Comp. ' -> ' <ab>Comp.</ab> '
+-----
+; <L>207<pc>1003-2<k1>akfzwa
+old: {#akfzwA mAzAH#} desgl <ls>HARIV
+new: {#akfzwA mAzAH#} <ab>desgl.</ab> <ls>HARIV
+-----
+global change cdsl:  </ab><ab> -> </ab> <ab>  21
+-----
+; <L>226<pc>1003-2<k1>akrata
+old: 3. <ab>Pl.</ab>
+new: <ab>3.</ab> <ab>Pl.</ab>
+Global change: 8
+-----
+<L>361<pc>1005-1<k1>akzipakzman
+old: {%Augenw<ab>imper.</ab>%}
+new:  {%Augenwimper%}.
+ also 2 other instances
+-----
+<L>864<pc>1010-3<k1>aGrARatva
+old: (<ab>Act.</ab>
+new: (<ab>act.</ab>
+-----
+<L>923<pc>1011-2<k1>aNga
+old: <lex>adj.</lex> Compl.
+new: <ab>adj. Comp.</ab>
+-----
+<L>1095<pc>1013-2<k1>ac
+old: krümmen.%} Abso. {#A/cy
+new: krümmen.%} <ab>Absol.</ab> {#A/cy
+
+-----
+<L>1160<pc>1014-2<k1>acCa  i =  0
+old: Als Präp
+New: Als <ab>Präp.</ab>
+-----
+<L>1330<pc>1016-2<k1>ajASva  i =  0
+None  !=  <ab>d. i.</ab>
+Global '(d. i.'  -> '(<ab>d. i.</ab>'
+ 28 instances.
+-----
+<L>1427<pc>1017-2<k1>aYcala  i =  0
+None  !=  <ab>Vgl.</ab>
+global:  'Vgl ' -> '<ab>Vgl.</ab> '
+ 23 instances.
+-----
+<L>1430<pc>1017-2<k1>aYj  i =  1
+0 <ab>Med.</ab>
+<ab>Caus.</ab>  !=  <ab>Med.</ab>
+Global:   ' Med ' -> ' <ab>Med.</ab> '
+ 17 instances
+-----
+<L>1682<pc>1020-3<k1>atiguhA
+global: '_<ab>Roxb.</ab>' -> ' Roxb.'  4
+-----
+<L>1684<pc>1020-3<k1>atigraha
+old: Rez. der den acht
+new: <ab>Bez.</ab> der den acht
+one other instance:
+<L>56902<pc>3182-3<k1>narasiMha
+old: ehrenvolle Rez.
+new: ehrenvolle <ab>Bez.</ab>
+-----
+<L>2560<pc>1030-2<k1>adButaDarma
+old: <ab>s.</ab>v.
+new: <ab>s. v.</ab>
+one other at L>68084
+-----
+<L>2756<pc>1032-3<k1>aDastAt
+global (regex) ' Comp\.$' -> ' <ab>Comp.</ab>' [END OF LINE]
+ 162 instances
+-----
+<L>2993<pc>1035-3<k1>aDok  i =  0
+<ab>Sg.</ab>  !=  <ab>3.</ab>
+Global '3. <ab>Sg.</ab>' -> '<ab>3.</ab> <ab>Sg.</ab>'
+ 17 instances
+-----
+-----
+<L>3082<pc>1036-2<k1>aDyARqA 
+global: '\bvg\.' -> '<ab>vgl.</ab>'
+--------
+<L>3329<pc>1039-2<k1>ananuBAvaka
+1: <ab>Nom.</ab>  !=  <ab>Nom. abstr.</ab>
+--------
+<L>4016<pc>1047-1<k1>anAsanna
+1: <ab>gen.</ab>  !=  <ab>Gen.</ab>
+--------
+<L>4027<pc>1047-1<k1>anAhata
+1 <ab>musik.</ab>
+2: <ab>Instr.</ab>  !=  None
+--------
+<L>4220<pc>1049-3<k1>anIka
+1: <ab>übertr.</ab>  !=  <ab>eig.</ab>
+global: ' eig. ' -> ' <ab>eig.</ab> '
+--------
+<L>4411<pc>1052-1<k1>anuttarayogatantra
+1: None  !=  <ab>buddh.</ab>
+--------
+<L>4624<pc>1054-3<k1>anuprapAtam
+1: None  !=  <ab>Absol.</ab>
+global ' Abso. ' -> ' <ab>Absol.</ab> '
+ 12 instances
+--------
+<L>4728<pc>1056-1<k1>anuyAtrika
+1 <ab>Pl.</ab>
+2: None  !=  <ab>Vgl.</ab>
+global: ' Vg. ' -> ' <ab>Vgl.</ab> '
+--------
+<L>5035<pc>1059-2<k1>anUbanDya
+1 <ab>d. i.</ab>
+2: None  !=  <ab>Subst.</ab>
+--------
+<L>5571<pc>1065-3<k1>annarakzA
+1: <ab>s.</ab>  !=  <ab>u. s. w.</ab>
+--------
+<L>5662<pc>1067-1<k1>anyapadArTapraDAna
+1: None  !=  <ab>Schol.</ab>
+--------
+<L>6413<pc>1075-2<k1>apAdAna
+1: <ab>St.</ab>  !=  <ab>Comm.</ab>
+--------
+<L>6582<pc>1077-2<k1>apUraRa
+1: <ab>Sch.</ab>  !=  None    Uncertain ??
+--------
+<L>6683<pc>1078-3<k1>aprakASa
+1: None  !=  <ab>v. l.</ab>
+--------
+<L>6894<pc>1081-1<k1>apramAda
+1 <ab>Nom. Abstr.</ab>
+2: None  !=  <ab>Absol.</ab>
+--------
+<L>6958<pc>1081-3<k1>aprastutapraSaMsA
+1: None  !=  <ab>Rhet.</ab>
+--------
+<L>7079<pc>1083-1<k1>abanDra
+1: None  !=  <ab>s.</ab>
+--------
+<L>7328<pc>1085-3<k1>aBijYa
+1 <ab>Gen.</ab>
+2 <ab>Comp.</ab>
+3 <ab>v. a.</ab>
+4: None  !=  <ab>abstr.</ab>
+--------
+<L>7529<pc>1088-2<k1>aBimuKa
+11 <ab>v. a.</ab>
+12 <ab>Acc.</ab>
+13 <ab>Gen.</ab>
+14 <ab>Comp.</ab>
+15 <ab>Gen.</ab>
+16: <ab>Bez.</ab>  !=  <ab>Comp.</ab>
+global:  ' Comp.)' -> ' <ab>Comp.</ab>)
+  25 instances
+--------
+<L>8321<pc>1097-2<k1>amuka
+1: <ab>N.</ab>  !=  None
+<ab n="???">N. N.</ab
+--------
+<L>8322<pc>1097-2<k1>amukIya
+1: <ab>N.</ab>  !=  <ab>v. a.</ab>
+--------
+<L>8618<pc>1100-3<k1>amBas
+1 <ab>Pl.</ab>
+2 <ab>Bez.</ab>
+3: <ab>Bez.</ab>  !=  <ab>Du.</ab>
+--------
+<L>8715<pc>1101-3<k1>ayajYiya
+1: <ab>Pass.</ab>  !=  <ab>act.</ab>
+--------
+<L>8901<pc>1104-1<k1>ar
+2 <ab>Acc.</ab>
+3 <ab>Acc.</ab>
+4 <ab>Acc.</ab>
+5 <ab>Caus.</ab>
+6 <ab>Instr.</ab>
+7: <ab>Acc.</ab>  !=  <ab>Intens.</ab>
+--------
+<L>9075<pc>1106-1<k1>ari
+1 <ab>astrol.</ab>
+2 <ab>astrol.</ab>
+3: None  !=  <ab>Hdschr.</ab>
+--------
+<L>9338<pc>1109-1<k1>arcitin
+1: None  !=  <ab>Loc.</ab>
+--------
+<L>9409<pc>1110-2<k1>arTakAraRAt
+1: None  !=  <ab>Abl.</ab>
+--------
+<L>9580<pc>1112-3<k1>arD
+1 <ab>Pass.</ab>
+2 <ab>Partic.</ab>
+3 <ab>Caus.</ab>
+4: <ab>Desid.</ab>  !=  <ab>Etym.</ab>
+--------
+<L>8322<pc>1097-2<k1>amukIya
+1 <ab>v. a.</ab>
+2: <ab>N.</ab>  !=  <ab>st.</ab>
+--------
+<L>9844<pc>1115-3<k1>arvAcIna
+1 <ab>Abl.</ab>
+2 <ab>v. l.</ab>
+3: <ab>Abl.</ab>  !=  <ab>Praep.</ab>
+--------
+<L>9863<pc>1116-1<k1>arh
+1: <ab>Acc.</ab>  !=  <ab>ep.</ab>
+--------
+<L>9894<pc>1116-3<k1>alakzmIka
+1 <ab>dass.</ab>
+2 <ab>Subst.</ab>
+3: None  !=  <ab>Superl.</ab>
+--------
+<L>9965<pc>1117-3<k1>alarti
+1 <ab>3.</ab>
+2 <ab>Sg.</ab>
+3: <ab>Sg.</ab>  !=  <ab>2.</ab>
+global: 2. <ab>Sg.</ab> → <ab>2.</ab> <ab>Sg.</ab>
+ 7 instances
+--------
+<L>10080<pc>1118-3<k1>alpa
+1 <ab>Partic.</ab>
+2 <ab>praet.</ab>
+3 <ab>pass.</ab>
+4 <ab>Compar.</ab>
+5: None  !=  <ab>Superl.</ab>
+--------
+<L>10139<pc>1119-2<k1>alpasaMBAra
+1: None  !=  <ab>Superl.</ab>
+global: ' Super.' -> ' <ab>Superl.</ab>'
+ 11 instances.
+--------
+<L>10379<pc>1122-1<k1>avadeya
+1: None  !=  <ab>Comm.</ab>
+--------
+<L>10651<pc>1125-2<k1>avalehana
+1: <ab>s.</ab>  !=  <ab>u. s. w.</ab>
+--------
+<L>11224<pc>1132-2<k1>avisra
+1: <ab>s.</ab>  !=  <ab>u. s. w.</ab>
+--------
+<L>10696<pc>1126-1<k1>avaSyam
+1 <ab>insbes.</ab>
+2 <ab>Partic.</ab>
+3 <ab>fut.</ab>
+4: None  !=  <ab>pass.</ab>
+--------
+<L>11332<pc>1133-2<k1>avyaktavyakta
+1: <ab>s.</ab>  !=  <ab>Beiw.</ab>
+--------
+<L>12183<pc>1143-1<k1>as
+12 <ab>Dat.</ab>
+13 <ab>Dat.</ab>
+14 <ab>Dat.</ab>
+15 <ab>v. a.</ab>
+16 <ab>Potent.</ab>
+17: <ab>dass.</ab>  !=  <ab>Acc.</ab>
+--------
+<L>12307<pc>1146-1<k1>asaMjYisattva
+1: <ab>v. l.</ab>  !=  <ab>Pl.</ab>
+--------
+<L>12642<pc>1150-1<k1>asimusala
+1: None  !=  <ab>Bez.</ab>
+--------
+<L>13294<pc>1157-2<k1>ahe
+1: <ab>Vgl.</ab>  !=  <ab>Interj.</ab>
+--------
+<L>13460<pc>1159-2<k1>Akulay
+1: None  !=  <ab>Partic.</ab>
+--------
+<L>13525<pc>1160-1<k1>Akzi
+1 <ab>Sg.</ab>
+2 <ab>Aor.</ab>
+3: None  !=  <ab>Med.</ab>   Print has 'med.' ??
+--------
+<L>13945<pc>1165-1<k1>AjyaBAga
+1: None  !=  <ab>Du.</ab>
+--------
+<L>13977<pc>1165-2<k1>Awa
+1 <ab>Compp.</ab>
+2 <ab>Nom. ag.</ab>
+3: <ab>N. pr.</ab>  !=  <ab>act.</ab>
+global:  act.  →  <ab>act.</ab>
+ 142 instances
+--------
+<L>12183<pc>1143-1<k1>as
+18 <ab>Nom.</ab>
+19 <ab>act.</ab>
+20 <ab>Gen.</ab>
+21 <ab>v. a.</ab>
+22 <ab>Fut.</ab>
+23: <ab>Sg.</ab>  !=  <ab>1.</ab>
+global: 1. <ab>Sg.</ab> → <ab>1.</ab> <ab>Sg.</ab>
+3 instances
+--------
+<L>14069<pc>1166-2<k1>AtamAm
+1: None  !=  <ab>Superl.</ab>
+global: superl. → <ab>Superl.</ab>
+  4 instances
+--------
+<L>14358<pc>1170-1<k1>AdAyin
+1 <ab>Comp.</ab>
+2: None  !=  <ab>st.</ab>
+--------
+<L>14478<pc>1171-2<k1>AdiSe
+1 <ab>Dat.</ab>
+2 <ab>Inf.</ab>
+3 <ab>Acc.</ab>
+4: None  !=  <ab>präd.</ab>
+--------
+<L>14500<pc>1171-2<k1>AdeSa
+1 <ab>adj. Comp.</ab>
+2: None  !=  <ab>Gramm.</ab>
+--------
+<L>14661<pc>1173-2<k1>AnandaBErava
+1: None  !=  <ab>N. pr.</ab>
+global: <lex>n.</lex> pr. → <ab>N. pr.</ab>
+ 18 instances
+--------
+<L>14760<pc>1174-2<k1>AnumAnika
+1: None  !=  <ab>Nom. abstr.</ab>
+--------
+<L>14782<pc>1174-3<k1>AnuzwuBa
+1: None  !=  <ab>z. B.</ab>
+--------
+<L>14787<pc>1174-3<k1>Anusftineya
+1: None  !=  <ab>Metronn.</ab>
+--------
+<L>14793<pc>1174-3<k1>AnfRya
+1: <ab>Sch.</ab>  !=  <ab>Gen.</ab>
+--------
+<L>14843<pc>1175-1<k1>Ap
+45 <ab>Comp.</ab>
+46 <ab>v. a.</ab>
+47 <ab>best.</ab>
+48 <ab>v. a.</ab>
+49 <ab>Acc.</ab>
+50: <ab>Gramm.</ab>  !=  <ab>Med.</ab>
+--------
+<L>14997<pc>1177-3<k1>Apya
+1: <ab>Bez.</ab>  !=  <ab>sc.</ab>
+--------
+<L>15135<pc>1179-2<k1>AmaRqalI
+1: <ab>adv.</ab>  !=  None
+global: <ab>adv.</ab> → <lex>Adv.</lex>
+ 20 instances
+--------
+<L>12183<pc>1143-1<k1>as
+21 <ab>v. a.</ab>
+22 <ab>Fut.</ab>
+23 <ab>1.</ab>
+24 <ab>Sg.</ab>
+25 <ab>Cit.</ab>
+26: <ab>Sg.</ab>  !=  <ab>2.</ab>
+--------
+<L>15337<pc>1181-3<k1>AyuDaDarmiRI
+1: <ab>Pers.</ab>  !=  None
+--------
+<L>15413<pc>1182-2<k1>Arawwa
+1 <ab>Pl.</ab>
+2: <ab>N.</ab>  !=  <ab>N. pr.</ab>
+--------
+<L>15742<pc>1186-2<k1>AryasaMGa
+1: <ab>Buddh.</ab>  !=  <ab>buddh.</ab>
+--------
+<L>15831<pc>1187-2<k1>AlApa
+1 <ab>adj. Comp.</ab>
+2 <ab>musik.</ab>
+3: <ab>Instr.</ab>  !=  <ab>best.</ab>
+--------
+<L>15923<pc>1188-2<k1>Avar
+1: <ab>3.</ab>  !=  <ab>2.</ab>
+--------
+<L>16182<pc>1191-2<k1>AScarya
+1 <ab>Fut.</ab>
+2 <ab>Superl.</ab>
+3: <ab>s.</ab>  !=  <ab>Loc.</ab>
+--------
+<L>16311<pc>1193-1<k1>As
+1: <ab>Loc.</ab>  !=  <ab>ep.</ab>
+--------
+<L>16313<pc>1193-3<k1>As
+1: <ab>Ved.</ab>  !=  <ab>Sg.</ab>
+--------
+<L>16369<pc>1194-3<k1>AsAt
+1 <ab>Abl.</ab>
+2: <ab>N.</ab>  !=  None
+--------
+<L>16482<pc>1195-3<k1>Asya
+1 <ab>adj. Comp.</ab>
+2: None  !=  <ab>z. B.</ab>
+global: (z. B. → (<ab>z. B.</ab>
+ 3 instances
+--------
+<L>16515<pc>1196-2<k1>Ahata
+1 <ab>v. a.</ab>
+2: None  !=  <ab>S.</ab>
+--------
+<L>16722<pc>1202-1<k1>iqaviqa
+1 <ab>N. pr.</ab>
+2 <ab>N. pr.</ab>
+3: <ab>N. pr.</ab>  !=  None
+--------
+<L>16824<pc>1203-3<k1>idam
+1 <ab>Nom.</ab>
+2 <ab>Acc.</ab>
+3 <ab>Sg.</ab>
+4 <ab>v. a.</ab>
+5: <ab>s.</ab>  !=  <ab>v. a.</ab>
+--------
+<L>17179<pc>1207-2<k1>iBakaRA
+1: <ab>Sch.</ab>  !=  None
+--------
+<L>17197<pc>1207-3<k1>immAdiBAratyAcArya
+1: <ab>N.</ab>  !=  <ab>N. pr.</ab>
+global: <ab>N.</ab> pr. → <ab>N. pr.</ab>
+ 18 instances
+--------
+<L>17224<pc>1208-1<k1>irAja
+1 <ab>Bein.</ab>
+2: None  !=  <ab>d. i.</ab>
+--------
+<L>17429<pc>1211-1<k1>Ikz
+16 <ab>Acc.</ab>
+17 <ab>Caus.</ab>
+18 <ab>Acc.</ab>
+19 <ab>Caus.</ab>
+20 <ab>Caus.</ab>
+21: <ab>v. l.</ab>  !=  <ab>Acc.</ab>
+--------
+<L>17441<pc>1212-1<k1>Ikze
+1 <ab>1.</ab>
+2 <ab>Sg.</ab>
+3 <ab>Med.</ab>
+4: <ab>Sg.</ab>  !=  <ab>2.</ab>
+--------
+<L>17501<pc>1213-1<k1>IrzyAy
+1: <ab>Nom.</ab>  !=  <ab>Denom.</ab>
+--------
+<L>17592<pc>1214-2<k1>IzA
+1: <ab>best.</ab>  !=  <ab>Du.</ab>
+--------
+<L>17602<pc>1214-2<k1>IsarAPa
+1: <ab>Bez.</ab>  !=  <ab>Astrol.</ab>
+--------
+<L>17969<pc>1219-2<k1>utkaRW
+2 <ab>Infin.</ab>
+3 <ab>Dat.</ab>
+4 <ab>Caus.</ab>
+5 <ab>Acc.</ab>
+6 <ab>Acc.</ab>
+7: <ab>Acc.</ab>  !=  <ab>Caus.</ab>
+--------
+<L>18412<pc>1225-1<k1>utpalin
+1: <ab>N.</ab>  !=  <ab>best.</ab>
+--------
+<L>18582<pc>1227-2<k1>udakaBUma
+1: None  !=  <ab>v. l.</ab>
+--------
+<L>18800<pc>1229-3<k1>udavraja
+1: <ab>N. pr.</ab>  !=  <ab>N. Pr.</ab>
+--------
+<L>18922<pc>1231-1<k1>udetos
+1 <ab>Abl.</ab>
+2: None  !=  <ab>Infin.</ab>
+--------
+<L>19373<pc>1236-3<k1>upa
+1: <ab>Acc.</ab>  !=  <ab>Präp.</ab>
+--------
+<L>19719<pc>1241-2<k1>upapatti
+1: <ab>Sg.</ab>  !=  <ab>Instr.</ab>
+--------
+<L>19875<pc>1243-1<k1>upari
+5 <ab>Loc.</ab>
+6 <ab>adv. Comp.</ab>
+7 <ab>Acc.</ab>
+8 <ab>Gen.</ab>
+9 <ab>Gen.</ab>
+10: <ab>Comp.</ab>  !=  <ab>adv. Comp.</ab>
+--------
+<L>20133<pc>1246-1<k1>upasarjana
+1 <ab>adj. Comp.</ab>
+2 <ab>Nom. abstr.</ab>
+3 <ab>Comm.</ab>
+4: <ab>Pl.</ab>  !=  <ab>Gramm.</ab>
+--------
+<L>20329<pc>1248-2<k1>upAnaha
+1 <ab>insbes.</ab>
+2: <ab>adv. Comp.</ab>  !=  <ab>copul.</ab>
+--------
+<L>20335<pc>1248-3<k1>upAntika
+1 <ab>Gen.</ab>
+2: <ab>N.</ab>  !=  None
+--------
+<L>20831<pc>1254-2<k1>uza
+1: <ab>Med.</ab>  !=  <ab>N. pr.</ab>
+--------
+<L>20910<pc>1255-2<k1>uzRasamaya
+1: None  !=  <ab>Denom.</ab>
+--------
+<L>20960<pc>1255-3<k1>U
+1: <ab>s.</ab>  !=  <ab>s. d.</ab>
+--------
+<L>21280<pc>1260-2<k1>fkza
+1 <ab>Bed.</ab>
+2 <ab>vgl.</ab>
+3 <ab>Pl.</ab>
+4 <ab>Comp.</ab>
+5: <ab>N. pr.</ab>  !=  <ab>v. a.</ab>
+--------
+<L>21551<pc>1263-2<k1>fte
+1 <ab>Loc.</ab>
+2 <ab>Praep.</ab>
+3 <ab>Abl.</ab>
+4 <ab>Acc.</ab>
+5: <ab>dass.</ab>  !=  None
+--------
+<L>21963<pc>1268-3<k1>ekavfka
+1: <ab>Comm.</ab>  !=  <ab>Cit.</ab>
+--------
+<L>22222<pc>1272-1<k1>etadarTam
+1: <ab>dass.</ab>  !=  None
+--------
+<L>22243<pc>1272-1<k1>etAvattva
+1: <ab>dass.</ab>  !=  None
+--------
+<L>22253<pc>1272-2<k1>eD
+3 <ab>Caus.</ab>
+4 <ab>Caus.</ab>
+5 <ab>Partic.</ab>
+6 <ab>Caus.</ab>
+7 <ab>Caus.</ab>
+8: None  !=  <ab>Caus.</ab>
+--------
+<L>22583<pc>1276-1<k1>EzIka
+1: <ab>N. pr.</ab>  !=  <ab>Pl.</ab>
+--------
+<L>23118<pc>2001-1<k1>ka
+10 <ab>indef.</ab>
+11 <ab>Relat.</ab>
+12 <ab>indef.</ab>
+13 <ab>v. a.</ab>
+14 <ab>Pl.</ab>
+15: <ab>unbest.</ab>  !=  <ab>s.</ab>
+--------
+<L>23223<pc>2003-1<k1>kakzyAvekzaka
+1: <ab>st.</ab>  !=  <ab>St.</ab>
+global (emacs regex) \([^.]\) St\. → \1 <ab>St.</ab>
+ 16 instances
+--------
+<L>24038<pc>2012-3<k1>kanTA
+1 <ab>best.</ab>
+2: None  !=  <ab>N. pr.</ab>
+--------
+<L>24380<pc>2016-3<k1>kaPoRiguqAy
+1: <ab>Nom.</ab>  !=  <ab>v. a.</ab>
+--------
+<L>24382<pc>2016-3<k1>kab
+1: None  !=  <ab>Vgl.</ab>
+--------
+<L>24467<pc>2017-3<k1>kamp
+10 <ab>Acc.</ab>
+11 <ab>Caus.</ab>
+12 <ab>Caus.</ab>
+13 <ab>Caus.</ab>
+14 <ab>Caus.</ab>
+15: <ab>dass.</ab>  !=  <ab>Caus.</ab>
+--------
+<L>24505<pc>2018-2<k1>kambugrIvA
+1: <ab>N.</ab>  !=  None
+--------
+<L>24527<pc>2018-2<k1>kar
+174 <ab>Acc.</ab>
+175 <ab>Acc.</ab>
+176 <ab>Loc.</ab>
+177 <ab>Act.</ab>
+178 <ab>Med.</ab>
+179: <ab>Act.</ab>  !=  <ab>Med.</ab>
+--------
+<L>24529<pc>2020-2<k1>kar
+1 <ab>Desid.</ab>
+2 <ab>Intens.</ab>
+3 <ab>Pass.</ab>
+4 <ab>Pl.</ab>
+5 <ab>Med.</ab>
+6: <ab>s.</ab>  !=  <ab>übertr.</ab>
+--------
+<L>24590<pc>2022-1<k1>karaRAbda
+1 <ab>Pl.</ab>
+2: None  !=  <ab>d. i.</ab>
+global: ' d. i. '  → ' <ab>d. i.</ab> ' 
+ 15 instances
+--------
+<L>25100<pc>2028-1<k1>kartfga
+1: None  !=  <ab>Schol.</ab>
+--------
+<L>25106<pc>2028-1<k1>kartfBUta
+1: None  !=  <ab>Gramm.</ab>
+--------
+<L>25353<pc>2032-3<k1>kalakaRWa
+1: <ab>Caus.</ab>  !=  <ab>N. pr.</ab>
+--------
+<L>25410<pc>2033-2<k1>kalay
+1: None  !=  <ab>S.</ab>
+--------
+<L>25476<pc>2034-1<k1>kalApa
+1: <ab>Comp.</ab>  !=  <ab>adj. Comp.</ab>
+--------
+<L>25585<pc>2035-3<k1>kalp
+1 <ab>Instr.</ab>
+2 <ab>Instr.</ab>
+3 <ab>Loc.</ab>
+4 <ab>Dat.</ab>
+5: <ab>Loc.</ab>  !=  <ab>Dat.</ab>
+--------
+<L>25586<pc>2036-3<k1>kalpa
+3 <ab>Infin.</ab>
+4 <ab>Comp.</ab>
+5 <ab>Beiw.</ab>
+6 <ab>Potent.</ab>
+7 <ab>v. a.</ab>
+8: <ab>dass.</ab>  !=  <ab>adj. Comp.</ab>
+--------
+<L>25760<pc>2039-1<k1>kavalikA
+1: <ab>s.</ab>  !=  <ab>u. s. w.</ab>
+--------
+<L>25876<pc>2040-2<k1>kaz
+1: <ab>Caus.</ab>  !=  <ab>Med.</ab>
+--------
+<L>25897<pc>2040-3<k1>kazwa
+1 <ab>Rhet.</ab>
+2 <ab>N. pr.</ab>
+3: <ab>Interj.</ab>  !=  <ab>s.</ab>
+--------
+<L>26137<pc>2043-3<k1>kANkz
+4 <ab>Med.</ab>
+5 <ab>Acc.</ab>
+6 <ab>Gen.</ab>
+7 <ab>Acc.</ab>
+8 <ab>gramm.</ab>
+9: <ab>Infin.</ab>  !=  <ab>Med.</ab>
+--------
+<L>26583<pc>2049-1<k1>kAmam
+1 <ab>Imperat.</ab>
+2: <ab>dass.</ab>  !=  None
+--------
+<L>26756<pc>2051-2<k1>kAyika
+1 <ab>Comp.</ab>
+2: None  !=  <ab>buddh.</ab>
+--------
+<L>26963<pc>2054-1<k1>kArmAra
+1: None  !=  <ab>Patron.</ab>
+--------
+<L>27161<pc>2057-1<k1>kAlaniyama
+1: None  !=  <ab>v. a.</ab>
+global: ' v. a. ' -> ' <ab>v. a.</ab> '
+ 4 instances
+--------
+<L>28209<pc>2069-3<k1>kuc
+9 <ab>Gegens.</ab>
+10 <ab>Caus.</ab>
+11 <ab>Caus.</ab>
+12 <ab>s.</ab>
+13 <ab>v. a.</ab>
+14: <ab>Abl.</ab>  !=  <ab>act.</ab>
+--------
+<L>28462<pc>2073-2<k1>kuRqalaka
+1: <ab>best.</ab>  !=  <ab>Nom. abstr.</ab>
+--------
+<L>28666<pc>2075-3<k1>kup
+6 <ab>Gen.</ab>
+7 <ab>Caus.</ab>
+8 <ab>Gen.</ab>
+9 <ab>Caus.</ab>
+10 <ab>Loc.</ab>
+11: <ab>Rec.</ab>  !=  <ab>Caus.</ab>
+--------
+<L>28974<pc>2079-3<k1>kuraNga
+1 <ab>überh.</ab>
+2: <ab>s.</ab>  !=  <ab>u. s. w.</ab>
+global: u.<ab>s.</ab>w) → <ab>u. s. w.</ab>)
+ 11 instances
+--------
+* <L>29418<pc>2084-2<k1>kuSanABa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2084-2
+1: None  !=  <ab>N. pr.</ab>
+--------
+* <L>29427<pc>2084-3<k1>kuSabindu
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2084-3
+1 <ab>Pl.</ab>
+2: None  !=  <ab>N. pr.</ab>
+--------
+* <L>29434<pc>2084-3<k1>kuSala
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2084-3
+1 <ab>v. a.</ab>
+2 <ab>Loc.</ab>
+3 <ab>Gen.</ab>
+4 <ab>Infin.</ab>
+5: <ab>Pl.</ab>  !=  <ab>Comp.</ab>
+--------
+* <L>29477<pc>2085-2<k1>kuSIlava
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2085-2
+1 <ab>Bein.</ab>
+2: <ab>N. pr.</ab>  !=  <ab>Du.</ab>
+--------
+* <L>29524<pc>2085-3<k1>kuzmARqa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2085-3
+1: <ab>Sg.</ab>  !=  <ab>Pl.</ab>
+--------
+* <L>29651<pc>2087-1<k1>kuhU
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2087-1
+1 <ab>best.</ab>
+2: <ab>N.</ab>  !=  <ab>N. pr.</ab>
+--------
+* <L>30027<pc>2092-1<k1>kftAkfta
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2092-1
+1 <ab>Sg.</ab>
+2: <ab>v. a.</ab>  !=  <ab>Du.</ab>
+--------
+* <L>30580<pc>2098-1<k1>kxpti
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2098-1
+1 <ab>Bez.</ab>
+2: None  !=  <ab>Comm.</ab>
+--------
+* <L>30770<pc>2100-2<k1>keSapakza
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2100-2
+1 <ab>adj. Comp.</ab>
+2: None  !=  <ab>Du.</ab>
+--------
+* <L>30966<pc>2102-3<k1>kokalika
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2102-3
+1 <ab>N. pr.</ab>
+2: None  !=  <ab>buddh.</ab>
+--------
+* <L>31283<pc>2106-2<k1>kOYcikI
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2106-2
+1: None  !=  <ab>Bez.</ab>
+--------
+* <L>31701<pc>2111-1<k1>kram
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2111-1
+2 <ab>Loc.</ab>
+3 <ab>Loc.</ab>
+4 <ab>Med.</ab>
+5 <ab>Dat.</ab>
+6 <ab>Med.</ab>
+7: <ab>Caus.</ab>  !=  <ab>Med.</ab>
+--------
+* <L>31877<pc>2115-1<k1>krI
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2115-1
+16 <ab>v. a.</ab>
+17 <ab>Dat.</ab>
+18 <ab>Instr.</ab>
+19 <ab>Dat.</ab>
+20 <ab>Instr.</ab>
+21: <ab>v. a.</ab>  !=  <ab>Med.</ab>
+--------
+* <L>31941<pc>2116-1<k1>kruD
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2116-1
+1 <ab>Dat.</ab>
+2 <ab>Gen.</ab>
+3 <ab>Loc.</ab>
+4: <ab>Gen.</ab>  !=  <ab>Dat.</ab>
+--------
+* <L>32478<pc>2124-1<k1>kzAlana
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2124-1
+1 <ab>Ã¼bertr.</ab>
+2: None  !=  <ab>Bed.</ab>
+--------
+* <L>32568<pc>2126-2<k1>kziprahasta
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2126-2
+1: <ab>N. pr.</ab>  !=  <ab>Beiw.</ab>
+--------
+* <L>32892<pc>2129-3<k1>kzurapra
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2129-3
+1: <ab>Sch.</ab>  !=  <ab>st.</ab>
+--------
+* <L>33131<pc>2132-3<k1>kzRu
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2132-3
+1: <ab>dass.</ab>  !=  <ab>Med.</ab>
+--------
+* <L>33157<pc>2133-1<k1>kzveqa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2133-1
+1 <ab>Bez.</ab>
+2: <ab>m.</ab>  !=  <ab>best.</ab>
+--------
+* <L>33164<pc>2133-1<k1>kzvela
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2133-1
+1 <ab>Bez.</ab>
+2: <ab>m.</ab>  !=  None
+--------
+* <L>33334<pc>2135-1<k1>KaRqa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2135-1
+1 <ab>v. a.</ab>
+2 <ab>dass.</ab>
+3 <ab>v. a.</ab>
+4: <ab>best.</ab>  !=  <ab>z. B.</ab>
+--------
+* <L>33385<pc>2135-3<k1>KaRqaSas
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2135-3
+1: <ab>St.</ab>  !=  None
+--------
+* <L>33499<pc>2137-2<k1>KaradUzaRa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2137-2
+1: None  !=  <ab>Du.</ab>
+--------
+* <L>33947<pc>2142-2<k1>KyA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2142-2
+1 <ab>vgl.</ab>
+2: <ab>Pass.</ab>  !=  <ab>Med.</ab>
+--------
+* <L>34408<pc>2148-3<k1>gad
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2148-3
+11 <ab>Intens.</ab>
+12 <ab>pass.</ab>
+13 <ab>Bed.</ab>
+14 <ab>Comm.</ab>
+15 <ab>Acc.</ab>
+16: <ab>v. l.</ab>  !=  <ab>Pass.</ab>
+--------
+* <L>34676<pc>2152-1<k1>gam
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2152-1
+132 <ab>Comp.</ab>
+133 <ab>Comp.</ab>
+134 <ab>Comp.</ab>
+135 <ab>v. a.</ab>
+136 <ab>Abl.</ab>
+137: <ab>Acc.</ab>  !=  <ab>v. a.</ab>
+--------
+* <L>34732<pc>2156-1<k1>gar
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2156-1
+3 <ab>Desid.</ab>
+4 <ab>Intens.</ab>
+5 <ab>v. l.</ab>
+6 <ab>Intens.</ab>
+7 <ab>Act.</ab>
+8: <ab>Intens.</ab>  !=  <ab>Med.</ab>
+--------
+* <L>35007<pc>2159-3<k1>garh
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2159-3
+5 <ab>instr.</ab>
+6 <ab>Gen.</ab>
+7 <ab>Loc.</ab>
+8 <ab>Comp.</ab>
+9 <ab>Abl.</ab>
+10: <ab>Dat.</ab>  !=  <ab>v. l.</ab>
+--------
+* <L>35309<pc>2164-2<k1>gAMmanya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2164-2
+1: <ab>f.</ab>  !=  None
+--------
+* <L>35448<pc>2166-3<k1>girija
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2166-3
+1 <ab>N. pr.</ab>
+2: <ab>Patron.</ab>  !=  <ab>Bez.</ab>
+--------
+* <L>35693<pc>2169-2<k1>guRagfhya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2169-2
+1: <ab>f.</ab>  !=  None
+--------
+* <L>36584<pc>2180-2<k1>goDa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2180-2
+1 <ab>Pl.</ab>
+2: <ab>N.</ab>  !=  <ab>N. pr.</ab>
+--------
+* <L>36633<pc>2181-1<k1>gonizkramaRa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2181-1
+1: None  !=  <ab>N. pr.</ab>
+--------
+* <L>36788<pc>2182-3<k1>gomant
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2182-3
+1 <ab>u. s. w.</ab>
+2 <ab>N. pr.</ab>
+3 <ab>best.</ab>
+4 <ab>N. pr.</ab>
+5: None  !=  <ab>parox.</ab>
+--------
+* <L>37078<pc>2186-1<k1>gOqa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2186-1
+1 <ab>best.</ab>
+2 <ab>N. pr.</ab>
+3 <ab>Sg.</ab>
+4: <ab>N. pr.</ab>  !=  <ab>Pl.</ab>
+--------
+* <L>37314<pc>2189-1<k1>graB
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2189-1
+30 <ab>Loc.</ab>
+31 <ab>Nom.</ab>
+32 <ab>act.</ab>
+33 <ab>Pass.</ab>
+34 <ab>instr.</ab>
+35: <ab>Bed.</ab>  !=  <ab>Caus.</ab>
+--------
+* <L>37731<pc>2197-1<k1>GaRwApaTatva
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2197-1
+1: None  !=  <ab>v. a.</ab>
+--------
+* <L>37976<pc>2200-1<k1>GUrR
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2200-1
+1 <ab>Caus.</ab>
+2: <ab>s.</ab>  !=  <ab>dass.</ab>
+--------
+* <L>38424<pc>2206-2<k1>caYcupuwI
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2206-2
+1 <ab>best.</ab>
+2: None  !=  <ab>S.</ab>
+--------
+* <L>38432<pc>2206-2<k1>caw
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2206-2
+1 <ab>Loc.</ab>
+2 <ab>Loc.</ab>
+3 <ab>Caus.</ab>
+4 <ab>Caus.</ab>
+5: <ab>Vgl.</ab>  !=  <ab>intrans.</ab>
+--------
+* <L>38571<pc>2208-1<k1>catasfkA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2208-1
+1 <ab>Pl.</ab>
+2: None  !=  <ab>dass.</ab>
+--------
+* <L>38875<pc>2211-3<k1>can
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2211-3
+1 <ab>Aor.</ab>
+2 <ab>Bed.</ab>
+3 <ab>Loc.</ab>
+4: <ab>Bed.</ab>  !=  <ab>Caus.</ab>
+--------
+* <L>39233<pc>2217-2<k1>cara
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2217-2
+1 <ab>Subst.</ab>
+2 <ab>d. i.</ab>
+3: <ab>best.</ab>  !=  <ab>Comp.</ab>
+--------
+* <L>39789<pc>2225-1<k1>ci
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2225-1
+1 <ab>insbes.</ab>
+2: <ab>Med.</ab>  !=  <ab>Act.</ab>
+--------
+* <L>40150<pc>2230-3<k1>citrokti
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2230-3
+1: <ab>St.</ab>  !=  None
+--------
+* <L>40817<pc>2239-3<k1>cyu
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2239-3
+4 <ab>Abl.</ab>
+5 <ab>Abl.</ab>
+6 <ab>Comp.</ab>
+7 <ab>Abl.</ab>
+8 <ab>Loc.</ab>
+9: <ab>v. a.</ab>  !=  <ab>Astrol.</ab>
+--------
+* <L>40822<pc>2240-1<k1>cyuta
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2240-1
+1: None  !=  <ab>Partic.</ab>
+--------
+* <L>41015<pc>2243-1<k1>CA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2243-1
+1: <ab>Caus.</ab>  !=  <ab>Partic.</ab>
+--------
+* <L>41118<pc>2244-2<k1>Cid
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2244-2
+28 <ab>Caus.</ab>
+29 <ab>Caus.</ab>
+30 <ab>Intens.</ab>
+31 <ab>u. s. w.</ab>
+32 <ab>Acc.</ab>
+33: <ab>Abl.</ab>  !=  <ab>Pass.</ab>
+--------
+* <L>41208<pc>2246-1<k1>ja
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2246-1
+1 <ab>Comp.</ab>
+2: <ab>Comp.</ab>  !=  <ab>Bed.</ab>
+--------
+* <L>41763<pc>2254-2<k1>jaya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2254-2
+1 <ab>Comp.</ab>
+2 <ab>oxyt.</ab>
+3: <ab>Parox.</ab>  !=  <ab>parox.</ab>
+--------
+* <L>42061<pc>2258-1<k1>jaladvIpa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2258-1
+1 <ab>N. pr.</ab>
+2: None  !=  <ab>v. l.</ab>
+--------
+* <L>42301<pc>2260-3<k1>jalpitar
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2260-3
+1: <ab>Nom.</ab>  !=  <ab>Nom. ag.</ab>
+--------
+* <L>42318<pc>2260-3<k1>javA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2260-3
+1: None  !=  <ab>Ausgg.</ab>
+--------
+* <L>42511<pc>2263-2<k1>jAtyanDabaDira
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2263-2
+1: None  !=  <ab>Du.</ab>
+--------
+* <L>42720<pc>2266-1<k1>jAvant
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2266-1
+1: <ab>N.</ab>  !=  None
+--------
+* <L>42965<pc>2269-2<k1>jIv
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2269-2
+17 <ab>v. a.</ab>
+18 <ab>Acc.</ab>
+19 <ab>Acc.</ab>
+20 <ab>Acc.</ab>
+21 <ab>Acc.</ab>
+22: <ab>st.</ab>  !=  <ab>v. l.</ab>
+--------
+* <L>43244<pc>2273-3<k1>jEna
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2273-3
+1: None  !=  <ab>N. pr.</ab>
+--------
+* <L>43282<pc>2274-1<k1>joNga
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2274-1
+1: None  !=  <ab>Hdschr.</ab>
+--------
+* <L>43318<pc>2274-2<k1>jYA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2274-2
+99 <ab>v. a.</ab>
+100 <ab>Gen.</ab>
+101 <ab>v. a.</ab>
+102 <ab>Med.</ab>
+103 <ab>Med.</ab>
+104: <ab>Comm.</ab>  !=  <ab>Med.</ab>
+--------
+* <L>43620<pc>2279-3<k1>jramB
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2279-3
+1 <ab>Act.</ab>
+2 <ab>Partic.</ab>
+3 <ab>Caus.</ab>
+4 <ab>Partic.</ab>
+5 <ab>Intens.</ab>
+6: <ab>impers.</ab>  !=  <ab>Prol.</ab>
+--------
+* <L>44217<pc>3004-1<k1>tattvaboDana
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3004-1
+1: None  !=  <ab>ebend.</ab>
+--------
+* <L>44279<pc>3005-2<k1>taTABavitavya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3005-2
+1: <ab>Nom.</ab>  !=  <ab>Nom. abstr.</ab>
+--------
+* <L>44487<pc>3009-1<k1>tantula
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3009-1
+1: <ab>Ausg.</ab>  !=  <ab>Hdschr.</ab>
+--------
+* <L>44514<pc>3009-2<k1>tantravArttika
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3009-2
+1: None  !=  <ab>ebend.</ab>
+--------
+* <L>44680<pc>3012-2<k1>tam
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3012-2
+2 <ab>Partic.</ab>
+3 <ab>impers.</ab>
+4 <ab>Caus.</ab>
+5 <ab>trans.</ab>
+6 <ab>Caus.</ab>
+7: <ab>Caus.</ab>  !=  <ab>trans.</ab>
+--------
+* <L>44750<pc>3013-3<k1>tar
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3013-3
+15 <ab>Abl.</ab>
+16 <ab>st.</ab>
+17 <ab>Acc.</ab>
+18 <ab>Acc.</ab>
+19 <ab>Med.</ab>
+20: <ab>Bed.</ab>  !=  <ab>Caus.</ab>
+--------
+* <L>45479<pc>3024-3<k1>tArkikarakzA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3024-3
+1: None  !=  <ab>desgl.</ab>
+--------
+* <L>45513<pc>3025-1<k1>tAla
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3025-1
+2 <ab>Bein.</ab>
+3 <ab>Pl.</ab>
+4 <ab>N. pr.</ab>
+5 <ab>best.</ab>
+6 <ab>best.</ab>
+7: <ab>bes.</ab>  !=  <ab>best.</ab>
+--------
+* <L>45558<pc>3025-3<k1>tAlApacara
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3025-3
+1: None  !=  <ab>Comm.</ab>
+--------
+* <L>45621<pc>3026-2<k1>tAvant
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3026-2
+8 <ab>Praes.</ab>
+9 <ab>Fut.</ab>
+10 <ab>Infin.</ab>
+11 <ab>Imper.</ab>
+12 <ab>Imper.</ab>
+13: <ab>v. a.</ab>  !=  <ab>priv.</ab>
+--------
+* <L>45664<pc>3027-2<k1>tiktANgA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3027-2
+1 <ab>best.</ab>
+2: None  !=  <ab>Hdschr.</ab>
+--------
+* <L>46011<pc>3031-2<k1>tIkzRa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3031-2
+7 <ab>best.</ab>
+8 <ab>Bez.</ab>
+9 <ab>N. pr.</ab>
+10 <ab>Bez.</ab>
+11 <ab>Bez.</ab>
+12: <ab>vgl.</ab>  !=  <ab>v. l.</ab>
+--------
+* <L>46156<pc>3033-2<k1>tu
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3033-2
+1: <ab>dass.</ab>  !=  <ab>v. a.</ab>
+--------
+* <L>46376<pc>3036-2<k1>turIyamAna
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3036-2
+1: None  !=  <ab>v. l.</ab>
+--------
+* <L>46402<pc>3036-3<k1>tula
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3036-3
+3 <ab>Acc.</ab>
+4 <ab>Loc.</ab>
+5 <ab>Caus.</ab>
+6 <ab>u. s. w.</ab>
+7 <ab>v. a.</ab>
+8: <ab>Vgl.</ab>  !=  <ab>vgl.</ab>
+--------
+* <L>46799<pc>3041-2<k1>tfn
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3041-2
+1: <ab>Nom.</ab>  !=  <ab>Nom. ag.</ab>
+--------
+* <L>47279<pc>3047-2<k1>tras
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3047-2
+1: <ab>Abl.</ab>  !=  <ab>Med.</ab>
+--------
+* <L>47387<pc>3049-1<k1>trikoRaBavana
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3049-1
+1: None  !=  <ab>Astrol.</ab>
+--------
+* <L>47408<pc>3049-2<k1>triguRa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3049-2
+1 <ab>Pl.</ab>
+2: None  !=  <ab>S.</ab>
+--------
+* <L>47503<pc>3050-2<k1>tridozahArin
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3050-2
+1: <ab>best.</ab>  !=  <ab>Bez.</ab>
+--------
+* <L>48228<pc>3059-2<k1>tvaca
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3059-2
+1 <ab>Insbes.</ab>
+2: <ab>Comp.</ab>  !=  <ab>adj. Comp.</ab>
+--------
+* <L>48417<pc>3062-1<k1>dakzasuta
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3062-1
+1 <ab>v. a.</ab>
+2: <ab>Pl.</ab>  !=  <ab>Comm.</ab>
+--------
+* <L>48568<pc>3064-2<k1>daRqakuSa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3064-2
+1: <ab>N. pr.</ab>  !=  <ab>Pl.</ab>
+--------
+* <L>48989<pc>3069-2<k1>damadamAy
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3069-2
+1: None  !=  <ab>onomatop.</ab>
+--------
+* <L>49037<pc>3070-1<k1>dar
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3070-1
+1 <ab>Med.</ab>
+2: <ab>Pass.</ab>  !=  <ab>Bed.</ab>
+--------
+* <L>49130<pc>3071-3<k1>darvarIka
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3071-3
+1: <ab>bes.</ab>  !=  <ab>best.</ab>
+--------
+* <L>49141<pc>3071-3<k1>darS
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3071-3
+83 <ab>Med.</ab>
+84 <ab>Nom.</ab>
+85 <ab>v. a.</ab>
+86 <ab>Comm.</ab>
+87 <ab>Caus.</ab>
+88: <ab>Med.</ab>  !=  <ab>Pass.</ab>
+--------
+* <L>49143<pc>3072-3<k1>darSaka
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3072-3
+1 <ab>Gen.</ab>
+2 <ab>Comp.</ab>
+3 <ab>Gen.</ab>
+4 <ab>Comp.</ab>
+5 <ab>v. a.</ab>
+6: <ab>Gen.</ab>  !=  <ab>v. a.</ab>
+--------
+* <L>49184<pc>3073-3<k1>dal
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3073-3
+1 <ab>Caus.</ab>
+2 <ab>Partic.</ab>
+3: <ab>Caus.</ab>  !=  <ab>Simpl.</ab>
+--------
+* <L>49245<pc>3074-2<k1>daSakzitigarBa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3074-2
+1: None  !=  <ab>buddh.</ab>
+--------
+* <L>49485<pc>3077-1<k1>dah
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3077-1
+32 <ab>Act.</ab>
+33 <ab>u. s. w.</ab>
+34 <ab>Pass.</ab>
+35 <ab>intrans.</ab>
+36 <ab>v. l.</ab>
+37: <ab>Partic.</ab>  !=  <ab>st.</ab>
+--------
+* <L>49511<pc>3078-1<k1>dA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3078-1
+95 <ab>v. a.</ab>
+96 <ab>v. a.</ab>
+97 <ab>Acc.</ab>
+98 <ab>v. l.</ab>
+99 <ab>Acc.</ab>
+100: <ab>N.</ab>  !=  <ab>Acc.</ab>
+--------
+* <L>49709<pc>3082-1<k1>dAma
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3082-1
+1 <ab>adj. Comp.</ab>
+2: None  !=  <ab>S.</ab>
+--------
+* <L>49736<pc>3082-2<k1>dAmA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3082-2
+1 <ab>N. pr.</ab>
+2: None  !=  <ab>S.</ab>
+--------
+* <L>49817<pc>3083-2<k1>dAruRa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3083-2
+1: <ab>Comp.</ab>  !=  <ab>v. a.</ab>
+--------
+* <L>49884<pc>3084-2<k1>dAla
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3084-2
+1 <ab>best.</ab>
+2: None  !=  <ab>S.</ab>
+--------
+* <L>49926<pc>3084-3<k1>dASataya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3084-3
+1 <ab>Pl.</ab>
+2: None  !=  <ab>v. a.</ab>
+--------
+* <L>49964<pc>3085-1<k1>dAsa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3085-1
+1 <ab>insbes.</ab>
+2: <ab>v. a.</ab>  !=  <ab>Comp.</ab>
+--------
+* <L>50010<pc>3085-3<k1>dAsImARavaka
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3085-3
+1: None  !=  <ab>Sg.</ab>
+--------
+* <L>50123<pc>3087-1<k1>diRqIra
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3087-1
+1: None  !=  <ab>v. l.</ab>
+--------
+* <L>50420<pc>3090-2<k1>diS
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3090-2
+16 <ab>Comm.</ab>
+17 <ab>Acc.</ab>
+18 <ab>Dat.</ab>
+19 <ab>Loc.</ab>
+20 <ab>Acc.</ab>
+21: <ab>Dat.</ab>  !=  <ab>v. a.</ab>
+--------
+* <L>50452<pc>3092-2<k1>dIkz
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3092-2
+1 <ab>insbes.</ab>
+2 <ab>Instr.</ab>
+3 <ab>Loc.</ab>
+4 <ab>Perf.</ab>
+5 <ab>Act.</ab>
+6: <ab>Bed.</ab>  !=  <ab>Caus.</ab>
+--------
+* <L>50879<pc>3098-2<k1>dunduBa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3098-2
+1: <ab>Bein.</ab>  !=  <ab>Comm.</ab>
+--------
+* <L>51169<pc>3101-3<k1>durjanI
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3101-3
+1: None  !=  <ab>v. a.</ab>
+--------
+* <L>51554<pc>3106-3<k1>duzkara
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3106-3
+1: <ab>dass.</ab>  !=  <ab>Infin.</ab>
+--------
+* <L>51616<pc>3107-2<k1>duzparihara
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3107-2
+1 <ab>Nom. abstr.</ab>
+2: None  !=  <ab>Comm.</ab>
+--------
+* <L>52148<pc>3114-2<k1>devakalaSa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3114-2
+1: None  !=  <ab>N. pr.</ab>
+--------
+* <L>52236<pc>3115-2<k1>devatA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3115-2
+1: <ab>concr.</ab>  !=  <ab>abstr.</ab>
+--------
+* <L>52275<pc>3115-3<k1>devatva
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3115-3
+1: None  !=  <ab>Abstr.</ab>
+--------
+* <L>52323<pc>3116-2<k1>devanATa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3116-2
+1: None  !=  <ab>Bein.</ab>
+--------
+* <L>52408<pc>3117-2<k1>devamati
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3117-2
+1 <ab>N. pr.</ab>
+2: None  !=  <ab>Pl.</ab>
+--------
+* <L>52409<pc>3117-2<k1>devamanuzya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3117-2
+1: None  !=  <ab>Pl.</ab>
+--------
+* <L>52705<pc>3120-2<k1>devendra
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3120-2
+1: <ab>N. pr.</ab>  !=  <ab>Bein.</ab>
+--------
+* <L>52708<pc>3120-2<k1>deveSa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3120-2
+1 <ab>Bein.</ab>
+2: <ab>s.</ab>  !=  <ab>Bein.</ab>
+--------
+* <L>53184<pc>3125-3<k1>dyut
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3125-3
+1 <ab>Act.</ab>
+2 <ab>Partic.</ab>
+3 <ab>Caus.</ab>
+4: <ab>Desid.</ab>  !=  <ab>Med.</ab>
+--------
+* <L>53662<pc>3132-3<k1>dvAdaSa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3132-3
+1: <ab>adj. Comp.</ab>  !=  <ab>Du.</ab>
+--------
+* <L>53731<pc>3133-2<k1>dvApaYcASa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3133-2
+1: None  !=  <ab>Du.</ab>
+--------
+* <L>53742<pc>3133-3<k1>dvArakAdAsa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3133-3
+1: None  !=  <ab>N. pr.</ab>
+--------
+* <L>53884<pc>3135-1<k1>dvijihva
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3135-1
+1 <ab>eig.</ab>
+2: <ab>Nom. abstr.</ab>  !=  <ab>Ã¼bertr.</ab>
+--------
+* <L>54218<pc>3139-1<k1>dvezaRIya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3139-1
+1: None  !=  <ab>Comm.</ab>
+--------
+* <L>54230<pc>3139-1<k1>dvesata
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3139-1
+1: None  !=  <ab>Comm.</ab>
+--------
+* <L>54240<pc>3139-1<k1>dvEtaBfta
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3139-1
+1: <ab>best.</ab>  !=  <ab>Pl.</ab>
+--------
+* <L>54294<pc>3139-3<k1>dvyakzara
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3139-3
+1: None  !=  <ab>Sg.</ab>
+--------
+* <L>54482<pc>3142-1<k1>DanurDArin
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3142-1
+1 <ab>subst.</ab>
+2: None  !=  <ab>Beiw.</ab>
+--------
+* <L>54640<pc>3146-1<k1>DarApati
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3146-1
+1: None  !=  <ab>Beiw.</ab>
+--------
+* <L>54650<pc>3146-1<k1>DaritrIsutrAman
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3146-1
+1: None  !=  <ab>Prol.</ab>
+--------
+* <L>55032<pc>3151-2<k1>DA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3151-2
+259 <ab>Med.</ab>
+260 <ab>Instr.</ab>
+261 <ab>Acc.</ab>
+262 <ab>Loc.</ab>
+263 <ab>Pass.</ab>
+264: <ab>Dat.</ab>  !=  <ab>Jmd.</ab>
+--------
+* <L>55784<pc>3166-3<k1>Denu
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3166-3
+1 <ab>Bez.</ab>
+2 <ab>Pl.</ab>
+3 <ab>Bez.</ab>
+4 <ab>Comp.</ab>
+5: None  !=  <ab>Du.</ab>
+--------
+* <L>55879<pc>3168-2<k1>DyAtavya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3168-2
+1 <ab>Nom. abstr.</ab>
+2 <ab>s. u.</ab>
+3: None  !=  <ab>impers.</ab>
+--------
+* <L>56306<pc>3174-1<k1>nagaradvAra
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3174-1
+1: <ab>St.</ab>  !=  None
+--------
+* <L>56512<pc>3176-2<k1>nanAndar
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3176-2
+1: None  !=  <ab>Comp.</ab>
+--------
+* <L>56516<pc>3176-2<k1>nand
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3176-2
+9 <ab>Acc.</ab>
+10 <ab>Acc.</ab>
+11 <ab>Acc.</ab>
+12 <ab>Acc.</ab>
+13 <ab>Potent.</ab>
+14: <ab>dass.</ab>  !=  <ab>Acc.</ab>
+--------
+* <L>56628<pc>3178-2<k1>napuMsaka
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3178-2
+1 <ab>Subst.</ab>
+2: <ab>s.</ab>  !=  None
+--------
+* <L>56674<pc>3179-1<k1>naBoga
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3179-1
+1: None  !=  <ab>N.</ab>
+--------
+* <L>57038<pc>3184-3<k1>nalina
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3184-3
+1 <ab>adj. Comp.</ab>
+2: <ab>N.</ab>  !=  <ab>u. s. w.</ab>
+--------
+* <L>57763<pc>3194-1<k1>nAnADarman
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3194-1
+1: None  !=  <ab>Collect.</ab>
+--------
+* <L>57951<pc>3196-3<k1>nAra
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3196-3
+1 <ab>Pl.</ab>
+2 <ab>Vgl.</ab>
+3: <ab>N. pr.</ab>  !=  <ab>Bez.</ab>
+--------
+* <L>58031<pc>3197-3<k1>nArizWa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3197-3
+1: <ab>Comm.</ab>  !=  <ab>Du.</ab>
+--------
+* <L>58054<pc>3198-1<k1>nArmada
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3198-1
+1: <ab>N.</ab>  !=  <ab>Metron.</ab>
+--------
+* <L>58624<pc>3205-2<k1>ninditar
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3205-2
+1: <ab>Nom.</ab>  !=  <ab>Nom. ag.</ab>
+--------
+* <L>58797<pc>3208-1<k1>niyantar
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3208-1
+1 <ab>Nom. ag.</ab>
+2: <ab>Nom.</ab>  !=  <ab>Nom. abstr.</ab>
+--------
+* <L>58957<pc>3210-2<k1>niravalambana
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3210-2
+1: <ab>N.</ab>  !=  None
+--------
+* <L>59074<pc>3212-1<k1>nirASraya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3212-1
+1: None  !=  <ab>v. l.</ab>
+--------
+* <L>59111<pc>3212-3<k1>niruktaga
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3212-3
+1: None  !=  <ab>Beiw.</ab>
+--------
+* <L>59157<pc>3213-1<k1>nirupama
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3213-1
+1 <ab>best.</ab>
+2: <ab>N. pr.</ab>  !=  <ab>gedr.</ab>
+--------
+* <L>59214<pc>3214-1<k1>nirganDa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3214-1
+1: <ab>Nom.</ab>  !=  <ab>Nom. abstr.</ab>
+--------
+* <L>59412<pc>3216-3<k1>nirBAsa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3216-3
+1 <ab>adj. Comp.</ab>
+2 <ab>vgl.</ab>
+3 <ab>Comp.</ab>
+4: None  !=  <ab>gedr.</ab>
+--------
+* <L>59481<pc>3217-2<k1>nirmArzwi
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3217-2
+1 <ab>N. pr.</ab>
+2: None  !=  <ab>gedr.</ab>
+--------
+* <L>59761<pc>3221-2<k1>nivartaka
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3221-2
+1: <ab>Nom. abstr.</ab>  !=  <ab>Comm.</ab>
+--------
+* <L>60834<pc>3237-2<k1>nud
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3237-2
+10 <ab>dass.</ab>
+11 <ab>v. l.</ab>
+12 <ab>v. a.</ab>
+13 <ab>Abl.</ab>
+14 <ab>Partic.</ab>
+15: <ab>Partic.</ab>  !=  <ab>Abl.</ab>
+--------
+* <L>61110<pc>3240-3<k1>nepAla
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3240-3
+1 <ab>N. pr.</ab>
+2: <ab>Sg.</ab>  !=  <ab>Pl.</ab>
+--------
+* <L>61160<pc>3241-2<k1>nEkata
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3241-2
+1: None  !=  <ab>N. pr.</ab>
+--------
+* <L>61223<pc>3242-1<k1>nEpAlIya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3242-1
+1 <ab>best.</ab>
+2: None  !=  <ab>buddh.</ab>
+--------
+* <L>61291<pc>3243-1<k1>nErvARika
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3243-1
+1: None  !=  <ab>buddh.</ab>
+--------
+* <L>61301<pc>3243-1<k1>nEvasaMjYinEvAsaMjYin
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3243-1
+1: None  !=  <ab>gedr.</ab>
+--------
+* <L>61314<pc>3243-2<k1>nESa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3243-2
+1: <ab>N.</ab>  !=  None
+--------
+* <L>61316<pc>3243-2<k1>nESika
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3243-2
+1: <ab>N.</ab>  !=  None
+--------
+* <L>61354<pc>3243-3<k1>nEzpremya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3243-3
+1: None  !=  <ab>gedr.</ab>
+--------
+* <L>61436<pc>3244-3<k1>nyantena
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3244-3
+1 <ab>Instr.</ab>
+2: <ab>N.</ab>  !=  <ab>Gen.</ab>
+--------
+* <L>61507<pc>3245-3<k1>nyAyya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3245-3
+1: <ab>Nom.</ab>  !=  <ab>Nom. abstr.</ab>
+--------
+* <L>61760<pc>4004-1<k1>pac
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4004-1
+6 <ab>Act.</ab>
+7 <ab>intrans.</ab>
+8 <ab>Pass.</ab>
+9 <ab>intrans.</ab>
+10 <ab>u. s. w.</ab>
+11: <ab>Acc.</ab>  !=  <ab>intrans.</ab>
+--------
+* <L>62167<pc>4009-2<k1>paYcArTa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4009-2
+1: None  !=  <ab>Sg.</ab>
+--------
+* <L>62279<pc>4011-1<k1>pawizWa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4011-1
+1: None  !=  <ab>Superl.</ab>
+--------
+* <L>62448<pc>4013-2<k1>pat
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4013-2
+102 <ab>Acc.</ab>
+103 <ab>Loc.</ab>
+104 <ab>Loc.</ab>
+105 <ab>Loc.</ab>
+106 <ab>Loc.</ab>
+107: <ab>Gen.</ab>  !=  <ab>Loc.</ab>
+--------
+* <L>62681<pc>4018-1<k1>paTa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4018-1
+1: <ab>eig.</ab>  !=  <ab>adj. Comp.</ab>
+--------
+* <L>62713<pc>4018-2<k1>pad
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4018-2
+35 <ab>Acc.</ab>
+36 <ab>Abl.</ab>
+37 <ab>Caus.</ab>
+38 <ab>Acc.</ab>
+39 <ab>Acc.</ab>
+40: <ab>Aor.</ab>  !=  <ab>Sg.</ab>
+--------
+* <L>62797<pc>4022-3<k1>padAtilava
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4022-3
+1: <ab>Vgl.</ab>  !=  <ab>v. a.</ab>
+--------
+* <L>63005<pc>4026-1<k1>padra
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4026-1
+1: <ab>N.</ab>  !=  <ab>N. pr.</ab>
+--------
+* <L>63142<pc>4028-2<k1>par
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4028-2
+19 <ab>Caus.</ab>
+20 <ab>Abl.</ab>
+21 <ab>Abl.</ab>
+22 <ab>Caus.</ab>
+23 <ab>Abl.</ab>
+24: None  !=  <ab>Caus.</ab>
+--------
+* <L>63201<pc>4030-1<k1>paratas
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4030-1
+1: <ab>v. a.</ab>  !=  <ab>Abl.</ab>
+--------
+* <L>63425<pc>4033-1<k1>parastAt
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4033-1
+1: <ab>Gen.</ab>  !=  <ab>Praep.</ab>
+--------
+* <L>63436<pc>4033-2<k1>paraspA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4033-2
+1: <ab>d. i.</ab>  !=  <ab>Du.</ab>
+--------
+* <L>63628<pc>4036-1<k1>parikara
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4036-1
+1 <ab>adj. Comp.</ab>
+2 <ab>Sg.</ab>
+3 <ab>Pl.</ab>
+4 <ab>Sg.</ab>
+5 <ab>Pl.</ab>
+6: <ab>v. a.</ab>  !=  <ab>Comm.</ab>
+--------
+* <L>63637<pc>4036-2<k1>parikarmay
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4036-2
+1: None  !=  <ab>Vgl.</ab>
+--------
+* <L>63691<pc>4037-1<k1>pariKA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4037-1
+1 <ab>adj. Comp.</ab>
+2: <ab>N.</ab>  !=  <ab>N. pr.</ab>
+--------
+* <L>63767<pc>4038-2<k1>paricArika
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4038-2
+1: None  !=  <ab>Pl.</ab>
+--------
+* <L>63890<pc>4040-1<k1>paridevita
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4040-1
+1 <ab>s. u.</ab>
+2: None  !=  <ab>Caus.</ab>
+--------
+* <L>63909<pc>4040-2<k1>pariDi
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4040-2
+1: <ab>N.</ab>  !=  <ab>N. pr.</ab>
+--------
+* <L>63955<pc>4041-1<k1>paripAka
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4041-1
+1: <ab>Ã¼bertr.</ab>  !=  <ab>eig.</ab>
+--------
+* <L>64203<pc>4044-2<k1>parivApaRa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4044-2
+1: None  !=  <ab>Comm.</ab>
+--------
+* <L>64228<pc>4044-2<k1>parivividAna
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4044-2
+1: None  !=  <ab>Comm.</ab>
+--------
+* <L>64310<pc>4045-3<k1>pariSramaRa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4045-3
+1: None  !=  <ab>Comm.</ab>
+--------
+* <L>64338<pc>4046-1<k1>parizeRay
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4046-1
+1: None  !=  <ab>Desid.</ab>
+--------
+* <L>64567<pc>4049-1<k1>pareRa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4049-1
+1 <ab>Instr.</ab>
+2: <ab>Acc.</ab>  !=  <ab>PrÃ¤p.</ab>
+--------
+* <L>64674<pc>4050-3<k1>parRavalka
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4050-3
+1 <ab>Sg.</ab>
+2 <ab>Pl.</ab>
+3: <ab>N.</ab>  !=  <ab>N. pr.</ab>
+--------
+* <L>64740<pc>4051-3<k1>paryawaka
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4051-3
+1: None  !=  <ab>Conj.</ab>
+--------
+* <L>65135<pc>4057-1<k1>paS
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4057-1
+8 <ab>v. a.</ab>
+9 <ab>Acc.</ab>
+10 <ab>Acc.</ab>
+11 <ab>Acc.</ab>
+12 <ab>Loc.</ab>
+13: <ab>Acc.</ab>  !=  <ab>vgl.</ab>
+--------
+* <L>65231<pc>4058-3<k1>paScAt
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4058-3
+1 <ab>v. a.</ab>
+2 <ab>Absol.</ab>
+3: <ab>Gen.</ab>  !=  <ab>PrÃ¤p.</ab>
+--------
+* <L>65309<pc>4059-3<k1>pA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4059-3
+12 <ab>v. a.</ab>
+13 <ab>v. a.</ab>
+14 <ab>pass.</ab>
+15 <ab>Bed.</ab>
+16 <ab>v. a.</ab>
+17: <ab>Bed.</ab>  !=  <ab>v. a.</ab>
+--------
+* <L>65541<pc>4063-2<k1>pAWikA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4063-2
+1: <ab>Nom.</ab>  !=  <ab>Nom. ag.</ab>
+--------
+* <L>65740<pc>4066-1<k1>pAtin
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4066-1
+1 <ab>Loc.</ab>
+2 <ab>st.</ab>
+3 <ab>Comp.</ab>
+4: None  !=  <ab>Comp.</ab>
+--------
+* <L>66045<pc>4070-1<k1>pApakfty
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4070-1
+1: None  !=  <ab>Denomin.</ab>
+--------
+* <L>66163<pc>4071-2<k1>pAyUpasTa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4071-2
+1: None  !=  <ab>Sg.</ab>
+--------
+* <L>66468<pc>4075-3<k1>pArSva
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4075-3
+1: <ab>Comp.</ab>  !=  <ab>adj. Comp.</ab>
+--------
+* <L>66510<pc>4076-2<k1>pArSvya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4076-2
+1: <ab>Vgl.</ab>  !=  <ab>Du.</ab>
+--------
+* <L>66572<pc>4077-2<k1>pAli
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4077-2
+1 <ab>Ã¼berh.</ab>
+2 <ab>adj. Comp.</ab>
+3: <ab>best.</ab>  !=  <ab>v. a.</ab>
+--------
+* <L>66801<pc>4080-3<k1>piYjala
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4080-3
+1 <ab>N. pr.</ab>
+2 <ab>u. s. w.</ab>
+3: <ab>Vgl.</ab>  !=  <ab>Comm.</ab>
+--------
+* <L>66829<pc>4081-1<k1>piRqa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4081-1
+4 <ab>Du.</ab>
+5 <ab>best.</ab>
+6 <ab>Comm.</ab>
+7 <ab>adj. Comp.</ab>
+8 <ab>N. pr.</ab>
+9: <ab>best.</ab>  !=  <ab>S.</ab>
+--------
+* <L>67030<pc>4084-1<k1>pitfhU
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4084-1
+1: None  !=  <ab>Beiz.</ab>
+--------
+* <L>67089<pc>4085-1<k1>pinv
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4085-1
+1: <ab>Med.</ab>  !=  <ab>Act.</ab>
+--------
+* <L>67114<pc>4085-2<k1>pipIlikotkiraRa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4085-2
+1: None  !=  <ab>Conj.</ab>
+--------
+* <L>67261<pc>4087-2<k1>pI
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4087-2
+1: None  !=  <ab>Bed.</ab>
+--------
+* <L>67262<pc>4087-2<k1>pI
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4087-2
+1 <ab>u. s. w.</ab>
+2 <ab>Act.</ab>
+3: <ab>Gen.</ab>  !=  <ab>Med.</ab>
+--------
+* <L>67293<pc>4088-2<k1>pIqita
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4088-2
+1 <ab>s. u.</ab>
+2: <ab>Sch.</ab>  !=  <ab>vgl.</ab>
+--------
+* <L>67470<pc>4090-3<k1>puMvat
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4090-3
+1: None  !=  <ab>gramm.</ab>
+--------
+* <L>67622<pc>4092-3<k1>puRyajana
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4092-3
+1 <ab>Pl.</ab>
+2 <ab>Bez.</ab>
+3 <ab>Bez.</ab>
+4: None  !=  <ab>Sg.</ab>
+--------
+* <L>67779<pc>4094-3<k1>puT
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4094-3
+1 <ab>Caus.</ab>
+2: <ab>v. a.</ab>  !=  <ab>Med.</ab>
+--------
+* <L>67909<pc>4096-2<k1>punarvasu
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4096-2
+1 <ab>Du.</ab>
+2: <ab>Nom. abstr.</ab>  !=  <ab>Sg.</ab>
+--------
+* <L>68018<pc>4097-3<k1>puras
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4097-3
+10 <ab>Dat.</ab>
+11 <ab>Gen.</ab>
+12 <ab>Act.</ab>
+13 <ab>v. a.</ab>
+14 <ab>v. a.</ab>
+15: <ab>Abl.</ab>  !=  <ab>v. a.</ab>
+--------
+* <L>68026<pc>4098-1<k1>purastAt
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4098-1
+1 <ab>u. s. w.</ab>
+2: <ab>Gen.</ab>  !=  <ab>PrÃ¤p.</ab>
+--------
+* <L>68057<pc>4098-2<k1>purA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4098-2
+1 <ab>PrÃ¤s.</ab>
+2 <ab>Fut.</ab>
+3: <ab>Abl.</ab>  !=  <ab>Praep.</ab>
+--------
+* <L>68084<pc>4099-1<k1>purAtana
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4099-1
+1: <ab>s. v.</ab>  !=  <ab>v. a.</ab>
+--------
+* <L>68199<pc>4100-2<k1>purumAyya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4100-2
+1: None  !=  <ab>N. pr.</ab>
+--------
+* <L>68446<pc>4103-2<k1>pulahASrama
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4103-2
+1 <ab>N. pr.</ab>
+2: None  !=  <ab>Comm.</ab>
+--------
+* <L>68566<pc>4105-3<k1>puzpaka
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4105-3
+1: <ab>N. pr.</ab>  !=  <ab>Pl.</ab>
+--------
+* <L>68652<pc>4106-3<k1>puzpalIlA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4106-3
+1: None  !=  <ab>N. pr.</ab>
+--------
+* <L>68750<pc>4108-1<k1>pU
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4108-1
+29 <ab>Med.</ab>
+30 <ab>Med.</ab>
+31 <ab>Acc.</ab>
+32 <ab>Acc.</ab>
+33 <ab>Caus.</ab>
+34: <ab>Acc.</ab>  !=  <ab>Med.</ab>
+--------
+* <L>68762<pc>4108-2<k1>pUj
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4108-2
+11 <ab>Comp.</ab>
+12 <ab>v. a.</ab>
+13 <ab>Comp.</ab>
+14 <ab>Caus.</ab>
+15 <ab>Ã¼berh.</ab>
+16: <ab>Instr.</ab>  !=  <ab>Caus.</ab>
+--------
+* <L>68898<pc>4110-2<k1>pUraRa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4110-2
+1 <ab>v. a.</ab>
+2 <ab>masc.</ab>
+3: <ab>N. pr.</ab>  !=  <ab>gen.</ab>
+--------
+* <L>69020<pc>4112-1<k1>pUrva
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4112-1
+18 <ab>praet.</ab>
+19 <ab>pass.</ab>
+20 <ab>adj. Comp.</ab>
+21 <ab>v. a.</ab>
+22 <ab>st.</ab>
+23: <ab>Bed.</ab>  !=  <ab>Pl.</ab>
+--------
+* <L>69288<pc>4115-2<k1>pUrvendra
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4115-2
+1: None  !=  <ab>vgl.</ab>
+--------
+* <L>69376<pc>4116-3<k1>pfTaktvaSas
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4116-3
+1: <ab>Comm.</ab>  !=  <ab>Cit.</ab>
+--------
+* <L>69425<pc>4117-1<k1>pfTAsUnu
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4117-1
+1: None  !=  <ab>Metron.</ab>
+--------
+* <L>69580<pc>4118-3<k1>pfdAkusAnu
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4118-3
+1: <ab>Sch.</ab>  !=  None
+--------
+* <L>69661<pc>4120-1<k1>pfzWatas
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4120-1
+1: <ab>Gen.</ab>  !=  <ab>PrÃ¤p.</ab>
+--------
+* <L>69768<pc>4121-2<k1>peza
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4121-2
+1 <ab>Comp.</ab>
+2 <ab>Comp.</ab>
+3: None  !=  <ab>S.</ab>
+--------
+* <L>70126<pc>4125-2<k1>pOrvapadika
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4125-2
+1: None  !=  <ab>Vgl.</ab>
+--------
+* <L>70193<pc>4126-2<k1>pyA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4126-2
+5 <ab>v. a.</ab>
+6 <ab>Caus.</ab>
+7 <ab>Caus.</ab>
+8 <ab>Partic.</ab>
+9 <ab>Caus.</ab>
+10: None  !=  <ab>Vgl.</ab>
+--------
+* <L>70235<pc>4127-1<k1>prakaritar
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4127-1
+1 <ab>Nom. ag.</ab>
+2: None  !=  <ab>v. a.</ab>
+--------
+* <L>70386<pc>4129-3<k1>prakzAlaka
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4129-3
+1: None  !=  <ab>Subst.</ab>
+--------
+* <L>70423<pc>4130-2<k1>pragamanIya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4130-2
+1 <ab>Partic.</ab>
+2 <ab>fut.</ab>
+3: None  !=  <ab>pass.</ab>
+--------
+* <L>70442<pc>4130-2<k1>pragAhaRa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4130-2
+1: <ab>Gen.</ab>  !=  <ab>intrans.</ab>
+--------
+* <L>70523<pc>4131-3<k1>pracalAyita
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4131-3
+1: <ab>s.</ab>  !=  <ab>Pl.</ab>
+--------
+* <L>70862<pc>4137-1<k1>prati
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4137-1
+6 <ab>v. a.</ab>
+7 <ab>v. a.</ab>
+8 <ab>v. a.</ab>
+9 <ab>v. a.</ab>
+10 <ab>v. a.</ab>
+11: <ab>Acc.</ab>  !=  <ab>z. B.</ab>
+--------
+* <L>70963<pc>4138-2<k1>pratigraha
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4138-2
+5 <ab>v. a.</ab>
+6 <ab>Insbes.</ab>
+7 <ab>Instr.</ab>
+8 <ab>v. a.</ab>
+9 <ab>Bez.</ab>
+10: None  !=  <ab>vgl.</ab>
+--------
+* <L>71001<pc>4139-1<k1>praticCanda
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4139-1
+1 <ab>Pl.</ab>
+2: None  !=  <ab>v. a.</ab>
+--------
+* <L>71256<pc>4142-2<k1>pratibanDa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4142-2
+1 <ab>Instr.</ab>
+2: None  !=  <ab>v. a.</ab>
+--------
+* <L>71276<pc>4142-3<k1>pratibudDi
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4142-3
+1 <ab>Ã¼bertr.</ab>
+2: None  !=  <ab>Bed.</ab>
+--------
+* <L>71404<pc>4144-3<k1>pratirUpa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4144-3
+1: <ab>Gen.</ab>  !=  <ab>v. a.</ab>
+--------
+* <L>71422<pc>4144-3<k1>pratiloma
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4144-3
+1 <ab>v. a.</ab>
+2: <ab>Pl.</ab>  !=  <ab>N. pr.</ab>
+--------
+* <L>71459<pc>4145-2<k1>prativARi
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4145-2
+1: <ab>s.</ab>  !=  <ab>u. s. w.</ab>
+--------
+* <L>71509<pc>4146-1<k1>prativeSa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4146-1
+1: <ab>N.</ab>  !=  <ab>Vgl.</ab>
+--------
+* <L>71773<pc>4149-3<k1>pratIpa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4149-3
+1 <ab>v. a.</ab>
+2 <ab>u. s. w.</ab>
+3 <ab>N. pr.</ab>
+4 <ab>z. B.</ab>
+5: <ab>St.</ab>  !=  <ab>st.</ab>
+--------
+* <L>71804<pc>4150-1<k1>pratIhAram
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4150-1
+1: None  !=  <ab>Absol.</ab>
+--------
+* <L>71997<pc>4152-3<k1>pratyarTin
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4152-3
+1 <ab>Comm.</ab>
+2: None  !=  <ab>v. a.</ab>
+--------
+* <L>72137<pc>4154-3<k1>pratyutTeya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4154-3
+1: None  !=  <ab>Comm.</ab>
+--------
+* <L>72198<pc>4155-3<k1>praTama
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4155-3
+1 <ab>v. a.</ab>
+2 <ab>Compar.</ab>
+3 <ab>Gen.</ab>
+4 <ab>Compar.</ab>
+5: <ab>Du.</ab>  !=  <ab>d. h.</ab>
+--------
+* <L>72201<pc>4155-3<k1>praTamakalpika
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4155-3
+1: <ab>Comm.</ab>  !=  <ab>Bez.</ab>
+--------
+* <L>72354<pc>4158-1<k1>pradyumnaSiKara
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4158-1
+1: None  !=  <ab>N. Pr.</ab>
+--------
+* <L>72399<pc>4158-3<k1>praDi
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4158-3
+1 <ab>Pl.</ab>
+2: None  !=  <ab>S.</ab>
+--------
+* <L>72436<pc>4159-1<k1>prapaYcasAra
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4159-1
+1: None  !=  <ab>ebend.</ab>
+--------
+* <L>72953<pc>4167-1<k1>prayojanavant
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4167-1
+1 <ab>Nom. abstr.</ab>
+2: None  !=  <ab>v. a.</ab>
+--------
+* <L>73162<pc>4170-1<k1>pravAraRa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4170-1
+1: None  !=  <ab>buddh.</ab>
+--------
+* <L>73179<pc>4170-2<k1>pravAhaReyi
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4170-2
+1: None  !=  <ab>Patron.</ab>
+--------
+* <L>73433<pc>4173-3<k1>prazwivAhana
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4173-3
+1: None  !=  <ab>v. u.</ab>
+--------
+* <L>73487<pc>4174-3<k1>prasava
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4174-3
+1 <ab>adj. Comp.</ab>
+2 <ab>Sg.</ab>
+3 <ab>Pl.</ab>
+4: None  !=  <ab>v. a.</ab>
+--------
+* <L>73588<pc>4176-2<k1>prasecana
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4176-2
+1: <ab>Comm.</ab>  !=  <ab>adj. Comp.</ab>
+--------
+* <L>73810<pc>4179-3<k1>prAkfta
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4179-3
+1 <ab>v. a.</ab>
+2 <ab>Astr.</ab>
+3: <ab>rit.</ab>  !=  None
+--------
+* <L>73813<pc>4179-3<k1>prAkftadIpikA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4179-3
+1 <ab>ebend.</ab>
+2: None  !=  <ab>ebend.</ab>
+--------
+* <L>74007<pc>4182-1<k1>prAcInAvavItin
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4182-1
+1: <ab>Rec.</ab>  !=  None
+--------
+* <L>74015<pc>4182-2<k1>prAcurya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4182-2
+1 <ab>Instr.</ab>
+2: <ab>Instr.</ab>  !=  <ab>Comm.</ab>
+--------
+* <L>74060<pc>4183-1<k1>prAYc
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4183-1
+10 <ab>Abl.</ab>
+11 <ab>Abl.</ab>
+12 <ab>Abl.</ab>
+13 <ab>Gen.</ab>
+14 <ab>v. a.</ab>
+15: <ab>v. a.</ab>  !=  <ab>Buddh.</ab>
+--------
+* <L>74297<pc>4186-2<k1>prAtikUlya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4186-2
+1 <ab>Comp.</ab>
+2: None  !=  <ab>Comm.</ab>
+--------
+* <L>74316<pc>4186-2<k1>prAtiBAvya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4186-2
+1 <ab>Comp.</ab>
+2 <ab>v. a.</ab>
+3: None  !=  <ab>Gen.</ab>
+--------
+* <L>74652<pc>4191-1<k1>prAsaNgika
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4191-1
+1: <ab>f.</ab>  !=  None
+--------
+* <L>74654<pc>4191-2<k1>prAsaca
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4191-2
+1 <ab>Comm.</ab>
+2: None  !=  <ab>Comm.</ab>
+--------
+* <L>74723<pc>4192-2<k1>priyacikIrzu
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4192-2
+1: None  !=  <ab>Gen.</ab>
+--------
+* <L>74807<pc>4193-2<k1>priyApriya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4193-2
+1: <ab>Du.</ab>  !=  <ab>Sg.</ab>
+--------
+* <L>74828<pc>4193-3<k1>prIti
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4193-3
+1 <ab>Loc.</ab>
+2 <ab>Comp.</ab>
+3 <ab>Absol.</ab>
+4 <ab>Instr.</ab>
+5 <ab>Comp.</ab>
+6: <ab>Loc.</ab>  !=  <ab>Gen.</ab>
+--------
+* <L>74880<pc>4194-3<k1>prekzAsamAja
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4194-3
+1: None  !=  <ab>Sg.</ab>
+--------
+* <L>74918<pc>4195-1<k1>pretapatipawaha
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4195-1
+1: None  !=  <ab>fig.</ab>
+--------
+* <L>74996<pc>4196-1<k1>prezaRa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4196-1
+1: None  !=  <ab>Pl.</ab>
+--------
+* <L>75030<pc>4196-2<k1>prEzaRika
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4196-2
+1 <ab>d. i.</ab>
+2: <ab>Bes.</ab>  !=  None
+--------
+* <L>75092<pc>4197-1<k1>prozWapada
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4197-1
+1: <ab>Du.</ab>  !=  <ab>Sg.</ab>
+--------
+* <L>75161<pc>4198-2<k1>plAkza
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4198-2
+1: <ab>Pl.</ab>  !=  <ab>Bez.</ab>
+--------
+* <L>75199<pc>4199-3<k1>plutameru
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4199-3
+1 <ab>best.</ab>
+2: <ab>s.</ab>  !=  None
+--------
+* <L>75250<pc>4200-2<k1>PaRikAra
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4200-2
+1 <ab>Pl.</ab>
+2: None  !=  <ab>N. pr.</ab>
+--------
+* <L>75270<pc>4200-2<k1>PaRilatA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4200-2
+1: <ab>Comp.</ab>  !=  <ab>adj. Comp.</ab>
+--------
+* <L>75719<pc>4206-1<k1>badDaSrotramanaScakzus
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4206-1
+1: None  !=  <ab>Loc.</ab>
+--------
+* <L>75768<pc>4206-3<k1>banD
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4206-3
+88 <ab>Instr.</ab>
+89 <ab>Loc.</ab>
+90 <ab>Comp.</ab>
+91 <ab>v. a.</ab>
+92 <ab>Instr.</ab>
+93: <ab>v. a.</ab>  !=  <ab>Pass.</ab>
+--------
+* <L>75887<pc>4209-3<k1>barh
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4209-3
+1 <ab>Partic.</ab>
+2 <ab>Caus.</ab>
+3 <ab>Partic.</ab>
+4 <ab>Caus.</ab>
+5 <ab>Partic.</ab>
+6: <ab>Caus.</ab>  !=  <ab>trans.</ab>
+--------
+* <L>75983<pc>4211-3<k1>balaBadrikA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4211-3
+1: None  !=  <ab>Hdschr.</ab>
+--------
+* <L>76094<pc>4213-1<k1>balizaqBAga
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4213-1
+1: <ab>s.</ab>  !=  None
+--------
+* <L>76257<pc>4215-1<k1>bahu
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4215-1
+3 <ab>v. a.</ab>
+4 <ab>v. a.</ab>
+5 <ab>Gen.</ab>
+6 <ab>Compar.</ab>
+7 <ab>Abl.</ab>
+8: <ab>dass.</ab>  !=  <ab>Superl.</ab>
+--------
+* <L>76577<pc>4219-1<k1>bahvapatya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4219-1
+1: <ab>N.</ab>  !=  None
+--------
+* <L>77025<pc>4225-2<k1>bindumant
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4225-2
+1 <ab>N. pr.</ab>
+2: <ab>N. pr.</ab>  !=  <ab>Bez.</ab>
+--------
+* <L>77267<pc>4228-1<k1>budDavacana
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4228-1
+1: <ab>buddh.</ab>  !=  <ab>Bez.</ab>
+--------
+* <L>77508<pc>4231-3<k1>bfhadarkI
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4231-3
+1: None  !=  <ab>vgl.</ab>
+--------
+* <L>77514<pc>4231-3<k1>bfhadAraRyakopanizad
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4231-3
+1: None  !=  <ab>desgl.</ab>
+--------
+* <L>77775<pc>4235-1<k1>braDnaSva
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4235-1
+1 <ab>N. pr.</ab>
+2: None  !=  <ab>Ausgg.</ab>
+--------
+* <L>77805<pc>4235-2<k1>brahmakzatra
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4235-2
+1: <ab>Du.</ab>  !=  <ab>Sg.</ab>
+--------
+* <L>77820<pc>4235-2<k1>brahmagranTi
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4235-2
+1 <ab>Comm.</ab>
+2: <ab>best.</ab>  !=  <ab>v. u.</ab>
+--------
+* <L>77887<pc>4236-2<k1>brahmadaRqa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4236-2
+2 <ab>best.</ab>
+3 <ab>best.</ab>
+4 <ab>N. pr.</ab>
+5 <ab>best.</ab>
+6 <ab>Comm.</ab>
+7: <ab>N.</ab>  !=  None
+--------
+* <L>78271<pc>4241-3<k1>brAhmaRaspatya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4241-3
+1: None  !=  <ab>u. s. w.</ab>
+--------
+* <L>78380<pc>4243-2<k1>Bakz
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4243-2
+11 <ab>Instr.</ab>
+12 <ab>Acc.</ab>
+13 <ab>Acc.</ab>
+14 <ab>Desid.</ab>
+15 <ab>Comm.</ab>
+16: <ab>Acc.</ab>  !=  <ab>Caus.</ab>
+--------
+* <L>78462<pc>4244-3<k1>BagahArin
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4244-3
+1: None  !=  <ab>Beiw.</ab>
+--------
+* <L>78464<pc>4244-3<k1>BagANka
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4244-3
+1: None  !=  <ab>Conj.</ab>
+--------
+* <L>78555<pc>4246-3<k1>BaYj
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4246-3
+3 <ab>Comp.</ab>
+4 <ab>st.</ab>
+5 <ab>v. a.</ab>
+6 <ab>Pass.</ab>
+7 <ab>u. s. w.</ab>
+8: <ab>Bed.</ab>  !=  <ab>intrans.</ab>
+--------
+* <L>78602<pc>4247-3<k1>BawwArakamaWa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4247-3
+1: <ab>N. pr.</ab>  !=  <ab>Conj.</ab>
+--------
+* <L>78864<pc>4250-3<k1>Bar
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4250-3
+5 <ab>Loc.</ab>
+6 <ab>Instr.</ab>
+7 <ab>v. a.</ab>
+8 <ab>v. a.</ab>
+9 <ab>v. a.</ab>
+10: <ab>s.</ab>  !=  <ab>v. a.</ab>
+--------
+* <L>78884<pc>4252-1<k1>Barata
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4252-1
+1 <ab>Bez.</ab>
+2 <ab>best.</ab>
+3: <ab>Sch.</ab>  !=  <ab>Bein.</ab>
+--------
+* <L>79196<pc>4256-2<k1>Basman
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4256-2
+1 <ab>Pl.</ab>
+2: None  !=  <ab>v. a.</ab>
+--------
+* <L>79236<pc>4256-3<k1>BA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4256-3
+30 <ab>dass.</ab>
+31 <ab>Gen.</ab>
+32 <ab>v. a.</ab>
+33 <ab>Nomin.</ab>
+34 <ab>Dat.</ab>
+35: <ab>Acc.</ab>  !=  <ab>v. a.</ab>
+--------
+* <L>79306<pc>4258-1<k1>BAgya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4258-1
+1: <ab>Compar.</ab>  !=  <ab>v. a.</ab>
+--------
+* <L>79308<pc>4258-2<k1>BAgyakrama
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4258-2
+1 <ab>Instr.</ab>
+2: <ab>Sch.</ab>  !=  None
+--------
+* <L>79344<pc>4258-3<k1>BAwwakOstuBa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4258-3
+1 <ab>ebend.</ab>
+2 <ab>ebend.</ab>
+3 <ab>ebend.</ab>
+4 <ab>ebend.</ab>
+5 <ab>ebend.</ab>
+6: None  !=  <ab>ebend.</ab>
+--------
+* <L>79482<pc>4260-3<k1>BAravAha
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4260-3
+1: None  !=  <ab>Subst.</ab>
+--------
+* <L>79542<pc>4261-2<k1>BAryApati
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4261-2
+1: <ab>Nom. abstr.</ab>  !=  <ab>Du.</ab>
+--------
+* <L>79577<pc>4261-3<k1>BAva
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4261-3
+1 <ab>adj. Comp.</ab>
+2 <ab>Comp.</ab>
+3 <ab>Comp.</ab>
+4 <ab>Nom.</ab>
+5 <ab>act.</ab>
+6: <ab>insbes.</ab>  !=  <ab>abstr.</ab>
+--------
+* <L>79607<pc>4262-3<k1>BAvaneri
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4262-3
+1 <ab>best.</ab>
+2: <ab>s.</ab>  !=  None
+--------
+* <L>79671<pc>4263-2<k1>BAvin
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4263-2
+1 <ab>Comp.</ab>
+2: <ab>Fut.</ab>  !=  <ab>Bed.</ab>
+--------
+* <L>79686<pc>4264-1<k1>BAzA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4264-1
+1: <ab>rit.</ab>  !=  <ab>Bez.</ab>
+--------
+* <L>79704<pc>4264-2<k1>BAzyawIkA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4264-2
+1 <ab>ebend.</ab>
+2 <ab>ebend.</ab>
+3 <ab>ebend.</ab>
+4 <ab>ebend.</ab>
+5: None  !=  <ab>ebend.</ab>
+--------
+* <L>79806<pc>4266-1<k1>Bid
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4266-1
+1 <ab>Med.</ab>
+2 <ab>Pass.</ab>
+3: <ab>intransit.</ab>  !=  <ab>Comm.</ab>
+--------
+* <L>80139<pc>4271-3<k1>Buyya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4271-3
+1: None  !=  <ab>N. pr.</ab>
+--------
+* <L>80202<pc>4272-2<k1>BU
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4272-2
+7 <ab>impers.</ab>
+8 <ab>v. a.</ab>
+9 <ab>Loc.</ab>
+10 <ab>Gen.</ab>
+11 <ab>Fut.</ab>
+12: <ab>dass.</ab>  !=  <ab>v. a.</ab>
+--------
+* <L>80724<pc>4281-1<k1>BUzAy
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4281-1
+1: <ab>Sch.</ab>  !=  None
+--------
+* <L>81098<pc>4286-2<k1>Bojyamaya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4286-2
+1: None  !=  <ab>s.</ab>
+--------
+* <L>81180<pc>4288-1<k1>Bram
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4288-1
+2 <ab>Acc.</ab>
+3 <ab>v. a.</ab>
+4 <ab>Acc.</ab>
+5 <ab>impers.</ab>
+6 <ab>Caus.</ab>
+7: <ab>v. a.</ab>  !=  <ab>Med.</ab>
+--------
+* <L>81222<pc>4289-1<k1>BrAj
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4289-1
+1: <ab>Caus.</ab>  !=  <ab>v. a.</ab>
+--------
+* <L>81256<pc>4289-3<k1>BrAtfBAryA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4289-3
+1: None  !=  <ab>Pl.</ab>
+--------
+* <L>81782<pc>5006-3<k1>maRiBArava
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5006-3
+1: None  !=  <ab>s. u.</ab>
+--------
+* <L>81888<pc>5008-2<k1>maRqalI
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5008-2
+1 <ab>v. a.</ab>
+2: None  !=  <ab>v. a.</ab>
+--------
+* <L>82087<pc>5011-2<k1>maTIn
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5011-2
+1: None  !=  <ab>Denomin.</ab>
+--------
+* <L>82097<pc>5011-3<k1>mad
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5011-3
+1: <ab>intrans.</ab>  !=  <ab>trans.</ab>
+--------
+* <L>82320<pc>5014-3<k1>maDu
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5014-3
+1 <ab>N. pr.</ab>
+2 <ab>Pl.</ab>
+3 <ab>best.</ab>
+4: <ab>s.</ab>  !=  <ab>u. s. w.</ab>
+--------
+* <L>82462<pc>5016-3<k1>maDumEreya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5016-3
+1: None  !=  <ab>Sch.</ab>
+--------
+* <L>82570<pc>5018-1<k1>maDusUdana
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5018-1
+1: <ab>N. pr.</ab>  !=  <ab>Bein.</ab>
+--------
+* <L>82587<pc>5018-1<k1>maDUka
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5018-1
+1: <ab>N.</ab>  !=  None
+--------
+* <L>82671<pc>5019-2<k1>maDyamika
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5019-2
+1 <ab>Pl.</ab>
+2 <ab>best.</ab>
+3: None  !=  <ab>s. u.</ab>
+--------
+* <L>82789<pc>5021-3<k1>manayitar
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5021-3
+1: <ab>Nom.</ab>  !=  <ab>Nom. ag.</ab>
+--------
+* <L>83142<pc>5027-1<k1>mantravAda
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5027-1
+1: None  !=  <ab>v. a.</ab>
+--------
+* <L>83207<pc>5027-3<k1>manTara
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5027-3
+1: <ab>N. pr.</ab>  !=  <ab>Comp.</ab>
+--------
+* <L>83368<pc>5030-1<k1>mandra
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5030-1
+1 <ab>Compar.</ab>
+2: None  !=  <ab>Superl.</ab>
+--------
+* <L>83375<pc>5030-1<k1>manDa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5030-1
+1: <ab>vgl.</ab>  !=  <ab>v. l.</ab>
+--------
+* <L>83401<pc>5030-2<k1>manyA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5030-2
+1 <ab>Du.</ab>
+2 <ab>Pl.</ab>
+3: <ab>s.</ab>  !=  None
+--------
+* <L>83704<pc>5035-3<k1>marmaga
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5035-3
+1 <ab>eig.</ab>
+2: None  !=  <ab>Ã¼bertr.</ab>
+--------
+* <L>84163<pc>5042-1<k1>mahAkAla
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5042-1
+1 <ab>insbes.</ab>
+2 <ab>Beiw.</ab>
+3 <ab>N. pr.</ab>
+4 <ab>Nom. abstr.</ab>
+5 <ab>N. pr.</ab>
+6: None  !=  <ab>s. u.</ab>
+--------
+* <L>84469<pc>5045-3<k1>mahAnArAyaRa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5045-3
+1: None  !=  <ab>d. i.</ab>
+--------
+* <L>85525<pc>5058-2<k1>mahya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5058-2
+1 <ab>Pl.</ab>
+2 <ab>N. pr.</ab>
+3: <ab>s.</ab>  !=  <ab>s. u.</ab>
+--------
+* <L>85965<pc>5065-3<k1>mADava
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5065-3
+2 <ab>Sg.</ab>
+3 <ab>Patron.</ab>
+4 <ab>Pl.</ab>
+5 <ab>Bez.</ab>
+6 <ab>N. pr.</ab>
+7: <ab>best.</ab>  !=  <ab>Beiw.</ab>
+--------
+* <L>86359<pc>5071-2<k1>mAruta
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5071-2
+1 <ab>u. s. w.</ab>
+2 <ab>Bez.</ab>
+3 <ab>Patron.</ab>
+4 <ab>adj. Comp.</ab>
+5: <ab>Pl.</ab>  !=  <ab>medic.</ab>
+--------
+* <L>86418<pc>5072-1<k1>mArgava
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5072-1
+1: <ab>bes.</ab>  !=  <ab>best.</ab>
+--------
+* <L>86606<pc>5075-1<k1>mAvelvaka
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5075-1
+1 <ab>Pl.</ab>
+2: None  !=  <ab>v. l.</ab>
+--------
+* <L>87041<pc>5081-1<k1>miz
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5081-1
+1 <ab>Partic.</ab>
+2: <ab>Gen.</ab>  !=  <ab>praes.</ab>
+--------
+* <L>87422<pc>5086-2<k1>muc
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5086-2
+27 <ab>Gen.</ab>
+28 <ab>Acc.</ab>
+29 <ab>Abl.</ab>
+30 <ab>Abl.</ab>
+31 <ab>Loc.</ab>
+32: <ab>Pass.</ab>  !=  <ab>Med.</ab>
+--------
+* <L>87448<pc>5088-2<k1>muYjakeSavant
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5088-2
+1: None  !=  <ab>Beiw.</ab>
+--------
+* <L>87473<pc>5088-3<k1>muw
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5088-3
+1: <ab>Acc.</ab>  !=  <ab>Caus.</ab>
+--------
+* <L>87763<pc>5092-3<k1>muh
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5092-3
+4 <ab>v. a.</ab>
+5 <ab>Compar.</ab>
+6 <ab>Comp.</ab>
+7 <ab>Insbes.</ab>
+8 <ab>Loc.</ab>
+9: <ab>Superl.</ab>  !=  <ab>Comp.</ab>
+--------
+* <L>87916<pc>5095-2<k1>mUrDanya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5095-2
+1: <ab>Sch.</ab>  !=  <ab>Bez.</ab>
+--------
+* <L>87933<pc>5095-3<k1>mUla
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5095-3
+1 <ab>adj. Comp.</ab>
+2 <ab>insbes.</ab>
+3 <ab>v. a.</ab>
+4: <ab>z. B.</ab>  !=  <ab>Bed.</ab>
+--------
+* <L>88472<pc>5102-2<k1>mfdutIkzRa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5102-2
+1 <ab>Compar.</ab>
+2: None  !=  <ab>Sg.</ab>
+--------
+* <L>88698<pc>5105-1<k1>mecaka
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5105-1
+1 <ab>Bez.</ab>
+2 <ab>best.</ab>
+3: <ab>St.</ab>  !=  None
+--------
+* <L>88770<pc>5105-3<k1>meDa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5105-3
+1 <ab>Ã¼berh.</ab>
+2: <ab>N. pr.</ab>  !=  <ab>bes.</ab>
+--------
+* <L>88800<pc>5106-2<k1>meDya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5106-2
+1: <ab>Compar.</ab>  !=  <ab>v. a.</ab>
+--------
+* <L>89275<pc>5113-1<k1>mruc
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5113-1
+1: None  !=  <ab>Acc.</ab>
+--------
+* <L>89314<pc>5113-3<k1>ya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5113-3
+5 <ab>v. a.</ab>
+6 <ab>Relat.</ab>
+7 <ab>Nomin.</ab>
+8 <ab>Sg.</ab>
+9 <ab>Acc.</ab>
+10: <ab>Relat.</ab>  !=  <ab>v. a.</ab>
+--------
+* <L>89747<pc>5120-2<k1>yatrakAmAvasAyin
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5120-2
+1: <ab>Nom.</ab>  !=  <ab>Nom. abstr.</ab>
+--------
+* <L>89780<pc>5121-1<k1>yaTAkAmin
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5121-1
+1: <ab>Nom.</ab>  !=  <ab>Nom. abstr.</ab>
+--------
+* <L>89939<pc>5123-1<k1>yaTABUmi
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5123-1
+1: None  !=  <ab>Ausgg.</ab>
+--------
+* <L>89956<pc>5123-2<k1>yaTAyatanam
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5123-2
+1: <ab>St.</ab>  !=  None
+--------
+* <L>90025<pc>5124-1<k1>yaTAviBava
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5124-1
+1 <ab>gedr.</ab>
+2 <ab>ebend.</ab>
+3 <ab>ebend.</ab>
+4: <ab>ebd.</ab>  !=  <ab>ebend.</ab>
+--------
+* <L>90152<pc>5126-1<k1>yad
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5126-1
+4 <ab>Comp.</ab>
+5 <ab>s. u.</ab>
+6 <ab>Conj.</ab>
+7 <ab>dass.</ab>
+8 <ab>u. s. w.</ab>
+9: <ab>dass.</ab>  !=  <ab>Potent.</ab>
+--------
+* <L>90166<pc>5126-2<k1>yadi
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5126-2
+4 <ab>Pot.</ab>
+5 <ab>Fut.</ab>
+6 <ab>Praes.</ab>
+7 <ab>Praes.</ab>
+8 <ab>Fut.</ab>
+9: <ab>fut.</ab>  !=  <ab>Imperat.</ab>
+--------
+* <L>90199<pc>5127-1<k1>yantra
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5127-1
+1 <ab>u. s. w.</ab>
+2 <ab>dergl.</ab>
+3 <ab>Ã¼berh.</ab>
+4 <ab>v. a.</ab>
+5: <ab>u. s. w.</ab>  !=  <ab>v. a.</ab>
+--------
+* <L>90226<pc>5127-3<k1>yantravE
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5127-3
+1 <ab>Dat.</ab>
+2 <ab>Infin.</ab>
+3 <ab>v. l.</ab>
+4: None  !=  <ab>Ausgg.</ab>
+--------
+* <L>90246<pc>5127-3<k1>yam
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5127-3
+10 <ab>v. a.</ab>
+11 <ab>v. a.</ab>
+12 <ab>Dat.</ab>
+13 <ab>Loc.</ab>
+14 <ab>Gen.</ab>
+15: <ab>Abl.</ab>  !=  <ab>v. a.</ab>
+--------
+* <L>90407<pc>5131-2<k1>yarhi
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5131-2
+3 <ab>Potent.</ab>
+4 <ab>Bed.</ab>
+5 <ab>Perf.</ab>
+6 <ab>Imperf.</ab>
+7 <ab>Aor.</ab>
+8: <ab>Potent.</ab>  !=  <ab>Praes.</ab>
+--------
+* <L>90534<pc>5133-2<k1>yaSas
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5133-2
+1 <ab>Compar.</ab>
+2: <ab>N. pr.</ab>  !=  <ab>Superl.</ab>
+--------
+* <L>90548<pc>5133-2<k1>yaSoda
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5133-2
+1: <ab>N. pr.</ab>  !=  <ab>v. l.</ab>
+--------
+* <L>90571<pc>5133-3<k1>yaSorAta
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5133-3
+1: None  !=  <ab>desgl.</ab>
+--------
+* <L>90605<pc>5134-2<k1>yasmAt
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5134-2
+1 <ab>Abl.</ab>
+2 <ab>Conj.</ab>
+3 <ab>v. a.</ab>
+4: <ab>dass.</ab>  !=  None
+--------
+* <L>90611<pc>5134-2<k1>yA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5134-2
+35 <ab>Dat.</ab>
+36 <ab>Nom.</ab>
+37 <ab>act.</ab>
+38 <ab>Infin.</ab>
+39 <ab>Acc.</ab>
+40: <ab>St.</ab>  !=  <ab>v. a.</ab>
+--------
+* <L>90983<pc>5141-3<k1>yu
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5141-3
+3 <ab>Acc.</ab>
+4 <ab>Nomin.</ab>
+5 <ab>Compp.</ab>
+6 <ab>Pl.</ab>
+7 <ab>Loc.</ab>
+8: None  !=  <ab>Comp.</ab>
+--------
+* <L>91056<pc>5143-3<k1>yugAdijina
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5143-3
+1: <ab>Bez.</ab>  !=  <ab>ebend.</ab>
+--------
+* <L>91092<pc>5144-1<k1>yuj
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5144-1
+199 <ab>Comp.</ab>
+200 <ab>v. a.</ab>
+201 <ab>Gen.</ab>
+202 <ab>Caus.</ab>
+203 <ab>Dat.</ab>
+204: <ab>Caus.</ab>  !=  <ab>v. a.</ab>
+--------
+* <L>91175<pc>5148-2<k1>yuva
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5148-2
+1: <ab>s. u.</ab>  !=  <ab>Pron.</ab>
+--------
+* <L>91313<pc>5150-1<k1>yoga
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5150-1
+1 <ab>adj. Comp.</ab>
+2 <ab>v. a.</ab>
+3: <ab>Gen.</ab>  !=  <ab>v. a.</ab>
+--------
+* <L>91625<pc>5154-3<k1>raMhas
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5154-3
+1: <ab>Vgl.</ab>  !=  <ab>Beiw.</ab>
+--------
+* <L>91857<pc>5157-2<k1>rakz
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5157-2
+3 <ab>Acc.</ab>
+4 <ab>Loc.</ab>
+5 <ab>u. s. w.</ab>
+6 <ab>v. a.</ab>
+7 <ab>Bed.</ab>
+8: <ab>v. a.</ab>  !=  <ab>u. s. w.</ab>
+--------
+* <L>92049<pc>5160-1<k1>rac
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5160-1
+12 <ab>Loc.</ab>
+13 <ab>Acc.</ab>
+14 <ab>Instr.</ab>
+15 <ab>Comp.</ab>
+16 <ab>Comp.</ab>
+17: <ab>Instr.</ab>  !=  <ab>Caus.</ab>
+--------
+* <L>92055<pc>5160-2<k1>racitapUrva
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5160-2
+1: None  !=  <ab>v. l.</ab>
+--------
+* <L>92183<pc>5162-3<k1>raRakziti
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5162-3
+1 <ab>v. l.</ab>
+2: None  !=  <ab>ebend.</ab>
+--------
+* <L>92698<pc>5168-3<k1>ranDra
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5168-3
+1: <ab>best.</ab>  !=  <ab>v. a.</ab>
+--------
+* <L>92713<pc>5169-1<k1>raB
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5169-1
+1 <ab>Act.</ab>
+2 <ab>Caus.</ab>
+3 <ab>Desid.</ab>
+4 <ab>Caus.</ab>
+5: <ab>Acc.</ab>  !=  <ab>Partic.</ab>
+--------
+* <L>92727<pc>5169-3<k1>ram
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5169-3
+1: <ab>Bed.</ab>  !=  <ab>Act.</ab>
+--------
+* <L>93131<pc>5176-1<k1>rahAwa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5176-1
+1: <ab>rit.</ab>  !=  None
+--------
+* <L>93244<pc>5177-3<k1>rAj
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5177-3
+1 <ab>Nomin.</ab>
+2 <ab>Comp.</ab>
+3 <ab>v. a.</ab>
+4: <ab>best.</ab>  !=  <ab>fin.</ab>
+--------
+* <L>93368<pc>5179-2<k1>rAjanya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5179-2
+1: <ab>Pl.</ab>  !=  <ab>Bez.</ab>
+--------
+* <L>93724<pc>5183-2<k1>rAtizAc
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5183-2
+1: None  !=  <ab>Bez.</ab>
+--------
+* <L>94350<pc>5192-2<k1>ruc
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5192-2
+1 <ab>Act.</ab>
+2 <ab>Perf.</ab>
+3 <ab>Act.</ab>
+4: <ab>Bed.</ab>  !=  <ab>transit.</ab>
+--------
+* <L>94394<pc>5193-3<k1>ruj
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5193-3
+4 <ab>Loc.</ab>
+5 <ab>Desid.</ab>
+6 <ab>Acc.</ab>
+7 <ab>Med.</ab>
+8 <ab>u. s. w.</ab>
+9: <ab>u. s. w.</ab>  !=  <ab>Med.</ab>
+--------
+* <L>94617<pc>5197-3<k1>ruh
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5197-3
+104 <ab>Acc.</ab>
+105 <ab>Comp.</ab>
+106 <ab>Loc.</ab>
+107 <ab>Caus.</ab>
+108 <ab>Act.</ab>
+109: <ab>Acc.</ab>  !=  <ab>Med.</ab>
+--------
+* <L>94673<pc>5200-2<k1>rUpapa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5200-2
+1: <ab>N. pr.</ab>  !=  <ab>Pl.</ab>
+--------
+* <L>95263<pc>5208-3<k1>la
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5208-3
+1 <ab>Bein.</ab>
+2 <ab>s.</ab>
+3: None  !=  <ab>bes.</ab>
+--------
+* <L>95413<pc>5211-3<k1>lag
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5211-3
+21 <ab>Caus.</ab>
+22 <ab>Pl.</ab>
+23 <ab>Loc.</ab>
+24 <ab>Loc.</ab>
+25 <ab>Comp.</ab>
+26: <ab>Loc.</ab>  !=  <ab>v. a.</ab>
+--------
+* <L>95752<pc>5217-1<k1>laB
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5217-1
+4 <ab>Gen.</ab>
+5 <ab>Loc.</ab>
+6 <ab>Nom.</ab>
+7 <ab>act.</ab>
+8 <ab>v. a.</ab>
+9: <ab>Acc.</ab>  !=  <ab>Abl.</ab>
+--------
+* <L>96709<pc>5235-3<k1>lokottaravAdin
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5235-3
+1: <ab>best.</ab>  !=  <ab>Pl.</ab>
+--------
+* <L>97296<pc>6003-3<k1>vakzaRA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6003-3
+1 <ab>Pl.</ab>
+2: None  !=  <ab>v. a.</ab>
+--------
+* <L>97704<pc>6009-3<k1>vaRWAla
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6009-3
+1: None  !=  <ab>v. l.</ab>
+--------
+* <L>97805<pc>6012-2<k1>vadAnya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6012-2
+1 <ab>u. s. w.</ab>
+2: <ab>Nom. abstr.</ab>  !=  <ab>v. a.</ab>
+--------
+* <L>97823<pc>6012-3<k1>vaDa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6012-3
+1 <ab>Comp.</ab>
+2: <ab>N. pr.</ab>  !=  <ab>v. a.</ab>
+--------
+* <L>98111<pc>6016-1<k1>vani
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6016-1
+1: <ab>Nom.</ab>  !=  <ab>Nom. ag.</ab>
+--------
+* <L>98219<pc>6017-3<k1>vap
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6017-3
+22 <ab>st.</ab>
+23 <ab>Loc.</ab>
+24 <ab>Caus.</ab>
+25 <ab>Loc.</ab>
+26 <ab>Loc.</ab>
+27: <ab>Act.</ab>  !=  <ab>bes.</ab>
+--------
+* <L>98240<pc>6018-2<k1>vapurDara
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6018-2
+1: <ab>Sch.</ab>  !=  None
+--------
+* <L>98275<pc>6019-1<k1>vamana
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6019-1
+1 <ab>Pl.</ab>
+2 <ab>N. pr.</ab>
+3: <ab>N.</ab>  !=  <ab>N. pr.</ab>
+--------
+* <L>98288<pc>6019-2<k1>vaya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6019-2
+1 <ab>s.</ab>
+2: None  !=  <ab>bes.</ab>
+--------
+* <L>98346<pc>6021-3<k1>vara
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6021-3
+16 <ab>Abl.</ab>
+17 <ab>Abl.</ab>
+18 <ab>Praes.</ab>
+19 <ab>Imperat.</ab>
+20 <ab>Potent.</ab>
+21: <ab>dass.</ab>  !=  <ab>Abl.</ab>
+--------
+* <L>98552<pc>6024-3<k1>varItar
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6024-3
+1 <ab>Nom. ag.</ab>
+2: None  !=  <ab>Fut.</ab>
+--------
+* <L>98907<pc>6036-3<k1>varDAya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6036-3
+1 <ab>Absol.</ab>
+2: <ab>Vgl.</ab>  !=  <ab>vgl.</ab>
+--------
+* <L>99121<pc>6039-3<k1>valkaPala
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6039-3
+1: None  !=  <ab>v. l.</ab>
+--------
+* <L>99212<pc>6041-1<k1>valh
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6041-1
+1: <ab>St.</ab>  !=  <ab>st.</ab>
+--------
+* <L>99393<pc>6045-2<k1>vasira
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6045-2
+1: None  !=  <ab>Hdschr.</ab>
+--------
+* <L>99420<pc>6046-1<k1>vasukra
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6046-1
+1: None  !=  <ab>desgl.</ab>
+--------
+* <L>99686<pc>6050-3<k1>vahantI
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6050-3
+1: <ab>Pl.</ab>  !=  <ab>Partic.</ab>
+--------
+* <L>100435<pc>6061-1<k1>vAtonA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6061-1
+1 <ab>best.</ab>
+2: None  !=  <ab>Hdschr.</ab>
+--------
+* <L>100562<pc>6062-3<k1>vAnava
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6062-3
+1: <ab>N. pr.</ab>  !=  <ab>Pl.</ab>
+--------
+* <L>100631<pc>6063-3<k1>vAmadfzwi
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6063-3
+1: None  !=  <ab>dass.</ab>
+--------
+* <L>101302<pc>6072-1<k1>vAvfDaDyE
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6072-1
+1 <ab>Dat.</ab>
+2 <ab>Infin.</ab>
+3: None  !=  <ab>perf.</ab>
+--------
+* <L>101971<pc>6082-2<k1>vic
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6082-2
+2 <ab>Ã¼berh.</ab>
+3 <ab>Instr.</ab>
+4 <ab>Ã¼berh.</ab>
+5 <ab>Instr.</ab>
+6 <ab>Abl.</ab>
+7: <ab>v. a.</ab>  !=  <ab>Pass.</ab>
+--------
+* <L>102105<pc>6084-3<k1>vijaNGANGrivara
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6084-3
+1 <ab>Beiw.</ab>
+2: None  !=  <ab>Ausgg.</ab>
+--------
+* <L>102608<pc>6092-2<k1>vidula
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6092-2
+1 <ab>Bez.</ab>
+2 <ab>N. pr.</ab>
+3: <ab>N.</ab>  !=  <ab>N. pr.</ab>
+--------
+* <L>102886<pc>6096-1<k1>viDarma
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6096-1
+1 <ab>Nomin.</ab>
+2: None  !=  <ab>Abl.</ab>
+--------
+* <L>102941<pc>6097-2<k1>viDiyoga
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6097-2
+1: <ab>Sch.</ab>  !=  None
+--------
+* <L>103541<pc>6105-2<k1>viPARwa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6105-2
+1 <ab>Comm.</ab>
+2 <ab>vgl.</ab>
+3: None  !=  <ab>ed.</ab>
+--------
+* <L>103580<pc>6106-1<k1>viBakta
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6106-1
+1 <ab>s. u.</ab>
+2: None  !=  <ab>Beiw.</ab>
+--------
+* <L>103708<pc>6108-1<k1>viBrama
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6108-1
+1 <ab>adj. Comp.</ab>
+2 <ab>Pl.</ab>
+3 <ab>v. a.</ab>
+4 <ab>Comp.</ab>
+5: <ab>insbes.</ab>  !=  <ab>Comp.</ab>
+--------
+* <L>103969<pc>6111-3<k1>viraja
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6111-3
+1 <ab>Bed.</ab>
+2 <ab>N. pr.</ab>
+3: <ab>N. pr.</ab>  !=  <ab>Pl.</ab>
+--------
+* <L>104497<pc>6120-1<k1>viS ? could not find
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6120-1
+75 <ab>Acc.</ab>
+76 <ab>Loc.</ab>
+77 <ab>Acc.</ab>
+78 <ab>Acc.</ab>
+79 <ab>Acc.</ab>
+80: <ab>Caus.</ab>  !=  <ab>Acc.</ab>
+--------
+* <L>105125<pc>6132-1<k1>vizakanyakA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6132-1
+1: None  !=  <ab>ebend.</ab>
+--------
+* <L>105184<pc>6132-3<k1>vizaprasTa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6132-3
+1: None  !=  <ab>N. pr.</ab>
+--------
+* <L>105189<pc>6132-3<k1>vizama
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6132-3
+1 <ab>z. B.</ab>
+2 <ab>u. s. w.</ab>
+3: <ab>s.</ab>  !=  <ab>v. a.</ab>
+--------
+* <L>105336<pc>6135-1<k1>vizAmftamaya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6135-1
+1: <ab>N.</ab>  !=  None
+--------
+* <L>105539<pc>6137-3<k1>vizRuSakti
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6137-3
+1: None  !=  <ab>d. i.</ab>
+--------
+* <L>105786<pc>6141-1<k1>visrotas
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6141-1
+1 <ab>best.</ab>
+2: None  !=  <ab>buddh.</ab>
+--------
+* <L>105906<pc>6142-3<k1>vIjana
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6142-3
+1 <ab>Bez.</ab>
+2: None  !=  <ab>Hdschr.</ab>
+--------
+* <L>105942<pc>6143-1<k1>vIRAvinoda
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6143-1
+1: None  !=  <ab>N. pr.</ab>
+--------
+* <L>105982<pc>6143-3<k1>vItihotra
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6143-3
+1: <ab>Bez.</ab>  !=  <ab>Pl.</ab>
+--------
+* <L>106004<pc>6144-1<k1>vIra
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6144-1
+5 <ab>Beiw.</ab>
+6 <ab>insbes.</ab>
+7 <ab>v. a.</ab>
+8 <ab>best.</ab>
+9 <ab>N. pr.</ab>
+10: <ab>N. pr.</ab>  !=  <ab>Pl.</ab>
+--------
+* <L>106005<pc>6144-2<k1>vIraka
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6144-2
+1: <ab>N.</ab>  !=  <ab>N. pr.</ab>
+--------
+* <L>106049<pc>6144-3<k1>vIranagara
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6144-3
+1: None  !=  <ab>N. pr.</ab>
+--------
+* <L>106222<pc>6146-3<k1>vfka
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6146-3
+1 <ab>best.</ab>
+2 <ab>N. pr.</ab>
+3 <ab>Pl.</ab>
+4: <ab>best.</ab>  !=  <ab>Pl.</ab>
+--------
+* <L>106263<pc>6147-2<k1>vfktabarhis
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6147-2
+1: None  !=  <ab>v. a.</ab>
+--------
+* <L>106585<pc>6151-2<k1>vfdDasevin
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6151-2
+1: <ab>Nom.</ab>  !=  <ab>Nom. abstr.</ab>
+--------
+* <L>106664<pc>6152-2<k1>vfza
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6152-2
+1 <ab>Comp.</ab>
+2 <ab>Bez.</ab>
+3 <ab>Gen.</ab>
+4 <ab>Comp.</ab>
+5: <ab>Bein.</ab>  !=  <ab>v. a.</ab>
+--------
+* <L>106722<pc>6153-2<k1>vfzaBa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6153-2
+1 <ab>adj. Comp.</ab>
+2 <ab>u. s. w.</ab>
+3 <ab>Gen.</ab>
+4: <ab>u. s. w.</ab>  !=  <ab>Comp.</ab>
+--------
+* <L>106876<pc>6155-2<k1>vegavant
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6155-2
+1 <ab>N. pr.</ab>
+2 <ab>best.</ab>
+3 <ab>best.</ab>
+4: <ab>N. pr.</ab>  !=  <ab>Pl.</ab>
+--------
+* <L>106888<pc>6155-3<k1>veNka
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6155-3
+1 <ab>Pl.</ab>
+2: None  !=  <ab>N. pr.</ab>
+--------
+* <L>107286<pc>6160-3<k1>vedyA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6160-3
+1 <ab>Pl.</ab>
+2 <ab>Instr.</ab>
+3 <ab>Sg.</ab>
+4 <ab>Pl.</ab>
+5: None  !=  <ab>v. a.</ab>
+--------
+* <L>107332<pc>6161-2<k1>vela
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6161-2
+1 <ab>best.</ab>
+2: None  !=  <ab>buddh.</ab>
+--------
+* <L>107444<pc>6163-1<k1>vezw
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6163-1
+1 <ab>Loc.</ab>
+2 <ab>Vgl.</ab>
+3 <ab>Caus.</ab>
+4: <ab>Act.</ab>  !=  <ab>Bed.</ab>
+--------
+* <L>107568<pc>6165-1<k1>vEjayanta
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6165-1
+1 <ab>Bein.</ab>
+2: <ab>best.</ab>  !=  <ab>Pl.</ab>
+--------
+* <L>107645<pc>6166-1<k1>vEdagDa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6166-1
+1: <ab>bes.</ab>  !=  <ab>s.</ab>
+--------
+* <L>107665<pc>6166-2<k1>vEdAntika
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6166-2
+1: None  !=  <ab>Hdschr.</ab>
+--------
+* <L>107831<pc>6168-3<k1>vEmAtra
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6168-3
+1: <ab>Nom.</ab>  !=  <ab>Nom. abstr.</ab>
+--------
+* <L>107869<pc>6169-1<k1>vEyAvfttyakara
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6169-1
+1 <ab>v. l.</ab>
+2: None  !=  <ab>buddh.</ab>
+--------
+* <L>108185<pc>6173-2<k1>voQar
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6173-2
+1 <ab>Acc.</ab>
+2 <ab>Nom. ag.</ab>
+3 <ab>v. a.</ab>
+4: <ab>best.</ab>  !=  <ab>v. a.</ab>
+--------
+* <L>108207<pc>6173-3<k1>vOk
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6173-3
+1 <ab>Nom.</ab>
+2: None  !=  <ab>Sg.</ab>
+--------
+* <L>108483<pc>6179-1<k1>vyavahAravant
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6179-1
+1: None  !=  <ab>Comp.</ab>
+--------
+* <L>108587<pc>6181-1<k1>vyAGracarmaya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6181-1
+1: None  !=  <ab>Ausgg.</ab>
+--------
+* <L>108906<pc>6185-2<k1>vyUQora
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6185-2
+1: None  !=  <ab>Ausgg.</ab>
+--------
+* <L>109047<pc>6188-1<k1>vrataDAraRa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6188-1
+1 <ab>Gen.</ab>
+2: None  !=  <ab>Comp.</ab>
+--------
+* <L>109114<pc>6189-2<k1>vrazwavya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6189-2
+1 <ab>Partic.</ab>
+2 <ab>fut.</ab>
+3: None  !=  <ab>pass.</ab>
+--------
+* <L>109228<pc>6191-2<k1>SakawAyana
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6191-2
+1: None  !=  <ab>Pl.</ab>
+--------
+* <L>109452<pc>6194-1<k1>SakraSarAsanAy
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6194-1
+1: None  !=  <ab>impers.</ab>
+--------
+* <L>109491<pc>6194-3<k1>SaNk
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6194-3
+17 <ab>Abl.</ab>
+18 <ab>v. l.</ab>
+19 <ab>Acc.</ab>
+20 <ab>Acc.</ab>
+21 <ab>Gen.</ab>
+22: <ab>Gen.</ab>  !=  <ab>Ausgg.</ab>
+--------
+* <L>109499<pc>6195-2<k1>SaMkarakavi
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6195-2
+1: None  !=  <ab>N. Pr.</ab>
+--------
+* <L>109588<pc>6196-2<k1>SaNKacUqeSvaratIrTa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6196-2
+1: None  !=  <ab>N. pr.</ab>
+--------
+* <L>109731<pc>6198-2<k1>Satakunta
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6198-2
+1: None  !=  <ab>Hdschr.</ab>
+--------
+* <L>110124<pc>6203-2<k1>SanErBAva
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6203-2
+1 <ab>Comp.</ab>
+2 <ab>Partic.</ab>
+3: <ab>v. a.</ab>  !=  <ab>praes.</ab>
+--------
+* <L>110149<pc>6203-3<k1>Sap
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6203-3
+30 <ab>Comp.</ab>
+31 <ab>Intens.</ab>
+32 <ab>dass.</ab>
+33 <ab>Caus.</ab>
+34 <ab>Conj.</ab>
+35: <ab>Acc.</ab>  !=  <ab>Praes.</ab>
+--------
+* <L>110181<pc>6204-2<k1>Sabara
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6204-2
+1 <ab>u. s. w.</ab>
+2: <ab>N. pr.</ab>  !=  <ab>Pl.</ab>
+--------
+* <L>110239<pc>6205-1<k1>Sabdabrahman
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6205-1
+1: None  !=  <ab>v. a.</ab>
+--------
+* <L>110391<pc>6208-1<k1>Sambara
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6208-1
+3 <ab>N. pr.</ab>
+4 <ab>v. l.</ab>
+5 <ab>Pl.</ab>
+6 <ab>adj. Comp.</ab>
+7 <ab>Vgl.</ab>
+8: None  !=  <ab>Vgl.</ab>
+--------
+* <L>110447<pc>6208-3<1>SamyAtAla
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6208-3
+1: <ab>Vgl.</ab>  !=  <ab>gedr.</ab>
+--------
+* <L>110496<pc>6209-2<k1>Sar
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6209-2
+21 <ab>Pass.</ab>
+22 <ab>Pass.</ab>
+23 <ab>Act.</ab>
+24 <ab>trans.</ab>
+25 <ab>Med.</ab>
+26: <ab>Desid.</ab>  !=  <ab>intrans.</ab>
+--------
+* <L>110931<pc>6215-1<k1>SavaSiras
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6215-1
+1: <ab>Sch.</ab>  !=  None
+--------
+* <L>111170<pc>6218-1<k1>SAka
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6218-1
+1 <ab>Ã¼berh.</ab>
+2 <ab>N. pr.</ab>
+3: None  !=  <ab>Pl.</ab>
+--------
+* <L>111171<pc>6218-1<k1>SAkakalambaka
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6218-1
+1: None  !=  <ab>vgl.</ab>
+--------
+* <L>111239<pc>6218-3<k1>SAkArikI
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6218-3
+1: <ab>u. s. w.</ab>  !=  <ab>st.</ab>
+--------
+* <L>111330<pc>6220-1<k1>SAKApitta
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6220-1
+1: <ab>s.</ab>  !=  <ab>u. s. w.</ab>
+--------
+* <L>111385<pc>6220-3<k1>SAwyAyanin
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6220-3
+1: None  !=  <ab>Pl.</ab>
+--------
+* <L>111944<pc>6228-1<k1>SAlva
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6228-1
+1 <ab>Pl.</ab>
+2 <ab>N. pr.</ab>
+3: <ab>N. pr.</ab>  !=  <ab>u. s. w.</ab>
+--------
+* <L>111971<pc>6228-2<k1>SASvata
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6228-2
+1 <ab>Bein.</ab>
+2 <ab>N. pr.</ab>
+3: None  !=  <ab>Hdschr.</ab>
+--------
+* <L>112160<pc>6231-3<k1>SiKin
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6231-3
+1 <ab>Bez.</ab>
+2 <ab>best.</ab>
+3: <ab>N.</ab>  !=  <ab>N. pr.</ab>
+--------
+* <L>112354<pc>6234-2<k1>SiraHsTa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6234-2
+1: None  !=  <ab>Bed.</ab>
+--------
+* <L>112508<pc>6236-1<k1>SilIMDrAy
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6236-1
+1: None  !=  <ab>impers.</ab>
+--------
+* <L>112826<pc>6240-1<k1>Siz
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6240-1
+51 <ab>v. l.</ab>
+52 <ab>Instr.</ab>
+53 <ab>Comp.</ab>
+54 <ab>Instr.</ab>
+55 <ab>Comp.</ab>
+56: <ab>u. s. w.</ab>  !=  <ab>Loc.</ab>
+--------
+* <L>112968<pc>6243-1<k1>SItarUra
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6243-1
+1: None  !=  <ab>Du.</ab>
+--------
+* <L>112970<pc>6243-1<k1>SItala
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6243-1
+1 <ab>Compar.</ab>
+2 <ab>vgl.</ab>
+3: <ab>best.</ab>  !=  <ab>vgl.</ab>
+--------
+* <L>113069<pc>6244-1<k1>SIrta
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6244-1
+1 <ab>s.</ab>
+2: <ab>s.</ab>  !=  None
+--------
+* <L>113145<pc>6245-1<k1>SIlavftta
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6245-1
+1: <ab>Du.</ab>  !=  <ab>Sg.</ab>
+--------
+* <L>113351<pc>6247-3<k1>Suc
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6247-3
+23 <ab>Intens.</ab>
+24 <ab>dass.</ab>
+25 <ab>Acc.</ab>
+26 <ab>Desid.</ab>
+27 <ab>Caus.</ab>
+28: <ab>Intens.</ab>  !=  <ab>impers.</ab>
+--------
+* <L>113549<pc>6251-1<k1>SuB
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6251-1
+17 <ab>u. s. w.</ab>
+18 <ab>Instr.</ab>
+19 <ab>Comp.</ab>
+20 <ab>Desid.</ab>
+21 <ab>Intens.</ab>
+22: <ab>s.</ab>  !=  <ab>u. s. w.</ab>
+--------
+* <L>113816<pc>6254-3<k1>SUnya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6254-3
+5 <ab>v. a.</ab>
+6 <ab>Instr.</ab>
+7 <ab>Comp.</ab>
+8 <ab>v. a.</ab>
+9 <ab>vgl.</ab>
+10: <ab>Comp.</ab>  !=  <ab>vgl.</ab>
+--------
+* <L>113836<pc>6255-2<k1>SUnyahfdaya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6255-2
+1: None  !=  <ab>eig.</ab>
+--------
+* <L>113958<pc>6256-3<k1>SfNga
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6256-3
+1 <ab>adj. Comp.</ab>
+2 <ab>v. a.</ab>
+3 <ab>d. i.</ab>
+4: <ab>s.</ab>  !=  <ab>u. s. w.</ab>
+--------
+* <L>114291<pc>6261-1<k1>SEvala
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6261-1
+1 <ab>adj. Comp.</ab>
+2 <ab>N. pr.</ab>
+3: None  !=  <ab>Pl.</ab>
+--------
+* <L>114562<pc>6264-2<k1>SOBAYjana
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6264-2
+1 <ab>Comm.</ab>
+2: None  !=  <ab>gedr.</ab>
+--------
+* <L>114623<pc>6265-1<k1>Scut
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6265-1
+1: None  !=  <ab>trans.</ab>
+--------
+* <L>114630<pc>6265-2<k1>SnaBASnOzwIya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6265-2
+1: None  !=  <ab>Du.</ab>
+--------
+* <L>114995<pc>6270-3<k1>SrAvaRikA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6270-3
+1: <ab>best.</ab>  !=  <ab>Demin.</ab>
+--------
+* <L>115312<pc>6276-2<k1>Sru
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6276-2
+87 <ab>Acc.</ab>
+88 <ab>Acc.</ab>
+89 <ab>Abl.</ab>
+90 <ab>Acc.</ab>
+91 <ab>Acc.</ab>
+92: <ab>Desid.</ab>  !=  <ab>Gen.</ab>
+--------
+* <L>115621<pc>6281-2<k1>SlAG
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6281-2
+1 <ab>Act.</ab>
+2 <ab>Dat.</ab>
+3: <ab>Loc.</ab>  !=  <ab>Instr.</ab>
+--------
+* <L>115815<pc>6284-3<k1>Svastana
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6284-3
+1: <ab>Nom.</ab>  !=  <ab>Nom. ag.</ab>
+--------
+* <L>116087<pc>6287-3<k1>SvoBUta
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6287-3
+1 <ab>dass.</ab>
+2 <ab>Vgl.</ab>
+3: <ab>s.</ab>  !=  None
+--------
+* <L>116096<pc>6287-3<k1>zawka
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6287-3
+1 <ab>u. s. w.</ab>
+2: <ab>s.</ab>  !=  <ab>adj. Comp.</ab>
+--------
+* <L>116182<pc>6289-1<k1>zawsahasra
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6289-1
+1: None  !=  <ab>Pl.</ab>
+--------
+* <L>116241<pc>6289-3<k1>zaqgarBa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6289-3
+1: <ab>best.</ab>  !=  <ab>Pl.</ab>
+--------
+* <L>116244<pc>6289-3<k1>zaqguRa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6289-3
+1: None  !=  <ab>Pl.</ab>
+--------
+* <L>116345<pc>6290-3<k1>zazwi
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6290-3
+1 <ab>Pl.</ab>
+2 <ab>Gen.</ab>
+3: <ab>Abl.</ab>  !=  <ab>Comp.</ab>
+--------
+* <L>116533<pc>7002-1<k1>saMyAjya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7002-1
+1: <ab>Bez.</ab>  !=  <ab>Du.</ab>
+--------
+* <L>116578<pc>7002-3<k1>saMramBa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7002-3
+3 <ab>Infin.</ab>
+4 <ab>Comp.</ab>
+5 <ab>Loc.</ab>
+6 <ab>Gen.</ab>
+7 <ab>Comp.</ab>
+8: None  !=  <ab>v. a.</ab>
+--------
+* <L>116820<pc>7006-2<k1>saMSaptaka
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7006-2
+1 <ab>Pl.</ab>
+2 <ab>Bez.</ab>
+3: None  !=  <ab>fgg.</ab>
+--------
+* <L>117100<pc>7011-1<k1>saMhatatA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7011-1
+1: <ab>Ã¼bertr.</ab>  !=  <ab>eig.</ab>
+--------
+* <L>117125<pc>7011-3<k1>saMhAta
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7011-3
+1 <ab>v. l.</ab>
+2 <ab>best.</ab>
+3 <ab>v. l.</ab>
+4 <ab>N. pr.</ab>
+5: None  !=  <ab>Conj.</ab>
+--------
+* <L>117496<pc>7017-1<k1>saMketastava
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7017-1
+1: <ab>bes.</ab>  !=  <ab>best.</ab>
+--------
+* <L>117683<pc>7020-3<k1>saMGa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7020-3
+1 <ab>Gen.</ab>
+2 <ab>Pl.</ab>
+3: <ab>v. a.</ab>  !=  <ab>Comp.</ab>
+--------
+* <L>117795<pc>7022-1<k1>saccidAnanda
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7022-1
+1 <ab>Pl.</ab>
+2: <ab>v. a.</ab>  !=  <ab>Sg.</ab>
+--------
+* <L>117850<pc>7022-3<k1>sajja
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7022-3
+3 <ab>best.</ab>
+4 <ab>Infin.</ab>
+5 <ab>Loc.</ab>
+6 <ab>Dat.</ab>
+7 <ab>Comp.</ab>
+8: <ab>Schol.</ab>  !=  <ab>ebend.</ab>
+--------
+* <L>117918<pc>7024-1<k1>saYcu
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7024-1
+1 <ab>v. a.</ab>
+2: <ab>Mss.</ab>  !=  <ab>Vgl.</ab>
+--------
+* <L>117928<pc>7024-1<k1>saYj
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7024-1
+79 <ab>Loc.</ab>
+80 <ab>Med.</ab>
+81 <ab>Dat.</ab>
+82 <ab>Loc.</ab>
+83 <ab>Loc.</ab>
+84: <ab>Instr.</ab>  !=  <ab>v. a.</ab>
+--------
+* <L>117930<pc>7025-3<k1>saYjaka
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7025-3
+1: None  !=  <ab>N. pr.</ab>
+--------
+* <L>118353<pc>7031-2<k1>satyasvapna
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7031-2
+1: <ab>Nom.</ab>  !=  <ab>Nom. abstr.</ab>
+--------
+* <L>118430<pc>7032-1<k1>sad
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7032-1
+65 <ab>Loc.</ab>
+66 <ab>Acc.</ab>
+67 <ab>Gen.</ab>
+68 <ab>Comp.</ab>
+69 <ab>Acc.</ab>
+70: <ab>Acc.</ab>  !=  <ab>Loc.</ab>
+--------
+* <L>118887<pc>7040-1<k1>saMtateyu
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7040-1
+1: None  !=  <ab>N. pr.</ab>
+--------
+* <L>118963<pc>7041-2<k1>saMdarBa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7041-2
+1 <ab>adj. Comp.</ab>
+2 <ab>u. s. w.</ab>
+3: <ab>s.</ab>  !=  <ab>u. s. w.</ab>
+--------
+* <L>119483<pc>7049-1<k1>saptamArga
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7049-1
+1 <ab>N. pr.</ab>
+2: <ab>s.</ab>  !=  <ab>u. s. w.</ab>
+--------
+* <L>119763<pc>7052-2<k1>saBeya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7052-2
+1: <ab>s.</ab>  !=  <ab>u. s. w.</ab>
+--------
+* <L>120038<pc>7056-2<k1>samarTa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7056-2
+2 <ab>Comp.</ab>
+3 <ab>Comp.</ab>
+4 <ab>Comm.</ab>
+5 <ab>Infin.</ab>
+6 <ab>Partic.</ab>
+7: <ab>Loc.</ab>  !=  <ab>praes.</ab>
+--------
+* <L>120312<pc>7060-2<k1>samAnavidya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7060-2
+1: <ab>Nom.</ab>  !=  <ab>Nom. abstr.</ab>
+--------
+* <L>120568<pc>7064-2<k1>samIpagamana
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7064-2
+1: None  !=  <ab>Gen.</ab>
+--------
+* <L>120723<pc>7066-2<k1>samudratva
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7066-2
+1: None  !=  <ab>Nom. abstr.</ab>
+--------
+* <L>121080<pc>7071-2<k1>saMprekzaka
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7071-2
+1: None  !=  <ab>Subst.</ab>
+--------
+* <L>121131<pc>7072-2<k1>saMBaktar
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7072-2
+1 <ab>Nom. ag.</ab>
+2 <ab>Compar.</ab>
+3: None  !=  <ab>Superl.</ab>
+--------
+* <L>121148<pc>7072-3<k1>saMBAra
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7072-3
+3 <ab>Sg.</ab>
+4 <ab>Pl.</ab>
+5 <ab>Superl.</ab>
+6 <ab>Pl.</ab>
+7 <ab>u. s. w.</ab>
+8: None  !=  <ab>vgl.</ab>
+--------
+* <L>121175<pc>7073-1<k1>saMBUti
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7073-1
+1: <ab>N. pr.</ab>  !=  <ab>adj. Comp.</ab>
+--------
+* <L>121556<pc>7080-1<k1>sarj
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7080-1
+41 <ab>Loc.</ab>
+42 <ab>Comm.</ab>
+43 <ab>Acc.</ab>
+44 <ab>Acc.</ab>
+45 <ab>Acc.</ab>
+46: <ab>u. s. w.</ab>  !=  <ab>Acc.</ab>
+--------
+* <L>121767<pc>7085-2<k1>sarvajYaMmanya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7085-2
+1: <ab>Nom.</ab>  !=  <ab>Nom. abstr.</ab>
+--------
+* <L>122491<pc>7094-1<k1>savarRana
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7094-1
+1: <ab>s.</ab>  !=  <ab>u. s. w.</ab>
+--------
+* <L>122496<pc>7094-2<k1>savarya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7094-2
+1: None  !=  <ab>Comm.</ab>
+--------
+* <L>122525<pc>7094-3<k1>savitarka
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7094-3
+1: <ab>N.</ab>  !=  None
+--------
+* <L>123520<pc>7108-3<k1>sAgarAmbara
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7108-3
+1: <ab>St.</ab>  !=  None
+--------
+* <L>123699<pc>7111-1<k1>sAtvatIya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7111-1
+1: <ab>s. d.</ab>  !=  <ab>d. i.</ab>
+--------
+* <L>123729<pc>7111-2<k1>sAdyaskra
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7111-2
+1: None  !=  <ab>s.</ab>
+--------
+* <L>123892<pc>7114-2<k1>sAnuzak
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7114-2
+1: None  !=  <ab>Subst.</ab>
+--------
+* <L>123943<pc>7115-1<k1>sAMDa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7115-1
+1: None  !=  <ab>Patron.</ab>
+--------
+* <L>124352<pc>7120-3<k1>sAraNga
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7120-3
+1 <ab>Bez.</ab>
+2 <ab>adj. Comp.</ab>
+3 <ab>best.</ab>
+4 <ab>best.</ab>
+5 <ab>best.</ab>
+6: <ab>s.</ab>  !=  <ab>N. pr.</ab>
+--------
+* <L>124832<pc>7127-1<k1>siMha
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7127-1
+2 <ab>Comp.</ab>
+3 <ab>v. a.</ab>
+4 <ab>best.</ab>
+5 <ab>best.</ab>
+6 <ab>N. pr.</ab>
+7: <ab>Bes.</ab>  !=  <ab>Bez.</ab>
+--------
+* <L>124916<pc>7128-2<k1>siMhavikrIqita
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7128-2
+1 <ab>best.</ab>
+2: <ab>s.</ab>  !=  <ab>best.</ab>
+--------
+* <L>124985<pc>7129-1<k1>sic
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7129-1
+6 <ab>Acc.</ab>
+7 <ab>Acc.</ab>
+8 <ab>u. s. w.</ab>
+9 <ab>Acc.</ab>
+10 <ab>Caus.</ab>
+11: <ab>v. a.</ab>  !=  <ab>impers.</ab>
+--------
+* <L>125228<pc>7132-2<k1>sidDasusidDa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7132-2
+1: <ab>best.</ab>  !=  <ab>Bez.</ab>
+--------
+* <L>125431<pc>7136-1<k1>simbitikA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7136-1
+1: <ab>bes.</ab>  !=  <ab>best.</ab>
+--------
+* <L>125611<pc>7138-1<k1>suMsamAra
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7138-1
+1 <ab>vgl.</ab>
+2: <ab>N.</ab>  !=  None
+--------
+* <L>126053<pc>7143-3<k1>sugrIva
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7143-3
+1 <ab>adj. Comp.</ab>
+2: <ab>Bein.</ab>  !=  <ab>N. pr.</ab>
+--------
+* <L>126062<pc>7143-3<k1>suGana
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7143-3
+1: None  !=  <ab>gedr.</ab>
+--------
+* <L>126066<pc>7143-3<k1>suGoza
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7143-3
+1: <ab>s.</ab>  !=  <ab>u. s. w.</ab>
+--------
+* <L>126180<pc>7145-2<k1>sutanu
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7145-2
+1 <ab>N. pr.</ab>
+2: <ab>N. pr.</ab>  !=  <ab>Voc.</ab>
+--------
+* <L>126496<pc>7149-3<k1>suDArasamaya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7149-3
+1: <ab>N.</ab>  !=  None
+--------
+* <L>127290<pc>7159-3<k1>sumeka
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7159-3
+1: <ab>s.</ab>  !=  <ab>u. s. w.</ab>
+--------
+* <L>127426<pc>7161-2<k1>suradruma
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7161-2
+1: <ab>St.</ab>  !=  None
+--------
+* <L>127465<pc>7161-3<k1>suraBi
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7161-3
+1: <ab>Bez.</ab>  !=  <ab>Compar.</ab>
+--------
+* <L>127475<pc>7162-1<k1>suraBita
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7162-1
+1: None  !=  <ab>s. u.</ab>
+--------
+* <L>127571<pc>7163-1<k1>surasinDu
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7163-1
+1 <ab>Bein.</ab>
+2: None  !=  <ab>Comm.</ab>
+--------
+* <L>128288<pc>7171-3<k1>susaMvfta
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7171-3
+1 <ab>Instr.</ab>
+2 <ab>Comp.</ab>
+3 <ab>Instr.</ab>
+4 <ab>Instr.</ab>
+5: None  !=  <ab>Ausgg.</ab>
+--------
+* <L>129163<pc>7183-1<k1>sfzwi
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7183-1
+1: <ab>concr.</ab>  !=  <ab>abstr.</ab>
+--------
+* <L>129287<pc>7184-3<k1>sev
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7184-3
+35 <ab>best.</ab>
+36 <ab>Caus.</ab>
+37 <ab>Acc.</ab>
+38 <ab>v. l.</ab>
+39 <ab>st.</ab>
+40: <ab>Acc.</ab>  !=  <ab>Ausgg.</ab>
+--------
+* <L>129298<pc>7185-2<k1>sevA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7185-2
+1 <ab>Loc.</ab>
+2: <ab>Comp.</ab>  !=  <ab>Gen.</ab>
+--------
+* <L>129642<pc>7189-2<k1>somarAjaka
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7189-2
+1: <ab>N. pr.</ab>  !=  <ab>Pl.</ab>
+--------
+* <L>129701<pc>7190-1<k1>somasatsaru
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7190-1
+1 <ab>Beiw.</ab>
+2: <ab>s. v.</ab>  !=  <ab>v. l.</ab>
+--------
+* <L>130016<pc>7193-3<k1>sOmanAyana
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7193-3
+1: None  !=  <ab>s. u.</ab>
+--------
+* <L>130108<pc>7195-2<k1>sOri
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7195-2
+1 <ab>Pl.</ab>
+2: <ab>Patron.</ab>  !=  <ab>N. pr.</ab>
+--------
+* <L>130228<pc>7196-3<k1>skad
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7196-3
+1 <ab>Act.</ab>
+2 <ab>Med.</ab>
+3 <ab>intrans.</ab>
+4 <ab>insbes.</ab>
+5: <ab>Med.</ab>  !=  <ab>v. a.</ab>
+--------
+* <L>130342<pc>7198-2<k1>sKal
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7198-2
+3 <ab>v. a.</ab>
+4 <ab>v. a.</ab>
+5 <ab>Loc.</ab>
+6 <ab>v. a.</ab>
+7 <ab>Caus.</ab>
+8: <ab>Comp.</ab>  !=  <ab>Bed.</ab>
+--------
+* <L>130422<pc>7199-3<k1>stabDapUrRakozWa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7199-3
+1: <ab>Nom.</ab>  !=  <ab>Nom. abstr.</ab>
+--------
+* <L>130430<pc>7200-1<k1>staB
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7200-1
+5 <ab>Loc.</ab>
+6 <ab>Loc.</ab>
+7 <ab>Caus.</ab>
+8 <ab>Partic.</ab>
+9 <ab>Ã¼bertr.</ab>
+10: <ab>v. a.</ab>  !=  <ab>Bed.</ab>
+--------
+* <L>130439<pc>7200-3<k1>stambaGAta
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7200-3
+1: <ab>s.</ab>  !=  <ab>u. s. w.</ab>
+--------
+* <L>130749<pc>7205-2<k1>strIliNga
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7205-2
+1: None  !=  <ab>gramm.</ab>
+--------
+* <L>130874<pc>7207-1<k1>sTA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7207-1
+130 <ab>v. a.</ab>
+131 <ab>Caus.</ab>
+132 <ab>Acc.</ab>
+133 <ab>Acc.</ab>
+134 <ab>Acc.</ab>
+135: <ab>Acc.</ab>  !=  <ab>d. i.</ab>
+--------
+* <L>131480<pc>7222-1<k1>spfSa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7222-1
+1 <ab>Comp.</ab>
+2: <ab>best.</ab>  !=  <ab>ed.</ab>
+--------
+* <L>131584<pc>7223-3<k1>sPur
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7223-3
+1 <ab>Med.</ab>
+2 <ab>trans.</ab>
+3: <ab>v. a.</ab>  !=  <ab>intrans.</ab>
+--------
+* <L>131651<pc>7225-1<k1>smar
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7225-1
+5 <ab>Imperf.</ab>
+6 <ab>Partic.</ab>
+7 <ab>praet.</ab>
+8 <ab>pass.</ab>
+9 <ab>Fut.</ab>
+10: <ab>Act.</ab>  !=  <ab>Pass.</ab>
+--------
+* <L>131706<pc>7226-1<k1>smahe
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7226-1
+1: <ab>Pl.</ab>  !=  <ab>1.</ab>
+--------
+* <L>131718<pc>7226-2<k1>smi
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7226-2
+5 <ab>s. u.</ab>
+6 <ab>Intens.</ab>
+7 <ab>insbes.</ab>
+8 <ab>Caus.</ab>
+9 <ab>Instr.</ab>
+10: <ab>Instr.</ab>  !=  <ab>Loc.</ab>
+--------
+* <L>131792<pc>7228-1<k1>syAmahe
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7228-1
+1: <ab>Pl.</ab>  !=  <ab>1.</ab>
+--------
+* <L>131815<pc>7228-1<k1>sraMs
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7228-1
+1 <ab>Aor.</ab>
+2: <ab>Act.</ab>  !=  <ab>Perf.</ab>
+--------
+* <L>131887<pc>7229-2<k1>sru
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7229-2
+1: <ab>Aor.</ab>  !=  <ab>Med.</ab>
+--------
+* <L>131955<pc>7230-3<k1>sva
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7230-3
+1 <ab>u. s. w.</ab>
+2 <ab>refl.</ab>
+3 <ab>Pl.</ab>
+4: <ab>eig.</ab>  !=  <ab>Pl.</ab>
+--------
+* <L>132488<pc>7238-2<k1>svarAzwra
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7238-2
+1 <ab>N. pr.</ab>
+2: None  !=  <ab>Pl.</ab>
+--------
+* <L>132489<pc>7238-2<k1>svarAzwrIya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7238-2
+1: None  !=  <ab>Pl.</ab>
+--------
+* <L>133011<pc>7245-1<k1>svADizWAna
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7245-1
+1: <ab>bes.</ab>  !=  <ab>best.</ab>
+--------
+* <L>133457<pc>7250-3<k1>han
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7250-3
+24 <ab>insbes.</ab>
+25 <ab>adj. Comp.</ab>
+26 <ab>v. a.</ab>
+27 <ab>v. a.</ab>
+28 <ab>Caus.</ab>
+29: <ab>s.</ab>  !=  <ab>s. u.</ab>
+--------
+* <L>133572<pc>7254-2<k1>har
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7254-2
+112 <ab>v. l.</ab>
+113 <ab>Vgl.</ab>
+114 <ab>Desid.</ab>
+115 <ab>Vgl.</ab>
+116 <ab>Caus.</ab>
+117: <ab>Caus.</ab>  !=  <ab>Ausgg.</ab>
+--------
+* <L>133700<pc>7259-3<k1>haritatva
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7259-3
+1: <ab>Nom.</ab>  !=  <ab>Nom. abstr.</ab>
+--------
+* <L>134041<pc>7264-2<k1>hallIsaka
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7264-2
+1 <ab>best.</ab>
+2: <ab>v. l.</ab>  !=  <ab>vgl.</ab>
+--------
+* <L>134210<pc>7267-1<k1>hastavAma
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7267-1
+1 <ab>v. a.</ab>
+2: <ab>Vgl.</ab>  !=  <ab>Ausgg.</ab>
+--------
+* <L>134349<pc>7268-3<k1>hA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7268-3
+68 <ab>v. a.</ab>
+69 <ab>v. a.</ab>
+70 <ab>Instr.</ab>
+71 <ab>Comp.</ab>
+72 <ab>s.</ab>
+73: <ab>Abl.</ab>  !=  <ab>bes.</ab>
+--------
+* <L>134430<pc>7271-1<k1>hAritAyana
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7271-1
+1: None  !=  <ab>Patron.</ab>
+--------
+* <L>134532<pc>7272-2<k1>hAhA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7272-2
+1 <ab>Interj.</ab>
+2: None  !=  <ab>s. u.</ab>
+--------
+* <L>134893<pc>7277-2<k1>hiraRyasraj
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7277-2
+1: <ab>s.</ab>  !=  <ab>u. s. w.</ab>
+--------
+* <L>134926<pc>7277-3<k1>hI
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7277-3
+1 <ab>Interj.</ab>
+2 <ab>vgl.</ab>
+3 <ab>st.</ab>
+4: <ab>vgl.</ab>  !=  <ab>v. l.</ab>
+--------
+* <L>135108<pc>7280-1<k1>hfdaya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7280-1
+1 <ab>adj. Comp.</ab>
+2 <ab>eig.</ab>
+3 <ab>v. a.</ab>
+4 <ab>Ã¼berh.</ab>
+5 <ab>v. a.</ab>
+6: <ab>s.</ab>  !=  <ab>u. s. w.</ab>
+--------
+* <L>135559<pc>7285-2<k1>hotraga
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7285-2
+1: None  !=  <ab>Ausgg.</ab>
+--------
+* <L>135770<pc>7288-1<k1>hvar
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7288-1
+7 <ab>v. a.</ab>
+8 <ab>Med.</ab>
+9 <ab>Ã¼berh.</ab>
+10 <ab>Med.</ab>
+11 <ab>Caus.</ab>
+12: <ab>Caus.</ab>  !=  <ab>trans.</ab>
+--------
+*  <L>29434<pc>2084-3<k1>kuSala
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2084-3
+1 <ab>v. a.</ab>
+2 <ab>Loc.</ab>
+3 <ab>Gen.</ab>
+4 <ab>Infin.</ab>
+5 <ab>Comp.</ab>
+6: <ab>Pl.</ab>  !=  <ab>Bein.</ab>
+--------
+*  <L>31701<pc>2111-1<k1>kram
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2111-1
+34 <ab>Bed.</ab>
+35 <ab>Acc.</ab>
+36 <ab>u. s. w.</ab>
+37 <ab>act.</ab>
+38 <ab>Bed.</ab>
+39: <ab>d. h.</ab>  !=  <ab>Abl.</ab>
+--------
+*  <L>37314<pc>2189-1<k1>graB
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2189-1
+76 <ab>Desid.</ab>
+77 <ab>Loc.</ab>
+78 <ab>Loc.</ab>
+79 <ab>v. a.</ab>
+80 <ab>v. a.</ab>
+81: <ab>Acc.</ab>  !=  <ab>v. a.</ab>
+--------
+*  <L>38424<pc>2206-2<k1>caYcupuwI
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2206-2
+1 <ab>best.</ab>
+2: None  !=  <ab>S.</ab>
+--------
+*  <L>41763<pc>2254-2<k1>jaya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2254-2
+3 <ab>parox.</ab>
+4 <ab>Pl.</ab>
+5 <ab>best.</ab>
+6 <ab>Nom. abstr.</ab>
+7 <ab>ebend.</ab>
+8: <ab>s.</ab>  !=  <ab>best.</ab>
+--------
+*  <L>44217<pc>3004-1<k1>tattvaboDana
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3004-1
+1 <ab>ebend.</ab>
+2: None  !=  <ab>ebend.</ab>
+--------
+*  <L>49037<pc>3070-1<k1>dar
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3070-1
+21 <ab>Pass.</ab>
+22 <ab>pass.</ab>
+23 <ab>Caus.</ab>
+24 <ab>pass.</ab>
+25 <ab>Caus.</ab>
+26: <ab>pass.</ab>  !=  <ab>v. a.</ab>
+--------
+*  <L>49884<pc>3084-2<k1>dAla
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3084-2
+1 <ab>best.</ab>
+2: None  !=  <ab>S.</ab>
+--------
+*  <L>58054<pc>3198-1<k1>nArmada
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3198-1
+1: <ab>N. pr.</ab>  !=  <ab>Metron.</ab>
+--------
+*  <L>59074<pc>3212-1<k1>nirASraya
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3212-1
+1: <ab>v. l.<ab>  !=  <ab>v. l.</ab>
+--------
+*  <L>61314<pc>3243-2<k1>nESa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3243-2
+1: <ab>N.</ab>  !=  None
+--------
+*  <L>62448<pc>4013-2<k1>pat
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4013-2
+160 <ab>Acc.</ab>
+161 <ab>Abl.</ab>
+162 <ab>Loc.</ab>
+163 <ab>Loc.</ab>
+164 <ab>Caus.</ab>
+165: <ab>Loc.</ab>  !=  <ab>trans.</ab>
+--------
+*  <L>62713<pc>4018-2<k1>pad
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4018-2
+42 <ab>v. a.</ab>
+43 <ab>u. s. w.</ab>
+44 <ab>Acc.</ab>
+45 <ab>Comp.</ab>
+46 <ab>Loc.</ab>
+47: <ab>Sg.</ab>  !=  <ab>Loc.</ab>
+--------
+*  <L>65309<pc>4059-3<k1>pA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4059-3
+30 <ab>Caus.</ab>
+31 <ab>Intens.</ab>
+32 <ab>Caus.</ab>
+33 <ab>Acc.</ab>
+34 <ab>Acc.</ab>
+35: <ab>Caus.</ab>  !=  <ab>v. l.</ab>
+--------
+*  <L>68018<pc>4097-3<k1>puras
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4097-3
+10 <ab>Dat.</ab>
+11 <ab>Gen.</ab>
+12 <ab>Act.</ab>
+13 <ab>v. a.</ab>
+14 <ab>v. a.</ab>
+15: <ab>PrÃ¤p.</ab>  !=  <ab>v. a.</ab>
+--------
+*  <L>71773<pc>4149-3<k1>pratIpa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4149-3
+1 <ab>v. a.</ab>
+2 <ab>u. s. w.</ab>
+3 <ab>N. pr.</ab>
+4 <ab>z. B.</ab>
+5: <ab>St.</ab>  !=  <ab>st.</ab>
+--------
+*  <L>74723<pc>4192-2<k1>priyacikIrzu
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4192-2
+1: <ab>Comm.</ab>  !=  <ab>Gen.</ab>
+--------
+*  <L>74996<pc>4196-1<k1>prezaRa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4196-1
+1: None  !=  <ab>Pl.</ab>
+--------
+*  <L>75768<pc>4206-3<k1>banD
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4206-3
+107 <ab>Caus.</ab>
+108 <ab>Instr.</ab>
+109 <ab>v. a.</ab>
+110 <ab>Comp.</ab>
+111 <ab>v. a.</ab>
+112: <ab>v. a.</ab>  !=  <ab>Pass.</ab>
+--------
+*  <L>87422<pc>5086-2<k1>muc
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5086-2
+125 <ab>Caus.</ab>
+126 <ab>Abl.</ab>
+127 <ab>Desid.</ab>
+128 <ab>Med.</ab>
+129 <ab>Abl.</ab>
+130: <ab>Abl.</ab>  !=  <ab>Pass.</ab>
+--------
+*  <L>90166<pc>5126-2<k1>yadi
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5126-2
+12 <ab>Fut.</ab>
+13 <ab>Fut.</ab>
+14 <ab>Praes.</ab>
+15 <ab>Imperat.</ab>
+16 <ab>fin.</ab>
+17: <ab>fut.</ab>  !=  <ab>Fut.</ab>
+--------
+*  <L>91313<pc>5150-1<k1>yoga
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5150-1
+1 <ab>adj. Comp.</ab>
+2 <ab>v. a.</ab>
+3: <ab>v. a</ab>  !=  <ab>v. a.</ab>
+--------
+*  <L>92727<pc>5169-3<k1>ram
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5169-3
+1 <ab>Act.</ab>
+2: <ab>Bed.</ab>  !=  <ab>transit.</ab>
+--------
+*  <L>94350<pc>5192-2<k1>ruc
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5192-2
+4 <ab>transit.</ab>
+5 <ab>Bed.</ab>
+6 <ab>u. s. w.</ab>
+7 <ab>v. a.</ab>
+8 <ab>Perf.</ab>
+9: <ab>v. a.</ab>  !=  <ab>act.</ab>
+--------
+*  <L>98552<pc>6024-3<k1>varItar
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6024-3
+1 <ab>Nom. ag.</ab>
+2: None  !=  <ab>Fut.</ab>
+--------
+*  <L>104497<pc>6120-1<k1>viS
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6120-1
+75 <ab>Acc.</ab>
+76 <ab>Loc.</ab>
+77 <ab>Acc.</ab>
+78 <ab>Acc.</ab>
+79 <ab>Acc.</ab>
+80: <ab>Caus.</ab>  !=  <ab>Acc.</ab>
+--------
+*  <L>105184<pc>6132-3<k1>vizaprasTa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6132-3
+1: None  !=  <ab>N. pr.</ab>
+--------
+*  <L>109491<pc>6194-3<k1>SaNk
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6194-3
+17 <ab>Abl.</ab>
+18 <ab>v. l.</ab>
+19 <ab>Acc.</ab>
+20 <ab>Acc.</ab>
+21 <ab>Gen.</ab>
+22: <ab>impers.</ab>  !=  <ab>Ausgg.</ab>
+--------
+*  <L>109575<pc>6196-2<k1>SaNKa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6196-2
+1 <ab>adj. Comp.</ab>
+2 <ab>best.</ab>
+3 <ab>Bez.</ab>
+4 <ab>best.</ab>
+5 <ab>best.</ab>
+6: <ab>N. Pr.</ab>  !=  <ab>N. pr.</ab>
+--------
+*  <L>112508<pc>6236-1<k1>SilIMDrAy
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6236-1
+1: <ab>Bed.</ab>  !=  <ab>impers.</ab>
+--------
+*  <L>117928<pc>7024-1<k1>saYj
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7024-1
+167 <ab>Act.</ab>
+168 <ab>Loc.</ab>
+169 <ab>Instr.</ab>
+170 <ab>Loc.</ab>
+171 <ab>Loc.</ab>
+172: <ab>Comp.</ab>  !=  <ab>Loc.</ab>
+--------
+*  <L>121556<pc>7080-1<k1>sarj
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7080-1
+61 <ab>Caus.</ab>
+62 <ab>Comm.</ab>
+63 <ab>Acc.</ab>
+64 <ab>Acc.</ab>
+65 <ab>Acc.</ab>
+66: <ab>Acc.</ab>  !=  <ab>Dat.</ab>
+--------
+*  <L>124985<pc>7129-1<k1>sic
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7129-1
+49 <ab>v. a.</ab>
+50 <ab>sc.</ab>
+51 <ab>vgl.</ab>
+52 <ab>Pass.</ab>
+53 <ab>v. a.</ab>
+54: <ab>v. a.</ab>  !=  <ab>Instr.</ab>
+--------
+*  <L>130874<pc>7207-1<k1>sTA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7207-1
+130 <ab>v. a.</ab>
+131 <ab>Caus.</ab>
+132 <ab>Acc.</ab>
+133 <ab>Acc.</ab>
+134 <ab>Acc.</ab>
+135: <ab>Acc.</ab>  !=  <ab>d. i.</ab>
+--------
+*  <L>131887<pc>7229-2<k1>sru
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7229-2
+5 <ab>v. a.</ab>
+6 <ab>u. s. w.</ab>
+7 <ab>Acc.</ab>
+8 <ab>v. a.</ab>
+9 <ab>Abl.</ab>
+10: <ab>Comp.</ab>  !=  <ab>v. a.</ab>
+--------
+*  <L>133457<pc>7250-3<k1>han
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7250-3
+26 <ab>v. a.</ab>
+27 <ab>v. a.</ab>
+28 <ab>Caus.</ab>
+29 <ab>s. u.</ab>
+30 <ab>Desid.</ab>
+31: <ab>Intens.</ab>  !=  <ab>Med.</ab>
+--------
+* <L>134041<pc>7264-2<k1>hallIsaka
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7264-2
+1 <ab>best.</ab>
+2: <ab>v. l.</ab>  !=  <ab>vgl.</ab>
+--------
+* <L>134349<pc>7268-3<k1>hA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7268-3
+72 <ab>s.</ab>
+73 <ab>bes.</ab>
+74 <ab>Abl.</ab>
+75 <ab>Instr.</ab>
+76 <ab>v. a.</ab>
+77: <ab>Abl.</ab>  !=  <ab>Pass.</ab>
+--------
+*  <L>31701<pc>2111-1<k1>kram
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2111-1
+53 <ab>Acc.</ab>
+54 <ab>Astr.</ab>
+55 <ab>v. a.</ab>
+56 <ab>Instr.</ab>
+57 <ab>Comp.</ab>
+58: <ab>Infin.</ab>  !=  <ab>Med.</ab>
+--------
+*  <L>37314<pc>2189-1<k1>graB
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=2189-1
+76 <ab>Desid.</ab>
+77 <ab>Loc.</ab>
+78 <ab>Loc.</ab>
+79 <ab>v. a.</ab>
+80 <ab>v. a.</ab>
+81: <ab>Acc.</ab>  !=  <ab>v. a.</ab>
+--------
+*  <L>61314<pc>3243-2<k1>nESa
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=3243-2
+1: <ab>N.</ab>  !=  None
+--------
+*  <L>62713<pc>4018-2<k1>pad
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4018-2
+85 <ab>v. a.</ab>
+86 <ab>buddh.</ab>
+87 <ab>v. a.</ab>
+88 <ab>u. s. w.</ab>
+89 <ab>Caus.</ab>
+90: <ab>v. a.</ab>  !=  <ab>Gramm.</ab>
+--------
+*  <L>90166<pc>5126-2<k1>yadi
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=5126-2
+20 <ab>Condit.</ab>
+21 <ab>Potent.</ab>
+22 <ab>Praes.</ab>
+23 <ab>Imperat.</ab>
+24 <ab>Fut.</ab>
+25: <ab>fut.</ab>  !=  <ab>fin.</ab>
+--------
+*  <L>104497<pc>6120-1<k1>viS
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6120-1
+100 <ab>Comp.</ab>
+101 <ab>Instr.</ab>
+102 <ab>Instr.</ab>
+103 <ab>Caus.</ab>
+104 <ab>Acc.</ab>
+105: <ab>s.</ab>  !=  <ab>u. s. w.</ab>
+--------
+*  <L>121556<pc>7080-1<k1>sarj
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7080-1
+142 <ab>vgl.</ab>
+143 <ab>Loc.</ab>
+144 <ab>Dat.</ab>
+145 <ab>Acc.</ab>
+146 <ab>Loc.</ab>
+147: <ab>s.</ab>  !=  <ab>u. s. w.</ab>
+--------
+*  <L>130874<pc>7207-1<k1>sTA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7207-1
+137 <ab>Acc.</ab>
+138 <ab>Acc.</ab>
+139 <ab>v. a.</ab>
+140 <ab>Acc.</ab>
+141 <ab>Acc.</ab>
+142: <ab>Med.</ab>  !=  <ab>Acc.</ab>
+--------
+*  <L>131887<pc>7229-2<k1>sru
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7229-2
+22 <ab>Caus.</ab>
+23 <ab>Abl.</ab>
+24 <ab>Caus.</ab>
+25 <ab>Loc.</ab>
+26 <ab>Acc.</ab>
+27: <ab>Caus.</ab>  !=  <ab>fg.</ab>
+--------
+*  <L>133572<pc>7254-2<k1>har
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7254-2
+154 <ab>Abl.</ab>
+155 <ab>Desid.</ab>
+156 <ab>Med.</ab>
+157 <ab>Caus.</ab>
+158 <ab>Desid.</ab>
+159: <ab>Abl.</ab>  !=  <ab>S.</ab>
+-----------
+*  <L>62713<pc>4018-2<k1>pad
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4018-2
+90 <ab>Gramm.</ab>
+91 <ab>v. a.</ab>
+92 <ab>Instr.</ab>
+93 <ab>Comm.</ab>
+94 <ab>Caus.</ab>
+95: <ab>Loc.</ab>  !=  <ab>Gramm.</ab>
+--------
+*  <L>80202<pc>4272-2<k1>BU
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4272-2
+99 <ab>Desid.</ab>
+100 <ab>Acc.</ab>
+101 <ab>v. l.</ab>
+102 <ab>Loc.</ab>
+103 <ab>Acc.</ab>
+104: <ab>Acc.</ab>  !=  <ab>Abl.</ab>
+--------
+*  <L>104497<pc>6120-1<k1>viS
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6120-1
+173 <ab>u. s. w.</ab>
+174 <ab>Loc.</ab>
+175 <ab>Loc.</ab>
+176 <ab>Loc.</ab>
+177 <ab>Loc.</ab>
+178: <ab>s.</ab>  !=  <ab>u. s. w.</ab>
+--------
+*  <L>121556<pc>7080-1<k1>sarj
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7080-1
+175 <ab>v. a.</ab>
+176 <ab>Med.</ab>
+177 <ab>Instr.</ab>
+178 <ab>v. a.</ab>
+179 <ab>Med.</ab>
+180: <ab>Act.</ab>  !=  <ab>pass.</ab>
+--------
+*  <L>130874<pc>7207-1<k1>sTA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7207-1
+435 <ab>Act.</ab>
+436 <ab>Loc.</ab>
+437 <ab>v. a.</ab>
+438 <ab>Acc.</ab>
+439 <ab>Loc.</ab>
+440: <ab>v. a.</ab>  !=  <ab>Acc.</ab>
+656768 line#
+--------
+*  <L>133457<pc>7250-3<k1>han
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7250-3
+124 <ab>Loc.</ab>
+125 <ab>d. i.</ab>
+126 <ab>Bed.</ab>
+127 <ab>v. a.</ab>
+128 <ab>Caus.</ab>
+129: <ab>Intens.</ab>  !=  <ab>s. u.</ab>
+670156 line #
+--------
+*  <L>62713<pc>4018-2<k1>pad
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4018-2
+99 <ab>Caus.</ab>
+100 <ab>Acc.</ab>
+101 <ab>Acc.</ab>
+102 <ab>Loc.</ab>
+103 <ab>insbes.</ab>
+104: <ab>Acc.</ab>  !=  <ab>Loc.</ab>
+--------
+* <L>104497<pc>6120-1<k1>viS
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=6120-1
+224 <ab>Loc.</ab>
+225 <ab>Loc.</ab>
+226 <ab>Comm.</ab>
+227 <ab>Caus.</ab>
+228 <ab>Loc.</ab>
+229: <ab>s.</ab>  !=  <ab>u. s. w.</ab>
+--------
+*  <L>62713<pc>4018-2<k1>pad
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4018-2
+162 <ab>Acc.</ab>
+163 <ab>Acc.</ab>
+164 <ab>Caus.</ab>
+165 <ab>Acc.</ab>
+166 <ab>Nom.</ab>
+167: <ab>Caus.</ab>  !=  <ab>buddh.</ab>
+--------
+*  <L>80202<pc>4272-2<k1>BU
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4272-2
+126 <ab>Acc.</ab>
+127 <ab>Acc.</ab>
+128 <ab>u. s. w.</ab>
+129 <ab>Caus.</ab>
+130 <ab>Acc.</ab>
+131: <ab>Caus.</ab>  !=  <ab>intrans.</ab>
+--------
+* <L>80202<pc>4272-2<k1>BU
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=4272-2
+225 <ab>Acc.</ab>
+226 <ab>Superl.</ab>
+227 <ab>Acc.</ab>
+228 <ab>Instr.</ab>
+229 <ab>Instr.</ab>
+230: <ab>Loc.</ab>  !=  <ab>v. a.</ab>
+--------
+

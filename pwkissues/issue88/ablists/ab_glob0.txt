@@ -1,0 +1,312 @@
+1.	0,5	?
+2.	0,10	?
+3.	0,25	?
+Abl.	1367,1375	Ablativ - ablative (case)
+Absol.	379,396	Absolutiv - absolutive (case)
+absol.	0,3	?
+abstr.	0,4	?
+Abstr.	0,1	?
+Acc.	4720,4726	Accusativ - accusative (case)
+Act.	619,621	Activ - active 
+act.	0,383	?
+Adj.	1,0	Adjectiv - adjective
+adj.	0,0	adjectivisch - adjective
+adj. Comp.	0,1847	?
+Adj. Comp.	0,1	?
+Adjj.	0,1	?
+Adv.	3893,0	Adverb - adverb
+adv.	41,0	adverbial? - adverbial
+adv. Comp.	0,22	?
+Advv.	0,1	?
+anat.	0,1	?
+Anf.	0,78	?
+Anm.	0,2	?
+Anmm.	0,1	?
+Aor.	75,75	Aorist - aorist
+Arithm.	0,2	?
+Astr.	0,36	?
+astr.	0,45	?
+Astrol.	0,44	?
+astrol.	0,107	?
+astron.	0,14	?
+Astron.	0,14	?
+Ausg.	0,42	?
+Ausgg.	0,13	?
+Aut.	0,1	?
+Autt.	0,1	?
+Bed.	0,745	?
+Bein.	3397,3402	Beiname - epithet, by name
+Beinn.	7,7	Beinamen - epithets, by names
+Beiw.	0,475	?
+Beiz.	0,3	?
+bes.	0,150	?
+Bes.	0,3	?
+best.	10042,10048	bestimmte - a certain (kind of)
+Bez.	0,2307	?
+buddh.	0,759	?
+Buddh.	0,10	?
+Caus.	2579,2594	Causativ - causative
+Chrest.	0,1	?
+Cit.	0,53	?
+Coll.	0,2	?
+coll.	0,8	?
+collect.	0,12	?
+Collect.	0,6	?
+Comm.	2280,2302	Commentar? - commentary
+Comp.	0,3486	?
+Compar.	0,217	?
+compon.	0,1	?
+Compp.	0,19	?
+concr.	0,4	?
+Condit.	0,10	?
+Conj.	216,221	Conjunctiv? - subjunctive (mood)
+copul.	0,1	?
+copul. Comp.	0,6	?
+Correl.	0,6	?
+d. h.	0,45	?
+d. i.	0,365	?
+dass.	1816,1803	dasselbe - the same
+Dat.	958,961	Dativ - dative (case)
+Demin.	0,45	?
+demonstr.	0,1	?
+Demonstr.	0,2	?
+Den.	0,1	?
+Denom.	46,48	Denominativ? - denominative
+Denomin.	0,55	?
+dergl.	0,11	?
+ders.	0,2	?
+desgl.	0,575	?
+Desgl.	0,1	?
+Desid.	474,475	Desiderativ - desiderative
+dgl.	0,56	?
+dopp.	0,4	?
+Dram.	0,1	?
+Du.	534,552	Dual - dual 
+ebd.	0,1	?
+ebend.	453,465	ebenda - ibid. (ibidem) - in the same source
+ed.	0,2	?
+eig.	0,127	?
+enklit.	0,1	?
+ep.	0,2	?
+Erkl.	0,1	?
+etc.	0,15	?
+etym.	0,6	?
+Etym.	0,3	?
+euphem.	0,9	?
+excl.	0,2	?
+f.	3,0	femininum - feminine
+Fem.	0,3	?
+Femin.	0,2	?
+fg.	0,1	?
+fgg.	0,1	?
+fig.	0,1	?
+fin.	0,58	?
+fut.	0,78	?
+Fut.	0,76	?
+gedr.	234,242	gedruckt - printed
+Gedr.	0,1	?
+Gegens.	0,36	?
+Gen.	1922,1929	Genitiv - genitive (case)
+gen.	0,9	?
+Geom.	0,1	?
+geom.	0,2	?
+geometr.	0,1	?
+geschr.	0,28	?
+Gramm.	0,29	?
+gramm.	0,36	?
+Handschrr.	0,1	?
+Hdschr.	28,39	Handschrift - manuscript
+Hdschrr.	0,32	?
+hdschrr.	0,1	?
+Imper.	0,20	?
+imper.	0,4	?
+Imperat.	0,22	?
+imperat.	0,1	?
+Imperf.	0,25	?
+impers.	0,317	?
+Impers.	0,4	?
+inbes.	0,18	?
+Ind.	0,1	?
+Indecl.	0,0	Indeclinabilum - indeclinable
+indef.	0,3	?
+Indefin.	0,1	?
+Indic.	0,3	?
+Inf.	156,156	Infinitiv - infinitive
+Infin.	464,465	Infinitiv - infinitive
+infin.	0,1	?
+insbe.	0,1	?
+insbes.	0,754	?
+Insbes.	0,51	?
+Inschr.	0,3	?
+instebs.	0,1	?
+Instr.	2166,2167	Instrumental - instrumental (case)
+instr.	0,28	?
+Intens.	376,377	Intensiv - intensive
+intens.	0,1	?
+inter.	0,1	?
+Interj.	97,98	Interjection - interjection 
+interr.	0,9	?
+Interr.	0,4	?
+interrog.	0,1	?
+Intr.	0,12	?
+intr.	0,2	?
+intrans.	0,93	?
+Intrans.	0,1	?
+intransit.	0,2	?
+Jahrh.	0,4	?
+Jmd.	0,1	?
+Kalb.	0,1	?
+klass.	0,5	?
+liturg.	0,3	?
+Loc.	2691,2700	Locativ - locative case
+m.	2,0	masculinum - masculine
+masc.	0,1	?
+Masc.	0,1	?
+Math.	0,4	?
+math.	0,1	?
+mathem.	0,3	?
+Mathem.	0,2	?
+Med.	1291,1331	Medium – ātmanepada
+medic.	0,60	?
+Metron.	296,298	Metronym(Deu.)/Metronymicum(Lat.) - metronym
+Metronn.	1,2	Metronyme(Deu.)/Metronymica(Lat.) - metronym
+Mss.	0,1	?
+musik.	0,25	?
+N.	138,78	Namen? - name
+n.	0,0	neutrum - neuter
+N. ag.	0,39	?
+N. pr.	0,18532	?
+N. Pr.	0,5	?
+N.ag.	39,0	? - ?
+N.pr.	18468,0	Nomen proprium? - proper noun
+Neg.	0,3	?
+Negat.	0,1	?
+neutr.	0,1	?
+Nom.	554,507	Nomen? - noun
+Nom. abstr.	0,2615	?
+Nom. Abstr.	0,6	?
+Nom. ag.	0,910	?
+Nom. Ag.	0,5	?
+Nom. pr.	0,15	?
+Nom.abstr.	2597,0	Nomen abstractum - abstract noun
+Nom.ag.	903,0	Nomen agentis - nomen agentis
+Nomin.	185,185	Nominativ - nominative (case)
+Obj.	0,43	?
+obj.	0,1	?
+onomat.	0,3	?
+onomatop.	0,59	?
+Onomatop.	0,1	?
+Opt.	0,3	?
+Optat.	0,1	?
+optat.	0,1	?
+ord.	0,1	?
+Ortsadv.	0,1	?
+oxyt.	0,20	?
+Oxyt.	0,1	?
+parox.	0,6	?
+Parox.	0,3	?
+paroxyt.	0,1	?
+Part.	0,1	?
+Partic.	833,838	Participium - participle
+Pass.	434,444	Passiv - passive
+pass.	0,237	?
+Patron.	2000,2004	Patronym (Deu.)/Patronymicum(Lat.) - patronym
+Patronn.	3,3	Patronyme(Deu.)/Patrnymica (Lat.) - patronyms
+perf.	0,11	?
+Perf.	0,50	?
+Pers.	0,1	?
+Personif.	0,10	?
+personif.	0,26	?
+Phil.	0,1	?
+philos.	0,2	?
+Pl.	4575,4609	Plural - plural
+poss.	0,1	?
+Pot.	0,1	?
+Poten.	0,1	?
+Potent.	70,70	Potentialis - potential mood
+Praep.	0,46	?
+Praes.	0,45	?
+praes.	0,11	?
+praet.	0,21	?
+Praet.	0,1	?
+Prec.	0,3	?
+priv.	0,5	?
+Prol.	1,3	?
+pron.	0,1	?
+Pron.	0,1	?
+Pronom.	0,1	?
+Pronomm.	0,2	?
+proparox.	0,2	?
+proparoxyt.	0,1	?
+präd.	0,2	?
+Präp.	12,19	Präposition - preposition
+Präpp.	0,1	?
+Präs.	0,1	?
+Pt.	0,1	?
+Rec.	0,3	?
+Red.	0,5	?
+redupl.	0,1	?
+refl.	0,1	?
+reflex.	0,5	?
+Rel.	0,2	?
+relat.	0,1	?
+Relat.	0,7	?
+resp.	0,2	?
+Rhet.	0,22	?
+rhet.	0,8	?
+rit.	0,3	?
+Roxb.	0,1	?
+s.	796,741	siehe - see
+S.	0,19	?
+s. d.	0,1	?
+s. u.	0,1178	?
+s. u. d.	0,4	?
+s. v.	0,1	?
+s.u.	1173,0	siehe unten?/unter? - see below/under
+sc.	0,86	?
+Sch.	231,219	Scholiast or Commentator
+Schol.	35,37	Scholiast or Commentator
+Sg.	734,749	Singular - singular
+Simpl.	0,75	?
+sog.	0,3	?
+st.	0,261	?
+St.	0,3	?
+Subj.	0,5	?
+subj.	0,2	?
+Subst.	302,307	Substantiv - noun
+subst.	0,4	?
+Substr.	0,1	?
+Suff.	0,1	?
+Superl.	0,220	?
+term. techn.	0,1	?
+trans.	0,78	?
+Trans.	0,2	?
+transit.	0,2	?
+u. s. w.	0,1957	?
+u.s.w.	1920,0	und so weiter - and so on, and so forth = etc.
+Ueberh.	0,2	?
+Uebers.	0,5	?
+Uebertr.	0,3	?
+unbest.	0,4	?
+uneig.	0,19	?
+Uneig.	0,1	?
+ungedr.	0,2	?
+Unterschr.	0,12	?
+urspr.	0,2	?
+v. a.	0,4627	?
+v. l.	0,3200	?
+v. u.	0,98	?
+v.a.	4567,0	vor allem - above all, especially
+v.l.	2545,0	vide licet - that us to say, namely
+v.u.	96,0	von unten - line number counted from below, from the last line up
+Ved.	0,1	?
+Verb.	0,6	?
+Vergl.	0,1	?
+Vgl.	2125,2158	Vergleiche - compare
+vgl.	625,1	vergleiche - compare
+viell.	0,4	?
+Voc.	58,59	Vocativ - vocative (case)
+z. B.	0,151	?
+Zahladv.	0,2	?
+überh.	0,549	?
+übertr.	0,239	?

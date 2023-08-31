@@ -16,9 +16,14 @@ cp /c/xampp/htdocs/cologne/csl-orig/v02/pw/pw.txt temp_pw_0.txt
 cp /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/pw/pywork/pwab/pwab_input.txt pwab_input_0.txt
   (commit 2bbf9918b768b9fdb934bf63b53999773b488f27)
 
-Andhrabharati lists of abbreviations
-ablists/
 
+*********************************************************************
+meta/
+stats on tags (global and local) and also on extended ascii characters.
+
+*********************************************************************
+ablists/
+Andhrabharati lists of abbreviations 
 ---------------------------------------------------------------------
 temp_pw_ab_0.txt
   from https://github.com/sanskrit-lexicon/PWK/files/12148898/pw.AB.v1.zip
@@ -29,7 +34,7 @@ wc -l temp_pw*
   674189 temp_pw_ab_0.txt
  so the ab version has about 8000+ fewer lines.
 
-Make a few changes in temp_pw_ab_0.txt for xml validity (see dev0_ab below)
+Make a few changes in temp_pw_ab_0.txt for xml validity (see dev1_ab below)
 See file corrections_ab_1.txt
 # make change_ab_1.txt
 python corr_to_change.py temp_pw_ab_0.txt corrections_ab_1.txt change_ab_1.txt
@@ -48,126 +53,65 @@ sh redo_dev.sh ab_1
 Note: temp_pw_ab_1.txt is now almost the same as
   pwkissues/issue95/temp_pw_ab_1.txt
 
-====================================================================
+diff ../issue95/temp_pw_ab_1.txt ../issue88/temp_pw_ab_1.txt
+475943,475944c475943,475944
+< <div n="p">— Mit {#vi#} ({#°lIyate#}, {#°lilyus#}, {#°lIya#}, *⁾{#°lAya#})
+< <F>*⁾Wäre bis auf das {#la#} ein regelmässige Imperfect von {#ay#}, {#ayate#} mit {#nis#}.</F>
+---
+> <div n="p">— Mit {#vi#} ({#°lIyate#}, {#°lilyus#}, {#°lIya#}, *{#°lAya#})
+> [Fußnote: *Wäre bis auf das {#la#} ein regelmässiges Imperfect von {#ay#}, {#ayate#} mit {#nis#}.]
 
+====================================================================
+08-24-2023.
+ablists 
+ab_glob0.txt contains initial statistics regarding counts of
+ <ab>X</ab> using temp_pw_0.txt and temp_pw_ab_1.txt
+We now 'cp temp_pw_0.txt temp_pw_1.txt'.
+
+Various 'systematic' differences in the count are examined,
+and changes are made to temp_pw_1.txt. 
+Mostly these change 'X' to '<ab>X</ab>'.
+We use (and revise) ab_glob1.txt to keep track of the
+revised counts <ab>X</ab> from temp_pw_1.txt and temp_pw_ab_1.txt.
+ab_glob1.txt contains the final status after this phase of changes.
+There are now 304 abbreviations, and 129 of these have differenct
+counts in temp_pw_1.txt and temp_pw_ab_1.txt.
+
+The last step is to resolve these remaining differences.
+We start with copies temp_pw_2.txt and temp_pw_ab_2.txt.
+We know these have the same metalines.
+The technique used here compares, for each entry, the
+sequence of <ab>X</ab> from the two versions. This is done by
+the compare_texts.py program, which prints out the first
+difference in the <ab> sequences (along with some context).
+Then, the difference is resolved by manual examination of the
+texts of temp_pw_2 and temp_pw_ab_2; changes are made manually
+Notes of these changes are in
+ablists/change_2_notes.txt and ablists/change_2_ab_notes.txt.
+
+The end is reached when there is <ab> sequences are the same
+for all entries in both versions.
+
+At this point we construct ab_glob2.txt which confirms that
+for each X of the 304 abbreviations, the counts of <ab>X</ab>
+is the same for revised temp_pw_2.txt and temp_pw_ab_2.txt.
+
+Note ab_glob2.txt can be used later for pwab_input.txt
+
+change_pw_ab_2.txt containts 673 changes when comparing
+the original temp_pw_ab_0.txt and final temp_pw_ab_2.txt
+
+python diff_to_changes_dict.py temp_pw_ab_0.txt temp_pw_ab_2.txt change_pw_ab_2.txt
+673 changes written to change_pw_ab_2.txt
+
+Incidentally,
+sh redo_dev.sh ab_2
+ confirms that temp_pw_ab_2.txt generates valid xml.
+sh redo_prod.sh 2
+ confirms that temp_pw_2.txt generates valid xml.
 ====================================================================
 ====================================================================
 ====================================================================
 ====================================================================
 
 ********************************************************************
-OLD NOTES FROM ABBREV directory
-********************************************************************
-freq_ab.txt   Frequency of <ab>X</ab> OR <lex>X</lex>
-# cp /c/xampp/htdocs/sanskrit-lexicon/INM/greek/issue9/freq_greek.py freq_ab.py
-python freq_ab.py temp_pw_0.txt temp_pwab_input.txt freq_ab.txt
-
-682616 lines read from temp_pw_0.txt
-135787 entries found
-64 abbreviations read from temp_pwab_input.txt
-62 different greek strings
-62 records written to freq_ab.txt
-1 abbreviations without tooltip
-   Prol. 1 unknown
-3 abbreviation tips unused:
-   best. bestimmte - a certain (kind of)
-   v.a. vor allem - above all, especially
-   gedr. gedruckt - printed
-
-====================================================================
-abbreviations in italics.  A potential problem for english translation
-773 matches in 757 lines for "{%[^%]*<ab" in buffer: temp_pw_0.txt
-====================================================================
-Find unmarked abbreviations.
-Generate changes for markup of abbreviations not yet marked.
-python unmarked_ab.py temp_pw_0.txt temp_pwab_input.txt change_1.txt
-
-date;python unmarked_ab.py temp_pw_0.txt temp_pwab_input.txt change_1.txt;date
-Tue Jun  7 17:08:13 EDT 2022
-682616 lines read from temp_pw_0.txt
-135787 entries found
-64 abbreviations read from temp_pwab_input.txt
-6496 lines changed
-change records written to change_1.txt
-Abl. 1
-Adv. 1
-best. 224
-ebend. 6
-gedr. 234
-Hdschr. 26
-Med. 1
-s. 547
-Sch. 8
-Schol. 33
-u.s.w. 1790
-v.a. 4025
-v.u. 92
-vgl. 8
-6996 abbreviations marked
-Tue Jun  7 17:10:24 EDT 2022
-
-# implement changes in temp_pw_1.txt
-python updateByLine.py temp_pw_0.txt change_1.txt temp_pw_1.txt
-6496 change transactions from change_1.txt
-
-====================================================================
-installation of temp_pw_1.txt
-
-install: csl-orig/v02/pw/pw.txt
-cp temp_pw_1.txt /c/xampp/htdocs/cologne/csl-orig/v02/pw/pw.txt
-
-# check xml validity
-cd /c/xampp/htdocs/cologne/csl-pywork/v02
-sh generate_dict.sh pw  ../../pw
-sh xmlchk_xampp.sh pw
- # ok 
-# commit/push to csl-orig
-cd /c/xampp/htdocs/cologne/csl-orig/v02/pw
-# return home
-cd /c/xampp/htdocs/sanskrit-lexicon/pwk/abbrev
-========================================================
-# generate new frequency count with revised pw:
-python freq_ab.py temp_pw_1.txt temp_pwab_input.txt freq_ab_1.txt
-
-====================================================================
-# ab markup within italic texts
-====================================================================
-python unmarked_ab_italic.py temp_pw_1.txt temp_pwab_input.txt change_2.txt
-
-682616 lines read from temp_pw_1.txt
-135787 entries found
-64 abbreviations read from temp_pwab_input.txt
-10450 lines changed
-change records written to change_2.txt
-best. 9792
-f. 2
-m. 2
-s. 13
-Sch. 11
-Schol. 1
-u.s.w. 125
-v.a. 542
-10488 abbreviations marked
-
-# implement changes in temp_pw_2.txt
-python updateByLine.py temp_pw_1.txt change_2.txt temp_pw_2.txt
-10450 change transactions from change_2.txt
-====================================================================
-installation of temp_pw_2.txt
-
-install: csl-orig/v02/pw/pw.txt
-cp temp_pw_2.txt /c/xampp/htdocs/cologne/csl-orig/v02/pw/pw.txt
-
-# check xml validity
-cd /c/xampp/htdocs/cologne/csl-pywork/v02
-sh generate_dict.sh pw  ../../pw
-sh xmlchk_xampp.sh pw
- # ok 
-# commit/push to csl-orig
-cd /c/xampp/htdocs/cologne/csl-orig/v02/pw
-# return home
-cd /c/xampp/htdocs/sanskrit-lexicon/pwk/abbrev
-====================================================================
-# generate new frequency count with revised pw:
-python freq_ab.py temp_pw_2.txt temp_pwab_input.txt freq_ab_2.txt
-====================================================================
