@@ -1,0 +1,42 @@
+; <L>25586<pc>2036-3<k1>kalpa<k2>ka/lpa<e>100
+121467 old <div n="2">— a〉 {%Satzung, Regel, Ordnung, Brauch; <ab n="medicinischen">med.</ab>, Art und Weise%}. {#praTamaH kalpaH#} und {#praTamakalpa#} {%eine vor allen andern geltende Regel, ein vor allen andern den Vorzug verdienendes Verfahren;%} mit folgendem {#yad#} und <ab>Potent.</ab> so <ab>v. a.</ab> {%die erste Sorge ist, dass%}.
+;
+121467 new <div n="2">— a〉 {%Satzung, Regel, Ordnung, Brauch; Vehrfahren, Art und Weise%}. {#praTamaH kalpaH#} und {#praTamakalpa#} {%eine vor allen andern geltende Regel, ein vor allen andern den Vorzug verdienendes Verfahren;%} mit folgendem {#yad#} und <ab>Potent.</ab> so <ab>v. a.</ab> {%die erste Sorge ist, dass%}.
+;---------------------------------------------------
+; <L>38566<pc>2208-1<k1>caRqeSvararasa<k2>caRqeSvararasa<e>100
+186854 old {#caRqeSvararasa#}¦ <lex>m.</lex> {%ein <ab n="medicinischen">med.</ab>Präparat aus Quecksilber, Arsenik%} <ab>u. s. w.</ab> <ls>Mat. med. 40. 44</ls>.
+;
+186854 new {#caRqeSvararasa#}¦ <lex>m.</lex> {%ein <ab n="medicinischen">med.</ab> Präparat aus Quecksilber, Arsenik%} <ab>u. s. w.</ab> <ls>Mat. med. 40. 44</ls>.
+;---------------------------------------------------
+; <L>54314<pc>3140-1<k1>dvyaha<k2>dvyaha/<h>1<e>100
+265527 old <hom>1.</hom> {#dvyaha/#}¦ <lex>m.</lex> {%ein Zeitraum von zwei Tagen%}. <ab>Acc.</ab> {%zwei Tage lang%} <ls>GAUT.</ls> <ab>Abl.</ab> (<ls n="GAUT.">217,25. 227,33</ls>) und <ab>Loc.</ab> (<ls n="GAUT.">227,33</ls>) {%nach zwei Tagen%}. {#dvyahavftta#} <lex>Adj.</lex> {%vor zwei <ab n="Tagen">T.</ab> geschehen%} <ls n="GAUT.">241,27</ls>. * {#dvyahaM tarzam#} und {#dvyahatarzam#} <ab>Absol.</ab> {%nachdem man Jmd <ab n="zwei Tagen">zw. T.</ab> hat dürsten lassen,%} {#dvyahamatyAsam#} und {#dvyahAtyAsam#} <ab>Absol.</ab> {%mit Ueberspringung von zwei <ab n="Tagen">T.</ab>%} <ls>P. 3,4,57, <ab>Sch.</ab></ls>
+;
+265527 new <hom>1.</hom> {#dvyaha/#}¦ <lex>m.</lex> {%ein Zeitraum von zwei Tagen%}. <ab>Acc.</ab> {%zwei Tage lang%} <ls>GAUT.</ls> <ab>Abl.</ab> (<ls n="GAUT.">217,25. 227,33</ls>) und <ab>Loc.</ab> (<ls n="GAUT.">227,33</ls>) {%nach zwei Tagen%}. {#dvyahavftta#} <lex>Adj.</lex> {%vor zwei <ab n="Tagen">T.</ab> geschehen%} <ls n="GAUT.">241,27</ls>. * {#dvyahaM tarzam#} und {#dvyahatarzam#} <ab>Absol.</ab> {%nachdem man Jmd <ab n="zwei Tagen">zw. T.</ab> hat dürsten lassen,%} {#dvyahamatyAsam#} und {#dvyahAtyAsam#} <ab>Absol.</ab> {%mit Ueberspringung von <ab n="zwei Tagen">zw. T.</ab>%} <ls>P. 3,4,57, <ab>Sch.</ab></ls>
+;---------------------------------------------------
+; <L>65309<pc>4059-3<k1>pA<k2>pA<h>1<e>500
+321013 old <div n="3">— β〉 {%eingesogen%}, so <ab>v. a.</ab> {%mit den Ohren <ab n="eingesogen"> e.</ab>%}
+;
+321013 new <div n="3">— β〉 {%eingesogen%}, so <ab>v. a.</ab> {%mit den Ohren <ab n="eingesogen">e.</ab>%}
+;---------------------------------------------------
+; <L>96287<pc>5227-3<k1>lI<k2>lI<h>1<e>500
+475925 old <div n="1">— 3〉 ({#°la/yate#}, {#°lAyata#}*), {#°lIyate#}, {#°lilye#}, {#°lilyus#}, {#°la/yAM#} {#cakre#}, {#°alezwa#}, {#°lA/ya#} (<ls>TBR. 1,2,1,5</ls>. {#°lIya#}) {%sich verstecken, sich verschlüpfen, verschwinden, unsichtbar werden, — vor (Abl), — in%} (<ab>Loc.</ab>). {#ni/lIna#} {%versteckt, — in%} (<ab>Loc.</ab>); {%in dem sich Jmd%} (<ab>instr.</ab>) {%versteckt hat%}.
+;
+475925 new <div n="1">— 3〉 ({#°la/yate#}, {#°lAyata#}*⁾, {#°lIyate#}, {#°lilye#}, {#°lilyus#}, {#°la/yAM#} {#cakre#}, {#°alezwa#}, {#°lA/ya#} <ls>TBR. 1,2,1,5</ls>. {#°lIya#}) {%sich verstecken, sich verschlüpfen, verschwinden, unsichtbar werden, — vor (<ab>Abl.</ab>), — in%} (<ab>Loc.</ab>). {#ni/lIna#} {%versteckt, — in%} (<ab>Loc.</ab>); {%in dem sich Jmd%} (<ab>instr.</ab>) {%versteckt hat%}.
+;---------------------------------------------------
+; <L>135054<pc>7279-2<k1>hUMhUMhUMkArapAra<k2>hUMhUMhUMkArapAra<e>100
+670684 old {#hUMhUMhUMkArapAra#} und {#hUMhUMkArapriya#}¦ <lex>Adj.</lex> als <ab>Beiww.</ab>. <is>Śiva</is>ʼs.
+;
+670684 new {#hUMhUMhUMkArapAra#} und {#hUMhUMkArapriya#}¦ <lex>Adj.</lex> als <ab>Beiww.</ab> <is>Śiva</is>ʼs.
+;---------------------------------------------------
+; **************************************************
+; Move the footnote line
+; **************************************************
+; delete the footnote line at wrong location
+475944 old [Fußnote: *Wäre bis auf das {#la#} ein regelmässiges Imperfect von {#ay#}, {#ayate#} mit {#nis#}.]
+475944 del 
+; -------------------------------------------------
+; insert the (revised AB version) where it should be
+475925 old <div n="1">— 3〉 ({#°la/yate#}, {#°lAyata#}*⁾, {#°lIyate#}, {#°lilye#}, {#°lilyus#}, {#°la/yAM#} {#cakre#}, {#°alezwa#}, {#°lA/ya#} <ls>TBR. 1,2,1,5</ls>. {#°lIya#}) {%sich verstecken, sich verschlüpfen, verschwinden, unsichtbar werden, — vor (<ab>Abl.</ab>), — in%} (<ab>Loc.</ab>). {#ni/lIna#} {%versteckt, — in%} (<ab>Loc.</ab>); {%in dem sich Jmd%} (<ab>instr.</ab>) {%versteckt hat%}.
+;
+475925 ins <F>*⁾Wäre bis auf das {#la#} ein regelmässige Imperfect von {#ay#}, {#ayate#} mit {#nis#}.</F>
+;

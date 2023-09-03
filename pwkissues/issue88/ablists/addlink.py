@@ -1,5 +1,5 @@
 # coding=utf-8
-""" premark_work.py
+""" addlink.py
 """
 from __future__ import print_function
 import sys, re,codecs

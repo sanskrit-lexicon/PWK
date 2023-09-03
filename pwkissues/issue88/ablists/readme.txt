@@ -228,3 +228,133 @@ sh redo_prod.sh 2
 # ok validated
 
 sh redo_dev.sh ab_2
+************************************************************
+08-31-2023
+local abbreviations: <ab T>X</ab>
+***********************************************************
+python ab_local1.py ../temp_pw_2.txt ../temp_pw_ab_2.txt ab_local1.txt
+65 distinct <ab []>X</ab> from ../temp_pw_2.txt
+580 distinct <ab []>X</ab> from ../temp_pw_ab_2.txt
+583 lines written to ab_local1.txt
+527 differences in local abbreviations
+241 distinct abbreviations
+
+Now we need to make changes to resolve the differences.
+python compare_local_ab.py ../temp_pw_2.txt ../temp_pw_ab_2.txt temp.txt
+
+cp ../temp_pw_ab_2.txt temp_pw_ab_2_version4.txt
+
+python compare_local_ab.py temp_pw_2_version4.txt temp_pw_ab_2_version4.txt temp.txt
+temp_pw_ab_2_version4.txt changed manually for 'u.' (unter/und) local abbrevs.
+
+python ../diff_to_changes_dict.py ../temp_pw_2.txt temp_pw_2_version4.txt temp_change_3a.txt
+148 changes written to temp_change_3a.txt
+
+python ../updateByLine.py ../temp_pw_2.txt temp_change_3a.txt temp_pw_3_version1.txt
+148 change transactions from temp_change_3a.txt
+diff temp_pw_2_version4.txt temp_pw_3_version1.txt
+ NO DIFFERENCE.  We will have no further use for temp_pw_2_version4.txt
+
+------------------
+temp_change_3b.txt
+python change_3b.py temp_pw_3_version1.txt temp_pw_ab_2_version4.txt  temp_change_3b.txt
+382 changes written to temp_change_3b.txt
+
+# apply to get temp_pw_3_version2.txt
+
+python ../updateByLine.py temp_pw_3_version1.txt temp_change_3b.txt temp_pw_3_version2.txt
+382 of type new
+
+------------------
+temp_pw_3_version3.txt
+
+python ab_local1.py temp_pw_3_version2.txt ../temp_pw_ab_2.txt temp_ab_local1_version2.txt
+246 differences in local abbreviations
+241 distinct abbreviations
+
+We must resolve the remaining differences manually.
+cp temp_pw_3_version2.txt temp_pw_3_version3.txt
+edit temp_pw_3_version3.txt
+
+python premark_work.py temp_pw_3_version2.txt temp1.org temp_pw_3_version3_work.txt
+python premark_work.py temp_pw_ab_2_version4.txt temp1.org temp_pw_ab_2_version4_work.txt
+
+
+python compare_local_ab_work.py temp_pw_3_version2.txt temp_pw_ab_2_version4.txt temp_pw_3_version2_work1.txt temp_pw_ab_2_version4_work.txt
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Two additional changes from
+  https://github.com/sanskrit-lexicon/PWK/files/12500349/change_pw_ab_2.AB.txt
+----------------------------
+
+python ../diff_to_changes_dict.py temp_pw_3_version2.txt temp_pw_3_version3.txt temp_change_3c.txt
+272 changes written to temp_change_3c.txt
+
+
+-----------------------------------------------------------------------
+Still some unresolved differences in local abbreviations
+
+cp temp_pw_3_version3.txt temp_pw_3_version4.txt
+# reuse temp_pw_ab_2_version4.txt
+
+python ab_local1.py temp_pw_3_version4.txt temp_pw_ab_2_version4.txt temp_ab_local1_version4.txt
+
+python compare_local_ab.py temp_pw_3_version4.txt temp_pw_ab_2_version4.txt temp1.org
+
+30 differences in local abbreviations
+manual changes.
+Rerun.
+python compare_local_ab.py temp_pw_3_version4.txt temp_pw_ab_2_version4.txt temp1.org
+Iterate until there are no differences.
+
+python ../diff_to_changes_dict.py temp_pw_3_version3.txt temp_pw_3_version4.txt temp_change_3d.txt
+31 changes written to temp_change_3d.txt
+
+---------------------------------------------------
+Aggregate all the temp_change_3X.txt into ../change_3.txt
+
+touch ../change_3.txt
+Insert temp_change_3a.txt into ../change_3.txt
+insert temp_change_3b.txt
+insert temp_change_3c.txt
+insert temp_change_3d.txt
+cd ../
+python updateByLine.py temp_pw_2.txt change_3.txt temp_pw_3a.txt
+835 lines changed
+--------------------------------
+cp temp_pw_ab_2_version4.txt ../temp_pw_ab_3a.txt
+cd ../
+python diff_to_changes_dict.py temp_pw_ab_2.txt temp_pw_ab_3a.txt change_pw_ab_3.txt
+
+Proof that these latest versions have the same local abbreviations.
+python ab_local1.py ../temp_pw_3.txt ../temp_pw_ab_3a.txt ab_local1_version3.txt
+580 distinct <ab []>X</ab> from ../temp_pw_3.txt
+580 distinct <ab []>X</ab> from ../temp_pw_ab_3.txt
+580 lines written to ab_local1_version3.txt
+0 differences in local abbreviations
+
+************************************************************
+
+--------------------------------
+https://github.com/sanskrit-lexicon/PWK/files/12500349/change_pw_ab_2.AB.txt
+
+475926 old [Fußnote: *Wäre bis auf das {#la#} ein regelmässiges Imperfect von {#ay#}, {#ayate#} mit {#nis#}.]
+475926 new <FN>*⁾Wäre bis auf das {#la#} ein regelmässige Imperfect von {#ay#}, {#ayate#} mit {#nis#}.</FN>
+;; AB note. This is to be relocated from 475944 to 475926. And, as in other CDSL works, <FN> is used for footnote tagging on either side of it; no need to devise another format "[Fußnote: xxx]".
+;; And Jim might revert the *⁾ to *) as he he had done in GRA recently.
+
+; Jim note: use <F>...</F> instead of <FN>...</FN>
+There are NO <FN> tags.  But there is an <F> tag.
+Based on make_xml.py,  this <F> tag is present for these dictionaries:
+  krm, skd, inm, bop.
+  And it is handled differently in all cases.
+revised form for AB:
+<F>*⁾Wäre bis auf das {#la#} ein regelmässige Imperfect von {#ay#}, {#ayate#} mit {#nis#}.</F>
+
+
+************************************************************
+--------------------------------
+<L>9297<pc>1108-3<k1>arkASvameDa
+<is n="Arka">A.</is>  and similar.  Print code must handle
+  this as a local abbreviation (i.e. provide a tooltip)
+---
