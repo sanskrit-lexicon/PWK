@@ -1,0 +1,72 @@
+; **************************************************
+; Additional changes at '???'  
+; 0,3	Chr.=???	`<ab n="nach">n.</ab> <ab n="???">Chr.</ab> ;; <ab n="nach Christus">n. Chr.</ab>`
+; 3,3	N. N.=???	`<ab n="???">N. N.</ab> ;; <ab n="Nomen Nescio">N. N.</ab>`
+; 0,2	NO=???	`<ab n="???">NO</ab> ;; <ab n="Nord-Ost">NO</ab>`
+; 0,1	NW=???	`<ab n="???">NW</ab> ;; <ab n="Nord-West">NW</ab>`
+; 0,1	SO=???	`<ab n="???">SO</ab> ;; <ab n="Süd-Ost">SO</ab>`
+; 0,1	SW=???	`<ab n="???">SW</ab> ;; <ab n="Süd-West">SW</ab>`
+; 0,1	u.=???	`<ab n="???">u.</ab> ;; <ab n="unterthan">u.</ab>`
+; Also,
+; '>{' -> '> {'  3 in pw_ab_
+; '}<' -> '} <'  1 in pw_ab_
+; **************************************************
+; <L>8321<pc>1097-2<k1>amuka<k2>amuka<e>000
+37662 old {#amuka#}¦ <lex>Pron.</lex> (<lex>f.</lex> {#A#}) {%der und der,%} die Stelle eine Namens vertretend und unserem {%<ab n="???">N. N.</ab>%} entsprechend.
+;
+37662 new {#amuka#}¦ <lex>Pron.</lex> (<lex>f.</lex> {#A#}) {%der und der,%} die Stelle eine Namens vertretend und unserem {%<ab n="Nomen Nescio">N. N.</ab>%} entsprechend.
+;---------------------------------------------------
+; <L>8322<pc>1097-2<k1>amukIya<k2>amukIya<e>100
+37666 old {#amukIya#}¦ <lex>Adj.</lex> {%<ab n="???">N. N.</ab> gehörig%}. <lex>f.</lex> {#A#} so <ab>v. a.</ab> {%Gattin des <ab n="???">N. N.</ab>%} so ist wohl zu lesen <ab>st.</ab> {#amukIda#} <ls>Ind. St. 5,370</ls> und {#amukidA#} bei <ls>GOLD.</ls>
+;
+37666 new {#amukIya#}¦ <lex>Adj.</lex> {%<ab n="Nomen Nescio">N. N.</ab> gehörig%}. <lex>f.</lex> {#A#} so <ab>v. a.</ab> {%Gattin des <ab n="Nomen Nescio">N. N.</ab>%} so ist wohl zu lesen <ab>st.</ab> {#amukIda#} <ls>Ind. St. 5,370</ls> und {#amukidA#} bei <ls>GOLD.</ls>
+;---------------------------------------------------
+; <L>14932<pc>1177-1<k1>Api<k2>Api/<e>100
+68606 old <div n="1">— 2〉 <lex>Adj.</lex> am <ab n="Endung ersten Casus ???">E. e. C.</ab>{%reichend, hindringend%}.
+;
+68606 new <div n="1">— 2〉 <lex>Adj.</lex> am <ab n="Endung ersten Casus ???">E. e. C.</ab> {%reichend, hindringend%}.
+;---------------------------------------------------
+; <L>22598<pc>1276-2<k1>o<k2>o/<h>3<e>000
+106037 old <hom>3.</hom> {#o/#}¦ <ls n="Chr.">6,7</ls>. <ls n="Chr.">18,22</ls> = <hom>2.</hom> {#A/#} + <hom>2.</hom>{#u#}
+;
+106037 new <hom>3.</hom> {#o/#}¦ <ls n="Chr.">6,7</ls>. <ls n="Chr.">18,22</ls> = <hom>2.</hom> {#A/#} + <hom>2.</hom> {#u#}
+;---------------------------------------------------
+; <L>31072<pc>2103-3<k1>koRavftta<k2>koRavftta<e>100
+148279 old {#koRavftta#}¦ <lex>n.</lex> {%ein von <ab n="???">NO</ab> nach <ab n="???">SW</ab> oder von <ab n="???">NW</ab> nach <ab n="???">SO</ab> gezogener Verticalkreis%} <ls>GOLĀDHY. 7,36</ls>.
+;
+148279 new {#koRavftta#}¦ <lex>n.</lex> {%ein von <ab n="Nord-Ost">NO</ab> nach <ab n="Süd-West">SW</ab> oder von <ab n="Nord-West">NW</ab> nach <ab n="Süd-Ost">SO</ab> gezogener Verticalkreis%} <ls>GOLĀDHY. 7,36</ls>.
+;---------------------------------------------------
+; <L>40660<pc>2237-3<k1>cEtanya<k2>cEtanya<e>100
+197663 old <div n="1">— 2〉 <lex>m.</lex> <ab>N. pr.</ab> eines 1484 <ab n="nach">n.</ab> <ab n="???">Chr.</ab> geborenen Propheten.
+;
+197663 new <div n="1">— 2〉 <lex>m.</lex> <ab>N. pr.</ab> eines 1484 <ab n="nach Christus">n. Chr.</ab> geborenen Propheten.
+;---------------------------------------------------
+; <L>69250<pc>4115-1<k1>pUrvABAdrapadA<k2>pUrvABAdrapadA<e>100
+340332 old {#pUrvABAdrapadA#}¦ <lex>f.</lex> {%das 25te Mondhaus%} <ls>MBH. 13,64,31</ls>. <ab>v. l.</ab>{#pUrvaBA°#}.
+;
+340332 new {#pUrvABAdrapadA#}¦ <lex>f.</lex> {%das 25te Mondhaus%} <ls>MBH. 13,64,31</ls>. <ab>v. l.</ab> {#pUrvaBA°#}.
+;---------------------------------------------------
+; <L>109216<pc>6191-2<k1>SakakAla<k2>SakakAla<e>100
+542467 old {#SakakAla#}¦ <lex>m.</lex> {%die%} <is>Śaka</is>-{%Aera%} (78 <ab n="nach">n.</ab> <ab n="???">Chr.</ab>).
+;
+542467 new {#SakakAla#}¦ <lex>m.</lex> {%die%} <is>Śaka</is>-{%Aera%} (78 <ab n="nach Christus">n. Chr.</ab>).
+;---------------------------------------------------
+; <L>109535<pc>6195-3<k1>SaMkarAcArya<k2>SaMkarAcArya<e>100
+543973 old {#SaMkarAcArya#}¦ <lex>m.</lex> <ab>N. pr.</ab> eines berühmten Gelehrten, gestorben 820 <ab n="nach">n.</ab> <ab n="???">Chr.</ab> (<ls>Ind. Antiq. 11,175</ls>), der eine Menge von Schriften, namentlich Commentare zu philosophischen Werken, verfasste.
+;
+543973 new {#SaMkarAcArya#}¦ <lex>m.</lex> <ab>N. pr.</ab> eines berühmten Gelehrten, gestorben 820 <ab n="nach Christus">n. Chr.</ab> (<ls>Ind. Antiq. 11,175</ls>), der eine Menge von Schriften, namentlich Commentare zu philosophischen Werken, verfasste.
+;---------------------------------------------------
+; <L>127858<pc>7166-2<k1>suvarRaBU<k2>suvarRaBU<e>100
+633623 old {#suvarRaBU#}¦ <lex>f.</lex> {%Goldland,%} <ab>Bez.</ab> eines nach <ab n="???">NO</ab> verlegten Landes.
+;
+633623 new {#suvarRaBU#}¦ <lex>f.</lex> {%Goldland,%} <ab>Bez.</ab> eines nach <ab n="Nord-Ost">NO</ab> verlegten Landes.
+;---------------------------------------------------
+; <L>132000<pc>7231-2<k1>svagocara<k2>svagocara<e>100
+654886 old {#svagocara#}¦ <lex>Adj.</lex> {%sich unterthan%}. <ab>Acc.</ab> mit {#kar#} {%Jmd%} (<ab>Acc.</ab>) {%sich <ab n="???">u.</ab> machen%}.
+;
+654886 new {#svagocara#}¦ <lex>Adj.</lex> {%sich unterthan%}. <ab>Acc.</ab> mit {#kar#} {%Jmd%} (<ab>Acc.</ab>) {%sich <ab n="unterthan">u.</ab> machen%}.
+;---------------------------------------------------
+; <L>93119<pc>5176-1<k1>rahasyatraya<k2>rahasyatraya<e>100
+459303 old {#rahasyatraya#}<lex>n.</lex>, {#°culuka#} <lex>m.</lex>, {#°cUqAmaRi#} <lex>m.</lex>, {#°mImAMsA#} <lex>f.</lex>, {#°sAra#} <lex>m.</lex>, {#°sAradIpikA#} <lex>f.</lex> und {#rahasyadIpikA#} <lex>f.</lex>¦ Titel von Werken <ls>BURNELL, T.</ls> <ls>OPP. CAT. 1</ls>.
+;
+459303 new {#rahasyatraya#} <lex>n.</lex>, {#°culuka#} <lex>m.</lex>, {#°cUqAmaRi#} <lex>m.</lex>, {#°mImAMsA#} <lex>f.</lex>, {#°sAra#} <lex>m.</lex>, {#°sAradIpikA#} <lex>f.</lex> und {#rahasyadIpikA#} <lex>f.</lex>¦ Titel von Werken <ls>BURNELL, T.</ls> <ls>OPP. CAT. 1</ls>.

@@ -353,8 +353,40 @@ revised form for AB:
 
 
 ************************************************************
+09-04-2023
+temp_pw_ab_4.txt and temp_pw_4.txt
+cd ../
+cp temp_pw_ab_3.txt temp_pw_ab_4.txt
+cp temp_pw_3.txt temp_pw_4.txt
+
+Ref: https://github.com/sanskrit-lexicon/PWK/issues/88#issuecomment-1704004332
+
 --------------------------------
 <L>9297<pc>1108-3<k1>arkASvameDa
 <is n="Arka">A.</is>  and similar.  Print code must handle
   this as a local abbreviation (i.e. provide a tooltip)
 ---
+0,1	a. u.=???	`<ab n="???">a. u.</ab> ;; could this be "u. a." instead?`
+  a. u. not changed
++ 0,3	Chr.=???	`<ab n="nach">n.</ab> <ab n="???">Chr.</ab> ;; <ab n="nach Christus">n. Chr.</ab>`
++ 3,3	N. N.=???	`<ab n="???">N. N.</ab> ;; <ab n="Nomen Nescio">N. N.</ab>`
++ 0,2	NO=???	`<ab n="???">NO</ab> ;; <ab n="Nord-Ost">NO</ab>`
++ 0,1	NW=???	`<ab n="???">NW</ab> ;; <ab n="Nord-West">NW</ab>`
++ 0,1	SO=???	`<ab n="???">SO</ab> ;; <ab n="Süd-Ost">SO</ab>`
++ 0,1	SW=???	`<ab n="???">SW</ab> ;; <ab n="Süd-West">SW</ab>`
++ 0,1	u.=???	`<ab n="???">u.</ab> ;; <ab n="unterthan">u.</ab>`
+
+'>{' -> '> {'  3 in pw_ab_, 12 in pw_
+'}<' -> '} <'  1 in pw_ab_, 16 in pw_
+=============================
+ 
+python diff_to_changes_dict.py temp_pw_3.txt temp_pw_4.txt temp_change_4.txt
+36 changes written to temp_change_4.txt
+
+touch change_pw_4.txt
+insert temp_change_4.txt
+
+python diff_to_changes_dict.py temp_pw_ab_3.txt temp_pw_ab_4.txt temp_change_ab_4.txt
+12 changes written to temp_change_ab_4.txt
+touch change_pw_ab_4.txt
+insert temp_change_ab_4.txt
