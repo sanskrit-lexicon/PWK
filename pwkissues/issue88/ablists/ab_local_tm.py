@@ -4,7 +4,7 @@
 from __future__ import print_function
 import sys, re,codecs
 import digentry  
-
+ 
 def write_outrecs(fileout,outrecs):
  with codecs.open(fileout,"w","utf-8") as f:
   for outarr in outrecs:
