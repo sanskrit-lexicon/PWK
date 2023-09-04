@@ -390,3 +390,7 @@ python diff_to_changes_dict.py temp_pw_ab_3.txt temp_pw_ab_4.txt temp_change_ab_
 12 changes written to temp_change_ab_4.txt
 touch change_pw_ab_4.txt
 insert temp_change_ab_4.txt
+******************************************************
+09-04-2023
+python ab_local_tm.py ../temp_pw_4.txt ab_local_tm_0.txt
+843 entries contain a local abbreviation
