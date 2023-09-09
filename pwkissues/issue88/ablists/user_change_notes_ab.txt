@@ -1,0 +1,94 @@
+09-09-2023
+These notes describe changes made in csl-orig/v02/pw/pw.txt from
+user corrections.
+Comparable changes need to be made to the AB version (my local temp_pw_ab_4.txt)
+--- 1
+; <L>12184<pc>1143-2<k1>as
+line 55892
+old: <div n="1">— 6) {#saMlyasta#}
+new: <div n="1">— 6) {#saMnyasta#}
+--- 2
+; <L>17279<pc>1208-3<k1>iz
+line 80283
+old: yadi mAM a jIvitumicCasi
+new: yadi mAM ca jIvitumicCasi
+--- 3
+; <L>17429<pc>1211-1<k1>Ikz
+line 80997
+old: <div n="1">— 4) {%achte —
+new: <div n="1">— 4) {%achten —
+--- 4
+; <L>37314<pc>2189-1<k1>graB
+line 180037
+old:  {#pakzaMn grah#} {%Jmds Seite
+new:  {#pakzaM grah#} {%Jmds Seite
+--- 5
+; <L>39903<pc>2227-2<k1>citta
+line 193844
+old: 1) <lex>Adj.</lex> <ab>s.u.</ab> 4. {#cita#}
+new: 1) <lex>Adj.</lex> <ab>s.u.</ab> 4. {#cit#}
+--- 6
+; <L>41636<pc>2252-3<k1>janman
+line 202858
+old: Sudrajanman#} <lex>m.</lex> {%ein von einem
+new: SUdrajanman#} <lex>m.</lex> {%ein von einem 
+--- 7
+; <L>41676<pc>2253-2<k1>japa
+line 203079
+old: ein auf diese Weiser hergesagtes Gebet
+new: ein auf diese Weise hergesagtes Gebet
+--- 8
+; <L>49180<pc>3073-2<k1>darSin
+line 240762
+old: {%sehend, gewahr, werdend, ansehend, gesehen, habend.%}
+new: {%sehend, gewahr werdend, ansehend, gesehen habend%}.
+--- 9
+; <L>49183<pc>3073-2<k1>darh
+line 240786
+old: 3) {#da/hyati °te#}
+new: 3) {#df/hyati °te#}
+line 240787
+old: {#*derhati (vfdDO)#}
+new: {#*darhati (vfdDO)#}
+line 240789
+old: hart stark%} (von Sachen und Personen).
+new: hart, stark%} (von Sachen und Personen).
+line 240793
+old: e) {%heftig stark, intensiv
+new: e) {%heftig, stark, intensiv
+--- 10
+line 240796
+old: 6) {#daQa/m#}
+new: 6) {#dfQa/m#}
+line 240800
+old: {#df/Mhita#} und {#*dahita#}
+new: {#df/Mhita#} und {#*dfhita#} 
+--- 12
+line 249010
+; <L>50773<pc>3097-1<k1>duHKa
+old: {%unbehaglich unangenehm, widerwärtig
+new; {%unbehaglich, unangenehm, widerwärtig
+--- 13
+; <L>88944<pc>5108-1<k1>mEtrIkaruRAnudita
+line 437931
+old: <L>88944<pc>5108-1<k1>mEtrIkaruRAnudita<k2>mEtrIkaruRAnudita<e>100
+new: <L>88944<pc>5108-1<k1>mEtrIkaruRAmudita<k2>mEtrIkaruRAmudita<e>100
+line 437932
+old: {#mEtrIkaruRAmudita#}
+new: {#mEtrIkaruRAmudita#}
+--- 14
+; <L>114543<pc>6264-1<k1>SOdrakAyaRa
+line 568452
+old: von {#Sudraka#}
+new: von {#SUdraka#}
+--- 15
+; <L>114544<pc>6264-1<k1>SOdrAyaRa
+line 568456
+old: von {#Sudra#}.
+new: von {#SUdra#}.
+--- 16
+; <L>117256<pc>7013-2<k1>sakfta
+line 581823
+old: {#SudraSAsana#}
+new: {#SUdraSAsana#}
+; 

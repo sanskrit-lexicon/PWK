@@ -70,3 +70,108 @@
 459303 old {#rahasyatraya#}<lex>n.</lex>, {#°culuka#} <lex>m.</lex>, {#°cUqAmaRi#} <lex>m.</lex>, {#°mImAMsA#} <lex>f.</lex>, {#°sAra#} <lex>m.</lex>, {#°sAradIpikA#} <lex>f.</lex> und {#rahasyadIpikA#} <lex>f.</lex>¦ Titel von Werken <ls>BURNELL, T.</ls> <ls>OPP. CAT. 1</ls>.
 ;
 459303 new {#rahasyatraya#} <lex>n.</lex>, {#°culuka#} <lex>m.</lex>, {#°cUqAmaRi#} <lex>m.</lex>, {#°mImAMsA#} <lex>f.</lex>, {#°sAra#} <lex>m.</lex>, {#°sAradIpikA#} <lex>f.</lex> und {#rahasyadIpikA#} <lex>f.</lex>¦ Titel von Werken <ls>BURNELL, T.</ls> <ls>OPP. CAT. 1</ls>.
+; ****************************************************
+; user corrections for PW. See user_change_notes_ab.txt (20)
+; ****************************************************
+; <L>12184<pc>1143-2<k1>as<k2>as<h>2<e>500
+55892 old <div n="1">— 6〉 {#saMlyasta#} {%hingestreckt, ausgestreckt, ausgebreitet, hingelagert%}.
+;
+55892 new <div n="1">— 6〉 {#saMnyasta#} {%hingestreckt, ausgestreckt, ausgebreitet, hingelagert%}.
+;---------------------------------------------------
+; <L>17279<pc>1208-3<k1>iz<k2>iz<h>3<e>500
+80283 old <div n="3">— α〉 in <ab>act.</ab> <ab>Bed.</ab> {#yadi mAM a jIvitumicCasi#} (<ab>v. l.</ab> {#cejjAvantam#}) {%wenn du wünschest, dass ich am Leben bleibe%}.
+;
+80283 new <div n="3">— α〉 in <ab>act.</ab> <ab>Bed.</ab> {#yadi mAM ca jIvitumicCasi#} (<ab>v. l.</ab> {#cejjAvantam#}) {%wenn du wünschest, dass ich am Leben bleibe%}.
+;---------------------------------------------------
+; <L>17429<pc>1211-1<k1>Ikz<k2>Ikz<e>500
+80997 old <div n="1">— 4〉 {%achte —, Rücksicht nehmen auf%} (<ab>Acc.</ab>) <ls n="Chr.">112,28</ls>.
+;
+80997 new <div n="1">— 4〉 {%achten —, Rücksicht nehmen auf%} (<ab>Acc.</ab>) <ls n="Chr.">112,28</ls>.
+;---------------------------------------------------
+; <L>37314<pc>2189-1<k1>graB<k2>graB<e>500
+180037 old <div n="1">— 1〉 {%ergreifen, mit der Hand fassen, fassen%} (von einem Blutegel <ls n="Chr.">217,32</ls>. <ls n="Chr. 217,">33</ls>. <ls n="Chr.">218,1</ls>), {%packen, festhalten%} <ls n="Chr.">310,3</ls>. {#kare, pARO#} {%Jmd%} (<ab>Acc.</ab>) {%bei der Hand fassen;%} ausnahmsweise auch mit doppeltem <ab>Acc.</ab> {#paRim#} {%die Hand fassen,%} <ab>insbes.</ab> bei der Heirathsceremonie. {#gfhya#} <ab>Absol.</ab> {%ergriffen habend,%} so <ab>v. a.</ab> {%mit sich —, bei sich führend, mit%}. {#gfhIta#} am Anfange eines <ab>adj. Comp.</ab> {%mit ergriffenem%} —, so <ab>v. a.</ab> — {%mit sich führend, — bei sich habend, — haltend;%} bisweilen auch in verstellter Ordnung ({#°gfhIta#} <ls>LALIT. 246,3</ls>. <ls>KĀRAṆḌ. 75,1</ls>). {#pakzaMn grah#} {%Jmds Seite —, Partei ergreifen für%} ({#arTe#}). Mit einem <ab>Abl.</ab> {%nehmen von%} <ls n="Chr.">113,1</ls>.
+;
+180037 new <div n="1">— 1〉 {%ergreifen, mit der Hand fassen, fassen%} (von einem Blutegel <ls n="Chr.">217,32</ls>. <ls n="Chr. 217,">33</ls>. <ls n="Chr.">218,1</ls>), {%packen, festhalten%} <ls n="Chr.">310,3</ls>. {#kare, pARO#} {%Jmd%} (<ab>Acc.</ab>) {%bei der Hand fassen;%} ausnahmsweise auch mit doppeltem <ab>Acc.</ab> {#paRim#} {%die Hand fassen,%} <ab>insbes.</ab> bei der Heirathsceremonie. {#gfhya#} <ab>Absol.</ab> {%ergriffen habend,%} so <ab>v. a.</ab> {%mit sich —, bei sich führend, mit%}. {#gfhIta#} am Anfange eines <ab>adj. Comp.</ab> {%mit ergriffenem%} —, so <ab>v. a.</ab> — {%mit sich führend, — bei sich habend, — haltend;%} bisweilen auch in verstellter Ordnung ({#°gfhIta#} <ls>LALIT. 246,3</ls>. <ls>KĀRAṆḌ. 75,1</ls>). {#pakzaM grah#} {%Jmds Seite —, Partei ergreifen für%} ({#arTe#}). Mit einem <ab>Abl.</ab> {%nehmen von%} <ls n="Chr.">113,1</ls>.
+;---------------------------------------------------
+; <L>39903<pc>2227-2<k1>citta<k2>citta/<e>100
+193844 old <div n="1">— 1〉 <lex>Adj.</lex> <ab>s. u.</ab> <hom>4.</hom> {#cita#}.
+;
+193844 new <div n="1">— 1〉 <lex>Adj.</lex> <ab>s. u.</ab> <hom>4.</hom> {#cit#}.
+;---------------------------------------------------
+; <L>41636<pc>2252-3<k1>janman<k2>ja/nman<e>100
+202858 old <div n="1">— 1〉 {%Geburt, Entstehung, Ursprung%}. {#mahat#} {%hohe Geburt%} <ls>Spr. 7825</ls>. {#kftajanman#} <lex>Adj.</lex> {%gepflanzt%}. {#Sudrajanman#} <lex>m.</lex> {%ein von einem%} <is>Śūdra</is> {%Erzeugter,%} = {#SUdra#}.
+;
+202858 new <div n="1">— 1〉 {%Geburt, Entstehung, Ursprung%}. {#mahat#} {%hohe Geburt%} <ls>Spr. 7825</ls>. {#kftajanman#} <lex>Adj.</lex> {%gepflanzt%}. {#SUdrajanman#} <lex>m.</lex> {%ein von einem%} <is>Śūdra</is> {%Erzeugter,%} = {#SUdra#}.
+;---------------------------------------------------
+; <L>41676<pc>2253-2<k1>japa<k2>ja/pa<e>100
+203079 old <div n="1">— 2〉 <lex>m.</lex> {%das halblaute Aufsagen eines Gebets, Liedes%} <ab>u. s. w.</ab> {%ein auf diese Weiser hergesagtes Gebet%}.
+;
+203079 new <div n="1">— 2〉 <lex>m.</lex> {%das halblaute Aufsagen eines Gebets, Liedes%} <ab>u. s. w.</ab> {%ein auf diese Weise hergesagtes Gebet%}.
+;---------------------------------------------------
+; <L>49180<pc>3073-2<k1>darSin<k2>darSin<e>100
+240762 old <div n="1">— 1〉 {%sehend, gewahr, werdend, ansehend, gesehen, habend%}.
+;
+240762 new <div n="1">— 1〉 {%sehend, gewahr werdend, ansehend, gesehen habend%}.
+;---------------------------------------------------
+; <L>49183<pc>3073-2<k1>darh<k2>darh<e>500
+240786 old <div n="1">— 3〉 {#da/hyati °te#} {%fest sein%}.
+;
+240786 new <div n="1">— 3〉 {#df/hyati °te#} {%fest sein%}.
+;---------------------------------------------------
+; <L>49183<pc>3073-2<k1>darh<k2>darh<e>500
+240787 old <div n="1">— 4〉 *{#derhati#} ({#vfdDO#}).
+;
+240787 new <div n="1">— 4〉 *{#darhati#} ({#vfdDO#}).
+;---------------------------------------------------
+; <L>49183<pc>3073-2<k1>darh<k2>darh<e>500
+240789 old <div n="2">— a〉 {%fest, feststehend, nicht leicht zerbrechend, keinen Schwankungen unterworfen, Widerstand leistend, nicht nachgebend, hart stark%} (von Sachen und Personen).
+;
+240789 new <div n="2">— a〉 {%fest, feststehend, nicht leicht zerbrechend, keinen Schwankungen unterworfen, Widerstand leistend, nicht nachgebend, hart, stark%} (von Sachen und Personen).
+;---------------------------------------------------
+; <L>49183<pc>3073-2<k1>darh<k2>darh<e>500
+240793 old <div n="2">— e〉 {%heftig stark, intensiv, bedeutend%}.
+;
+240793 new <div n="2">— e〉 {%heftig, stark, intensiv, bedeutend%}.
+;---------------------------------------------------
+; <L>49183<pc>3073-2<k1>darh<k2>darh<e>500
+240796 old <div n="1">— 6〉 {#daQa/m#} <lex>Adv.</lex>
+;
+240796 new <div n="1">— 6〉 {#dfQa/m#} <lex>Adv.</lex>
+;---------------------------------------------------
+; <L>49183<pc>3073-2<k1>darh<k2>darh<e>500
+240800 old <div n="1">— 1〉 {#daMhayati#} {%festmachen, feststellen%}. {#df/Mhita#} und *{#dahita#} {%befestigt, fest%}.
+;
+240800 new <div n="1">— 1〉 {#daMhayati#} {%festmachen, feststellen%}. {#df/Mhita#} und *{#dfhita#} {%befestigt, fest%}.
+;---------------------------------------------------
+; <L>50773<pc>3097-1<k1>duHKa<k2>duHKa/<e>100
+249010 old <div n="1">— 1〉 <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%unbehaglich unangenehm, widerwärtig, mit Ungemach verbunden%} <ls n="Chr.">91,28</ls>. Mit einem <ab>Infin.</ab> {%unangenehm zu%}. {#duHKatara#} {%unbehaglicher, mit mehr Ungemach verbunden%}.
+;
+249010 new <div n="1">— 1〉 <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%unbehaglich, unangenehm, widerwärtig, mit Ungemach verbunden%} <ls n="Chr.">91,28</ls>. Mit einem <ab>Infin.</ab> {%unangenehm zu%}. {#duHKatara#} {%unbehaglicher, mit mehr Ungemach verbunden%}.
+;---------------------------------------------------
+; <L>88944<pc>5108-1<k1>mEtrIkaruRAnudita<k2>mEtrIkaruRAnudita<e>100
+437931 old <L>88944<pc>5108-1<k1>mEtrIkaruRAnudita<k2>mEtrIkaruRAnudita<e>100
+;
+437931 new <L>88944<pc>5108-1<k1>mEtrIkaruRAmudita<k2>mEtrIkaruRAmudita<e>100
+;---------------------------------------------------
+; <L>88944<pc>5108-1<k1>mEtrIkaruRAnudita<k2>mEtrIkaruRAnudita<e>100
+437932 old {#mEtrIkaruRAnudita#}¦ <lex>m.</lex> {%ein <ab>best.</ab>%} <is>Samādhi</is> <ls>KĀRAṆḌ. 83,9</ls>.
+;
+437932 new {#mEtrIkaruRAmudita#}¦ <lex>m.</lex> {%ein <ab>best.</ab>%} <is>Samādhi</is> <ls>KĀRAṆḌ. 83,9</ls>.
+;---------------------------------------------------
+; <L>114543<pc>6264-1<k1>SOdrakAyaRa<k2>*SOdrakAyaRa<e>100
+568452 old *{#SOdrakAyaRa#}¦ <lex>m.</lex> <ab>Patron.</ab> von {#Sudraka#}.
+;
+568452 new *{#SOdrakAyaRa#}¦ <lex>m.</lex> <ab>Patron.</ab> von {#SUdraka#}.
+;---------------------------------------------------
+; <L>114544<pc>6264-1<k1>SOdrAyaRa<k2>*SOdrAyaRa<e>100
+568456 old *{#SOdrAyaRa#}¦ <lex>m.</lex> <ab>Patron.</ab> von {#Sudra#}. Auch. <ab>Pl.</ab> {#°Bakta#} <lex>Adj.</lex> {%von solchen bewohnt%}.
+;
+568456 new *{#SOdrAyaRa#}¦ <lex>m.</lex> <ab>Patron.</ab> von {#SUdra#}. Auch. <ab>Pl.</ab> {#°Bakta#} <lex>Adj.</lex> {%von solchen bewohnt%}.
+;---------------------------------------------------
+; <L>117256<pc>7013-2<k1>sakfta<k2>*sakfta<e>100
+581823 old *{#sakfta#}¦ <lex>n.</lex> = {#SudraSAsana#}. <ab>Vgl.</ab> {#makuti#}.
+;
+581823 new *{#sakfta#}¦ <lex>n.</lex> = {#SUdraSAsana#}. <ab>Vgl.</ab> {#makuti#}.
+;---------------------------------------------------
+; ****************************************************
+; ****************************************************

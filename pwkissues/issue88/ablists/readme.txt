@@ -394,3 +394,10 @@ insert temp_change_ab_4.txt
 09-04-2023
 python ab_local_tm.py ../temp_pw_4.txt ab_local_tm_0.txt
 843 entries contain a local abbreviation
+******************************************************
+09-09-2023
+User corrections to pw.  20 lines changed
+These are reflected in ../change_pw_4.txt and change_pw_ab_4.txt.
+See also user_change_notes.txt and user_change_notes_ab.txt
+******************************************************
+

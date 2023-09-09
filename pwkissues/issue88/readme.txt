@@ -109,7 +109,26 @@ sh redo_dev.sh ab_2
  confirms that temp_pw_ab_2.txt generates valid xml.
 sh redo_prod.sh 2
  confirms that temp_pw_2.txt generates valid xml.
+
 ====================================================================
+
+python diff_to_changes_dict.py temp_pw_ab_0.txt temp_pw_ab_2.txt change_pw_ab_2.txt
+673 changes written to change_pw_ab_2.txt
+
+
+====================================================================
+The changes from version 2 to version 3 are
+change_pw_3.txt and change_pw_ab_3.txt
+ablists/readme.txt may provide some details.
+
+The changes from version 3 to version 4 are
+change_pw_4.txt and change_pw_ab_4.txt
+Refer ablists/readme.txt
+====================================================================
+sh redo_dev.sh ab_4
+ confirms that temp_pw_ab_4.txt generates valid xml.
+sh redo_prod.sh 4
+ confirms that temp_pw_4.txt generates valid xml.
 ====================================================================
 ====================================================================
 ====================================================================

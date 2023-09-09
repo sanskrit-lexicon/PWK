@@ -1,0 +1,90 @@
+09-08-2023
+These notes describe changes made in csl-orig/v02/pw/pw.txt from
+user corrections.
+Comparable changes need to be made to the _4 versions of pw.
+See readme.txt for details.
+--- 1
+; <L>17279<pc>1208-3<k1>iz<
+81147
+old: yadi mAM a jIvitumicCasi
+new: yadi mAM ca jIvitumicCasi
+--- 2
+; <L>17429<pc>1211-1<k1>Ikz
+81870
+old: <div n="1">— 4) {%achte —
+new: <div n="1">— 4) {%achten —
+--- 3
+; <L>12184<pc>1143-2<k1>as
+56484
+old: <div n="1">— 6) {#saMlyasta#}
+new: <div n="1">— 6) {#saMnyasta#}
+--- 4
+; <L>37314<pc>2189-1<k1>graB
+old:  {#pakzaMn grah#} {%Jmds Seite
+new:  {#pakzaM grah#} {%Jmds Seite
+--- 5
+; <L>39903<pc>2227-2<k1>citta
+old: 1) <lex>Adj.</lex> <ab>s.u.</ab> 4. {#cita#}
+new: 1) <lex>Adj.</lex> <ab>s.u.</ab> 4. {#cit#}
+--- 6
+; <L>41636<pc>2252-3<k1>janman
+old: Sudrajanman#} <lex>m.</lex> {%ein von einem
+new: SUdrajanman#} <lex>m.</lex> {%ein von einem 
+--- 6a
+; <L>114543<pc>6264-1<k1>SOdrakAyaRa
+old: von {#Sudraka#}
+new: von {#SUdraka#}
+--- 6b
+; <L>114544<pc>6264-1<k1>SOdrAyaRa
+old: von {#Sudra#}.
+new: von {#SUdra#}.
+--- 6c
+; <L>117256<pc>7013-2<k1>sakfta
+old: {#SudraSAsana#}
+new: {#SUdraSAsana#}
+--- 7
+; <L>41676<pc>2253-2<k1>japa
+old: ein auf diese Weiser hergesagtes Gebet
+new: ein auf diese Weise hergesagtes Gebet
+--- 8
+; <L>49180<pc>3073-2<k1>darSin
+old: {%sehend , gewahr , werdend , ansehend , gesehen , habend.%}
+new: {%sehend , gewahr werdend , ansehend , gesehen habend.%}
+--- 9
+; <L>50773<pc>3097-1<k1>duHKa
+old: {%unbehaglich unangenehm , widerwärtig
+new; {%unbehaglich , unangenehm , widerwärtig
+--- 10
+; <L>49183<pc>3073-2<k1>darh
+243521
+old: hart stark%} (von Sachen und Personen).
+new: hart , stark%} (von Sachen und Personen).
+243525
+old: e) {%heftig stark , intensiv
+new: e) {%heftig , stark , intensiv
+--- 11
+; <L>49183<pc>3073-2<k1>darh
+243528
+old: 6) {#daQa/m#}
+new: 6) {#dfQa/m#}
+243532
+old: {#df/Mhita#} und {#*dahita#}
+new: {#df/Mhita#} und {#*dfhita#} 
+--- 12
+; <L>49183<pc>3073-2<k1>darh
+243518
+old: 3) {#da/hyati °te#}
+new: 3) {#df/hyati °te#}
+243519
+old: {#*derhati (vfdDO)#}
+new: {#*darhati (vfdDO)#}
+--- 13
+; <L>88944<pc>5108-1<k1>mEtrIkaruRAnudita
+443130  (the metaline wrong)
+old: <L>88944<pc>5108-1<k1>mEtrIkaruRAnudita<k2>mEtrIkaruRAnudita<e>100
+new: <L>88944<pc>5108-1<k1>mEtrIkaruRAmudita<k2>mEtrIkaruRAmudita<e>100
+443131
+old: {#mEtrIkaruRAmudita#}
+new: {#mEtrIkaruRAmudita#}
+---
+; 
