@@ -1,0 +1,305 @@
+1.	5,5	1ten - first 
+2.	10,10	2ten - second
+3.	25,25	3ten - third
+Abl.	1377,1377	Ablativ - ablative (case)
+absol.	3,3	Absolutiv - absolutive (case)
+Absol.	396,396	Absolutiv - absolutive (case)
+Abstr.	1,1	?- abstract
+abstr.	4,4	? - abstract
+Acc.	4726,4726	Accusativ - accusative (case)
+act.	383,383	Activ - active
+Act.	621,621	Activ - active 
+Adj.	0,0	Adjectiv - adjective
+adj.	0,0	adjectivisch - adjective
+Adj. Comp.	1,1	Adjektivverbindung - adjective compound
+adj. Comp.	1847,1847	Adjektivverbindung - adjective compound
+Adjj.	1,1	Adjektive - adjectives
+Adv.	0,0	Adverb - adverb
+adv.	0,0	? - adverbial
+adv. Comp.	22,22	Adverbverbindung - adverb compound
+Advv.	1,1	Adverbien - adverbs
+anat.	1,1	Anatomie - anatomy
+Anf.	78,78	Anfang - beginning
+Anm.	2,2	Anmerkung - annotation, note
+Anmm.	1,1	Anmerkungen - annotations, notes
+Aor.	75,75	Aorist - aorist
+Arithm.	2,2	Arithmetik - arithmetic
+Astr.	36,36	Astronomie - astronomy
+astr.	45,45	Astronomie - astronomy
+Astrol.	44,44	Astrologie - astrology
+astrol.	107,107	Astrologie - astrology
+Astron.	14,14	Astronomie - astronomy
+astron.	14,14	Astronomie - astronomy
+Ausg.	42,42	Ausgabe - edition
+Ausgg.	13,13	Ausgaben - editions
+Aut.	1,1	? - ?
+Autt.	1,1	? - ?
+Bed.	745,745	Bedeutung - meaning
+Bein.	3402,3402	Beiname - epithet, by name
+Beinn.	7,7	Beinamen - epithets, by names
+Beiw.	476,476	? beiwohnen - attendant
+Beiww.	1,1	? - ?
+Bes.	3,3	Besonders  - special, particular
+bes.	150,150	Besonders  - special, particular
+best.	10048,10048	bestimmte - a certain (kind of)
+Bez.	2308,2308	Bezugnahme - Reference
+Buddh.	10,10	Buddhism - Buddhism
+buddh.	759,759	Buddhism - Buddhism
+Caus.	2594,2594	Causativ - causative
+Chrest.	1,1	Chrestomathie - Chrestomathy
+Cit.	53,53	Citation - citation
+Coll.	2,2	Collectiv - collective, collectively
+coll.	8,8	Collectiv - collective, collectively
+Collect.	6,6	Collectiv - collective, collectively
+collect.	12,12	? - ?
+Comm.	2302,2302	Commentar - commentary
+Comp.	3486,3486	? - compound
+Compar.	217,217	Comparativ - comparative
+compon.	1,1	? - ?
+Compp.	19,19	? - compounds
+concr.	4,4	? - ?
+Condit.	10,10	? Konditional - conditional
+Conj.	221,221	Conjunctiv - subjunctive (mood)
+copul.	1,1	Copulativ - copulative
+copul. Comp.	6,6	? - copulative compound
+Correl.	6,6	Correlativ - correlative
+d. h.	45,45	das heisst - that means
+d. i.	365,365	das ist - i.e. id est - that is
+dass.	1803,1803	dasselbe - the same
+Dat.	961,961	Dativ - dative (case)
+Demin.	45,45	Deminutiv - Diminutive
+Demonstr.	2,2	Demonstrativ - demonstrative
+demonstr.	1,1	Demonstrativ - demonstrative
+Den.	1,1	Denominativ - denominative
+Denom.	48,48	Denominativ - denominative
+Denomin.	55,55	Denominativ - denominative
+dergl.	11,11	dergleichen - the like, similar
+ders.	2,2	derselben - the same
+Desgl.	1,1	desgleichen - likewise
+desgl.	575,575	desgleichen - likewise
+Desid.	475,475	Desiderativ - desiderative
+dgl.	56,56	desgleichen - likewise
+dopp.	4,4	doppelt - double
+Dram.	1,1	Drama - drama
+Du.	552,552	Dual - dual 
+ebd.	1,1	ebenda - ibid. (ibidem) - in the same source
+ebend.	465,465	ebenda - ibid. (ibidem) - in the same source
+ed.	2,2	- edition
+eig.	127,127	? - ?
+enklit.	1,1	? - ?
+ep.	2,2	?Epos - epic literature
+Erkl.	1,1	? erklären  - ? explain
+etc.	15,15	et cetera - and so forth
+Etym.	3,3	Etymologie - etymology
+etym.	6,6	Etymologie - etymology
+euphem.	9,9	Euphemismus - euphemism
+excl.	2,2	? - ?
+f.	0,0	femininum - feminine
+Fem.	3,3	femininum - feminine
+Femin.	2,2	femininum - feminine
+fg.	1,1	 - and following
+fgg.	1,1	 - and following
+fig.	1,1	figürlich - figurative
+fin.	58,58	Finite - finite
+Fut.	76,76	Futurum - Future (tense)
+fut.	78,78	Futurum - Future (tense)
+Gedr.	1,1	gedruckte - printed
+gedr.	242,242	gedruckte - printed
+Gegens.	36,36	Gegensatz - contrast
+gen.	7,7	Genitiv - genitive (case)
+Gen.	1931,1931	Genitiv - genitive (case)
+Geom.	1,1	Geometrie - geometry
+geom.	2,2	Geometrie - geometry
+geometr.	1,1	Geometrie - geometry
+geschr.	28,28	geschrieben - written
+Gramm.	29,29	Grammatik - grammar
+gramm.	36,36	Grammatik - grammar
+Handschrr.	2,2	Handschrift - manuscript
+Hdschr.	39,39	Handschrift - manuscript
+Hdschrr.	32,32	Handschrifte - manuscripts
+hdschrr.	1,1	Handschrifte - manuscripts
+Imper.	20,20	Imperativ - imperative
+imper.	4,4	Imperativ - imperative
+Imperat.	22,22	Imperativ - imperative
+imperat.	1,1	Imperativ - imperative
+Imperf.	25,25	Imperfektum - imperfect tense
+Impers.	4,4	? - ?
+impers.	317,317	? - ?
+inbes.	18,18	?
+Ind.	1,1	Indeclinabilum - indeclinable
+Indecl.	0,0	Indeclinabilum - indeclinable
+indef.	3,3	Indefiniter - indefinite
+Indefin.	1,1	Indefiniter - indefinite
+Indic.	3,3	indikativ - indicative
+Inf.	156,156	Infinitiv - infinitive
+infin.	1,1	Infinitiv - infinitive
+Infin.	465,465	Infinitiv - infinitive
+Insbes.	51,51	insbesondere - in particular
+insbes.	755,755	insbesondere - in particular
+Inschr.	3,3	inschrifte - inscription
+instebs.	1,1	? - ?
+instr.	28,28	Instrumental - instrumental (case)
+Instr.	2167,2167	Instrumental - instrumental (case)
+intens.	1,1	Intensiv - intensive
+Intens.	377,377	Intensiv - intensive
+inter.	1,1	Interrogativ - interrogative
+Interj.	98,98	Interjection - interjection 
+Interr.	4,4	Interrogativ - interrogative
+interr.	9,9	Interrogativ - interrogative
+interrog.	1,1	Interrogativ - interrogative
+Intr.	12,12	 - introduction
+intr.	2,2	 - introduction
+Intrans.	1,1	intransitiv - intransitive
+intrans.	93,93	intransitiv - intransitive
+intransit.	2,2	intransitiv - intransitive
+Jahrh.	4,4	jahrhundert - century
+Jmd.	1,1	Jmden - someone
+Kalb.	1,1	? - ?
+klass.	4,4	klassisch - classical
+liturg.	3,3	liturgisch - liturgical
+Loc.	2700,2700	Locativ - locative case
+m.	0,0	masculinum - masculine
+Masc.	1,1	masculinum - masculine
+masc.	1,1	masculinum - masculine
+Math.	4,4	Mathematik - mathematics
+math.	1,1	Mathematik - mathematics
+Mathem.	2,2	Mathematik - mathematics
+mathem.	3,3	Mathematik - mathematics
+Med.	1331,1331	Medium – ātmanepada
+medic.	60,60	medizin - medicine
+Metron.	298,298	Metronym(Deu.)/Metronymicum(Lat.) - metronym
+Metronn.	2,2	Metronyme(Deu.)/Metronymica(Lat.) - metronyms
+Mss.	1,1	manuskripte - manuscripts
+musik.	24,24	Musikalität, musikalisch  - music, musicla
+N.	76,76	Namen - name
+n.	0,0	neutrum - neuter
+N. ag.	39,39	Nomen agentis - nomen agentis
+n. Chr.	3,3	nach Christus - after Christ
+N. N.	3,3	Nomen Nescio (Latin) - "I do not know the name", someone
+N. Pr.	4,4	Nomen proprium - proper noun
+N. pr.	18539,18539	Nomen proprium - proper noun
+Neg.	3,3	Negativ - negative
+Negat.	1,1	Negativ - negative
+neutr.	1,1	Neutrum - neuter
+Nom.	507,507	Nomen - noun
+Nom. Abstr.	6,6	Nomen abstractum - abstract noun
+Nom. abstr.	2615,2615	Nomen abstractum - abstract noun
+Nom. Ag.	5,5	Nomen agentis - agentive noun
+Nom. ag.	910,910	Nomen agentis - agentive noun
+Nom. pr.	15,15	Nomen proprium - proper noun
+Nomin.	185,185	Nominativ - nominative (case)
+Obj.	43,43	Objekt - object
+obj.	1,1	Objekt - object
+onomat.	3,3	Onomatopöie - onomatopoeia
+Onomatop.	1,1	Onomatopöie - onomatopoeia
+onomatop.	59,59	Onomatopöie - onomatopoeia
+Opt.	3,3	Optativ - optative
+Optat.	1,1	Optativ - optative
+optat.	1,1	Optativ - optative
+ord.	1,1	Ordinálzahl - ordinal (number)
+Ortsadv.	1,1	? - ?
+Oxyt.	1,1	Oxyton - oxytone
+oxyt.	20,20	Oxyton - oxytone
+P.	5,5	Person
+Parox.	3,3	Paroxyton - paroxytone
+parox.	6,6	Paroxyton - paroxytone
+paroxyt.	1,1	Paroxyton - paroxytone
+Part.	1,1	Participium - participle
+Partic.	838,838	Participium - participle
+pass.	237,237	Passiv - passive
+Pass.	443,443	Passiv - passive
+Patron.	2004,2004	Patronym (Deu.)/Patronymicum(Lat.) - patronym
+Patronn.	3,3	Patronyme(Deu.)/Patrnymica (Lat.) - patronyms
+Perf.	50,50	Perfektum - perfect tense
+perf.	11,11	Perfektum - perfect tense
+Pers.	1,1	Person - person
+Personif.	10,10	Personifikation - personification
+personif.	26,26	Personifikation - personification
+Phil.	1,1	Philosophie - philosophy
+philos.	2,2	Philosophie - philosophy
+Pl.	4609,4609	Plural - plural
+poss.	1,1	Possessiv - possessive
+Pot.	1,1	Potentialis - potential mood
+Poten.	1,1	Potentialis - potential mood
+Potent.	71,71	Potentialis - potential mood
+Praep.	46,46	Praeposition - preposition
+Praes.	45,45	Praesens - present
+praes.	11,11	Praesens - present
+Praet.	1,1	Präteritum - preterite
+praet.	21,21	Präteritum - preterite
+Prec.	3,3	Precativ - precative
+priv.	5,5	privativ - privative
+Prol.	3,3	Prolog - prologue
+Pron.	1,1	Pronomen - pronoun
+pron.	1,1	Pronomen - pronoun
+Pronom.	1,1	Pronomen - pronoun
+Pronomm.	2,2	Pronome - pronouns
+proparox.	2,2	Proparoxyton - proparoxytone
+proparoxyt.	1,1	Proparoxyton - proparoxytone
+präd.	2,2	prädikativ - predicative
+Präp.	19,19	Präposition - preposition
+Präpp.	1,1	Präpositionen - prepositions
+Präs.	1,1	Präsentisch - present
+Pt.	1,1	? - ?
+Rec.	3,3	? - recension
+Red.	5,5	? - ?
+redupl.	1,1	Reduplicativ - reduplicative
+refl.	1,1	reflexiv - reflexive
+reflex.	5,5	reflexiv - reflexive
+Rel.	2,2	Relativ - relative
+Relat.	7,7	Relativ - relative
+relat.	1,1	Relativ - relative
+resp.	2,2	respektive - respectively
+Rhet.	22,22	Rhetorik - rhetoric
+rhet.	8,8	Rhetorik - rhetoric
+rit.	3,3	Ritual - ritual
+Roxb.	1,1	 - Roxburgh
+S.	19,19	siehe - please refer, see
+s.	741,741	siehe - please refer, see
+s. d.	1,1	siehe dort - look there
+s. u.	1178,1178	siehe unter - see under
+s. u. d.	2,2	siehe unter die - see under die
+s. v.	1,1	sub verbo (Latin) - see under the word
+sc.	86,86	scilicet (Latin) - that is to say, namely
+Sch.	219,219	- Scholiast or Commentator
+Schol.	37,37	- Scholiast or Commentator
+Sg.	749,749	Singular - singular
+Simpl.	75,75	Simpel - simple
+sog.	3,3	sogenannt - so-called
+St.	3,3	substituiert - substituted
+st.	261,261	substituiert - substituted
+Subj.	5,5	Subjekt - subject
+subj.	2,2	Subjekt - subject
+subst.	4,4	Substantiv - noun
+Subst.	307,307	Substantiv - noun
+Substr.	1,1	? - ?
+Suff.	1,1	Suffix - suffix
+Superl.	220,220	Superlativ - superlative
+term. techn.	1,1	 - technical term
+Trans.	2,2	transitiv - transitive
+trans.	78,78	transitiv - transitive
+transit.	2,2	transitiv - transitive
+u. s. w.	1957,1957	und so weiter - and so on, and so forth = etc.
+Ueberh.	2,2	? - ?
+Uebers.	5,5	uebersetzung - translation
+Uebertr.	3,3	? - ?
+unbest.	4,4	unbestimmt - indefinite, uncertain
+Uneig.	1,1	uneigentlich - unreal
+uneig.	19,19	uneigentlich - unreal
+ungedr.	2,2	ungedrukte - unprinted
+Unterschr.	12,12	unterschrift  - caption, signature
+urspr.	2,2	ursprünglich - originally
+v. a.	4626,4626	vor allem - above all, especially
+v. l.	2563,2563	vide licet - that us to say, namely
+v. u.	98,98	von unten - line number counted from below, from the last line up
+Ved.	1,1	 - Vedic
+Verb.	6,6	Verbum - verb
+Vergl.	1,1	Vergleiche - compare
+Vgl.	2159,2159	Vergleiche - compare
+vgl.	637,637	vergleiche - compare
+viell.	4,4	vielleicht - perhaps
+Voc.	59,59	Vocativ - vocative (case)
+z. B.	151,151	zum Beispiel - for example
+Zahladv.	2,2	Zahlenadverb - number adverb
+überh.	548,548	? - ?
+übertr.	240,240	? - ?

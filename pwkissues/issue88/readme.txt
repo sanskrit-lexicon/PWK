@@ -130,6 +130,109 @@ sh redo_dev.sh ab_4
 sh redo_prod.sh 4
  confirms that temp_pw_4.txt generates valid xml.
 ====================================================================
+
+
+The changes from version 4 to version 5 are
+change_pw_5.txt and change_pw_ab_5.txt
+Refer ablists/readme.txt
+====================================================================
+09-23-2023
+sh redo_dev.sh ab_5
+ confirms that temp_pw_ab_5.txt generates valid xml.
+sh redo_dev.sh 4
+ confirms that temp_pw_5.txt generates valid xml.
+====================================================================
+09-24-2023
+Install temp_pw_5 at cdsl
+  Revise repositories:
+  csl-orig, csp-pywork, csl-websanlexicon, csl-apidev
+====================================================================
+------
+# general abbreviations
+cp  pwab_input_2.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/pw/pywork/pwab/pwab_input.txt
+
+# digitization
+cp temp_pw_5.txt /c/xampp/htdocs/cologne/csl-orig/v02/pw/pw.txt
+
+# basicadjust copied to csl-apidev
+cp /c/xampp/htdocs/cologne/csl-websanlexicon/v02/makotemplates/web/webtc/basicadjust.php /c/xampp/htdocs/cologne/csl-apidev/basicadjust.php
+
+# do local install
+cd ../../csl-pywork/v02
+sh generate_dict.sh pw  ../../pw
+sh xmlchk_xampp.sh pw
+# ok
+cd /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue88
+
+# push repositories to GitHub
+
+----- csl-pywork
+cd /c/xampp/htdocs/cologne/csl-pywork/
+git pull # check for other revisions. Normally no action required
+git status  # v02/distinctfiles/pw/pywork/pwab/pwab_input.txt
+git add .
+git commit -m "PW: Revise pwab_input.txt.
+  Ref: https://github.com/sanskrit-lexicon/PWK/issues/88"
+git push
+
+----- csl-orig
+cd /c/xampp/htdocs/cologne/csl-orig
+git pull # check for other revisions. Normally no action required
+git status  # v02/pw/pw.txt
+git add .
+git commit -m "PW: Revise pw.txt based on temp_pw_5.txt
+  Ref: https://github.com/sanskrit-lexicon/PWK/issues/88"
+git push
+
+----- csl-websanlexicon
+cd /c/xampp/htdocs/cologne/csl-websanlexicon/
+git pull # check for other revisions. Normally no action required
+git status  # v02/makotemplates/web/webtc/basicadjust.php
+git add .
+git commit -m "PW: Revise basicadjust.php
+  Ref: https://github.com/sanskrit-lexicon/PWK/issues/88"
+git push
+
+----- csl-apidev
+cd /c/xampp/htdocs/cologne/csl-apidev/
+git pull # check for other revisions. Normally no action required
+git status  # basicadjust.php  (dalglobclass.php)
+git add basicadjust.php
+git commit -m "PW: Revise basicadjust.php
+  Ref: https://github.com/sanskrit-lexicon/PWK/issues/88"
+git push
+
+----------------------
+update Cologne server
+# login via ssh
+# cd to scans directory
+----
+cd csl-websanlexicon
+git pull
+----
+cd ../csl-pywork
+git pull
+----
+cd ../csl-apidev
+git pull
+----
+cd ../csl-orig
+git pull  # 48000 lines changed!
+----
+# update displays for pw
+cd ../csl-pywork/v02
+grep 'pw ' redo_cologne_all.sh
+# sh generate_dict.sh pw  ../../PWScan/2020/
+
+sh generate_dict.sh pw  ../../PWScan/2020/
+
+----------------------
+# sync this repository to github 
+cd /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue88
+git add .
+git commit -m "temp_pw_5.txt, etc.. #88"
+git push
+
 ====================================================================
 ====================================================================
 

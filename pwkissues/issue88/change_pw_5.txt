@@ -1,0 +1,992 @@
+; <L>51<pc>1001-3<k1>aMhasaspati (; case 1)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=aMhasaspati
+; <ab n="Noth">N.</ab>  ->  <ab n="Name">N.</ab>
+253 old {#aMhasaspati/#}¦ und {#aMhaspati#} <lex>m.</lex> {%Herr der Noth,%} <ab n="Noth">N.</ab> des Schaltmonats.
+;
+253 new {#aMhasaspati/#}¦ und {#aMhaspati#} <lex>m.</lex> {%Herr der Noth,%} <ab n="Name">N.</ab> des Schaltmonats.
+; ---------------------------------------------------------
+;
+; <L>1450<pc>1018-1<k1>aYjali (; case 4)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=aYjali
+; <ab n="Händen">H.</ab>  ->  <ab n="Handvoll">H.</ab>
+6798 old {#aYjali/#}¦ <lex>m.</lex> {%die beiden hohl und offen an einander gelegten Hände , zwei Handvoll%} (auch als <ab>best.</ab> Hohlmaass) <ls n="Chr.">37,9.</ls> {#°pAna#} <lex>Adj.</lex> {%aus den Händen trinkend%} , {#mUsikAYjali#} {%die an einander gelegten Vorderpfötchen einer Maus%} , {#kusumAYjali#} {%zwei <ab n="Händen">H.</ab> Blumen%} <ls n="Chr.">290,4.</ls> {#udakAYjali#} <ls n="Chr.">107,23.</ls> {#aYjalimAtra/#} <lex>n.</lex> <ls>ŚAT. BR. 4,5,10,7.</ls> Die Hände hohl an einander legen und dieselben zur Stirn führen ist ein Zeichen der Ehrerbietung und Unterwürfigkeit. <ls n="Chr.">96,12.</ls> {#aYjaliMkar#} <ls>Spr. 7690</ls> (<ab>Med.</ab>). <ls>Chr. 70,31. 176,25.</ls> {#banD#} <ls n="Chr.">314,13.</ls>
+;
+6798 new {#aYjali/#}¦ <lex>m.</lex> {%die beiden hohl und offen an einander gelegten Hände , zwei Handvoll%} (auch als <ab>best.</ab> Hohlmaass) <ls n="Chr.">37,9.</ls> {#°pAna#} <lex>Adj.</lex> {%aus den Händen trinkend%} , {#mUsikAYjali#} {%die an einander gelegten Vorderpfötchen einer Maus%} , {#kusumAYjali#} {%zwei <ab n="Handvoll">H.</ab> Blumen%} <ls n="Chr.">290,4.</ls> {#udakAYjali#} <ls n="Chr.">107,23.</ls> {#aYjalimAtra/#} <lex>n.</lex> <ls>ŚAT. BR. 4,5,10,7.</ls> Die Hände hohl an einander legen und dieselben zur Stirn führen ist ein Zeichen der Ehrerbietung und Unterwürfigkeit. <ls n="Chr.">96,12.</ls> {#aYjaliMkar#} <ls>Spr. 7690</ls> (<ab>Med.</ab>). <ls>Chr. 70,31. 176,25.</ls> {#banD#} <ls n="Chr.">314,13.</ls>
+; ---------------------------------------------------------
+;
+; <L>4027<pc>1047-1<k1>anAhata (; case 9)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=anAhata
+; <ab n="Instrument">Instr.</ab>  ->  <ab n="musikalisches Instrument">musik. Instr.</ab>
+18352 old <div n="2">— a) {%nicht angeschlagen , nicht geschlagen%} (ein <ab>musik.</ab> <ab n="Instrument">Instr.</ab>). {#°hatA dunduBayo vineduH#} <ls>MBH. 5,182,24. 14,80,55.</ls> {#SaNKa#} {%nicht geblasen%} <ls>SIDDH. K.</ls> {#jyA#} {%nicht gespannt%} <ls>MBH. 5,48,102.</ls> {%nicht angeschlagen , von%} einem Laute.
+;
+18352 new <div n="2">— a) {%nicht angeschlagen , nicht geschlagen%} (ein  <ab n="musikalisches Instrument">musik. Instr.</ab>). {#°hatA dunduBayo vineduH#} <ls>MBH. 5,182,24. 14,80,55.</ls> {#SaNKa#} {%nicht geblasen%} <ls>SIDDH. K.</ls> {#jyA#} {%nicht gespannt%} <ls>MBH. 5,48,102.</ls> {%nicht angeschlagen , von%} einem Laute.
+; ---------------------------------------------------------
+;
+; <L>4614<pc>1054-2<k1>anupUrvaSas (; case 12)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=anupUrvaSas
+; <ab n="Ordnung">O.</ab>  ->  <ab n="Ordnung">O.</ab>
+; NO local AB  differences. Other differences found
+21083 old {#anupUrvaSas#}¦ <lex>Adv.</lex> {%der Ordnung nach , nach der <ab n="Ordnung">O.</ab> der%} (<ab>gen.</ab>).
+;
+21083 new {#anupUrvaSas#}¦ <lex>Adv.</lex> {%der Ordnung nach , nach der <ab n="Ordnung">O.</ab> der%} (<ab>Gen.</ab>).
+; ---------------------------------------------------------
+;
+; <L>4685<pc>1055-2<k1>anumata (; case 13)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=anumata
+; <ab n="Einwilligung">E.</ab>  ->  <ab n="Einwilligung">E.</ab>
+; NO local AB  differences. Other differences found
+21406 old {#anumata#}¦ <lex>n.</lex> {%Einwilligung%} , {#°mate#} {%mit <ab n="Einwilligung">E.</ab> von%} (<ab>gen.</ab>).
+;
+21406 new {#anumata#}¦ <lex>n.</lex> {%Einwilligung%} , {#°mate#} {%mit <ab n="Einwilligung">E.</ab> von%} (<ab>Gen.</ab>).
+; ---------------------------------------------------------
+;
+; <L>5235<pc>1062-2<k1>antarA (; case 17)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=antarA
+; OLD local abbrevs:
+;   1: <ab n="das">d.</ab>
+;   2: <ab n="Mal">M.</ab>
+;   3: <ab n="Mal">M.</ab>
+; NEW local abbrevs:
+;   1: <ab n="das">d.</ab>
+;   2: <ab n="Mal">M.</ab>
+;   3: <ab n="das">d.</ab>
+;   4: <ab n="Mal">M.</ab>
+23962 old <div n="2">— f) {%dann und wann.%} {#antarAntarA#} <ab>dass.</ab> <ls>KĀD. 65,9.</ls> {%hie und da%} <ls n="Chr.">136.</ls> {#antarA- antarA - antarA#} {%das eine Mal, <ab n="das">d.</ab> andere <ab n="Mal">M.</ab>, dritte <ab n="Mal">M.</ab>%} <ls n="Chr.">133,1.</ls>
+;
+23962 new <div n="2">— f) {%dann und wann.%} {#antarAntarA#} <ab>dass.</ab> <ls>KĀD. 65,9.</ls> {%hie und da%} <ls n="Chr.">136.</ls> {#antarA- antarA - antarA#} {%das eine Mal, <ab n="das">d.</ab> andere <ab n="Mal">M.</ab>, <ab n="das">d.</ab> dritte <ab n="Mal">M.</ab>%} <ls n="Chr.">133,1.</ls>
+; ---------------------------------------------------------
+;
+; <L>6413<pc>1075-2<k1>apAdAna (; case 21)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=apAdAna
+; <ab n="Stück">St.</ab>  ->  <ab n="Stück">St.</ab>
+; NO local AB  differences. Other differences found
+29285 old <div n="1">— 2) {%das wovon ein Stück abgeschnitten worden ist , das zu rückgebliebene%} <ab n="Stück">St.</ab> <ab>Comm.</ab> zu. <ls>NYĀYAM. 6,4,1.</ls> Dazu <ab>Nom. abstr.</ab> {#°tva#} <lex>n.</lex> <ab>ebend.</ab>
+;
+29285 new <div n="1">— 2) {%das wovon ein Stück abgeschnitten worden ist , das zurückgebliebene%} <ab n="Stück">St.</ab> <ab>Comm.</ab> zu. <ls>NYĀYAM. 6,4,1.</ls> Dazu <ab>Nom. abstr.</ab> {#°tva#} <lex>n.</lex> <ab>ebend.</ab>
+; ---------------------------------------------------------
+;
+; <L>7457<pc>1087-2<k1>aBipradakziRam (; case 26)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=aBipradakziRam
+; <ab n="rechtshin">r.</ab>  ->  <ab n="rechtshin">r.</ab>
+; NO local AB  differences. Other differences found
+34018 old {#aBipradakziRam#}¦ <lex>Adv.</lex> {%rechtshin.%} Mit. {#kar#} und <ab>Acc.</ab> , {%Jmd. <ab n="rechtshin">r.</ab> umwandeln.%}
+;
+34018 new {#aBipradakziRam#}¦ <lex>Adv.</lex> {%rechtshin.%} Mit {#kar#} und <ab>Acc.</ab> , {%Jmd <ab n="rechtshin">r.</ab> umwandeln.%}
+; ---------------------------------------------------------
+;
+; <L>7861<pc>1092-1<k1>aByaDvam (; case 32)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=aByaDvam
+; <ab n="Wege">W.</ab>  ->  <ab n="Weg">W.</ab>
+35916 old {#aByaDvam#}¦ <lex>Adv.</lex> {%nach dem Wege hin , auf den <ab n="Wege">W.</ab>%} {#aByaDve/#} <ab>Loc.</ab> {%auf dem Wege.%}
+;
+35916 new {#aByaDvam#}¦ <lex>Adv.</lex> {%nach dem Wege hin , auf den <ab n="Weg">W.</ab>%} {#aByaDve/#} <ab>Loc.</ab> {%auf dem Wege.%}
+; ---------------------------------------------------------
+;
+; <L>8138<pc>1095-2<k1>amaraMmanya (; case 35)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=amaraMmanya
+; <ab n="für eine Gott">f. e. G.</ab>  ->  <ab n="für einen Gott">f. e. G.</ab>
+37221 old {#amaraMmanya#}¦ <lex>Adj.</lex> {%für eine Gott geltend oder sich <ab n="für eine Gott">f. e. G.</ab> haltend.%}
+;
+37221 new {#amaraMmanya#}¦ <lex>Adj.</lex> {%für einen Gott geltend oder sich <ab n="für einen Gott">f. e. G.</ab> haltend.%}
+; ---------------------------------------------------------
+;
+; <L>8321<pc>1097-2<k1>amuka (; case 36)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=amuka
+; OLD local abbrevs:
+;   1: <ab n="Nomen Nescio">N. N.</ab>
+; NEW local abbrevs:
+38055 old {#amuka#}¦ <lex>Pron.</lex> (<lex>f.</lex> {#A#}) {%der und der%} , die Stelle eine Namens vertretend und unserem <ab n="Nomen Nescio">N. N.</ab> entsprechend
+;
+38055 new {#amuka#}¦ <lex>Pron.</lex> (<lex>f.</lex> {#A#}) {%der und der%} , die Stelle eine Namens vertretend und unserem <ab>N. N.</ab> entsprechend
+; ---------------------------------------------------------
+;
+; <L>8322<pc>1097-2<k1>amukIya (; case 37)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=amukIya
+; OLD local abbrevs:
+;   1: <ab n="Nomen Nescio">N. N.</ab>
+;   2: <ab n="Nomen Nescio">N. N.</ab>
+; NEW local abbrevs:
+38059 old {#amukIya#}¦ <lex>Adj.</lex> {%<ab n="Nomen Nescio">N. N.</ab> gehörig.%} <lex>f.</lex> {#A#} so <ab>v. a.</ab> {%Gattin des <ab n="Nomen Nescio">N. N.</ab>%} so ist wohl zu lesen <ab>st.</ab> {#amukIda#} <ls>Ind. St. 5,370</ls> und {#amukidA#} bei <ls>GOLD.</ls>
+;
+38059 new {#amukIya#}¦ <lex>Adj.</lex> {%<ab>N. N.</ab> gehörig.%} <lex>f.</lex> {#A#} so <ab>v. a.</ab> {%Gattin des <ab>N. N.</ab>%} so ist wohl zu lesen <ab>st.</ab> {#amukIda#} <ls>Ind. St. 5,370</ls> und {#amukidA#} bei <ls>GOLD.</ls>
+; ---------------------------------------------------------
+;
+; <L>14451<pc>1171-1<k1>AdibudDa (; case 64)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=AdibudDa
+; <ab n="nördlich ">nördl.</ab>  ->  <ab n="nördlichen">nördl.</ab>
+66997 old <div n="1">— 2) <lex>m.</lex> <ab>Bez.</ab> {%der obersten Gottheit bei den <ab n="nördlich ">nördl.</ab> Buddhisten.%}
+;
+66997 new <div n="1">— 2) <lex>m.</lex> <ab>Bez.</ab> {%der obersten Gottheit bei den <ab n="nördlichen">nördl.</ab> Buddhisten.%}
+; ---------------------------------------------------------
+;
+; <L>14932<pc>1177-1<k1>Api (; case 66)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=Api
+; <ab n="Endung ersten Casus ???">E. e. C.</ab>  ->  <ab n="Ende eines Compositums">E. e. C.</ab>
+69332 old <div n="1">— 2) <lex>Adj.</lex> am <ab n="Endung ersten Casus ???">E. e. C.</ab> {%reichend , hindringend.%}
+;
+69332 new <div n="1">— 2) <lex>Adj.</lex> am <ab n="Ende eines Compositums">E. e. C.</ab> {%reichend , hindringend.%}
+; ---------------------------------------------------------
+;
+; <L>15831<pc>1187-2<k1>AlApa (; case 69)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=AlApa
+; <ab n="Instrument">Instr.</ab>  ->  <ab n="Instruments">Instr.</ab>
+73591 old <div n="2">— b) {%Gesang%} (der Vögel) , {%Ton%} (eines <ab>musik.</ab> <ab n="Instrument">Instr.</ab>).
+;
+73591 new <div n="2">— b) {%Gesang%} (der Vögel) , {%Ton%} (eines <ab>musik.</ab> <ab n="Instruments">Instr.</ab>).
+; ---------------------------------------------------------
+;
+; <L>15894<pc>1188-1<k1>Ava (; case 70)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=Ava
+; OLD local abbrevs:
+;   1: <ab n="Person">P.</ab>
+; NEW local abbrevs:
+73905 old {#Ava/#}¦ <lex>Pron.</lex> der 1ten <ab n="Person">P.</ab> <ab>Du.</ab> <ab>Nom.</ab> {#Ava/m#} und {#AvAm#} , <ab>Acc.</ab> {#AvA/m#}. <ab>Instr.</ab> <ab>Dat.</ab> <ab>Abl.</ab> {#Ava/ByAm#} <ab>Abl.</ab> auch {#Ava/t#} , <ab>Gen.</ab> <ab>Loc.</ab> {#Ava/yos#}.
+;
+73905 new {#Ava/#}¦ <lex>Pron.</lex> der 1ten <ab>P.</ab> <ab>Du.</ab> <ab>Nom.</ab> {#Ava/m#} und {#AvAm#} , <ab>Acc.</ab> {#AvA/m#}. <ab>Instr.</ab> <ab>Dat.</ab> <ab>Abl.</ab> {#Ava/ByAm#} <ab>Abl.</ab> auch {#Ava/t#} , <ab>Gen.</ab> <ab>Loc.</ab> {#Ava/yos#}.
+; ---------------------------------------------------------
+;
+; <L>16485<pc>1196-1<k1>AsyaMDaMya (; case 75)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=AsyaMDaMya
+; <ab n="Munde">M.</ab>  ->  <ab n="Mund">M.</ab>
+76859 old {#*AsyaMDaMya#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#I#} {%am Munde saugend , den <ab n="Munde">M.</ab> küssend.%}
+;
+76859 new {#*AsyaMDaMya#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#I#} {%am Munde saugend , den <ab n="Mund">M.</ab> küssend.%}
+; ---------------------------------------------------------
+;
+; <L>17193<pc>1207-3<k1>ima (; case 78)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=ima
+; <ab n="Sprache">Spr.</ab>  ->  <ab n="klassischen Sprache">klass. Spr.</ab>
+80693 old {#imA/n#}, {#imA/#} und {#imA/ni#} In der <ab>klass.</ab> <ab n="Sprache">Spr.</ab> nur <ab>Acc.</ab> <ab>Sg.</ab> und <ab>Nom.</ab> <ab>Acc.</ab> <ab>Sg.</ab> <ab>Du.</ab> und <ab>Pl.</ab> {#ime smaH#} {%da sind wir.%} {#yAH#} — {#imAstAH#} <ls>R. 5,13,31.</ls> {#imEs#} (!) <ls>MBH. 1,129,23.</ls> <ls>CARAKA. 607,5.</ls>
+;
+80693 new {#imA/n#}, {#imA/#} und {#imA/ni#} In der  <ab n="klassischen Sprache">klass. Spr.</ab> nur <ab>Acc.</ab> <ab>Sg.</ab> und <ab>Nom.</ab> <ab>Acc.</ab> <ab>Sg.</ab> <ab>Du.</ab> und <ab>Pl.</ab> {#ime smaH#} {%da sind wir.%} {#yAH#} — {#imAstAH#} <ls>R. 5,13,31.</ls> {#imEs#} (!) <ls>MBH. 1,129,23.</ls> <ls>CARAKA. 607,5.</ls>
+; ---------------------------------------------------------
+;
+; <L>18321<pc>1223-3<k1>uttizWAsA (; case 82)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=uttizWAsA
+; <ab n="heiligen Handlung">h. H.</ab>  ->  <ab n="heilige Handlung">h. H.</ab>
+86427 old {#uttizWAsA#}¦ <lex>f.</lex> {%die Absicht vor Vollendung einer heiligen Handlung aufzubrechen , — eine <ab n="heiligen Handlung">h. H.</ab> abzubrechen.%}
+;
+86427 new {#uttizWAsA#}¦ <lex>f.</lex> {%die Absicht vor Vollendung einer heiligen Handlung aufzubrechen , — eine <ab n="heilige Handlung">h. H.</ab> abzubrechen.%}
+; ---------------------------------------------------------
+;
+; <L>18627<pc>1227-3<k1>udakya (; case 87)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=udakya
+; <ab n="menstruirend">m.</ab>  ->  <ab n="menstruirenden">m.</ab>
+87904 old <div n="1">— 2) <lex>f.</lex> {#A#} {%menstruirend.%} {#°gamana#} <lex>n.</lex> {%Beischlaf mit einer <ab n="menstruirend">m.</ab> Frau%} <ls>GAUT. 23,34.</ls>
+;
+87904 new <div n="1">— 2) <lex>f.</lex> {#A#} {%menstruirend.%} {#°gamana#} <lex>n.</lex> {%Beischlaf mit einer <ab n="menstruirenden">m.</ab> Frau%} <ls>GAUT. 23,34.</ls>
+; ---------------------------------------------------------
+;
+; <L>20910<pc>1255-2<k1>uzRasamaya (; case 101)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=uzRasamaya
+; <ab n="heisse Jahreszeit">h. J.</ab>  ->  <ab n="heissen Jahreszeit">h. J.</ab>
+99029 old {#uzRasamaya#}¦ <lex>m.</lex> {%die heisse Jahreszeit.%} Davon <ab>Denom.</ab> {#°SamayAy , °samayAyate#} {%zur <ab n="heisse Jahreszeit">h. J.</ab> werden%} <ls>BĀLAR. 129,3.</ls>
+;
+99029 new {#uzRasamaya#}¦ <lex>m.</lex> {%die heisse Jahreszeit.%} Davon <ab>Denom.</ab> {#°SamayAy , °samayAyate#} {%zur <ab n="heissen Jahreszeit">h. J.</ab> werden%} <ls>BĀLAR. 129,3.</ls>
+; ---------------------------------------------------------
+;
+; <L>21148<pc>1258-1<k1>UrDvamAruta (; case 102)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=UrDvamAruta
+; <ab n="medicinischen">med.</ab>  ->  <ab n="medicinischem">med.</ab>
+100186 old {#UrDvamAruta#}¦ <lex>n.</lex> {%Andrang des Windes%} (in <ab n="medicinischen">med.</ab> Sinn) {%nach oben%} (was Auswurf veranlasst).
+;
+100186 new {#UrDvamAruta#}¦ <lex>n.</lex> {%Andrang des Windes%} (in <ab n="medicinischem">med.</ab> Sinn) {%nach oben%} (was Auswurf veranlasst).
+; ---------------------------------------------------------
+;
+; <L>23121<pc>2001-2<k1>kaMvant (; case 116)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=kaMvant
+; <ab n="heilvoll">h.</ab>  ->  <ab n="heilvollen">h.</ab>
+109604 old {#ka/Mvant#}¦ ( {#ka/mvant#}) <lex>Adj.</lex> {%heilvoll.%} {#ka/Mvati#} {%an einem <ab n="heilvoll">h.</ab> Orte%} <ls>ŚAT. BR. 13,8,1,10.</ls>
+;
+109604 new {#ka/Mvant#}¦ ( {#ka/mvant#}) <lex>Adj.</lex> {%heilvoll.%} {#ka/Mvati#} {%an einem <ab n="heilvollen">h.</ab> Orte%} <ls>ŚAT. BR. 13,8,1,10.</ls>
+; ---------------------------------------------------------
+;
+; <L>25006<pc>2026-3<k1>karRaveDa (; case 125)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=karRaveDa
+; <ab n="religiösen">rel.</ab>  ->  <ab n="religiöse">rel.</ab>
+119446 old {#karRaveDa#}¦ <lex>m.</lex> {%Durchbohrung der Ohren%} (eine <ab>best.</ab> <ab n="religiösen">rel.</ab> Ceremonie).
+;
+119446 new {#karRaveDa#}¦ <lex>m.</lex> {%Durchbohrung der Ohren%} (eine <ab>best.</ab> <ab n="religiöse">rel.</ab> Ceremonie).
+; ---------------------------------------------------------
+;
+; <L>25586<pc>2036-3<k1>kalpa (; case 130)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=kalpa
+; <ab n="medicinischen">med.</ab>  ->  <ab n="medicinischem">med.</ab>
+122803 old <div n="2">— b) {%Verfahren.%} in <ab n="medicinischen">med.</ab> Sinne.
+;
+122803 new <div n="2">— b) {%Verfahren.%} in <ab n="medicinischem">med.</ab> Sinne.
+; ---------------------------------------------------------
+;
+; <L>25638<pc>2037-3<k1>kalpAnta (; case 131)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=kalpAnta
+; <ab n="zum">z.</ab>  ->  <ab n="zur">z.</ab>
+; <ab n="Vernichtung der Welt">V. d. W.</ab>  ->  <ab n="Vernichtung der Welt">V. d. W.</ab>
+123072 old {#kalpAnta#}¦ <lex>m.</lex> {%Ende eines <is>Kalpa</is> , Vernichtung der Welt.%} Am <ab>Anf.</ab> eines <ab>Comp.</ab> auch {%bis <ab n="zum">z.</ab> <ab n="Vernichtung der Welt">V. d. W.</ab>%}
+;
+123072 new {#kalpAnta#}¦ <lex>m.</lex> {%Ende eines <is>Kalpa</is> , Vernichtung der Welt.%} Am <ab>Anf.</ab> eines <ab>Comp.</ab> auch {%bis <ab n="zur">z.</ab> <ab n="Vernichtung der Welt">V. d. W.</ab>%}
+; ---------------------------------------------------------
+;
+; <L>25977<pc>2041-3<k1>kAkakulAyaganDika (; case 135)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=kAkakulAyaganDika
+; <ab n="???">a. u.</ab>  ->  <ab n="a.u. = ab usu - as usual ?">a. u.</ab>
+124754 old {#kAkakulAyaganDika#}¦ <lex>Adj.</lex> {%stinkend wie ein Krähennest%} <ls>AIT. ĀR. 352,3</ls> <ab n="???">a. u.</ab>
+;
+124754 new {#kAkakulAyaganDika#}¦ <lex>Adj.</lex> {%stinkend wie ein Krähennest%} <ls>AIT. ĀR. 352,3</ls> <ab n="a.u. = ab usu - as usual ?">a. u.</ab>
+; ---------------------------------------------------------
+;
+; <L>26020<pc>2042-2<k1>kAkapada (; case 136)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=kAkapada
+; <ab n="diesem ähnlicher">d. ä.</ab>  ->  <ab n="diesem ähnliches">d. ä.</ab>
+124952 old <div n="1">— 4) {%ein  <ab n="diesem ähnlicher">d. ä.</ab> Fundament.%}
+;
+124952 new <div n="1">— 4) {%ein  <ab n="diesem ähnliches">d. ä.</ab> Fundament.%}
+; ---------------------------------------------------------
+;
+; <L>26020<pc>2042-2<k1>kAkapada (; case 136)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=kAkapada
+; <ab n="diesem ähnlicher">d. ä.</ab>  ->  <ab n="diesem ähnliches">d. ä.</ab>
+124953 old <div n="1">— 5) {%das  <ab n="diesem ähnlicher">d. ä.</ab> Auslassungszeichen in den Handschriften.%}
+;
+124953 new <div n="1">— 5) {%das  <ab n="diesem ähnliches">d. ä.</ab> Auslassungszeichen in den Handschriften.%}
+; ---------------------------------------------------------
+;
+; <L>26769<pc>2051-3<k1>kArakatva (; case 137)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=kArakatva
+; <ab n="Erreichen">E.</ab>  ->  <ab n="Etwas">E.</ab>
+128692 old {#kArakatva#}¦ <lex>n.</lex> {%das Erreichen von Etwas , Gelangen zu <ab n="Erreichen">E.</ab>%} <ls n="Chr.">233,10.</ls>
+;
+128692 new {#kArakatva#}¦ <lex>n.</lex> {%das Erreichen von Etwas , Gelangen zu <ab n="Etwas">E.</ab>%} <ls n="Chr.">233,10.</ls>
+; ---------------------------------------------------------
+;
+; <L>27012<pc>2054-3<k1>kAryArTa (; case 140)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=kAryArTa
+; <ab n="Unternehmen">U.</ab>  ->  <ab n="Unternehmens">U.</ab>
+129866 old <div n="1">— 1) <lex>m.</lex> {%Unternehmen.%} {#°sidDi#} <lex>f.</lex> {%das Gelingen eines <ab n="Unternehmen">U.</ab>%}
+;
+129866 new <div n="1">— 1) <lex>m.</lex> {%Unternehmen.%} {#°sidDi#} <lex>f.</lex> {%das Gelingen eines <ab n="Unternehmens">U.</ab>%}
+; ---------------------------------------------------------
+;
+; <L>27050<pc>2055-2<k1>kAla (; case 141)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=kAla
+; OLD local abbrevs:
+;   1: <ab n="mystische">m.</ab>
+; NEW local abbrevs:
+130069 old <div n="2">— i) mystische <ab>Bez.</ab> {%des Lautes <ab n="mystische">m.</ab>%}
+;
+130069 new <div n="2">— i) mystische <ab>Bez.</ab> {%des Lautes m.%}
+; ---------------------------------------------------------
+;
+; <L>33157<pc>2133-1<k1>kzveqa (; case 180)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=kzveqa
+; OLD local abbrevs:
+;   1: <ab n="mystische">m.</ab>
+; NEW local abbrevs:
+160747 old <div n="2">— e) mystische <ab>Bez.</ab> {%des Lautes <ab n="mystische">m.</ab>%}
+;
+160747 new <div n="2">— e) mystische <ab>Bez.</ab> {%des Lautes m.%}
+; ---------------------------------------------------------
+;
+; <L>33164<pc>2133-1<k1>kzvela (; case 181)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=kzvela
+; OLD local abbrevs:
+;   1: <ab n="mystische">m.</ab>
+; NEW local abbrevs:
+160782 old {#kzvela#}¦ <lex>m.</lex> mystische <ab>Bez.</ab> {%des Lautes <ab n="mystische">m.</ab>%}
+;
+160782 new {#kzvela#}¦ <lex>m.</lex> mystische <ab>Bez.</ab> {%des Lautes m.%}
+; ---------------------------------------------------------
+;
+; <L>33553<pc>2137-3<k1>KarIvAtsalya (; case 183)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=KarIvAtsalya
+; <ab n="Mauleselin">M.</ab>  ->  <ab n="Mutterliebe">M.</ab>
+; <ab n="Mauleselin">M.</ab>  ->  <ab n="Mutterliebe">M.</ab>
+162749 old {#KarIvAtsalya#}¦ <lex>m.</lex> {%die Mutterliebe einer Mauleselin (die nie Junge hat) , so <ab>v. a.</ab> eine übelangebrachte <ab n="Mauleselin">M.</ab> , eine <ab n="Mauleselin">M.</ab> für Nichts und wieder Nichts%} <ls>MBH. 5,135,8.</ls>
+;
+162749 new {#KarIvAtsalya#}¦ <lex>m.</lex> {%die Mutterliebe einer Mauleselin (die nie Junge hat) , so <ab>v. a.</ab> eine übelangebrachte <ab n="Mutterliebe">M.</ab> , eine <ab n="Mutterliebe">M.</ab> für Nichts und wieder Nichts%} <ls>MBH. 5,135,8.</ls>
+; ---------------------------------------------------------
+;
+; <L>34390<pc>2148-2<k1>gatAnugatika (; case 186)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=gatAnugatika
+; <ab n="Fussstapfen tretend">F. tr.</ab>  ->  <ab n="Fussstapfen tretend">F. tr.</ab>
+; NO local AB  differences. Other differences found
+166948 old {#gatAnugatika#}¦ <lex>Adj.</lex> {%in die Fussstapfen eines Vorangegangenen tretend , sich nach dem Vorngehen den richtend%} <ls>HARṢAC. 36,13.</ls> {#tadgatA°#} {%in dessen <ab n="Fussstapfen tretend">F. tr.</ab>%} <ls>NAIṢ. 5,55.</ls> <ab>Nom. abstr.</ab> {#°tA#} <lex>f.</lex> <ls>DEŚĪN. 1,2.</ls>
+;
+166948 new {#gatAnugatika#}¦ <lex>Adj.</lex> {%in die Fussstapfen eines Vorangegangenen tretend , sich nach dem Vorangehenden richtend%} <ls>HARṢAC. 36,13.</ls> {#tadgatA°#} {%in dessen <ab n="Fussstapfen tretend">F. tr.</ab>%} <ls>NAIṢ. 5,55.</ls> <ab>Nom. abstr.</ab> {#°tA#} <lex>f.</lex> <ls>DEŚĪN. 1,2.</ls>
+; ---------------------------------------------------------
+;
+; <L>34676<pc>2152-1<k1>gam (; case 188)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=gam
+; <ab n="Manne">M.</ab>  ->  <ab n="Mann">M.</ab>
+168507 old <div n="1">— 4) {%kommen zu , erlangen , erhalten , theilhaftig werden.%} {#bartAram#} {%zu einem Manne kommen , einen <ab n="Manne">M.</ab> nehmen.%} {#kanyAm , dArAn#} {%zur Frau nehmen , heirathen.%} {#°gata#} mit <ab>act.</ab> (!) und <ab>pass.</ab> <ab>Bed.</ab>
+;
+168507 new <div n="1">— 4) {%kommen zu , erlangen , erhalten , theilhaftig werden.%} {#bartAram#} {%zu einem Manne kommen , einen <ab n="Mann">M.</ab> nehmen.%} {#kanyAm , dArAn#} {%zur Frau nehmen , heirathen.%} {#°gata#} mit <ab>act.</ab> (!) und <ab>pass.</ab> <ab>Bed.</ab>
+; ---------------------------------------------------------
+;
+; <L>35314<pc>2164-3<k1>gAyatra (; case 193)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=gAyatra
+; <ab n="ausgezeichnet">ausgez.</ab>  ->  <ab n="ausgezeichneten">ausgez.</ab>
+172252 old <div n="2">— b) {%die <is>Gāyatrī</is> im <ab n="ausgezeichnet">ausgez.</ab> Sinne , der an <is>Savitar</is> gerichtete Vers%} <ls>ṚV. 3,62,10.</ls> Zuweilen auch <ab>Bez.</ab> {%anderer Verse dieses Metrums.%}
+;
+172252 new <div n="2">— b) {%die <is>Gāyatrī</is> im <ab n="ausgezeichneten">ausgez.</ab> Sinne , der an <is>Savitar</is> gerichtete Vers%} <ls>ṚV. 3,62,10.</ls> Zuweilen auch <ab>Bez.</ab> {%anderer Verse dieses Metrums.%}
+; ---------------------------------------------------------
+;
+; <L>36547<pc>2180-1<k1>gotrarikTa (; case 201)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=gotrarikTa
+; <ab n="der Geschlechtsname">d. G.</ab>  ->  <ab n="der Geschlechtsname">d. G.</ab>
+; NO local AB  differences. Other differences found
+178242 old {#gotrarikTa#}¦ <lex>n.</lex> <ab>Du.</ab> {%der Geschlechtsname und das Erde.%} {#°rikTAMSa#} <lex>m.</lex> <ab n="der Geschlechtsname">d. G.</ab> und ein Theil des Erbes.
+;
+178242 new {#gotrarikTa#}¦ <lex>n.</lex> <ab>Du.</ab> {%der Geschlechtsname und das Erbe.%} {#°rikTAMSa#} <lex>m.</lex> <ab n="der Geschlechtsname">d. G.</ab> und ein Theil des Erbes.
+; ---------------------------------------------------------
+;
+; <L>38016<pc>2200-3<k1>GftapAka (; case 210)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=GftapAka
+; <ab n="medicinischen">med.</ab>  ->  <ab n="medicinisches">med.</ab>
+186009 old {#GftapAka#}¦ <lex>m.</lex> {%ein <ab>best.</ab> <ab n="medicinischen">med.</ab> Schmalzpräparat%} <ls>Mat. med. 14.</ls>
+;
+186009 new {#GftapAka#}¦ <lex>m.</lex> {%ein <ab>best.</ab> <ab n="medicinisches">med.</ab> Schmalzpräparat%} <ls>Mat. med. 14.</ls>
+; ---------------------------------------------------------
+;
+; <L>38566<pc>2208-1<k1>caRqeSvararasa (; case 212)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=caRqeSvararasa
+; <ab n="medicinischen">med.</ab>  ->  <ab n="medicinisches">med.</ab>
+188916 old {#caRqeSvararasa#}¦ <lex>m.</lex> {%ein <ab n="medicinischen">med.</ab> Präparat aus Quecksilber , Arsenik%} <ab>u. s. w.</ab> <ls>Mat. med. 40. 44.</ls>
+;
+188916 new {#caRqeSvararasa#}¦ <lex>m.</lex> {%ein <ab n="medicinisches">med.</ab> Präparat aus Quecksilber , Arsenik%} <ab>u. s. w.</ab> <ls>Mat. med. 40. 44.</ls>
+; ---------------------------------------------------------
+;
+; <L>38692<pc>2209-2<k1>caturBadrikA (; case 214)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=caturBadrikA
+; <ab n="medicinischen">med.</ab>  ->  <ab n="medicinisches">med.</ab>
+189517 old {#caturBadrikA#}¦ <lex>f.</lex> {%ein <ab>best.</ab> <ab n="medicinischen">med.</ab> Präparat gegen Fieber%} <ls>BHĀVAPR. 3,61.</ls>
+;
+189517 new {#caturBadrikA#}¦ <lex>f.</lex> {%ein <ab>best.</ab> <ab n="medicinisches">med.</ab> Präparat gegen Fieber%} <ls>BHĀVAPR. 3,61.</ls>
+; ---------------------------------------------------------
+;
+; <L>39677<pc>2223-3<k1>cAraRa (; case 221)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=cAraRa
+; <ab n="Späher">Sp.</ab>  ->  <ab n="Spähern">Sp.</ab>
+194749 old <div n="2">— c) {%Späher , Kundschafter.%} {#°cakra#} <lex>n.</lex> {%ein Trupp von <ab n="Späher">Sp.</ab>%} <ls>BĀLAR. 90,20.</ls>
+;
+194749 new <div n="2">— c) {%Späher , Kundschafter.%} {#°cakra#} <lex>n.</lex> {%ein Trupp von <ab n="Spähern">Sp.</ab>%} <ls>BĀLAR. 90,20.</ls>
+; ---------------------------------------------------------
+;
+; <L>40242<pc>2232-1<k1>cirakAla (; case 226)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=cirakAla
+; <ab n="langer Zeit">l. Z.</ab>  ->  <ab n="lange Zeit">l. Z.</ab>
+197749 old 1. {#cirakAla#}¦ <lex>m.</lex> {%eine lange Zeit.%} {#°lam#} {%<ab n="langer Zeit">l. Z.</ab> hindurch%}
+;
+197749 new 1. {#cirakAla#}¦ <lex>m.</lex> {%eine lange Zeit.%} {#°lam#} {%<ab n="lange Zeit">l. Z.</ab> hindurch%}
+; ---------------------------------------------------------
+;
+; <L>40242<pc>2232-1<k1>cirakAla (; case 226)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=cirakAla
+; <ab n="langer Zeit">l. Z.</ab>  ->  <ab n="langer Zeit">l. Z.</ab>
+; <ab n="langer Zeit">l. Z.</ab>  ->  <ab n="langen Zeit">l. Z.</ab>
+; <ab n="langer Zeit">l. Z.</ab>  ->  <ab n="lange Zeit">l. Z.</ab>
+; <ab n="langer Zeit">l. Z.</ab>  ->  <ab n="lange Zeit">l. Z.</ab>
+197751 old {%lange.%} {#°lAt#} {%nach <ab n="langer Zeit">l. Z.</ab> , wegen der <ab n="langer Zeit">l. Z.</ab> , die dazwischen liegt.%} {#°lAya#} {%auf <ab n="langer Zeit">l. Z.</ab>%} {#°la°#} {%<ab n="langer Zeit">l. Z.</ab> hindurch.%}
+;
+197751 new {%lange.%} {#°lAt#} {%nach <ab n="langer Zeit">l. Z.</ab> , wegen der <ab n="langen Zeit">l. Z.</ab> , die dazwischen liegt.%} {#°lAya#} {%auf <ab n="lange Zeit">l. Z.</ab>%} {#°la°#} {%<ab n="lange Zeit">l. Z.</ab> hindurch.%}
+; ---------------------------------------------------------
+;
+; <L>40270<pc>2232-2<k1>ciravelA (; case 227)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=ciravelA
+; <ab n="späte Tageszeit">sp. T.</ab>  ->  <ab n="später Tageszeit">sp. T.</ab>
+197883 old {#ciravelA#}¦ <lex>f.</lex> {%späte Tageszeit.%} <ab>Instr.</ab> {%zu so <ab n="späte Tageszeit">sp. T.</ab>%} <ls>PAÑCAT. 207,13.</ls>
+;
+197883 new {#ciravelA#}¦ <lex>f.</lex> {%späte Tageszeit.%} <ab>Instr.</ab> {%zu so <ab n="später Tageszeit">sp. T.</ab>%} <ls>PAÑCAT. 207,13.</ls>
+; ---------------------------------------------------------
+;
+; <L>40660<pc>2237-3<k1>cEtanya (; case 228)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=cEtanya
+; OLD local abbrevs:
+;   1: <ab n="nach Christus">n. Chr.</ab>
+; NEW local abbrevs:
+199862 old <div n="1">— 2) <lex>m.</lex> <ab>N. pr.</ab> eines 1484 <ab n="nach Christus">n. Chr.</ab> geborenen Propheten.
+;
+199862 new <div n="1">— 2) <lex>m.</lex> <ab>N. pr.</ab> eines 1484 <ab>n. Chr.</ab> geborenen Propheten.
+; ---------------------------------------------------------
+;
+; <L>42016<pc>2257-3<k1>jalaja (; case 240)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=jalaja
+; <ab n="Wasser">W.</ab>  ->  <ab n="Wasser">W.</ab>
+; NO local AB  differences. Other differences found
+207089 old <div n="1">— 1) <lex>Adj.</lex> {%im Wasser entstanden , dort lebend , — wachsend ; was dem <ab n="Wasser">W.</ab> hervorgehend , ihm eigenthümlich.%}
+;
+207089 new <div n="1">— 1) <lex>Adj.</lex> {%im Wasser entstanden , dort lebend , — wachsend ; aus dem <ab n="Wasser">W.</ab> hervorgehend , ihm eigenthümlich.%}
+; ---------------------------------------------------------
+;
+; <L>43050<pc>2271-1<k1>jIvaBUta (; case 249)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=jIvaBUta
+; <ab n="das Leben">d. L.</ab>  ->  <ab n="das Leben">d. L.</ab>
+; NO local AB  differences. Other differences found
+212280 old {#jIvaBUta#}¦ <lex>Adj.</lex> {%das Leben seiend.%} — {%<ab n="das Leben">d. L.</ab> aus machend von%} (<ab>Gen.</ab>) <ls>R. 1,4,23.</ls> <ls>BHĀG. P. 5,24,19.</ls>
+;
+212280 new {#jIvaBUta#}¦ <lex>Adj.</lex> {%das Leben seiend.%} — {%<ab n="das Leben">d. L.</ab> ausmachend von%} (<ab>Gen.</ab>) <ls>R. 1,4,23.</ls> <ls>BHĀG. P. 5,24,19.</ls>
+; ---------------------------------------------------------
+;
+; <L>43157<pc>2272-2<k1>juz (; case 251)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=juz
+; <ab n="einem Orte">e. O.</ab>  ->  <ab n="einem Orte">e. O.</ab>
+; NO local AB  differences. Other differences found
+212784 old <div n="1">— 8) {%an einem Orte , Gefallen finden , seine Sitz an <ab n="einem Orte">e. O.</ab> nehmen , aufsuchen , besuchen , bewohnen ; heimsuchen%} ; mit <ab>Acc.</ab> {#juzwa#} {%besucht — , bewohnt — , heimgesucht — , bestrichen von%} (einem Winde) , {%umgeben von , versehen — , verbunden mit%} (<ab>Instr.</ab> oder im <ab>Comp.</ab> vorangehend).
+;
+212784 new <div n="1">— 8) {%an einem Orte , Gefallen finden , seinen Sitz an <ab n="einem Orte">e. O.</ab> nehmen , aufsuchen , besuchen , bewohnen ; heimsuchen%} ; mit <ab>Acc.</ab> {#juzwa#} {%besucht — , bewohnt — , heimgesucht — , bestrichen von%} (einem Winde) , {%umgeben von , versehen — , verbunden mit%} (<ab>Instr.</ab> oder im <ab>Comp.</ab> vorangehend).
+; ---------------------------------------------------------
+;
+; <L>43957<pc>2284-1<k1>qimba (; case 260)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=qimba
+; OLD local abbrevs:
+;   1: <ab n="Eierschale">Ei.</ab>
+; NEW local abbrevs:
+216946 old <div n="2">— a) {%<ab n="Eierschale">Ei.</ab>%}
+;
+216946 new <div n="2">— a) {%Ei.%}
+; ---------------------------------------------------------
+;
+; <L>43961<pc>2284-1<k1>qimBa (; case 261)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=qimBa
+; OLD local abbrevs:
+;   1: <ab n="Eierschale">Ei.</ab>
+; NEW local abbrevs:
+216982 old <div n="2">— d) {%<ab n="Eierschale">Ei.</ab>%}
+;
+216982 new <div n="2">— d) {%Ei.%}
+; ---------------------------------------------------------
+;
+; <L>44380<pc>3007-3<k1>tanu (; case 268)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=tanu
+; OLD local abbrevs:
+;   1: <ab n="Person">P.</ab>
+; NEW local abbrevs:
+219219 old <div n="2">— b) {%Person.%} {#svakA#} {%die eigene <ab n="Person">P.</ab>%} {#iyaM tanurmama#} (<ls n="Chr.">320,10</ls>) so <ab>v. a.</ab> {%ich hier.%}
+;
+219219 new <div n="2">— b) {%Person.%} {#svakA#} {%die eigene <ab>P.</ab>%} {#iyaM tanurmama#} (<ls n="Chr.">320,10</ls>) so <ab>v. a.</ab> {%ich hier.%}
+; ---------------------------------------------------------
+;
+; <L>44380<pc>3007-3<k1>tanu (; case 268)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=tanu
+; OLD local abbrevs:
+;   1: <ab n="Person">P.</ab>
+; NEW local abbrevs:
+219221 old <div n="2">— b) {%Person.%} {#svakA#} {%die eigene <ab n="Person">P.</ab>%} {#iyam tanurmama#} (<ls n="Chr.">320,10</ls>) so <ab>v. a.</ab> {%ich hier.%}
+;
+219221 new <div n="2">— b) {%Person.%} {#svakA#} {%die eigene <ab>P.</ab>%} {#iyam tanurmama#} (<ls n="Chr.">320,10</ls>) so <ab>v. a.</ab> {%ich hier.%}
+; ---------------------------------------------------------
+;
+; <L>45084<pc>3019-2<k1>taskarAy (; case 271)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=taskarAy
+; <ab n="Räuber">R.</ab>  ->  <ab n="Räuber">R.</ab>
+; <ab n="Diebspielen">D.</ab>  ->  <ab n="Dieb">D.</ab>
+223232 old {#taskarAy#}¦ , {#°yate#} {%einen Räuber oder einen Diebspielen , sich wie ein <ab n="Räuber">R.</ab> oder <ab n="Diebspielen">D.</ab> betragen.%}
+;
+223232 new {#taskarAy#}¦ , {#°yate#} {%einen Räuber oder einen Dieb spielen , sich wie ein <ab n="Räuber">R.</ab> oder <ab n="Dieb">D.</ab> betragen.%}
+; ---------------------------------------------------------
+;
+; <L>53881<pc>3135-1<k1>dvijAy (; case 326)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=dvijAy
+; <ab n="Brahmanen">Br.</ab>  ->  <ab n="Brahmane">Br.</ab>
+266551 old {#dvijAy#}¦ , {#°yate#} {%zu einem Brahmanen werden , als <ab n="Brahmanen">Br.</ab> wiedergeboren werden%} <ls>HEMĀDRI 1,485,4.</ls>
+;
+266551 new {#dvijAy#}¦ , {#°yate#} {%zu einem Brahmanen werden , als <ab n="Brahmane">Br.</ab> wiedergeboren werden%} <ls>HEMĀDRI 1,485,4.</ls>
+; ---------------------------------------------------------
+;
+; <L>54314<pc>3140-1<k1>dvyaha (; case 329)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=dvyaha
+; <ab n="Tagen">T.</ab>  ->  <ab n="Tagen">T.</ab>
+; <ab n="zwei Tagen">zw. T.</ab>  ->  <ab n="zwei Tage">zw. T.</ab>
+; <ab n="zwei Tagen">zw. T.</ab>  ->  <ab n="zwei Tagen">zw. T.</ab>
+268549 old 1. {#dvyaha/#}¦ <lex>m.</lex> {%ein Zeitraum von zwei Tagen. <ab>Acc.</ab> zwei Tage lang%} <ls>GAUT.</ls> <ab>Abl.</ab> (<ls n="GAUT.">217,25. 227,33</ls>) und <ab>Loc.</ab> (<ls n="GAUT.">227,33</ls>) {%nach zwei Tagen.%} {#dvyahavftta#} <lex>Adj.</lex> {%vor zwei <ab n="Tagen">T.</ab> geschehen%} <ls n="GAUT.">241,27.</ls> * {#dvyahaM tarzam#} und {#dvyahatarzam#} <ab>Absol.</ab> {%nachdem man Jmd <ab n="zwei Tagen">zw. T.</ab> hat dürsten lassen%} , {#dvyahamatyAsam#} und {#dvyahAtyAsam#} <ab>Absol.</ab> {%mit Ueberspringung von <ab n="zwei Tagen">zw. T.</ab>%} <ls>P. 3,4,57.</ls> <ab>Sch.</ab>
+;
+268549 new 1. {#dvyaha/#}¦ <lex>m.</lex> {%ein Zeitraum von zwei Tagen. <ab>Acc.</ab> zwei Tage lang%} <ls>GAUT.</ls> <ab>Abl.</ab> (<ls n="GAUT.">217,25. 227,33</ls>) und <ab>Loc.</ab> (<ls n="GAUT.">227,33</ls>) {%nach zwei Tagen.%} {#dvyahavftta#} <lex>Adj.</lex> {%vor zwei <ab n="Tagen">T.</ab> geschehen%} <ls n="GAUT.">241,27.</ls> * {#dvyahaM tarzam#} und {#dvyahatarzam#} <ab>Absol.</ab> {%nachdem man Jmd <ab n="zwei Tage">zw. T.</ab> hat dürsten lassen%} , {#dvyahamatyAsam#} und {#dvyahAtyAsam#} <ab>Absol.</ab> {%mit Ueberspringung von <ab n="zwei Tagen">zw. T.</ab>%} <ls>P. 3,4,57.</ls> <ab>Sch.</ab>
+; ---------------------------------------------------------
+;
+; <L>54554<pc>3143-1<k1>Danvaja (; case 335)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=Danvaja
+; <ab n="trockenem Lande">tr. L.</ab>  ->  <ab n="trockenen Lande">tr. L.</ab>
+269719 old {#Danvaja#}¦ <lex>Adj.</lex> {%auf trockenem Lande wachsend , dem <ab n="trockenem Lande">tr. L.</ab> angehörig.%}
+;
+269719 new {#Danvaja#}¦ <lex>Adj.</lex> {%auf trockenem Lande wachsend , dem <ab n="trockenen Lande">tr. L.</ab> angehörig.%}
+; ---------------------------------------------------------
+;
+; <L>55032<pc>3151-2<k1>DA (; case 339)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=DA
+; <ab n="Worte">W.</ab>  ->  <ab n="siehe unter dem Worte">s. u. d. W.</ab>
+272525 old <div n="p">— Mit {#tiras#} <ab>s. u. d.</ab> <ab n="Worte">W.</ab>
+;
+272525 new <div n="p">— Mit {#tiras#} <ab n="siehe unter dem Worte">s. u. d. W.</ab>
+; ---------------------------------------------------------
+;
+; <L>55032<pc>3151-2<k1>DA (; case 339)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=DA
+; <ab n="Worte">W.</ab>  ->  <ab n="siehe unter dem Worte">s. u. d. W.</ab>
+272620 old <div n="p">— Mit {#puras#} <ab>s. u. d.</ab> <ab n="Worte">W.</ab>
+;
+272620 new <div n="p">— Mit {#puras#} <ab n="siehe unter dem Worte">s. u. d. W.</ab>
+; ---------------------------------------------------------
+;
+; <L>56255<pc>3173-2<k1>naKapada (; case 347)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=naKapada
+; <ab n="Fingernagels">F.</ab>  ->  <ab n="Fingernagel">F.</ab>
+279156 old <div n="1">— 1) {%Spur eines Fingernagels , Verletzung mit einem <ab n="Fingernagels">F.</ab>%}
+;
+279156 new <div n="1">— 1) {%Spur eines Fingernagels , Verletzung mit einem <ab n="Fingernagel">F.</ab>%}
+; ---------------------------------------------------------
+;
+; <L>57359<pc>3189-1<k1>nAkzatra (; case 354)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=nAkzatra
+; <ab n="Gestirnen">G.</ab>  ->  <ab n="Gestirne">G.</ab>
+284794 old <div n="1">— 1) <lex>Adj.</lex> {%von den Gestirnen kommend , auf die <ab n="Gestirnen">G.</ab> bezüglich , siderisch%} (Tag , Monat , Jahr). {%Sternenjahr%} ist {%ein Jahr von zwölf Monaten zu 27 Tagen.%}
+;
+284794 new <div n="1">— 1) <lex>Adj.</lex> {%von den Gestirnen kommend , auf die <ab n="Gestirne">G.</ab> bezüglich , siderisch%} (Tag , Monat , Jahr). {%Sternenjahr%} ist {%ein Jahr von zwölf Monaten zu 27 Tagen.%}
+; ---------------------------------------------------------
+;
+; <L>57461<pc>3190-3<k1>nAgarAja (; case 356)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=nAgarAja
+; <ab n="Elephanten">E.</ab>  ->  <ab n="Elephant">E.</ab>
+285338 old <div n="1">— 2) {%ein Fürst unter den Elephanten , ein grosser , stattlicher <ab n="Elephanten">E.</ab>%}
+;
+285338 new <div n="1">— 2) {%ein Fürst unter den Elephanten , ein grosser , stattlicher <ab n="Elephant">E.</ab>%}
+; ---------------------------------------------------------
+;
+; <L>59937<pc>3223-3<k1>niScaya (; case 374)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=niScaya
+; <ab n="Alters">A.</ab>  ->  <ab n="Alter">A.</ab>
+297346 old <div n="1">— 1) {%eine feste Meinung , feststehende Ansicht , Ueberzeugung , Vergewisserung , genaue Kenntniss , sicheres Wissen , Gewissheit , Entscheidung , das Sichverhalten in Wirklichkeit.%} {#nAsAM vayasi niScayaH#} so <ab>v. a.</ab> {%in Betreff des Alters lassen sie es dahingestellt sein , um das <ab n="Alters">A.</ab> kümmern sie sich nicht.%} {#anena niScayena#} so <ab>v. a.</ab> {%da solches feststand.%} {#niScayena , niScayAt#} und {#niScaya°#} {%bestimmt , durchaus , gewiss.%}
+;
+297346 new <div n="1">— 1) {%eine feste Meinung , feststehende Ansicht , Ueberzeugung , Vergewisserung , genaue Kenntniss , sicheres Wissen , Gewissheit , Entscheidung , das Sichverhalten in Wirklichkeit.%} {#nAsAM vayasi niScayaH#} so <ab>v. a.</ab> {%in Betreff des Alters lassen sie es dahingestellt sein , um das <ab n="Alter">A.</ab> kümmern sie sich nicht.%} {#anena niScayena#} so <ab>v. a.</ab> {%da solches feststand.%} {#niScayena , niScayAt#} und {#niScaya°#} {%bestimmt , durchaus , gewiss.%}
+; ---------------------------------------------------------
+;
+; <L>60975<pc>3239-2<k1>nfvant (; case 385)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=nfvant
+; <ab n="Männern">M.</ab>  ->  <ab n="Männer">M.</ab>
+; <ab n="Männern">M.</ab>  ->  <ab n="Männern">M.</ab>
+; <ab n="Männern">M.</ab>  ->  <ab n="Männern">M.</ab>
+302712 old {#nfva/nt#}¦ <lex>Adj.</lex> {%männlich , den Männern gehörig , für die <ab n="Männern">M.</ab> passend , aus <ab n="Männern">M.</ab> bestehend , von <ab n="Männern">M.</ab> begleitet%} <ab>u. s. w.</ab>
+;
+302712 new {#nfva/nt#}¦ <lex>Adj.</lex> {%männlich , den Männern gehörig , für die <ab n="Männer">M.</ab> passend , aus <ab n="Männern">M.</ab> bestehend , von <ab n="Männern">M.</ab> begleitet%} <ab>u. s. w.</ab>
+; ---------------------------------------------------------
+;
+; <L>61282<pc>3243-1<k1>nErJara (; case 387)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=nErJara
+; <ab n="Wasserfällen">W.</ab>  ->  <ab n="Wasserfall">W.</ab>
+304156 old {#nErJara#}¦ <lex>Adj.</lex> {%an Wasserfällen zu finden , zu einem <ab n="Wasserfällen">W.</ab> gehörig%} <ls>BĀLAR. 168,19.</ls>
+;
+304156 new {#nErJara#}¦ <lex>Adj.</lex> {%an Wasserfällen zu finden , zu einem <ab n="Wasserfall">W.</ab> gehörig%} <ls>BĀLAR. 168,19.</ls>
+; ---------------------------------------------------------
+;
+; <L>61554<pc>4001-1<k1>pa (; case 393)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=pa
+; OLD local abbrevs:
+;   1: <ab n="Eierschale">Ei.</ab>
+; NEW local abbrevs:
+305405 old <div n="2">— b) {%<ab n="Eierschale">Ei.</ab>%}
+;
+305405 new <div n="2">— b) {%Ei.%}
+; ---------------------------------------------------------
+;
+; <L>63301<pc>4031-2<k1>paramAKya (; case 410)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=paramAKya
+; <ab n="Höchsten">H.</ab>  ->  <ab n="Höchste">H.</ab>
+314874 old {#paramAKya#}¦ <lex>Adj.</lex> {%den Namen des Höchsten führend , für das <ab n="Höchsten">H.</ab> geltend.%}
+;
+314874 new {#paramAKya#}¦ <lex>Adj.</lex> {%den Namen des Höchsten führend , für das <ab n="Höchste">H.</ab> geltend.%}
+; ---------------------------------------------------------
+;
+; <L>64730<pc>4051-2<k1>paryagni (; case 420)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=paryagni
+; <ab n="und">u.</ab>  ->  <ab n="und">u.</ab>
+; NO local AB  differences. Other differences found
+321834 old <div n="1">— 1) <lex>m.</lex> {%das umwandelnde Feuer%} ; so heisst im Ritual {%der Feuerbrand , welcher um das Opferthier <ab n="und">u.</ab> <ab>dgl.</ab> herumgetragen wird%} und {%das Ceremonie dieses Herumtragens.%}
+;
+321834 new <div n="1">— 1) <lex>m.</lex> {%das umwandelnde Feuer%} ; so heisst im Ritual {%der Feuerbrand , welcher um das Opferthier <ab n="und">u.</ab> <ab>dgl.</ab> herumgetragen wird%} und {%die Ceremonie dieses Herumtragens.%}
+; ---------------------------------------------------------
+;
+; <L>64828<pc>4053-1<k1>paryutsuka (; case 421)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=paryutsuka
+; <ab n="heftigen Verlangen">h. V.</ab>  ->  <ab n="heftiges Verlangen">h. V.</ab>
+322303 old <div n="1">— 3) {%von einem heftigen Verlangen ergriffen , ein <ab n="heftigen Verlangen">h. V.</ab> empfindend nach%} (<ab>Dat.</ab>) <ab>Nom. abstr.</ab> {#°tva#} <lex>n.</lex>
+;
+322303 new <div n="1">— 3) {%von einem heftigen Verlangen ergriffen , ein <ab n="heftiges Verlangen">h. V.</ab> empfindend nach%} (<ab>Dat.</ab>) <ab>Nom. abstr.</ab> {#°tva#} <lex>n.</lex>
+; ---------------------------------------------------------
+;
+; <L>65200<pc>4058-2<k1>paSurUpa (; case 425)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=paSurUpa
+; <ab n="Opferthieres">O.</ab>  ->  <ab n="Opferthier">O.</ab>
+324267 old {#paSurUpa/#}¦ <lex>n.</lex> {%eine Form des Opferthieres , etwas das <ab n="Opferthieres">O.</ab> Darstellendes%} <ls>ŚAT. BR. 9,2,3,40.</ls>
+;
+324267 new {#paSurUpa/#}¦ <lex>n.</lex> {%eine Form des Opferthieres , etwas das <ab n="Opferthier">O.</ab> Darstellendes%} <ls>ŚAT. BR. 9,2,3,40.</ls>
+; ---------------------------------------------------------
+;
+; <L>65456<pc>4062-2<k1>pAYcaBOtika (; case 428)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=pAYcaBOtika
+; <ab n="Elementen">E.</ab>  ->  <ab n="Elemente">E.</ab>
+325589 old {#pAYcaBOtika#}¦ <lex>Adj.</lex> {%aus den fünf Elementen bestehend , dieselben enthaltend%} <ls>MBH. 6,5,11.</ls> {#AdAna#} <lex>n.</lex> {%das Aufnehmen der fünf. <ab n="Elementen">E.</ab>%} 
+;
+325589 new {#pAYcaBOtika#}¦ <lex>Adj.</lex> {%aus den fünf Elementen bestehend , dieselben enthaltend%} <ls>MBH. 6,5,11.</ls> {#AdAna#} <lex>n.</lex> {%das Aufnehmen der fünf. <ab n="Elemente">E.</ab>%} 
+; ---------------------------------------------------------
+;
+; <L>68084<pc>4099-1<k1>purAtana (; case 455)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=purAtana
+; <ab n="so">s.</ab>  ->  <ab n="so viel als">s. v. a.</ab>
+338648 old <div n="1">— 1) <lex>Adj.</lex> (<lex>f.</lex> {#I#}) {%aus alter Zeit stammend , ehemalig , alt ; alt%} auch <ab n="so">s.</ab> <ab>v. a.</ab> {%gebraucht.%} <ab>Loc.</ab> (so wohl auch <ls n="Chr.">53,29</ls> zu lesen) so <ab>v. a.</ab> {%ehemals , in vergangenen Zeiten.%}
+;
+338648 new <div n="1">— 1) <lex>Adj.</lex> (<lex>f.</lex> {#I#}) {%aus alter Zeit stammend , ehemalig , alt ; alt%} auch <ab n="so viel als">s. v. a.</ab> {%gebraucht.%} <ab>Loc.</ab> (so wohl auch <ls n="Chr.">53,29</ls> zu lesen) so <ab>v. a.</ab> {%ehemals , in vergangenen Zeiten.%}
+; ---------------------------------------------------------
+;
+; <L>69580<pc>4118-3<k1>pfdAkusAnu (; case 463)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=pfdAkusAnu
+; <ab n="einer Schlange">e. Sch.</ab>  ->  <ab n="eine Schlange">e. Sch.</ab>
+345795 old {#pf/dAkusAnu#}¦ <lex>Adj.</lex> {%die Oberfläche einer Schlange habend, glänzend wie <ab n="einer Schlange">e. Sch.</ab>%}
+;
+345795 new {#pf/dAkusAnu#}¦ <lex>Adj.</lex> {%die Oberfläche einer Schlange habend, glänzend wie <ab n="eine Schlange">e. Sch.</ab>%}
+; ---------------------------------------------------------
+;
+; <L>70073<pc>4124-3<k1>pOrARa (; case 467)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=pOrARa
+; <ab n="alte Zeit">a. Z.</ab>  ->  <ab n="alter Zeit">a. Z.</ab>
+; <ab n="alte Zeit">a. Z.</ab>  ->  <ab n="alter Zeit">a. Z.</ab>
+; <ab n="alte Zeit">a. Z.</ab>  ->  <ab n="alten Zeit">a. Z.</ab>
+348150 old {#pOrARa#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#I#}) {%die alte Zeit betreffend , in <ab n="alte Zeit">a. Z.</ab> geschehen , aus <ab n="alte Zeit">a. Z.</ab> stammend , zur%} <ab n="alte Zeit">a. Z.</ab> {%gehörig , alt , ehemalig , früher.%}
+;
+348150 new {#pOrARa#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#I#}) {%die alte Zeit betreffend , in <ab n="alter Zeit">a. Z.</ab> geschehen , aus <ab n="alter Zeit">a. Z.</ab> stammend , zur%} <ab n="alten Zeit">a. Z.</ab> {%gehörig , alt , ehemalig , früher.%}
+; ---------------------------------------------------------
+;
+; <L>70123<pc>4125-2<k1>pOrvadehika (; case 469)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=pOrvadehika
+; <ab n="frühern Leben">fr. L.</ab>  ->  <ab n="frühern Leben">fr. L.</ab>
+; <ab n="frühern Leben">fr. L.</ab>  ->  <ab n="frühern Leben">fr. L.</ab>
+; NO local AB  differences. Other differences found
+348402 old {#pOrvadehika#}¦ (<ls>CARAKA. 4,3</ls>). und {#°dehika#} <lex>Adj.</lex> {%zu einem frühern Leben in Beziehung stehend , aus einem <ab n="frühern Leben">fr. L.</ab> herstammend , il einem <ab n="frühern Leben">fr. L.</ab> vollbracht.%}
+;
+348402 new {#pOrvadehika#}¦ (<ls>CARAKA. 4,3</ls>). und {#°dehika#} <lex>Adj.</lex> {%zu einem frühern Leben in Beziehung stehend , aus einem <ab n="frühern Leben">fr. L.</ab> herstammend , in einem <ab n="frühern Leben">fr. L.</ab> vollbracht.%}
+; ---------------------------------------------------------
+;
+; <L>70150<pc>4125-3<k1>pOloma (; case 471)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=pOloma
+; <ab n="Beziehung stehend">B. St.</ab>  ->  <ab n="Beziehung stehend">B. st.</ab>
+348531 old <div n="1">— 1) <lex>Adj.</lex> {%zu <is>Pulomā</is> in Beziehung stehend , von ihr handelnd , zu <is>Puloman</is> , <is>Pulomā</is> oder <is>Paulomi</is> in <ab n="Beziehung stehend">B. St.</ab> , von <is>Puloma</is> oder <is>Puloman</is> stammend.%}
+;
+348531 new <div n="1">— 1) <lex>Adj.</lex> {%zu <is>Pulomā</is> in Beziehung stehend , von ihr handelnd , zu <is>Puloman</is> , <is>Pulomā</is> oder <is>Paulomi</is> in <ab n="Beziehung stehend">B. st.</ab> , von <is>Puloma</is> oder <is>Puloman</is> stammend.%}
+; ---------------------------------------------------------
+;
+; <L>70900<pc>4137-3<k1>pratikUla (; case 477)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=pratikUla
+; <ab n="umgekehrte Ordnung">u. O.</ab>  ->  <ab n="umgekehrter Ordnung">u. O.</ab>
+352440 old <div n="2">— a) {%umgekehrte Ordnung.%} {#°lena#} {%in <ab n="umgekehrte Ordnung">u. O.</ab>%}
+;
+352440 new <div n="2">— a) {%umgekehrte Ordnung.%} {#°lena#} {%in <ab n="umgekehrter Ordnung">u. O.</ab>%}
+; ---------------------------------------------------------
+;
+; <L>71225<pc>4142-1<k1>pratipratIka (; case 481)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=pratipratIka
+; <ab n="Theil das Körpers">Th. d. K.</ab>  ->  <ab n="Theil des Körpers">Th. d. K.</ab>
+353931 old <div n="1">— 2) {%auf jedem Theil das Körpers , an je den <ab n="Theil das Körpers">Th. d. K.</ab>%} <ls>NAIṢ. 7,2. 10.</ls>
+;
+353931 new <div n="1">— 2) {%auf jedem Theil des Körpers , an je den <ab n="Theil des Körpers">Th. d. K.</ab>%} <ls>NAIṢ. 7,2. 10.</ls>
+; ---------------------------------------------------------
+;
+; <L>71773<pc>4149-3<k1>pratIpa (; case 486)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=pratIpa
+; <ab n="Angesicht gleicht">A. gl.</ab>  ->  <ab n="Angesicht gleicht">A. gl.</ab>
+; NO local AB  differences. Other differences found
+356578 old <div n="1">— 4) <lex>n.</lex> in der Rhetorik {%ein umgekehrtes Gleichniss%} (<ab>z. B.</ab> {%der Mond Gleicht deinem Angesicht <ab>st.</ab> <ab n="Angesicht gleicht">A. gl.</ab> dem Monde%} ) <ls>KĀVYAPR. 10,47.</ls>
+;
+356578 new <div n="1">— 4) <lex>n.</lex> in der Rhetorik {%ein umgekehrtes Gleichniss%} (<ab>z. B.</ab> {%der Mond gleicht deinem Angesicht <ab>st.</ab> <ab n="Angesicht gleicht">A. gl.</ab> dem Monde%} ) <ls>KĀVYAPR. 10,47.</ls>
+; ---------------------------------------------------------
+;
+; <L>75766<pc>4206-3<k1>bandIkfta (; case 516)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=bandIkfta
+; <ab n="Gefangenen">G.</ab>  ->  <ab n="Gefangenen">G.</ab>
+; NO local AB  differences. Other differences found
+376251 old <div n="1">— 1) {%zum Gefangenen gemacht%} ; <lex>m.</lex> {%ein Gefangener%} <ls>HEMĀDRI 1,200,7.</ls> <ls>BĀLAR. 46,1. 68,1.</ls> {#yudDa°#} {%in der , Schlacht , zum <ab n="Gefangenen">G.</ab> gemacht.%}
+;
+376251 new <div n="1">— 1) {%zum Gefangenen gemacht%} ; <lex>m.</lex> {%ein Gefangener%} <ls>HEMĀDRI 1,200,7.</ls> <ls>BĀLAR. 46,1. 68,1.</ls> {#yudDa°#} {%in der Schlacht zum <ab n="Gefangenen">G.</ab> gemacht.%}
+; ---------------------------------------------------------
+;
+; <L>76094<pc>4213-1<k1>balizaqBAga (; case 518)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=balizaqBAga
+; <ab n="sechste Theil als Abgabe">s. Th. als A.</ab>  ->  <ab n="sechsten Theil als Abgabe">s. Th. als A.</ab>
+378187 old {#balizaqBAga#}¦ <lex>m.</lex> {%der sechste Theil als Abgabe%} <ls>Spr. 4409.</ls> {#°hArin#} <lex>Adj.</lex> {%den <ab n="sechste Theil als Abgabe">s. Th. als A.</ab> erhebend%} <ls n="Spr.">568.</ls>
+;
+378187 new {#balizaqBAga#}¦ <lex>m.</lex> {%der sechste Theil als Abgabe%} <ls>Spr. 4409.</ls> {#°hArin#} <lex>Adj.</lex> {%den <ab n="sechsten Theil als Abgabe">s. Th. als A.</ab> erhebend%} <ls n="Spr.">568.</ls>
+; ---------------------------------------------------------
+;
+; <L>76930<pc>4224-1<k1>bAhumUla (; case 520)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=bAhumUla
+; <ab n="Achse">A.</ab>  ->  <ab n="Achsel">A.</ab>
+382204 old {#bAhumUla#}¦ <lex>n.</lex> {%Achse.%} {#*°viBUzaRa#} <lex>n.</lex> {%ein auf der <ab n="Achse">A.</ab> getragener Schmuck.%}
+;
+382204 new {#bAhumUla#}¦ <lex>n.</lex> {%Achsel.%} {#*°viBUzaRa#} <lex>n.</lex> {%ein auf der <ab n="Achsel">A.</ab> getragener Schmuck.%}
+; ---------------------------------------------------------
+;
+; <L>77846<pc>4236-1<k1>brahmajAyA (; case 525)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=brahmajAyA
+; <ab n="Brahmanenweib">Br.</ab>  ->  <ab n="Brahmanenweib">Br.</ab>
+; NO local AB  differences. Other differences found
+386627 old <div n="1">— 2) <is>Juhu</is> <ab n="Brahmanenweib">Br.</ab> als angebliche Verfasser in von <ls>ṚV. 10,109.</ls>
+;
+386627 new <div n="1">— 2) <is>Juhu</is> <ab n="Brahmanenweib">Br.</ab> als angebliche Verfasserin von <ls>ṚV. 10,109.</ls>
+; ---------------------------------------------------------
+;
+; <L>78248<pc>4241-2<k1>brAhmaRabruva (; case 528)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=brAhmaRabruva
+; <ab n="Brahmane">Br.</ab>  ->  <ab n="Brahmanen">Br.</ab>
+; <ab n="Brahmane">Br.</ab>  ->  <ab n="Brahmane">Br.</ab>
+388525 old {#brAhmaRabruva#}¦ <lex>Adj.</lex> <ab>Subst.</ab> {%sich Brahmane nennend , bloss den Namen eines <ab n="Brahmane">Br.</ab> tragend , ein seinen Stand entehrender <ab n="Brahmane">Br.</ab>%}
+;
+388525 new {#brAhmaRabruva#}¦ <lex>Adj.</lex> <ab>Subst.</ab> {%sich Brahmane nennend , bloss den Namen eines <ab n="Brahmanen">Br.</ab> tragend , ein seinen Stand entehrender <ab n="Brahmane">Br.</ab>%}
+; ---------------------------------------------------------
+;
+; <L>78553<pc>4246-3<k1>BajeraTa (; case 529)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=BajeraTa
+; OLD local abbrevs:
+;   1: <ab n="Person">P.</ab>
+; NEW local abbrevs:
+390095 old {#Baje/raTa#}¦ {#°sya#} <ls>ṚV. 10,60,2.</ls> nach <ls>GRASSMANN</ls> fehlerhaft für (<ab>Infin.</ab>) {#Baje/#} {#ra/Tasya#}. <ls>ROTH</ls> vermuthet {#Ba/je#} 1ste <ab n="Person">P.</ab>
+;
+390095 new {#Baje/raTa#}¦ {#°sya#} <ls>ṚV. 10,60,2.</ls> nach <ls>GRASSMANN</ls> fehlerhaft für (<ab>Infin.</ab>) {#Baje/#} {#ra/Tasya#}. <ls>ROTH</ls> vermuthet {#Ba/je#} 1ste <ab>P.</ab>
+; ---------------------------------------------------------
+;
+; <L>78792<pc>4250-1<k1>BadrAvaha (; case 531)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=BadrAvaha
+; <ab n="medicinischen">med.</ab>  ->  <ab n="medicinisches">med.</ab>
+391287 old {#BadrAvaha#}¦ <lex>Adj.</lex> {%Glück bringend.%} {#Gfta#} <lex>n.</lex> {%ein <ab>best.</ab> <ab n="medicinischen">med.</ab> Präparat%} <ls>BHĀVAPR. 5,43.</ls>
+;
+391287 new {#BadrAvaha#}¦ <lex>Adj.</lex> {%Glück bringend.%} {#Gfta#} <lex>n.</lex> {%ein <ab>best.</ab> <ab n="medicinisches">med.</ab> Präparat%} <ls>BHĀVAPR. 5,43.</ls>
+; ---------------------------------------------------------
+;
+; <L>82456<pc>5016-3<k1>maDumAsa (; case 561)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=maDumAsa
+; <ab n="Frühlingsmonat">Fr.</ab>  ->  <ab n="Frühlingsmonats">Fr.</ab>
+410543 old {#maDumAsa#}¦ <lex>m.</lex> {%Frühlingsmonat.%} {#°mAsAvatAra#} <lex>m.</lex> {%Eintritt des <ab n="Frühlingsmonat">Fr.</ab>%} <ls>PRASANNAR. 30,15.</ls> {#°mhotsava#} <lex>m.</lex> <ls>KATHĀS. 10,87.</ls>
+;
+410543 new {#maDumAsa#}¦ <lex>m.</lex> {%Frühlingsmonat.%} {#°mAsAvatAra#} <lex>m.</lex> {%Eintritt des <ab n="Frühlingsmonats">Fr.</ab>%} <ls>PRASANNAR. 30,15.</ls> {#°mhotsava#} <lex>m.</lex> <ls>KATHĀS. 10,87.</ls>
+; ---------------------------------------------------------
+;
+; <L>82946<pc>5024-1<k1>manuzvat (; case 565)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=manuzvat
+; <ab n="Mensche">M.</ab>  ->  <ab n="Menschen">M.</ab>
+; <ab n="Mensche">M.</ab>  ->  <ab n="Menschen">M.</ab>
+412989 old <div n="1">— 1) {%als Mensch%} oder {%als Menschen , wie <ab n="Mensche">M.</ab> , wie bei — , wie unter — , wie für <ab n="Mensche">M.</ab>%}
+;
+412989 new <div n="1">— 1) {%als Mensch%} oder {%als Menschen , wie <ab n="Menschen">M.</ab> , wie bei — , wie unter — , wie für <ab n="Menschen">M.</ab>%}
+; ---------------------------------------------------------
+;
+; <L>87401<pc>5086-2<k1>muKyArTa (; case 586)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=muKyArTa
+; <ab n="ursprüngliche Bedeutung">u. B.</ab>  ->  <ab n="ursprünglichen Bedeutung">u. B.</ab>
+435379 old 2. {#muKyArTa#}¦ <lex>Adj.</lex> {%die ursprüngliche Bedeutung habend , in der <ab n="ursprüngliche Bedeutung">u. B.</ab> gebraucht.%}
+;
+435379 new 2. {#muKyArTa#}¦ <lex>Adj.</lex> {%die ursprüngliche Bedeutung habend , in der <ab n="ursprünglichen Bedeutung">u. B.</ab> gebraucht.%}
+; ---------------------------------------------------------
+;
+; <L>87410<pc>5086-2<k1>mugDaboDa (; case 587)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=mugDaboDa
+; <ab n="Grammar">Gr.</ab>  ->  <ab n="Grammatik">Gr.</ab>
+435415 old {#mugDaboDa#}¦ <lex>n.</lex> Titel einer Grammatik. {#°kAra#} <lex>m.</lex> <ab>Bez.</ab> <is>Vopadeva</is>'s. {#°pradIpa#} <lex>m.</lex> und {#°suboDinI#} <lex>f.</lex> Titel von Commentaren zu der <ab n="Grammar">Gr.</ab> , {#°pariSizwa#} <lex>n.</lex> {%Nachträge%} dazu.
+;
+435415 new {#mugDaboDa#}¦ <lex>n.</lex> Titel einer Grammatik. {#°kAra#} <lex>m.</lex> <ab>Bez.</ab> <is>Vopadeva</is>'s. {#°pradIpa#} <lex>m.</lex> und {#°suboDinI#} <lex>f.</lex> Titel von Commentaren zu der <ab n="Grammatik">Gr.</ab> , {#°pariSizwa#} <lex>n.</lex> {%Nachträge%} dazu.
+; ---------------------------------------------------------
+;
+; <L>87779<pc>5093-2<k1>muhUrta (; case 589)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=muhUrta
+; NO local AB  differences. Other differences found
+437512 old <div n="2">— b) {%ei <ab>best.</ab> Zeitabschnitt , ein Dreissigstel des Tages , eine Stunde von 48 Minuten.%} <lex>m.</lex> <ab>Pl.</ab> personificirt als Kinder der <is>Muhūrtā</is>.
+;
+437512 new <div n="2">— b) {%ein <ab>best.</ab> Zeitabschnitt , ein Dreissigstel des Tages , eine Stunde von 48 Minuten.%} <lex>m.</lex> <ab>Pl.</ab> personificirt als Kinder der <is>Muhūrtā</is>.
+; ---------------------------------------------------------
+;
+; <L>88961<pc>5108-2<k1>mETuna (; case 598)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=mETuna
+; <ab n="Beziehung">B.</ab>  ->  <ab n="Begattung">B.</ab>
+; <ab n="Beziehung">B.</ab>  ->  <ab n="Begattung">B.</ab>
+443230 old <div n="2">— c) {%zur Begattung in Beziehung stehend , bei der <ab n="Beziehung">B.</ab> stattfindend , — getragen%} (Kleid) , {%<ab n="Beziehung">B.</ab> bezwecken.%} {#Darma#} <lex>m.</lex> so <ab>v. a.</ab> {%Begattung.%}
+;
+443230 new <div n="2">— c) {%zur Begattung in Beziehung stehend , bei der <ab n="Begattung">B.</ab> stattfindend , — getragen%} (Kleid) , {%<ab n="Begattung">B.</ab> bezwecken.%} {#Darma#} <lex>m.</lex> so <ab>v. a.</ab> {%Begattung.%}
+; ---------------------------------------------------------
+;
+; <L>89314<pc>5113-3<k1>ya (; case 602)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=ya
+; <ab n="relativ">rel.</ab>  ->  <ab n="relativum">rel.</ab>
+445098 old 1. {#ya/#}¦ <lex>Pron.</lex> <ab n="relativ">rel.</ab> (<lex>f.</lex> {#A/#})
+;
+445098 new 1. {#ya/#}¦ <lex>Pron.</lex> <ab n="relativum">rel.</ab> (<lex>f.</lex> {#A/#})
+; ---------------------------------------------------------
+;
+; <L>89316<pc>5114-1<k1>yaka (; case 603)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=yaka
+; <ab n="relativ">rel.</ab>  ->  <ab n="relativum">rel.</ab>
+445124 old {#yaka/#}¦ <lex>Pron.</lex> <ab n="relativ">rel.</ab> (<lex>f.</lex> {#yakA/#}) = {#ya/#} {%wer , welcher%} <ls>HEM. PAR. 2,231.</ls>
+;
+445124 new {#yaka/#}¦ <lex>Pron.</lex> <ab n="relativum">rel.</ab> (<lex>f.</lex> {#yakA/#}) = {#ya/#} {%wer , welcher%} <ls>HEM. PAR. 2,231.</ls>
+; ---------------------------------------------------------
+;
+; <L>89381<pc>5114-3<k1>yacCandas (; case 605)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=yacCandas
+; <ab n="relativ">rel.</ab>  ->  <ab n="relativum">rel.</ab>
+445418 old {#yacCandas#}¦ <lex>Adj.</lex> {%welches%} (<ab n="relativ">rel.</ab>) {%Metrum habend.%}
+;
+445418 new {#yacCandas#}¦ <lex>Adj.</lex> {%welches%} (<ab n="relativum">rel.</ab>) {%Metrum habend.%}
+; ---------------------------------------------------------
+;
+; <L>89382<pc>5114-3<k1>yacCIla (; case 606)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=yacCIla
+; <ab n="relativ">rel.</ab>  ->  <ab n="relativum">rel.</ab>
+445422 old {#yacCIla#}¦ <lex>Adj.</lex> {%welchen%} (<ab n="relativ">rel.</ab>) {%Charakter habend%} <ls>MBH. 5,74,8.</ls>
+;
+445422 new {#yacCIla#}¦ <lex>Adj.</lex> {%welchen%} (<ab n="relativum">rel.</ab>) {%Charakter habend%} <ls>MBH. 5,74,8.</ls>
+; ---------------------------------------------------------
+;
+; <L>89383<pc>5115-1<k1>yacCradDa (; case 607)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=yacCradDa
+; <ab n="relativ">rel.</ab>  ->  <ab n="relativum">rel.</ab>
+445427 old {#yacCradDa#}¦ <lex>Adj.</lex> {%welches%} (<ab n="relativ">rel.</ab>) {%Glaubens%} <ls>BHAG. 17,3.</ls>
+;
+445427 new {#yacCradDa#}¦ <lex>Adj.</lex> {%welches%} (<ab n="relativum">rel.</ab>) {%Glaubens%} <ls>BHAG. 17,3.</ls>
+; ---------------------------------------------------------
+;
+; <L>90166<pc>5126-2<k1>yadi (; case 614)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=yadi
+; <ab n="Nachsträge">Nachs.</ab>  ->  <ab n="Nachsatz">Nachs.</ab>
+449194 old <div n="1">— 8) {#ya/dya/pi#} {%auch wenn , obgleich , etsi%} ; im <ab n="Nachsträge">Nachs.</ab> |<sic/> {#taTApi , tadapi#} oder ohne diese. Auch {#api yadi-taTApi#}.{# yadi - yadi ca-yadyapi#} {%wenn — und — und auch.%} {#yadyapyEkaH#} ungenau <ab>st.</ab> {#yadyEko 'pi#}.
+;
+449194 new <div n="1">— 8) {#ya/dya/pi#} {%auch wenn , obgleich , etsi%} ; im <ab n="Nachsatz">Nachs.</ab> {#taTApi , tadapi#} oder ohne diese. Auch {#api yadi-taTApi#}.{# yadi - yadi ca-yadyapi#} {%wenn — und — und auch.%} {#yadyapyEkaH#} ungenau <ab>st.</ab> {#yadyEko 'pi#}.
+; ---------------------------------------------------------
+;
+; <L>92911<pc>5173-1<k1>rasakalpanA (; case 627)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=rasakalpanA
+; <ab n="Quecksilbers">Q.</ab>  ->  <ab n="Quecksilber">Q.</ab>
+463789 old {#rasakalpanA#}¦ <lex>f.</lex> {%Behandlung des Quecksilbers , ein mit dem <ab n="Quecksilbers">Q.</ab> vorgenommener Process.%}
+;
+463789 new {#rasakalpanA#}¦ <lex>f.</lex> {%Behandlung des Quecksilbers , ein mit dem <ab n="Quecksilber">Q.</ab> vorgenommener Process.%}
+; ---------------------------------------------------------
+;
+; <L>94754<pc>5201-3<k1>reKin (; case 637)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=reKin
+; <ab n="Linien handfläche">L. h.</ab>  ->  <ab n="Linien habend">L. h.</ab>
+473308 old {#reKin#}¦ <lex>Adj.</lex> {%Linien%} (auf der Handfläche) {%habend.%} {#bahureKA°#} {%viele solcher <ab n="Linien handfläche">L. h.</ab>%}
+;
+473308 new {#reKin#}¦ <lex>Adj.</lex> {%Linien%} (auf der Handfläche) {%habend.%} {#bahureKA°#} {%viele solcher <ab n="Linien habend">L. h.</ab>%}
+; ---------------------------------------------------------
+;
+; <L>96087<pc>5223-3<k1>lABavant (; case 645)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=lABavant
+; <ab n="Gewinn">G.</ab>  ->  <ab n="Gewinn">G.</ab>
+; NO local AB  differences. Other differences found
+480537 old <div n="1">— 1) {%einen Gewinn habend , im <ab n="Gewinn">G.</ab> seind.%}
+;
+480537 new <div n="1">— 1) {%einen Gewinn habend , im <ab n="Gewinn">G.</ab> seiend.%}
+; ---------------------------------------------------------
+;
+; <L>105800<pc>6141-1<k1>vihaMgama (; case 698)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=vihaMgama
+; <ab n="Luftraum">L.</ab>  ->  <ab n="Luft">L.</ab>
+532041 old <div n="1">— 1) <lex>Adj.</lex> {%im Luftraum sich bewegend , die <ab n="Luftraum">L.</ab> durchziehend.%}
+;
+532041 new <div n="1">— 1) <lex>Adj.</lex> {%im Luftraum sich bewegend , die <ab n="Luft">L.</ab> durchziehend.%}
+; ---------------------------------------------------------
+;
+; <L>107857<pc>6169-1<k1>vEyAGra (; case 704)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=vEyAGra
+; <ab n="Tiger">T.</ab>  ->  <ab n="Tigerfell">T.</ab>
+; <ab n="Tiger">T.</ab>  ->  <ab n="Tigerfell">T.</ab>
+542154 old <div n="2">— a) {%vom Tiger kommend , aus Tigerfell gemacht , mit <ab n="Tiger">T.</ab> bezogen , in ein <ab n="Tiger">T.</ab> gehüllt.%}
+;
+542154 new <div n="2">— a) {%vom Tiger kommend , aus Tigerfell gemacht , mit <ab n="Tigerfell">T.</ab> bezogen , in ein <ab n="Tigerfell">T.</ab> gehüllt.%}
+; ---------------------------------------------------------
+;
+; <L>109216<pc>6191-2<k1>SakakAla (; case 714)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=SakakAla
+; OLD local abbrevs:
+;   1: <ab n="nach Christus">n. Chr.</ab>
+; NEW local abbrevs:
+549129 old {#SakakAla#}¦ <lex>m.</lex> {%die <is>Śaka</is>-Aera%} (78 <ab n="nach Christus">n. Chr.</ab>).
+;
+549129 new {#SakakAla#}¦ <lex>m.</lex> {%die <is>Śaka</is>-Aera%} (78 <ab>n. Chr.</ab>).
+; ---------------------------------------------------------
+;
+; <L>109535<pc>6195-3<k1>SaMkarAcArya (; case 715)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=SaMkarAcArya
+; OLD local abbrevs:
+;   1: <ab n="nach Christus">n. Chr.</ab>
+; NEW local abbrevs:
+550651 old {#SaMkarAcArya#}¦ <lex>m.</lex> <ab>N. pr.</ab> eines berühmten Gelehrten , gestorben 820 <ab n="nach Christus">n. Chr.</ab> (<ls>Ind. Antiq. 11,175</ls>), der eine Menge von Schriften , namentlich Commentare zu philosophischen Werken , verfasste.
+;
+550651 new {#SaMkarAcArya#}¦ <lex>m.</lex> <ab>N. pr.</ab> eines berühmten Gelehrten , gestorben 820 <ab>n. Chr.</ab> (<ls>Ind. Antiq. 11,175</ls>), der eine Menge von Schriften , namentlich Commentare zu philosophischen Werken , verfasste.
+; ---------------------------------------------------------
+;
+; <L>112353<pc>6234-2<k1>Sirasya (; case 731)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=Sirasya
+; <ab n="Haar ???">H.</ab>  ->  <ab n="Haupt">H.</ab>
+564593 old <div n="1">— 2) <lex>m.</lex> {%Kopfhaar und sauberes <ab n="Haar ???">H.</ab>%}
+;
+564593 new <div n="1">— 2) <lex>m.</lex> {%Kopfhaar und sauberes <ab n="Haupt">H.</ab>%}
+; ---------------------------------------------------------
+;
+; <L>118460<pc>7034-2<k1>sadaSanajyotsna (; case 756)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=sadaSanajyotsna
+; <ab n="glänzenden Zähnen">gl. Z.</ab>  ->  <ab n="glänzende Zähne">gl. Z.</ab>
+595289 old {#sadaSanajyotsna#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%mit glänzenden Zähnen versehen , <ab n="glänzenden Zähnen">gl. Z.</ab> zeigend.%}
+;
+595289 new {#sadaSanajyotsna#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%mit glänzenden Zähnen versehen , <ab n="glänzende Zähne">gl. Z.</ab> zeigend.%}
+; ---------------------------------------------------------
+;
+; <L>122248<pc>7091-2<k1>sarvAtman (; case 776)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=sarvAtman
+; OLD local abbrevs:
+;   1: <ab n="Person">P.</ab>
+; NEW local abbrevs:
+614038 old <div n="1">— 1) {%die ganze Person.%} <ab>Instr.</ab> {%mit der ganzen <ab n="Person">P.</ab> , mit ganzer Seele , auf das Angelegentlichste%} <ls>Spr. 7855.</ls>
+;
+614038 new <div n="1">— 1) {%die ganze Person.%} <ab>Instr.</ab> {%mit der ganzen <ab>P.</ab> , mit ganzer Seele , auf das Angelegentlichste%} <ls>Spr. 7855.</ls>
+; ---------------------------------------------------------
+;
+; <L>122519<pc>7094-2<k1>savicAra (; case 778)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=savicAra
+; <ab n="Erwägung">E.</ab>  ->  <ab n="Erwägung">E.</ab>
+; NO local AB  differences. Other differences found
+615278 old {#savicAra#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%von Erwägung begleitet , wobei ; <ab n="Erwägung">E.</ab> noch nicht ausgeschlossen ist%} <ls>LALIT. 439,4.</ls>
+;
+615278 new {#savicAra#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%von Erwägung begleitet , wobei <ab n="Erwägung">E.</ab> noch nicht ausgeschlossen ist%} <ls>LALIT. 439,4.</ls>
+; ---------------------------------------------------------
+;
+; <L>134349<pc>7268-3<k1>hA (; case 831)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=hA
+; <ab n="Machtglanze">M.</ab>  ->  <ab n="Machtglanz">M.</ab>
+675470 old <div n="2">— b) {%abnehmen , geringer werden.%} {#tejaSca na te tenApahIyate#} {%und dein Machtglanze wird durch ihn nicht geringer%} , so <ab>v. a.</ab> {%dein <ab n="Machtglanze">M.</ab> kann sich mit dem seinigen messen%} <ls>R. ed. Bomb. 4,66,6.</ls>
+;
+675470 new <div n="2">— b) {%abnehmen , geringer werden.%} {#tejaSca na te tenApahIyate#} {%und dein Machtglanz wird durch ihn nicht geringer%} , so <ab>v. a.</ab> {%dein <ab n="Machtglanz">M.</ab> kann sich mit dem seinigen messen%} <ls>R. ed. Bomb. 4,66,6.</ls>
+; ---------------------------------------------------------
+;
+; <L>135237<pc>7281-2<k1>hfllAsa (; case 842)
+; https://sanskrit-lexicon.uni-koeln.de/work/pwk_tm/web/webtc/indexcaller.php?dict=pw&input=slp1&output=deva&key=hfllAsa
+; OLD local abbrevs:
+;   1: <ab n="Herzens">H.</ab>
+; NEW local abbrevs:
+679875 old {#hfllAsa#}¦ <lex>m.</lex> , {#°ka#} <lex>m.</lex> und {#°sikA#} <lex>f.</lex> {%Hüpfen des Herzens%} , <ab>d. i.</ab> {%Herzklopfen , Herzstösse%} <ls>CARAKA. 6,3.</ls> Nach <ab n="Herzens">H.</ab> {#hfllAsa#} = {#hikkA#}.
+;
+679875 new {#hfllAsa#}¦ <lex>m.</lex> , {#°ka#} <lex>m.</lex> und {#°sikA#} <lex>f.</lex> {%Hüpfen des Herzens%} , <ab>d. i.</ab> {%Herzklopfen , Herzstösse%} <ls>CARAKA. 6,3.</ls> Nach <ls>H.</ls> {#hfllAsa#} = {#hikkA#}.
+; ---------------------------------------------------------
+; *** manual change of abbreviation
+; <L>115320<pc>6277-2<k1>Sruta<k2>Sruta/<e>100
+; insbe.
+579545 old <div n="2">— a) {%das Gehörte , Gelernte , Ueberlieferte ; Gelehrsamkeit , Wissen%} , <ab>insbe.</ab> {%heilige%} <ls>AV. 6,41,1.</ls> Personificirt als ein Kind <is>Dharma</is>'s und der <is>Medhā</is>.
+;
+579545 new <div n="2">— a) {%das Gehörte , Gelernte , Ueberlieferte ; Gelehrsamkeit , Wissen%} , <ab>insbes.</ab> {%heilige%} <ls>AV. 6,41,1.</ls> Personificirt als ein Kind <is>Dharma</is>'s und der <is>Medhā</is>.
+;---------------------------------------------------
+; <L>67030<pc>4084-1<k1>pitfhU<k2>pitfhU<e>100
+333435 old {#pitfhU#}¦ <lex>f.</lex> <ab>Beiz.</ab> {%des rechten Ohres.%}
+;
+333435 new {#pitfhU#}¦ <lex>f.</lex> <ab>Bez.</ab> {%des rechten Ohres.%}
+;---------------------------------------------------
+; <L>126242<pc>7146-1<k1>sutIrTa<k2>sutIrTa/<h>2<e>100
+633341 old <div n="2">— b) {%leicht zugänglich%} (von Gewässern). Auch als <ab>Beiz.</ab> <is>Śiva</is>'s <ls>MBH. 14,8,16.</ls>
+;
+633341 new <div n="2">— b) {%leicht zugänglich%} (von Gewässern). Auch als <ab>Beiw.</ab> <is>Śiva</is>'s <ls>MBH. 14,8,16.</ls>
+;---------------------------------------------------
+; <L>134134<pc>7265-3<k1>havyavAha<k2>havyavAha/<e>108
+674309 old <div n="1">— 1) <lex>Adj.</lex> = {#havyava/h#} 1). Auch als <ab>Beiz.</ab> des <is>Aśvattha</is> , weil er die <is>Araṇi</is> liefert.
+;
+674309 new <div n="1">— 1) <lex>Adj.</lex> = {#havyava/h#} 1). Auch als <ab>Beiw.</ab> des <is>Aśvattha</is> , weil er die <is>Araṇi</is> liefert.

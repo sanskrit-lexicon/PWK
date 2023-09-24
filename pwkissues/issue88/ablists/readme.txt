@@ -135,8 +135,6 @@ cp ../temp_pw_ab_1.txt ../temp_pw_ab_2.txt
 Ref: change_2_notes.txt
 
 python compare_texts.py ../temp_pw_2.txt ../temp_pw_ab_2.txt temp.txt
-
-python compare_texts.py ../temp_pw_2.txt ../temp_pw_ab_2.txt temp.txt
 1441 cases written to temp.txt
 1364 cases written to temp.txt
 1243 cases written to temp.txt
@@ -391,6 +389,25 @@ python diff_to_changes_dict.py temp_pw_ab_3.txt temp_pw_ab_4.txt temp_change_ab_
 touch change_pw_ab_4.txt
 insert temp_change_ab_4.txt
 ******************************************************
+Inline display of local abbreviations
+ change to basicadjust.php in csl-websanlexicon:
+ This done in dev4_tm version.
+ diff /c/xampp/htdocs/cologne/csl-websanlexicon/v02/makotemplates/web/webtc/basicadjust.php /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue88/dev4_tm/web/webtc/basicadjust.php
+851a852
+>   |<ab(.*?)>(.*?)</ab>|
+860c861,868
+<   $ans = $x;
+---
+>   $ans = $x; // local abbreviation
+>   // for pwk, prepare for displaying the tooltip without the abbreviation
+>   if (in_array($this->dict,array('pwg','pw','pwkvn'))) {
+>    $tip = $matches1[1];
+>    $style = "color:blue;";
+>    $tipa = "@$tip";  // for debugging
+>    $ans = "<span style='$style'>$tipa</span>";
+>   }
+ 
+******************************************************
 09-04-2023
 python ab_local_tm.py ../temp_pw_4.txt ab_local_tm_0.txt
 843 entries contain a local abbreviation
@@ -399,5 +416,137 @@ python ab_local_tm.py ../temp_pw_4.txt ab_local_tm_0.txt
 User corrections to pw.  20 lines changed
 These are reflected in ../change_pw_4.txt and change_pw_ab_4.txt.
 See also user_change_notes.txt and user_change_notes_ab.txt
+******************************************************
+09-18-2023
+ab_local_tm_0_corr.txt  received from Thomas.
+ See also ab_local_tm_corr_note.txt
+----------------------
+Jim changes
+----------------------
+----
+ 4 errors corrected
+----
+change 'N. N.' to a global abbreviation 
+ <ab n="Nomen Nescio">N. N.</ab> -> <ab>N. N.</ab>   (3 cases)
+ Add global abbreviation in csl-pywork/...pwab_input.txt.
+----
+<ab n="Person">P.</ab> -> <ab>P.</ab>  (5 cases)
+Add global abbreviation 
+----
+<ab n="nach Christus">n. Chr.</ab> -> <ab>n. Chr.</ab> (3)
+Global abbrev pwab_input
+tooltip = nach Christus - after Christ
+
+----------------------
+Jim questions for Thomas
+----------------------
+---- TODO  done
+case 141 sic! ??
+---- TODO
+<ab n="???">a. u.</ab>
+; case 135 ??"ab usu" = "as usual" or "ad usum" = "for the use" 2 occurrences in pw, 0 in pwg
+---- TODO 
+<ab n="medicinischem">med.</ab> -> <ab>med.</ab>  ?
+  <ab n="medicinischen">med.</ab> (13)
+13 matches for "<ab n="medicinischen">med.</ab>"
+2 matches for "<ab n="medicinischem">med.</ab>" in buffer: ab_local_tm_0_corr.txt
+4 matches for "<ab n="medicinisches">med.</ab>" in buffer: ab_local_tm_0_corr.txt
+---- TODO done
+case 339
+-----
+Case 404
+Jmd is abbreviation of Jemand 'someone, somebody' Jmdes Jmden
+----
+; case 605 dto. Adj.  what does 'dto' mean?
+---- TODO ?
+; case 738 <is>R</is>.abbr for  [Nakshatra] Revati1
+---- TODO
+; case 842 abbr. 'H.' seems to be  some source (Hemacandra's Abhidanacintamani 468 in pwg): "according to H." -> hikkA 'Schluchzer' = a single sob (sobbing) or rather hiccup (in pwg) singultus [singulus to be corrected in pwg]
+
+------
+end of Jim questions for Thomas
+----------------------
+
+----------------------
+# Generate change file ../change_pw_5.txt
+----------------------
+
+python ab_local_tm_process.py ab_local_tm_0.txt ab_local_tm_0_corr.txt ../temp_pw_4.txt ../change_pw_5.txt
+843 cases from ab_local_tm_0.txt
+843 cases from ab_local_tm_0_corr.txt
+111 lines to change from 107 cases
+682608 lines read from ../temp_pw_4.txt
+135771 entries found
+112 Change records
+112 cases written to ../change_pw_5.txt
+
+##
+
+cd ../
+python updateByLine.py temp_pw_4.txt change_pw_5.txt temp_pw_5.txt
+
+******************************************************
+temp_pw_ab_5.txt
+cp ../temp_pw_ab_4.txt ../temp_pw_ab_5_work.txt
+  Manually apply chanage_pw_5.txt to temp_pw_ab_5_work.txt
+
+python diff_to_changes_dict.py temp_pw_ab_4.txt temp_pw_ab_5_work.txt change_pw_ab_5.txt
+109 changes written to change_pw_ab_5.txt
+
+python updateByLine.py temp_pw_ab_4.txt change_pw_ab_5.txt temp_pw_ab_5.txt
+674189 lines read from temp_pw_ab_4.txt
+674189 records written to temp_pw_ab_5.txt
+110 change transactions from change_pw_ab_5.txt
+110 of type new
+
+# compare <ab>X</ab>
+python compare_texts.py ../temp_pw_5.txt ../temp_pw_ab_5.txt temp.txt
+0 cases written
+temp_pw_5.txt and temp_pw_ab_5.txt agree
+
+# compare <ab n="TIP">X</ab>
+python compare_local_ab.py ../temp_pw_5.txt ../temp_pw_ab_5.txt temp.txt
+0 cases written
+temp_pw_5.txt and temp_pw_ab_5.txt agree
+
+These need to be added to pwab_input_1.txt.
+
+ 
+# ab_glob5.txt
+ Frequency count of global abbreviations, along with current tooltips.
+python ab_glob0.py ../temp_pw_5.txt ../temp_pw_ab_5.txt ../pwab_input_1.txt ab_glob5.txt
+299 distinct <ab>X</ab> from ../temp_pw_5.txt
+299 distinct <ab>X</ab> from ../temp_pw_ab_5.txt
+68 read from ../pwab_input_1.txt
+307 lines written to ab_glob5.txt
+
+
+There are many with no tooltip 
+
+# ../pwab_input_2.txt
+Add 'dummy' tooltips ('??')
+# revise ab_glob5
+# global abbreviations with (a) counts, (b) current tooltips (via pwab_input_2.txt)
+python ab_glob0.py ../temp_pw_5.txt ../temp_pw_ab_5.txt ../pwab_input_2.txt ab_glob5.txt
+299 distinct <ab>X</ab> from ../temp_pw_5.txt
+299 distinct <ab>X</ab> from ../temp_pw_ab_5.txt
+307 read from ../pwab_input_2.txt
+307 lines written to ab_glob5.txt
+
+# local abbreviations with counts
+python ab_local1.py ../temp_pw_5.txt ../temp_pw_ab_5.txt ab_local5.txt
+581 distinct <ab []>X</ab> from ../temp_pw_5.txt
+581 distinct <ab []>X</ab> from ../temp_pw_ab_5.txt
+581 lines written to ab_local5.txt
+0 differences in local abbreviations
+238 distinct abbreviations
+
+
+******************************************************
+******************************************************
+Use 'inline display of abbreviations'
+cp /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue88/dev4_tm/web/webtc/basicadjust.php /c/xampp/htdocs/cologne/csl-websanlexicon/v02/makotemplates/web/webtc/basicadjust.php 
+
+
 ******************************************************
 
