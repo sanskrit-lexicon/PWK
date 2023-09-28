@@ -1,0 +1,64 @@
+; **************************************************************
+; 'is' changes  (see readme/ablists) 5 changes
+; ablists/temp_is_compare_texts_change0_ab.txt 
+; **************************************************************
+; <L>852<pc>1010-3<k1>aGoraGaRwa<k2>aGoraGaRwa<e>100
+3901 old {#aGoraGaRwa#}¦ <lex>m.</lex> {%ein Verehrer der%} <is>Devī </is> {%in einer <ab>best.</ab> Form%}.
+;
+3901 new {#aGoraGaRwa#}¦ <lex>m.</lex> {%ein Verehrer der%} <is>Devī</is> {%in einer <ab>best.</ab> Form%}.
+;---------------------------------------------------
+; <L>35325<pc>2164-3<k1>gAyatrIkAram<k2>gAyatrIkAram<e>000
+170429 old {#gAyatrIkAram#}¦ <ab>Absol.</ab> {%unter Verwandlung in%} <is>Gāyatrī </is>-{%Strophen%}.
+;
+170429 new {#gAyatrIkAram#}¦ <ab>Absol.</ab> {%unter Verwandlung in%} <is>Gāyatrī</is>-{%Strophen%}.
+;---------------------------------------------------
+; <L>63064<pc>4026-3<k1>paPaka<k2>*paPaka<e>100
+309922 old *{#paPaka#}¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes. {#°narakAH#} {%die Nachkommen des%} <is n="Paphaka">P.</is> und <is>Naraka</is>.
+;
+309922 new *{#paPaka#}¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes. {#°narakAH#} {%die Nachkommen des%} <is n="Paphaka">P.</is> {%und%} <is>Naraka</is>.
+;---------------------------------------------------
+; <L>78408<pc>4244-1<k1>Baga<k2>Ba/ga<e>100
+384812 old <div n="2">— b〉 <ab>N. pr.</ab> eines <is>Āditya</is>, Regent des Mondhauses <is>Uttara Phalgunī</is>. Nach der Legende hat <is>Rudra-Śiva</is> ihn geblendet.
+;
+384812 new <div n="2">— b〉 <ab>N. pr.</ab> eines <is>Āditya</is>, Regent des Mondhauses <is>Uttarā Phalgunī</is>. Nach der Legende hat <is>Rudra-Śiva</is> ihn geblendet.
+;---------------------------------------------------
+; <L>78418<pc>4244-2<k1>BagadEvata<k2>BagadEvata<e>100
+384871 old <div n="1">— 2〉 <lex>n.</lex> {%das Mondhaus%} <is>Uttara Phalgunī</is>.
+;
+384871 new <div n="1">— 2〉 <lex>n.</lex> {%das Mondhaus%} <is>Uttarā Phalgunī</is>.
+;---------------------------------------------------
+; <L>86745<pc>5076-3<k1>mAheSvara<k2>mAheSvara<e>100
+427063 old <div n="1">— 2〉 <lex>m.</lex> {%ein Verehrer des%} <is>Śiva</is>, ein {%Śivait%}. Vier Secten derselben <ls>GOVINDĀN. S. 592</ls>. {#parama°#} <ls>KĀD. 249,11</ls>. <ls>HARṢAC. 71,10</ls>. <ab>Nom. abstr.</ab> {#°tA#} <lex>f.</lex>
+;
+427063 new <div n="1">— 2〉 <lex>m.</lex> {%ein Verehrer des%} <is>Śiva</is>, {%ein%} <is>Śivait</is>. Vier Secten derselben <ls>GOVINDĀN. S. 592</ls>. {#parama°#} <ls>KĀD. 249,11</ls>. <ls>HARṢAC. 71,10</ls>. <ab>Nom. abstr.</ab> {#°tA#} <lex>f.</lex>
+;---------------------------------------------------
+; <L>95027<pc>5205-2<k1>romaka<k2>romaka<h>2<e>100
+469109 old <div n="2">— a〉 {%salzhaltige Erde und das aus ihr gezogene Salz%} <ls>RĀJAN. 6,198</ls>. Nach <ls>Mat. med. 85</ls> {%Salz aus dem%} <iw>Sambar</iw>-{%See in%} Ajmīr. <ab>Vgl.</ab> {#rOmaka#} 2〉.
+;
+469109 new <div n="2">— a〉 {%salzhaltige Erde und das aus ihr gezogene Salz%} <ls>RĀJAN. 6,198</ls>. Nach <ls>Mat. med. 85</ls> {%Salz aus dem%} <iw>Sambar</iw>-{%See in%} <iw>Ajmīr</iw>. <ab>Vgl.</ab> {#rOmaka#} 2〉.
+;---------------------------------------------------
+; <L>97336<pc>6004-2<k1>vaNKara<k2>vaNKara<e>100
+481232 old <div n="1">— 2〉 *<lex>m.</lex> <ab>N. pr.</ab> eines Mannes. {#°BaRqIraTAH#} {%die Nachkommen des%} <is n="Vaṅkara">V.</is> und <is n="Bhaṇḍīratha">Bh.</is>
+;
+481232 new <div n="1">— 2〉 *<lex>m.</lex> <ab>N. pr.</ab> eines Mannes. {#°BaRqIraTAH#} {%die Nachkommen des%} <is n="Vaṅkara">V.</is> {%und%} <is n="Bhaṇḍīratha">Bh.</is>
+;---------------------------------------------------
+; <L>97731<pc>6010-2<k1>vatsadevI<k2>vatsadevI<e>100
+483261 old {#vatsadevI#}¦ <lex>f.</lex> <ab>N. pr.</ab> oder <ab>Bez.</ab> einer {%Fürstin%} Nepālʼs <ls>Ind. Antiq. 9,178. 180</ls>.
+;
+483261 new {#vatsadevI#}¦ <lex>f.</lex> <ab>N. pr.</ab> oder <ab>Bez.</ab> einer {%Fürstin%} Nepāls <ls>Ind. Antiq. 9,178. 180</ls>.
+;---------------------------------------------------
+; <L>103059<pc>6099-1<k1>vinA<k2>vi/nA<e>001
+511652 old {#vi/nA#}¦ <ab>Präp.</ab> {%ohne, mit Ausnahme von, ausser, bis auf%} (<ab>excl.</ab>); mit <ab>Acc.</ab> <ab>Instr.</ab> oder <ab>Abl.</ab> die vorangehen oder folgen können. Ausnahmsweise auch in <ab>Comp.</ab> mit der Ergänzung ({#satya°#}). {#vinAkfta#} {%getrennt von%} (<ls>KĀD. 2,91,4</ls> = <ls n="KĀD. 2,">112,6</ls>), {%beraubt, gekommen, um, ermangelnd, frei von;%} die Ergänzung im <ab>Instr.</ab>, <ab>Abl.</ab> oder im <ab>Comp.</ab> vorangehend. Ohne Ergänzung {%allein stehend%}. {#vinAkftya#} so <ab>v. a.</ab> {%ohne%} <ls>Spr. 1360</ls>. Mit {#BU#} {%getrennt werden,%} {#vinABUta#} {%getrennt von, beraubt;%} mit <ab>Instr.</ab> Als <lex>Adv.</lex> und ausserdem überflüssig erscheint {#vinA#} in der Verbindung {#na tadasti vinA deva yatte virahitaM hare#} {%es giebt Nichts, o <is>Hari</is>, wobei du nicht wärest%}.
+;
+511652 new {#vi/nA#}¦ <ab>Präp.</ab> {%ohne, mit Ausnahme von, ausser, bis auf%} (<ab>excl.</ab>); mit <ab>Acc.</ab> <ab>Instr.</ab> oder <ab>Abl.</ab> die vorangehen oder folgen können. Ausnahmsweise auch in <ab>Comp.</ab> mit der Ergänzung ({#satya°#}). {#vinAkfta#} {%getrennt von%} (<ls>KĀD. 2,91,4</ls> = <ls n="KĀD. 2,">112,6</ls>), {%beraubt, gekommen, um, ermangelnd, frei von;%} die Ergänzung im <ab>Instr.</ab>, <ab>Abl.</ab> oder im <ab>Comp.</ab> vorangehend. Ohne Ergänzung {%allein stehend%}. {#vinAkftya#} so <ab>v. a.</ab> {%ohne%} <ls>Spr. 1360</ls>. Mit {#BU#} {%getrennt werden,%} {#vinABUta#} {%getrennt von, beraubt;%} mit <ab>Instr.</ab> Als <lex>Adv.</lex> und ausserdem überflüssig erscheint {#vinA#} in der Verbindung {#na tadasti vinA deva yatte virahitaM hare#} {%es giebt Nichts, o%} <is>Hari</is>, {%wobei du nicht wärest%}.
+;---------------------------------------------------
+; <L>110425<pc>6208-2<k1>SaMBunATa<k2>SaMBunATa<e>100
+548420 old <div n="1">— 1〉 Name eines Tempels in Nepāl.
+;
+548420 new <div n="1">— 1〉 Name eines Tempels in <is>Nepāl</is>.
+;---------------------------------------------------
+; <L>123906<pc>7114-3<k1>sAMtapanIya<k2>sAMtapanI/ya<e>100
+614332 old {#sAMtapanI/ya#}¦ <lex>Adj.</lex> {%auf die%} <is>Marut</is> <is>Sāṃtapana</is> {%bezüglich%}. <lex>f.</lex> {#A#} (<ab>sc.</ab> {#izwi#}) <ls>JAIM. 5,1,30</ls>.
+;
+614332 new {#sAMtapanI/ya#}¦ <lex>Adj.</lex> {%auf die%} <is>Marut Sāṃtapana</is> {%bezüglich%}. <lex>f.</lex> {#A#} (<ab>sc.</ab> {#izwi#}) <ls>JAIM. 5,1,30</ls>.
+;---------------------------------------------------

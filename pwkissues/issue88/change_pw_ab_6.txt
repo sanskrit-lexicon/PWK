@@ -1,0 +1,159 @@
+; *************************************************
+; change_pw_ab_6.txt
+;
+; ************************************************
+; part 1: <ab>inbes.</ab> -> <ab>insbes.</ab>  (18)
+; ************************************************
+; <L>37314<pc>2189-1<k1>graB<k2>graB<e>500
+180058 old <div n="1">— 22〉 {%Jmd aufnehmen, zu sich nehmen%} <ls n="Chr.">47,8</ls>. {%willkommen heissen,%} <ab>inbes.</ab> eine verstossene Gattin •[Page2189-2] •{%wieder aufnehmen%}.
+;
+180058 new <div n="1">— 22〉 {%Jmd aufnehmen, zu sich nehmen%} <ls n="Chr.">47,8</ls>. {%willkommen heissen,%} <ab>insbes.</ab> eine verstossene Gattin •[Page2189-2] •{%wieder aufnehmen%}.
+;---------------------------------------------------
+; <L>42590<pc>2264-2<k1>jAmi<k2>jAmi/<e>100
+207531 old <div n="2">— a〉 in der nachvedischen Sprache {%eine weibliche Verwandte des Hausvaters,%} <ab>inbes.</ab> {%die Schwiegertochter,%} auch wohl {%Schwester%}. Auch {#jAmI#}.
+;
+207531 new <div n="2">— a〉 in der nachvedischen Sprache {%eine weibliche Verwandte des Hausvaters,%} <ab>insbes.</ab> {%die Schwiegertochter,%} auch wohl {%Schwester%}. Auch {#jAmI#}.
+;---------------------------------------------------
+; <L>49141<pc>3071-3<k1>darS<k2>darS<e>500
+240420 old <div n="2">— g〉 {%erschauen ersinnen%} von der {%Intuition übersinnlicher, religiöser Dinge;%} <ab>inbes.</ab> ein heiliges Lied {%erfinden%}.
+;
+240420 new <div n="2">— g〉 {%erschauen ersinnen%} von der {%Intuition übersinnlicher, religiöser Dinge;%} <ab>insbes.</ab> ein heiliges Lied {%erfinden%}.
+;---------------------------------------------------
+; <L>57330<pc>3188-3<k1>nAka<k2>nA/ka<e>100
+281403 old <div n="2">— a〉 {%das Himmelsgewölbe, die Himmelsdecke, der Himmel%}. {#divo/ nA/kaH#} {%das Himmelsgewölbe%}. Auch <ab>Pl.</ab>, <ab>inbes.</ab> deren drei.
+;
+281403 new <div n="2">— a〉 {%das Himmelsgewölbe, die Himmelsdecke, der Himmel%}. {#divo/ nA/kaH#} {%das Himmelsgewölbe%}. Auch <ab>Pl.</ab>, <ab>insbes.</ab> deren drei.
+;---------------------------------------------------
+; <L>70510<pc>4131-3<k1>pracaraRa<k2>pracaraRa<e>100
+346389 old <div n="2">— b〉 {%das anʼs Werk Gehen%} (<ab>inbes.</ab> des <is>Adhvaryu</is>) <ls>MĀN. ŚR. 1,6,4</ls>. <ls>BĀLAR. 53,18</ls>.
+;
+346389 new <div n="2">— b〉 {%das anʼs Werk Gehen%} (<ab>insbes.</ab> des <is>Adhvaryu</is>) <ls>MĀN. ŚR. 1,6,4</ls>. <ls>BĀLAR. 53,18</ls>.
+;---------------------------------------------------
+; <L>71164<pc>4141-2<k1>pratipad<k2>pratipa/d<e>100
+349559 old <div n="1">— 4〉 {%Anfangstag einer Monatshälfte,%} <ab>inbes.</ab> {%das zunehmenden Mondes%} <ls>AGNI-P. 176,1. fgg.</ls>
+;
+349559 new <div n="1">— 4〉 {%Anfangstag einer Monatshälfte,%} <ab>insbes.</ab> {%das zunehmenden Mondes%} <ls>AGNI-P. 176,1. fgg.</ls>
+;---------------------------------------------------
+; <L>87422<pc>5086-2<k1>muc<k2>muc<h>1<e>500
+430503 old <div n="1">— 4〉 {%freigeben, laufen lassen, befreien;%} <ab>Pass.</ab> {%sich von Jmd%} (<ab>Abl.</ab>) {%befreien, sich Jmds Gewalt entziehen; Jmd%} (<ab>Gen.</ab>) {%entkommen; sich befreien —, befreit werden von%} (<ab>Abl.</ab>, <lex>Adv.</lex> auf {#tas#} oder <ab>Instr.</ab>). Ohne Ergänzung {%frei kommen, erlöst werden,%} <ab>inbes.</ab> <lex>n.</lex> {%von den Banden der Welt%}. {#vimukta#} {%befreit —, frei von%} (<ab>Abl.</ab> <ab>Instr.</ab> oder im <ab>Comp.</ab> vorangehend), {%entkommen aus%} (<ab>Abl.</ab>). Ohne Ergänzung {%frei —, flott gemacht%} (Schiff); {%erlöst,%} <ab>insbes.</ab> {%von den Banden der Welt%}.
+;
+430503 new <div n="1">— 4〉 {%freigeben, laufen lassen, befreien;%} <ab>Pass.</ab> {%sich von Jmd%} (<ab>Abl.</ab>) {%befreien, sich Jmds Gewalt entziehen; Jmd%} (<ab>Gen.</ab>) {%entkommen; sich befreien —, befreit werden von%} (<ab>Abl.</ab>, <lex>Adv.</lex> auf {#tas#} oder <ab>Instr.</ab>). Ohne Ergänzung {%frei kommen, erlöst werden,%} <ab>insbes.</ab> <lex>n.</lex> {%von den Banden der Welt%}. {#vimukta#} {%befreit —, frei von%} (<ab>Abl.</ab> <ab>Instr.</ab> oder im <ab>Comp.</ab> vorangehend), {%entkommen aus%} (<ab>Abl.</ab>). Ohne Ergänzung {%frei —, flott gemacht%} (Schiff); {%erlöst,%} <ab>insbes.</ab> {%von den Banden der Welt%}.
+;---------------------------------------------------
+; <L>92727<pc>5169-3<k1>ram<k2>ram<e>500
+457222 old <div n="1">— 2〉 <ab>Act.</ab> <ab>Med.</ab> {%Jmd%} (<ab>Acc.</ab>) {%ergötzen%} <ab>inbes.</ab> {%futuere%}.
+;
+457222 new <div n="1">— 2〉 <ab>Act.</ab> <ab>Med.</ab> {%Jmd%} (<ab>Acc.</ab>) {%ergötzen%} <ab>insbes.</ab> {%futuere%}.
+;---------------------------------------------------
+; <L>96526<pc>5233-1<k1>loka<k2>loka/<e>100
+477383 old <div n="1">— 4〉 {%der grosse Raum, die Welt, Weltraum, jede imaginäre Welt;%} <ab>inbes.</ab> {%Himmel, Stelle im Himmel%}. {#aya/M loka/H#} {%diese Welt%}. {#iha#} {#loke#} hier auf Erden. {#asO/#} oder {#pa/ro#} {#loka/#} {%jene Welt%}. Unter {%zwei Welten%} versteht man {%Himmel und Erde,%} unter {%drei Welten — diese und den Luftraum%} oder •[Page5233-2] •{%die Unterwelt%}. Es werden {%Welten%} von verschiedener Art und Zahl angenommen; <ab>insbes.</ab> {%sieben%}.
+;
+477383 new <div n="1">— 4〉 {%der grosse Raum, die Welt, Weltraum, jede imaginäre Welt;%} <ab>insbes.</ab> {%Himmel, Stelle im Himmel%}. {#aya/M loka/H#} {%diese Welt%}. {#iha#} {#loke#} hier auf Erden. {#asO/#} oder {#pa/ro#} {#loka/#} {%jene Welt%}. Unter {%zwei Welten%} versteht man {%Himmel und Erde,%} unter {%drei Welten — diese und den Luftraum%} oder •[Page5233-2] •{%die Unterwelt%}. Es werden {%Welten%} von verschiedener Art und Zahl angenommen; <ab>insbes.</ab> {%sieben%}.
+;---------------------------------------------------
+; <L>106947<pc>6156-2<k1>veRu<k2>veRu/<e>100
+531183 old <div n="1">— 1〉 {%Rohr, Rohrstab,%} <ab>inbes.</ab> {%Bambusrohr%}. Soll im 60sten Jahre blühen und nach der Blüthe absterben.
+;
+531183 new <div n="1">— 1〉 {%Rohr, Rohrstab,%} <ab>insbes.</ab> {%Bambusrohr%}. Soll im 60sten Jahre blühen und nach der Blüthe absterben.
+;---------------------------------------------------
+; <L>109198<pc>6190-2<k1>SaMs<k2>SaMs<e>500
+542261 old <div n="1">— 1〉 {%laut und feierlich aufsagen, recitiren,%} <ab>inbes.</ab> ein an Götter gerichtetes Lied oder einen solchen Spruch. Im Ritual von der {%Recitation%} des <is>Hotar</is>.
+;
+542261 new <div n="1">— 1〉 {%laut und feierlich aufsagen, recitiren,%} <ab>insbes.</ab> ein an Götter gerichtetes Lied oder einen solchen Spruch. Im Ritual von der {%Recitation%} des <is>Hotar</is>.
+;---------------------------------------------------
+; <L>110442<pc>6208-3<k1>Samya<k2>Samya<e>100
+548493 old <div n="2">— a〉 {%Stock;%} <ab>inbes.</ab> {%Zapfen, Holznagel, Keil, Stützholz;%} nach <ab>Bez.</ab> {%eines <ab>best.</ab> Werkzeugs bei der Behandlung der Hämorrhoiden%}. {#DuroH#} {#Samye#} Name zweier <is>Sāman</is> <ls>ĀRṢ. BR. 1,447</ls>.
+;
+548493 new <div n="2">— a〉 {%Stock;%} <ab>insbes.</ab> {%Zapfen, Holznagel, Keil, Stützholz;%} nach <ab>Bez.</ab> {%eines <ab>best.</ab> Werkzeugs bei der Behandlung der Hämorrhoiden%}. {#DuroH#} {#Samye#} Name zweier <is>Sāman</is> <ls>ĀRṢ. BR. 1,447</ls>.
+;---------------------------------------------------
+; <L>112912<pc>6242-1<k1>SIt<k2>SIt<e>000
+560397 old {#SIt#}¦ <ab>onomatop.</ab> mit {#kar#} {%den Laut%} <is>Śit</is> {%hervorbringen,%} <ab>inbes.</ab> {%vom geräuschvollen Beben der Lippen geschlechtlich aufgeregter Weiber%}. Auch {#sIt#} geschrieben.
+;
+560397 new {#SIt#}¦ <ab>onomatop.</ab> mit {#kar#} {%den Laut%} <is>Śit</is> {%hervorbringen,%} <ab>insbes.</ab> {%vom geräuschvollen Beben der Lippen geschlechtlich aufgeregter Weiber%}. Auch {#sIt#} geschrieben.
+;---------------------------------------------------
+; <L>118626<pc>7036-2<k1>sadman<k2>sa/dman<h>2<e>100
+588765 old <div n="1">— 1〉 {%Sitz, Ort, Aufenthalt;%} <ab>inbes.</ab> {%der Opferplatz; Wohnplatz, Wohnung, Gebäude, Haus; Stall, Schuppen; Tempel;%} <ab>Du.</ab> {%Himmel und Erde%}. Am Ende eines <ab>adj. Comp.</ab> — {%zur Wohnung habend%}.
+;
+588765 new <div n="1">— 1〉 {%Sitz, Ort, Aufenthalt;%} <ab>insbes.</ab> {%der Opferplatz; Wohnplatz, Wohnung, Gebäude, Haus; Stall, Schuppen; Tempel;%} <ab>Du.</ab> {%Himmel und Erde%}. Am Ende eines <ab>adj. Comp.</ab> — {%zur Wohnung habend%}.
+;---------------------------------------------------
+; <L>123608<pc>7109-3<k1>sAcivya<k2>sAcivya<e>100
+612830 old {#sAcivya#}¦ <lex>n.</lex> {%das Amt eines Begleiters, Hülfe, Beistand;%} <ab>inbes.</ab> {%das Amt eines fürstlichen Beistandes, Ministeramt%}.
+;
+612830 new {#sAcivya#}¦ <lex>n.</lex> {%das Amt eines Begleiters, Hülfe, Beistand;%} <ab>insbes.</ab> {%das Amt eines fürstlichen Beistandes, Ministeramt%}.
+;---------------------------------------------------
+; <L>129712<pc>7190-2<k1>somasuta<k2>somasuta<e>100
+642416 old <div n="1">— 1〉 <lex>m.</lex> {%ein Sohn oder Nachkomme%} des {%Mondgottes;%} <ab>inbes.</ab> <ab>Bez.</ab> <is>Buddha</is>ʼs.
+;
+642416 new <div n="1">— 1〉 <lex>m.</lex> {%ein Sohn oder Nachkomme%} des {%Mondgottes;%} <ab>insbes.</ab> <ab>Bez.</ab> <is>Buddha</is>ʼs.
+;---------------------------------------------------
+; <L>130952<pc>7213-3<k1>sTApana<k2>sTApana<e>100
+649323 old <div n="2">— d〉 {%Begründung,%} <ab>inbes.</ab> {%das dialectische Erweisen der Richtigkeit einer These%}.
+;
+649323 new <div n="2">— d〉 {%Begründung,%} <ab>insbes.</ab> {%das dialectische Erweisen der Richtigkeit einer These%}.
+;---------------------------------------------------
+; <L>133572<pc>7254-2<k1>har<k2>har<h>1<e>500
+663066 old <div n="1">— 17〉 {%die Zeit verbringen, — mit%} (<ab>Instr.</ab> <ls>ĀPAST. 1,25,10</ls>. <ls>GAUT. 22,6</ls>), <ab>inbes.</ab> {%auf angenehme Weise, sich vergnügen, lustwandeln%} <ls>VAJRACCH. 26,15</ls>. <ls>HEM. PAR. 1,290. 301. 302. 310. 340</ls>. {#mfgayAm#} so <ab>v. a.</ab> {%sich dem Jagdvergnügen hingeben%} <ls>R. GORR. 2,36,6</ls>. <ab>Vgl.</ab> {#mfgayAvihAra#}. Häufig von <is>Buddha</is>ʼs. {%Aufenthalt an einem Orte%}.
+;
+663066 new <div n="1">— 17〉 {%die Zeit verbringen, — mit%} (<ab>Instr.</ab> <ls>ĀPAST. 1,25,10</ls>. <ls>GAUT. 22,6</ls>), <ab>insbes.</ab> {%auf angenehme Weise, sich vergnügen, lustwandeln%} <ls>VAJRACCH. 26,15</ls>. <ls>HEM. PAR. 1,290. 301. 302. 310. 340</ls>. {#mfgayAm#} so <ab>v. a.</ab> {%sich dem Jagdvergnügen hingeben%} <ls>R. GORR. 2,36,6</ls>. <ab>Vgl.</ab> {#mfgayAvihAra#}. Häufig von <is>Buddha</is>ʼs. {%Aufenthalt an einem Orte%}.
+;---------------------------------------------------
+; ************************************************
+; part 2: 
+; ************************************************
+; part 2: <ab>instebs.</ab> -> <ab>insbes.</ab> (1)
+; ************************************************
+; <L>14843<pc>1175-1<k1>Ap<k2>Ap<e>500
+68164 old <div n="1">— 5〉 {%angelangt, gekommen%}. (<ab>instebs.</ab> von Zeitpunkten); {%herstammend von%} (<ab>Abl.</ab>) <ls n="Chr.">197,4</ls>.
+;
+68164 new <div n="1">— 5〉 {%angelangt, gekommen%}. (<ab>insbes.</ab> von Zeitpunkten); {%herstammend von%} (<ab>Abl.</ab>) <ls n="Chr.">197,4</ls>.
+; ------------------------------------------------
+; ************************************************
+; part 3: <ab>Kalb.</ab> -> Kalb (1)  Not abbrev
+; ************************************************
+; <L>116974<pc>7008-3<k1>saMsfzwaDaya<k2>saMsfzwaDaya/<e>100
+; ************************************************
+580409 old {#saMsfzwaDaya/#}¦ <lex>Adj.</lex> {%mit der Kuh zusammengelassen und saugend%} (<ab>Kalb.</ab>).
+;
+580409 new {#saMsfzwaDaya/#}¦ <lex>Adj.</lex> {%mit der Kuh zusammengelassen und saugend%} (Kalb).
+; ************************************************
+; part 4: <ab>Pt.</ab> -> <ab>Pl.</ab> (1) typo?
+; ************************************************
+; <L>63673<pc>4036-3<k1>parikleSa<k2>parikleSa<e>100
+313027 old {#parikleSa#}¦ <lex>m.</lex> {%Beschwerden, Anstrengungen, Leiden, Qual%}. Ausnahmsweise <ab>Pt.</ab>
+;
+313027 new {#parikleSa#}¦ <lex>m.</lex> {%Beschwerden, Anstrengungen, Leiden, Qual%}. Ausnahmsweise <ab>Pl.</ab>
+; ************************************************
+; part 5: <ab>Red.</ab> -> <ab>Bed.</ab> (5) typo
+; ************************************************
+; <L>62713<pc>4018-2<k1>pad<k2>pad<h>1<e>500
+308009 old <div n="1">— 3〉 {%Hülfe suchend sich an Jmd wenden, sich flüchten zu%}. Nur {#anuprapanna#} mit <ab>act.</ab> <ab>Red.</ab>
+;
+308009 new <div n="1">— 3〉 {%Hülfe suchend sich an Jmd wenden, sich flüchten zu%}. Nur {#anuprapanna#} mit <ab>act.</ab> <ab>Bed.</ab>
+;---------------------------------------------------
+; <L>62713<pc>4018-2<k1>pad<k2>pad<h>1<e>500
+308011 old <div n="1">— 5〉 {%folgen, willfahren;%} mit <ab>Acc.</ab> {#anuprapanna#} mit <ab>act.</ab> <ab>Red.</ab>
+;
+308011 new <div n="1">— 5〉 {%folgen, willfahren;%} mit <ab>Acc.</ab> {#anuprapanna#} mit <ab>act.</ab> <ab>Bed.</ab>
+;---------------------------------------------------
+; <L>62713<pc>4018-2<k1>pad<k2>pad<h>1<e>500
+308026 old <div n="1">— 1〉 {%betreten, hinzutreten, antreten, gelangen nach, sich begeben nach, zu%} oder {%auf, anlangen —, ankommen bei%} (<ab>Acc.</ab>, {#iha#}) {#antareRa#} mit vorangehendem <ab>Acc.</ab> {%treten —, gerathen zwischen%}. {#pratipanna#} mit <ab>act.</ab> <ab>Red.</ab>
+;
+308026 new <div n="1">— 1〉 {%betreten, hinzutreten, antreten, gelangen nach, sich begeben nach, zu%} oder {%auf, anlangen —, ankommen bei%} (<ab>Acc.</ab>, {#iha#}) {#antareRa#} mit vorangehendem <ab>Acc.</ab> {%treten —, gerathen zwischen%}. {#pratipanna#} mit <ab>act.</ab> <ab>Bed.</ab>
+;---------------------------------------------------
+; <L>92252<pc>5163-2<k1>raRya<k2>(raRya)<h>2<e>107
+454903 old <hom>2.</hom> ({#raRya#}) {#raRi/a#}¦ <ls>AV. 9,3,6</ls>. von unbekannter <ab>Red.</ab>
+;
+454903 new <hom>2.</hom> ({#raRya#}) {#raRi/a#}¦ <ls>AV. 9,3,6</ls>. von unbekannter <ab>Bed.</ab>
+;---------------------------------------------------
+; <L>93808<pc>5184-2<k1>rAD<k2>rAD<e>500
+462495 old √{#rAD#}¦,	{#rADati#} (vedisch), {#rADno/tiH#} {#rADyati#} und {#rA/Dyate#} nur mit <ab>intransit.</ab> <ab>Red.</ab>
+;
+462495 new √{#rAD#}¦,	{#rADati#} (vedisch), {#rADno/tiH#} {#rADyati#} und {#rA/Dyate#} nur mit <ab>intransit.</ab> <ab>Bed.</ab>
+;---------------------------------------------------
+; ************************************************
+; part 6: old: <ab n="a.u. = ab usu - as usual ?">a. u.</ab>
+;         new: <ab>v. u.</ab>  print change
+;        Ref: https://github.com/sanskrit-lexicon/PWK/issues/88#issuecomment-1733437857
+; ************************************************
+; <L>25977<pc>2041-3<k1>kAkakulAyaganDika
+123399 old {#kAkakulAyaganDika#}¦ <lex>Adj.</lex> {%stinkend wie ein Krähennest%} <ls>AIT. ĀR. 352,3</ls> <ab n="a.u. = ab usu - as usual ?">a. u.</ab>
+;
+123399 new {#kAkakulAyaganDika#}¦ <lex>Adj.</lex> {%stinkend wie ein Krähennest%} <ls>AIT. ĀR. 352,3</ls> <ab>v. u.</ab>
+; ************************************************

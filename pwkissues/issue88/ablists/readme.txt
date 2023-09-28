@@ -549,4 +549,263 @@ cp /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue88/dev4_tm/web/webtc/basi
 
 
 ******************************************************
+09-24-2023
+Local abbreviations just for 'u.' (und/unter)
+python ab_local_tm1.py ../temp_pw_5.txt ab_local_tm_1.txt
+******************************************************
+09-25-2023
+temp_pw_6.txt,  temp_pw_ab_6.txt, pwab_input_3.txt
+------------------------------------------------------
+---------
+Ref https://github.com/sanskrit-lexicon/PWK/issues/88#issuecomment-1732958845
+  and following comments.
+-----
+<ab>inbes.</ab> -> <ab>insbes.</ab>  (18) typo
+<ab>instebs.</ab> -> <ab>insbes.</ab>  (1) typo
+<ab>Kalb.</ab> -> Kalb (1) typo
+<ab>Pt.</ab> -> <ab>Pl.</ab>  (1) typo?
+<ab>Red.</ab> -> <ab>Bed.</ab> (5) typo
 
+cp pwab_input_2.txt pwab_input_3.txt
+Remove from pwab_input_3.txt : inbes, instebs, Kalb, Pt, Red
+
+------------------------------------------------------
+******************************************************
+ 'is changes'
+<is n="X">Y</is> and <is>Y<is>
+Generally assume pw_ab is correct for <is>X</is>.
+******************************************************
+Generate changes (to temp_pw_6).
+cp temp_pw_6.txt temp_pw_6a.txt
+cp temp_pw_ab_6.txt temp_pw_ab_6a.txt
+touch ../change_pw_6a.txt
+
+------------------------------------------------------
+-----
+change 
+158 matches in 151 lines for "<is>[*]" in buffer: temp_pw_6.txt
+157 matches in 150 lines for "[*]<is>" in buffer: temp_pw_ab_6.txt
+126 matches in 125 lines for "</is>-<is>" in buffer: temp_pw_6a.txt
+
+
+# 
+manually edit temp_pw_6a.txt
+ change <is>* to *<is> --- to agree with Andhrabharati
+ change </is>-<is> --- to agree with Andhrabharati
+ <is>Rc</is> -> <is>Ṛc</is>  (2)
+ <is>Rtu</is> -> <is>Ṛtu</is> (1)
+ <is>Rṣi</is> -> <is>Ṛṣi</is> (6)
+ <is>Civa</is> -> <is>Śiva</is> (12)
+ 
+72 matches for "<is>Viśve Devās</is>" in buffer: temp_pw_ab_6a.txt
+<is>Viśve</is> <is>Devās</is> -> <is>Viśve Devās</is> (51)
+
+ <is n="1">Prākrit</is> -> <lang>Prākrit</lang (127) 
+ <is n="1">prākritisch</is> -> prākritisch (2)
+ <is n="1">Pāli</is> -> <lang>Pāli</lang>  (9)
+ several other is n="1" changes
+ 
+insert temp_is_compare_texts_change0.txt into ../change_pw_6a.txt
+
+python diff_to_changes_dict.py temp_pw_6.txt temp_pw_6a.txt ablists/temp_is_compare_texts_change0.txt
+817 changes written to ablists/temp_is_compare_texts_change0.txt
+
+python updateByLine.py temp_pw_6.txt change_pw_6a.txt temp_pw_6a.txt
+817 lines changed
+
+---------------------------------------
+cd ../
+touch change_pw_ab_6a.txt
+manual changes to temp_pw_ab_6a.txt
+
+------------------------------------
+Partial resolution of is differences -- get the Number of <is>X</is> to be
+the same for all entries
+
+python is_compare_texts_changelen.py ../temp_pw_6a.txt ../temp_pw_ab_6a.txt temp_is_compare_texts_changelen.txt
+230 cases written to temp_is_compare_texts_changelen.txt
+
+Resolve these manually by changes to ../temp_pw_6a.txt, ../temp_pw_ab_6a.txt
+--------
+
+python diff_to_changes_dict.py temp_pw_ab_6.txt temp_pw_ab_6a.txt ablists/temp_is_compare_texts_change0_ab.txt
+12 changes written to ablists/temp_is_compare_texts_change0_ab.txt
+
+insert ablists/temp_is_compare_texts_change0_ab.txt into change_pw_ab_6a.txt
+START HERE problem with updateByLine.py next ...??
+python updateByLine.py temp_pw_ab_6.txt change_pw_ab_6a.txt temp.txt
+diff temp_pw_ab_6a.txt temp.txt | wc -l
+# expect 0
+
+--------------------------------------------------------
+# get first difference in each entry w.r.t. <is>X</is>
+This is don
+# iteration 1
+python is_compare_texts_change.py ../temp_pw_6a.txt ../temp_pw_ab_6a.txt temp_is_compare_texts_change1.txt
+1835 cases written to temp_is_compare_texts_change1.txt
+
+insert temp_is_compare_texts_change1.txt into ../change_pw_6a.txt
+
+cd ../
+python updateByLine.py temp_pw_6.txt change_pw_6a.txt temp_pw_6a.txt
+# 2774 lines changed.
+cd ablists
+
+# iteration 2
+python is_compare_texts_change.py ../temp_pw_6a.txt ../temp_pw_ab_6a.txt temp_is_compare_texts_change2.txt
+289 cases written to temp_is_compare_texts_change2.txt
+
+insert temp_is_compare_texts_change2.txt at end of ../change_pw_6a.txt
+
+cd ../
+python updateByLine.py temp_pw_6.txt change_pw_6a.txt temp_pw_6a.txt
+# 2440 change transactions from change_pw_6a.txt
+cd ablists
+
+# iteration 3
+python is_compare_texts_change.py ../temp_pw_6a.txt ../temp_pw_ab_6a.txt temp_is_compare_texts_change3.txt
+107 cases written to temp_is_compare_texts_change3.txt
+
+insert temp_is_compare_texts_change3.txt at end of ../change_pw_6a.txt
+
+cd ../
+python updateByLine.py temp_pw_6.txt change_pw_6a.txt temp_pw_6a.txt
+# 2547 change transactions from change_pw_6a.txt
+cd ablists
+
+# iteration 4
+python is_compare_texts_change.py ../temp_pw_6a.txt ../temp_pw_ab_6a.txt temp_is_compare_texts_change4.txt
+68 cases written to temp_is_compare_texts_change4.txt
+
+insert temp_is_compare_texts_change4.txt at end of ../change_pw_6a.txt
+
+cd ../
+python updateByLine.py temp_pw_6.txt change_pw_6a.txt temp_pw_6a.txt
+# 2615 change transactions from change_pw_6a.txt
+cd ablists
+
+# iteration 5
+python is_compare_texts_change.py ../temp_pw_6a.txt ../temp_pw_ab_6a.txt temp_is_compare_texts_change5.txt
+56 cases written to temp_is_compare_texts_change5.txt
+
+insert temp_is_compare_texts_change5.txt at end of ../change_pw_6a.txt
+
+cd ../
+python updateByLine.py temp_pw_6.txt change_pw_6a.txt temp_pw_6a.txt
+# 2671 change transactions from change_pw_6a.txt
+cd ablists
+
+# iteration 6
+python is_compare_texts_change.py ../temp_pw_6a.txt ../temp_pw_ab_6a.txt temp_is_compare_texts_change6.txt
+48 cases written to temp_is_compare_texts_change6.txt
+
+insert temp_is_compare_texts_change6.txt at end of ../change_pw_6a.txt
+
+cd ../
+python updateByLine.py temp_pw_6.txt change_pw_6a.txt temp_pw_6a.txt
+# 2719 change transactions from change_pw_6a.txt
+cd ablists
+
+# iteration 7
+python is_compare_texts_change.py ../temp_pw_6a.txt ../temp_pw_ab_6a.txt temp_is_compare_texts_change7.txt
+45 cases written to temp_is_compare_texts_change7.txt
+
+insert temp_is_compare_texts_change7.txt at end of ../change_pw_6a.txt
+
+cd ../
+python updateByLine.py temp_pw_6.txt change_pw_6a.txt temp_pw_6a.txt
+# 2764 change transactions from change_pw_6a.txt
+cd ablists
+
+# iteration 8
+python is_compare_texts_change.py ../temp_pw_6a.txt ../temp_pw_ab_6a.txt temp_is_compare_texts_change8.txt
+45 cases written to temp_is_compare_texts_change8.txt
+
+insert temp_is_compare_texts_change8.txt at end of ../change_pw_6a.txt
+
+cd ../
+python updateByLine.py temp_pw_6.txt change_pw_6a.txt temp_pw_6a.txt
+# 2809 change transactions from change_pw_6a.txt
+cd ablists
+
+# iteration 9
+python is_compare_texts_change.py ../temp_pw_6a.txt ../temp_pw_ab_6a.txt temp_is_compare_texts_change9.txt
+44 cases written to temp_is_compare_texts_change9.txt
+
+insert temp_is_compare_texts_change9.txt at end of ../change_pw_6a.txt
+
+cd ../
+python updateByLine.py temp_pw_6.txt change_pw_6a.txt temp_pw_6a.txt
+# 2853 change transactions from change_pw_6a.txt
+cd ablists
+
+# iteration 10
+python is_compare_texts_change.py ../temp_pw_6a.txt ../temp_pw_ab_6a.txt temp_is_compare_texts_change10.txt
+43 cases written to temp_is_compare_texts_change10.txt
+
+insert temp_is_compare_texts_change10.txt at end of ../change_pw_6a.txt
+
+cd ../
+python updateByLine.py temp_pw_6.txt change_pw_6a.txt temp_pw_6a.txt
+# 2896 change transactions from change_pw_6a.txt
+cd ablists
+
+# iteration 11
+python is_compare_texts_change.py ../temp_pw_6a.txt ../temp_pw_ab_6a.txt temp_is_compare_texts_change11.txt
+41 cases written to temp_is_compare_texts_change11.txt
+
+insert temp_is_compare_texts_change11.txt at end of ../change_pw_6a.txt
+
+cd ../
+python updateByLine.py temp_pw_6.txt change_pw_6a.txt temp_pw_6a.txt
+# 2937 change transactions from change_pw_6a.txt
+cd ablists
+
+# iteration 12
+python is_compare_texts_change.py ../temp_pw_6a.txt ../temp_pw_ab_6a.txt temp_is_compare_texts_change12.txt
+40 cases written to temp_is_compare_texts_change12.txt
+
+insert temp_is_compare_texts_change12.txt at end of ../change_pw_6a.txt
+
+cd ../
+python updateByLine.py temp_pw_6.txt change_pw_6a.txt temp_pw_6a.txt
+# 2937 change transactions from change_pw_6a.txt
+cd ablists
+
+------------------------------------------------------
+python is_glob0.py ../temp_pw_6a.txt ../temp_pw_ab_6a.txt is_glob6a.txt
+
+------------------------------------------------------
+------------------------------------------------------
+-----------------------------------------------------
+python is_compare_texts.py ../temp_pw_6a.txt ../temp_pw_ab_6a.txt temp.txt
+2305 cases written to temp.txt
+
+python is_glob0.py ../temp_pw_6.txt ../temp_pw_ab_6.txt is_glob6.txt
+
+---------------------------
+NEW TAG:
+26 matches in 22 lines for "<iw>" in buffer: temp_pw_ab_6a.txt
+Ref: https://github.com/sanskrit-lexicon/PWK/issues/95#issuecomment-1652090274
+all the wide-spaced entities whether Sanskrit [tagged as <is strings--
+whether being full word(s), or abbreviated] and non-Sanskrit
+[tagged as <iw strings] in "straight face", never in italics
+(even if it is a single letter abbr., at some places).
+cd
+
+---------------------------
+
+<ls>ṚV. 1,61,3. 122,2. 6,67,1. 10,99,1.</ls>  Add n=...
+
+
+python regex_compare_texts.py '<is>Tithi</is>' ../temp_pw_6b.txt ../temp_pw_ab_6a.txt temp.txt
+
+python is_glob0.py ../temp_pw_6a.txt ../temp_pw_ab_6a.txt is_glob6a.txt
+3700 distinct <ab>X</ab> from ../temp_pw_6a.txt
+3700 distinct <is>X</is> from ../temp_pw_ab_6a.txt
+0 instances with different counts
+3700 lines written to is_glob6a.txt
+
+python is_local1.py ../temp_pw_6a.txt ../temp_pw_ab_6a.txt is_local6a.txt
+
+python regex_compare_texts.py '<iw>.*?</iw>' ../temp_pw_6b.txt ../temp_pw_ab_6a.txt temp.txt

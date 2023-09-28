@@ -234,6 +234,103 @@ git commit -m "temp_pw_5.txt, etc.. #88"
 git push
 
 ====================================================================
-====================================================================
+temp_pw_6.txt, temp_pw_ab_6.txt, pwab_input_3.txt
+A few corrections to abbreviations, based on
+https://github.com/sanskrit-lexicon/PWK/issues/88#issuecomment-1732958845
+ change_pw_6.txt (27), change_pw_ab_6.txt (27)
+Related changes to tooltip file pwab_input.
 
+cp temp_pw_6.txt /c/xampp/htdocs/cologne/csl-orig/v02/pw/pw.txt
+
+cp pwab_input_3.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/pw/pywork/pwab/pwab_input.txt
+
+# do local install
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh pw  ../../pw
+sh xmlchk_xampp.sh pw
+# ok
+cd /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue88
+
+# check local installation
+cd /c/xampp/htdocs/cologne/csl-pywork/
+sh generate_dict.sh pw  ../../pw
+sh xmlchk_xampp.sh pw
+# ok
+cd /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue88
+
+# push repositories to GitHub
+----- csl-pywork
+cd /c/xampp/htdocs/cologne/csl-pywork/
+git pull # check for other revisions. Normally no action required
+git status  # v02/distinctfiles/pw/pywork/pwab/pwab_input.txt
+git add .
+git commit -m "PW: Revise pwab_input.txt.
+  Ref: https://github.com/sanskrit-lexicon/PWK/issues/88"
+git push
+
+----- csl-orig
+cd /c/xampp/htdocs/cologne/csl-orig
+git pull # check for other revisions. Normally no action required
+git status  # v02/pw/pw.txt
+git add .
+git commit -m "PW: Revise pw.txt based on temp_pw_6.txt
+  Ref: https://github.com/sanskrit-lexicon/PWK/issues/88"
+git push
+
+--------------------------------------------
+update cologne displays
+login to cologne
+---- csl-orig
+git pull
+---- csl-pywork
+git pull
+cd v02
+sh generate_dict.sh pw  ../../PWScan/2020/
+
+********************************************************************
+
+====================================================================
+temp_pw_6a.txt, temp_pw_ab_6a.txt
+'<is>' tags.  Make changes to pw_6 based on comparison with pw_ab_6
+Also <iw> tag of ab_6 used in pw_6a
+
+change_pw_6a.txt (approximately 2785 lines changed)
+change_pw_ab_6a.txt  (12 lines changed).
+
+
+# do local install
+cp temp_pw_6a.txt /c/xampp/htdocs/cologne/csl-orig/v02/pw/pw.txt
+
+# check local installation
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh pw  ../../pw
+sh xmlchk_xampp.sh pw
+# ok
+cd /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue88
+
+# push repositories to GitHub
+----- csl-orig
+cd /c/xampp/htdocs/cologne/csl-orig
+git pull # check for other revisions. Normally no action required
+git status  # v02/pw/pw.txt
+git add .
+git commit -m "PW: Revise pw.txt based on temp_pw_6a.txt
+  Ref: https://github.com/sanskrit-lexicon/PWK/issues/88"
+git push
+
+--------------------------------------------
+update cologne displays
+login to cologne
+---- csl-orig
+git pull
+---- csl-pywork
+cd v02
+sh generate_dict.sh pw  ../../PWScan/2020/
+
+--------------------------------------------
+sync this repository to Github
+cd /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue88
+
+git add .
+git commit -m "temp_pw_6, 6a, temp_pw_ab_6, 6a. #88"
 ********************************************************************
