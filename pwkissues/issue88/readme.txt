@@ -333,4 +333,55 @@ cd /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue88
 
 git add .
 git commit -m "temp_pw_6, 6a, temp_pw_ab_6, 6a. #88"
+
+====================================================================
+09-28-2023  begin
+<is...> or <iw...> within italic markup.
+Also agreement between AB and CDSL versions on number of italic
+text groups.
+See work on pw_7 in ablists directory.
+10-06-2023 end
+Final results are
+  temp_pw_7.txt, temp_pw_ab_7.txt,
+  change_pw_7.txt, change_pw_ab_7.txt
+
+-----------------------
+# do local install
+cp temp_pw_7.txt /c/xampp/htdocs/cologne/csl-orig/v02/pw/pw.txt
+
+# check local installation
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh pw  ../../pw
+sh xmlchk_xampp.sh pw
+# ok
+cd /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue88
+
+# push repositories to GitHub
+----- csl-orig
+cd /c/xampp/htdocs/cologne/csl-orig
+git pull # check for other revisions. 
+git status  # v02/pw/pw.txt
+git add .
+git commit -m "PW: Revise pw.txt based on temp_pw_7.txt
+  Ref: https://github.com/sanskrit-lexicon/PWK/issues/88"
+git push
+
+--------------------------------------------
+update cologne displays
+login to cologne
+---- csl-orig
+git pull
+---- csl-pywork
+cd v02
+sh generate_dict.sh pw  ../../PWScan/2020/
+
+--------------------------------------------
+sync this repository to Github
+cd /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue88
+
+git add .
+git commit -m "temp_pw_7, temp_pw_ab_7. #88"
+
+
+
 ********************************************************************

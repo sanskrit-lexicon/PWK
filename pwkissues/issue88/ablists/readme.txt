@@ -809,3 +809,775 @@ python is_glob0.py ../temp_pw_6a.txt ../temp_pw_ab_6a.txt is_glob6a.txt
 python is_local1.py ../temp_pw_6a.txt ../temp_pw_ab_6a.txt is_local6a.txt
 
 python regex_compare_texts.py '<iw>.*?</iw>' ../temp_pw_6b.txt ../temp_pw_ab_6a.txt temp.txt
+
+********************************************************************
+09-28-2023
+<is...> or <iw...> within italic markup -- there should be NONE
+cp temp_pw_6a.txt temp_pw_7.txt
+cp temp_pw_ab_6a.txt temp_pw_ab_7.txt
+touch change_pw_7.txt
+touch change_pw_ab_7.txt
+
+9851 matches in 9665 lines for "{%[^%]*<is" in temp_pw_6a.txt
+1 match for "{%[^%]*<iw" in temp_pw_6a.txt
+
+We want to recode to get rid of all of these -- Note none of these
+appear in temp_pw_ab_6a.txt
+
+--------------------
+ Part 1: <iw>
+cp temp_pw_7.txt temp_pw_7_work.txt
+# manual change temp_pw_7_work.txt
+<iw>Kuttak</iw>
+python diff_to_changes_dict.py temp_pw_7.txt temp_pw_7_work.txt temp_change_pw_7_1.txt
+# insert temp_change_pw_7_1.txt into change_pw_7.txt
+python updateByLine.py temp_pw_6a.txt change_pw_7.txt temp_pw_7.txt
+# 1 change transactions from change_pw_7.txt
+# check
+diff temp_pw_7.txt  temp_pw_7_work.txt | wc -l
+# 0 as expected
+
+--------------------
+Part 2
+It is somewhat tricky to get 'good' corrections.
+Thus I try a sequence of 'good' corrections
+This is the first one
+Example:
+Old: {%die Function des <is>Hotraka</is>%}
+New: {%die Function des%} <is>Hotraka</is>
+
+# manual edit in Emacs of temp_pw_7_work.txt
+Y = <is>Z</is> or <is n="W">Z</is>
+{%X Y%} -> {%X%} Y
+1172 matches in 1164 lines for "{%\([^<%]*\) \(<is[^>%]*>[^<%]*</is>\)%}"
+
+# replaced 1172 occurrences:
+{%\([^<%]*\) \(<is[^>%]*>[^<%]*</is>\)%} → {%\1%} \2
+
+python diff_to_changes_dict.py temp_pw_7.txt temp_pw_7_work.txt temp_change_pw_7_2.txt
+# insert temp_change_pw_7_2.txt into change_pw_7.txt
+
+python updateByLine.py temp_pw_6a.txt change_pw_7.txt temp_pw_7.txt
+# 1165 change transactions from change_pw_7.txt
+# check
+diff temp_pw_7.txt  temp_pw_7_work.txt | wc -l
+# 0 as expected
+
+8679 matches in 8578 lines for "{%[^%]*<is" in buffer: temp_pw_7_work.txt
+
+--------------------
+Part 3:
+Same as part 2, except that there is a period before closing italics
+Example:
+old: {%ein <is>Buddha</is>.%}
+new: {%ein%} <is>Buddha</is>.
+
+2162 matches in 2159 lines for "{%\([^<%]*\) \(<is[^>%]*>[^<%]*</is>\)\.%}" in buffer: temp_pw_7_work.txt
+
+Replacement:
+{%\([^<%]*\) \(<is[^>%]*>[^<%]*</is>\)\.%} → {%\1%} \2.
+replace 2162 occurrences
+
+python diff_to_changes_dict.py temp_pw_7.txt temp_pw_7_work.txt temp_change_pw_7_3.txt
+2159 changes
+# insert temp_change_pw_7_3.txt into change_pw_7.txt
+
+python updateByLine.py temp_pw_6a.txt change_pw_7.txt temp_pw_7.txt
+# 3324 change transactions from change_pw_7.txt
+# check
+diff temp_pw_7.txt  temp_pw_7_work.txt | wc -l
+# 0 as expected
+
+6517 matches in 6439  for "{%[^%]*<is" in buffer: temp_pw_7_work.txt
+
+--------------------
+Part 4:
+Example:
+old: {%<is>Agni</is>'s Gattin.%}
+new: {%<is>Agni</is>%}ʼs Gattin.
+Note use of ʼ instead of apostrophe  (there are many more)
+
+453 matches in 451 lines for "{%\(<is[^<%]*</is>\)ʼs 
+
+manual replacements in temp_pw_7_work.txt
+{%\(<is[^<%]*</is>\)'s  → \1ʼs {%
+
+python diff_to_changes_dict.py temp_pw_7.txt temp_pw_7_work.txt temp_change_pw_7_4.txt
+451 lines changed
+# insert temp_change_pw_7_4.txt into change_pw_7.txt
+
+python updateByLine.py temp_pw_6a.txt change_pw_7.txt temp_pw_7.txt
+# 3775 lines changed
+# check
+diff temp_pw_7.txt  temp_pw_7_work.txt | wc -l
+# 0 as expected
+
+6093 matches in 6023 lines for "{%[^%]*<is" in buffer: temp_pw_7_work.txt
+
+--------------------
+Part 5:
+Example:
+old: {%<is>Pavamāna</is> versehen.%}
+new: <is>Pavamāna</is> {%<versehen.%}
+
+manual replacement in temp_pw_7_work
+{%\(<is[^<%]*</is>\)  → \1 {%
+
+348 replacements
+Note: This results in some problems with commas
+Example: <is>Ketu</is> {%, der niedersteigende Knoten.%}
+
+125 matches for "{%, " in buffer: temp_pw_7_work.txt
+Correct these manually
+"{%, "  → , {%
+
+python diff_to_changes_dict.py temp_pw_7.txt temp_pw_7_work.txt temp_change_pw_7_5.txt
+450 changes
+
+# insert temp_change_pw_7_5.txt into change_pw_7.txt
+
+python updateByLine.py temp_pw_6a.txt change_pw_7.txt temp_pw_7.txt
+# 4225 lines changed
+# check
+diff temp_pw_7.txt  temp_pw_7_work.txt | wc -l
+# 0 as expected
+
+5846 matches  for "{%[^%]*<is" in buffer: temp_pw_7_work.txt
+
+--------------------
+Part 6
+
+Example:
+old: {%ein <ab>best.</ab> <is>Samādhi</is>%}
+new: {%ein <ab>best.</ab>%} <is>Samādhi</is>
+Also
+old: {%und <is>Soma</is>.%}
+new: {%und%} <is>Soma</is>.
+
+modify temp_pw_7_work.txt
+ \(<is[^<]*</is>\.?\)%} → %} \1
+1470 replacements
+There are a 6 cases left with ', %}' which are changed to '%}, '
+
+python diff_to_changes_dict.py temp_pw_7.txt temp_pw_7_work.txt temp_change_pw_7_6.txt
+1468 lines changed
+
+# insert temp_change_pw_7_6.txt into change_pw_7.txt
+
+python updateByLine.py temp_pw_6a.txt change_pw_7.txt temp_pw_7.txt
+# 5693 lines changed
+# check
+diff temp_pw_7.txt  temp_pw_7_work.txt | wc -l
+# 0 as expected
+
+4769 matches for "{%[^%]*<is" in buffer: temp_pw_7_work.txt
+
+--------------------
+Part 7
+
+Example:
+old: {%<is>Soma</is>-Stengel%}
+new: <is>Soma</is>-{%Stengel%}
+
+135 matches for "{%<is[^<]*</is>-"
+
+{%\(<is[^<]*</is>\)-\([^ ]\)  -> \1-{%\2
+129 replacements
+additional adjustments in 6 lines
+Example:
+old: {%<is>Soma</is>- Opfer.%}
+new: <is>Soma</is>-{%Opfer.%}
+
+Question:
+17 matches in 13 lines for "-</is>"  should these be "</is>-" ?
+
+python diff_to_changes_dict.py temp_pw_7.txt temp_pw_7_work.txt temp_change_pw_7_7.txt
+134 lines changed
+
+# insert temp_change_pw_7_7.txt into change_pw_7.txt
+
+python updateByLine.py temp_pw_6a.txt change_pw_7.txt temp_pw_7.txt
+# 5827 lines changed
+# check
+diff temp_pw_7.txt  temp_pw_7_work.txt | wc -l
+# 0 as expected
+
+4634 matches for "{%[^%]*<is" in buffer: temp_pw_7_work.txt
+
+--------------------
+Part 8
+Example
+old: {%beschleunigte <is>Soma</is>-Kelterung%}
+new: {%beschleunigte%} <is>Soma</is>-{%Kelterung%}
+
+486 matches in 485 lines for " <is[^<]*</is>-[^{% ]*%}"
+
+ \(<is[^<]*</is>\)-\([^{% ]*\)%} → %} \1-{%\2%}
+486 replacements
+
+python diff_to_changes_dict.py temp_pw_7.txt temp_pw_7_work.txt temp_change_pw_7_8.txt
+485 lines changed
+
+# insert temp_change_pw_7_8.txt into change_pw_7.txt
+
+python updateByLine.py temp_pw_6a.txt change_pw_7.txt temp_pw_7.txt
+# 6312 lines changed
+# check
+diff temp_pw_7.txt  temp_pw_7_work.txt | wc -l
+# 0 as expected
+
+4170 matches for "{%[^%]*<is" in buffer: temp_pw_7_work.txt
+
+--------------------
+Part 9
+Example:
+old: {%noch nicht in die <is>Saṃhitā</is> umgesetzt%}
+new: {%noch nicht in die%} <is>Saṃhitā</is> {%umgesetzt%}
+
+2718 matches for "{%[^%<]* <is[^<]*</is> [^%<]*%}"
+
+Replacement in temp_pw_7_work:
+2718 replacements
+
+python diff_to_changes_dict.py temp_pw_7.txt temp_pw_7_work.txt temp_change_pw_7_9.txt
+2709 lines changed
+
+# insert temp_change_pw_7_9.txt into change_pw_7.txt
+
+python updateByLine.py temp_pw_6a.txt change_pw_7.txt temp_pw_7.txt
+# 9021 lines changed
+# check
+diff temp_pw_7.txt  temp_pw_7_work.txt | wc -l
+# 0 as expected
+
+1452 matches for "{%[^%]*<is" in buffer: temp_pw_7_work.txt
+
+--------------------
+Part 10:
+Example:
+old: {%reich an <is>Soma</is>-Pflanzen oder -Saft.%}
+new: {%reich an%} <is>Soma</is>-{%Pflanzen oder -Saft.%}
+
+243 matches for "{%[^%<]+ <is>[^<]*</is>-[^%<]*%}"
+
+{%\([^%<]+\) \(<is>[^<]*</is>\)-\([^%<]*\)%} → {%\1%} \2-{%\3%}
+243 replacements in temp_pw_7_work.txt
+
+python diff_to_changes_dict.py temp_pw_7.txt temp_pw_7_work.txt temp_change_pw_7_10.txt
+241 lines changed
+
+# insert temp_change_pw_7_10.txt into change_pw_7.txt
+
+python updateByLine.py temp_pw_6a.txt change_pw_7.txt temp_pw_7.txt
+# 9262 lines changed
+# check
+diff temp_pw_7.txt  temp_pw_7_work.txt | wc -l
+# 0 as expected
+
+1209 matches for "{%[^%]*<is" in buffer: temp_pw_7_work.txt
+
+--------------------
+Part 11
+Example:
+old: {%mit <is>Agni</is>'s Schärfe%}
+new: {%mit%} <is>Agni</is>ʼs {%Schärfe%}
+ Note use of ʼ
+
+296 matches for "{%[^%<]+ <is>[^<]*</is>'s\.?%}"
+
+{%\([^%<]+\) \(<is>[^<]*</is>\)'s\(\.?\)%} → {%\1%} \2ʼs\3
+296 replacements in temp_pw_7_work.txt
+
+python diff_to_changes_dict.py temp_pw_7.txt temp_pw_7_work.txt temp_change_pw_7_11.txt
+295 lines changed
+
+# insert temp_change_pw_7_11.txt into change_pw_7.txt
+
+python updateByLine.py temp_pw_6a.txt change_pw_7.txt temp_pw_7.txt
+# 9557 lines changed
+# check
+diff temp_pw_7.txt  temp_pw_7_work.txt | wc -l
+# 0 as expected
+
+913 matches for "{%[^%]*<is" in buffer: temp_pw_7_work.txt
+
+--------------------
+Part 12
+Example
+
+old: {%eine <ab>best.</ab> mythische Waffe <is>Arjuna</is>'s.%}
+new: {%eine <ab>best.</ab> mythische Waffe%} <is>Arjuna</is>'s.
+51 matches for "</is>'s\.?%}"
+
+49 Replacements 
+{%\([^%]+\) \(<is>[^<]*</is>\)'s\(\.?\)%} → {%\1%} \2ʼs\3
+Many manual adjustments to these 49 replacements.
+
+python diff_to_changes_dict.py temp_pw_7.txt temp_pw_7_work.txt temp_change_pw_7_12.txt
+51 lines changed
+
+# insert temp_change_pw_7_12.txt into change_pw_7.txt
+
+python updateByLine.py temp_pw_6a.txt change_pw_7.txt temp_pw_7.txt
+# 9608 lines changed
+# check
+diff temp_pw_7.txt  temp_pw_7_work.txt | wc -l
+# 0 as expected
+
+864 matches for "{%[^%]*<is" in buffer: temp_pw_7_work.txt
+
+--------------------
+Part 13:
+example
+old: 
+new: 
+
+ \(<is[^<]*</is>\)-\([^{%]*\)%} → %} \1-{%\2%}
+41 replacements -- further manual adjustments
+
+python diff_to_changes_dict.py temp_pw_7.txt temp_pw_7_work.txt temp_change_pw_7_13.txt
+41 lines changed
+
+# insert temp_change_pw_7_13.txt into change_pw_7.txt
+
+python updateByLine.py temp_pw_6a.txt change_pw_7.txt temp_pw_7.txt
+# 9649 lines changed
+# check
+diff temp_pw_7.txt  temp_pw_7_work.txt | wc -l
+# 0 as expected
+
+825 matches for "{%[^%]*<is" in buffer: temp_pw_7_work.txt
+
+--------------------
+Part 14:
+Example
+old: {%über <is>Agni</is> und <is>Kaśyapa</is> handelnd.%}
+new: {%über%} <is>Agni</is> {%und%} <is>Kaśyapa</is> {%handelnd.%}
+
+164 matches for "{%[^%<]+ <is[^<]*</is> [^<%]* <is[^<]*</is> [^<%]+%}"
+
+164 Replacements in temp_pw_7_work.txt
+{%\([^%<]+\) \(<is[^<]*</is>\) \([^<%]*\) \(<is[^<]*</is>\) \([^<%]+\)%} → {%\1%} \2 {%\3%} \4 {%\5%}
+
+python diff_to_changes_dict.py temp_pw_7.txt temp_pw_7_work.txt temp_change_pw_7_14.txt
+163 lines changed
+
+# insert temp_change_pw_7_14.txt into change_pw_7.txt
+
+python updateByLine.py temp_pw_6a.txt change_pw_7.txt temp_pw_7.txt
+# 9812 lines changed
+# check
+diff temp_pw_7.txt  temp_pw_7_work.txt | wc -l
+# 0 as expected
+
+661 matches for "{%[^%]*<is" in buffer: temp_pw_7_work.txt
+
+--------------------
+Part 15 
+Example:
+old: {%*<is>Indra</is>'s. Stadt.%}
+new: <is>Indra</is>'s. {%*Stadt.%}
+
+old: {%ein Feind <is>Viṣṇu</is>'s. Deren neun bei den%}
+new: {%ein Feind%} <is>Viṣṇu</is>'s. {%Deren neun bei den%}
+
+ʼ
+
+21 matches for "{%[^%]*</is>'s[^ ]"
+manually changed in temp_pw_7_work.txt
+
+python diff_to_changes_dict.py temp_pw_7.txt temp_pw_7_work.txt temp_change_pw_7_15.txt
+21 lines changed
+
+# insert temp_change_pw_7_15.txt into change_pw_7.txt
+
+python updateByLine.py temp_pw_6a.txt change_pw_7.txt temp_pw_7.txt
+# 9833 lines changed
+# check
+diff temp_pw_7.txt  temp_pw_7_work.txt | wc -l
+# 0 as expected
+
+661 matches for "{%[^%]*<is" in buffer: temp_pw_7_work.txt
+
+--------------------
+Part 16:
+
+187 matches for "{%[^%]*</is>'s.*?%}"
+
+start line 550511 of temp_pw_7_work.txt
+@ -> ʼ,  {{% -> {%
+
+
+python diff_to_changes_dict.py temp_pw_7.txt temp_pw_7_work.txt temp_change_pw_7_16.txt
+187 lines changed
+
+# insert temp_change_pw_7_16.txt into change_pw_7.txt
+
+python updateByLine.py temp_pw_6a.txt change_pw_7.txt temp_pw_7.txt
+# 10020 lines changed
+# check
+diff temp_pw_7.txt  temp_pw_7_work.txt | wc -l
+# 0 as expected
+
+456 matches for "{%[^%]*<is" in buffer: temp_pw_7_work.txt
+
+
+--------------------
+Part 17
+
+manual corrections to these 456
+start L>70153
+
+python diff_to_changes_dict.py temp_pw_7.txt temp_pw_7_work.txt temp_change_pw_7_17.txt
+630 lines changed
+
+# insert temp_change_pw_7_17.txt into change_pw_7.txt
+
+python updateByLine.py temp_pw_6a.txt change_pw_7.txt temp_pw_7.txt
+# 10650 lines changed
+# check
+diff temp_pw_7.txt  temp_pw_7_work.txt | wc -l
+# 0 as expected
+
+0 matches for "{%[^%]*<is" in buffer: temp_pw_7_work.txt
+
+This completes the changes under temp_pw_7 relating to <is> and italics.
+
+changes to temp_pw_ab_7.txt
+change_pw_ab_7.txt  todo
+python diff_to_changes_dict.py temp_pw_ab_6a.txt temp_pw_ab_7.txt temp_change_pw_ab_7_1.txt
+5 change
+
+Insert these into change_pw_ab_7.txt
+
+==============================================================
+resolve differences in number of italic groups
+grep -E "{%" temp_pw_7.txt | wc -l
+171442
+
+grep -E "{%" temp_pw_ab_7.txt | wc -l
+170297
+
+
+python regex_compare_texts_count.py '{%.*?%}' ../temp_pw_7.txt ../temp_pw_ab_7.txt temp.txt
+1805 cases 
+
+Part 18:
+move <lex> tags out of italics
+211 matches for "{%[^%]*<lex" in buffer: temp_pw_7_work.txt
+No cases in ab_7.
+These removed.
+
+python diff_to_changes_dict.py temp_pw_7.txt temp_pw_7_work.txt temp_change_pw_7_18.txt
+211 lines changed
+
+# insert temp_change_pw_7_18.txt into change_pw_7.txt
+
+python updateByLine.py temp_pw_6a.txt change_pw_7.txt temp_pw_7.txt
+10861 lines changed
+# check
+diff temp_pw_7.txt  temp_pw_7_work.txt | wc -l
+# 0 as expected
+
+python regex_compare_texts_count.py '{%.*?%}' ../temp_pw_7.txt ../temp_pw_ab_7.txt temp.txt
+1648 cases
+
+--------------------
+Part 19
+number of italic groups containing abbreviations
+Resolve so these count the same.
+python regex_compare_texts_count.py '{%[^%]*<ab' ../temp_pw_7.txt ../temp_pw_ab_7.txt temp.txt
+1017 cases written to temp.txt
+
+Many steps
+352 matches in 350 lines for "{%[^%]*(<ab>Acc.</ab>)" in buffer: temp_pw_7_work.txt
+Remove these from italic scope.
+
+45 matches for "{%[^%]*(<ab>Dat.</ab>)"
+120 matches for "{%[^%]*(<ab>Gen.</ab>)"
+34 matches for "{%[^%]*(<ab>Abl.</ab>)"
+38 matches for "{%[^%]*(<ab>Instr.</ab>)"
+61 matches in 60 lines for "{%[^%]*<ab>d[.] i[.]</ab>"
+19 matches for "{%[^%]*<ab>Pl[.]
+532 matches in 523 lines 2for "{%[^%]*<ab>v[.] a[.]"
+118 matches for "{%[^%]*<ab>u[.] s[.] w[.]"
+
+489 matches in 1257 lines for "{%[^%]*<ab>[^b]" in buffer: temp_pw_7_work.txt
+168 matches in 167 lines for "{%[^%]*<ab>[^b]" in buffer: temp_pw_ab_7.txt
+
+6 matches for "{%[^%]*<ab>Med\."
+9 matches for "{%[^%]*<ab>Abl.</ab>"
+15 matches for "{%[^%]*<ab>Gen.</ab>"
+72 matches for "{%[^%]*<ab>insbes.</ab>"
+91 matches in 89 lines for "{%[^%]*<ab>Loc\.</ab>"
+34 matches for "{%[^%]*<ab>überh.</ab>"
+30 matches for "{%[^%]*<ab>Bez"
+17 matches for "{%[^%]*<ab>[B]"
+
+python diff_to_changes_dict.py temp_pw_7.txt temp_pw_7_work.txt temp_change_pw_7_19.txt
+1629 lines changed
+
+# insert temp_change_pw_7_19.txt into change_pw_7.txt
+
+python updateByLine.py temp_pw_6a.txt change_pw_7.txt temp_pw_7.txt
+12490 lines changed
+# check
+diff temp_pw_7.txt  temp_pw_7_work.txt | wc -l
+#0 expected
+
+python diff_to_changes_dict.py temp_pw_ab_6a.txt temp_pw_ab_7.txt temp_change_ab_7_1.txt
+17 lines changed.
+
+# insert temp_change_ab_7_1.txt into change_pw_ab_7.txt
+
+python updateByLine.py temp_pw_ab_6a.txt change_pw_ab_7.txt temp.txt
+12490 lines changed
+# check
+diff temp_pw_ab_7.txt  temp.txt | wc -l
+#0 expected
+
+---------------------------------------------
+equalize the NUMBER of italic texts per entry
+---------------------------------------------
+python regex_compare_texts_count.py '{%[^%]*%}' ../temp_pw_7_work.txt ../temp_pw_ab_7.txt temp.txt
+807 cases written to temp.txt
+
+Subcase 'dangling paren'
+175 matches for "{%[^%]*([^%)]*%}
+
+python regex_compare_texts_count.py '{%[^%]*%}' ../temp_pw_7_work.txt ../temp_pw_ab_7.txt temp.txt
+767 cases written to temp.txt
+python regex_compare_texts_count1.py '{%[^%]*%}' ../temp_pw_7_work.txt ../temp_pw_ab_7.txt temp1.org
+
+A few corrections were made manually.
+update temp_pw_7 and temp_pw_ab_7
+
+python diff_to_changes_dict.py temp_pw_7.txt temp_pw_7_work.txt temp_change_pw_7_20.txt
+181  lines changed
+
+# insert temp_change_pw_7_20.txt into change_pw_7.txt
+
+python updateByLine.py temp_pw_6a.txt change_pw_7.txt temp_pw_7.txt
+12671 lines changed
+
+# check
+diff temp_pw_7.txt  temp_pw_7_work.txt | wc -l
+#0 expected
+
+python diff_to_changes_dict.py temp_pw_ab_6a.txt temp_pw_ab_7.txt temp_change_ab_7_1.txt
+18 lines changed.
+
+# insert temp_change_ab_7_1.txt into change_pw_ab_7.txt
+
+python updateByLine.py temp_pw_ab_6a.txt change_pw_ab_7.txt temp.txt
+12490 lines changed
+# check
+diff temp_pw_ab_7.txt  temp.txt | wc -l
+#0 expected
+
+-------------------------------------------------------------
+10-2-2023
+Further work to resolve {%X%} count differences
+Note two new temporary digitizations (.._work1.txt).
+These have metalines of form '* <L>...' for easier comparisons.
+
+python regex_compare_texts_count1.py '{%[^%]*%}' ../temp_pw_7_work.txt ../temp_pw_ab_7.txt temp1.org ../temp_pw_7_work1.txt ../temp_pw_ab_7_work1.txt
+
+
+Intermediate work - derive changes
+Remove temporary markup in temp_pw_7_work1.txt save as temp_pw_7_work2.txt
+python diff_to_changes_dict.py temp_pw_7.txt temp_pw_7_work2.txt temp_change_pw_7_21.txt
+276  lines changed
+
+# insert temp_change_pw_7_21.txt into change_pw_7.txt
+
+python updateByLine.py temp_pw_6a.txt change_pw_7.txt temp_pw_7.txt
+12947 lines changed
+
+# check
+diff temp_pw_7.txt  temp_pw_7_work2.txt | wc -l
+#0 expected
+
+python diff_to_changes_dict.py temp_pw_ab_6a.txt temp_pw_ab_7_work2.txt temp_change_ab_7_1.txt
+27 lines changed.
+
+# insert temp_change_ab_7_1.txt into change_pw_ab_7.txt
+
+python updateByLine.py temp_pw_ab_6a.txt change_pw_ab_7.txt temp_pw_ab_7.txt
+27 lines changed
+# check
+diff temp_pw_ab_7.txt  temp_pw_ab_7_work2.txt | wc -l
+#0 expected
+
+--------------------
+Part 22
+# Reconstruct the work
+mv temp_pw_7_work2.txt temp_pw_7_work.txt
+
+# reconstruct work1 files and temp1.org
+
+python regex_compare_texts_count1.py '{%[^%]*%}' ../temp_pw_7_work.txt ../temp_pw_ab_7.txt temp1.org ../temp_pw_7_work1.txt ../temp_pw_ab_7_work1.txt
+# 546 cases written to temp1.org
+
+-----
+observations during adjustments to temp_pw_7_work1 and temp_pw_ab_7_work1
+Question:  Did Thomas insert Jāmadagnya for — ?
+<L>42583<pc>2264-2<k1>jAmadagnyadvAdaSI<k2>jAmadagnyadvAdaSI<e>100
+{#jAmadagnyadvAdaSI#}¦ <lex>f.</lex> {%der 12te Tag in der%} <is>Jāmadagnya</is>-Hälfte des <is>Vaiśākha</is>.
+scan has:
+{#jAmadagnyadvAdaSI#}¦ <lex>f.</lex> {%der 12te Tag in der — Hälfte des%} <is>Vaiśākha</is>.
+
+¹⁄₆₀ !!
+
+<L>68507<pc>4104-3<k1>puzkaramUlaka  odd markup involving bot, italics
+
+<L>91144<pc>5147-3<k1>yuD
+   need line break at `<div n="1">— 3) {%kämpfen lassen%}`
+
+<L>104497<pc>6120-1<k1>viS
+Page 6122-3,section 5 sich niederlassen, sich niederlegen
+Remove extra text: zu lesen[), - "sich zur Ruhe begeben" auf oder in ...
+
+10-05-2023  Finish
+cp temp_pw_7_work1.txt temp_pw_7_work2.txt
+cp temp_pw_ab_7_work1.txt temp_pw_ab_7_work2.txt
+# remove temporary '* <L>' markup
+# run redo_dev.sh and adjust for xml validity
+sh redo_dev.sh 7_work2
+sh redo_dev.sh ab_7_work2
+# get change file between 7 and 7_work2
+
+python diff_to_changes_dict.py temp_pw_7.txt temp_pw_7_work2.txt temp_change_pw_7_22.txt
+381  lines changed
+
+# insert temp_change_pw_7_22.txt into change_pw_7.txt
+
+python updateByLine.py temp_pw_6a.txt change_pw_7.txt temp_pw_7.txt
+13328 lines changed
+
+# check
+diff temp_pw_7.txt  temp_pw_7_work2.txt | wc -l
+#0 expected
+
+# get change file between ab_7 and ab_7_work2
+python diff_to_changes_dict.py temp_pw_ab_7.txt temp_pw_ab_7_work2.txt temp_change_ab_7_2.txt
+266 changes written to temp_change_ab_7_2.txt
+
+# insert temp_change_ab_7_2.txt into change_pw_ab_7.txt
+
+# revise
+python updateByLine.py temp_pw_ab_6a.txt change_pw_ab_7.txt temp_pw_ab_7.txt
+293 lines changed
+
+# check
+diff temp_pw_ab_7.txt  temp_pw_ab_7_work2.txt | wc -l
+#0 expected
+
+--------------------
+Did we miss any ? rerun
+
+python regex_compare_texts_count1.py '{%[^%]*%}' ../temp_pw_7.txt ../temp_pw_ab_7.txt temp1.org ../temp_pw_7_work3.txt ../temp_pw_ab_7_work3.txt
+12 cases written to temp1.org   yes, we missed 12
+
+Revise temp_pw_7_work3.txt ../temp_pw_ab_7_work3.txt for these cases.
+
+Finish
+cp temp_pw_7_work3.txt temp_pw_7_work4.txt
+cp temp_pw_ab_7_work3.txt temp_pw_ab_7_work4.txt
+# remove temporary '* <L>' markup from the two work4 files
+# run redo_dev.sh and adjust for xml validity
+sh redo_dev.sh 7_work4
+sh redo_dev.sh ab_7_work4
+# get change file between 7 and 7_work4
+
+python diff_to_changes_dict.py temp_pw_7.txt temp_pw_7_work4.txt temp_change_pw_7_23.txt
+9  lines changed
+
+# insert temp_change_pw_7_23.txt into change_pw_7.txt
+
+python updateByLine.py temp_pw_6a.txt change_pw_7.txt temp_pw_7.txt
+13337 lines changed
+
+# check
+diff temp_pw_7.txt  temp_pw_7_work4.txt | wc -l
+#0 expected
+
+# get change file between ab_7 and ab_7_work4
+python diff_to_changes_dict.py temp_pw_ab_7.txt temp_pw_ab_7_work4.txt temp_change_ab_7_3.txt
+9 changes written to temp_change_ab_7_3.txt
+
+# insert temp_change_ab_7_3.txt into change_pw_ab_7.txt
+
+# revise
+python updateByLine.py temp_pw_ab_6a.txt change_pw_ab_7.txt temp_pw_ab_7.txt
+302 lines changed
+
+# check
+diff temp_pw_ab_7.txt  temp_pw_ab_7_work4.txt | wc -l
+#0 expected
+=========================================================================
+THIS FINISHES THIS PHASE:  Now, temp_pw_7.txt and temp_pw_ab_7.txt are
+the same in that each entry has the same NUMBER of italic text fragments.
+=========================================================================
+
+--------------------
+Handle the few revisions mentioned by Andhrabharati at
+ https://github.com/sanskrit-lexicon/PWK/issues/88#issuecomment-1740414273
+ https://github.com/sanskrit-lexicon/PWK/issues/88#issuecomment-1740433718
+
+cp temp_pw_7.txt temp_pw_7_work.txt
+cp temp_pw_ab_7.txt temp_pw_ab_7_work.txt
+
+Manual edits per the github comments.
+REVIEW !!! AB comment discussion.
+
+# get change file between 7 and 7_work
+
+python diff_to_changes_dict.py temp_pw_7.txt temp_pw_7_work.txt temp_change_pw_7_24.txt
+4  lines changed
+
+# insert temp_change_pw_7_24.txt into change_pw_7.txt
+
+python updateByLine.py temp_pw_6a.txt change_pw_7.txt temp_pw_7.txt
+13341 lines changed
+
+# check
+diff temp_pw_7.txt  temp_pw_7_work.txt | wc -l
+#0 expected
+
+-------
+# get change file between ab_7 and ab_7_work
+python diff_to_changes_dict.py temp_pw_ab_7.txt temp_pw_ab_7_work.txt temp_change_ab_7_3.txt
+6 changes written to temp_change_ab_7_3.txt
+
+# insert temp_change_ab_7_3.txt into change_pw_ab_7.txt
+
+# revise
+python updateByLine.py temp_pw_ab_6a.txt change_pw_ab_7.txt temp_pw_ab_7.txt
+308 lines changed
+
+# check
+diff temp_pw_ab_7.txt  temp_pw_ab_7_work.txt | wc -l
+#0 expected
+
+--------------------
+Regen count frequency summaries using version 7.
+python is_local1.py ../temp_pw_7.txt ../temp_pw_ab_7.txt is_local7.txt
+105 lines written to is_local7.txt
+0 differences in local abbreviations
+42 distinct abbreviations
+
+python is_glob0.py ../temp_pw_7.txt ../temp_pw_ab_7.txt is_glob7.txt
+2 instances with different counts
+3701 lines written to is_glob7.txt
+Uttara Phalgunī	0,2	Different counts
+Uttarā Phalgunī	2,0	Different counts
+This is intentional.
+  Ref: https://github.com/sanskrit-lexicon/PWK/issues/88#issuecomment-1740414273
+       and following comments
+       
+--------------------
+--------------------
+--------------------
+--------------------
+--------------------
