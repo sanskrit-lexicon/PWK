@@ -1,0 +1,105 @@
+; *****************************************************************
+; change_pw_ab_8.txt  change file
+; Part 1: 8
+; *****************************************************************
+; Part 1: 8  period at end of italics
+; Part 2: 11  comma, semicolon to go BEFORE %}
+; *****************************************************************
+; <L>1682<pc>1020-3<k1>atiguhA<k2>*atiguhA<e>100
+7791 old *{#atiguhA#}¦ <lex>f.</lex> {%Haemionites cordifolia Roxb.%}
+;
+7791 new *{#atiguhA#}¦ <lex>f.</lex> {%<bot>Haemionites cordifolia Roxb.</bot>%}
+;---------------------------------------------------
+; <L>19968<pc>1244-1<k1>upavawa<k2>*upavawa<e>100
+93514 old *{#upavawa#}¦ <lex>m.</lex> {%Buchanania latifolia Roxb.%}
+;
+93514 new *{#upavawa#}¦ <lex>m.</lex> {%<bot>Buchanania latifolia Roxb.</bot>%}
+;---------------------------------------------------
+; <L>22546<pc>1275-3<k1>ErAvata<k2>ErAvata/<e>100
+105780 old <div n="2">— c〉 {%Artocarpus Lacucha Roxb.%}
+;
+105780 new <div n="2">— c〉 {%<bot>Artocarpus Lacucha Roxb.</bot>%}
+;---------------------------------------------------
+; <L>27050<pc>2055-2<k1>kAla<k2>kAla<h>1<e>100
+128657 old <div n="2">— i〉 mystische <ab>Bez.</ab> {%des Lautes m.%}
+;
+128657 new <div n="2">— i〉 mystische <ab>Bez.</ab> {%des Lautes m%}.
+;---------------------------------------------------
+; <L>33157<pc>2133-1<k1>kzveqa<k2>kzveqa<e>100
+159010 old <div n="2">— e〉 mystische <ab>Bez.</ab> {%des Lautes m.%}
+;
+159010 new <div n="2">— e〉 mystische <ab>Bez.</ab> {%des Lautes m%}.
+;---------------------------------------------------
+; <L>33164<pc>2133-1<k1>kzvela<k2>kzvela<e>100
+159045 old {#kzvela#}¦ <lex>m.</lex> mystische <ab>Bez.</ab> {%des Lautes m.%}
+;
+159045 new {#kzvela#}¦ <lex>m.</lex> mystische <ab>Bez.</ab> {%des Lautes m%}.
+;---------------------------------------------------
+; <L>43961<pc>2284-1<k1>qimBa<k2>qimBa<e>100
+214573 old <div n="2">— d〉 {%Ei.%}
+;
+214573 new <div n="2">— d〉 {%Ei%}.
+;---------------------------------------------------
+; <L>61554<pc>4001-1<k1>pa<k2>*pa<h>4<e>100
+301901 old <div n="2">— b〉 {%Ei.%}
+;
+301901 new <div n="2">— b〉 {%Ei%}.
+;---------------------------------------------------
+; *****************************************************************
+; Part 2: 11  comma, semicolon to go BEFORE %}
+; *****************************************************************
+; <L>11332<pc>1133-2<k1>avyaktavyakta<k2>avyaktavyakta<e>100
+51845 old {#avyaktavyakta#}¦ <lex>Adj.</lex> {%nicht sinnlich wahrnehmbar und zugleich <ab n="sinnlich wahrnehmbar">s. w.</ab>%}, <ab>Beiw.</ab> <is>Śiva</is>ʼs.
+;
+51845 new {#avyaktavyakta#}¦ <lex>Adj.</lex> {%nicht sinnlich wahrnehmbar und zugleich <ab n="sinnlich wahrnehmbar">s. w.</ab>,%} <ab>Beiw.</ab> <is>Śiva</is>ʼs.
+;---------------------------------------------------
+; <L>28209<pc>2069-3<k1>kuc<k2>kuc<e>500
+134291 old <div n="1">— 2〉 {%zusammenziehen, einziehen%}, so <ab>v. a.</ab> {%absorbiren, zu Nichte machen%}.
+;
+134291 new <div n="1">— 2〉 {%zusammenziehen, einziehen,%} so <ab>v. a.</ab> {%absorbiren, zu Nichte machen%}.
+;---------------------------------------------------
+; <L>33059<pc>2132-1<k1>kzEpra<k2>kzEpra<e>100
+158548 old <div n="1">— 1〉 <lex>Adj.</lex> {%durch rasches Sprechen bewirkt; so heisst der%} <is>Saṃdhi</is>, {%welcher durch Uebergang eines i, ī, u oder ū in eines Halbvocal entsteht%}, desgleichen {%der auf einer solchen Silbe entstandene%} <is>Svarita</is>.
+;
+158548 new <div n="1">— 1〉 <lex>Adj.</lex> {%durch rasches Sprechen bewirkt; so heisst der%} <is>Saṃdhi</is>, {%welcher durch Uebergang eines i, ī, u oder ū in eines Halbvocal entsteht,%} desgleichen {%der auf einer solchen Silbe entstandene%} <is>Svarita</is>.
+;---------------------------------------------------
+; <L>61274<pc>3242-3<k1>nErfta<k2>nErfta/<e>100
+300621 old <div n="2">— a〉 {%ein Kind der%} <is>Nirṛti</is>, {%Unhold, Dämon%}, <is>Rakṣas</is>.
+;
+300621 new <div n="2">— a〉 {%ein Kind der%} <is>Nirṛti</is>, {%Unhold, Dämon,%} <is>Rakṣas</is>.
+;---------------------------------------------------
+; <L>62448<pc>4013-2<k1>pat<k2>pat<h>1<e>500
+306341 old <div n="1">— 4〉 {%Jmd%} (<ab>Gen.</ab>) {%erscheinen dünken%}; mit doppeltem <ab>Nomin.</ab> <ls>KĀD. 265,23</ls>.
+;
+306341 new <div n="1">— 4〉 {%Jmd%} (<ab>Gen.</ab>) {%erscheinen dünken;%} mit doppeltem <ab>Nomin.</ab> <ls>KĀD. 265,23</ls>.
+;---------------------------------------------------
+; <L>65309<pc>4059-3<k1>pA<k2>pA<h>1<e>500
+321013 old <div n="3">— β〉 {%eingesogen%}, so <ab>v. a.</ab> {%mit den Ohren <ab n="eingesogen">e.</ab>%}
+;
+321013 new <div n="3">— β〉 {%eingesogen,%} so <ab>v. a.</ab> {%mit den Ohren <ab n="eingesogen">e.</ab>%}
+;---------------------------------------------------
+; <L>75297<pc>4201-1<k1>Pala<k2>Pa/la<e>100
+369714 old <div n="2">— a〉 {%Frucht,%} <ab>insbes.</ab> {%Baumfrucht, fructus;%} auch {%Kern%} einer Frucht. {#Palena#} {#PalamAdiSet#} {%mit der Frucht weise man auf die Frucht%}, so <ab>v. a.</ab> {%mit einer Gabe, die man reicht, spiele man auf eine Gegengabe an%}.
+;
+369714 new <div n="2">— a〉 {%Frucht,%} <ab>insbes.</ab> {%Baumfrucht, fructus;%} auch {%Kern%} einer Frucht. {#Palena#} {#PalamAdiSet#} {%mit der Frucht weise man auf die Frucht,%} so <ab>v. a.</ab> {%mit einer Gabe, die man reicht, spiele man auf eine Gegengabe an%}.
+;---------------------------------------------------
+; <L>75297<pc>4201-1<k1>Pala<k2>Pa/la<e>100
+369720 old <div n="2">— g〉 {%Gewinn%}, so <ab>v. a.</ab> {%Genuss%}.
+;
+369720 new <div n="2">— g〉 {%Gewinn,%} so <ab>v. a.</ab> {%Genuss%}.
+;---------------------------------------------------
+; <L>83401<pc>5030-2<k1>manyA<k2>ma/nyA<e>107
+410432 old {#ma/nyA#}, {#ma/niA#}¦ <lex>f.</lex> <ab>Du.</ab> und <ab>Pl.</ab> {%die Nackenmuskeln,%} {%<zoo>Musculus cucullaris s. trapezius</zoo>%}, {%Nacken%}.
+;
+410432 new {#ma/nyA#}, {#ma/niA#}¦ <lex>f.</lex> <ab>Du.</ab> und <ab>Pl.</ab> {%die Nackenmuskeln,%} {%<zoo>Musculus cucullaris s. trapezius</zoo>,%} {%Nacken%}.
+;---------------------------------------------------
+; <L>90316<pc>5130-3<k1>yamarAjan<k2>yama/rAjan<h>2<e>100
+444840 old <hom>2.</hom> {#yama/rAjan#}¦ <lex>Adj.</lex> <is>Yama</is> {%zum König habend%}, <is>Yama</is>ʼs {%Unterthan%}.
+;
+444840 new <hom>2.</hom> {#yama/rAjan#}¦ <lex>Adj.</lex> <is>Yama</is> {%zum König habend,%} <is>Yama</is>ʼs {%Unterthan%}.
+;---------------------------------------------------
+; <L>98308<pc>6019-3<k1>vayaHsTa<k2>vayaHsTa<e>100
+486300 old <div n="2">— b〉 <ab>Bez.</ab> {%verschiedener Pflanzen%} <ls>CARAKA. 3,8</ls>. Nach den Lexicographen {%<bot>Emblica officinalis</bot>, <bot>Terminalia Chebula</bot>%} oder {%<bot>citrina</bot>, <bot>Cocculus cordifolius</bot>, <bot>Bombax heptaphyllum</bot>%}, = {#atyamlaparRI#}, {#kAkolI#}, {#kzIrakAkolI#} und {#brAhmI#}.
+;
+486300 new <div n="2">— b〉 <ab>Bez.</ab> {%verschiedener Pflanzen%} <ls>CARAKA. 3,8</ls>. Nach den Lexicographen {%<bot>Emblica officinalis</bot>, <bot>Terminalia Chebula</bot>%} oder {%<bot>citrina</bot>, <bot>Cocculus cordifolius</bot>, <bot>Bombax heptaphyllum</bot>,%} = {#atyamlaparRI#}, {#kAkolI#}, {#kzIrakAkolI#} und {#brAhmI#}.
+;---------------------------------------------------

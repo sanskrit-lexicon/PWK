@@ -385,3 +385,8 @@ git commit -m "temp_pw_7, temp_pw_ab_7. #88"
 
 
 ********************************************************************
+punctuation.
+Andhrabharati's revision has several revisions to punctuation conventions
+which are introduced into cdsl version.
+See punct folder readme
+revisions begin with temp_pw_8
