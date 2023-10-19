@@ -390,3 +390,10 @@ Andhrabharati's revision has several revisions to punctuation conventions
 which are introduced into cdsl version.
 See punct folder readme
 revisions begin with temp_pw_8
+*******************************************************************
+zoobot -
+ Markup for tags zoo, bot
+ modify temp_pw_9 based on temp_pw_ab_8
+
+
+ 

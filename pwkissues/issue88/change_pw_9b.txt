@@ -1,0 +1,90 @@
+; ***********************************************************************
+; Changes from temp_pw_9a.txt to temp_pw_9b.txt
+; Part 1: 15 resolve *{% differences, and a few random others
+; ***********************************************************************
+; <L>6228<pc>1073-2<k1>apavarjana<k2>apavarjana<e>100
+28426 old <div n="1">— 3) ({%das Verlassen%}.
+;
+28426 new <div n="1">— 3) *{%das Verlassen%}.
+;---------------------------------------------------
+; <L>18274<pc>1223-1<k1>uttarAhi<k2>uttarA/hi<e>100
+86200 old {#uttarA/hi#}¦ <lex>Adv.</lex> {%nördlich%} <ls>ŚAT. BR.</ls> <ls>DAŚAK. 85,6.</ls> *{% — von%} (<ab>Abl.</ab>).
+;
+86200 new {#uttarA/hi#}¦ <lex>Adv.</lex> {%nördlich%} <ls>ŚAT. BR.</ls> <ls>DAŚAK. 85,6.</ls> * — {%von%} (<ab>Abl.</ab>).
+;---------------------------------------------------
+; <L>28469<pc>2073-2<k1>kuRqalin<k2>kuRqalin<e>100
+137175 old <div n="2">— a) ({%<bot>Cocculus cordifolius</bot>%}.
+;
+137175 new <div n="2">— a) *{%<bot>Cocculus cordifolius</bot>%}.
+;---------------------------------------------------
+; <L>36408<pc>2178-2<k1>go<k2>go/<h>1<e>100
+177535 old <div n="1">— 13) ({%der Sonnenstrahl%} <is>Suṣumṇa</is>.
+;
+177535 new <div n="1">— 13) *{%der Sonnenstrahl%} <is>Suṣumṇa</is>.
+;---------------------------------------------------
+; <L>38468<pc>2206-3<k1>caRqa<k2>ca/Rqa<e>100
+188459 old <div n="2">— b) ({%bei dem die Vorhaut fehlt, beschnitten%}.
+;
+188459 new <div n="2">— b) *{%bei dem die Vorhaut fehlt, beschnitten%}.
+;---------------------------------------------------
+; <L>80202<pc>4272-2<k1>BU<k2>BU<h>1<e>500
+398910 old <div n="1">— 4) {%valere, tüchtig sein, Geltung haben, stark werden,%} {%— sein, die Oberhand haben, die Macht gewinnen%} oder {%besitzen, zu befehlen haben%}. ({#praBuH#} {#praBavati#} so <ab>v. a.</ab> {%der Herr hat zu entscheiden%} <ls>HARṢAC. 150,15</ls>), {%regieren, Macht haben —, verfügen können über%} (<ab>Gen.</ab>,
+;
+398910 new <div n="1">— 4) {%valere, tüchtig sein, Geltung haben, stark werden, — sein, die Oberhand haben, die Macht gewinnen%} oder {%besitzen, zu befehlen haben%}. ({#praBuH#} {#praBavati#} so <ab>v. a.</ab> {%der Herr hat zu entscheiden%} <ls>HARṢAC. 150,15</ls>), {%regieren, Macht haben —, verfügen können über%} (<ab>Gen.</ab>,
+;---------------------------------------------------
+; <L>80202<pc>4272-2<k1>BU<k2>BU<h>1<e>500
+398983 old <div n="1">— 13) {%Etwas für möglich halten%}. {#na#} {#saMBAvitamasmABiradya#} {#DarmAsanamaDyAsitum#} {%ich halte es für unmöglich heute den Richtersitz zu besteigen; *für möglich halten, dass%} (<ab>Potent.</ab> mit und ohne {#yad#} oder <ab>Fut.</ab>) *mit {#na#} {%nicht für möglich halten, dass%} (<ab>Potent.</ab>, <ab>Potent.</ab> mit {#yad#}, {#yacca#}, {#yatra#}, {#yadA#}, {#yadi#} oder {#jAtu#}, <ab>Fut.</ab> oder <ab>Fut.</ab> mit {#kiM#} {#kila#}).
+;
+398983 new <div n="1">— 13) {%Etwas für möglich halten%}. {#na#} {#saMBAvitamasmABiradya#} {#DarmAsanamaDyAsitum#} {%ich halte es für unmöglich heute den Richtersitz zu besteigen;%} *{%für möglich halten, dass%} (<ab>Potent.</ab> mit und ohne {#yad#} oder <ab>Fut.</ab>) *mit {#na#} {%nicht für möglich halten, dass%} (<ab>Potent.</ab>, <ab>Potent.</ab> mit {#yad#}, {#yacca#}, {#yatra#}, {#yadA#}, {#yadi#} oder {#jAtu#}, <ab>Fut.</ab> oder <ab>Fut.</ab> mit {#kiM#} {#kila#}).
+;---------------------------------------------------
+; <L>81741<pc>5006-2<k1>maRicCidrA<k2>*maRicCidrA<e>100
+406793 old <div n="1">— 1) {%eine dem Ingwer ähnlich Wurzel {#medA#}%}
+;
+406793 new <div n="1">— 1) {%eine dem Ingwer ähnlich Wurzel%} ({#medA#}).
+;---------------------------------------------------
+; <L>82955<pc>5024-1<k1>manoguptA<k2>*manoguptA<e>100
+413033 old <div n="1">— 1) {%rother Arsenik%} <ls>RĀJAN. 13,49</ls> ({#manasaSca gupta#} heisst {%und%} {#guptA#} {%hinter {#manas#},%} indem {#manasas#} als <ab>Abl.</ab> zu fassen ist).
+;
+413033 new <div n="1">— 1) {%rother Arsenik%} <ls>RĀJAN. 13,49</ls> ({#manasaSca gupta#} heisst {%und%} {#guptA#} {%hinter%} {#manas#}, indem {#manasas#} als <ab>Abl.</ab> zu fassen ist).
+;---------------------------------------------------
+; <L>87422<pc>5086-2<k1>muc<k2>muc<h>1<e>500
+435464 old <div n="1">— 1) {%Jmd losmachen, freimachen, befreien, — von%} (<ab>Abl.</ab> oder <lex>Adv.</lex> auf {#tas#} <ls n="Chr.">80,2</ls>); <ab>Med.</ab> <ab>Pass.</ab> {%sich losmachen, sich befreien von%} (<ab>Abl.</ab>, <ab>Instr.</ab> und ausnahmsweise <ab>Gen.</ab>), {%entrinnen%}. {#mukta#} {%freigelassen, befreit von%} (<ab>Abl.</ab> oder <ab>Instr.</ab>), {%— *durch%} (<ab>Abl.</ab> oder <ab>Instr.</ab> <ls n="Chr.">231,5</ls>).
+;
+435464 new <div n="1">— 1) {%Jmd losmachen, freimachen, befreien, — von%} (<ab>Abl.</ab> oder <lex>Adv.</lex> auf {#tas#} <ls n="Chr.">80,2</ls>); <ab>Med.</ab> <ab>Pass.</ab> {%sich losmachen, sich befreien von%} (<ab>Abl.</ab>, <ab>Instr.</ab> und ausnahmsweise <ab>Gen.</ab>), {%entrinnen%}. {#mukta#} {%freigelassen, befreit von%} (<ab>Abl.</ab> oder <ab>Instr.</ab>), — *{%durch%} (<ab>Abl.</ab> oder <ab>Instr.</ab> <ls n="Chr.">231,5</ls>).
+;---------------------------------------------------
+; <L>91771<pc>5156-2<k1>raktavarga<k2>*raktavarga<e>100
+457919 old <div n="1">— 1) {%Lack {#lAkzA#}%}.
+;
+457919 new <div n="1">— 1) {%Lack%} {#lAkzA#}.
+;---------------------------------------------------
+; <L>100187<pc>6058-1<k1>vAwyapuzpikA<k2>*vAwyapuzpikA<e>100
+503426 old *{#vAwyapuzpikA#}¦ (<ls>RĀJAN. 4,103</ls>) und {#°puzpI#} (<ls>CARAKA. 1,4</ls>) <lex>f.</lex> %<bot>Sida rhomboidea</bot>%} oder {%<bot>cordifolia</bot>%}.
+;
+503426 new *{#vAwyapuzpikA#}¦ (<ls>RĀJAN. 4,103</ls>) und {#°puzpI#} (<ls>CARAKA. 1,4</ls>) <lex>f.</lex> {%<bot>Sida rhomboidea</bot>%} oder {%<bot>cordifolia</bot>%}.
+;---------------------------------------------------
+; <L>100612<pc>6063-2<k1>vAma<k2>vAma/<h>1<e>100
+505443 old <div n="2">— a) {%die weibliche Brust%}.
+;
+505443 new <div n="2">— a) *{%die weibliche Brust%}.
+;---------------------------------------------------
+; <L>127818<pc>7166-1<k1>suvarRa<k2>suva/rRa<e>100
+641286 old <div n="2">— b) {%eine <ab>best.</ab> Knolle, = {#suvarRalu#}%}.
+;
+641286 new <div n="2">— b) *{%eine <ab>best.</ab> Knolle,%} = {#suvarRalu#}.
+;---------------------------------------------------
+; <L>134569<pc>7273-2<k1>hiNkAra<k2>hiNkAra/<e>100
+676765 old <div n="1">— 1) {%der Laut {#hiN#}%}.
+;
+676765 new <div n="1">— 1) {%der Laut%} {#hiN#}.
+;---------------------------------------------------
+; <L>44217<pc>3004-1<k1>tattvaboDana
+; remove extra ¦ 
+218315 old {#tattvaboDana#}¦ <lex>n.</lex> (<ls>OPP. CAT. 1</ls>) {#°boDaprakaraRa#} <lex>n.</lex> (<ls><ab>ebend.</ab></ls>), {#°boDinI#} <lex>f.</lex>, {#°boDinIkArakaprakaraRa#} <lex>n.</lex> (<ls>OPP. CAT. 1</ls>) und {#°boDinItadDitaprakaraRa#} <lex>n.</lex> (<ls><ab>ebend.</ab></ls>)¦ Titel von Werken.
+;
+218315 new {#tattvaboDana#}¦ <lex>n.</lex> (<ls>OPP. CAT. 1</ls>) {#°boDaprakaraRa#} <lex>n.</lex> (<ls><ab>ebend.</ab></ls>), {#°boDinI#} <lex>f.</lex>, {#°boDinIkArakaprakaraRa#} <lex>n.</lex> (<ls>OPP. CAT. 1</ls>) und {#°boDinItadDitaprakaraRa#} <lex>n.</lex> (<ls><ab>ebend.</ab></ls>) Titel von Werken.
+; ***********************************************************************
+; ***********************************************************************
+; ***********************************************************************
+; ***********************************************************************
+; ***********************************************************************
+; ***********************************************************************

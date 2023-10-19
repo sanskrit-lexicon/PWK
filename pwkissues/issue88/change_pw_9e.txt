@@ -1,0 +1,317 @@
+; ********************************************************
+; change_pw_9e.txt  Changes from pw_9d
+; Part 1: 44  ' and  ʼ
+; Part 2: 16  "ʼs"
+; ********************************************************
+; Part 1 44:  ' and  ʼ
+; ********************************************************
+; <L>8027<pc>1094-1<k1>aBramAtaNga<k2>*aBramAtaNga<e>100
+36688 old *{#aBramAtaNga#}¦ <lex>m.</lex> <is>Indra</is> {%Elephant%}.
+;
+36688 new *{#aBramAtaNga#}¦ <lex>m.</lex> <is>Indra</is>ʼs {%Elephant%}.
+;---------------------------------------------------
+; <L>13225<pc>1156-3<k1>ahinAmaBft<k2>*ahinAmaBft<e>100
+61296 old *{#ahinAmaBft#}¦ <lex>m.</lex> <ab>Bein.</ab> <is>Baladeva</is>.
+;
+61296 new *{#ahinAmaBft#}¦ <lex>m.</lex> <ab>Bein.</ab> <is>Baladeva</is>ʼs.
+;---------------------------------------------------
+; <L>20967<pc>1256-1<k1>UKara<k2>UKara<e>100
+99294 old {#UKara#}¦ <lex>m.</lex> <ab>Pl.</ab> <ab>N. pr.</ab> einer <is>Śiva</is> Secte.
+;
+99294 new {#UKara#}¦ <lex>m.</lex> <ab>Pl.</ab> <ab>N. pr.</ab> einer <is>Śiva</is>ʼitischen Secte.
+;---------------------------------------------------
+; <L>25428<pc>2033-3<k1>kalaSaBU<k2>kalaSaBU<e>100
+121826 old {#kalaSaBU#}¦ <lex>m.</lex> <ab>Bein.</ab> <is>Agastya</is> <ls>BĀLAR. 15,2.</ls>
+;
+121826 new {#kalaSaBU#}¦ <lex>m.</lex> <ab>Bein.</ab> <is>Agastya</is>ʼs <ls>BĀLAR. 15,2.</ls>
+;---------------------------------------------------
+; <L>27060<pc>2056-1<k1>kAlakaRWa<k2>kAlakaRWa<e>100
+130235 old <div n="1">— 6) <ab>Bein.</ab> <is>Śiva</is>.
+;
+130235 new <div n="1">— 6) <ab>Bein.</ab> <is>Śiva</is>ʼs.
+;---------------------------------------------------
+; <L>27893<pc>2066-1<k1>kiMpAka<k2>kiMpAka<e>100
+134157 old <div n="2">— b) *{%<bot>Strychnos nux</bot> vomica%} <ls>RĀJAN. 9,149</ls>ʼ <ab>vgl.</ab> <ls>Mat. med. 198.</ls>
+;
+134157 new <div n="2">— b) *{%<bot>Strychnos nux</bot> vomica%} <ls>RĀJAN. 9,149</ls> <ab>vgl.</ab> <ls>Mat. med. 198.</ls>
+;---------------------------------------------------
+; <L>28916<pc>2079-1<k1>kumBaBU<k2>kumBaBU<e>100
+139406 old {#kumBaBU#}¦ <lex>m.</lex> <ab>Bein.</ab> <is>Agastya</is> <ls>HARṢAC. 177,16.</ls>
+;
+139406 new {#kumBaBU#}¦ <lex>m.</lex> <ab>Bein.</ab> <is>Agastya</is>ʼs <ls>HARṢAC. 177,16.</ls>
+;---------------------------------------------------
+; <L>28928<pc>2079-1<k1>kumBasaMBava<k2>kumBasaMBava<e>100
+139463 old <div n="1">— 1) <is>Agastya</is> <ls>Spr. 7837.</ls>
+;
+139463 new <div n="1">— 1) <is>Agastya</is>ʼs <ls>Spr. 7837.</ls>
+;---------------------------------------------------
+; <L>30006<pc>2091-3<k1>kftaveza<k2>kftaveza<e>100
+144737 old <div n="1">— 2) *<lex>m.</lex> <ab>N. pr.</ab> eines Mannesʼ <ab>vgl.</ab> {#kArtaveza#}.
+;
+144737 new <div n="1">— 2) *<lex>m.</lex> <ab>N. pr.</ab> eines Mannes; <ab>vgl.</ab> {#kArtaveza#}.
+;---------------------------------------------------
+; <L>32709<pc>2128-1<k1>kzIrodatanayA<k2>kzIrodatanayA<e>100
+158571 old {#kzIrodatanayA#}¦ <lex>f.</lex> <ab>Bein.</ab> der <is>Lakṣmī</is>. {#°pati#} <lex>m.</lex> <ab>Bein.</ab> <is>Viṣṇu</is>.
+;
+158571 new {#kzIrodatanayA#}¦ <lex>f.</lex> <ab>Bein.</ab> der <is>Lakṣmī</is>. {#°pati#} <lex>m.</lex> <ab>Bein.</ab> <is>Viṣṇu</is>ʼs.
+;---------------------------------------------------
+; <L>34599<pc>2151-1<k1>ganDavant<k2>ganDavant<e>100
+168054 old <div n="3">— α) der Stadt <is>Vāyu</is>ʼs und *<is>Varuṇa</is>ʼʼs.
+;
+168054 new <div n="3">— α) der Stadt <is>Vāyu</is>ʼs und *<is>Varuṇa</is>ʼs.
+;---------------------------------------------------
+; <L>37206<pc>2187-2<k1>gOrIja<k2>*gOrIja<e>100
+181457 old <div n="1">— 1) <lex>m.</lex> <ab>Metron.</ab> <is>Kārttikeya</is>.
+;
+181457 new <div n="1">— 1) <lex>m.</lex> <ab>Metron.</ab> <is>Kārttikeya</is>ʼs.
+;---------------------------------------------------
+; <L>38708<pc>2209-3<k1>caturmUrti<k2>caturmUrti<e>100
+189608 old <div n="2">— a) <is>Brahman</is>;
+;
+189608 new <div n="2">— a) <is>Brahman</is>ʼs;
+;---------------------------------------------------
+; <L>47852<pc>3054-3<k1>triSira<k2>triSira<e>100
+236850 old <div n="1">— 2) <lex>m.</lex> <ab>N. pr.</ab> eines <is>Rakṣas</is>ʼ = {#triSiras#}.
+;
+236850 new <div n="1">— 2) <lex>m.</lex> <ab>N. pr.</ab> eines <is>Rakṣas</is>, = {#triSiras#}.
+;---------------------------------------------------
+; <L>48730<pc>3066-2<k1>datra<k2>da/tra<e>001
+241067 old {#da/tra#}¦ (wohl von {#day#}) <lex>n.</lex> {%Vermögen, Habe%} ʼ <ab>Pl.</ab> {%Güter%}.
+;
+241067 new {#da/tra#}¦ (wohl von {#day#}) <lex>n.</lex> {%Vermögen, Habe;%} <ab>Pl.</ab> {%Güter%}.
+;---------------------------------------------------
+; <L>50252<pc>3088-2<k1>div<k2>di/v<h>3<e>107
+248954 old <div n="1">— 4) <lex>f.</lex> als Personification {%eine Tochter%} <is>Prajāpati</is>.
+;
+248954 new <div n="1">— 4) <lex>f.</lex> als Personification {%eine Tochter%} <is>Prajāpati</is>ʼs.
+;---------------------------------------------------
+; <L>52296<pc>3116-1<k1>devadunduBi<k2>*devadunduBi<e>100
+259036 old <div n="1">— 2) <ab>Bein.</ab> <is>Indra</is>.
+;
+259036 new <div n="1">— 2) <ab>Bein.</ab> <is>Indra</is>ʼs.
+;---------------------------------------------------
+; <L>52340<pc>3116-2<k1>devapatimantrin<k2>devapatimantrin<e>100
+259240 old {#devapatimantrin#}¦ <lex>m.</lex> <ab>Bein.</ab> <is>Bṛhaspati</is>, {%der Planet Jupiter%}.
+;
+259240 new {#devapatimantrin#}¦ <lex>m.</lex> <ab>Bein.</ab> <is>Bṛhaspati</is>ʼs, {%der Planet Jupiter%}.
+;---------------------------------------------------
+; <L>57052<pc>3185-1<k1>nalinIruha<k2>*nalinIruha<e>100
+283313 old <div n="1">— 1) <lex>m.</lex> <ab>Bein.</ab> <is>Brahman</is>.
+;
+283313 new <div n="1">— 1) <lex>m.</lex> <ab>Bein.</ab> <is>Brahman</is>ʼs.
+;---------------------------------------------------
+; <L>61657<pc>4002-3<k1>pakzipuMgava<k2>pakzipuMgava<e>100
+305951 old <div n="1">— 1) <is>Garuḍa</is>.
+;
+305951 new <div n="1">— 1) <is>Garuḍa</is>ʼs.
+;---------------------------------------------------
+; <L>65580<pc>4064-1<k1>pARinIya<k2>pARinIya<e>100
+326241 old <div n="1">— 3) <is>Pāṇini</is> {%Grammatik%} <ls>HEMĀDRI 1,517,3.</ls>
+;
+326241 new <div n="1">— 3) <is>Pāṇini</is>ʼs {%Grammatik%} <ls>HEMĀDRI 1,517,3.</ls>
+;---------------------------------------------------
+; <L>73716<pc>4178-2<k1>prahasa<k2>prahasa<e>100
+366281 old <div n="1">— 1) *<ab>Bein.</ab> <is>Śiva</is>:s <ls>GAL.</ls>; <ab>vgl.</ab> {#prahAsa#}
+;
+366281 new <div n="1">— 1) *<ab>Bein.</ab> <is>Śiva</is>ʼs <ls>GAL.</ls>; <ab>vgl.</ab> {#prahAsa#}
+;---------------------------------------------------
+; <L>75502<pc>4203-3<k1>PAla<k2>PA/la<e>100
+375031 old <div n="3">— β) <is>Balarāma</is>.
+;
+375031 new <div n="3">— β) <is>Balarāma</is>ʼs.
+;---------------------------------------------------
+; <L>75982<pc>4211-3<k1>balaBadra<k2>balaBadra<e>100
+377649 old <div n="3">— β) eines Nachkommen <is>Bharata</is>.
+;
+377649 new <div n="3">— β) eines Nachkommen <is>Bharata</is>ʼs.
+;---------------------------------------------------
+; <L>82866<pc>5023-1<k1>manu<k2>ma/nu<h>1<e>100
+412629 old <div n="2">— d) <ab>N. pr.</ab> eines göttlichen Wesens, {%Vaters der Menschen%}. Es werden <is>Manu</is> mit folgenden patronymischen Bezeichnungen genannt; <is>Sāṃvaraṇa</is> oder <is>Sāṃvaraṇi</is>, <is>Vivasvant</is> oder <is>Vaivasvata</is> (zwei <is>Manu</is> als Söhne des Sonnengottes <ls n="Chr.">100,7.</ls> <ls n="Chr. 100,">11</ls>), <is>Sāvarṇya</is>, <is>Vāsiṣṭha</is>, <is>Tāpasa</is> und <is>Svāyaṃbhuva</is> oder <is>Hairaṇyagarbha</is> bha. In der späteren Chronologie eröffnet <is>Manu</is> <is>Svāyaṃbhuva</is> die Reihe von sieben <is>Manu</is>, von denen jeder einer <ab>best.</ab> Zeitperiode ({#manvantar#}) vorsteht und in dieser als Schöpfer und Erhalter der Geschöpfe auftritt. Die übrigen heissen <is>Svārociṣa</is>, <is>Auttami</is> (<is>Uttama</is>), <is>Tāmasa</is>, <is>Raivata</is>, <is>Cākṣuṣa</is> und <is>Vaivasvata</is>. Später werden noch sieben zukünftige <is>Manu</is> angereiht. Daher
+;
+412629 new <div n="2">— d) <ab>N. pr.</ab> eines göttlichen Wesens, {%Vaters der Menschen%}. Es werden <is>Manu</is>ʼ mit folgenden patronymischen Bezeichnungen genannt; <is>Sāṃvaraṇa</is> oder <is>Sāṃvaraṇi</is>, <is>Vivasvant</is> oder <is>Vaivasvata</is> (zwei <is>Manu</is> als Söhne des Sonnengottes <ls n="Chr.">100,7.</ls> <ls n="Chr. 100,">11</ls>), <is>Sāvarṇya</is>, <is>Vāsiṣṭha</is>, <is>Tāpasa</is> und <is>Svāyaṃbhuva</is> oder <is>Hairaṇyagarbha</is> bha. In der späteren Chronologie eröffnet <is>Manu</is> <is>Svāyaṃbhuva</is> die Reihe von sieben <is>Manu</is>, von denen jeder einer <ab>best.</ab> Zeitperiode ({#manvantar#}) vorsteht und in dieser als Schöpfer und Erhalter der Geschöpfe auftritt. Die übrigen heissen <is>Svārociṣa</is>, <is>Auttami</is> (<is>Uttama</is>), <is>Tāmasa</is>, <is>Raivata</is>, <is>Cākṣuṣa</is> und <is>Vaivasvata</is>. Später werden noch sieben zukünftige <is>Manu</is> angereiht. Daher
+;---------------------------------------------------
+; <L>83582<pc>5033-1<k1>marutputra<k2>*marutputra<e>100
+416230 old *{#marutputra#}¦ <lex>m.</lex> <ab>Patron.</ab> <is>Bhīma</is>.
+;
+416230 new *{#marutputra#}¦ <lex>m.</lex> <ab>Patron.</ab> <is>Bhīma</is>ʼs.
+;---------------------------------------------------
+; <L>85327<pc>5056-2<k1>mahizArdana<k2>mahizArdana<e>100
+424925 old {#mahizArdana#}¦ <lex>m.</lex> <ab>Bein.</ab> <is>Skanda</is>.
+;
+424925 new {#mahizArdana#}¦ <lex>m.</lex> <ab>Bein.</ab> <is>Skanda</is>ʼs.
+;---------------------------------------------------
+; <L>87999<pc>5096-3<k1>mUlavant<k2>mUlavant<e>100
+438623 old <div n="1">— 2) <lex>m.</lex> angeblich ein <is>Rakṣas</is>ʼs.
+;
+438623 new <div n="1">— 2) <lex>m.</lex> angeblich ein <is>Rakṣas</is>.
+;---------------------------------------------------
+; <L>88652<pc>5104-2<k1>meGavAhana<k2>meGavAhana<e>100
+441692 old <div n="1">— 1) <ab>Bein.</ab> <is>Indra</is>.
+;
+441692 new <div n="1">— 1) <ab>Bein.</ab> <is>Indra</is>ʼs.
+;---------------------------------------------------
+; <L>93218<pc>5177-2<k1>rAGava<k2>rAGava<e>100
+465308 old <div n="1">— 1) {%ein Nachkomme%} <is>Raghu</is>ʼs, <ab>Patron.</ab> <is>Aja</is>ʼs, <is>Daśaratha</is>ʼs und <is>Rāma</is>ʼs. <ab>Du.</ab> <ab>Bez.</ab> <is>Rāma</is>ʼs und <is>Lakṣmaṇa</is>, {#rAGavasiMha#} <ab>Bez.</ab> <is>Rāma</is>ʼs.
+;
+465308 new <div n="1">— 1) {%ein Nachkomme%} <is>Raghu</is>ʼs, <ab>Patron.</ab> <is>Aja</is>ʼs, <is>Daśaratha</is>ʼs und <is>Rāma</is>ʼs. <ab>Du.</ab> <ab>Bez.</ab> <is>Rāma</is>ʼs und <is>Lakṣmaṇa</is>ʼs. {#rAGavasiMha#} <ab>Bez.</ab> <is>Rāma</is>ʼs.
+;---------------------------------------------------
+; <L>94843<pc>5203-1<k1>revati<k2>revati<e>100
+473778 old <div n="1">— 2) = {#revatI#} <ab>N. pr.</ab> der Gattin <is>Balarāma</is>.
+;
+473778 new <div n="1">— 2) = {#revatI#} <ab>N. pr.</ab> der Gattin <is>Balarāma</is>ʼs.
+;---------------------------------------------------
+; <L>95257<pc>5208-3<k1>rOhidaSva<k2>rOhidaSva<e>100
+475934 old {#rOhidaSva#}¦ <lex>m.</lex> <ab>Patron.</ab> des <is>Vasumanas</is>ʼs.
+;
+475934 new {#rOhidaSva#}¦ <lex>m.</lex> <ab>Patron.</ab> des <is>Vasumanas</is>.
+;---------------------------------------------------
+; <L>100632<pc>6063-3<k1>vAmadeva<k2>vAma/deva<h>1<e>100
+505580 old <div n="2">— b) {%eine Form%} <is>Śiva</is>.
+;
+505580 new <div n="2">— b) {%eine Form%} <is>Śiva</is>ʼs.
+;---------------------------------------------------
+; <L>100632<pc>6063-3<k1>vAmadeva<k2>vAma/deva<h>1<e>100
+505582 old <div n="2">— d) {%der dritte Tag%} (<is>Kalpa</is>) {%im Monat%} <is>Brahman</is>.
+;
+505582 new <div n="2">— d) {%der dritte Tag%} (<is>Kalpa</is>) {%im Monat%} <is>Brahman</is>ʼs.
+;---------------------------------------------------
+; <L>102485<pc>6089-3<k1>vittapAla<k2>vittapAla<e>100
+514875 old {#vittapAla#}¦ <lex>m.</lex> {%Hüter der Reichthümer,%} <ab>Bein.</ab> <is>Kubera</is>.
+;
+514875 new {#vittapAla#}¦ <lex>m.</lex> {%Hüter der Reichthümer,%} <ab>Bein.</ab> <is>Kubera</is>ʼs.
+;---------------------------------------------------
+; <L>104556<pc>6124-1<k1>viSAtana<k2>viSAtana<e>100
+525914 old <div n="1">— 1) <lex>Adj.</lex> (<lex>f.</lex> {#I#}) am Ende eines <ab>Comp.</ab> {%fällend, vernichtend%}. Ohne Hinzufügung eines Objects als <ab>Beiw.</ab> <is>Viṣṇu</is> (= {#saMhartara#} nach <ls>NĪLAK.</ls>).
+;
+525914 new <div n="1">— 1) <lex>Adj.</lex> (<lex>f.</lex> {#I#}) am Ende eines <ab>Comp.</ab> {%fällend, vernichtend%}. Ohne Hinzufügung eines Objects als <ab>Beiw.</ab> <is>Viṣṇu</is>ʼs (= {#saMhartara#} nach <ls>NĪLAK.</ls>).
+;---------------------------------------------------
+; <L>107299<pc>6161-1<k1>veDas<k2>veDa/s<e>100
+539343 old <div n="2">— b) {%Schöpfer,%} als <ab>Bez.</ab> <is>Brahman</is>ʼs (auch mit dem Zusatz {#praTama#}), <is>Prajāpati</is>ʼs, <is>Puruṣa</is>ʼs oder des <is>Pumāṃs</is>, <is>Śiva</is>, <is>Viṣṇu</is>ʼs (<is>Kṛṣṇa</is>ʼs), <is>Dharma</is>ʼs und der Sonne (<ls n="Chr.">102,8</ls>).
+;
+539343 new <div n="2">— b) {%Schöpfer,%} als <ab>Bez.</ab> <is>Brahman</is>ʼs (auch mit dem Zusatz {#praTama#}), <is>Prajāpati</is>ʼs, <is>Puruṣa</is>ʼs oder des <is>Pumāṃs</is>, <is>Śiva</is>ʼs, <is>Viṣṇu</is>ʼs (<is>Kṛṣṇa</is>ʼs), <is>Dharma</is>ʼs und der Sonne (<ls n="Chr.">102,8</ls>).
+;---------------------------------------------------
+; <L>109137<pc>6189-2<k1>vrAtyatA<k2>vrAtyatA<e>100
+548643 old {#vrAtyatA#}¦ <lex>f.</lex> <ab>Nom. abstr.</ab> zu  ^2. {#vrAtya#} 1) <is>Viṣṇu</is>.
+;
+548643 new {#vrAtyatA#}¦ <lex>f.</lex> <ab>Nom. abstr.</ab> zu  ^2. {#vrAtya#} 1) <is>Viṣṇu</is>ʼs.
+;---------------------------------------------------
+; <L>110075<pc>6202-3<k1>SatruGna<k2>SatruGna<e>100
+553293 old <div n="1">— 2) <lex>m.</lex> <ab>N. pr.</ab> verschiedener Männer, unter andern der Söhne <is>Daśaratha</is>ʼs, <is>Śvaphalka</is>ʼs und <is>Devaśravasʼ</is>ʼs.
+;
+553293 new <div n="1">— 2) <lex>m.</lex> <ab>N. pr.</ab> verschiedener Männer, unter andern der Söhne <is>Daśaratha</is>ʼs, <is>Śvaphalka</is>ʼs und <is>Devaśravasʼ</is>.
+;---------------------------------------------------
+; <L>118198<pc>7029-1<k1>satya<k2>satya/<e>100
+593768 old <div n="3">— β) eines zu den <is>Viśve Devās</is>ʼs gezählten Wesens.
+;
+593768 new <div n="3">— β) eines zu den <is>Viśve Devās</is> gezählten Wesens.
+;---------------------------------------------------
+; <L>119379<pc>7047-3<k1>saptakft<k2>saptakft<e>100
+599748 old {#saptakft#}¦ <lex>m.</lex> <ab>N. pr.</ab> eines zu den <is>Viśve Devās</is>ʼs {%gezählten Wesens%}.
+;
+599748 new {#saptakft#}¦ <lex>m.</lex> <ab>N. pr.</ab> eines zu den <is>Viśve Devās</is> {%gezählten Wesens%}.
+;---------------------------------------------------
+; <L>126088<pc>7144-1<k1>sucArA<k2>sucArA<e>100
+632572 old {#sucArA#}¦ <lex>f.</lex> <ab>N. pr.</ab> einer Tochter <is>Śvaphalka</is>. <ab>v. l.</ab> {#sucIrA#}.
+;
+632572 new {#sucArA#}¦ <lex>f.</lex> <ab>N. pr.</ab> einer Tochter <is>Śvaphalka</is>ʼs. <ab>v. l.</ab> {#sucIrA#}.
+;---------------------------------------------------
+; <L>126318<pc>7147-2<k1>sudAman<k2>sudAman<e>100
+633781 old <div n="3">— ε) eines armen Brahmanen, den <is>Kṛṣṇa</is>ʼ reich machte.
+;
+633781 new <div n="3">— ε) eines armen Brahmanen, den <is>Kṛṣṇa</is> reich machte.
+;---------------------------------------------------
+; <L>133661<pc>7259-1<k1>hariRa<k2>hariRa/<e>100
+671900 old <div n="3">— α) einer <is>Apsaras</is>ʼs.
+;
+671900 new <div n="3">— α) einer <is>Apsaras</is>.
+;---------------------------------------------------
+; ********************************************************
+; Part 2: 16  "ʼs"
+; ********************************************************
+; <L>17725<pc>1216-2<k1>ugreSa<k2>ugreSa<e>100
+83593 old <div n="1">— 1) {%der gewaltige Herr,%} <ab>Bein.</ab> <is>Śiva</is>ʼ <ls>MBH. 3,106,12.</ls>
+;
+83593 new <div n="1">— 1) {%der gewaltige Herr,%} <ab>Bein.</ab> <is>Śiva</is>ʼs <ls>MBH. 3,106,12.</ls>
+;---------------------------------------------------
+; <L>20628<pc>1252-1<k1>urugAya<k2>urugAya/<e>100
+97640 old <div n="1">— 2) <lex>m.</lex> <ab>Bein.</ab> <is>Viṣṇu</is>ʼ.
+;
+97640 new <div n="1">— 2) <lex>m.</lex> <ab>Bein.</ab> <is>Viṣṇu</is>ʼs.
+;---------------------------------------------------
+; <L>28870<pc>2078-1<k1>kumudinI<k2>kumudinI<e>100
+139127 old <div n="2">— b) der Mutter <is>Raghudeva</is>ʼ.
+;
+139127 new <div n="2">— b) der Mutter <is>Raghudeva</is>ʼs.
+;---------------------------------------------------
+; <L>36905<pc>2184-2<k1>govarDana<k2>govarDana<e>100
+180057 old <div n="1">— 2) <ab>Bein.</ab> <is>Kṛṣṇa</is>ʼ <ls>Spr. 1318.</ls>
+;
+180057 new <div n="1">— 2) <ab>Bein.</ab> <is>Kṛṣṇa</is>ʼs <ls>Spr. 1318.</ls>
+;---------------------------------------------------
+; <L>47235<pc>3046-3<k1>trayaDA<k2>*trayaDA/<e>100
+233844 old *{#trayaDA/#}¦ <lex>Adv.</lex> <ls>GRASSMANN</ls>ʼS. Vermuthung für {#treDA/#} <ls n="Chr.">3,2.</ls>
+;
+233844 new *{#trayaDA/#}¦ <lex>Adv.</lex> <ls>GRASSMANN</ls>ʼs. Vermuthung für {#treDA/#} <ls n="Chr.">3,2.</ls>
+;---------------------------------------------------
+; <L>52834<pc>3121-3<k1>dEteya<k2>dEteya<h>1<e>100
+261508 old <div n="1">— 1) <lex>m.</lex> {%ein Sohn oder ein Abkömmling der%} <is>Diti</is>, {%ein%} <is>Asura</is>; <ab>Insbes.</ab> <ab>Bez.</ab> <is>Rāhu</is>ʼ.
+;
+261508 new <div n="1">— 1) <lex>m.</lex> {%ein Sohn oder ein Abkömmling der%} <is>Diti</is>, {%ein%} <is>Asura</is>; <ab>Insbes.</ab> <ab>Bez.</ab> <is>Rāhu</is>ʼs.
+;---------------------------------------------------
+; <L>54829<pc>3148-2<k1>Darmayoni<k2>Darmayoni<e>100
+271316 old {#Darmayoni#}¦ <lex>m.</lex> {%der Mutterschooss des Gesetzes,%} <ab>Bein.</ab> <is>Viṣṇu</is>ʼ <ls>VIṢṆUS. 1,54.</ls>
+;
+271316 new {#Darmayoni#}¦ <lex>m.</lex> {%der Mutterschooss des Gesetzes,%} <ab>Bein.</ab> <is>Viṣṇu</is>ʼs <ls>VIṢṆUS. 1,54.</ls>
+;---------------------------------------------------
+; <L>59113<pc>3212-3<k1>niruktavant<k2>niruktavant<e>100
+293323 old {#niruktavant#}¦ <lex>m.</lex> <ab>Bein.</ab> <is>Yāska</is>ʼa.
+;
+293323 new {#niruktavant#}¦ <lex>m.</lex> <ab>Bein.</ab> <is>Yāska</is>ʼs.
+;---------------------------------------------------
+; <L>65430<pc>4062-1<k1>pAcima<k2>pAcima<e>100
+325462 old {#pAcima#}¦ <lex>n.</lex> <ls>CAKRADATTA</ls>ʼS Lesart für {#paktrima#} 2) <ls>SUŚR. 1,157,8.</ls>
+;
+325462 new {#pAcima#}¦ <lex>n.</lex> <ls>CAKRADATTA</ls>ʼs Lesart für {#paktrima#} 2) <ls>SUŚR. 1,157,8.</ls>
+;---------------------------------------------------
+; <L>75238<pc>4200-1<k1>PaRaDara<k2>PaRaDara<e>100
+373749 old {#PaRaDara#}¦ <lex>m.</lex> <ab>dass.</ab> {#°Dara#} <lex>m.</lex> <ab>Bein.</ab> <is>Śiva</is>ʼa.
+;
+373749 new {#PaRaDara#}¦ <lex>m.</lex> <ab>dass.</ab> {#°Dara#} <lex>m.</lex> <ab>Bein.</ab> <is>Śiva</is>ʼs.
+;---------------------------------------------------
+; <L>82866<pc>5023-1<k1>manu<k2>ma/nu<h>1<e>100
+412629 old <div n="2">— d) <ab>N. pr.</ab> eines göttlichen Wesens, {%Vaters der Menschen%}. Es werden <is>Manu</is>ʼ mit folgenden patronymischen Bezeichnungen genannt; <is>Sāṃvaraṇa</is> oder <is>Sāṃvaraṇi</is>, <is>Vivasvant</is> oder <is>Vaivasvata</is> (zwei <is>Manu</is> als Söhne des Sonnengottes <ls n="Chr.">100,7.</ls> <ls n="Chr. 100,">11</ls>), <is>Sāvarṇya</is>, <is>Vāsiṣṭha</is>, <is>Tāpasa</is> und <is>Svāyaṃbhuva</is> oder <is>Hairaṇyagarbha</is> bha. In der späteren Chronologie eröffnet <is>Manu</is> <is>Svāyaṃbhuva</is> die Reihe von sieben <is>Manu</is>, von denen jeder einer <ab>best.</ab> Zeitperiode ({#manvantar#}) vorsteht und in dieser als Schöpfer und Erhalter der Geschöpfe auftritt. Die übrigen heissen <is>Svārociṣa</is>, <is>Auttami</is> (<is>Uttama</is>), <is>Tāmasa</is>, <is>Raivata</is>, <is>Cākṣuṣa</is> und <is>Vaivasvata</is>. Später werden noch sieben zukünftige <is>Manu</is> angereiht. Daher
+;
+412629 new <div n="2">— d) <ab>N. pr.</ab> eines göttlichen Wesens, {%Vaters der Menschen%}. Es werden <is>Manu</is>ʼs mit folgenden patronymischen Bezeichnungen genannt; <is>Sāṃvaraṇa</is> oder <is>Sāṃvaraṇi</is>, <is>Vivasvant</is> oder <is>Vaivasvata</is> (zwei <is>Manu</is> als Söhne des Sonnengottes <ls n="Chr.">100,7.</ls> <ls n="Chr. 100,">11</ls>), <is>Sāvarṇya</is>, <is>Vāsiṣṭha</is>, <is>Tāpasa</is> und <is>Svāyaṃbhuva</is> oder <is>Hairaṇyagarbha</is> bha. In der späteren Chronologie eröffnet <is>Manu</is> <is>Svāyaṃbhuva</is> die Reihe von sieben <is>Manu</is>, von denen jeder einer <ab>best.</ab> Zeitperiode ({#manvantar#}) vorsteht und in dieser als Schöpfer und Erhalter der Geschöpfe auftritt. Die übrigen heissen <is>Svārociṣa</is>, <is>Auttami</is> (<is>Uttama</is>), <is>Tāmasa</is>, <is>Raivata</is>, <is>Cākṣuṣa</is> und <is>Vaivasvata</is>. Später werden noch sieben zukünftige <is>Manu</is> angereiht. Daher
+;---------------------------------------------------
+; <L>92705<pc>5168-3<k1>rapas<k2>ra/pas<e>100
+462512 old {#ra/pas#}¦ <lex>n.</lex> {%Gebrechen, körperlicher Schaden, Verletzung%}. <ls>ṚV. 1,69,8. 6,31,3</ls> nach <ls>SĀY.</ls> = {#rakzas#}, nach <ls>AUFRECHT</ls>ʼS sicherer Vermuthung (<ls>KUHNʼS Z. 25,601</ls>) ist aber {#vive/r#} {#a/pAMsi#} und {#a/viver#} {#a/pAMsi#} zu trennen.
+;
+462512 new {#ra/pas#}¦ <lex>n.</lex> {%Gebrechen, körperlicher Schaden, Verletzung%}. <ls>ṚV. 1,69,8. 6,31,3</ls> nach <ls>SĀY.</ls> = {#rakzas#}, nach <ls>AUFRECHT</ls>ʼs sicherer Vermuthung (<ls>KUHNʼS Z. 25,601</ls>) ist aber {#vive/r#} {#a/pAMsi#} und {#a/viver#} {#a/pAMsi#} zu trennen.
+;---------------------------------------------------
+; <L>97667<pc>6009-2<k1>vaqQ<k2>*vaqQ<e>500
+488775 old *{#vaqQ#}¦, {#vaqQati#} <ls>PAT. zu P. 1,3,1</ls>, <ls>Vārtt. 12</ls> in <ls>KIELHORN</ls>ʼS <ab>Ausg.</ab>
+;
+488775 new *{#vaqQ#}¦, {#vaqQati#} <ls>PAT. zu P. 1,3,1</ls>, <ls>Vārtt. 12</ls> in <ls>KIELHORN</ls>ʼs <ab>Ausg.</ab>
+;---------------------------------------------------
+; <L>115332<pc>6277-3<k1>Srutadeva<k2>Srutadeva<e>100
+579604 old <div n="2">— b) <ab>N. pr.</ab> eines Sohnes und eines Dieners des <is>Kṛṣṇa</is>ʼ
+;
+579604 new <div n="2">— b) <ab>N. pr.</ab> eines Sohnes und eines Dieners des <is>Kṛṣṇa</is>ʼs.
+;---------------------------------------------------
+; <L>119056<pc>7043-1<k1>saMDi<k2>saMDi/<e>100
+598203 old <div n="2">— i) {%Ort oder Zeit des Zusammentreffens, Berührungspunct, Grenze%} (<ls>ĀPAST. 1,11,9.</ls> <ls>MBH. 12,69,6.</ls> <ls>HARIV. 9004</ls>); {%Zwischenraum, Zwischenzeit%}. <lex>f.</lex> <ls>GARGA</ls> in <ls>KERN</ls>ʼS Uebersetzung zu <ls>VARĀH. BṚH. S. 30,2.</ls>
+;
+598203 new <div n="2">— i) {%Ort oder Zeit des Zusammentreffens, Berührungspunct, Grenze%} (<ls>ĀPAST. 1,11,9.</ls> <ls>MBH. 12,69,6.</ls> <ls>HARIV. 9004</ls>); {%Zwischenraum, Zwischenzeit%}. <lex>f.</lex> <ls>GARGA</ls> in <ls>KERN</ls>ʼs Uebersetzung zu <ls>VARĀH. BṚH. S. 30,2.</ls>
+;---------------------------------------------------
+; <L>130308<pc>7198-1<k1>skaBAy<k2>skaBAy<e>500
+653326 old <div n="p">— Mit {#aBi#} {#aBiskaBAyat#} <ls>P. 3,1,84</ls>, <ls>Vārtt.</ls> <ab>Schol.</ab> <ab>Vgl.</ab> jedoch <ls>KIELHORN</ls>ʼS <ab>Ausg.</ab>, wo statt dessen {#mahI#} {#askaBAyat#} gelesen wird.
+;
+653326 new <div n="p">— Mit {#aBi#} {#aBiskaBAyat#} <ls>P. 3,1,84</ls>, <ls>Vārtt.</ls> <ab>Schol.</ab> <ab>Vgl.</ab> jedoch <ls>KIELHORN</ls>ʼs <ab>Ausg.</ab>, wo statt dessen {#mahI#} {#askaBAyat#} gelesen wird.
+;---------------------------------------------------
+; ********************************************************
+; ********************************************************
+; ********************************************************
+; ********************************************************
+; ********************************************************
+; ********************************************************
+; ********************************************************
