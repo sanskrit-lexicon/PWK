@@ -739,3 +739,4 @@ cd /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue88
 
 git add .
 git commit -m "temp_pw_9e, temp_pw_ab_9. #88"
+git push
