@@ -3,6 +3,7 @@ See zoobot/readme.txt for more procedural details.
 ``` 
 temp_pw_9e.txt   47889 lines changed from previous version temp_pw_8.txt
 temp_pw_ab_9.txt   161 lines changed from previous version temp_pw_ab_8.txt
+```
 ---------------------------------------------------------
 ### local file temp_pw_9.txt
 508 lines changed
