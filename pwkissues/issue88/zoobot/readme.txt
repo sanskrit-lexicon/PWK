@@ -632,7 +632,7 @@ touch change_pw_9e.txt
 # manual insert zoobot/temp_change_pw_9e_1.txt into change_pw_9e.txt
 # generate temp_pw_9e.txt
 python updateByLine.py temp_pw_9d.txt change_pw_9e.txt temp_pw_9e.txt
-# 44 ines changed
+# 44 lines changed
 # check
 diff temp_pw_9e.txt temp_pw_9e_work.txt | wc -l
 # 0 as expected
@@ -740,3 +740,74 @@ cd /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue88
 git add .
 git commit -m "temp_pw_9e, temp_pw_ab_9. #88"
 git push
+*********************************************************
+
+  Ref: https://github.com/sanskrit-lexicon/PWK/issues/88#issuecomment-1770337758
+# Correct by revision to temp_pw_9e.txt
+cp temp_pw_9e.txt temp_pw_9e_work.txt
+Manual edit temp_pw_9e_work.txt
+1. ' ,'  -> ','  (6 cases)
+2q. comma at beginning of line  (92 cases)
+   move to previous line (but most have a [PageX] as previous line,
+     so for these move to end of line preceding the [PageX] line
+2b. semicolon at beginning of line (2 cases)
+2c. period at beginning of line  (1 case)
+2d. remove space at end of line (36 cases)
+3. -- no changes at present time.
+4a. missing bot markup when compared with the revised pw.AB.v1.txt
+   This will require different activity. Defer for now
+4b. Dass. => <ab>Dass.</ab> (3 cases)
+
+Revise temp_pw_9e.txt
+# Generate change transactions for temp_pw_9e
+python diff_to_changes_dict.py temp_pw_9e.txt temp_pw_9e_work.txt zoobot/temp_change_pw_9e_3.txt
+235 changes written to zoobot/temp_change_pw_9e_3.txt
+
+# manual insert zoobot/temp_change_pw_9e_1.txt into change_pw_9e.txt
+python updateByLine.py temp_pw_9d.txt change_pw_9e.txt temp_pw_9e.txt
+295 lines changed
+#check
+diff temp_pw_9e.txt temp_pw_9e_work.txt | wc -l
+# 0 as expected
+------------------------------------------
+Install revised temp_pw_9e.txt in csl-orig, etc.
+-----------------------
+# do local install
+cp temp_pw_9e.txt /c/xampp/htdocs/cologne/csl-orig/v02/pw/pw.txt
+
+# check local installation
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh pw  ../../pw
+sh xmlchk_xampp.sh pw
+# ok
+cd /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue88
+
+# push repositories to GitHub
+----- csl-orig
+cd /c/xampp/htdocs/cologne/csl-orig
+git pull # check for other revisions. 
+git status  # v02/pw/pw.txt
+git add .
+git commit -m "PW: Revise pw.txt based on revised temp_pw_9e.txt
+  Ref: https://github.com/sanskrit-lexicon/PWK/issues/88"
+git push
+
+--------------------------------------------
+update cologne displays
+login to cologne
+---- csl-orig
+git pull
+---- csl-pywork
+cd v02
+sh generate_dict.sh pw  ../../PWScan/2020/
+
+--------------------------------------------
+sync this repository to Github
+cd /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue88
+
+git add .
+git commit -m "temp_pw_9e, temp_pw_ab_9. #88"
+git push
+
+
+*********************************************************
