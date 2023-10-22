@@ -811,3 +811,281 @@ git push
 
 
 *********************************************************
+9f Part 1
+10-20-2023 Additional zoo and bot tags
+additional zoo tags
+python zoo_add.py ../temp_pw_9e.txt ../temp_pw_9e_work.txt
+
+Acheriris Kokor Zibha 1 1  
+Antilope cervicapra 1 2  (1 AB, 2 CDSL)
+Ardea Argala 1 1
+Ardea nivea 20 21
+Ardea sibirica 27 27
+Coluber Naga 8 8
+Lacerta Godica 1 3
+Noctua indica 1 1
+Tantalus flacinellus 1 1
+Unguis odoratus 1 24
+
+python zoo_add.py ../temp_pw_ab_9.txt ../temp_pw_ab_9_work.txt
+[same counts as for temp_pw_9e.txt]
+
+----------------------------------------
+additional bot tags for pw_ab_9
+temp_Addl.bot.tags.in.pw_ab_9.lines.txt 
+  Ref: https://github.com/sanskrit-lexicon/PWK/files/13056552/Addl.bot.tags.in.pw_ab_9.lines.txt
+   
+python bot_add_ab_9.py ../temp_pw_ab_9_work.txt temp_Addl.bot.tags.in.pw_ab_9.lines.txt ../temp_pw_ab_9_work1.txt
+
+(520535): <bot>Piper longum</bot>  add italics
+544350  italics
+
+Generate changes and revise pw_ab_9
+python diff_to_changes_dict.py temp_pw_ab_9.txt temp_pw_ab_9_work1.txt zoobot/temp_change_pw_ab_9_11.txt
+281 changes written to zoobot/temp_change_pw_ab_9_11.txt
+
+# manual insert zoobot/temp_change_pw_ab_9_11.txt into change_pw_ab_9.txt
+# generate temp_pw_ab_9.txt
+python updateByLine.py temp_pw_ab_8.txt change_pw_ab_9.txt temp_pw_ab_9.txt
+443 change transactions from change_pw_ab_9.txt
+# check
+diff temp_pw_ab_9.txt temp_pw_ab_9_work1.txt | wc -l
+# 0 as expected
+
+----------------------------------------
+
+zoo tags for pw_9f
+cp temp_pw_9e.txt temp_pw_9f.txt
+cp temp_pw_9f.txt temp_pw_9f_work.txt
+
+python ../ablists/regex_compare_texts_count1.py '<bot>.*?</bot>' ../temp_pw_9f_work.txt ../temp_pw_ab_9.txt temp1.org ../temp_pw_9f_work1.txt ../temp_pw_ab_9_work1.txt
+254 cases
+
+# Manual edit temp_pw_9f_work1.txt and  temp_pw_ab_9_work1.txt to resolve cases
+# Remove temp markup ('* <L>' -> '<L>') of temp_pw_9f_work1.txt and
+#  save as temp_pw_9f_work.txt
+# Remove temp markup ('* <L>' -> '<L>') of temp_pw_ab_9_work1.txt and
+#  save as temp_pw_ab_9_work.txt
+
+# Redo bot count to see if further changes required.
+# revise temp_pw_9f_work.txt and temp_pw_ab_9_work.txt
+python ../ablists/regex_compare_texts_count1.py '<bot>.*?</bot>' ../temp_pw_9f_work.txt ../temp_pw_ab_9_work.txt temp1.org ../temp_pw_9f_work1.txt ../temp_pw_ab_9_work1.txt
+0 cases 
+
+# do similar analysis with zoo tag,
+
+python ../ablists/regex_compare_texts_count1.py '<zoo>.*?</zoo>' ../temp_pw_9f_work.txt ../temp_pw_ab_9_work.txt temp1.org ../temp_pw_9f_work1.txt ../temp_pw_ab_9_work1.txt
+22 cases
+# revise temp_pw_9f_work.txt and temp_pw_ab_9_work.txt
+
+Now temp_pw_9f_work.txt and temp_pw_ab_9_work.txt agree in counts of
+  bot/zoo elements
+Further, require that the bot/zoo elements are identical
+
+python ../ablists/regex_compare_texts1.py '<zoo>.*?</zoo>' ../temp_pw_9f_work.txt ../temp_pw_ab_9_work.txt temp1.org ../temp_pw_9f_work1.txt ../temp_pw_ab_9_work1.txt
+# 0 cases
+
+python ../ablists/regex_compare_texts1.py '<bot>.*?</bot>' ../temp_pw_9f_work.txt ../temp_pw_ab_9_work.txt temp1.org ../temp_pw_9f_work1.txt ../temp_pw_ab_9_work1.txt
+# 3 cases
+# these corrected.
+
+### now temp_pw_9f_work.txt and temp_pw_ab_9_work.txt agree in text
+#  of zoo and bot.
+
+### See if any differences in counts of {%X%} (since zoo, bot normally
+# occur as italic text
+
+python ../ablists/regex_compare_texts_count1.py '{%.*?%}' ../temp_pw_9f_work.txt ../temp_pw_ab_9_work.txt temp1.org ../temp_pw_9f_work1.txt ../temp_pw_ab_9_work1.txt
+21 cases.
+Most of these are due to intraline [Page...] in ab_9.
+Resolved.
+The '•' character used in ab_9 when merging at page breaks (21 cases)
+Resolve these in temp_pw_9f_work1.txt
+
+
+# remove temp markup (* <L> -> <L>) in temp_pw_9f_work1.txt, and save as temp_pw_9f_work.txt.
+python diff_to_changes_dict.py temp_pw_9f.txt temp_pw_9f_work.txt zoobot/temp_change_pw_9f_1.txt
+283 changes written to zoobot/temp_change_pw_9f_1.txt
+
+touch change_pw_9f.txt
+# manual insert zoobot/temp_change_pw_9f_1.txt into change_pw_9f.txt
+# generate temp_pw_9f.txt
+python updateByLine.py temp_pw_9e.txt change_pw_9f.txt temp_pw_9f.txt
+# 283 lines changed
+# check
+diff temp_pw_9f.txt temp_pw_9f_work.txt | wc -l
+# 0 as expected
+
+-------------------------
+# Generate change transactions for temp_pw_ab_9
+# remove temp markup (* <L> -> <L>) in temp_pw_ab_9_work1.txt, and save as temp_pw_ab_9_work.txt.
+python diff_to_changes_dict.py temp_pw_ab_9.txt temp_pw_ab_9_work.txt zoobot/temp_change_pw_ab_9_12.txt
+6 changes written to zoobot/temp_change_pw_ab_9_12.txt
+
+# manual insert zoobot/temp_change_pw_ab_9_12.txt into change_pw_ab_9.txt
+# generate temp_pw_ab_9.txt
+python updateByLine.py temp_pw_ab_8.txt change_pw_ab_9.txt temp_pw_ab_9.txt
+# 449 lines changed
+# check
+diff temp_pw_ab_9.txt temp_pw_ab_9_work.txt | wc -l
+# 0 as expected
+
+------------------------------------------------------
+9f Part 2
+Some misc. changes to pw_9f noticed during work above.
+
+cp temp_pw_9f.txt temp_pw_9f_work.txt
+manual edit temp_pw_9f_work.txt, temp_pw_ab_9_work.txt
+
+' —,%}' -> '%} —,'  45
+"{%[^%]*_"  (15)  Remove variously. Uncover some missed 'bot' tags.
+
+## generate changes
+python diff_to_changes_dict.py temp_pw_9f.txt temp_pw_9f_work.txt zoobot/temp_change_pw_9f_2.txt
+59 changes written to zoobot/temp_change_pw_9f_2.txt
+
+touch change_pw_9f.txt
+# manual insert zoobot/temp_change_pw_9f_2.txt into change_pw_9f.txt
+# regenerate temp_pw_9f.txt
+python updateByLine.py temp_pw_9e.txt change_pw_9f.txt temp_pw_9f.txt
+# 342 lines changed
+# check
+diff temp_pw_9f.txt temp_pw_9f_work.txt | wc -l
+# 0 as expected
+
+-------------------------
+# Generate change transactions for temp_pw_ab_9
+
+python diff_to_changes_dict.py temp_pw_ab_9.txt temp_pw_ab_9_work.txt zoobot/temp_change_pw_ab_9_13.txt
+9 changes written to zoobot/temp_change_pw_ab_9_13.txt
+
+# manual insert zoobot/temp_change_pw_ab_9_13.txt into change_pw_ab_9.txt
+# generate temp_pw_ab_9.txt
+python updateByLine.py temp_pw_ab_8.txt change_pw_ab_9.txt temp_pw_ab_9.txt
+# 458 lines changed
+# check
+diff temp_pw_ab_9.txt temp_pw_ab_9_work.txt | wc -l
+# 0 as expected
+
+------------------------------------------------------
+9f Part 3
+Miscellaneous changes
+- and — in italic text
+
+python ../ablists/regex_compare_texts_count1.py '{%[^%]*-.*?%}' ../temp_pw_9f_work.txt ../temp_pw_ab_9_work.txt temp1.org ../temp_pw_9f_work1.txt ../temp_pw_ab_9_work1.txt
+
+------------------------------------------------------
+TODO ' —,%}' -> '%} —,'  45
+<bot>Os Sepiae</bot>  -> <zoo>Os sepiae</zoo> (4) neither plant nor animal
+<zoo>Unguis adoratus</zoo> (1) neither plant nor animal
+•[Page61
+17 matches for "{%[^%]*_"  (15)
+
+Asa foetida
+Andropogon muricatus
+
+
+--------------------------------
+python ../ablists/regex_compare_texts_count1.py '{%[^%]*-.*?%}' ../temp_pw_9f_work.txt ../temp_pw_ab_9_work.txt temp1.org ../temp_pw_9f_work1.txt ../temp_pw_ab_9_work1.txt
+62 cases written to temp1.org
+
+# Manual changes to temp_pw_9f_work.txt and temp_pw_ab_9_work.txt to resolve.
+
+# Additional changes to temp_pw_9f_work.txt
+1.  Change'{% ' as appropriate 29 temp_pw_9f_work.txt
+2. ' {%— ' -> ' — {%'  119
+3. '^{%— ' -> '— {%'    20  [regex replace] 
+4. ' {%—, ' -> ' —, {%'  5
+5. ' —%} ' -> '%} — '  40
+Italic text with —  (count resolve)
+python ../ablists/regex_compare_texts_count1.py '{%[^%]*—.*?%}' ../temp_pw_9f_work.txt ../temp_pw_ab_9_work.txt temp1.org ../temp_pw_9f_work1.txt ../temp_pw_ab_9_work1.txt
+33 cases written to temp1.org
+
+#manual resolve by edit of temp_pw_9f_work1.txt temp_pw_ab_9_work1.txt
+
+78 matches in 40 lines for "•" in buffer temp_pw_9f_work.txt
+  These are deleted to end of line
+
+python ../ablists/regex_compare_texts_count1.py '{%.*?%}' ../temp_pw_9f_work.txt ../temp_pw_ab_9_work.txt temp1.org ../temp_pw_9f_work1.txt ../temp_pw_ab_9_work1.txt
+3 cases .
+manual changes to temp_pw_9f_work.txt
+
+' {%; ' -> '; {%'  10 changes
+' {%, ' -> ', {%'  63 changes
+'%}:' -> ':%}'  49 changes
+'.,%}$' -> '%}.'  17  (regex change)
+'.;%}' 4 changes
+
+------------------------
+Install 9f, etc. for Part 3
+# generate changes
+python diff_to_changes_dict.py temp_pw_9f.txt temp_pw_9f_work.txt zoobot/temp_change_pw_9f_3.txt
+493 changes written to zoobot/temp_change_pw_9f_3.txt
+# manual insert zoobot/temp_change_pw_9f_3.txt into change_pw_9f.txt
+
+# regenerate temp_pw_9f.txt
+python updateByLine.py temp_pw_9e.txt change_pw_9f.txt temp_pw_9f.txt
+# 835 lines changed
+# check
+diff temp_pw_9f.txt temp_pw_9f_work.txt | wc -l
+# 0 as expected
+
+-------------------------
+# Generate change transactions for temp_pw_ab_9
+
+python diff_to_changes_dict.py temp_pw_ab_9.txt temp_pw_ab_9_work.txt zoobot/temp_change_pw_ab_9_14.txt
+4 changes written to zoobot/temp_change_pw_ab_9_14.txt
+
+# manual insert zoobot/temp_change_pw_ab_9_14.txt into change_pw_ab_9.txt
+# generate temp_pw_ab_9.txt
+python updateByLine.py temp_pw_ab_8.txt change_pw_ab_9.txt temp_pw_ab_9.txt
+# 462 lines changed
+# check
+diff temp_pw_ab_9.txt temp_pw_ab_9_work.txt | wc -l
+# 0 as expected
+
+------------------------------------------
+Install revised temp_pw_9f.txt in csl-orig, etc.
+-----------------------
+# do local install
+cp temp_pw_9f.txt /c/xampp/htdocs/cologne/csl-orig/v02/pw/pw.txt
+
+# check local installation
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh pw  ../../pw
+sh xmlchk_xampp.sh pw
+# ok
+cd /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue88
+
+# push repositories to GitHub
+----- csl-orig
+cd /c/xampp/htdocs/cologne/csl-orig
+git pull # check for other revisions. 
+git status  # v02/pw/pw.txt
+git add .
+git commit -m "PW: Revise pw.txt based on revised temp_pw_9f.txt
+  Ref: https://github.com/sanskrit-lexicon/PWK/issues/88"
+git push
+
+--------------------------------------------
+update cologne displays
+login to cologne
+---- csl-orig
+git pull
+---- csl-pywork
+cd v02
+sh generate_dict.sh pw  ../../PWScan/2020/
+
+--------------------------------------------
+sync this repository to Github
+cd /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue88
+
+git add .
+git commit -m "temp_pw_9f, temp_pw_ab_9. #88"
+git push
+
+*************************************************************************
+*************************************************************************
+
+$ python ../ablists/regex_compare_texts1.py '{%.*?%}' ../temp_pw_9f_work.txt ../temp_pw_ab_9_work.txt temp1.org ../temp_pw_9f_work1.txt ../temp_pw_ab_9_work1.txt
+598 cases written to temp1.org
