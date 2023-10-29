@@ -693,7 +693,7 @@ diff temp_pw_9e.txt temp_pw_9e_work.txt
 
 No changes made to ab_9_work1.
 -------------------------------
-*************************************************************************
+#*************************************************************************
 10-18-2023
 That's enough for now.
 Ready to install in csl-orig, etc.
@@ -1085,7 +1085,418 @@ git commit -m "temp_pw_9f, temp_pw_ab_9. #88"
 git push
 
 *************************************************************************
+10-26-2023  resolve differences in CDSL/AB versions for
+  all italic and Sanskrit text strings.
+*************************************************************************
+#  This will be version 10
+cp temp_pw_9f.txt temp_pw_10.txt
+cp temp_pw_10.txt temp_pw_10_work.txt
+touch change_pw_10.txt
+
+cp temp_pw_ab_9.txt temp_pw_ab_10.txt
+cp temp_pw_ab_10.txt temp_pw_ab_10_work.txt
+touch change_pw_ab_10.txt
+
+
+----------------------------
+Part 1
+python ../ablists/regex_compare_texts1.py '{%.*?%}' ../temp_pw_10_work.txt ../temp_pw_ab_10_work.txt temp1.org ../temp_pw_10_work1.txt ../temp_pw_ab_10_work1.txt
+579 cases written to temp1.org
+
+manual changes to temp_pw_10_work1.txt
+1. a few misc.
+2. \([0-9]\)x\([0-9]\) -> \1×\2  17
+3. <lang n="greek">\(.\)</lang> -> \1 88
+
+# remove temp markup (* <L> -> <L>) in  temp_pw_10_work1.txt, and
+  save as  temp_pw_10_work.txt
+# generate changes
+python diff_to_changes_dict.py temp_pw_10.txt temp_pw_10_work.txt zoobot/temp_change_pw_10_1.txt
+106 changes written to zoobot/temp_change_pw_10_1.txt
+# manual insert zoobot/temp_change_pw_10_1.txt into change_pw_10.txt
+
+# regenerate temp_pw_10.txt
+python updateByLine.py temp_pw_9f.txt change_pw_10.txt temp_pw_10.txt
+# 106 change transactions
+# check
+diff temp_pw_10.txt temp_pw_10_work.txt | wc -l
+# 0 as expected
+
+# remove temp markup (* <L> -> <L>) in  temp_pw_ab_10_work1.txt, and
+  save as  temp_pw_ab_10_work.txt
+# generate changes
+python diff_to_changes_dict.py temp_pw_ab_10.txt temp_pw_ab_10_work.txt zoobot/temp_change_pw_ab_10_1.txt
+1 changes written to zoobot/temp_change_pw_ab_10_1.txt
+# manual insert zoobot/temp_change_pw_ab_10_1.txt into change_pw_ab_10.txt
+
+# regenerate temp_pw_ab_10.txt
+python updateByLine.py temp_pw_ab_9.txt change_pw_ab_10.txt temp_pw_ab_10.txt
+# 1 change transactions
+# check
+diff temp_pw_ab_10.txt temp_pw_ab_10_work.txt | wc -l
+# 0 as expected
+
+----------------------------
+Part 2
+python ../ablists/regex_compare_texts1.py '{%.*?%}' ../temp_pw_10_work.txt ../temp_pw_ab_10_work.txt temp1.org ../temp_pw_10_work1.txt ../temp_pw_ab_10_work1.txt
+552 cases written to temp1.org
+18 matches for "({%[^%)]*)" in buffer: temp_pw_10_work1.txt
+ ({%\([^%)]*\))  -> {%(\1)
+
+76 matches for "[0-9]〉 {%[^%]*,%}$" in buffer: temp_pw_ab_10_work1.txt
+   Generally, these should end as %}.
+manual changes to temp_pw_10_work1.txt
+48 matches for "{%[0-9])" in buffer: temp_pw_10_work1.txt
+ '{%\([0-9]\)) ' -> '\1) {%'   22
+ '{%\([0-9])[a-z]\)) ' -> '\1 {%'
+
+552 Manual cases.
+
+# remove temp markup (* <L> -> <L>) in  temp_pw_10_work1.txt, and
+  save as  temp_pw_10_work.txt
+# generate changes
+python diff_to_changes_dict.py temp_pw_10.txt temp_pw_10_work.txt zoobot/temp_change_pw_10_2.txt
+531 changes written to zoobot/temp_change_pw_10_2.txt
+# manual insert zoobot/temp_change_pw_10_2.txt into change_pw_10.txt
+
+# regenerate temp_pw_10.txt
+python updateByLine.py temp_pw_9f.txt change_pw_10.txt temp_pw_10.txt
+# 637 change transactions
+# check
+diff temp_pw_10.txt temp_pw_10_work.txt | wc -l
+# 0 as expected
+
+# remove temp markup (* <L> -> <L>) in  temp_pw_ab_10_work1.txt, and
+  save as  temp_pw_ab_10_work.txt
+# generate changes
+python diff_to_changes_dict.py temp_pw_ab_10.txt temp_pw_ab_10_work.txt zoobot/temp_change_pw_ab_10_2.txt
+81 changes written to zoobot/temp_change_pw_ab_10_2.txt
+# manual insert zoobot/temp_change_pw_ab_10_2.txt into change_pw_ab_10.txt
+
+# regenerate temp_pw_ab_10.txt
+python updateByLine.py temp_pw_ab_9.txt change_pw_ab_10.txt temp_pw_ab_10.txt
+# 82 change transactions
+# check
+diff temp_pw_ab_10.txt temp_pw_ab_10_work.txt | wc -l
+# 0 as expected
+
+------------------------------
+Part 3  any more italic text differences?
+python ../ablists/regex_compare_texts1.py '{%.*?%}' ../temp_pw_10_work.txt ../temp_pw_ab_10_work.txt temp1.org ../temp_pw_10_work1.txt ../temp_pw_ab_10_work1.txt
+21 cases written to temp1.org
+# manual corrections to temp_pw_10_work1.txt temp_pw_ab_10_work1.txt
+# These are cases where my correction in Part 2 was faulty.
+
+# remove temp markup (* <L> -> <L>) in  temp_pw_10_work1.txt, and
+  save as  temp_pw_10_work.txt
+# generate changes
+python diff_to_changes_dict.py temp_pw_10.txt temp_pw_10_work.txt zoobot/temp_change_pw_10_3.txt
+14 changes written to zoobot/temp_change_pw_10_3.txt
+# manual insert zoobot/temp_change_pw_10_3.txt into change_pw_10.txt
+
+# regenerate temp_pw_10.txt
+python updateByLine.py temp_pw_9f.txt change_pw_10.txt temp_pw_10.txt
+# 651 change transactions
+# check
+diff temp_pw_10.txt temp_pw_10_work.txt | wc -l
+# 0 as expected
+
+# remove temp markup (* <L> -> <L>) in  temp_pw_ab_10_work1.txt, and
+  save as  temp_pw_ab_10_work.txt
+# generate changes
+python diff_to_changes_dict.py temp_pw_ab_10.txt temp_pw_ab_10_work.txt zoobot/temp_change_pw_ab_10_3.txt
+4 changes written to zoobot/temp_change_pw_ab_10_3.txt
+# manual insert zoobot/temp_change_pw_ab_10_3.txt into change_pw_ab_10.txt
+
+# regenerate temp_pw_ab_10.txt
+python updateByLine.py temp_pw_ab_9.txt change_pw_ab_10.txt temp_pw_ab_10.txt
+# 86 change transactions
+# check
+diff temp_pw_ab_10.txt temp_pw_ab_10_work.txt | wc -l
+# 0 as expected
+
+python ../ablists/regex_compare_texts1.py '{%.*?%}' ../temp_pw_10_work.txt ../temp_pw_ab_10_work.txt temp1.org ../temp_pw_10_work1.txt ../temp_pw_ab_10_work1.txt
+3 cases show difference, but this is not material.
+Example under <L>42565<pc>2264-1<k1>jApaka
+cdsl {%zu 1)a) in Beziehung stehend%}
+ab   {%zu 1〉a〉 in Beziehung stehend%}
+The other two similar cases are under
+<L>43020<pc>2270-3<k1>jIvanIya and
+<L>77910<pc>4237-1<k1>brahman
+
+
+_____________________________________________________________
+Part 4:
+AB uses some special unicode for fractions.
+Do the same for cdsl.
+
+python ../ablists/regex_compare_texts1.py '[0-9]/[0-9]' ../temp_pw_10_work.txt ../temp_pw_ab_10_work.txt temp1.org ../temp_pw_10_work1.txt ../temp_pw_ab_10_work1.txt
+32 cases written to temp1.org
+⁰¹⁴⁵⁶⁷⁸⁹⁄₀₁₂₃₄₅₆₇₈₉ 
+python ../ablists/regex_compare_texts1.py '[⁰¹⁴⁵⁶⁷⁸⁹⁄₀₁₂₃₄₅₆₇₈₉]+' ../temp_pw_10_work.txt ../temp_pw_ab_10_work.txt temp1.org ../temp_pw_10_work1.txt ../temp_pw_ab_10_work1.txt
+32 cases written to temp1.org
+# manual changes to temp_pw_10_work1.txt temp_pw_ab_10_work1.txt
+
+#install changes
+
+# remove temp markup (* <L> -> <L>) in  temp_pw_10_work1.txt, and
+  save as  temp_pw_10_work.txt
+# generate changes
+python diff_to_changes_dict.py temp_pw_10.txt temp_pw_10_work.txt zoobot/temp_change_pw_10_4.txt
+34 changes written to zoobot/temp_change_pw_10_4.txt
+# manual insert zoobot/temp_change_pw_10_4.txt into change_pw_10.txt
+
+# regenerate temp_pw_10.txt
+python updateByLine.py temp_pw_9f.txt change_pw_10.txt temp_pw_10.txt
+# 685 change transactions
+# check
+diff temp_pw_10.txt temp_pw_10_work.txt | wc -l
+# 0 as expected
+
+# remove temp markup (* <L> -> <L>) in  temp_pw_ab_10_work1.txt, and
+  save as  temp_pw_ab_10_work.txt
+# generate changes
+python diff_to_changes_dict.py temp_pw_ab_10.txt temp_pw_ab_10_work.txt zoobot/temp_change_pw_ab_10_4.txt
+2 changes written to zoobot/temp_change_pw_ab_10_4.txt
+# manual insert zoobot/temp_change_pw_ab_10_4.txt into change_pw_ab_10.txt
+
+# regenerate temp_pw_ab_10.txt
+python updateByLine.py temp_pw_ab_9.txt change_pw_ab_10.txt temp_pw_ab_10.txt
+# 88 change transactions
+# check
+diff temp_pw_ab_10.txt temp_pw_ab_10_work.txt | wc -l
+# 0 as expected
+--------
+--------------------------------------------------------------
+Part 5:  resolve differences in Devanagari text
+python ../ablists/regex_compare_texts1.py '{#.*?#}' ../temp_pw_10_work.txt ../temp_pw_ab_10_work.txt temp1.org ../temp_pw_10_work1.txt ../temp_pw_ab_10_work1.txt
+241 cases written to temp1.org
+
+# manual changes to temp_pw_10_work1.txt temp_pw_ab_10_work1.txt
+
+#install changes
+
+# remove temp markup (* <L> -> <L>) in  temp_pw_10_work1.txt, and
+  save as  temp_pw_10_work.txt
+# generate changes
+python diff_to_changes_dict.py temp_pw_10.txt temp_pw_10_work.txt zoobot/temp_change_pw_10_5.txt
+265 changes written to zoobot/temp_change_pw_10_5.txt
+# manual insert zoobot/temp_change_pw_10_5.txt into change_pw_10.txt
+
+# regenerate temp_pw_10.txt
+python updateByLine.py temp_pw_9f.txt change_pw_10.txt temp_pw_10.txt
+# 950 change transactions
+# check
+diff temp_pw_10.txt temp_pw_10_work.txt | wc -l
+# 0 as expected
+
+# remove temp markup (* <L> -> <L>) in  temp_pw_ab_10_work1.txt, and
+  save as  temp_pw_ab_10_work.txt
+# generate changes
+python diff_to_changes_dict.py temp_pw_ab_10.txt temp_pw_ab_10_work.txt zoobot/temp_change_pw_ab_10_5.txt
+11 changes written to zoobot/temp_change_pw_ab_10_5.txt
+# manual insert zoobot/temp_change_pw_ab_10_5.txt into change_pw_ab_10.txt
+
+# regenerate temp_pw_ab_10.txt
+python updateByLine.py temp_pw_ab_9.txt change_pw_ab_10.txt temp_pw_ab_10.txt
+# 99 change transactions
+# check
+diff temp_pw_ab_10.txt temp_pw_ab_10_work.txt | wc -l
+# 0 as expected
+--------
+
+--------------------------------------------------------------
+Part 6:  resolve differences in [.,][.,]
+
+74 matches in 70 lines for "[.,][.,]" in buffer: temp_pw_10_work.txt
+41 matches in 37 lines for "[.,][.,]" in buffer: temp_pw_ab_10_work.txt
+
+python ../ablists/regex_compare_texts1.py '[.,][.,]' ../temp_pw_10_work.txt ../temp_pw_ab_10_work.txt temp1.org ../temp_pw_10_work1.txt ../temp_pw_ab_10_work1.txt
+55 cases written to temp1.org
+
+# resolve differences by manual edits
+#install changes
+
+# remove temp markup (* <L> -> <L>) in  temp_pw_10_work1.txt, and
+  save as  temp_pw_10_work.txt
+# generate changes
+python diff_to_changes_dict.py temp_pw_10.txt temp_pw_10_work.txt zoobot/temp_change_pw_10_6.txt
+55 changes written to zoobot/temp_change_pw_10_6.txt
+# manual insert zoobot/temp_change_pw_10_6.txt into change_pw_10.txt
+
+# regenerate temp_pw_10.txt
+python updateByLine.py temp_pw_9f.txt change_pw_10.txt temp_pw_10.txt
+# 1005 change transactions
+# check
+diff temp_pw_10.txt temp_pw_10_work.txt | wc -l
+# 0 as expected
+
+# remove temp markup (* <L> -> <L>) in  temp_pw_ab_10_work1.txt, and
+  save as  temp_pw_ab_10_work.txt
+# generate changes
+python diff_to_changes_dict.py temp_pw_ab_10.txt temp_pw_ab_10_work.txt zoobot/temp_change_pw_ab_10_6.txt
+5 changes written to zoobot/temp_change_pw_ab_10_6.txt
+# manual insert zoobot/temp_change_pw_ab_10_6.txt into change_pw_ab_10.txt
+
+# regenerate temp_pw_ab_10.txt
+python updateByLine.py temp_pw_ab_9.txt change_pw_ab_10.txt temp_pw_ab_10.txt
+# 104 change transactions
+# check
+diff temp_pw_ab_10.txt temp_pw_ab_10_work.txt | wc -l
+# 0 as expected
+--------
+
+--------------------------------------------------------------
+Part 7:  <lang> tag
+
+198 matches in 196 lines for "<lang>.*?</lang>" in buffer: temp_pw_ab_10_work.txt
+150 matches for "<lang>.*?</lang>" in buffer: temp_pw_10_work.txt
+
+128 matches for "<lang>Prākrit</lang>" in buffer: temp_pw_ab_10_work.txt
+128 matches for "<lang>Prākrit</lang>" in buffer: temp_pw_10_work.txt
+
+50 matches in 48 lines for "<lang>ved\.</lang>" in buffer: temp_pw_ab_10_work.txt
+9 matches for "<lang>ved\.</lang>" in buffer: temp_pw_10_work.txt
+
+
+python ../ablists/regex_compare_texts1.py '<lang>.*?</lang>' ../temp_pw_10_work.txt ../temp_pw_ab_10_work.txt temp1.org ../temp_pw_10_work1.txt ../temp_pw_ab_10_work1.txt
+45 cases written to temp1.org
+change ' ved. ' to ' <lang>ved.</lang> '  (38)
+
+python ../ablists/regex_compare_texts1.py '<lang>.*?</lang>' ../temp_pw_10_work.txt ../temp_pw_ab_10_work.txt temp1.org ../temp_pw_10_work1.txt ../temp_pw_ab_10_work1.txt
+10 cases written to temp1.org
+
+# resolved these 10 manually.
+
+#install changes
+
+# remove temp markup (* <L> -> <L>) in  temp_pw_10_work1.txt, and
+  save as  temp_pw_10_work.txt
+# generate changes
+python diff_to_changes_dict.py temp_pw_10.txt temp_pw_10_work.txt zoobot/temp_change_pw_10_7.txt
+46 changes written to zoobot/temp_change_pw_10_7.txt
+# manual insert zoobot/temp_change_pw_10_7.txt into change_pw_10.txt
+
+# regenerate temp_pw_10.txt
+python updateByLine.py temp_pw_9f.txt change_pw_10.txt temp_pw_10.txt
+# 1051 change transactions
+# check
+diff temp_pw_10.txt temp_pw_10_work.txt | wc -l
+# 0 as expected
+
+There are no changes for pw_ab_10
+
+------------------------------------------------------------
+Part 8:
+ Resolve differences spaces in following
+ 19 matches in 13 lines for "[0-9], [0-9]" in buffer: temp_pw_ab_10_work1.txt
+265 matches in 216 lines for "[0-9], [0-9]" in buffer: temp_pw_10_work1.txt
+
+First, make a blanket changed in temp_pw_10_work.txt:
+ "\([0-9]\), \([0-9]\)"  -> "\1,\2"   269 changes in 198 lines
+
+# Now compare with AB to resolved diffs
+python ../ablists/regex_compare_texts1.py '[0-9], [0-9]' ../temp_pw_10_work.txt ../temp_pw_ab_10_work.txt temp1.org ../temp_pw_10_work1.txt ../temp_pw_ab_10_work1.txt
+13 cases written to temp1.org
+
+# Resolve these differences manually.
+
+#install changes
+
+# remove temp markup (* <L> -> <L>) in  temp_pw_10_work1.txt, and
+  save as  temp_pw_10_work.txt
+# generate changes
+python diff_to_changes_dict.py temp_pw_10.txt temp_pw_10_work.txt zoobot/temp_change_pw_10_8.txt
+191 changes written to zoobot/temp_change_pw_10_8.txt
+# manual insert zoobot/temp_change_pw_10_8.txt into change_pw_10.txt
+
+# regenerate temp_pw_10.txt
+python updateByLine.py temp_pw_9f.txt change_pw_10.txt temp_pw_10.txt
+# 1242 change transactions
+# check
+diff temp_pw_10.txt temp_pw_10_work.txt | wc -l
+# 0 as expected
+
+There are no changes for pw_ab_10
+
+
+#*************************************************************************
+10-29-2023
+That's enough for now for pw_10.
+Ready to install in csl-orig, etc.
 *************************************************************************
 
-$ python ../ablists/regex_compare_texts1.py '{%.*?%}' ../temp_pw_9f_work.txt ../temp_pw_ab_9_work.txt temp1.org ../temp_pw_9f_work1.txt ../temp_pw_ab_9_work1.txt
-598 cases written to temp1.org
+-------------------------------------
+Install temp_pw_10.txt in csl-orig repository, and update displays
+cd ../  # issue88
+
+-----------------------
+# do local install
+cp temp_pw_10.txt /c/xampp/htdocs/cologne/csl-orig/v02/pw/pw.txt
+xxx
+# check local installation
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh pw  ../../pw
+sh xmlchk_xampp.sh pw
+# ok
+cd /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue88
+
+# push repositories to GitHub
+----- csl-orig
+cd /c/xampp/htdocs/cologne/csl-orig
+git pull # check for other revisions. 
+git status  # v02/pw/pw.txt
+git add .
+git commit -m "PW: Revise pw.txt based on temp_pw_10.txt
+  Ref: https://github.com/sanskrit-lexicon/PWK/issues/88"
+git push
+
+--------------------------------------------
+update cologne displays
+login to cologne
+---- csl-orig
+git pull
+# 1225 lines changed
+---- csl-pywork
+cd v02
+sh generate_dict.sh pw  ../../PWScan/2020/
+
+--------------------------------------------
+sync this repository to Github
+cd /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue88
+
+git add .
+git commit -m "temp_pw_10, temp_pw_ab_10. #88"
+git push
+
+***************************************************************
+TODO
+59089 matches in 51082 lines for "[0-9]\.</ls>" in buffer: temp_pw_10_work.txt
+5 matches for "[0-9]\.</ls>" in buffer: temp_pw_ab_10_work.txt
+
+I'll resolve these differences later, as part of <ls> resolution.  See readme/ls
+
+------------------------------------------------------------
+23 matches in 21 lines for "{%\([^%]*\) oder%}" in buffer: temp_pw_ab_10_work1.txt
+27 matches in 25 lines for "{%\([^%]*\) oder%}" in buffer: temp_pw_10_work1.txt
+
+------
+German idiom with dashes.  Maybe some long-dashes should be WITHIN italics
+Consult Thomas
+Example: <L>74469<pc>4188-3<k1>prAya
+old:  {%meistens —, zum grössten Theil%} —
+new?: {%meistens —, zum grössten Theil —%}
+------
+------
+1294 matches in 1291 lines for "!√" in buffer: temp_pw_ab_10_work1.txt
+------
+--------------------------------------------------------------
+Part x:  paren-groups
+python ../ablists/regex_compare_texts1.py '\([^[]*?\)' ../temp_pw_10_work.txt ../temp_pw_ab_10_work.txt temp1.org ../temp_pw_10_work1.txt ../temp_pw_ab_10_work1.txt
+The exclusion of '['  is to exclude the [Pagexxx] markup, which AB and CDSL mark differently, and which I
+  do not choose to use AB markup, at least for now.
+  
+1515 cases written to temp1.org  Too big a list to resolve manually.
+
+python ../ablists/regex_compare_texts1.py '\(.*?\)' ../temp_pw_10_work.txt ../temp_pw_ab_10_work.txt temp1.org ../temp_pw_10_work1.txt ../temp_pw_ab_10_work1.txt
+
