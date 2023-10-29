@@ -1,5 +1,5 @@
 ; ********************************************************
-; change_pw_10.txt  Changes from pw_9r
+; change_pw_10.txt  Changes from pw_9f
 ; Part 1: 106 misc, \([0-9]\)x\([0-9]\) -> \1×\2, <lang n="greek">\(.\)</lang> -> \
 ; Part 2: 531  Resolve italic text differences cdsl vs. AB.
 ; Part 3: 14  corrections to Part 2
