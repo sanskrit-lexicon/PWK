@@ -393,7 +393,13 @@ revisions begin with temp_pw_8
 *******************************************************************
 zoobot -
  Markup for tags zoo, bot
- modify temp_pw_9 based on temp_pw_ab_8
+ modify temp_pw_9f based on temp_pw_ab_8
 
+ Italic and devanagari text fragments.
+ temp_pw_10
+*******************************************************************
+hom
+ Homonym markup added.
+ temp_pw_11
 
  
