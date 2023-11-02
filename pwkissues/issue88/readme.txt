@@ -402,4 +402,10 @@ hom
  Homonym markup added.
  temp_pw_11
 
- 
+*******************************************************************
+ls
+ for `<ls>` tag, resolve differences between CDSL version and AB version
+ temp_pw_12
+ temp_pw_ab_12
+*******************************************************************
+

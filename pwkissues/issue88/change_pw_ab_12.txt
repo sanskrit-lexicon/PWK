@@ -1,0 +1,289 @@
+; ********************************************************
+; change_pw_ab_10.txt  Changes from temp_pw_ab_11.txt
+;   Note: temp_pw_ab_10.txt == temp_pw_ab_11.txt
+; Refer ls/readme.txt
+; Part 1: 28 changes associated with systematic ls changes
+; Part 2: 26 changes
+; ********************************************************
+; Part 1: 28 changes associated with systematic ls changes
+; ********************************************************
+; <L>8387<pc>1098-2<k1>amftaprASin<k2>amftaprASin<e>100
+38005 old <div n="1">— 2〉 <lex>m.</lex> {%ein Gott%} <ls><ab>ebend.</ab></ls> 20,4.
+;
+38005 new <div n="1">— 2〉 <lex>m.</lex> {%ein Gott%} <ls><ab>ebend.</ab> 20,4</ls>.
+;---------------------------------------------------
+; <L>10624<pc>1125-1<k1>avarza<k2>avarza<e>100
+48629 old {#avarza#} und {#°Ra#} (<ls>Spr. 729</ls>)¦ <lex>n.</lex> {%Mangel an Regen, Dürre%}. {#avarzA#} <lex>f.</lex> <ls>MBH. 13,94,33</ls>. das nach dem <ab>Comm.</ab> gleichbedeutend sein soll, ist verdächtig; <ab>vgl.</ab> <ls><ab>ebend.</ab></ls> 93,30.
+;
+48629 new {#avarza#} und {#°Ra#} (<ls>Spr. 729</ls>)¦ <lex>n.</lex> {%Mangel an Regen, Dürre%}. {#avarzA#} <lex>f.</lex> <ls>MBH. 13,94,33</ls>. das nach dem <ab>Comm.</ab> gleichbedeutend sein soll, ist verdächtig; <ab>vgl.</ab> <ls><ab>ebend.</ab> 93,30</ls>.
+;---------------------------------------------------
+; <L>22644<pc>1277-1<k1>ojobalA<k2>ojobalA<e>100
+106262 old {#ojobalA#}¦ (wohl so zu verbinden und {#SrIrvfdDiH#} zu lesen) <lex>f.</lex> <ab>desgl.</ab> <ls><ab>ebend.</ab></ls> 411,16.
+;
+106262 new {#ojobalA#}¦ (wohl so zu verbinden und {#SrIrvfdDiH#} zu lesen) <lex>f.</lex> <ab>desgl.</ab> <ls><ab>ebend.</ab> 411,16</ls>.
+;---------------------------------------------------
+; <L>39575<pc>2222-2<k1>cAtuScaraRika<k2>cAtuScaraRika<e>100
+192098 old <div n="1">— 2〉 <lex>f.</lex> {#A#} wohl {%die vier%} <is>Veda</is> <ls><ab>ebend.</ab></ls> 332,4.
+;
+192098 new <div n="1">— 2〉 <lex>f.</lex> {#A#} wohl {%die vier%} <is>Veda</is> <ls><ab>ebend.</ab> 332,4</ls>.
+;---------------------------------------------------
+; <L>39628<pc>2223-1<k1>cApADiropaRa<k2>cApADiropaRa<e>100
+192347 old {#cApADiropaRa#} (<ls>PRASANNAR. 20,11</ls>) und {#cApAropaRa#} (<ls><ab>ebend.</ab></ls> 15,10)¦ <lex>n.</lex> {%das Beziehen des Bogens mit einer Sehne, das Spannen des <ab n="Bogens">B.</ab>%}
+;
+192347 new {#cApADiropaRa#} (<ls>PRASANNAR. 20,11</ls>) und {#cApAropaRa#} (<ls><ab>ebend.</ab> 15,10</ls>)¦ <lex>n.</lex> {%das Beziehen des Bogens mit einer Sehne, das Spannen des <ab n="Bogens">B.</ab>%}
+;---------------------------------------------------
+; <L>40793<pc>2239-2<k1>cOrodDaraRika<k2>cOrodDaraRika<e>100
+198317 old {#cOrodDaraRika#}¦ <lex>m.</lex> = {#cOrodDartar#} <ls><ab>ebend.</ab></ls> 405,33.
+;
+198317 new {#cOrodDaraRika#}¦ <lex>m.</lex> = {#cOrodDartar#} <ls><ab>ebend.</ab> 405,33</ls>.
+;---------------------------------------------------
+; <L>41173<pc>2245-3<k1>Cur<k2>Cur<e>500
+200392 old <div n="2">— b〉 {%ausstossen%} (einen Seufzer) <ls><ab>ebend.</ab></ls> 57,15. 16.
+;
+200392 new <div n="2">— b〉 {%ausstossen%} (einen Seufzer) <ls><ab>ebend.</ab> 57,15</ls>. 16.
+;---------------------------------------------------
+; <L>46667<pc>3040-1<k1>tfRa<k2>tf/Ra<e>001
+228538 old <div n="1">— 1〉 (*<lex>m.</lex>) <lex>n.</lex> (<ab>adj. Comp.</ab> <lex>f.</lex> {#A#}) {%Gras, Kraut, ein halmartiges Gewächs, Grashalm, Stroh%}. Häufig als Bild der {%Winzigkeit und Werthlosigkeit%}. {#tfRezujvalitaM tvayA#} {%im Grase hast du dein Feuer brennen lassen,%} so <ab>v. a.</ab> {%du hast leichtes Spiel gehabt%} {#tfRavat#} oder {#tfRamantarataH#} (<ls>MBH. 3,281,17</ls>) {#kar#} so <ab>v. a.</ab> {%Jmd%} (<ab>Acc.</ab>) {%auf das Tiefste verachten%}. {#tfRaM man#} (<ls>VIKRAMĀṄKAC. 15,6</ls>), {#samarTay#} (<ls><ab>ebend.</ab></ls> 16,13), {#tfRaya na man#} (<ls><ab>ebend.</ab></ls> 10,52) und {#tfRabudDiM DA#} (mit <ab>Loc.</ab> <ls><ab>ebend.</ab></ls> 17,37) {%den geringsten Werth auf Etwas legen, geringschätzen%}.
+;
+228538 new <div n="1">— 1〉 (*<lex>m.</lex>) <lex>n.</lex> (<ab>adj. Comp.</ab> <lex>f.</lex> {#A#}) {%Gras, Kraut, ein halmartiges Gewächs, Grashalm, Stroh%}. Häufig als Bild der {%Winzigkeit und Werthlosigkeit%}. {#tfRezujvalitaM tvayA#} {%im Grase hast du dein Feuer brennen lassen,%} so <ab>v. a.</ab> {%du hast leichtes Spiel gehabt%} {#tfRavat#} oder {#tfRamantarataH#} (<ls>MBH. 3,281,17</ls>) {#kar#} so <ab>v. a.</ab> {%Jmd%} (<ab>Acc.</ab>) {%auf das Tiefste verachten%}. {#tfRaM man#} (<ls>VIKRAMĀṄKAC. 15,6</ls>), {#samarTay#} (<ls><ab>ebend.</ab> 16,13</ls>), {#tfRaya na man#} (<ls><ab>ebend.</ab> 10,52</ls>) und {#tfRabudDiM DA#} (mit <ab>Loc.</ab> <ls><ab>ebend.</ab> 17,37</ls>) {%den geringsten Werth auf Etwas legen, geringschätzen%}.
+;---------------------------------------------------
+; <L>54567<pc>3143-1<k1>DanvayavAsa<k2>*DanvayavAsa<e>107
+266748 old *{#DanvayavAsa#}, *{#°ka, °yAsa#} (<ls>CARAKA. 6,4</ls>) und {#°yAsaka#} (<ls><ab>ebend.</ab></ls> 6,3)¦ <lex>m.</lex> {%<bot>Alhagi Maurorum</bot>%} <ls>RĀJAN. 4,53</ls>.
+;
+266748 new *{#DanvayavAsa#}, *{#°ka, °yAsa#} (<ls>CARAKA. 6,4</ls>) und {#°yAsaka#} (<ls><ab>ebend.</ab> 6,3</ls>)¦ <lex>m.</lex> {%<bot>Alhagi Maurorum</bot>%} <ls>RĀJAN. 4,53</ls>.
+;---------------------------------------------------
+; <L>54673<pc>3146-2<k1>DarmakANkziRI<k2>DarmakANkziRI<e>100
+267530 old <div n="1">— 2〉 einer <is>Kiṃnara</is>-Jungfrau <ls><ab>ebend.</ab></ls> 6,14.
+;
+267530 new <div n="1">— 2〉 einer <is>Kiṃnara</is>-Jungfrau <ls><ab>ebend.</ab> 6,14</ls>.
+;---------------------------------------------------
+; <L>54768<pc>3147-3<k1>DarmaMdada<k2>DarmaMdada<e>100
+267976 old <div n="1">— 2〉 <lex>f.</lex> {#A#} <ab>N. pr.</ab> einer <is>Gandharva</is>-Jungfrau <ls><ab>ebend.</ab></ls> 4,23.
+;
+267976 new <div n="1">— 2〉 <lex>f.</lex> {#A#} <ab>N. pr.</ab> einer <is>Gandharva</is>-Jungfrau <ls><ab>ebend.</ab> 4,23</ls>.
+;---------------------------------------------------
+; <L>54950<pc>3149-3<k1>DarmABimuKa<k2>DarmABimuKa<e>100
+268801 old <div n="1">— 2〉 <lex>f.</lex> {#A#} <ab>N. pr.</ab> einer <is>Apsaras</is> <ls><ab>ebend.</ab></ls> 3,15.
+;
+268801 new <div n="1">— 2〉 <lex>f.</lex> {#A#} <ab>N. pr.</ab> einer <is>Apsaras</is> <ls><ab>ebend.</ab> 3,15</ls>.
+;---------------------------------------------------
+; <L>55682<pc>3165-2<k1>DUlay<k2>DUlay<e>500
+273075 old <div n="p">— Mit {#ava#}, {#°DUlita#} <ab>dass.</ab> <ls><ab>ebend.</ab></ls> 4,39.
+;
+273075 new <div n="p">— Mit {#ava#}, {#°DUlita#} <ab>dass.</ab> <ls><ab>ebend.</ab> 4,39</ls>.
+;---------------------------------------------------
+; <L>58098<pc>3198-3<k1>nAvikapati<k2>nAvikapati<e>100
+285068 old {#nAvikapati#}¦ <lex>m.</lex> <ab>dass.</ab> <ls><ab>ebend.</ab></ls> 116,18.
+;
+285068 new {#nAvikapati#}¦ <lex>m.</lex> <ab>dass.</ab> <ls><ab>ebend.</ab> 116,18</ls>.
+;---------------------------------------------------
+; <L>59021<pc>3211-2<k1>nirAtmaka<k2>nirAtmaka<e>000
+289540 old {#nirAtmaka#} (<ls>VAJRACCH. 43,20</ls>), {#°tman#} (<ls><ab>ebend.</ab></ls> 38,4) und {#°tmavant#}¦ <lex>Adj.</lex> {%keine Einzelseele —, keine individuelle Existenz habend%} <ab>Nom. abstr.</ab> {#nirAtmatva#} <lex>n.</lex> <ls>VAJRACCH. 41,17</ls>. {#nirAtmaka#} <ls>AMṚT. UP. 11</ls> nach dem <ab>Comm.</ab> = {#prARarahita#}.
+;
+289540 new {#nirAtmaka#} (<ls>VAJRACCH. 43,20</ls>), {#°tman#} (<ls><ab>ebend.</ab> 38,4</ls>) und {#°tmavant#}¦ <lex>Adj.</lex> {%keine Einzelseele —, keine individuelle Existenz habend%} <ab>Nom. abstr.</ab> {#nirAtmatva#} <lex>n.</lex> <ls>VAJRACCH. 41,17</ls>. {#nirAtmaka#} <ls>AMṚT. UP. 11</ls> nach dem <ab>Comm.</ab> = {#prARarahita#}.
+;---------------------------------------------------
+; <L>60584<pc>3234-1<k1>nIraNgikA<k2>nIraNgikA<e>000
+297284 old {#nIraNgikA#} (<ls>DEŚĪN. 2,20</ls>) und {#°NgI#}¦ <lex>f.</lex> (<ls><ab>ebend.</ab></ls> 2,90. 6,133. <ls>HEM. PAR. 2,8. 149. 496</ls>. <ls>Z. d. d. m. G. 14,569,16</ls>) {%Schleier%}.
+;
+297284 new {#nIraNgikA#} (<ls>DEŚĪN. 2,20</ls>) und {#°NgI#}¦ <lex>f.</lex> (<ls><ab>ebend.</ab> 2,90</ls>. 6,133. <ls>HEM. PAR. 2,8. 149. 496</ls>. <ls>Z. d. d. m. G. 14,569,16</ls>) {%Schleier%}.
+;---------------------------------------------------
+; <L>65798<pc>4067-1<k1>pAToda<k2>pAToda<e>100
+323530 old {#pAToda#} (<ls>VIKRAMĀṄKAC. 13,63</ls>) und {#pAToDara#} (<ls><ab>ebend.</ab></ls> 13,65)¦ <lex>m.</lex> {%Wolke%}.
+;
+323530 new {#pAToda#} (<ls>VIKRAMĀṄKAC. 13,63</ls>) und {#pAToDara#} (<ls><ab>ebend.</ab> 13,65</ls>)¦ <lex>m.</lex> {%Wolke%}.
+;---------------------------------------------------
+; <L>75988<pc>4211-3<k1>balayuta<k2>balayuta<e>100
+373308 old {#balayuta#}¦ <lex>Adj.</lex> <ab>dass.</ab> <ls><ab>ebend.</ab></ls> 4,12.
+;
+373308 new {#balayuta#}¦ <lex>Adj.</lex> <ab>dass.</ab> <ls><ab>ebend.</ab> 4,12</ls>.
+;---------------------------------------------------
+; <L>87422<pc>5086-2<k1>muc<k2>muc<h>1<e>500
+430369 old <div n="1">— 6〉 {%Jmd%} oder {%Etwas fahren lassen, im Stich lassen, aufgeben, ablegen, absetzen%} (<ls>CAMPAKA. 92</ls>), {%deponiren%} (<ls><ab>ebend.</ab></ls> 407. 410). {#kalevaram#} (<ls>Chr. 55,20</ls>), {#deham#}, {#prARAn#}, {#jIvitam#} (<ls n="Chr.">315,6</ls>) {%den Körper, die Lebensgeister, das Leben fahren lassen, in den Tod gehen, sterben%}. {#mukta#} {%fahren gelassen, verlassen, ausgezogen, abgelegt, deponirt%} (<ls>CAMPAKA. 473</ls>), {%weggeworfen%} (Kleider <ls>ĀPAST. 2,21,11</ls>), {%fahren gelassen, aufgegeben, nicht mehr da seiend, verschwunden%} (<ab>insbes.</ab> am Anfange eines <ab>adj. Comp.</ab>).
+;
+430369 new <div n="1">— 6〉 {%Jmd%} oder {%Etwas fahren lassen, im Stich lassen, aufgeben, ablegen, absetzen%} (<ls>CAMPAKA. 92</ls>), {%deponiren%} (<ls><ab>ebend.</ab> 407</ls>. 410). {#kalevaram#} (<ls>Chr. 55,20</ls>), {#deham#}, {#prARAn#}, {#jIvitam#} (<ls n="Chr.">315,6</ls>) {%den Körper, die Lebensgeister, das Leben fahren lassen, in den Tod gehen, sterben%}. {#mukta#} {%fahren gelassen, verlassen, ausgezogen, abgelegt, deponirt%} (<ls>CAMPAKA. 473</ls>), {%weggeworfen%} (Kleider <ls>ĀPAST. 2,21,11</ls>), {%fahren gelassen, aufgegeben, nicht mehr da seiend, verschwunden%} (<ab>insbes.</ab> am Anfange eines <ab>adj. Comp.</ab>).
+;---------------------------------------------------
+; <L>90848<pc>5140-1<k1>yAminIpriyatama<k2>yAminIpriyatama<e>100
+447621 old {#yAminIpriyatama#}¦ (<ls>VIKRAMĀṄKAC. 11,49</ls>) und {#yAminIramaRa#} (<ls><ab>ebend.</ab></ls> 11,57) <lex>m.</lex> {%der Mond%}.
+;
+447621 new {#yAminIpriyatama#}¦ (<ls>VIKRAMĀṄKAC. 11,49</ls>) und {#yAminIramaRa#} (<ls><ab>ebend.</ab> 11,57</ls>) <lex>m.</lex> {%der Mond%}.
+;---------------------------------------------------
+; <L>92214<pc>5163-1<k1>raRavigraha<k2>raRavigraha<e>100
+454734 old {#raRavigraha#}¦ <lex>m.</lex> <ab>desgl.</ab> <ls><ab>ebend.</ab></ls> 4,11.
+;
+454734 new {#raRavigraha#}¦ <lex>m.</lex> <ab>desgl.</ab> <ls><ab>ebend.</ab> 4,11</ls>.
+;---------------------------------------------------
+; <L>94980<pc>5204-3<k1>rodas<k2>ro/das<e>100
+468846 old {#ro/das#}¦ <lex>n.</lex> <ab>Du.</ab> {%Himmel und Erde%}. Am Anfange eines <ab>Comp.</ab> <ls>ŚIŚ. 19,106</ls>. {#rodoranDra#} (<ls>ŚIŚ. 18,15</ls>), {#rodaHkuhara#} (<ls>NALOD. 3,32</ls>), {#rodaHkandarakuhara#} (<ls>BĀLAR. 95,7</ls>) und {#rodogfha#} (<ls><ab>ebend.</ab></ls> 126,20) {%eine zwischen Himmel und Erde gelegene Höhlung%} <ab>u. s. w.</ab> In {#svargarodaHkuhara#} <ls>BĀLAR. 23,15</ls> hat {#rodas#} wie auch {#rodasI#} die Bedeutung {%Erde%}.
+;
+468846 new {#ro/das#}¦ <lex>n.</lex> <ab>Du.</ab> {%Himmel und Erde%}. Am Anfange eines <ab>Comp.</ab> <ls>ŚIŚ. 19,106</ls>. {#rodoranDra#} (<ls>ŚIŚ. 18,15</ls>), {#rodaHkuhara#} (<ls>NALOD. 3,32</ls>), {#rodaHkandarakuhara#} (<ls>BĀLAR. 95,7</ls>) und {#rodogfha#} (<ls><ab>ebend.</ab> 126,20</ls>) {%eine zwischen Himmel und Erde gelegene Höhlung%} <ab>u. s. w.</ab> In {#svargarodaHkuhara#} <ls>BĀLAR. 23,15</ls> hat {#rodas#} wie auch {#rodasI#} die Bedeutung {%Erde%}.
+;---------------------------------------------------
+; <L>95645<pc>5215-2<k1>lawaBa<k2>lawaBa<e>100
+472295 old <div n="1">— 2〉 <lex>f.</lex> {#A#} {%eine Schöne, ein hübsches Mädchen%} <ls><ab>ebend.</ab></ls> 8,81. (<ab>v. l.</ab> {#laqaho#} {#BAve#} nach <ls>AUFRECHT.</ls> in <ls>Z. d. d. m. G. 16,209</ls>). <ls n="Chr.">9,68</ls>. <ls n="Chr.">11,18</ls>. <ab>Vgl.</ab> {#lawaha#} und {#laqaha#}.
+;
+472295 new <div n="1">— 2〉 <lex>f.</lex> {#A#} {%eine Schöne, ein hübsches Mädchen%} <ls><ab>ebend.</ab> 8,81</ls>. (<ab>v. l.</ab> {#laqaho#} {#BAve#} nach <ls>AUFRECHT.</ls> in <ls>Z. d. d. m. G. 16,209</ls>). <ls n="Chr.">9,68</ls>. <ls n="Chr.">11,18</ls>. <ab>Vgl.</ab> {#lawaha#} und {#laqaha#}.
+;---------------------------------------------------
+; <L>95742<pc>5217-1<k1>labDalABa<k2>labDalABa<e>100
+472796 old <div n="1">— 2〉 {%in den glücklichen Besitz von Etwas%} (im <ab>Comp.</ab> vorangehend) {%gelangt%} <ls><ab>ebend.</ab></ls> 68,11. 83,24.
+;
+472796 new <div n="1">— 2〉 {%in den glücklichen Besitz von Etwas%} (im <ab>Comp.</ab> vorangehend) {%gelangt%} <ls><ab>ebend.</ab> 68,11</ls>. 83,24.
+;---------------------------------------------------
+; <L>97900<pc>6013-3<k1>vanakanda<k2>*vanakanda<e>100
+484259 old *{#vanakanda#}¦ <lex>m.</lex> <ab>Bez.</ab> {%zweier Knollengewächse,%} = {#DaraRIkanda#} (<ls>RĀJAN. 7,9</ls>) und {#vanaSUraRa#} (<ls><ab>ebend.</ab></ls> 7,65).
+;
+484259 new *{#vanakanda#}¦ <lex>m.</lex> <ab>Bez.</ab> {%zweier Knollengewächse,%} = {#DaraRIkanda#} (<ls>RĀJAN. 7,9</ls>) und {#vanaSUraRa#} (<ls><ab>ebend.</ab> 7,65</ls>).
+;---------------------------------------------------
+; <L>105125<pc>6132-1<k1>vizakanyakA<k2>vizakanyakA<e>100
+522351 old {#vizakanyakA#}¦ (<ls>VIVEKAV. 5,117</ls>) und {#°kanyA#} (<ls><ab>ebend.</ab></ls> 127) <lex>f.</lex> {%ein Mädchen, das angeblich dem, der ihm beiwohnt, den Tod bringt%}.
+;
+522351 new {#vizakanyakA#}¦ (<ls>VIVEKAV. 5,117</ls>) und {#°kanyA#} (<ls><ab>ebend.</ab> 127</ls>) <lex>f.</lex> {%ein Mädchen, das angeblich dem, der ihm beiwohnt, den Tod bringt%}.
+;---------------------------------------------------
+; <L>118520<pc>7035-1<k1>sadAnuvftti<k2>sadAnuvftti<e>100
+588290 old {#sadAnuvftti#}¦ <lex>f.</lex> <ab>desgl.</ab> <ls><ab>ebend.</ab></ls> 6,17.
+;
+588290 new {#sadAnuvftti#}¦ <lex>f.</lex> <ab>desgl.</ab> <ls><ab>ebend.</ab> 6,17</ls>.
+;---------------------------------------------------
+; <L>129779<pc>7190-3<k1>someSvara<k2>someSvara<e>100
+642704 old <div n="1">— 2〉 eines Webers <ls><ab>ebend.</ab></ls> 14,117.
+;
+642704 new <div n="1">— 2〉 eines Webers <ls><ab>ebend.</ab> 14,117</ls>.
+;---------------------------------------------------
+; ********************************************************
+; Part 2: 26 changes associated with misc. ls changes
+; ********************************************************
+; <L>23590<pc>2007-1<k1>kaRaja<k2>kaRaja<e>100
+110777 old {#kaRaja#}¦ <lex>m.</lex> {%ein <ab>best.</ab> Gewicht%} <ls>HEMĀDRI 1,117,3. 4</ls>. = <ls n="HEMĀDRI ">2,a.55,16. 17</ls>.
+;
+110777 new {#kaRaja#}¦ <lex>m.</lex> {%ein <ab>best.</ab> Gewicht%} <ls>HEMĀDRI 1,117,3. 4</ls>. = <ls n="HEMĀDRI">2,a.55,16. 17</ls>.
+;---------------------------------------------------
+; <L>28666<pc>2075-3<k1>kup<k2>kup<h>1<e>500
+136653 old <div n="1">— 2〉 {%aufbrausen, in Zorn gerathen%}. {#prakupita#} {%erzürnt, — auf%} ({#prati#} oder <ab>Loc.</ab>). Statt {#jAtA prakuptA#} (!) <ls>VIKR. 130</ls>. hat die <ls n="VIKR. ">drāv. Rec.</ls> {#jAtAnutApA#}.
+;
+136653 new <div n="1">— 2〉 {%aufbrausen, in Zorn gerathen%}. {#prakupita#} {%erzürnt, — auf%} ({#prati#} oder <ab>Loc.</ab>). Statt {#jAtA prakuptA#} (!) <ls>VIKR. 130</ls>. hat die <ls n="VIKR.">drāv. Rec.</ls> {#jAtAnutApA#}.
+;---------------------------------------------------
+; <L>41173<pc>2245-3<k1>Cur<k2>Cur<e>500
+200392 old <div n="2">— b〉 {%ausstossen%} (einen Seufzer) <ls><ab>ebend.</ab> 57,15</ls>. 16.
+;
+200392 new <div n="2">— b〉 {%ausstossen%} (einen Seufzer) <ls><ab>ebend.</ab> 57,15. 16</ls>.
+;---------------------------------------------------
+; <L>64224<pc>4044-2<k1>parivitarka<k2>parivitarka<e>100
+315677 old {#parivitarka#}¦ <lex>m.</lex> {%Gedanke, das Gedachte%} <ls>Text zu Lt. de la b. 164. 184</ls>.
+;
+315677 new {#parivitarka#}¦ <lex>m.</lex> {%Gedanke, das Gedachte%} <ls>Text zu Lot. de la b. l. 164. 184</ls>.
+;---------------------------------------------------
+; <L>64800<pc>4052-3<k1>paryAyavAkya<k2>paryAyavAkya<e>100
+318447 old {#paryAyavAkya#}¦ <lex>n.</lex> {%ähnliche Worte%} <ls>HARIV. 9647</ls>; <ab>vgl.</ab> <ls n="HARIV.">9652.</ls>
+;
+318447 new {#paryAyavAkya#}¦ <lex>n.</lex> {%ähnliche Worte%} <ls>HARIV. 9647</ls>; <ab>vgl.</ab> <ls n="HARIV.">9652</ls>.
+;---------------------------------------------------
+; <L>66801<pc>4080-3<k1>piYjala<k2>piYjala<e>100
+328447 old <div n="1">— 3〉 <lex>f.</lex> {#I#} {%Büschel von Halmen, Gras%} <ab>u. s. w.</ab> <ls>GOBH. 2,7,5. 9,4.</ls> <ls>HEMĀDRI 1,107,1</ls> (= <ls><ab>Comm.</ab> zu GOBH. 2,7,5</ls>). <ab>Vgl.</ab> {#piYjula#}
+;
+328447 new <div n="1">— 3〉 <lex>f.</lex> {#I#} {%Büschel von Halmen, Gras%} <ab>u. s. w.</ab> <ls>GOBH. 2,7,5. 9,4</ls>. <ls>HEMĀDRI 1,107,1</ls> (= <ls><ab>Comm.</ab> zu GOBH. 2,7,5</ls>). <ab>Vgl.</ab> {#piYjula#}
+;---------------------------------------------------
+; <L>69249<pc>4115-1<k1>pUrvApuz<k2>pUrvApu/z<e>100
+340328 old {#pUrvApu/z#}¦ <lex>Adj.</lex> {%zuerst anlangend%} <ls>R.V. 8,22,2</ls>.
+;
+340328 new {#pUrvApu/z#}¦ <lex>Adj.</lex> {%zuerst anlangend%} <ls>ṚV. 8,22,2</ls>.
+;---------------------------------------------------
+; <L>75111<pc>4197-2<k1>prOQapAda<k2>prOQapAda<e>100
+368623 old {#prOQapAda#}¦ <lex>Adj.</lex> {%die Füsse beim Sitzen in einer <ab>best.</ab> Stellung haltend%} <ls>GAUT. 16,17</ls>. <ls>HEMĀDRI 1,90,16. 18</ls> = <ls n="HEMĀDRI ">2,35,4. 6</ls>. <ab>Vgl.</ab> {#prozWapAda#} 1〉.
+;
+368623 new {#prOQapAda#}¦ <lex>Adj.</lex> {%die Füsse beim Sitzen in einer <ab>best.</ab> Stellung haltend%} <ls>GAUT. 16,17</ls>. <ls>HEMĀDRI 1,90,16. 18</ls> = <ls n="HEMĀDRI">2,35,4. 6</ls>. <ab>Vgl.</ab> {#prozWapAda#} 1〉.
+;---------------------------------------------------
+; <L>75677<pc>4205-3<k1>badDagoDANgulitravant<k2>badDagoDANgulitravant<e>100
+371532 old {#badDagoDANgulitravant#}¦ <lex>Adj.</lex> {%der die%} <is>Godhā</is> {%und%} <is>Aṅgulitra</is> {%genannten Schutzmittel gegen den Schlag der Bogensehne angebunden hat%} <ls>MBH. 3,17,3</ls>. <ls n="MBH. ">37,19</ls>.
+;
+371532 new {#badDagoDANgulitravant#}¦ <lex>Adj.</lex> {%der die%} <is>Godhā</is> {%und%} <is>Aṅgulitra</is> {%genannten Schutzmittel gegen den Schlag der Bogensehne angebunden hat%} <ls>MBH. 3,17,3</ls>. <ls n="MBH.">37,19</ls>.
+;---------------------------------------------------
+; <L>78262<pc>4241-2<k1>brAhmaRavAcana<k2>brAhmaRavAcana<e>100
+384089 old {#brAhmaRavAcana#}¦ <lex>n.</lex> {%das Brahmanen geziemende Hersagen frommer Wünsche%} <ls>HEMĀDRI 1,168,17</ls> ({#brahmaRa°#} <ab>gedr.</ab>). <ls n="HEMĀDRI ">20. 181,14. 19</ls>.
+;
+384089 new {#brAhmaRavAcana#}¦ <lex>n.</lex> {%das Brahmanen geziemende Hersagen frommer Wünsche%} <ls>HEMĀDRI 1,168,17</ls> ({#brahmaRa°#} <ab>gedr.</ab>). <ls n="HEMĀDRI">20. 181,14. 19</ls>.
+;---------------------------------------------------
+; <L>78571<pc>4247-2<k1>BawaprakASikA<k2>BawaprakASikA<e>100
+385707 old {#BawaprakASikA#}¦ <lex>f.</lex> Titel eines Commentars zum <is>Aryabhaṭṭa</is> <ls><ab>Comm.</ab> zu ĀRYABH. S. 13, z. 14</ls>.
+;
+385707 new {#BawaprakASikA#}¦ <lex>f.</lex> Titel eines Commentars zum <is>Aryabhaṭṭa</is> <ls><ab>Comm.</ab> zu ĀRYABH. S. 13, Z. 14</ls>.
+;---------------------------------------------------
+; <L>87422<pc>5086-2<k1>muc<k2>muc<h>1<e>500
+430369 old <div n="1">— 6〉 {%Jmd%} oder {%Etwas fahren lassen, im Stich lassen, aufgeben, ablegen, absetzen%} (<ls>CAMPAKA. 92</ls>), {%deponiren%} (<ls><ab>ebend.</ab> 407</ls>. 410). {#kalevaram#} (<ls>Chr. 55,20</ls>), {#deham#}, {#prARAn#}, {#jIvitam#} (<ls n="Chr.">315,6</ls>) {%den Körper, die Lebensgeister, das Leben fahren lassen, in den Tod gehen, sterben%}. {#mukta#} {%fahren gelassen, verlassen, ausgezogen, abgelegt, deponirt%} (<ls>CAMPAKA. 473</ls>), {%weggeworfen%} (Kleider <ls>ĀPAST. 2,21,11</ls>), {%fahren gelassen, aufgegeben, nicht mehr da seiend, verschwunden%} (<ab>insbes.</ab> am Anfange eines <ab>adj. Comp.</ab>).
+;
+430369 new <div n="1">— 6〉 {%Jmd%} oder {%Etwas fahren lassen, im Stich lassen, aufgeben, ablegen, absetzen%} (<ls>CAMPAKA. 92</ls>), {%deponiren%} (<ls><ab>ebend.</ab> 407. 410</ls>). {#kalevaram#} (<ls>Chr. 55,20</ls>), {#deham#}, {#prARAn#}, {#jIvitam#} (<ls n="Chr.">315,6</ls>) {%den Körper, die Lebensgeister, das Leben fahren lassen, in den Tod gehen, sterben%}. {#mukta#} {%fahren gelassen, verlassen, ausgezogen, abgelegt, deponirt%} (<ls>CAMPAKA. 473</ls>), {%weggeworfen%} (Kleider <ls>ĀPAST. 2,21,11</ls>), {%fahren gelassen, aufgegeben, nicht mehr da seiend, verschwunden%} (<ab>insbes.</ab> am Anfange eines <ab>adj. Comp.</ab>).
+;---------------------------------------------------
+; <L>87892<pc>5095-1<k1>mUrtiRa<k2>mUrtiRa<e>000
+432959 old {#mUrtiRa#}¦ scheinbar <ls>HEMĀDRI 1,372,4</ls>. da hier wohl {#mUrtayaH#} <ab>st.</ab> {#mUrtiRAH#} zu lesen ist; <ab>vgl.</ab> <ls n="HEMĀDRI 1,">411,3.</ls>
+;
+432959 new {#mUrtiRa#}¦ scheinbar <ls>HEMĀDRI 1,372,4</ls>. da hier wohl {#mUrtayaH#} <ab>st.</ab> {#mUrtiRAH#} zu lesen ist; <ab>vgl.</ab> <ls n="HEMĀDRI 1,">411,3</ls>.
+;---------------------------------------------------
+; <L>89275<pc>5113-1<k1>mruc<k2>mruc<e>500
+439633 old √{#mruc#}¦	{#mro/cati#} ({#gatyarTa#}). — Mit {#ni#} untergehen (von der Sonne). — Mit {#aBini#} untergehen über (<ab>Acc.</ab>) <ls>MAITR. S. 1,8,7 (125,18. 21)</ls>.  {#aBinirmukta#} derjenige, welchen die untergehende Sonne schlofend findet, <ls>ĀPAST. 2,12,13. 22.</ls> Haüfig fehlerhaft {#aBinirmukta#} geschrieben. ;; full body missed in typing.
+;
+439633 new √{#mruc#}¦	{#mro/cati#} ({#gatyarTa#}). — Mit {#ni#} untergehen (von der Sonne). — Mit {#aBini#} untergehen über (<ab>Acc.</ab>) <ls>MAITR. S. 1,8,7 (125,18. 21)</ls>.  {#aBinirmukta#} derjenige, welchen die untergehende Sonne schlofend findet, <ls>ĀPAST. 2,12,13. 22</ls>. Haüfig fehlerhaft {#aBinirmukta#} geschrieben. ;; full body missed in typing.
+;---------------------------------------------------
+; <L>95742<pc>5217-1<k1>labDalABa<k2>labDalABa<e>100
+472796 old <div n="1">— 2〉 {%in den glücklichen Besitz von Etwas%} (im <ab>Comp.</ab> vorangehend) {%gelangt%} <ls><ab>ebend.</ab> 68,11</ls>. 83,24.
+;
+472796 new <div n="1">— 2〉 {%in den glücklichen Besitz von Etwas%} (im <ab>Comp.</ab> vorangehend) {%gelangt%} <ls><ab>ebend.</ab> 68,11. 83,24</ls>.
+;---------------------------------------------------
+; <L>99253<pc>6042-1<k1>vaSAnuga<k2>vaSAnuga<e>100
+492402 old <div n="1">— 2〉 {%Jmds Willen folgend, in Jmds Gewalt stehend, unterthan, gehorsam;%} die Ergänzung im <ab>Gen.</ab> (<ls>R. 1,49,22</ls>. 2,10,32) oder im <ab>Comp.</ab> vorangehend.
+;
+492402 new <div n="1">— 2〉 {%Jmds Willen folgend, in Jmds Gewalt stehend, unterthan, gehorsam;%} die Ergänzung im <ab>Gen.</ab> (<ls>R. 1,49,22. 2,10,32</ls>) oder im <ab>Comp.</ab> vorangehend.
+;---------------------------------------------------
+; <L>99960<pc>6054-3<k1>vAgvisarga<k2>vAgvisarga<e>100
+496234 old {#vAgvisarga#}¦ <lex>m.</lex> {%das Ertönenlassen der Stimme, das Brechen des Schweigens, das Sprechen%} <ls>GOBH. 2,3,14. 3,2,44</ls>. <ls>BHĀG. P. 1,5,11</ls> = <ls n="BHĀG. P. ">12,12,51</ls>.
+;
+496234 new {#vAgvisarga#}¦ <lex>m.</lex> {%das Ertönenlassen der Stimme, das Brechen des Schweigens, das Sprechen%} <ls>GOBH. 2,3,14. 3,2,44</ls>. <ls>BHĀG. P. 1,5,11</ls> = <ls n="BHĀG. P.">12,12,51</ls>.
+;---------------------------------------------------
+; <L>100001<pc>6055-1<k1>vAcanaka<k2>vAcanaka<e>100
+496432 old <div n="1">— 1〉 {%das Hersagen,%} <ab>insbes.</ab> von {#svasti#} <ls>HEMĀDRI 1,90,22. 23</ls> = <ls n="HEMĀDRI ">2,a,35,17. 18</ls>.
+;
+496432 new <div n="1">— 1〉 {%das Hersagen,%} <ab>insbes.</ab> von {#svasti#} <ls>HEMĀDRI 1,90,22. 23</ls> = <ls n="HEMĀDRI">2,a,35,17. 18</ls>.
+;---------------------------------------------------
+; <L>104367<pc>6118-2<k1>vivasvan<k2>viva/svan<e>000
+518275 old {#viva/svan#}¦, <ab>Instr.</ab> <ab>Pl.</ab> so <ab>v. a.</ab> {%so dass es aufleuchtet%}. {#viva/sva pa/rvatAnAm#} <ls>R.V. 1,187,7</ls> abgekürzt für {#viva/svatAM pa/°#}.
+;
+518275 new {#viva/svan#}¦, <ab>Instr.</ab> <ab>Pl.</ab> so <ab>v. a.</ab> {%so dass es aufleuchtet%}. {#viva/sva pa/rvatAnAm#} <ls>ṚV. 1,187,7</ls> abgekürzt für {#viva/svatAM pa/°#}.
+;---------------------------------------------------
+; <L>106346<pc>6148-1<k1>vfjana<k2>vfja/na<h>1<e>100
+528235 old <div n="1">— 2〉 {%eine geschlossene Niederlassung; Hof, Flecken, Dorfschaft,%} auch {%oppidum;%} sowohl {%die Mark%} als {%die Bewohner%}. <ls>ṚV. 47,32,7</ls>. nach dem <ls n="Padapāṭha">Padap.</ls> <lex>m.</lex>
+;
+528235 new <div n="1">— 2〉 {%eine geschlossene Niederlassung; Hof, Flecken, Dorfschaft,%} auch {%oppidum;%} sowohl {%die Mark%} als {%die Bewohner%}. <ls>ṚV. 7,32,7</ls> nach dem <ls n="Padapāṭha">Padap.</ls> <lex>m.</lex>
+;---------------------------------------------------
+; <L>113415<pc>6249-1<k1>SuRWADI<k2>SuRWADI<e>100
+562909 old {#SuRWADI#}¦ <lex>Adj.</lex> <lex>f.</lex> <ls>KĀTY. ŚR. 22,11,29</ls>. nach dem <ab>Comm.</ab> = {#pItamuKI, vezwitamuKI#} oder {#pItapucCI#}. Es ist aber zu trennen {#SuRWA aDIlohakarRI#}; für letzteres haben andere Texte {#adDyAlohakarRa#} oder {#aDIloDakarRa#} (<ls>Nachtr. 2</ls>. <ls>Nachtr. 4</ls>).
+;
+562909 new {#SuRWADI#}¦ <lex>Adj.</lex> <lex>f.</lex> <ls>KĀTY. ŚR. 22,11,29</ls>. nach dem <ab>Comm.</ab> = {#pItamuKI, vezwitamuKI#} oder {#pItapucCI#}. Es ist aber zu trennen {#SuRWA aDIlohakarRI#}; für letzteres haben andere Texte {#adDyAlohakarRa#} oder {#aDIloDakarRa#} (<ls>Nachtr. 2. 4</ls>).
+;---------------------------------------------------
+; <L>117383<pc>7015-1<k1>sagDyE<k2>sagDyE<e>100
+582377 old {#sagDyE#}¦ <ab>Dat.</ab> <ab>Infin.</ab> zu {#saG#} zu vermuthen <ab>st.</ab> {#sadDE#} <ls>J. A. O. S. 11, CXLVII.</ls>
+;
+582377 new {#sagDyE#}¦ <ab>Dat.</ab> <ab>Infin.</ab> zu {#saG#} zu vermuthen <ab>st.</ab> {#sadDE#} <ls>J. A. O. S. 11, CXLVII</ls>.
+;---------------------------------------------------
+; <L>117928<pc>7024-1<k1>saYj<k2>saYj<e>500
+585174 old <div n="p">— Mit {#aByA#} einen Tag {%mit einem vorangehenden verketten%} <ls>ĀPAST. ŚR. 14,34,3. 4</ls>. {#°sakta#} {%mit einem <ab n="vorangehenden ">v.</ab> Tage verkettet%}.
+;
+585174 new <div n="p">— Mit {#aByA#} einen Tag {%mit einem vorangehenden verketten%} <ls>ĀPAST. ŚR. 14,34,3. 4</ls>. {#°sakta#} {%mit einem <ab n="vorangehenden">v.</ab> Tage verkettet%}.
+;---------------------------------------------------
+; <L>119405<pc>7048-1<k1>saptatima<k2>saptatima<e>100
+592533 old {#saptatima#}¦ <lex>Adj.</lex> <ab>dass.</ab> {#BAga#} <lex>m.</lex> {%Theil%} <ls>HEMĀDRI 1,117,10</ls> = <ls n="HEMĀDRI ">2,a,56,4</ls>.
+;
+592533 new {#saptatima#}¦ <lex>Adj.</lex> <ab>dass.</ab> {#BAga#} <lex>m.</lex> {%Theil%} <ls>HEMĀDRI 1,117,10</ls> = <ls n="HEMĀDRI">2,a,56,4</ls>.
+;---------------------------------------------------
+; <L>124833<pc>7127-1<k1>siMhaka<k2>siMhaka<e>100
+618675 old <div n="1">— 1〉 <lex>m.</lex> Hypokoristiken von {#siMha#} (<ls>DIVYĀVAD. 523,12 fgg.)</ls> •[Page7127-2] •und *{#siMhAjina#}.
+;
+618675 new <div n="1">— 1〉 <lex>m.</lex> Hypokoristiken von {#siMha#} (<ls>DIVYĀVAD. 523,12 fgg.</ls>) •[Page7127-2] •und *{#siMhAjina#}.
+;---------------------------------------------------
+; <L>130522<pc>7202-2<k1>stimitatA<k2>stimitatA<e>100
+646592 old {#stimitatA#}¦ <lex>f.</lex> (<ls>KĀD. 31,20</ls> = <ls n="KĀD. ">56,2</ls>) und {#stimitatva#} <lex>n.</lex> {%Stille, Unbeweglichkeit%}.
+;
+646592 new {#stimitatA#}¦ <lex>f.</lex> (<ls>KĀD. 31,20</ls> = <ls n="KĀD.">56,2</ls>) und {#stimitatva#} <lex>n.</lex> {%Stille, Unbeweglichkeit%}.
+;---------------------------------------------------
+; ********************************************************
+; ********************************************************
+; ********************************************************
+; ********************************************************
+; ********************************************************
+; ********************************************************
+; ********************************************************
