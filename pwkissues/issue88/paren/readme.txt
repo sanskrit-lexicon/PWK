@@ -300,7 +300,7 @@ git push
 # login to cologne
 ---- csl-orig
 git pull
-# 52733 lines changed
+#1712 ines changed
 
 ---- csl-pywork
 cd v02
