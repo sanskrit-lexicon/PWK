@@ -401,11 +401,19 @@ zoobot -
 hom
  Homonym markup added.
  temp_pw_11
-
+see hom/readme.txt
 *******************************************************************
 ls
  for `<ls>` tag, resolve differences between CDSL version and AB version
  temp_pw_12
  temp_pw_ab_12
+ see ls/readme.txt
+*******************************************************************
+paren
+ parenthetical text,  resolve differences between CDSL version and AB version
+ Also resolved differences re lex and div tags.
+ temp_pw_13
+ temp_pw_ab_13
+see paren/readme.txt
 *******************************************************************
 

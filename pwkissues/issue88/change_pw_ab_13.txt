@@ -1,0 +1,859 @@
+; ********************************************************
+; change_pw_ab_13.txt  Miscellaneous Changes from pw_ab_12
+;   Note see paren/readme.txt for more details
+; Part 1: 108  resolve (X) differences between cdsl and ab versions
+; Part 2:   3  resolve diffs in <lex>X</lex>
+; Part 3:   0  [.]</X>[.] -> .</X>  
+; Part 4:  46  Misc. changes (4a,4b,4c). See readme
+; Part 5:  19  resolve diffs in <div> tag
+; ********************************************************
+; Part 1: 108  resolve (X) differences between cdsl and ab versions
+; ********************************************************
+; <L>78<pc>1001-3<k1>akanizWa<k2>a/kanizWa<e>100
+372 old <div n="1">— 2〉 <lex>m.</lex> <ab>Pl.</ab> {%eine <ab>best.</ab> Klasse von Gütern%} (bei •[Page1002-1] •den Buddhisten).
+;
+372 new <div n="1">— 2〉 <lex>m.</lex> <ab>Pl.</ab> {%eine <ab>best.</ab> Klasse von Gütern%} (bei den Buddhisten).•[Page1002-1] •
+;---------------------------------------------------
+; <L>3247<pc>1038-2<k1>anaqvah<k2>anaqva/h<e>100
+14811 old <div n="1">— 1〉 <lex>m.</lex> ({#anaqvA/n, a/naqvan, anaqvA/ham, anaqu/hA#} •[Page1038-3] •{#, anaqu/ddyAm#}) {%Stier%}.
+;
+14811 new <div n="1">— 1〉 <lex>m.</lex> ({#anaqvA/n, a/naqvan, anaqvA/ham, anaqu/hA, anaqu/ddyAm#})•[Page1038-3] • {%Stier%}.
+;---------------------------------------------------
+; <L>3675<pc>1043-2<k1>anavatapta<k2>anavatapta<e>100
+16656 old <div n="1">— 2〉 eines Sees (wohl = {#rAvaRahrada#}.)
+;
+16656 new <div n="1">— 2〉 eines Sees (wohl = {#rAvaRahrada#}).
+;---------------------------------------------------
+; <L>4027<pc>1047-1<k1>anAhata<k2>anAhata<e>100
+18169 old <div n="2">— a〉 {%nicht angeschlagen, nicht geschlagen%} (ein  <ab n="musikalisches Instrument">musik. Instr.</ab>). {#°hatA dunduBayo vineduH#} <ls>MBH. 5,182,24. 14,80,55</ls>. {#SaNKa#} {%nicht geblasen%} <ls>SIDDH. K.</ls> {#jyA#} {%nicht gespannt%} <ls>MBH. 5,48,102</ls>. {%nicht angeschlagen, von%} einem Laute.
+;
+18169 new <div n="2">— a〉 {%nicht angeschlagen, nicht geschlagen%} (ein <ab n="musikalisches Instrument">musik. Instr.</ab>). {#°hatA dunduBayo vineduH#} <ls>MBH. 5,182,24. 14,80,55</ls>. {#SaNKa#} {%nicht geblasen%} <ls>SIDDH. K.</ls> {#jyA#} {%nicht gespannt%} <ls>MBH. 5,48,102</ls>. {%nicht angeschlagen, von%} einem Laute.
+;---------------------------------------------------
+; <L>4801<pc>1056-3<k1>anuvartin<k2>anuvartin<e>100
+21717 old <div n="1">— 1〉 {%nachgehend, folgend%} (<ab>eig.</ab> und •[Page1057-1] •<ab>übertr.</ab>). Mit <ab>Acc.</ab>, gewöhnlich aber am Ende eines <ab>Comp.</ab>
+;
+21717 new <div n="1">— 1〉 {%nachgehend, folgend%} (<ab>eig.</ab> und <ab>übertr.</ab>).•[Page1057-1] • Mit <ab>Acc.</ab>, gewöhnlich aber am Ende eines <ab>Comp.</ab>
+;---------------------------------------------------
+; <L>6141<pc>1072-2<k1>aparipakva<k2>aparipakva<e>100
+27754 old {#aparipakva#}¦ <lex>Adj.</lex> {%nicht ganz reif%} (Frucht, Geschwür •[Page1072-3] •, Verstand).
+;
+27754 new {#aparipakva#}¦ <lex>Adj.</lex> {%nicht ganz reif%} (Frucht, Geschwür, Verstand). •[Page1072-3] •
+;---------------------------------------------------
+; <L>7603<pc>1089-1<k1>aBivAsa<k2>aBivAsa<e>100
+34355 old {#aBivAsa#}¦ <lex>m.</lex> (<ls>NYĀYAM. 5,1,31</ls>) und {#°vAsana#} <lex>n.</lex> (<ab>Comm.</ab> •[Page1089-2] •zu <ls>TS. 1,142,12</ls> und zu <ls>NYĀYAM. 5,1,31</ls>) {%Bedeckung%}.
+;
+34355 new {#aBivAsa#}¦ <lex>m.</lex> (<ls>NYĀYAM. 5,1,31</ls>) und {#°vAsana#} <lex>n.</lex> •[Page1089-2] •(<ab>Comm.</ab> zu <ls>TS. 1,142,12</ls> und zu <ls>NYĀYAM. 5,1,31</ls>) {%Bedeckung%}.
+;---------------------------------------------------
+; <L>7859<pc>1092-1<k1>aByaDika<k2>aByaDika<e>100
+35534 old <div n="2">— c〉 {%überlegen, vorangehend, mehr geltend, höher stehend, mehr, grösser, stärker, heftiger, vorzüglicher%}. Ein <ab>Abl.</ab>, <ab>Instr.</ab> oder ein in <ab>Comp.</ab> vorangehendes Wort bezeichnet entweder den Ueberschuss ({#SatamaByaDikaM zazwitaH#} {%hundertundsechzig%} <ls n="Chr.">221,2</ls>. {#atipayatfREraByaDikaM muzwim#} <ls>KUMĀRILA</ls> bei <ls>GOLD.</ls>). oder das Uebertroffene ({#SarIrABya°#} {%lieber als die eigene Person%} <ls n="Chr.">112,12</ls>). In Congruenz mit einem <lex>Adj.</lex> so <ab>v. a.</ab> das <lex>Adj.</lex> im <ab>Compar.</ab> <ls>Spr. 3277</ls>.
+;
+35534 new <div n="2">— c〉 {%überlegen, vorangehend, mehr geltend, höher stehend, mehr, grösser, stärker, heftiger, vorzüglicher%}. Ein <ab>Abl.</ab>, <ab>Instr.</ab> oder ein in <ab>Comp.</ab> vorangehendes Wort bezeichnet entweder den Ueberschuss ({#SatamaByaDikaM zazwitaH#} {%hundertundsechzig%} <ls n="Chr.">221,2</ls>. {#atipayatfREraByaDikaM muzwim#} <ls>KUMĀRILA</ls> bei <ls>GOLD.</ls>) oder das Uebertroffene ({#SarIrABya°#} {%lieber als die eigene Person%} <ls n="Chr.">112,12</ls>). In Congruenz mit einem <lex>Adj.</lex> so <ab>v. a.</ab> das <lex>Adj.</lex> im <ab>Compar.</ab> <ls>Spr. 3277</ls>.
+;---------------------------------------------------
+; <L>7928<pc>1092-3<k1>aByAGAtya<k2>aByAGAtya<e>100
+35846 old {#aByAGAtya#}¦ <lex>Adj.</lex> {%mit Anstoss%} (<ab>d. h.</ab> Unterbrechung •[Page1093-1] •und Wiederholung) {%gesprochen werdend%} <ls>TĀṆḌYA-BR. 14,9,30</ls>.
+;
+35846 new {#aByAGAtya#}¦ <lex>Adj.</lex> {%mit Anstoss%} (<ab>d. h.</ab> Unterbrechung und Wiederholung)•[Page1093-1] • {%gesprochen werdend%} <ls>TĀṆḌYA-BR. 14,9,30</ls>.
+;---------------------------------------------------
+; <L>9184<pc>1107-2<k1>arunDatI<k2>arunDatI/<e>100
+41745 old <div n="1">— 2〉 <ab>N. pr.</ab> der Gattin <is>Vasiṣṭha</is>ʼs (<ls n="Chr.">83,15</ls>; zugleich in der <ab>Bed.</ab> 3〉) und <is>Dharma</is>ʼs.
+;
+41745 new <div n="1">— 2〉 <ab>N. pr.</ab> der Gattin <is>Vasiṣṭha</is>ʼs (<ls n="Chr.">83,15</ls>; zugleich in der <ab>Bed.</ab> 3) und <is>Dharma</is>ʼs.
+;---------------------------------------------------
+; <L>12833<pc>1152-1<k1>astasamaya<k2>astasamaya<e>100
+58887 old {#astasamaya#}¦ <lex>m.</lex> {%Augenblick des Untergangs%} (<ab>eig.</ab> •[Page1152-2] •und <ab>übertr.</ab>) <ls>ŚIŚ. 9,5</ls>.
+;
+58887 new {#astasamaya#}¦ <lex>m.</lex> {%Augenblick des Untergangs%} (<ab>eig.</ab> und <ab>übertr.</ab>) •[Page1152-2] •<ls>ŚIŚ. 9,5</ls>.
+;---------------------------------------------------
+; <L>23173<pc>2002-1<k1>kakuBa<k2>kakuBa/<e>100
+108701 old <div n="2">— f〉 {%eine <ab>best.</ab> Krankheit%} (Verwechselung •[Page2002-2] •von {#rAga#} und {#roga#}).
+;
+108701 new <div n="2">— f〉 {%eine <ab>best.</ab> Krankheit%} (Verwechselung von {#rAga#} und {#roga#}).•[Page2002-2] •
+;---------------------------------------------------
+; <L>25332<pc>2030-3<k1>karz<k2>karz<h>1<e>500
+119861 old <div n="1">— 4〉 {%anführen%} (ein •[Page2031-3] •Heer).
+;
+119861 new <div n="1">— 4〉 {%anführen%} (ein Heer).•[Page2031-3] •
+;---------------------------------------------------
+; <L>25745<pc>2038-3<k1>kavanDa<k2>ka/vanDa<e>100
+122255 old {#ka/vanDa#} (<ls>ṚV.</ls>), {#ka/banDa#} (<ls>AV.</ls> <ab n="und">u.</ab> später die •[Page2039-1] •<ls>Bomb. Ausgg.</ls>)¦
+;
+122255 new {#ka/vanDa#} (<ls>ṚV.</ls>), {#ka/banDa#} (<ls>AV.</ls> <ab n="und">u.</ab> später die <ls>Bomb. Ausgg.</ls>)¦•[Page2039-1] •
+;---------------------------------------------------
+; <L>33364<pc>2135-2<k1>KaRqapAka<k2>KaRqapAka<e>100
+160068 old {#KaRqapAka#}¦ <lex>m.</lex> {%Syrup verschiedener Art%} (auch mit •[Page2135-3] •Gewürzen <ab>u. s. w.</ab>) <ls>BHĀVAPR. 2,25,26</ls>. <ls>Mat. med. 11</ls>.
+;
+160068 new {#KaRqapAka#}¦ <lex>m.</lex> {%Syrup verschiedener Art%} (auch mit Gewürzen <ab>u. s. w.</ab>)•[Page2135-3] • <ls>BHĀVAPR. 2,25,26</ls>. <ls>Mat. med. 11</ls>.
+;---------------------------------------------------
+; <L>37314<pc>2189-1<k1>graB<k2>graB<e>500
+180272 old <div n="1">— 7〉 {%zuhalten%} (den •[Page2190-3] •Mund).
+;
+180272 new <div n="1">— 7〉 {%zuhalten%} (den Mund).•[Page2190-3] •
+;---------------------------------------------------
+; <L>39903<pc>2227-2<k1>citta<k2>citta/<e>100
+193845 old <div n="1">— 2〉 <lex>n.</lex> (<ab>adj. Comp.</ab> <lex>f.</lex> •[Page2227-3] •{#A#})
+;
+193845 new <div n="1">— 2〉 <lex>n.</lex> (<ab>adj. Comp.</ab> <lex>f.</lex> {#A#})•[Page2227-3] •
+;---------------------------------------------------
+; <L>41118<pc>2244-2<k1>Cid<k2>Cid<h>1<e>500
+200115 old <div n="1">— 1〉 {%abschneiden, -hauen, zerschneiden, spalten, durchbohren%}. {#saMCidyantO#} (<ab>v. l.</ab> •[Page2245-1] •{#saMCindantO#}) {#ca gAtrARi#} {%sich gegenseitig Glieder abhauend%}
+;
+200115 new <div n="1">— 1〉 {%abschneiden, -hauen, zerschneiden, spalten, durchbohren%}. {#saMCidyantO#} (<ab>v. l.</ab> {#saMCindantO#}) •[Page2245-1] •{#ca gAtrARi#} {%sich gegenseitig Glieder abhauend%}
+;---------------------------------------------------
+; <L>45621<pc>3026-2<k1>tAvant<k2>tA/vant<e>100
+223431 old <div n="3">— β〉 {%so lange, während dessen, in der Zeit, da%} ({%entsprechend einem in dem Augenblick%} •[Page3026-3] •{%als%}).
+;
+223431 new <div n="3">— β〉 {%so lange, während dessen, in der Zeit, da%} ({%entsprechend einem in dem Augenblick als%}).•[Page3026-3] •
+;---------------------------------------------------
+; <L>46218<pc>3034-2<k1>tuwi<k2>tuwi<e>000
+226361 old {#tuwi#}¦(*<lex>m.</lex> <lex>f.</lex>) {%kleine Kardamomen%} <ls>UTPALA</ls> zu <ls>VARĀH. BṚH. S. 78,1</ls>.
+;
+226361 new {#tuwi#}¦ (*<lex>m.</lex> <lex>f.</lex>) {%kleine Kardamomen%} <ls>UTPALA</ls> zu <ls>VARĀH. BṚH. S. 78,1</ls>.
+;---------------------------------------------------
+; <L>46402<pc>3036-3<k1>tula<k2>tula<e>100
+227322 old <div n="p">— Mit {#DA#} {%Etwas%} (mit {#tulAm#} •[Page3037-1] •componirt) {%gleichen%}. Mit {#na Bar#} {%mit Nichts verglichen werden können, seines Gleichen nicht haben%} <ls>PRASANNAR. 16,13</ls>. Mit dem <ab>Pass.</ab> von {#nI#} {%Jmd oder Etwas%} (<ab>Gen.</ab>) {%ähnlich werden%}. {#tulA devadattasya nAsti#} so <ab>v. a.</ab> <is n="Devadatta">D.</is> {%hat nicht seines Gleichen%}.
+;
+227322 new <div n="p">— Mit {#DA#} {%Etwas%} (mit {#tulAm#} componirt) •[Page3037-1] •{%gleichen%}. Mit {#na Bar#} {%mit Nichts verglichen werden können, seines Gleichen nicht haben%} <ls>PRASANNAR. 16,13</ls>. Mit dem <ab>Pass.</ab> von {#nI#} {%Jmd oder Etwas%} (<ab>Gen.</ab>) {%ähnlich werden%}. {#tulA devadattasya nAsti#} so <ab>v. a.</ab> <is n="Devadatta">D.</is> {%hat nicht seines Gleichen%}.
+;---------------------------------------------------
+; <L>47181<pc>3045-2<k1>tman<k2>tma/n<e>100
+230904 old <div n="2">— c〉 <ab>Instr.</ab> {#tma/nA#} und <ab>Loc.</ab> {#tma/n#} (nur •[Page3045-3] •am Ende eines Stollens) zu einer Partikel herabgesunken in der <ab>Bed.</ab> von {%doch, wirklich, sogar, wenigstens, gewiss, auch sogar, auch%}. Es legt den Nachdruck auf ein vorangehendes, selten auf ein nachfolgendes Wort. Oefters nach einer Präposition vor dem Verbum, aber auch beim Verbum selbst. Besonders beliebt sind die Verbindungen {#uta/#} —, — {#ca#} (und auch, — gewiss), {#iva#} —, — {#na/#} (gerade wie) und {#a/Da#} — ({%und gar, — zwar%}).
+;
+230904 new <div n="2">— c〉 <ab>Instr.</ab> {#tma/nA#} und <ab>Loc.</ab> {#tma/n#} •[Page3045-3] •(nur am Ende eines Stollens) zu einer Partikel herabgesunken in der <ab>Bed.</ab> von {%doch, wirklich, sogar, wenigstens, gewiss, auch sogar, auch%}. Es legt den Nachdruck auf ein vorangehendes, selten auf ein nachfolgendes Wort. Oefters nach einer Präposition vor dem Verbum, aber auch beim Verbum selbst. Besonders beliebt sind die Verbindungen {#uta/#} —, — {#ca#} (und auch, — gewiss), {#iva#} —, — {#na/#} (gerade wie) und {#a/Da#} — ({%und gar, — zwar%}).
+;---------------------------------------------------
+; <L>49141<pc>3071-3<k1>darS<k2>darS<e>500
+240421 old <div n="1">— 2〉 <ab>pass.</ab> {#dfSya/te#} (im <is>Veda</is> <ab>St.</ab> dessen gewöhnlich <ab>Perf.</ab> •[Page3072-1] •<ab>Med.</ab>) und <ab>Med.</ab>
+;
+240421 new <div n="1">— 2〉 <ab>pass.</ab> {#dfSya/te#} (im <is>Veda</is> <ab>St.</ab> dessen gewöhnlich <ab>Perf.</ab> <ab>Med.</ab>)•[Page3072-1] • und <ab>Med.</ab>
+;---------------------------------------------------
+; <L>50757<pc>3096-3<k1>dIrGI<k2>dIrGI<e>100
+248932 old <div n="1">— 2〉 mit {#BU#} {%lang werden%} (von •[Page3097-1] •einem Vocal).
+;
+248932 new <div n="1">— 2〉 mit {#BU#} {%lang werden%} (von einem Vocal).•[Page3097-1] •
+;---------------------------------------------------
+; <L>52058<pc>3112-3<k1>dfSya<k2>dfSya<e>107
+254977 old <div n="2">— a〉 {%sichtbar, — für%} (<ab>Instr.</ab>, •[Page3113-1] •<ab>Gen.</ab> oder im <ab>Comp.</ab> vorangehend). {#°sTApita#} {%so hingestellt, dass man es sehen kann%}.
+;
+254977 new <div n="2">— a〉 {%sichtbar, — für%} •[Page3113-1] •(<ab>Instr.</ab>, <ab>Gen.</ab> oder im <ab>Comp.</ab> vorangehend). {#°sTApita#} {%so hingestellt, dass man es sehen kann%}.
+;---------------------------------------------------
+; <L>59038<pc>3211-2<k1>nirAmaya<k2>nirAmaya<h>2<e>100
+289616 old <div n="2">— b〉 {%gesund,%} so <ab>v. a.</ab> {%wo keine Krankheit angetroffen wird%} (Stadt, •[Page3211-3] •Sommer).
+;
+289616 new <div n="2">— b〉 {%gesund,%} so <ab>v. a.</ab> {%wo keine Krankheit angetroffen wird%} (Stadt, Sommer).•[Page3211-3] •
+;---------------------------------------------------
+; <L>61516<pc>3246-1<k1>nyubja<k2>nyubja<e>100
+301736 old <div n="2">— b〉 * = {#SrAdDAdipAtraBeda, darBamayasruc#} oder {#kuSasruc#} (<ls>H. an.</ls> wohl {#kuSasruci#} zu lesen).
+;
+301736 new <div n="2">— b〉 *= {#SrAdDAdipAtraBeda, darBamayasruc#} oder {#kuSasruc#} (<ls>H. an.</ls> wohl {#kuSasruci#} zu lesen).
+;---------------------------------------------------
+; <L>63281<pc>4031-1<k1>paramapuruza<k2>paramapuruza<e>100
+311149 old {#paramapuruza#}¦ <lex>m.</lex> <ab>dass.</ab> {#°puruzaprArTanAmaYjarI#} <lex>f.</lex> und {#°saMhitA#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>) Titel zweier Werke.
+;
+311149 new {#paramapuruza#}¦ <lex>m.</lex> <ab>dass.</ab> {#°puruzaprArTanAmaYjarI#} <lex>f.</lex> und {#°saMhitA#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>.) Titel zweier Werke.
+;---------------------------------------------------
+; <L>64294<pc>4045-2<k1>pariSIlana<k2>°pariSIlana<e>100
+316001 old {#°pariSIlana#}¦ <lex>n.</lex> {%häufige Berührung mit, Verkehr, Umgang, anhaltende Beschäftigung mit%} (<ls>VIKRAMĀṄKAC. 18,75</ls>).
+;
+316001 new {#°pariSIlana#}¦ <lex>n.</lex> {%häufige Berührung mit, Verkehr, Umgang, anhaltende Beschäftigung mit%} (<ls>VIKRAMĀṄKAC. 18,75</ls>), {%Studium%}.
+;---------------------------------------------------
+; <L>65807<pc>4067-1<k1>pAda<k2>pA/da<e>100
+323574 old <div n="1">— 8〉 {%Quadrant%} (eines Kreises •[Page4067-2] •<ls><ab>Comm.</ab> zu ĀRYABH. S. 17</ls>).
+;
+323574 new <div n="1">— 8〉 {%Quadrant%} •[Page4067-2] •(eines Kreises <ls><ab>Comm.</ab> zu ĀRYABH. S. 17</ls>).
+;---------------------------------------------------
+; <L>68066<pc>4098-3<k1>purARa<k2>purARa/<e>100
+334664 old <div n="1">— 4〉 <lex>n.</lex> {%Dinge der Vorzeit, eine Erzählung aus der Vergangenheit, alte Geschichte%} |(<lang n="greek">λόγος</lang> und <lang n="greek">μῦϑος</lang>); {%eine <ab>best.</ab> Klasse von Werken%}.
+;
+334664 new <div n="1">— 4〉 <lex>n.</lex> {%Dinge der Vorzeit, eine Erzählung aus der Vergangenheit, alte Geschichte%} (<lang n="greek">λόγος</lang> und <lang n="greek">μῦϑος</lang>); {%eine <ab>best.</ab> Klasse von Werken%}.
+;---------------------------------------------------
+; <L>70963<pc>4138-2<k1>pratigraha<k2>pratigraha/<e>100
+348655 old <div n="1">— 1〉 {%Empfang, Entgegennahme%} (von •[Page4138-3] •Gaben) <ls>ŚĀṄKH. GṚHY. 4,7</ls>. {%Berechtigung zum Empfang von Geschenken%} (ein Vorrecht des Brahmanen). Die Person, von der man ein Geschenk empfängt, steht im <ab>Gen.</ab>, <ab>Abl.</ab>, im <ab>Gen.</ab> mit {#sakASAt#} oder geht im <ab>Comp.</ab> voran häufiger wird jedoch das Wort mit dem Object componirt. {#pratigrahM kar#} {%Geschenke empfangen%}.
+;
+348655 new <div n="1">— 1〉 {%Empfang, Entgegennahme%} (von Gaben) •[Page4138-3] •<ls>ŚĀṄKH. GṚHY. 4,7</ls>. {%Berechtigung zum Empfang von Geschenken%} (ein Vorrecht des Brahmanen). Die Person, von der man ein Geschenk empfängt, steht im <ab>Gen.</ab>, <ab>Abl.</ab>, im <ab>Gen.</ab> mit {#sakASAt#} oder geht im <ab>Comp.</ab> voran häufiger wird jedoch das Wort mit dem Object componirt. {#pratigrahM kar#} {%Geschenke empfangen%}.
+;---------------------------------------------------
+; <L>72643<pc>4162-1<k1>praBu<k2>praBu<e>100
+356641 old <div n="2">— b〉 {%vermögend, mächtig, mächtiger als%} (<ab>Abl.</ab>), {%Macht habend über%} (<ab>Gen.</ab> <ls n="Chr.">103,32</ls>) {%Jmd%} (*<ab>Dat.</ab>) {%gewachsen, im Stande seiend zu%} (<ab>Infin.</ab>, ein <ab>Nom.</ab> <ab>act.</ab> im <ab>Loc.</ab> oder im <ab>Comp.</ab> vor •[Page4162-2] •angehend).
+;
+356641 new <div n="2">— b〉 {%vermögend, mächtig, mächtiger als%} (<ab>Abl.</ab>), {%Macht habend über%} (<ab>Gen.</ab> <ls n="Chr.">103,32</ls>) {%Jmd%} (*<ab>Dat.</ab>) {%gewachsen, im Stande seiend zu%} (<ab>Infin.</ab>, ein <ab>Nom.</ab> <ab>act.</ab> im <ab>Loc.</ab> oder im <ab>Comp.</ab> vor angehend).•[Page4162-2] •
+;---------------------------------------------------
+; <L>73182<pc>4170-2<k1>pravAhin<k2>pravAhi/n<h>1<e>100
+359389 old <div n="2">— b〉 {%Etwas%} (im <ab>Comp.</ab> vorangehend) {%führend, fortführend%} (von einem •[Page4170-3] •Flusse).
+;
+359389 new <div n="2">— b〉 {%Etwas%} (im <ab>Comp.</ab> vorangehend) {%führend, fortführend%} (von einem Flusse).•[Page4170-3] •
+;---------------------------------------------------
+; <L>73603<pc>4176-3<k1>prastara<k2>prastara/<e>100
+361453 old <div n="1">— 1〉 {%stramentum, Streu um darauf zu sitzen;%} im Ritual {%ein Büschel Gras oder Schilf, eine Streu von%} im Ritual {%ein Büschel Gras oder Schilf; eine Streu von%} (im <ab>Comp.</ab> vorangehend).
+;
+361453 new <div n="1">— 1〉 {%stramentum, Streu um darauf zu sitzen;%} im Ritual {%ein Büschel Gras oder Schilf; eine Streu von%} (im <ab>Comp.</ab> vorangehend).
+;---------------------------------------------------
+; <L>75194<pc>4198-3<k1>plu<k2>plu<e>500
+369150 old <div n="1">— 2〉 {%sich baden%}. — {#°pluta#} {%sich gebadet habend in%} (<ab>Loc.</ab> oder im <ab>Comp.</ab> •[Page4199-2] •vorangehend).
+;
+369150 new <div n="1">— 2〉 {%sich baden%}. — {#°pluta#} {%sich gebadet habend in%} (<ab>Loc.</ab> oder im <ab>Comp.</ab> vorangehend).•[Page4199-2] •
+;---------------------------------------------------
+; <L>75270<pc>4200-2<k1>PaRilatA<k2>PaRilatA<e>100
+369574 old {#PaRilatA#}¦ (<ls>BĀLAR. 38,3</ls>), {#PaRivallI#} (<ls>RĀJAN. 11,253</ls>. Am Ende eines  <ab>adj. Comp.</ab> {#°vallIka#} <ls>RĀJAT. 8,3316</ls>) und {#PaRivIruD#} (<ls>BĀLAR. 297,11</ls>) <lex>f.</lex> {%Betelpfeffer%}.
+;
+369574 new {#PaRilatA#}¦ (<ls>BĀLAR. 38,3</ls>), {#PaRivallI#} (<ls>RĀJAN. 11,253</ls>. Am Ende eines <ab>adj. Comp.</ab> {#°vallIka#} <ls>RĀJAT. 8,3316</ls>) und {#PaRivIruD#} (<ls>BĀLAR. 297,11</ls>) <lex>f.</lex> {%Betelpfeffer%}.
+;---------------------------------------------------
+; <L>75722<pc>4206-1<k1>badDaspfha<k2>badDaspfha<e>100
+371720 old {#badDaspfha#}¦ <lex>Adj.</lex> {%Verlangen habend nach%} (im <ab>Comp.</ab> •[Page4206-2] •vorangehend).
+;
+371720 new {#badDaspfha#}¦ <lex>Adj.</lex> {%Verlangen habend nach%} (im <ab>Comp.</ab> vorangehend).•[Page4206-2] •
+;---------------------------------------------------
+; <L>76843<pc>4222-3<k1>bAlhi<k2>bAlhi<e>107
+377347 old {#bAlhi#}, {#bAhli#}, {#vAhli#} (auch <ls>ed. Bomb.</ls> hier •[Page4223-1] •und da)¦ <ab>N. pr.</ab> eines Landes, {%Balkh%}. {#°ja#} und {#°jAta#} <lex>Adj.</lex> {%daher stammend%} (pferde).
+;
+377347 new {#bAlhi#}, {#bAhli#}, {#vAhli#} (auch <ls>ed. Bomb.</ls> hier und da)¦ •[Page4223-1] •<ab>N. pr.</ab> eines Landes, {%Balkh%}. {#°ja#} und {#°jAta#} <lex>Adj.</lex> {%daher stammend%} (pferde).
+;---------------------------------------------------
+; <L>76880<pc>4223-2<k1>bAhAdura<k2>bAhAdura<e>100
+377536 old {#bAhAdura#}¦ <lex>m.</lex> als <ab>Beiw.</ab> von neuerer Zeit so <ab>v. a.</ab> {%Held%} (<lang n="arabic">بهاتور</lang>, <lang n="UNK">???</lang>, <lang n="russian">богатырь</lang>).
+;
+377536 new {#bAhAdura#}¦ <lex>m.</lex> als <ab>Beiw.</ab> von neuerer Zeit so <ab>v. a.</ab> {%Held%} (<lang n="arabic">بهاتور</lang>, <lang n="russian">богатырь</lang>).
+;---------------------------------------------------
+; <L>76886<pc>4223-2<k1>bAhuka<k2>bAhuka<e>001
+377586 old <div n="2">— b〉 * (mit •[Page4223-3] •{%den Armen%}) {%schwimmend%}.
+;
+377586 new <div n="2">— b〉 •[Page4223-3] •* (mit {%den Armen%}) {%schwimmend%}.
+;---------------------------------------------------
+; <L>77374<pc>4230-1<k1>buBUzaka<k2>buBUzaka<e>100
+379949 old {#buBUzaka#}¦ <lex>Adj.</lex> {%auf Jmds%} (<ab>Gen.</ab> oder im <ab>Comp.</ab> •[Page4230-2] •vorangehend) {%Wohl bedacht%}.
+;
+379949 new {#buBUzaka#}¦ <lex>Adj.</lex> {%auf Jmds%} (<ab>Gen.</ab> oder im <ab>Comp.</ab> vorangehend) {%Wohl bedacht%}.•[Page4230-2] •
+;---------------------------------------------------
+; <L>78864<pc>4250-3<k1>Bar<k2>Bar<h>1<e>500
+387183 old <div n="2">— b〉 {%beladen —, überzogen —, bedeckt —, ausgerüstet —, versehen mit%} (<ab>Instr.</ab> oder •[Page4251-3] •im <ab>Comp.</ab> vorangehend).
+;
+387183 new <div n="2">— b〉 {%beladen —, überzogen —, bedeckt —, ausgerüstet —, versehen mit%} (<ab>Instr.</ab> oder im <ab>Comp.</ab> vorangehend).•[Page4251-3] •
+;---------------------------------------------------
+; <L>79903<pc>4268-1<k1>BI<k2>BI/<h>2<e>100
+392585 old <hom>2.</hom> {#BI/#}¦ <lex>f.</lex> {%Furcht, Schrecken, — vor%} (<ab>Abl.</ab>, <ab>Loc.</ab>, <ab>Acc.</ab> •[Page4268-2] •mit {#prati#} oder im <ab>Comp.</ab> vorangehend).
+;
+392585 new <hom>2.</hom> {#BI/#}¦ <lex>f.</lex> {%Furcht, Schrecken, — vor%} (<ab>Abl.</ab>, <ab>Loc.</ab>, <ab>Acc.</ab> mit {#prati#} oder im <ab>Comp.</ab> vorangehend).•[Page4268-2] •
+;---------------------------------------------------
+; <L>80202<pc>4272-2<k1>BU<k2>BU<h>1<e>500
+394267 old <div n="1">— 4〉 {%valere, tüchtig sein, Geltung haben, stark werden, — sein, die Oberhand haben, die Macht gewinnen%} oder {%besitzen, zu befehlen haben%}. ({#praBuH#} {#praBavati#} so <ab>v. a.</ab> {%der Herr hat zu entscheiden%} <ls>HARṢAC. 150,15</ls>), {%regieren, Macht haben —, verfügen können über%} (<ab>Gen.</ab>, •[Page4274-1] •<ab>Loc.</ab> oder <ab>Dat.</ab> [<ab>Med.</ab> <ls>ŚAṂK. zu BĀDAR. 2,1,31</ls>]), {%gewachsen sein%} (mit <ab>Dat.</ab>), {%vermögen —, im Stande sein zu%} (<ab>Infin.</ab>), {%Etwas%} (<ab>Dat.</ab> oder <ab>Loc.</ab>) {%zu bewirken vermögen%}. {#daRqe#} {%Jmd%} (<ab>Gen.</ab>) {%zu züchtigen vermögen,%} {#vimuktO#} (<ls>Spr. 1769</ls>) {%der Erlösung theilhaftig werden%}. {#praBavant#} {%vermögend, mächtig%}. {#prBUta#} {%vermögend zu%} (<ab>Infin.</ab>).
+;
+394267 new <div n="1">— 4〉 {%valere, tüchtig sein, Geltung haben, stark werden, — sein, die Oberhand haben, die Macht gewinnen%} oder {%besitzen, zu befehlen haben%}. ({#praBuH#} {#praBavati#} so <ab>v. a.</ab> {%der Herr hat zu entscheiden%} <ls>HARṢAC. 150,15</ls>), {%regieren, Macht haben —, verfügen können über%} •[Page4274-1] •(<ab>Gen.</ab>, <ab>Loc.</ab> oder <ab>Dat.</ab> [<ab>Med.</ab> <ls>ŚAṂK. zu BĀDAR. 2,1,31</ls>]), {%gewachsen sein%} (mit <ab>Dat.</ab>), {%vermögen —, im Stande sein zu%} (<ab>Infin.</ab>), {%Etwas%} (<ab>Dat.</ab> oder <ab>Loc.</ab>) {%zu bewirken vermögen%}. {#daRqe#} {%Jmd%} (<ab>Gen.</ab>) {%zu züchtigen vermögen,%} {#vimuktO#} (<ls>Spr. 1769</ls>) {%der Erlösung theilhaftig werden%}. {#praBavant#} {%vermögend, mächtig%}. {#prBUta#} {%vermögend zu%} (<ab>Infin.</ab>).
+;---------------------------------------------------
+; <L>81365<pc>5001-1<k1>makara<k2>ma/kara<e>100
+400219 old <div n="2">— a〉 {%ein <ab>best.</ab> Seeungeheuer%} (das auch •[Page5001-2] •anʼs Land kommen soll), vielleicht {%Delphin%}. Ist das Attribut des Liebesgottes und eines <is>Arhant</is> der <is>Jaina</is>, und erscheint auch als Zierat auf Thoren und als Kopfschmuck (<ls>KĀD. 14,17. 113,9. 131,17</ls>).
+;
+400219 new <div n="2">— a〉 {%ein <ab>best.</ab> Seeungeheuer%} •[Page5001-2] •(das auch anʼs Land kommen soll), vielleicht {%Delphin%}. Ist das Attribut des Liebesgottes und eines <is>Arhant</is> der <is>Jaina</is>, und erscheint auch als Zierat auf Thoren und als Kopfschmuck (<ls>KĀD. 14,17. 113,9. 131,17</ls>).
+;---------------------------------------------------
+; <L>82071<pc>5010-3<k1>maT<k2>maT<h>1<e>500
+403760 old <div n="1">— 5〉 {%verwirren%} (die •[Page5011-2] •Sinne, den Geist); nur {#vimaTita#} (<ls>HARṢAC. 117,5</ls>) und {#vimaTitum#}.
+;
+403760 new <div n="1">— 5〉 {%verwirren%} •[Page5011-2] •(die Sinne, den Geist); nur {#vimaTita#} (<ls>HARṢAC. 117,5</ls>) und {#vimaTitum#}.
+;---------------------------------------------------
+; <L>83533<pc>5032-1<k1>marAya<k2>marAya<e>100
+411073 old <div n="1">— 2〉 <lex>n.</lex> Name eines <is>Sāman</is>. {#rASamarAye#} und {#marAyarASine#} (<ab>v. l.</ab> •[Page5032-2] •{#°rASinI#} richtiger) <ls>ĀRṢ. BR.</ls>
+;
+411073 new <div n="1">— 2〉 <lex>n.</lex> Name eines <is>Sāman</is>. {#rASamarAye#} und {#marAyarASine#} •[Page5032-2] •(<ab>v. l.</ab> {#°rASinI#} richtiger) <ls>ĀRṢ. BR.</ls>
+;---------------------------------------------------
+; <L>86505<pc>5073-2<k1>mAlaka<k2>mAlaka<e>100
+425908 old <div n="2">— d〉 *{%<bot>Linum usitatissimum</bot>%} und * = {#saptalA#}.
+;
+425908 new <div n="2">— d〉 *{%<bot>Linum usitatissimum</bot>%} und *= {#saptalA#}.
+;---------------------------------------------------
+; <L>87318<pc>5085-1<k1>muKara<k2>muKara<e>100
+429895 old <div n="2">— a〉 {%geschwätzig%} (auch von •[Page5085-2] •Vögeln und Bienen).
+;
+429895 new <div n="2">— a〉 {%geschwätzig%} (auch von Vögeln und Bienen).•[Page5085-2] •
+;---------------------------------------------------
+; <L>90611<pc>5134-2<k1>yA<k2>yA<h>1<e>500
+446376 old <div n="1">— 1〉 {%hinausgehen, — fahren, — ziehen, — treten, — aus%} (<ab>Abl.</ab>), {%nach oder in%} (<ab>Acc.</ab>, •[Page5136-1] •{#kva#} {#cit#}), {%um zu%} (<ab>Dat.</ab> eines <ab>Nom.</ab> <ab>act.</ab>), {%das Haus verlassen, hervorkommen aus%} (<ab>Abl.</ab>). {#mfgayAm#} {%auf die Jagd gehen%}. {#niryAta#} {%hervorgekommen%} <ab>u. s. w.</ab> {%aus%} (<ab>Abl.</ab> oder im <ab>Comp.</ab> vorangehend).
+;
+446376 new <div n="1">— 1〉 {%hinausgehen, — fahren, — ziehen, — treten, — aus%} (<ab>Abl.</ab>), {%nach oder in%} •[Page5136-1] •(<ab>Acc.</ab>, {#kva#} {#cit#}), {%um zu%} (<ab>Dat.</ab> eines <ab>Nom.</ab> <ab>act.</ab>), {%das Haus verlassen, hervorkommen aus%} (<ab>Abl.</ab>). {#mfgayAm#} {%auf die Jagd gehen%}. {#niryAta#} {%hervorgekommen%} <ab>u. s. w.</ab> {%aus%} (<ab>Abl.</ab> oder im <ab>Comp.</ab> vorangehend).
+;---------------------------------------------------
+; <L>90983<pc>5141-3<k1>yu<k2>yu<h>1<e>500
+448239 old <div n="1">— 1〉 <ab>Du.</ab> {#yuva/m#} <ab>Nomin.</ab>, {#yuvA/m#} <ab>Acc.</ab> (in der späteren •[Page5142-1] •Sprache auch <ab>Nomin.</ab>), {#yuva/ByAm#} und {#yuvA/ByAm#}, {#yuva/t#}, {#yuvo/s#} und {#yuva/yos#}. {#yuva#} ({#yuvA#}) und {#yuvat#} am Anfange einiger <ab>Compp.</ab>, {#yuva#} auch in einigen Derivaten.
+;
+448239 new <div n="1">— 1〉 <ab>Du.</ab> {#yuva/m#} <ab>Nomin.</ab>, {#yuvA/m#} <ab>Acc.</ab> •[Page5142-1] •(in der späteren Sprache auch <ab>Nomin.</ab>), {#yuva/ByAm#} und {#yuvA/ByAm#}, {#yuva/t#}, {#yuvo/s#} und {#yuva/yos#}. {#yuva#} ({#yuvA#}) und {#yuvat#} am Anfange einiger <ab>Compp.</ab>, {#yuva#} auch in einigen Derivaten.
+;---------------------------------------------------
+; <L>91092<pc>5144-1<k1>yuj<k2>yuj<h>1<e>500
+448860 old <div n="1">— 3〉 {%auflegen%} Geschosse (<ab>sc.</ab> •[Page5144-2] •auf den Bogen), — {%gegen Jmd%} (<ab>Loc.</ab>), {%befestigen%} (Schmucksachen), {%setzen —, fügen auf oder in, thun, — schliessen in%} (<ab>Loc.</ab>). <ab>Pass.</ab> und <ab>Med.</ab> {%sich hängen an%} (<ab>Loc.</ab>) <ab>eig.</ab> und <ab>übertr.</ab>
+;
+448860 new <div n="1">— 3〉 {%auflegen%} Geschosse (<ab>sc.</ab> auf den Bogen), •[Page5144-2] •— {%gegen Jmd%} (<ab>Loc.</ab>), {%befestigen%} (Schmucksachen), {%setzen —, fügen auf oder in, thun, — schliessen in%} (<ab>Loc.</ab>). <ab>Pass.</ab> und <ab>Med.</ab> {%sich hängen an%} (<ab>Loc.</ab>) <ab>eig.</ab> und <ab>übertr.</ab>
+;---------------------------------------------------
+; <L>93650<pc>5182-2<k1>rAjIvinI<k2>rAjIvinI<e>100
+461797 old {#rAjIvinI#}¦ <lex>f.</lex> {%<bot>Nelumbium speciosum</bot>%} (die Pflanze •[Page5182-3] •selbst), {%eine Gruppe von <bot n="Nelumbium speciosum">Nel. Sp.</bot>%}
+;
+461797 new {#rAjIvinI#}¦ <lex>f.</lex> {%<bot>Nelumbium speciosum</bot>%} •[Page5182-3] •(die Pflanze selbst), {%eine Gruppe von <bot n="Nelumbium speciosum">Nel. Sp.</bot>%}
+;---------------------------------------------------
+; <L>95138<pc>5206-3<k1>rohiRI<k2>rohiRI<e>100
+469635 old <div n="3">— α〉 {%Kuh%} <ls>ŚIŚ. 12,40</ls> (im Text fehlerhaft •[Page5207-1] •{#rohaRI#})
+;
+469635 new <div n="3">— α〉 {%Kuh%} <ls>ŚIŚ. 12,40</ls> (im Text fehlerhaft {#rohaRI#})•[Page5207-1] •
+;---------------------------------------------------
+; <L>95619<pc>5215-1<k1>lajjAkara<k2>lajjAkara<e>100
+472170 old {#lajjAkara#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#I#}) {%beschämend, Jmd%} (im <ab>Comp.</ab> •[Page5215-2] •vorangehend) {%beschämend%} <ls n="Chr.">248,27</ls>.
+;
+472170 new {#lajjAkara#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#I#}) {%beschämend, Jmd%} (im <ab>Comp.</ab> vorangehend) •[Page5215-2] •{%beschämend%} <ls n="Chr.">248,27</ls>.
+;---------------------------------------------------
+; <L>96349<pc>5229-1<k1>luYj<k2>*luYj<e>500
+476264 old *√{#luYj#}¦,	{#luYjayati#} ({#hiMsAbalAdAnaniketanezu#} [<ab>v. l.</ab> •[Page5229-2] •{#dAna#} <ab>st.</ab> {#AdAna#}], {#BAzArTa#} oder {#BAsArTa#}).
+;
+476264 new *√{#luYj#}¦,	{#luYjayati#} ({#hiMsAbalAdAnaniketanezu#} [<ab>v. l.</ab> {#dAna#} <ab>st.</ab> {#AdAna#}], {#BAzArTa#} oder {#BAsArTa#}).•[Page5229-2] •
+;---------------------------------------------------
+; <L>97787<pc>6011-1<k1>vad<k2>vad<e>500
+483591 old <div n="1">— 2〉 *<ab>Med.</ab> {%Jmd%} (<ab>Acc.</ab>) {%durch Jmd%} (<ab>Acc.</ab> •[Page6011-3] •oder <ab>Instr.</ab>) {%begrüssen lassen%}.
+;
+483591 new <div n="1">— 2〉 *<ab>Med.</ab> {%Jmd%} (<ab>Acc.</ab>) {%durch Jmd%} (<ab>Acc.</ab> oder <ab>Instr.</ab>) •[Page6011-3] •{%begrüssen lassen%}.
+;---------------------------------------------------
+; <L>97822<pc>6012-2<k1>vaD<k2>vaD<e>500
+483845 old {#vaD#}¦ (vom Präsensstamm nur je einmal {#vaDati#}, •[Page6012-3] •{#vaDa#} (<ab>Conj.</ab>), {#vaDeyam#} und {#vaDet#}; <ab>Aor.</ab> {#avaDIt#}, <ab>Prec.</ab> {#vaDyAsam#}, <ab>Fut.</ab> {#vaDizyati#}, <ab>Pass.</ab> {#vaDyate#} und metrisch {#vaDyati#}) {%schlagen%} (<ab>eig.</ab> auch den Feind, ein Heer), {%zerschlagen, erschlagen, tödten, zu Nichte machen%}. {#vaDyamAna#} auch fehlerhaft für {#bADyamAna#} und {#vaDyante#} für {#viDyante#}. {#baD#} bisweilen auch in vedischen Texten.
+;
+483845 new {#vaD#}¦ (vom Präsensstamm nur je einmal {#vaDati#}, {#vaDa#} (<ab>Conj.</ab>), •[Page6012-3] •{#vaDeyam#} und {#vaDet#}; <ab>Aor.</ab> {#avaDIt#}, <ab>Prec.</ab> {#vaDyAsam#}, <ab>Fut.</ab> {#vaDizyati#}, <ab>Pass.</ab> {#vaDyate#} und metrisch {#vaDyati#}) {%schlagen%} (<ab>eig.</ab> auch den Feind, ein Heer), {%zerschlagen, erschlagen, tödten, zu Nichte machen%}. {#vaDyamAna#} auch fehlerhaft für {#bADyamAna#} und {#vaDyante#} für {#viDyante#}. {#baD#} bisweilen auch in vedischen Texten.
+;---------------------------------------------------
+; <L>98820<pc>6029-1<k1>vart<k2>vart<e>500
+489521 old <div n="1">— 2〉 (vom •[Page6031-1] •Wege) {%ablenken%} <ls>CARAKA. ed. Calc. 582,15</ls>. <ls>SUŚR. 2,516,9</ls>.
+;
+489521 new <div n="1">— 2〉 (vom Wege) •[Page6031-1] •{%ablenken%} <ls>CARAKA. ed. Calc. 582,15</ls>. <ls>SUŚR. 2,516,9</ls>.
+;---------------------------------------------------
+; <L>99132<pc>6039-3<k1>valg<k2>valg<e>500
+491781 old <div n="2">— a〉 {%die Glieder rasch bewegen, hüpfen, springen%} (<ab>insbes.</ab> vor •[Page6040-1] •Freude); auch von leblosen Dingen.
+;
+491781 new <div n="2">— a〉 {%die Glieder rasch bewegen, hüpfen, springen%} (<ab>insbes.</ab> vor Freude); •[Page6040-1] •auch von leblosen Dingen.
+;---------------------------------------------------
+; <L>99302<pc>6043-1<k1>vas<k2>vas<h>5<e>500
+492691 old <div n="1">— 4〉 mit <ab>Acc.</ab> eines <ab>Nom. abstr.</ab> (insbesondere •mit {#vAsam#} und {#vasatim#}) in einer Lage <ab>u. s. w.</ab> {%sich dauernd befinden, sich widmen, obliegen%}.
+;
+492691 new <div n="1">— 4〉 mit <ab>Acc.</ab> eines <ab>Nom. abstr.</ab> (insbesondere mit {#vAsam#} und {#vasatim#}) in einer Lage <ab>u. s. w.</ab> {%sich dauernd befinden, sich widmen, obliegen%}.
+;---------------------------------------------------
+; <L>99490<pc>6046-3<k1>vasupatnI<k2>vasupa/tnI<e>100
+493792 old {#vasupa/tnI#}¦ <lex>f.</lex> {%Herrin der Güter%} (mit dem Beisatz •[Page6047-1] •{#vasUnAm#})
+;
+493792 new {#vasupa/tnI#}¦ <lex>f.</lex> {%Herrin der Güter%} (mit dem Beisatz {#vasUnAm#})•[Page6047-1] •
+;---------------------------------------------------
+; <L>100174<pc>6057-3<k1>vAwaka<k2>vAwaka<e>100
+497293 old <div n="2">— c〉 * = {#vAstu#}.
+;
+497293 new <div n="2">— c〉 *= {#vAstu#}.
+;---------------------------------------------------
+; <L>100174<pc>6057-3<k1>vAwaka<k2>vAwaka<e>100
+497294 old <div n="2">— d〉 * = {#vAwyAlaka#}.
+;
+497294 new <div n="2">— d〉 *= {#vAwyAlaka#}.
+;---------------------------------------------------
+; <L>103246<pc>6101-2<k1>vip<k2>vip<h>1<e>500
+512520 old <div n="m">— <ab>Caus.</ab> {#vepa/yati#} (<ab>vgl.</ab> •[Page6101-3] •auch {#vipa/y#}) {%zittern machen, schwingen, schütteln%}.
+;
+512520 new <div n="m">— <ab>Caus.</ab> {#vepa/yati#} (<ab>vgl.</ab> auch {#vipa/y#}) •[Page6101-3] •{%zittern machen, schwingen, schütteln%}.
+;---------------------------------------------------
+; <L>103465<pc>6104-2<k1>vipramokzaRa<k2>vipramokzaRa<e>100
+513601 old {#vipramokzaRa#}¦ <lex>n.</lex> {%das Sichbefreien von%} (im <ab>Comp.</ab> •[Page6104-3] •vorangehend).
+;
+513601 new {#vipramokzaRa#}¦ <lex>n.</lex> {%das Sichbefreien von%} (im <ab>Comp.</ab> vorangehend).•[Page6104-3] •
+;---------------------------------------------------
+; <L>104014<pc>6112-2<k1>virahin<k2>virahin<e>100
+516376 old <div n="1">— 1〉 {%getrennt%} (vom geliebten •[Page6112-3] •Gegenstande) <ls>Spr. 7746</ls>. <ls>ŚIŚ. 6,5</ls>. <ls>VĀSAV. 138,1. 271,1. 284,5</ls>. {%getrennt von%} (im <ab>Comp.</ab> vorangehend).
+;
+516376 new <div n="1">— 1〉 {%getrennt%} (vom geliebten Gegenstande) •[Page6112-3] •<ls>Spr. 7746</ls>. <ls>ŚIŚ. 6,5</ls>. <ls>VĀSAV. 138,1. 271,1. 284,5</ls>. {%getrennt von%} (im <ab>Comp.</ab> vorangehend).
+;---------------------------------------------------
+; <L>104377<pc>6118-2<k1>vivAda<k2>vivAda<e>100
+518329 old {#vivAda#}¦ <lex>m.</lex> (ausnahmsweise <lex>n.</lex>) {%Streit%} (auch {%wissenschaftlicher und vor Gericht%}), — {%zwischen%} (<ab>Gen.</ab> oder im <ab>Comp.</ab> vorangehend), {%mit%} (<ab>Instr.</ab>, <ab>Instr.</ab> mit •[Page6118-3] •{#saha#} oder im <ab>Comp.</ab> vorangehend), {%um, in Betreff von%} (<ab>Loc.</ab>, <ab>Gen.</ab>, <ab>Acc.</ab> mit {#prati#} oder im <ab>Comp.</ab> vorangehend)
+;
+518329 new {#vivAda#}¦ <lex>m.</lex> (ausnahmsweise <lex>n.</lex>) {%Streit%} (auch {%wissenschaftlicher und vor Gericht%}), — {%zwischen%} (<ab>Gen.</ab> oder im <ab>Comp.</ab> vorangehend), {%mit%} (<ab>Instr.</ab>, <ab>Instr.</ab> mit {#saha#} oder im <ab>Comp.</ab> vorangehend), •[Page6118-3] •{%um, in Betreff von%} (<ab>Loc.</ab>, <ab>Gen.</ab>, <ab>Acc.</ab> mit {#prati#} oder im <ab>Comp.</ab> vorangehend)
+;---------------------------------------------------
+; <L>104497<pc>6120-1<k1>viS<k2>viS<h>1<e>500
+519055 old <div n="p">— Mit {#aBini#} <ab>Med.</ab> (<ab>Act.</ab> •[Page6121-3] •ungenau)
+;
+519055 new <div n="p">— Mit {#aBini#} <ab>Med.</ab> (<ab>Act.</ab> ungenau)•[Page6121-3] •
+;---------------------------------------------------
+; <L>104507<pc>6123-1<k1>viSaNkin<k2>viSaNkin<e>100
+519269 old <div n="1">— 2〉 {%Etwas%} (im <ab>Comp.</ab> vorangehend) {%befürchtend, besorgend, — dass%} (<ab>Potent.</ab> •mit {#iti#}).
+;
+519269 new <div n="1">— 2〉 {%Etwas%} (im <ab>Comp.</ab> vorangehend) {%befürchtend, besorgend, — dass%} (<ab>Potent.</ab> mit {#iti#}).
+;---------------------------------------------------
+; <L>104588<pc>6124-3<k1>viSiKa<k2>viSiKa/<e>100
+519759 old <div n="2">— d〉 * = {#nalikA#} oder {#nAlikA#}.
+;
+519759 new <div n="2">— d〉 *= {#nalikA#} oder {#nAlikA#}.
+;---------------------------------------------------
+; <L>104677<pc>6126-1<k1>viSoQa<k2>viSoQa<e>500
+520194 old {#viSoQa#}¦ <ls>KATHĀS. 46,12</ls> fehlerhaft für {#visoQa#} (von {#sah#} •mit {#vi#}).
+;
+520194 new {#viSoQa#}¦ <ls>KATHĀS. 46,12</ls> fehlerhaft für {#visoQa#} (von {#sah#} mit {#vi#}).
+;---------------------------------------------------
+; <L>105241<pc>6133-2<k1>vizaya<k2>vizaya<h>1<e>100
+522901 old <div n="1">— 11〉 {%ein sich zu Etwas%} (<ab>Dat.</ab>, <ab>Gen.</ab> oder im <ab>Comp.</ab> •[Page6133-3] •vorangehend) {%eignendes Object%}.
+;
+522901 new <div n="1">— 11〉 {%ein sich zu Etwas%} (<ab>Dat.</ab>, <ab>Gen.</ab> oder im <ab>Comp.</ab> vorangehend) •[Page6133-3] •{%eignendes Object%}.
+;---------------------------------------------------
+; <L>105603<pc>6138-2<k1>visaMvAda<k2>visaMvAda<e>001
+524618 old <div n="1">— 2〉 {%Widerspruch, Nichtübereinstimmung, — mit%} (<ab>Loc.</ab>, <ab>Instr.</ab> •mit {#saha#} oder im <ab>Comp.</ab> vorangehend)
+;
+524618 new <div n="1">— 2〉 {%Widerspruch, Nichtübereinstimmung, — mit%} (<ab>Loc.</ab>, <ab>Instr.</ab> mit {#saha#} oder im <ab>Comp.</ab> vorangehend)
+;---------------------------------------------------
+; <L>105735<pc>6140-2<k1>visPowa<k2>visPowa<e>100
+525279 old <div n="1">— 2〉 {%eine aufplatzende Blase, Brandblase, Beule%} <ls>KĀD. 254,19</ls> (416,5).
+;
+525279 new <div n="1">— 2〉 {%eine aufplatzende Blase, Brandblase, Beule%} <ls>KĀD. 254,19 (416,5)</ls>.
+;---------------------------------------------------
+; <L>108483<pc>6179-1<k1>vyavahAravant<k2>vyavahAravant<e>100
+538837 old <div n="1">— 1〉 <lex>Adj.</lex> {%sich beschäftigend mit%} (im •[Page6179-2] •<ab>Comp.</ab> vorangehend).
+;
+538837 new <div n="1">— 1〉 <lex>Adj.</lex> {%sich beschäftigend mit%} (im <ab>Comp.</ab> vorangehend).•[Page6179-2] •
+;---------------------------------------------------
+; <L>109047<pc>6188-1<k1>vrataDAraRa<k2>vrataDAraRa<e>100
+541596 old {#vrataDAraRa#}¦ <lex>n.</lex> {%das Erfüllen einer religiösen Observanz, — der Pflichten, — gegen%} (<ab>Gen.</ab> oder im •[Page6188-2] •<ab>Comp.</ab> vorangehend).
+;
+541596 new {#vrataDAraRa#}¦ <lex>n.</lex> {%das Erfüllen einer religiösen Observanz, — der Pflichten, — gegen%} (<ab>Gen.</ab> oder im <ab>Comp.</ab> vorangehend).•[Page6188-2] •
+;---------------------------------------------------
+; <L>109739<pc>6198-2<k1>Satakowi<k2>Satakowi<h>2<e>100
+544994 old <div n="2">— a〉 <is>Indra</is>ʼs {%Donnerkeil%} <ls>BHĀM. V. 2,100</ls>. <ls>VĀSAV. 88,3. 123,13. 236,3</ls> (scheinbar <lex>f.</lex>; <ab>vgl.</ab> •[Page6198-3] •aber <ab>v. l.</ab> und <ab>Comm.</ab>).
+;
+544994 new <div n="2">— a〉 <is>Indra</is>ʼs {%Donnerkeil%} <ls>BHĀM. V. 2,100</ls>. <ls>VĀSAV. 88,3. 123,13. 236,3</ls> (scheinbar <lex>f.</lex>; <ab>vgl.</ab> aber <ab>v. l.</ab> und <ab>Comm.</ab>).•[Page6198-3] •
+;---------------------------------------------------
+; <L>109974<pc>6201-2<k1>SatasahasrAMSu<k2>SatasahasrAMSu<e>100
+546099 old {#SatasahasrAMSu#}¦ <lex>Adj.</lex> {%hunderttausendstrahlig%} (der •[Page6201-3] •Mond).
+;
+546099 new {#SatasahasrAMSu#}¦ <lex>Adj.</lex> {%hunderttausendstrahlig%} (der Mond).•[Page6201-3] •
+;---------------------------------------------------
+; <L>110319<pc>6206-2<k1>Sam<k2>Sam<h>2<e>500
+547778 old <div n="p">— Mit {#upa#} (<ab>Med.</ab> hier •[Page6206-3] •und da auch in ungebundener Rede)
+;
+547778 new <div n="p">— Mit {#upa#} (<ab>Med.</ab> hier und da auch in ungebundener Rede)•[Page6206-3] •
+;---------------------------------------------------
+; <L>113816<pc>6254-3<k1>SUnya<k2>SUnya/<e>100
+564946 old <div n="1">— 2〉 *<lex>f.</lex> {#SUnyA#} = {#nalikA#} (wohl {%Röhre%} <ls>H. an. 2,385</ls>; <ab>vgl.</ab> <ls>ZACH. Beitr. 84</ls>.), {#nalI, malI#} (!), {#mahAkaRwakinI#} ({%<bot>Cactus indicus</bot>%}) und {#vanDyA#} ({%eine unfruchtbare Frau%} <ls>RĀJAN. 18,20</ls>).
+;
+564946 new <div n="1">— 2〉 *<lex>f.</lex> {#SUnyA#} = {#nalikA#} (wohl {%Röhre%} <ls>H. an. 2,385</ls>; <ab>vgl.</ab> <ls>ZACH. Beitr. 84</ls>), {#nalI, malI#} (!), {#mahAkaRwakinI#} ({%<bot>Cactus indicus</bot>%}) und {#vanDyA#} ({%eine unfruchtbare Frau%} <ls>RĀJAN. 18,20</ls>).
+;---------------------------------------------------
+; <L>115473<pc>6279-2<k1>SreyaMs<k2>Sre/yaMs<e>100
+573210 old <div n="2">— d〉 {%vorzüglich, ausgezeichnet%}. {#SreyAn#} (gewöhnlich {#Sreyas#} ohne •[Page6279-3] •Rücksicht auf das Subject) — {#na#} (auch mit Wiederholung von {#Sre°#}) {%vorzüglich, nicht (vorzüglich),%} so <ab>v. a.</ab> {%besser — als%} <ls n="Chr.">78,11</ls>
+;
+573210 new <div n="2">— d〉 {%vorzüglich, ausgezeichnet%}. {#SreyAn#} •[Page6279-3] •(gewöhnlich {#Sreyas#} ohne Rücksicht auf das Subject) — {#na#} (auch mit Wiederholung von {#Sre°#}) {%vorzüglich, nicht (vorzüglich),%} so <ab>v. a.</ab> {%besser — als%} <ls n="Chr.">78,11</ls>
+;---------------------------------------------------
+; <L>116376<pc>6291-1<k1>zazWa<k2>zazWa/<e>100
+577500 old <div n="1">— 1〉 <lex>Adj.</lex> (<lex>f.</lex> {#I/#}) {%der sechste%}. {#BAga#} <lex>m.</lex> oder {#aMSa#} <lex>m.</lex> {%ein Sechste;%} {#kAla#} <lex>m.</lex> {%die sechste Stunde des Tages%} und {%die sechste Esszeit%} (am Abend des •[Page6291-2] •dritten Tages).
+;
+577500 new <div n="1">— 1〉 <lex>Adj.</lex> (<lex>f.</lex> {#I/#}) {%der sechste%}. {#BAga#} <lex>m.</lex> oder {#aMSa#} <lex>m.</lex> {%ein Sechste;%} {#kAla#} <lex>m.</lex> {%die sechste Stunde des Tages%} und {%die sechste Esszeit%} (am Abend des dritten Tages).•[Page6291-2] •
+;---------------------------------------------------
+; <L>117080<pc>7010-3<k1>saMsmfti<k2>saMsmfti<e>100
+580978 old {#saMsmfti#}¦ <lex>f.</lex> {%das Gedenken, Erinnerung an%} (<ab>Gen.</ab> •[Page7011-1] •oder im <ab>Comp.</ab> vorangehend). {#tatsaMsmftiM prati#} {%so weit die Erinnerung daran reicht, so viel davon im Gedächtniss geblieben ist%}. <ab>Acc.</ab> mit {#laB#} {%sich Jmds oder einer Sache wieder erinnern%}.
+;
+580978 new {#saMsmfti#}¦ <lex>f.</lex> {%das Gedenken, Erinnerung an%} (<ab>Gen.</ab> oder im <ab>Comp.</ab> vorangehend). •[Page7011-1] •{#tatsaMsmftiM prati#} {%so weit die Erinnerung daran reicht, so viel davon im Gedächtniss geblieben ist%}. <ab>Acc.</ab> mit {#laB#} {%sich Jmds oder einer Sache wieder erinnern%}.
+;---------------------------------------------------
+; <L>117238<pc>7013-1<k1>sakASa<k2>sakASa<e>100
+581740 old {#sakASa#}¦ <lex>m.</lex> {%Anwesenheit, Gegenwart%}. {#A sakASAt#} {%bis an%} (das Feuer). <ab>Acc.</ab> {%zu — hin%} (kommen, gehen, führen, senden); <ab>Loc.</ab> {%in Gegenwart —, in Anwesenheit von, bei;%} <ab>Abl.</ab> und {#sakASatas#} {%von — her, von Seiten, von%} (kommen, gehen sich entfernen, •[Page7013-2] •geboren werden, hervorgehen, entstehen, rauben, wegnehmen, befreit werden, fordern, bitten, verlangen, erfahren, lernen, hören, kaufen, verschieden, gesondert, Furcht, Niederlage <ab>u. s. w.</ab>). Die Ergänzung (meistens eine Person) im <ab>Gen.</ab> (ausnahmsweise im <ab>Abl.</ab> oder im <ab>Comp.</ab> vorangehend). — {#sakASAya#} <ls>RĀJAT. 4,262</ls> fehlerhaft für {#sakAzAya#}.
+;
+581740 new {#sakASa#}¦ <lex>m.</lex> {%Anwesenheit, Gegenwart%}. {#A sakASAt#} {%bis an%} (das Feuer). <ab>Acc.</ab> {%zu — hin%} (kommen, gehen, führen, senden); <ab>Loc.</ab> {%in Gegenwart —, in Anwesenheit von, bei;%} <ab>Abl.</ab> und {#sakASatas#} {%von — her, von Seiten, von%} •[Page7013-2] •(kommen, gehen sich entfernen, geboren werden, hervorgehen, entstehen, rauben, wegnehmen, befreit werden, fordern, bitten, verlangen, erfahren, lernen, hören, kaufen, verschieden, gesondert, Furcht, Niederlage <ab>u. s. w.</ab>). Die Ergänzung (meistens eine Person) im <ab>Gen.</ab> (ausnahmsweise im <ab>Abl.</ab> oder im <ab>Comp.</ab> vorangehend). — {#sakASAya#} <ls>RĀJAT. 4,262</ls> fehlerhaft für {#sakAzAya#}.
+;---------------------------------------------------
+; <L>117651<pc>7020-1<k1>saMgrAma<k2>saMgrAma/<e>100
+583758 old <div n="1">— 2〉 {%das feindliche Zusammentreffen zweier Haufen, Kampf, Schlacht, — mit%} (<ab>Instr.</ab> <ab>Instr.</ab> mit {#samam#}, {#saha#} oder {#sArDam#} oder im <ab>Comp.</ab> •[Page7020-2] •vorangehend).
+;
+583758 new <div n="1">— 2〉 {%das feindliche Zusammentreffen zweier Haufen, Kampf, Schlacht, — mit%} (<ab>Instr.</ab> <ab>Instr.</ab> mit {#samam#}, {#saha#} oder {#sArDam#} oder im <ab>Comp.</ab> vorangehend).•[Page7020-2] •
+;---------------------------------------------------
+; <L>117705<pc>7020-3<k1>saMGarza<k2>saMGarza<e>100
+584022 old <div n="2">— c〉 {%Wettstreit, Wetteifer, Eifersucht, — wegen%} (<ab>Acc.</ab> mit •[Page7021-1] •{#prati#} oder im <ab>Comp.</ab> vorangehend).
+;
+584022 new <div n="2">— c〉 {%Wettstreit, Wetteifer, Eifersucht, — wegen%} (<ab>Acc.</ab> mit {#prati#} oder im <ab>Comp.</ab> vorangehend).•[Page7021-1] •
+;---------------------------------------------------
+; <L>119673<pc>7051-1<k1>saPala<k2>saPala<e>100
+593709 old <div n="1">— 3〉 {%Lohn —, Gewinn bringend, Erfolg habend, sein Ziel erreichend, erfolgreich, sich erfüllend%}. <ab>Acc.</ab> mit {#kar#} {%erfüllen, halten%} (ein •[Page7051-2] •Versprechen.)
+;
+593709 new <div n="1">— 3〉 {%Lohn —, Gewinn bringend, Erfolg habend, sein Ziel erreichend, erfolgreich, sich erfüllend%}. <ab>Acc.</ab> mit {#kar#} {%erfüllen, halten%} (ein Versprechen).•[Page7051-2] •
+;---------------------------------------------------
+; <L>121575<pc>7083-1<k1>sarpa<k2>sarpa/<e>100
+603484 old <div n="2">— b〉 <ab>Bez.</ab> {%<ab>best.</ab> übermenschlicher Wesen%} (neben <is>Gandharva</is> •[Page7083-2] •und ähnlichen Geschlechtern) {%auf Erden, in der Luft, im Himmel und in der Unterwelt%}. {#sarpARamayanam#} {%eine <ab>best.</ab> Jahresfeier%}.
+;
+603484 new <div n="2">— b〉 <ab>Bez.</ab> {%<ab>best.</ab> übermenschlicher Wesen%} (neben <is>Gandharva</is> und ähnlichen Geschlechtern)•[Page7083-2] • {%auf Erden, in der Luft, im Himmel und in der Unterwelt%}. {#sarpARamayanam#} {%eine <ab>best.</ab> Jahresfeier%}.
+;---------------------------------------------------
+; <L>122600<pc>7095-3<k1>savya<k2>savya/<h>1<e>100
+608102 old <div n="2">— b〉 {%recht%} (<ab>Gegens.</ab> von {%link%}.) {#savyam#} {#savyena#} (auch {%südlich%}) und {#savya°#} {%rechts%}.
+;
+608102 new <div n="2">— b〉 {%recht%} (<ab>Gegens.</ab> von {%link%}). {#savyam#} {#savyena#} (auch {%südlich%}) und {#savya°#} {%rechts%}.
+;---------------------------------------------------
+; <L>123351<pc>7105-3<k1>sA<k2>sA<h>3<e>500
+611583 old <div n="1">— 12〉 {%gelangen zu, erreichen%} (einen •[Page7106-1] •Wunsch).
+;
+611583 new <div n="1">— 12〉 {%gelangen zu, erreichen%} (einen Wunsch).•[Page7106-1] •
+;---------------------------------------------------
+; <L>123609<pc>7109-3<k1>sAcivyAkzepa<k2>sAcivyAkzepa<e>100
+612834 old {#sAcivyAkzepa#}¦ <lex>m.</lex> in der Rhetorik {%eine Erklärung, dass man mit Etwas nicht einverstanden sei, obgleich man diese zu begünstigen scheint%}. (Beispiel <ls>Spr. 2078</ls>)
+;
+612834 new {#sAcivyAkzepa#}¦ <lex>m.</lex> in der Rhetorik {%eine Erklärung, dass man mit Etwas nicht einverstanden sei, obgleich man diese zu begünstigen scheint%}. Beispiel <ls>Spr. 2078</ls>.
+;---------------------------------------------------
+; <L>123731<pc>7111-2<k1>sAD<k2>sAD<h>1<e>500
+613412 old <div n="1">— 8〉 {%ausführen, fertig machen, zu Stande —, zu Wege bringen, zubereiten%} (auch •[Page7111-3] •Speisen). {#vAkyam#} {%Jmds%} (<ab>Gen.</ab>) {%Worte ausführen%}. {#nEzkarmyam#} so <ab>v. a.</ab> {%sich der Unthätigkeit hingeben,%} {#marum#} so <ab>v. a.</ab> {%sich das Trinkens enthalten,%} {#mantram#} {%einen Spruch hersagen, beten%}.
+;
+613412 new <div n="1">— 8〉 {%ausführen, fertig machen, zu Stande —, zu Wege bringen, zubereiten%} (auch Speisen). •[Page7111-3] • {#vAkyam#} {%Jmds%} (<ab>Gen.</ab>) {%Worte ausführen%}. {#nEzkarmyam#} so <ab>v. a.</ab> {%sich der Unthätigkeit hingeben,%} {#marum#} so <ab>v. a.</ab> {%sich das Trinkens enthalten,%} {#mantram#} {%einen Spruch hersagen, beten%}.
+;---------------------------------------------------
+; <L>124484<pc>7122-2<k1>sArin<k2>sArin<h>1<e>100
+617056 old <div n="2">— a〉 {%Bach, Kanal%} <ls>VIKRAMĀṄKAC. 6,56</ls> (nach •[Page7122-3] •der richtigen Lesart der <ab>Hdschr.</ab>). <ls>HEM. PAR. 2,286</ls>, <ab>v. l.</ab>
+;
+617056 new <div n="2">— a〉 {%Bach, Kanal%} <ls>VIKRAMĀṄKAC. 6,56</ls> •[Page7122-3] •(nach der richtigen Lesart der <ab>Hdschr.</ab>). <ls>HEM. PAR. 2,286</ls>, <ab>v. l.</ab>
+;---------------------------------------------------
+; <L>127654<pc>7163-3<k1>surAzwra<k2>su/rAzwra<e>100
+632575 old <div n="2">— a〉 <ab>Pl.</ab> eines Volkes, <ab>Sg.</ab> des von diesem bewohnten Landes (eines Theiles des •[Page7164-1] •heutigen Guzerat).
+;
+632575 new <div n="2">— a〉 <ab>Pl.</ab> eines Volkes, <ab>Sg.</ab> des von diesem bewohnten Landes (eines Theiles des heutigen Guzerat).•[Page7164-1] •
+;---------------------------------------------------
+; <L>130342<pc>7198-2<k1>sKal<k2>sKal<e>500
+645480 old √{#sKal#}¦	{#sKalati#} (ganz ausnahmsweise, <ab>insbes.</ab> •[Page7198-3] •metrisch auch <ab>Med.</ab>)
+;
+645480 new √{#sKal#}¦	{#sKalati#} (ganz ausnahmsweise, <ab>insbes.</ab> metrisch auch <ab>Med.</ab>)•[Page7198-3] •
+;---------------------------------------------------
+; <L>130435<pc>7200-3<k1>stamba<k2>stamba/<e>100
+646081 old <div n="1">— 2〉 <lex>n.</lex> {%a post, a pillar in general; stupidity, insensibility%} (richtig {#stamBa#} <lex>m.</lex>)
+;
+646081 new <div n="1">— 2〉 <lex>n.</lex> {%a post, a pillar in general; stupidity, insensibility%} (richtig {#stamBa#} <lex>m.</lex>).
+;---------------------------------------------------
+; <L>130687<pc>7204-3<k1>strIdehArGa<k2>*strIdehArGa<e>100
+647402 old *{#strIdehArGa#}¦ <lex>m.</lex> <ab>Bein.</ab> <is>Śiva</is>ʼs ({%dessen eine%} •[Page7205-1] •{%Körperhälfte ein Weib ist%}).
+;
+647402 new *{#strIdehArGa#}¦ <lex>m.</lex> <ab>Bein.</ab> <is>Śiva</is>ʼs ({%dessen eine Körperhälfte ein Weib ist%}).•[Page7205-1] •
+;---------------------------------------------------
+; <L>130874<pc>7207-1<k1>sTA<k2>sTA<h>1<e>500
+648814 old <div n="1">— 1〉 {%hinstellen, hinsetzen%} (<ls>GOBH. 1,3,12</ls>) {%setzen auf%} (<ab>Loc.</ab> •[Page7211-3] •<ls>Ind. St. 15,222</ls>. <ls>VAJRACCH. 19,16</ls>) {%einbringen in%} (<ab>Loc.</ab>), {%aufstellen%} (ein Götterbild 295,26 im <lang>Prākrit</lang>).
+;
+648814 new <div n="1">— 1〉 {%hinstellen, hinsetzen%} (<ls>GOBH. 1,3,12</ls>) {%setzen auf%} •[Page7211-3] •(<ab>Loc.</ab> <ls>Ind. St. 15,222</ls>. <ls>VAJRACCH. 19,16</ls>) {%einbringen in%} (<ab>Loc.</ab>), {%aufstellen%} (ein Götterbild 295,26 im <lang>Prākrit</lang>).
+;---------------------------------------------------
+; <L>131406<pc>7220-1<k1>sparD<k2>sparD<e>500
+651630 old √{#sparD#}¦	{#spa/rDate#} {#sparDati#} (metrisch) {%sich den Vorrang streitig machen, wetteifern, — mit%} (<ab>Instr.</ab>, <ab>Instr.</ab> mit {#saha#} oder blosser <ab>Acc.</ab>), {%wettlaufen; sich bewerben —, streiten um%} (<ab>Loc.</ab>). {#sparDita#} mit <ab>act.</ab> und <ab>pass.</ab> <ab>Bed.</ab> ({%dem Jmd%} [<ab>Instr.</ab>] {%den Vorzug streitig gemacht hat%}.)
+;
+651630 new √{#sparD#}¦	{#spa/rDate#} {#sparDati#} (metrisch) {%sich den Vorrang streitig machen, wetteifern, — mit%} (<ab>Instr.</ab>, <ab>Instr.</ab> mit {#saha#} oder blosser <ab>Acc.</ab>), {%wettlaufen; sich bewerben —, streiten um%} (<ab>Loc.</ab>). {#sparDita#} mit <ab>act.</ab> und <ab>pass.</ab> <ab>Bed.</ab> ({%dem Jmd%} [<ab>Instr.</ab>] {%den Vorzug streitig gemacht hat%}).
+;---------------------------------------------------
+; <L>132366<pc>7236-2<k1>svayamudgIrRa<k2>svayamudgIrRa<e>100
+656604 old {#svayamudgIrRa#}¦ <lex>Adj.</lex> {%von selbst herausgesprungen%} (ein •[Page7236-3] •Schwert aus der Scheide).
+;
+656604 new {#svayamudgIrRa#}¦ <lex>Adj.</lex> {%von selbst herausgesprungen%} (ein Schwert aus der Scheide).•[Page7236-3] •
+;---------------------------------------------------
+; <L>133457<pc>7250-3<k1>han<k2>han<h>1<e>500
+661692 old <div n="2">— i〉 {%verletzt%} (auch •[Page7251-1] •in übertragener <ab>Bed.</ab>) <ls n="Chr.">127,28</ls>. <ls n="Chr.">59,22</ls>.
+;
+661692 new <div n="2">— i〉 {%verletzt%} •[Page7251-1] •(auch in übertragener <ab>Bed.</ab>) <ls n="Chr.">127,28</ls>. <ls n="Chr.">59,22</ls>.
+;---------------------------------------------------
+; <L>133457<pc>7250-3<k1>han<k2>han<h>1<e>500
+661743 old <div n="2">— b〉 {%angeschlagen%} (von einer Trommel •[Page7251-2] •und andern musikalischen Instrumenten).
+;
+661743 new <div n="2">— b〉 {%angeschlagen%} (von einer Trommel und andern musikalischen Instrumenten).•[Page7251-2] •
+;---------------------------------------------------
+; <L>133572<pc>7254-2<k1>har<k2>har<h>1<e>500
+662600 old <div n="1">— 8〉 <ab>Act.</ab> <ab>Med.</ab> (dieses älter und genauer) {%in Empfang nehmen%} (eine •[Page7254-3] •Gabe), {%in den Besitz von Etwas treten%} (<ab>insbes.</ab> als Erbe), {%rechtmässiger Weise sich aneignen, hernehmen —, sich Etwas holen —, mitnehmen von%} (<ab>Abl.</ab>). {#karam#} {%Abgaben erheben%}.
+;
+662600 new <div n="1">— 8〉 <ab>Act.</ab> <ab>Med.</ab> (dieses älter und genauer) {%in Empfang nehmen%} (eine Gabe), •[Page7254-3] •{%in den Besitz von Etwas treten%} (<ab>insbes.</ab> als Erbe), {%rechtmässiger Weise sich aneignen, hernehmen —, sich Etwas holen —, mitnehmen von%} (<ab>Abl.</ab>). {#karam#} {%Abgaben erheben%}.
+;---------------------------------------------------
+; <L>133572<pc>7254-2<k1>har<k2>har<h>1<e>500
+662823 old <div n="1">— 6〉 (Entlassenes •[Page7256-1] •, Geschaffenes) {%zurückziehen, zu Nichte machen%}.
+;
+662823 new <div n="1">— 6〉 (Entlassenes, Geschaffenes)•[Page7256-1] • {%zurückziehen, zu Nichte machen%}.
+;---------------------------------------------------
+; <L>133627<pc>7258-2<k1>harASaya<k2>harASaya/<e>100
+663393 old <div n="1">— 2〉 <lex>f.</lex> {#A#} <ab>Bez.</ab> {%der Worte%} {#yA/ te agne harASayA/#} ({#tanU/H#} <ls>MAITR. S. 1,2,7 (17,6)</ls> <ls>ĀPAST. ŚR. 11,4,5</ls>. — nach der Analogie von {#rajASaya/#} = {#rajaHSaya#} •[Page7258-3] •gebildet, also = {#haraHSaya/#}.
+;
+663393 new <div n="1">— 2〉 <lex>f.</lex> {#A#} <ab>Bez.</ab> {%der Worte%} {#yA/ te agne harASayA/#} ({#tanU/H#}) <ls>MAITR. S. 1,2,7 (17,6)</ls> <ls>ĀPAST. ŚR. 11,4,5</ls>. — nach der Analogie von {#rajASaya/#} = {#rajaHSaya#} •[Page7258-3] •gebildet, also = {#haraHSaya/#}.
+;---------------------------------------------------
+; <L>133953<pc>7262-3<k1>harz<k2>harz<e>500
+665073 old <div n="2">— a〉 {%starrend, zu Berge stehend%} (die Haare •[Page7263-2] •am Körper).
+;
+665073 new <div n="2">— a〉 {%starrend, zu Berge stehend%} (die Haare am Körper).•[Page7263-2] •
+;---------------------------------------------------
+; ********************************************************
+; Part 2:   3  resolve diffs in <lex>X</lex>
+; ********************************************************
+; <L>14661<pc>1173-2<k1>AnandaBErava<k2>AnandaBErava<e>100
+67272 old <div n="1">— 2〉 <lex>n.</lex> <ab>N. pr.</ab> eines Lehrers der <is>Haṭhavidyā</is>.
+;
+67272 new <div n="1">— 2〉 <ab>N. pr.</ab> eines Lehrers der <is>Haṭhavidyā</is>.
+;---------------------------------------------------
+; <L>24719<pc>2023-2<k1>karahAwa<k2>karahAwa<e>100
+116759 old <div n="2">— b〉 *<lex>n.</lex> <ab>N. pr.</ab> einer Gegend.
+;
+116759 new <div n="2">— b〉 *<ab>N. pr.</ab> einer Gegend.
+;---------------------------------------------------
+; <L>85895<pc>5064-2<k1>mAtfzvasrIya<k2>*mAtfzvasrIya<e>100
+422754 old *{#mAtfzvasrIya#}¦ <lex>m.</lex> = {#mAtfzvaseya#} <lex>f.</lex>.
+;
+422754 new *{#mAtfzvasrIya#}¦ <lex>m.</lex> = {#mAtfzvaseya#} 1〉.
+;---------------------------------------------------
+; ********************************************************
+; Part 3:   0  [.]</X>[.] -> .</X>  
+; ********************************************************
+; Part 4:   46  Misc. changes (4a,4b,4c). See readme
+; ********************************************************
+; <L>3127<pc>1037-1<k1>aDruva<k2>a/Druva<e>100
+14227 old <div n="1">— 4〉 {%ablösbar%} (von einem Theile des Körpers, dessen Verlust nicht den Tod herbeiführt.).
+;
+14227 new <div n="1">— 4〉 {%ablösbar%} (von einem Theile des Körpers, dessen Verlust nicht den Tod herbeiführt.)
+;---------------------------------------------------
+; <L>3278<pc>1039-1<k1>anativAdana<k2>anativAdana<e>000
+14942 old {#anativAdana#} (<ls>KĀṬH. 31,12</ls>.), {#anativAdin#} (<ls>TĀṆḌYA-BR. 11,3,7</ls>) und {#a/nativAduka#} (<ls>TS. 6,4,5,2</ls>)¦ <lex>Adj.</lex> {%nicht niederdisputirend%} (mit <ab>Acc.</ab>).
+;
+14942 new {#anativAdana#} (<ls>KĀṬH. 31,12</ls>), {#anativAdin#} (<ls>TĀṆḌYA-BR. 11,3,7</ls>) und {#a/nativAduka#} (<ls>TS. 6,4,5,2</ls>)¦ <lex>Adj.</lex> {%nicht niederdisputirend%} (mit <ab>Acc.</ab>).
+;---------------------------------------------------
+; <L>18549<pc>1226-3<k1>utsmaya<k2>utsmaya<e>100
+86618 old <div n="1">— 2〉 {%weit geöffnet%} (Blick.).
+;
+86618 new <div n="1">— 2〉 {%weit geöffnet%} (Blick).
+;---------------------------------------------------
+; <L>20386<pc>1249-1<k1>upAsana<k2>upAsana<e>100
+95486 old <div n="1">— 2〉 <lex>f.</lex> {#A#} = 1〉a〉 (<ls>NAIṢ. 1,34</ls>.), c〉 und d〉.
+;
+95486 new <div n="1">— 2〉 <lex>f.</lex> {#A#} = 1〉a〉 (<ls>NAIṢ. 1,34</ls>), c〉 und d〉.
+;---------------------------------------------------
+; <L>24215<pc>2014-3<k1>kapicUqa<k2>*kapicUqa<e>100
+113880 old *{#kapicUqa#}¦ <lex>m.</lex> (<ls>RĀJAN. 11,172</ls>.), *{#°cUqa#} <lex>f.</lex> und *{#°cUta#} <lex>m.</lex> {%<bot>Spondias mangifera</bot>%}.
+;
+113880 new *{#kapicUqa#}¦ <lex>m.</lex> (<ls>RĀJAN. 11,172</ls>), *{#°cUqa#} <lex>f.</lex> und *{#°cUta#} <lex>m.</lex> {%<bot>Spondias mangifera</bot>%}.
+;---------------------------------------------------
+; <L>46365<pc>3036-1<k1>turAzAh<k2>turAzA/h<e>500
+227126 old <div n="1">— 1〉 <lex>Adj.</lex> {%Mächtigen überlegen oder rasch überwinden%} (<is>Indra</is>.).
+;
+227126 new <div n="1">— 1〉 <lex>Adj.</lex> {%Mächtigen überlegen oder rasch überwinden%} (<is>Indra</is>).
+;---------------------------------------------------
+; <L>62821<pc>4023-1<k1>padArTakOmudI<k2>padArTakOmudI<e>100
+308679 old {#padArTakOmudI#} <lex>f.</lex>, {#padArTaKaRqana#} <lex>n.</lex>, {#°wippaRa, °wIkA#} <lex>f.</lex>, {#°vyAKyA#} <lex>f.</lex>, {#°SiromaRi#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>.), {#padArTacandrikA#} <lex>f.</lex>, {#°vilAsa#} <lex>m.</lex>, {#padArTatatva#} <lex>n.</lex>, {#°wIkA#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>.), {#°nirUpaRa#} <lex>n.</lex> (<ls><ab>ebend.</ab></ls>), {#°nirRaya#} •[Page4023-2] •<lex>m.</lex>, {#°vivecana#} <lex>n.</lex>, {#°vivecanaprakASa#} <lex>n.</lex>, {#padArTadIpikA#} <lex>f.</lex>, {#padArTadIpinI#} <lex>f.</lex>, {#padArTaDarmasaMgraha#} <lex>n.</lex>, {#padArTanirUpaRa#} <lex>n.</lex>, {#padArTapArijAta#} <lex>m.</lex>, {#padArTaprakASa#} <lex>n.</lex>, {#padArTaboDa#} <lex>m.</lex>, {#padArTamaRimAlA#} <lex>f.</lex>, {#°prakASa#} <lex>m.</lex>, {#padArTamAlA#} <lex>f.</lex>, {#°dIpikA#} <lex>f.</lex>, {#°prakASa#} <lex>m.</lex>, {#padArTaratnamaYjUzA#} <lex>f.</lex> (<ls>BÜHLER, Rep. No. 393</ls>), {#°ratnamAlA#} <lex>f.</lex>, {#padArTaviveka#} <lex>m.</lex>, {#padArTasaMgraha#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>) und {#padArTAdarSa#} <lex>m.</lex>¦ Titel von Werken.
+;
+308679 new {#padArTakOmudI#} <lex>f.</lex>, {#padArTaKaRqana#} <lex>n.</lex>, {#°wippaRa, °wIkA#} <lex>f.</lex>, {#°vyAKyA#} <lex>f.</lex>, {#°SiromaRi#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>), {#padArTacandrikA#} <lex>f.</lex>, {#°vilAsa#} <lex>m.</lex>, {#padArTatatva#} <lex>n.</lex>, {#°wIkA#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>), {#°nirUpaRa#} <lex>n.</lex> (<ls><ab>ebend.</ab></ls>), {#°nirRaya#} •[Page4023-2] •<lex>m.</lex>, {#°vivecana#} <lex>n.</lex>, {#°vivecanaprakASa#} <lex>n.</lex>, {#padArTadIpikA#} <lex>f.</lex>, {#padArTadIpinI#} <lex>f.</lex>, {#padArTaDarmasaMgraha#} <lex>n.</lex>, {#padArTanirUpaRa#} <lex>n.</lex>, {#padArTapArijAta#} <lex>m.</lex>, {#padArTaprakASa#} <lex>n.</lex>, {#padArTaboDa#} <lex>m.</lex>, {#padArTamaRimAlA#} <lex>f.</lex>, {#°prakASa#} <lex>m.</lex>, {#padArTamAlA#} <lex>f.</lex>, {#°dIpikA#} <lex>f.</lex>, {#°prakASa#} <lex>m.</lex>, {#padArTaratnamaYjUzA#} <lex>f.</lex> (<ls>BÜHLER, Rep. No. 393</ls>), {#°ratnamAlA#} <lex>f.</lex>, {#padArTaviveka#} <lex>m.</lex>, {#padArTasaMgraha#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>) und {#padArTAdarSa#} <lex>m.</lex>¦ Titel von Werken.
+;---------------------------------------------------
+; <L>64247<pc>4044-3<k1>parivfdDatA<k2>parivfdDatA<e>100
+315787 old {#parivfdDatA#}¦ <lex>f.</lex> {%das Quellen, Aufschwellen%} (der Speise im Magen.).
+;
+315787 new {#parivfdDatA#}¦ <lex>f.</lex> {%das Quellen, Aufschwellen%} (der Speise im Magen).
+;---------------------------------------------------
+; <L>65684<pc>4065-2<k1>pARqulomaSaparRI<k2>pARqulomaSaparRI<e>100
+322959 old {#pARqulomaSaparRI#} (<ls>BHĀVAPR. 1,200</ls>.), *{#°lomaSA#} und *{#°lomA#}¦ <lex>f.</lex> {%<bot>Glycine debilis</bot>%}.
+;
+322959 new {#pARqulomaSaparRI#} (<ls>BHĀVAPR. 1,200</ls>), *{#°lomaSA#} und *{#°lomA#}¦ <lex>f.</lex> {%<bot>Glycine debilis</bot>%}.
+;---------------------------------------------------
+; <L>66833<pc>4081-3<k1>piRqaKarjUra<k2>piRqaKarjUra<e>100
+328652 old {#piRqaKarjUra#}¦ <lex>m.</lex> (<ls>KĀD. 142,21</ls>.), *{#°rikA#} <lex>f.</lex> und {#°rI#} <lex>f.</lex> {%eine Art Dattelbaum%} <ls>RĀJAN. 11,61</ls>. <ls>Mat. med. 313</ls>.
+;
+328652 new {#piRqaKarjUra#}¦ <lex>m.</lex> (<ls>KĀD. 142,21</ls>), *{#°rikA#} <lex>f.</lex> und {#°rI#} <lex>f.</lex> {%eine Art Dattelbaum%} <ls>RĀJAN. 11,61</ls>. <ls>Mat. med. 313</ls>.
+;---------------------------------------------------
+; <L>68077<pc>4098-3<k1>purARasaMgraha<k2>purARasaMgraha<e>100
+334708 old {#purARasaMgraha#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>.), {#purARasamuccaya#} <lex>m.</lex>, {#purARasarvasva#} <lex>n.</lex> und {#purARasAra#}¦ Titel von Werken.
+;
+334708 new {#purARasaMgraha#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>), {#purARasamuccaya#} <lex>m.</lex>, {#purARasarvasva#} <lex>n.</lex> und {#purARasAra#}¦ Titel von Werken.
+;---------------------------------------------------
+; <L>73865<pc>4180-2<k1>prAgaBAva<k2>prAgaBAva<e>100
+362732 old {#prAgaBAva#}¦ <lex>m.</lex> {%das Nochnichtsein%}. {#°vAda#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>.), {#°vicAra#} <lex>m.</lex>, {#°vijYAna#} <lex>n.</lex> und {#°BavojjIvana#} <lex>n.</lex> Titel von Werken.
+;
+362732 new {#prAgaBAva#}¦ <lex>m.</lex> {%das Nochnichtsein%}. {#°vAda#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>), {#°vicAra#} <lex>m.</lex>, {#°vijYAna#} <lex>n.</lex> und {#°BavojjIvana#} <lex>n.</lex> Titel von Werken.
+;---------------------------------------------------
+; <L>77117<pc>4226-2<k1>bilhaRakAvya<k2>bilhaRakAvya<e>100
+378661 old {#bilhaRakAvya#} <lex>n.</lex> {#bilhaRacaritra#} <lex>n.</lex> (<ls>OPP. CAT. 1</ls>.), {#bilhaRapaYcaSikA#} <lex>f.</lex> und {#bilhaRIya#} <lex>n.</lex> (<ls>OPP. CAT. 1</ls>)¦ Titel von Werken.
+;
+378661 new {#bilhaRakAvya#} <lex>n.</lex> {#bilhaRacaritra#} <lex>n.</lex> (<ls>OPP. CAT. 1</ls>), {#bilhaRapaYcaSikA#} <lex>f.</lex> und {#bilhaRIya#} <lex>n.</lex> (<ls>OPP. CAT. 1</ls>)¦ Titel von Werken.
+;---------------------------------------------------
+; <L>87422<pc>5086-2<k1>muc<k2>muc<h>1<e>500
+430509 old <div n="1">— 10〉 {%aus sich entlassen, von sich geben, ausstossen%} (Laute <ab>u. s. w.</ab>). {#grastam#} {%einen verschluckten (verfinsterten)%} Himmelskörper {%wieder von sich geben,%} so <ab>v. a.</ab> {%von,%} so <ab>v. a.</ab> {%sich ergissend aus%} (im <ab>Comp.</ab> vorangehend 292,20.).
+;
+430509 new <div n="1">— 10〉 {%aus sich entlassen, von sich geben, ausstossen%} (Laute <ab>u. s. w.</ab>). {#grastam#} {%einen verschluckten (verfinsterten)%} Himmelskörper {%wieder von sich geben,%} so <ab>v. a.</ab> {%von,%} so <ab>v. a.</ab> {%sich ergissend aus%} (im <ab>Comp.</ab> vorangehend 292,20).
+;---------------------------------------------------
+; <L>87422<pc>5086-2<k1>muc<k2>muc<h>1<e>500
+430513 old <div n="1">— 14〉 <ab>Act.</ab> mit {#na#} {%nicht ablassen, nicht ruhen%} (von Pferden.).
+;
+430513 new <div n="1">— 14〉 <ab>Act.</ab> mit {#na#} {%nicht ablassen, nicht ruhen%} (von Pferden).
+;---------------------------------------------------
+; <L>87480<pc>5088-3<k1>muRqa<k2>muRqa<e>100
+430810 old <div n="2">— b〉 {%keine Hörner habend%} (Kuh, Ziege.).
+;
+430810 new <div n="2">— b〉 {%keine Hörner habend%} (Kuh, Ziege).
+;---------------------------------------------------
+; <L>87518<pc>5089-1<k1>mud<k2>mud<h>1<e>500
+431023 old <div n="p">— Mit {#pra#} {%lustig werden, sich freuen, jubeln%}. {#pramudita#} {%ausgelassen, erfreut, froh;%} von Unbelebten so <ab>v. a.</ab> {%in vollem Schmucke prangend%}. {#Sarad#} <ls n="Chr.">84,23</ls>. Auch <lex>n.</lex> <ab>impers.</ab> {#pramudita#} auch fehlerhaft für {#pracudita#} (metrisch <ab>st.</ab> {#pradita#}.).
+;
+431023 new <div n="p">— Mit {#pra#} {%lustig werden, sich freuen, jubeln%}. {#pramudita#} {%ausgelassen, erfreut, froh;%} von Unbelebten so <ab>v. a.</ab> {%in vollem Schmucke prangend%}. {#Sarad#} <ls n="Chr.">84,23</ls>. Auch <lex>n.</lex> <ab>impers.</ab> {#pramudita#} auch fehlerhaft für {#pracudita#} (metrisch <ab>st.</ab> {#pracodita#}).
+;---------------------------------------------------
+; <L>90246<pc>5127-3<k1>yam<k2>yam<e>500
+444319 old <div n="1">— 7〉 {%hinziehen%} (den Ton.).
+;
+444319 new <div n="1">— 7〉 {%hinziehen%} (den Ton).
+;---------------------------------------------------
+; <L>99671<pc>6049-1<k1>vah<k2>vah<h>1<e>500
+494593 old <div n="2">— b〉 Wasser <ab>u. s. w.</ab> {%führen%} (von Flüssen), {%fliessen lassen%} (Thränen.).
+;
+494593 new <div n="2">— b〉 Wasser <ab>u. s. w.</ab> {%führen%} (von Flüssen), {%fliessen lassen%} (Thränen).
+;---------------------------------------------------
+; <L>107209<pc>6159-3<k1>vedAnta<k2>vedA/nta<e>100
+532388 old <div n="1">— 3〉 {%ein den Schluss eines%} <is>Veda</is> {%bildender Text%} oder {%der Inbegriff des%} <is>Veda</is>, <ab>d. i.</ab> {%eine%} <is>Upaniṣad</is> und {%die auf den%} <is>Upaniṣad</is> {%ruhende theologisch-philosophische Lehre%} (die <is>Uttaramīmāṃsā</is>) Auch {#°SAstra#} <lex>n.</lex> Titel von Werken, die über den <is>Vedānta</is> handeln; {#°kataka#} <lex>m.</lex>, {#°kalpataru#} <lex>m.</lex>, {#°kalpataruwIkA#} <lex>f.</lex>, {#°kalpataruparimala#} <lex>m.</lex>, {#°kalpatarumaYjarI#} <lex>f.</lex>, {#°kalpalatA#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>) {#°kalpalatikA#} <lex>f.</lex>, {#°kArikAvali#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>) {#°kOstuBa#} <lex>m.</lex> (<ls>BURNELL, T.</ls>), {#°granTa#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>), {#°cintAmaRi#} <lex>m.</lex>, {#°tattvadIpana#} <lex>n.</lex>, {#°tattvasAra#} <lex>m.</lex> (<ls>BURNELL, T.</ls>), {#°dIpa#} <lex>m.</lex>, {#°nayanaBUzaRa#} <lex>n.</lex>, {#°nAmaratnasahasravyAKyAna#} <lex>n.</lex> (<ls>BURNELL, T.</ls>), {#°nyAyaratnAvalI brahmadvEtAmftaprakASikA, °pariBAzA#} <lex>f.</lex>, {#°parimala#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>), {#°pArijAta#} <lex>m.</lex>, {#°prakaraRavAkyAmfta#} <lex>n.</lex> (<ls>BURNELL, T.</ls>), {#°pradIpa#} <lex>m.</lex>, {#°BAzya#} <lex>n.</lex>, {#°ratnakoSa#} <lex>m.</lex> (<ls>BURNELL, T.</ls>), {#°ratnatrayaparIkzA#} <lex>f.</lex> (<ls><ab>ebend.</ab></ls>), {#°ratnamaYjUzA#} <lex>f.</lex>, {#°ratnarahasya#} <lex>n.</lex>, {#°ratnAkara#}. (<ls>BURNELL, T.</ls>) {#°vAdArTa#} <lex>m.</lex> (<ls><ab>ebend.</ab></ls>) {#°vAdAvali#}. (<ls>OPP. CAT. 1</ls>), {#°vijaya#} <lex>m.</lex> (<ls>BURNELL, T.</ls>), {#°vivaraRa#} <lex>n.</lex> (<ls>OPP. CAT. 1</ls>), {#°SataSlokI#} <lex>f.</lex>, {#°SAstra#} <lex>n.</lex> (<ls>OPP. CAT. 1</ls>), {#°SiKAmaRi#} <lex>m.</lex>, {#°SiromaRi#} <lex>m.</lex>, (<ls>OPP. CAT. 1</ls>.), {#°saMgraha#} <lex>m.</lex> (<ls>BURNELL, T.</ls>) {#°saMjYAprakriyA#} <lex>f.</lex>, {#°sAra#} <lex>m.</lex> (vier verschiedene Werke <ls>BURNELL, T.</ls>), {#°sArasaMgraha#} <lex>m.</lex>, {#°sArasAra#} <lex>m.</lex>, {#°siMha#} <lex>m.</lex>, {#°sidDAnta#} <lex>m.</lex>, {#°sidDAntacandrikA#} <lex>f.</lex> (<ls>BURNELL, T.</ls>), {#°sidDAntadIpikA#} <lex>f.</lex>, {#°sidDAntabindu#} <lex>m.</lex>, {#°sidDAntasUktimaYjarI#} <lex>f.</lex>, {#°sidDAntasUktimaYjarIprakASa#} <lex>m.</lex>, {#°suDArahasya#} <lex>n.</lex>, {#°sUtra#} <lex>n.</lex>, {#°sUtradIpikA#} <lex>f.</lex>, {#°sUtramuktAvalI#} <lex>f.</lex>, {#°sUtravftti#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>), {#°sUtravyAKyAnacandrikA#} <lex>f.</lex>, {#°sUtropanyAsa#} <lex>m.</lex> (<ls>BURNELL, T.</ls>) {#°sOraBa#} <lex>n.</lex>, {#°syamantaka#} <lex>m.</lex>, {#vedAntADi#} {#karaRacintAmaRi#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>), {#vedAntADikaraRamAlA#} <lex>f.</lex>, {#vedAntArTavivecanamahABAzya#} <lex>n.</lex>, {#vedAntopanizad#} <lex>f.</lex> (<ls>BURNELL, T.</ls>) und {#vedAntopanyAsa#} <lex>m.</lex> (<ls><ab>ebend.</ab></ls>).
+;
+532388 new <div n="1">— 3〉 {%ein den Schluss eines%} <is>Veda</is> {%bildender Text%} oder {%der Inbegriff des%} <is>Veda</is>, <ab>d. i.</ab> {%eine%} <is>Upaniṣad</is> und {%die auf den%} <is>Upaniṣad</is> {%ruhende theologisch-philosophische Lehre%} (die <is>Uttaramīmāṃsā</is>) Auch {#°SAstra#} <lex>n.</lex> Titel von Werken, die über den <is>Vedānta</is> handeln; {#°kataka#} <lex>m.</lex>, {#°kalpataru#} <lex>m.</lex>, {#°kalpataruwIkA#} <lex>f.</lex>, {#°kalpataruparimala#} <lex>m.</lex>, {#°kalpatarumaYjarI#} <lex>f.</lex>, {#°kalpalatA#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>) {#°kalpalatikA#} <lex>f.</lex>, {#°kArikAvali#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>) {#°kOstuBa#} <lex>m.</lex> (<ls>BURNELL, T.</ls>), {#°granTa#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>), {#°cintAmaRi#} <lex>m.</lex>, {#°tattvadIpana#} <lex>n.</lex>, {#°tattvasAra#} <lex>m.</lex> (<ls>BURNELL, T.</ls>), {#°dIpa#} <lex>m.</lex>, {#°nayanaBUzaRa#} <lex>n.</lex>, {#°nAmaratnasahasravyAKyAna#} <lex>n.</lex> (<ls>BURNELL, T.</ls>), {#°nyAyaratnAvalI brahmadvEtAmftaprakASikA, °pariBAzA#} <lex>f.</lex>, {#°parimala#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>), {#°pArijAta#} <lex>m.</lex>, {#°prakaraRavAkyAmfta#} <lex>n.</lex> (<ls>BURNELL, T.</ls>), {#°pradIpa#} <lex>m.</lex>, {#°BAzya#} <lex>n.</lex>, {#°ratnakoSa#} <lex>m.</lex> (<ls>BURNELL, T.</ls>), {#°ratnatrayaparIkzA#} <lex>f.</lex> (<ls><ab>ebend.</ab></ls>), {#°ratnamaYjUzA#} <lex>f.</lex>, {#°ratnarahasya#} <lex>n.</lex>, {#°ratnAkara#}. (<ls>BURNELL, T.</ls>) {#°vAdArTa#} <lex>m.</lex> (<ls><ab>ebend.</ab></ls>) {#°vAdAvali#}. (<ls>OPP. CAT. 1</ls>), {#°vijaya#} <lex>m.</lex> (<ls>BURNELL, T.</ls>), {#°vivaraRa#} <lex>n.</lex> (<ls>OPP. CAT. 1</ls>), {#°SataSlokI#} <lex>f.</lex>, {#°SAstra#} <lex>n.</lex> (<ls>OPP. CAT. 1</ls>), {#°SiKAmaRi#} <lex>m.</lex>, {#°SiromaRi#} <lex>m.</lex>, (<ls>OPP. CAT. 1</ls>), {#°saMgraha#} <lex>m.</lex> (<ls>BURNELL, T.</ls>), {#°saMjYAprakriyA#} <lex>f.</lex>, {#°sAra#} <lex>m.</lex> (vier verschiedene Werke <ls>BURNELL, T.</ls>), {#°sArasaMgraha#} <lex>m.</lex>, {#°sArasAra#} <lex>m.</lex>, {#°siMha#} <lex>m.</lex>, {#°sidDAnta#} <lex>m.</lex>, {#°sidDAntacandrikA#} <lex>f.</lex> (<ls>BURNELL, T.</ls>), {#°sidDAntadIpikA#} <lex>f.</lex>, {#°sidDAntabindu#} <lex>m.</lex>, {#°sidDAntasUktimaYjarI#} <lex>f.</lex>, {#°sidDAntasUktimaYjarIprakASa#} <lex>m.</lex>, {#°suDArahasya#} <lex>n.</lex>, {#°sUtra#} <lex>n.</lex>, {#°sUtradIpikA#} <lex>f.</lex>, {#°sUtramuktAvalI#} <lex>f.</lex>, {#°sUtravftti#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>), {#°sUtravyAKyAnacandrikA#} <lex>f.</lex>, {#°sUtropanyAsa#} <lex>m.</lex> (<ls>BURNELL, T.</ls>) {#°sOraBa#} <lex>n.</lex>, {#°syamantaka#} <lex>m.</lex>, {#vedAntADi#} {#karaRacintAmaRi#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>), {#vedAntADikaraRamAlA#} <lex>f.</lex>, {#vedAntArTavivecanamahABAzya#} <lex>n.</lex>, {#vedAntopanizad#} <lex>f.</lex> (<ls>BURNELL, T.</ls>) und {#vedAntopanyAsa#} <lex>m.</lex> (<ls><ab>ebend.</ab></ls>).
+;---------------------------------------------------
+; <L>109182<pc>6190-1<k1>vlI<k2>vlI<e>500
+542179 old √{#vlI#}¦,	{#vlInAti#} und {#vlinAti#} {%zusammenknicken, — drücken, — fallen machen%} (nach dem <ls>DHĀTUP.</ls> {#gatO#}, {#varaRe, DAraRe, BaraRe, vftyAm#}.). <ab>Pass.</ab> {#vlIyate#} {%in sich zusammensinken, zusammenknicken, erliegen, zusammenfallen%}.
+;
+542179 new √{#vlI#}¦,	{#vlInAti#} und {#vlinAti#} {%zusammenknicken, — drücken, — fallen machen%} (nach dem <ls>DHĀTUP.</ls> {#gatO#}, {#varaRe, DAraRe, BaraRe, vftyAm#}). <ab>Pass.</ab> {#vlIyate#} {%in sich zusammensinken, zusammenknicken, erliegen, zusammenfallen%}.
+;---------------------------------------------------
+; <L>110310<pc>6206-1<k1>SabdArTacintAmaRi<k2>SabdArTacintAmaRi<e>100
+547711 old {#SabdArTacintAmaRi#} <lex>m.</lex> (<ls>BURNELL, T.</ls>), {#SabdArTarkAmfta#} <lex>n.</lex>, {#SabdArTanirvacana#} <lex>n.</lex> (<ls>BURNELL, T.</ls>), {#°KaRqana#} <lex>n.</lex> (<ls>OPP. CAT. 1</ls>.), {#SabdArTaratna#} <lex>n.</lex> und {#SabdArTasAmaYjarI#} <lex>f.</lex>¦ Titel.
+;
+547711 new {#SabdArTacintAmaRi#} <lex>m.</lex> (<ls>BURNELL, T.</ls>), {#SabdArTarkAmfta#} <lex>n.</lex>, {#SabdArTanirvacana#} <lex>n.</lex> (<ls>BURNELL, T.</ls>), {#°KaRqana#} <lex>n.</lex> (<ls>OPP. CAT. 1</ls>), {#SabdArTaratna#} <lex>n.</lex> und {#SabdArTasAmaYjarI#} <lex>f.</lex>¦ Titel.
+;---------------------------------------------------
+; <L>112834<pc>6240-3<k1>SizwasaBA<k2>SizwasaBA<e>100
+559962 old {#SizwasaBA#}¦ <lex>f.</lex> {%eine Versammlung von Gelehrten%} <ls n="Chr.">158,3</ls> (so zu lesen.).
+;
+559962 new {#SizwasaBA#}¦ <lex>f.</lex> {%eine Versammlung von Gelehrten%} <ls n="Chr.">158,3</ls> (so zu lesen).
+;---------------------------------------------------
+; <L>114296<pc>6261-1<k1>SEvavEzRavapratizWAprayoga<k2>SEvavEzRavapratizWAprayoga<e>100
+567284 old {#SEvavEzRavapratizWAprayoga#} <lex>m.</lex> (<ls>BURNELL, T.</ls>), {#°vEzRavamataKaRqana#} <lex>n.</lex> (<ls><ab>ebend.</ab></ls>). {#°vEzRavavAda#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>.), {#SEvasarvasva#} <lex>n.</lex> und {#SEvasidDAntaSeKara#} <lex>m.</lex>¦ Titel.
+;
+567284 new {#SEvavEzRavapratizWAprayoga#} <lex>m.</lex> (<ls>BURNELL, T.</ls>), {#°vEzRavamataKaRqana#} <lex>n.</lex> (<ls><ab>ebend.</ab></ls>). {#°vEzRavavAda#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>), {#SEvasarvasva#} <lex>n.</lex> und {#SEvasidDAntaSeKara#} <lex>m.</lex>¦ Titel.
+;---------------------------------------------------
+; <L>114966<pc>6270-2<k1>SrApay<k2>SrApay<e>500
+570522 old <div n="1">— 2〉 *künstliches <ab>Denomin.</ab> von {#Sra#} (woven {#SreyaMs#}, {#SrezWa#} abgeleitet werden.).
+;
+570522 new <div n="1">— 2〉 *künstliches <ab>Denomin.</ab> von {#Sra#} (woven {#SreyaMs#}, {#SrezWa#} abgeleitet werden).
+;---------------------------------------------------
+; <L>116194<pc>6289-1<k1>zaqaNga<k2>zaqaNga<h>1<e>100
+576680 old <div n="2">— a〉 *<ab>Sg.</ab> {%die sechs Haupttheile des Körpers%} (Beine, Arme, Kopf und die Mitte des Körpers.).
+;
+576680 new <div n="2">— a〉 *<ab>Sg.</ab> {%die sechs Haupttheile des Körpers%} (Beine, Arme, Kopf und die Mitte des Körpers).
+;---------------------------------------------------
+; <L>118430<pc>7032-1<k1>sad<k2>sad<h>1<e>500
+587782 old <div n="1">— 1〉 {%hinsetzen, daneben setzen%} (<ab>z. B.</ab> das <is>Havis</is> auf die <is>Vedi</is> neben den <is>Āhavanīya</is>.).
+;
+587782 new <div n="1">— 1〉 {%hinsetzen, daneben setzen%} (<ab>z. B.</ab> das <is>Havis</is> auf die <is>Vedi</is> neben den <is>Āhavanīya</is>).
+;---------------------------------------------------
+; <L>119439<pc>7048-2<k1>saptaDAtu<k2>sapta/DAtu<e>100
+592686 old <div n="2">— b〉 {%aus sieben Hauptbestandtheilen bestehend%} (der Körper.).
+;
+592686 new <div n="2">— b〉 {%aus sieben Hauptbestandtheilen bestehend%} (der Körper).
+;---------------------------------------------------
+; <L>120398<pc>7061-3<k1>samAropaRa<k2>samAropaRa<e>100
+597048 old <div n="1">— 1〉 {%das Versetzen%} (<ab>z. B.</ab> des Feuers an einen andern Ort.).
+;
+597048 new <div n="1">— 1〉 {%das Versetzen%} (<ab>z. B.</ab> des Feuers an einen andern Ort).
+;---------------------------------------------------
+; <L>121038<pc>7070-3<k1>saMpravartaka<k2>saMpravartaka<e>100
+600105 old <div n="1">— 2〉 {%entstehen lassend, Schöpfer%} (<is>Śiva</is>.).
+;
+600105 new <div n="1">— 2〉 {%entstehen lassend, Schöpfer%} (<is>Śiva</is>).
+;---------------------------------------------------
+; <L>121224<pc>7074-1<k1>saMmarda<k2>saMmarda<e>100
+601083 old <div n="1">— 4〉 *{%das Zerreiben%} (wohlriechender Stoffe.).
+;
+601083 new <div n="1">— 4〉 *{%das Zerreiben%} (wohlriechender Stoffe).
+;---------------------------------------------------
+; <L>121556<pc>7080-1<k1>sarj<k2>sarj<h>3<e>500
+603222 old <div n="1">— 16〉 {%übergeben, überlassen%} (<ls>MAITR. S. 3,9,1</ls>), {%verleihen, geben, spenden, gewähren%} (einen Wunsch.).
+;
+603222 new <div n="1">— 16〉 {%übergeben, überlassen%} (<ls>MAITR. S. 3,9,1</ls>), {%verleihen, geben, spenden, gewähren%} (einen Wunsch).
+;---------------------------------------------------
+; <L>122811<pc>7098-2<k1>sah<k2>sah<h>1<e>500
+609045 old <hom>1.</hom> √{#sah#}¦	{#sa/hati#} (in der klassischen Sprache meist nur metrisch.), {#°te#}; der Wurzelvocal und Reduplicationssilbe im <is>Veda</is> häufig gedehnt. <ab>Partic.</ab> {#sAQa/#} (nur vedisch) und {#soQa#}; <ab>Absol.</ab> {#soQvA#} <ls><ab>Comm.</ab> zu ĀPAST. ŚR. 12,24,10</ls>.
+;
+609045 new <hom>1.</hom> √{#sah#}¦	{#sa/hati#} (in der klassischen Sprache meist nur metrisch), {#°te#}; der Wurzelvocal und Reduplicationssilbe im <is>Veda</is> häufig gedehnt. <ab>Partic.</ab> {#sAQa/#} (nur vedisch) und {#soQa#}; <ab>Absol.</ab> {#soQvA#} <ls><ab>Comm.</ab> zu ĀPAST. ŚR. 12,24,10</ls>.
+;---------------------------------------------------
+; <L>123525<pc>7108-3<k1>sAgarikAmaya<k2>sAgarikAmaya<e>100
+612462 old {#sAgarikAmaya#}¦ <lex>Adj.</lex> {%aus lauter%} <is>Sāgarikā</is> {%bestehend%} <ls n="Chr.">314,10</ls> (im <lang>Prākrit</lang>.).
+;
+612462 new {#sAgarikAmaya#}¦ <lex>Adj.</lex> {%aus lauter%} <is>Sāgarikā</is> {%bestehend%} <ls n="Chr.">314,10</ls> (im <lang>Prākrit</lang>).
+;---------------------------------------------------
+; <L>127712<pc>7164-3<k1>sureSvara<k2>sureSvara<e>100
+632880 old <div n="2">— a〉 der <is>Durgā</is> <ls>RĀJAT. 8,507</ls> ({#surE° gedr#}.).
+;
+632880 new <div n="2">— a〉 der <is>Durgā</is> <ls>RĀJAT. 8,507</ls> ({#surE°#} <ab>gedr.</ab>)
+;---------------------------------------------------
+; <L>130430<pc>7200-1<k1>staB<k2>staB<e>500
+645987 old <div n="2">— a〉 {%aufgetrieben%} (Unterleib.).
+;
+645987 new <div n="2">— a〉 {%aufgetrieben%} (Unterleib).
+;---------------------------------------------------
+; <L>133718<pc>7260-1<k1>haritASmaka<k2>haritASmaka<e>100
+663907 old {#haritASmaka#}¦ <lex>n.</lex> {%Türkis%} <ls>HEMĀDRI 1,488,7</ls> (vielleicht {#°kaM#} zu lesen.).
+;
+663907 new {#haritASmaka#}¦ <lex>n.</lex> {%Türkis%} <ls>HEMĀDRI 1,488,7</ls> (vielleicht {#°kaM#} zu lesen).
+;---------------------------------------------------
+; ********************************************************
+; Part 5:  303  resolve diffs in <div> tag
+; ********************************************************
+; <L>1095<pc>1013-2<k1>ac<k2>ac<e>500
+5046 old <div n="p">— Mit •[Page1013-3] •{#upani#} {%hinbiegen%} <ls>ŚAT. BR. 11,4,2,4</ls>.
+;
+5046 new <div n="p">— Mit {#upani#}•[Page1013-3] • {%hinbiegen%} <ls>ŚAT. BR. 11,4,2,4</ls>.
+;---------------------------------------------------
+; <L>25332<pc>2030-3<k1>karz<k2>karz<h>1<e>500
+119804 old <div n="p">— Mit •[Page2031-2] •{#aByupA#} {%an sich heranziehen%}.
+;
+119804 new <div n="p">— Mit {#aByupA#} •[Page2031-2] •{%an sich heranziehen%}.
+;---------------------------------------------------
+; <L>34676<pc>2152-1<k1>gam<k2>gam<e>500
+166763 old <div n="p">— Mit •[Page2153-2] •{#vyava#} <ab>Med.</ab> {%sich trennen%}.
+;
+166763 new <div n="p">— Mit {#vyava#} •[Page2153-2] •<ab>Med.</ab> {%sich trennen%}.
+;---------------------------------------------------
+; <L>37469<pc>2192-3<k1>grAmaRI<k2>grAmaRI/<e>100
+181054 old <div n="3">— ϰ〉 *eines Wesens im Gefolge <is>Śiva</is>ʼs.
+;
+181054 new <div n="3">— γ〉 *eines Wesens im Gefolge <is>Śiva</is>ʼs.
+;---------------------------------------------------
+; <L>41675<pc>2253-1<k1>jap<k2>jap<e>500
+203064 old <div n="p">— Mit •[Page2253-2] •{#anu#} {%nachher murmelnd hersagen%}.
+;
+203064 new <div n="p">— Mit {#anu#} •[Page2253-2] •{%nachher murmelnd hersagen%}.
+;---------------------------------------------------
+; <L>41880<pc>2256-1<k1>jar<k2>jar<h>3<e>500
+204152 old <div n="p">— Mit •[Page2256-2] •{#prati#} {%entgegenrauschen, zurufen, begrüssen%}.
+;
+204152 new <div n="p">— Mit {#prati#} •[Page2256-2] •{%entgegenrauschen, zurufen, begrüssen%}.
+;---------------------------------------------------
+; <L>56517<pc>3176-3<k1>nanda<k2>na/nda<e>100
+277260 old <div n="3">— ι〉 eines Sohns des <is>Vasudeva</is>.
+;
+277260 new <div n="3">— ϑ〉 eines Sohns des <is>Vasudeva</is>.
+;---------------------------------------------------
+; <L>56517<pc>3176-3<k1>nanda<k2>na/nda<e>100
+277261 old <div n="3">— ϰ〉 eines Kuhhirten, des Pflegevaters von <is>Kṛṣṇa</is>. Aus seinem Geschlecht stammt <is>Durgā</is>.
+;
+277261 new <div n="3">— ι〉 eines Kuhhirten, des Pflegevaters von <is>Kṛṣṇa</is>. Aus seinem Geschlecht stammt <is>Durgā</is>.
+;---------------------------------------------------
+; <L>56517<pc>3176-3<k1>nanda<k2>na/nda<e>100
+277262 old <div n="3">— λ〉 eines Anführers der <is>Sātvata</is>.
+;
+277262 new <div n="3">— κ〉 eines Anführers der <is>Sātvata</is>.
+;---------------------------------------------------
+; <L>56517<pc>3176-3<k1>nanda<k2>na/nda<e>100
+277263 old <div n="3">— ν〉 *eines Brudern des <is>Śākyamuni</is>.
+;
+277263 new <div n="3">— λ〉 *eines Brudern des <is>Śākyamuni</is>.
+;---------------------------------------------------
+; <L>59630<pc>3219-2<k1>nirvikalpaka<k2>nirvikalpaka<e>100
+292439 old {#nirvikalpaka#}¦ <lex>Adj.</lex> = {#nirvikalpa#}
+;
+292439 new {#nirvikalpaka#}¦ <lex>Adj.</lex> = {#nirvikalpa#} 1〉 (<ls n="Chr.">284,22</ls>. <ls n="Chr.">285,8</ls>. <ls n="Chr.">286,15</ls>. <ls n="Chr.">287,1</ls>. <ls>ŚAṂK. zu BĀDAR. 3,2,11. 21</ls>) und 2〉 (<ls>BHĀG. P. 1,4,4</ls>).
+;---------------------------------------------------
+; <L>59630<pc>3219-2<k1>nirvikalpaka<k2>nirvikalpaka<e>100
+292440 old <div n="1">— 1〉 (<ls n="Chr.">284,22</ls>. <ls n="Chr.">285,8</ls>. <ls n="Chr.">286,15</ls>. <ls n="Chr.">287,1</ls>. <ls>ŚAṂK. zu BĀDAR. 3,2,11. 21</ls>) und 2〉 (<ls>BHĀG. P. 1,4,4</ls>).
+;
+292440 new ;; merge
+;---------------------------------------------------
+; <L>61760<pc>4004-1<k1>pac<k2>pac<h>1<e>500
+302930 old <div n="p">— Mit •[Page4004-2] •{#anu#} {%allmählich reif werden lassen%}. <ab>Pass.</ab> {%allmählich reif werden%} (auch bildlich).
+;
+302930 new <div n="p">— Mit {#anu#} •[Page4004-2] •{%allmählich reif werden lassen%}. <ab>Pass.</ab> {%allmählich reif werden%} (auch bildlich).
+;---------------------------------------------------
+; <L>90246<pc>5127-3<k1>yam<k2>yam<e>500
+444502 old <div n="p">— Mit •[Page5129-3] •{#upasam#}
+;
+444502 new <div n="p">— Mit {#upasam#}•[Page5129-3] •
+;---------------------------------------------------
+; <L>107998<pc>6170-3<k1>vEvasvata<k2>vEvasvata/<e>100
+536236 old <div n="2">— b〉 und c〉 <lex>Adj.</lex> zu 2〉a〉α〉 und b〉.
+;
+536236 new <div n="2">— b〉 und c〉 <lex>Adj.</lex> zu 2〉a〉α〉 und β〉.
+;---------------------------------------------------
+; <L>128533<pc>7175-1<k1>sU<k2>sU<h>3<e>500
+636839 old <div n="p">— Mit •[Page7175-2] •{#saMpra#}
+;
+636839 new <div n="p">— Mit {#saMpra#}•[Page7175-2] •
+;---------------------------------------------------
+; <L>133572<pc>7254-2<k1>har<k2>har<h>1<e>500
+662653 old <div n="p">— Mit •[Page7255-1] •{#apa#}
+;
+662653 new <div n="p">— Mit {#apa#}•[Page7255-1] •
+;---------------------------------------------------
+; <L>133572<pc>7254-2<k1>har<k2>har<h>1<e>500
+662766 old <div n="p">— Mit •[Page7255-3] •{#vyapA#} {%Jmd%} (<ab>Abl.</ab>) {%entziehen%}.
+;
+662766 new <div n="p">— Mit {#vyapA#}•[Page7255-3] • {%Jmd%} (<ab>Abl.</ab>) {%entziehen%}.
+;---------------------------------------------------
+; <L>133572<pc>7254-2<k1>har<k2>har<h>1<e>500
+663073 old <div n="p">— Mit •[Page7257-3] •{#sam#}
+;
+663073 new <div n="p">— Mit {#sam#}•[Page7257-3] •
+;---------------------------------------------------
+; ********************************************************
+; ********************************************************
