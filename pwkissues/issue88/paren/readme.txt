@@ -258,7 +258,7 @@ python diff_to_changes_dict.py temp_pw_ab_13.txt temp_pw_ab_13_work.txt paren/te
 
 # generate temp_pw_ab_13.txt
 python updateByLine.py temp_pw_ab_12.txt change_pw_ab_13.txt temp_pw_ab_13.txt
-167 change transactions from change_pw_13.txt
+167 change transactions from change_pw_ab_13.txt
 # check
 diff temp_pw_ab_13.txt temp_pw_ab_13_work.txt | wc -l
 # 0 as expected
