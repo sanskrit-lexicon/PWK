@@ -1,0 +1,180 @@
+; ********************************************************
+; change_pw_ab_14.txt  
+;   
+; Part 1:  0  !√ and √ markup before ¦ 
+; Part 2:  3  !√ and √ markup after ¦
+; Part 3:  6  [.][)][.,]  
+; Part 4  23  Misc.  See dhatu/readme
+; ********************************************************
+; Part 1:  0  !√ and √ markup before ¦ 
+; ********************************************************
+; Part 2:  3  !√ and √ markup after ¦
+; ********************************************************
+; <L>81343<pc>4290-3<k1>BlAs<k2>*BlAs<e>500
+400097 old *{#BlAs#}¦ <ab>v. l.</ab> für {#BlAS#}.
+;
+400097 new *{#BlAs#}¦ <ab>v. l.</ab> für √{#BlAS#}.
+;---------------------------------------------------
+; <L>93606<pc>5182-1<k1>rAjAn<k2>*rAjAn<e>500
+461584 old *√{#rAjAn#}¦,	{#°nati#} <ab>Denomin.</ab> von <hom>1.</hom> √{#rAjan#}.
+;
+461584 new *√{#rAjAn#}¦,	{#°nati#} <ab>Denomin.</ab> von <hom>1.</hom> {#rAjan#}.
+;---------------------------------------------------
+; <L>125414<pc>7135-3<k1>sinv<k2>*sinv<e>500
+621627 old *√{#sinv#}¦,	{#sindvati#} <ab>v. l.</ab> für √{#ninv#}.
+;
+621627 new *√{#sinv#}¦,	{#sinvati#} <ab>v. l.</ab> für √{#ninv#}.
+;---------------------------------------------------
+; ********************************************************
+; Part 3:     6  [.][)][.,]  
+; ********************************************************
+; <L>59297<pc>3215-1<k1>nirRayabindu<k2>nirRayabindu<e>100
+290863 old {#nirRayabindu#} <lex>m.</lex>, {#nirRayaBAskara#} <lex>m.</lex>, {#nirRayamaYjarI#} <lex>f.</lex>, {#nirRayaratna#} <lex>n.</lex> (<ls>OPP. CAT. 1</ls>.), {#nirRayaratnAkara#} <lex>m.</lex>, {#nirRayasaMgraha#} <lex>m.</lex>, {#nirRayasamudAya#} <lex>m.</lex>, {#nirRayasAra#}, {#nirRayasidDAnta#} <lex>m.</lex>, {#nirRayasinDu#} <lex>f.</lex>, {#nirRayAmfta#} <lex>n.</lex> und {#niRayodDAra#} <lex>m.</lex>¦ Titel von Werken.
+;
+290863 new {#nirRayabindu#} <lex>m.</lex>, {#nirRayaBAskara#} <lex>m.</lex>, {#nirRayamaYjarI#} <lex>f.</lex>, {#nirRayaratna#} <lex>n.</lex> (<ls>OPP. CAT. 1</ls>), {#nirRayaratnAkara#} <lex>m.</lex>, {#nirRayasaMgraha#} <lex>m.</lex>, {#nirRayasamudAya#} <lex>m.</lex>, {#nirRayasAra#}, {#nirRayasidDAnta#} <lex>m.</lex>, {#nirRayasinDu#} <lex>f.</lex>, {#nirRayAmfta#} <lex>n.</lex> und {#niRayodDAra#} <lex>m.</lex>¦ Titel von Werken.
+;---------------------------------------------------
+; <L>72667<pc>4162-3<k1>praBfti<k2>pra/Bfti<e>100
+356770 old <div n="2">— a〉 {%Darbringung%} (einer Spende oder eines Lobliedes.).
+;
+356770 new <div n="2">— a〉 {%Darbringung%} (einer Spende oder eines Lobliedes).
+;---------------------------------------------------
+; <L>79344<pc>4258-3<k1>BAwwakOstuBa<k2>BAwwakOstuBa<e>000
+389582 old {#BAwwakOstuBa#} (<ls>OPP. CAT. 1</ls>.), {#BAwwacintAmaRi#} <lex>m.</lex>, {#BAwwatantra#} <lex>n.</lex>, {#BAwwadinakara#} <lex>m.</lex>, {#°dinakarIya#} <lex>n.</lex> (<ls>OPP. CAT. 1</ls>), {#BAwwadIpikA#} <lex>f.</lex>, {#°dIpikAnyatkAra#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>), {#BAwwapariBAzA#} <lex>f.</lex> (<ls><ab>ebend.</ab></ls>) {#BAwaBAzAprakASikA#} <lex>f.</lex>, {#mBAwwaBAskara#} <lex>m.</lex>, {#BAwwarahasya#} <lex>n.</lex>, {#BAwwaSabdaparicCeda#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>), {#°SabdenduSeKara#} <lex>m.</lex> (<ls><ab>ebend.</ab></ls>), {#BAwwasaMgraha#} <lex>m.</lex> (<ls><ab>ebend.</ab></ls>) {#BAwwasAra#} <lex>m.</lex> (<ls><ab>ebend.</ab></ls>), {#°sArakArikA#} <lex>f.</lex> (<ls><ab>ebend.</ab></ls>) und {#BAwwotpAwana#} <lex>n.</lex> (<ls><ab>ebend.</ab></ls>)¦ Titel von Werken.
+;
+389582 new {#BAwwakOstuBa#} (<ls>OPP. CAT. 1</ls>), {#BAwwacintAmaRi#} <lex>m.</lex>, {#BAwwatantra#} <lex>n.</lex>, {#BAwwadinakara#} <lex>m.</lex>, {#°dinakarIya#} <lex>n.</lex> (<ls>OPP. CAT. 1</ls>), {#BAwwadIpikA#} <lex>f.</lex>, {#°dIpikAnyatkAra#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>), {#BAwwapariBAzA#} <lex>f.</lex> (<ls><ab>ebend.</ab></ls>) {#BAwaBAzAprakASikA#} <lex>f.</lex>, {#mBAwwaBAskara#} <lex>m.</lex>, {#BAwwarahasya#} <lex>n.</lex>, {#BAwwaSabdaparicCeda#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>), {#°SabdenduSeKara#} <lex>m.</lex> (<ls><ab>ebend.</ab></ls>), {#BAwwasaMgraha#} <lex>m.</lex> (<ls><ab>ebend.</ab></ls>) {#BAwwasAra#} <lex>m.</lex> (<ls><ab>ebend.</ab></ls>), {#°sArakArikA#} <lex>f.</lex> (<ls><ab>ebend.</ab></ls>) und {#BAwwotpAwana#} <lex>n.</lex> (<ls><ab>ebend.</ab></ls>)¦ Titel von Werken.
+;---------------------------------------------------
+; <L>95287<pc>5209-2<k1>lakzaRaratna<k2>lakzaRaratna<e>100
+470455 old {#lakzaRaratna#} <lex>n.</lex> (<ls>OPP. CAT. 1</ls>.), {#°mAlikA#} <lex>f.</lex> (<ls>BURNELL, T.</ls>) und {#lakzaRarAjI#} <lex>f.</lex> (<ls><ab>ebend.</ab></ls>)¦ Titel von Werken.
+;
+470455 new {#lakzaRaratna#} <lex>n.</lex> (<ls>OPP. CAT. 1</ls>), {#°mAlikA#} <lex>f.</lex> (<ls>BURNELL, T.</ls>) und {#lakzaRarAjI#} <lex>f.</lex> (<ls><ab>ebend.</ab></ls>)¦ Titel von Werken.
+;---------------------------------------------------
+; <L>101437<pc>6074-1<k1>vAsudevavijaya<k2>vAsudevavijaya<e>100
+503377 old {#vAsudevavijaya#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>.), {#vAsudevatotra#} <lex>n.</lex> (<ls>BURNELL, T.</ls>), {#vAsudevAnuBava#} <lex>m.</lex> und {#vAsudevopanizad#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>)¦ Titel von Werken.
+;
+503377 new {#vAsudevavijaya#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>), {#vAsudevatotra#} <lex>n.</lex> (<ls>BURNELL, T.</ls>), {#vAsudevAnuBava#} <lex>m.</lex> und {#vAsudevopanizad#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>)¦ Titel von Werken.
+;---------------------------------------------------
+; <L>130874<pc>7207-1<k1>sTA<k2>sTA<h>1<e>500
+648775 old <div n="1">— 1〉 <ab>Acc.</ab> (vedisch) <ab>Med.</ab> {%sich aufmachen zu%} oder {%nach, ausgehen nach auf%} (<ab>Acc.</ab> oder <ab>Acc.</ab> mit {#prati#} <ls n="Chr.">39,15</ls>.), {%um zu%} (<ab>Infin.</ab>), {%sich hinziehen zu%} (<ab>Acc.</ab> von Adern).
+;
+648775 new <div n="1">— 1〉 <ab>Acc.</ab> (vedisch) <ab>Med.</ab> {%sich aufmachen zu%} oder {%nach, ausgehen nach auf%} (<ab>Acc.</ab> oder <ab>Acc.</ab> mit {#prati#} <ls n="Chr.">39,15</ls>), {%um zu%} (<ab>Infin.</ab>), {%sich hinziehen zu%} (<ab>Acc.</ab> von Adern).
+;---------------------------------------------------
+; ********************************************************
+; Part 4  23  Misc.  See dhatu/readme
+; ********************************************************
+; ********************************************************
+; ********************************************************
+; <L>427<pc>1005-3<k1>agaRya<k2>agaRya<e>100
+1960 old {#agaRya#}¦ <lex>Adj.</lex> Das. <ls>Spr. 7688</ls>. <ls n="Spr.">7745</ls>.
+;
+1960 new {#agaRya#}¦ <lex>Adj.</lex> <ab>Das.</ab> <ls>Spr. 7688</ls>. <ls n="Spr.">7745</ls>.
+;---------------------------------------------------
+; <L>833<pc>1010-2<k1>aGavinASin<k2>aGavinASin<e>100
+3821 old {#aGavinASin#}¦ <lex>Adj.</lex> das. <ls>Spr. 7853</ls>.
+;
+3821 new {#aGavinASin#}¦ <lex>Adj.</lex> <ab>das.</ab> <ls>Spr. 7853</ls>.
+;---------------------------------------------------
+; <L>843<pc>1010-2<k1>aGAy<k2>aGAy<e>500
+3862 old <div n="p">— Mit {#aBi#} das.
+;
+3862 new <div n="p">— Mit {#aBi#} <ab>das.</ab>
+;---------------------------------------------------
+; <L>1921<pc>1023-1<k1>atimanohara<k2>atimanohara<e>100
+8810 old {#atimanohara#}¦ <lex>Adj.</lex> das. <ls>R. 1,9,55</ls>.
+;
+8810 new {#atimanohara#}¦ <lex>Adj.</lex> <ab>das.</ab> <ls>R. 1,9,55</ls>.
+;---------------------------------------------------
+; <L>24205<pc>2014-3<k1>kapi<k2>kapi/<e>100
+113835 old <div n="1">— 1〉 {%Affe%}. Das. *<lex>f.</lex> {#kapi#} und {#kapI#}.
+;
+113835 new <div n="1">— 1〉 {%Affe%}. <ab>Das.</ab> *<lex>f.</lex> {#kapi#} und {#kapI#}.
+;---------------------------------------------------
+; <L>41016<pc>2243-1<k1>CA<k2>*CA<h>2<e>100
+199567 old <hom>2.</hom> *{#CA#}¦ <lex>m.</lex> (<ab>Nom.</ab> {#CAs#}) {%ein Junges%}. Das. <lex>f.</lex> <ab>s. u.</ab> {#Ca#}.
+;
+199567 new <hom>2.</hom> *{#CA#}¦ <lex>m.</lex> (<ab>Nom.</ab> {#CAs#}) {%ein Junges%}. <ab>Das.</ab> <lex>f.</lex> <ab>s. u.</ab> {#Ca#}.
+;---------------------------------------------------
+; <L>48572<pc>3064-2<k1>daRqagrAha<k2>*daRqagrAha<e>000
+237625 old *{#daRqagrAha#}¦<lex>m.</lex> <is>gaṇa</is> {#revatyAdi#}.
+;
+237625 new *{#daRqagrAha#}¦ <lex>m.</lex> <is>gaṇa</is> {#revatyAdi#}.
+;---------------------------------------------------
+; <L>49948<pc>3085-1<k1>dASASvameDa<k2>dASASvameDa<e>000
+244742 old {#dASASvameDa#}¦<lex>m.</lex> {#°DEH#} <ls>HARIV. 14737</ls> fehlerhaft für {#daSA°#} wie die andere <ab>Ausg.</ab> liest.
+;
+244742 new {#dASASvameDa#}¦ <lex>m.</lex> {#°DEH#} <ls>HARIV. 14737</ls> fehlerhaft für {#daSA°#} wie die andere <ab>Ausg.</ab> liest.
+;---------------------------------------------------
+; <L>51987<pc>3112-1<k1>dfQaBaktika<k2>dfQaBaktika<e>100
+254633 old {#dfQaBaktika#} und {#°Baktimant#} (<ls>R. GORR. 2,11,28</ls>)¦ <lex>Adj.</lex> das.
+;
+254633 new {#dfQaBaktika#} und {#°Baktimant#} (<ls>R. GORR. 2,11,28</ls>)¦ <lex>Adj.</lex> <ab>das.</ab>
+;---------------------------------------------------
+; <L>52178<pc>3114-3<k1>devakzatra<k2>devakzatra<h>2<e>000
+255565 old <hom>2.</hom> {#devakzatra#}¦<lex>m.</lex> <ab>N. pr.</ab> eines Fürsten.
+;
+255565 new <hom>2.</hom> {#devakzatra#}¦ <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten.
+;---------------------------------------------------
+; <L>62448<pc>4013-2<k1>pat<k2>pat<h>1<e>500
+306289 old <div n="1">— 7〉 das. Auge, den Blick {%werfen —, richten auf%} (<ab>Loc.</ab>).
+;
+306289 new <div n="1">— 7〉 <ab>das.</ab> Auge, den Blick {%werfen —, richten auf%} (<ab>Loc.</ab>).
+;---------------------------------------------------
+; <L>68137<pc>4099-3<k1>puru<k2>puru/<e>100
+334986 old <div n="2">— a〉 (nur die Formen {#puru/, pu/rU/, pu/rU/Ri, pu/rU/RAm#} und das. <lex>f.</lex> {#pUrvI/#} in verschiedenen casus) {%viel, reichlich%}. In der späterren Sprache nur am Anfange einiger Composita. <lex>Adv.</lex> {#puru/#} und {#pu/rU/#} {%viel, oft, sehr%} (auch mit einem <ab>Compar.</ab> und <ab>Superl.</ab>).
+;
+334986 new <div n="2">— a〉 (nur die Formen {#puru/, pu/rU/, pu/rU/Ri, pu/rU/RAm#} und <ab>das.</ab> <lex>f.</lex> {#pUrvI/#} in verschiedenen casus) {%viel, reichlich%}. In der späterren Sprache nur am Anfange einiger Composita. <lex>Adv.</lex> {#puru/#} und {#pu/rU/#} {%viel, oft, sehr%} (auch mit einem <ab>Compar.</ab> und <ab>Superl.</ab>).
+;---------------------------------------------------
+; <L>68482<pc>4104-1<k1>puz<k2>puz<h>1<e>500
+336568 old <div n="1">— 5〉 bisweilen verwechselt mit {#puzpy#}; <ab>s.</ab> das.
+;
+336568 new <div n="1">— 5〉 bisweilen verwechselt mit {#puzpy#}; <ab>s.</ab> <ab>das.</ab>
+;---------------------------------------------------
+; <L>72468<pc>4159-3<k1>prapARika<k2>prapARika<e>100
+355739 old {#prapARika#}¦ <lex>m.</lex> das. <ls>CARAKA. 5,8</ls>.
+;
+355739 new {#prapARika#}¦ <lex>m.</lex> <ab>das.</ab> <ls>CARAKA. 5,8</ls>.
+;---------------------------------------------------
+; <L>76880<pc>4223-2<k1>bAhAdura<k2>bAhAdura<e>100
+377536 old {#bAhAdura#}¦ <lex>m.</lex> als <ab>Beiw.</ab> von neuerer Zeit so <ab>v. a.</ab> {%Held%} (<lang n="arabic">بهاتور</lang>, <lang n="russian">богатырь</lang>).
+;
+377536 new {#bAhAdura#}¦ <lex>m.</lex> als <ab>Beiw.</ab> von neuerer Zeit so <ab>v. a.</ab> {%Held%} (<lang n="arabic">بهاتور</lang>, <lang n="mongolian">ᠪᠠᠭᠠᠲᠦᠷ???</lang>, <lang n="russian">богатырь</lang>).
+;---------------------------------------------------
+; <L>79617<pc>4262-3<k1>BAvay<k2>BAvay<e>100
+390946 old <div n="1">— 1〉 <ab>Caus.</ab> von <hom>1.</hom> {#BU#}; <ab>s.</ab> das.
+;
+390946 new <div n="1">— 1〉 <ab>Caus.</ab> von <hom>1.</hom> {#BU#}; <ab>s.</ab> <ab>das.</ab>
+;---------------------------------------------------
+; <L>89314<pc>5113-3<k1>ya<k2>ya/<h>1<e>500
+439876 old <div n="1">— 1〉 {%wer, welcher%}. {#ya/dDa vo ba/lam#} mitten in einem Satze so <ab>v. a.</ab> {%pro robore vestro%}. Die correlativen Demonstrative sind; {#sa/#} (der Einfachheit wegen setze ich hier und in der Folge stets nur den <ab>Nomin.</ab> <ab>Sg.</ab> <lex>m.</lex>), {#sya/#}; (<ls>ṚV. 1,52,1. 61,15. 63,8. 178,1. 8,10,3</ls>), {#eza/H#}; {#ayam#}, {#asO#}, {#sa ezaH#}; {#eza/ sya/H#}; (<ls>ṚV. 1,87,5. 9,108,4. 5</ls>), {#ayaM saH#}, {#so 'yam#} (<ls n="Chr.">250,8</ls>), {#tAdfSaH#}, {#etAvAn#} (<ls n="Chr.">191,3</ls>), {#Idfk#}, {#taTA#} (in Correlation mit {#yad#} {%was%}). Das erwartete Demonstrativ fehlt bisweilen (<ls>GAUT. 12,1. 19,9. 20,15</ls>), andererseits aber auch das Relativ. Zwei und mehrere Relativa in einem und demselben Satze ({#yasminnahani yadahaH#}). Ein oder mehrere Subjecte werden durch das <ab>Relat.</ab> zu einem Satze verbunden und dadurch hervorgehoben ({#yastvaM kaTaM vetTa#} so <ab>v. a.</ab> {%woher weisst du Etwas?%} {#yacca kAmasuKaM loke yacca divyaM mahatsuKam — ete#}). Nicht selten wird ein auf diese Weise erweitertes Subject andern Subjecten angereiht, ohne dass ein besonderer Nachdruck darauf läge, aus rein metrischen Rücksichten ({#anDo#} {#jaqaH#} {#pIWasarpI#} {#saptatyA#} {#sTaviraSca#} {#yaH#} statt des einfachen {#sTaviraSca#}). Auffallender ist, dass sogar ein Object in einen solchen relativen Satz aufgelöst und andern Objecten angereiht wird ({#ye#} {#ca#} {#mAnuzAH#} = {#mAnuzAMSca#}). Das auf solche Weise ein Subject hervorvorhebende <ab>Relat.</ab> erscheint ohne Rücksicht auf Genus und Numerus des Subjects häufig im <ab>Nomin.</ab> <ab>Sg.</ab> <lex>n.</lex> ({#yajYa#} {#u#} {#ha#} {#vA#} {#eza#} {#pratyakzaM#} {#yadbrahmA#}). Ein solches {#ya/d#} lässt sich durch {%was — betrifft%} wiedergeben. In dem Satze {#ta/to#} {#devA/#} {#e/taM#} {#va/jraM#} {#dadfSuryadapa/H#} steht {#ya/d#} vor einem <ab>Acc.</ab> und bedeutet so <ab>v. a.</ab> {%nämlich%}. {#yad#} nach einer directen, mit {#iti#} schliessenden Rede lässt sich durch {%beim%} •[Page5114-1] •{%Gedanken „—“%} übersetzen (<ls n="Chr.">304,1</ls>. <ls n="Chr. 304,">12</ls>. <ls n="Chr.">323,19</ls>). Das. <ab>Relat.</ab> verbindet sich gern mit andern <ab>Pronomm.</ab>: {#ya/stva/m#}, {#yo/ 'ya/m#}, {#yaH saH#}, {#ya eza/H#}, {#yo'sO#}, {#sa/ ya/H#}, {#asO yaH#}.
+;
+439876 new <div n="1">— 1〉 {%wer, welcher%}. {#ya/dDa vo ba/lam#} mitten in einem Satze so <ab>v. a.</ab> {%pro robore vestro%}. Die correlativen Demonstrative sind; {#sa/#} (der Einfachheit wegen setze ich hier und in der Folge stets nur den <ab>Nomin.</ab> <ab>Sg.</ab> <lex>m.</lex>), {#sya/#}; (<ls>ṚV. 1,52,1. 61,15. 63,8. 178,1. 8,10,3</ls>), {#eza/H#}; {#ayam#}, {#asO#}, {#sa ezaH#}; {#eza/ sya/H#}; (<ls>ṚV. 1,87,5. 9,108,4. 5</ls>), {#ayaM saH#}, {#so 'yam#} (<ls n="Chr.">250,8</ls>), {#tAdfSaH#}, {#etAvAn#} (<ls n="Chr.">191,3</ls>), {#Idfk#}, {#taTA#} (in Correlation mit {#yad#} {%was%}). Das erwartete Demonstrativ fehlt bisweilen (<ls>GAUT. 12,1. 19,9. 20,15</ls>), andererseits aber auch das Relativ. Zwei und mehrere Relativa in einem und demselben Satze ({#yasminnahani yadahaH#}). Ein oder mehrere Subjecte werden durch das <ab>Relat.</ab> zu einem Satze verbunden und dadurch hervorgehoben ({#yastvaM kaTaM vetTa#} so <ab>v. a.</ab> {%woher weisst du Etwas?%} {#yacca kAmasuKaM loke yacca divyaM mahatsuKam — ete#}). Nicht selten wird ein auf diese Weise erweitertes Subject andern Subjecten angereiht, ohne dass ein besonderer Nachdruck darauf läge, aus rein metrischen Rücksichten ({#anDo#} {#jaqaH#} {#pIWasarpI#} {#saptatyA#} {#sTaviraSca#} {#yaH#} statt des einfachen {#sTaviraSca#}). Auffallender ist, dass sogar ein Object in einen solchen relativen Satz aufgelöst und andern Objecten angereiht wird ({#ye#} {#ca#} {#mAnuzAH#} = {#mAnuzAMSca#}). Das auf solche Weise ein Subject hervorvorhebende <ab>Relat.</ab> erscheint ohne Rücksicht auf Genus und Numerus des Subjects häufig im <ab>Nomin.</ab> <ab>Sg.</ab> <lex>n.</lex> ({#yajYa#} {#u#} {#ha#} {#vA#} {#eza#} {#pratyakzaM#} {#yadbrahmA#}). Ein solches {#ya/d#} lässt sich durch {%was — betrifft%} wiedergeben. In dem Satze {#ta/to#} {#devA/#} {#e/taM#} {#va/jraM#} {#dadfSuryadapa/H#} steht {#ya/d#} vor einem <ab>Acc.</ab> und bedeutet so <ab>v. a.</ab> {%nämlich%}. {#yad#} nach einer directen, mit {#iti#} schliessenden Rede lässt sich durch {%beim%} •[Page5114-1] •{%Gedanken „—“%} übersetzen (<ls n="Chr.">304,1</ls>. <ls n="Chr. 304,">12</ls>. <ls n="Chr.">323,19</ls>). <ab>Das.</ab> <ab>Relat.</ab> verbindet sich gern mit andern <ab>Pronomm.</ab>: {#ya/stva/m#}, {#yo/ 'ya/m#}, {#yaH saH#}, {#ya eza/H#}, {#yo'sO#}, {#sa/ ya/H#}, {#asO yaH#}.
+;---------------------------------------------------
+; <L>95089<pc>5206-1<k1>romodgati<k2>romodgati<e>100
+469387 old {#romodgati#}¦ <lex>f.</lex> das.
+;
+469387 new {#romodgati#}¦ <lex>f.</lex> <ab>das.</ab>
+;---------------------------------------------------
+; <L>95308<pc>5209-3<k1>lakzay<k2>lakzay<e>500
+470574 old <div n="1">— 1〉 das.
+;
+470574 new <div n="1">— 1〉 <ab>das.</ab>
+;---------------------------------------------------
+; <L>111442<pc>6221-2<k1>SAtakumBIya<k2>SAtakumBIya<e>100
+553205 old {#SAtakumBIya#}¦ <lex>Adj.</lex> das. <ls>Ind. St. 15,434</ls>. <ls>DAMAYANTĪK. 2,24</ls>.
+;
+553205 new {#SAtakumBIya#}¦ <lex>Adj.</lex> <ab>das.</ab> <ls>Ind. St. 15,434</ls>. <ls>DAMAYANTĪK. 2,24</ls>.
+;---------------------------------------------------
+; <L>111991<pc>6229-1<k1>SAsanadevI<k2>SAsanadevI<e>100
+555954 old {#SAsanadevI#}¦ <lex>f.</lex> das. <ls>HEM. PAR. 9,93</ls>.
+;
+555954 new {#SAsanadevI#}¦ <lex>f.</lex> <ab>das.</ab> <ls>HEM. PAR. 9,93</ls>.
+;---------------------------------------------------
+; <L>132031<pc>7231-3<k1>svaj<k2>svaj<e>500
+655034 old <div n="p">— Mit {#aBi#}, {#°zvajate#} das. <ls>ŚIŚ. 13,10</ls>.
+;
+655034 new <div n="p">— Mit {#aBi#}, {#°zvajate#} <ab>das.</ab> <ls>ŚIŚ. 13,10</ls>.
+;---------------------------------------------------
+; <L>135485<pc>7284-2<k1>hEma<k2>hEma<h>3<e>100
+672671 old <div n="2">— a〉 das.
+;
+672671 new <div n="2">— a〉 <ab>das.</ab>
+;---------------------------------------------------
