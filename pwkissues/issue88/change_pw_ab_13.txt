@@ -4,7 +4,7 @@
 ; Part 1: 108  resolve (X) differences between cdsl and ab versions
 ; Part 2:   3  resolve diffs in <lex>X</lex>
 ; Part 3:   0  [.]</X>[.] -> .</X>  
-; Part 4:  46  Misc. changes (4a,4b,4c). See readme
+; Part 4:  37  Misc. changes (4a,4b,4c). See readme
 ; Part 5:  19  resolve diffs in <div> tag
 ; ********************************************************
 ; Part 1: 108  resolve (X) differences between cdsl and ab versions
@@ -758,7 +758,7 @@
 663907 new {#haritASmaka#}¦ <lex>n.</lex> {%Türkis%} <ls>HEMĀDRI 1,488,7</ls> (vielleicht {#°kaM#} zu lesen).
 ;---------------------------------------------------
 ; ********************************************************
-; Part 5:  303  resolve diffs in <div> tag
+; Part 5:  19  resolve diffs in <div> tag
 ; ********************************************************
 ; <L>1095<pc>1013-2<k1>ac<k2>ac<e>500
 5046 old <div n="p">— Mit •[Page1013-3] •{#upani#} {%hinbiegen%} <ls>ŚAT. BR. 11,4,2,4</ls>.
