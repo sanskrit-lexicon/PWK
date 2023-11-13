@@ -1,0 +1,1560 @@
+<bot> Daucus Carota</bot> 1
+<bot>Abelmoschus Esculentus</bot> 10
+<bot>Abelmoschus esculentus</bot> 2
+<bot>Abrus Precatorius</bot> 27
+<bot>Abrus precatorius</bot> 32
+<bot>Abrus</bot> 4
+<bot>Acacia arabica</bot> 6
+<bot>Acacia Arabica</bot> 12
+<bot>Acacia Catechu</bot> 45
+<bot>Acacia Concinna</bot> 3
+<bot>Acacia Farnesiana</bot> 1
+<bot>Acacia farnesiana</bot> 1
+<bot>Acacia Sirissa</bot> 37
+<bot>Acacia Suma</bot> 1
+<bot>Acacia</bot> 7
+<bot>Acampe Papillosa</bot> 1
+<bot>Achyranthes Aspera</bot> 33
+<bot>Achyranthes aspera</bot> 12
+<bot>Achyranthes Atropurpurea</bot> 3
+<bot>Achyranthes Triandra</bot> 7
+<bot>Achyranthes</bot> 12
+<bot>Aconitifolius</bot> 1
+<bot>Aconitum Ferox</bot> 10
+<bot>Aconitum ferox</bot> 2
+<bot>Aconitum Heterophyllum</bot> 1
+<bot>Acorus Calamus</bot> 9
+<bot>Acutangula</bot> 1
+<bot>acutangula</bot> 1
+<bot>Adelia Nereifolia</bot> 2
+<bot>Adenanthera pavonina</bot> 1
+<bot>Adhatoda Vasica</bot> 2
+<bot>Adhatoda Vasika</bot> 5
+<bot>Adhatoda</bot> 2
+<bot>Aegle Marmelos</bot> 44
+<bot>Aegle</bot> 1
+<bot>Aeschynomene Grandiflora</bot> 2
+<bot>Aeschynomene Sesban</bot> 1
+<bot>Aeschynomene</bot> 1
+<bot>Agallochum</bot> 59
+<bot>Agasti Grandiflora</bot> 1
+<bot>Agasti Grandiflorum</bot> 1
+<bot>Agasti</bot> 5
+<bot>Agathotes Chirayta</bot> 7
+<bot>Agati Grandiflora</bot> 28
+<bot>Agati grandiflora</bot> 2
+<bot>Aglaia Odorata</bot> 4
+<bot>Aglaia Roxburghiana</bot> 1
+<bot>Ajwaen</bot> 3
+<bot>Alangium decapetalum</bot> 2
+<bot>Alangium Decapetalum</bot> 2
+<bot>Alangium Hexapetalum</bot> 20
+<bot>Alangium hexapetalum</bot> 6
+<bot>Alata</bot> 2
+<bot>alata</bot> 1
+<bot>Aletris hyacinthoides</bot> 1
+<bot>Aletris Hyacinthoides</bot> 1
+<bot>Aleurites Triloba</bot> 1
+<bot>Alhagi Maurorum</bot> 46
+<bot>Alhagi</bot> 8
+<bot>Allium Ascalonicum</bot> 4
+<bot>Allium Cepa</bot> 1
+<bot>Aloe Indica</bot> 7
+<bot>Aloe indica</bot> 1
+<bot>Aloe Perfoliata</bot> 11
+<bot>Aloe perfoliata</bot> 4
+<bot>Aloe</bot> 11
+<bot>Aloes Perfoliata</bot> 2
+<bot>Alpinia Galanga</bot> 4
+<bot>Alpinia nutans</bot> 1
+<bot>Alpinia Nutans</bot> 5
+<bot>Alstonia Scholaris</bot> 25
+<bot>Alstonia scholaris</bot> 6
+<bot>Alstonia</bot> 1
+<bot>Amaranth</bot> 6
+<bot>Amaranthus Oleraceus</bot> 4
+<bot>Amaranthus Polygamus</bot> 2
+<bot>Amaranthus polygamus</bot> 2
+<bot>Amaranthus polygonoides</bot> 4
+<bot>Amaranthus Polygonoides</bot> 4
+<bot>Amaranthus</bot> 1
+<bot>Amaryllis zeylanica</bot> 1
+<bot>Amomum Anthorhizon</bot> 1
+<bot>Amomum Anthorrhiza</bot> 1
+<bot>Amomum</bot> 1
+<bot>amomum</bot> 2
+<bot>Amoora Rohitaka</bot> 2
+<bot>Amorphophallus Campanulatus</bot> 17
+<bot>Amphidonax Karka</bot> 7
+<bot>Amyris Agallocha</bot> 5
+<bot>Amyris Agallochum</bot> 1
+<bot>Anacardium officinarum</bot> 1
+<bot>Anas Casarca</bot> 12
+<bot>Andersonia Rohitaka</bot> 21
+<bot>Andersonia Rohitika</bot> 1
+<bot>Andrographis paniculata</bot> 1
+<bot>Andrographis Paniculata</bot> 3
+<bot>Andropogon Acicularis</bot> 1
+<bot>Andropogon Aciculatus</bot> 15
+<bot>Andropogon aciculatus</bot> 5
+<bot>Andropogon Auriculatus</bot> 1
+<bot>Andropogon bicolor</bot> 4
+<bot>Andropogon Bicolor</bot> 5
+<bot>Andropogon Muricatum</bot> 1
+<bot>Andropogon Muricatus</bot> 47
+<bot>Andropogon muricatus</bot> 3
+<bot>Andropogon Saccharatus</bot> 3
+<bot>Andropogon Schaenunthes</bot> 1
+<bot>Andropogon Schoenanthus</bot> 17
+<bot>Andropogon Serratum</bot> 3
+<bot>Andropogon Serratus</bot> 3
+<bot>Andropogon serratus</bot> 3
+<bot>Andropogon</bot> 21
+<bot>Anethum graveolens</bot> 3
+<bot>Anethum Graveolens</bot> 2
+<bot>Anethum Panmori</bot> 7
+<bot>Anethum Panmorium</bot> 4
+<bot>Anethum Sowa Roxb.</bot> 2
+<bot>Anethum Sowa</bot> 35
+<bot>Anethuni Sowa</bot> 1
+<bot>Anisum</bot> 2
+<bot>Annona Reticulata</bot> 1
+<bot>Annona Squamosa</bot> 2
+<bot>Anogeissus Latifolia</bot> 6
+<bot>Anona Reticulata</bot> 3
+<bot>Anona reticulata</bot> 2
+<bot>Anthemis Pyrethrum</bot> 2
+<bot>Anthericum Juberosum</bot> 1
+<bot>Anthericum Tuberosum</bot> 14
+<bot>Antilope picta</bot> 1
+<bot>Antilope Picta</bot> 1
+<bot>Antiquorum</bot> 3
+<bot>Apium Involucratum</bot> 4
+<bot>Apium involucratum</bot> 1
+<bot>Aquila Agallocha</bot> 1
+<bot>Aquilaria Agallocha</bot> 1
+<bot>arabicus</bot> 3
+<bot>Arabicus</bot> 36
+<bot>Arborea</bot> 1
+<bot>Ardea nivea</bot> 8
+<bot>Ardea</bot> 3
+<bot>Ardisia Humilis</bot> 1
+<bot>Ardisia humilis</bot> 2
+<bot>Ardisia solanacea</bot> 1
+<bot>Ardisia Solanacea</bot> 6
+<bot>Areca Catechu</bot> 4
+<bot>Areca Faufel or Catechu</bot> 2
+<bot>Areca Faufel</bot> 2
+<bot>Areca Triandra</bot> 4
+<bot>Areca</bot> 25
+<bot>Argemone Mexicana</bot> 1
+<bot>Argentea</bot> 10
+<bot>Argyreia Argenteia</bot> 1
+<bot>Argyreia Speciosa or Argentea</bot> 1
+<bot>Argyreia Speciosa</bot> 13
+<bot>Argyreia speciosa</bot> 4
+<bot>Aristolochia Indica</bot> 4
+<bot>Arjuna</bot> 1
+<bot>Aroidea</bot> 1
+<bot>Aromatica</bot> 2
+<bot>Artemisia Abrotanum</bot> 2
+<bot>Artemisia indica</bot> 7
+<bot>Artemisia Indica</bot> 13
+<bot>Artemisia Sternutatoria</bot> 2
+<bot>Artemisia sternutatoria</bot> 4
+<bot>Artemisia Vulgaris</bot> 6
+<bot>Artemisia vulgaris</bot> 2
+<bot>Artemisia</bot> 7
+<bot>Artocarpus Integrifolia</bot> 12
+<bot>Artocarpus integrifolia</bot> 1
+<bot>Artocarpus Lacucha Roxb.</bot> 1
+<bot>Artocarpus Lacucha</bot> 19
+<bot>Artocarpus Lakuca</bot> 3
+<bot>Arum Campanulatum</bot> 8
+<bot>Arum Colocasia</bot> 8
+<bot>Arum Indicum</bot> 5
+<bot>Arum Macrorrhizum</bot> 1
+<bot>Arum orixense</bot> 1
+<bot>Arum</bot> 13
+<bot>Arundo Bengalensis</bot> 6
+<bot>Arundo Karka</bot> 1
+<bot>Arundo tibialis</bot> 1
+<bot>Arundo Tibialis</bot> 3
+<bot>Asa Fetida</bot> 3
+<bot>Asa Foetida</bot> 32
+<bot>Asa foetida</bot> 13
+<bot>asa</bot> 1
+<bot>Ascalonicum</bot> 1
+<bot>Asclepia rosea</bot> 1
+<bot>Asclepias Acida</bot> 3
+<bot>Asclepias Curassavica</bot> 1
+<bot>Asclepias Echinata</bot> 1
+<bot>Asclepias Geminata</bot> 1
+<bot>Asclepias gigantea</bot> 2
+<bot>Asclepias Gigantea</bot> 2
+<bot>Asclepias Lactifera</bot> 1
+<bot>Asclepias Pseudosarsa</bot> 2
+<bot>Asclepias Rosea Roxb.</bot> 2
+<bot>Asclepias Rosea</bot> 1
+<bot>Asclepias</bot> 10
+<bot>Asoka</bot> 1
+<bot>Asparagus racemosa</bot> 1
+<bot>Asparagus Racemosus Willd.</bot> 1
+<bot>Asparagus Racemosus</bot> 64
+<bot>Asparagus racemosus</bot> 3
+<bot>Asparagus</bot> 1
+<bot>Aspera</bot> 1
+<bot>Asteracantha Longifolia</bot> 47
+<bot>Asteracantha longifolia</bot> 10
+<bot>Asteracantha</bot> 3
+<bot>Asthmatica</bot> 1
+<bot>Astonia Scholaris</bot> 1
+<bot>Auriculatum</bot> 1
+<bot>Austriaca</bot> 1
+<bot>Autographis Paniculata</bot> 1
+<bot>Avaria Longifolia</bot> 1
+<bot>Averrhoa Acida</bot> 4
+<bot>Averrhoa Carambola</bot> 18
+<bot>Azadirachta Indica</bot> 30
+<bot>Azadirachta indica</bot> 4
+<bot>Balanites Roxburghii</bot> 2
+<bot>Bambusa Spinosa Hamilt. Roxb.</bot> 1
+<bot>Bambusa Spinosa</bot> 6
+<bot>Banyan</bot> 7
+<bot>Barleria Caerulea</bot> 7
+<bot>Barleria caerulea</bot> 2
+<bot>Barleria Caeruli</bot> 1
+<bot>Barleria Cristata</bot> 9
+<bot>Barleria cristata</bot> 2
+<bot>Barleria Longifolia</bot> 4
+<bot>Barleria longifolia</bot> 1
+<bot>Barleria Prionitis</bot> 3
+<bot>Barleria</bot> 21
+<bot>Barringtonia Acutangula Gaertn.</bot> 2
+<bot>Barringtonia Acutangula</bot> 14
+<bot>Barringtonia acutangula</bot> 1
+<bot>Barringtonia</bot> 1
+<bot>Basella Cordifolia</bot> 6
+<bot>Basella Lucida</bot> 3
+<bot>Basella Rubra</bot> 4
+<bot>Basella</bot> 2
+<bot>Basilicum Pilosum Benth.</bot> 1
+<bot>Basilicum</bot> 3
+<bot>Bassia Latifolia</bot> 26
+<bot>Bassia latifolia</bot> 2
+<bot>Bassia</bot> 8
+<bot>Batatas edulis</bot> 3
+<bot>Batatas Edulis</bot> 3
+<bot>Batatas Paniculata</bot> 22
+<bot>Batatas paniculata</bot> 3
+<bot>Batatus paniculata</bot> 1
+<bot>Bauhinea Purpurea</bot> 1
+<bot>Bauhinia candida</bot> 1
+<bot>Bauhinia Candida</bot> 1
+<bot>Bauhinia Tomentosa</bot> 6
+<bot>Bauhinia tomentosa</bot> 1
+<bot>Bauhinia Variegata Purpurescens</bot> 1
+<bot>Bauhinia Variegata</bot> 21
+<bot>Bauhinia variegata</bot> 16
+<bot>Beleric Myrobalan</bot> 3
+<bot>beleric myrobalan</bot> 1
+<bot>Bellerica</bot> 1
+<bot>Bengalensis</bot> 1
+<bot>Benincasa cerifera</bot> 1
+<bot>Benincasa Cerifera</bot> 4
+<bot>Beninkasa Cerifera</bot> 7
+<bot>Beninkasa cerifera</bot> 5
+<bot>benjamin</bot> 4
+<bot>Benjamin</bot> 1
+<bot>benzoin</bot> 28
+<bot>Berberis Asiatica</bot> 1
+<bot>Beta bengalensis</bot> 5
+<bot>Beta Bengalensis</bot> 9
+<bot>Betula Bhojpatra</bot> 23
+<bot>Betula</bot> 2
+<bot>Bhang</bot> 1
+<bot>Bhojpatra</bot> 2
+<bot>Bicchati</bot> 1
+<bot>Bignonia Chelonioides</bot> 4
+<bot>Bignonia Indica</bot> 23
+<bot>Bignonia indica</bot> 2
+<bot>Bignonia Suaveolens Roxb.</bot> 1
+<bot>Bignonia Suaveolens</bot> 26
+<bot>Bignonia suaveolens</bot> 29
+<bot>Bignonia</bot> 11
+<bot>Bishdori</bot> 1
+<bot>Blumea Lacera</bot> 3
+<bot>Blumea lacera</bot> 3
+<bot>Blyxa Octandra Rich.</bot> 1
+<bot>Blyxa Octandra</bot> 18
+<bot>Blyxa octandra</bot> 3
+<bot>Blyxa Saivala</bot> 1
+<bot>Blyxa</bot> 1
+<bot>Boerhavia Diffusa</bot> 1
+<bot>Boerhavia Erecta Rosea</bot> 1
+<bot>Boerhavia erecta</bot> 1
+<bot>Boerhavia procumbens</bot> 1
+<bot>Boerhavia Procumbens</bot> 21
+<bot>Boerhavia</bot> 2
+<bot>Bombax Heptaphyllum</bot> 18
+<bot>Bombax heptaphyllum</bot> 2
+<bot>Bombax Heptaphyllus</bot> 1
+<bot>Bombyx Heptaphylum</bot> 1
+<bot>Borassus Flabelliformis</bot> 5
+<bot>Borassus flabelliformis</bot> 1
+<bot>Boswellia Serrata</bot> 3
+<bot>Boswellia serrata</bot> 1
+<bot>Boswellia Thurifera Roxb.</bot> 1
+<bot>Boswellia thurifera</bot> 14
+<bot>Boswellia Thurifera</bot> 23
+<bot>Boswellia</bot> 1
+<bot>Bryonia Grandis</bot> 1
+<bot>Buchanania Latifolia</bot> 25
+<bot>Buchanania latifolia</bot> 5
+<bot>Butea Frondosa</bot> 49
+<bot>Butea frondosa</bot> 11
+<bot>Butea</bot> 2
+<bot>Cactus Indicus</bot> 4
+<bot>Cactus Opuntia</bot> 4
+<bot>Cactus opuntia</bot> 1
+<bot>Cadamba</bot> 1
+<bot>Caesalpina Bonducella</bot> 6
+<bot>Caesalpina Sappan</bot> 15
+<bot>Caesalpina</bot> 1
+<bot>Caesalpinia Bonducella</bot> 1
+<bot>Caesalpinia Sappan</bot> 3
+<bot>Cajanus Indicus Spreng.</bot> 1
+<bot>Cajanus Indicus</bot> 4
+<bot>Cajanus indicus</bot> 2
+<bot>Calamus Fascicularis</bot> 1
+<bot>Calamus fasciculatus</bot> 1
+<bot>Calamus Fasciculatus</bot> 3
+<bot>Calamus Rotang</bot> 31
+<bot>Calamus</bot> 2
+<bot>Calanius Rotang</bot> 1
+<bot>Calladium</bot> 1
+<bot>Calophyllum Inophyllum</bot> 1
+<bot>Calosanthes Indica</bot> 17
+<bot>Calosanthes indica</bot> 2
+<bot>Calosanthes</bot> 1
+<bot>Calotropis Gigantea Alba</bot> 5
+<bot>Calotropis Gigantea</bot> 38
+<bot>Calotropis gigantea</bot> 7
+<bot>Calotropis</bot> 10
+<bot>Campaka</bot> 15
+<bot>Canna Indica</bot> 1
+<bot>Cannabis Sativa</bot> 5
+<bot>Canscora Decussata</bot> 1
+<bot>Capparis Aphylla</bot> 8
+<bot>Capparis aphylla</bot> 9
+<bot>Capparis Divaricata</bot> 2
+<bot>Capparis Sepiaria</bot> 8
+<bot>Capparis sepiaria</bot> 1
+<bot>Capparis Spinosa</bot> 3
+<bot>Capparis spinosa</bot> 1
+<bot>Capparis trifoliata</bot> 4
+<bot>Capparis Trifoliata</bot> 2
+<bot>Capparis Zeylanica</bot> 1
+<bot>Cardia Latifolia</bot> 1
+<bot>Cardiospermum Halicacabum</bot> 39
+<bot>Cardiospermum halicacabum</bot> 2
+<bot>Careya arborea</bot> 1
+<bot>Careya Arborea</bot> 9
+<bot>Carissa Carandas</bot> 22
+<bot>Carpopogon Pruriens Roxb.</bot> 1
+<bot>Carpopogon Pruriens</bot> 22
+<bot>Carpopogon pruriens</bot> 5
+<bot>Carthamus Tinctoria</bot> 2
+<bot>Carthamus Tinctorius</bot> 7
+<bot>Carthamus tinctorius</bot> 2
+<bot>Carum Carui</bot> 1
+<bot>Carum Carvi</bot> 1
+<bot>Caryota Urens</bot> 6
+<bot>Cassia Alata</bot> 8
+<bot>Cassia auriculata</bot> 3
+<bot>Cassia Esculenta</bot> 1
+<bot>Cassia Fistula</bot> 19
+<bot>Cassia fistula</bot> 2
+<bot>Cassia Senna</bot> 2
+<bot>Cassia Sophora</bot> 10
+<bot>Cassia Thora</bot> 4
+<bot>Cassia Tora</bot> 18
+<bot>Cassia</bot> 17
+<bot>cassia</bot> 2
+<bot>Cassyta Filiformis</bot> 4
+<bot>Cassyta filiformis</bot> 1
+<bot>Catechu</bot> 7
+<bot>Cathartocarpus Fistula</bot> 17
+<bot>Cathartocarpus fistula</bot> 6
+<bot>Cathartocarpus</bot> 5
+<bot>Cavia Alata</bot> 6
+<bot>Cedrela Toona</bot> 18
+<bot>Celastrus Paniculatus</bot> 1
+<bot>Celastrus</bot> 1
+<bot>Celosia cristata</bot> 4
+<bot>Celosia Cristata</bot> 13
+<bot>Celsia coromandelina</bot> 2
+<bot>Celtis orientalis</bot> 4
+<bot>Celtis Orientalis</bot> 1
+<bot>Centropus Pyropterus</bot> 1
+<bot>Cerasus Puddum</bot> 13
+<bot>Cesalpinia Banducella</bot> 2
+<bot>Champaka</bot> 1
+<bot>Chenopodium album</bot> 5
+<bot>Chenopodium Album</bot> 9
+<bot>Chenopodium</bot> 13
+<bot>Chloroxylon Swietenia</bot> 3
+<bot>Chrysanthemum Indicum</bot> 1
+<bot>Chrysopogon Acicularis</bot> 1
+<bot>Chrysopogon aciculatus</bot> 3
+<bot>Cicca</bot> 1
+<bot>Cicer Arietinum</bot> 7
+<bot>Cicer Lens</bot> 2
+<bot>cicer</bot> 1
+<bot>Cissampelos Hexandra</bot> 3
+<bot>Cissampelos hexandra</bot> 1
+<bot>Cissus pedata</bot> 9
+<bot>Cissus Pedata</bot> 5
+<bot>Cissus quadrangularis</bot> 2
+<bot>Citrillus Colocynthis</bot> 1
+<bot>Citrina</bot> 9
+<bot>Citrus Acida</bot> 3
+<bot>Citrus Auraritium</bot> 1
+<bot>Citrus Decumana</bot> 2
+<bot>Citrus Medica</bot> 14
+<bot>Cleome Felina</bot> 5
+<bot>Cleome felina</bot> 1
+<bot>Cleome Pentaphylla</bot> 2
+<bot>Cleome Viscosa</bot> 1
+<bot>Cleome</bot> 1
+<bot>Clerodeesdrum phlomoides</bot> 2
+<bot>Clerodendron Phlomoides</bot> 1
+<bot>Clerodendron Siphonanthus</bot> 1
+<bot>Clerodendrum phlomoides</bot> 3
+<bot>Clerodendrum Phlomoides</bot> 10
+<bot>Clerodendrum Siphonanthus</bot> 10
+<bot>Clerodendrum siphonanthus</bot> 2
+<bot>Clerodendrum Siphonantus</bot> 30
+<bot>Clitoria Ternatea</bot> 39
+<bot>Clitoria ternatea</bot> 4
+<bot>Clypea Hernandifolia</bot> 24
+<bot>Clypea hernandifolia</bot> 6
+<bot>Cnidium Diffusum</bot> 1
+<bot>Coccinia Grandis</bot> 4
+<bot>Coccinia grandis</bot> 1
+<bot>Cocculus Cordifolius</bot> 33
+<bot>Cocculus cordifolius</bot> 15
+<bot>Cocculus indicus</bot> 1
+<bot>Cocculus tomentosus</bot> 3
+<bot>Cocculus Tomentosus</bot> 5
+<bot>Cocculus</bot> 6
+<bot>Coccus cordifolius</bot> 1
+<bot>Coelogyne</bot> 1
+<bot>Coix Barbata</bot> 6
+<bot>Coix barbata</bot> 8
+<bot>Coleus Aniboinicus</bot> 1
+<bot>Coleus Scutellarioides</bot> 2
+<bot>Colocasia antiquorum</bot> 3
+<bot>Colocasia Antiquorum</bot> 4
+<bot>Colocynth</bot> 6
+<bot>Coloquintida</bot> 2
+<bot>coloquintida</bot> 13
+<bot>Colosanthes Indica Bl.</bot> 1
+<bot>Columba Hariola</bot> 2
+<bot>Commelina Bengalensis</bot> 1
+<bot>Commelina Salicifolia</bot> 8
+<bot>Commelina salicifolia</bot> 3
+<bot>Convolvulus Argenteus</bot> 7
+<bot>Convolvulus argenteus</bot> 1
+<bot>Convolvulus Paniculatus</bot> 3
+<bot>Convolvulus Repens</bot> 2
+<bot>Convolvulus repens</bot> 4
+<bot>Convolvulus Turpethum</bot> 11
+<bot>Convolvulus</bot> 4
+<bot>Conyza lacera</bot> 1
+<bot>Conyza Lacera</bot> 2
+<bot>Coraya</bot> 1
+<bot>Corchorus capsularis</bot> 1
+<bot>Corchorus Capsularis</bot> 1
+<bot>Corchorus Olitorius</bot> 5
+<bot>Cordia latifolia</bot> 1
+<bot>Cordia Latifolia</bot> 8
+<bot>Cordia Myxa Latifolia</bot> 1
+<bot>Cordia Myxa</bot> 22
+<bot>Cordifolia</bot> 8
+<bot>Coriandrum Sativum</bot> 3
+<bot>Coriandrum sativum</bot> 1
+<bot>Corydalis Goveniana</bot> 1
+<bot>Corypha Taliera</bot> 3
+<bot>Corypha umbraculifera</bot> 1
+<bot>Coryza terebinthina</bot> 1
+<bot>Costus Arabicus</bot> 1
+<bot>Costus Speciosus</bot> 46
+<bot>Costus speciosus</bot> 10
+<bot>Costus</bot> 3
+<bot>Cowach</bot> 1
+<bot>Crataea Roxburghii</bot> 1
+<bot>Crataeva Marmelos</bot> 1
+<bot>Crataeva Religiosa</bot> 1
+<bot>Crataeva Roxburghii</bot> 21
+<bot>Crinum</bot> 1
+<bot>Cristata</bot> 2
+<bot>Crocus sativus</bot> 2
+<bot>Crocus</bot> 1
+<bot>Crotolaria Juncea</bot> 7
+<bot>Crotolaria Verrucosa</bot> 2
+<bot>Crotolaria</bot> 7
+<bot>Croton Jamalgota</bot> 10
+<bot>Croton Polyandrum</bot> 25
+<bot>Croton polyandrum</bot> 5
+<bot>Croton Tamalgota</bot> 1
+<bot>Croton Tiglium</bot> 3
+<bot>Croton</bot> 9
+<bot>Cuculus Indicus</bot> 1
+<bot>Cuculus Melanoleucus</bot> 6
+<bot>Cucumis Colocynthis</bot> 9
+<bot>Cucumis colocynthis</bot> 3
+<bot>Cucumis coloquinthida</bot> 1
+<bot>Cucumis coloquintida</bot> 2
+<bot>Cucumis Coloquintida</bot> 1
+<bot>Cucumis maderaspatanus</bot> 4
+<bot>Cucumis Maderaspatanus</bot> 3
+<bot>Cucumis Momordica</bot> 3
+<bot>Cucumis Sativus</bot> 3
+<bot>Cucumis sativus</bot> 2
+<bot>Cucumis Usitatissimus</bot> 3
+<bot>Cucumis usitatissimus</bot> 1
+<bot>Cucumis Utilissimus</bot> 23
+<bot>Cucumis utilissimus</bot> 8
+<bot>Cucumis</bot> 5
+<bot>Cucurbita Citrullus</bot> 1
+<bot>Cucurbita Hispida</bot> 1
+<bot>Cucurbita Lagenaria</bot> 2
+<bot>Cucurbita Pepo</bot> 3
+<bot>Cucurbita</bot> 1
+<bot>cucurbitaceous</bot> 7
+<bot>Cuminum Cyminum</bot> 2
+<bot>Curculigo Archioides</bot> 1
+<bot>Curculigo Orchioides</bot> 5
+<bot>Curculigo orchioides</bot> 6
+<bot>Curcuma Amhaldi</bot> 5
+<bot>Curcuma Aromatica</bot> 19
+<bot>Curcuma aromatica</bot> 1
+<bot>Curcuma Cedoaria</bot> 1
+<bot>Curcuma Longa</bot> 9
+<bot>Curcuma Reclinata</bot> 2
+<bot>Curcuma Xanthorrhiza</bot> 2
+<bot>Curcuma xanthorrhiza</bot> 3
+<bot>Curcuma Zanthorrhizza</bot> 1
+<bot>Curcuma Zedoaria</bot> 18
+<bot>Curcuma Zerumbet Roxb.</bot> 2
+<bot>Curcuma Zerumbet</bot> 14
+<bot>Curcuma</bot> 25
+<bot>curcuma</bot> 2
+<bot>Curcunia Zedoaria</bot> 1
+<bot>Cyanea</bot> 2
+<bot>Cymbidum Thessaloides</bot> 1
+<bot>Cyperus Hexastachyus Communis</bot> 4
+<bot>Cyperus Hexastachyus communis</bot> 1
+<bot>Cyperus Hexastychius Communis Nees.</bot> 1
+<bot>Cyperus Pertenius</bot> 1
+<bot>Cyperus Pertenuis</bot> 7
+<bot>Cyperus pertenuis</bot> 4
+<bot>Cyperus Rotundus</bot> 35
+<bot>Cyperus rotundus</bot> 19
+<bot>cyperus</bot> 2
+<bot>Cyperus</bot> 40
+<bot>Cypraea Moneta</bot> 8
+<bot>Cypraea moneta</bot> 5
+<bot>Cytisus Cajan</bot> 3
+<bot>Daemia Extensa</bot> 1
+<bot>Dalbergia Ougeinensis</bot> 15
+<bot>Dalbergia Oujeinensis</bot> 4
+<bot>Dalbergia oujeinensis</bot> 2
+<bot>Dalbergia Sissoo</bot> 20
+<bot>Dalbergia Sisu</bot> 1
+<bot>Dalbergia ujjeinensis</bot> 2
+<bot>Dalbergia Ujjeinensis</bot> 1
+<bot>Dalbergia</bot> 1
+<bot>Datura Alba</bot> 2
+<bot>Datura Fastuosa</bot> 2
+<bot>Datura fastuosa</bot> 1
+<bot>Datura Metel</bot> 3
+<bot>Datura</bot> 9
+<bot>Daucus Carota</bot> 7
+<bot>Debilis</bot> 1
+<bot>Delphinus Gangeticus</bot> 11
+<bot>Delphinus gangeticus</bot> 1
+<bot>Delphinus Gatigeticus</bot> 2
+<bot>Delphinus</bot> 1
+<bot>Deodar</bot> 1
+<bot>Desmochaeta Atropurpurea</bot> 1
+<bot>Desmochaeta atropurpurea</bot> 2
+<bot>Desmodium Gangeticum</bot> 19
+<bot>Desmodium gangeticum</bot> 5
+<bot>Desmodium</bot> 1
+<bot>Dillenia Indica</bot> 5
+<bot>Dillenia Speciosa</bot> 3
+<bot>Dioscorea alata</bot> 1
+<bot>Dioscorea globosa</bot> 1
+<bot>Dioscorea Globosa</bot> 4
+<bot>Dioscorea Purpurea</bot> 4
+<bot>Dioscorea</bot> 11
+<bot>Diospyros Ebenaster</bot> 3
+<bot>Diospyros embryopteris</bot> 9
+<bot>Diospyros Embryopteris</bot> 9
+<bot>Diospyros glutinosa</bot> 2
+<bot>Diospyros tomentosa</bot> 10
+<bot>Diospyros Tomentosa</bot> 2
+<bot>Diospyros</bot> 1
+<bot>Dolichos biflorus</bot> 4
+<bot>Dolichos Bulbosus</bot> 2
+<bot>Dolichos Catjang</bot> 10
+<bot>Dolichos Lablab</bot> 4
+<bot>Dolichos pruriens</bot> 1
+<bot>Dolichos Sinensis</bot> 3
+<bot>Dolichos uniflorus</bot> 5
+<bot>Dolichos Uniflorus</bot> 2
+<bot>Dolichos</bot> 7
+<bot>Dracaena Nervosa</bot> 1
+<bot>Echinops Echinatus</bot> 6
+<bot>Echites Caryophyllata</bot> 2
+<bot>Echites Dichotoma</bot> 4
+<bot>Echites Frutescens</bot> 5
+<bot>Echites Scholaris</bot> 6
+<bot>Eclipta prostrata</bot> 6
+<bot>Eclipta Prostrata</bot> 12
+<bot>Eclipta</bot> 6
+<bot>Egle Marmelos</bot> 1
+<bot>Elaeocarpus Ganitrus</bot> 17
+<bot>Elaeocarpus</bot> 1
+<bot>Elate Paludosa</bot> 1
+<bot>Eleocarpus</bot> 2
+<bot>Elephantopus Scaber</bot> 3
+<bot>Elephantopus</bot> 1
+<bot>Eleusine Coracana</bot> 5
+<bot>Eleusine indica</bot> 1
+<bot>Eleusine Indica</bot> 9
+<bot>Embelia Ribes</bot> 26
+<bot>Emblic Myrobalan</bot> 10
+<bot>Emblic myrobalan</bot> 2
+<bot>emblic myrobalan</bot> 2
+<bot>Emblic Myrobolam</bot> 1
+<bot>Emblic Myrobolan</bot> 3
+<bot>Emblica Officinalis Gaertn.</bot> 3
+<bot>Emblica Officinalis</bot> 12
+<bot>Emblica officinalis</bot> 5
+<bot>Emblica</bot> 1
+<bot>Enhydra Heloncha</bot> 1
+<bot>Enhydra Hingcha</bot> 4
+<bot>Enhydra Hingtsha</bot> 1
+<bot>Epidendron Tesselloides</bot> 2
+<bot>Epidendrum Tesselatum</bot> 1
+<bot>Epidendrum tesseloides</bot> 1
+<bot>Ervum Hirsutum</bot> 1
+<bot>Ervum lens</bot> 1
+<bot>Ervum Lens</bot> 1
+<bot>Erycibe Paniculata Roxb.</bot> 1
+<bot>Erythraea centaureoides</bot> 2
+<bot>Erythraea Centaureoides</bot> 1
+<bot>Erythrina Fulgens Indica</bot> 1
+<bot>Erythrina fulgens</bot> 1
+<bot>Erythrina Fulgens</bot> 2
+<bot>Erythrina Indica</bot> 5
+<bot>Erythrosylon Sideroxyloides</bot> 1
+<bot>Eugenia Jambolana</bot> 11
+<bot>Eugenia Jambos</bot> 1
+<bot>Eugenia</bot> 2
+<bot>Euphorbia antiquorum</bot> 5
+<bot>Euphorbia Antiquorum</bot> 17
+<bot>Euphorbia Ligularia</bot> 2
+<bot>Euphorbia Nerifolia</bot> 1
+<bot>Euphorbia Neriifolia</bot> 1
+<bot>Euphorbia Tirucalli</bot> 4
+<bot>Euphorbia</bot> 16
+<bot>Euryala Ferox</bot> 2
+<bot>Euryale Ferox</bot> 1
+<bot>Evolvulus Alsinoides</bot> 3
+<bot>Evolvulus Asinioides</bot> 1
+<bot>Fasciculatus</bot> 2
+<bot>Fastuosa</bot> 2
+<bot>Fata Morgana</bot> 4
+<bot>Feroma Elephantum</bot> 1
+<bot>Feronia Elephantum</bot> 31
+<bot>Feronia elephantum</bot> 16
+<bot>Ferula Asa Foetida</bot> 2
+<bot>Ficus Benjamina</bot> 2
+<bot>Ficus benjamina</bot> 1
+<bot>Ficus elastica</bot> 1
+<bot>Ficus Glomerata</bot> 28
+<bot>Ficus glomerata</bot> 8
+<bot>Ficus Heterophylla</bot> 14
+<bot>Ficus heterophylla</bot> 2
+<bot>Ficus Indica</bot> 16
+<bot>Ficus indica</bot> 1
+<bot>Ficus Infectoria</bot> 30
+<bot>Ficus infectoria</bot> 5
+<bot>Ficus Oppositifolia</bot> 20
+<bot>Ficus oppositifolia</bot> 10
+<bot>Ficus Religiosa</bot> 41
+<bot>Ficus religiosa</bot> 9
+<bot>Fistula Lacrymalis</bot> 1
+<bot>Fistula</bot> 3
+<bot>Flacourtia Cataphracta Roxb.</bot> 1
+<bot>Flacourtia Cataphracta</bot> 31
+<bot>Flacourtia cataphracta</bot> 15
+<bot>Flacourtia Sapida</bot> 20
+<bot>Flacourtia sapida</bot> 4
+<bot>Fumaria Parviflora</bot> 1
+<bot>Gaertnera Racemosa</bot> 25
+<bot>Gaertnera racemosa</bot> 3
+<bot>Galedupa Arborea</bot> 2
+<bot>Galedupa arborea</bot> 1
+<bot>Galedupa Piscidia</bot> 10
+<bot>Galega purpurea</bot> 1
+<bot>Galega Purpurea</bot> 1
+<bot>Ganitrus Sphaeica</bot> 1
+<bot>Garcinia Cambogia</bot> 2
+<bot>Garcinia</bot> 2
+<bot>Gardenia Enneandra</bot> 2
+<bot>Gardenia florida</bot> 1
+<bot>Gardenia Gummifera</bot> 8
+<bot>Gardenia Latifolia</bot> 2
+<bot>Gardenia</bot> 3
+<bot>Gendarussa Vulgaris</bot> 25
+<bot>Gendarussa vulgaris</bot> 1
+<bot>Gentiana Cherayta</bot> 4
+<bot>Gentiana Chirata</bot> 4
+<bot>Gentiana Chirayita</bot> 3
+<bot>Getonia floribunda</bot> 1
+<bot>Getonia Floribunda</bot> 6
+<bot>Glabra</bot> 1
+<bot>Glomerata</bot> 1
+<bot>Gloriosa Superba</bot> 1
+<bot>Gloriosa</bot> 1
+<bot>Glycine Debilis Roxb.</bot> 1
+<bot>Glycine Debilis</bot> 34
+<bot>Glycine debilis</bot> 4
+<bot>Glycine Labialis</bot> 1
+<bot>Glycine labialis</bot> 3
+<bot>Glycine</bot> 1
+<bot>Glycyrrhiza glabra</bot> 1
+<bot>Glycyrrhiza Glabra</bot> 1
+<bot>Glycyrrhiza</bot> 1
+<bot>Gmelina Arborea</bot> 33
+<bot>Gmelina arborea</bot> 9
+<bot>Gmelina</bot> 2
+<bot>Goensis</bot> 4
+<bot>goensis</bot> 1
+<bot>Gomphrena Globosa</bot> 6
+<bot>Gomphrena globosa</bot> 3
+<bot>Gossampinus Rumphii</bot> 2
+<bot>Gossypium Herbaceum</bot> 2
+<bot>Gossypium</bot> 1
+<bot>Gracula religiosa</bot> 2
+<bot>Grandiflorum</bot> 2
+<bot>gratissimum</bot> 1
+<bot>Grewia Asiatica</bot> 13
+<bot>Grewia asiatica</bot> 1
+<bot>Grewia Elastica</bot> 7
+<bot>Grewia Orientalis</bot> 1
+<bot>Grislea Tomentosa</bot> 33
+<bot>Grislea tomentosa</bot> 11
+<bot>Guilandina Bonduc</bot> 22
+<bot>Guilandina Bonducella</bot> 6
+<bot>Guilandina Moringa</bot> 1
+<bot>Guilandina</bot> 2
+<bot>Gymnema Sylvestre</bot> 2
+<bot>Gymnema sylvestre</bot> 1
+<bot>Gynandropsis Anacardium</bot> 1
+<bot>Gynandropsis Pentaphylla</bot> 8
+<bot>Gynandropsis pentaphylla</bot> 5
+<bot>Halicacabum Cardiospermum</bot> 1
+<bot>Hedyotis Burmanniana</bot> 2
+<bot>Hedysarum Alhagi</bot> 5
+<bot>Hedysarum Gangeticum</bot> 9
+<bot>Hedysarum Lagopodioides</bot> 6
+<bot>Hedysarum lagopodioides</bot> 2
+<bot>Hedysarum</bot> 2
+<bot>Helianthus Annuus</bot> 3
+<bot>Helianthus Indica</bot> 1
+<bot>Helianthus Indicus</bot> 1
+<bot>Helianthus</bot> 3
+<bot>Heliophytum Indicum</bot> 1
+<bot>Heliotropium indicum</bot> 2
+<bot>Heliotropium Indicum</bot> 8
+<bot>Heliotropium</bot> 1
+<bot>Helleborus Niger</bot> 11
+<bot>Helleborus niger</bot> 6
+<bot>Helleborus</bot> 3
+<bot>Helminthostachys Laciniata</bot> 3
+<bot>Hemidesmus Indicus</bot> 3
+<bot>Hemidesmus indicus</bot> 1
+<bot>Hemionitis Cordifolia</bot> 25
+<bot>Hemionitis cordifolia</bot> 9
+<bot>Hibiscus Abelmoschus</bot> 2
+<bot>Hibiscus cannabinus</bot> 3
+<bot>Hibiscus Cannabinus</bot> 6
+<bot>Hibiscus Hirtus</bot> 1
+<bot>Hibiscus Moschatus</bot> 2
+<bot>Hibiscus Mutabilis</bot> 39
+<bot>Hibiscus mutabilis</bot> 5
+<bot>Hibiscus Phoeniceus</bot> 4
+<bot>Hibiscus phoeniceus</bot> 1
+<bot>Hibiscus Populneoides</bot> 5
+<bot>Hibiscus populneoides</bot> 3
+<bot>Hibiscus Rosa Sinensis</bot> 11
+<bot>Hibiscus rosa sinensis</bot> 1
+<bot>Hibiscus</bot> 1
+<bot>Hieracium</bot> 2
+<bot>hieracium</bot> 1
+<bot>Hijjal</bot> 2
+<bot>Hingcha repens</bot> 3
+<bot>Hingcha Repens</bot> 3
+<bot>Hingtsha Repens</bot> 8
+<bot>Hirsutum</bot> 2
+<bot>Hoija Viridifolia</bot> 1
+<bot>Holcus Saccharatus</bot> 1
+<bot>Holcus Sorghum</bot> 2
+<bot>Hoya viridiflora</bot> 2
+<bot>Hoya Viridiflora</bot> 18
+<bot>Hoya Viridifolia</bot> 1
+<bot>Hydrocotyle Asiatica</bot> 4
+<bot>Hyoscyamus Niger</bot> 1
+<bot>Hyperanthera Moringa</bot> 24
+<bot>hyperanthera</bot> 1
+<bot>Hyperanthera</bot> 2
+<bot>Ichnocarpus Frutescens</bot> 9
+<bot>Ichnocarpus frutescens</bot> 3
+<bot>Ichnocarpus</bot> 1
+<bot>Impatiens balsamina</bot> 1
+<bot>Imperata Cylindrica</bot> 1
+<bot>Indica</bot> 3
+<bot>Indigofera tinctoria</bot> 1
+<bot>Indigofera Tinctoria</bot> 5
+<bot>Infectoria</bot> 1
+<bot>Ingua</bot> 1
+<bot>Ipomoea atropurpurea</bot> 3
+<bot>Ipomoea Pes Caprae Roth.</bot> 1
+<bot>Ipomoea Turpethum</bot> 30
+<bot>Ipomoea</bot> 6
+<bot>Iris Pseudacorus</bot> 1
+<bot>Isora Corylifolia</bot> 1
+<bot>Ixora Bandhucca</bot> 1
+<bot>Ixora</bot> 1
+<bot>Jasminum Arboreum</bot> 1
+<bot>Jasminum Auriculatum</bot> 12
+<bot>Jasminum auriculatum</bot> 2
+<bot>Jasminum grandiflorum</bot> 4
+<bot>Jasminum Grandiflorum</bot> 10
+<bot>Jasminum Jacquini</bot> 1
+<bot>Jasminum Multiflorum</bot> 5
+<bot>Jasminum multiflorum</bot> 3
+<bot>Jasminum Pubescens</bot> 1
+<bot>Jasminum Sambac</bot> 27
+<bot>Jasminum Villosum</bot> 1
+<bot>Jasminum Zambac</bot> 11
+<bot>Jonesia Asoca</bot> 1
+<bot>Jonesia Asoka Roxb.</bot> 1
+<bot>Jonesia Asoka</bot> 23
+<bot>Jonesia</bot> 7
+<bot>Jonesis Asoka</bot> 1
+<bot>Juglans Regia</bot> 1
+<bot>Jujuba</bot> 1
+<bot>Jussiaea repens</bot> 1
+<bot>Jussiaea Repens</bot> 6
+<bot>Justicia Adhatoda</bot> 2
+<bot>Justicia Ganderussa</bot> 1
+<bot>Justicia Gendarussa</bot> 1
+<bot>Kadamba</bot> 21
+<bot>Kaempferia rotunda</bot> 1
+<bot>Kaempferia Rotunda</bot> 3
+<bot>Karka</bot> 3
+<bot>Karsinh</bot> 1
+<bot>Kaskas</bot> 1
+<bot>Khadiri</bot> 1
+<bot>Khayar</bot> 1
+<bot>Klitaka</bot> 1
+<bot>Kutaja</bot> 1
+<bot>Kyllingia Monocephala</bot> 4
+<bot>Lablab Vulgaris</bot> 5
+<bot>Lagenaria Vulgaris Ser</bot> 1
+<bot>Lagenaria Vulgaris</bot> 1
+<bot>Lagenaria vulgaris</bot> 1
+<bot>Lagerstroemia Regina</bot> 1
+<bot>Lagopodioides</bot> 1
+<bot>Langaliya</bot> 1
+<bot>Lathyrus Sativus</bot> 1
+<bot>Latifolia</bot> 4
+<bot>Laurus Cassia</bot> 29
+<bot>Lavail</bot> 1
+<bot>Lawsonia Alba</bot> 3
+<bot>Leea Hirta</bot> 18
+<bot>Leea hirta</bot> 2
+<bot>Leea macrophylla</bot> 1
+<bot>Leea</bot> 1
+<bot>Lepeocercis Serrata</bot> 1
+<bot>Lepeocercis serrata</bot> 1
+<bot>Lepidium sativum</bot> 1
+<bot>Lepidium Sativum</bot> 1
+<bot>Leucas Linifolia</bot> 2
+<bot>Lida cordifolia</bot> 1
+<bot>Ligusticum Ajowan</bot> 9
+<bot>Limonia Scandens</bot> 1
+<bot>Linum Usitatissimum</bot> 16
+<bot>Linum usitatissimum</bot> 3
+<bot>Lipeocercis Serrata</bot> 16
+<bot>Lipeocercis serrata</bot> 6
+<bot>Liquidambar orientale</bot> 1
+<bot>Liquidambar Orientale</bot> 1
+<bot>Lobatus</bot> 1
+<bot>Lodh</bot> 4
+<bot>Longifolia</bot> 11
+<bot>longifolia</bot> 1
+<bot>Lotus Nelumbium</bot> 1
+<bot>Loxia philippensis</bot> 2
+<bot>Loxia Philippensis</bot> 1
+<bot>Lucida</bot> 2
+<bot>Luffa acutang.</bot> 1
+<bot>Luffa Acutangula</bot> 2
+<bot>Luffa acutangula</bot> 3
+<bot>Luffa Foetida</bot> 8
+<bot>Luffa foetida</bot> 5
+<bot>Luffa pentandra</bot> 2
+<bot>Luffa</bot> 2
+<bot>Lupinus</bot> 2
+<bot>Lycopodium Imbricatum</bot> 3
+<bot>Lycopodium Phlegmaria</bot> 1
+<bot>Lythrun Fructicosum</bot> 1
+<bot>Macrognathus Pancalus</bot> 4
+<bot>Macrognathus Pankalus</bot> 1
+<bot>Magnifera Indica</bot> 3
+<bot>Magnifera indica</bot> 1
+<bot>Mahwa</bot> 1
+<bot>Mangifera Indica</bot> 4
+<bot>Mangifera indica</bot> 2
+<bot>Mangifera sylvatica</bot> 5
+<bot>Mangifera Sylvatica</bot> 4
+<bot>Mangosteen</bot> 1
+<bot>Maranta Dichotoma</bot> 1
+<bot>marmelos</bot> 1
+<bot>Marsilea Dentata</bot> 2
+<bot>Marsilea Quadrifolia</bot> 17
+<bot>Marsilea quadrifolia</bot> 9
+<bot>Marsilia Dentata</bot> 3
+<bot>medica</bot> 2
+<bot>Medicago Esculenta</bot> 7
+<bot>Medicago esculenta</bot> 3
+<bot>Melangena Incurva</bot> 1
+<bot>Melia Azadirachta</bot> 2
+<bot>Melia Azedarach</bot> 1
+<bot>Melia Bukayun</bot> 13
+<bot>Melia Sempervirens</bot> 8
+<bot>Melia sempervirens</bot> 1
+<bot>Melilotus Parviflora</bot> 1
+<bot>Melongena</bot> 1
+<bot>Menispermum Cocculus</bot> 1
+<bot>Menispermum Cordifolium</bot> 5
+<bot>Menispermum Glabrum</bot> 3
+<bot>Menispermum glabrum</bot> 1
+<bot>Mesua Ferrea</bot> 5
+<bot>Mesua ferrea</bot> 10
+<bot>Mesua Roxburghii</bot> 32
+<bot>Mesua</bot> 1
+<bot>Methonica Superba</bot> 26
+<bot>Methonica superba</bot> 4
+<bot>Methonica</bot> 1
+<bot>Michelia Campaka</bot> 9
+<bot>Michelia Champaca</bot> 7
+<bot>Michelia Champaka</bot> 19
+<bot>Miliaceum</bot> 1
+<bot>Mimosa abstergens</bot> 4
+<bot>Mimosa Arabica</bot> 1
+<bot>Mimosa Catechu</bot> 6
+<bot>Mimosa concinna</bot> 1
+<bot>Mimosa Concinna</bot> 1
+<bot>Mimosa Kauki</bot> 2
+<bot>Mimosa Natans</bot> 1
+<bot>Mimosa Octandra</bot> 5
+<bot>Mimosa octandra</bot> 1
+<bot>Mimosa Pudica</bot> 27
+<bot>Mimosa pudica</bot> 8
+<bot>Mimosa Sirissa</bot> 4
+<bot>Mimosa Suma</bot> 20
+<bot>Mimosa</bot> 28
+<bot>Mimusops Elengi</bot> 30
+<bot>Mimusops hexandra</bot> 1
+<bot>Mimusops Hexandra</bot> 4
+<bot>Mimusops Kauki</bot> 8
+<bot>Mimusops</bot> 1
+<bot>Minusops Elengi</bot> 1
+<bot>Mirabilis Jalapa</bot> 2
+<bot>Mollugo Pentaphylla</bot> 1
+<bot>Mollugo spergula</bot> 1
+<bot>Mollugo</bot> 1
+<bot>Momordica Charantia</bot> 21
+<bot>Momordica Cochinchinensis Spreng.</bot> 1
+<bot>Momordica Mixa</bot> 1
+<bot>Momordica Mixta</bot> 9
+<bot>Momordica mixta</bot> 1
+<bot>Momordica monadelpha</bot> 3
+<bot>Momordica Monadelpha</bot> 10
+<bot>Momordica</bot> 2
+<bot>Morinda Tinctoria</bot> 3
+<bot>Moringa Hyperanthera</bot> 1
+<bot>Moringa pterygosperma</bot> 5
+<bot>Moringa Pterygosperma</bot> 26
+<bot>Moringa Pterygospermum</bot> 2
+<bot>Moringa</bot> 25
+<bot>Morus indica</bot> 1
+<bot>Morus Indica</bot> 1
+<bot>Morus Indicadir</bot> 1
+<bot>Mucuna Pruriens</bot> 1
+<bot>Mucuna Pruritus Hook</bot> 1
+<bot>Mucuna Pruritus</bot> 32
+<bot>Mucuna pruritus</bot> 10
+<bot>Mucuna</bot> 1
+<bot>Munja</bot> 2
+<bot>Muricatus</bot> 1
+<bot>Musa Paradisiaca</bot> 3
+<bot>Musa Sapientum</bot> 30
+<bot>Musa sapientum</bot> 8
+<bot>Musa</bot> 12
+<bot>Myosotis</bot> 1
+<bot>Myrica sapida</bot> 8
+<bot>Myrica Sapida</bot> 4
+<bot>Myristica Malabarica</bot> 1
+<bot>Myrobalan</bot> 11
+<bot>myrobalan</bot> 18
+<bot>Myrobalanus Chebula</bot> 1
+<bot>Myrobolan</bot> 4
+<bot>Myxa</bot> 2
+<bot>Naga</bot> 3
+<bot>Nageia Putranjiva</bot> 1
+<bot>Nageia</bot> 1
+<bot>Naravelia zeylanica</bot> 1
+<bot>Nardostachys Jatamansi</bot> 23
+<bot>Nardostachys</bot> 10
+<bot>Nauclea Cadamba</bot> 31
+<bot>Nauclea cordifolia</bot> 1
+<bot>Nauclea Cordifolia</bot> 7
+<bot>Nauclea Kadamba Roxb.</bot> 1
+<bot>Nauclea Kadamba</bot> 1
+<bot>Neemb</bot> 1
+<bot>Nelumbium Speciosum</bot> 18
+<bot>Nelumbium</bot> 1
+<bot>Nericum Odorum Rubro-simplex</bot> 2
+<bot>Nerinm Odorum</bot> 1
+<bot>Nerium Aistidysentericum</bot> 1
+<bot>Nerium Odorum Rubro-simplex</bot> 2
+<bot>Nerium Odorum</bot> 25
+<bot>Nerium odorum</bot> 5
+<bot>Nigella Indica</bot> 18
+<bot>Nigella indica</bot> 9
+<bot>Nimb</bot> 7
+<bot>Nimba Asadirachta</bot> 1
+<bot>Nimba</bot> 8
+<bot>Nux Vomica</bot> 1
+<bot>Nyctanthes Arbor Tristis</bot> 15
+<bot>Nyctanthes Tristis</bot> 2
+<bot>Nymphaea Alba</bot> 2
+<bot>Nymphaea Caerulea</bot> 3
+<bot>Nymphaea Cyanea</bot> 2
+<bot>Nymphaea Esculenta</bot> 2
+<bot>Nymphaea esculenta</bot> 3
+<bot>Nymphaea Lotus</bot> 2
+<bot>Nymphaea Nelumbo</bot> 4
+<bot>Nymphaea Rubra</bot> 6
+<bot>Nymphaea rubra</bot> 2
+<bot>Nymphaea Stellata</bot> 2
+<bot>Nymphaea</bot> 4
+<bot>Ocimum Adscendens</bot> 1
+<bot>Ocimum Basilicum Pilosum</bot> 1
+<bot>Ocimum Gratissimum</bot> 4
+<bot>Ocimum gratissimum</bot> 1
+<bot>Ocimum pilosum</bot> 2
+<bot>Ocimum Pilosum</bot> 8
+<bot>Ocimum Sanctum</bot> 15
+<bot>Ocimum sanctum</bot> 4
+<bot>Ocimum Villosum</bot> 5
+<bot>Ocimum</bot> 23
+<bot>Ocinium Sanctum</bot> 1
+<bot>Octandra</bot> 1
+<bot>Ocymum Album</bot> 1
+<bot>Ocymum Sacrum</bot> 1
+<bot>Odina Pennata</bot> 3
+<bot>Odina pennata</bot> 1
+<bot>Odina Pinisata</bot> 1
+<bot>Odina Pinnata</bot> 17
+<bot>Odina pinnata</bot> 5
+<bot>Odina Wodier</bot> 6
+<bot>Okera</bot> 1
+<bot>Oldenlandia Biflora</bot> 1
+<bot>Oldenlandia biflora</bot> 2
+<bot>Oldenlandia herbacea</bot> 2
+<bot>Oldenlandia Herbacea</bot> 5
+<bot>Oldenlandia</bot> 10
+<bot>Oleraceus</bot> 1
+<bot>Olibanum</bot> 5
+<bot>Ophidium</bot> 1
+<bot>Ophiorrhiza Mungos</bot> 1
+<bot>Opomea Turpethum</bot> 1
+<bot>Opuntia Dillenii</bot> 1
+<bot>Opuntia</bot> 8
+<bot>Oryza Sativa</bot> 1
+<bot>Ovieda Verticallata</bot> 2
+<bot>Oxalis Corniculata</bot> 9
+<bot>Oxalis corniculata</bot> 3
+<bot>Oxalis pusilla</bot> 5
+<bot>Oxalis Pusilla</bot> 2
+<bot>Oxalis</bot> 1
+<bot>Oxystelma Esculentum</bot> 3
+<bot>Paederia Foetida</bot> 21
+<bot>Paederia foetida</bot> 5
+<bot>Palma Christi</bot> 3
+<bot>Palmyra</bot> 2
+<bot>palmyra</bot> 9
+<bot>Paludosa</bot> 1
+<bot>Pandanus Odoratissimus</bot> 29
+<bot>Pandanus odoratissimus</bot> 16
+<bot>Pandanus</bot> 2
+<bot>panicum Dactylon</bot> 1
+<bot>Panicum Dactylon</bot> 10
+<bot>Panicum Frumentaceum</bot> 5
+<bot>Panicum frumentaceum</bot> 4
+<bot>Panicum Italicum</bot> 16
+<bot>Panicum italicum</bot> 1
+<bot>Panicum Miliaceum</bot> 8
+<bot>Panicum miliaceum</bot> 4
+<bot>Panicum Spicatum</bot> 1
+<bot>Panicum Verticillatum</bot> 4
+<bot>Panicum</bot> 1
+<bot>Panicuni Italicum</bot> 1
+<bot>Panmori</bot> 1
+<bot>Panmorium</bot> 1
+<bot>Parra Jacana</bot> 4
+<bot>Parra jacana</bot> 2
+<bot>Paspalum Frumentaceum</bot> 2
+<bot>Paspalum scrobiculatum</bot> 1
+<bot>Paspalum Scrobiculatum</bot> 1
+<bot>Pavetta Indica</bot> 1
+<bot>Pavonia odorata</bot> 1
+<bot>Pavonia Odorata</bot> 2
+<bot>Peepal</bot> 4
+<bot>Penicillaria Spicata</bot> 1
+<bot>Pentapetes Phoenicea</bot> 18
+<bot>Pentaptera Arjuna</bot> 5
+<bot>Pentaptera Tomentosa</bot> 1
+<bot>Pentaptera</bot> 1
+<bot>Perdix chinensis</bot> 1
+<bot>Perdix Chinensis</bot> 6
+<bot>Perfoliata</bot> 1
+<bot>Periploca Indica</bot> 1
+<bot>Pharmaceum Mollugo</bot> 1
+<bot>Phaseolus aconitifolius</bot> 1
+<bot>Phaseolus Aconitifolius</bot> 3
+<bot>Phaseolus Max.</bot> 1
+<bot>Phaseolus Mungo</bot> 31
+<bot>Phaseolus radiatus</bot> 1
+<bot>Phaseolus Radiatus</bot> 16
+<bot>Phaseolus Trilobus Ait.</bot> 2
+<bot>Phaseolus trilobus</bot> 6
+<bot>Phaseolus Trilobus</bot> 17
+<bot>Phaseolus</bot> 3
+<bot>Phlomis ceylanica</bot> 3
+<bot>Phlomis Ceylanica</bot> 1
+<bot>Phlomis esculenta</bot> 1
+<bot>Phlomis Zeylanica</bot> 5
+<bot>Phlomis</bot> 1
+<bot>Phoenix paludosa</bot> 2
+<bot>Phoenix Paludosa</bot> 13
+<bot>Phoenix Silvestris</bot> 2
+<bot>Phoenix sylvestris</bot> 6
+<bot>Phoenix Sylvestris</bot> 5
+<bot>Phoenix</bot> 1
+<bot>Phyllanthus Emblica</bot> 5
+<bot>Phyllanthus emblica</bot> 1
+<bot>Phyllanthus Niruri</bot> 4
+<bot>Physalia flexuosa</bot> 1
+<bot>Physalis Flexuosa</bot> 30
+<bot>Physalis flexuosa</bot> 4
+<bot>Physalis Flexuosus</bot> 1
+<bot>Physalis</bot> 1
+<bot>picta</bot> 1
+<bot>Pimelodus Vacha</bot> 1
+<bot>Pimenta acris</bot> 1
+<bot>Pimenta Acris</bot> 1
+<bot>Pimpinella Anisum</bot> 1
+<bot>Pimpinella Involucrata</bot> 1
+<bot>Pinus Deodar</bot> 1
+<bot>Pinus Deodaru Roxb.</bot> 1
+<bot>Pinus Deodora</bot> 30
+<bot>Pinus Devadaru</bot> 1
+<bot>Pinus Longifolia</bot> 33
+<bot>Pinus longifolia</bot> 10
+<bot>Pinus Webbiana</bot> 4
+<bot>Pinus</bot> 7
+<bot>Piper Aurantiacum</bot> 3
+<bot>Piper aurantiacum</bot> 1
+<bot>Piper Betel</bot> 9
+<bot>Piper Betle</bot> 6
+<bot>Piper Chaba</bot> 24
+<bot>Piper Longum</bot> 11
+<bot>Piper longum</bot> 6
+<bot>Pisang</bot> 1
+<bot>Pistia Stratiotes</bot> 32
+<bot>pistia Stratiotes</bot> 1
+<bot>Pisum Arvense</bot> 4
+<bot>pisum Arvense</bot> 1
+<bot>Piyal</bot> 3
+<bot>Plectranthus scutellarioides</bot> 1
+<bot>Plectranthus Scutellarioides</bot> 3
+<bot>Plectranthus</bot> 1
+<bot>Plumbago Ceylanica</bot> 5
+<bot>Plumbago Rosea</bot> 4
+<bot>Plumbago rosea</bot> 2
+<bot>Plumbago Zeylanica</bot> 15
+<bot>Plumbago zeylanica</bot> 8
+<bot>Plumbago</bot> 2
+<bot>Poa cynosuroides</bot> 3
+<bot>Poa Cynosuroides</bot> 2
+<bot>Polanisia Icosandra</bot> 19
+<bot>Polianthes Tuberosa</bot> 3
+<bot>Pongamia Glabra</bot> 23
+<bot>Pongamia glabra</bot> 8
+<bot>Ponulacca Olerscea</bot> 1
+<bot>Portulaca oleracea</bot> 1
+<bot>Portulaca Quadrifida</bot> 3
+<bot>Pothos Officinalis</bot> 2
+<bot>Pothos officinalis</bot> 1
+<bot>Premna Esculenta</bot> 1
+<bot>Premna esculenta</bot> 1
+<bot>Premna Herbacea</bot> 5
+<bot>Premna herbacea</bot> 1
+<bot>Premna Spinosa</bot> 26
+<bot>Premna spinosa</bot> 14
+<bot>Prenina Spinosa</bot> 1
+<bot>Proralia corylifolia</bot> 1
+<bot>Prosopis spicigera</bot> 3
+<bot>Prosopis Spicigera</bot> 20
+<bot>Prostrata</bot> 1
+<bot>Psoralea corylifolia</bot> 1
+<bot>Pterocarpus santalinus</bot> 3
+<bot>Pterospermum Acerifolium</bot> 14
+<bot>Pterospermum acerifolium</bot> 5
+<bot>Pterospermum Acrifolium</bot> 1
+<bot>Pterospermum Suberifolium</bot> 7
+<bot>Pterospermum suberifolium</bot> 2
+<bot>Pterospermum</bot> 1
+<bot>Ptychotis Ajowan</bot> 22
+<bot>pubescens</bot> 3
+<bot>Pubescens</bot> 4
+<bot>purslain</bot> 5
+<bot>Putranjiva Roxburghii</bot> 7
+<bot>Pythonium Bulbiferum Schott.</bot> 1
+<bot>Quamoclit Pennata</bot> 1
+<bot>Randia</bot> 1
+<bot>Rangan</bot> 1
+<bot>Raphanus sativus</bot> 1
+<bot>Red Lodh</bot> 1
+<bot>Religiosa</bot> 1
+<bot>Rhinacanthus Communis</bot> 2
+<bot>Rhombifolia</bot> 9
+<bot>rhombifolia</bot> 1
+<bot>Rhus Succedana</bot> 1
+<bot>Rhus</bot> 1
+<bot>Ricinus Communis</bot> 32
+<bot>Ricinus communis</bot> 8
+<bot>Ricinus</bot> 12
+<bot>ricinus</bot> 2
+<bot>Rohitaka</bot> 1
+<bot>Rosa Glandulifera</bot> 7
+<bot>Rosa glandulifera</bot> 2
+<bot>Rosa moschata</bot> 2
+<bot>Rosa Moschata</bot> 3
+<bot>Rosa Sinensis</bot> 1
+<bot>Rosea</bot> 2
+<bot>Rotang</bot> 2
+<bot>Rottlera Tinctoria</bot> 4
+<bot>Rottleria Tinctoria</bot> 19
+<bot>Rottleria tinctoria</bot> 9
+<bot>Roxburghii Wall.</bot> 1
+<bot>Roxburghii</bot> 6
+<bot>Rubia Manjith</bot> 2
+<bot>Rubia Munjista</bot> 48
+<bot>Rubia munjista</bot> 2
+<bot>Rubra</bot> 2
+<bot>Rubriflora</bot> 2
+<bot>Ruellia Longifolia</bot> 3
+<bot>Ruellia longifolia</bot> 1
+<bot>Ruellia</bot> 1
+<bot>Rumex Vesicarius</bot> 19
+<bot>Rumex vesicarius</bot> 1
+<bot>Rumex</bot> 1
+<bot>Ruta Graveolens</bot> 12
+<bot>Ruta graveolens</bot> 1
+<bot>Saccharatus Cernuum</bot> 1
+<bot>Saccharum cylindricum</bot> 3
+<bot>Saccharum Cylindricum</bot> 4
+<bot>Saccharum Fuscum</bot> 1
+<bot>Saccharum Munja Roxb.</bot> 1
+<bot>Saccharum Munja</bot> 6
+<bot>Saccharum Munjia</bot> 11
+<bot>Saccharum Officinale</bot> 2
+<bot>Saccharum Officinarum</bot> 3
+<bot>Saccharum procerum</bot> 1
+<bot>Saccharum Sara Roxb.</bot> 1
+<bot>Saccharum Sara</bot> 17
+<bot>Saccharum Spontaneum</bot> 22
+<bot>Saccharum spontaneum</bot> 12
+<bot>Saccharum</bot> 1
+<bot>Salmalia Malabarica</bot> 13
+<bot>Salmalia malabarica</bot> 4
+<bot>Salvadora persica</bot> 1
+<bot>Salvadora Persica</bot> 8
+<bot>Salvinia Cucullata</bot> 33
+<bot>Salvinia cucullata</bot> 3
+<bot>Salvinia</bot> 1
+<bot>Sanseviera Roxburghiana</bot> 33
+<bot>Sanseviera zeylanica</bot> 3
+<bot>Sanseviera Zeylanica</bot> 12
+<bot>Sanseviera</bot> 2
+<bot>Sapindus Detergens Roxb.</bot> 1
+<bot>Sapindus Detergens</bot> 6
+<bot>Sapindus</bot> 1
+<bot>Sarcostema Viminalis</bot> 1
+<bot>Sarcostemma Viminale</bot> 2
+<bot>Sarcostemma viminale</bot> 1
+<bot>Sarsaparilla</bot> 1
+<bot>Saussurea auriculata</bot> 1
+<bot>Schoenanthus Indicus</bot> 1
+<bot>Scholaris</bot> 1
+<bot>Schrebera Swietenioides</bot> 7
+<bot>Schreberia Swietenoides</bot> 2
+<bot>Scindapsus Officinalis</bot> 17
+<bot>Scindapsus officinalis</bot> 10
+<bot>Scirpus Kysoor Roxb.</bot> 1
+<bot>Scirpus Kysoor</bot> 19
+<bot>Scirpus</bot> 3
+<bot>Seemul</bot> 1
+<bot>Semecarpus Anacardium</bot> 37
+<bot>Senna Obtusa</bot> 1
+<bot>Senna</bot> 1
+<bot>Sennia Esculenta</bot> 1
+<bot>Serratula Anthelminthica</bot> 6
+<bot>Serratula anthelminthica</bot> 7
+<bot>Serratula Anthelmintica</bot> 1
+<bot>Sesam</bot> 1
+<bot>Sesamum indicum</bot> 2
+<bot>Sesamum Indicum</bot> 1
+<bot>Sesamum</bot> 6
+<bot>sesamum</bot> 80
+<bot>Sesbana Grandiflora</bot> 8
+<bot>Sesbania Aegyptiaca</bot> 10
+<bot>Sesbania aegyptiaca</bot> 4
+<bot>Sesbania grandiflora</bot> 1
+<bot>Shorea Robusta</bot> 33
+<bot>Shorea robusta</bot> 14
+<bot>Sida Alba</bot> 1
+<bot>Sida alba</bot> 1
+<bot>Sida Cordifolia</bot> 25
+<bot>Sida cordifolia</bot> 2
+<bot>Sida Rhombifolia</bot> 3
+<bot>Sida Rhomboidea</bot> 9
+<bot>Sida rhomboidea</bot> 1
+<bot>Sida Spinosa</bot> 1
+<bot>Sida</bot> 2
+<bot>Sidonia Cordifolia</bot> 1
+<bot>Sinapis Dichotoma</bot> 4
+<bot>Sinapis dichotoma</bot> 2
+<bot>Sinapis glauca</bot> 1
+<bot>Sinapis Glauca</bot> 1
+<bot>Sinapis Racemosa</bot> 2
+<bot>Sinapis Ramosa Roxb.</bot> 1
+<bot>Sinapis Ramosa</bot> 5
+<bot>Sinapis ramosa</bot> 2
+<bot>Sinapis</bot> 1
+<bot>Siphonantus Indica</bot> 2
+<bot>Sirium myrtifolium</bot> 1
+<bot>Sisu</bot> 1
+<bot>Sita Cordifolia</bot> 1
+<bot>Smilax China</bot> 2
+<bot>Socotorine Aloe</bot> 1
+<bot>Solanum diffusum</bot> 2
+<bot>Solanum Diffusum</bot> 1
+<bot>Solanum indicum</bot> 6
+<bot>Solanum Indicum</bot> 11
+<bot>Solanum Jacquini</bot> 36
+<bot>Solanum jacquini</bot> 1
+<bot>Solanum longum</bot> 2
+<bot>Solanum Melongena</bot> 22
+<bot>Solanum trilobatum</bot> 1
+<bot>Solanum</bot> 27
+<bot>Sorghum</bot> 3
+<bot>Sowa</bot> 1
+<bot>Soyimida Febrifuga</bot> 1
+<bot>Speciosus</bot> 1
+<bot>Sphaeranthus Hirtus</bot> 1
+<bot>Sphaeranthus Indicus</bot> 2
+<bot>Sphaeranthus mollis</bot> 1
+<bot>Sphaeranthus Mollis</bot> 4
+<bot>Sphaeranthus</bot> 3
+<bot>Sphaerantus Hirtus</bot> 2
+<bot>Sphut</bot> 1
+<bot>Sphuti</bot> 1
+<bot>Spondias Magnifera</bot> 2
+<bot>Spondias Mangifera Pentaptera Tomentosa</bot> 1
+<bot>Spondias Mangifera</bot> 29
+<bot>Spondias mangifera</bot> 1
+<bot>spondias</bot> 2
+<bot>squamosa</bot> 1
+<bot>Squamosa</bot> 1
+<bot>Strychnos nux vomica</bot> 4
+<bot>Strychnos Nux Vomica</bot> 2
+<bot>Strychnos Potatorum</bot> 8
+<bot>Strychnos potatorum</bot> 5
+<bot>Strychnos</bot> 1
+<bot>Styrax Benzoin</bot> 1
+<bot>styrax</bot> 2
+<bot>Superba</bot> 1
+<bot>Symplocos racemosa</bot> 11
+<bot>Symplocos Racemosa</bot> 22
+<bot>Symplocos</bot> 3
+<bot>Tabernaemontana Coronaria</bot> 31
+<bot>Tabernaemontana coronaria</bot> 9
+<bot>Tabernaemontana</bot> 1
+<bot>Tamarindus Indica</bot> 8
+<bot>Tamarix Indica</bot> 4
+<bot>Tamarix indica</bot> 1
+<bot>Tapia Crataeva</bot> 3
+<bot>Tapia</bot> 1
+<bot>Tectona Grandis</bot> 13
+<bot>Tectona grandis</bot> 3
+<bot>Tectonia Grandis</bot> 1
+<bot>Terminalia Alata Tomentosa</bot> 1
+<bot>Terminalia alata</bot> 1
+<bot>Terminalia Arjuna</bot> 27
+<bot>Terminalia Arunja</bot> 7
+<bot>Terminalia Belerica</bot> 4
+<bot>Terminalia Bellerica</bot> 30
+<bot>Terminalia bellerica</bot> 1
+<bot>Terminalia Belrica</bot> 1
+<bot>Terminalia Catappa</bot> 20
+<bot>Terminalia Chebula</bot> 33
+<bot>Terminalia Citrina Roxb.</bot> 3
+<bot>Terminalia Katappa</bot> 1
+<bot>Terminalia Tomentosa</bot> 29
+<bot>Terminalia tomentosa</bot> 3
+<bot>Terminalia</bot> 4
+<bot>Terra japonica</bot> 2
+<bot>Tesbania Aegyptiaca</bot> 1
+<bot>Tetranthera Lanceifolia</bot> 1
+<bot>Thespesia Opulneoides</bot> 1
+<bot>Thespesia Populnea</bot> 4
+<bot>Thespesia Populneoides</bot> 11
+<bot>Thespesia populneoides</bot> 3
+<bot>Thorea Robusta</bot> 1
+<bot>Thurifera</bot> 2
+<bot>Tiaridium Indicum</bot> 22
+<bot>Tiaridium indicum</bot> 2
+<bot>Tiglium</bot> 9
+<bot>Tirucalli</bot> 1
+<bot>Tithymalus antiquorum</bot> 4
+<bot>Tithymalus Antiquorum</bot> 3
+<bot>Tithymalus</bot> 1
+<bot>Tora</bot> 8
+<bot>Tortilis</bot> 1
+<bot>Tragia Involucrata</bot> 25
+<bot>Tragia involucrata</bot> 2
+<bot>Trapa Bispinosa</bot> 19
+<bot>Trapa bispinosa</bot> 8
+<bot>Trewia Nudiflora</bot> 1
+<bot>Tribulus Lanuginosus</bot> 10
+<bot>Tribulus lanuginosus</bot> 4
+<bot>Tribulus</bot> 1
+<bot>Trichodesma Zeylanicum</bot> 2
+<bot>Trichosanthes anguina</bot> 2
+<bot>Trichosanthes Bracteata</bot> 1
+<bot>Trichosanthes Dioeca Roxb.</bot> 2
+<bot>Trichosanthes Dioeca</bot> 23
+<bot>Trichosanthes dioeca</bot> 10
+<bot>Trichosanthes palmata</bot> 2
+<bot>Trichosanthes Palmata</bot> 2
+<bot>Trichosanthes</bot> 1
+<bot>Trigonella corniculata</bot> 6
+<bot>Trigonella Corniculata</bot> 39
+<bot>Trigonella Foenum Graecum</bot> 18
+<bot>Trigonella foenum graecum</bot> 11
+<bot>Trilobus lanuginosus</bot> 2
+<bot>Trophis Aspera</bot> 16
+<bot>Trophis aspera</bot> 5
+<bot>Turdus Ginginianus</bot> 2
+<bot>Turdus macrourus</bot> 2
+<bot>Turdus Macrourus</bot> 2
+<bot>Typha angustifolia</bot> 1
+<bot>Typha Angustifolia</bot> 3
+<bot>Unguis Odoratus</bot> 24
+<bot>unguis odoratus</bot> 1
+<bot>Unguis odoratus</bot> 1
+<bot>Upas</bot> 2
+<bot>Uraria Lagopodioides</bot> 15
+<bot>Uraria lagopodioides</bot> 6
+<bot>Uraria</bot> 1
+<bot>Vachellia Farnesiana</bot> 7
+<bot>Vachellia farnesiana</bot> 2
+<bot>Valeriana</bot> 10
+<bot>Vallaris Dichotomus Wall.</bot> 1
+<bot>Vallaris Dichotomus</bot> 2
+<bot>Valleriana</bot> 1
+<bot>Vallisneria</bot> 6
+<bot>Vanda Roxburghii</bot> 17
+<bot>Vangueria Spinosa</bot> 30
+<bot>Vangueria spinosa</bot> 7
+<bot>Variegata</bot> 1
+<bot>Vatica Robusta</bot> 21
+<bot>Vatica robusta</bot> 3
+<bot>Vatica</bot> 2
+<bot>Ventilago Madraspatana</bot> 1
+<bot>Verbesina Prostrata</bot> 1
+<bot>Verbesina Scandens</bot> 4
+<bot>Verbesina</bot> 5
+<bot>Vernonia Anthelminthica</bot> 18
+<bot>Vernonia anthelminthica</bot> 9
+<bot>Vernonia Anthelmintica</bot> 4
+<bot>Vernonia</bot> 1
+<bot>Vespa solitaria</bot> 1
+<bot>Vespa Solitaria</bot> 1
+<bot>Villarsia Cristata</bot> 1
+<bot>Villarsia indica</bot> 1
+<bot>Vitex Alata</bot> 1
+<bot>Vitex Negundo</bot> 37
+<bot>Vitex Paniculata</bot> 1
+<bot>Vitex Trifolia</bot> 1
+<bot>Vitex</bot> 1
+<bot>Vitis Pedata Wall</bot> 1
+<bot>Vitis Quadrangularis</bot> 3
+<bot>Webera Corymbosa</bot> 1
+<bot>Wedelia calendulacea</bot> 1
+<bot>Wedelia Calendulacea</bot> 1
+<bot>Wrightea Antidysenterica</bot> 1
+<bot>Wrightia Antidysenterica</bot> 31
+<bot>Wrightia antidysenterica</bot> 17
+<bot>Xantboxylum Alatum</bot> 1
+<bot>Xanthochymus Pictorius</bot> 7
+<bot>Xanthochymus pictorius</bot> 13
+<bot>Xanthophyllum virens</bot> 1
+<bot>Xanthorrhiza</bot> 8
+<bot>Xanthoxylon Alatum</bot> 1
+<bot>Ximenia Aegyptiaca</bot> 1
+<bot>Xylocarpus Granatum</bot> 5
+<bot>Zanthoxylon Alatum</bot> 1
+<bot>Zanthoxylon Hastile</bot> 2
+<bot>Zanthoxylon Rhetsa</bot> 1
+<bot>Zedoary</bot> 1
+<bot>Zerumbet</bot> 6
+<bot>Zingiber Zerumbet</bot> 1
+<bot>Zizyphus Cenoplia</bot> 1
+<bot>Zizyphus Jujuba</bot> 15
+<bot>Zizyphus Scandens</bot> 2
+<bot>Zizyphus Xylopyrus</bot> 1
+<bot>Zizyphus</bot> 3

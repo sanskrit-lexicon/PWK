@@ -1,0 +1,41 @@
+pwkissues/issue88101/readme.txt
+bot tag analysis
+Begun 11-13-2023
+
+# this directory
+cd /c/xampp/htdocs/sanskrit-lexicon/pwk/pwkissues/issue101
+
+# issue 101 link
+ https://github.com/sanskrit-lexicon/PWK/issues/101
+
+# start with temp_pw_0.txt as copy of
+  csl-orig/v02/pw/pw.txt at commit d847fe33dd4e2626ebf8869325e0bca452a5f20d
+# prepare temp_pw_hk_0.txt as HK version for @maltenth:
+(ref: https://github.com/sanskrit-lexicon/PWK/blob/master/pwkissues/issue95/pwtranscode/readme.txt)
+
+---------------------------------------------------
+generate a sorted list of bot tag instances with frequences
+----- bot_freq_pw_0.txt
+python bot_freq.py temp_pw_hk_0.txt bot_freq_pw_0.txt
+8259 bot tags
+1438 distinct bot tags
+<bot>Acacia Catechu Willd.</bot> 1
+<bot>Acacia Catechu</bot> 48
+<bot>Acacia catechu</bot> 3
+
+----- bot_freq_mw.txt
+python bot_freq.py /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt bot_freq_mw.txt
+9244 bot tags
+1560 distinct bot tags
+<bot>Acacia Catechu</bot> 45
+
+----- bot_freq_pw_0_withmw.txt
+python bot_freq_withmw.py temp_pw_hk_0.txt bot_freq_mw.txt bot_freq_pw_0_withmw.txt
+8259 bot tags
+1438 distinct bot tags
+<bot>Acacia Catechu Willd.</bot> 1 MW 0
+<bot>Acacia Catechu</bot> 48 MW 45
+<bot>Acacia catechu</bot> 3 MW 0
+
+-------------------------------------------
+
