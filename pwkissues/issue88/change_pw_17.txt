@@ -1,0 +1,138 @@
+; ********************************************************
+; change_pw_17.txt  changes from temp_pw_16c.txt
+; Part 1: 2  broken bar
+; Part 2: 2  <ab>das.</ab> -> <ab n="at the same place">das.</ab>
+; Part 3: 15  'das.' from @maltenth
+;         Ref: https://github.com/sanskrit-lexicon/PWK/issues/88#issuecomment-1806790910
+; Part 4:  2  Undo Part 2 ! [local abbrevs not needed]
+; ********************************************************
+; Part 1: 2  broken bar
+; ********************************************************
+; <L>22839<pc>1278-3<k1>OdanyAyani<k2>*OdanyAyani<e>100
+108204 old *{#OdanyAyani#} (<is>gaṇa</is> {#tikAdi#} in der <ls>KĀŚ.</ls>) und
+;
+108204 new *{#OdanyAyani#} (<is>gaṇa</is> {#tikAdi#} in der <ls>KĀŚ.</ls>) und *{#Odanyi#}¦
+;---------------------------------------------------
+; <L>22839<pc>1278-3<k1>OdanyAyani<k2>*OdanyAyani<e>100
+108206 old *{#Odanyi#}¦ <lex>m.</lex> <ab>Patron.</ab> von {#udanya#}.
+;
+108206 new <lex>m.</lex> <ab>Patron.</ab> von {#udanya#}.
+;---------------------------------------------------
+; ********************************************************
+; Part 2: 0  <ab>das.</ab> -> <ab n="at the same place">das.</ab>
+; NOTE: Reverted in Part 4
+; ********************************************************
+; <L>68482<pc>4104-1<k1>puz<k2>puz<h>1<e>500
+340263 old <div n="1">— 5〉 bisweilen verwechselt mit {#puzpy#}; <ab>s.</ab> <ab>das.</ab>
+;
+340263 new <div n="1">— 5〉 bisweilen verwechselt mit {#puzpy#}; <ab>s.</ab> <ab n="at the same place">das.</ab>
+;---------------------------------------------------
+; <L>79617<pc>4262-3<k1>BAvay<k2>BAvay<e>100
+395268 old <div n="1">— 1〉 <ab>Caus.</ab> von <hom>1.</hom> {#BU#}; <ab>s.</ab> <ab>das.</ab>
+;
+395268 new <div n="1">— 1〉 <ab>Caus.</ab> von <hom>1.</hom> {#BU#}; <ab>s.</ab> <ab n="at the same place">das.</ab>
+;---------------------------------------------------
+; ********************************************************
+; Part 3: 15  'das.' from @maltenth
+; ********************************************************
+; <L>427<pc>1005-3<k1>agaRya<k2>agaRya<e>100
+1979 old {#agaRya#}¦ <lex>Adj.</lex> <ab>Das.</ab> <ls>Spr. 7688</ls>. <ls n="Spr.">7745</ls>.
+;
+1979 new {#agaRya#}¦ <lex>Adj.</lex> <ab>dass.</ab> <ls>Spr. 7688</ls>. <ls n="Spr.">7745</ls>.
+;---------------------------------------------------
+; <L>833<pc>1010-2<k1>aGavinASin<k2>aGavinASin<e>100
+3860 old {#aGavinASin#}¦ <lex>Adj.</lex> <ab>das.</ab> <ls>Spr. 7853</ls>.
+;
+3860 new {#aGavinASin#}¦ <lex>Adj.</lex> <ab>dass.</ab> <ls>Spr. 7853</ls>.
+;---------------------------------------------------
+; <L>843<pc>1010-2<k1>aGAy<k2>aGAy<e>500
+3901 old <div n="p">— Mit {#aBi#} <ab>das.</ab>
+;
+3901 new <div n="p">— Mit {#aBi#} <ab>dass.</ab>
+;---------------------------------------------------
+; <L>845<pc>1010-2<k1>aGArin<k2>aGAri/n<e>100
+3909 old {#aGAri/n#}¦ <lex>Adj.</lex> {%nicht salbend%} (die Harre).
+;
+3909 new {#aGAri/n#}¦ <lex>Adj.</lex> {%nicht salbend%} (die Haare).
+;---------------------------------------------------
+; <L>1921<pc>1023-1<k1>atimanohara<k2>atimanohara<e>100
+8896 old {#atimanohara#}¦ <lex>Adj.</lex> <ab>das.</ab> <ls>R. 1,9,55</ls>.
+;
+8896 new {#atimanohara#}¦ <lex>Adj.</lex> <ab>dass.</ab> <ls>R. 1,9,55</ls>.
+;---------------------------------------------------
+; <L>51987<pc>3112-1<k1>dfQaBaktika<k2>dfQaBaktika<e>100
+257372 old {#dfQaBaktika#} und {#°Baktimant#} (<ls>R. GORR. 2,11,28</ls>)¦ <lex>Adj.</lex> <ab>das.</ab>
+;
+257372 new {#dfQaBaktika#} und {#°Baktimant#} (<ls>R. GORR. 2,11,28</ls>)¦ <lex>Adj.</lex> <ab>dass.</ab>
+;---------------------------------------------------
+; <L>68137<pc>4099-3<k1>puru<k2>puru/<e>100
+338672 old <div n="2">— a〉 (nur die Formen {#puru/, pu/rU/, pu/rU/Ri, pu/rU/RAm#} und <ab>das.</ab> <lex>f.</lex> {#pUrvI/#} in verschiedenen casus) {%viel, reichlich%}. In der späterren Sprache nur am Anfange einiger Composita. <lex>Adv.</lex> {#puru/#} und {#pu/rU/#} {%viel, oft, sehr%} (auch mit einem <ab>Compar.</ab> und <ab>Superl.</ab>).
+;
+338672 new <div n="2">— a〉 (nur die Formen {#puru/, pu/rU/, pu/rU/Ri, pu/rU/RAm#} und <ab>das.</ab> <lex>f.</lex> {#pUrvI/#} in verschiedenen casus) {%viel, reichlich%}. In der späteren Sprache nur am Anfange einiger Composita. <lex>Adv.</lex> {#puru/#} und {#pu/rU/#} {%viel, oft, sehr%} (auch mit einem <ab>Compar.</ab> und <ab>Superl.</ab>).
+;---------------------------------------------------
+; <L>72468<pc>4159-3<k1>prapARika<k2>prapARika<e>100
+359653 old {#prapARika#}¦ <lex>m.</lex> <ab>das.</ab> <ls>CARAKA. 5,8</ls>.
+;
+359653 new {#prapARika#}¦ <lex>m.</lex> <ab>dass.</ab> <ls>CARAKA. 5,8</ls>.
+;---------------------------------------------------
+; <L>89314<pc>5113-3<k1>ya<k2>ya/<h>1<e>500
+444809 old <div n="1">— 1〉 {%wer, welcher%}. {#ya/dDa vo ba/lam#} mitten in einem Satze so <ab>v. a.</ab> {%pro robore vestro%}. Die correlativen Demonstrative sind; {#sa/#} (der Einfachheit wegen setze ich hier und in der Folge stets nur den <ab>Nomin.</ab> <ab>Sg.</ab> <lex>m.</lex>), {#sya/#}; (<ls>ṚV. 1,52,1. 61,15. 63,8. 178,1. 8,10,3</ls>), {#eza/H#}; {#ayam#}, {#asO#}, {#sa ezaH#}; {#eza/ sya/H#}; (<ls>ṚV. 1,87,5. 9,108,4. 5</ls>), {#ayaM saH#}, {#so 'yam#} (<ls n="Chr.">250,8</ls>), {#tAdfSaH#}, {#etAvAn#} (<ls n="Chr.">191,3</ls>), {#Idfk#}, {#taTA#} (in Correlation mit {#yad#} {%was%}). Das erwartete Demonstrativ fehlt bisweilen (<ls>GAUT. 12,1. 19,9. 20,15</ls>), andererseits aber auch das Relativ. Zwei und mehrere Relativa in einem und demselben Satze ({#yasminnahani yadahaH#}). Ein oder mehrere Subjecte werden durch das <ab>Relat.</ab> zu einem Satze verbunden und dadurch hervorgehoben ({#yastvaM kaTaM vetTa#} so <ab>v. a.</ab> {%woher weisst du Etwas?%} {#yacca kAmasuKaM loke yacca divyaM mahatsuKam — ete#}). Nicht selten wird ein auf diese Weise erweitertes Subject andern Subjecten angereiht, ohne dass ein besonderer Nachdruck darauf läge, aus rein metrischen Rücksichten ({#anDo#} {#jaqaH#} {#pIWasarpI#} {#saptatyA#} {#sTaviraSca#} {#yaH#} statt des einfachen {#sTaviraSca#}). Auffallender ist, dass sogar ein Object in einen solchen relativen Satz aufgelöst und andern Objecten angereiht wird ({#ye#} {#ca#} {#mAnuzAH#} = {#mAnuzAMSca#}). Das auf solche Weise ein Subject hervorvorhebende <ab>Relat.</ab> erscheint ohne Rücksicht auf Genus und Numerus des Subjects häufig im <ab>Nomin.</ab> <ab>Sg.</ab> <lex>n.</lex> ({#yajYa#} {#u#} {#ha#} {#vA#} {#eza#} {#pratyakzaM#} {#yadbrahmA#}). Ein solches {#ya/d#} lässt sich durch {%was — betrifft%} wiedergeben. In dem Satze {#ta/to#} {#devA/#} {#e/taM#} {#va/jraM#} {#dadfSuryadapa/H#} steht {#ya/d#} vor einem <ab>Acc.</ab> und bedeutet so <ab>v. a.</ab> {%nämlich%}. {#yad#} nach einer directen, mit {#iti#} schliessenden Rede lässt sich durch {%beim%}
+;
+444809 new <div n="1">— 1〉 {%wer, welcher%}. {#ya/dDa vo ba/lam#} mitten in einem Satze so <ab>v. a.</ab> {%pro robore vestro%}. Die correlativen Demonstrative sind: {#sa/#} (der Einfachheit wegen setze ich hier und in der Folge stets nur den <ab>Nomin.</ab> <ab>Sg.</ab> <lex>m.</lex>), {#sya/#}; (<ls>ṚV. 1,52,1. 61,15. 63,8. 178,1. 8,10,3</ls>), {#eza/H#}; {#ayam#}, {#asO#}, {#sa ezaH#}; {#eza/ sya/H#}; (<ls>ṚV. 1,87,5. 9,108,4. 5</ls>), {#ayaM saH#}, {#so 'yam#} (<ls n="Chr.">250,8</ls>), {#tAdfSaH#}, {#etAvAn#} (<ls n="Chr.">191,3</ls>), {#Idfk#}, {#taTA#} (in Correlation mit {#yad#} {%was%}). Das erwartete Demonstrativ fehlt bisweilen (<ls>GAUT. 12,1. 19,9. 20,15</ls>), andererseits aber auch das Relativ. Zwei und mehrere Relativa in einem und demselben Satze ({#yasminnahani yadahaH#}). Ein oder mehrere Subjecte werden durch das <ab>Relat.</ab> zu einem Satze verbunden und dadurch hervorgehoben ({#yastvaM kaTaM vetTa#} so <ab>v. a.</ab> {%woher weisst du Etwas?%} {#yacca kAmasuKaM loke yacca divyaM mahatsuKam — ete#}). Nicht selten wird ein auf diese Weise erweitertes Subject andern Subjecten angereiht, ohne dass ein besonderer Nachdruck darauf läge, aus rein metrischen Rücksichten ({#anDo#} {#jaqaH#} {#pIWasarpI#} {#saptatyA#} {#sTaviraSca#} {#yaH#} statt des einfachen {#sTaviraSca#}). Auffallender ist, dass sogar ein Object in einen solchen relativen Satz aufgelöst und andern Objecten angereiht wird ({#ye#} {#ca#} {#mAnuzAH#} = {#mAnuzAMSca#}). Das auf solche Weise ein Subject hervorvorhebende <ab>Relat.</ab> erscheint ohne Rücksicht auf Genus und Numerus des Subjects häufig im <ab>Nomin.</ab> <ab>Sg.</ab> <lex>n.</lex> ({#yajYa#} {#u#} {#ha#} {#vA#} {#eza#} {#pratyakzaM#} {#yadbrahmA#}). Ein solches {#ya/d#} lässt sich durch {%was — betrifft%} wiedergeben. In dem Satze {#ta/to#} {#devA/#} {#e/taM#} {#va/jraM#} {#dadfSuryadapa/H#} steht {#ya/d#} vor einem <ab>Acc.</ab> und bedeutet so <ab>v. a.</ab> {%nämlich%}. {#yad#} nach einer directen, mit {#iti#} schliessenden Rede lässt sich durch {%beim%}
+;---------------------------------------------------
+; <L>95089<pc>5206-1<k1>romodgati<k2>romodgati<e>100
+474718 old {#romodgati#}¦ <lex>f.</lex> <ab>das.</ab>
+;
+474718 new {#romodgati#}¦ <lex>f.</lex> <ab>dass.</ab>
+;---------------------------------------------------
+; <L>95308<pc>5209-3<k1>lakzay<k2>lakzay<e>500
+475918 old <div n="1">— 1〉 <ab>das.</ab>
+;
+475918 new <div n="1">— 1〉 <ab>dass.</ab>
+;---------------------------------------------------
+; <L>111442<pc>6221-2<k1>SAtakumBIya<k2>SAtakumBIya<e>100
+559587 old {#SAtakumBIya#}¦ <lex>Adj.</lex> <ab>das.</ab> <ls>Ind. St. 15,434</ls>. <ls>DAMAYANTĪK. 2,24</ls>.
+;
+559587 new {#SAtakumBIya#}¦ <lex>Adj.</lex> <ab>dass.</ab> <ls>Ind. St. 15,434</ls>. <ls>DAMAYANTĪK. 2,24</ls>.
+;---------------------------------------------------
+; <L>111991<pc>6229-1<k1>SAsanadevI<k2>SAsanadevI<e>100
+562369 old {#SAsanadevI#}¦ <lex>f.</lex> <ab>das.</ab> <ls>HEM. PAR. 9,93</ls>.
+;
+562369 new {#SAsanadevI#}¦ <lex>f.</lex> <ab>dass.</ab> <ls>HEM. PAR. 9,93</ls>.
+;---------------------------------------------------
+; <L>132031<pc>7231-3<k1>svaj<k2>svaj<e>500
+662719 old <div n="p">— Mit {#aBi#}, {#°zvajate#} <ab>das.</ab> <ls>ŚIŚ. 13,10</ls>.
+;
+662719 new <div n="p">— Mit {#aBi#}, {#°zvajate#} <ab>dass.</ab> <ls>ŚIŚ. 13,10</ls>.
+;---------------------------------------------------
+; <L>135485<pc>7284-2<k1>hEma<k2>hEma<h>3<e>100
+680579 old <div n="2">— a〉 <ab>das.</ab>
+;
+680579 new <div n="2">— a〉 <ab>dass.</ab>
+;---------------------------------------------------
+; ********************************************************
+; Part 4:  2  Undo Part 2 ! [local abbrevs not needed]
+; ********************************************************
+; <L>68482<pc>4104-1<k1>puz<k2>puz<h>1<e>500
+340263 old <div n="1">— 5〉 bisweilen verwechselt mit {#puzpy#}; <ab>s.</ab> <ab n="at the same place">das.</ab>
+;
+340263 new <div n="1">— 5〉 bisweilen verwechselt mit {#puzpy#}; <ab>s.</ab> <ab>das.</ab>
+;---------------------------------------------------
+; <L>79617<pc>4262-3<k1>BAvay<k2>BAvay<e>100
+395268 old <div n="1">— 1〉 <ab>Caus.</ab> von <hom>1.</hom> {#BU#}; <ab>s.</ab> <ab n="at the same place">das.</ab>
+;
+395268 new <div n="1">— 1〉 <ab>Caus.</ab> von <hom>1.</hom> {#BU#}; <ab>s.</ab> <ab>das.</ab>
+;---------------------------------------------------
+; ********************************************************
+; ********************************************************
+; ********************************************************
+; ********************************************************
+; ********************************************************
+; ********************************************************
+; ********************************************************
+; ********************************************************
+; ********************************************************
+; ********************************************************
+; ********************************************************
+; ********************************************************
+; ********************************************************

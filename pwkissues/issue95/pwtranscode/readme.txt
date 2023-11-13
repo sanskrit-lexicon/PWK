@@ -113,3 +113,28 @@ python pw_transcode.py deva1 slp1 temp_pw_0_deva1.txt temp_pw_0_deva1_slp1.txt
 Now, temp_pw_0.txt and temp_pw_0_deva1_slp1.txt should be the same
 diff temp_pw_0.txt temp_pw_0_deva1_slp1.txt 
 The files are the same!
+--------------------------------------------------
+11-09-2023
+HK transcoding requested by @maltenth
+cd /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue95/pwtranscode
+cp /c/xampp/htdocs/cologne/csl-websanlexicon/v02/makotemplates/web/utilities/transcoder/*hk*.xml transcoder/
+
+
+# get latest copy of pw.txt
+  (this is at commit 5fd4222ad497c894ed5d602fa652e4a2ec68c3cd of csl-orig)
+mkdir temphk
+cp /c/xampp/htdocs/cologne/csl-orig/v02/pw/pw.txt temphk/pw.txt
+
+python pw_transcode.py slp1 hk temphk/pw.txt temphk/pw_hk.txt
+
+# confirm invertibility:
+python pw_transcode.py hk slp1 temphk/pw_hk.txt temphk/pw_hk_slp1.txt
+diff temphk/pw.txt temphk/pw_hk_slp1.txt | wc -l
+# 0 expected
+# got 148!  Mostly these involve hiatus
+   (two vowels, 'ai', 'au'  in slp1  become ') --
+Example:
+slp1: aDaupAsana
+hk  : adhaupAsana
+slp1: aDOpAsana   Note this is different from original slp1!
+

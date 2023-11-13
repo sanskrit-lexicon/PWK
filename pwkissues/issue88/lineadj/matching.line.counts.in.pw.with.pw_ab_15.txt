@@ -1,0 +1,43 @@
+We start with the AB file (pw_ab_15) having 674189 lines and the cdsl file (pw) with 682608 lines. [diff = 8419]
+
+Firstly, done the following replacements in AB file--
+Part-0: mostly reverting ab-style to cdsl-style
+4626:	" •" -> "\n"
+3480:	"•" -> "\n"
+3066:	"\t" -> " "
+148:	";;(.*)" -> ""	;; remove the AB notes-- delete, merge and others
+119:	"\n " -> "\n" ;; remove the leading space in a line
+4:	"\n, "  ;; move the comma to 2 lines before [around the page-breaks]
+Now, we've 682295 lines in AB file (pw_ab_15a), as against 682608 lines in cdsl file (pw_a = pw). [Remaining diff = 313]
+
+Next various kinds of 'extra' blank lines are removed, and 'missing' blank lines are added--
+Part-1: involving blank lines
+(a)  "\n\n\n"	-> "\n\n"	[cdsl: (46+16+15) 77 & AB: (41+15+14) 70 = -7] ;; reduce 3+ blank lines (iteratively) to 2 blank lines
+(b)  "\n\n<div"	-> "\n<div"	[cdsl: 438 & AB: 63 = -375] ;; reduce 2 blank lines before "<div"  to 1 blank line
+(c)  "\n\n<LEND"	->  "\n<LEND"	[cdsl: 75 & AB: 56 = -19] ;; reduce 2 blank lines before <LEND to 1 blank line
+(d) "<LEND>\n<L>"	-> "<LEND>\n\n<L>"	[cdsl:  8 = +8] ;; add the missing blank line between <LEND> and <L>
+Now, we've 682106 lines in AB file (pw_ab_15b), as against 682026 lines of cdsl file (pw_b). [Remaining diff = -80]
+
+Then, various splittings are done in the lines--
+Part-2: splitting the lines
+(a) " <div"	-> "\n<div" [cdsl: 76 & AB: 6 = +70] ;; "<div" inside a line to a new line
+(b) <F> line to a new line in cdsl file. [+1]
+(c) L-131635 body split into 2 lines in cdsl file. [+1]
+Now, we've 682112 lines in AB file (pw_ab_15c), as against 682104 lines of cdsl file (pw_c). [Remaining diff = -8]
+
+Finally, we enter the tougher part of matching the lines--
+Part-3: changes 'surrounding' the page-breaks (mostly reverting the 'recent' corrections by Jim, to the base-version used by AB)
+(a) Rearranged the lines around Page1279-1 in cdsl file. [1 & 0;  Remaining diff  = -7]
+(b) Rearranged the lines around Page2087-2 in cdsl file. [1 & 0;  Remaining diff  = -6]
+(c) Rearranged the lines around Page3001-1 in cdsl file. [+1 & 0;  Remaining diff  = -7]
+(d) Rearranged the lines around Page4001-1 in cdsl file. [0 & 0;  Remaining diff  = -7]
+(e) Rearranged the lines around Page4223-3 in cdsl file. [1 & 0;  Remaining diff  = -6]
+(f) Rearranged the lines around Page4247-3 in ab file. [0 & 1;  Remaining diff  = -7] 
+(g) Rearranged the lines around Page5182-3 in cdsl file. [1 & 0;  Remaining diff  = -6]
+(h) Rearranged the lines around Page5215-2 in cdsl file. [1 & 0;  Remaining diff  = -5]
+(i) Rearranged the lines around Page6011-3 in cdsl file. [1 & 0;  Remaining diff  = -4]
+(j) Rearranged the lines around Page6031-1 in cdsl file. [1 & 0;  Remaining diff  = -3]
+(k) Rearranged the lines around Page6133-3 in cdsl file. [1 & 0;  Remaining diff  = -2]
+(l) Rearranged the lines around Page6249-1 in cdsl file. [2 & 0;  Remaining diff  = 0]
+
+At the end, we have both AB file (pw_ab_15d) and cdsl file (pw_d) with 682113 lines.

@@ -1,0 +1,216 @@
+#-*- coding:utf-8 -*-
+"""broken_bar_check.py
+"""
+import sys,re,codecs
+## https:##stackoverflow.com/questions/27092833/unicodeencodeerror-charmap-codec-cant-encode-characters
+## This required by git bash to avoid error
+## UnicodeEncodeError: 'charmap' codec cannot encode characters 
+## when run in a git bash script.
+
+sys.stdout.reconfigure(encoding='utf-8') 
+
+def read_lines(filein):
+ with codecs.open(filein,encoding='utf-8',mode='r') as f:
+  lines = [x.rstrip('\r\n') for x in f]
+ return lines
+
+def adjust_1(lines):
+ # remove blank lines within entry
+ # lines starting with <LEND> must = <LEND>
+ newlines = []  # returned
+ metaline = None
+ for iline,line in enumerate(lines):
+  if iline == 0: # include first line
+   newlines.append(line)
+  elif line.startswith('<L>'):
+   metaline = line
+   newlines.append(line)
+  elif line.startswith('<LEND>'):
+   metaline = None
+   newline = '<LEND>'
+   newlines.append(newline)
+  elif metaline == None:
+   newlines.append(line) # not in an entry
+  else:
+   # line within entry.
+   # skip if blank
+   newline = line.strip() # remove initial or trailing spaces
+   if newline == '':
+    pass  # skip blank line in entry
+   else:
+    newlines.append(newline)
+ print('1: # lines %s -> %s' %(len(lines),len(newlines)))
+ return newlines
+
+def adjust_2_helper(line0):
+ line = line0.strip()
+ divs = re.findall(r'<div [^>]*>',line)
+ if len(divs) == 0:
+  return [line]
+ if (len(divs) == 1) and line.startswith('<div '):
+  return [line]                          
+ # multiple divs
+ parts = re.split(r'(<div [^>]*>)',line)
+ prevdiv = ''
+ ans = []
+ dbg = False
+ # dbg = line.startswith('{#iNk#}¦ = {#iNg#}. <div n="p">')
+ for ipart,part in enumerate(parts):
+  if dbg: print('part[%s]: %s' % (ipart,part))
+  if part == '':
+   continue
+  if part.startswith('<div '):
+   prevdiv = part
+  else:
+   newline = prevdiv + part
+   newline = newline.strip()
+   ans.append(newline)
+   prevdiv = ''
+ if dbg: # dbg
+  print('old:',line)
+  for x in ans:
+   print('new:',x)
+  exit(1)
+ return ans
+
+def adjust_2(lines):
+ # insert new line at a div
+ newlines = []  # returned
+ metaline = None
+ for iline,line in enumerate(lines):
+  if iline == 0: # include first line
+   newlines.append(line)
+  elif line.startswith('<L>'):
+   metaline = line
+   newlines.append(line)
+  elif line == '<LEND>':
+   metaline = None
+   newlines.append(line)
+  elif metaline == None:
+   newlines.append(line) # not in an entry
+  else:
+   # line within entry.
+   # if the line has a <div> in the middle, make extra line(s)
+   news = adjust_2_helper(line)
+   for newline in news:
+    newlines.append(newline)
+ print('2: # lines %s -> %s' %(len(lines),len(newlines)))
+ return newlines
+
+
+def adjust_3(lines):
+ # at most one blank line between entries
+ newlines = []  # returned
+ metaline = False  
+ nblank = 0
+ for iline,line in enumerate(lines):
+  line = line.strip() # remove spaces at beginning and end
+  if iline == 0: # include first line
+   newlines.append(line)
+  elif line.startswith('<L>'):
+   metaline = line
+   newlines.append(line)
+  elif line == '<LEND>':
+   metaline = None
+   newlines.append(line)
+   nblank = 0
+  elif metaline == False:
+   newlines.append(line) # line precedes first entry
+  elif metaline == None:
+   # line is between entries (<LEND> prev entry, and <L> next entry)
+   if line == '':
+    nblank = nblank + 1
+    if nblank == 1:
+     newlines.append(line)
+    else:  # exclude extra blanks
+     pass
+   else:
+    # non-blank line between entries
+    newlines.append(line)
+  else:
+   # line within entry.
+   newlines.append(line)
+ print('3: # lines %s -> %s' %(len(lines),len(newlines)))
+ return newlines
+
+def adjust_4(lines):
+ # at least one blank line between entries
+ newlines = []  # returned
+ metaline = False  
+ nlines = len(lines)
+ for iline,line in enumerate(lines):
+  line = line.strip() # remove spaces at beginning and end
+  if iline == 0: # include first line
+   newlines.append(line)
+  elif line.startswith('<L>'):
+   metaline = line
+   newlines.append(line)
+  elif line == '<LEND>':
+   metaline = None
+   newlines.append(line)
+   iline1 = iline+1
+   if iline1 < nlines:
+    nextline = lines[iline1]
+    if nextline.startswith('<L>'):
+     # insert blank line
+     newlines.append('')
+  elif metaline == False:
+   newlines.append(line) # line precedes first entry
+  elif metaline == None:
+   newlines.append(line)
+  else:
+   # line within entry.
+   newlines.append(line)
+ print('4: # lines %s -> %s' %(len(lines),len(newlines)))
+ return newlines
+
+def adjust_5_helper(line,metaline):
+ news = []
+ if metaline.startswith(('<L>22839<','<L>29651<')):
+  news = ['xxx']
+ return news
+
+def check_bb(lines):
+ metaline = None
+ metaline_iline = None
+ nerr = 0
+ for iline,line in enumerate(lines):
+  if iline == 0: # include first line
+   pass
+  elif line.startswith('<L>'):
+   metaline = line
+   metaline_iline = iline
+   nextline = lines[iline+1]
+   if '¦' not in nextline:
+    print('ERROR: No ¦ in line after metaline',metaline)
+    nerr = nerr + 1
+  elif line == '<LEND>':
+   metaline = None
+  elif metaline == None:
+   pass # not in an entry
+  else:
+   # line within entry.
+   if '¦' not in line:
+    continue
+   # first check
+   if iline != (metaline_iline + 1):
+    # wrong location for broken bar
+    print('ERROR: misplaced ¦ in entry %s' % metaline)
+    nerr = nerr + 1
+   bbs = re.findall(r'¦',line)
+   if len(bbs) != 1:
+    relative_iline = iline - imetaline
+    print('ERROR: %s ¦ in line %s of entry %s' % (relative_iline,metaline))
+    nerr = nerr + 1
+ print(nerr,'error(s) found by broken_bar_check')
+
+def write(fileout,lines):
+ with codecs.open(fileout,"w","utf-8") as f:
+  for line in lines:
+   f.write(line + '\n')
+ print(len(lines),"written to",fileout)
+ 
+if __name__=="__main__":
+ filein = sys.argv[1] #  xxx.txt (path to digitization of xxx)
+ lines = read_lines(filein)
+ check_bb(lines)

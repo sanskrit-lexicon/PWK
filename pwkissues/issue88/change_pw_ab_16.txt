@@ -1,0 +1,267 @@
+; ********************************************************
+; changes from temp_pw_ab_15d.txt to temp_pw_ab_15e.txt
+; Part 1  51 : 
+; ********************************************************
+; Part 1  51 :
+; ********************************************************
+; <L>6582<pc>1077-2<k1>apUraRa<k2>apUraRa<e>100
+30037 old <div n="1">— 2〉 *<lex>f.</lex> {#I#} {%<bot>Salmalia malabarica Sch. u. End.</bot>%} 
+;
+30037 new <div n="1">— 2〉 *<lex>f.</lex> {#I#} {%<bot>Salmalia malabarica Sch. u. End.</bot>%}
+;---------------------------------------------------
+; <L>9237<pc>1108-1<k1>arkakAntA<k2>*arkakAntA<e>100
+42434 old *{#arkakAntA#}¦ <lex>f.</lex> {%<bot>Polanisia icosandra W. u. A.</bot>%} 
+;
+42434 new *{#arkakAntA#}¦ <lex>f.</lex> {%<bot>Polanisia icosandra W. u. A.</bot>%}
+;---------------------------------------------------
+; <L>10857<pc>1127-3<k1>avAntaradIkza<k2>avAntaradIkza/<e>000
+50254 old {#avAntaradIkza/#} (<ls>ŚAT. BR. 3,4,3,2</ls>) und *{#°dIkzin#}
+;
+50254 new {#avAntaradIkza/#} (<ls>ŚAT. BR. 3,4,3,2</ls>) und *{#°dIkzin#} (<ls>MAHĀBH. 5,20,a</ls>)¦
+;---------------------------------------------------
+; <L>10857<pc>1127-3<k1>avAntaradIkza<k2>avAntaradIkza/<e>000
+50256 old (<ls>MAHĀBH. 5,20,a</ls>)¦ <lex>Adj.</lex> {%der eine dazwischen geschobene Weihe vollzieht%}.
+;
+50256 new <lex>Adj.</lex> {%der eine dazwischen geschobene Weihe vollzieht%}.
+;---------------------------------------------------
+; <L>21656<pc>1264-3<k1>fziloka<k2>fziloka<e>100
+102685 old {#fziloka#}¦ <lex>m.</lex> {%die Welt der%} <is>Ṛṣi</is>. zwischen {#devaloka#} und {#brahmaloka#} <ls>AV. PARIŚ. 38,3</ls>.
+;
+102685 new {#fziloka#}¦ <lex>m.</lex> {%die Welt der%} <is>Ṛṣi</is>. Zwischen {#devaloka#} und {#brahmaloka#} <ls>AV. PARIŚ. 38,3</ls>.
+;---------------------------------------------------
+; <L>26208<pc>2044-2<k1>kAYcanAra<k2>kAYcanAra<e>100
+125785 old {#kAYcanAra#} (<ls>RĀJAN. 10,3</ls>. <ls>BHĀVAPR. 2,84</ls>. <ls>BĀLAR. 279,7</ls>),
+;
+125785 new {#kAYcanAra#} (<ls>RĀJAN. 10,3</ls>. <ls>BHĀVAPR. 2,84</ls>. <ls>BĀLAR. 279,7</ls>), *{#°nAraka#} und *{#°nAla#}¦
+;---------------------------------------------------
+; <L>26208<pc>2044-2<k1>kAYcanAra<k2>kAYcanAra<e>100
+125787 old *{#°nAraka#} und *{#°nAla#}¦ <lex>m.</lex> {%<bot>Bauhinia variegata</bot>%}.
+;
+125787 new <lex>m.</lex> {%<bot>Bauhinia variegata</bot>%}.
+;---------------------------------------------------
+; <L>38210<pc>2203-3<k1>cakracara<k2>cakracara<e>100
+186964 old <div n="1">— 1〉 <ab>Pl.</ab> {%bestimmte im Kreise sich bewegende%} (<ab>d. i.</ab> keinen festen Wohnsitz habende) überirdische Wesen.
+;
+186964 new <div n="1">— 1〉 <ab>Pl.</ab> {%bestimmte im Kreise sich bewegende%} (<ab>d. i.</ab> {%keinen festen Wohnsitz habende%}) {%überirdische Wesen%}.
+;---------------------------------------------------
+; <L>43575<pc>2278-3<k1>jyotizkaraRqa<k2>jyotizkaraRqa<e>000
+214803 old {#jyotizkaraRqa#} (<ls>BÜHLER, Rep. No. 720</ls>), {#°ka#} <lex>n.</lex> und
+;
+214803 new {#jyotizkaraRqa#} (<ls>BÜHLER, Rep. No. 720</ls>), {#°ka#} <lex>n.</lex> und {#°zkalpalatA#} <lex>f.</lex>¦
+;---------------------------------------------------
+; <L>43575<pc>2278-3<k1>jyotizkaraRqa<k2>jyotizkaraRqa<e>000
+214805 old {#°zkalpalatA#} <lex>f.</lex>¦ Titel verschiedener Werke.
+;
+214805 new Titel verschiedener Werke.
+;---------------------------------------------------
+; <L>44680<pc>3012-2<k1>tam<k2>tam<e>500
+220751 old <div n="m">— <ab>Caus.</ab> {%ersticken%} (<ab>trans.</ab>). <ls>ĀPAST. ŚR. 5,17,8</ls>.
+;
+220751 new <div n="m">— <ab>Caus.</ab> {%ersticken%} (<ab>trans.</ab>) <ls>ĀPAST. ŚR. 5,17,8</ls>.
+;---------------------------------------------------
+; <L>44905<pc>3016-3<k1>tarkapariBAzA<k2>tarkapariBAzA<e>100
+222131 old {#tarkapariBAzA#} <lex>f.</lex>, {#tarkapAda#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>), {#tarkaprakASa#} <lex>m.</lex>, {#tarkapratibanDakatArahasya#} <lex>n.</lex>, {#°pratibanDakarahasya#} <lex>n.</lex>, {#tarkapradIpa#} <lex>m.</lex>, {#tarkaBAzA#} <lex>f.</lex>, {#°wippaRI#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>), {#°prakaraRa#} <lex>n.</lex> (<ls><ab>ebend.</ab></ls>), {#°prakASa#} <lex>m.</lex>,
+;
+222131 new {#tarkapariBAzA#} <lex>f.</lex>, {#tarkapAda#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>), {#tarkaprakASa#} <lex>m.</lex>, {#tarkapratibanDakatArahasya#} <lex>n.</lex>, {#°pratibanDakarahasya#} <lex>n.</lex>, {#tarkapradIpa#} <lex>m.</lex>, {#tarkaBAzA#} <lex>f.</lex>, {#°wippaRI#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>), {#°prakaraRa#} <lex>n.</lex> (<ls><ab>ebend.</ab></ls>), {#°prakASa#} <lex>m.</lex>, {#°prakASikA#} <lex>f.</lex>, {#°BAvaprakASikA#} <lex>f.</lex>, {#°vyAKyA#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>), {#°sAramaYjarI#} <lex>f.</lex>, {#tarkamaYjarI#} <lex>f.</lex> und {#tarkamaRidIpikA#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>)¦
+;---------------------------------------------------
+; <L>44905<pc>3016-3<k1>tarkapariBAzA<k2>tarkapariBAzA<e>100
+222133 old {#°prakASikA#} <lex>f.</lex>, {#°BAvaprakASikA#} <lex>f.</lex>, {#°vyAKyA#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>), {#°sAramaYjarI#} <lex>f.</lex>, {#tarkamaYjarI#} <lex>f.</lex> und {#tarkamaRidIpikA#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>)¦ Titel von Werken.
+;
+222133 new Titel von Werken.
+;---------------------------------------------------
+; <L>45744<pc>3028-1<k1>tiTiBUzaRa<k2>tiTiBUzaRa<e>100
+226434 old {#tiTiBUzaRa#} <lex>n.</lex>, {#tiTiratna#} <lex>n.</lex>, {#°mAlA#} <lex>f.</lex>, {#tiTiviveka#}
+;
+226434 new {#tiTiBUzaRa#} <lex>n.</lex>, {#tiTiratna#} <lex>n.</lex>, {#°mAlA#} <lex>f.</lex>, {#tiTiviveka#} <lex>m.</lex>, {#tiTisaMgraha#} <lex>m.</lex>, {#tiTisAraRikA#} <lex>f.</lex>, {#tiTisAriRI#} <lex>f.</lex> und {#tiTInduSoKara#} <lex>m.</lex>¦
+;---------------------------------------------------
+; <L>45744<pc>3028-1<k1>tiTiBUzaRa<k2>tiTiBUzaRa<e>100
+226436 old <lex>m.</lex>, {#tiTisaMgraha#} <lex>m.</lex>, {#tiTisAraRikA#} <lex>f.</lex>, {#tiTisAriRI#} <lex>f.</lex> und {#tiTInduSoKara#} <lex>m.</lex>¦ Titel von Werken.
+;
+226436 new Titel von Werken.
+;---------------------------------------------------
+; <L>53447<pc>3129-2<k1>dru<k2>dru<h>1<e>500
+264338 old <div n="p">— Mit {#A#} {#/pra/#} {%herbeilaufen%}.
+;
+264338 new <div n="p">— Mit {#A/#} {#pra/#} {%herbeilaufen%}.
+;---------------------------------------------------
+; <L>61463<pc>3245-1<k1>nyAyakOmudI<k2>nyAyakOmudI<e>100
+304795 old {#nyAyakOmudI#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>), {#nyAyakOstuBa#} <lex>m.</lex> oder <lex>n.</lex>, {#nyAyakroqa#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>), {#nyAyacandrikA#} <lex>f.</lex> (<ls><ab>ebend.</ab></ls>), {#nyAyacintAmaRi#} <lex>m.</lex> (<ls>WEBER, Lit.</ls>) {#nyAyacUqARi#} <lex>m.</lex>, {#nyAyatantra#} <lex>n.</lex> (<ls>OPP. CAT. 1</ls>), {#°boDinI#}
+;
+304795 new {#nyAyakOmudI#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>), {#nyAyakOstuBa#} <lex>m.</lex> oder <lex>n.</lex>, {#nyAyakroqa#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>), {#nyAyacandrikA#} <lex>f.</lex> (<ls><ab>ebend.</ab></ls>), {#nyAyacintAmaRi#} <lex>m.</lex> (<ls>WEBER, Lit.</ls>) {#nyAyacUqARi#} <lex>m.</lex>, {#nyAyatantra#} <lex>n.</lex> (<ls>OPP. CAT. 1</ls>), {#°boDinI#} <lex>f.</lex> und {#nyAyataraMgiRI#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>)¦
+;---------------------------------------------------
+; <L>61463<pc>3245-1<k1>nyAyakOmudI<k2>nyAyakOmudI<e>100
+304797 old <lex>f.</lex> und {#nyAyataraMgiRI#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>)¦ Titel von Werken.
+;
+304797 new Titel von Werken.
+;---------------------------------------------------
+; <L>62680<pc>4018-1<k1>paT<k2>pa/T<h>2<e>500
+311023 old <div n="1">— 1〉 {%Pfad, Weg, Bahn%} (<ab>eig.</ab> und <ab>übertr.</ab>). {#SivAste panTAnaH santu#} so <ab>v. a.</ab> {%glückliche Reise!%} {#anDasya panTAH#} {%der Weg gehört dem Blinden%}. so <ab>v. a.</ab> {%einem Blinden muss man aus dem Wege gehen%}. {#panTAnaM dA#} {%Jmd%} (<ab>Gen.</ab>) {%den Weg einräumen%}. so <ab>v. a.</ab> {%ausweichen beim Gehen%}. {#paTi#} auch {%unterweges%} <ls n="Chr.">135,23</ls>. <ls n="Chr.">151,16</ls>. {#paTAnena#} {%auf diesem Wege, auf diese Weise%}. {#paTi ni-as#} {%auf den Weg werfen,%} so <ab>v. a.</ab> {%Etwas aufgeben%}. Nur ganz ausnahmsweise am Ende eines <ab>Comp.</ab> wo in der Regel {#paTa#} erscheint.
+;
+311023 new <div n="1">— 1〉 {%Pfad, Weg, Bahn%} (<ab>eig.</ab> und <ab>übertr.</ab>). {#SivAste panTAnaH santu#} so <ab>v. a.</ab> {%glückliche Reise!%} {#anDasya panTAH#} {%der Weg gehört dem Blinden,%} so <ab>v. a.</ab> {%einem Blinden muss man aus dem Wege gehen%}. {#panTAnaM dA#} {%Jmd%} (<ab>Gen.</ab>) {%den Weg einräumen,%} so <ab>v. a.</ab> {%ausweichen beim Gehen%}. {#paTi#} auch {%unterweges%} <ls n="Chr.">135,23</ls>. <ls n="Chr.">151,16</ls>. {#paTAnena#} {%auf diesem Wege, auf diese Weise%}. {#paTi ni-as#} {%auf den Weg werfen,%} so <ab>v. a.</ab> {%Etwas aufgeben%}. Nur ganz ausnahmsweise am Ende eines <ab>Comp.</ab> wo in der Regel {#paTa#} erscheint.
+;---------------------------------------------------
+; <L>62821<pc>4023-1<k1>padArTakOmudI<k2>padArTakOmudI<e>100
+312077 old {#padArTakOmudI#} <lex>f.</lex>, {#padArTaKaRqana#} <lex>n.</lex>, {#°wippaRa, °wIkA#} <lex>f.</lex>, {#°vyAKyA#} <lex>f.</lex>, {#°SiromaRi#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>), {#padArTacandrikA#} <lex>f.</lex>, {#°vilAsa#} <lex>m.</lex>, {#padArTatatva#} <lex>n.</lex>, {#°wIkA#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>), {#°nirUpaRa#} <lex>n.</lex> (<ls><ab>ebend.</ab></ls>), {#°nirRaya#}
+;
+312077 new {#padArTakOmudI#} <lex>f.</lex>, {#padArTaKaRqana#} <lex>n.</lex>, {#°wippaRa, °wIkA#} <lex>f.</lex>, {#°vyAKyA#} <lex>f.</lex>, {#°SiromaRi#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>), {#padArTacandrikA#} <lex>f.</lex>, {#°vilAsa#} <lex>m.</lex>, {#padArTatatva#} <lex>n.</lex>, {#°wIkA#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>), {#°nirUpaRa#} <lex>n.</lex> (<ls><ab>ebend.</ab></ls>), {#°nirRaya#} <lex>m.</lex>, {#°vivecana#} <lex>n.</lex>, {#°vivecanaprakASa#} <lex>n.</lex>, {#padArTadIpikA#} <lex>f.</lex>, {#padArTadIpinI#} <lex>f.</lex>, {#padArTaDarmasaMgraha#} <lex>n.</lex>, {#padArTanirUpaRa#} <lex>n.</lex>, {#padArTapArijAta#} <lex>m.</lex>, {#padArTaprakASa#} <lex>n.</lex>, {#padArTaboDa#} <lex>m.</lex>, {#padArTamaRimAlA#} <lex>f.</lex>, {#°prakASa#} <lex>m.</lex>, {#padArTamAlA#} <lex>f.</lex>, {#°dIpikA#} <lex>f.</lex>, {#°prakASa#} <lex>m.</lex>, {#padArTaratnamaYjUzA#} <lex>f.</lex> (<ls>BÜHLER, Rep. No. 393</ls>), {#°ratnamAlA#} <lex>f.</lex>, {#padArTaviveka#} <lex>m.</lex>, {#padArTasaMgraha#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>) und {#padArTAdarSa#} <lex>m.</lex>¦
+;---------------------------------------------------
+; <L>62821<pc>4023-1<k1>padArTakOmudI<k2>padArTakOmudI<e>100
+312079 old <lex>m.</lex>, {#°vivecana#} <lex>n.</lex>, {#°vivecanaprakASa#} <lex>n.</lex>, {#padArTadIpikA#} <lex>f.</lex>, {#padArTadIpinI#} <lex>f.</lex>, {#padArTaDarmasaMgraha#} <lex>n.</lex>, {#padArTanirUpaRa#} <lex>n.</lex>, {#padArTapArijAta#} <lex>m.</lex>, {#padArTaprakASa#} <lex>n.</lex>, {#padArTaboDa#} <lex>m.</lex>, {#padArTamaRimAlA#} <lex>f.</lex>, {#°prakASa#} <lex>m.</lex>, {#padArTamAlA#} <lex>f.</lex>, {#°dIpikA#} <lex>f.</lex>, {#°prakASa#} <lex>m.</lex>, {#padArTaratnamaYjUzA#} <lex>f.</lex> (<ls>BÜHLER, Rep. No. 393</ls>), {#°ratnamAlA#} <lex>f.</lex>, {#padArTaviveka#} <lex>m.</lex>, {#padArTasaMgraha#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>) und {#padArTAdarSa#} <lex>m.</lex>¦ Titel von Werken.
+;
+312079 new Titel von Werken.
+;---------------------------------------------------
+; <L>79466<pc>4260-2<k1>BAradvAjagfhya<k2>BAradvAjagfhya<e>100
+394519 old {#BAradvAjagfhya#} <lex>n.</lex> (<ls>Verz. d. Oxf. H. 356,a,20</ls>), {#BAradvAjaSikzA#} <lex>f.</lex>, {#BAradvAjasaMhitA#} <lex>f.</lex> und {#BAradvAjasUtra#}
+;
+394519 new {#BAradvAjagfhya#} <lex>n.</lex> (<ls>Verz. d. Oxf. H. 356,a,20</ls>), {#BAradvAjaSikzA#} <lex>f.</lex>, {#BAradvAjasaMhitA#} <lex>f.</lex> und {#BAradvAjasUtra#} <lex>n.</lex>¦
+;---------------------------------------------------
+; <L>79466<pc>4260-2<k1>BAradvAjagfhya<k2>BAradvAjagfhya<e>100
+394521 old <lex>n.</lex>¦ Titel von Werken <ls>OPP. CAT. 1</ls>.
+;
+394521 new Titel von Werken <ls>OPP. CAT. 1</ls>.
+;---------------------------------------------------
+; <L>81615<pc>5004-3<k1>majji<k2>majji<e>000
+405883 old {#majji#}¦ in der Form {#majjayaH#} <ls>KĀTY. ŚR. 13,2,19</ls> und <ls>ŚĀṄKH. ŚR. 18,21,12</ls> fehlerhaft für {#matayaH#}
+;
+405883 new {#majji#}¦ in der Form {#majjayaH#} <ls>KĀTY. ŚR. 13,2,19</ls> und <ls>ŚĀṄKH. ŚR. 18,21,12</ls> fehlerhaft für {#matayaH#}.
+;---------------------------------------------------
+; <L>86041<pc>5066-3<k1>mADyama<k2>mADyama<e>100
+428244 old <div n="2">— a〉 {%die%} <is>Ṛṣi</is> {%derjenigen Theile der%} <ls>ṚV.</ls>-<is>Saṃhitā</is>., {%welche die Mitte des Buches%} (<is>Maṇḍala</is> 2—7) {%bilden%}.
+;
+428244 new <div n="2">— a〉 {%die%} <is>Ṛṣi</is> {%derjenigen Theile der%} <ls>ṚV.</ls>-<is>Saṃhitā</is>, {%welche die Mitte des Buches%} (<is>Maṇḍala</is> 2—7) {%bilden%}.
+;---------------------------------------------------
+; <L>89275<pc>5113-1<k1>mruc<k2>mruc<e>500
+444563 old √{#mruc#}¦ {#mro/cati#} ({#gatyarTa#}). — Mit {#ni#} untergehen (von der Sonne). — Mit {#aBini#} untergehen über (<ab>Acc.</ab>) <ls>MAITR. S. 1,8,7 (125,18. 21)</ls>.  {#aBinirmukta#} derjenige, welchen die untergehende Sonne schlofend findet, <ls>ĀPAST. 2,12,13. 22</ls>. Haüfig fehlerhaft {#aBinirmukta#} geschrieben. 
+;
+444563 new √{#mruc#}¦ {#mro/cati#} ({#gatyarTa#}). — Mit {#ni#} untergehen (von der Sonne). — Mit {#aBini#} untergehen über (<ab>Acc.</ab>) <ls>MAITR. S. 1,8,7 (125,18. 21)</ls>. {#aBinirmukta#} derjenige, welchen die untergehende Sonne schlofend findet, <ls>ĀPAST. 2,12,13. 22</ls>. Haüfig fehlerhaft {#aBinirmukta#} geschrieben.
+;---------------------------------------------------
+; <L>95529<pc>5213-2<k1>laGulalitavistara<k2>laGulalitavistara<e>100
+477057 old {#laGulalitavistara#} <lex>m.</lex>, {#laGuvasizWasidDAnta#} <lex>m.</lex>, {#laGuvAkyavftti#} <lex>f.</lex>, {#°prakASikA#} <lex>f.</lex>, {#laGuvAyustuti#} <lex>f.</lex> (<ls>BURNELL, T.</ls>),
+;
+477057 new {#laGulalitavistara#} <lex>m.</lex>, {#laGuvasizWasidDAnta#} <lex>m.</lex>, {#laGuvAkyavftti#} <lex>f.</lex>, {#°prakASikA#} <lex>f.</lex>, {#laGuvAyustuti#} <lex>f.</lex> (<ls>BURNELL, T.</ls>), {#laGuvArttika#} <lex>n.</lex> und {#laGuvAsizWasidDAnta#} <lex>m.</lex>¦
+;---------------------------------------------------
+; <L>95529<pc>5213-2<k1>laGulalitavistara<k2>laGulalitavistara<e>100
+477059 old {#laGuvArttika#} <lex>n.</lex> und {#laGuvAsizWasidDAnta#} <lex>m.</lex>¦ Titel von Werken.
+;
+477059 new Titel von Werken.
+;---------------------------------------------------
+; <L>97555<pc>6007-3<k1>vajrAkAra<k2>vajrAkAra<e>100
+487884 old {#vajrAkAra#}¦ (<lex>f.</lex> {#A#} <ls>VARĀH. BṚH. S. 68,45</ls>) und {#vajrAkfti#} <lex>Adj.</lex> {%die Gestalt des Donnerkeils%} (☓) {%habend%}. 
+;
+487884 new {#vajrAkAra#}¦ (<lex>f.</lex> {#A#} <ls>VARĀH. BṚH. S. 68,45</ls>) und {#vajrAkfti#} <lex>Adj.</lex> {%die Gestalt des Donnerkeils%} (☓) {%habend%}.
+;---------------------------------------------------
+; <L>101417<pc>6073-3<k1>vAsizWatAtparyaprakASa<k2>vAsizWatAtparyaprakASa<e>100
+509067 old {#vAsizWatAtparyaprakASa#} <lex>m.</lex>, {#vAsizWarAmAyaRa#} <lex>n.</lex>, {#vAsizWalENga#} <lex>n.</lex> (<ls>BURNELL, T.</ls>), {#vAsizWalENgya#} <lex>n.</lex> (<ls>OPP. CAT. 1</ls>),
+;
+509067 new {#vAsizWatAtparyaprakASa#} <lex>m.</lex>, {#vAsizWarAmAyaRa#} <lex>n.</lex>, {#vAsizWalENga#} <lex>n.</lex> (<ls>BURNELL, T.</ls>), {#vAsizWalENgya#} <lex>n.</lex> (<ls>OPP. CAT. 1</ls>), {#vAsizWavivaraRa#} <lex>n.</lex> (<ls>BURNELL, T.</ls>), {#vAsizWasAra#}, {#vAsizWasidDAnta#} <lex>m.</lex> (<ls>BURNELL, T.</ls>), {#vAsizWasUtra#} <lex>n.</lex> und {#vAsizWasmfti#} <lex>f.</lex> (<ls>BURNELL, T.</ls>)¦
+;---------------------------------------------------
+; <L>101417<pc>6073-3<k1>vAsizWatAtparyaprakASa<k2>vAsizWatAtparyaprakASa<e>100
+509069 old {#vAsizWavivaraRa#} <lex>n.</lex> (<ls>BURNELL, T.</ls>), {#vAsizWasAra#}, {#vAsizWasidDAnta#} <lex>m.</lex> (<ls>BURNELL, T.</ls>), {#vAsizWasUtra#} <lex>n.</lex> und {#vAsizWasmfti#} <lex>f.</lex> (<ls>BURNELL, T.</ls>)¦ Titel von Werken.
+;
+509069 new Titel von Werken.
+;---------------------------------------------------
+; <L>104499<pc>6122-3<k1>viS<k2>viS<h>3<e>100
+525219 old <hom>3.</hom> {#viS#}¦ <lex>f.</lex> schlechte *für {#viz#} {%faeces%}.
+;
+525219 new <hom>3.</hom> {#viS#}¦ <lex>f.</lex> schlechte Schreibweise für {#viz#} {%faeces%}.
+;---------------------------------------------------
+; <L>106647<pc>6152-1<k1>vfndAvanamAhAtmya<k2>vfndAvanamAhAtmya<e>100
+535770 old {#vfndAvanamAhAtmya#} <lex>n.</lex>, {#°vanayamaka#} <lex>n.</lex>, {#°vanaSataka#}
+;
+535770 new {#vfndAvanamAhAtmya#} <lex>n.</lex>, {#°vanayamaka#} <lex>n.</lex>, {#°vanaSataka#} <lex>n.</lex> und {#°vanAKyAna#} <lex>n.</lex> (<ls>OPP. CAT. 1,2912</ls>)¦
+;---------------------------------------------------
+; <L>106647<pc>6152-1<k1>vfndAvanamAhAtmya<k2>vfndAvanamAhAtmya<e>100
+535772 old <lex>n.</lex> und {#°vanAKyAna#} <lex>n.</lex> (<ls>OPP. CAT. 1,2912</ls>)¦ Titel.
+;
+535772 new Titel.
+;---------------------------------------------------
+; <L>108006<pc>6171-1<k1>vESadya<k2>vESadya<e>100
+542461 old <div n="1">— 1〉 {%Klarheit, Helle, Reinheit; Frische%}. {#manasi#} s0 <ab>v. a.</ab> {%Heiterkeit des Gemüths%}.
+;
+542461 new <div n="1">— 1〉 {%Klarheit, Helle, Reinheit; Frische%}. {#manasi#} so <ab>v. a.</ab> {%Heiterkeit des Gemüths%}.
+;---------------------------------------------------
+; <L>110828<pc>6213-3<k1>SarvAcala<k2>SarvAcala<e>100
+556676 old {#SarvAcala#}¦ <lex>m.</lex> <is>Śiva</is>ʼs, {%Berg, der%} <is>Kailāsa</is>.
+;
+556676 new {#SarvAcala#}¦ <lex>m.</lex> <is>Śiva</is>ʼs {%Berg, der%} <is>Kailāsa</is>.
+;---------------------------------------------------
+; <L>111710<pc>6224-3<k1>SArIrakanyAyanirRaya<k2>SArIrakanyAyanirRaya<e>100
+560916 old {#SArIrakanyAyanirRaya#} <lex>m.</lex> (<ls>BURNELL, T.</ls>), {#°nyAyarakzAmaRi#} <lex>m.</lex>, {#°nyAyasaMgraha#} <lex>m.</lex> (<ls>BURNELL, T.</ls>), {#SArIrakapradIpikA#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>), {#SArIrakaBAzya#} <lex>n.</lex> (<ls><ab>ebend.</ab></ls>), {#°BAzyawIkA#} <lex>f.</lex> (<ls><ab>ebend.</ab></ls>), {#°BAzyanyAyavArttika#} <lex>n.</lex>, {#°BAzyavArttika#} <lex>n.</lex>, {#°BAzyaviBAga#} <lex>m.</lex>, {#°BAzyavyAKyA#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>), {#SArIrakamImAMsA#} <lex>f.</lex> {#°mImAmsABAzya#} <lex>n.</lex>,
+;
+560916 new {#SArIrakanyAyanirRaya#} <lex>m.</lex> (<ls>BURNELL, T.</ls>), {#°nyAyarakzAmaRi#} <lex>m.</lex>, {#°nyAyasaMgraha#} <lex>m.</lex> (<ls>BURNELL, T.</ls>), {#SArIrakapradIpikA#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>), {#SArIrakaBAzya#} <lex>n.</lex> (<ls><ab>ebend.</ab></ls>), {#°BAzyawIkA#} <lex>f.</lex> (<ls><ab>ebend.</ab></ls>), {#°BAzyanyAyavArttika#} <lex>n.</lex>, {#°BAzyavArttika#} <lex>n.</lex>, {#°BAzyaviBAga#} <lex>m.</lex>, {#°BAzyavyAKyA#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>), {#SArIrakamImAMsA#} <lex>f.</lex> {#°mImAmsABAzya#} <lex>n.</lex>, {#°mImAMsAvyAKyA#} <lex>f.</lex>, {#SArIrakaSAstradarpaRa#} <lex>m.</lex>, {#SArIrakasaMgraha#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>), {#SArIrakasUtra#} <lex>n.</lex>, {#°sUtrasArArTacandrikA#} <lex>f.</lex>, {#SArIrakopanizad#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>) und {#SArIranyAyasaMgraha#} (!) <lex>m.</lex> (<ls><ab>ebend.</ab></ls>)¦
+;---------------------------------------------------
+; <L>111710<pc>6224-3<k1>SArIrakanyAyanirRaya<k2>SArIrakanyAyanirRaya<e>100
+560918 old {#°mImAMsAvyAKyA#} <lex>f.</lex>, {#SArIrakaSAstradarpaRa#} <lex>m.</lex>, {#SArIrakasaMgraha#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>), {#SArIrakasUtra#} <lex>n.</lex>, {#°sUtrasArArTacandrikA#} <lex>f.</lex>, {#SArIrakopanizad#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>) und {#SArIranyAyasaMgraha#} (!) <lex>m.</lex> (<ls><ab>ebend.</ab></ls>)¦ Titel.
+;
+560918 new Titel.
+;---------------------------------------------------
+; <L>112024<pc>6229-2<k1>SAstradIpikA<k2>SAstradIpikA<e>100
+562524 old {#SAstradIpikA#} <lex>f.</lex>, {#°kroqa#} <lex>m.</lex>, {#°wIkA#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>), {#°prakASa#} <lex>m.</lex>, {#°praBA#} <lex>f.</lex>, {#°praveSa#} <lex>m.</lex>, {#°loka#} <lex>m.</lex> und
+;
+562524 new {#SAstradIpikA#} <lex>f.</lex>, {#°kroqa#} <lex>m.</lex>, {#°wIkA#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>), {#°prakASa#} <lex>m.</lex>, {#°praBA#} <lex>f.</lex>, {#°praveSa#} <lex>m.</lex>, {#°loka#} <lex>m.</lex> und {#°vyAKyA#} <lex>f.</lex>¦
+;---------------------------------------------------
+; <L>112024<pc>6229-2<k1>SAstradIpikA<k2>SAstradIpikA<e>100
+562526 old {#°vyAKyA#} <lex>f.</lex>¦ Titel.
+;
+562526 new Titel.
+;---------------------------------------------------
+; <L>116496<pc>6292-3<k1>zvazk<k2>*zvazk<e>500
+584719 old *{#zvazk#}, {#zvazkati (zva/Hkati)#}, {#°te#} und *{#zvask#}, {#zvaskate#}¦ ({#gatO#}). 
+;
+584719 new *{#zvazk#}, {#zvazkati (zva/Hkati)#}, {#°te#} und *{#zvask#}, {#zvaskate#}¦ ({#gatO#}).
+;---------------------------------------------------
+; <L>118691<pc>7037-1<k1>sadratna<k2>sadratna<e>100
+595891 old {#sadratna#}¦ <lex>n.</lex> {%ein ächter Edelstein, eine ächte Perle%} <ls n="Chr.">132,2</ls> zu <ls>Spr. 867</ls>.
+;
+595891 new {#sadratna#}¦ <lex>n.</lex> {%ein ächter Edelstein, eine ächte Perle%} <ls n="Chr.">132,22</ls>. zu <ls>Spr. 867</ls>.
+;---------------------------------------------------
+; <L>119961<pc>7055-2<k1>samaya<k2>samaya/<e>100
+601969 old <div n="1">— 3〉 {%Verständigung, Uebereinkommen, eine auferlegte%} oder {%übernommene Verpflichtung einem Andern gegenüber, — in Bezug auf%} (im <ab>Comp.</ab> vorangehend), {%Vertrag, Verabredung; Bedingung%}. {#tena samayena#} {%in Folge dieses Uebereinkommens;%} {#samayena#}, {#samayAt#} und {#samayas#} {%einer Verabredung gemäss, unter einer Bedingung, bedingungsweise%}. <ab>Acc.</ab> mit {#brU#}, {#vac#} oder {#aBi-DA#} {%seine Bedingungen aussprechen,%} in der letzten Verbindung auch {%versprechen;%} mit {#sam#} {#vad#} {%über einkommen;%} mit {#kar#} {%übereinkommen mit%} (<ab>Instr.</ab> oder <ab>Instr.</ab> mit {#saha#}) {%sich verpflichten, festsetzen, eine Bestimmung treffen, eine Bedingung stellen, stipuliren,%} {#adrohasamayam#} so <ab>v. a.</ab> {%Frieden geloben, Urfehde schwören;%} mit {#dA#} {%einen Vergleich vorschlagen;%} mit {#grah#} oder {#prati-pad#} {%einen Vertrag eingehen, eine Bedingung machen;%} mit dem <ab>Caus.</ab> von {#sTA#} {%festsetzen, bestimmen;%} mit {#nis-tar#}, {#rakz#}, {#pari-rakz#} oder {#pAlay#} {%einen Vertrag —, sein Wort halten;%} mit {#tyaj#}, {#Bid#}, {#vyaBi-car#} {#vyAti-kram#} oder mit {#vi-laNg#} <ab>Caus.</ab> {%einen Vertrag —, sein Wort brechen%}. <ab>Abl.</ab> mit {#BraMS#} {%von einem Vertrage abfallen, ihn nicht halten%}. <ab>Loc.</ab> mit {#sTA#} {%seiner Verpflichtung nachkommen, sein Wort halten;%} mit dem <ab>Caus.</ab> von {#sTA#} {%in Betreff Jmds%} (<ab>Acc.</ab>) {%festsetzen, eine Bestimmung treffen;%} mit {#ni-viS#} <ab>Caus.</ab> {%Jmd%} (<ab>Acc.</ab>) {%Bedingungen stellen%}.
+;
+601969 new <div n="1">— 3〉 {%Verständigung, Uebereinkommen, eine auferlegte%} oder {%übernommene Verpflichtung einem Andern gegenüber, — in Bezug auf%} (im <ab>Comp.</ab> vorangehend), {%Vertrag, Verabredung; Bedingung%}. {#tena samayena#} {%in Folge dieses Uebereinkommens;%} {#samayena#}, {#samayAt#} und {#samayas#} {%einer Verabredung gemäss, unter einer Bedingung, bedingungsweise%}. <ab>Acc.</ab> mit {#brU#}, {#vac#} oder {#aBi-DA#} {%seine Bedingungen aussprechen,%} in der letzten Verbindung auch {%versprechen;%} mit {#sam#} {#vad#} {%über einkommen;%} mit {#kar#} {%übereinkommen mit%} (<ab>Instr.</ab> oder <ab>Instr.</ab> mit {#saha#}) {%sich verpflichten, festsetzen, eine Bestimmung treffen, eine Bedingung stellen, stipuliren,%} {#adrohasamayam#} so <ab>v. a.</ab> {%Frieden geloben, Urfehde schwören;%} mit {#dA#} {%einen Vergleich vorschlagen;%} mit {#grah#} oder {#prati-pad#} {%einen Vertrag eingehen, eine Bedingung machen;%} mit dem <ab>Caus.</ab> von {#sTA#} {%festsetzen, bestimmen;%} mit {#nis-tar#}, {#rakz#}, {#pari-rakz#} oder {#pAlay#} {%einen Vertrag —, sein Wort halten;%} mit {#tyaj#}, {#Bid#}, {#vyaBi-car#}, {#vyAti-kram#} oder mit {#vi-laNg#} <ab>Caus.</ab> {%einen Vertrag —, sein Wort brechen%}. <ab>Abl.</ab> mit {#BraMS#} {%von einem Vertrage abfallen, ihn nicht halten%}. <ab>Loc.</ab> mit {#sTA#} {%seiner Verpflichtung nachkommen, sein Wort halten;%} mit dem <ab>Caus.</ab> von {#sTA#} {%in Betreff Jmds%} (<ab>Acc.</ab>) {%festsetzen, eine Bestimmung treffen;%} mit {#ni-viS#} <ab>Caus.</ab> {%Jmd%} (<ab>Acc.</ab>) {%Bedingungen stellen%}.
+;---------------------------------------------------
+; <L>120171<pc>7058-2<k1>samAMsa<k2>samAMsa<e>100
+602943 old <LEND>0
+;
+602943 new <LEND>
+;---------------------------------------------------
+; <L>121149<pc>7072-3<k1>saMBAratva<k2>saMBAratva/<e>100
+607658 old {#saMBAratva/#}¦ <lex>n.</lex> <ab>Nom. abstr.</ab>, zu {#saMBAra/#} 2〉 <ls>ŚAT. BR. 2,1,1,1</ls>.
+;
+607658 new {#saMBAratva/#}¦ <lex>n.</lex> <ab>Nom. abstr.</ab> zu {#saMBAra/#} 2〉 <ls>ŚAT. BR. 2,1,1,1</ls>.
+;---------------------------------------------------
+; <L>125256<pc>7132-3<k1>sidDAntavicAragATA<k2>sidDAntavicAragATA<e>100
+628005 old {#sidDAntavicAragATA#} <lex>f.</lex> (<ls>BÜHLER, Rep. No. 781</ls>), {#sidDAntavelA#} <lex>f.</lex>, {#sidDAntavEjayantI#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>), {#sidDAntavyAKyA#} <lex>f.</lex> (<ls><ab>ebend.</ab></ls>), {#sidDAntavyutpattilakzaRa#} <lex>n.</lex> (<ls><ab>ebend.</ab></ls>), {#sidDAntaSikzA#} <lex>f.</lex> (<ls><ab>ebend.</ab></ls>). {#sidDAntaSiKAmaRi#} <lex>m.</lex> (<ls><ab>ebend.</ab></ls>), {#sidDAntaSiromaRi#} <lex>m.</lex>, {#°prakASa#} <lex>m.</lex>, {#sidDAntaSeKara#} <lex>m.</lex>, {#sidDAntasaMhitAsArasamuccaya#} <lex>m.</lex>, {#sidDAntasaMgraha#} <lex>m.</lex>, {#sidDAntasaMdarBa#} <lex>m.</lex>, {#sidDAntasAra#} <lex>n.</lex> (<ls>BURNELL, T.</ls>), {#°dipikA#} <lex>f.</lex> (<ls>BÜHLER, Rep. No. 692</ls>), {#°kO#}
+;
+628005 new {#sidDAntavicAragATA#} <lex>f.</lex> (<ls>BÜHLER, Rep. No. 781</ls>), {#sidDAntavelA#} <lex>f.</lex>, {#sidDAntavEjayantI#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>), {#sidDAntavyAKyA#} <lex>f.</lex> (<ls><ab>ebend.</ab></ls>), {#sidDAntavyutpattilakzaRa#} <lex>n.</lex> (<ls><ab>ebend.</ab></ls>), {#sidDAntaSikzA#} <lex>f.</lex> (<ls><ab>ebend.</ab></ls>). {#sidDAntaSiKAmaRi#} <lex>m.</lex> (<ls><ab>ebend.</ab></ls>), {#sidDAntaSiromaRi#} <lex>m.</lex>, {#°prakASa#} <lex>m.</lex>, {#sidDAntaSeKara#} <lex>m.</lex>, {#sidDAntasaMhitAsArasamuccaya#} <lex>m.</lex>, {#sidDAntasaMgraha#} <lex>m.</lex>, {#sidDAntasaMdarBa#} <lex>m.</lex>, {#sidDAntasAra#} <lex>n.</lex> (<ls>BURNELL, T.</ls>), {#°dipikA#} <lex>f.</lex> (<ls>BÜHLER, Rep. No. 692</ls>), {#°kO#} {#stuBa#}, {#°sArAvali#} (<ls>OPP. CAT. 1</ls>), {#°sArAvalI#} <lex>f.</lex> (<ls>BURNELL, T.</ls>), {#sidDAntasArvaBOma#}, {#sidDAntasidDAjYana#} <lex>n.</lex> (<ls>BURNELL, T.</ls> <ls>OPP. CAT. 1</ls>), {#sidDAntasundara#}, {#sidDAntasUktamaYjarI#} <lex>f.</lex> und {#sidDAntasvAnuBUtiprakASikA#} <lex>f.</lex> (<ls>BURNELL, T.</ls>)¦
+;---------------------------------------------------
+; <L>125256<pc>7132-3<k1>sidDAntavicAragATA<k2>sidDAntavicAragATA<e>100
+628007 old {#stuBa#}, {#°sArAvali#} (<ls>OPP. CAT. 1</ls>), {#°sArAvalI#} <lex>f.</lex> (<ls>BURNELL, T.</ls>), {#sidDAntasArvaBOma#}, {#sidDAntasidDAjYana#} <lex>n.</lex> (<ls>BURNELL, T.</ls> <ls>OPP. CAT. 1</ls>), {#sidDAntasundara#}, {#sidDAntasUktamaYjarI#} <lex>f.</lex> und {#sidDAntasvAnuBUtiprakASikA#} <lex>f.</lex> (<ls>BURNELL, T.</ls>)¦ Titel von Werken.
+;
+628007 new Titel von Werken.
+;---------------------------------------------------
+; <L>130874<pc>7207-1<k1>sTA<k2>sTA<h>1<e>500
+655835 old <div n="2">— d〉 in einer Lage —, in einem Verhältniss —, in einem Verhaltniss —, in einem Zustande {%sich befindend;%} die Ergänzung im <ab>Loc.</ab> <ab>Instr.</ab> ({#muktAkAratayA#} <ls n="Chr.">186,14</ls>), <ab>Abl.</ab> im <ab>Comp.</ab> vorangehend, ein in demselben Casus stehendes Nomen, ein <ab>Absol.</ab> oder ein <lex>Adv.</lex>
+;
+655835 new <div n="2">— d〉 in einer Lage —, in einem Verhältniss —, in einem Zustande {%sich befindend;%} die Ergänzung im <ab>Loc.</ab> <ab>Instr.</ab> ({#muktAkAratayA#} <ls n="Chr.">186,14</ls>), <ab>Abl.</ab> im <ab>Comp.</ab> vorangehend, ein in demselben Casus stehendes Nomen, ein <ab>Absol.</ab> oder ein <lex>Adv.</lex>
+;---------------------------------------------------
+; <L>133798<pc>7260-3<k1>hariBakti<k2>hariBakti<e>100
+672080 old {#hariBakti#} <lex>f.</lex> <is>Viṣṇu</is>ʼs {%Verehrung%}. {#°latikAstava#} <lex>m.</lex> (<ls>BÜHLER, Rep. No. 431</ls>), {#°vilAsa#} <lex>m.</lex> und
+;
+672080 new {#hariBakti#} <lex>f.</lex> <is>Viṣṇu</is>ʼs {%Verehrung%}. {#°latikAstava#} <lex>m.</lex> (<ls>BÜHLER, Rep. No. 431</ls>), {#°vilAsa#} <lex>m.</lex> und {#°suDodaya#} <lex>m.</lex> (<ls>BURNELL, T.</ls> <ls>OPP. CAT. 1</ls>)¦
+;---------------------------------------------------
+; <L>133798<pc>7260-3<k1>hariBakti<k2>hariBakti<e>100
+672082 old {#°suDodaya#} <lex>m.</lex> (<ls>BURNELL, T.</ls> <ls>OPP. CAT. 1</ls>)¦ Titel.
+;
+672082 new Titel.
+;---------------------------------------------------
+; <L>135483<pc>7284-2<k1>hEma<k2>hEma<h>1<e>100
+680564 old <div n="2">— c〉 {%vom%} <is>Himālaya</is> {%kommend, zum%} <is n="Himālaya">H.</is>, {%in Beziehung stehend%}.
+;
+680564 new <div n="2">— c〉 {%vom%} <is>Himālaya</is> {%kommend, zum%} <is n="Himālaya">H.</is> {%in Beziehung stehend%}.
+;---------------------------------------------------
+; ********************************************************
+; ********************************************************
+; ********************************************************
+; ********************************************************
+; ********************************************************
+; ********************************************************
