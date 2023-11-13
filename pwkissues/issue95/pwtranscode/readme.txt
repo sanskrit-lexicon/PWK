@@ -138,3 +138,17 @@ slp1: aDaupAsana
 hk  : adhaupAsana
 slp1: aDOpAsana   Note this is different from original slp1!
 
+--------------------------------------------------
+11-13-2023
+HK transcoding requested by @maltenth, using revised csl-orig/v02/pw/pw.txt
+csl-orig at commit d847fe33dd4e2626ebf8869325e0bca452a5f20d
+
+cp /c/xampp/htdocs/cologne/csl-orig/v02/pw/pw.txt temphk/pw.txt
+python pw_transcode.py slp1 hk temphk/pw.txt temphk/pw_hk.txt
+# confirm invertibility:
+python pw_transcode.py hk slp1 temphk/pw_hk.txt temphk/pw_hk_slp1.txt
+diff temphk/pw.txt temphk/pw_hk_slp1.txt | wc -l
+# 0 expected
+# got 148!  Mostly these involve hiatus. See above.
+
+cd /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue95/pwtranscode
