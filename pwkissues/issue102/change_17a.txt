@@ -1,0 +1,27 @@
+; **********************************************************************
+; Part 1:  4 cleanup of 'das' corrections
+; **********************************************************************
+; Part 1:  4 cleanup of 'das' corrections
+; **********************************************************************
+; <L>24205<pc>2014-3<k1>kapi<k2>kapi/<e>100
+115001 old <div n="1">— 1〉 {%Affe%}. <ab>Das.</ab> *<lex>f.</lex> {#kapi#} und {#kapI#}.
+;
+115001 new <div n="1">— 1〉 {%Affe%}. Das *<lex>f.</lex> {#kapi#} und {#kapI#}.
+;---------------------------------------------------
+; <L>41016<pc>2243-1<k1>CA<k2>*CA<h>2<e>100
+201667 old <hom>2.</hom> *{#CA#}¦ <lex>m.</lex> (<ab>Nom.</ab> {#CAs#}) {%ein Junges%}. <ab>Das.</ab> <lex>f.</lex> <ab>s. u.</ab> {#Ca#}.
+;
+201667 new <hom>2.</hom> *{#CA#}¦ <lex>m.</lex> (<ab>Nom.</ab> {#CAs#}) {%ein Junges%}. Das <lex>f.</lex> <ab>s. u.</ab> {#Ca#}.
+;---------------------------------------------------
+; <L>62448<pc>4013-2<k1>pat<k2>pat<h>1<e>500
+309642 old <div n="1">— 7〉 <ab>das.</ab> Auge, den Blick {%werfen —, richten auf%} (<ab>Loc.</ab>).
+;
+309642 new <div n="1">— 7〉 das Auge, den Blick {%werfen —, richten auf%} (<ab>Loc.</ab>).
+;---------------------------------------------------
+; <L>68137<pc>4099-3<k1>puru<k2>puru/<e>100
+338672 old <div n="2">— a〉 (nur die Formen {#puru/, pu/rU/, pu/rU/Ri, pu/rU/RAm#} und <ab>das.</ab> <lex>f.</lex> {#pUrvI/#} in verschiedenen casus) {%viel, reichlich%}. In der späteren Sprache nur am Anfange einiger Composita. <lex>Adv.</lex> {#puru/#} und {#pu/rU/#} {%viel, oft, sehr%} (auch mit einem <ab>Compar.</ab> und <ab>Superl.</ab>).
+;
+338672 new <div n="2">— a〉 (nur die Formen {#puru/, pu/rU/, pu/rU/Ri, pu/rU/RAm#} und das <lex>f.</lex> {#pUrvI/#} in verschiedenen casus) {%viel, reichlich%}. In der späteren Sprache nur am Anfange einiger Composita. <lex>Adv.</lex> {#puru/#} und {#pu/rU/#} {%viel, oft, sehr%} (auch mit einem <ab>Compar.</ab> und <ab>Superl.</ab>).
+;---------------------------------------------------
+; **********************************************************************
+; **********************************************************************
