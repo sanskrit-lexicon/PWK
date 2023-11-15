@@ -198,13 +198,17 @@ def adjust_5(lines):
 def write(fileout,d,dmw):
  keys = sorted(d.keys(), key = lambda x: x.lower())
  outarr = []
- for key in keys:
+ outarr.append(fileout)
+ for ikey,key in enumerate(keys):
   count = d[key]
   if key in dmw:
    mwcount = dmw[key]
   else:
    mwcount = 0
-  out = '%s %s MW %s' %(key,count,mwcount)
+  lnum = ikey + 1
+  #m = re.search(r'<bot>(.*?)</bot>',key)
+  bot0 = key
+  out = '%04d %s %s MW %s -> %s' %(lnum,key,count,mwcount,bot0)
   outarr.append(out)
   
  with codecs.open(fileout,"w","utf-8") as f:
