@@ -152,3 +152,34 @@ diff temphk/pw.txt temphk/pw_hk_slp1.txt | wc -l
 # got 148!  Mostly these involve hiatus. See above.
 
 cd /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue95/pwtranscode
+--------------------------------------------------
+11-15-2023
+transcoding of pwkvn
+mkdir temppwkvn
+Andhrabharati reports problem  with transcoding for pwkvn dictionary.
+  Ref: https://github.com/sanskrit-lexicon/PWK/issues/102#issuecomment-181166452
+
+
+cp /c/xampp/htdocs/cologne/csl-orig/v02/pwkvn/pwkvn.txt tempvn/pwkvn.txt
+python pw_transcode.py slp1 deva tempvn/pwkvn.txt tempvn/pwkvn_deva.txt
+# confirm invertibility:
+python pw_transcode.py deva slp1 tempvn/pwkvn_deva.txt tempvn/pwkvn_deva_slp1.txt
+diff tempvn/pwkvn.txt tempvn/pwkvn_deva_slp1.txt | wc -l
+# 0 expected
+# got 148!  Mostly these involve hiatus. See above.
+
+cd /c/xampp/htdocs/sanskrit-lexicon/PWKVNK/pwkvnkissues/issue95/pwkvntranscode
+-
+--------------------------------------------------
+11-15-2023
+transcoding of pwkvn_AB_v.1.txt
+
+cp ~/Downloads/andhrabharati/pwkvn/pwkvn_AB_v.1.txt temp_vn_ab/
+
+python pw_transcode.py slp1 deva temp_vn_ab/pwkvn_AB_v.1.txt temp_vn_ab/pwkvn_AB_v.1_deva.txt
+
+check invertibility:
+python pw_transcode.py deva slp1 temp_vn_ab/pwkvn_AB_v.1_deva.txt temp_vn_ab/pwkvn_AB_v.1_deva_slp1.txt
+
+diff temp_vn_ab/pwkvn_AB_v.1.txt temp_vn_ab/pwkvn_AB_v.1_deva_slp1.txt | wc -l
+# 0   invertibility is fine.
