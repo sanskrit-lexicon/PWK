@@ -1,0 +1,84 @@
+373c373
+< <LEND> [1002-1]
+---
+> <LEND> [Page1-002-a]
+27746c27746
+< <LEND> [1072-3]
+---
+> <LEND> [Page1-072-c]
+43660c43660
+< <LEND> [1112-3]
+---
+> <LEND> [Page1-112-c]
+44868c44868
+< <LEND> [1115-3]
+---
+> <LEND> [Page1-115-c]
+96804c96804
+< <LEND> [1252-3]
+---
+> <LEND> [Page1-252-c]
+155656c155656
+< <LEND> [2124-3]
+---
+> <LEND> [Page2-124-c]
+248887c248887
+< <LEND> [3097-1]
+---
+> <LEND> [Page3-097-a]
+371649c371649
+< <LEND> [4206-2]
+---
+> <LEND> [Page4-206-b]
+379878c379878
+< <LEND> [4230-2]
+---
+> <LEND> [Page4-230-b]
+392507c392507
+< <LEND> [4268-2]
+---
+> <LEND> [Page4-268-b]
+440422c440422
+< <div n="2">— d〉 <ab>Bez.</ab> {%eines <ab>best.</ab> Spruches%} <ls>NṚS. TĀP. UP.</ls> (in der <ls>Bibl. ind.</ls>) <ls n="Chr.">1,3</ls> (zweimal).
+---
+> <div n="2">— d〉 <ab>Bez.</ab> {%eines <ab>best.</ab> Spruches%} <ls>NṚS. TĀP. UP.</ls> (in der <ls>Bibl. ind.. 1,3</ls> (zweimal).
+447994c447994
+< <LEND> [5141-2]
+---
+> <LEND> [Page5-141-b]
+476183c476183
+< <LEND> [5229-2]
+---
+> <LEND> [Page5-229-b]
+493701c493701
+< <LEND> [6047-1]
+---
+> <LEND> [Page6-047-a]
+513500c513500
+< <LEND> [6104-3]
+---
+> <LEND> [Page6-104-c]
+519120c519120
+< <LEND> [6123-1]
+---
+> <LEND> [Page6-123-a]
+541475c541475
+< <LEND> [6188-2]
+---
+> <LEND> [Page6-188-b]
+545977c545977
+< <LEND> [6201-3]
+---
+> <LEND> [Page6-201-c]
+628224c628224
+< <LEND> [7153-2]
+---
+> <LEND> [Page7-153-b]
+647276c647276
+< <LEND> [7205-1]
+---
+> <LEND> [Page7-205-a]
+656478c656478
+< <LEND> [7236-3]
+---
+> <LEND> [Page7-236-c]

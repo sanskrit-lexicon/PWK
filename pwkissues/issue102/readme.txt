@@ -69,7 +69,16 @@ cd /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue102
 git add .
 git commit -m "#102 initial commit: temp_pw_17a "
 git push
+-----------------------------------------------------------
 
+***********************************************************
+11-16-2023
+AB provides two files:
+1. temp_pw_ab_17a.txt [Pagexxx] lines merged
+2. 'pw (AB v2).txt', renamed temp_pw_AB_v2.txt
 
+-----------------------------------------------------------
+step1
+see step1/readme.txt
 
----------------------------------------------------
+Reproduce temp_pw_ab_17a.txt from temp_pw_ab_17.txt.
