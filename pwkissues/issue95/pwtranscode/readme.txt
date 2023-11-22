@@ -183,3 +183,37 @@ python pw_transcode.py deva slp1 temp_vn_ab/pwkvn_AB_v.1_deva.txt temp_vn_ab/pwk
 
 diff temp_vn_ab/pwkvn_AB_v.1.txt temp_vn_ab/pwkvn_AB_v.1_deva_slp1.txt | wc -l
 # 0   invertibility is fine.
+--------------------------------------------------
+11-21-2023
+HK transcoding of pwg requested by @maltenth
+cd /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue95/pwtranscode
+
+# get latest copy of pwg.txt
+  (this is at commit ae6e6988ee586cd190b982ebcf32a0c684bdbb81 of csl-orig)
+cp /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt temphk/pwg.txt
+
+python pw_transcode.py slp1 hk temphk/pwg.txt temphk/pwg_hk.txt
+
+# confirm invertibility:
+python pw_transcode.py hk slp1 temphk/pwg_hk.txt temphk/pwg_hk_slp1.txt
+diff temphk/pwg.txt temphk/pwg_hk_slp1.txt | wc -l
+# 0 expected
+# got 92!  These involve hiatus, as with 'pwk'
+   (two vowels, 'ai', 'au'  in slp1  become ') --
+-------------------------------------------------
+--------------------------------------------------
+11-21-2023
+HK transcoding of pwkvn: possible interest to  @maltenth
+cd /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue95/pwtranscode
+
+
+# get latest copy of pwkvn.txt
+  (this is at commit ae6e6988ee586cd190b982ebcf32a0c684bdbb81 of csl-orig)
+cp /c/xampp/htdocs/cologne/csl-orig/v02/pwkvn/pwkvn.txt temphk/pwkvn.txt
+
+python pw_transcode.py slp1 hk temphk/pwkvn.txt temphk/pwkvn_hk.txt
+
+# confirm invertibility:
+python pw_transcode.py hk slp1 temphk/pwkvn_hk.txt temphk/pwkvn_hk_slp1.txt
+diff temphk/pwkvn.txt temphk/pwkvn_hk_slp1.txt | wc -l
+# 0 expected
