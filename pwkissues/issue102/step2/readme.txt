@@ -14,7 +14,8 @@ Remove extra blank lines from both
 wc -l ../temp_pw_v?_0.txt
   674019 ../temp_pw_v1_0.txt
   674019 ../temp_pw_v2_0.txt
- 
+cd ../
+diff temp_pw_AB_v2.txt temp_pw_v2_0.txt > diff_AB_v2_v2_0.txt
 -----
 Part 1: skipped (erroneous run of bb.py)
 -----
