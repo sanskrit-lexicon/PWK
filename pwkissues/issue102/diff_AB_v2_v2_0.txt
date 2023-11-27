@@ -1,0 +1,86 @@
+12280c12280
+< *{#aDamaSAKa#} <lex>m.</lex> und *{#°SAKIya#} <lex>Adj.</lex>¦ ;; no body here!!
+---
+> *{#aDamaSAKa#} <lex>m.</lex> und *{#°SAKIya#} <lex>Adj.</lex>¦
+42005c42005
+< *{#arkakAntA#}¦ <lex>f.</lex> {%<bot>Polanisia icosandra W. u. A.</bot>%} ;; Wight und Arn
+---
+> *{#arkakAntA#}¦ <lex>f.</lex> {%<bot>Polanisia icosandra W. u. A.</bot>%}
+79818d79817
+< ;; merge
+81487,81490d81485
+< ;; delete
+< ;; delete
+< ;; delete
+< ;; delete
+130748,130755d130742
+< ;; delete
+< ;; delete
+< ;; delete
+< ;; delete
+< ;; delete
+< ;; delete
+< ;; delete
+< ;; delete
+220874,220877d220860
+< ;; delete
+< ;; delete
+< ;; delete
+< ;; delete
+327969,327972d327951
+< ;; delete
+< ;; delete
+< ;; delete
+< ;; delete
+353815,353817c353794
+< {#pratyAmnAyam#}¦ <lex>Adv.</lex> {%zu jedem einzelnen Textbuch%}. ;; Whole body of prev. entry retyped here!
+< ;; delete
+< ;; delete
+---
+> {#pratyAmnAyam#}¦ <lex>Adv.</lex> {%zu jedem einzelnen Textbuch%}.
+439550c439527
+< √{#mruc#}¦ {#mro/cati#} ({#gatyarTa#}). — Mit {#ni#} untergehen (von der Sonne). — Mit {#aBini#} untergehen über (<ab>Acc.</ab>) <ls>MAITR. S. 1,8,7 (125,18. 21)</ls>. {#aBinirmukta#} derjenige, welchen die untergehende Sonne schlofend findet, <ls>ĀPAST. 2,12,13. 22</ls>. Haüfig fehlerhaft {#aBinirmukta#} geschrieben. ;; full body missed in typing.
+---
+> √{#mruc#}¦ {#mro/cati#} ({#gatyarTa#}). — Mit {#ni#} untergehen (von der Sonne). — Mit {#aBini#} untergehen über (<ab>Acc.</ab>) <ls>MAITR. S. 1,8,7 (125,18. 21)</ls>. {#aBinirmukta#} derjenige, welchen die untergehende Sonne schlofend findet, <ls>ĀPAST. 2,12,13. 22</ls>. Haüfig fehlerhaft {#aBinirmukta#} geschrieben.
+446245d446221
+< ;; merge
+482295c482271
+< {#vajrAkAra#} (<lex>f.</lex> {#A#} <ls>VARĀH. BṚH. S. 68,45</ls>) und {#vajrAkfti#}¦ <lex>Adj.</lex> {%die Gestalt des Donnerkeils%} (☓) {%habend%}. ;; probably could use 🗙 or 🗲 instead.
+---
+> {#vajrAkAra#} (<lex>f.</lex> {#A#} <ls>VARĀH. BṚH. S. 68,45</ls>) und {#vajrAkfti#}¦ <lex>Adj.</lex> {%die Gestalt des Donnerkeils%} (☓) {%habend%}.
+496519d496494
+< ;; merge
+519721,519724d519695
+< ;; delete
+< ;; delete
+< ;; delete
+< ;; delete
+522326d522296
+< ;; merge
+522789d522758
+< ;; merge
+523316d523284
+< ;; merge
+540453d540420
+< ;; merge
+540485d540451
+< ;; merge
+540538,540541d540503
+< ;; delete
+< ;; delete
+< ;; delete
+< ;; delete
+540827d540788
+< ;; merge
+540855d540815
+< ;; merge
+577919c577879
+< *{#zvazk#}, {#zvazkati (zva/Hkati)#}, {#°te#} und *{#zvask#}, {#zvaskate#}¦ ({#gatO#}). ;; how to mark this in a simpler way?
+---
+> *{#zvazk#}, {#zvazkati (zva/Hkati)#}, {#°te#} und *{#zvask#}, {#zvaskate#}¦ ({#gatO#}).
+613692d613651
+< ;; merge
+652787d652745
+< ;; merge
+653437d653394
+< ;; merge
