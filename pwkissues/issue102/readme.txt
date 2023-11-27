@@ -82,3 +82,23 @@ step1
 see step1/readme.txt
 
 Reproduce temp_pw_ab_17a.txt from temp_pw_ab_17.txt.
+i.e., these two versions are the same.
+
+***********************************************************
+11-24-2023
+Work on the differences between
+temp_pw_ab_17a.txt and temp_pw_AB_v2.txt
+
+The files have the same number of lines:
+wc -l temp_pw_AB_v2.txt temp_pw_ab_17a.txt
+  674062 temp_pw_AB_v2.txt
+  674062 temp_pw_ab_17a.txt
+
+-----
+step2 directory
+Methodically examine the diffs
+Examine crude 'diff' to start with
+diff temp_pw_ab_17a.txt temp_pw_AB_v2.txt > tempdiff_v2.txt
+# 28426 lines in diff, so about 28426/4 ~= 7000 lines are different.
+
+Refer to step2/readme.txt for further details.

@@ -1,0 +1,423 @@
+; ***********************************************************
+; changes from temp_pw_v2_0.txt to temp_pw_v2_1.txt
+; Part 7:  7  '<ls>A</ls> zu <ls>' -> '<ls>A zu '
+; Part 15: 32  Misc. changes
+; ***********************************************************
+; <L>28582<pc>2-074-c<k1>kuddAlaKAta<k2>*kuddAlaKAta<e>100
+136191 old *{#kuddAlaKAta#}¦ <lex>n.</lex> <ab>N. pr.</ab> einer Stadt <ls>Kāś.</ls> zu <ls>P. 6,2,146</ls>.
+;
+136191 new *{#kuddAlaKAta#}¦ <lex>n.</lex> <ab>N. pr.</ab> einer Stadt <ls>KĀŚ. zu P. 6,2,146</ls>.
+;---------------------------------------------------
+; <L>58469<pc>3-203-b<k1>nityapuzwa<k2>nityapuzwa<e>100
+286778 old {#nityapuzwa#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%stets mit Allem gesegnet%} <ls>KHILA. 9</ls> zu <ls>ṚV. 5,87</ls> = <ls>TAITT. ĀR. 10,1,10</ls> = <ls>MĀN. GṚHY. 2,13</ls>.
+;
+286778 new {#nityapuzwa#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%stets mit Allem gesegnet%} <ls>KHILA. 9 zu ṚV. 5,87</ls> = <ls>TAITT. ĀR. 10,1,10</ls> = <ls>MĀN. GṚHY. 2,13</ls>.
+;---------------------------------------------------
+; <L>87878<pc>5-094-c<k1>mUrC<k2>mUrC<e>500
+432727 old <div n="3">— β〉 {%erstarrt%} von einem <ab>best.</ab> Zustande des Quecksilbers <ls>RĀJAN. 13,112</ls>; <ab>vgl.</ab> <ls>GARBE</ls> zu <ls>d. St.</ls>
+;
+432727 new <div n="3">— β〉 {%erstarrt%} von einem <ab>best.</ab> Zustande des Quecksilbers <ls>RĀJAN. 13,112</ls>; <ab>vgl.</ab> <ls>GARBE zu d. St.</ls>
+;---------------------------------------------------
+; <L>91142<pc>5-147-c<k1>yudDopakaraRa<k2>yudDopakaraRa<e>100
+449315 old {#yudDopakaraRa#}¦ <lex>n.</lex> {%Kriegsgeräthe%} <ls>AV. ANUKR.</ls> zu <ls>6,126</ls>.
+;
+449315 new {#yudDopakaraRa#}¦ <lex>n.</lex> {%Kriegsgeräthe%} <ls>AV. ANUKR. zu 6,126</ls>.
+;---------------------------------------------------
+; <L>91698<pc>5-155-c<k1>raktanIla<k2>raktanIla<e>100
+452009 old {#raktanIla#}¦ <lex>Adj.</lex> {%blauroth%} <ls>GARBE</ls> Zu <ls>RĀJAN. 13,185</ls>.
+;
+452009 new {#raktanIla#}¦ <lex>Adj.</lex> {%blauroth%} <ls>GARBE zu RĀJAN. 13,185</ls>.
+;---------------------------------------------------
+; <L>120227<pc>7-059-b<k1>samADAyaka<k2>samADAyaka<e>100
+596101 old {#samADAyaka#}¦ <lex>Adj.</lex> {%aussöhnend%} <ls>ṢAḌGURUŚIṢYA zu ṚV. 10,162</ls> nach <ls>AUFRECHT.</ls>
+;
+596101 new {#samADAyaka#}¦ <lex>Adj.</lex> {%aussöhnend%} <ls>ṢAḌGURUŚIṢYA zu ṚV. 10,162</ls> nach <ls>AUFRECHT</ls>.
+;---------------------------------------------------
+; <L>129484<pc>7-187-c<k1>sopapattika<k2>sopapattika<e>100
+641218 old {#sopapattika#}¦ <lex>Adj.</lex> {%begründet, richtig%} <ls>NĀGĀN. 75,10 (57,18)</ls>. <ls>SĀH. D. 317,4</ls>. <ls>NĪLAK.</ls> Zu <ls>HARIV. 4541</ls>.
+;
+641218 new {#sopapattika#}¦ <lex>Adj.</lex> {%begründet, richtig%} <ls>NĀGĀN. 75,10 (57,18)</ls>. <ls>SĀH. D. 317,4</ls>. <ls>NĪLAK. zu HARIV. 4541</ls>.
+;---------------------------------------------------
+; ***********************************************************
+; Part 15: 32  Misc. changes
+; ***********************************************************
+; <L>1448<pc>1-018-a<k1>aYjanAvatI
+6717 old *{#aYjanAvatI#}¦ <lex>f.</lex> <ab>N. pr.</ab> des Weibchens des Weltelephanten <is>Supratīka</is> oder <is>Añjanā</is>.
+;      DIFF BEGIN
+;        *{#aYjanAvatI#}¦ <lex>f.</lex> <ab>N. pr.</ab> des Weibchens des Weltelephanten <is>Supratīka</is> oder
+;      - <is>Añjanā</is>.
+;      + <is>Añjana</is>.
+;      DIFF END
+6717 new *{#aYjanAvatI#}¦ <lex>f.</lex> <ab>N. pr.</ab> des Weibchens des Weltelephanten <is>Supratīka</is> oder <is>Añjana</is>.
+; ------------------------------------------------------
+; <L>8008<pc>1-093-c<k1>aByeza  
+36207 old *{#aByeza#} <lex>m.</lex> und *{#aByezIya, aByezya#} <lex>Adj.</lex>¦ <is>gaṇa</is> {#apUpAdi#}.
+;      DIFF BEGIN
+;      - *{#aByeza#}
+;      + *{#aByeza#}¦
+;        <lex>m.</lex> und
+;      + *<lex>Adj.</lex>
+;      - *{#aByezIya,
+;      + {#aByezIya,
+;        aByezya#}
+;      - <lex>Adj.</lex>¦
+;        <is>gaṇa</is> {#apUpAdi#}.
+;      DIFF END
+36207 new *{#aByeza#} <lex>m.</lex> und *<lex>Adj.</lex> {#aByezIya, aByezya#}¦ <is>gaṇa</is> {#apUpAdi#}.
+; ------------------------------------------------------
+; <L>8010<pc>1-094-a<k1>aByoza
+36215 old *{#aByoza#} <lex>m.</lex> und *{#aByozIya, aByozya#} <lex>Adj.</lex>¦ = {#aByuza#} <ab>u. s. w.</ab>
+;      DIFF BEGIN
+;      - *{#aByoza#}
+;      + *{#aByoza#}¦
+;        <lex>m.</lex> und
+;      + *<lex>Adj.</lex>
+;      - *{#aByozIya,
+;      + {#aByozIya,
+;        aByozya#}
+;      - <lex>Adj.</lex>¦
+;        = {#aByuza#} <ab>u. s. w.</ab>
+;      DIFF END
+36215 new *{#aByoza#} <lex>m.</lex> und *<lex>Adj.</lex> {#aByozIya, aByozya#}¦ = {#aByuza#} <ab>u. s. w.</ab>
+; ------------------------------------------------------
+; <L>15691<pc>1-185-c<k1>Arya
+72151 old <div n="2">— g〉 <ab>N. pr.</ab> eines Sohnes des <is>Manu</is> <is>Sāvarṇa</is> und auch ein sonst vorkommender Mannsname.
+;      DIFF BEGIN
+;        <div n="2">— g〉 <ab>N. pr.</ab> eines Sohnes des <is>Manu</is>
+;      - <is>Sāvarṇa</is>
+;      + <is>Sauvarṇa</is>
+;        und auch ein sonst vorkommender Mannsname.
+;      DIFF END
+72151 new <div n="2">— g〉 <ab>N. pr.</ab> eines Sohnes des <is>Manu</is> <is>Sauvarṇa</is> und auch ein sonst vorkommender Mannsname.
+; ------------------------------------------------------
+; <L>32441<pc>2-123-c<k1>kzAra
+155377 old <div n="1">— 2〉 <lex>m.</lex> <lex>n.</lex> (selten) {%ein brennender, ätzender Stoff; Aetzkali, Salpeter, Natrum, Potasche%} <ab>u. s. w.</ab> <ls>BHĀG. P. 7,4,17</ls>. {#°dvaya#} <lex>n.</lex> = {#svarjikA#} und {#yAvaSUka#} <ls>BHĀVAPR. 11,182</ls>. *{#°traya#}, *{#°triya#} und *{#tri°#} <lex>n.</lex> {%Natrum, Salpeter und Borax;%} {#°zawka#}, *{#kzArAzwaka#} und *{#°pUrvadaSaka#} <lex>n.</lex> {%eine Gruppe von%} 6,8 und 10 {%ätzenden Stoffen%}. <ab>Vgl.</ab> <ls>Comm. zu ĀŚV. GṚHY. 1,8,10</ls>.
+;      DIFF BEGIN
+;        <div n="1">— 2〉 <lex>m.</lex> <lex>n.</lex> (selten) {%ein brennender, ätzender Stoff; Aetzkali, Salpeter, Natrum, Potasche%} <ab>u. s. w.</ab> <ls>BHĀG. P. 7,4,17</ls>. {#°dvaya#} <lex>n.</lex> = {#svarjikA#} und {#yAvaSUka#} <ls>BHĀVAPR. 11,182</ls>. *{#°traya#}, *{#°triya#} und *{#tri°#} <lex>n.</lex> {%Natrum, Salpeter und Borax;%} {#°zawka#}, *{#kzArAzwaka#} und *{#°pUrvadaSaka#} <lex>n.</lex> {%eine Gruppe von%}
+;      - 6,8
+;      + 6, 8
+;        und 10 {%ätzenden Stoffen%}. <ab>Vgl.</ab> <ls>Comm. zu ĀŚV. GṚHY. 1,8,10</ls>.
+;      DIFF END
+155377 new <div n="1">— 2〉 <lex>m.</lex> <lex>n.</lex> (selten) {%ein brennender, ätzender Stoff; Aetzkali, Salpeter, Natrum, Potasche%} <ab>u. s. w.</ab> <ls>BHĀG. P. 7,4,17</ls>. {#°dvaya#} <lex>n.</lex> = {#svarjikA#} und {#yAvaSUka#} <ls>BHĀVAPR. 11,182</ls>. *{#°traya#}, *{#°triya#} und *{#tri°#} <lex>n.</lex> {%Natrum, Salpeter und Borax;%} {#°zawka#}, *{#kzArAzwaka#} und *{#°pUrvadaSaka#} <lex>n.</lex> {%eine Gruppe von 6, 8 und 10 ätzenden Stoffen%}. <ab>Vgl.</ab> <ls>Comm. zu ĀŚV. GṚHY. 1,8,10</ls>.
+; ------------------------------------------------------
+; <L>39096<pc>2-214-b<k1>candrahAsa
+189350 old <div n="2">— c〉 <lex>n.</lex> pr.
+;      DIFF BEGIN
+;        <div n="2">— c〉
+;      - <lex>n.</lex> pr.
+;      + <ab>N. pr.</ab>
+;      DIFF END
+189350 new <div n="2">— c〉 <ab>N. pr.</ab>
+; ------------------------------------------------------
+; <L>41803<pc>2-255-a<k1>jayanta
+203690 old <div n="2">— d〉 <ab>Bez.</ab> {%einer <ab>best.</ab> Nacht, in der%} <is>Kṛṣṇa</is>ʼs. {%Geburt gefeiert wird%}. Auch die 9te Nacht im <is>Karmamāsa</is>.
+;      DIFF BEGIN
+;        <div n="2">— d〉 <ab>Bez.</ab> {%einer <ab>best.</ab> Nacht, in der%} <is>Kṛṣṇa</is>ʼs. {%Geburt gefeiert wird%}. Auch
+;      - die
+;      + {%die
+;        9te Nacht
+;      - im
+;      + im%}
+;        <is>Karmamāsa</is>.
+;      DIFF END
+203690 new <div n="2">— d〉 <ab>Bez.</ab> {%einer <ab>best.</ab> Nacht, in der%} <is>Kṛṣṇa</is>ʼs {%Geburt gefeiert wird%}. Auch {%die 9te Nacht im%} <is>Karmamāsa</is>.
+; ------------------------------------------------------
+; <L>44573<pc>3-011-a<k1>tapana
+217826 old <div n="2">— h〉 *{%<bot>Calotropis gigantea</bot> und eine weisse Varietät derselben%} <ls>RĀJAN. 10,29</ls>.
+;      DIFF BEGIN
+;        <div n="2">— h〉 *{%<bot>Calotropis
+;      - gigantea</bot>
+;      + gigantea</bot>%}
+;        und
+;      - eine
+;      + {%eine
+;        weisse Varietät derselben%} <ls>RĀJAN. 10,29</ls>.
+;      DIFF END
+217826 new <div n="2">— h〉 *{%<bot>Calotropis gigantea</bot>%} und {%eine weisse Varietät derselben%} <ls>RĀJAN. 10,29</ls>.
+; ------------------------------------------------------
+; <L>64224<pc>4-044-b<k1>parivitarka
+315602 old {#parivitarka#}¦ <lex>m.</lex> {%Gedanke, das Gedachte%} <ls>Text zu Lt. de la b. l. 164. 184</ls>.
+;      DIFF BEGIN
+;        {#parivitarka#}¦ <lex>m.</lex> {%Gedanke, das Gedachte%} <ls>Text zu
+;      - Lt.
+;      + Lot.
+;        de la b. l. 164. 184</ls>.
+;      DIFF END
+315602 new {#parivitarka#}¦ <lex>m.</lex> {%Gedanke, das Gedachte%} <ls>Text zu Lot. de la b. l. 164. 184</ls>.
+; ------------------------------------------------------
+; <L>65141<pc>4-057-c<k1>paSu
+320169 old <div n="2">— a〉 {%Vieh, pecus%} (sowohl {%das einzelne Stück%} als auch {%Heerde%}); <ab>insbes.</ab> {%das zum Opfer dienende Kleinvieh%} und bisweilen auch {%Thier%} <ab>überh.</ab> Oefters wird der {%Mensch%} in der <ab>Bez.</ab> des mit ihm lebenden {%Haus- und Opferthieres%} mitbefasst; auch in verächtlichem Sinne vom {%Menschen%}.
+;      DIFF BEGIN
+;        <div n="2">— a〉 {%Vieh, pecus%} (sowohl {%das einzelne Stück%} als auch {%Heerde%}); <ab>insbes.</ab> {%das zum Opfer dienende Kleinvieh%} und bisweilen auch {%Thier%} <ab>überh.</ab> Oefters wird der {%Mensch%} in der <ab>Bez.</ab> des mit ihm lebenden
+;      - {%Haus-
+;      + {%Haus-%}
+;        und
+;      - Opferthieres%}
+;      + {%Opferthieres%}
+;        mitbefasst; auch in verächtlichem Sinne vom {%Menschen%}.
+;      DIFF END
+320169 new <div n="2">— a〉 {%Vieh, pecus%} (sowohl {%das einzelne Stück%} als auch {%Heerde%}); <ab>insbes.</ab> {%das zum Opfer dienende Kleinvieh%} und bisweilen auch {%Thier%} <ab>überh.</ab> Oefters wird der {%Mensch%} in der <ab>Bez.</ab> des mit ihm lebenden {%Haus-%} und {%Opferthieres%} mitbefasst; auch in verächtlichem Sinne vom {%Menschen%}.
+; ------------------------------------------------------
+; <L>65975<pc>4-069-a<k1>pAdona
+324234 old {#pAdona#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) = {#pAdUna#} <ls>ĀPAST. 1,2,13</ls>. <ab>vgl.</ab> <ls>Ind. St. 13,253</ls>.
+;      DIFF BEGIN
+;        {#pAdona#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) = {#pAdUna#} <ls>ĀPAST. 1,2,13</ls>.
+;      - <ab>vgl.</ab>
+;      + <ab>v. l.</ab>
+;        <ls>Ind. St. 13,253</ls>.
+;      DIFF END
+324234 new {#pAdona#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) = {#pAdUna#} <ls>ĀPAST. 1,2,13</ls>. <ab>v. l.</ab> <ls>Ind. St. 13,253</ls>.
+; ------------------------------------------------------
+; <L>66656<pc>4-078-c<k1>pASupata
+327588 old <div n="2">— c〉 {%<bot>Getonia floribunda</bot>%} <ls>RĀJAN. 10,116</ls>.; <ab>vgl.</ab> <ls>5.123</ls>.
+;      DIFF BEGIN
+;        <div n="2">— c〉 {%<bot>Getonia floribunda</bot>%} <ls>RĀJAN. 10,116</ls>.; <ab>vgl.</ab>
+;      - <ls>5.123</ls>.
+;      DIFF END
+327588 new <div n="2">— c〉 {%<bot>Getonia floribunda</bot>%} <ls>RĀJAN. 10,116</ls>; <ab>vgl.</ab> <ls>5,123</ls>.
+; ------------------------------------------------------
+; <L>67909<pc>4-096-b<k1>punarvasu
+333818 old <div n="2">— a〉 <ab>Du.</ab> und <ab>Sg.</ab> (<ls>MAITR. S. 1,7,2</ls>). {%das fünfte oder siebente Mondhaus, <gk>β α</gk>> der Zwillinge%}. <ab>Nom. abstr.</ab> {#punarvasutva/#} <lex>n.</lex> <ls>MAITR. S. 1,7,2</ls>.
+;      DIFF BEGIN
+;        <div n="2">— a〉 <ab>Du.</ab> und <ab>Sg.</ab> (<ls>MAITR. S. 1,7,2</ls>). {%das fünfte oder siebente Mondhaus, <gk>β
+;      - α</gk>>
+;      + α</gk>
+;        der Zwillinge%}. <ab>Nom. abstr.</ab> {#punarvasutva/#} <lex>n.</lex> <ls>MAITR. S. 1,7,2</ls>.
+;      DIFF END
+333818 new <div n="2">— a〉 <ab>Du.</ab> und <ab>Sg.</ab> (<ls>MAITR. S. 1,7,2</ls>). {%das fünfte oder siebente Mondhaus, <gk>β α</gk> der Zwillinge%}. <ab>Nom. abstr.</ab> {#punarvasutva/#} <lex>n.</lex> <ls>MAITR. S. 1,7,2</ls>.
+; ------------------------------------------------------
+; <L>68084<pc>4-099-a<k1>purAtana
+334654 old <div n="1">— 1〉 <lex>Adj.</lex> (<lex>f.</lex> {#I#}) {%aus alter Zeit stammend, ehemalig, alt; alt%} auch <ab n="so">s.</ab> <ab>v. a.</ab> {%gebraucht%}. <ab>Loc.</ab> (so wohl auch <ls n="Chr.">53,29</ls> zu lesen) so <ab>v. a.</ab> {%ehemals, in vergangenen Zeiten%}.
+;      DIFF BEGIN
+;        <div n="1">— 1〉 <lex>Adj.</lex> (<lex>f.</lex> {#I#}) {%aus alter Zeit stammend, ehemalig, alt; alt%} auch <ab
+;      - n="so">s.</ab> <ab>v.
+;      + n="so viel als">s. v.
+;        a.</ab> {%gebraucht%}. <ab>Loc.</ab> (so wohl auch <ls n="Chr.">53,29</ls> zu lesen) so <ab>v. a.</ab> {%ehemals, in vergangenen Zeiten%}.
+;      DIFF END
+334654 new <div n="1">— 1〉 <lex>Adj.</lex> (<lex>f.</lex> {#I#}) {%aus alter Zeit stammend, ehemalig, alt; alt%} auch <ab n="so viel als">s. v. a.</ab> {%gebraucht%}. <ab>Loc.</ab> (so wohl auch <ls n="Chr.">53,29</ls> zu lesen) so <ab>v. a.</ab> {%ehemals, in vergangenen Zeiten%}.
+; ------------------------------------------------------
+; <L>69167<pc>4-114-a<k1>pUrvayAyAta
+339882 old *{#pUrvayAyAta#}¦ <lex>n.</lex> {%die ältere Form der Erzählung von%} <is>Yayāti</is> {%oder die im Osten gangbare Erzählung von%} <is n="Yayāti">Y.</is>
+;      DIFF BEGIN
+;        *{#pUrvayAyAta#}¦ <lex>n.</lex> {%die ältere Form der Erzählung von%} <is>Yayāti</is>
+;      - {%oder
+;      + oder
+;      - die
+;      + {%die
+;        im Osten gangbare
+;      - Erzählung von%}
+;        <is
+;      + n="Erzählung">E.</is> von <is
+;      - n="Yayāti">Y.</is>
+;      + n="Yayāti">Y.</is>%}
+;      DIFF END
+339882 new *{#pUrvayAyAta#}¦ <lex>n.</lex> {%die ältere Form der Erzählung von%} <is>Yayāti</is> oder {%die im Osten gangbare <is n="Erzählung">E.</is> von <is n="Yayāti">Y.</is>%}
+; ------------------------------------------------------
+; <L>70491<pc>4-131-b<k1>pracaRqa
+346216 old <div n="2">— b〉 {%eine Form oder%} <is>Śakti</is> {%der%} <is>Durgā</is>.
+;      DIFF BEGIN
+;        <div n="2">— b〉 {%eine
+;      - Form
+;      + Form%}
+;      - oder%}
+;      + oder
+;        <is>Śakti</is> {%der%} <is>Durgā</is>.
+;      DIFF END
+346216 new <div n="2">— b〉 {%eine Form%} oder <is>Śakti</is> {%der%} <is>Durgā</is>.
+; ------------------------------------------------------
+; <L>72618<pc>4-161-c<k1>praBAva
+356415 old <div n="1">— 5〉 <ab>N. pr.</ab> eines Sohnes des <is>Manu</is> <is>Svārociṣa</is>. — <ls>Chr. 223,13</ls> fehlerhaft für {#praBavaH#} <ab>vgl.</ab> <ls>Comm. zu P. 1,4,37</ls>.
+;      DIFF BEGIN
+;        <div n="1">— 5〉 <ab>N. pr.</ab> eines Sohnes des <is>Manu</is>
+;      - <is>Svārociṣa</is>.
+;      + <is>Svarocis</is>.
+;        — <ls>Chr. 223,13</ls> fehlerhaft für {#praBavaH#} <ab>vgl.</ab> <ls>Comm. zu P. 1,4,37</ls>.
+;      DIFF END
+356415 new <div n="1">— 5〉 <ab>N. pr.</ab> eines Sohnes des <is>Manu</is> <is>Svarocis</is>. — <ls>Chr. 223,13</ls> fehlerhaft für {#praBavaH#}; <ab>vgl.</ab> <ls>Comm. zu P. 1,4,37</ls>.
+; ------------------------------------------------------
+; <L>76063<pc>4-212-c<k1>balika
+373564 old <div n="1">— 2〉 <lex>f.</lex> {#A#} {%<bot>Sida cordifolia</bot> und rhombifolia%} <ls>RĀJAN. 4,103</ls>.
+;      DIFF BEGIN
+;        <div n="1">— 2〉 <lex>f.</lex> {#A#} {%<bot>Sida
+;      - cordifolia</bot>
+;      + cordifolia</bot>%}
+;        und
+;      - rhombifolia%}
+;      + {%<bot>rhombifolia</bot>%}
+;        <ls>RĀJAN. 4,103</ls>.
+;      DIFF END
+373564 new <div n="1">— 2〉 <lex>f.</lex> {#A#} {%<bot>Sida cordifolia</bot>%} und {%<bot>rhombifolia</bot>%} <ls>RĀJAN. 4,103</ls>.
+; ------------------------------------------------------
+; <L>79450<pc>4-260-a<k1>BArata
+390025 old <div n="2">— b〉 {%die Erzählung von den%} <is>Bharata</is>, {%von ihrem Kampfe%}. Wird von <is>Mahābhārata</is> {%unterschieden und auch diesem Epos gleichgesetzt%} (<ls n="Chr.">175,1</ls>. <ls>RĀJAT. 7,1740</ls>).
+;      DIFF BEGIN
+;        <div n="2">— b〉 {%die Erzählung von den%} <is>Bharata</is>, {%von ihrem Kampfe%}. Wird von <is>Mahābhārata</is>
+;      - {%unterschieden
+;      + unterschieden
+;        und auch diesem Epos
+;      - gleichgesetzt%}
+;      + gleichgesetzt
+;        (<ls n="Chr.">175,1</ls>. <ls>RĀJAT. 7,1740</ls>).
+;      DIFF END
+390025 new <div n="2">— b〉 {%die Erzählung von den%} <is>Bharata</is>, — {%von ihrem Kampfe%}. Wird vom <is>Mahābhārata</is> unterschieden und auch diesem Epos gleichgesetzt (<ls n="Chr.">175,1</ls>. <ls>RĀJAT. 7,1740</ls>).
+; ------------------------------------------------------
+; <L>80684<pc>4-280-c<k1>BUruha
+396530 old <div n="2">— b〉 *{%<bot>Terminalia Arjuna</bot> und glabra%}.
+;      DIFF BEGIN
+;        <div n="2">— b〉 *{%<bot>Terminalia
+;      - Arjuna</bot>
+;      + Arjuna</bot>%}
+;        und
+;      - glabra%}.
+;      + {%<bot>glabra</bot>%}.
+;      DIFF END
+396530 new <div n="2">— b〉 *{%<bot>Terminalia Arjuna</bot>%} und {%<bot>glabra</bot>%}.
+; ------------------------------------------------------
+; <L>82027<pc>5-010-b<k1>matsyadvAdaSI
+403395 old {#matsyadvAdaSI#}¦ <lex>f.</lex> {%der zwölfte Tag in der%} — Hälfte des <is>Mārgaśira</is>.
+;      DIFF BEGIN
+;        {#matsyadvAdaSI#}¦ <lex>f.</lex> {%der zwölfte Tag in
+;      - der%}
+;      + der
+;        — Hälfte
+;      - des
+;      + des%}
+;        <is>Mārgaśira</is>.
+;      DIFF END
+403395 new {#matsyadvAdaSI#}¦ <lex>f.</lex> {%der zwölfte Tag in der — Hälfte des%} <is>Mārgaśira</is>.
+; ------------------------------------------------------
+; <L>85965<pc>5-065-c<k1>mADava
+423027 old <div n="2">— e〉 {%ein Sohn%} oder {%Nachkomme%} <is>Madhu</is>ʼs, {%ein Mann aus%} <is>Yadu</is>ʼs {%Geschlecht%}. <ab>Sg.</ab> <ab>Patron.</ab> <is>Kṛṣṇa</is>ʼs (<is>Viṣṇu</is>ʼs) und <is>Paraśurāma</is>ʼs (als einer Incarnation <is>Viṣṇu</is>ʼs). Auch auf <is>Śiva</is> {%übertragen%}. <ab>Pl.</ab> <ab>Bez.</ab> {%der%} <is>Yādava</is>ʼs {%oder%} <is>Vṛṣṇi</is>ʼs.
+;      DIFF BEGIN
+;        <div n="2">— e〉 {%ein Sohn%} oder {%Nachkomme%} <is>Madhu</is>ʼs, {%ein Mann aus%} <is>Yadu</is>ʼs {%Geschlecht%}. <ab>Sg.</ab> <ab>Patron.</ab> <is>Kṛṣṇa</is>ʼs (<is>Viṣṇu</is>ʼs) und <is>Paraśurāma</is>ʼs (als einer Incarnation <is>Viṣṇu</is>ʼs). Auch auf <is>Śiva</is> {%übertragen%}. <ab>Pl.</ab> <ab>Bez.</ab>
+;      - {%der%}
+;      + der
+;        <is>Yādava</is>ʼs
+;      - {%oder%}
+;      + oder
+;        <is>Vṛṣṇi</is>ʼs.
+;      DIFF END
+423027 new <div n="2">— e〉 {%ein Sohn%} oder {%Nachkomme%} <is>Madhu</is>ʼs, {%ein Mann aus%} <is>Yadu</is>ʼs {%Geschlecht%}. <ab>Sg.</ab> <ab>Patron.</ab> <is>Kṛṣṇa</is>ʼs (<is>Viṣṇu</is>ʼs) und <is>Paraśurāma</is>ʼs (als einer Incarnation <is>Viṣṇu</is>ʼs). Auch auf <is>Śiva</is> {%übertragen%}. <ab>Pl.</ab> <ab>Bez.</ab> der <is>Yādava</is>ʼs oder <is>Vṛṣṇi</is>ʼs.
+; ------------------------------------------------------
+; <L>86745<pc>5-076-c<k1>mAheSvara
+426957 old <div n="1">— 2〉 <lex>m.</lex> {%ein Verehrer des%} <is>Śiva</is>, {%ein%} {%Śivait%}. Vier Secten derselben <ls>GOVINDĀN. S. 592</ls>. {#parama°#} <ls>KĀD. 249,11</ls>. <ls>HARṢAC. 71,10</ls>. <ab>Nom. abstr.</ab> {#°tA#} <lex>f.</lex>
+;      DIFF BEGIN
+;        <div n="1">— 2〉 <lex>m.</lex> {%ein Verehrer des%} <is>Śiva</is>, {%ein%}
+;      - {%Śivait%}.
+;      + <is>Śivait</is>.
+;        Vier Secten derselben <ls>GOVINDĀN. S. 592</ls>. {#parama°#} <ls>KĀD. 249,11</ls>. <ls>HARṢAC. 71,10</ls>. <ab>Nom. abstr.</ab> {#°tA#} <lex>f.</lex>
+;      DIFF END
+426957 new <div n="1">— 2〉 <lex>m.</lex> {%ein Verehrer des%} <is>Śiva</is>, {%ein%} <is>Śivait</is>. Vier Secten derselben <ls>GOVINDĀN. S. 592</ls>. {#parama°#} <ls>KĀD. 249,11</ls>. <ls>HARṢAC. 71,10</ls>. <ab>Nom. abstr.</ab> {#°tA#} <lex>f.</lex>
+; ------------------------------------------------------
+; <L>93594<pc>5-182-a<k1>rAjAtana
+461428 old <div n="1">— 3〉 {%<bot>Mimusops Kauki</bot> (oder Kanki)%}.
+;      DIFF BEGIN
+;        <div n="1">— 3〉 {%<bot>Mimusops
+;      - Kauki</bot>
+;      + Kauki</bot>%}
+;        (oder
+;      - Kanki)%}.
+;      + {%<bot>Kanki</bot>%}).
+;      DIFF END
+461428 new <div n="1">— 3〉 {%<bot>Mimusops Kauki</bot>%} (oder {%<bot>Kanki</bot>%}).
+; ------------------------------------------------------
+; <L>93609<pc>5-182-a<k1>rAjAnna
+461491 old <div n="1">— 1〉 {%von einem Fürsten oder%} <is>Kṣatriya</is> {%empfangene Speise%}.
+;      DIFF BEGIN
+;        <div n="1">— 1〉 {%von einem
+;      - Fürsten
+;      + Fürsten%}
+;      - oder%}
+;      + oder
+;        <is>Kṣatriya</is> {%empfangene Speise%}.
+;      DIFF END
+461491 new <div n="1">— 1〉 {%von einem Fürsten%} oder <is>Kṣatriya</is> {%empfangene Speise%}.
+; ------------------------------------------------------
+; <L>104497<pc>6-120-a<k1>viS
+519058 old <div n="1">— 5〉 {%sich niederlassen, sich niederlegen, zur Ruhe begeben%} (<ls n="Chr.">27,19</ls>), {%mit%} oder {%zu seinem Weibe%} (<ab>Instr.</ab>, <ab>Instr.</ab> mit {#saha#} oder mit <ab>Dat.</ab> [<ls>KAUṢ. UP. 2,10</ls> {#saMvekzyan#} zu lesen]) {%sich zur Ruhe begeben auf oder in%} (<ab>Loc.</ab> oder {#°upari#}), {%schlafen mit%} (<ab>Instr.</ab>), {%sich lagen auf%} (<ab>Acc.</ab>). {#saMvizwa#} {%sich hingelegt habend%} (<ls>Chr. 39,26</ls>), {%zur Ruhe gegangen, schlafend%}.
+;      DIFF BEGIN
+;        <div n="1">— 5〉 {%sich niederlassen, sich niederlegen, zur Ruhe begeben%} (<ls n="Chr.">27,19</ls>), {%mit%} oder
+;      - {%zu
+;      + {%zu%}
+;        seinem
+;      - Weibe%}
+;      + Weibe
+;        (<ab>Instr.</ab>, <ab>Instr.</ab> mit {#saha#} oder mit <ab>Dat.</ab> [<ls>KAUṢ. UP. 2,10</ls> {#saMvekzyan#} zu lesen])
+;      + {%auf%}
+;      - {%sich zur Ruhe begeben auf
+;        oder
+;      - in%}
+;      + {%in%}
+;        (<ab>Loc.</ab> oder {#°upari#}), {%schlafen mit%} (<ab>Instr.</ab>), {%sich lagen auf%} (<ab>Acc.</ab>). {#saMvizwa#} {%sich hingelegt habend%} (<ls>Chr. 39,26</ls>), {%zur Ruhe gegangen, schlafend%}.
+;      DIFF END
+519058 new <div n="1">— 5〉 {%sich niederlassen, — niederlegen, — zur Ruhe begeben%} (<ls n="Chr.">27,19</ls>), {%mit%} oder {%zu%} seinem Weibe (<ab>Instr.</ab>, <ab>Instr.</ab> mit {#saha#} oder mit <ab>Dat.</ab> [<ls>KAUṢ. UP. 2,10</ls> {#saMvekzyan#} zu lesen]) — {%auf%} oder {%in%} (<ab>Loc.</ab> oder {#°upari#}), {%schlafen mit%} (<ab>Instr.</ab>), {%sich lagen auf%} (<ab>Acc.</ab>). {#saMvizwa#} {%sich hingelegt habend%} (<ls>Chr. 39,26</ls>), {%zur Ruhe gegangen, schlafend%}.
+; ------------------------------------------------------
+; <L>104739<pc>6-127-a<k1>viSva
+520390 old <div n="2">— d〉 *<bot>Piper longum</bot>.
+;      DIFF BEGIN
+;        <div n="2">— d〉
+;      - *<bot>Piper
+;      + *{%<bot>Piper
+;      - longum</bot>.
+;      + longum</bot>%}.
+;      DIFF END
+520390 new <div n="2">— d〉 *{%<bot>Piper longum</bot>%}.
+; ------------------------------------------------------
+; <L>106346<pc>6-148-a<k1>vfjana
+528082 old <div n="1">— 2〉 {%eine geschlossene Niederlassung; Hof, Flecken, Dorfschaft,%} auch {%oppidum;%} sowohl {%die Mark%} als {%die Bewohner%}. <ls>ṚV. 47,32,7</ls>. nach dem <ls n="Padapāṭha">Padap.</ls> <lex>m.</lex>
+;      DIFF BEGIN
+;        <div n="1">— 2〉 {%eine geschlossene Niederlassung; Hof, Flecken, Dorfschaft,%} auch {%oppidum;%} sowohl {%die Mark%} als {%die Bewohner%}. <ls>ṚV.
+;      - 47,32,7</ls>.
+;      + 7,32,7</ls>
+;        nach dem <ls n="Padapāṭha">Padap.</ls> <lex>m.</lex>
+;      DIFF END
+528082 new <div n="1">— 2〉 {%eine geschlossene Niederlassung; Hof, Flecken, Dorfschaft,%} auch {%oppidum;%} sowohl {%die Mark%} als {%die Bewohner%}. <ls>ṚV. 7,32,7</ls> nach dem <ls n="Padapāṭha">Padap.</ls> <lex>m.</lex>
+; ------------------------------------------------------
+; <L>127461<pc>7-161-c<k1>surapriya
+631509 old <div n="2">— c〉 {%ein Elacocarpus%}.
+;      DIFF BEGIN
+;        <div n="2">— c〉 {%ein
+;      - Elacocarpus%}.
+;      + Elaeocarpus%}.
+;      DIFF END
+631509 new <div n="2">— c〉 {%ein Elaeocarpus%}.
+; ------------------------------------------------------
+; <L>130108<pc>7-195-b<k1>sOri
+644145 old <div n="1">— 4〉 *{%<bot>Terminalia tomentosa</bot>%}. <ab>v. l.</ab> {#sOri#}.
+;      DIFF BEGIN
+;        <div n="1">— 4〉 *{%<bot>Terminalia tomentosa</bot>%}. <ab>v. l.</ab>
+;      - {#sOri#}.
+;      + {#SOri#}.
+;      DIFF END
+644145 new <div n="1">— 4〉 *{%<bot>Terminalia tomentosa</bot>%}. <ab>v. l.</ab> {#SOri#}.
+; ------------------------------------------------------
+; <L>130874<pc>7-207-a<k1>sTA
+648096 old <div n="2">— d〉 in einer Lage —, in einem Verhältniss —, in einem Verhaltniss —, in einem Zustande {%sich befindend;%} die Ergänzung im <ab>Loc.</ab> <ab>Instr.</ab> ({#muktAkAratayA#} <ls n="Chr.">186,14</ls>), <ab>Abl.</ab> im <ab>Comp.</ab> vorangehend, ein in demselben Casus stehendes Nomen, ein <ab>Absol.</ab> oder ein <lex>Adv.</lex>
+;      DIFF BEGIN
+;        <div n="2">— d〉 in einer Lage —, in einem Verhältniss
+;      - —, in einem Verhaltniss
+;        —, in einem Zustande {%sich befindend;%} die Ergänzung im <ab>Loc.</ab> <ab>Instr.</ab> ({#muktAkAratayA#} <ls n="Chr.">186,14</ls>), <ab>Abl.</ab> im <ab>Comp.</ab> vorangehend, ein in demselben Casus stehendes Nomen, ein <ab>Absol.</ab> oder ein <lex>Adv.</lex>
+;      DIFF END
+648096 new <div n="2">— d〉 in einer Lage —, in einem Verhältniss —, in einem Zustande {%sich befindend;%} die Ergänzung im <ab>Loc.</ab>, <ab>Instr.</ab> ({#muktAkAratayA#} <ls n="Chr.">186,14</ls>), <ab>Abl.</ab>, im <ab>Comp.</ab> vorangehend, ein in demselben Casus stehendes Nomen, ein <ab>Absol.</ab> oder ein <lex>Adv.</lex>
+; ------------------------------------------------------
+; <L>133572<pc>7-254-b<k1>har
+662878 old <div n="m">— <ab>Desid.</ab> {%erwiedern —, vergelten wollen%}. <ab>v. l.</ab> {#pratijihIrzu#}.
+;      DIFF BEGIN
+;        <div n="m">— <ab>Desid.</ab> {%erwiedern —, vergelten wollen%}.
+;      + <ab>Vgl.</ab>
+;      - <ab>v. l.</ab>
+;        {#pratijihIrzu#}.
+;      DIFF END
+662878 new <div n="m">— <ab>Desid.</ab> {%erwiedern —, vergelten wollen%}. <ab>Vgl.</ab> {#pratijihIrzu#}.
+; ------------------------------------------------------
+; ***********************************************************
+; ***********************************************************
+; ***********************************************************
+; ***********************************************************
+; ***********************************************************
+; ***********************************************************
+; ***********************************************************
+; ***********************************************************
+; ***********************************************************
+; ***********************************************************
+; ***********************************************************
