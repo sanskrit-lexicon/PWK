@@ -1,0 +1,202 @@
+; <L>3614<pc>1-042-c<k1>anargala<k2>anargala<e>100
+16373 old {#anargala#}¦ <lex>Adj.</lex> {%ungehemmt freit%} <ls n="Chr.">98,3</ls>.
+; freit  -> , frei [comma before the word missing; cf. PWG]
+;
+16373 new {#anargala#}¦ <lex>Adj.</lex> {%ungehemmt, frei%} <ls n="Chr.">98,3</ls>.
+;---------------------------------------------------
+; <L>16960<pc>1-205-a<k1>indrajit<k2>indrajit<e>100
+78790 old <div n="1">— 3〉 des Vaters von <is>Rāvaṇa</is> und Fürsten ven <is>Kāśmīra</is>.
+; ven -> von CHANGE 1 IN temp_pw_3.txt
+;
+78790 new <div n="1">— 3〉 des Vaters von <is>Rāvaṇa</is> und Fürsten von <is>Kāśmīra</is>.
+;---------------------------------------------------
+; <L>22435<pc>1-274-b<k1>EkAhika<k2>E/kAhika<e>100
+105225 old <div n="1">— 1〉 {%eintägig, quotidianus%} (Dieber) <ls>AGNI-P. 31,18</ls>.
+; Dieber -> Fieber
+;
+105225 new <div n="1">— 1〉 {%eintägig, quotidianus%} (Fieber) <ls>AGNI-P. 31,18</ls>.
+;---------------------------------------------------
+; <L>22462<pc>1-274-c<k1>EtadAtmya<k2>EtadAtmya<e>100
+105366 old {#EtadAtmya#}¦ <lex>n.</lex> {%das dessen-wesen-Sein%} <ls n="Chr.">283,5</ls>.
+; dessen-wesen-Sein -> dessen-Wesen-Sein
+;
+105366 new {#EtadAtmya#}¦ <lex>n.</lex> {%das dessen-Wesen-Sein%} <ls n="Chr.">283,5</ls>.
+;---------------------------------------------------
+; <L>25672<pc>2-038-a<k1>kalyARa<k2>kalyA/Ra<e>100
+121881 old <div n="3">— α〉 einnes <is>Gandharva</is>.
+; einnes  -> eines [not within {%%}]  (1 of 3)
+;
+121881 new <div n="3">— α〉 eines <is>Gandharva</is>.
+;---------------------------------------------------
+; <L>26339<pc>2-046-a<k1>kAdamba<k2>kAdamba<e>100
+125084 old <div n="1">— 3〉 <lex>n.</lex> {%<bot>die Bl</bot>üthe der <bot>Nauclea Cadamba</bot>%}.
+; Bl -> check </bot>ü
+;
+125084 new <div n="1">— 3〉 <lex>n.</lex> {%die Blüthe der <bot>Nauclea Cadamba</bot>%}.
+;---------------------------------------------------
+; <L>26785<pc>2-052-a<k1>kAraRakAraRa<k2>*kAraRakAraRa<e>100
+127353 old <div n="1">— 2〉 {%Element, Atem%}.
+; Atem -> Atom
+;
+127353 new <div n="1">— 2〉 {%Element, Atom%}.
+;---------------------------------------------------
+; <L>29245<pc>2-082-c<k1>kulAya<k2>kulA/ya<e>100
+139380 old {#kulA/ya#}¦ <lex>m.</lex> <lex>n.</lex> (dieses älter) {%Geflecht, Gewebe, Nest, Gehäuse, Lagerstatt;%} auch vom {%menschlichen Körper als dem Gehäuse der Seele%}. {#agneH#} (<ls>VAITĀN.</ls>) und {#indrAgnyoH#} {%en <ab>best.</ab>%} <is>Ekāha</is> <ls>TĀṆḌYA-BR. 19,15,1</ls>.
+; {%en  -> {%ein   1 of 6
+;
+139380 new {#kulA/ya#}¦ <lex>m.</lex> <lex>n.</lex> (dieses älter) {%Geflecht, Gewebe, Nest, Gehäuse, Lagerstatt;%} auch vom {%menschlichen Körper als dem Gehäuse der Seele%}. {#agneH#} (<ls>VAITĀN.</ls>) und {#indrAgnyoH#} {%ein <ab>best.</ab>%} <is>Ekāha</is> <ls>TĀṆḌYA-BR. 19,15,1</ls>.
+;---------------------------------------------------
+; <L>31600<pc>2-109-c<k1>kOsumAyuDa<k2>kOsumAyuDa<e>100
+150785 old {#kOsumAyuDa#}¦ <lex>Adj.</lex> {%en Liebesgott betreffend%}.
+; {%en  -> {%ein   1 of 6  NOTE: this one changed to den
+;
+150785 new {#kOsumAyuDa#}¦ <lex>Adj.</lex> {%den Liebesgott betreffend%}.
+;---------------------------------------------------
+; <L>32906<pc>2-130-a<k1>kzullaka<k2>kzullaka/<e>100
+157729 old <div n="1">— 3〉 <lex>n.</lex> {%en <ab>best.</ab> Spiel%}.
+; {%en  -> {%ein   1 of 6
+;
+157729 new <div n="1">— 3〉 <lex>n.</lex> {%ein <ab>best.</ab> Spiel%}.
+;---------------------------------------------------
+; <L>49511<pc>3-078-a<k1>dA<k2>dA<h>1<e>500
+242501 old <div n="2">— a〉 {%zusammenfassen, mit ein ander nehmen, mit sich nehmen%}.
+; ander  IN: " ein ander " -> einander (1 of 4)
+;
+242501 new <div n="2">— a〉 {%zusammenfassen, mit einander nehmen, mit sich nehmen%}.
+;---------------------------------------------------
+; <L>52625<pc>3-119-b<k1>devAnucara<k2>devAnucara<e>100
+257549 old {#devAnucara#} und {#devAnuyAyin#}¦ <lex>m.</lex> {%en Diener im Gefolge eines Gottes%}.
+; {%en  -> {%ein   1 of 6
+;
+257549 new {#devAnucara#} und {#devAnuyAyin#}¦ <lex>m.</lex> {%ein Diener im Gefolge eines Gottes%}.
+;---------------------------------------------------
+; <L>60628<pc>3-234-c<k1>nIlaka<k2>nIlaka<e>100
+297482 old <div n="2">— g〉 {%eine <ab>best.</ab> Krankheit der Linse des Anges%}.
+; Anges -> Auges
+;
+297482 new <div n="2">— g〉 {%eine <ab>best.</ab> Krankheit der Linse des Auges%}.
+;---------------------------------------------------
+; <L>60781<pc>3-236-c<k1>nIlikAkAca<k2>nIlikAkAca<e>100
+298193 old {#nIlikAkAca#}¦ <lex>m.</lex> {%eine <ab>best.</ab> Krankheit der Linse des Anges%}.
+; Anges -> Auges
+;
+298193 new {#nIlikAkAca#}¦ <lex>m.</lex> {%eine <ab>best.</ab> Krankheit der Linse des Auges%}.
+;---------------------------------------------------
+; <L>61982<pc>4-007-a<k1>paYcama<k2>paYcama/<e>100
+303924 old <div n="2">— f〉 {%en Backstein von der Länge eines Fünftels%} (einnes <is>Puruṣa</is>) <ls>ŚULBAS. 3,42</ls>.
+; einnes  -> eines [not within {%%}]  (1 of 3)
+; {%en  -> {%ein   1 of 6
+; 
+303924 new <div n="2">— f〉 {%ein Backstein von der Länge eines Fünftels%} (eines <is>Puruṣa</is>) <ls>ŚULBAS. 3,42</ls>.
+;---------------------------------------------------
+; <L>62155<pc>4-009-a<k1>paYcAbjamaRqala<k2>paYcAbjamaRqala<e>100
+304728 old {#paYcAbjamaRqala#}¦ <lex>n.</lex> {%en <ab>best.</ab> mystischer Kreis%}.
+; {%en  -> {%ein   1 of 6
+;
+304728 new {#paYcAbjamaRqala#}¦ <lex>n.</lex> {%ein <ab>best.</ab> mystischer Kreis%}.
+;---------------------------------------------------
+; <L>69241<pc>4-115-a<k1>pUrvApara<k2>pUrvApara<e>100
+340207 old <div n="1">— 4〉 {%vorangehend und nachfolgend, auf ein ander folgend, zusammenhängend%}. {#pUrvApara/m#} {%nach einander%} <is>Bharadvāja</is> im <ls>Comm. zu ĀPAST. ŚR. 6,29,16</ls>. <ab>Nom. abstr.</ab> {#pUrvAparatva#} <lex>n.</lex> <ls>ŚAṂK. zu BṚH. ĀR. UP. S. 22</ls>.
+; ander  IN: " ein ander " -> einander (1 of 4)
+;
+340207 new <div n="1">— 4〉 {%vorangehend und nachfolgend, auf einander folgend, zusammenhängend%}. {#pUrvApara/m#} {%nach einander%} <is>Bharadvāja</is> im <ls>Comm. zu ĀPAST. ŚR. 6,29,16</ls>. <ab>Nom. abstr.</ab> {#pUrvAparatva#} <lex>n.</lex> <ls>ŚAṂK. zu BṚH. ĀR. UP. S. 22</ls>.
+;---------------------------------------------------
+; <L>69626<pc>4-119-b<k1>pfzAtaka<k2>pfzA/taka<e>100
+341961 old <div n="1">— 1〉 <lex>m.</lex> <lex>n.</lex> so <ab>v. a.</ab> {#pfzadAjya/#} oder {%eine die sem ähnliche Mischung%} <ls>AV. 20,134,2</ls>. <ls>MĀN. GṚHY. 2,3</ls>. <ls>GṚHYĀS. 2,59</ls>.
+; die sem -> diesem
+;
+341961 new <div n="1">— 1〉 <lex>m.</lex> <lex>n.</lex> so <ab>v. a.</ab> {#pfzadAjya/#} oder {%eine diesem ähnliche Mischung%} <ls>AV. 20,134,2</ls>. <ls>MĀN. GṚHY. 2,3</ls>. <ls>GṚHYĀS. 2,59</ls>.
+;---------------------------------------------------
+; <L>74460<pc>4-188-c<k1>prAmARya<k2>prAmARya<e>100
+365422 old {#prAmARya#}¦ <lex>n.</lex> {%das Norm-, Richtschnur-, Autorität-, Beweis-Sein%}.
+; Beweis-Sein -> Beweissein
+; 2 instances.  Both correct.
+; This change for '—'
+365422 new {#prAmARya#}¦ <lex>n.</lex> {%das Norm —, Richtschnur —, Autorität —, Beweis-Sein%}.
+;---------------------------------------------------
+; <L>78307<pc>4-242-a<k1>brU<k2>brU<e>500
+384238 old <div n="1">— 1〉 <ab>Act.</ab> <ab>Med.</ab> {%sich unterreden, — unterhalten, zu ein ander sprechen%}.
+; ander  IN: " ein ander " -> einander (1 of 4)
+;
+384238 new <div n="1">— 1〉 <ab>Act.</ab> <ab>Med.</ab> {%sich unterreden, — unterhalten, zu einander sprechen%}.
+;---------------------------------------------------
+; <L>81612<pc>5-004-c<k1>majjArajas<k2>*majjArajas<e>100
+401305 old <div n="1">— 2〉 Bdellium; <ab>vgl.</ab> {#majjAra#}.
+; Put italic markup around Bdellium
+; Note: 31 instances of Bdellion
+;       33 instances of Bdellium 
+;
+401305 new <div n="1">— 2〉 {%Bdellium%}; <ab>vgl.</ab> {#majjAra#}.
+;---------------------------------------------------
+; <L>94942<pc>5-204-a<k1>rogitaru<k2>*rogitaru<e>100
+468510 old *{#rogitaru#}¦ <lex>m.</lex> {%Jonesia Asoc%} Richtig {#rAgitaru#}.
+; Asoc -> <bot>Jonesia Asoca</bot>
+;
+468510 new *{#rogitaru#}¦ <lex>m.</lex> {%<bot>Jonesia Asoca</bot>%} Richtig {#rAgitaru#}.
+;---------------------------------------------------
+; <L>95573<pc>5-214-a<k1>laGvazwavarga<k2>laGvazwavarga<e>100
+471773 old {#laGvazwavarga#}¦ <lex>m.</lex> Title eines Werkes <ls>OPP. CAT. 1</ls>.
+; Title -> Titel 1 of 5
+;
+471773 new {#laGvazwavarga#}¦ <lex>m.</lex> Titel eines Werkes <ls>OPP. CAT. 1</ls>.
+;---------------------------------------------------
+; <L>105522<pc>6-137-b<k1>vizRuyaSas<k2>vizRuyaSas<e>100
+524104 old <div n="2">— b〉 einnes Lehrers.
+; einnes  -> eines [not within {%%}]  (1 of 3)
+;
+524104 new <div n="2">— b〉 eines Lehrers.
+;---------------------------------------------------
+; <L>105892<pc>6-142-b<k1>vIkzAraRyamAhAtmya<k2>vIkzAraRyamAhAtmya<e>100
+525924 old {#vIkzAraRyamAhAtmya#}¦ <lex>n.</lex> Title <ls>OPP. CAT. 1</ls>.
+; Title -> Titel 1 of 5
+;
+525924 new {#vIkzAraRyamAhAtmya#}¦ <lex>n.</lex> Titel <ls>OPP. CAT. 1</ls>.
+;---------------------------------------------------
+; <L>105965<pc>6-143-b<k1>vItarAgastuti<k2>vItarAgastuti<e>100
+526288 old {#vItarAgastuti#}¦ <lex>f.</lex> Title eines <is>Jaina</is>-Werkes.
+; Title -> Titel 1 of 5
+;
+526288 new {#vItarAgastuti#}¦ <lex>f.</lex> Titel eines <is>Jaina</is>-Werkes.
+;---------------------------------------------------
+; <L>121455<pc>7-078-c<k1>sarasvatIvinaSana<k2>sarasvatIvinaSana<e>100
+602326 old {#sarasvatIvinaSana#}¦ <lex>n.</lex> {%der Ort, wo der Fluss%}. <is>Sarasvatī</is> {%verschwindet%}.
+; Fluss. -> der Ort , wo der Fluss <is>Sarasvati</is> [delete dot after Fluss]
+;
+602326 new {#sarasvatIvinaSana#}¦ <lex>n.</lex> {%der Ort, wo der Fluss%} <is>Sarasvatī</is> {%verschwindet%}.
+;---------------------------------------------------
+; <L>124452<pc>7-122-a<k1>sArasvataprakriyA<k2>sArasvataprakriyA<e>100
+616738 old {#sArasvataprakriyA#}¦ <lex>f.</lex> Title einer Grammatik.
+; Title -> Titel 1 of 5
+;
+616738 new {#sArasvataprakriyA#}¦ <lex>f.</lex> Titel einer Grammatik.
+;---------------------------------------------------
+; <L>124570<pc>7-123-c<k1>sArvajYa<k2>sArvajYa<e>100
+617271 old <div n="1">— 2〉 <lex>n.</lex> {%Allwissendheit%} <ls>Ind. St. 15,285</ls>. Wohl fehlerhaft für {#sArvajYya#}.
+; Allwissendheit -> Allwissenheit
+;
+617271 new <div n="1">— 2〉 <lex>n.</lex> {%Allwissenheit%} <ls>Ind. St. 15,285</ls>. Wohl fehlerhaft für {#sArvajYya#}.
+;---------------------------------------------------
+; <L>125810<pc>7-140-c<k1>suKaboDikA<k2>suKaboDikA<e>100
+623343 old {#suKaboDikA#}¦ <lex>f.</lex> Title eines Commentars <ls>Ind. St. 14,99</ls>.
+; Title -> Titel 1 of 5
+;
+623343 new {#suKaboDikA#}¦ <lex>f.</lex> Titel eines Commentars <ls>Ind. St. 14,99</ls>.
+;---------------------------------------------------
+; <L>128739<pc>7-178-a<k1>sUtra<k2>sU/tra<e>100
+637660 old <div n="1">— 2〉 {%Messschnur%}. {#sUtrapAtaM#} <lex>n.</lex> {#kar#} oder {#car#} {%abmessen, gegen ein ander halten%}.
+; ander  IN: " ein ander " -> einander (1 of 4)
+;
+637660 new <div n="1">— 2〉 {%Messschnur%}. {#sUtrapAtaM#} <lex>n.</lex> {#kar#} oder {#car#} {%abmessen, gegen einander halten%}.
+;---------------------------------------------------
+; <L>128835<pc>7-179-b<k1>sUnfta<k2>sUnf/ta<e>100
+638133 old <div n="2">— b〉 Freundlichkeit, freudliche (wahre) Worte.
+; freudliche -> freundliche
+;
+638133 new <div n="2">— b〉 Freundlichkeit, freundliche (wahre) Worte.
+;---------------------------------------------------
+; <L>132770<pc>7-241-c<k1>svavargya<k2>svavargya<e>100
+658319 old {#svavargya#}¦ <lex>Adj.</lex> {%zu der eigenen(Consonanten-)Gruppe gehörig%} <ls>ĀŚV. ŚR. 1,2,16</ls>.
+; eigenen(Consonanten-)Gruppe -> eigenen (Consonanten-)Gruppe
+;
+658319 new {#svavargya#}¦ <lex>Adj.</lex> {%zu der eigenen (Consonanten-) Gruppe gehörig%} <ls>ĀŚV. ŚR. 1,2,16</ls>.
+;---------------------------------------------------

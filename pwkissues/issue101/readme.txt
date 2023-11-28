@@ -38,4 +38,9 @@ python bot_freq_withmw.py temp_pw_hk_0.txt bot_freq_mw.txt bot_freq_pw_0_withmw.
 <bot>Acacia catechu</bot> 3 MW 0
 
 -------------------------------------------
-
+11-27-2023
+German word corrections.
+See german/readme.txt.
+Final results are in change_pw_2.txt, change_pw_3.txt, and unchanged.txt
+New version of pw.txt is temp_pw_3.txt
+temp_pw_3_hk.txt is hk version.

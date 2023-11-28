@@ -1,0 +1,64 @@
+These 15 items in Malten's file did not generate a change
+as of Funderburk's work of 11-28-2202
+-----
+Arack -> Arak
+Find 2 in temp_pw_3.txt. Both agree with print
+NOCHANGE
+-----
+Astr -> ?
+36 found in temp_pw_3.txt  All <ab>Astr.</ab>
+NOCHANGE
+-----
+Attrapen
+1 found in temp_pw_3.txt  Agrees with print
+NOCHANGE
+-----
+Aufgegend -> ?
+1 found in temp_pw_3.txt  Agrees with print
+NOCHANGE
+-----
+Auftr.
+1 found in temp_pw_3.txt.  Treated as part of local abbreviation
+{%von der Besorgung von Aufträgen lebend,
+ zur <ab n="Besorgung von Aufträgen">Bes. von Auftr.</ab> geeignet%}.
+NOCHANGE
+-----
+Bed -> ?
+NOCHANGE Not found in italic text
+-----
+Enthaltensein, -> ?
+Found 1 in temp_pw_3.txt
+NOCHANGE
+-----
+Goldschmidtswage ->? Goldschmiedswage
+Found 2 instances of GoldschmidtswageGoldschmidtswage. Both agree with print  Not in Google
+  Both found in PWG. 
+Found 2 instances of Goldschmiedswage. Both agree with print Goldsmiths' scale
+NO CHANGE
+Could Goldschmidtswage a print error in PWG which is carried over to PW(K)?
+-----
+Br       -> Br , [delete!]
+  NOCHANGE
+-----
+Dv    -> [Dv. is an abbr. for which no expansion exists,
+          the Skt. part has slp1 dvarakauka?]
+NOCHANGE
+-----
+Enthaltsamkeit -> [Comma to be spaced (there are more instances)]
+NOCHANGE
+-----
+1 Chois -> </bot>
+NOCHANGE 3 found
+-----
+1 Cl._t -> <bot>Clitorea ternatea</bot>
+NOCHANGE
+ {%<bot>Clitoria ternatea</bot>%} oder
+   {%eine weiss blühende <bot n="Clitoria ternatea">Cl. t.</bot>%}
+-----   
+1 Clypea -> <bot>Clypea
+31 found in temp_pw_3.txt -- all marked with <bot>
+NOCHANGE
+-----
+1 DC -> to </bot>
+10 found in temp_pw_3.txt -- all marked as ' DC.</bot>'
+NOCHANGE

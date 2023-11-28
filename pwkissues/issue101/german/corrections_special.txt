@@ -1,0 +1,59 @@
+-----+
+Allwissendheit -> Allwissenheit
+CHANGE 1 in temp_pw_3.txt
+-----++
+Anges -> Auges
+CHANGE 2 in temp_pw_3.txt
+-----
+Atem -> Atom
+CHANGE 1 in temp_pw_3.txt
+-----
+Bdellion -> Bdellium
+31 instances of Bdellion
+33 instances of Bdellium 
+CHANGE 1 in temp_pw_3.txt   Put italic markup around Bdellium
+-----
+Beweis-Sein -> Beweissein
+2 instances.  Both correct.
+CHANGE 1 in temp_pw_3.txt for '—'
+-----
+Fluss. -> der Ort , wo der Fluss <is>Sarasvati</is> [delete dot after Fluss]
+CHANGE 1 in temp_pw_3.txt
+-----
+einnes  -> eines [not within {%%}]
+CHANGE 3 in temp_pw_3.txt
+-----
+freit  -> , frei [comma before the word missing; cf. PWG]
+CHANGE 1 in temp_pw_3.txt
+-----
+ander  IN: " ein ander " -> einander
+CHANGE 4 in temp_pw_3.txt
+-----
+{%en  -> {%ein  
+CHANGE 6 in temp_pw_3.txt  (incl. '{%en ' -> '{%den ' 1 instance)
+-----
+1 Asoc -> <bot>Jonesia Asoca</bot>
+CHANGE 1 in temp_pw_3.txt
+-----
+1 Bl -> check </bot>ü
+CHANGE 1 in temp_pw_3.txt
+-----
+Dieber -> Fieber
+CHANGE 1 IN temp_pw_3.txt
+-----
+dessen-wesen-Sein -> dessen-Wesen-Sein
+CHANGE 1 IN temp_pw_3.txt
+-----
+eigenen(Consonanten-)Gruppe -> eigenen (Consonanten-)Gruppe
+CHANGE 1 IN temp_pw_3.txt
+-----
+die sem -> diesem
+CHANGE 1 IN temp_pw_3.txt
+-----
+Title -> Titel
+CHANGE 5 IN temp_pw_3.txt
+-----
+freudliche -> freundliche
+CHANGE 1 IN temp_pw_3.txt
+-----
+ven -> von CHANGE 1 IN temp_pw_3.txt
