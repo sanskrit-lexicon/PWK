@@ -1,0 +1,30 @@
+ 12tn 1 -DE IT 0 : CHG : JF : -> 12ten PC = previous change
+ 13tn 1 -DE IT 0 : CHG : JF : -> 13ten PC
+ 1453n 1 -DE IT 0 : CHG : JF : -> 14ten PC
+ 1nd 1 -DE IT 0 : CHG : JF : -> and ;; print change PC
+ 325ste 1 -DE IT 0 : CHG : JF : -> 35ste : ;; PC
+ aa 3 -DE IT 1 : OK : JF  ;;der aa sagt -> der da sagt
+ abfällt 1 +DE IT 0 : CHG : JF : ;; -> abfällt  NO CHANGE	
+ Ablativs 1 +DE IT 0 : OK : JF : ;; der Begriff {der -> des} Ablativs
+ Accusativ 1 -DE IT 2 : CHG : JF : NO CHANGE
+ Adams 1 +DE IT 0 : CHG : JF : ;; Adams Piks -> Adams-Piks NO CHG
+ altere 1 +DE IT 0 : ? :  -> ältere
+ alteren 3 -DE IT 0 : ? : -> älteren
+ dess 2 -DE IT 0 : ? :  eines Sohnes dess -> eines Sohnes des ;; the second dess is dess. and abbr. of desselben TM
+ einew 2 -DE IT 0 : ? :  -> eines
+ en 1 -DE IT 3 : ? :  {%en  -> {%ein PC
+ Go 1 +DE IT 1 : ? :  ;;{%die%} <is>Ekaha</is> {%Go und%} <is>Ayus</is> {%im%} <is>Abhiplava</is> -> {%die%} <is>Ekaha Go</is> {%und%} <is>Ayus</is> {%im%} <is>Abhiplava</is> ;; this perhaps might better be Non-Italic TM
+ harr 1 +DE IT 0 : ? :    -> Haar TM  PC
+ Indect 2 -DE IT 0 : ? :    -> Indecl
+ ines 4 -DE IT 0 : ? :  -> eines
+ lage 1 -DE IT 1 : ? :  -> Lage ;; 2x in pw TM
+ mertrisch 4 -DE IT 0 : ? : -> metrisch
+ pferd 1 -DE IT 1 : ? : -> Pferd
+ pferde 2 -DE IT 0 : ? : -> Pferde
+ Präpostion 2 -DE IT 0 : ? :  -> Präposition
+ Schulers 3 -DE IT 0 : ? : -> Schülers
+ Sohnen 3 -DE IT 0 : ? :  -> Söhnen
+ vrschiedener 2 -DE IT 0 : ? :  -> verschiedener
+ werken 2 +DE IT 1 : ? : -> Werken
+ werkes 4 -DE IT 0 : ? : -> Werkes
+ würfel 1 +DE IT 0 : ? : -> Würfel

@@ -44,3 +44,15 @@ See german/readme.txt.
 Final results are in change_pw_2.txt, change_pw_3.txt, and unchanged.txt
 New version of pw.txt is temp_pw_3.txt
 temp_pw_3_hk.txt is hk version.
+
+-------------------------------------------
+12-08-2023
+German word corrections (non-italic text).
+See german1/readme.txt.
+Final results are in german1 directory:
+ change_word_regular.txt  
+ change_word_irregular.txt
+ change_word_thomas.txt
+New version of pw.txt is temp_pw_3c.txt
+
+temp_pw_3c_hk.txt is hk version.

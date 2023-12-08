@@ -1,0 +1,388 @@
+12tn 1 -DE IT 0 : CHG : JF : -> 12ten
+13tn 1 -DE IT 0 : CHG : JF : -> 13ten
+1453n 1 -DE IT 0 : CHG : JF : -> 14ten
+1nd 1 -DE IT 0 : CHG : JF : -> and ;; print change
+325ste 1 -DE IT 0 : CHG : JF : -> 35ste : ;; italic markup
+Abbhandlung 1 -DE IT 0 : CHG : JF : -> Abhandlung
+abfällt 1 +DE IT 0 : CHG : JF : -> abfällt
+abgeblich 1 -DE IT 0 : CHG : JF: -> angeblich
+Abgeblich 1 -DE IT 0 : CHG : JF: -> Angeblich
+Abhanlung 1 -DE IT 0 : CHG : JF : -> Abhandlung
+Abschnittens 1 -DE IT 0 : CHG : JF : -> Abschnittes
+Accusativ 1 -DE IT 2 : CHG : JF : -> <ab>Acc.</ab>
+Ach 1 -DE IT 0 : CHG : JF : -> Auch
+Acra 1 -DE IT 0 : CHG : JF : -> Aera
+Adams 1 +DE IT 0 : CHG : JF : ;; Adams Piks -> Adams-Piks
+Adamspik 1 -DE IT 0 : CHG : JF : -> Adams-pik ;; name of mountain Ceylon
+Ammomiten 1 -DE IT 0 : CHG : JF : -> Ammoniten
+anbeiden 1 -DE IT 0 : CHG : JF : -> an beiden
+And 1 -DE IT 0 : CHG : JF : -> Am
+andrerer 1 -DE IT 0 : CHG : JF : -> anderer
+angeblch 1 -DE IT 0 : CHG : JF : -> angeblich
+angeredt 1 -DE IT 0 : CHG : JF : -> angeredet
+anzufühlende 1 -DE IT 0 : CHG : JF : -> anzufühlender ;; italic
+appositonellem 1 -DE IT 0 : CHG : JF : appositionellem
+Arga 1 -DE IT 0 : CHG : JF : -> <is>Arya</is> ;; is it <is>?
+Arznei 1 +DE IT 0 : CHG : JF : -> Arzenei
+Asdruck 1 -DE IT 0 : CHG : JF : -> Ausdruck
+Aucn 1 -DE IT 0 : CHG : JF: -> Auch
+augen 1 -DE IT 0 : CHG : JF : -> Augen
+Ausg 1 -DE IT 0 : CHG : JF : -> Ausg. ;; abbrev
+ausgesprocen 1 -DE IT 0 : CHG : JF : -> ausgesprochen
+ausnabmsweise 1 -DE IT 0 : CHG : JF : -> ausnahmsweise
+ausnahmasweie 1 -DE IT 0 : CHG : JF : -> ausnahmasweise
+ausnahmeweise 1 -DE IT 0 : CHG : JF : -> ausnahmsweise
+ausnahmmsweise 1 -DE IT 0 : CHG : JF : -> ausnahmsweise
+ausnahmswise 2 -DE IT 0 : CHG : JF : -> ausnahmsweise
+ausnahmweise 2 -DE IT 0 : CHG : JF : -> ausnahmsweise
+ausnahnsweise 1 -DE IT 0 : CHG : JF : -> ausnahmsweise
+ausnhmsweise 1 -DE IT 0 : CHG : JF : -> ausnahmsweise
+Aussprachen 1 -DE IT 0 : CHG : JF : -> Aussprache
+Ausspreche 1 -DE IT 0 : CHG : JF : -> Aussprache
+auz 1 -DE IT 0 : CHG : JF: -> aus
+Avesta 1 -DE IT 0 : CHG : JF : ;; special Remove (Avesta)
+Baut 1 -DE IT 0 : CHG : JF : -> Blut
+Bediente 1 -DE IT 0 : CHG : JF : -> Bedienten
+Beduntung 1 -DE IT 0 : CHG : JF : -> Bedeutung
+Bedutungen 1 -DE IT 0 : CHG : JF : -> Bedeutungen
+bein 1 -DE IT 0 : CHG : JF : -> beim
+Beispile 1 -DE IT 0 : CHG : JF : -> Beispiel
+Berggpfels 1 -DE IT 0 : CHG : JF : -> Berggipfels
+berüchtig 1 -DE IT 0 : CHG : JF : -> berüchtigt
+bestimmlen 1 -DE IT 0 : CHG : JF : -> bestimmten
+Bewusstlossen 1 -DE IT 0 : CHG : JF : -> Bewusstlosen
+bildich 1 -DE IT 0 : CHG : JF : -> bildlich
+binzu 1 -DE IT 0 : CHG : JF : -> hinzu
+Blaseintrument 1 -DE IT 0 : CHG : JF : -> Blaseinstrument ;; Blasinstrument print change?
+Blat 1 -DE IT 0 : CHG : JF : -> Blatt
+blutes 1 -DE IT 0 : CHG : JF : -> Blutes
+Bogenschne 1 -DE IT 0 : CHG : JF: -> Bogensehne
+Bondens 1 -DE IT 0 : CHG : JF : -> Bodens
+Bongen 1 -DE IT 0 : CHG : JF : -> Bogen 
+brahman 1 -DE IT 0 : CHG : JF : -> <is>Brahman</is>
+Brami 1 -DE IT 0 : CHG : JF : -> <is>Brami</is>
+Brudern 1 -DE IT 0 : CHG : JF : -> Bruders
+Buchen 1 -DE IT 0 : CHG : JF : -> Buches
+buckeligen 1 +DE IT 0 : CHG : JF : -> Buckeligen
+buddhistichen 1 -DE IT 0 : CHG : JF : -> buddhistischen
+Carambola 1 -DE IT 0 : CHG : JF : ;; {%<bot>Averrhoa Carambola</bot>%}
+casus 1 -DE IT 0 : CHG : JF : -> Casus
+Chidambaram 1 -DE IT 0 : CHG : JF : ;; remove word
+chirugischen 1 -DE IT 0 : CHG : JF: -> chirurgischen
+Cital 1 -DE IT 0 : CHG : JF : -> Citat
+Collectivaname 1 -DE IT 0 : CHG : JF: -> Collectivname
+Collectiver 1 -DE IT 0 : CHG : JF : -> collectiver
+contruirt 1 -DE IT 0 : CHG : JF : -> construirt
+Cop 1 -DE IT 0 : CHG : JF : ;; <lex>adj.</lex> Cop. -> <ab>adj. Comp.</ab>
+Correlativen 1 -DE IT 0 : CHG : JF: -> correlativen
+Daron 1 -DE IT 0 : CHG : JF : -> Davon
+dat 1 -DE IT 0 : CHG : JF : -> <ab>Dat.</ab>
+ded 1 -DE IT 0 : CHG : JF : -> des
+Demonstralivsatze 1 -DE IT 0 : CHG : JF : -> Demonstrativsatze
+demonstrat 1 -DE IT 0 : CHG : JF : ;; ab 
+Demonstrative 1 -DE IT 0 : CHG : JF : -> Demonstrativa
+deneben 1 -DE IT 0 : CHG : JF : -> daneben
+Dersonificirt 1 -DE IT 0 : CHG : JF : -> Personificirt
+desw 1 -DE IT 0 : CHG : JF : -> des
+doer 1 -DE IT 0 : CHG : JF : -> oder
+dom 1 -DE IT 0 : CHG : JF : -> dem
+dorn 1 -DE IT 0 : CHG : JF : -> Dorn
+dreisibig 1 -DE IT 0 : CHG : JF : -> dreisilbig
+Durchzienhen 1 -DE IT 0 : CHG : JF : -> Durchziehen
+eder 1 -DE IT 0 : CHG : JF : -> oder
+egegenüber 1 -DE IT 0 : CHG : JF : -> gegenüber
+Ehr 1 -DE IT 0 : CHG : JF : -> Eher
+Ehrfurchtsvoller 1 -DE IT 0 : CHG : JF : -> ehrfurchtsvoller
+eimal 1 -DE IT 0 : CHG : JF : -> einmal
+einal 1 -DE IT 0 : CHG : JF : -> einmal
+einenr 1 -DE IT 0 : CHG : JF : -> einer
+eingebüsset 1 -DE IT 0 : CHG : JF : -> eingebüsst
+Einleiung 1 -DE IT 0 : CHG : JF : -> Einleitung
+eion 1 -DE IT 0 : CHG : JF : -> ein
+eliptisch 1 -DE IT 0 : CHG : JF : -> elliptisch
+End 1 -DE IT 0 : CHG : JF : -> Ende
+ene 1 -DE IT 0 : CHG : JF : -> eine
+enklitistisch 1 -DE IT 0 : CHG : JF : -> enklitisch
+entstauden 1 -DE IT 0 : CHG : JF : -> entstanden
+entwder 1 -DE IT 0 : CHG : JF : -> entweder
+Episch 1 -DE IT 0 : CHG : JF : -> episch
+Ergänung 1 -DE IT 0 : CHG : JF : -> Ergänzung
+Ergänzugn 1 -DE IT 0 : CHG : JF : -> Ergänzung
+erklärkt 1 -DE IT 0 : CHG : JF : -> erklärt
+Erklärug 1 -DE IT 0 : CHG : JF : -> Erklärung
+Erkläung 1 -DE IT 0 : CHG : JF : -> Erklärung
+Errichung 1 -DE IT 0 : CHG : JF : -> Erreichung ;; italic
+etymologie 1 -DE IT 0 : CHG : JF : -> Etymologie
+euphemistich 1 -DE IT 0 : CHG : JF : -> euphemistisch
+Fabelhaften 1 -DE IT 0 : CHG : JF : -> fabelhaften
+Fahler 1 -DE IT 0 : CHG : JF : -> Fehler
+Falls 1 -DE IT 0 : CHG : JF : -> Falles
+falschlich 1 -DE IT 0 : CHG : JF : -> fälschlich
+Familiegottheit 1 -DE IT 0 : CHG : JF : -> Familiengottheit
+Faustkmpf 1 -DE IT 0 : CHG : JF : -> Faustkampf
+fehlerfaft 1 -DE IT 0 : CHG : JF : -> fehlerhaft
+Fehlerhafte 1 -DE IT 0 : CHG : JF : -> fehlerhafte
+felgender 1 -DE IT 0 : CHG : JF : -> folgender
+Fischerdämons 1 -DE IT 0 : CHG : JF : -> Fieberdämons
+Flamigo 1 -DE IT 0 : CHG : JF : -> Flamingo
+Flosses 1 -DE IT 0 : CHG : JF : -> Flusses
+Formal 1 -DE IT 0 : CHG : JF : -> Formel
+Frauename 1 -DE IT 0 : CHG : JF : -> Frauenname
+Fraunzimmers 1 -DE IT 0 : CHG : JF : -> Frauenzimmers
+freibigen 1 -DE IT 0 : CHG : JF : -> freigebigen
+Freudin 1 -DE IT 0 : CHG : JF : -> Freundin
+freundllcher 1 -DE IT 0 : CHG : JF : -> freundlicher
+Functinen 1 -DE IT 0 : CHG : JF : -> Functionen
+Furesten 1 -DE IT 0 : CHG : JF : -> Fürsten
+Füreten 1 -DE IT 0 : CHG : JF : -> Fürsten
+gabend 1 -DE IT 0 : CHG : JF : ;; 'veraus gabend' -> 'verausgabend'
+Gattinen 1 -DE IT 0 : CHG : JF : -> Gattinnen
+Gebiebtes 1 -DE IT 0 : CHG : JF : -> Gebietes
+Gebirgstandes 1 -DE IT 0 : CHG : JF : -> Gebirgslandes
+Gefloge 1 -DE IT 0 : CHG : JF : -> Gefolge
+gelante 1 -DE IT 0 : CHG : JF : -> gelangte
+genewärtigen 1 -DE IT 0 : CHG : JF : -> gegenwärtigen
+gepriesner 1 -DE IT 0 : CHG : JF : -> gepriesener
+Gerausch 1 -DE IT 0 : CHG : JF : -> Geräusch
+geriebn 1 -DE IT 0 : CHG : JF : -> gerieben
+Geruche 1 -DE IT 0 : CHG : JF : -> Gerüche 
+geschieben 1 -DE IT 0 : CHG : JF : -> geschrieben
+geschriechen 1 -DE IT 0 : CHG : JF : -> geschrieben
+gesehrieben 1 -DE IT 0 : CHG : JF : -> geschrieben
+gestirn 1 -DE IT 0 : CHG : JF : -> Gestirn
+Getfolge 1 -DE IT 0 : CHG : JF : -> Gefolge
+Gewohuheit 1 -DE IT 0 : CHG : JF : -> Gewohnheit
+Glückspiel 1 -DE IT 0 : CHG : JF : -> Glücksspiel
+godacht 1 -DE IT 0 : CHG : JF : -> gedacht
+Gotten 1 -DE IT 0 : CHG : JF : --> Gottes
+gottes 1 -DE IT 0 : CHG : JF : ;; 'Sonnen gottes' -> 'Sonnengottes'
+Grammatikera 1 -DE IT 0 : CHG : JF : -> Grammatikers
+grammtischer 1 -DE IT 0 : CHG : JF : -> grammatischer
+Grossohns 1 -DE IT 0 : CHG : JF : -> Grosssohns
+Grosssohns 1 -DE IT 0 : CHG : JF : -> Grosssohnes
+gür 1 -DE IT 0 : CHG : JF : -> für
+Handen 1 -DE IT 0 : CHG : JF : -> Händen
+handlungen 1 -DE IT 0 : CHG : JF : -> Handlungen
+har 1 -DE IT 0 : CHG : JF : -> Haar
+harr 1 +DE IT 0 : CHG : JF : -> Haar
+Hauptstresse 1 -DE IT 0 : CHG : JF : -> Hauptstrasse
+Haüfig 1 -DE IT 0 : CHG : JF : -> Häufig
+Hdschr 1 -DE IT 0 : CHG : JF : -> <ab>Hdschr.</ab>
+Heerenführers 1 -DE IT 0 : CHG : JF : -> Heerführers
+Heerführens 1 -DE IT 0 : CHG : JF : -> Heerführers
+heherrschten 1 -DE IT 0 : CHG : JF : -> beherrschten
+Heilighthum 1 -DE IT 0 : CHG : JF : -> Heiligthum
+heimmsuchen 1 -DE IT 0 : CHG : JF : -> heimsuchen ;; italic
+helden 1 -DE IT 0 : CHG : JF : -> Helden
+herabrinnenoder 1 -DE IT 0 : CHG : JF : -> herabrinnender
+heraubte 1 -DE IT 0 : CHG : JF : -> beraubte
+hervorgehohen 1 -DE IT 0 : CHG : JF : -> hervorgehoben
+Hervorhehung 1 -DE IT 0 : CHG : JF : -> Hervorhebung
+hervorvorhebende 1 -DE IT 0 : CHG : JF : -> hervorhebende
+Hetärenname 1 -DE IT 0 : CHG : JF : -> Hetärennamen
+hewohnt 1 -DE IT 0 : CHG : JF : -> bewohut
+Hierbei 1 -DE IT 0 : CHG : JF : -> Hierher
+Himmelskorpern 1 -DE IT 0 : CHG : JF : -> Himmelskörpern
+himmlischend 1 -DE IT 0 : CHG : JF : -> himmlischen
+hinzugefüft 1 -DE IT 0 : CHG : JF : -> hinzugefügt
+hochzeit 1 -DE IT 0 : CHG : JF : -> Hochzeit
+Hypokoristik 1 -DE IT 0 : CHG : JF : -> Hypokoristika
+häuflger 1 -DE IT 0 : CHG : JF : -> häufiger
+Hülfszeit 1 -DE IT 0 : CHG : JF : ;; 'Hülfszeit wort' -> 'Hülfszeitwort'
+identifcirt 1 -DE IT 0 : CHG : JF : -> identificirt
+imschliessen 1 -DE IT 0 : CHG : JF : -> umschliessen
+iner 1 -DE IT 0 : CHG : JF : -> einer
+Inin 1 -DE IT 0 : CHG : JF : -> <ab>Infin.</ab>
+inn 1 -DE IT 0 : CHG : JF : -> in
+Intepolation 1 -DE IT 0 : CHG : JF : -> Interpolation
+iste 1 -DE IT 0 : CHG : JF : -> 1ste
+Jedoch 1 -DE IT 0 : CHG : JF : -> jedoch
+Jnmdes 1 -DE IT 0 : CHG : JF : ; 'Jnmdes wohl' -> 'Jmdes Wohl'
+Joga 1 -DE IT 0 : CHG : JF : -> Yoga
+Jundfrau 1 -DE IT 0 : CHG : JF : -> Jungfrau
+Jüngeren 1 -DE IT 0 : CHG : JF : -> jüngeren
+Kein 1 -DE IT 0 : CHG : JF : -> kein
+Keine 1 -DE IT 0 : CHG : JF : -> keine
+kenner 1 -DE IT 0 : CHG : JF : -> Kenner
+kit 1 -DE IT 0 : CHG : JF : -> mit
+Kleineren 1 -DE IT 0 : CHG : JF : -> kleineren
+Klysteler 1 -DE IT 0 : CHG : JF : -> Klystier
+Korpers 1 -DE IT 0 : CHG : JF : -> Körpers
+Krakheit 1 -DE IT 0 : CHG : JF : -> Krankheit
+Krankheitsdamons 1 -DE IT 0 : CHG : JF : -> Krankheitsdämons
+Kub 1 -DE IT 0 : CHG : JF : -> Kuh
+landes 1 -DE IT 0 : CHG : JF : -> Landes
+lastbar 1 -DE IT 0 : CHG : JF : -> tastbar ;; italics
+Lexiocographen 1 -DE IT 0 : CHG : JF : -> Lexicographen
+Lexivcographen 1 -DE IT 0 : CHG : JF : -> Lexicographen
+Liebesgotes 1 -DE IT 0 : CHG : JF : -> Liebesgottes
+Liedverfassrs 1 -DE IT 0 : CHG : JF : -> Liedverfassers
+Litetaur 1 -DE IT 0 : CHG : JF : -> Literatur
+liturg 1 -DE IT 0 : CHG : JF : -> <ab>liturg.</ab>
+Loc 1 -DE IT 0 : CHG : JF : -> <ab>Loc.</ab>
+logsche 1 -DE IT 0 : CHG : JF : -> logische
+Lustupiels 1 -DE IT 0 : CHG : JF : -> Lustspiels
+Mananes 1 -DE IT 0 : CHG : JF : -> Mannes
+Manens 1 -DE IT 0 : CHG : JF : -> Mannes
+Manes 1 -DE IT 0 : CHG : JF : -> Mannes
+Manvantra 1 -DE IT 0 : CHG : JF : -> <is>Manvantra</is>
+Masssstabe 1 -DE IT 0 : CHG : JF : -> Maassstabe
+Matter 1 -DE IT 0 : CHG : JF : -> Mutter
+Maunes 1 -DE IT 0 : CHG : JF : -> Mannes
+Meinstens 1 -DE IT 0 : CHG : JF : -> Meistens
+Menat 1 -DE IT 0 : CHG : JF : -> Monat
+Merke 1 -DE IT 0 : CHG : JF : -> Marke
+Meterisch 1 -DE IT 0 : CHG : JF : -> Metrisch
+metrich 1 -DE IT 0 : CHG : JF : -> metrisch
+Metrom 1 -DE IT 0 : CHG : JF : -> <ab>Metron.</ab>
+metrrisch 1 -DE IT 0 : CHG : JF : -> metrisch
+Metrumes 1 -DE IT 0 : CHG : JF : -> Metrums
+Mietze 1 -DE IT 0 : CHG : JF : -> Wanze
+Miniser 1 -DE IT 0 : CHG : JF : -> Ministers
+mitdoppeltem 1 -DE IT 0 : CHG : JF : -> mit doppeltem
+mtrisch 1 -DE IT 0 : CHG : JF : -> metrisch
+mund 1 -DE IT 0 : CHG : JF : -> Mund
+mut 1 -DE IT 0 : CHG : JF : -> mit
+Mystische 1 -DE IT 0 : CHG : JF : -> mystische
+Männerkönigs 1 -DE IT 0 : CHG : JF : -> Mäusekönigs
+Möchte 1 -DE IT 0 : CHG : JF : -> möchte ;; '<ls>Kern.</ls>' -> '<ls>Kern</ls>'
+Mütte 1 -DE IT 0 : CHG : JF : -> Mütter
+nachfolgeden 1 -DE IT 0 : CHG : JF : -> nachfolgenden
+nachgahmt 1 -DE IT 0 : CHG : JF : -> nachgeahmt
+nachricht 1 -DE IT 0 : CHG : JF : -> Nachricht
+nachtfolgend 1 -DE IT 0 : CHG : JF : -> nachfolgend
+Names 1 -DE IT 0 : CHG : JF : -> Namen
+Nassenlöcher 1 -DE IT 0 : CHG : JF : -> Nasenlöcher
+None 1 -DE IT 0 : CHG : JF : ;; None. -> <ab>Nom.</ab>
+odern 1 -DE IT 0 : CHG : JF : ;; odern. -> oder <lex>n.</lex>
+Oer 1 -DE IT 0 : CHG : JF : -> oder
+Oertlicnkeit 1 -DE IT 0 : CHG : JF : -> Oertlichkeit
+Ohmacht 1 -DE IT 0 : CHG : JF : -> Ohnmacht
+pala 1 -DE IT 0 : CHG : JF : -> <is>Pala</is>
+Perfecta 1 -DE IT 0 : CHG : JF : ;;  Perfecta. ->  Perfecta
+persnificirt 1 -DE IT 0 : CHG : JF : -> personificirt
+persoificirt 1 -DE IT 0 : CHG : JF : -> personificirt
+Personalendunge 1 -DE IT 0 : CHG : JF : -> Personalendungen
+Personenbezeichung 1 -DE IT 0 : CHG : JF : -> Personenbezeichnung
+personificrt 1 -DE IT 0 : CHG : JF : -> personificirt
+pfand 1 -DE IT 0 : CHG : JF : -> Pfand
+Pfianze 1 -DE IT 0 : CHG : JF : -> Pflanze
+pflug 1 -DE IT 0 : CHG : JF : -> Pflug
+philosophie 1 -DE IT 0 : CHG : JF : -> Philosophie
+Phosophen 1 -DE IT 0 : CHG : JF : -> Philosophen
+Plane 1 -DE IT 0 : CHG : JF : -> Planet
+Pluta 1 -DE IT 0 : CHG : JF : -> <is>pluta</is>
+Prakritisch 1 -DE IT 0 : CHG : JF : -> Prākritisch
+Press 1 -DE IT 0 : CHG : JF : -> Presse
+prosa 1 -DE IT 0 : CHG : JF : -> Prosa
+Pürsten 1 -DE IT 0 : CHG : JF : -> Fürsten
+Quellstrom 1 -DE IT 0 : CHG : JF : -> Quellstroms
+Rechtsprache 1 -DE IT 0 : CHG : JF : -> Rechstsprache
+Relative 1 -DE IT 0 : CHG : JF : -> Relativa
+religiosen 1 -DE IT 0 : CHG : JF : -> religiösen
+richting 1 -DE IT 0 : CHG : JF : -> richtig
+rückgeführt 1 -DE IT 0 : CHG : JF : ;; zu rückgeführt -> zurückgeführt
+Scharanken 1 -DE IT 0 : CHG : JF : -> Schranken
+Schauepiels 1 -DE IT 0 : CHG : JF : -> Schauspiels
+Schaupiel 1 -DE IT 0 : CHG : JF : -> Schauspiel
+Schaupielen 1 -DE IT 0 : CHG : JF : -> Schauspielen
+Schlagendämons 1 -DE IT 0 : CHG : JF : -> Schlangendämons
+Schlangendämonds 1 -DE IT 0 : CHG : JF : -> Schlangendämons
+Schlangendäons 1 -DE IT 0 : CHG : JF : -> Schlangendämons
+Schlnge 1 -DE IT 0 : CHG : JF : -> Schlange
+schlofend 1 -DE IT 0 : CHG : JF : -> schlafend
+Schützligs 1 -DE IT 0 : CHG : JF : -> Schützlings
+secten 1 -DE IT 0 : CHG : JF : ;; In secten ->Insecten 
+Senfhorn 1 -DE IT 0 : CHG : JF : -> Senfkorn 
+Simple 1 -DE IT 0 : CHG : JF : ;; Simple. -> <ab>Simpl.</ab>
+Sinnengottes 1 -DE IT 0 : CHG : JF : -> Sonnengottes
+Sinnensorgane 1 -DE IT 0 : CHG : JF : -> Sinnesorgane
+Sohlangendämons 1 -DE IT 0 : CHG : JF : -> Schlangendämons
+Sonnerosse 1 -DE IT 0 : CHG : JF : -> Sonnenrosse
+spat 1 -DE IT 0 : CHG : JF : -> spät
+spater 1 -DE IT 0 : CHG : JF : -> später
+Spreche 1 -DE IT 0 : CHG : JF : -> Sprache
+Späterer 1 -DE IT 0 : CHG : JF : -> späterer
+spätern 1 -DE IT 0 : CHG : JF : -> späteren
+spätr 1 -DE IT 0 : CHG : JF : -> später
+Stetes 1 -DE IT 0 : CHG : JF : -> Stets
+Strange 1 -DE IT 0 : CHG : JF : -> Stranges
+swird 1 -DE IT 0 : CHG : JF : -> s wird
+Tamarinderfrucht 1 -DE IT 0 : CHG : JF : -> Tamarindenfrucht ;; italic
+Techter 1 -DE IT 0 : CHG : JF : -> Tochter
+thier 1 -DE IT 0 : CHG : JF : -> Thier
+Thägkeit 1 -DE IT 0 : CHG : JF : -> Thätigkeit
+Thätigket 1 -DE IT 0 : CHG : JF : -> Thätigkeit ;; italic
+Tiel 1 -DE IT 0 : CHG : JF : -> Titel
+Trauernde 1 -DE IT 0 : CHG : JF : -> Trauernden
+Tränen 1 -DE IT 0 : CHG : JF : -> Tönen
+Umfasst 1 -DE IT 0 : CHG : JF : -> umfasst
+umgesteller 1 -DE IT 0 : CHG : JF : -> umgestellter
+umthum 1 -DE IT 0 : CHG : JF : -> umthun ;; italic
+Und 1 -DE IT 0 : CHG : JF : -> und
+une 1 -DE IT 0 : CHG : JF : -> und
+Unterschiriften 1 -DE IT 0 : CHG : JF : -> Unterschriften
+Upavasatha 1 -DE IT 0 : CHG : JF : -> <is>Upavasatha</is>
+Urpsrung 1 -DE IT 0 : CHG : JF : -> Ursprungs
+varangehend 1 -DE IT 0 : CHG : JF : -> vorangehend
+vasu 1 -DE IT 0 : CHG : JF : ;; <is>Viśva</is>-vasu -> <is>Viśvavasu</is>
+vemuthen 1 -DE IT 0 : CHG : JF : -> vermuthen
+verangehend 1 -DE IT 0 : CHG : JF : -> vorangehend
+verangehender 1 -DE IT 0 : CHG : JF : -> vorangehender
+veraus 1 -DE IT 0 : CHG : JF : ;; veraus gabend -> verausgabend
+Verbrechrs 1 -DE IT 0 : CHG : JF : -> Verbrechers
+verdächtg 1 -DE IT 0 : CHG : JF : -> verdächtig
+Vergangeheit 1 -DE IT 0 : CHG : JF : -> Vergangenheit
+Vergeichen 1 -DE IT 0 : CHG : JF : -> Vergleichen
+Verhaltniss 1 -DE IT 0 : CHG : JF : -> Verhältniss
+Verhand 1 -DE IT 0 : CHG : JF : -> Verband
+vermithet 1 -DE IT 0 : CHG : JF : -> vermuthet
+vermutnen 1 -DE IT 0 : CHG : JF : -> vermuthen
+verschedener 1 -DE IT 0 : CHG : JF : -> verschiedener
+verschhiedener 1 -DE IT 0 : CHG : JF : -> verschiedener
+verschiedender 1 -DE IT 0 : CHG : JF : -> verschiedener
+Verschiedener 1 -DE IT 0 : CHG : JF : ->  verschiedener
+verse 1 -DE IT 0 : CHG : JF : -> Verse
+Versichernd 1 -DE IT 0 : CHG : JF : -> versichernd
+Verunreinigenden 1 -DE IT 0 : CHG : JF : -> Verunreinigendem
+viellecht 1 -DE IT 0 : CHG : JF : -> vielleicht
+vielleich 1 -DE IT 0 : CHG : JF : -> vielleicht
+viersilbi 1 -DE IT 0 : CHG : JF : -> viersilbig
+vo 1 -DE IT 0 : CHG : JF : -> von
+Volkstamms 1 -DE IT 0 : CHG : JF : -> Volksstamms
+Vollstandig 1 -DE IT 0 : CHG : JF : -> Vollständig
+Vorstorbenen 1 -DE IT 0 : CHG : JF : -> Verstorbenen
+Walgöttin 1 -DE IT 0 : CHG : JF : -> Waldgöttin
+ware 1 -DE IT 0 : CHG : JF : -> wäre
+Wasserleittung 1 -DE IT 0 : CHG : JF : -> Wasserleitung
+Wasserr 1 -DE IT 0 : CHG : JF : -> Wasser
+Weder 1 -DE IT 0 : CHG : JF : -> Woder
+Wegschleudenern 1 -DE IT 0 : CHG : JF : -> Wegschleudern
+wehl 1 -DE IT 0 : CHG : JF : -> wohl
+Wellfahrtsortes 1 -DE IT 0 : CHG : JF : -> Wallfahrtsortes
+Werkers 1 -DE IT 0 : CHG : JF : -> Werkes
+Wersens 1 -DE IT 0 : CHG : JF : -> Wesens
+Wgen 1 -DE IT 0 : CHG : JF : -> Wagen
+Wideer 1 -DE IT 0 : CHG : JF : -> Widder
+widergeben 1 -DE IT 0 : CHG : JF : -> wiedergeben
+wiederzugehendem 1 -DE IT 0 : CHG : JF : -> wiederzugebendem
+Wohner 1 -DE IT 0 : CHG : JF : -> Woher
+won 1 -DE IT 0 : CHG : JF : -> von
+Wond 1 -DE IT 0 : CHG : JF : -> Wind
+wort 1 -DE IT 0 : CHG : JF : ;; Hülfszeit wort -> Hülfszeitwort
+worte 1 -DE IT 0 : CHG : JF : -> Worte
+woven 1 -DE IT 0 : CHG : JF : -> wovon
+Wüsten 1 -DE IT 0 : CHG : JF : -> Fürsten
+Zanbermittel 1 -DE IT 0 : CHG : JF : -> Zaubermittel
+Zeitpunke 1 -DE IT 0 : CHG : JF : -> Zeitpunkte
+Zeitrum 1 -DE IT 0 : CHG : JF : -> Zeitraum
+zugeschieben 1 -DE IT 0 : CHG : JF : -> zugeschrieben
+zugleieh 1 -DE IT 0 : CHG : JF : -> zugleich
+zui 1 -DE IT 0 : CHG : JF : -> zu
+zulesen 1 -DE IT 0 : CHG : JF : -> zu lesen
+zurechtzuweissen 1 -DE IT 0 : CHG : JF : -> zurechtzuweisen ;; italic
+Zuschaner 1 -DE IT 0 : CHG : JF : -> Zuschauer
+Zwillige 1 -DE IT 0 : CHG : JF : -> Zwillinge
+übernatrürliche 1 -DE IT 0 : CHG : JF : -> übernatürliche
+übertr 1 -DE IT 0 : CHG : JF : ;; such übertr -> auch übertr. ;; abbrev?
+übertragenet 1 -DE IT 0 : CHG : JF : -> übertragener

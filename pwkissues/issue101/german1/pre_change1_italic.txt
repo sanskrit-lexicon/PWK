@@ -1,0 +1,9 @@
+325ste 1 -DE IT 0 : CHG : JF : -> 35ste : ;; italic markup
+anzufühlende 1 -DE IT 0 : CHG : JF : -> anzufühlender ;; italic
+Errichung 1 -DE IT 0 : CHG : JF : -> Erreichung ;; italic
+heimmsuchen 1 -DE IT 0 : CHG : JF : -> heimsuchen ;; italic
+lastbar 1 -DE IT 0 : CHG : JF : -> tastbar ;; italics
+Tamarinderfrucht 1 -DE IT 0 : CHG : JF : -> Tamarindenfrucht ;; italic
+Thätigket 1 -DE IT 0 : CHG : JF : -> Thätigkeit ;; italic
+umthum 1 -DE IT 0 : CHG : JF : -> umthun ;; italic
+zurechtzuweissen 1 -DE IT 0 : CHG : JF : -> zurechtzuweisen ;; italic

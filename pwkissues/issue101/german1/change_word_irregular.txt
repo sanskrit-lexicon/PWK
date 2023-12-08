@@ -1,0 +1,120 @@
+; <L>2245<pc>1-026-b<k1>atyacCa<k2>atyacCa<e>100
+10200 old {#atyacCa#}¦ <lex>Adj.</lex> {%überaus durchsichtig, — rein%} (such übertr) <ls>Spr. 165</ls>.
+;
+10200 new {#atyacCa#}¦ <lex>Adj.</lex> {%überaus durchsichtig, — rein%} (auch übertr.) <ls>Spr. 165</ls>.
+;---------------------------------------------------
+; <L>12183<pc>1-143-a<k1>as<k2>as<h>1<e>500
+55763 old <div n="1">— 8〉 {#Asa#} mit dem <ab>Acc.</ab> eines <ab>Nom.</ab> <ab>act.</ab> auf {#A#} bildet umschriebene Perfecta. <ls>AIT. BR. 7,17</ls>.
+;
+55763 new <div n="1">— 8〉 {#Asa#} mit dem <ab>Acc.</ab> eines <ab>Nom.</ab> <ab>act.</ab> auf {#A#} bildet umschriebene Perfecta <ls>AIT. BR. 7,17</ls>.
+;---------------------------------------------------
+; <L>16765<pc>1-202-c<k1>iti<k2>i/ti<h>1<e>100
+77878 old <hom>1.</hom> {#i/ti#}¦ <lex>Adv.</lex> {%so,%} auf Ausgesprochenes oder Gedachtes hinweisend und am Ende oder Anfange stehend. In gebundener Rede bleibt es nicht selten dem Hörer oder Leser überlassen, das Wort richtig zu verbinden. {#iti taTA karoti#} als scenische Bemerkung so <ab>v. a.</ab> {%er thut wie gesagt%}. Statt des einfachen {#iti#} findet man auch {#itIti#} in Versen. {#iti#} fasst auch einzeln aufgezählte Dinge am Schluss zusammen. In diesem Falle kann {#ca#} ganz fehlen (<ls n="Chr.">28,10</ls>. <ls>ŚAT. BR. 11,5,7,9</ls>. <ls>GAUT. 8,18. fgg. 9,44</ls>. <ls>ĀPAST. 2,11,7</ls>), oder nach jedem Gliede erscheinen (<ls>GAUT. 8,13</ls>), oder nur nach dem letzten (<ls>Chr. 51,11</ls>), oder auch hier und da (<ls>M. 5,51</ls>). In den <is>Brāhmaṇa</is> häufig als lautlicher Begleiter einer Gebärde. Beliebte Verbindungen: {#i/tIva#} [Page1-203-a] (<ls n="Chr.">95,13. 170,28</ls>), {#ityuta#} am Ende eines Verses (<ls n="Chr.">49,29. 55,15</ls>), {#i/tyeva/#} (<ls>ŚAT. BR. 2,6,1,5</ls>), {#ityevam#} (<ls n="Chr.">77,20</ls>), mit einem nachfolgenden pleonastischen demonstrat. Pronomen ({#itIyaM vEdikI SratiH, ityezA sfzwirAditaH#}), {#iti ha#} (<ls n="Chr.">242,6</ls>), {#iti ha sma#} (<ls n="Chr.">31,15. 53,9</ls>), {#iti smaha#} (<ls n="Chr.">81,13</ls>), {#iti kftvA#} {%so sagend%} (<ls n="Chr.">56,13</ls>), {%aus diesem Grunde, in Betracht dessen, dass,%} {#kimiti#} = {#kim#} {%warum, weshalb, aber auch%} = {#itikim#} (<ls n="Chr.">173,12</ls>).
+;
+77878 new <hom>1.</hom> {#i/ti#}¦ <lex>Adv.</lex> {%so,%} auf Ausgesprochenes oder Gedachtes hinweisend und am Ende oder Anfange stehend. In gebundener Rede bleibt es nicht selten dem Hörer oder Leser überlassen, das Wort richtig zu verbinden. {#iti taTA karoti#} als scenische Bemerkung so <ab>v. a.</ab> {%er thut wie gesagt%}. Statt des einfachen {#iti#} findet man auch {#itIti#} in Versen. {#iti#} fasst auch einzeln aufgezählte Dinge am Schluss zusammen. In diesem Falle kann {#ca#} ganz fehlen (<ls n="Chr.">28,10</ls>. <ls>ŚAT. BR. 11,5,7,9</ls>. <ls>GAUT. 8,18. fgg. 9,44</ls>. <ls>ĀPAST. 2,11,7</ls>), oder nach jedem Gliede erscheinen (<ls>GAUT. 8,13</ls>), oder nur nach dem letzten (<ls>Chr. 51,11</ls>), oder auch hier und da (<ls>M. 5,51</ls>). In den <is>Brāhmaṇa</is> häufig als lautlicher Begleiter einer Gebärde. Beliebte Verbindungen: {#i/tIva#} [Page1-203-a] (<ls n="Chr.">95,13. 170,28</ls>), {#ityuta#} am Ende eines Verses (<ls n="Chr.">49,29. 55,15</ls>), {#i/tyeva/#} (<ls>ŚAT. BR. 2,6,1,5</ls>), {#ityevam#} (<ls n="Chr.">77,20</ls>), mit einem nachfolgenden pleonastischen <ab>demonstrat.</ab> Pronomen ({#itIyaM vEdikI SratiH, ityezA sfzwirAditaH#}), {#iti ha#} (<ls n="Chr.">242,6</ls>), {#iti ha sma#} (<ls n="Chr.">31,15. 53,9</ls>), {#iti smaha#} (<ls n="Chr.">81,13</ls>), {#iti kftvA#} {%so sagend%} (<ls n="Chr.">56,13</ls>), {%aus diesem Grunde, in Betracht dessen, dass,%} {#kimiti#} = {#kim#} {%warum, weshalb, aber auch%} = {#itikim#} (<ls n="Chr.">173,12</ls>).
+;---------------------------------------------------
+; <L>30670<pc>2-099-a<k1>kerala<k2>kerala<e>100
+146268 old <div n="2">— c〉 <ab>N. pr.</ab> eines Sohnes des <is>Ākrīḍa</is>. auf den das Volk zu rückgeführt wird.
+;
+146268 new <div n="2">— c〉 <ab>N. pr.</ab> eines Sohnes des <is>Ākrīḍa</is>. auf den das Volk zurückgeführt wird.
+;---------------------------------------------------
+; <L>40161<pc>2-231-a<k1>cidambara<k2>cidambara<e>000
+195095 old <div n="1">— 2〉 <lex>n.</lex> der Stadt Chidambaram.
+;
+195095 new <div n="1">— 2〉 <lex>n.</lex> einer Stadt.
+;---------------------------------------------------
+; <L>43157<pc>2-272-b<k1>juz<k2>juz<h>1<e>500
+210374 old <div n="m">— <ab>Caus.</ab> {#joza/yate#} (ausnahmswise <ab>Act.</ab>)
+;
+210374 new <div n="m">— <ab>Caus.</ab> {#joza/yate#} (ausnahmsweise <ab>Act.</ab>)
+;---------------------------------------------------
+; <L>48983<pc>3-069-a<k1>dama<k2>dama/<h>1<e>100
+239463 old <hom>1.</hom> {#dama/#}¦ <lex>m.</lex> odern. {%Haus, Wohnung, Heimat%}.
+;
+239463 new <hom>1.</hom> {#dama/#}¦ <lex>m.</lex> oder <lex>n.</lex> {%Haus, Wohnung, Heimat%}.
+;---------------------------------------------------
+; <L>52217<pc>3-115-a<k1>devajana<k2>devajana/<e>100
+255682 old {#devajana/#}¦ <lex>m.</lex> <ab>Sg.</ab> (ausnahmweise) und <ab>Pl.</ab> {%Göttervolk, göttliche Schaar;%} auch von {%dämonischen Schaaren,%} namentlich {%Schlangenwesen%}. {#°janavi/d#} <lex>Adj.</lex> <ls>ŚAT. BR. 10,5,2,20</ls>. {#°janavidyu/#} <lex>f.</lex> {%die Kenntniss der Schlangenwesen%}.
+;
+255682 new {#devajana/#}¦ <lex>m.</lex> <ab>Sg.</ab> (ausnahmsweise) und <ab>Pl.</ab> {%Göttervolk, göttliche Schaar;%} auch von {%dämonischen Schaaren,%} namentlich {%Schlangenwesen%}. {#°janavi/d#} <lex>Adj.</lex> <ls>ŚAT. BR. 10,5,2,20</ls>. {#°janavidyu/#} <lex>f.</lex> {%die Kenntniss der Schlangenwesen%}.
+;---------------------------------------------------
+; <L>54410<pc>3-141-a<k1>Danarakza<k2>Danarakza<e>100
+265922 old {#Danarakza#}¦ <lex>Adj.</lex> {%sein Geld hütend%} (<ab>d. i.</ab> nicht veraus gabend) zu <ls>Spr. 4956</ls>.
+;
+265922 new {#Danarakza#}¦ <lex>Adj.</lex> {%sein Geld hütend%} (<ab>d. i.</ab> nicht verausgabend) zu <ls>Spr. 4956</ls>.
+;---------------------------------------------------
+; <L>63144<pc>4-028-c<k1>para<k2>pa/ra<e>100
+310422 old <div n="2">— a〉 {%die Fremde%} (!) <ls>KATHĀS. 52,189</ls>. <ls>KERN.</ls> Möchte {#parapriyA#} {%über Alles lieb%} lesen.
+;
+310422 new <div n="2">— a〉 {%die Fremde%} (!) <ls>KATHĀS. 52,189</ls>. <ls>KERN</ls> möchte {#parapriyA#} {%über Alles lieb%} lesen.
+;---------------------------------------------------
+; <L>74750<pc>4-192-c<k1>priyapraSna<k2>priyapraSna<e>100
+366817 old {#priyapraSna#}¦ <lex>m.</lex> {%eine freundliche Nachfrage%} (nach Jnmdes wohl <ab>u. s. w.</ab>) <ls>HARṢAC. 138,23</ls>.
+;
+366817 new {#priyapraSna#}¦ <lex>m.</lex> {%eine freundliche Nachfrage%} (nach Jmdes Wohl <ab>u. s. w.</ab>) <ls>HARṢAC. 138,23</ls>.
+;---------------------------------------------------
+; <L>75544<pc>4-204-a<k1>Pulti<k2>*Pulti<e>100
+370807 old *{#Pulti#}¦ <lex>f.</lex> None. <ab>act.</ab> von <hom>1.</hom> {#Pal#}.
+;
+370807 new *{#Pulti#}¦ <lex>f.</lex> <ab>Nom.</ab> <ab>act.</ab> von <hom>1.</hom> {#Pal#}.
+;---------------------------------------------------
+; <L>86876<pc>5-078-b<k1>mitrAvasu<k2>mitrAvasu<e>100
+427597 old {#mitrAvasu#}¦ <lex>m.</lex> <ab>N. pr.</ab> eines Sohnes des <is>Viśva</is>-vasu, Fürsten der <is>Siddha</is>.
+;
+427597 new {#mitrAvasu#}¦ <lex>m.</lex> <ab>N. pr.</ab> eines Sohnes des <is>Viśvavasu</is>, Fürsten der <is>Siddha</is>.
+;---------------------------------------------------
+; <L>89275<pc>5-113-a<k1>mruc<k2>mruc<e>500
+439527 old √{#mruc#}¦ {#mro/cati#} ({#gatyarTa#}). — Mit {#ni#} untergehen (von der Sonne). — Mit {#aBini#} untergehen über (<ab>Acc.</ab>) <ls>MAITR. S. 1,8,7 (125,18. 21)</ls>. {#aBinirmukta#} derjenige, welchen die untergehende Sonne schlofend findet, <ls>ĀPAST. 2,12,13. 22</ls>. Haüfig fehlerhaft {#aBinirmukta#} geschrieben.
+;
+439527 new √{#mruc#}¦ {#mro/cati#} ({#gatyarTa#}). — Mit {#ni#} untergehen (von der Sonne). — Mit {#aBini#} untergehen über (<ab>Acc.</ab>) <ls>MAITR. S. 1,8,7 (125,18. 21)</ls>. {#aBinirmukta#} derjenige, welchen die untergehende Sonne schlafend findet, <ls>ĀPAST. 2,12,13. 22</ls>. Häufig fehlerhaft {#aBinirmukta#} geschrieben.
+;---------------------------------------------------
+; <L>89314<pc>5-113-c<k1>ya<k2>ya/<h>1<e>500
+439770 old <div n="1">— 1〉 {%wer, welcher%}. {#ya/dDa vo ba/lam#} mitten in einem Satze so <ab>v. a.</ab> {%pro robore vestro%}. Die correlativen Demonstrative sind: {#sa/#} (der Einfachheit wegen setze ich hier und in der Folge stets nur den <ab>Nomin.</ab> <ab>Sg.</ab> <lex>m.</lex>), {#sya/#}; (<ls>ṚV. 1,52,1. 61,15. 63,8. 178,1. 8,10,3</ls>), {#eza/H#}; {#ayam#}, {#asO#}, {#sa ezaH#}; {#eza/ sya/H#}; (<ls>ṚV. 1,87,5. 9,108,4. 5</ls>), {#ayaM saH#}, {#so 'yam#} (<ls n="Chr.">250,8</ls>), {#tAdfSaH#}, {#etAvAn#} (<ls n="Chr.">191,3</ls>), {#Idfk#}, {#taTA#} (in Correlation mit {#yad#} {%was%}). Das erwartete Demonstrativ fehlt bisweilen (<ls>GAUT. 12,1. 19,9. 20,15</ls>), andererseits aber auch das Relativ. Zwei und mehrere Relativa in einem und demselben Satze ({#yasminnahani yadahaH#}). Ein oder mehrere Subjecte werden durch das <ab>Relat.</ab> zu einem Satze verbunden und dadurch hervorgehoben ({#yastvaM kaTaM vetTa#} so <ab>v. a.</ab> {%woher weisst du Etwas?%} {#yacca kAmasuKaM loke yacca divyaM mahatsuKam — ete#}). Nicht selten wird ein auf diese Weise erweitertes Subject andern Subjecten angereiht, ohne dass ein besonderer Nachdruck darauf läge, aus rein metrischen Rücksichten ({#anDo#} {#jaqaH#} {#pIWasarpI#} {#saptatyA#} {#sTaviraSca#} {#yaH#} statt des einfachen {#sTaviraSca#}). Auffallender ist, dass sogar ein Object in einen solchen relativen Satz aufgelöst und andern Objecten angereiht wird ({#ye#} {#ca#} {#mAnuzAH#} = {#mAnuzAMSca#}). Das auf solche Weise ein Subject hervorvorhebende <ab>Relat.</ab> erscheint ohne Rücksicht auf Genus und Numerus des Subjects häufig im <ab>Nomin.</ab> <ab>Sg.</ab> <lex>n.</lex> ({#yajYa#} {#u#} {#ha#} {#vA#} {#eza#} {#pratyakzaM#} {#yadbrahmA#}). Ein solches {#ya/d#} lässt sich durch {%was — betrifft%} wiedergeben. In dem Satze {#ta/to#} {#devA/#} {#e/taM#} {#va/jraM#} {#dadfSuryadapa/H#} steht {#ya/d#} vor einem <ab>Acc.</ab> und bedeutet so <ab>v. a.</ab> {%nämlich%}. {#yad#} nach einer directen, mit {#iti#} schliessenden Rede lässt sich durch {%beim [Page5-114-a] Gedanken „—“%} übersetzen (<ls n="Chr.">304,1. 12. 323,19</ls>). Das <ab>Relat.</ab> verbindet sich gern mit andern <lex>Pronomm.</lex>: {#ya/stva/m#}, {#yo/ 'ya/m#}, {#yaH saH#}, {#ya eza/H#}, {#yo'sO#}, {#sa/ ya/H#}, {#asO yaH#}.
+;
+439770 new <div n="1">— 1〉 {%wer, welcher%}. {#ya/dDa vo ba/lam#} mitten in einem Satze so <ab>v. a.</ab> {%pro robore vestro%}. Die correlativen Demonstrativa sind: {#sa/#} (der Einfachheit wegen setze ich hier und in der Folge stets nur den <ab>Nomin.</ab> <ab>Sg.</ab> <lex>m.</lex>), {#sya/#}; (<ls>ṚV. 1,52,1. 61,15. 63,8. 178,1. 8,10,3</ls>), {#eza/H#}; {#ayam#}, {#asO#}, {#sa ezaH#}; {#eza/ sya/H#}; (<ls>ṚV. 1,87,5. 9,108,4. 5</ls>), {#ayaM saH#}, {#so 'yam#} (<ls n="Chr.">250,8</ls>), {#tAdfSaH#}, {#etAvAn#} (<ls n="Chr.">191,3</ls>), {#Idfk#}, {#taTA#} (in Correlation mit {#yad#} {%was%}). Das erwartete Demonstrativ fehlt bisweilen (<ls>GAUT. 12,1. 19,9. 20,15</ls>), andererseits aber auch das Relativ. Zwei und mehrere Relativa in einem und demselben Satze ({#yasminnahani yadahaH#}). Ein oder mehrere Subjecte werden durch das <ab>Relat.</ab> zu einem Satze verbunden und dadurch hervorgehoben ({#yastvaM kaTaM vetTa#} so <ab>v. a.</ab> {%woher weisst du Etwas?%} {#yacca kAmasuKaM loke yacca divyaM mahatsuKam — ete#}). Nicht selten wird ein auf diese Weise erweitertes Subject andern Subjecten angereiht, ohne dass ein besonderer Nachdruck darauf läge, aus rein metrischen Rücksichten ({#anDo#} {#jaqaH#} {#pIWasarpI#} {#saptatyA#} {#sTaviraSca#} {#yaH#} statt des einfachen {#sTaviraSca#}). Auffallender ist, dass sogar ein Object in einen solchen relativen Satz aufgelöst und andern Objecten angereiht wird ({#ye#} {#ca#} {#mAnuzAH#} = {#mAnuzAMSca#}). Das auf solche Weise ein Subject hervorhebende <ab>Relat.</ab> erscheint ohne Rücksicht auf Genus und Numerus des Subjects häufig im <ab>Nomin.</ab> <ab>Sg.</ab> <lex>n.</lex> ({#yajYa#} {#u#} {#ha#} {#vA#} {#eza#} {#pratyakzaM#} {#yadbrahmA#}). Ein solches {#ya/d#} lässt sich durch {%was — betrifft%} wiedergeben. In dem Satze {#ta/to#} {#devA/#} {#e/taM#} {#va/jraM#} {#dadfSuryadapa/H#} steht {#ya/d#} vor einem <ab>Acc.</ab> und bedeutet so <ab>v. a.</ab> {%nämlich%}. {#yad#} nach einer directen, mit {#iti#} schliessenden Rede lässt sich durch {%beim [Page5-114-a] Gedanken „—“%} übersetzen (<ls n="Chr.">304,1. 12. 323,19</ls>). Das <ab>Relat.</ab> verbindet sich gern mit andern <lex>Pronomm.</lex>: {#ya/stva/m#}, {#yo/ 'ya/m#}, {#yaH saH#}, {#ya eza/H#}, {#yo'sO#}, {#sa/ ya/H#}, {#asO yaH#}.
+;---------------------------------------------------
+; <L>95051<pc>5-205-c<k1>romamUrDan<k2>romamUrDan<e>100
+469104 old {#romamUrDan#}¦ <lex>Adj.</lex> {%auf dem Kopfe behaart%} (von In secten).
+;
+469104 new {#romamUrDan#}¦ <lex>Adj.</lex> {%auf dem Kopfe behaart%} (von Insecten).
+;---------------------------------------------------
+; <L>95752<pc>5-217-a<k1>laB<k2>laB<e>500
+472745 old <div n="1">— 1〉 {%bewirken, dass Jmd Etwas erlangt, bekommt, theilhaftig wird;%} mit doppeltem <ab>Acc.</ab> (ausnahmweise auch mit <ab>Instr.</ab> der Sache). {#saMjYAm#} {%Jmd%} (<ab>Acc.</ab>) {%ein Zeichen geben%}.
+;
+472745 new <div n="1">— 1〉 {%bewirken, dass Jmd Etwas erlangt, bekommt, theilhaftig wird;%} mit doppeltem <ab>Acc.</ab> (ausnahmsweise auch mit <ab>Instr.</ab> der Sache). {#saMjYAm#} {%Jmd%} (<ab>Acc.</ab>) {%ein Zeichen geben%}.
+;---------------------------------------------------
+; <L>96390<pc>5-230-c<k1>luB<k2>luB<e>500
+476512 old <div n="1">— 2〉 {%verwischen%} (die Spur); <ab>vgl.</ab> <ab>Caus.</ab> von {#yup#}, <hom>1.</hom> {#lup#}, {#sam-lup#} und {#luB#} Simple.
+;
+476512 new <div n="1">— 2〉 {%verwischen%} (die Spur); <ab>vgl.</ab> <ab>Caus.</ab> von {#yup#}, <hom>1.</hom> {#lup#}, {#sam-lup#} und {#luB#} <ab>Simpl.</ab>
+;---------------------------------------------------
+; <L>98346<pc>6-021-c<k1>vara<k2>va/ra<h>3<e>100
+486612 old <div n="2">— b〉 mit <ab>Praes.</ab> oder <ab>Imperat.</ab> {%es ist besser —, es ist am besten, dass; es wäre besser, wenn%}. Bisweilen ist das Hülfszeit wort zu ergänzen.
+;
+486612 new <div n="2">— b〉 mit <ab>Praes.</ab> oder <ab>Imperat.</ab> {%es ist besser —, es ist am besten, dass; es wäre besser, wenn%}. Bisweilen ist das Hülfszeitwort zu ergänzen.
+;---------------------------------------------------
+; <L>98346<pc>6-021-c<k1>vara<k2>va/ra<h>3<e>100
+486620 old <div n="1">— 3〉 <lex>m.</lex> <lex>n.</lex> (ausnahmswise; <ab>adj. Comp.</ab> <lex>f.</lex> {#A#})
+;
+486620 new <div n="1">— 3〉 <lex>m.</lex> <lex>n.</lex> (ausnahmsweise; <ab>adj. Comp.</ab> <lex>f.</lex> {#A#})
+;---------------------------------------------------
+; <L>99894<pc>6-053-c<k1>vAguRa<k2>*vAguRa<e>100
+495840 old *{#vAguRa#}¦ <lex>n.</lex> {%Averrhoa%} Carambola.
+;
+495840 new *{#vAguRa#}¦ <lex>n.</lex> {%<bot>Averrhoa Carambola</bot>%}.
+;---------------------------------------------------
+; <L>102605<pc>6-092-b<k1>vidud<k2>vidud<e>000
+509292 old {#vidud#}¦ vielleicht {%Vendidad%}. (Avesta)
+;
+509292 new {#vidud#}¦ vielleicht {%Vendidad%}.
+;---------------------------------------------------
+; <L>112110<pc>6-230-c<k1>SiKaRqa<k2>SiKaRqa/<e>100
+556344 old <div n="1">— 1〉 <lex>m.</lex> (<lex>adj.</lex> Cop. <lex>f.</lex> {#A#})
+;
+556344 new <div n="1">— 1〉 <lex>m.</lex> (<ab>adj. Comp.</ab> <lex>f.</lex> {#A#})
+;---------------------------------------------------
+; <L>132513<pc>7-238-c<k1>svareRu<k2>*svareRu<e>100
+657190 old *{#svareRu#}¦ <lex>m.</lex> <ab>N. pr.</ab> einer Gemahlin des Sonnen gottes. <ab>Vgl.</ab> {#sureRu#} von {#saraRyU#}.
+;
+657190 new *{#svareRu#}¦ <lex>m.</lex> <ab>N. pr.</ab> einer Gemahlin des Sonnengottes. <ab>Vgl.</ab> {#sureRu#} von {#saraRyU#}.
+;---------------------------------------------------

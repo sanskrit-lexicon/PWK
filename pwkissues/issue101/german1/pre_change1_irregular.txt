@@ -1,0 +1,28 @@
+ ausnahmswise 2 -DE IT 0 : CHG : JF : -> ausnahmsweise
+ ausnahmweise 2 -DE IT 0 : CHG : JF : -> ausnahmsweise
+ Adams 1 +DE IT 0 : CHG : JF : ;; no change required Adams Piks -> Adams-Piks
+ Avesta 1 -DE IT 0 : CHG : JF : ;; special Remove (Avesta)
+ Carambola 1 -DE IT 0 : CHG : JF : ;; {%<bot>Averrhoa Carambola</bot>%}
+ Chidambaram 1 -DE IT 0 : CHG : JF : ;; remove word
+ Cop 1 -DE IT 0 : CHG : JF : ;; <lex>adj.</lex> Cop. -> <ab>adj. Comp.</ab>
+ demonstrat 1 -DE IT 0 : CHG : JF : ;; ab 
+ gabend 1 -DE IT 0 : CHG : JF : ;; 'veraus gabend' -> 'verausgabend'
+ gottes 1 -DE IT 0 : CHG : JF : ;; 'Sonnen gottes' -> 'Sonnengottes'
+ Hülfszeit 1 -DE IT 0 : CHG : JF : ;; 'Hülfszeit wort' -> 'Hülfszeitwort'
+ Jnmdes 1 -DE IT 0 : CHG : JF : ; 'Jnmdes wohl' -> 'Jmdes Wohl'
+ Möchte 1 -DE IT 0 : CHG : JF : -> möchte ;; '<ls>Kern.</ls>' -> '<ls>Kern</ls>'
+ None 1 -DE IT 0 : CHG : JF : ;; None. -> <ab>Nom.</ab>
+ odern 1 -DE IT 0 : CHG : JF : ;; odern. -> oder <lex>n.</lex>
+ Perfecta 1 -DE IT 0 : CHG : JF : ;;  Perfecta. ->  Perfecta
+ rückgeführt 1 -DE IT 0 : CHG : JF : ;; zu rückgeführt -> zurückgeführt
+ secten 1 -DE IT 0 : CHG : JF : ;; In secten ->Insecten 
+ Simple 1 -DE IT 0 : CHG : JF : ;; Simple. -> <ab>Simpl.</ab>
+ vasu 1 -DE IT 0 : CHG : JF : ;; <is>Viśva</is>-vasu -> <is>Viśvavasu</is>
+ veraus 1 -DE IT 0 : CHG : JF : ;; veraus gabend -> verausgabend [see under gabend above]
+ wort 1 -DE IT 0 : CHG : JF : ;; Hülfszeit wort -> Hülfszeitwort [see under Hülfszeit above]
+ übertr 1 -DE IT 0 : CHG : JF : ;; such übertr -> auch übertr. ;; abbrev?
+ schlofend 1 -DE IT 0 : CHG : JF : -> schlafend
+ Haüfig 1 -DE IT 0 : CHG : JF : -> Häufig
+ Demonstrative 1 -DE IT 0 : CHG : JF : -> Demonstrativa
+ hervorvorhebende 1 -DE IT 0 : CHG : JF : -> hervorhebende
+ abfällt 1 +DE IT 0 : CHG : JF : -> abfällt  NO change required.
