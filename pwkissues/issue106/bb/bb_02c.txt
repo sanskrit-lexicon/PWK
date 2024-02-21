@@ -1,0 +1,822 @@
+<L>2386<pc>1-028-b<k1>ad<k2>1. ad	<hom>1.</hom> √{#ad#}
+
+<L>3171<pc>1-037-c<k1>an<k2>2. an	<hom>2.</hom> √{#an#}
+
+<L>8059<pc>1-094-b<k1>am<k2>1. am	<hom>1.</hom> √{#am#}
+
+<L>9324<pc>1-109-a<k1>arc<k2>1. arc	<hom>1.</hom> √{#arc#}
+
+<L>9347<pc>1-109-b<k1>arj<k2>2. arj	<hom>2.</hom> √{#arj#}
+
+<L>9858<pc>1-115-c<k1>arz<k2>1. arz	<hom>1.</hom> √{#arz#}
+
+<L>9859<pc>1-116-a<k1>arz<k2>2. arz	<hom>2.</hom> √{#arz#}
+
+<L>11445<pc>1-134-c<k1>aS<k2>1. aS	<hom>1.</hom> √{#aS#}
+
+<L>11446<pc>1-135-a<k1>aS<k2>2. aS	<hom>2.</hom> √{#aS#}
+
+<L>11475<pc>1-135-b<k1>aSanAy<k2>1. aSanAy	<hom>1.</hom> !√{#aSanAy#}
+
+<L>11476<pc>1-135-b<k1>aSanAy<k2>2. aSanAy	<hom>2.</hom> !√{#aSanAy#}
+
+<L>12183<pc>1-143-a<k1>as<k2>1. as	<hom>1.</hom> √{#as#}
+
+<L>12184<pc>1-143-b<k1>as<k2>2. as	<hom>2.</hom> √{#as#}
+
+<L>16311<pc>1-193-a<k1>As<k2>2. As	<hom>2.</hom> √{#As#}
+
+<L>16624<pc>1-197-c<k1>i<k2>3. i	<hom>3.</hom> √{#i#}
+
+<L>16718<pc>1-202-a<k1>iq<k2>2. iq	<hom>2.</hom> √{#iq#}
+
+<L>17277<pc>1-208-c<k1>iz<k2>1. iz	<hom>1.</hom> √{#iz#}
+
+<L>17279<pc>1-208-c<k1>iz<k2>3. iz	<hom>3.</hom> √{#iz#}
+
+<L>17452<pc>1-212-a<k1>Iq<k2>1. Iq	<hom>1.</hom> √{#Iq#}
+
+<L>17511<pc>1-213-b<k1>IS<k2>1. IS	<hom>1.</hom> √{#IS#}
+
+<L>17563<pc>1-214-a<k1>Iz<k2>1. Iz	<hom>1.</hom> √{#Iz#}
+
+<L>17610<pc>1-214-c<k1>u<k2>3. u	<hom>3.</hom> √{#u#}
+
+<L>17654<pc>1-215-b<k1>ukz<k2>1. ukz	<hom>1.</hom> √{#ukz#}
+
+<L>17656<pc>1-215-b<k1>ukz<k2>3. ukz	<hom>3.</hom> √{#ukz#}
+
+<L>20826<pc>1-254-b<k1>uz<k2>1. uz	<hom>1.</hom> √{#uz#}
+
+<L>20827<pc>1-254-b<k1>uz<k2>2. uz	<hom>2.</hom> √{#uz#}
+
+<L>21249<pc>1-259-b<k1>Uh<k2>1. Uh	<hom>1.</hom> √{#Uh#}
+
+<L>21250<pc>1-259-c<k1>Uh<k2>2. Uh	<hom>2.</hom> √{#Uh#}
+
+<L>24394<pc>2-016-c<k1>kam<k2>4. kam	<hom>4.</hom> √{#kam#}
+
+<L>24528<pc>2-020-b<k1>kar<k2>2. kar	<hom>2.</hom> √{#kar#}
+
+<L>25074<pc>2-027-c<k1>kart<k2>1. kart	<hom>1.</hom> √{#kart#}
+
+<L>25075<pc>2-027-c<k1>kart<k2>2. kart	<hom>2.</hom> √{#kart#}
+
+<L>25332<pc>2-030-c<k1>karz<k2>1. karz	<hom>1.</hom> √{#karz#}
+
+<L>25333<pc>2-031-c<k1>karz<k2>2. karz	<hom>2.</hom> √{#karz#}
+
+<L>25348<pc>2-032-a<k1>kal<k2>2. kal	<hom>2.</hom> √{#kal#}
+
+<L>25349<pc>2-032-b<k1>kal<k2>3. kal	<hom>3.</hom> √{#kal#}
+
+<L>25906<pc>2-041-a<k1>kas<k2>1. kas	<hom>1.</hom> √{#kas#}
+
+<L>27667<pc>2-063-a<k1>kAs<k2>1. kAs	<hom>1.</hom> √{#kAs#}
+
+<L>27715<pc>2-063-c<k1>ki<k2>2. ki	<hom>2.</hom> √{#ki#}
+
+<L>27924<pc>2-066-b<k1>kir<k2>1. kir	<hom>1.</hom> √{#kir#}
+
+<L>28430<pc>2-072-c<k1>kuRW<k2>1. kuRW	<hom>1.</hom> √{#kuRW#}
+
+<L>28431<pc>2-072-c<k1>kuRW<k2>2. kuRW	<hom>2.</hom> √{#kuRW#}
+
+<L>28666<pc>2-075-c<k1>kup<k2>1. kup	<hom>1.</hom> √{#kup#}
+
+<L>29736<pc>2-088-b<k1>kUq<k2>2. kUq	<hom>2.</hom> √{#kUq#}
+
+<L>29824<pc>2-089-b<k1>kUl<k2>2. kUl	<hom>2.</hom> √{#kUl#}
+
+<L>31877<pc>2-115-a<k1>krI<k2>1. krI	<hom>1.</hom> √{#krI#}
+
+<L>31941<pc>2-116-a<k1>kruD<k2>1. kruD	<hom>1.</hom> √{#kruD#}
+
+<L>32285<pc>2-121-a<k1>kzad<k2>1. kzad	<hom>1.</hom> √{#kzad#}
+
+<L>32293<pc>2-121-b<k1>kzap<k2>1. kzap	<hom>1.</hom> √{#kzap#}
+
+<L>32294<pc>2-121-b<k1>kzap<k2>2. kzap	<hom>2.</hom> √{#kzap#}
+
+<L>32296<pc>2-121-b<k1>kzap<k2>4. kzap	<hom>4.</hom> √{#kzap#}
+
+<L>32328<pc>2-121-c<k1>kzam<k2>1. kzam	<hom>1.</hom> √{#kzam#}
+
+<L>32400<pc>2-123-a<k1>kzal<k2>2. kzal	<hom>2.</hom> √{#kzal#}
+
+<L>32406<pc>2-123-a<k1>kzA<k2>1. kzA	<hom>1.</hom> √{#kzA#}
+
+<L>32479<pc>2-124-a<k1>kzi<k2>1. kzi	<hom>1.</hom> √{#kzi#}
+
+<L>32480<pc>2-124-a<k1>kzi<k2>2. kzi	<hom>2.</hom> √{#kzi#}
+
+<L>32538<pc>2-125-a<k1>kzip<k2>1. kzip	<hom>1.</hom> √{#kzip#}
+
+<L>32716<pc>2-128-a<k1>kzu<k2>1. kzu	<hom>1.</hom> √{#kzu#}
+
+<L>32846<pc>2-129-a<k1>kzuD<k2>1. kzuD	<hom>1.</hom> √{#kzuD#}
+
+<L>32869<pc>2-129-b<k1>kzuB<k2>1. kzuB	<hom>1.</hom> √{#kzuB#}
+
+<L>33153<pc>2-133-a<k1>kzviq<k2>1. kzviq	<hom>1.</hom> √{#kzviq#}
+
+<L>33155<pc>2-133-a<k1>kzvid<k2>1. kzvid	<hom>1.</hom> √{#kzvid#}
+
+<L>33222<pc>2-133-c<k1>KaYj<k2>1. KaYj	<hom>1.</hom> √{#KaYj#}
+
+<L>34408<pc>2-148-c<k1>gad<k2>1. gad	<hom>1.</hom> √{#gad#}
+
+<L>34731<pc>2-155-c<k1>gar<k2>1. gar	<hom>1.</hom> √{#gar#}
+
+<L>34732<pc>2-156-a<k1>gar<k2>2. gar	<hom>2.</hom> √{#gar#}
+
+<L>34733<pc>2-156-a<k1>gar<k2>3. gar	<hom>3.</hom> √{#gar#}
+
+<L>34735<pc>2-156-b<k1>gar<k2>5. gar	<hom>5.</hom> √{#gar#}
+
+<L>34836<pc>2-157-c<k1>gardaB<k2>1. gardaB	<hom>1.</hom> √{#gardaB#}
+
+<L>35015<pc>2-159-c<k1>gal<k2>1. gal	<hom>1.</hom> √{#gal#}
+
+<L>35016<pc>2-160-a<k1>gal<k2>2. gal	<hom>2.</hom> √{#gal#}
+
+<L>35160<pc>2-161-c<k1>gA<k2>1. gA	<hom>1.</hom> √{#gA#}
+
+<L>35162<pc>2-162-b<k1>gA<k2>3. gA	<hom>3.</hom> √{#gA#}
+
+<L>35418<pc>2-166-a<k1>gir<k2>1. gir	<hom>1.</hom> √{#gir#}
+
+<L>35420<pc>2-166-b<k1>gir<k2>3. gir	<hom>3.</hom> √{#gir#}
+
+<L>35586<pc>2-168-a<k1>gu<k2>1. gu	<hom>1.</hom> √{#gu#}
+
+<L>35862<pc>2-171-c<k1>gup<k2>3. gup	<hom>3.</hom> √{#gup#}
+
+<L>36035<pc>2-174-a<k1>guh<k2>1. guh	<hom>1.</hom> √{#guh#}
+
+<L>37319<pc>2-190-c<k1>gras<k2>1. gras	<hom>1.</hom> √{#gras#}
+
+<L>37625<pc>2-195-a<k1>glA<k2>1. glA	<hom>1.</hom> √{#glA#}
+
+<L>37829<pc>2-198-a<k1>Gar<k2>1. Gar	<hom>1.</hom> √{#Gar#}
+
+<L>37879<pc>2-198-c<k1>Garz<k2>1. Garz	<hom>1.</hom> √{#Garz#}
+
+<L>37964<pc>2-199-c<k1>Guz<k2>1. Guz	<hom>1.</hom> √{#Guz#}
+
+<L>37965<pc>2-200-a<k1>Guz<k2>2. Guz	<hom>2.</hom> √{#Guz#}
+
+<L>38187<pc>2-203-a<k1>cakAs<k2>1. cakAs	<hom>1.</hom> √{#cakAs#}
+
+<L>39426<pc>2-220-a<k1>cal<k2>1. cal	<hom>1.</hom> √{#cal#}
+
+<L>39789<pc>2-225-a<k1>ci<k2>1. ci	<hom>1.</hom> √{#ci#}
+
+<L>39790<pc>2-225-c<k1>ci<k2>2. ci	<hom>2.</hom> √{#ci#}
+
+<L>39791<pc>2-226-a<k1>ci<k2>3. ci	<hom>3.</hom> √{#ci#}
+
+<L>39876<pc>2-226-c<k1>cit<k2>4. cit	<hom>4.</hom> √{#cit#}
+
+<L>40443<pc>2-234-b<k1>cup<k2>1. cup	<hom>1.</hom> √{#cup#}
+
+<L>40453<pc>2-234-c<k1>cumb<k2>1. cumb	<hom>1.</hom> √{#cumb#}
+
+<L>40528<pc>2-235-c<k1>cUr<k2>1. cUr	<hom>1.</hom> √{#cUr#}
+
+<L>40817<pc>2-239-c<k1>cyu<k2>1. cyu	<hom>1.</hom> √{#cyu#}
+
+<L>40820<pc>2-240-a<k1>cyut<k2>2. cyut	<hom>2.</hom> √{#cyut#}
+
+<L>41015<pc>2-243-a<k1>CA<k2>1. CA	<hom>1.</hom> √{#CA#}
+
+<L>41118<pc>2-244-b<k1>Cid<k2>1. Cid	<hom>1.</hom> √{#Cid#}
+
+<L>41215<pc>2-246-b<k1>jakz<k2>1. jakz	<hom>1.</hom> √{#jakz#}
+
+<L>41879<pc>2-256-a<k1>jar<k2>2. jar	<hom>2.</hom> √{#jar#}
+
+<L>41880<pc>2-256-a<k1>jar<k2>3. jar	<hom>3.</hom> √{#jar#}
+
+<L>41970<pc>2-257-b<k1>jal<k2>2. jal	<hom>2.</hom> √{#jal#}
+
+<L>42736<pc>2-266-a<k1>ji<k2>1. ji	<hom>1.</hom> √{#ji#}
+
+<L>42737<pc>2-266-c<k1>ji<k2>2. ji	<hom>2.</hom> √{#ji#}
+
+<L>43157<pc>2-272-b<k1>juz<k2>1. juz	<hom>1.</hom> √{#juz#}
+
+<L>43178<pc>2-272-c<k1>jU<k2>1. jU	<hom>1.</hom> √{#jU#}
+
+<L>43318<pc>2-274-b<k1>jYA<k2>1. jYA	<hom>1.</hom> √{#jYA#}
+
+<L>43624<pc>2-279-c<k1>jri<k2>1. jri	<hom>1.</hom> √{#jri#}
+
+<L>44059<pc>3-001-c<k1>takz<k2>1. takz	<hom>1.</hom> √{#takz#}
+
+<L>44092<pc>3-002-a<k1>taYc<k2>1. taYc	<hom>1.</hom> √{#taYc#}
+
+<L>44363<pc>3-006-b<k1>tan<k2>1. tan	<hom>1.</hom> √{#tan#}
+
+<L>44365<pc>3-007-b<k1>tan<k2>3. tan	<hom>3.</hom> √{#tan#}
+
+<L>44750<pc>3-013-c<k1>tar<k2>1. tar	<hom>1.</hom> √{#tar#}
+
+<L>45912<pc>3-030-b<k1>til<k2>1. til	<hom>1.</hom> √{#til#}
+
+<L>46155<pc>3-033-b<k1>tu<k2>1. tu	<hom>1.</hom> √{#tu#}
+
+<L>46250<pc>3-034-c<k1>tud<k2>1. tud	<hom>1.</hom> √{#tud#}
+
+<L>46502<pc>3-038-a<k1>tuS<k2>1. tuS	<hom>1.</hom> √{#tuS#}
+
+<L>46503<pc>3-038-a<k1>tuS<k2>2. tuS	<hom>2.</hom> √{#tuS#}
+
+<L>46593<pc>3-039-b<k1>tUr<k2>1. tUr	<hom>1.</hom> √{#tUr#}
+
+<L>47188<pc>3-045-c<k1>tyaj<k2>1. tyaj	<hom>1.</hom> √{#tyaj#}
+
+<L>47279<pc>3-047-b<k1>tras<k2>1. tras	<hom>1.</hom> √{#tras#}
+
+<L>47288<pc>3-047-c<k1>trA<k2>1. trA	<hom>1.</hom> √{#trA#}
+
+<L>48300<pc>3-060-b<k1>tviz<k2>1. tviz	<hom>1.</hom> √{#tviz#}
+
+<L>48981<pc>3-069-a<k1>dam<k2>1. dam	<hom>1.</hom> √{#dam#}
+
+<L>49037<pc>3-070-a<k1>dar<k2>1. dar	<hom>1.</hom> √{#dar#}
+
+<L>49038<pc>3-070-b<k1>dar<k2>2. dar	<hom>2.</hom> √{#dar#}
+
+<L>49082<pc>3-071-a<k1>darp<k2>1. darp	<hom>1.</hom> √{#darp#}
+
+<L>49096<pc>3-071-b<k1>darB<k2>1. darB	<hom>1.</hom> √{#darB#}
+
+<L>49467<pc>3-076-c<k1>das<k2>1. das	<hom>1.</hom> √{#das#}
+
+<L>49513<pc>3-079-b<k1>dA<k2>3. dA	<hom>3.</hom> √{#dA#}
+
+<L>49514<pc>3-079-c<k1>dA<k2>4. dA	<hom>4.</hom> √{#dA#}
+
+<L>49517<pc>3-079-c<k1>dA<k2>7. dA	<hom>7.</hom> √{#dA#}
+
+<L>50250<pc>3-088-b<k1>div<k2>1. div	<hom>1.</hom> √{#div#}
+
+<L>50251<pc>3-088-b<k1>div<k2>2. div	<hom>2.</hom> √{#div#}
+
+<L>50420<pc>3-090-b<k1>diS<k2>1. diS	<hom>1.</hom> √{#diS#}
+
+<L>50444<pc>3-092-a<k1>dih<k2>1. dih	<hom>1.</hom> √{#dih#}
+
+<L>50447<pc>3-092-b<k1>dI<k2>1. dI	<hom>1.</hom> √{#dI#}
+
+<L>50483<pc>3-093-a<k1>dIdi<k2>1. dIdi	<hom>1.</hom> √{#dIdi#}
+
+<L>50485<pc>3-093-a<k1>dIdi<k2>3. dIdi	<hom>3.</hom> √{#dIdi#}
+
+<L>51746<pc>3-108-c<k1>duh<k2>1. duh	<hom>1.</hom> √{#duh#}
+
+<L>53169<pc>3-125-c<k1>dyu<k2>1. dyu	<hom>1.</hom> √{#dyu#}
+
+<L>53184<pc>3-125-c<k1>dyut<k2>1. dyut	<hom>1.</hom> √{#dyut#}
+
+<L>53186<pc>3-126-a<k1>dyut<k2>3. dyut	<hom>3.</hom> √{#dyut#}
+
+<L>53396<pc>3-128-c<k1>drA<k2>1. drA	<hom>1.</hom> √{#drA#}
+
+<L>53397<pc>3-128-c<k1>drA<k2>2. drA	<hom>2.</hom> √{#drA#}
+
+<L>53447<pc>3-129-b<k1>dru<k2>1. dru	<hom>1.</hom> √{#dru#}
+
+<L>53449<pc>3-130-a<k1>dru<k2>3. dru	<hom>3.</hom> √{#dru#}
+
+<L>53515<pc>3-130-c<k1>druh<k2>1. druh	<hom>1.</hom> √{#druh#}
+
+<L>54133<pc>3-137-c<k1>dviz<k2>1. dviz	<hom>1.</hom> √{#dviz#}
+
+<L>54354<pc>3-140-b<k1>Dan<k2>1. Dan	<hom>1.</hom> √{#Dan#}
+
+<L>54596<pc>3-143-c<k1>Dar<k2>1. Dar	<hom>1.</hom> √{#Dar#}
+
+<L>55034<pc>3-155-b<k1>DA<k2>3. DA	<hom>3.</hom> √{#DA#}
+
+<L>55351<pc>3-159-c<k1>DAv<k2>1. DAv	<hom>1.</hom> √{#DAv#}
+
+<L>55352<pc>3-160-b<k1>DAv<k2>2. DAv	<hom>2.</hom> √{#DAv#}
+
+<L>55372<pc>3-160-c<k1>Di<k2>1. Di	<hom>1.</hom> √{#Di#}
+
+<L>55874<pc>3-167-c<k1>DyA<k2>1. DyA	<hom>1.</hom> √{#DyA#}
+
+<L>55939<pc>3-169-a<k1>DrAj<k2>1. DrAj	<hom>1.</hom> √{#DrAj#}
+
+<L>56051<pc>3-170-c<k1>Dvan<k2>1. Dvan	<hom>1.</hom> √{#Dvan#}
+
+<L>56052<pc>3-170-c<k1>Dvan<k2>2. Dvan	<hom>2.</hom> √{#Dvan#}
+
+<L>57246<pc>3-186-c<k1>naS<k2>1. naS	<hom>1.</hom> √{#naS#}
+
+<L>57248<pc>3-187-b<k1>naS<k2>3. naS	<hom>3.</hom> √{#naS#}
+
+<L>57296<pc>3-187-c<k1>nas<k2>1. nas	<hom>1.</hom> √{#nas#}
+
+<L>57318<pc>3-188-a<k1>nah<k2>1. nah	<hom>1.</hom> √{#nah#}
+
+<L>60495<pc>3-231-a<k1>nI<k2>1. nI	<hom>1.</hom> √{#nI#}
+
+<L>60827<pc>3-237-b<k1>nu<k2>5. nu	<hom>5.</hom> √{#nu#}
+
+<L>60834<pc>3-237-b<k1>nud<k2>1. nud	<hom>1.</hom> √{#nud#}
+
+<L>61095<pc>3-240-c<k1>ned<k2>1. ned	<hom>1.</hom> √{#ned#}
+
+<L>62374<pc>4-012-b<k1>paR<k2>1. paR	<hom>1.</hom> √{#paR#}
+
+<L>62394<pc>4-012-c<k1>paRAy<k2>1. paRAy	<hom>1.</hom> !√{#paRAy#}
+
+<L>62448<pc>4-013-b<k1>pat<k2>1. pat	<hom>1.</hom> √{#pat#}
+
+<L>62450<pc>4-015-a<k1>pat<k2>3. pat	<hom>3.</hom> √{#pat#}
+
+<L>62679<pc>4-018-a<k1>paT<k2>1. paT	<hom>1.</hom> √{#paT#}
+
+<L>62713<pc>4-018-b<k1>pad<k2>1. pad	<hom>1.</hom> √{#pad#}
+
+<L>63142<pc>4-028-b<k1>par<k2>2. par	<hom>2.</hom> √{#par#}
+
+<L>63143<pc>4-028-c<k1>par<k2>3. par	<hom>3.</hom> √{#par#}
+
+<L>65137<pc>4-057-c<k1>paS<k2>3. paS	<hom>3.</hom> √{#paS#}
+
+<L>65311<pc>4-060-b<k1>pA<k2>3. pA	<hom>3.</hom> √{#pA#}
+
+<L>65313<pc>4-060-b<k1>pA<k2>5. pA	<hom>5.</hom> √{#pA#}
+
+<L>67164<pc>4-085-c<k1>piS<k2>1. piS	<hom>1.</hom> √{#piS#}
+
+<L>67261<pc>4-087-b<k1>pI<k2>1. pI	<hom>1.</hom> √{#pI#}
+
+<L>67262<pc>4-087-b<k1>pI<k2>2. pI	<hom>2.</hom> √{#pI#}
+
+<L>67263<pc>4-087-c<k1>pI<k2>3. pI	<hom>3.</hom> √{#pI#}
+
+<L>68482<pc>4-104-a<k1>puz<k2>1. puz	<hom>1.</hom> √{#puz#}
+
+<L>68750<pc>4-108-a<k1>pU<k2>1. pU	<hom>1.</hom> √{#pU#}
+
+<L>75214<pc>4-199-c<k1>psA<k2>1. psA	<hom>1.</hom> √{#psA#}
+
+<L>75293<pc>4-200-c<k1>Pal<k2>1. Pal	<hom>1.</hom> √{#Pal#}
+
+<L>75294<pc>4-200-c<k1>Pal<k2>2. Pal	<hom>2.</hom> √{#Pal#}
+
+<L>75888<pc>4-210-a<k1>barh<k2>2. barh	<hom>2.</hom> √{#barh#}
+
+<L>75889<pc>4-210-a<k1>barh<k2>3. barh	<hom>3.</hom> √{#barh#}
+
+<L>76652<pc>4-220-a<k1>bAD<k2>1. bAD	<hom>1.</hom> √{#bAD#}
+
+<L>77335<pc>4-229-a<k1>buD<k2>1. buD	<hom>1.</hom> √{#buD#}
+
+<L>78555<pc>4-246-c<k1>BaYj<k2>1. BaYj	<hom>1.</hom> √{#BaYj#}
+
+<L>78556<pc>4-247-a<k1>BaYj<k2>2. BaYj	<hom>2.</hom> √{#BaYj#}
+
+<L>78566<pc>4-247-a<k1>Baw<k2>1. Baw	<hom>1.</hom> √{#Baw#}
+
+<L>78864<pc>4-250-c<k1>Bar<k2>1. Bar	<hom>1.</hom> √{#Bar#}
+
+<L>79236<pc>4-256-c<k1>BA<k2>1. BA	<hom>1.</hom> √{#BA#}
+
+<L>79680<pc>4-263-c<k1>BAz<k2>1. BAz	<hom>1.</hom> √{#BAz#}
+
+<L>79706<pc>4-264-b<k1>BAs<k2>2. BAs	<hom>2.</hom> √{#BAs#}
+
+<L>79806<pc>4-266-a<k1>Bid<k2>1. Bid	<hom>1.</hom> √{#Bid#}
+
+<L>79885<pc>4-268-a<k1>Bizaj<k2>1. Bizaj	<hom>1.</hom> √{#Bizaj#}
+
+<L>79902<pc>4-268-a<k1>BI<k2>1. BI	<hom>1.</hom> √{#BI#}
+
+<L>80049<pc>4-270-a<k1>Buj<k2>1. Buj	<hom>1.</hom> √{#Buj#}
+
+<L>80051<pc>4-270-a<k1>Buj<k2>3. Buj	<hom>3.</hom> √{#Buj#}
+
+<L>80202<pc>4-272-b<k1>BU<k2>1. BU	<hom>1.</hom> √{#BU#}
+
+<L>80714<pc>4-281-a<k1>BUz<k2>1. BUz	<hom>1.</hom> √{#BUz#}
+
+<L>80715<pc>4-281-a<k1>BUz<k2>2. BUz	<hom>2.</hom> √{#BUz#}
+
+<L>81174<pc>4-288-a<k1>Brajj<k2>1. Brajj	<hom>1.</hom> √{#Brajj#}
+
+<L>81222<pc>4-289-a<k1>BrAj<k2>1. BrAj	<hom>1.</hom> √{#BrAj#}
+
+<L>83514<pc>5-031-c<k1>mar<k2>1. mar	<hom>1.</hom> √{#mar#}
+
+<L>83515<pc>5-032-a<k1>mar<k2>2. mar	<hom>2.</hom> √{#mar#}
+
+<L>84045<pc>5-040-b<k1>mah<k2>1. mah	<hom>1.</hom> √{#mah#}
+
+<L>85533<pc>5-058-c<k1>mA<k2>3. mA	<hom>3.</hom> √{#mA#}
+
+<L>85536<pc>5-059-c<k1>mA<k2>6. mA	<hom>6.</hom> √{#mA#}
+
+<L>86391<pc>5-071-c<k1>mArg<k2>1. mArg	<hom>1.</hom> √{#mArg#}
+
+<L>86748<pc>5-076-c<k1>mi<k2>1. mi	<hom>1.</hom> √{#mi#}
+
+<L>86749<pc>5-076-c<k1>mi<k2>2. mi	<hom>2.</hom> √{#mi#}
+
+<L>86750<pc>5-076-c<k1>mi<k2>3. mi	<hom>3.</hom> √{#mi#}
+
+<L>86751<pc>5-076-c<k1>mikz<k2>1. mikz	<hom>1.</hom> √{#mikz#}
+
+<L>86752<pc>5-077-a<k1>mikz<k2>2. mikz	<hom>2.</hom> √{#mikz#}
+
+<L>86886<pc>5-078-c<k1>mits<k2>1. mits	<hom>1.</hom> √{#mits#}
+
+<L>86973<pc>5-079-c<k1>mid<k2>1. mid	<hom>1.</hom> √{#mid#}
+
+<L>87041<pc>5-081-a<k1>miz<k2>1. miz	<hom>1.</hom> √{#miz#}
+
+<L>87058<pc>5-081-b<k1>mih<k2>1. mih	<hom>1.</hom> √{#mih#}
+
+<L>87071<pc>5-081-c<k1>mI<k2>1. mI	<hom>1.</hom> √{#mI#}
+
+<L>87073<pc>5-081-c<k1>mI<k2>3. mI	<hom>3.</hom> √{#mI#}
+
+<L>87074<pc>5-081-c<k1>mI<k2>4. mI	<hom>4.</hom> √{#mI#}
+
+<L>87122<pc>5-082-c<k1>mIv<k2>1. mIv	<hom>1.</hom> √{#mIv#}
+
+<L>87437<pc>5-088-b<k1>muYc<k2>1. muYc	<hom>1.</hom> √{#muYc#}
+
+<L>87518<pc>5-089-a<k1>mud<k2>1. mud	<hom>1.</hom> √{#mud#}
+
+<L>87690<pc>5-091-c<k1>muz<k2>1. muz	<hom>1.</hom> √{#muz#}
+
+<L>87763<pc>5-092-c<k1>muh<k2>1. muh	<hom>1.</hom> √{#muh#}
+
+<L>89385<pc>5-115-a<k1>yaj<k2>1. yaj	<hom>1.</hom> √{#yaj#}
+
+<L>90611<pc>5-134-b<k1>yA<k2>1. yA	<hom>1.</hom> √{#yA#}
+
+<L>90984<pc>5-142-a<k1>yu<k2>2. yu	<hom>2.</hom> √{#yu#}
+
+<L>90986<pc>5-142-b<k1>yu<k2>4. yu	<hom>4.</hom> √{#yu#}
+
+<L>91092<pc>5-144-a<k1>yuj<k2>1. yuj	<hom>1.</hom> √{#yuj#}
+
+<L>91144<pc>5-147-c<k1>yuD<k2>1. yuD	<hom>1.</hom> √{#yuD#}
+
+<L>91303<pc>5-149-c<k1>yez<k2>1. yez	<hom>1.</hom> √{#yez#}
+
+<L>91857<pc>5-157-b<k1>rakz<k2>1. rakz	<hom>1.</hom> √{#rakz#}
+
+<L>92157<pc>5-162-a<k1>raYj<k2>1. raYj	<hom>1.</hom> √{#raYj#}
+
+<L>92756<pc>5-171-a<k1>ramb<k2>1. ramb	<hom>1.</hom> √{#ramb#}
+
+<L>92758<pc>5-171-a<k1>ramB<k2>1. ramB	<hom>1.</hom> √{#ramB#}
+
+<L>92759<pc>5-171-a<k1>ramB<k2>2. ramB	<hom>2.</hom> √{#ramB#}
+
+<L>92905<pc>5-172-c<k1>ras<k2>1. ras	<hom>1.</hom> √{#ras#}
+
+<L>92906<pc>5-172-c<k1>ras<k2>2. ras	<hom>2.</hom> √{#ras#}
+
+<L>93138<pc>5-176-b<k1>rA<k2>1. rA	<hom>1.</hom> √{#rA#}
+
+<L>93140<pc>5-176-b<k1>rA<k2>3. rA	<hom>3.</hom> √{#rA#}
+
+<L>93243<pc>5-177-c<k1>rAj<k2>1. rAj	<hom>1.</hom> √{#rAj#}
+
+<L>94127<pc>5-188-b<k1>rAs<k2>1. rAs	<hom>1.</hom> √{#rAs#}
+
+<L>94252<pc>5-190-c<k1>riz<k2>1. riz	<hom>1.</hom> √{#riz#}
+
+<L>94276<pc>5-191-a<k1>rI<k2>1. rI	<hom>1.</hom> √{#rI#}
+
+<L>94291<pc>5-191-b<k1>ru<k2>1. ru	<hom>1.</hom> √{#ru#}
+
+<L>94350<pc>5-192-b<k1>ruc<k2>1. ruc	<hom>1.</hom> √{#ruc#}
+
+<L>94394<pc>5-193-c<k1>ruj<k2>1. ruj	<hom>1.</hom> √{#ruj#}
+
+<L>94396<pc>5-193-c<k1>ruj<k2>3. ruj	<hom>3.</hom> √{#ruj#}
+
+<L>94418<pc>5-194-a<k1>rud<k2>1. rud	<hom>1.</hom> √{#rud#}
+
+<L>94551<pc>5-195-c<k1>ruD<k2>1. ruD	<hom>1.</hom> √{#ruD#}
+
+<L>94552<pc>5-195-c<k1>ruD<k2>2. ruD	<hom>2.</hom> √{#ruD#}
+
+<L>94571<pc>5-197-a<k1>rup<k2>1. rup	<hom>1.</hom> √{#rup#}
+
+<L>94617<pc>5-197-c<k1>ruh<k2>1. ruh	<hom>1.</hom> √{#ruh#}
+
+<L>94764<pc>5-202-a<k1>rej<k2>1. rej	<hom>1.</hom> √{#rej#}
+
+<L>95611<pc>5-215-a<k1>laj<k2>1. laj	<hom>1.</hom> √{#laj#}
+
+<L>95639<pc>5-215-b<k1>law<k2>2. law	<hom>2.</hom> √{#law#}
+
+<L>95717<pc>5-216-b<k1>lap<k2>1. lap	<hom>1.</hom> √{#lap#}
+
+<L>95766<pc>5-218-a<k1>lamb<k2>1. lamb	<hom>1.</hom> √{#lamb#}
+
+<L>95953<pc>5-221-c<k1>laz<k2>1. laz	<hom>1.</hom> √{#laz#}
+
+<L>95954<pc>5-221-c<k1>laz<k2>2. laz	<hom>2.</hom> √{#laz#}
+
+<L>95975<pc>5-222-b<k1>lA<k2>1. lA	<hom>1.</hom> √{#lA#}
+
+<L>96106<pc>5-224-a<k1>lAlay<k2>1. lAlay	<hom>1.</hom> !√{#lAlay#}
+
+<L>96281<pc>5-227-b<k1>liS<k2>1. liS	<hom>1.</hom> √{#liS#}
+
+<L>96284<pc>5-227-b<k1>lih<k2>1. lih	<hom>1.</hom> √{#lih#}
+
+<L>96352<pc>5-229-b<k1>luW<k2>2. luW	<hom>2.</hom> √{#luW#}
+
+<L>96408<pc>5-231-a<k1>lU<k2>1. lU	<hom>1.</hom> √{#lU#}
+
+<L>97357<pc>6-004-b<k1>vac<k2>1. vac	<hom>1.</hom> √{#vac#}
+
+<L>97358<pc>6-005-b<k1>vac<k2>2. vac	<hom>2.</hom> √{#vac#}
+
+<L>97607<pc>6-008-c<k1>vaw<k2>1. vaw	<hom>1.</hom> √{#vaw#}
+
+<L>97707<pc>6-009-c<k1>vat<k2>1. vat	<hom>1.</hom> √{#vat#}
+
+<L>98218<pc>6-017-c<k1>vap<k2>1. vap	<hom>1.</hom> √{#vap#}
+
+<L>98219<pc>6-017-c<k1>vap<k2>2. vap	<hom>2.</hom> √{#vap#}
+
+<L>98269<pc>6-019-a<k1>vam<k2>1. vam	<hom>1.</hom> √{#vam#}
+
+<L>98342<pc>6-020-a<k1>var<k2>1. var	<hom>1.</hom> √{#var#}
+
+<L>98343<pc>6-021-b<k1>var<k2>2. var	<hom>2.</hom> √{#var#}
+
+<L>98874<pc>6-035-a<k1>varD<k2>1. varD	<hom>1.</hom> √{#varD#}
+
+<L>98875<pc>6-036-a<k1>varD<k2>2. varD	<hom>2.</hom> √{#varD#}
+
+<L>98905<pc>6-036-c<k1>varDApay<k2>1. varDApay	<hom>1.</hom> !√{#varDApay#}
+
+<L>98906<pc>6-036-c<k1>varDApay<k2>2. varDApay	<hom>2.</hom> !√{#varDApay#}
+
+<L>98955<pc>6-037-b<k1>varz<k2>1. varz	<hom>1.</hom> √{#varz#}
+
+<L>99000<pc>6-038-a<k1>varzay<k2>1. varzay	<hom>1.</hom> !√{#varzay#}
+
+<L>99299<pc>6-042-c<k1>vas<k2>2. vas	<hom>2.</hom> √{#vas#}
+
+<L>99300<pc>6-042-c<k1>vas<k2>3. vas	<hom>3.</hom> √{#vas#}
+
+<L>99302<pc>6-043-a<k1>vas<k2>5. vas	<hom>5.</hom> √{#vas#}
+
+<L>99305<pc>6-044-b<k1>vas<k2>8. vas	<hom>8.</hom> √{#vas#}
+
+<L>99671<pc>6-049-a<k1>vah<k2>1. vah	<hom>1.</hom> √{#vah#}
+
+<L>99767<pc>6-051-c<k1>vA<k2>2. vA	<hom>2.</hom> √{#vA#}
+
+<L>99768<pc>6-052-a<k1>vA<k2>3. vA	<hom>3.</hom> √{#vA#}
+
+<L>99770<pc>6-052-a<k1>vA<k2>5. vA	<hom>5.</hom> √{#vA#}
+
+<L>101324<pc>6-072-b<k1>vAs<k2>3. vAs	<hom>3.</hom> √{#vAs#}
+
+<L>101361<pc>6-073-a<k1>vAsay<k2>1. vAsay	<hom>1.</hom> !√{#vAsay#}
+
+<L>101362<pc>6-073-a<k1>vAsay<k2>2. vAsay	<hom>2.</hom> !√{#vAsay#}
+
+<L>101503<pc>6-075-a<k1>vAh<k2>1. vA/h	<hom>1.</hom> √{#vA/h#}
+
+<L>101505<pc>6-075-a<k1>vAh<k2>3. vAh	<hom>3.</hom> √{#vAh#}
+
+<L>101971<pc>6-082-b<k1>vic<k2>1. vic	<hom>1.</hom> √{#vic#}
+
+<L>102087<pc>6-084-a<k1>vicCAyay<k2>1. vicCAyay	<hom>1.</hom> !√{#vicCAyay#}
+
+<L>102088<pc>6-084-a<k1>vicCAyay<k2>2. vicCAyay	<hom>2.</hom> !√{#vicCAyay#}
+
+<L>102100<pc>6-084-b<k1>vij<k2>1. vij	<hom>1.</hom> √{#vij#}
+
+<L>102524<pc>6-090-a<k1>vid<k2>1. vid	<hom>1.</hom> √{#vid#}
+
+<L>102526<pc>6-090-c<k1>vid<k2>3. vid	<hom>3.</hom> √{#vid#}
+
+<L>102528<pc>6-091-b<k1>vid<k2>5. vid	<hom>5.</hom> √{#vid#}
+
+<L>102870<pc>6-096-a<k1>viD<k2>1. viD	<hom>1.</hom> √{#viD#}
+
+<L>102871<pc>6-096-a<k1>viD<k2>2. viD	<hom>2.</hom> √{#viD#}
+
+<L>102872<pc>6-096-a<k1>viD<k2>3. viD	<hom>3.</hom> √{#viD#}
+
+<L>103246<pc>6-101-b<k1>vip<k2>1. vip	<hom>1.</hom> √{#vip#}
+
+<L>104497<pc>6-120-a<k1>viS<k2>1. viS	<hom>1.</hom> √{#viS#}
+
+<L>105113<pc>6-131-c<k1>viz<k2>1. viz	<hom>1.</hom> √{#viz#}
+
+<L>105876<pc>6-142-a<k1>vI<k2>1. vI	<hom>1.</hom> √{#vI#}
+
+<L>105878<pc>6-142-b<k1>vI<k2>3. vI	<hom>3.</hom> √{#vI#}
+
+<L>106803<pc>6-154-b<k1>vfzAy<k2>1. vfzAy	<hom>1.</hom> !√{#vfzAy#}
+
+<L>106804<pc>6-154-b<k1>vfzAy<k2>2. vfzAy	<hom>2.</hom> !√{#vfzAy#}
+
+<L>108390<pc>6-177-c<k1>vyay<k2>1. vyay	<hom>1.</hom> √{#vyay#}
+
+<L>108391<pc>6-177-c<k1>vyay<k2>2. vyay	<hom>2.</hom> √{#vyay#}
+
+<L>108392<pc>6-177-c<k1>vyay<k2>3. vyay	<hom>3.</hom> √{#vyay#}
+
+<L>108393<pc>6-177-c<k1>vyay<k2>4. vyay	<hom>4.</hom> √{#vyay#}
+
+<L>108532<pc>6-180-a<k1>vyA<k2>1. vyA	<hom>1.</hom> √{#vyA#}
+
+<L>108534<pc>6-180-b<k1>vyA<k2>3. vyA	<hom>3.</hom> √{#vyA#}
+
+<L>109111<pc>6-189-a<k1>vraSc<k2>1. vraSc	<hom>1.</hom> √{#vraSc#}
+
+<L>109211<pc>6-191-a<k1>Sak<k2>2. Sak	<hom>2.</hom> √{#Sak#}
+
+<L>110318<pc>6-206-b<k1>Sam<k2>1. Sam	<hom>1.</hom> √{#Sam#}
+
+<L>110319<pc>6-206-b<k1>Sam<k2>2. Sam	<hom>2.</hom> √{#Sam#}
+
+<L>110320<pc>6-207-a<k1>Sam<k2>3. Sam	<hom>3.</hom> √{#Sam#}
+
+<L>110321<pc>6-207-a<k1>Sam<k2>4. Sam	<hom>4.</hom> √{#Sam#}
+
+<L>110348<pc>6-207-b<k1>SamAy<k2>1. SamAy	<hom>1.</hom> !√{#SamAy#}
+
+<L>110349<pc>6-207-b<k1>SamAy<k2>2. SamAy	<hom>2.</hom> !√{#SamAy#}
+
+<L>110496<pc>6-209-b<k1>Sar<k2>1. Sar	<hom>1.</hom> √{#Sar#}
+
+<L>110774<pc>6-213-a<k1>SarD<k2>1. SarD	<hom>1.</hom> √{#SarD#}
+
+<L>110775<pc>6-213-a<k1>SarD<k2>2. SarD	<hom>2.</hom> √{#SarD#}
+
+<L>110834<pc>6-213-c<k1>Sal<k2>1. Sal	<hom>1.</hom> √{#Sal#}
+
+<L>111074<pc>6-216-c<k1>Sas<k2>1. Sas	<hom>1.</hom> √{#Sas#}
+
+<L>111077<pc>6-216-c<k1>Sas<k2>4. Sas	<hom>4.</hom> √{#Sas#}
+
+<L>111155<pc>6-217-c<k1>SA<k2>1. SA	<hom>1.</hom> √{#SA#}
+
+<L>111156<pc>6-217-c<k1>SA<k2>2. SA	<hom>2.</hom> √{#SA#}
+
+<L>111981<pc>6-228-b<k1>SAs<k2>1. SAs	<hom>1.</hom> √{#SAs#}
+
+<L>111983<pc>6-229-a<k1>SAs<k2>3. SAs	<hom>3.</hom> √{#SAs#}
+
+<L>112078<pc>6-230-a<k1>Sikz<k2>1. Sikz	<hom>1.</hom> √{#Sikz#}
+
+<L>112079<pc>6-230-b<k1>Sikz<k2>2. Sikz	<hom>2.</hom> √{#Sikz#}
+
+<L>112826<pc>6-240-a<k1>Siz<k2>3. Siz	<hom>3.</hom> √{#Siz#}
+
+<L>112857<pc>6-241-a<k1>SI<k2>1. SI	<hom>1.</hom> √{#SI#}
+
+<L>112858<pc>6-241-a<k1>SI<k2>2. SI	<hom>2.</hom> √{#SI#}
+
+<L>113351<pc>6-247-c<k1>Suc<k2>1. Suc	<hom>1.</hom> √{#Suc#}
+
+<L>113591<pc>6-252-a<k1>SuBay<k2>1. SuBay	<hom>1.</hom> !√{#SuBay#}
+
+<L>113592<pc>6-252-a<k1>SuBay<k2>2. SuBay	<hom>2.</hom> !√{#SuBay#}
+
+<L>113698<pc>6-253-b<k1>Suz<k2>1. Suz	<hom>1.</hom> √{#Suz#}
+
+<L>113700<pc>6-253-b<k1>Suz<k2>3. Suz	<hom>3.</hom> √{#Suz#}
+
+<L>114803<pc>6-267-c<k1>SraT<k2>1. SraT	<hom>1.</hom> √{#SraT#}
+
+<L>114841<pc>6-268-a<k1>Sram<k2>1. Sram	<hom>1.</hom> √{#Sram#}
+
+<L>114913<pc>6-269-b<k1>Sravasy<k2>1. Sravasy	<hom>1.</hom> !√{#Sravasy#}
+
+<L>114914<pc>6-269-b<k1>Sravasy<k2>2. Sravasy	<hom>2.</hom> !√{#Sravasy#}
+
+<L>114929<pc>6-269-c<k1>SrA<k2>1. SrA	<hom>1.</hom> √{#SrA#}
+
+<L>115014<pc>6-271-a<k1>Sri<k2>1. Sri	<hom>1.</hom> √{#Sri#}
+
+<L>115027<pc>6-273-a<k1>Sriz<k2>1. Sriz	<hom>1.</hom> √{#Sriz#}
+
+<L>115029<pc>6-273-a<k1>SrI<k2>1. SrI	<hom>1.</hom> √{#SrI#}
+
+<L>115030<pc>6-273-a<k1>SrI<k2>2. SrI	<hom>2.</hom> √{#SrI#}
+
+<L>115312<pc>6-276-b<k1>Sru<k2>1. Sru	<hom>1.</hom> √{#Sru#}
+
+<L>115799<pc>6-283-c<k1>Svas<k2>1. Svas	<hom>1.</hom> √{#Svas#}
+
+<L>115877<pc>6-285-b<k1>Svit<k2>1. Svit	<hom>1.</hom> √{#Svit#}
+
+<L>117860<pc>7-023-a<k1>sajjay<k2>1. sajjay	<hom>1.</hom> !√{#sajjay#}
+
+<L>117861<pc>7-023-a<k1>sajjay<k2>2. sajjay	<hom>2.</hom> !√{#sajjay#}
+
+<L>117998<pc>7-026-c<k1>saW<k2>1. saW	<hom>1.</hom> √{#saW#}
+
+<L>118430<pc>7-032-a<k1>sad<k2>1. sad	<hom>1.</hom> √{#sad#}
+
+<L>118767<pc>7-038-a<k1>san<k2>1. san	<hom>1.</hom> √{#san#}
+
+<L>119266<pc>7-046-b<k1>sap<k2>1. sap	<hom>1.</hom> √{#sap#}
+
+<L>121554<pc>7-080-a<k1>sarj<k2>1. sarj	<hom>1.</hom> √{#sarj#}
+
+<L>121556<pc>7-080-a<k1>sarj<k2>3. sarj	<hom>3.</hom> √{#sarj#}
+
+<L>122524<pc>7-094-c<k1>savitar<k2>2. savitar	<hom>2.</hom> !√{#savitar#}
+
+<L>122811<pc>7-098-b<k1>sah<k2>1. sah	<hom>1.</hom> √{#sah#}
+
+<L>123351<pc>7-105-c<k1>sA<k2>3. sA	<hom>3.</hom> √{#sA#}
+
+<L>123731<pc>7-111-b<k1>sAD<k2>1. sAD	<hom>1.</hom> √{#sAD#}
+
+<L>124828<pc>7-127-a<k1>si<k2>1. si	<hom>1.</hom> √{#si#}
+
+<L>124830<pc>7-127-a<k1>si<k2>3. si	<hom>3.</hom> √{#si#}
+
+<L>124985<pc>7-129-a<k1>sic<k2>1. sic	<hom>1.</hom> √{#sic#}
+
+<L>125322<pc>7-134-a<k1>siD<k2>1. siD	<hom>1.</hom> √{#siD#}
+
+<L>125323<pc>7-134-b<k1>siD<k2>2. siD	<hom>2.</hom> √{#siD#}
+
+<L>125604<pc>7-138-a<k1>su<k2>1. su	<hom>1.</hom> √{#su#}
+
+<L>128533<pc>7-175-a<k1>sU<k2>3. sU	<hom>3.</hom> √{#sU#}
+
+<L>128807<pc>7-178-c<k1>sUd<k2>1. sUd	<hom>1.</hom> √{#sUd#}
+
+<L>130467<pc>7-201-b<k1>star<k2>1. star	<hom>1.</hom> √{#star#}
+
+<L>130530<pc>7-202-b<k1>stu<k2>1. stu	<hom>1.</hom> √{#stu#}
+
+<L>130563<pc>7-203-a<k1>stuB<k2>1. stuB	<hom>1.</hom> √{#stuB#}
+
+<L>130874<pc>7-207-a<k1>sTA<k2>1. sTA	<hom>1.</hom> √{#sTA#}
+
+<L>131257<pc>7-217-c<k1>snA<k2>1. snA	<hom>1.</hom> √{#snA#}
+
+<L>131259<pc>7-218-a<k1>snA<k2>3. snA	<hom>3.</hom> √{#snA#}
+
+<L>131337<pc>7-219-a<k1>snu<k2>1. snu	<hom>1.</hom> √{#snu#}
+
+<L>131399<pc>7-220-a<k1>spar<k2>1. spar	<hom>1.</hom> √{#spar#}
+
+<L>131453<pc>7-221-b<k1>spaS<k2>1. spaS	<hom>1.</hom> √{#spaS#}
+
+<L>131878<pc>7-229-a<k1>sriD<k2>1. sriD	<hom>1.</hom> √{#sriD#}
+
+<L>132127<pc>7-233-b<k1>svan<k2>1. svan	<hom>1.</hom> √{#svan#}
+
+<L>132155<pc>7-233-c<k1>svap<k2>1. svap	<hom>1.</hom> √{#svap#}
+
+<L>132413<pc>7-237-a<k1>svar<k2>1. svar	<hom>1.</hom> √{#svar#}
+
+<L>132414<pc>7-237-b<k1>svar<k2>2. svar	<hom>2.</hom> √{#svar#}
+
+<L>133184<pc>7-247-a<k1>svid<k2>1. svid	<hom>1.</hom> √{#svid#}
+
+<L>133457<pc>7-250-c<k1>han<k2>1. han	<hom>1.</hom> √{#han#}
+
+<L>133572<pc>7-254-b<k1>har<k2>1. har	<hom>1.</hom> √{#har#}
+
+<L>133573<pc>7-257-c<k1>har<k2>2. har	<hom>2.</hom> √{#har#}
+
+<L>133574<pc>7-257-c<k1>har<k2>3. har	<hom>3.</hom> √{#har#}
+
+<L>134145<pc>7-265-c<k1>has<k2>2. has	<hom>2.</hom> √{#has#}
+
+<L>134348<pc>7-268-c<k1>hA<k2>1. hA	<hom>1.</hom> √{#hA#}
+
+<L>134538<pc>7-272-c<k1>hi<k2>1. hi	<hom>1.</hom> √{#hi#}
+
+<L>134540<pc>7-273-a<k1>hiMs<k2>1. hiMs	<hom>1.</hom> √{#hiMs#}
+
+<L>134973<pc>7-278-b<k1>hu<k2>1. hu	<hom>1.</hom> √{#hu#}
+
+<L>135694<pc>7-287-a<k1>hrAd<k2>1. hrAd	<hom>1.</hom> √{#hrAd#}
+
+<L>135714<pc>7-287-b<k1>hrI<k2>1. hrI	<hom>1.</hom> √{#hrI#}
+
+<L>135754<pc>7-287-c<k1>hlAd<k2>1. hlAd	<hom>1.</hom> √{#hlAd#}
+
+<L>135755<pc>7-287-c<k1>hlAd<k2>2. hlAd	<hom>2.</hom> √{#hlAd#}
+

@@ -1,0 +1,142 @@
+<L>1725<pc>1-021-a<k1>atitara<k2>atitara°	{#atitara°#}
+
+<L>1926<pc>1-023-b<k1>atimahA<k2>atimahA°	{#atimahA°#}
+
+<L>3564<pc>1-042-a<k1>anaBisaMDipUrvaka<k2>anaBisaMDipUrvaka°	{#anaBisaMDipUrvaka°#}
+
+<L>3568<pc>1-042-b<k1>anaBIkzRa<k2>anaBIkzRa°	{#anaBIkzRa°#}
+
+<L>3736<pc>1-044-a<k1>anavahita<k2>anavahita°	{#anavahita°#}
+
+<L>5333<pc>1-063-b<k1>antarBavana<k2>antarBavana°	{#antarBavana°#}
+
+<L>6646<pc>1-078-a<k1>apOrAdara<k2>apOrAdara°	{#apOrAdara°#}
+
+<L>6768<pc>1-079-b<k1>apratiboDa<k2>apratiboDa°	{#apratiboDa°#}
+
+<L>9503<pc>1-111-c<k1>arTavyayanASa<k2>arTavyayanASa°	{#arTavyayanASa°#}
+
+<L>13610<pc>1-161-a<k1>AgaRqa<k2>AgaRqa°	{#AgaRqa°#}
+
+<L>14894<pc>1-176-c<k1>AparvaBAga<k2>AparvaBAga°	{#AparvaBAga°#}
+
+<L>16359<pc>1-194-b<k1>Asamudra<k2>Asamudra°	{#Asamudra°#}
+
+<L>16415<pc>1-195-a<k1>Asfkva<k2>Asfkva°	{#Asfkva°#}
+
+<L>18534<pc>1-226-c<k1>utsUrya<k2>utsUrya°	{#utsUrya°#}
+
+<L>35370<pc>2-165-b<k1>gArDa<k2>gArDa°	{#gArDa°#}
+
+<L>50771<pc>3-097-a<k1>duHka<k2>duHka°	{#duHka°#}
+
+<L>51688<pc>3-108-a<k1>dus<k2>dus°	{#dus°#}
+
+<L>54312<pc>3-140-a<k1>dvyazwasahasra<k2>dvyazwasahasra°	{#dvyazwasahasra°#}
+
+<L>58187<pc>3-199-c<k1>niHka<k2>niHka°	{#niHka°#}
+
+<L>58192<pc>3-199-c<k1>niHpa<k2>niHpa°	{#niHpa°#}
+
+<L>59016<pc>3-211-b<k1>nirAqambara<k2>nirAqambara°	{#nirAqambara°#}
+
+<L>60238<pc>3-227-c<k1>nizparyAya<k2>nizparyAya°	{#nizparyAya°#}
+
+<L>60310<pc>3-228-c<k1>nizprItyupatApa<k2>nizprItyupatApa°	{#nizprItyupatApa°#}
+
+<L>62197<pc>4-009-c<k1>paYcASA<k2>paYcASA°	{#paYcASA°#}
+
+<L>67021<pc>4-084-a<k1>pitfzvasAmAtula<k2>pitfzvasAmAtula°	{#pitfzvasAmAtula°#}
+
+<L>71347<pc>4-144-a<k1>pratimukula<k2>pratimukula°	{#pratimukula°#}
+
+<L>71538<pc>4-146-b<k1>pratiSukrabuDa<k2>pratiSukrabuDa°	{#pratiSukrabuDa°#}
+
+<L>90131<pc>5-125-c<k1>yaTodgamana<k2>yaTodgamana°	{#yaTodgamana°#}
+
+<L>90933<pc>5-141-a<k1>yAvaddeya<k2>yAvaddeya°	{#yAvaddeya°#}
+
+<L>105355<pc>6-135-a<k1>vizu<k2>vizu°	{#vizu°#}
+
+<L>105790<pc>6-141-a<k1>viha<k2>viha°	{#viha°#}
+
+<L>107879<pc>6-169-b<k1>vEyya<k2>vEyya°	{#vEyya°#}
+
+<L>109468<pc>6-194-b<k1>SakrAnalAKya<k2>SakrAnalAKya°	{#SakrAnalAKya°#}
+
+<L>109922<pc>6-200-c<k1>Satalakza<k2>Satalakza°	{#Satalakza°#}
+
+<L>115196<pc>6-275-a<k1>SrIBuja<k2>SrIBuja°	{#SrIBuja°#}
+
+<L>116183<pc>6-289-a<k1>zawsahasraSata<k2>zawsahasraSata°	{#zawsahasraSata°#}
+
+<L>116234<pc>6-289-b<k1>zaqUrmi<k2>zaqUrmi°	{#zaqUrmi°#}
+
+<L>118472<pc>7-034-b<k1>sadasatPala<k2>sadasatPala°	{#sadasatPala°#}
+
+<L>118583<pc>7-035-c<k1>sadfSAsadfSayogyAyogyatva<k2>sadfSAsadfSayogyAyogyatva°	{#sadfSAsadfSayogyAyogyatva°#}
+
+<L>119506<pc>7-049-b<k1>saptarzika<k2>saptarzika°	{#saptarzika°#}
+
+<L>122023<pc>7-088-c<k1>sarvaroga<k2>sarvaroga°	{#sarvaroga°#}
+
+<L>122029<pc>7-088-c<k1>sarvalakzaRa<k2>sarvalakzaRa°	{#sarvalakzaRa°#}
+
+<L>123278<pc>7-104-c<k1>sahAsaraBasa<k2>sahAsaraBasa°	{#sahAsaraBasa°#}
+
+<L>123790<pc>7-113-a<k1>sADukfta<k2>sADukfta°	{#sADukfta°#}
+
+<L>125152<pc>7-131-c<k1>sidDajana<k2>sidDajana°	{#sidDajana°#}
+
+<L>127222<pc>7-158-c<k1>sumahA<k2>sumahA°	{#sumahA°#}
+
+<L>200424<pc>1-286-a<k1>aDarma<k2>aDarma°	{#aDarma°#}
+
+<L>200559<pc>1-287-b<k1>anapiDAna<k2>anapiDAna°	{#anapiDAna°#}
+
+<L>200784<pc>1-289-c<k1>anumAsa<k2>anumAsa°	{#anumAsa°#}
+
+<L>201015<pc>1-292-a<k1>apralaya<k2>apralaya°	{#apralaya°#}
+
+<L>201341<pc>1-295-a<k1>aviSrama<k2>aviSrama°	{#aviSrama°#}
+
+<L>201490<pc>1-296-c<k1>AkarRatawa<k2>AkarRatawa°	{#AkarRatawa°#}
+
+<L>201498<pc>1-296-c<k1>AkumAra<k2>AkumAra°	{#AkumAra°#}
+
+<L>201570<pc>1-297-b<k1>AbrahmARqa<k2>AbrahmARqa°	{#AbrahmARqa°#}
+
+<L>203576<pc>3-250-a<k1>anirdaya<k2>anirdaya°	{#anirdaya°#}
+
+<L>203626<pc>3-250-c<k1>anekAMSa<k2>anekAMSa°	{#anekAMSa°#}
+
+<L>203758<pc>3-252-b<k1>aprakarza<k2>aprakarza°	{#aprakarza°#}
+
+<L>208974<pc>6-302-a<k1>trisaptaka<k2>trisaptaka°	{#trisaptaka°#}
+
+<L>211315<pc>7-300-c<k1>anumAsa<k2>anumAsa°	{#anumAsa°#}
+
+<L>212044<pc>7-304-d<k1>apralaya<k2>apralaya°	{#apralaya°#}
+
+<L>213876<pc>7-316-c<k1>AkoSa<k2>AkoSa°	{#AkoSa°#}
+
+<L>215457<pc>7-327-c<k1>ekAdaSini<k2>ekAdaSini°	{#ekAdaSini°#}
+
+<L>215566<pc>7-328-c<k1>Odumbari<k2>Odumbari°	{#Odumbari°#}
+
+<L>217154<pc>7-340-b<k1>caturTi<k2>caturTi°	{#caturTi°#}
+
+<L>218099<pc>7-347-d<k1>dazwavya<k2>dazwavya°	{#dazwavya°#}
+
+<L>219603<pc>7-360-c<k1>pratinayana<k2>pratinayana°	{#pratinayana°#}
+
+<L>219689<pc>7-361-b<k1>pratyaraRya<k2>pratyaraRya°	{#pratyaraRya°#}
+
+<L>220639<pc>7-369-c<k1>yaTADikAra<k2>yaTADikAra°	{#yaTADikAra°#}
+
+<L>220872<pc>7-371-d<k1>laspUjani<k2>laspUjani°	{#laspUjani°#}
+
+<L>221001<pc>7-373-b<k1>vasatIvari<k2>vasatIvari°	{#vasatIvari°#}
+
+<L>221883<pc>7-382-d<k1>sAmiDeni<k2>sAmiDeni°	{#sAmiDeni°#}
+

@@ -1,0 +1,2164 @@
+<L>16<pc>1-001-a<k1>aMSay<k2>*aMSay	*!√{#aMSay#}
+
+<L>48<pc>1-001-c<k1>aMh<k2>*aMh	*√{#aMh#}
+
+<L>435<pc>1-006-a<k1>agady<k2>*agady	*!√{#agady#}
+
+<L>827<pc>1-010-b<k1>aGay<k2>*aGay	*!√{#aGay#}
+
+<L>867<pc>1-010-c<k1>aNk<k2>*aNk	*√{#aNk#}
+
+<L>1082<pc>1-013-b<k1>aNG<k2>*aNG	*√{#aNG#}
+
+<L>1487<pc>1-018-b<k1>awAy<k2>*awAy	*!√{#awAy#}
+
+<L>1488<pc>1-018-b<k1>aww<k2>*aww	*√{#aww#}
+
+<L>1505<pc>1-018-c<k1>awwAy<k2>*awwAy	*!√{#awwAy#}
+
+<L>1512<pc>1-018-c<k1>aW<k2>*aW	*√{#aW#}
+
+<L>1514<pc>1-018-c<k1>aq<k2>*aq	*√{#aq#}
+
+<L>1519<pc>1-018-c<k1>aqq<k2>*aqq	*√{#aqq#}
+
+<L>1522<pc>1-018-c<k1>aR<k2>*aR	*√{#aR#}
+
+<L>1559<pc>1-019-a<k1>aRW<k2>*aRW	*√{#aRW#}
+
+<L>1976<pc>1-023-c<k1>atirAjay<k2>*atirAjay	*!√{#atirAjay#}
+
+<L>2172<pc>1-025-c<k1>atihastay<k2>*atihastay	*!√{#atihastay#}
+
+<L>2365<pc>1-028-a<k1>aTary<k2>*aTary	*!√{#aTary#}
+
+<L>2439<pc>1-029-a<k1>adasy<k2>*adasy	*!√{#adasy#}
+
+<L>3246<pc>1-038-b<k1>anaquhy<k2>*anaquhy	*!√{#anaquhy#}
+
+<L>4401<pc>1-052-a<k1>anutUlay<k2>*anutUlay	*!√{#anutUlay#}
+
+<L>5493<pc>1-065-a<k1>and<k2>*and	*√{#and#}
+
+<L>5496<pc>1-065-a<k1>andolay<k2>*andolay	*!√{#andolay#}
+
+<L>6197<pc>1-073-a<k1>apary<k2>*apary	*!√{#apary#}
+
+<L>7036<pc>1-082-c<k1>apsarAy<k2>*apsarAy	*!√{#apsarAy#}
+
+<L>7498<pc>1-088-a<k1>aBimanAy<k2>*aBimanAy	*!√{#aBimanAy#}
+
+<L>7743<pc>1-090-c<k1>aBisAvakIy<k2>*aBisAvakIy	*!√{#aBisAvakIy#}
+
+<L>8011<pc>1-094-a<k1>aBr<k2>*aBr	*√{#aBr#}
+
+<L>8046<pc>1-094-b<k1>aBrAy<k2>*aBrAy	*!√{#aBrAy#}
+
+<L>8506<pc>1-099-b<k1>amb<k2>*amb	*√{#amb#}
+
+<L>8528<pc>1-099-c<k1>ambary<k2>*ambary	*!√{#ambary#}
+
+<L>8614<pc>1-100-c<k1>amB<k2>*amB	*√{#amB#}
+
+<L>8924<pc>1-104-c<k1>arajAy<k2>*arajAy	*!√{#arajAy#}
+
+<L>9022<pc>1-105-b<k1>arary<k2>*arary	*!√{#arary#}
+
+<L>9273<pc>1-108-b<k1>arkay<k2>*arkay	*!√{#arkay#}
+
+<L>9304<pc>1-108-c<k1>arkz<k2>*arkz	*√{#arkz#}
+
+<L>9314<pc>1-108-c<k1>arG<k2>*arG	*√{#arG#}
+
+<L>9373<pc>1-109-c<k1>arR<k2>*arR	*√{#arR#}
+
+<L>9541<pc>1-112-a<k1>arTApay<k2>*arTApay	*!√{#arTApay#}
+
+<L>9782<pc>1-115-a<k1>arb<k2>*arb	*√{#arb#}
+
+<L>9818<pc>1-115-b<k1>arv<k2>*arv	*√{#arv#}
+
+<L>9877<pc>1-116-b<k1>al<k2>*al	*√{#al#}
+
+<L>10047<pc>1-118-b<k1>alIkAy<k2>*alIkAy	*!√{#alIkAy#}
+
+<L>10349<pc>1-121-c<k1>avatUlay<k2>*avatUlay	*!√{#avatUlay#}
+
+<L>10623<pc>1-125-a<k1>avary<k2>*avary	*!√{#avary#}
+
+<L>11486<pc>1-135-c<k1>aSanIy<k2>*aSanIy	*!√{#aSanIy#}
+
+<L>11661<pc>1-137-b<k1>aSnItapibatIy<k2>*aSnItapibatIy	*!√{#aSnItapibatIy#}
+
+<L>11788<pc>1-138-c<k1>aSv<k2>*aSv	*√{#aSv#}
+
+<L>11893<pc>1-140-a<k1>aSvay<k2>*aSvay	*!√{#aSvay#}
+
+<L>11961<pc>1-140-c<k1>aSvasy<k2>*aSvasy	*!√{#aSvasy#}
+
+<L>12000<pc>1-141-a<k1>aSvIy<k2>*aSvIy	*!√{#aSvIy#}
+
+<L>12006<pc>1-141-a<k1>az<k2>*az	*√{#az#}
+
+<L>12996<pc>1-154-a<k1>asmay<k2>*asmay	*!√{#asmay#}
+
+<L>13032<pc>1-154-b<k1>asrAy<k2>*asrAy	*!√{#asrAy#}
+
+<L>14022<pc>1-166-a<k1>ARavay<k2>*ARavay	*!√{#ARavay#}
+
+<L>15367<pc>1-182-a<k1>Ayuzay<k2>*Ayuzay	*!√{#Ayuzay#}
+
+<L>16181<pc>1-191-b<k1>AScary<k2>*AScary	*!√{#AScary#}
+
+<L>16614<pc>1-197-b<k1>Ahvaray<k2>*Ahvaray	*!√{#Ahvaray#}
+
+<L>16679<pc>1-201-b<k1>iK<k2>*iK	*√{#iK#}
+
+<L>16709<pc>1-201-c<k1>iYj<k2>*iYj	*√{#iYj#}
+
+<L>16756<pc>1-202-c<k1>itaray<k2>*itaray	*!√{#itaray#}
+
+<L>16837<pc>1-203-c<k1>idAm<k2>*idAm	*!√{#idAm#}
+
+<L>16865<pc>1-204-a<k1>ind<k2>*ind	*√{#ind#}
+
+<L>17159<pc>1-207-a<k1>indrIy<k2>*indrIy	*!√{#indrIy#}
+
+<L>17211<pc>1-207-c<k1>ir<k2>*ir	*√{#ir#}
+
+<L>17242<pc>1-208-b<k1>iry<k2>*iry	*!√{#iry#}
+
+<L>17443<pc>1-212-a<k1>IK<k2>*IK	*√{#IK#}
+
+<L>17466<pc>1-212-b<k1>Int<k2>*Int	*√{#Int#}
+
+<L>17485<pc>1-213-a<k1>Irkzy<k2>*Irkzy	*!√{#Irkzy#}
+
+<L>17518<pc>1-213-b<k1>ISay<k2>*ISay	*!√{#ISay#}
+
+<L>17670<pc>1-215-c<k1>uK<k2>*uK	*√{#uK#}
+
+<L>17727<pc>1-216-b<k1>uNK<k2>*uNK	*√{#uNK#}
+
+<L>17910<pc>1-218-c<k1>uW<k2>*uW	*√{#uW#}
+
+<L>17911<pc>1-218-c<k1>uq<k2>*uq	*√{#uq#}
+
+<L>18010<pc>1-220-a<k1>utkAy<k2>*utkAy	*!√{#utkAy#}
+
+<L>18449<pc>1-225-b<k1>utpucCay<k2>*utpucCay	*!√{#utpucCay#}
+
+<L>18531<pc>1-226-c<k1>utsukAy<k2>*utsukAy	*!√{#utsukAy#}
+
+<L>18612<pc>1-227-b<k1>udakIy<k2>*udakIy	*!√{#udakIy#}
+
+<L>19260<pc>1-235-b<k1>uDras<k2>*uDras	*√{#uDras#}
+
+<L>20077<pc>1-245-b<k1>upaSlokay<k2>*upaSlokay	*!√{#upaSlokay#}
+
+<L>20603<pc>1-251-c<k1>urasy<k2>*urasy	*!√{#urasy#}
+
+<L>20719<pc>1-253-a<k1>ulaRq<k2>*ulaRq	*√{#ulaRq#}
+
+<L>20845<pc>1-254-c<k1>uzasy<k2>*uzasy	*!√{#uzasy#}
+
+<L>20952<pc>1-255-c<k1>usrIy<k2>*usrIy	*!√{#usrIy#}
+
+<L>20970<pc>1-256-a<k1>UW<k2>*UW	*√{#UW#}
+
+<L>20974<pc>1-256-a<k1>UQay<k2>*UQay	*!√{#UQay#}
+
+<L>21007<pc>1-256-b<k1>Uy<k2>*Uy	*!√{#Uy#}
+
+<L>21219<pc>1-259-a<k1>Uz<k2>*Uz	*√{#Uz#}
+
+<L>21246<pc>1-259-b<k1>UzmAy<k2>*UzmAy	*!√{#UzmAy#}
+
+<L>21592<pc>1-264-a<k1>fBukzIn<k2>*fBukzIn	*√{#fBukzIn#}
+
+<L>22180<pc>1-271-b<k1>eW<k2>*eW	*√{#eW#}
+
+<L>22184<pc>1-271-b<k1>eqakIy<k2>*eqakIy	*!√{#eqakIy#}
+
+<L>22233<pc>1-272-a<k1>etay<k2>*etay	*!√{#etay#}
+
+<L>22301<pc>1-273-a<k1>elAy<k2>*elAy	*!√{#elAy#}
+
+<L>22613<pc>1-276-b<k1>oK<k2>*oK	*√{#oK#}
+
+<L>22627<pc>1-276-c<k1>oMkArIy<k2>*oMkArIy	*!√{#oMkArIy#}
+
+<L>22629<pc>1-276-c<k1>oj<k2>*oj	*√{#oj#}
+
+<L>22634<pc>1-276-c<k1>ojasy<k2>*ojasy	*!√{#ojasy#}
+
+<L>22657<pc>1-277-a<k1>oQIy<k2>*oQIy	*!√{#oQIy#}
+
+<L>22659<pc>1-277-a<k1>oR<k2>*oR	*√{#oR#}
+
+<L>23123<pc>2-001-b<k1>kaMs<k2>*kaMs	*√{#kaMs#}
+
+<L>23140<pc>2-001-c<k1>kak<k2>*kak	*√{#kak#}
+
+<L>23182<pc>2-002-b<k1>kakk<k2>*kakk	*√{#kakk#}
+
+<L>23189<pc>2-002-b<k1>kakK<k2>*kakK	*√{#kakK#}
+
+<L>23207<pc>2-002-c<k1>kakzAy<k2>*kakzAy	*!√{#kakzAy#}
+
+<L>23225<pc>2-003-a<k1>kaK<k2>*kaK	*√{#kaK#}
+
+<L>23226<pc>2-003-a<k1>kag<k2>*kag	*√{#kag#}
+
+<L>23228<pc>2-003-a<k1>kaNk<k2>*kaNk	*√{#kaNk#}
+
+<L>23285<pc>2-003-c<k1>kac<k2>*kac	*√{#kac#}
+
+<L>23334<pc>2-004-a<k1>kaj<k2>*kaj	*√{#kaj#}
+
+<L>23346<pc>2-004-b<k1>kaYc<k2>*kaYc	*√{#kaYc#}
+
+<L>23373<pc>2-004-c<k1>kaw<k2>*kaw	*√{#kaw#}
+
+<L>23531<pc>2-006-b<k1>kaW<k2>*kaW	*√{#kaW#}
+
+<L>23556<pc>2-006-c<k1>kaWIy<k2>*kaWIy	*!√{#kaWIy#}
+
+<L>23569<pc>2-006-c<k1>kaq<k2>*kaq	*√{#kaq#}
+
+<L>23586<pc>2-007-a<k1>kaqq<k2>*kaqq	*√{#kaqq#}
+
+<L>23587<pc>2-007-a<k1>kaR<k2>*kaR	*√{#kaR#}
+
+<L>23618<pc>2-007-b<k1>kaRw<k2>*kaRw	*√{#kaRw#}
+
+<L>23671<pc>2-008-a<k1>kaRW<k2>*kaRW	*√{#kaRW#}
+
+<L>23722<pc>2-008-b<k1>kaRq<k2>*kaRq	*√{#kaRq#}
+
+<L>23771<pc>2-009-a<k1>kaRvAy<k2>*kaRvAy	*!√{#kaRvAy#}
+
+<L>23810<pc>2-009-b<k1>katray<k2>*katray	*!√{#katray#}
+
+<L>24002<pc>2-012-a<k1>kanay<k2>*kanay	*!√{#kanay#}
+
+<L>24382<pc>2-016-c<k1>kab<k2>*kab	*√{#kab#}
+
+<L>24482<pc>2-018-a<k1>kamb<k2>*kamb	*√{#kamb#}
+
+<L>24902<pc>2-025-c<k1>karj<k2>*karj	*√{#karj#}
+
+<L>24989<pc>2-026-c<k1>karRay<k2>*karRay	*!√{#karRay#}
+
+<L>25083<pc>2-027-c<k1>kartay<k2>*kartay	*!√{#kartay#}
+
+<L>25114<pc>2-028-b<k1>karttray<k2>*karttray	*!√{#karttray#}
+
+<L>25118<pc>2-028-b<k1>kartrIy<k2>*kartrIy	*!√{#kartrIy#}
+
+<L>25120<pc>2-028-b<k1>kard<k2>*kard	*√{#kard#}
+
+<L>25172<pc>2-028-c<k1>karb<k2>*karb	*√{#karb#}
+
+<L>25319<pc>2-030-c<k1>karv<k2>*karv	*√{#karv#}
+
+<L>25410<pc>2-033-b<k1>kalay<k2>*kalay	*!√{#kalay#}
+
+<L>25711<pc>2-038-c<k1>kall<k2>*kall	*√{#kall#}
+
+<L>25728<pc>2-038-c<k1>kav<k2>*kav	*√{#kav#}
+
+<L>25833<pc>2-039-c<k1>kavy<k2>*kavy	*!√{#kavy#}
+
+<L>25840<pc>2-040-a<k1>kaS<k2>*kaS	*√{#kaS#}
+
+<L>25950<pc>2-041-b<k1>kAMs<k2>*kAMs	*√{#kAMs#}
+
+<L>26849<pc>2-052-c<k1>kArikeyIy<k2>*kArikeyIy	*!√{#kArikeyIy#}
+
+<L>27224<pc>2-057-c<k1>kAlay<k2>*kAlay	*!√{#kAlay#}
+
+<L>27780<pc>2-064-b<k1>kiMkAmy<k2>*kiMkAmy	*!√{#kiMkAmy#}
+
+<L>27817<pc>2-064-c<k1>kiw<k2>*kiw	*√{#kiw#}
+
+<L>27951<pc>2-066-c<k1>kiroqAwy<k2>*kiroqAwy	*!√{#kiroqAwy#}
+
+<L>27958<pc>2-066-c<k1>kil<k2>*kil	*√{#kil#}
+
+<L>27993<pc>2-067-b<k1>kizk<k2>*kizk	*√{#kizk#}
+
+<L>28019<pc>2-067-c<k1>kIw<k2>*kIw	*√{#kIw#}
+
+<L>28085<pc>2-068-b<k1>kIl<k2>*kIl	*√{#kIl#}
+
+<L>28113<pc>2-068-c<k1>kuMS<k2>*kuMS	*√{#kuMS#}
+
+<L>28115<pc>2-068-c<k1>kuMs<k2>*kuMs	*√{#kuMs#}
+
+<L>28117<pc>2-068-c<k1>kuk<k2>*kuk	*√{#kuk#}
+
+<L>28233<pc>2-070-b<k1>kuj<k2>*kuj	*√{#kuj#}
+
+<L>28333<pc>2-071-b<k1>kuwIy<k2>*kuwIy	*!√{#kuwIy#}
+
+<L>28341<pc>2-071-c<k1>kuwumbay<k2>*kuwumbay	*!√{#kuwumbay#}
+
+<L>28381<pc>2-072-a<k1>kuq<k2>*kuq	*√{#kuq#}
+
+<L>28407<pc>2-072-b<k1>kuR<k2>*kuR	*√{#kuR#}
+
+<L>28428<pc>2-072-c<k1>kuRw<k2>*kuRw	*√{#kuRw#}
+
+<L>28438<pc>2-072-c<k1>kuRq<k2>*kuRq	*√{#kuRq#}
+
+<L>28561<pc>2-074-c<k1>kud<k2>*kud	*√{#kud#}
+
+<L>28665<pc>2-075-c<k1>kundr<k2>*kundr	*√{#kundr#}
+
+<L>28801<pc>2-077-b<k1>kumAray<k2>*kumAray	*!√{#kumAray#}
+
+<L>28846<pc>2-077-c<k1>kumAlay<k2>*kumAlay	*!√{#kumAlay#}
+
+<L>28880<pc>2-078-b<k1>kump<k2>*kump	*√{#kump#}
+
+<L>28882<pc>2-078-b<k1>kumb<k2>*kumb	*√{#kumb#}
+
+<L>28886<pc>2-078-b<k1>kumB<k2>*kumB	*√{#kumB#}
+
+<L>29080<pc>2-080-c<k1>kurkurIy<k2>*kurkurIy	*!√{#kurkurIy#}
+
+<L>29403<pc>2-084-b<k1>kuS<k2>*kuS	*√{#kuS#}
+
+<L>29498<pc>2-085-b<k1>kuzuB<k2>*kuzuB	*√{#kuzuB#}
+
+<L>29526<pc>2-086-a<k1>kus<k2>*kus	*√{#kus#}
+
+<L>29600<pc>2-086-c<k1>kusumy<k2>*kusumy	*!√{#kusumy#}
+
+<L>29618<pc>2-086-c<k1>kusmay<k2>*kusmay	*!√{#kusmay#}
+
+<L>29635<pc>2-087-a<k1>kuhay<k2>*kuhay	*!√{#kuhay#}
+
+<L>29710<pc>2-088-a<k1>kUway<k2>*kUway	*!√{#kUway#}
+
+<L>29764<pc>2-088-c<k1>kUpay<k2>*kUpay	*!√{#kUpay#}
+
+<L>29906<pc>2-090-b<k1>kfq<k2>*kfq	*√{#kfq#}
+
+<L>29986<pc>2-091-b<k1>kftay<k2>*kftay	*!√{#kftay#}
+
+<L>30162<pc>2-093-c<k1>kfpaRAy<k2>*kfpaRAy	*!√{#kfpaRAy#}
+
+<L>30311<pc>2-095-a<k1>kfzR<k2>*kfzR	*√{#kfzR#}
+
+<L>30658<pc>2-099-a<k1>kep<k2>*kep	*√{#kep#}
+
+<L>30674<pc>2-099-a<k1>kel<k2>*kel	*√{#kel#}
+
+<L>30678<pc>2-099-a<k1>kelAy<k2>*kelAy	*!√{#kelAy#}
+
+<L>30714<pc>2-099-b<k1>kev<k2>*kev	*√{#kev#}
+
+<L>31022<pc>2-103-a<k1>kowAy<k2>*kowAy	*!√{#kowAy#}
+
+<L>31618<pc>2-110-a<k1>knaMs<k2>*knaMs	*√{#knaMs#}
+
+<L>31619<pc>2-110-a<k1>knaT<k2>*knaT	*√{#knaT#}
+
+<L>31620<pc>2-110-a<k1>knas<k2>*knas	*√{#knas#}
+
+<L>31626<pc>2-110-a<k1>kmar<k2>*kmar	*√{#kmar#}
+
+<L>31631<pc>2-110-a<k1>kraMS<k2>*kraMS	*√{#kraMS#}
+
+<L>31784<pc>2-114-a<k1>krav<k2>*krav	*√{#krav#}
+
+<L>31939<pc>2-116-a<k1>kruq<k2>*kruq	*√{#kruq#}
+
+<L>31945<pc>2-116-a<k1>krunT<k2>*krunT	*√{#krunT#}
+
+<L>32099<pc>2-118-a<k1>klad<k2>*klad	*√{#klad#}
+
+<L>32103<pc>2-118-a<k1>klap<k2>*klap	*√{#klap#}
+
+<L>32113<pc>2-118-b<k1>klind<k2>*klind	*√{#klind#}
+
+<L>32131<pc>2-118-c<k1>klIb<k2>*klIb	*√{#klIb#}
+
+<L>32138<pc>2-119-a<k1>klIbAy<k2>*klIbAy	*!√{#klIbAy#}
+
+<L>32139<pc>2-119-a<k1>klu<k2>*klu	*√{#klu#}
+
+<L>32147<pc>2-119-a<k1>kleS<k2>*kleS	*√{#kleS#}
+
+<L>32187<pc>2-119-c<k1>kvel<k2>*kvel	*√{#kvel#}
+
+<L>32356<pc>2-122-b<k1>kzamp<k2>*kzamp	*√{#kzamp#}
+
+<L>32483<pc>2-124-b<k1>kziR<k2>*kziR	*√{#kziR#}
+
+<L>32573<pc>2-126-b<k1>kziv<k2>*kziv	*√{#kziv#}
+
+<L>32575<pc>2-126-b<k1>kzIj<k2>*kzIj	*√{#kzIj#}
+
+<L>32682<pc>2-127-c<k1>kzIrasy<k2>*kzIrasy	*!√{#kzIrasy#}
+
+<L>32701<pc>2-127-c<k1>kzIrIy<k2>*kzIrIy	*!√{#kzIrIy#}
+
+<L>32874<pc>2-129-b<k1>kzump<k2>*kzump	*√{#kzump#}
+
+<L>32876<pc>2-129-c<k1>kzur<k2>*kzur	*√{#kzur#}
+
+<L>33067<pc>2-132-a<k1>kzow<k2>*kzow	*√{#kzow#}
+
+<L>33149<pc>2-133-a<k1>kzmIl<k2>*kzmIl	*√{#kzmIl#}
+
+<L>33170<pc>2-133-b<k1>KakK<k2>*KakK	*√{#KakK#}
+
+<L>33213<pc>2-133-c<k1>Kaj<k2>*Kaj	*√{#Kaj#}
+
+<L>33252<pc>2-134-a<k1>Kaww<k2>*Kaww	*√{#Kaww#}
+
+<L>33281<pc>2-134-b<k1>KawvIy<k2>*KawvIy	*!√{#KawvIy#}
+
+<L>33282<pc>2-134-b<k1>Kaq<k2>*Kaq	*√{#Kaq#}
+
+<L>33333<pc>2-135-a<k1>KaRq<k2>*KaRq	*√{#KaRq#}
+
+<L>33472<pc>2-137-a<k1>Kamb<k2>*Kamb	*√{#Kamb#}
+
+<L>33579<pc>2-138-a<k1>Karba<k2>*Karba	*√{#Karba#}
+
+<L>33583<pc>2-138-b<k1>Karv<k2>*Karv	*√{#Karv#}
+
+<L>33594<pc>2-138-b<k1>Kal<k2>*Kal	*√{#Kal#}
+
+<L>33650<pc>2-139-a<k1>Kav<k2>*Kav	*√{#Kav#}
+
+<L>33660<pc>2-139-a<k1>Kaz<k2>*Kaz	*√{#Kaz#}
+
+<L>33812<pc>2-140-c<k1>Kiw<k2>*Kiw	*√{#Kiw#}
+
+<L>33831<pc>2-141-a<k1>Ku<k2>*Ku	*√{#Ku#}
+
+<L>33834<pc>2-141-a<k1>Kuj<k2>*Kuj	*√{#Kuj#}
+
+<L>33836<pc>2-141-a<k1>Kuq<k2>*Kuq	*√{#Kuq#}
+
+<L>33844<pc>2-141-b<k1>KuRq<k2>*KuRq	*√{#KuRq#}
+
+<L>33849<pc>2-141-b<k1>Kur<k2>*Kur	*√{#Kur#}
+
+<L>33882<pc>2-141-c<k1>Kew<k2>*Kew	*√{#Kew#}
+
+<L>33896<pc>2-142-a<k1>Keq<k2>*Keq	*√{#Keq#}
+
+<L>33917<pc>2-142-a<k1>KelAy<k2>*KelAy	*!√{#KelAy#}
+
+<L>33920<pc>2-142-a<k1>Kev<k2>*Kev	*√{#Kev#}
+
+<L>33927<pc>2-142-b<k1>Kow<k2>*Kow	*√{#Kow#}
+
+<L>33931<pc>2-142-b<k1>Koq<k2>*Koq	*√{#Koq#}
+
+<L>33935<pc>2-142-b<k1>Kor<k2>*Kor	*√{#Kor#}
+
+<L>33940<pc>2-142-b<k1>Kol<k2>*Kol	*√{#Kol#}
+
+<L>33996<pc>2-143-c<k1>gagG<k2>*gagG	*√{#gagG#}
+
+<L>34054<pc>2-144-a<k1>gaj<k2>*gaj	*√{#gaj#}
+
+<L>34147<pc>2-145-a<k1>gaYj<k2>*gaYj	*√{#gaYj#}
+
+<L>34153<pc>2-145-a<k1>gaq<k2>*gaq	*√{#gaq#}
+
+<L>34304<pc>2-147-a<k1>gaRq<k2>*gaRq	*√{#gaRq#}
+
+<L>34449<pc>2-149-a<k1>gadgady<k2>*gadgady	*!√{#gadgady#}
+
+<L>34694<pc>2-155-a<k1>gamb<k2>*gamb	*√{#gamb#}
+
+<L>34842<pc>2-157-c<k1>gardaBay<k2>*gardaBay	*!√{#gardaBay#}
+
+<L>34864<pc>2-158-a<k1>garb<k2>*garb	*√{#garb#}
+
+<L>34998<pc>2-159-c<k1>garv<k2>*garv	*√{#garv#}
+
+<L>35059<pc>2-160-c<k1>galB<k2>*galB	*√{#galB#}
+
+<L>35061<pc>2-160-c<k1>galBAy<k2>*galBAy	*!√{#galBAy#}
+
+<L>35075<pc>2-160-c<k1>galh<k2>*galh	*√{#galh#}
+
+<L>35079<pc>2-160-c<k1>gavay<k2>*gavay	*!√{#gavay#}
+
+<L>35150<pc>2-161-c<k1>gahanAy<k2>*gahanAy	*!√{#gahanAy#}
+
+<L>35153<pc>2-161-c<k1>gahay<k2>*gahay	*!√{#gahay#}
+
+<L>35235<pc>2-163-b<k1>gAtray<k2>*gAtray	*!√{#gAtray#}
+
+<L>35262<pc>2-163-c<k1>gAD<k2>*gAD	*√{#gAD#}
+
+<L>35354<pc>2-165-a<k1>gArgIy<k2>*gArgIy	*!√{#gArgIy#}
+
+<L>35397<pc>2-165-c<k1>gAloqay<k2>*gAloqay	*!√{#gAloqay#}
+
+<L>35542<pc>2-167-b<k1>gIHkAmy<k2>*gIHkAmy	*!√{#gIHkAmy#}
+
+<L>35627<pc>2-168-b<k1>guq<k2>*guq	*√{#guq#}
+
+<L>35818<pc>2-171-a<k1>guRq<k2>*guRq	*√{#guRq#}
+
+<L>35852<pc>2-171-b<k1>guD<k2>*guD	*√{#guD#}
+
+<L>35856<pc>2-171-b<k1>gundr<k2>*gundr	*√{#gundr#}
+
+<L>35988<pc>2-173-b<k1>gurd<k2>*gurd	*√{#gurd#}
+
+<L>35990<pc>2-173-b<k1>gurv<k2>*gurv	*√{#gurv#}
+
+<L>36128<pc>2-175-a<k1>gUr<k2>*gUr	*√{#gUr#}
+
+<L>36137<pc>2-175-b<k1>gUrd<k2>*gUrd	*√{#gUrd#}
+
+<L>36273<pc>2-176-c<k1>gfhay<k2>*gfhay	*!√{#gfhay#}
+
+<L>36363<pc>2-177-c<k1>gep<k2>*gep	*√{#gep#}
+
+<L>36368<pc>2-178-a<k1>gev<k2>*gev	*√{#gev#}
+
+<L>36369<pc>2-178-a<k1>gez<k2>*gez	*√{#gez#}
+
+<L>36593<pc>2-180-c<k1>goDAy<k2>*goDAy	*!√{#goDAy#}
+
+<L>36785<pc>2-182-c<k1>gomaty<k2>*gomaty	*!√{#gomaty#}
+
+<L>36792<pc>2-183-a<k1>gomay<k2>*gomay	*!√{#gomay#}
+
+<L>36997<pc>2-185-a<k1>gozw<k2>*gozw	*√{#gozw#}
+
+<L>37496<pc>2-193-a<k1>grAmay<k2>*grAmay	*!√{#grAmay#}
+
+<L>37607<pc>2-194-c<k1>gruc<k2>*gruc	*√{#gruc#}
+
+<L>37622<pc>2-194-c<k1>glas<k2>*glas	*√{#glas#}
+
+<L>37635<pc>2-195-a<k1>gluc<k2>*gluc	*√{#gluc#}
+
+<L>37638<pc>2-195-a<k1>gluYc<k2>*gluYc	*√{#gluYc#}
+
+<L>37639<pc>2-195-a<k1>glep<k2>*glep	*√{#glep#}
+
+<L>37641<pc>2-195-a<k1>glev<k2>*glev	*√{#glev#}
+
+<L>37642<pc>2-195-a<k1>glez<k2>*glez	*√{#glez#}
+
+<L>37722<pc>2-196-c<k1>GaR<k2>*GaR	*√{#GaR#}
+
+<L>37723<pc>2-196-c<k1>GaRw<k2>*GaRw	*√{#GaRw#}
+
+<L>37828<pc>2-198-a<k1>Gamb<k2>*Gamb	*√{#Gamb#}
+
+<L>37840<pc>2-198-b<k1>GarR<k2>*GarR	*√{#GarR#}
+
+<L>37841<pc>2-198-b<k1>Garb<k2>*Garb	*√{#Garb#}
+
+<L>37923<pc>2-199-b<k1>GiR<k2>*GiR	*√{#GiR#}
+
+<L>37926<pc>2-199-b<k1>GuMz<k2>*GuMz	*√{#GuMz#}
+
+<L>37932<pc>2-199-b<k1>Guq<k2>*Guq	*√{#Guq#}
+
+<L>37933<pc>2-199-b<k1>GuR<k2>*GuR	*√{#GuR#}
+
+<L>37943<pc>2-199-c<k1>GuRR<k2>*GuRR	*√{#GuRR#}
+
+<L>37949<pc>2-199-c<k1>Gur<k2>*Gur	*√{#Gur#}
+
+<L>37974<pc>2-200-a<k1>GUr<k2>*GUr	*√{#GUr#}
+
+<L>38162<pc>2-202-b<k1>GraRR<k2>*GraRR	*√{#GraRR#}
+
+<L>38179<pc>2-202-c<k1>Nu<k2>*Nu	*√{#Nu#}
+
+<L>38194<pc>2-203-b<k1>cakk<k2>*cakk	*√{#cakk#}
+
+<L>38395<pc>2-206-a<k1>caG<k2>*caG	*√{#caG#}
+
+<L>38454<pc>2-206-c<k1>caR<k2>*caR	*√{#caR#}
+
+<L>38467<pc>2-206-c<k1>caRq<k2>*caRq	*√{#caRq#}
+
+<L>38710<pc>2-209-c<k1>catury<k2>*catury	*!√{#catury#}
+
+<L>38872<pc>2-211-c<k1>cad<k2>*cad	*√{#cad#}
+
+<L>38885<pc>2-212-a<k1>cand<k2>*cand	*√{#cand#}
+
+<L>39146<pc>2-215-a<k1>cap<k2>*cap	*√{#cap#}
+
+<L>39195<pc>2-215-c<k1>camp<k2>*camp	*√{#camp#}
+
+<L>39223<pc>2-216-a<k1>camb<k2>*camb	*√{#camb#}
+
+<L>39225<pc>2-216-a<k1>cay<k2>*cay	*!√{#cay#}
+
+<L>39286<pc>2-218-b<k1>caramy<k2>*caramy	*!√{#caramy#}
+
+<L>39333<pc>2-219-a<k1>carp<k2>*carp	*√{#carp#}
+
+<L>39336<pc>2-219-a<k1>carb<k2>*carb	*√{#carb#}
+
+<L>39474<pc>2-221-a<k1>caz<k2>*caz	*√{#caz#}
+
+<L>39480<pc>2-221-b<k1>cah<k2>*cah	*√{#cah#}
+
+<L>39836<pc>2-226-b<k1>cikk<k2>*cikk	*√{#cikk#}
+
+<L>39870<pc>2-226-c<k1>ciw<k2>*ciw	*√{#ciw#}
+
+<L>40297<pc>2-232-c<k1>cil<k2>*cil	*√{#cil#}
+
+<L>40306<pc>2-232-c<k1>cill<k2>*cill	*√{#cill#}
+
+<L>40329<pc>2-233-a<k1>cIk<k2>*cIk	*√{#cIk#}
+
+<L>40359<pc>2-233-b<k1>cIb<k2>*cIb	*√{#cIb#}
+
+<L>40360<pc>2-233-b<k1>cIB<k2>*cIB	*√{#cIB#}
+
+<L>40362<pc>2-233-b<k1>cIy<k2>*cIy	*!√{#cIy#}
+
+<L>40390<pc>2-233-c<k1>cIv<k2>*cIv	*√{#cIv#}
+
+<L>40399<pc>2-233-c<k1>cukk<k2>*cukk	*√{#cukk#}
+
+<L>40420<pc>2-234-a<k1>cucy<k2>*cucy	*!√{#cucy#}
+
+<L>40425<pc>2-234-a<k1>cuw<k2>*cuw	*√{#cuw#}
+
+<L>40426<pc>2-234-a<k1>cuww<k2>*cuww	*√{#cuww#}
+
+<L>40427<pc>2-234-a<k1>cuq<k2>*cuq	*√{#cuq#}
+
+<L>40428<pc>2-234-a<k1>cuqq<k2>*cuqq	*√{#cuqq#}
+
+<L>40429<pc>2-234-a<k1>cuR<k2>*cuR	*√{#cuR#}
+
+<L>40430<pc>2-234-a<k1>cuRw<k2>*cuRw	*√{#cuRw#}
+
+<L>40434<pc>2-234-a<k1>cuRW<k2>*cuRW	*√{#cuRW#}
+
+<L>40435<pc>2-234-a<k1>cuRq<k2>*cuRq	*√{#cuRq#}
+
+<L>40437<pc>2-234-b<k1>cut<k2>*cut	*√{#cut#}
+
+<L>40441<pc>2-234-b<k1>cund<k2>*cund	*√{#cund#}
+
+<L>40463<pc>2-234-c<k1>curaRy<k2>*curaRy	*!√{#curaRy#}
+
+<L>40470<pc>2-234-c<k1>cul<k2>*cul	*√{#cul#}
+
+<L>40481<pc>2-235-a<k1>culump<k2>*culump	*√{#culump#}
+
+<L>40485<pc>2-235-a<k1>cull<k2>*cull	*√{#cull#}
+
+<L>40522<pc>2-235-c<k1>cUR<k2>*cUR	*√{#cUR#}
+
+<L>40578<pc>2-236-b<k1>cet<k2>*cet	*√{#cet#}
+
+<L>40598<pc>2-236-c<k1>cetAy<k2>*cetAy	*!√{#cetAy#}
+
+<L>40622<pc>2-237-a<k1>cel<k2>*cel	*√{#cel#}
+
+<L>40636<pc>2-237-b<k1>cell<k2>*cell	*√{#cell#}
+
+<L>40970<pc>2-242-b<k1>Cam<k2>*Cam	*√{#Cam#}
+
+<L>40974<pc>2-242-b<k1>Camp<k2>*Camp	*√{#Camp#}
+
+<L>40994<pc>2-242-c<k1>Carp<k2>*Carp	*√{#Carp#}
+
+<L>41014<pc>2-243-a<k1>Caz<k2>*Caz	*√{#Caz#}
+
+<L>41136<pc>2-245-a<k1>CidrApay<k2>*CidrApay	*!√{#CidrApay#}
+
+<L>41170<pc>2-245-b<k1>Cup<k2>*Cup	*√{#Cup#}
+
+<L>41207<pc>2-246-a<k1>Cyu<k2>*Cyu	*√{#Cyu#}
+
+<L>41210<pc>2-246-b<k1>jaMs<k2>*jaMs	*√{#jaMs#}
+
+<L>41250<pc>2-246-c<k1>jagaty<k2>*jagaty	*!√{#jagaty#}
+
+<L>41339<pc>2-248-a<k1>jaNkz<k2>*jaNkz	*√{#jaNkz#}
+
+<L>41368<pc>2-248-b<k1>jaj<k2>*jaj	*√{#jaj#}
+
+<L>41379<pc>2-248-b<k1>jaw<k2>*jaw	*√{#jaw#}
+
+<L>41493<pc>2-251-a<k1>janagaty<k2>*janagaty	*!√{#janagaty#}
+
+<L>41946<pc>2-257-a<k1>jarc<k2>*jarc	*√{#jarc#}
+
+<L>41947<pc>2-257-a<k1>jarC<k2>*jarC	*√{#jarC#}
+
+<L>41948<pc>2-257-a<k1>jarj<k2>*jarj	*√{#jarj#}
+
+<L>41956<pc>2-257-a<k1>jarJ<k2>*jarJ	*√{#jarJ#}
+
+<L>41963<pc>2-257-a<k1>jarts<k2>*jarts	*√{#jarts#}
+
+<L>42329<pc>2-261-a<k1>jaz<k2>*jaz	*√{#jaz#}
+
+<L>42846<pc>2-268-a<k1>jim<k2>*jim	*√{#jim#}
+
+<L>42849<pc>2-268-a<k1>jiri<k2>*jiri	*√{#jiri#}
+
+<L>42854<pc>2-268-a<k1>jiz<k2>*jiz	*√{#jiz#}
+
+<L>43141<pc>2-272-a<k1>juNg<k2>*juNg	*√{#juNg#}
+
+<L>43143<pc>2-272-a<k1>juYc<k2>*juYc	*√{#juYc#}
+
+<L>43144<pc>2-272-a<k1>juw<k2>*juw	*√{#juw#}
+
+<L>43146<pc>2-272-a<k1>juq<k2>*juq	*√{#juq#}
+
+<L>43148<pc>2-272-a<k1>jut<k2>*jut	*√{#jut#}
+
+<L>43149<pc>2-272-a<k1>jun<k2>*jun	*√{#jun#}
+
+<L>43155<pc>2-272-b<k1>jul<k2>*jul	*√{#jul#}
+
+<L>43201<pc>2-273-a<k1>jUz<k2>*jUz	*√{#jUz#}
+
+<L>43228<pc>2-273-b<k1>jez<k2>*jez	*√{#jez#}
+
+<L>43423<pc>2-277-a<k1>jYAnIy<k2>*jYAnIy	*!√{#jYAnIy#}
+
+<L>43446<pc>2-277-b<k1>jYOdAnIy<k2>*jYOdAnIy	*!√{#jYOdAnIy#}
+
+<L>43463<pc>2-277-b<k1>jyApay<k2>*jyApay	*!√{#jyApay#}
+
+<L>43478<pc>2-277-c<k1>jyu<k2>*jyu	*√{#jyu#}
+
+<L>43526<pc>2-278-b<k1>jyo<k2>*jyo	*√{#jyo#}
+
+<L>43705<pc>2-281-a<k1>Jam<k2>*Jam	*√{#Jam#}
+
+<L>43738<pc>2-281-b<k1>Jaz<k2>*Jaz	*√{#Jaz#}
+
+<L>43783<pc>2-282-a<k1>JUz<k2>*JUz	*√{#JUz#}
+
+<L>43787<pc>2-282-a<k1>Jyu<k2>*Jyu	*√{#Jyu#}
+
+<L>43836<pc>2-282-c<k1>wik<k2>*wik	*√{#wik#}
+
+<L>43849<pc>2-282-c<k1>wip<k2>*wip	*√{#wip#}
+
+<L>43878<pc>2-283-a<k1>wOk<k2>*wOk	*√{#wOk#}
+
+<L>43880<pc>2-283-a<k1>wval<k2>*wval	*√{#wval#}
+
+<L>43899<pc>2-283-b<k1>qap<k2>*qap	*√{#qap#}
+
+<L>43907<pc>2-283-b<k1>qamp<k2>*qamp	*√{#qamp#}
+
+<L>43913<pc>2-283-b<k1>qamB<k2>*qamB	*√{#qamB#}
+
+<L>43953<pc>2-284-a<k1>qip<k2>*qip	*√{#qip#}
+
+<L>43960<pc>2-284-a<k1>qimB<k2>*qimB	*√{#qimB#}
+
+<L>44082<pc>3-002-a<k1>taNg<k2>*taNg	*√{#taNg#}
+
+<L>44094<pc>3-002-a<k1>taYj<k2>*taYj	*√{#taYj#}
+
+<L>44135<pc>3-002-c<k1>taRq<k2>*taRq	*√{#taRq#}
+
+<L>44463<pc>3-008-c<k1>tantasy<k2>*tantasy	*!√{#tantasy#}
+
+<L>44744<pc>3-013-b<k1>tamb<k2>*tamb	*√{#tamb#}
+
+<L>44777<pc>3-015-b<k1>taraRy<k2>*taraRy	*!√{#taraRy#}
+
+<L>44820<pc>3-015-c<k1>tariRy<k2>*tariRy	*!√{#tariRy#}
+
+<L>44935<pc>3-017-a<k1>tarkz<k2>*tarkz	*√{#tarkz#}
+
+<L>44967<pc>3-018-a<k1>tarP<k2>*tarP	*√{#tarP#}
+
+<L>44968<pc>3-018-a<k1>tarb<k2>*tarb	*√{#tarb#}
+
+<L>45637<pc>3-027-a<k1>tik<k2>*tik	*√{#tik#}
+
+<L>45669<pc>3-027-b<k1>tig<k2>*tig	*√{#tig#}
+
+<L>45705<pc>3-027-c<k1>tiG<k2>*tiG	*√{#tiG#}
+
+<L>45767<pc>3-028-b<k1>tip<k2>*tip	*√{#tip#}
+
+<L>45835<pc>3-029-b<k1>tirasy<k2>*tirasy	*!√{#tirasy#}
+
+<L>45989<pc>3-031-b<k1>till<k2>*till	*√{#till#}
+
+<L>46010<pc>3-031-b<k1>tIk<k2>*tIk	*√{#tIk#}
+
+<L>46064<pc>3-032-b<k1>tIm<k2>*tIm	*√{#tIm#}
+
+<L>46131<pc>3-033-a<k1>tIv<k2>*tIv	*√{#tIv#}
+
+<L>46217<pc>3-034-b<k1>tuw<k2>*tuw	*√{#tuw#}
+
+<L>46221<pc>3-034-b<k1>tuq<k2>*tuq	*√{#tuq#}
+
+<L>46224<pc>3-034-b<k1>tuqq<k2>*tuqq	*√{#tuqq#}
+
+<L>46225<pc>3-034-b<k1>tuR<k2>*tuR	*√{#tuR#}
+
+<L>46227<pc>3-034-b<k1>tuRq<k2>*tuRq	*√{#tuRq#}
+
+<L>46247<pc>3-034-c<k1>tutTay<k2>*tutTay	*!√{#tutTay#}
+
+<L>46254<pc>3-035-a<k1>tund<k2>*tund	*√{#tund#}
+
+<L>46273<pc>3-035-a<k1>tup<k2>*tup	*√{#tup#}
+
+<L>46274<pc>3-035-a<k1>tuP<k2>*tuP	*√{#tuP#}
+
+<L>46287<pc>3-035-b<k1>tump<k2>*tump	*√{#tump#}
+
+<L>46288<pc>3-035-b<k1>tumP<k2>*tumP	*√{#tumP#}
+
+<L>46289<pc>3-035-b<k1>tumb<k2>*tumb	*√{#tumb#}
+
+<L>46369<pc>3-036-b<k1>turIy<k2>*turIy	*!√{#turIy#}
+
+<L>46541<pc>3-038-c<k1>tus<k2>*tus	*√{#tus#}
+
+<L>46543<pc>3-038-c<k1>tuh<k2>*tuh	*√{#tuh#}
+
+<L>46561<pc>3-039-a<k1>tUq<k2>*tUq	*√{#tUq#}
+
+<L>46562<pc>3-039-a<k1>tUR<k2>*tUR	*√{#tUR#}
+
+<L>46617<pc>3-039-b<k1>tUl<k2>*tUl	*√{#tUl#}
+
+<L>46639<pc>3-039-c<k1>tUz<k2>*tUz	*√{#tUz#}
+
+<L>46805<pc>3-041-b<k1>tfpAy<k2>*tfpAy	*!√{#tfpAy#}
+
+<L>46810<pc>3-041-b<k1>tfptAy<k2>*tfptAy	*!√{#tfptAy#}
+
+<L>46857<pc>3-042-a<k1>tej<k2>*tej	*√{#tej#}
+
+<L>46917<pc>3-042-c<k1>tep<k2>*tep	*√{#tep#}
+
+<L>46924<pc>3-042-c<k1>tev<k2>*tev	*√{#tev#}
+
+<L>47045<pc>3-044-a<k1>toq<k2>*toq	*√{#toq#}
+
+<L>47211<pc>3-046-b<k1>traMs<k2>*traMs	*√{#traMs#}
+
+<L>47216<pc>3-046-b<k1>trand<k2>*trand	*√{#trand#}
+
+<L>47419<pc>3-049-b<k1>triNK<k2>*triNK	*√{#triNK#}
+
+<L>48100<pc>3-057-c<k1>trOk<k2>*trOk	*√{#trOk#}
+
+<L>48239<pc>3-059-b<k1>tvaYc<k2>*tvaYc	*√{#tvaYc#}
+
+<L>48251<pc>3-059-c<k1>tvady<k2>*tvady	*!√{#tvady#}
+
+<L>48264<pc>3-059-c<k1>tvarAyasy<k2>*tvarAyasy	*!√{#tvarAyasy#}
+
+<L>48333<pc>3-060-c<k1>Tarv<k2>*Tarv	*√{#Tarv#}
+
+<L>48335<pc>3-060-c<k1>Tuq<k2>*Tuq	*√{#Tuq#}
+
+<L>48389<pc>3-061-b<k1>daMh<k2>*daMh	*√{#daMh#}
+
+<L>48553<pc>3-063-c<k1>daNG<k2>*daNG	*√{#daNG#}
+
+<L>48756<pc>3-066-c<k1>daD<k2>*daD	*√{#daD#}
+
+<L>48811<pc>3-067-a<k1>daDisy<k2>*daDisy	*!√{#daDisy#}
+
+<L>48826<pc>3-067-b<k1>daDyasy<k2>*daDyasy	*!√{#daDyasy#}
+
+<L>48972<pc>3-069-a<k1>danv<k2>*danv	*√{#danv#}
+
+<L>48989<pc>3-069-b<k1>damadamAy<k2>*damadamAy	*!√{#damadamAy#}
+
+<L>49095<pc>3-071-b<k1>darP<k2>*darP	*√{#darP#}
+
+<L>49633<pc>3-081-a<k1>dAn<k2>*dAn	*√{#dAn#}
+
+<L>49734<pc>3-082-b<k1>dAmalihy<k2>*dAmalihy	*!√{#dAmalihy#}
+
+<L>49756<pc>3-082-c<k1>dAy<k2>*dAy	*!√{#dAy#}
+
+<L>50238<pc>3-088-a<k1>dinv<k2>*dinv	*√{#dinv#}
+
+<L>50239<pc>3-088-b<k1>dip<k2>*dip	*√{#dip#}
+
+<L>50242<pc>3-088-b<k1>dimp<k2>*dimp	*√{#dimp#}
+
+<L>50243<pc>3-088-b<k1>dimB<k2>*dimB	*√{#dimB#}
+
+<L>50358<pc>3-089-c<k1>divy<k2>*divy	*!√{#divy#}
+
+<L>50819<pc>3-097-c<k1>duHKy<k2>*duHKy	*!√{#duHKy#}
+
+<L>50942<pc>3-099-a<k1>duray<k2>*duray	*!√{#duray#}
+
+<L>51202<pc>3-102-a<k1>durdinAy<k2>*durdinAy	*!√{#durdinAy#}
+
+<L>51367<pc>3-104-b<k1>durv<k2>*durv	*√{#durv#}
+
+<L>51486<pc>3-105-c<k1>dulay<k2>*dulay	*!√{#dulay#}
+
+<L>51605<pc>3-107-a<k1>duzwIy<k2>*duzwIy	*!√{#duzwIy#}
+
+<L>52076<pc>3-113-a<k1>dfzady<k2>*dfzady	*!√{#dfzady#}
+
+<L>53325<pc>3-127-c<k1>dravaty<k2>*dravaty	*!√{#dravaty#}
+
+<L>53337<pc>3-127-c<k1>dravasy<k2>*dravasy	*!√{#dravasy#}
+
+<L>53353<pc>3-128-a<k1>draviRIy<k2>*draviRIy	*!√{#draviRIy#}
+
+<L>53408<pc>3-128-c<k1>drAK<k2>*drAK	*√{#drAK#}
+
+<L>53410<pc>3-128-c<k1>drAG<k2>*drAG	*√{#drAG#}
+
+<L>53418<pc>3-129-a<k1>drANkz<k2>*drANkz	*√{#drANkz#}
+
+<L>53441<pc>3-129-b<k1>drAh<k2>*drAh	*√{#drAh#}
+
+<L>53457<pc>3-130-a<k1>druq<k2>*druq	*√{#druq#}
+
+<L>53458<pc>3-130-a<k1>druR<k2>*druR	*√{#druR#}
+
+<L>53511<pc>3-130-c<k1>drumm<k2>*drumm	*√{#drumm#}
+
+<L>53529<pc>3-131-a<k1>drUq<k2>*drUq	*√{#drUq#}
+
+<L>53639<pc>3-132-b<k1>dvar<k2>*dvar	*√{#dvar#}
+
+<L>54342<pc>3-140-b<k1>Dakk<k2>*Dakk	*√{#Dakk#}
+
+<L>54351<pc>3-140-b<k1>DaR<k2>*DaR	*√{#DaR#}
+
+<L>54464<pc>3-141-c<k1>DanIy<k2>*DanIy	*!√{#DanIy#}
+
+<L>54658<pc>3-146-a<k1>Darj<k2>*Darj	*√{#Darj#}
+
+<L>54668<pc>3-146-b<k1>Darm<k2>*Darm	*√{#Darm#}
+
+<L>54953<pc>3-149-c<k1>DarmAy<k2>*DarmAy	*!√{#DarmAy#}
+
+<L>55379<pc>3-160-c<k1>Dikz<k2>*Dikz	*√{#Dikz#}
+
+<L>55387<pc>3-160-c<k1>Diy<k2>*Diy	*!√{#Diy#}
+
+<L>55644<pc>3-165-a<k1>DUr<k2>*DUr	*√{#DUr#}
+
+<L>55698<pc>3-165-b<k1>DUs<k2>*DUs	*√{#DUs#}
+
+<L>55822<pc>3-167-b<k1>Dor<k2>*Dor	*√{#Dor#}
+
+<L>55866<pc>3-167-c<k1>DmANkz<k2>*DmANkz	*√{#DmANkz#}
+
+<L>55932<pc>3-168-c<k1>DraR<k2>*DraR	*√{#DraR#}
+
+<L>55933<pc>3-168-c<k1>Dras<k2>*Dras	*√{#Dras#}
+
+<L>55934<pc>3-168-c<k1>DrA<k2>*DrA	*√{#DrA#}
+
+<L>55937<pc>3-168-c<k1>DrAG<k2>*DrAG	*√{#DrAG#}
+
+<L>55938<pc>3-169-a<k1>DrANkz<k2>*DrANkz	*√{#DrANkz#}
+
+<L>55943<pc>3-169-a<k1>DrAq<k2>*DrAq	*√{#DrAq#}
+
+<L>55946<pc>3-169-a<k1>Drij<k2>*Drij	*√{#Drij#}
+
+<L>55954<pc>3-169-a<k1>Druv<k2>*Druv	*√{#Druv#}
+
+<L>55999<pc>3-169-c<k1>Drek<k2>*Drek	*√{#Drek#}
+
+<L>56049<pc>3-170-c<k1>DvaYj<k2>*DvaYj	*√{#DvaYj#}
+
+<L>56050<pc>3-170-c<k1>DvaR<k2>*DvaR	*√{#DvaR#}
+
+<L>56113<pc>3-171-b<k1>DvraR<k2>*DvraR	*√{#DvraR#}
+
+<L>56148<pc>3-172-b<k1>nakk<k2>*nakk	*√{#nakk#}
+
+<L>56241<pc>3-173-b<k1>naK<k2>*naK	*√{#naK#}
+
+<L>56371<pc>3-174-c<k1>naNK<k2>*naNK	*√{#naNK#}
+
+<L>56376<pc>3-174-c<k1>naj<k2>*naj	*√{#naj#}
+
+<L>56406<pc>3-175-a<k1>naq<k2>*naq	*√{#naq#}
+
+<L>56618<pc>3-178-b<k1>nandy<k2>*nandy	*!√{#nandy#}
+
+<L>56745<pc>3-181-a<k1>namb<k2>*namb	*√{#namb#}
+
+<L>56755<pc>3-181-a<k1>nay<k2>*nay	*!√{#nay#}
+
+<L>56982<pc>3-184-a<k1>narb<k2>*narb	*√{#narb#}
+
+<L>57011<pc>3-184-b<k1>nal<k2>*nal	*√{#nal#}
+
+<L>58100<pc>3-198-c<k1>nAvy<k2>*nAvy	*!√{#nAvy#}
+
+<L>58631<pc>3-205-c<k1>ninv<k2>*ninv	*√{#ninv#}
+
+<L>59359<pc>3-216-a<k1>nirDAway<k2>*nirDAway	*!√{#nirDAway#}
+
+<L>59737<pc>3-221-a<k1>nil<k2>*nil	*√{#nil#}
+
+<L>60022<pc>3-224-c<k1>niz<k2>*niz	*√{#niz#}
+
+<L>60086<pc>3-225-c<k1>nizkay<k2>*nizkay	*!√{#nizkay#}
+
+<L>60538<pc>3-233-b<k1>nIcy<k2>*nIcy	*!√{#nIcy#}
+
+<L>60799<pc>3-236-c<k1>nIv<k2>*nIv	*√{#nIv#}
+
+<L>60821<pc>3-237-a<k1>nIhArAy<k2>*nIhArAy	*!√{#nIhArAy#}
+
+<L>60830<pc>3-237-b<k1>nuq<k2>*nuq	*√{#nuq#}
+
+<L>61146<pc>3-241-b<k1>nez<k2>*nez	*√{#nez#}
+
+<L>61592<pc>4-001-c<k1>pakz<k2>*pakz	*√{#pakz#}
+
+<L>61793<pc>4-004-c<k1>paYc<k2>*paYc	*√{#paYc#}
+
+<L>62224<pc>4-010-a<k1>paYj<k2>*paYj	*√{#paYj#}
+
+<L>62247<pc>4-010-c<k1>pawapawAy<k2>*pawapawAy	*!√{#pawapawAy#}
+
+<L>62251<pc>4-010-c<k1>paway<k2>*paway	*!√{#paway#}
+
+<L>62392<pc>4-012-c<k1>paRasy<k2>*paRasy	*!√{#paRasy#}
+
+<L>62407<pc>4-012-c<k1>paRq<k2>*paRq	*√{#paRq#}
+
+<L>62422<pc>4-013-a<k1>paRqitAy<k2>*paRqitAy	*!√{#paRqitAy#}
+
+<L>62705<pc>4-018-b<k1>paTIn<k2>*paTIn	*√{#paTIn#}
+
+<L>62758<pc>4-022-b<k1>paday<k2>*paday	*!√{#paday#}
+
+<L>63027<pc>4-026-b<k1>panT<k2>*panT	*√{#panT#}
+
+<L>63056<pc>4-026-c<k1>papasy<k2>*papasy	*!√{#papasy#}
+
+<L>63067<pc>4-026-c<k1>pampasy<k2>*pampasy	*!√{#pampasy#}
+
+<L>63069<pc>4-026-c<k1>pamb<k2>*pamb	*√{#pamb#}
+
+<L>63070<pc>4-026-c<k1>pay<k2>*pay	*!√{#pay#}
+
+<L>63086<pc>4-027-a<k1>payaskAmy<k2>*payaskAmy	*!√{#payaskAmy#}
+
+<L>63093<pc>4-027-a<k1>payasy<k2>*payasy	*!√{#payasy#}
+
+<L>63099<pc>4-027-a<k1>payAy<k2>*payAy	*!√{#payAy#}
+
+<L>63892<pc>4-040-a<k1>paridraQay<k2>*paridraQay	*!√{#paridraQay#}
+
+<L>63984<pc>4-041-b<k1>paripucCay<k2>*paripucCay	*!√{#paripucCay#}
+
+<L>64278<pc>4-045-a<k1>parivraQay<k2>*parivraQay	*!√{#parivraQay#}
+
+<L>64338<pc>4-046-a<k1>parizeRay<k2>*parizeRay	*!√{#parizeRay#}
+
+<L>64394<pc>4-047-a<k1>parisAvakIy<k2>*parisAvakIy	*!√{#parisAvakIy#}
+
+<L>64625<pc>4-050-a<k1>parj<k2>*parj	*√{#parj#}
+
+<L>64666<pc>4-050-c<k1>parRay<k2>*parRay	*!√{#parRay#}
+
+<L>64711<pc>4-051-b<k1>parT<k2>*parT	*√{#parT#}
+
+<L>64712<pc>4-051-b<k1>pard<k2>*pard	*√{#pard#}
+
+<L>64726<pc>4-051-b<k1>parb<k2>*parb	*√{#parb#}
+
+<L>64858<pc>4-053-b<k1>parv<k2>*parv	*√{#parv#}
+
+<L>64942<pc>4-054-b<k1>parz<k2>*parz	*√{#parz#}
+
+<L>64953<pc>4-054-b<k1>pal<k2>*pal	*√{#pal#}
+
+<L>65035<pc>4-055-c<k1>pall<k2>*pall	*√{#pall#}
+
+<L>65068<pc>4-056-a<k1>pav<k2>*pav	*√{#pav#}
+
+<L>65296<pc>4-059-c<k1>paz<k2>*paz	*√{#paz#}
+
+<L>65298<pc>4-059-c<k1>pas<k2>*pas	*√{#pas#}
+
+<L>65881<pc>4-068-a<k1>pAday<k2>*pAday	*!√{#pAday#}
+
+<L>66045<pc>4-070-a<k1>pApakfty<k2>*pApakfty	*!√{#pApakfty#}
+
+<L>66122<pc>4-070-c<k1>pApAy<k2>*pApAy	*!√{#pApAy#}
+
+<L>66698<pc>4-079-a<k1>piMs<k2>*piMs	*√{#piMs#}
+
+<L>66785<pc>4-080-c<k1>piC<k2>*piC	*√{#piC#}
+
+<L>66818<pc>4-081-a<k1>piW<k2>*piW	*√{#piW#}
+
+<L>67155<pc>4-085-c<k1>pil<k2>*pil	*√{#pil#}
+
+<L>67430<pc>4-090-a<k1>pIl<k2>*pIl	*√{#pIl#}
+
+<L>67444<pc>4-090-b<k1>pIv<k2>*pIv	*√{#pIv#}
+
+<L>67541<pc>4-091-b<k1>puC<k2>*puC	*√{#puC#}
+
+<L>67579<pc>4-092-a<k1>puww<k2>*puww	*√{#puww#}
+
+<L>67580<pc>4-092-a<k1>puq<k2>*puq	*√{#puq#}
+
+<L>67581<pc>4-092-a<k1>puR<k2>*puR	*√{#puR#}
+
+<L>67584<pc>4-092-a<k1>puRw<k2>*puRw	*√{#puRw#}
+
+<L>67585<pc>4-092-a<k1>puRq<k2>*puRq	*√{#puRq#}
+
+<L>67931<pc>4-096-c<k1>punT<k2>*punT	*√{#punT#}
+
+<L>68083<pc>4-099-a<k1>purARy<k2>*purARy	*!√{#purARy#}
+
+<L>68126<pc>4-099-b<k1>purIzay<k2>*purIzay	*!√{#purIzay#}
+
+<L>68432<pc>4-103-a<k1>pul<k2>*pul	*√{#pul#}
+
+<L>68742<pc>4-107-c<k1>pus<k2>*pus	*√{#pus#}
+
+<L>68743<pc>4-107-c<k1>pust<k2>*pust	*√{#pust#}
+
+<L>68753<pc>4-108-b<k1>pUHkAmy<k2>*pUHkAmy	*!√{#pUHkAmy#}
+
+<L>68790<pc>4-109-a<k1>pUR<k2>*pUR	*√{#pUR#}
+
+<L>69019<pc>4-112-a<k1>pUrv<k2>*pUrv	*√{#pUrv#}
+
+<L>69305<pc>4-115-c<k1>pUl<k2>*pUl	*√{#pUl#}
+
+<L>69312<pc>4-115-c<k1>pUz<k2>*pUz	*√{#pUz#}
+
+<L>69722<pc>4-120-c<k1>peR<k2>*peR	*√{#peR#}
+
+<L>69726<pc>4-120-c<k1>peb<k2>*peb	*√{#peb#}
+
+<L>69739<pc>4-121-a<k1>pel<k2>*pel	*√{#pel#}
+
+<L>69746<pc>4-121-a<k1>pev<k2>*pev	*√{#pev#}
+
+<L>69767<pc>4-121-b<k1>pez<k2>*pez	*√{#pez#}
+
+<L>69783<pc>4-121-b<k1>pes<k2>*pes	*√{#pes#}
+
+<L>69824<pc>4-121-c<k1>pER<k2>*pER	*√{#pER#}
+
+<L>69897<pc>4-122-c<k1>powAy<k2>*powAy	*!√{#powAy#}
+
+<L>70197<pc>4-126-b<k1>pyuz<k2>*pyuz	*√{#pyuz#}
+
+<L>70198<pc>4-126-b<k1>pyus<k2>*pyus	*√{#pyus#}
+
+<L>71784<pc>4-149-c<k1>pratIpAy<k2>*pratIpAy	*!√{#pratIpAy#}
+
+<L>72978<pc>4-167-b<k1>prarkzIy<k2>*prarkzIy	*!√{#prarkzIy#}
+
+<L>72981<pc>4-167-b<k1>prarzaBIy<k2>*prarzaBIy	*!√{#prarzaBIy#}
+
+<L>73039<pc>4-168-a<k1>pralkArIy<k2>*pralkArIy	*!√{#pralkArIy#}
+
+<L>73439<pc>4-173-c<k1>pras<k2>*pras	*√{#pras#}
+
+<L>73655<pc>4-177-b<k1>prasnavitrIy<k2>*prasnavitrIy	*!√{#prasnavitrIy#}
+
+<L>74521<pc>4-189-c<k1>prArkzIy<k2>*prArkzIy	*!√{#prArkzIy#}
+
+<L>74542<pc>4-189-c<k1>prArzaBIy<k2>*prArzaBIy	*!√{#prArzaBIy#}
+
+<L>74553<pc>4-190-a<k1>prAlkArIy<k2>*prAlkArIy	*!√{#prAlkArIy#}
+
+<L>74579<pc>4-190-b<k1>prAvArIy<k2>*prAvArIy	*!√{#prAvArIy#}
+
+<L>74673<pc>4-191-b<k1>prAsAdIy<k2>*prAsAdIy	*!√{#prAsAdIy#}
+
+<L>74859<pc>4-194-b<k1>pruzwAy<k2>*pruzwAy	*!√{#pruzwAy#}
+
+<L>74861<pc>4-194-b<k1>pruzvAy<k2>*pruzvAy	*!√{#pruzvAy#}
+
+<L>74864<pc>4-194-b<k1>prekIy<k2>*prekIy	*!√{#prekIy#}
+
+<L>74897<pc>4-195-a<k1>preR<k2>*preR	*√{#preR#}
+
+<L>75015<pc>4-196-b<k1>prEkIy<k2>*prEkIy	*!√{#prEkIy#}
+
+<L>75016<pc>4-196-b<k1>prER<k2>*prER	*√{#prER#}
+
+<L>75045<pc>4-196-c<k1>proGIy<k2>*proGIy	*!√{#proGIy#}
+
+<L>75107<pc>4-197-b<k1>prOGIy<k2>*prOGIy	*!√{#prOGIy#}
+
+<L>75129<pc>4-197-c<k1>plakz<k2>*plakz	*√{#plakz#}
+
+<L>75144<pc>4-197-c<k1>plab<k2>*plab	*√{#plab#}
+
+<L>75178<pc>4-198-b<k1>plih<k2>*plih	*√{#plih#}
+
+<L>75180<pc>4-198-b<k1>plI<k2>*plI	*√{#plI#}
+
+<L>75203<pc>4-199-c<k1>pluzwAy<k2>*pluzwAy	*!√{#pluzwAy#}
+
+<L>75204<pc>4-199-c<k1>plus<k2>*plus	*√{#plus#}
+
+<L>75206<pc>4-199-c<k1>plev<k2>*plev	*√{#plev#}
+
+<L>75290<pc>4-200-c<k1>Parv<k2>*Parv	*√{#Parv#}
+
+<L>75484<pc>4-203-b<k1>PalP<k2>*PalP	*√{#PalP#}
+
+<L>75590<pc>4-204-c<k1>Pel<k2>*Pel	*√{#Pel#}
+
+<L>75651<pc>4-205-b<k1>bad<k2>*bad	*√{#bad#}
+
+<L>75751<pc>4-206-b<k1>band<k2>*band	*√{#band#}
+
+<L>75854<pc>4-209-b<k1>bamb<k2>*bamb	*√{#bamb#}
+
+<L>75870<pc>4-209-c<k1>barb<k2>*barb	*√{#barb#}
+
+<L>76163<pc>4-214-a<k1>bahay<k2>*bahay	*!√{#bahay#}
+
+<L>76603<pc>4-219-b<k1>bAq<k2>*bAq	*√{#bAq#}
+
+<L>76988<pc>4-224-c<k1>biw<k2>*biw	*√{#biw#}
+
+<L>76991<pc>4-224-c<k1>biq<k2>*biq	*√{#biq#}
+
+<L>77071<pc>4-225-c<k1>bil<k2>*bil	*√{#bil#}
+
+<L>77118<pc>4-226-b<k1>biS<k2>*biS	*√{#biS#}
+
+<L>77122<pc>4-226-b<k1>bis<k2>*bis	*√{#bis#}
+
+<L>77206<pc>4-227-b<k1>bIB<k2>*bIB	*√{#bIB#}
+
+<L>77218<pc>4-227-c<k1>bukk<k2>*bukk	*√{#bukk#}
+
+<L>77227<pc>4-227-c<k1>buNg<k2>*buNg	*√{#buNg#}
+
+<L>77228<pc>4-227-c<k1>buw<k2>*buw	*√{#buw#}
+
+<L>77229<pc>4-227-c<k1>buq<k2>*buq	*√{#buq#}
+
+<L>77232<pc>4-227-c<k1>bud<k2>*bud	*√{#bud#}
+
+<L>77362<pc>4-230-a<k1>bunD<k2>*bunD	*√{#bunD#}
+
+<L>77387<pc>4-230-b<k1>bus<k2>*bus	*√{#bus#}
+
+<L>77390<pc>4-230-b<k1>bust<k2>*bust	*√{#bust#}
+
+<L>77656<pc>4-233-b<k1>beS<k2>*beS	*√{#beS#}
+
+<L>77777<pc>4-235-a<k1>brahm<k2>*brahm	*√{#brahm#}
+
+<L>78627<pc>4-248-a<k1>BaRw<k2>*BaRw	*√{#BaRw#}
+
+<L>78879<pc>4-252-a<k1>BaraRy<k2>*BaraRy	*!√{#BaraRy#}
+
+<L>79001<pc>4-253-b<k1>Ball<k2>*Ball	*√{#Ball#}
+
+<L>79795<pc>4-265-c<k1>Bikzy<k2>*Bikzy	*!√{#Bikzy#}
+
+<L>79870<pc>4-267-c<k1>Bil<k2>*Bil	*√{#Bil#}
+
+<L>80136<pc>4-271-b<k1>BuRq<k2>*BuRq	*√{#BuRq#}
+
+<L>80820<pc>4-282-b<k1>BfRIy<k2>*BfRIy	*!√{#BfRIy#}
+
+<L>80843<pc>4-282-c<k1>BfS<k2>*BfS	*√{#BfS#}
+
+<L>80913<pc>4-284-a<k1>Bez<k2>*Bez	*√{#Bez#}
+
+<L>81169<pc>4-288-a<k1>Brakz<k2>*Brakz	*√{#Brakz#}
+
+<L>81177<pc>4-288-a<k1>Braq<k2>*Braq	*√{#Braq#}
+
+<L>81178<pc>4-288-a<k1>BraR<k2>*BraR	*√{#BraR#}
+
+<L>81209<pc>4-289-a<k1>BramAy<k2>*BramAy	*!√{#BramAy#}
+
+<L>81289<pc>4-290-a<k1>BrAS<k2>*BrAS	*√{#BrAS#}
+
+<L>81308<pc>4-290-b<k1>Bruq<k2>*Bruq	*√{#Bruq#}
+
+<L>81319<pc>4-290-b<k1>BrUR<k2>*BrUR	*√{#BrUR#}
+
+<L>81335<pc>4-290-c<k1>Brej<k2>*Brej	*√{#Brej#}
+
+<L>81341<pc>4-290-c<k1>Blakz<k2>*Blakz	*√{#Blakz#}
+
+<L>81342<pc>4-290-c<k1>BlAS<k2>*BlAS	*√{#BlAS#}
+
+<L>81343<pc>4-290-c<k1>BlAs<k2>*BlAs	*√{#BlAs#}
+
+<L>81344<pc>4-290-c<k1>Blez<k2>*Blez	*√{#Blez#}
+
+<L>81412<pc>5-002-a<k1>makk<k2>*makk	*√{#makk#}
+
+<L>81431<pc>5-002-a<k1>maK<k2>*maK	*√{#maK#}
+
+<L>81464<pc>5-002-b<k1>magaDy<k2>*magaDy	*!√{#magaDy#}
+
+<L>81485<pc>5-002-c<k1>maNk<k2>*maNk	*√{#maNk#}
+
+<L>81495<pc>5-002-c<k1>maNK<k2>*maNK	*√{#maNK#}
+
+<L>81501<pc>5-003-a<k1>maNg<k2>*maNg	*√{#maNg#}
+
+<L>81581<pc>5-004-a<k1>maNG<k2>*maNG	*√{#maNG#}
+
+<L>81582<pc>5-004-a<k1>mac<k2>*mac	*√{#mac#}
+
+<L>81633<pc>5-005-a<k1>maYj<k2>*maYj	*√{#maYj#}
+
+<L>81689<pc>5-005-c<k1>mawAmawAy<k2>*mawAmawAy	*!√{#mawAmawAy#}
+
+<L>81695<pc>5-005-c<k1>maW<k2>*maW	*√{#maW#}
+
+<L>81712<pc>5-005-c<k1>maR<k2>*maR	*√{#maR#}
+
+<L>82087<pc>5-011-b<k1>maTIn<k2>*maTIn	*√{#maTIn#}
+
+<L>82273<pc>5-014-b<k1>mady<k2>*mady	*!√{#mady#}
+
+<L>82307<pc>5-014-c<k1>madrAy<k2>*madrAy	*!√{#madrAy#}
+
+<L>82310<pc>5-014-c<k1>madrikAy<k2>*madrikAy	*!√{#madrikAy#}
+
+<L>82578<pc>5-018-a<k1>maDusy<k2>*maDusy	*!√{#maDusy#}
+
+<L>82597<pc>5-018-b<k1>maDUy<k2>*maDUy	*!√{#maDUy#}
+
+<L>82753<pc>5-020-b<k1>maDvasy<k2>*maDvasy	*!√{#maDvasy#}
+
+<L>83062<pc>5-025-c<k1>mantUy<k2>*mantUy	*!√{#mantUy#}
+
+<L>83371<pc>5-030-a<k1>mandray<k2>*mandray	*!√{#mandray#}
+
+<L>83422<pc>5-030-c<k1>maBr<k2>*maBr	*√{#maBr#}
+
+<L>83435<pc>5-031-a<k1>mamb<k2>*mamb	*√{#mamb#}
+
+<L>83441<pc>5-031-a<k1>may<k2>*may	*!√{#may#}
+
+<L>83644<pc>5-033-c<k1>mark<k2>*mark	*√{#mark#}
+
+<L>83702<pc>5-035-c<k1>marb<k2>*marb	*√{#marb#}
+
+<L>83762<pc>5-036-b<k1>marv<k2>*marv	*√{#marv#}
+
+<L>83772<pc>5-037-a<k1>mal<k2>*mal	*√{#mal#}
+
+<L>83886<pc>5-038-b<k1>mall<k2>*mall	*√{#mall#}
+
+<L>83957<pc>5-039-b<k1>mavy<k2>*mavy	*!√{#mavy#}
+
+<L>83958<pc>5-039-b<k1>maS<k2>*maS	*√{#maS#}
+
+<L>83972<pc>5-039-b<k1>maz<k2>*maz	*√{#maz#}
+
+<L>83991<pc>5-039-c<k1>mazk<k2>*mazk	*√{#mazk#}
+
+<L>84022<pc>5-040-a<k1>mask<k2>*mask	*√{#mask#}
+
+<L>84569<pc>5-046-c<k1>mahAputrIy<k2>*mahAputrIy	*!√{#mahAputrIy#}
+
+<L>85678<pc>5-061-b<k1>mANkz<k2>*mANkz	*√{#mANkz#}
+
+<L>85716<pc>5-062-a<k1>mAq<k2>*mAq	*√{#mAq#}
+
+<L>85785<pc>5-063-a<k1>mAtay<k2>*mAtay	*!√{#mAtay#}
+
+<L>86061<pc>5-067-a<k1>mAn<k2>*mAn	*√{#mAn#}
+
+<L>86212<pc>5-069-b<k1>mAnT<k2>*mAnT	*√{#mAnT#}
+
+<L>86447<pc>5-072-b<k1>mArj<k2>*mArj	*√{#mArj#}
+
+<L>86577<pc>5-074-c<k1>mAlIy<k2>*mAlIy	*!√{#mAlIy#}
+
+<L>86686<pc>5-076-a<k1>mAh<k2>*mAh	*√{#mAh#}
+
+<L>86757<pc>5-077-a<k1>miC<k2>*miC	*√{#miC#}
+
+<L>86758<pc>5-077-a<k1>miYj<k2>*miYj	*√{#miYj#}
+
+<L>86902<pc>5-079-a<k1>miTunAy<k2>*miTunAy	*!√{#miTunAy#}
+
+<L>86979<pc>5-080-a<k1>mind<k2>*mind	*√{#mind#}
+
+<L>86983<pc>5-080-a<k1>minv<k2>*minv	*√{#minv#}
+
+<L>87008<pc>5-080-b<k1>miS<k2>*miS	*√{#miS#}
+
+<L>87055<pc>5-081-b<k1>mis<k2>*mis	*√{#mis#}
+
+<L>87435<pc>5-088-a<k1>muC<k2>*muC	*√{#muC#}
+
+<L>87475<pc>5-088-c<k1>muq<k2>*muq	*√{#muq#}
+
+<L>87476<pc>5-088-c<k1>muR<k2>*muR	*√{#muR#}
+
+<L>87477<pc>5-088-c<k1>muRw<k2>*muRw	*√{#muRw#}
+
+<L>87478<pc>5-088-c<k1>muRW<k2>*muRW	*√{#muRW#}
+
+<L>87479<pc>5-088-c<k1>muRq<k2>*muRq	*√{#muRq#}
+
+<L>87682<pc>5-091-b<k1>murmurIy<k2>*murmurIy	*!√{#murmurIy#}
+
+<L>87683<pc>5-091-c<k1>murv<k2>*murv	*√{#murv#}
+
+<L>87685<pc>5-091-c<k1>mul<k2>*mul	*√{#mul#}
+
+<L>87742<pc>5-092-b<k1>mus<k2>*mus	*√{#mus#}
+
+<L>87755<pc>5-092-b<k1>must<k2>*must	*√{#must#}
+
+<L>87932<pc>5-095-c<k1>mUl<k2>*mUl	*√{#mUl#}
+
+<L>88704<pc>5-105-a<k1>mew<k2>*mew	*√{#mew#}
+
+<L>88709<pc>5-105-a<k1>meq<k2>*meq	*√{#meq#}
+
+<L>88788<pc>5-106-a<k1>meDAy<k2>*meDAy	*!√{#meDAy#}
+
+<L>88818<pc>5-106-b<k1>mep<k2>*mep	*√{#mep#}
+
+<L>88819<pc>5-106-b<k1>meb<k2>*meb	*√{#meb#}
+
+<L>88872<pc>5-107-a<k1>mev<k2>*mev	*√{#mev#}
+
+<L>89276<pc>5-113-a<k1>mruYc<k2>*mruYc	*√{#mruYc#}
+
+<L>89277<pc>5-113-a<k1>mrew<k2>*mrew	*√{#mrew#}
+
+<L>89282<pc>5-113-a<k1>mlakz<k2>*mlakz	*√{#mlakz#}
+
+<L>89297<pc>5-113-b<k1>mluYc<k2>*mluYc	*√{#mluYc#}
+
+<L>89313<pc>5-113-c<k1>mlev<k2>*mlev	*√{#mlev#}
+
+<L>89428<pc>5-116-a<k1>yajuzkAmy<k2>*yajuzkAmy	*!√{#yajuzkAmy#}
+
+<L>90462<pc>5-132-b<k1>yavamaty<k2>*yavamaty	*!√{#yavamaty#}
+
+<L>90470<pc>5-132-b<k1>yavay<k2>*yavay	*!√{#yavay#}
+
+<L>91088<pc>5-144-a<k1>yuNg<k2>*yuNg	*√{#yuNg#}
+
+<L>91163<pc>5-148-a<k1>yunT<k2>*yunT	*√{#yunT#}
+
+<L>91295<pc>5-149-c<k1>yUz<k2>*yUz	*√{#yUz#}
+
+<L>91628<pc>5-154-c<k1>rak<k2>*rak	*√{#rak#}
+
+<L>91807<pc>5-157-a<k1>raktasUryAy<k2>*raktasUryAy	*!√{#raktasUryAy#}
+
+<L>91931<pc>5-158-c<k1>raK<k2>*raK	*√{#raK#}
+
+<L>91932<pc>5-158-c<k1>rag<k2>*rag	*√{#rag#}
+
+<L>91933<pc>5-158-c<k1>raG<k2>*raG	*√{#raG#}
+
+<L>91979<pc>5-159-b<k1>raNK<k2>*raNK	*√{#raNK#}
+
+<L>92105<pc>5-161-b<k1>rajasay<k2>*rajasay	*!√{#rajasay#}
+
+<L>92112<pc>5-161-c<k1>rajasy<k2>*rajasy	*!√{#rajasy#}
+
+<L>92173<pc>5-162-b<k1>raW<k2>*raW	*√{#raW#}
+
+<L>92755<pc>5-171-a<k1>ramP<k2>*ramP	*√{#ramP#}
+
+<L>92783<pc>5-171-b<k1>ray<k2>*ray	*!√{#ray#}
+
+<L>92809<pc>5-171-c<k1>rarP<k2>*rarP	*√{#rarP#}
+
+<L>93132<pc>5-176-a<k1>rahAy<k2>*rahAy	*!√{#rahAy#}
+
+<L>93170<pc>5-176-c<k1>rAK<k2>*rAK	*√{#rAK#}
+
+<L>93217<pc>5-177-b<k1>rAG<k2>*rAG	*√{#rAG#}
+
+<L>93606<pc>5-182-a<k1>rAjAn<k2>*rAjAn	*√{#rAjAn#}
+
+<L>93642<pc>5-182-b<k1>rAjIy<k2>*rAjIy	*!√{#rAjIy#}
+
+<L>94208<pc>5-190-a<k1>rij<k2>*rij	*√{#rij#}
+
+<L>94212<pc>5-190-b<k1>riRv<k2>*riRv	*√{#riRv#}
+
+<L>94234<pc>5-190-c<k1>rimP<k2>*rimP	*√{#rimP#}
+
+<L>94236<pc>5-190-c<k1>rimb<k2>*rimb	*√{#rimb#}
+
+<L>94237<pc>5-190-c<k1>riy<k2>*riy	*!√{#riy#}
+
+<L>94267<pc>5-191-a<k1>rizwIy<k2>*rizwIy	*!√{#rizwIy#}
+
+<L>94290<pc>5-191-b<k1>rIv<k2>*rIv	*√{#rIv#}
+
+<L>94295<pc>5-191-c<k1>ruMS<k2>*ruMS	*√{#ruMS#}
+
+<L>94405<pc>5-193-c<k1>ruw<k2>*ruw	*√{#ruw#}
+
+<L>94408<pc>5-194-a<k1>ruRw<k2>*ruRw	*√{#ruRw#}
+
+<L>94409<pc>5-194-a<k1>ruRW<k2>*ruRW	*√{#ruRW#}
+
+<L>94410<pc>5-194-a<k1>ruRq<k2>*ruRq	*√{#ruRq#}
+
+<L>94741<pc>5-201-b<k1>rek<k2>*rek	*√{#rek#}
+
+<L>94752<pc>5-201-c<k1>reKAy<k2>*reKAy	*!√{#reKAy#}
+
+<L>94767<pc>5-202-a<k1>rew<k2>*rew	*√{#rew#}
+
+<L>94817<pc>5-202-c<k1>rep<k2>*rep	*√{#rep#}
+
+<L>94826<pc>5-202-c<k1>reB<k2>*reB	*√{#reB#}
+
+<L>94837<pc>5-202-c<k1>rev<k2>*rev	*√{#rev#}
+
+<L>94876<pc>5-203-b<k1>rehAy<k2>*rehAy	*!√{#rehAy#}
+
+<L>94888<pc>5-203-b<k1>rEy<k2>*rEy	*!√{#rEy#}
+
+<L>94971<pc>5-204-c<k1>roq<k2>*roq	*√{#roq#}
+
+<L>95129<pc>5-206-c<k1>rohAy<k2>*rohAy	*!√{#rohAy#}
+
+<L>95264<pc>5-208-c<k1>lak<k2>*lak	*√{#lak#}
+
+<L>95411<pc>5-211-c<k1>laK<k2>*laK	*√{#laK#}
+
+<L>95593<pc>5-214-b<k1>laNK<k2>*laNK	*√{#laNK#}
+
+<L>95594<pc>5-214-b<k1>laNg<k2>*laNg	*√{#laNg#}
+
+<L>95610<pc>5-215-a<k1>laC<k2>*laC	*√{#laC#}
+
+<L>95636<pc>5-215-b<k1>laYjApay<k2>*laYjApay	*!√{#laYjApay#}
+
+<L>95649<pc>5-215-c<k1>lawy<k2>*lawy	*!√{#lawy#}
+
+<L>95662<pc>5-215-c<k1>laRq<k2>*laRq	*√{#laRq#}
+
+<L>95790<pc>5-219-b<k1>lamB<k2>*lamB	*√{#lamB#}
+
+<L>95797<pc>5-219-b<k1>lay<k2>*lay	*!√{#lay#}
+
+<L>95808<pc>5-219-c<k1>larb<k2>*larb	*√{#larb#}
+
+<L>95913<pc>5-221-b<k1>lavaRasy<k2>*lavaRasy	*!√{#lavaRasy#}
+
+<L>95926<pc>5-221-b<k1>lavaRIy<k2>*lavaRIy	*!√{#lavaRIy#}
+
+<L>95938<pc>5-221-b<k1>lavay<k2>*lavay	*!√{#lavay#}
+
+<L>95951<pc>5-221-c<k1>laS<k2>*laS	*√{#laS#}
+
+<L>96003<pc>5-222-c<k1>lAK<k2>*lAK	*√{#lAK#}
+
+<L>96006<pc>5-222-c<k1>lAG<k2>*lAG	*√{#lAG#}
+
+<L>96037<pc>5-223-a<k1>lAj<k2>*lAj	*√{#lAj#}
+
+<L>96046<pc>5-223-b<k1>lAYj<k2>*lAYj	*√{#lAYj#}
+
+<L>96053<pc>5-223-b<k1>lAwy<k2>*lAwy	*!√{#lAwy#}
+
+<L>96055<pc>5-223-b<k1>lAq<k2>*lAq	*√{#lAq#}
+
+<L>96081<pc>5-223-c<k1>lAB<k2>*lAB	*√{#lAB#}
+
+<L>96249<pc>5-226-b<k1>liwy<k2>*liwy	*!√{#liwy#}
+
+<L>96295<pc>5-228-b<k1>lInay<k2>*lInay	*!√{#lInay#}
+
+<L>96349<pc>5-229-a<k1>luYj<k2>*luYj	*√{#luYj#}
+
+<L>96371<pc>5-230-a<k1>luRq<k2>*luRq	*√{#luRq#}
+
+<L>96375<pc>5-230-a<k1>lunT<k2>*lunT	*√{#lunT#}
+
+<L>96392<pc>5-230-c<k1>lumb<k2>*lumb	*√{#lumb#}
+
+<L>96405<pc>5-231-a<k1>luz<k2>*luz	*√{#luz#}
+
+<L>96407<pc>5-231-a<k1>luh<k2>*luh	*√{#luh#}
+
+<L>96422<pc>5-231-b<k1>lUnIy<k2>*lUnIy	*!√{#lUnIy#}
+
+<L>96426<pc>5-231-b<k1>lUz<k2>*lUz	*√{#lUz#}
+
+<L>96453<pc>5-231-c<k1>leKAy<k2>*leKAy	*!√{#leKAy#}
+
+<L>96460<pc>5-232-a<k1>leKy<k2>*leKy	*!√{#leKy#}
+
+<L>96470<pc>5-232-a<k1>lewy<k2>*lewy	*!√{#lewy#}
+
+<L>96474<pc>5-232-a<k1>lep<k2>*lep	*√{#lep#}
+
+<L>96523<pc>5-232-c<k1>lER<k2>*lER	*√{#lER#}
+
+<L>96745<pc>5-236-a<k1>loq<k2>*loq	*√{#loq#}
+
+<L>96838<pc>5-237-b<k1>lorAy<k2>*lorAy	*!√{#lorAy#}
+
+<L>96860<pc>5-237-c<k1>lozw<k2>*lozw	*√{#lozw#}
+
+<L>97039<pc>5-239-c<k1>lOq<k2>*lOq	*√{#lOq#}
+
+<L>97085<pc>5-240-b<k1>lpI<k2>*lpI	*√{#lpI#}
+
+<L>97087<pc>5-240-b<k1>lyI<k2>*lyI	*√{#lyI#}
+
+<L>97088<pc>5-240-b<k1>lvI<k2>*lvI	*√{#lvI#}
+
+<L>97184<pc>6-002-b<k1>vakk<k2>*vakk	*√{#vakk#}
+
+<L>97312<pc>6-004-a<k1>vaK<k2>*vaK	*√{#vaK#}
+
+<L>97320<pc>6-004-a<k1>vaNk<k2>*vaNk	*√{#vaNk#}
+
+<L>97335<pc>6-004-b<k1>vaNK<k2>*vaNK	*√{#vaNK#}
+
+<L>97337<pc>6-004-b<k1>vaNg<k2>*vaNg	*√{#vaNg#}
+
+<L>97406<pc>6-006-a<k1>vaj<k2>*vaj	*√{#vaj#}
+
+<L>97637<pc>6-009-a<k1>vaww<k2>*vaww	*√{#vaww#}
+
+<L>97642<pc>6-009-a<k1>vaW<k2>*vaW	*√{#vaW#}
+
+<L>97667<pc>6-009-b<k1>vaqQ<k2>*vaqQ	*√{#vaqQ#}
+
+<L>97699<pc>6-009-c<k1>vaRwApay<k2>*vaRwApay	*!√{#vaRwApay#}
+
+<L>97701<pc>6-009-c<k1>vaRW<k2>*vaRW	*√{#vaRW#}
+
+<L>97705<pc>6-009-c<k1>vaRq<k2>*vaRq	*√{#vaRq#}
+
+<L>98129<pc>6-016-b<k1>vanIy<k2>*vanIy	*!√{#vanIy#}
+
+<L>98267<pc>6-019-a<k1>vaBra<k2>*vaBra	*√{#vaBra#}
+
+<L>98287<pc>6-019-b<k1>vay<k2>*vay	*!√{#vay#}
+
+<L>98632<pc>6-025-c<k1>vareRyay<k2>*vareRyay	*!√{#vareRyay#}
+
+<L>98644<pc>6-026-a<k1>vark<k2>*vark	*√{#vark#}
+
+<L>98648<pc>6-026-a<k1>varkz<k2>*varkz	*√{#varkz#}
+
+<L>98681<pc>6-026-b<k1>varcAy<k2>*varcAy	*!√{#varcAy#}
+
+<L>98923<pc>6-037-a<k1>varP<k2>*varP	*√{#varP#}
+
+<L>98937<pc>6-037-a<k1>varmAy<k2>*varmAy	*!√{#varmAy#}
+
+<L>98953<pc>6-037-b<k1>varS<k2>*varS	*√{#varS#}
+
+<L>99115<pc>6-039-c<k1>valk<k2>*valk	*√{#valk#}
+
+<L>99163<pc>6-040-b<k1>vall<k2>*vall	*√{#vall#}
+
+<L>99284<pc>6-042-b<k1>vaz<k2>*vaz	*√{#vaz#}
+
+<L>99295<pc>6-042-c<k1>vazk<k2>*vazk	*√{#vazk#}
+
+<L>99560<pc>6-047-c<k1>vask<k2>*vask	*√{#vask#}
+
+<L>99971<pc>6-054-c<k1>vANkz<k2>*vANkz	*√{#vANkz#}
+
+<L>100038<pc>6-055-c<k1>vAcy<k2>*vAcy	*!√{#vAcy#}
+
+<L>100315<pc>6-059-b<k1>vAtay<k2>*vAtay	*!√{#vAtay#}
+
+<L>101823<pc>6-080-a<k1>viklav<k2>*viklav	*√{#viklav#}
+
+<L>102099<pc>6-084-b<k1>viC<k2>*viC	*√{#viC#}
+
+<L>102319<pc>6-087-b<k1>viw<k2>*viw	*√{#viw#}
+
+<L>102353<pc>6-087-c<k1>viq<k2>*viq	*√{#viq#}
+
+<L>102384<pc>6-088-b<k1>viRw<k2>*viRw	*√{#viRw#}
+
+<L>102458<pc>6-089-b<k1>vitUstay<k2>*vitUstay	*!√{#vitUstay#}
+
+<L>102490<pc>6-089-c<k1>vittay<k2>*vittay	*!√{#vittay#}
+
+<L>102518<pc>6-090-a<k1>viT<k2>*viT	*√{#viT#}
+
+<L>103025<pc>6-098-c<k1>vinay<k2>*vinay	*!√{#vinay#}
+
+<L>103379<pc>6-103-b<k1>vipucCay<k2>*vipucCay	*!√{#vipucCay#}
+
+<L>104152<pc>6-115-a<k1>vil<k2>*vil	*√{#vil#}
+
+<L>104240<pc>6-116-b<k1>vilInay<k2>*vilInay	*!√{#vilInay#}
+
+<L>105379<pc>6-135-b<k1>vizk<k2>*vizk	*√{#vizk#}
+
+<L>105563<pc>6-137-c<k1>vizRUy<k2>*vizRUy	*!√{#vizRUy#}
+
+<L>106358<pc>6-148-b<k1>vfR<k2>*vfR	*√{#vfR#}
+
+<L>106474<pc>6-150-a<k1>vftrahAy<k2>*vftrahAy	*!√{#vftrahAy#}
+
+<L>106814<pc>6-154-c<k1>vfzIy<k2>*vfzIy	*!√{#vfzIy#}
+
+<L>106861<pc>6-155-a<k1>vekz<k2>*vekz	*√{#vekz#}
+
+<L>106921<pc>6-156-a<k1>vewAy<k2>*vewAy	*!√{#vewAy#}
+
+<L>106924<pc>6-156-a<k1>vewy<k2>*vewy	*!√{#vewy#}
+
+<L>106927<pc>6-156-a<k1>veR<k2>*veR	*√{#veR#}
+
+<L>107038<pc>6-157-b<k1>veT<k2>*veT	*√{#veT#}
+
+<L>107215<pc>6-159-c<k1>vedApay<k2>*vedApay	*!√{#vedApay#}
+
+<L>107277<pc>6-160-c<k1>vedy<k2>*vedy	*!√{#vedy#}
+
+<L>107331<pc>6-161-b<k1>vel<k2>*vel	*√{#vel#}
+
+<L>107333<pc>6-161-c<k1>velay<k2>*velay	*!√{#velay#}
+
+<L>107346<pc>6-161-c<k1>velAy<k2>*velAy	*!√{#velAy#}
+
+<L>107369<pc>6-162-a<k1>vevI<k2>*vevI	*√{#vevI#}
+
+<L>107464<pc>6-163-c<k1>ves<k2>*ves	*√{#ves#}
+
+<L>107468<pc>6-163-c<k1>veh<k2>*veh	*√{#veh#}
+
+<L>107471<pc>6-163-c<k1>vehAy<k2>*vehAy	*!√{#vehAy#}
+
+<L>107473<pc>6-163-c<k1>vehl<k2>*vehl	*√{#vehl#}
+
+<L>108348<pc>6-177-a<k1>vyap<k2>*vyap	*√{#vyap#}
+
+<L>109145<pc>6-189-c<k1>vrI<k2>*vrI	*√{#vrI#}
+
+<L>109151<pc>6-189-c<k1>vrIs<k2>*vrIs	*√{#vrIs#}
+
+<L>109183<pc>6-190-a<k1>vlekz<k2>*vlekz	*√{#vlekz#}
+
+<L>109662<pc>6-197-b<k1>Sac<k2>*Sac	*√{#Sac#}
+
+<L>109673<pc>6-197-c<k1>SaYc<k2>*SaYc	*√{#SaYc#}
+
+<L>109674<pc>6-197-c<k1>Saw<k2>*Saw	*√{#Saw#}
+
+<L>109687<pc>6-197-c<k1>SaR<k2>*SaR	*√{#SaR#}
+
+<L>109711<pc>6-198-a<k1>SaRq<k2>*SaRq	*√{#SaRq#}
+
+<L>110387<pc>6-207-c<k1>Samb<k2>*Samb	*√{#Samb#}
+
+<L>110790<pc>6-213-a<k1>Sarb<k2>*Sarb	*√{#Sarb#}
+
+<L>110812<pc>6-213-b<k1>Sarv<k2>*Sarv	*√{#Sarv#}
+
+<L>110881<pc>6-214-b<k1>SalB<k2>*SalB	*√{#SalB#}
+
+<L>111056<pc>6-216-b<k1>SaSv<k2>*SaSv	*√{#SaSv#}
+
+<L>111061<pc>6-216-b<k1>SaSvAy<k2>*SaSvAy	*!√{#SaSvAy#}
+
+<L>111062<pc>6-216-c<k1>Saz<k2>*Saz	*√{#Saz#}
+
+<L>111318<pc>6-219-c<k1>SAK<k2>*SAK	*√{#SAK#}
+
+<L>111396<pc>6-220-c<k1>SAq<k2>*SAq	*√{#SAq#}
+
+<L>111487<pc>6-221-c<k1>SAn<k2>*SAn	*√{#SAn#}
+
+<L>112175<pc>6-232-a<k1>SiNK<k2>*SiNK	*√{#SiNK#}
+
+<L>112192<pc>6-232-b<k1>Siw<k2>*Siw	*√{#Siw#}
+
+<L>112352<pc>6-234-b<k1>Sirasy<k2>*Sirasy	*!√{#Sirasy#}
+
+<L>112425<pc>6-235-a<k1>Sil<k2>*Sil	*√{#Sil#}
+
+<L>112752<pc>6-239-a<k1>SivIy<k2>*SivIy	*!√{#SivIy#}
+
+<L>113045<pc>6-243-c<k1>SIB<k2>*SIB	*√{#SIB#}
+
+<L>113165<pc>6-245-b<k1>Suk<k2>*Suk	*√{#Suk#}
+
+<L>113387<pc>6-248-c<k1>SucivarcAy<k2>*SucivarcAy	*!√{#SucivarcAy#}
+
+<L>113402<pc>6-248-c<k1>SucIy<k2>*SucIy	*!√{#SucIy#}
+
+<L>113404<pc>6-248-c<k1>Sucy<k2>*Sucy	*!√{#Sucy#}
+
+<L>113409<pc>6-248-c<k1>SuW<k2>*SuW	*√{#SuW#}
+
+<L>113411<pc>6-248-c<k1>SuRW<k2>*SuRW	*√{#SuRW#}
+
+<L>113417<pc>6-249-a<k1>SuRq<k2>*SuRq	*√{#SuRq#}
+
+<L>113515<pc>6-250-c<k1>Sun<k2>*Sun	*√{#Sun#}
+
+<L>113672<pc>6-253-a<k1>Sulkay<k2>*Sulkay	*!√{#Sulkay#}
+
+<L>113678<pc>6-253-a<k1>Sulbay<k2>*Sulbay	*!√{#Sulbay#}
+
+<L>113860<pc>6-255-c<k1>SUray<k2>*SUray	*!√{#SUray#}
+
+<L>113890<pc>6-256-a<k1>SUrpay<k2>*SUrpay	*!√{#SUrpay#}
+
+<L>113946<pc>6-256-c<k1>SUz<k2>*SUz	*√{#SUz#}
+
+<L>114078<pc>6-258-b<k1>Sel<k2>*Sel	*√{#Sel#}
+
+<L>114080<pc>6-258-b<k1>SelAy<k2>*SelAy	*!√{#SelAy#}
+
+<L>114516<pc>6-263-c<k1>SOw<k2>*SOw	*√{#SOw#}
+
+<L>114521<pc>6-264-a<k1>SOq<k2>*SOq	*√{#SOq#}
+
+<L>114669<pc>6-265-c<k1>SmIl<k2>*SmIl	*√{#SmIl#}
+
+<L>114758<pc>6-267-a<k1>Syetay<k2>*Syetay	*!√{#Syetay#}
+
+<L>114800<pc>6-267-b<k1>SraNk<k2>*SraNk	*√{#SraNk#}
+
+<L>114968<pc>6-270-b<k1>SrAm<k2>*SrAm	*√{#SrAm#}
+
+<L>115511<pc>6-280-a<k1>SroR<k2>*SroR	*√{#SroR#}
+
+<L>115605<pc>6-281-a<k1>SlaNk<k2>*SlaNk	*√{#SlaNk#}
+
+<L>115606<pc>6-281-a<k1>SlaNg<k2>*SlaNg	*√{#SlaNg#}
+
+<L>115620<pc>6-281-b<k1>SlAK<k2>*SlAK	*√{#SlAK#}
+
+<L>115678<pc>6-282-c<k1>Slok<k2>*Slok	*√{#Slok#}
+
+<L>115714<pc>6-283-a<k1>SvaNk<k2>*SvaNk	*√{#SvaNk#}
+
+<L>115715<pc>6-283-a<k1>SvaNg<k2>*SvaNg	*√{#SvaNg#}
+
+<L>115716<pc>6-283-a<k1>Svac<k2>*Svac	*√{#Svac#}
+
+<L>115721<pc>6-283-a<k1>Svaj<k2>*Svaj	*√{#Svaj#}
+
+<L>115727<pc>6-283-a<k1>SvaYj<k2>*SvaYj	*√{#SvaYj#}
+
+<L>115728<pc>6-283-a<k1>SvaW<k2>*SvaW	*√{#SvaW#}
+
+<L>115730<pc>6-283-a<k1>SvaRW<k2>*SvaRW	*√{#SvaRW#}
+
+<L>115764<pc>6-283-b<k1>SvaBray<k2>*SvaBray	*!√{#SvaBray#}
+
+<L>115776<pc>6-283-c<k1>Svart<k2>*Svart	*√{#Svart#}
+
+<L>115780<pc>6-283-c<k1>Svalk<k2>*Svalk	*√{#Svalk#}
+
+<L>115781<pc>6-283-c<k1>Svall<k2>*Svall	*√{#Svall#}
+
+<L>115828<pc>6-284-c<k1>SvAtr<k2>*SvAtr	*√{#SvAtr#}
+
+<L>115991<pc>6-286-c<k1>Svetay<k2>*Svetay	*!√{#Svetay#}
+
+<L>116312<pc>6-290-b<k1>zaRqIy<k2>*zaRqIy	*!√{#zaRqIy#}
+
+<L>116321<pc>6-290-c<k1>zaRQIy<k2>*zaRQIy	*!√{#zaRQIy#}
+
+<L>116343<pc>6-290-c<k1>zazk<k2>*zazk	*√{#zazk#}
+
+<L>116430<pc>6-292-a<k1>zukk<k2>*zukk	*√{#zukk#}
+
+<L>116483<pc>6-292-b<k1>zoqIy<k2>*zoqIy	*!√{#zoqIy#}
+
+<L>116495<pc>6-292-c<k1>zvakk<k2>*zvakk	*√{#zvakk#}
+
+<L>116688<pc>7-004-b<k1>saMvary<k2>*saMvary	*!√{#saMvary#}
+
+<L>116874<pc>7-007-a<k1>saMScAy<k2>*saMScAy	*!√{#saMScAy#}
+
+<L>117331<pc>7-014-b<k1>saK<k2>*saK	*√{#saK#}
+
+<L>117351<pc>7-014-c<k1>sag<k2>*sag	*√{#sag#}
+
+<L>117665<pc>7-020-b<k1>saMgrAmay<k2>*saMgrAmay	*!√{#saMgrAmay#}
+
+<L>117989<pc>7-026-c<k1>saw<k2>*saw	*√{#saw#}
+
+<L>117994<pc>7-026-c<k1>saww<k2>*saww	*√{#saww#}
+
+<L>118126<pc>7-028-a<k1>sattray<k2>*sattray	*!√{#sattray#}
+
+<L>118136<pc>7-028-a<k1>sattrApay<k2>*sattrApay	*!√{#sattrApay#}
+
+<L>118137<pc>7-028-a<k1>sattrAy<k2>*sattrAy	*!√{#sattrAy#}
+
+<L>119342<pc>7-047-b<k1>sapiRqay<k2>*sapiRqay	*!√{#sapiRqay#}
+
+<L>119960<pc>7-055-b<k1>samay<k2>*samay	*!√{#samay#}
+
+<L>121093<pc>7-071-c<k1>samb<k2>*samb	*√{#samb#}
+
+<L>121112<pc>7-072-a<k1>sambary<k2>*sambary	*!√{#sambary#}
+
+<L>121178<pc>7-073-b<k1>saMBUyasy<k2>*saMBUyasy	*!√{#saMBUyasy#}
+
+<L>121328<pc>7-075-b<k1>say<k2>*say	*!√{#say#}
+
+<L>121657<pc>7-084-a<k1>sarpizkAmy<k2>*sarpizkAmy	*!√{#sarpizkAmy#}
+
+<L>121673<pc>7-084-b<k1>sarb<k2>*sarb	*√{#sarb#}
+
+<L>121674<pc>7-084-b<k1>sarB<k2>*sarB	*√{#sarB#}
+
+<L>121695<pc>7-084-c<k1>sarvakAmy<k2>*sarvakAmy	*!√{#sarvakAmy#}
+
+<L>122365<pc>7-092-c<k1>sal<k2>*sal	*√{#sal#}
+
+<L>123450<pc>7-107-c<k1>sAkz<k2>*sAkz	*√{#sAkz#}
+
+<L>123627<pc>7-110-a<k1>sAway<k2>*sAway	*!√{#sAway#}
+
+<L>124088<pc>7-117-a<k1>sAmay<k2>*sAmay	*!√{#sAmay#}
+
+<L>124229<pc>7-119-a<k1>sAmb<k2>*sAmb	*√{#sAmb#}
+
+<L>124416<pc>7-121-c<k1>sAray<k2>*sAray	*!√{#sAray#}
+
+<L>124999<pc>7-129-c<k1>siw<k2>*siw	*√{#siw#}
+
+<L>125414<pc>7-135-c<k1>sinv<k2>*sinv	*√{#sinv#}
+
+<L>125421<pc>7-135-c<k1>siB<k2>*siB	*√{#siB#}
+
+<L>125432<pc>7-136-a<k1>simB<k2>*simB	*√{#simB#}
+
+<L>125453<pc>7-136-a<k1>sil<k2>*sil	*√{#sil#}
+
+<L>125491<pc>7-136-c<k1>sIk<k2>*sIk	*√{#sIk#}
+
+<L>125703<pc>7-139-b<k1>sukfty<k2>*sukfty	*!√{#sukfty#}
+
+<L>125956<pc>7-142-b<k1>suKy<k2>*suKy	*!√{#suKy#}
+
+<L>126164<pc>7-145-a<k1>suww<k2>*suww	*√{#suww#}
+
+<L>126335<pc>7-147-b<k1>sudinAy<k2>*sudinAy	*!√{#sudinAy#}
+
+<L>127183<pc>7-158-b<k1>sumanAy<k2>*sumanAy	*!√{#sumanAy#}
+
+<L>127351<pc>7-160-b<k1>sur<k2>*sur	*√{#sur#}
+
+<L>127394<pc>7-161-a<k1>surajAy<k2>*surajAy	*!√{#surajAy#}
+
+<L>128492<pc>7-174-b<k1>suh<k2>*suh	*√{#suh#}
+
+<L>129081<pc>7-182-a<k1>sUz<k2>*sUz	*√{#sUz#}
+
+<L>129175<pc>7-183-b<k1>sek<k2>*sek	*√{#sek#}
+
+<L>129280<pc>7-184-c<k1>sel<k2>*sel	*√{#sel#}
+
+<L>129420<pc>7-186-c<k1>sowAy<k2>*sowAy	*!√{#sowAy#}
+
+<L>129426<pc>7-186-c<k1>soQAy<k2>*soQAy	*!√{#soQAy#}
+
+<L>130333<pc>7-198-b<k1>skuB<k2>*skuB	*√{#skuB#}
+
+<L>130338<pc>7-198-b<k1>sKad<k2>*sKad	*√{#sKad#}
+
+<L>130346<pc>7-198-c<k1>sKuqa<k2>*sKuqa	*√{#sKuqa#}
+
+<L>130347<pc>7-198-c<k1>stak<k2>*stak	*√{#stak#}
+
+<L>130434<pc>7-200-c<k1>stam<k2>*stam	*√{#stam#}
+
+<L>130477<pc>7-202-a<k1>starkz<k2>*starkz	*√{#starkz#}
+
+<L>130515<pc>7-202-b<k1>stip<k2>*stip	*√{#stip#}
+
+<L>130525<pc>7-202-b<k1>stIm<k2>*stIm	*√{#stIm#}
+
+<L>130539<pc>7-202-c<k1>stuc<k2>*stuc	*√{#stuc#}
+
+<L>130573<pc>7-203-b<k1>stUp<k2>*stUp	*√{#stUp#}
+
+<L>130630<pc>7-204-b<k1>stomay<k2>*stomay	*!√{#stomay#}
+
+<L>130822<pc>7-206-b<k1>sTal<k2>*sTal	*√{#sTal#}
+
+<L>131092<pc>7-216-a<k1>sTuq<k2>*sTuq	*√{#sTuq#}
+
+<L>131180<pc>7-217-a<k1>sTUlay<k2>*sTUlay	*!√{#sTUlay#}
+
+<L>131331<pc>7-218-c<k1>sniw<k2>*sniw	*√{#sniw#}
+
+<L>131346<pc>7-219-a<k1>snus<k2>*snus	*√{#snus#}
+
+<L>131450<pc>7-221-b<k1>sparz<k2>*sparz	*√{#sparz#}
+
+<L>131515<pc>7-222-b<k1>sPaRw<k2>*sPaRw	*√{#sPaRw#}
+
+<L>131516<pc>7-222-b<k1>sPaRq<k2>*sPaRq	*√{#sPaRq#}
+
+<L>131549<pc>7-223-a<k1>sPiw<k2>*sPiw	*√{#sPiw#}
+
+<L>131550<pc>7-223-a<k1>sPiww<k2>*sPiww	*√{#sPiww#}
+
+<L>131580<pc>7-223-c<k1>sPuww<k2>*sPuww	*√{#sPuww#}
+
+<L>131581<pc>7-223-c<k1>sPuq<k2>*sPuq	*√{#sPuq#}
+
+<L>131582<pc>7-223-c<k1>sPuRw<k2>*sPuRw	*√{#sPuRw#}
+
+<L>131583<pc>7-223-c<k1>sPuRq<k2>*sPuRq	*√{#sPuRq#}
+
+<L>131599<pc>7-224-a<k1>sPUrC<k2>*sPUrC	*√{#sPUrC#}
+
+<L>131719<pc>7-226-b<k1>smiw<k2>*smiw	*√{#smiw#}
+
+<L>131722<pc>7-226-b<k1>smIl<k2>*smIl	*√{#smIl#}
+
+<L>131820<pc>7-228-b<k1>sraMh<k2>*sraMh	*√{#sraMh#}
+
+<L>131829<pc>7-228-b<k1>sraNk<k2>*sraNk	*√{#sraNk#}
+
+<L>131880<pc>7-229-a<k1>sriB<k2>*sriB	*√{#sriB#}
+
+<L>131882<pc>7-229-b<k1>srimB<k2>*srimB	*√{#srimB#}
+
+<L>131903<pc>7-230-a<k1>srucay<k2>*srucay	*!√{#srucay#}
+
+<L>131906<pc>7-230-a<k1>srucy<k2>*srucy	*!√{#srucy#}
+
+<L>131924<pc>7-230-b<k1>srek<k2>*srek	*√{#srek#}
+
+<L>131948<pc>7-230-b<k1>srOGnIy<k2>*srOGnIy	*!√{#srOGnIy#}
+
+<L>131954<pc>7-230-c<k1>sv<k2>*sv	*√{#sv#}
+
+<L>131957<pc>7-230-c<k1>svaHkAmy<k2>*svaHkAmy	*!√{#svaHkAmy#}
+
+<L>132005<pc>7-231-b<k1>svaNg<k2>*svaNg	*√{#svaNg#}
+
+<L>132050<pc>7-232-a<k1>svaW<k2>*svaW	*√{#svaW#}
+
+<L>132685<pc>7-240-c<k1>svart<k2>*svart	*√{#svart#}
+
+<L>132687<pc>7-240-c<k1>svard<k2>*svard	*√{#svard#}
+
+<L>133046<pc>7-245-b<k1>svApakIy<k2>*svApakIy	*!√{#svApakIy#}
+
+<L>133087<pc>7-245-c<k1>svAy<k2>*svAy	*!√{#svAy#}
+
+<L>133208<pc>7-247-c<k1>svUrC<k2>*svUrC	*√{#svUrC#}
+
+<L>133213<pc>7-247-c<k1>svek<k2>*svek	*√{#svek#}
+
+<L>133384<pc>7-249-c<k1>haw<k2>*haw	*√{#haw#}
+
+<L>133395<pc>7-250-a<k1>haW<k2>*haW	*√{#haW#}
+
+<L>133461<pc>7-253-a<k1>hananIya<k2>*hananIya	*√{#hananIya#}
+
+<L>133512<pc>7-253-c<k1>hamm<k2>*hamm	*√{#hamm#}
+
+<L>133514<pc>7-253-c<k1>hay<k2>*hay	*!√{#hay#}
+
+<L>133990<pc>7-263-c<k1>hal<k2>*hal	*√{#hal#}
+
+<L>134007<pc>7-264-a<k1>halay<k2>*halay	*!√{#halay#}
+
+<L>134589<pc>7-273-c<k1>hiw<k2>*hiw	*√{#hiw#}
+
+<L>134917<pc>7-277-c<k1>hil<k2>*hil	*√{#hil#}
+
+<L>134922<pc>7-277-c<k1>hillolay<k2>*hillolay	*!√{#hillolay#}
+
+<L>134924<pc>7-277-c<k1>hizk<k2>*hizk	*√{#hizk#}
+
+<L>134985<pc>7-278-c<k1>huq<k2>*huq	*√{#huq#}
+
+<L>134993<pc>7-278-c<k1>huRq<k2>*huRq	*√{#huRq#}
+
+<L>135034<pc>7-279-b<k1>hul<k2>*hul	*√{#hul#}
+
+<L>135057<pc>7-279-b<k1>hUq<k2>*hUq	*√{#hUq#}
+
+<L>135258<pc>7-281-c<k1>hew<k2>*hew	*√{#hew#}
+
+<L>135268<pc>7-281-c<k1>heQ<k2>*heQ	*√{#heQ#}
+
+<L>135528<pc>7-285-a<k1>hoq<k2>*hoq	*√{#hoq#}
+
+<L>135532<pc>7-285-a<k1>hoQ<k2>*hoQ	*√{#hoQ#}
+
+<L>135534<pc>7-285-a<k1>hoQAy<k2>*hoQAy	*!√{#hoQAy#}
+
+<L>135625<pc>7-286-a<k1>hOq<k2>*hOq	*√{#hOq#}
+
+<L>135645<pc>7-286-c<k1>hmal<k2>*hmal	*√{#hmal#}
+
+<L>135652<pc>7-286-c<k1>hrag<k2>*hrag	*√{#hrag#}
+
+<L>135663<pc>7-286-c<k1>hrap<k2>*hrap	*√{#hrap#}
+
+<L>135718<pc>7-287-b<k1>hrIC<k2>*hrIC	*√{#hrIC#}
+
+<L>135734<pc>7-287-c<k1>hruq<k2>*hruq	*√{#hruq#}
+
+<L>135737<pc>7-287-c<k1>hrUq<k2>*hrUq	*√{#hrUq#}
+
+<L>135740<pc>7-287-c<k1>hrep<k2>*hrep	*√{#hrep#}
+
+<L>135748<pc>7-287-c<k1>hrOq<k2>*hrOq	*√{#hrOq#}
+
+<L>135750<pc>7-287-c<k1>hlag<k2>*hlag	*√{#hlag#}
+
+<L>135752<pc>7-287-c<k1>hlap<k2>*hlap	*√{#hlap#}
+
+<L>135753<pc>7-287-c<k1>hlas<k2>*hlas	*√{#hlas#}
+
+<L>135784<pc>7-288-c<k1>hvAyakIy<k2>*hvAyakIy	*!√{#hvAyakIy#}
+

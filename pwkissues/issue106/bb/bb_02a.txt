@@ -1,0 +1,1460 @@
+<L>3<pc>1-001-a<k1>a<k2>3. *a	<hom>3.</hom> *{#a#}
+
+<L>4<pc>1-001-a<k1>a<k2>4. *a	<hom>4.</hom> *{#a#}
+
+<L>224<pc>1-003-b<k1>akra<k2>1. *a/kra	<hom>1.</hom> *{#a/kra#}
+
+<L>254<pc>1-004-a<k1>akza<k2>5. *akza	<hom>5.</hom> *{#akza#}
+
+<L>255<pc>1-004-a<k1>akza<k2>6. *akza	<hom>6.</hom> *{#akza#}
+
+<L>421<pc>1-005-c<k1>aga<k2>1. *aga	<hom>1.</hom> *{#aga#}
+
+<L>466<pc>1-006-b<k1>agADajala<k2>2. *agADajala	<hom>2.</hom> *{#agADajala#}
+
+<L>780<pc>1-009-c<k1>agraha<k2>2. *agraha	<hom>2.</hom> *{#agraha#}
+
+<L>917<pc>1-011-b<k1>aNkya<k2>1. *aNkya	<hom>1.</hom> *{#aNkya#}
+
+<L>924<pc>1-011-c<k1>aNga<k2>4. *aNga	<hom>4.</hom> *{#aNga#}
+
+<L>1056<pc>1-013-a<k1>aNgulizaNga<k2>1. *aNgulizaNga	<hom>1.</hom> *{#aNgulizaNga#}
+
+<L>1057<pc>1-013-a<k1>aNgulizaNga<k2>2. *aNgulizaNga	<hom>2.</hom> *{#aNgulizaNga#}
+
+<L>1101<pc>1-013-c<k1>acakzus<k2>1. *acakzus	<hom>1.</hom> *{#acakzus#}
+
+<L>1162<pc>1-014-b<k1>acCa<k2>3. *acCa	<hom>3.</hom> *{#acCa#}
+
+<L>1329<pc>1-016-b<k1>ajASva<k2>1. *ajASva	<hom>1.</hom> *{#ajASva#}
+
+<L>1489<pc>1-018-b<k1>awwa<k2>1. *awwa	<hom>1.</hom> *{#awwa#}
+
+<L>1717<pc>1-021-a<k1>atijAgara<k2>2. *atijAgara	<hom>2.</hom> *{#atijAgara#}
+
+<L>2220<pc>1-026-b<k1>atejas<k2>1. *atejas	<hom>1.</hom> *{#atejas#}
+
+<L>2407<pc>1-028-b<k1>adanta<k2>1. *adanta	<hom>1.</hom> *{#adanta#}
+
+<L>2660<pc>1-031-b<k1>advija<k2>1. *advija	<hom>1.</hom> *{#advija#}
+
+<L>2768<pc>1-032-c<k1>aDi<k2>2. *aDi	<hom>2.</hom> *{#aDi#}
+
+<L>3174<pc>1-037-c<k1>ana<k2>3. *ana	<hom>3.</hom> *{#ana#}
+
+<L>3686<pc>1-043-b<k1>anavaDAna<k2>1. *anavaDAna	<hom>1.</hom> *{#anavaDAna#}
+
+<L>3687<pc>1-043-b<k1>anavaDAna<k2>2. *anavaDAna	<hom>2.</hom> *{#anavaDAna#}
+
+<L>3728<pc>1-043-c<k1>anavasTAna<k2>2. *anavasTAna	<hom>2.</hom> *{#anavasTAna#}
+
+<L>3840<pc>1-045-a<k1>anAtapa<k2>1. *anAtapa	<hom>1.</hom> *{#anAtapa#}
+
+<L>4241<pc>1-049-c<k1>anISa<k2>2. *anISa	<hom>2.</hom> *{#anISa#}
+
+<L>5421<pc>1-064-a<k1>antaHsattva<k2>2. *antaHsattva	<hom>2.</hom> *{#antaHsattva#}
+
+<L>5443<pc>1-064-b<k1>anti<k2>2. *anti	<hom>2.</hom> *{#anti#}
+
+<L>5860<pc>1-069-b<k1>apaGana<k2>1. *apaGana	<hom>1.</hom> *{#apaGana#}
+
+<L>5933<pc>1-070-b<k1>apaTa<k2>2. *apaTa	<hom>2.</hom> *{#apaTa#}
+
+<L>6730<pc>1-079-a<k1>apratikara<k2>2. *apratikara	<hom>2.</hom> *{#apratikara#}
+
+<L>7063<pc>1-083-a<k1>aPena<k2>2. *aPena	<hom>2.</hom> *{#aPena#}
+
+<L>7776<pc>1-091-a<k1>aBIka<k2>3. *aBIka	<hom>3.</hom> *{#aBIka#}
+
+<L>8060<pc>1-094-b<k1>am<k2>2. *am	<hom>2.</hom> *{#am#}
+
+<L>8068<pc>1-094-c<k1>amata<k2>2. *amata	<hom>2.</hom> *{#amata#}
+
+<L>8214<pc>1-096-a<k1>amAMsa<k2>2. *amAMsa	<hom>2.</hom> *{#amAMsa#}
+
+<L>8904<pc>1-104-b<k1>ara<k2>3. *ara	<hom>3.</hom> *{#ara#}
+
+<L>9136<pc>1-106-c<k1>aru<k2>2. *aru	<hom>2.</hom> *{#aru#}
+
+<L>9255<pc>1-108-a<k1>arkapattra<k2>2. *arkapattra	<hom>2.</hom> *{#arkapattra#}
+
+<L>9257<pc>1-108-b<k1>arkaparRa<k2>2. *arkaparRa	<hom>2.</hom> *{#arkaparRa#}
+
+<L>9821<pc>1-115-b<k1>arvan<k2>2. *arvan	<hom>2.</hom> *{#arvan#}
+
+<L>9823<pc>1-115-b<k1>arvant<k2>2. *arvant	<hom>2.</hom> *{#arvant#}
+
+<L>10002<pc>1-118-a<k1>ali<k2>2. *ali	<hom>2.</hom> *{#ali#}
+
+<L>10368<pc>1-122-a<k1>avadAna<k2>3. *avadAna	<hom>3.</hom> *{#avadAna#}
+
+<L>11128<pc>1-131-a<k1>avilambana<k2>2. *avilambana	<hom>2.</hom> *{#avilambana#}
+
+<L>11296<pc>1-133-a<k1>avedya<k2>3. *avedya	<hom>3.</hom> *{#avedya#}
+
+<L>11467<pc>1-135-b<k1>aSana<k2>1. *aSana	<hom>1.</hom> *{#aSana#}
+
+<L>11918<pc>1-140-b<k1>aSvavAra<k2>1. *aSvavAra	<hom>1.</hom> *{#aSvavAra#}
+
+<L>11925<pc>1-140-b<k1>aSvavid<k2>1. *aSvavid	<hom>1.</hom> *{#aSvavid#}
+
+<L>11960<pc>1-140-c<k1>aSvasTAna<k2>2. *aSvasTAna	<hom>2.</hom> *{#aSvasTAna#}
+
+<L>12020<pc>1-141-b<k1>azwakarRa<k2>2. *azwakarRa	<hom>2.</hom> *{#azwakarRa#}
+
+<L>12066<pc>1-141-c<k1>azwamaNgala<k2>2. *azwamaNgala	<hom>2.</hom> *{#azwamaNgala#}
+
+<L>12079<pc>1-142-a<k1>azwavarga<k2>1. *azwavarga	<hom>1.</hom> *{#azwavarga#}
+
+<L>12320<pc>1-146-a<k1>asatpaTa<k2>1. *asatpaTa	<hom>1.</hom> *{#asatpaTa#}
+
+<L>12821<pc>1-152-a<k1>astamBa<k2>1. *astamBa	<hom>1.</hom> *{#astamBa#}
+
+<L>12895<pc>1-152-c<k1>asTAna<k2>2. *asTAna	<hom>2.</hom> *{#asTAna#}
+
+<L>12943<pc>1-153-b<k1>asTisAra<k2>1. *asTisAra	<hom>1.</hom> *{#asTisAra#}
+
+<L>13016<pc>1-154-a<k1>asra<k2>2. *asra	<hom>2.</hom> *{#asra#}
+
+<L>13336<pc>1-157-c<k1>A<k2>3. *A	<hom>3.</hom> *{#A#}
+
+<L>13512<pc>1-160-a<k1>Akza<k2>1. *Akza	<hom>1.</hom> *{#Akza#}
+
+<L>13939<pc>1-165-a<k1>Ajya<k2>2. *Ajya	<hom>2.</hom> *{#Ajya#}
+
+<L>14900<pc>1-176-c<k1>Apas<k2>2. *Apas	<hom>2.</hom> *{#Apas#}
+
+<L>15000<pc>1-177-c<k1>Apya<k2>4. *Apya	<hom>4.</hom> *{#Apya#}
+
+<L>15113<pc>1-179-a<k1>ABoga<k2>2. *ABoga	<hom>2.</hom> *{#ABoga#}
+
+<L>15126<pc>1-179-b<k1>Ama<k2>2. *Ama	<hom>2.</hom> *{#Ama#}
+
+<L>15139<pc>1-179-b<k1>Amana<k2>2. *Amana	<hom>2.</hom> *{#Amana#}
+
+<L>15596<pc>1-184-c<k1>Arca<k2>1. *Arca	<hom>1.</hom> *{#Arca#}
+
+<L>15635<pc>1-185-a<k1>Arti<k2>2. *Arti	<hom>2.</hom> *{#Arti#}
+
+<L>15808<pc>1-187-a<k1>Alambin<k2>2. *Alambin	<hom>2.</hom> *{#Alambin#}
+
+<L>15839<pc>1-187-b<k1>Ali<k2>1. *Ali	<hom>1.</hom> *{#Ali#}
+
+<L>15917<pc>1-188-b<k1>Avaya<k2>2. *A/vaya	<hom>2.</hom> *{#A/vaya#}
+
+<L>15918<pc>1-188-b<k1>Avaya<k2>3. *Avaya	<hom>3.</hom> *{#Avaya#}
+
+<L>16073<pc>1-190-b<k1>ASana<k2>1. *ASana	<hom>1.</hom> *{#ASana#}
+
+<L>16074<pc>1-190-b<k1>ASana<k2>2. *ASana	<hom>2.</hom> *{#ASana#}
+
+<L>16127<pc>1-191-a<k1>ASira<k2>2. *ASira	<hom>2.</hom> *{#ASira#}
+
+<L>16315<pc>1-194-a<k1>Asa<k2>2. *Asa	<hom>2.</hom> *{#Asa#}
+
+<L>16337<pc>1-194-b<k1>Asana<k2>2. *Asana	<hom>2.</hom> *{#Asana#}
+
+<L>16436<pc>1-195-b<k1>AstaraRa<k2>2. *AstaraRa	<hom>2.</hom> *{#AstaraRa#}
+
+<L>16533<pc>1-196-b<k1>Ahava<k2>1. *Ahava	<hom>1.</hom> *{#Ahava#}
+
+<L>16622<pc>1-197-c<k1>i<k2>1. *i	<hom>1.</hom> *{#i#}
+
+<L>16625<pc>1-201-a<k1>i<k2>4. *i	<hom>4.</hom> *{#i#}
+
+<L>16632<pc>1-201-a<k1>ikzukARqa<k2>2. *ikzukARqa	<hom>2.</hom> *{#ikzukARqa#}
+
+<L>16827<pc>1-203-c<k1>idaMpraTama<k2>1. *idaMpraTama	<hom>1.</hom> *{#idaMpraTama#}
+
+<L>16828<pc>1-203-c<k1>idaMpraTama<k2>2. *idaMpraTama	<hom>2.</hom> *{#idaMpraTama#}
+
+<L>17406<pc>1-210-c<k1>is<k2>2. *is	<hom>2.</hom> *{#is#}
+
+<L>17424<pc>1-210-c<k1>I<k2>1. *I	<hom>1.</hom> *{#I#}
+
+<L>17426<pc>1-211-a<k1>I<k2>3. *I	<hom>3.</hom> *{#I#}
+
+<L>17611<pc>1-214-c<k1>u<k2>4. *u	<hom>4.</hom> *{#u#}
+
+<L>17822<pc>1-217-c<k1>ucCizwaBojana<k2>2. *ucCizwaBojana	<hom>2.</hom> *{#ucCizwaBojana#}
+
+<L>18388<pc>1-224-c<k1>utpala<k2>2. *utpala	<hom>2.</hom> *{#utpala#}
+
+<L>18654<pc>1-228-a<k1>udaja<k2>1. *udaja	<hom>1.</hom> *{#udaja#}
+
+<L>18882<pc>1-230-c<k1>udAhAra<k2>1. *udAhAra	<hom>1.</hom> *{#udAhAra#}
+
+<L>19073<pc>1-233-a<k1>udDAna<k2>2. *udDAna	<hom>2.</hom> *{#udDAna#}
+
+<L>19141<pc>1-234-a<k1>udya<k2>3. *udya	<hom>3.</hom> *{#udya#}
+
+<L>19212<pc>1-234-c<k1>udvAna<k2>2. *udvAna	<hom>2.</hom> *{#udvAna#}
+
+<L>19240<pc>1-235-a<k1>udvega<k2>2. *udvega	<hom>2.</hom> *{#udvega#}
+
+<L>19595<pc>1-239-c<k1>upadAtar<k2>2. *upadAtar	<hom>2.</hom> *{#upadAtar#}
+
+<L>19597<pc>1-239-c<k1>upadAna<k2>1. *upadAna	<hom>1.</hom> *{#upadAna#}
+
+<L>19598<pc>1-239-c<k1>upadAna<k2>2. *upadAna	<hom>2.</hom> *{#upadAna#}
+
+<L>19610<pc>1-239-c<k1>upadI<k2>1. *upadI	<hom>1.</hom> *{#upadI#}
+
+<L>20517<pc>1-250-c<k1>uBayasaMBava<k2>1. *uBayasaMBava	<hom>1.</hom> *{#uBayasaMBava#}
+
+<L>20880<pc>1-255-a<k1>uzwrasTAna<k2>1. *uzwrasTAna	<hom>1.</hom> *{#uzwrasTAna#}
+
+<L>20881<pc>1-255-a<k1>uzwrasTAna<k2>2. *uzwrasTAna	<hom>2.</hom> *{#uzwrasTAna#}
+
+<L>20961<pc>1-255-c<k1>U<k2>2. *U	<hom>2.</hom> *{#U#}
+
+<L>20962<pc>1-255-c<k1>U<k2>3. *U	<hom>3.</hom> *{#U#}
+
+<L>21082<pc>1-257-b<k1>UrDvakarman<k2>2. *UrDvakarman	<hom>2.</hom> *{#UrDvakarman#}
+
+<L>21223<pc>1-259-a<k1>Uzaka<k2>2. *Uzaka	<hom>2.</hom> *{#Uzaka#}
+
+<L>21267<pc>1-260-a<k1>f<k2>1. *f	<hom>1.</hom> *{#f#}
+
+<L>21268<pc>1-260-a<k1>f<k2>2. *f	<hom>2.</hom> *{#f#}
+
+<L>21692<pc>1-265-a<k1>e<k2>1. *e	<hom>1.</hom> *{#e#}
+
+<L>21693<pc>1-265-a<k1>e<k2>2. *e	<hom>2.</hom> *{#e#}
+
+<L>21783<pc>1-266-b<k1>ekadfzwi<k2>2. *ekadfzwi	<hom>2.</hom> *{#ekadfzwi#}
+
+<L>22216<pc>1-271-c<k1>etaka<k2>2. *etaka	<hom>2.</hom> *{#etaka#}
+
+<L>22376<pc>1-273-c<k1>ezwar<k2>2. *ezwar	<hom>2.</hom> *{#ezwar#}
+
+<L>22391<pc>1-274-a<k1>E<k2>1. *E	<hom>1.</hom> *{#E#}
+
+<L>22392<pc>1-274-a<k1>E<k2>2. *E	<hom>2.</hom> *{#E#}
+
+<L>22596<pc>1-276-b<k1>o<k2>1. *o	<hom>1.</hom> *{#o#}
+
+<L>22597<pc>1-276-b<k1>o<k2>2. *o	<hom>2.</hom> *{#o#}
+
+<L>22745<pc>1-278-a<k1>O<k2>1. *O	<hom>1.</hom> *{#O#}
+
+<L>22746<pc>1-278-a<k1>O<k2>2. *O	<hom>2.</hom> *{#O#}
+
+<L>23027<pc>1-281-a<k1>Orasa<k2>2. *Orasa	<hom>2.</hom> *{#Orasa#}
+
+<L>23076<pc>1-281-b<k1>OlUka<k2>1. *OlUka	<hom>1.</hom> *{#OlUka#}
+
+<L>23077<pc>1-281-b<k1>OlUka<k2>2. *OlUka	<hom>2.</hom> *{#OlUka#}
+
+<L>23841<pc>2-010-b<k1>kaTAprasaNga<k2>2. *kaTAprasaNga	<hom>2.</hom> *{#kaTAprasaNga#}
+
+<L>24042<pc>2-012-c<k1>kaMda<k2>2. *kaMda	<hom>2.</hom> *{#kaMda#}
+
+<L>24393<pc>2-016-c<k1>kam<k2>3. *kam	<hom>3.</hom> *{#kam#}
+
+<L>24629<pc>2-022-c<k1>karapAla<k2>1. *karapAla	<hom>1.</hom> *{#karapAla#}
+
+<L>25079<pc>2-027-c<k1>kartana<k2>2. *kartana	<hom>2.</hom> *{#kartana#}
+
+<L>25352<pc>2-032-c<k1>kalakaRWa<k2>1. *kalakaRWa	<hom>1.</hom> *{#kalakaRWa#}
+
+<L>25385<pc>2-033-a<k1>kalaDvani<k2>2. *kalaDvani	<hom>2.</hom> *{#kalaDvani#}
+
+<L>25414<pc>2-033-b<k1>kalarava<k2>2. *kalarava	<hom>2.</hom> *{#kalarava#}
+
+<L>25461<pc>2-034-a<k1>kalAcI<k2>1. *kalAcI	<hom>1.</hom> *{#kalAcI#}
+
+<L>25478<pc>2-034-b<k1>kalApaka<k2>2. *kalApaka	<hom>2.</hom> *{#kalApaka#}
+
+<L>25502<pc>2-034-c<k1>kalAlApa<k2>2. *kalAlApa	<hom>2.</hom> *{#kalAlApa#}
+
+<L>25776<pc>2-039-b<k1>kavi<k2>2. *kavi	<hom>2.</hom> *{#kavi#}
+
+<L>25865<pc>2-040-a<k1>kaSya<k2>1. *kaSya	<hom>1.</hom> *{#kaSya#}
+
+<L>25866<pc>2-040-a<k1>kaSya<k2>2. *kaSya	<hom>2.</hom> *{#kaSya#}
+
+<L>26105<pc>2-043-b<k1>kAkuvAc<k2>1. *kAkuvAc	<hom>1.</hom> *{#kAkuvAc#}
+
+<L>26106<pc>2-043-b<k1>kAkuvAc<k2>2. *kAkuvAc	<hom>2.</hom> *{#kAkuvAc#}
+
+<L>26122<pc>2-043-b<k1>kAkza<k2>1. *kAkza	<hom>1.</hom> *{#kAkza#}
+
+<L>26123<pc>2-043-b<k1>kAkza<k2>2. *kAkza	<hom>2.</hom> *{#kAkza#}
+
+<L>26124<pc>2-043-b<k1>kAkza<k2>3. *kAkza	<hom>3.</hom> *{#kAkza#}
+
+<L>26176<pc>2-044-a<k1>kAjala<k2>1. *kAjala	<hom>1.</hom> *{#kAjala#}
+
+<L>26355<pc>2-046-b<k1>kAnana<k2>2. *kAnana	<hom>2.</hom> *{#kAnana#}
+
+<L>26493<pc>2-048-a<k1>kAmakeli<k2>2. *kAmakeli	<hom>2.</hom> *{#kAmakeli#}
+
+<L>26632<pc>2-049-c<k1>kAmavfdDi<k2>2. *kAmavfdDi	<hom>2.</hom> *{#kAmavfdDi#}
+
+<L>26761<pc>2-051-b<k1>kAra<k2>3. *kAra	<hom>3.</hom> *{#kAra#}
+
+<L>26762<pc>2-051-b<k1>kAra<k2>4. *kAra	<hom>4.</hom> *{#kAra#}
+
+<L>26765<pc>2-051-c<k1>kAraka<k2>2. *kAraka	<hom>2.</hom> *{#kAraka#}
+
+<L>26783<pc>2-052-a<k1>kAraRa<k2>2. *kAraRa	<hom>2.</hom> *{#kAraRa#}
+
+<L>26843<pc>2-052-c<k1>kAri<k2>1. *kAri	<hom>1.</hom> *{#kAri#}
+
+<L>26885<pc>2-053-b<k1>kArottara<k2>1. *kArottara	<hom>1.</hom> *{#kArottara#}
+
+<L>26957<pc>2-054-a<k1>kArma<k2>1. *kArma	<hom>1.</hom> *{#kArma#}
+
+<L>27245<pc>2-058-a<k1>kAlavAla<k2>1. *kAlavAla	<hom>1.</hom> *{#kAlavAla#}
+
+<L>27581<pc>2-062-b<k1>kASya<k2>2. *kASya	<hom>2.</hom> *{#kASya#}
+
+<L>27605<pc>2-062-b<k1>kAzAyin<k2>1. *kAzAyin	<hom>1.</hom> *{#kAzAyin#}
+
+<L>27669<pc>2-063-b<k1>kAsa<k2>1. *kAsa	<hom>1.</hom> *{#kAsa#}
+
+<L>27671<pc>2-063-b<k1>kAsa<k2>3. *kAsa	<hom>3.</hom> *{#kAsa#}
+
+<L>27810<pc>2-064-c<k1>kiYja<k2>2. *kiYja	<hom>2.</hom> *{#kiYja#}
+
+<L>27960<pc>2-067-a<k1>kila<k2>2. *kila	<hom>2.</hom> *{#kila#}
+
+<L>28565<pc>2-074-c<k1>kudAra<k2>1. *kudAra	<hom>1.</hom> *{#kudAra#}
+
+<L>29562<pc>2-086-b<k1>kusumabARa<k2>2. *kusumabARa	<hom>2.</hom> *{#kusumabARa#}
+
+<L>29622<pc>2-087-a<k1>kuh<k2>1. *kuh	<hom>1.</hom> *{#kuh#}
+
+<L>29625<pc>2-087-a<k1>kuha<k2>2. *kuha	<hom>2.</hom> *{#kuha#}
+
+<L>29658<pc>2-087-b<k1>kuhUrava<k2>2. *kuhUrava	<hom>2.</hom> *{#kuhUrava#}
+
+<L>29665<pc>2-087-b<k1>kU<k2>3. *kU	<hom>3.</hom> *{#kU#}
+
+<L>30066<pc>2-092-b<k1>kfti<k2>4. *kfti	<hom>4.</hom> *{#kfti#}
+
+<L>30322<pc>2-095-c<k1>kfzRakarman<k2>2. *kfzRakarman	<hom>2.</hom> *{#kfzRakarman#}
+
+<L>30533<pc>2-097-b<k1>kfzRAjina<k2>2. *kfzRAjina	<hom>2.</hom> *{#kfzRAjina#}
+
+<L>31096<pc>2-104-a<k1>kopakrama<k2>1. *kopakrama	<hom>1.</hom> *{#kopakrama#}
+
+<L>31097<pc>2-104-a<k1>kopakrama<k2>2. *kopakrama	<hom>2.</hom> *{#kopakrama#}
+
+<L>31192<pc>2-105-a<k1>koSaPala<k2>2. *koSaPala	<hom>2.</hom> *{#koSaPala#}
+
+<L>31288<pc>2-106-b<k1>kOwa<k2>1. *kOwa	<hom>1.</hom> *{#kOwa#}
+
+<L>31315<pc>2-106-c<k1>kOwya<k2>1. *kOwya	<hom>1.</hom> *{#kOwya#}
+
+<L>31316<pc>2-106-c<k1>kOwya<k2>2. *kOwya	<hom>2.</hom> *{#kOwya#}
+
+<L>32192<pc>2-120-a<k1>kzaRa<k2>2. *kzaRa	<hom>2.</hom> *{#kzaRa#}
+
+<L>32302<pc>2-121-b<k1>kzapaRI<k2>1. *kzapaRI	<hom>1.</hom> *{#kzapaRI#}
+
+<L>32359<pc>2-122-b<k1>kzaya<k2>2. *kza/ya	<hom>2.</hom> *{#kza/ya#}
+
+<L>32435<pc>2-123-b<k1>kzAmi<k2>2. *kzAmi	<hom>2.</hom> *{#kzAmi#}
+
+<L>32482<pc>2-124-b<k1>kzi<k2>4. *kzi	<hom>4.</hom> *{#kzi#}
+
+<L>33166<pc>2-133-a<k1>Ka<k2>1. *Ka	<hom>1.</hom> *{#Ka#}
+
+<L>33223<pc>2-133-c<k1>KaYj<k2>2. *KaYj	<hom>2.</hom> *{#KaYj#}
+
+<L>33370<pc>2-135-c<k1>KaRqamaRqala<k2>1. *KaRqamaRqala	<hom>1.</hom> *{#KaRqamaRqala#}
+
+<L>33371<pc>2-135-c<k1>KaRqamaRqala<k2>2. *KaRqamaRqala	<hom>2.</hom> *{#KaRqamaRqala#}
+
+<L>33682<pc>2-139-b<k1>KA<k2>2. *KA	<hom>2.</hom> *{#KA#}
+
+<L>33839<pc>2-141-a<k1>KuqavAta<k2>1. *KuqavAta	<hom>1.</hom> *{#KuqavAta#}
+
+<L>34072<pc>2-144-b<k1>gajadanta<k2>2. *gajadanta	<hom>2.</hom> *{#gajadanta#}
+
+<L>34531<pc>2-150-b<k1>ganDapuzpa<k2>2. *ganDapuzpa	<hom>2.</hom> *{#ganDapuzpa#}
+
+<L>34740<pc>2-156-b<k1>garaRa<k2>1. *garaRa	<hom>1.</hom> *{#garaRa#}
+
+<L>34741<pc>2-156-b<k1>garaRa<k2>2. *garaRa	<hom>2.</hom> *{#garaRa#}
+
+<L>34837<pc>2-157-c<k1>gardaB<k2>2. *gardaB	<hom>2.</hom> *{#gardaB#}
+
+<L>35018<pc>2-160-a<k1>gala<k2>2. *gala	<hom>2.</hom> *{#gala#}
+
+<L>35020<pc>2-160-a<k1>galaka<k2>2. *galaka	<hom>2.</hom> *{#galaka#}
+
+<L>35062<pc>2-160-c<k1>galyA<k2>1. *galyA	<hom>1.</hom> *{#galyA#}
+
+<L>35063<pc>2-160-c<k1>galyA<k2>2. *galyA	<hom>2.</hom> *{#galyA#}
+
+<L>35278<pc>2-164-a<k1>gAntu<k2>1. *gAntu	<hom>1.</hom> *{#gAntu#}
+
+<L>35279<pc>2-164-a<k1>gAntu<k2>2. *gAntu	<hom>2.</hom> *{#gAntu#}
+
+<L>35350<pc>2-165-a<k1>gArgI<k2>2. *gArgI	<hom>2.</hom> *{#gArgI#}
+
+<L>35423<pc>2-166-b<k1>gira<k2>2. *gira	<hom>2.</hom> *{#gira#}
+
+<L>35525<pc>2-167-b<k1>girISa<k2>1. *girISa	<hom>1.</hom> *{#girISa#}
+
+<L>36107<pc>2-175-a<k1>gUQamETuna<k2>2. *gUQamETuna	<hom>2.</hom> *{#gUQamETuna#}
+
+<L>36346<pc>2-177-c<k1>gfhya<k2>3. *gfhya	<hom>3.</hom> *{#gfhya#}
+
+<L>36409<pc>2-178-b<k1>go<k2>2. *go	<hom>2.</hom> *{#go#}
+
+<L>36789<pc>2-182-c<k1>gomant<k2>2. *gomant	<hom>2.</hom> *{#gomant#}
+
+<L>37028<pc>2-185-b<k1>gozpada<k2>2. *gozpada	<hom>2.</hom> *{#gozpada#}
+
+<L>37099<pc>2-186-a<k1>gORika<k2>2. *gORika	<hom>2.</hom> *{#gORika#}
+
+<L>37285<pc>2-188-b<k1>granTi<k2>2. *granTi	<hom>2.</hom> *{#granTi#}
+
+<L>37626<pc>2-195-a<k1>glA<k2>2. *glA	<hom>2.</hom> *{#glA#}
+
+<L>37644<pc>2-195-a<k1>glO<k2>2. *glO	<hom>2.</hom> *{#glO#}
+
+<L>37651<pc>2-195-b<k1>Ga<k2>3. *Ga	<hom>3.</hom> *{#Ga#}
+
+<L>37775<pc>2-197-b<k1>GanaPala<k2>2. *GanaPala	<hom>2.</hom> *{#GanaPala#}
+
+<L>37778<pc>2-197-b<k1>GanamUla<k2>2. *GanamUla	<hom>2.</hom> *{#GanamUla#}
+
+<L>37880<pc>2-198-c<k1>Garz<k2>2. *Garz	<hom>2.</hom> *{#Garz#}
+
+<L>37925<pc>2-199-b<k1>Gu<k2>2. *Gu	<hom>2.</hom> *{#Gu#}
+
+<L>38106<pc>2-201-c<k1>GoRwAPala<k2>2. *GoRwAPala	<hom>2.</hom> *{#GoRwAPala#}
+
+<L>38181<pc>2-203-a<k1>ca<k2>2. *ca	<hom>2.</hom> *{#ca#}
+
+<L>38188<pc>2-203-a<k1>cakAs<k2>2. *cakAs	<hom>2.</hom> *{#cakAs#}
+
+<L>38343<pc>2-205-a<k1>cakru<k2>2. *cakru	<hom>2.</hom> *{#cakru#}
+
+<L>39002<pc>2-213-b<k1>candrabindu<k2>1. *candrabindu	<hom>1.</hom> *{#candrabindu#}
+
+<L>39535<pc>2-222-a<k1>cAtura<k2>1. *cAtura	<hom>1.</hom> *{#cAtura#}
+
+<L>39824<pc>2-226-b<k1>cikIrz<k2>2. *cikIrz	<hom>2.</hom> *{#cikIrz#}
+
+<L>40553<pc>2-236-a<k1>cUrRI<k2>1. *cUrRI	<hom>1.</hom> *{#cUrRI#}
+
+<L>40903<pc>2-241-c<k1>Cand<k2>1. *Cand	<hom>1.</hom> *{#Cand#}
+
+<L>41016<pc>2-243-a<k1>CA<k2>2. *CA	<hom>2.</hom> *{#CA#}
+
+<L>41209<pc>2-246-b<k1>ja<k2>2. *ja	<hom>2.</hom> *{#ja#}
+
+<L>41752<pc>2-254-b<k1>jamBana<k2>2. *jamBana	<hom>2.</hom> *{#jamBana#}
+
+<L>42223<pc>2-259-c<k1>jalADidEvata<k2>1. *jalADidEvata	<hom>1.</hom> *{#jalADidEvata#}
+
+<L>42253<pc>2-260-a<k1>jalASraya<k2>2. *jalASraya	<hom>2.</hom> *{#jalASraya#}
+
+<L>42255<pc>2-260-a<k1>jalAza<k2>2. *jalAza/	<hom>2.</hom> *{#jalAza/#}
+
+<L>42366<pc>2-261-b<k1>jAgara<k2>2. *jAgara	<hom>2.</hom> *{#jAgara#}
+
+<L>42544<pc>2-263-c<k1>jAnI<k2>1. *jAnI	<hom>1.</hom> *{#jAnI#}
+
+<L>42570<pc>2-264-a<k1>jAbAla<k2>2. *jAbAla	<hom>2.</hom> *{#jAbAla#}
+
+<L>42738<pc>2-266-c<k1>ji<k2>3. *ji	<hom>3.</hom> *{#ji#}
+
+<L>43188<pc>2-273-a<k1>jUr<k2>3. *jUr	<hom>3.</hom> *{#jUr#}
+
+<L>43456<pc>2-277-b<k1>jyA<k2>4. *jyA	<hom>4.</hom> *{#jyA#}
+
+<L>44031<pc>3-001-a<k1>ta<k2>3. *ta	<hom>3.</hom> *{#ta#}
+
+<L>44043<pc>3-001-b<k1>takman<k2>2. *ta/kman	<hom>2.</hom> *{#ta/kman#}
+
+<L>44238<pc>3-004-b<k1>tatpada<k2>2. *tatpada	<hom>2.</hom> *{#tatpada#}
+
+<L>44971<pc>3-018-a<k1>tarman<k2>2. *tarman	<hom>2.</hom> *{#tarman#}
+
+<L>44975<pc>3-018-a<k1>tarza<k2>1. *tarza	<hom>1.</hom> *{#tarza#}
+
+<L>45270<pc>3-022-a<k1>tAmbUlapattra<k2>2. *tAmbUlapattra	<hom>2.</hom> *{#tAmbUlapattra#}
+
+<L>45315<pc>3-022-c<k1>tAmrapattra<k2>1. *tAmrapattra	<hom>1.</hom> *{#tAmrapattra#}
+
+<L>45316<pc>3-022-c<k1>tAmrapattra<k2>2. *tAmrapattra	<hom>2.</hom> *{#tAmrapattra#}
+
+<L>45569<pc>3-026-a<k1>tAlI<k2>2. *tAlI	<hom>2.</hom> *{#tAlI#}
+
+<L>46017<pc>3-031-c<k1>tIkzRakarman<k2>1. *tIkzRakarman	<hom>1.</hom> *{#tIkzRakarman#}
+
+<L>46018<pc>3-031-c<k1>tIkzRakarman<k2>2. *tIkzRakarman	<hom>2.</hom> *{#tIkzRakarman#}
+
+<L>46691<pc>3-040-b<k1>tfRatA<k2>1. *tfRatA	<hom>1.</hom> *{#tfRatA#}
+
+<L>46692<pc>3-040-b<k1>tfRatA<k2>2. *tfRatA	<hom>2.</hom> *{#tfRatA#}
+
+<L>46791<pc>3-041-b<k1>tftIyA<k2>2. *tftIyA	<hom>2.</hom> *{#tftIyA#}
+
+<L>47170<pc>3-045-b<k1>tOlika<k2>1. *tOlika	<hom>1.</hom> *{#tOlika#}
+
+<L>47341<pc>3-048-b<k1>trikaRwa<k2>1. *trikaRwa	<hom>1.</hom> *{#trikaRwa#}
+
+<L>47342<pc>3-048-b<k1>trikaRwa<k2>2. *trikaRwa	<hom>2.</hom> *{#trikaRwa#}
+
+<L>47832<pc>3-054-c<k1>triSaraRa<k2>2. *triSaraRa	<hom>2.</hom> *{#triSaraRa#}
+
+<L>48351<pc>3-061-a<k1>da<k2>5. *da	<hom>5.</hom> *{#da#}
+
+<L>49509<pc>3-078-a<k1>dahra<k2>2. *dahra	<hom>2.</hom> *{#dahra#}
+
+<L>49516<pc>3-079-c<k1>dA<k2>6. *dA	<hom>6.</hom> *{#dA#}
+
+<L>49518<pc>3-079-c<k1>dA<k2>8. *dA	<hom>8.</hom> *{#dA#}
+
+<L>49604<pc>3-081-a<k1>dAti<k2>2. *dAti	<hom>2.</hom> *{#dAti#}
+
+<L>49639<pc>3-081-b<k1>dAna<k2>6. *dAna	<hom>6.</hom> *{#dAna#}
+
+<L>49640<pc>3-081-b<k1>dAna<k2>7. *dAna	<hom>7.</hom> *{#dAna#}
+
+<L>49641<pc>3-081-b<k1>dAna<k2>8. *dAna	<hom>8.</hom> *{#dAna#}
+
+<L>49689<pc>3-082-a<k1>dAnu<k2>3. *dAnu	<hom>3.</hom> *{#dAnu#}
+
+<L>49759<pc>3-082-c<k1>dAya<k2>3. *dAya	<hom>3.</hom> *{#dAya#}
+
+<L>49781<pc>3-083-a<k1>dAraka<k2>3. *dAraka	<hom>3.</hom> *{#dAraka#}
+
+<L>49803<pc>3-083-b<k1>dAru<k2>3. *dAru	<hom>3.</hom> *{#dAru#}
+
+<L>49967<pc>3-085-b<k1>dAsa<k2>4. *dAsa	<hom>4.</hom> *{#dAsa#}
+
+<L>50015<pc>3-085-c<k1>dAseya<k2>1. *dAseya	<hom>1.</hom> *{#dAseya#}
+
+<L>50016<pc>3-085-c<k1>dAseya<k2>2. *dAseya	<hom>2.</hom> *{#dAseya#}
+
+<L>50041<pc>3-086-a<k1>dikka<k2>2. *dikka	<hom>2.</hom> *{#dikka#}
+
+<L>50126<pc>3-087-a<k1>diti<k2>1. *diti	<hom>1.</hom> *{#diti#}
+
+<L>50422<pc>3-091-c<k1>diS<k2>3. *diS	<hom>3.</hom> *{#diS#}
+
+<L>50451<pc>3-092-b<k1>dI<k2>5. *dI	<hom>5.</hom> *{#dI#}
+
+<L>50678<pc>3-096-a<k1>dIrGamUla<k2>1. *dIrGamUla	<hom>1.</hom> *{#dIrGamUla#}
+
+<L>50744<pc>3-096-c<k1>dIrGAyuDa<k2>1. *dIrGAyuDa	<hom>1.</hom> *{#dIrGAyuDa#}
+
+<L>50745<pc>3-096-c<k1>dIrGAyuDa<k2>2. *dIrGAyuDa	<hom>2.</hom> *{#dIrGAyuDa#}
+
+<L>50750<pc>3-096-c<k1>dIrGAyuzya<k2>2. *dIrGAyuzya	<hom>2.</hom> *{#dIrGAyuzya#}
+
+<L>50902<pc>3-098-c<k1>durakza<k2>1. *durakza	<hom>1.</hom> *{#durakza#}
+
+<L>51394<pc>3-104-c<k1>durvAda<k2>2. *durvAda	<hom>2.</hom> *{#durvAda#}
+
+<L>51760<pc>3-109-a<k1>dU<k2>2. *dU	<hom>2.</hom> *{#dU#}
+
+<L>52137<pc>3-114-a<k1>deva<k2>2. *deva	<hom>2.</hom> *{#deva#}
+
+<L>52316<pc>3-116-b<k1>devana<k2>2. *devana	<hom>2.</hom> *{#devana#}
+
+<L>52481<pc>3-118-a<k1>devala<k2>2. *devala	<hom>2.</hom> *{#devala#}
+
+<L>52859<pc>3-122-a<k1>dEna<k2>1. *dEna	<hom>1.</hom> *{#dEna#}
+
+<L>52860<pc>3-122-a<k1>dEna<k2>2. *dEna	<hom>2.</hom> *{#dEna#}
+
+<L>52904<pc>3-122-c<k1>dEvadatta<k2>2. *dEvadatta	<hom>2.</hom> *{#dEvadatta#}
+
+<L>53030<pc>3-124-a<k1>dozA<k2>2. *dozA	<hom>2.</hom> *{#dozA#}
+
+<L>53527<pc>3-131-a<k1>drU<k2>2. *drU	<hom>2.</hom> *{#drU#}
+
+<L>54339<pc>3-140-b<k1>Da<k2>2. *Da	<hom>2.</hom> *{#Da#}
+
+<L>54406<pc>3-141-a<k1>DanamUla<k2>1. *DanamUla	<hom>1.</hom> *{#DanamUla#}
+
+<L>54512<pc>3-142-b<k1>Danuzkara<k2>1. *Danuzkara	<hom>1.</hom> *{#Danuzkara#}
+
+<L>54513<pc>3-142-b<k1>Danuzkara<k2>2. *Danuzkara	<hom>2.</hom> *{#Danuzkara#}
+
+<L>54676<pc>3-146-b<k1>DarmakAya<k2>1. *DarmakAya	<hom>1.</hom> *{#DarmakAya#}
+
+<L>54703<pc>3-146-c<k1>Darmacakra<k2>2. *Darmacakra	<hom>2.</hom> *{#Darmacakra#}
+
+<L>54749<pc>3-147-b<k1>DarmaDAtu<k2>2. *DarmaDAtu	<hom>2.</hom> *{#DarmaDAtu#}
+
+<L>55014<pc>3-151-a<k1>Davalapakza<k2>1. *Davalapakza	<hom>1.</hom> *{#Davalapakza#}
+
+<L>55015<pc>3-151-a<k1>Davalapakza<k2>2. *Davalapakza	<hom>2.</hom> *{#Davalapakza#}
+
+<L>55118<pc>3-156-b<k1>DAtra<k2>1. *DAtra	<hom>1.</hom> *{#DAtra#}
+
+<L>55242<pc>3-158-a<k1>DAra<k2>4. *DAra	<hom>4.</hom> *{#DAra#}
+
+<L>55273<pc>3-158-c<k1>DArA<k2>3. *DArA	<hom>3.</hom> *{#DArA#}
+
+<L>55281<pc>3-158-c<k1>DArANga<k2>1. *DArANga	<hom>1.</hom> *{#DArANga#}
+
+<L>55282<pc>3-158-c<k1>DArANga<k2>2. *DArANga	<hom>2.</hom> *{#DArANga#}
+
+<L>55287<pc>3-159-a<k1>DArADara<k2>2. *DArADara	<hom>2.</hom> *{#DArADara#}
+
+<L>55323<pc>3-159-b<k1>DArin<k2>3. *DArin	<hom>3.</hom> *{#DArin#}
+
+<L>55361<pc>3-160-b<k1>DAvanikA<k2>1. *DAvanikA	<hom>1.</hom> *{#DAvanikA#}
+
+<L>55362<pc>3-160-b<k1>DAvanikA<k2>2. *DAvanikA	<hom>2.</hom> *{#DAvanikA#}
+
+<L>55397<pc>3-160-c<k1>Diz<k2>1. *Diz	<hom>1.</hom> *{#Diz#}
+
+<L>55424<pc>3-161-b<k1>DIti<k2>1. *DIti	<hom>1.</hom> *{#DIti#}
+
+<L>55472<pc>3-162-a<k1>Du<k2>2. *Du	<hom>2.</hom> *{#Du#}
+
+<L>55515<pc>3-163-b<k1>DU<k2>2. *DU	<hom>2.</hom> *{#DU#}
+
+<L>56017<pc>3-170-b<k1>Dvajadruma<k2>1. *Dvajadruma	<hom>1.</hom> *{#Dvajadruma#}
+
+<L>56116<pc>3-171-c<k1>na<k2>3. *na	<hom>3.</hom> *{#na#}
+
+<L>56702<pc>3-180-b<k1>namata<k2>1. *namata	<hom>1.</hom> *{#namata#}
+
+<L>56703<pc>3-180-b<k1>namata<k2>2. *namata	<hom>2.</hom> *{#namata#}
+
+<L>56922<pc>3-183-a<k1>narANga<k2>1. *narANga	<hom>1.</hom> *{#narANga#}
+
+<L>57066<pc>3-185-a<k1>nava<k2>2. *nava	<hom>2.</hom> *{#nava#}
+
+<L>57096<pc>3-185-b<k1>navata<k2>2. *navata	<hom>2.</hom> *{#navata#}
+
+<L>57217<pc>3-186-c<k1>navAha<k2>1. *navAha	<hom>1.</hom> *{#navAha#}
+
+<L>57341<pc>3-189-a<k1>nAkapfzWa<k2>2. *nAkapfzWa	<hom>2.</hom> *{#nAkapfzWa#}
+
+<L>58102<pc>3-198-c<k1>nAvya<k2>2. *nAvya	<hom>2.</hom> *{#nAvya#}
+
+<L>58225<pc>3-200-b<k1>nikAra<k2>2. *nikAra	<hom>2.</hom> *{#nikAra#}
+
+<L>58383<pc>3-202-b<k1>nicaya<k2>2. *nicaya	<hom>2.</hom> *{#nicaya#}
+
+<L>58554<pc>3-204-c<k1>niDana<k2>2. *niDana	<hom>2.</hom> *{#niDana#}
+
+<L>58749<pc>3-207-b<k1>nimeya<k2>2. *nimeya	<hom>2.</hom> *{#nimeya#}
+
+<L>58997<pc>3-211-a<k1>nirAkAra<k2>2. *nirAkAra	<hom>2.</hom> *{#nirAkAra#}
+
+<L>59191<pc>3-213-c<k1>nirUha<k2>2. *nirUha	<hom>2.</hom> *{#nirUha#}
+
+<L>59192<pc>3-213-c<k1>nirUha<k2>3. *nirUha	<hom>3.</hom> *{#nirUha#}
+
+<L>59197<pc>3-213-c<k1>nirfti<k2>2. *nirfti	<hom>2.</hom> *{#nirfti#}
+
+<L>59612<pc>3-219-a<k1>nirvApa<k2>2. *nirvApa	<hom>2.</hom> *{#nirvApa#}
+
+<L>59772<pc>3-221-b<k1>nivasana<k2>2. *nivasana	<hom>2.</hom> *{#nivasana#}
+
+<L>59797<pc>3-221-c<k1>nivAsana<k2>1. *nivAsana	<hom>1.</hom> *{#nivAsana#}
+
+<L>60108<pc>3-226-a<k1>nizkAraRa<k2>1. *nizkAraRa	<hom>1.</hom> *{#nizkAraRa#}
+
+<L>60221<pc>3-227-c<k1>nizpad<k2>2. *nizpad	<hom>2.</hom> *{#nizpad#}
+
+<L>60671<pc>3-235-b<k1>nIladruma<k2>1. *nIladruma	<hom>1.</hom> *{#nIladruma#}
+
+<L>60730<pc>3-236-a<k1>nIlavasana<k2>2. *nIlavasana	<hom>2.</hom> *{#nIlavasana#}
+
+<L>60732<pc>3-236-a<k1>nIlavastra<k2>2. *nIlavastra	<hom>2.</hom> *{#nIlavastra#}
+
+<L>60787<pc>3-236-c<k1>nIlIrAga<k2>2. *nIlIrAga	<hom>2.</hom> *{#nIlIrAga#}
+
+<L>60825<pc>3-237-b<k1>nu<k2>3. *nu	<hom>3.</hom> *{#nu#}
+
+<L>60829<pc>3-237-b<k1>nu<k2>7. *nu	<hom>7.</hom> *{#nu#}
+
+<L>61386<pc>3-244-a<k1>nO<k2>3. *nO	<hom>3.</hom> *{#nO#}
+
+<L>61554<pc>4-001-a<k1>pa<k2>4. *pa	<hom>4.</hom> *{#pa#}
+
+<L>61811<pc>4-005-a<k1>paYcakftya<k2>2. *paYcakftya	<hom>2.</hom> *{#paYcakftya#}
+
+<L>61997<pc>4-007-b<k1>paYcamAsya<k2>2. *paYcamAsya	<hom>2.</hom> *{#paYcamAsya#}
+
+<L>62174<pc>4-009-b<k1>paYcAvawa<k2>2. *paYcAvawa	<hom>2.</hom> *{#paYcAvawa#}
+
+<L>62258<pc>4-010-c<k1>pawavAsa<k2>1. *pawavAsa	<hom>1.</hom> *{#pawavAsa#}
+
+<L>62259<pc>4-010-c<k1>pawavAsa<k2>2. *pawavAsa	<hom>2.</hom> *{#pawavAsa#}
+
+<L>62452<pc>4-015-a<k1>pata<k2>2. *pata	<hom>2.</hom> *{#pata#}
+
+<L>62500<pc>4-016-a<k1>pati<k2>2. *pati	<hom>2.</hom> *{#pati#}
+
+<L>62555<pc>4-016-c<k1>patti<k2>2. *patti	<hom>2.</hom> *{#patti#}
+
+<L>63182<pc>4-029-c<k1>paracCanda<k2>2. *paracCanda	<hom>2.</hom> *{#paracCanda#}
+
+<L>63548<pc>4-034-c<k1>parAmfta<k2>1. *parAmfta	<hom>1.</hom> *{#parAmfta#}
+
+<L>63636<pc>4-036-b<k1>parikarman<k2>2. *parikarman	<hom>2.</hom> *{#parikarman#}
+
+<L>63640<pc>4-036-b<k1>parikarza<k2>2. *parikarza	<hom>2.</hom> *{#parikarza#}
+
+<L>64245<pc>4-044-c<k1>parivftti<k2>2. *parivftti	<hom>2.</hom> *{#parivftti#}
+
+<L>65001<pc>4-055-a<k1>palASapattra<k2>2. *palASapattra	<hom>2.</hom> *{#palASapattra#}
+
+<L>65138<pc>4-057-c<k1>paS<k2>4. *paS	<hom>4.</hom> *{#paS#}
+
+<L>65142<pc>4-057-c<k1>paSu<k2>2. *paSu	<hom>2.</hom> *{#paSu#}
+
+<L>65354<pc>4-061-a<k1>pAka<k2>3. *pAka	<hom>3.</hom> *{#pAka#}
+
+<L>65410<pc>4-061-c<k1>pAkzika<k2>2. *pAkzika	<hom>2.</hom> *{#pAkzika#}
+
+<L>65499<pc>4-063-a<k1>pAwala<k2>2. *pAwala	<hom>2.</hom> *{#pAwala#}
+
+<L>65550<pc>4-063-c<k1>pARa<k2>2. *pARa	<hom>2.</hom> *{#pARa#}
+
+<L>65553<pc>4-063-c<k1>pARi<k2>2. *pARi	<hom>2.</hom> *{#pARi#}
+
+<L>65554<pc>4-063-c<k1>pARika<k2>1. *pARika	<hom>1.</hom> *{#pARika#}
+
+<L>65701<pc>4-065-b<k1>pARya<k2>2. *pARya	<hom>2.</hom> *{#pARya#}
+
+<L>65719<pc>4-066-a<k1>pAtar<k2>3. *pAtar	<hom>3.</hom> *{#pAtar#}
+
+<L>65842<pc>4-067-c<k1>pAdapa<k2>2. *pAdapa	<hom>2.</hom> *{#pAdapa#}
+
+<L>65843<pc>4-067-c<k1>pAdapa<k2>3. *pAdapa	<hom>3.</hom> *{#pAdapa#}
+
+<L>65958<pc>4-069-a<k1>pAdika<k2>2. *pAdika	<hom>2.</hom> *{#pAdika#}
+
+<L>65986<pc>4-069-b<k1>pAna<k2>4. *pAna	<hom>4.</hom> *{#pAna#}
+
+<L>66165<pc>4-071-b<k1>pAyya<k2>2. *pAyya	<hom>2.</hom> *{#pAyya#}
+
+<L>66166<pc>4-071-b<k1>pAyya<k2>3. *pAyya	<hom>3.</hom> *{#pAyya#}
+
+<L>66186<pc>4-071-c<k1>pAraRa<k2>2. *pAraRa	<hom>2.</hom> *{#pAraRa#}
+
+<L>66416<pc>4-075-a<k1>pArTa<k2>3. *pArTa	<hom>3.</hom> *{#pArTa#}
+
+<L>66417<pc>4-075-a<k1>pArTa<k2>4. *pArTa	<hom>4.</hom> *{#pArTa#}
+
+<L>66544<pc>4-076-c<k1>pAlaka<k2>2. *pAlaka	<hom>2.</hom> *{#pAlaka#}
+
+<L>67384<pc>4-089-c<k1>pIti<k2>3. *pIti	<hom>3.</hom> *{#pIti#}
+
+<L>67386<pc>4-089-c<k1>pItin<k2>2. *pItin	<hom>2.</hom> *{#pItin#}
+
+<L>67395<pc>4-089-c<k1>pITa<k2>3. *pITa	<hom>3.</hom> *{#pITa#}
+
+<L>67642<pc>4-093-a<k1>puRyaPala<k2>2. *puRyaPala	<hom>2.</hom> *{#puRyaPala#}
+
+<L>68502<pc>4-104-c<k1>puzkarabIja<k2>2. *puzkarabIja	<hom>2.</hom> *{#puzkarabIja#}
+
+<L>68616<pc>4-106-b<k1>puzpaPala<k2>2. *puzpaPala	<hom>2.</hom> *{#puzpaPala#}
+
+<L>68801<pc>4-109-a<k1>pUtaDAnya<k2>1. *pUtaDAnya	<hom>1.</hom> *{#pUtaDAnya#}
+
+<L>68836<pc>4-109-c<k1>pUtiganDa<k2>2. *pUtiganDa	<hom>2.</hom> *{#pUtiganDa#}
+
+<L>69028<pc>4-112-b<k1>pUrvakAla<k2>1. *pUrvakAla	<hom>1.</hom> *{#pUrvakAla#}
+
+<L>69641<pc>4-119-c<k1>pfzwi<k2>2. *pfzwi	<hom>2.</hom> *{#pfzwi#}
+
+<L>69736<pc>4-121-a<k1>peru<k2>5. *peru	<hom>5.</hom> *{#peru#}
+
+<L>69932<pc>4-123-a<k1>potra<k2>2. *potra	<hom>2.</hom> *{#potra#}
+
+<L>70021<pc>4-124-a<k1>pOtra<k2>2. *pOtra	<hom>2.</hom> *{#pOtra#}
+
+<L>70564<pc>4-132-b<k1>pracCana<k2>1. *pracCana	<hom>1.</hom> *{#pracCana#}
+
+<L>70604<pc>4-133-a<k1>prajava<k2>2. *prajava	<hom>2.</hom> *{#prajava#}
+
+<L>70678<pc>4-134-b<k1>prajYa<k2>2. *prajYa	<hom>2.</hom> *{#prajYa#}
+
+<L>71366<pc>4-144-a<k1>pratiyatna<k2>2. *pratiyatna	<hom>2.</hom> *{#pratiyatna#}
+
+<L>71458<pc>4-145-b<k1>prativARi<k2>1. *prativARi	<hom>1.</hom> *{#prativARi#}
+
+<L>71459<pc>4-145-b<k1>prativARi<k2>2. *prativARi	<hom>2.</hom> *{#prativARi#}
+
+<L>71487<pc>4-145-c<k1>prativirati<k2>1. *prativirati	<hom>1.</hom> *{#prativirati#}
+
+<L>71492<pc>4-145-c<k1>prativiza<k2>1. *prativiza	<hom>1.</hom> *{#prativiza#}
+
+<L>71535<pc>4-146-b<k1>pratiSAsana<k2>1. *pratiSAsana	<hom>1.</hom> *{#pratiSAsana#}
+
+<L>72397<pc>4-158-c<k1>praDAvana<k2>1. *praDAvana	<hom>1.</hom> *{#praDAvana#}
+
+<L>72400<pc>4-158-c<k1>praDI<k2>1. *praDI	<hom>1.</hom> *{#praDI#}
+
+<L>72401<pc>4-158-c<k1>praDI<k2>2. *praDI	<hom>2.</hom> *{#praDI#}
+
+<L>72442<pc>4-159-b<k1>prapaTa<k2>2. *prapaTa	<hom>2.</hom> *{#prapaTa#}
+
+<L>72725<pc>4-163-b<k1>pramaya<k2>2. *pramaya	<hom>2.</hom> *{#pramaya#}
+
+<L>72815<pc>4-165-a<k1>pramud<k2>2. *pramud	<hom>2.</hom> *{#pramud#}
+
+<L>73047<pc>4-168-a<k1>pravaMga<k2>1. *pravaMga	<hom>1.</hom> *{#pravaMga#}
+
+<L>73078<pc>4-168-c<k1>pravayaRa<k2>2. *pravayaRa	<hom>2.</hom> *{#pravayaRa#}
+
+<L>73086<pc>4-169-a<k1>pravaraRa<k2>1. *pravaraRa	<hom>1.</hom> *{#pravaraRa#}
+
+<L>73162<pc>4-170-a<k1>pravAraRa<k2>1. *pravAraRa	<hom>1.</hom> *{#pravAraRa#}
+
+<L>73183<pc>4-170-c<k1>pravAhin<k2>2. *pravAhin	<hom>2.</hom> *{#pravAhin#}
+
+<L>73498<pc>4-174-c<k1>prasavin<k2>1. *prasavin	<hom>1.</hom> *{#prasavin#}
+
+<L>73546<pc>4-175-c<k1>prasiti<k2>1. *prasiti	<hom>1.</hom> *{#prasiti#}
+
+<L>73690<pc>4-178-a<k1>prasveda<k2>2. *prasveda	<hom>2.</hom> *{#prasveda#}
+
+<L>73911<pc>4-181-a<k1>prAgdiS<k2>1. *prAgdiS	<hom>1.</hom> *{#prAgdiS#}
+
+<L>73972<pc>4-181-c<k1>prAcAra<k2>2. *prAcAra	<hom>2.</hom> *{#prAcAra#}
+
+<L>74075<pc>4-183-c<k1>prARa<k2>2. *prARa	<hom>2.</hom> *{#prARa#}
+
+<L>74404<pc>4-187-c<k1>prApa<k2>2. *prApa	<hom>2.</hom> *{#prApa#}
+
+<L>74562<pc>4-190-a<k1>prAvara<k2>1. *prAvara	<hom>1.</hom> *{#prAvara#}
+
+<L>74563<pc>4-190-a<k1>prAvara<k2>2. *prAvara	<hom>2.</hom> *{#prAvara#}
+
+<L>74770<pc>4-192-c<k1>priyavacana<k2>2. *priyavacana	<hom>2.</hom> *{#priyavacana#}
+
+<L>74801<pc>4-193-a<k1>priyA<k2>2. *priyA	<hom>2.</hom> *{#priyA#}
+
+<L>74855<pc>4-194-b<k1>pruz<k2>3. *pruz	<hom>3.</hom> *{#pruz#}
+
+<L>75198<pc>4-199-c<k1>plutagati<k2>2. *plutagati	<hom>2.</hom> *{#plutagati#}
+
+<L>75215<pc>4-199-c<k1>psA<k2>2. *psA	<hom>2.</hom> *{#psA#}
+
+<L>75434<pc>4-202-c<k1>PalI<k2>1. *PalI	<hom>1.</hom> *{#PalI#}
+
+<L>75825<pc>4-209-a<k1>banDUkapuzpa<k2>2. *banDUkapuzpa	<hom>2.</hom> *{#banDUkapuzpa#}
+
+<L>75890<pc>4-210-a<k1>barh<k2>4. *barh	<hom>4.</hom> *{#barh#}
+
+<L>75940<pc>4-211-a<k1>bal<k2>2. *bal	<hom>2.</hom> *{#bal#}
+
+<L>76319<pc>4-216-a<k1>bahutfRa<k2>2. *bahutfRa	<hom>2.</hom> *{#bahutfRa#}
+
+<L>76722<pc>4-221-b<k1>bAla<k2>2. *bAla	<hom>2.</hom> *{#bAla#}
+
+<L>76819<pc>4-222-c<k1>bAliSa<k2>2. *bAliSa	<hom>2.</hom> *{#bAliSa#}
+
+<L>76878<pc>4-223-b<k1>bAhava<k2>2. *bAhava	<hom>2.</hom> *{#bAhava#}
+
+<L>77961<pc>4-237-c<k1>brahmabIja<k2>2. *brahmabIja	<hom>2.</hom> *{#brahmabIja#}
+
+<L>78311<pc>4-242-c<k1>Ba<k2>2. *Ba	<hom>2.</hom> *{#Ba#}
+
+<L>78537<pc>4-245-c<k1>BaNgya<k2>1. *BaNgya	<hom>1.</hom> *{#BaNgya#}
+
+<L>78779<pc>4-249-c<k1>BadrA<k2>2. *BadrA	<hom>2.</hom> *{#BadrA#}
+
+<L>78921<pc>4-252-b<k1>Barita<k2>2. *Barita	<hom>2.</hom> *{#Barita#}
+
+<L>79248<pc>4-257-b<k1>BAkta<k2>1. *BAkta	<hom>1.</hom> *{#BAkta#}
+
+<L>79305<pc>4-258-a<k1>BAgya<k2>2. *BAgya	<hom>2.</hom> *{#BAgya#}
+
+<L>79708<pc>4-264-c<k1>BAsa<k2>2. *BAsa	<hom>2.</hom> *{#BAsa#}
+
+<L>80129<pc>4-271-b<k1>Bujyu<k2>2. *Bujyu	<hom>2.</hom> *{#Bujyu#}
+
+<L>80853<pc>4-282-c<k1>Bfzwi<k2>2. *Bfzwi	<hom>2.</hom> *{#Bfzwi#}
+
+<L>80854<pc>4-282-c<k1>Bfzwi<k2>3. *Bfzwi	<hom>3.</hom> *{#Bfzwi#}
+
+<L>81248<pc>4-289-b<k1>BrAtfka<k2>2. *BrAtfka	<hom>2.</hom> *{#BrAtfka#}
+
+<L>81292<pc>4-290-a<k1>BrAzwra<k2>2. *BrAzwra	<hom>2.</hom> *{#BrAzwra#}
+
+<L>81597<pc>5-004-b<k1>majjana<k2>2. *majjana	<hom>2.</hom> *{#majjana#}
+
+<L>81807<pc>5-007-a<k1>maRirAga<k2>2. *maRirAga	<hom>2.</hom> *{#maRirAga#}
+
+<L>81980<pc>5-009-c<k1>matka<k2>2. *matka	<hom>2.</hom> *{#matka#}
+
+<L>82008<pc>5-010-a<k1>matya<k2>2. *matya	<hom>2.</hom> *{#matya#}
+
+<L>82306<pc>5-014-c<k1>madrA<k2>2. *madrA	<hom>2.</hom> *{#madrA#}
+
+<L>82524<pc>5-017-b<k1>maDuvana<k2>2. *maDuvana	<hom>2.</hom> *{#maDuvana#}
+
+<L>82626<pc>5-018-c<k1>maDyaMdina<k2>2. *maDyaMdina	<hom>2.</hom> *{#maDyaMdina#}
+
+<L>82877<pc>5-023-b<k1>manujI<k2>1. *manujI	<hom>1.</hom> *{#manujI#}
+
+<L>83868<pc>5-038-b<k1>malinI<k2>1. *malinI	<hom>1.</hom> *{#malinI#}
+
+<L>84121<pc>5-041-b<k1>mahAkacCa<k2>2. *mahAkacCa	<hom>2.</hom> *{#mahAkacCa#}
+
+<L>84194<pc>5-042-b<k1>mahAkUla<k2>2. *mahAkUla	<hom>2.</hom> *{#mahAkUla#}
+
+<L>84264<pc>5-043-a<k1>mahAGoza<k2>1. *mahAGoza	<hom>1.</hom> *{#mahAGoza#}
+
+<L>84296<pc>5-043-b<k1>mahAja<k2>2. *mahAja	<hom>2.</hom> *{#mahAja#}
+
+<L>84377<pc>5-044-b<k1>mahAdanta<k2>1. *mahAdanta	<hom>1.</hom> *{#mahAdanta#}
+
+<L>84652<pc>5-048-a<k1>mahAboDi<k2>1. *mahAboDi	<hom>1.</hom> *{#mahAboDi#}
+
+<L>84653<pc>5-048-a<k1>mahAboDi<k2>2. *mahAboDi	<hom>2.</hom> *{#mahAboDi#}
+
+<L>84727<pc>5-049-a<k1>mahAmada<k2>2. *mahAmada	<hom>2.</hom> *{#mahAmada#}
+
+<L>84959<pc>5-052-a<k1>mahAvana<k2>2. *mahAvana	<hom>2.</hom> *{#mahAvana#}
+
+<L>85466<pc>5-057-c<k1>mahezu<k2>2. *mahezu	<hom>2.</hom> *{#mahezu#}
+
+<L>85600<pc>5-060-b<k1>mAMsasAra<k2>1. *mAMsasAra	<hom>1.</hom> *{#mAMsasAra#}
+
+<L>85775<pc>5-062-c<k1>mAta<k2>2. *mAta	<hom>2.</hom> *{#mAta#}
+
+<L>85819<pc>5-063-c<k1>mAtulaka<k2>2. *mAtulaka	<hom>2.</hom> *{#mAtulaka#}
+
+<L>86305<pc>5-070-b<k1>mAyu<k2>3. *mAyu	<hom>3.</hom> *{#mAyu#}
+
+<L>86393<pc>5-071-c<k1>mArga<k2>1. *mArga	<hom>1.</hom> *{#mArga#}
+
+<L>86635<pc>5-075-b<k1>mAsa<k2>2. *mAsa	<hom>2.</hom> *{#mAsa#}
+
+<L>87043<pc>5-081-a<k1>miza<k2>1. *miza	<hom>1.</hom> *{#miza#}
+
+<L>87282<pc>5-084-c<k1>muKatas<k2>2. *muKatas	<hom>2.</hom> *{#muKatas#}
+
+<L>87750<pc>5-092-b<k1>musalI<k2>1. *musalI	<hom>1.</hom> *{#musalI#}
+
+<L>87791<pc>5-093-b<k1>mU<k2>2. *mU	<hom>2.</hom> *{#mU#}
+
+<L>87817<pc>5-094-a<k1>mUta<k2>1. *mUta	<hom>1.</hom> *{#mUta#}
+
+<L>88038<pc>5-097-a<k1>mUlI<k2>1. *mUlI	<hom>1.</hom> *{#mUlI#}
+
+<L>88354<pc>5-101-a<k1>mftARqa<k2>1. *mftARqa	<hom>1.</hom> *{#mftARqa#}
+
+<L>88546<pc>5-103-a<k1>mfzodya<k2>2. *mfzodya	<hom>2.</hom> *{#mfzodya#}
+
+<L>88612<pc>5-104-a<k1>meGanirGoza<k2>1. *meGanirGoza	<hom>1.</hom> *{#meGanirGoza#}
+
+<L>88616<pc>5-104-a<k1>meGapuzpa<k2>1. *meGapuzpa	<hom>1.</hom> *{#meGapuzpa#}
+
+<L>89315<pc>5-114-a<k1>ya<k2>2. *ya	<hom>2.</hom> *{#ya#}
+
+<L>89619<pc>5-118-a<k1>yajYAnta<k2>1. *yajYAnta	<hom>1.</hom> *{#yajYAnta#}
+
+<L>90249<pc>5-129-c<k1>yamaka<k2>1. *yamaka	<hom>1.</hom> *{#yamaka#}
+
+<L>90392<pc>5-131-b<k1>yamya<k2>1. *yamya	<hom>1.</hom> *{#yamya#}
+
+<L>90434<pc>5-132-a<k1>yavana<k2>3. *yavana	<hom>3.</hom> *{#yavana#}
+
+<L>90452<pc>5-132-a<k1>yavanI<k2>2. *yavanI	<hom>2.</hom> *{#yavanI#}
+
+<L>90585<pc>5-134-a<k1>yazwi<k2>2. *yazwi	<hom>2.</hom> *{#yazwi#}
+
+<L>90614<pc>5-136-c<k1>yA<k2>4. *yA	<hom>4.</hom> *{#yA#}
+
+<L>90711<pc>5-138-a<k1>yAtu<k2>2. *yAtu	<hom>2.</hom> *{#yAtu#}
+
+<L>90856<pc>5-140-a<k1>yAmeya<k2>1. *yAmeya	<hom>1.</hom> *{#yAmeya#}
+
+<L>91106<pc>5-147-b<k1>yutaka<k2>1. *yutaka	<hom>1.</hom> *{#yutaka#}
+
+<L>91107<pc>5-147-b<k1>yutaka<k2>2. *yutaka	<hom>2.</hom> *{#yutaka#}
+
+<L>91131<pc>5-147-c<k1>yudDaraNga<k2>2. *yudDaraNga	<hom>2.</hom> *{#yudDaraNga#}
+
+<L>91255<pc>5-149-a<k1>yUTI<k2>1. *yUTI	<hom>1.</hom> *{#yUTI#}
+
+<L>91598<pc>5-154-b<k1>yOvata<k2>2. *yOvata	<hom>2.</hom> *{#yOvata#}
+
+<L>91882<pc>5-158-a<k1>rakzA<k2>2. *rakzA	<hom>2.</hom> *{#rakzA#}
+
+<L>92873<pc>5-172-b<k1>raSanA<k2>2. *raSanA	<hom>2.</hom> *{#raSanA#}
+
+<L>93078<pc>5-175-b<k1>rasita<k2>2. *rasita	<hom>2.</hom> *{#rasita#}
+
+<L>93142<pc>5-176-b<k1>rA<k2>5. *rA	<hom>5.</hom> *{#rA#}
+
+<L>93354<pc>5-179-a<k1>rAjan<k2>1. *rA/jan	<hom>1.</hom> *{#rA/jan#}
+
+<L>93412<pc>5-180-a<k1>rAjaPala<k2>1. *rAjaPala	<hom>1.</hom> *{#rAjaPala#}
+
+<L>93413<pc>5-180-a<k1>rAjaPala<k2>2. *rAjaPala	<hom>2.</hom> *{#rAjaPala#}
+
+<L>93430<pc>5-180-a<k1>rAjaBfta<k2>2. *rAjaBfta	<hom>2.</hom> *{#rAjaBfta#}
+
+<L>93484<pc>5-180-c<k1>rAjalakzman<k2>2. *rAjalakzman	<hom>2.</hom> *{#rAjalakzman#}
+
+<L>93563<pc>5-181-c<k1>rAjasUya<k2>2. *rAjasUya	<hom>2.</hom> *{#rAjasUya#}
+
+<L>93738<pc>5-183-c<k1>rAtrijAgara<k2>2. *rAtrijAgara	<hom>2.</hom> *{#rAtrijAgara#}
+
+<L>94278<pc>5-191-a<k1>rI<k2>3. *rI	<hom>3.</hom> *{#rI#}
+
+<L>94292<pc>5-191-b<k1>ru<k2>2. *ru	<hom>2.</hom> *{#ru#}
+
+<L>94294<pc>5-191-c<k1>ru<k2>4. *ru	<hom>4.</hom> *{#ru#}
+
+<L>94624<pc>5-199-c<k1>rUkza<k2>2. *rUkza	<hom>2.</hom> *{#rUkza#}
+
+<L>94866<pc>5-203-b<k1>rezaRa<k2>2. *rezaRa	<hom>2.</hom> *{#rezaRa#}
+
+<L>94955<pc>5-204-b<k1>rocanA<k2>2. *rocanA	<hom>2.</hom> *{#rocanA#}
+
+<L>95009<pc>5-205-a<k1>ropa<k2>1. *ropa	<hom>1.</hom> *{#ropa#}
+
+<L>95024<pc>5-205-b<k1>roma<k2>2. *roma	<hom>2.</hom> *{#roma#}
+
+<L>95925<pc>5-221-b<k1>lavaRI<k2>2. *lavaRI	<hom>2.</hom> *{#lavaRI#}
+
+<L>95930<pc>5-221-b<k1>lavaRodaka<k2>1. *lavaRodaka	<hom>1.</hom> *{#lavaRodaka#}
+
+<L>95976<pc>5-222-b<k1>lA<k2>2. *lA	<hom>2.</hom> *{#lA#}
+
+<L>96125<pc>5-224-a<k1>lAlAsrAva<k2>2. *lAlAsrAva	<hom>2.</hom> *{#lAlAsrAva#}
+
+<L>96282<pc>5-227-b<k1>liS<k2>2. *liS	<hom>2.</hom> *{#liS#}
+
+<L>96288<pc>5-228-b<k1>lI<k2>2. *lI	<hom>2.</hom> *{#lI#}
+
+<L>96373<pc>5-230-a<k1>luRqI<k2>1. *luRqI	<hom>1.</hom> *{#luRqI#}
+
+<L>96409<pc>5-231-b<k1>lU<k2>2. *lU	<hom>2.</hom> *{#lU#}
+
+<L>97090<pc>6-001-a<k1>va<k2>2. *va	<hom>2.</hom> *{#va#}
+
+<L>97126<pc>6-001-c<k1>vaMSapattra<k2>2. *vaMSapattra	<hom>2.</hom> *{#vaMSapattra#}
+
+<L>97277<pc>6-003-b<k1>vakrANga<k2>2. *vakrANga	<hom>2.</hom> *{#vakrANga#}
+
+<L>97578<pc>6-008-a<k1>vajrI<k2>1. *vajrI	<hom>1.</hom> *{#vajrI#}
+
+<L>97893<pc>6-013-c<k1>vana<k2>3. *vana	<hom>3.</hom> *{#vana#}
+
+<L>98348<pc>6-022-a<k1>varaka<k2>1. *varaka	<hom>1.</hom> *{#varaka#}
+
+<L>98482<pc>6-023-c<k1>varAroha<k2>1. *varAroha	<hom>1.</hom> *{#varAroha#}
+
+<L>98493<pc>6-024-a<k1>varAsana<k2>2. *varAsana	<hom>2.</hom> *{#varAsana#}
+
+<L>98494<pc>6-024-a<k1>varAsana<k2>3. *varAsana	<hom>3.</hom> *{#varAsana#}
+
+<L>98551<pc>6-024-c<k1>varItar<k2>1. *varItar	<hom>1.</hom> *{#varItar#}
+
+<L>98878<pc>6-036-a<k1>varDaka<k2>1. *varDaka	<hom>1.</hom> *{#varDaka#}
+
+<L>99335<pc>6-044-c<k1>vasantapuzpa<k2>2. *vasantapuzpa	<hom>2.</hom> *{#vasantapuzpa#}
+
+<L>99588<pc>6-048-a<k1>vastuka<k2>2. *vastuka	<hom>2.</hom> *{#vastuka#}
+
+<L>99666<pc>6-049-a<k1>vasra<k2>1. *vasra	<hom>1.</hom> *{#vasra#}
+
+<L>99667<pc>6-049-a<k1>vasra<k2>2. *vasra	<hom>2.</hom> *{#vasra#}
+
+<L>100029<pc>6-055-c<k1>vAcika<k2>2. *vAcika	<hom>2.</hom> *{#vAcika#}
+
+<L>100036<pc>6-055-c<k1>vAcoyukti<k2>2. *vAcoyukti	<hom>2.</hom> *{#vAcoyukti#}
+
+<L>100226<pc>6-058-b<k1>vARI<k2>1. *vARI	<hom>1.</hom> *{#vARI#}
+
+<L>100445<pc>6-061-a<k1>vAtsaka<k2>1. *vAtsaka	<hom>1.</hom> *{#vAtsaka#}
+
+<L>100447<pc>6-061-a<k1>vAtsaka<k2>3. *vAtsaka	<hom>3.</hom> *{#vAtsaka#}
+
+<L>100534<pc>6-062-b<k1>vAna<k2>1. *vAna	<hom>1.</hom> *{#vAna#}
+
+<L>100538<pc>6-062-b<k1>vAna<k2>5. *vAna	<hom>5.</hom> *{#vAna#}
+
+<L>100587<pc>6-063-a<k1>vAnyA<k2>2. *vAnyA	<hom>2.</hom> *{#vAnyA#}
+
+<L>100607<pc>6-063-a<k1>vApya<k2>3. *vApya	<hom>3.</hom> *{#vApya#}
+
+<L>100614<pc>6-063-b<k1>vAma<k2>3. *vAma	<hom>3.</hom> *{#vAma#}
+
+<L>100615<pc>6-063-b<k1>vAma<k2>4. *vAma	<hom>4.</hom> *{#vAma#}
+
+<L>100700<pc>6-064-c<k1>vAmI<k2>3. *vAmI	<hom>3.</hom> *{#vAmI#}
+
+<L>100718<pc>6-064-c<k1>vAyaka<k2>2. *vAyaka	<hom>2.</hom> *{#vAyaka#}
+
+<L>101115<pc>6-069-c<k1>vArdAlI<k2>1. *vArdAlI	<hom>1.</hom> *{#vArdAlI#}
+
+<L>101116<pc>6-069-c<k1>vArdAlI<k2>2. *vArdAlI	<hom>2.</hom> *{#vArdAlI#}
+
+<L>101151<pc>6-070-a<k1>vArya<k2>3. *vArya	<hom>3.</hom> *{#vArya#}
+
+<L>101206<pc>6-070-c<k1>vAla<k2>2. *vAla	<hom>2.</hom> *{#vAla#}
+
+<L>101314<pc>6-072-b<k1>vASita<k2>2. *vASita	<hom>2.</hom> *{#vASita#}
+
+<L>101346<pc>6-072-c<k1>vAsana<k2>3. *vAsana	<hom>3.</hom> *{#vAsana#}
+
+<L>101347<pc>6-072-c<k1>vAsana<k2>4. *vAsana	<hom>4.</hom> *{#vAsana#}
+
+<L>101411<pc>6-073-c<k1>vAsin<k2>3. *vAsin	<hom>3.</hom> *{#vAsin#}
+
+<L>101500<pc>6-075-a<k1>vAsya<k2>3. *vAsya	<hom>3.</hom> *{#vAsya#}
+
+<L>101526<pc>6-075-b<k1>vAhika<k2>1. *vAhika	<hom>1.</hom> *{#vAhika#}
+
+<L>101610<pc>6-076-b<k1>vikawI<k2>1. *vikawI	<hom>1.</hom> *{#vikawI#}
+
+<L>101653<pc>6-077-b<k1>vikalI<k2>1. *vikalI	<hom>1.</hom> *{#vikalI#}
+
+<L>102187<pc>6-085-c<k1>vijala<k2>2. *vijala	<hom>2.</hom> *{#vijala#}
+
+<L>102471<pc>6-089-b<k1>vitta<k2>3. *vitta	<hom>3.</hom> *{#vitta#}
+
+<L>102504<pc>6-089-c<k1>vitti<k2>3. *vitti	<hom>3.</hom> *{#vitti#}
+
+<L>102762<pc>6-094-b<k1>vidyAvrata<k2>2. *vidyAvrata	<hom>2.</hom> *{#vidyAvrata#}
+
+<L>102776<pc>6-094-c<k1>vidyut<k2>2. *vidyut	<hom>2.</hom> *{#vidyut#}
+
+<L>103577<pc>6-106-a<k1>viboDa<k2>2. *viboDa	<hom>2.</hom> *{#viboDa#}
+
+<L>103964<pc>6-111-c<k1>viraNga<k2>1. *viraNga	<hom>1.</hom> *{#viraNga#}
+
+<L>103965<pc>6-111-c<k1>viraNga<k2>2. *viraNga	<hom>2.</hom> *{#viraNga#}
+
+<L>103983<pc>6-112-a<k1>viraRa<k2>2. *viraRa	<hom>2.</hom> *{#viraRa#}
+
+<L>104017<pc>6-112-c<k1>virAga<k2>3. *virAga	<hom>3.</hom> *{#virAga#}
+
+<L>105122<pc>6-132-a<k1>viza<k2>5. *viza	<hom>5.</hom> *{#viza#}
+
+<L>105182<pc>6-132-b<k1>vizapuzpa<k2>2. *vizapuzpa	<hom>2.</hom> *{#vizapuzpa#}
+
+<L>105297<pc>6-134-b<k1>vizaha<k2>2. *vizaha	<hom>2.</hom> *{#vizaha#}
+
+<L>105305<pc>6-134-b<k1>vizA<k2>2. *vizA	<hom>2.</hom> *{#vizA#}
+
+<L>105420<pc>6-136-a<k1>vizwi<k2>3. *vizwi	<hom>3.</hom> *{#vizwi#}
+
+<L>105768<pc>6-140-c<k1>visraganDa<k2>2. *visraganDa	<hom>2.</hom> *{#visraganDa#}
+
+<L>105979<pc>6-143-c<k1>vIti<k2>3. *vIti	<hom>3.</hom> *{#vIti#}
+
+<L>106392<pc>6-148-c<k1>vfttaPala<k2>1. *vfttaPala	<hom>1.</hom> *{#vfttaPala#}
+
+<L>106393<pc>6-148-c<k1>vfttaPala<k2>2. *vfttaPala	<hom>2.</hom> *{#vfttaPala#}
+
+<L>106600<pc>6-151-b<k1>vfdDijIvana<k2>1. *vfdDijIvana	<hom>1.</hom> *{#vfdDijIvana#}
+
+<L>106851<pc>6-155-a<k1>vfzya<k2>1. *vfzya	<hom>1.</hom> *{#vfzya#}
+
+<L>107229<pc>6-160-a<k1>vedi<k2>3. *vedi	<hom>3.</hom> *{#vedi#}
+
+<L>107233<pc>6-160-a<k1>vedikA<k2>2. *vedikA	<hom>2.</hom> *{#vedikA#}
+
+<L>107244<pc>6-160-b<k1>vedin<k2>4. *vedin	<hom>4.</hom> *{#vedin#}
+
+<L>107280<pc>6-160-c<k1>vedya<k2>3. *vedya	<hom>3.</hom> *{#vedya#}
+
+<L>109112<pc>6-189-a<k1>vraSc<k2>2. *vraSc	<hom>2.</hom> *{#vraSc#}
+
+<L>109186<pc>6-190-a<k1>Sa<k2>2. *Sa	<hom>2.</hom> *{#Sa#}
+
+<L>109362<pc>6-193-a<k1>SaktiBft<k2>2. *SaktiBft	<hom>2.</hom> *{#SaktiBft#}
+
+<L>109815<pc>6-199-b<k1>SataDA<k2>2. *SataDA	<hom>2.</hom> *{#SataDA#}
+
+<L>110338<pc>6-207-b<k1>Samayitar<k2>1. *Samayitar	<hom>1.</hom> *{#Samayitar#}
+
+<L>110353<pc>6-207-b<k1>Sami<k2>3. *Sami	<hom>3.</hom> *{#Sami#}
+
+<L>110517<pc>6-210-a<k1>Saraja<k2>1. *Saraja	<hom>1.</hom> *{#Saraja#}
+
+<L>110518<pc>6-210-a<k1>Saraja<k2>2. *Saraja	<hom>2.</hom> *{#Saraja#}
+
+<L>110534<pc>6-210-b<k1>SaraRI<k2>1. *SaraRI	<hom>1.</hom> *{#SaraRI#}
+
+<L>110629<pc>6-211-b<k1>Saravfzwi<k2>2. *Saravfzwi	<hom>2.</hom> *{#Saravfzwi#}
+
+<L>110677<pc>6-211-c<k1>SarI<k2>1. *SarI	<hom>1.</hom> *{#SarI#}
+
+<L>110764<pc>6-213-a<k1>SarkarI<k2>1. *SarkarI	<hom>1.</hom> *{#SarkarI#}
+
+<L>110778<pc>6-213-a<k1>SarDa<k2>2. *SarDa	<hom>2.</hom> *{#SarDa#}
+
+<L>110976<pc>6-215-c<k1>SaSaloman<k2>1. *SaSaloman	<hom>1.</hom> *{#SaSaloman#}
+
+<L>111151<pc>6-217-c<k1>Sasya<k2>2. *Sasya	<hom>2.</hom> *{#Sasya#}
+
+<L>111165<pc>6-218-a<k1>SAka<k2>1. *SAka	<hom>1.</hom> *{#SAka#}
+
+<L>111169<pc>6-218-a<k1>SAka<k2>5. *SAka	<hom>5.</hom> *{#SAka#}
+
+<L>111176<pc>6-218-a<k1>SAkawa<k2>1. *SAkawa	<hom>1.</hom> *{#SAkawa#}
+
+<L>111191<pc>6-218-a<k1>SAkapattra<k2>2. *SAkapattra	<hom>2.</hom> *{#SAkapattra#}
+
+<L>111216<pc>6-218-b<k1>SAkalika<k2>1. *SAkalika	<hom>1.</hom> *{#SAkalika#}
+
+<L>111217<pc>6-218-c<k1>SAkalika<k2>2. *SAkalika	<hom>2.</hom> *{#SAkalika#}
+
+<L>111247<pc>6-219-a<k1>SAkin<k2>3. *SAkin	<hom>3.</hom> *{#SAkin#}
+
+<L>111281<pc>6-219-b<k1>SAkteya<k2>1. *SAkteya	<hom>1.</hom> *{#SAkteya#}
+
+<L>111723<pc>6-225-a<k1>SArkara<k2>2. *SArkara	<hom>2.</hom> *{#SArkara#}
+
+<L>111778<pc>6-225-c<k1>SAla<k2>3. *SAla	<hom>3.</hom> *{#SAla#}
+
+<L>112011<pc>6-229-b<k1>SAstracakzus<k2>1. *SAstracakzus	<hom>1.</hom> *{#SAstracakzus#}
+
+<L>112081<pc>6-230-b<k1>Sikzaka<k2>2. *Sikzaka	<hom>2.</hom> *{#Sikzaka#}
+
+<L>112504<pc>6-235-c<k1>SilI<k2>1. *SilI	<hom>1.</hom> *{#SilI#}
+
+<L>112986<pc>6-243-a<k1>SItalI<k2>1. *SItalI	<hom>1.</hom> *{#SItalI#}
+
+<L>113164<pc>6-245-b<k1>Su<k2>2. *Su/	<hom>2.</hom> *{#Su/#}
+
+<L>113517<pc>6-250-c<k1>Suna<k2>2. *Suna	<hom>2.</hom> *{#Suna#}
+
+<L>113544<pc>6-251-a<k1>Sunya<k2>1. *Sunya	<hom>1.</hom> *{#Sunya#}
+
+<L>113545<pc>6-251-a<k1>Sunya<k2>2. *Sunya	<hom>2.</hom> *{#Sunya#}
+
+<L>113843<pc>6-255-b<k1>SUra<k2>2. *SUra	<hom>2.</hom> *{#SUra#}
+
+<L>114058<pc>6-258-b<k1>SeKarI<k2>1. *SeKarI	<hom>1.</hom> *{#SeKarI#}
+
+<L>114096<pc>6-258-c<k1>SevAlI<k2>1. *SevAlI	<hom>1.</hom> *{#SevAlI#}
+
+<L>114097<pc>6-258-c<k1>SevAlI<k2>2. *SevAlI	<hom>2.</hom> *{#SevAlI#}
+
+<L>114278<pc>6-261-a<k1>SEva<k2>2. *SEva	<hom>2.</hom> *{#SEva#}
+
+<L>114412<pc>6-262-b<k1>SoRI<k2>1. *SoRI	<hom>1.</hom> *{#SoRI#}
+
+<L>114486<pc>6-263-c<k1>SOktika<k2>2. *SOktika	<hom>2.</hom> *{#SOktika#}
+
+<L>114604<pc>6-264-c<k1>SOva<k2>2. *SOva	<hom>2.</hom> *{#SOva#}
+
+<L>114774<pc>6-267-a<k1>SyenapAta<k2>1. *SyenapAta	<hom>1.</hom> *{#SyenapAta#}
+
+<L>114834<pc>6-268-a<k1>SranTana<k2>2. *SranTana	<hom>2.</hom> *{#SranTana#}
+
+<L>114842<pc>6-268-b<k1>Sram<k2>2. *Sram	<hom>2.</hom> *{#Sram#}
+
+<L>114975<pc>6-270-b<k1>SrAya<k2>2. *SrAya	<hom>2.</hom> *{#SrAya#}
+
+<L>114983<pc>6-270-b<k1>SrAvaRa<k2>2. *SrAvaRa	<hom>2.</hom> *{#SrAvaRa#}
+
+<L>114984<pc>6-270-c<k1>SrAvaRa<k2>3. *SrAvaRa	<hom>3.</hom> *{#SrAvaRa#}
+
+<L>115271<pc>6-276-a<k1>SrIvAsa<k2>1. *SrIvAsa	<hom>1.</hom> *{#SrIvAsa#}
+
+<L>115396<pc>6-278-c<k1>Sruti<k2>4. *Sruti	<hom>4.</hom> *{#Sruti#}
+
+<L>115513<pc>6-280-a<k1>SroRa<k2>2. *SroRa	<hom>2.</hom> *{#SroRa#}
+
+<L>116039<pc>6-287-a<k1>Svetahaya<k2>1. *Svetahaya	<hom>1.</hom> *{#Svetahaya#}
+
+<L>116040<pc>6-287-b<k1>Svetahaya<k2>2. *Svetahaya	<hom>2.</hom> *{#Svetahaya#}
+
+<L>116095<pc>6-287-c<k1>za<k2>2. *za	<hom>2.</hom> *{#za#}
+
+<L>116303<pc>6-290-b<k1>zaRqatA<k2>1. *zaRqatA	<hom>1.</hom> *{#zaRqatA#}
+
+<L>116306<pc>6-290-b<k1>zaRqatva<k2>1. *zaRqatva	<hom>1.</hom> *{#zaRqatva#}
+
+<L>116422<pc>6-291-c<k1>zAzwika<k2>1. *zAzwika	<hom>1.</hom> *{#zAzwika#}
+
+<L>116501<pc>7-001-b<k1>sa<k2>5. *sa	<hom>5.</hom> *{#sa#}
+
+<L>117960<pc>7-026-a<k1>saMjYa<k2>2. *saMjYa	<hom>2.</hom> *{#saMjYa#}
+
+<L>118048<pc>7-027-a<k1>satI<k2>2. *satI	<hom>2.</hom> *{#satI#}
+
+<L>118494<pc>7-034-c<k1>sadAgati<k2>3. *sadAgati	<hom>3.</hom> *{#sadAgati#}
+
+<L>118504<pc>7-035-a<k1>sadAdAna<k2>1. *sadAdAna	<hom>1.</hom> *{#sadAdAna#}
+
+<L>118725<pc>7-037-b<k1>saDa<k2>2. *saDa	<hom>2.</hom> *{#saDa#}
+
+<L>118771<pc>7-038-b<k1>sana<k2>3. *sana	<hom>3.</hom> *{#sana#}
+
+<L>118832<pc>7-039-a<k1>sani<k2>2. *sani	<hom>2.</hom> *{#sani#}
+
+<L>119132<pc>7-044-b<k1>saMDyArAga<k2>2. *saMDyArAga	<hom>2.</hom> *{#saMDyArAga#}
+
+<L>119863<pc>7-054-a<k1>samaDura<k2>1. *samaDura	<hom>1.</hom> *{#samaDura#}
+
+<L>119981<pc>7-056-a<k1>samayA<k2>2. *samayA	<hom>2.</hom> *{#samayA#}
+
+<L>120059<pc>7-057-a<k1>samarya<k2>3. *samarya	<hom>3.</hom> *{#samarya#}
+
+<L>120155<pc>7-058-b<k1>samasTalI<k2>1. *samasTalI	<hom>1.</hom> *{#samasTalI#}
+
+<L>121233<pc>7-074-a<k1>saMmAtar<k2>1. *saMmAtar	<hom>1.</hom> *{#saMmAtar#}
+
+<L>121362<pc>7-077-c<k1>saraNga<k2>2. *saraNga	<hom>2.</hom> *{#saraNga#}
+
+<L>121365<pc>7-077-c<k1>saraja<k2>2. *saraja	<hom>2.</hom> *{#saraja#}
+
+<L>121787<pc>7-085-c<k1>sarvatantra<k2>2. *sarvatantra	<hom>2.</hom> *{#sarvatantra#}
+
+<L>121972<pc>7-088-a<k1>sarvaBUmi<k2>1. *sarvaBUmi	<hom>1.</hom> *{#sarvaBUmi#}
+
+<L>122164<pc>7-090-b<k1>sarvasasya<k2>2. *sarvasasya	<hom>2.</hom> *{#sarvasasya#}
+
+<L>122184<pc>7-090-b<k1>sarvasidDi<k2>2. *sarvasidDi	<hom>2.</hom> *{#sarvasidDi#}
+
+<L>122308<pc>7-092-a<k1>sarvArTasidDi<k2>2. *sarvArTasidDi	<hom>2.</hom> *{#sarvArTasidDi#}
+
+<L>123076<pc>7-102-b<k1>sahasraDAra<k2>2. *sahasraDAra	<hom>2.</hom> *{#sahasraDAra#}
+
+<L>123353<pc>7-106-c<k1>sA<k2>5. *sA	<hom>5.</hom> *{#sA#}
+
+<L>123395<pc>7-107-a<k1>sAMSitya<k2>1. *sAMSitya	<hom>1.</hom> *{#sAMSitya#}
+
+<L>123648<pc>7-110-b<k1>sAti<k2>2. *sAti	<hom>2.</hom> *{#sAti#}
+
+<L>123981<pc>7-115-c<k1>sApatya<k2>2. *sApatya	<hom>2.</hom> *{#sApatya#}
+
+<L>124275<pc>7-119-c<k1>sAya<k2>2. *sAya	<hom>2.</hom> *{#sAya#}
+
+<L>124431<pc>7-121-c<k1>sArasa<k2>2. *sArasa	<hom>2.</hom> *{#sArasa#}
+
+<L>124831<pc>7-127-a<k1>si<k2>4. *si	<hom>4.</hom> *{#si#}
+
+<L>125001<pc>7-129-c<k1>sita<k2>1. *sita	<hom>1.</hom> *{#sita#}
+
+<L>125015<pc>7-130-a<k1>sitakuYjara<k2>1. *sitakuYjara	<hom>1.</hom> *{#sitakuYjara#}
+
+<L>125016<pc>7-130-a<k1>sitakuYjara<k2>2. *sitakuYjara	<hom>2.</hom> *{#sitakuYjara#}
+
+<L>125039<pc>7-130-b<k1>sitapakza<k2>2. *sitapakza	<hom>2.</hom> *{#sitapakza#}
+
+<L>125138<pc>7-131-b<k1>sidDa<k2>3. *sidDa	<hom>3.</hom> *{#sidDa#}
+
+<L>125274<pc>7-133-a<k1>sidDAsana<k2>2. *sidDAsana	<hom>2.</hom> *{#sidDAsana#}
+
+<L>125347<pc>7-135-a<k1>sindUratilaka<k2>2. *sindUratilaka	<hom>2.</hom> *{#sindUratilaka#}
+
+<L>125489<pc>7-136-c<k1>sI<k2>1. *sI	<hom>1.</hom> *{#sI#}
+
+<L>125846<pc>7-141-a<k1>suKavAsa<k2>3. *suKavAsa	<hom>3.</hom> *{#suKavAsa#}
+
+<L>125920<pc>7-142-a<k1>suKASa<k2>2. *suKASa	<hom>2.</hom> *{#suKASa#}
+
+<L>126236<pc>7-146-a<k1>sutI<k2>1. *sutI	<hom>1.</hom> *{#sutI#}
+
+<L>126321<pc>7-147-b<k1>sudAya<k2>1. *sudAya	<hom>1.</hom> *{#sudAya#}
+
+<L>126324<pc>7-147-b<k1>sudAru<k2>2. *sudAru	<hom>2.</hom> *{#sudAru#}
+
+<L>126822<pc>7-153-b<k1>supuzpa<k2>1. *supuzpa	<hom>1.</hom> *{#supuzpa#}
+
+<L>126993<pc>7-155-c<k1>suPena<k2>1. *suPena	<hom>1.</hom> *{#suPena#}
+
+<L>127019<pc>7-156-a<k1>subIja<k2>2. *subIja	<hom>2.</hom> *{#subIja#}
+
+<L>127244<pc>7-159-a<k1>sumAtar<k2>1. *sumAtar	<hom>1.</hom> *{#sumAtar#}
+
+<L>127246<pc>7-159-a<k1>sumAtar<k2>3. *sumAtar	<hom>3.</hom> *{#sumAtar#}
+
+<L>127353<pc>7-160-b<k1>sura<k2>2. *sura	<hom>2.</hom> *{#sura#}
+
+<L>127469<pc>7-162-a<k1>suraBiganDa<k2>2. *suraBiganDa	<hom>2.</hom> *{#suraBiganDa#}
+
+<L>127791<pc>7-165-c<k1>suvacana<k2>2. *suvacana	<hom>2.</hom> *{#suvacana#}
+
+<L>127905<pc>7-167-a<k1>suvarRI<k2>1. *suvarRI	<hom>1.</hom> *{#suvarRI#}
+
+<L>127990<pc>7-168-a<k1>suvid<k2>1. *suvid	<hom>1.</hom> *{#suvid#}
+
+<L>128007<pc>7-168-a<k1>suviDAna<k2>2. *suviDAna	<hom>2.</hom> *{#suviDAna#}
+
+<L>128111<pc>7-169-c<k1>suSakti<k2>2. *suSakti	<hom>2.</hom> *{#suSakti#}
+
+<L>128402<pc>7-173-b<k1>susAra<k2>1. *susAra	<hom>1.</hom> *{#susAra#}
+
+<L>128680<pc>7-177-a<k1>sUcyagra<k2>2. *sUcyagra	<hom>2.</hom> *{#sUcyagra#}
+
+<L>128712<pc>7-177-c<k1>sUti<k2>1. *sUti	<hom>1.</hom> *{#sUti#}
+
+<L>129174<pc>7-183-b<k1>se<k2>2. *se	<hom>2.</hom> *{#se#}
+
+<L>129224<pc>7-184-a<k1>sena<k2>2. *sena	<hom>2.</hom> *{#sena#}
+
+<L>129289<pc>7-185-a<k1>sevaka<k2>1. *sevaka	<hom>1.</hom> *{#sevaka#}
+
+<L>129411<pc>7-186-c<k1>so<k2>1. *so	<hom>1.</hom> *{#so#}
+
+<L>129660<pc>7-189-c<k1>somavaMSa<k2>2. *somavaMSa	<hom>2.</hom> *{#somavaMSa#}
+
+<L>129773<pc>7-190-c<k1>somI<k2>1. *somI	<hom>1.</hom> *{#somI#}
+
+<L>130110<pc>7-195-b<k1>sOrika<k2>2. *sOrika	<hom>2.</hom> *{#sOrika#}
+
+<L>130483<pc>7-202-a<k1>stavaka<k2>1. *stavaka	<hom>1.</hom> *{#stavaka#}
+
+<L>130542<pc>7-203-a<k1>stuta<k2>2. *stuta	<hom>2.</hom> *{#stuta#}
+
+<L>130782<pc>7-206-a<k1>strIsvaBAva<k2>2. *strIsvaBAva	<hom>2.</hom> *{#strIsvaBAva#}
+
+<L>131576<pc>7-223-c<k1>sPuwI<k2>1. *sPuwI	<hom>1.</hom> *{#sPuwI#}
+
+<L>131695<pc>7-226-a<k1>smarANkuSa<k2>1. *smarANkuSa	<hom>1.</hom> *{#smarANkuSa#}
+
+<L>131696<pc>7-226-a<k1>smarANkuSa<k2>2. *smarANkuSa	<hom>2.</hom> *{#smarANkuSa#}
+
+<L>131998<pc>7-231-b<k1>svagfha<k2>2. *svagfha	<hom>2.</hom> *{#svagfha#}
+
+<L>133107<pc>7-246-a<k1>svArAj<k2>2. *svArAj	<hom>2.</hom> *{#svArAj#}
+
+<L>133254<pc>7-248-b<k1>svEravftti<k2>1. *svEravftti	<hom>1.</hom> *{#svEravftti#}
+
+<L>133281<pc>7-248-b<k1>ha<k2>4. *ha	<hom>4.</hom> *{#ha#}
+
+<L>133632<pc>7-258-c<k1>harika<k2>1. *harika	<hom>1.</hom> *{#harika#}
+
+<L>133633<pc>7-258-c<k1>harika<k2>2. *harika	<hom>2.</hom> *{#harika#}
+
+<L>133766<pc>7-260-b<k1>harinAman<k2>2. *harinAman	<hom>2.</hom> *{#harinAman#}
+
+<L>133855<pc>7-261-c<k1>harivAhana<k2>1. *harivAhana	<hom>1.</hom> *{#harivAhana#}
+
+<L>134014<pc>7-264-a<k1>halA<k2>2. *halA	<hom>2.</hom> *{#halA#}
+
+<L>134664<pc>7-274-c<k1>himakUwa<k2>2. *himakUwa	<hom>2.</hom> *{#himakUwa#}
+
+<L>135317<pc>7-282-c<k1>hemakiYjalka<k2>2. *hemakiYjalka	<hom>2.</hom> *{#hemakiYjalka#}
+
+<L>135355<pc>7-283-a<k1>heman<k2>4. *heman	<hom>4.</hom> *{#heman#}
+
+<L>200120<pc>1-283-a<k1>agopa<k2>1. *agopa	<hom>1.</hom> *{#agopa#}
+
+<L>202998<pc>2-298-a<k1>kAlavAla<k2>1. *kAlavAla	<hom>1.</hom> *{#kAlavAla#}
+
+<L>204896<pc>3-264-b<k1>dvipAtra<k2>2. *dvipAtra	<hom>2.</hom> *{#dvipAtra#}
+
+<L>206355<pc>5-244-b<k1>aBihava<k2>2. *aBihava	<hom>2.</hom> *{#aBihava#}
+
+<L>208123<pc>5-263-c<k1>meGapuzpa<k2>1. *meGapuzpa	<hom>1.</hom> *{#meGapuzpa#}
+
+<L>213337<pc>7-313-a<k1>aSastra<k2>3. *aSastra	<hom>3.</hom> *{#aSastra#}
+
+<L>221624<pc>7-379-c<k1>saKila<k2>2. *saKila	<hom>2.</hom> *{#saKila#}
+

@@ -1,0 +1,134 @@
+; ******************************************************
+; 04: 33 possible_roots1
+; ******************************************************
+; <L>81845<pc>5-007-b<k1>maRq<k2>maRq
+402434 old {#maRq#}¦ *{#maRqati#} ({#BUzAyAm#}), *{#maRqate#} ({#viBAjane, vezwane#}).
+402434 new √{#maRq#}¦ *{#maRqati#} ({#BUzAyAm#}), *{#maRqate#} ({#viBAjane, vezwane#}).
+
+; <L>201748<pc>1-299-b<k1>Urjay<k2>Urjay
+681015 old {#Urjay#}¦, {#Urjitam#} <lex>Adv.</lex> {%stolz, mit Selbstbewusstsein%} <ls>NĀGĀN. 62,21 (82,9)</ls>.<info n="sup_1"/>
+681015 new !√{#Urjay#}¦, {#Urjitam#} <lex>Adv.</lex> {%stolz, mit Selbstbewusstsein%} <ls>NĀGĀN. 62,21 (82,9)</ls>.<info n="sup_1"/>
+
+; <L>203161<pc>2-300-a<k1>guRq<k2>guRq
+686661 old {#guRq#}¦, {#pariguRqita#} {%bestäubt%} <ls>ŚĪLĀṄKA 2,4</ls>.<info n="sup_2"/>
+686661 new √{#guRq#}¦, {#pariguRqita#} {%bestäubt%} <ls>ŚĪLĀṄKA 2,4</ls>.<info n="sup_2"/>
+
+; <L>204161<pc>3-256-b<k1>Iyakz<k2>Iyakz
+690659 old {#Iyakz#}¦, {#I/yakzamARa#} = {#i/yakzamARa#} <ls>MAITR. S. 2,10,6</ls>.<info n="sup_3"/>
+690659 new √{#Iyakz#}¦, {#I/yakzamARa#} = {#i/yakzamARa#} <ls>MAITR. S. 2,10,6</ls>.<info n="sup_3"/>
+
+; <L>204330<pc>3-258-b<k1>eD<k2>eD
+691335 old {#eD#}¦ {#eDita#} {%erfüllt —, voll von%} (<ab>Instr.</ab>) <ls>MAHĀVĪRAC. 122,4</ls>.<info n="sup_3"/>
+691335 new √{#eD#}¦ {#eDita#} {%erfüllt —, voll von%} (<ab>Instr.</ab>) <ls>MAHĀVĪRAC. 122,4</ls>.<info n="sup_3"/>
+
+; <L>204719<pc>3-262-b<k1>jyut<k2>jyut
+692891 old {#jyut#}¦, {#jyo/tati#} <ls>MAITR. S. 2,12,4</ls>.<info n="sup_3"/>
+692891 new √{#jyut#}¦, {#jyo/tati#} <ls>MAITR. S. 2,12,4</ls>.<info n="sup_3"/>
+
+; <L>205036<pc>4-291-c<k1>aDaray<k2>aDaray
+694157 old {#aDaray#}¦, {#aDarita#} {%übertroffen%} <ls>BHĀM. V. 2,180</ls>.<info n="sup_4"/>
+694157 new !√{#aDaray#}¦, {#aDarita#} {%übertroffen%} <ls>BHĀM. V. 2,180</ls>.<info n="sup_4"/>
+
+; <L>205266<pc>4-294-b<k1>aBrAy<k2>°aBrAy
+695077 old {#°aBrAy#}¦, {#aBrAyita#} {%einer Wolke gleichend%} <ls>BHĀM. V. 1,41</ls>.<info n="sup_4"/>
+695077 new !√{#°aBrAy#}¦, {#aBrAyita#} {%einer Wolke gleichend%} <ls>BHĀM. V. 1,41</ls>.<info n="sup_4"/>
+
+; <L>205426<pc>4-296-b<k1>Ilay<k2>Ilay
+695717 old {#Ilay#}¦, {#Ila/yati#} {%sich bewegen%} <ls>TS. 6,4,2,6</ls>. <ab>Vgl.</ab> <ab>Caus.</ab> von {#Ir#}.<info n="sup_4"/>
+695717 new !√{#Ilay#}¦, {#Ila/yati#} {%sich bewegen%} <ls>TS. 6,4,2,6</ls>. <ab>Vgl.</ab> <ab>Caus.</ab> von {#Ir#}.<info n="sup_4"/>
+
+; <L>205468<pc>4-297-a<k1>uB<k2>uB
+695885 old {#uB#}¦, {#umBita#} {%eingeschlossen, darin enthalten%} <ls>BHĀM. V. 2,142</ls>.<info n="sup_4"/>
+695885 new √{#uB#}¦, {#umBita#} {%eingeschlossen, darin enthalten%} <ls>BHĀM. V. 2,142</ls>.<info n="sup_4"/>
+
+; <L>206050<pc>5-241-a<k1>aRW<k2>aRW
+698211 old {#aRW#}¦, {#aRWati#} eine Gegend {%besuchen%} <ls>SADDH. P. 92,b.</ls> {#rugaRWita#} {%heimgesucht von%} also richtig.<info n="sup_5"/>
+698211 new √{#aRW#}¦, {#aRWati#} eine Gegend {%besuchen%} <ls>SADDH. P. 92,b.</ls> {#rugaRWita#} {%heimgesucht von%} also richtig.<info n="sup_5"/>
+
+; <L>206169<pc>5-242-b<k1>anal<k2>anal
+698687 old {#anal#}¦, {#°lati#} {%zu Feuer werden%} <ls>SUBHĀṢITĀV. 3128</ls>.<info n="sup_5"/>
+698687 new √{#anal#}¦, {#°lati#} {%zu Feuer werden%} <ls>SUBHĀṢITĀV. 3128</ls>.<info n="sup_5"/>
+
+; <L>206336<pc>5-244-b<k1>aBijY<k2>aBijY
+699355 old {#aBijY#}¦, {#°jYati#} {%erfahren —, verständig werden%} <ls>KULĀRṆAVA 9,60</ls>.<info n="sup_5"/>
+699355 new √{#aBijY#}¦, {#°jYati#} {%erfahren —, verständig werden%} <ls>KULĀRṆAVA 9,60</ls>.<info n="sup_5"/>
+
+; <L>206423<pc>5-245-a<k1>ark<k2>ark
+699703 old {#ark#}¦, {#arkati#} {%zur Sonne werden%} <ls>SUBHĀṢITĀV. 3128</ls>.<info n="sup_5"/>
+699703 new √{#ark#}¦, {#arkati#} {%zur Sonne werden%} <ls>SUBHĀṢITĀV. 3128</ls>.<info n="sup_5"/>
+
+; <L>206430<pc>5-245-b<k1>arTakAmy<k2>arTakAmy
+699731 old {#arTakAmy#}¦, {#°myati#} {%nach Geld verlangen%} <ls>ŚIŚ. 14,49</ls>. <ls>SUBHĀṢITĀV. 655</ls>.<info n="sup_5"/>
+699731 new √{#arTakAmy#}¦, {#°myati#} {%nach Geld verlangen%} <ls>ŚIŚ. 14,49</ls>. <ls>SUBHĀṢITĀV. 655</ls>.<info n="sup_5"/>
+
+; <L>207223<pc>5-254-a<k1>cawacaw<k2>cawacaw
+702903 old {#cawacaw#}¦, {#°wati#} {%knistern%} <ls>VĀSAV. 242,4</ls>. <ls n="VĀSAV.">243,1</ls>.<info n="sup_5"/>
+702903 new √{#cawacaw#}¦, {#°wati#} {%knistern%} <ls>VĀSAV. 242,4</ls>. <ls n="VĀSAV.">243,1</ls>.<info n="sup_5"/>
+
+; <L>207483<pc>5-257-a<k1>Darm<k2>Darm
+703943 old {#Darm#}¦, {#Darmati#} {%zu Recht —, zum Gesetz werden%} <ls>KULĀRṆAVA 9,59</ls>.<info n="sup_5"/>
+703943 new √{#Darm#}¦, {#Darmati#} {%zu Recht —, zum Gesetz werden%} <ls>KULĀRṆAVA 9,59</ls>.<info n="sup_5"/>
+
+; <L>207484<pc>5-257-a<k1>Darmay<k2>Darmay
+703947 old {#Darmay#}¦, {#Darmayati#} {%Jmd die Gesetze befolgen lassen, gestatten, dass er die vorgeschriebenen Gesetze befolgt,%} <ls>VASIṢṬHA 15,15</ls>. <ls n="VASIṢṬHA 15,">16</ls>.<info n="sup_5"/>
+703947 new !√{#Darmay#}¦, {#Darmayati#} {%Jmd die Gesetze befolgen lassen, gestatten, dass er die vorgeschriebenen Gesetze befolgt,%} <ls>VASIṢṬHA 15,15</ls>. <ls n="VASIṢṬHA 15,">16</ls>.<info n="sup_5"/>
+
+; <L>207558<pc>5-257-c<k1>nArIy<k2>nArIy
+704243 old {#nArIy#}¦, {#yate#} {%zu einem Weibe werden%} <ls>KĀVYAPR. 269,12</ls>.<info n="sup_5"/>
+704243 new !√{#nArIy#}¦, {#yate#} {%zu einem Weibe werden%} <ls>KĀVYAPR. 269,12</ls>.<info n="sup_5"/>
+
+; <L>207718<pc>5-259-b<k1>pard<k2>pard
+704883 old {#pard#}¦, {#pardate#} <ls>SARASVATĪK. 1,22</ls>.<info n="sup_5"/>
+704883 new √{#pard#}¦, {#pardate#} <ls>SARASVATĪK. 1,22</ls>.<info n="sup_5"/>
+
+; <L>207976<pc>5-262-a<k1>BayAy<k2>BayAy
+705915 old {#BayAy#}¦, {#BayAyate#} {%sich fürchten%} <ls>PHEṬKĀRIṆĪ-TANTRA 10</ls> nach <ls>AUFRECHT</ls>.<info n="sup_5"/>
+705915 new !√{#BayAy#}¦, {#BayAyate#} {%sich fürchten%} <ls>PHEṬKĀRIṆĪ-TANTRA 10</ls> nach <ls>AUFRECHT</ls>.<info n="sup_5"/>
+
+; <L>208158<pc>5-264-b<k1>ripav<k2>ripav
+706647 old {#ripav#}¦, {#°vati#} {%zum Feinde werden%} <ls>SUBHĀṢITĀV. 3128</ls>.<info n="sup_5"/>
+706647 new √{#ripav#}¦, {#°vati#} {%zum Feinde werden%} <ls>SUBHĀṢITĀV. 3128</ls>.<info n="sup_5"/>
+
+; <L>208818<pc>6-300-b<k1>kuRW<k2>2. kuRW
+709285 old <hom>2.</hom> {#kuRW#}¦, {#kuRWita#} = {#guRWita#} <ls>BAUDH. 2,6,33</ls>.<info n="sup_6"/>
+709285 new <hom>2.</hom> √{#kuRW#}¦, {#kuRWita#} = {#guRWita#} <ls>BAUDH. 2,6,33</ls>.<info n="sup_6"/>
+
+; <L>208840<pc>6-300-b<k1>kElAs<k2>kElAs
+709373 old {#kElAs#}¦, {#°sati#} {%zum Berge%} <is>Kailāsa</is> {%werden%} <ls>SUBHĀṢITĀV. 2614</ls>.<info n="sup_6"/>
+709373 new √{#kElAs#}¦, {#°sati#} {%zum Berge%} <is>Kailāsa</is> {%werden%} <ls>SUBHĀṢITĀV. 2614</ls>.<info n="sup_6"/>
+
+; <L>208856<pc>6-300-c<k1>kzIrod<k2>kzIrod
+709437 old {#kzIrod#}¦, {#°dati#} {%zum Milchmeer werden%} <ls>SUBHĀṢITĀV. 2614</ls>.<info n="sup_6"/>
+709437 new √{#kzIrod#}¦, {#°dati#} {%zum Milchmeer werden%} <ls>SUBHĀṢITĀV. 2614</ls>.<info n="sup_6"/>
+
+; <L>208881<pc>6-301-a<k1>gUrd<k2>gUrd
+709537 old {#gUrd#}¦, {#gUrdati#} etwa {%springen nach%} (<ab>Loc.</ab>) <ls>J. A. O. S. 11, CXLVII.</ls> <ab>Vgl.</ab> {#kUrd#}.<info n="sup_6"/>
+709537 new √{#gUrd#}¦, {#gUrdati#} etwa {%springen nach%} (<ab>Loc.</ab>) <ls>J. A. O. S. 11, CXLVII.</ls> <ab>Vgl.</ab> {#kUrd#}.<info n="sup_6"/>
+
+; <L>208980<pc>6-302-a<k1>darpaR<k2>darpaR
+709933 old {#darpaR#}¦, {#°Rati#} {%einen Spiegel darstellen%} <ls>PISCHEL, De Gr. pr. 29</ls>.<info n="sup_6"/>
+709933 new √{#darpaR#}¦, {#°Rati#} {%einen Spiegel darstellen%} <ls>PISCHEL, De Gr. pr. 29</ls>.<info n="sup_6"/>
+
+; <L>209138<pc>6-303-c<k1>pratibimb<k2>pratibimb
+710565 old {#pratibimb#}¦, {#°mbati#} {%sich wiederspiegeln%} <ls><ab>Comm.</ab> zu KAP. 4,30</ls>. Hierher gehört {#pratibimbita#}, das <ab n="unter">u.</ab> {#pratibimbay#} steht.<info n="sup_6"/>
+710565 new √{#pratibimb#}¦, {#°mbati#} {%sich wiederspiegeln%} <ls><ab>Comm.</ab> zu KAP. 4,30</ls>. Hierher gehört {#pratibimbita#}, das <ab n="unter">u.</ab> {#pratibimbay#} steht.<info n="sup_6"/>
+
+; <L>209811<pc>7-291-b<k1>aNkur<k2>aNkur
+713252 old {#aNkur#}¦, {#aNkurati#} {%schiessen, aufschiessen%} <ls>PĀRV. 595,1</ls>. <ls n="PĀRV.">603,10</ls>. Hierher gehört das <ab n="unter">u.</ab> {#aNkuray#} stehende {#aNkurita#}.<info n="sup_7"/>
+713252 new √{#aNkur#}¦, {#aNkurati#} {%schiessen, aufschiessen%} <ls>PĀRV. 595,1</ls>. <ls n="PĀRV.">603,10</ls>. Hierher gehört das <ab n="unter">u.</ab> {#aNkuray#} stehende {#aNkurita#}.<info n="sup_7"/>
+
+; <L>216514<pc>7-335-c<k1>kroYc<k2>kroYc
+740064 old {#kroYc#}¦, {#kroYcati#} {%barrire%} <ls>DIVYĀVAD. 251,2</ls>.<info n="sup_7"/>
+740064 new √{#kroYc#}¦, {#kroYcati#} {%barrire%} <ls>DIVYĀVAD. 251,2</ls>.<info n="sup_7"/>
+
+; <L>218556<pc>7-351-c<k1>nadasy<k2>nadasy
+748232 old {#nadasy#}¦, {#°syate#} {%brüllen%} <ls>DIVYĀVAD. 269,3</ls>.<info n="sup_7"/>
+748232 new !√{#nadasy#}¦, {#°syate#} {%brüllen%} <ls>DIVYĀVAD. 269,3</ls>.<info n="sup_7"/>
+
+; <L>219524<pc>7-359-d<k1>poYC<k2>poYC
+752104 old {#poYC#}¦, {#poYCate#} {%reinigen%} <ls>DIVYĀVAD. 491,7. fgg.</ls> Richtig {#proYCati#} von {#uYC#}.<info n="sup_7"/>
+752104 new √{#poYC#}¦, {#poYCate#} {%reinigen%} <ls>DIVYĀVAD. 491,7. fgg.</ls> Richtig {#proYCati#} von {#uYC#}.<info n="sup_7"/>
+
+; <L>220868<pc>7-371-d<k1>lard<k2>lard
+757484 old {#lard#}¦, {#lardayati#} {%aufladen%} <ls>DIVYĀVAD. 5,22</ls>. <ls n="DIVYĀVAD.">334,19</ls>.<info n="sup_7"/>
+757484 new √{#lard#}¦, {#lardayati#} {%aufladen%} <ls>DIVYĀVAD. 5,22</ls>. <ls n="DIVYĀVAD.">334,19</ls>.<info n="sup_7"/>

@@ -1,0 +1,365 @@
+=======================================================
+cvc  headwords (consonant-vowel-consonant
+format: bbline\tmetaline
+358: YES these are root entries; add √ markup before ¦
+     251 of these in the pwkvn section
+155: NO  these are not root entries (at end of this file)
+=======================================================
+YES *{#kap#}¦ <ab>v. l.</ab> für {#krap#}.	<L>24149<pc>2-014-a<k1>kap<k2>*kap
+YES <hom>1.</hom> {#kuw#}¦ mit {#ava#} ({#°kuwya#}) {%zertheilen, zerkleinern%}.	<L>28272<pc>2-070-c<k1>kuw<k2>1. kuw
+YES *{#kut#}¦ (<is>Sautra</is>-Wurzel) {%ausbreiten%}.	<L>28501<pc>2-073-c<k1>kut<k2>*kut
+YES <hom>1.</hom> {#kur#}¦ <ab>s.</ab> <hom>1.</hom> {#kar#}.	<L>28970<pc>2-079-c<k1>kur<k2>1. kur
+YES <hom>1.</hom> *{#kuh#}¦ <ab>s.</ab> {#kuhay#}.	<L>29622<pc>2-087-a<k1>kuh<k2>1. *kuh
+YES {#kfY#}¦ <ab>Bez.</ab> {%der Wurzel%} <hom>1.</hom> {#kar#}, {#karoti, kurute#} <ls n="Chr.">235,25</ls>.	<L>29905<pc>2-090-b<k1>kfY<k2>kfY
+YES {#kxb#}¦ <ab>s.</ab> {#klib#}.	<L>30582<pc>2-098-a<k1>kxb<k2>kxb
+YES {#Kac#}¦	<L>33207<pc>2-133-c<k1>Kac<k2>Kac
+YES {#Kid#}¦	<L>33814<pc>2-140-c<k1>Kid<k2>Kid
+YES {#Kun#}¦, <ab>Intens.</ab> <ab>Partic.</ab> {#ka/nIKunat#} = {#canIKudat#} (<ab>s. u.</ab> {#Kud#}).	<L>33846<pc>2-141-b<k1>Kun<k2>Kun
+YES *{#guj#}¦ <ab>s.</ab> {#guYj#}.	<L>35615<pc>2-168-b<k1>guj<k2>*guj
+YES <hom>1.</hom> {#gup#}¦ (ohne Präsensstamm; {#gopant#} = {#gopayant#} <ls>GĪT. 6,12</ls> verdächtig), {#jugopa#} <ab>u. s. w.</ab>	<L>35860<pc>2-171-b<k1>gup<k2>1. gup
+YES {#gUh#}¦ <ab>s.</ab> <hom>1.</hom> {#guh#}.	<L>36143<pc>2-175-b<k1>gUh<k2>gUh
+YES {#can#}¦ nur im <ab>Aor.</ab> {#canizwa/m#} und {#ca/nizWat#} (!) Jenes in der <ab>Bed.</ab> {%Gefallen finden —, sich erfreuen an%} (<ab>Loc.</ab>); dieses mit <ab>Caus.</ab> <ab>Bed.</ab> {%erfreuen%}.	<L>38875<pc>2-211-c<k1>can<k2>can
+YES <hom>1.</hom> {#Cad#}¦ *{#Cadati#}. Vom einfachen Stamme nur {#Canna#}	<L>40881<pc>2-241-a<k1>Cad<k2>1. Cad
+YES <hom>3.</hom> {#Cad#}¦ (nur {#cacCadyAt#} und {#Cada/yati, °te#}) und {#Cand#} (zweimal {#Candati#}, sonst nur <ab>Aor.</ab> und {#Candayati, °te#})	<L>40883<pc>2-241-b<k1>Cad<k2>3. Cad
+YES {#jan#}¦	<L>41470<pc>2-249-c<k1>jan<k2>jan
+YES <hom>1.</hom> {#jar#}¦	<L>41878<pc>2-256-a<k1>jar<k2>1. jar
+YES {#jas#}¦	<L>42331<pc>2-261-a<k1>jas<k2>jas
+YES <hom>1.</hom> {#jur#}¦	<L>43152<pc>2-272-b<k1>jur<k2>1. jur
+YES <hom>1.</hom> {#jUr#}¦ <ab>s.</ab> <hom>1.</hom> {#jur#}.	<L>43186<pc>2-273-a<k1>jUr<k2>1. jUr
+YES {#tak#}¦	<L>44034<pc>3-001-b<k1>tak<k2>tak
+YES <hom>1.</hom> {#taq#}¦ vom Simplex nur ({#vi#}) {#tAQi#} oder {#tA|i#} und {#tatAqa#} (<ls>BHĀG. P.</ls>). {%schlagen%}.	<L>44108<pc>3-002-b<k1>taq<k2>1. taq
+YES <hom>1.</hom> {#tap#}¦	<L>44564<pc>3-010-a<k1>tap<k2>1. tap
+YES {#tAv#}¦ mit {#vi#} in {#vita/vati#} <ls>AV.</ls> vielleicht fehlerhaft für {#°DAvati#}.	<L>45602<pc>3-026-b<k1>tAv<k2>tAv
+YES <hom>1.</hom> {#tuj#}¦	<L>46207<pc>3-034-a<k1>tuj<k2>1. tuj
+YES <hom>1.</hom> {#tur#}¦	<L>46307<pc>3-035-c<k1>tur<k2>1. tur
+YES <hom>1.</hom> {#daG#}¦	<L>48548<pc>3-063-c<k1>daG<k2>1. daG
+YES <hom>2.</hom> {#daG#}¦ in {#uSa°#} und {#dakziRa°#}.	<L>48549<pc>3-063-c<k1>daG<k2>2. daG
+YES <hom>1.</hom> {#dad#}¦ <ab>s.</ab> <hom>1.</hom> {#dA#}.	<L>48733<pc>3-066-b<k1>dad<k2>1. dad
+YES <hom>1.</hom> {#dah#}¦	<L>49485<pc>3-077-a<k1>dah<k2>1. dah
+YES <hom>1.</hom> {#dAS#}¦	<L>49917<pc>3-084-b<k1>dAS<k2>1. dAS
+YES <hom>1.</hom> {#dAs#}¦	<L>49962<pc>3-085-a<k1>dAs<k2>1. dAs
+YES <hom>2.</hom> {#duz#}¦ (= <hom>1.</hom> {#duz#}) {#duzyati#} (episch auch <ab>Med.</ab>) erst im <ls>AIT. BR.</ls>	<L>51552<pc>3-106-b<k1>duz<k2>2. duz
+YES <hom>1.</hom> *{#Diz#}¦ = <hom>1.</hom> {#DA#}, {#diDezwi#} ({#Sabde#}).	<L>55397<pc>3-160-c<k1>Diz<k2>1. *Diz
+YES {#Dun#}¦ (aus {#Dunoti#} entstanden), nur in der Form {#nirDunet#} {%er schüttele aus%} (das Gewand) <ls>MBH. 13,104,52</ls>.	<L>55478<pc>3-162-a<k1>Dun<k2>Dun
+YES {#naB#}¦	<L>56635<pc>3-178-c<k1>naB<k2>naB
+YES <hom>1.</hom> {#pac#}¦	<L>61760<pc>4-004-a<k1>pac<k2>1. pac
+YES {#paj#}¦ mit {#apa#} {%zurückweichen%}. Nur {#a/pa—pA/paje#}.	<L>61787<pc>4-004-c<k1>paj<k2>paj
+YES <hom>1.</hom> {#par#}¦	<L>63141<pc>4-027-c<k1>par<k2>1. par
+YES <hom>1.</hom> {#paS#}¦ nur Präsensstamm {#pa/Sya#} <ab>Act.</ab> <ab>Med.</ab> (meist metrisch).	<L>65135<pc>4-057-a<k1>paS<k2>1. paS
+YES <hom>4.</hom> *{#paS#}¦ <ab>Intens.</ab> {#pampaSyate, pampaSIti#}.	<L>65138<pc>4-057-c<k1>paS<k2>4. *paS
+YES {#pis#}¦	<L>67256<pc>4-087-b<k1>pis<k2>pis
+YES {#pIq#}¦ (<ab>Vgl.</ab> {#piz#}) {%pressen,%} Nur <ab>perf.</ab> {#pipIqe#} <ab>Caus.</ab> — {#pIqa/yati#} episch auch <ab>Med.</ab>	<L>67280<pc>4-088-a<k1>pIq<k2>pIq
+YES {#pIz#}¦ = {#piz#} <ls>AV. 4,6,7</ls>.	<L>67461<pc>4-090-c<k1>pIz<k2>pIz
+YES {#pUj#}¦ vom Simplex nur einmal {#pupUjire#} (<ls>MBH. 6,85,40</ls>. {#apUjaM yaTA#} <ls>MBH. 3,1005</ls>. Fehlerhaft für {#apUjayaTA[H]#}; <ab>vgl.</ab> <ls n="MBH.">3,27,17</ls>) sonst nur <ab>Caus.</ab> {#pUjayati#} (metrisch auch <ab>Med.</ab>).	<L>68762<pc>4-108-b<k1>pUj<k2>pUj
+YES {#Par#}¦, <ab>Intens.</ab> {#ParParat#} <ls>ṚV.</ls>	<L>75284<pc>4-200-c<k1>Par<k2>Par
+YES {#baD#}¦ = {#vaD#} bisweilen auch in vedischen Texten.	<L>75738<pc>4-206-b<k1>baD<k2>baD
+YES <hom>1.</hom> {#bal#}¦, nur <ab>Intens.</ab> {#balbalIti#} {%wirbeln%}.	<L>75939<pc>4-211-a<k1>bal<k2>1. bal
+YES <hom>2.</hom> *{#bal#}¦	<L>75940<pc>4-211-a<k1>bal<k2>2. *bal
+YES {#bah#}¦ <ab>s.</ab> {#baMh#}.	<L>76161<pc>4-213-c<k1>bah<k2>bah
+YES <hom>1.</hom> {#Bas#}¦	<L>79164<pc>4-255-c<k1>Bas<k2>1. Bas
+YES {#miG#}¦ = {#miha#} in {#nime/GamAna#}	<L>86753<pc>5-077-a<k1>miG<k2>miG
+YES <hom>1.</hom> {#muc#}¦ Präsensstämme: {#muca/#}, {#muNca/#}, {#ma/cya#} (<ab>Med.</ab>), {#mumuc#} ({#mumoc#}) und {#mumoca#}; <ab>Act.</ab> <ab>Med.</ab>	<L>87422<pc>5-086-b<k1>muc<k2>1. muc
+YES <hom>1.</hom> {#mur#}¦ <ab>s. u.</ab> <hom>2.</hom> {#mar#}.	<L>87636<pc>5-091-a<k1>mur<k2>1. mur
+YES {#mfR#}¦ (hervorgegangen aus 2.) {#mar#} {#mfRa/ti#}	<L>88296<pc>5-100-a<k1>mfR<k2>mfR
+YES {#meG#}¦ <ab>s.</ab> {#miG#}.	<L>88578<pc>5-103-c<k1>meG<k2>meG
+YES {#meT#}¦ <ab>s.</ab> {#miT#}.	<L>88727<pc>5-105-b<k1>meT<k2>meT
+YES {#med#}¦ <ab>s.</ab> <hom>1.</hom> und <hom>2.</hom> {#mid#}.	<L>88732<pc>5-105-b<k1>med<k2>med
+YES {#meD#}¦ <ab>s.</ab> {#miD#}.	<L>88769<pc>5-105-c<k1>meD<k2>meD
+YES <hom>1.</hom> {#yAs#}¦ = {#yas#} {#avayAsisIzWAs#} <ls>KĀṬH. 34,19</ls> (<ls>VS. 21,3</ls>).	<L>90970<pc>5-141-c<k1>yAs<k2>1. yAs
+YES {#rac#}¦ {%verfertigen%}. Nur {#racizyati#} <ls>HARIV. 6373</ls> mit der <ab>v. l.</ab> {#karizyati#}. <ab>Caus.</ab> {#racayati#}	<L>92049<pc>5-160-a<k1>rac<k2>rac
+YES {#raR#}¦ <ab>s.</ab> {#ran#}.	<L>92176<pc>5-162-b<k1>raR<k2>raR
+YES <hom>1.</hom> {#ran#}¦ (= {#ram#}), {#ra/Rati#} (ausnahmsweise auch <ab>Med.</ab>) und {#raRyati#}	<L>92678<pc>5-168-b<k1>ran<k2>1. ran
+YES {#raP#}¦	<L>92710<pc>5-169-a<k1>raP<k2>raP
+YES <hom>2.</hom> {#rAs#}¦ Aoriststamm zu <hom>1.</hom> {#rA#}.	<L>94128<pc>5-188-c<k1>rAs<k2>2. rAs
+YES {#riK#}¦	<L>94198<pc>5-189-c<k1>riK<k2>riK
+YES <hom>1.</hom> {#rip#}¦ (= {#lip#})	<L>94216<pc>5-190-b<k1>rip<k2>1. rip
+YES {#rih#}¦	<L>94271<pc>5-191-a<k1>rih<k2>rih
+YES <hom>1.</hom> {#ruz#}¦	<L>94605<pc>5-197-b<k1>ruz<k2>1. ruz
+YES {#rUz#}¦	<L>94736<pc>5-201-b<k1>rUz<k2>rUz
+YES {#lam#}¦ (nur {#lalAma#}) {%sich ergötzen%} (geschlechtlich).	<L>95757<pc>5-218-a<k1>lam<k2>lam
+YES <hom>1.</hom> {#luk#}¦ (nur {#lukizyati#} und {#lukita#}) {%zusammentreffen mit%} ({#samam#}, {#saha#}). Eine zur Erklärung von {#lukeSvara#} erfundene Wurzel.	<L>96339<pc>5-229-a<k1>luk<k2>1. luk
+YES <hom>1.</hom> {#luW#}¦	<L>96351<pc>5-229-b<k1>luW<k2>1. luW
+YES <hom>1.</hom> {#lup#}¦	<L>96376<pc>5-230-a<k1>lup<k2>1. lup
+YES <hom>1.</hom> {#vak#}¦ in {#vivakmi#} vedisch von {#vac#}.	<L>97179<pc>6-002-b<k1>vak<k2>1. vak
+YES <hom>2.</hom> {#vak#}¦ {%rollen, volvi%}. Nur {#vAvakre#} <ls>ṚV.</ls>	<L>97180<pc>6-002-b<k1>vak<k2>2. vak
+YES {#vaD#}¦ (vom Präsensstamm nur je einmal {#vaDati#}, {#vaDa#} (<ab>Conj.</ab>), [Page6-012-c] {#vaDeyam#} und {#vaDet#}; <ab>Aor.</ab> {#avaDIt#}, <ab>Prec.</ab> {#vaDyAsam#}, <ab>Fut.</ab> {#vaDizyati#}, <ab>Pass.</ab> {#vaDyate#} und metrisch {#vaDyati#}) {%schlagen%} (<ab>eig.</ab> auch den Feind, ein Heer), {%zerschlagen, erschlagen, tödten, zu Nichte machen%}. {#vaDyamAna#} auch fehlerhaft für {#bADyamAna#} und {#vaDyante#} für {#viDyante#}. {#baD#} bisweilen auch in vedischen Texten.	<L>97822<pc>6-012-b<k1>vaD<k2>vaD
+YES <hom>1.</hom> {#van#}¦ (Präsensstämme; {#va/na#}, {#vana/#}, {#vanu#}, {#vano/#}) <ab>Act.</ab> [Page6-013-c] <ab>Med.</ab> <ab>Partic.</ab> {#vanita#} und {#°vAta#}	<L>97889<pc>6-013-b<k1>van<k2>1. van
+YES <hom>2.</hom> {#vam#}¦ <ab>1.</ab> <ab>Sg.</ab> <ab>Imperf.</ab> von <hom>1.</hom> {#var#}. Nach <ls>BENFEY.</ls> (<ls>Gött. Nachr. 1880, No. 5</ls>) aus {#vram#} entstanden.	<L>98270<pc>6-019-a<k1>vam<k2>2. vam
+YES <hom>7.</hom> {#vas#}¦ (nur {#vasizva#}, {#°vAvase#} und {#vAvasAna/#}) {%den Angriff%} oder {%Lauf richten gegen, losstürmen auf%}. {#rAya/s#} so <ab>v. a.</ab> {%dem Erwerb nachjagen%}.	<L>99304<pc>6-044-b<k1>vas<k2>7. vas
+YES <hom>1.</hom> {#vAs#}¦, nur {#nivAsate#} etwa {%hält Stand%} <ls>ṚV. 10,37,3</ls>.	<L>101322<pc>6-072-b<k1>vAs<k2>1. vAs
+YES <hom>2.</hom> {#vAs#}¦ fehlerhaft für {#vAS#}.	<L>101323<pc>6-072-b<k1>vAs<k2>2. vAs
+YES <hom>2.</hom> {#vic#}¦ <ab>s.</ab> {#vyac#}.	<L>101972<pc>6-082-b<k1>vic<k2>2. vic
+YES *{#vin#}¦ nimmt <ls>MAHĪDH.</ls> <ab>st.</ab> {#ven#} an.	<L>103005<pc>6-098-b<k1>vin<k2>*vin
+YES {#vUs#}¦(!), {#vUsyet#} angeblich = {#pfTakkuryAt#} <ls>PRIY. 37,2</ls>.	<L>106221<pc>6-146-c<k1>vUs<k2>vUs
+YES {#veD#}¦ (= {#vyaT#}), {#veDate#} <ls>LALIT. 449,11,59,2</ls> ({#aveData#} zu lesen).	<L>107289<pc>6-160-c<k1>veD<k2>veD
+YES {#vep#}¦ <ab>s.</ab> <hom>1.</hom> {#vip#}.	<L>107310<pc>6-161-b<k1>vep<k2>vep
+YES <hom>1.</hom> {#Sak#}¦	<L>109210<pc>6-191-a<k1>Sak<k2>1. Sak
+YES <hom>1.</hom> {#Sad#}¦ (zu belegen nur <ab>Intens.</ab> {#SASadu/s#}, {#SASadmahe#}, {#SASadre#} und {#SuSadAna#}) {%sich auszeichnen, — hervorthun; [Page6-203-b] die Oberhand behalten, triumphiren%} <lex>n.</lex>	<L>110105<pc>6-203-a<k1>Sad<k2>1. Sad
+YES <hom>4.</hom> {#Sar#}¦ <ab>s.</ab> <hom>2.</hom> {#Sir#}.	<L>110499<pc>6-209-c<k1>Sar<k2>4. Sar
+YES <hom>2.</hom> {#Sir#}¦ (oder {#Sar#}) = <hom>2.</hom> {#SrI#} {%mengen, mischen%}.	<L>112319<pc>6-233-c<k1>Sir<k2>2. Sir
+YES {#Suj#}¦ nur in der Form {#SU/SujAna#} etwa {%sich spreizend%}.	<L>113407<pc>6-248-c<k1>Suj<k2>Suj
+YES <hom>1.</hom> {#sac#}¦	<L>117739<pc>7-021-b<k1>sac<k2>1. sac
+YES <hom>3.</hom> {#sac#}¦ = {#saYj#}.	<L>117741<pc>7-021-b<k1>sac<k2>3. sac
+YES {#saj#}¦ <ab>s.</ab> {#saYj#}.	<L>117814<pc>7-022-b<k1>saj<k2>saj
+YES <hom>3.</hom> {#sap#}¦ nur {#sApa/yant#} etwa {%futuens%}.	<L>119268<pc>7-046-b<k1>sap<k2>3. sap
+YES {#saB#}¦ = <hom>1.</hom> {#sah#}; <ab>vgl.</ab> {#prasaBam#}.	<L>119710<pc>7-051-c<k1>saB<k2>saB
+YES *{#sAt#}¦	<L>123640<pc>7-110-b<k1>sAt<k2>*sAt
+YES {#sId#}¦ <ab>s.</ab> <hom>1.</hom> {#sad#}.	<L>125522<pc>7-137-a<k1>sId<k2>sId
+YES {#sIv#}¦ <ab>s.</ab> {#siv#}.	<L>125592<pc>7-137-c<k1>sIv<k2>sIv
+YES {#sud#}¦ = <hom>1.</hom> {#svad#} in {#saMsu/de#}.	<L>126280<pc>7-146-b<k1>sud<k2>sud
+YES {#suB#}¦	<L>127040<pc>7-156-b<k1>suB<k2>suB
+YES {#sul#}¦ mit {#pra#} {%hineinstossen%}. Nur {#pra/#} {#sulAmi#} mit der <ab>v. l.</ab> {#pra/#} {#tilAmi#}.	<L>127738<pc>7-165-a<k1>sul<k2>sul
+YES {#sUc#}¦ <ab>s.</ab> {#sUcay#}.	<L>128625<pc>7-176-b<k1>sUc<k2>sUc
+YES {#hiq#}¦ <ab>s.</ab> {#hIq#}.	<L>134590<pc>7-273-c<k1>hiq<k2>hiq
+YES {#hun#}¦ = <hom>1.</hom> {#hu#} {%opfern%}. Nur {#hunet#} <ls>PAÑCAR. 3,14,3. 28. 44. 46. 53. 60. 62. 71. 72. 79. 15,74</ls>. <ls>HEMĀDRI 1,325,10</ls>.	<L>135027<pc>7-279-b<k1>hun<k2>hun
+YES <hom>1.</hom> {#kar#}¦ mit {#pratyapa#} {%sich rächen an%} (<ab>Gen.</ab>) <ls>DAŚAK. (1925) 2,75,3</ls>. — Mit {#ud#} 1〉 lies <ls>MAITR. S. 1,5,13</ls>.<info n="sup_2"/>	<L>202923<pc>2-297-b<k1>kar<k2>1. kar
+YES {#kAS#}¦ mit {#nis#} <ab>Caus.</ab> {%hinausschaffen%} <ls><ab>Comm.</ab> zu KĀTY. ŚR. 2,6,11</ls>.<info n="sup_2"/>	<L>203009<pc>2-298-b<k1>kAS<k2>kAS
+YES {#kuz#}¦ mit {#anu#} wohl {%entlang streichen%}.<info n="sup_2"/>	<L>203051<pc>2-298-c<k1>kuz<k2>kuz
+YES <hom>2.</hom> {#kUq#}¦, {#kUqayati#} <ls>KAP. S. 4,2</ls>. — Mit {#ni#} ({#°kUqya#}) {%anbrennen%} <ls>ĀPAST. ŚR. 7,19,8</ls>.<info n="sup_2"/>	<L>203058<pc>2-298-c<k1>kUq<k2>2. kUq
+YES {#kUR#}¦ mit {#ni#}, {#°kURita#} {%geschlossen%} (Auge) <ls>DEŚĪN. 1,88</ls>. — Mit {#vi, °kURita#} {%zugehalten%} (Nase) <ls>HEM. PAR. 8,80</ls>.<info n="sup_2"/>	<L>203059<pc>2-298-c<k1>kUR<k2>kUR
+YES <hom>6.</hom> {#gar#}¦ = {#jar#}. {#jAgAra#} {%wurde alt%} <ls>AV. 5,19,10</ls>.<info n="sup_2"/>	<L>203146<pc>2-300-a<k1>gar<k2>6. gar
+YES <hom>1.</hom> {#Gar#}¦ mit {#aByA#} in {#punaraByAGAram#}.<info n="sup_2"/>	<L>203185<pc>2-300-b<k1>Gar<k2>1. Gar
+YES {#car#}¦ mit {#anupari#} in {#°cAram#}.<info n="sup_2"/>	<L>203206<pc>2-300-c<k1>car<k2>car
+YES {#jan#}¦ 1〉 {#jaja/nat#} <ls>MAITR. S. 1,3,20</ls>. <ls n="MAITR. S. 1,">9,1</ls> (<ls>KĀṬH. 9,8</ls>).<info n="sup_2"/>	<L>203233<pc>2-301-b<k1>jan<k2>jan
+YES <hom>1.</hom> {#kar#}¦ mit {#aByA#} in {#punaraByAkAram#}. — Mit {#pravi#} (metrisch <ab>st.</ab> {#vipra#}), {#°kfta#} <lex>n.</lex> <ab>impers.</ab> {%gesündigt%} <ls>MAHĀVĪRAC. 80,11</ls>.<info n="sup_3"/>	<L>204383<pc>3-259-a<k1>kar<k2>1. kar
+YES {#kas#}¦ mit {#nis#}, {#nizkAsita#} ausser {%hinausgejagt%} nach <ls>MED.</ls> auch = {#Ahita#} und {#aDikfta#}.<info n="sup_3"/>	<L>204419<pc>3-259-b<k1>kas<k2>kas
+YES {#kAS#}¦ mit {#nis#} <ab>Caus.</ab> (<ls>Nachtr. 2</ls>) auch <ls><ab>Comm.</ab> zu KĀTY. ŚR. 2,4,17</ls>.<info n="sup_3"/>	<L>204442<pc>3-259-c<k1>kAS<k2>kAS
+YES {#kuw#}¦ mit {#ni#} <ab>s.</ab> {#nikuwwana#}.<info n="sup_3"/>	<L>204459<pc>3-259-c<k1>kuw<k2>kuw
+YES <hom>1.</hom> {#kup#}¦ mit {#ud#} <ab>Caus.</ab> {%erregen, bewirken%} (Kopfschmerz) <ls>MAHĀVĪRAC. 36,1</ls>.<info n="sup_3"/>	<L>204464<pc>3-259-c<k1>kup<k2>1. kup
+YES {#gam#}¦ mit {#aByud#} 1〉 {#aByudgata#} {%aufgegangen%} (Sonne) <ls>VAJRACCH. 32,17</ls>.<info n="sup_3"/>	<L>204564<pc>3-261-a<k1>gam<k2>gam
+YES <hom>1.</hom> {#gal#}¦ mit {#vinis#} {%hervorbrechen%} <ls>PR. P. 108</ls>.<info n="sup_3"/>	<L>204571<pc>3-261-a<k1>gal<k2>1. gal
+YES {#Gaw#}¦ mit {#pravi#}, {#°Gawita#} {%abgehauen%} <ls>MAHĀVĪRAC. 26,12</ls>. <ls n="MAHĀVĪRAC.">37,13</ls>. — <ab>Caus.</ab> {%auseinander sprengen%} <ls>KIR. 2,46</ls>.<info n="sup_3"/>	<L>204613<pc>3-261-b<k1>Gaw<k2>Gaw
+YES {#Guz#}¦ mit {#ud#} 3〉 {#udGuzyamARa#} <ls>VṚṢABH. 259,a,38</ls>.<info n="sup_3"/>	<L>204621<pc>3-261-b<k1>Guz<k2>Guz
+YES {#jan#}¦ mit {#nis#}, {#nirjAta#} {%entstanden aus%} (<ab>Abl.</ab>) <ls>VAJRACCH. 25,4</ls>. <ls n="VAJRACCH. 25,">6</ls>. — Mit {#pratyA#} <ls>KAUṢ. UP. 1,2</ls>.<info n="sup_3"/>	<L>204686<pc>3-262-a<k1>jan<k2>jan
+YES {#Jaw#}¦ mit {#nis#}, {#nirJAwita#} {%geborsten%} <ls>DEŚĪN. 6,27</ls>.<info n="sup_3"/>	<L>204724<pc>3-262-c<k1>Jaw<k2>Jaw
+YES {#tap#}¦ mit {#aBi#} <ab>Caus.</ab> auch {%ein wenig erwärmen%} <ls>MĀN. ŚR. 1,6,1</ls>.<info n="sup_3"/>	<L>204754<pc>3-263-a<k1>tap<k2>tap
+YES {#tar#}¦ mit {#vyud#} <ab>Caus.</ab> {%hierhin und dorthin ausgiessen%} <ls>MĀN. ŚR. 4,3</ls>.<info n="sup_3"/>	<L>204758<pc>3-263-a<k1>tar<k2>tar
+YES <hom>1.</hom> {#diS#}¦ mit {#samA#} Z. 3, lies <ls>231,16</ls>.<info n="sup_3"/>	<L>204847<pc>3-263-c<k1>diS<k2>1. diS
+YES <hom>1.</hom> {#Dar#}¦ mit {#upa#} am Ende. <ls>ĀŚV. ŚR. 9,11,1</ls> vielleicht [Page3-264-c] {%Stand halten, am Orte verbleiben%}.<info n="sup_3"/>	<L>204909<pc>3-264-b<k1>Dar<k2>1. Dar
+YES <hom>2.</hom> {#kal#}¦ 9〉b〉 {#kalitacaraRa#} <lex>Adj.</lex> {%dessen Bein gebrochen ist%} <ls>PAÑCAT. ed. Bomb. 1,6,12</ls>.<info n="sup_4"/>	<L>205524<pc>4-297-c<k1>kal<k2>2. kal
+YES <hom>1.</hom> {#gad#}¦ mit {#pari#} {%beschreiben%} <ls>BHĀM. V. 2,75</ls>.<info n="sup_4"/>	<L>205588<pc>4-298-b<k1>gad<k2>1. gad
+YES <hom>2.</hom> {#gar#}¦ mit {#prod#} in {#°prodgArin#}. — Mit {#vini#} {%verschlingen%} <ls>BHĀM. V. 2,118</ls>.<info n="sup_4"/>	<L>205593<pc>4-298-b<k1>gar<k2>2. gar
+YES {#gAh#}¦ mit {#pari#}, {#°gAQam#} <lex>Adv.</lex> {%in hohem Grade, mit aller Macht%} <ls>Z. d. d. m. G. 36,535</ls>. — Mit {#pra, pragAQa#} 1〉 {%eingetaucht, eingeweicht, getränkt —, stark vermischt mit%} (im <ab>Comp.</ab> vorangehend). — 2〉 {%viel, vielfach%}. {#°m#} <lex>Adv.</lex> {%stark, kräftig, nachdrücklich, [Page4-298-c] in gehörigem Maasse%}. — 3〉 {%reich an%} (im <ab>Comp.</ab> vorangehend). — 4〉 {%vorgerückt, spät%} (Abendstunde) <ls>DAŚAK. 89,3</ls>. — 5〉 {%*schlimm, arg%}.<info n="sup_4"/>	<L>205596<pc>4-298-b<k1>gAh<k2>gAh
+YES {#Cid#}¦ mit {#vipra#} {%trennen%} <ls>ĀPAST. ŚR. 10,15,12</ls>. <ls n="ĀPAST. ŚR. 10,">19,14</ls>.<info n="sup_4"/>	<L>205647<pc>4-299-a<k1>Cid<k2>Cid
+YES {#jan#}¦ mit {#pra#}, {#prajAta#} {%qui semen immisit%} <ls>KĀTY. ŚR. 20,3,20</ls>. — Mit {#parivi#} {%in der Fortpflanzung übertreffen,%} mit <ab>Acc.</ab> <ls>MAITR. S. 2,5,1 (46,15)</ls>.<info n="sup_4"/>	<L>205652<pc>4-299-b<k1>jan<k2>jan
+YES <hom>1.</hom> {#tan#}¦ mit {#pra#}, {#pratatam#} <lex>Adv.</lex> {%anhaltend, ununterbrochen%} <ls>SUŚR. 2,145,7</ls>.<info n="sup_4"/>	<L>205681<pc>4-299-c<k1>tan<k2>1. tan
+YES {#dIp#}¦ mit {#pra#}, {#pra/dIptatara#} {%heller flammend%} <ls>ŚAT. BR. 2,3,2,10</ls>. {#pradIptatama#} {%am hellsten flammend%} <ls>KĀTY. ŚR. 4,15,18</ls>.<info n="sup_4"/>	<L>205733<pc>4-300-b<k1>dIp<k2>dIp
+YES <hom>2.</hom> {#duz#}¦ mit {#apa#} <ab>Caus.</ab> in {#anapadozya/#} (<ab>s.</ab> oben).<info n="sup_4"/>	<L>205740<pc>4-300-b<k1>duz<k2>2. duz
+YES <hom>1.</hom> {#pad#}¦ mit {#ati#} 3〉 {%unterbleiben%} <ls>MAITR. S. 2,1,10 (11,13. 14)</ls>. — <ab>Caus.</ab> auch so <ab>v. a.</ab> {%versäumen, unterlassen%} <ls>MAITR. S. 2,1,10 (11,17)</ls>. <ab>v. l.</ab> {#api#}. — Mit {#pratyA, °panna#} auch {%zurückgekehrt vom Bösen, bekehrt, der sein Unrecht eingesehen hat%} <ls>MBH. 12,291,8</ls>.<info n="sup_4"/>	<L>205850<pc>4-301-b<k1>pad<k2>1. pad
+YES <hom>1.</hom> {#par#}¦ Z. 13, lies a〉 <ab>st.</ab> 1〉. — Mit {#vyA#} ({#°piparti#}) {%vergehen, verschwinden%} <ls>VIKRAMĀṄKAC. 4,44</ls>.<info n="sup_4"/>	<L>205855<pc>4-301-c<k1>par<k2>1. par
+YES <hom>2.</hom> {#par#}¦ mit {#vi#} {%mehr sein als%} (<ab>Acc.</ab>) <ls>ṚV. 10,73,8</ls>.<info n="sup_4"/>	<L>205856<pc>4-301-c<k1>par<k2>2. par
+YES <hom>1.</hom> {#kar#}¦ mit {#anvava#}, lies {%mit Etwas%} (<ab>Instr.</ab>) {%über Etwas%} (<ab>Acc.</ab>) {%entlang fahren%}. — Mit {#paryA#} auch {%umgiessen%} <ls>MAITR. S. 1,8,3 (119,1)</ls>. — Mit {#vi, vikfta#} auch {%gefärbt%} <ls>PĀR. GṚHY. 2,7,17</ls>. — <ab>Desid.</ab> {#vicikIrzita#} {%mit dem man eine Veränderung vorzunehmen wünscht%} <ls>BHĀG. P. 11,29,34</ls>.<info n="sup_5"/>	<L>207003<pc>5-251-c<k1>kar<k2>1. kar
+YES <hom>2.</hom> {#kal#}¦ S. 32, Sp. 1, Z. 2 <ab>v. u.</ab> lies <ls>120,24</ls> <ab>st.</ab> <ls>120,14</ls>.<info n="sup_5"/>	<L>207016<pc>5-251-c<k1>kal<k2>2. kal
+YES <hom>1.</hom> {#kas#}¦ Z. 2 vom Ende, lies <ls>PRASANNAR.</ls><info n="sup_5"/>	<L>207027<pc>5-251-c<k1>kas<k2>1. kas
+YES {#gam#}¦ mit {#aBi#} <ab>Caus.</ab> auch {%zukommen lassen%} <ls>SĀY.</ls> zu <ls>ṚV. 9,1,4</ls>. — Mit {#nis#} <ab>Caus.</ab> auch {%verlieren, einbüssen%} <ls>CAMPAKA 396</ls>. <ls n="CAMPAKA">484</ls>.<info n="sup_5"/>	<L>207157<pc>5-253-b<k1>gam<k2>gam
+YES <hom>3.</hom> {#gar#}¦ mit {#ud#}, <ls>HARṢAC. (1936) 367,19</ls> liest {#sa rAjako jajAgAra#}.<info n="sup_5"/>	<L>207160<pc>5-253-b<k1>gar<k2>3. gar
+YES {#Guw#}¦ mit {#vyA#}, {#°Guwantu#} <ls>HEM. PAR. 1,327</ls>. {#°juGuwus#} <ls n="HEM. PAR. 1,">326</ls>. {#°Guwya#} <ls n="HEM. PAR.">2,240</ls>.<info n="sup_5"/>	<L>207217<pc>5-254-a<k1>Guw<k2>Guw
+YES <hom>1.</hom> {#Guz#}¦ mit {#A#} 1〉 mit <ab>Acc.</ab> oder <ab>Gen.</ab> (<ls>ṚV. 8,64,4</ls>).<info n="sup_5"/>	<L>207218<pc>5-254-a<k1>Guz<k2>1. Guz
+YES {#car#}¦ mit {#anvaByava#} {%heranschleichen%} <ls>MAITR. S. 1,10,20 (160,17)</ls>.<info n="sup_5"/>	<L>207234<pc>5-254-a<k1>car<k2>car
+YES {#cuw#}¦, {#cowayati#} mit {#A#} {%kratzen%} <ls>SADUKTIK. 2,414</ls>. <ls n="SADUKTIK.">5,13</ls>. <ls n="SADUKTIK. 5,">27</ls>.<info n="sup_5"/>	<L>207254<pc>5-254-b<k1>cuw<k2>cuw
+YES {#cUz#}¦ mit {#nis#} <ab>Caus.</ab> {%aussaugen%} <ls><ab>Comm.</ab> zu ĀPAST. ŚR. 13,17,6</ls>.<info n="sup_5"/>	<L>207258<pc>5-254-b<k1>cUz<k2>cUz
+YES {#Cuw#}¦ <ab>Caus.</ab> {#Cowita#} {%abgeschnitten%} <ls>UTTAMAC. 316</ls>.<info n="sup_5"/>	<L>207266<pc>5-254-b<k1>Cuw<k2>Cuw
+YES {#jan#}¦, {#nirjAta#} (mit {#niryAta#} wechselnd) bedeutet {%vollkommen vertraut mit,%} steht also richtig nach.<info n="sup_5"/>	<L>207268<pc>5-254-b<k1>jan<k2>jan
+YES {#wal#}¦, <ab>Caus.</ab> {#wAlayati#} {%verhindern, vereiteln%} <ls>CAMPAKA 108</ls>.<info n="sup_5"/>	<L>207315<pc>5-255-a<k1>wal<k2>wal
+YES <hom>1.</hom> {#tar#}¦ mit {#ava#} Z. 2, lies {#avatI/ryatI#}. — Mit {#samava, °tIrRa#} {%abgestiegen%} <ls>DAŚAK. 46,18</ls>. — Mit {#ud#} <ab>Caus.</ab> 4〉 Nägel {%abnehmen,%} so <ab>v. a.</ab> {%beschneiden%} <ls>HEM. PAR. 1,185</ls>.<info n="sup_5"/>	<L>207339<pc>5-255-b<k1>tar<k2>1. tar
+YES <hom>3.</hom> {#tuj#}¦ {%Sohn%} <ls>BHADRAB. 1,101</ls>.<info n="sup_5"/>	<L>207363<pc>5-255-c<k1>tuj<k2>3. tuj
+YES <hom>1.</hom> {#daB#}¦ mit {#upa#} {%Jmd%} (<ab>Gen.</ab>) {%zum Schaden gereichen%}. {#na ma idamupadamBizak#} <ls>ĀPAST. ŚR. 13,7,13</ls>. Zur Form <ab>vgl.</ab> <ls>Ind. St. 4</ls>. <ls n="Ind. St.">412</ls>.<info n="sup_5"/>	<L>207395<pc>5-256-a<k1>daB<k2>1. daB
+YES <hom>3.</hom> {#dAS#}¦, {#dA/Sati#} = <hom>1.</hom> {#dAs#}. Mit {#A#} {%verfolgen%} (= <hom>1.</hom> {#dAs#} mit {#aBi#}) <ls>ṚV. 6,16,31</ls>.<info n="sup_5"/>	<L>207417<pc>5-256-a<k1>dAS<k2>3. dAS
+YES {#din#}¦, {#dinati#} {%zum Tage werden%} <ls>KĀVYAPR. 270,5</ls>.<info n="sup_5"/>	<L>207422<pc>5-256-b<k1>din<k2>din
+YES <hom>1.</hom> {#Dar#}¦ mit {#saMpra#}, {#°DArita#} {%getragen,%} so <ab>v. a.</ab> {%empfunden%} (Schmerz) <ls>HEM. PAR. 2,14</ls>.<info n="sup_5"/>	<L>207480<pc>5-256-c<k1>Dar<k2>1. Dar
+YES {#naw#}¦, {#nawita#} wohl so <ab>v. a.</ab> {%überdrüssig;%} mit <ab>Instr.</ab> <ls>HEM. PAR. 1,172</ls>. <ab>Vgl.</ab> <ls>HĀLA, S. 27</ls>. — Mit {#vi, °nawita#} {%hinundher tanzend, — schwärmend%} (von Bienen) <ls>VĀSAV. 180,3</ls>. <ab>Vgl.</ab> {#vinawana#}.<info n="sup_5"/>	<L>207518<pc>5-257-b<k1>naw<k2>naw
+YES {#nad#}¦ mit {#aBivi#} {%ein lautes Geschrei erheben%}.<info n="sup_5"/>	<L>207519<pc>5-257-b<k1>nad<k2>nad
+YES {#nam#}¦ mit {#vipari#} <ab>Caus.</ab> {#°RAmayate#} <ls>ŚAṂK.</ls> zu <ls>CHĀND. UP. 6,8,3</ls>.<info n="sup_5"/>	<L>207527<pc>5-257-b<k1>nam<k2>nam
+YES {#paw#}¦ mit {#vi#} {%ausreissen, fliehen%} <ls>ŚIŚ. 19,56</ls>.<info n="sup_5"/>	<L>207658<pc>5-258-c<k1>paw<k2>paw
+YES <hom>1.</hom> {#pat#}¦ mit {#aByud#} <ab>Caus.</ab> {%auffliegen machen zu%} (<ab>Acc.</ab>) <ls>ŚAT. BR. 1,8,2,14</ls>. — Mit {#aBisam#} 1〉 {%hinfliegen, hineilen zu, stürzen auf%} (<ab>Acc.</ab>) — 2〉 {%einherfliegen%}.<info n="sup_5"/>	<L>207665<pc>5-258-c<k1>pat<k2>1. pat
+YES <hom>1.</hom> {#pad#}¦ mit {#viprati#}, {#°panna#} 1〉 auch {%nicht übereinstimmend, einen Widerspruch enthaltend%} <ls>ṚV. PRĀT. 17,13</ls>.<info n="sup_5"/>	<L>207672<pc>5-258-c<k1>pad<k2>1. pad
+YES <hom>2.</hom> {#par#}¦ mit {#ava#} <ab>Caus.</ab> {%hinüberführen, erretten%} <ls>SĀY.</ls> zu <ls>ṚV. 10,39,6</ls>.<info n="sup_5"/>	<L>207681<pc>5-259-a<k1>par<k2>2. par
+YES {#pIq#}¦ mit {#ud#} <ab>Caus.</ab> {#utpIqitataram#} <lex>Adv.</lex> {%heftig andrückend%} (umarmen) <ls>DAŚAK. 47,5</ls>.<info n="sup_5"/>	<L>207776<pc>5-260-a<k1>pIq<k2>pIq
+YES <hom>1.</hom> {#bAD#}¦, <ab>Desid.</ab> {#bibADizate#} {%verjagen wollen%} <ls><ab>Comm.</ab> zu ĀPAST. ŚR. 14,7,3</ls>.<info n="sup_5"/>	<L>207927<pc>5-261-c<k1>bAD<k2>1. bAD
+YES {#Bal#}¦ mit {#nis#} <ab>Caus.</ab> <ls>SADUKTIK. 4,183</ls>.<info n="sup_5"/>	<L>207978<pc>5-262-a<k1>Bal<k2>Bal
+YES <hom>1.</hom> {#Bid#}¦ 7〉 mit {#antar#} {%Verrath schmieden%} <ls>DAŚAK. 19,8</ls>.<info n="sup_5"/>	<L>207994<pc>5-262-b<k1>Bid<k2>1. Bid
+YES <hom>3.</hom> {#Buj#}¦ mit {#upa#} <ab>Desid.</ab> {%zu geniessen%} (ehelich) {%Willens sein%} <ls>HEM. PAR. 1,380</ls>.<info n="sup_5"/>	<L>208003<pc>5-262-b<k1>Buj<k2>3. Buj
+YES {#mIl#}¦ mit {#A#} <ab>Caus.</ab> {#cEtanyam#} {%das Herz verschliessen,%} so <ab>v. a.</ab> {%ganz in Beschlag nehmen%} <ls>MAHĀVĪRAC. 29,16</ls>.<info n="sup_5"/>	<L>208111<pc>5-263-c<k1>mIl<k2>mIl
+YES {#riB#}¦ bedeutet <ls>TS. 7,1,1,3</ls> (<ab>vgl.</ab> <ls>MAITR. S. 1,8,2 [117,8. 9]</ls>) und <ls>AIT. BR. 1,25,15</ls>. <ls n="AIT. BR.">6,32,8</ls> {%glänzen;%} <ab>vgl.</ab> <ls>Ind. St. 16,32</ls>.<info n="sup_5"/>	<L>208159<pc>5-264-b<k1>riB<k2>riB
+YES <hom>2.</hom> {#ruD#}¦ 14〉 {#priyaM jYAtiM runDyAt#} <ls>ĀPAST. ŚR. 8,6,22</ls>.<info n="sup_5"/>	<L>208162<pc>5-264-c<k1>ruD<k2>2. ruD
+YES <hom>1.</hom> {#lih#}¦ mit {#ni#}, {#°nilIQa#} {%aufgeleckt,%} so <ab>v. a.</ab> {%ergriffen —, übermannt von%} (Schlaf) <ls>DAŚAK. 5,15</ls>.<info n="sup_5"/>	<L>208174<pc>5-264-c<k1>lih<k2>1. lih
+YES {#kaw#}¦ <ab>vgl.</ab> {#prakaway#}.<info n="sup_6"/>	<L>208742<pc>6-299-b<k1>kaw<k2>kaw
+YES {#kan#}¦ auch {%glänzen%} <ls>ŚIŚ. 19,72</ls>.<info n="sup_6"/>	<L>208755<pc>6-299-c<k1>kan<k2>kan
+YES <hom>1.</hom> {#kar#}¦ mit {#sam#}, <ab>Partic.</ab> {#saMskfta/#}, nach <ls>VS. PRĀT.</ls> auch {#saM/skfta#}.<info n="sup_6"/>	<L>208768<pc>6-299-c<k1>kar<k2>1. kar
+YES <hom>3.</hom> {#kar#}¦ mit {#aBipra#} {%hinstreuen auf Etwas%} <ls><ab>Comm.</ab> zu ĀPAST. ŚR. 15,15,1</ls>.<info n="sup_6"/>	<L>208769<pc>6-299-c<k1>kar<k2>3. kar
+YES {#kuc#}¦ mit {#vyA#}, *{#vyAkuYcita#} {%gebogen%} <ls>HALĀY. 4,11</ls>.<info n="sup_6"/>	<L>208816<pc>6-300-b<k1>kuc<k2>kuc
+YES <hom>1.</hom> {#gar#}¦ mit {#aBiprati#} bedeutet <ls>TS. 3,2,9,5</ls> und <ls>ĀPAST. ŚR. 14,32,6</ls> {%als Antwortsruf etwas zu viel rufen%}.<info n="sup_6"/>	<L>208872<pc>6-300-c<k1>gar<k2>1. gar
+YES <hom>1.</hom> {#Cid#}¦, {#CindatprARi#} (<ab>Nomin.</ab>) {%ein grasfressendes Thier%} <ls>ĀPAST. ŚR. 9,13,1</ls>. <ls n="ĀPAST. ŚR. 9,">16,8</ls>.<info n="sup_6"/>	<L>208921<pc>6-301-b<k1>Cid<k2>1. Cid
+YES {#daG#}¦ mit {#prati#} {%Jmd%} (<ab>Acc.</ab>) {%wehe thun,%} wenn <ls>VASIṢṬHA 1,23</ls> {#pratidaGnuyAt#} gelesen werden darf.<info n="sup_6"/>	<L>208977<pc>6-302-a<k1>daG<k2>daG
+YES {#dal#}¦, {#dalita#} auch {%zerrieben%} <ls>ŚIŚ. 6,35</ls>.<info n="sup_6"/>	<L>208981<pc>6-302-a<k1>dal<k2>dal
+YES {#nuq#}¦, {#vinuqya#} <ls>ŚĀṄKH. ŚR. 17,12,1</ls> wohl fehlerhaft für {#vinudya#}, wie eben daselbst {#saMtfqya#} für {#saMtfdya#}.<info n="sup_6"/>	<L>209069<pc>6-303-a<k1>nuq<k2>nuq
+YES <hom>1.</hom> {#ned#}¦ mit {#ati#} und {#pra#} <ls>J. A. O. S. 11, CXVII.</ls><info n="sup_6"/>	<L>209072<pc>6-303-a<k1>ned<k2>1. ned
+YES {#paw#}¦ auch {%reissend sein, stark strömen%} <ls>ŚIŚ. 6,72</ls>.<info n="sup_6"/>	<L>209080<pc>6-303-a<k1>paw<k2>paw
+YES <hom>1.</hom> {#pad#}¦ mit {#sam#} auch {%sich einverstanden erklären mit Jmd%} (<ab>Acc.</ab>) <ls>VASIṢṬHA 17,35</ls>, wo {#saMpede#} <ab>st.</ab> {#saMpade#} zu lesen ist.<info n="sup_6"/>	<L>209083<pc>6-303-a<k1>pad<k2>1. pad
+YES {#man#}¦ mit {#anu#}, {#anumata#} <lex>m.</lex> {%Geliebter%} <ls>ŚIŚ. 6,65</ls>.<info n="sup_6"/>	<L>209238<pc>6-305-a<k1>man<k2>man
+YES {#raj#}¦ (<ab>Caus.</ab> 3), {#rajita#} {%angelockt%} (Wild) <ls>ŚIŚ. 6,9</ls>.<info n="sup_6"/>	<L>209304<pc>6-305-c<k1>raj<k2>raj
+YES {#riB#}¦, {#reBamARa#} {%brüllend%} (Kuh) <ls>MBH. 4,53,25</ls>. <ab>Vgl.</ab> {#reB#}.<info n="sup_6"/>	<L>209314<pc>6-305-c<k1>riB<k2>riB
+YES {#laq#}¦, {#laqati#} auch {%zärtlich thun, schmeicheln%} (von einem Hunde gesagt) <ls>ALAṂKĀRAR. 61,b.</ls> <ab>Vgl.</ab> {#lal#}.<info n="sup_6"/>	<L>209322<pc>6-306-a<k1>laq<k2>laq
+YES {#las#}¦ mit {#ud#}, {#ullasita#} auch so <ab>v. a.</ab> {%aus der Scheide gezogen%} <ls>ŚIŚ. 6,51</ls>.<info n="sup_6"/>	<L>209324<pc>6-306-a<k1>las<k2>las
+YES {#lip#}¦ mit {#prati#} {%zuschmieren, festschmieren%} <ls><ab>Comm.</ab> zu ĀPAST. ŚR. 14,26,2</ls>.<info n="sup_6"/>	<L>209326<pc>6-306-a<k1>lip<k2>lip
+YES {#lul#}¦ mit {#vyA#} in {#vyAlolana#}.<info n="sup_6"/>	<L>209327<pc>6-306-a<k1>lul<k2>lul
+YES <hom>1.</hom> {#vac#}¦ mit {#paripra#} bedeutet {%Jmd%} (<ab>Acc.</ab>) {%mit einer Mittheilung zuvorkommen;%} <ab>s.</ab> <ls>J. A. O. S. Procc. Oct. 1885, XXVI. fg.</ls><info n="sup_6"/>	<L>209334<pc>6-306-a<k1>vac<k2>1. vac
+YES <hom>2.</hom> {#vas#}¦ mit {#aBivi#} <ls>ĀPAST. ŚR. 14,23,12</ls>.<info n="sup_6"/>	<L>209350<pc>6-306-b<k1>vas<k2>2. vas
+YES <hom>5.</hom> {#vas#}¦ mit {#vi#} 6〉a〉 lies = 5〉b〉 und füge <ls>VASIṢṬHA 27,17</ls> hinzu.<info n="sup_6"/>	<L>209351<pc>6-306-b<k1>vas<k2>5. vas
+YES {#kaw#}¦ II. 6.<info n="sup_7"/>	<L>215624<pc>7-328-d<k1>kaw<k2>kaw
+YES {#kan#}¦ II. 6.<info n="sup_7"/>	<L>215690<pc>7-329-b<k1>kan<k2>kan
+YES <hom>3.</hom> {#kar#}¦ mit {#aBipra#} 6. — Mit {#avasam, °avasaMkIrRa#} {%überschüttet mit, voll von%} <ls>R. ed. Bomb. 4,8,15</ls>.<info n="sup_7"/>	<L>215750<pc>7-329-d<k1>kar<k2>3. kar
+YES <hom>2.</hom> {#kal#}¦ II. 4. 5. — Mit {#anu, °kalita#} {%wahrgenommen%} <ls>DHARMAŚARMĀBHY. 13,64</ls>. — Mit {#samA#} {%prüfen, untersuchen%} <ls>PĀRV. 579,23</ls>.<info n="sup_7"/>	<L>215847<pc>7-330-c<k1>kal<k2>2. kal
+YES <hom>3.</hom> {#kal#}¦ mit {#prati#} {%hetzen, verfolgen%} <ls>R. ed. Bomb. 4,46,3</ls>.<info n="sup_7"/>	<L>215848<pc>7-330-c<k1>kal<k2>3. kal
+YES {#kaz#}¦ mit {#ni#} II. {%kratzen, reiben%} <ls>CARAKA 421,8</ls>.<info n="sup_7"/>	<L>215923<pc>7-331-a<k1>kaz<k2>kaz
+YES <hom>1.</hom> {#kas#}¦ II. 5. — Mit {#nis#} <ab>Caus.</ab> II. 3.<info n="sup_7"/>	<L>215926<pc>7-331-a<k1>kas<k2>1. kas
+YES {#kAS#}¦ mit {#nis#} <ab>Caus.</ab> II. 2. 3. — Mit {#sam#} <ab>Caus.</ab> auch {%genau betrachten lassen, zeigen%} <ls>ĀPAST. GṚHYAS. 6,6</ls>.<info n="sup_7"/>	<L>216082<pc>7-332-b<k1>kAS<k2>kAS
+YES {#kuc#}¦ mit {#vyA#} II. 6. — Mit {#sam#} II. {%vor Etwas%} (<ab>Abl.</ab>) {%zurückschrecken%} <ls>JĀTAKAM. 4</ls>.<info n="sup_7"/>	<L>216152<pc>7-332-d<k1>kuc<k2>kuc
+YES <hom>4.</hom> {#kuw#}¦ = {#kuww#}. *Mit {#A#} <ab>Caus.</ab> {#Akowayati#} {%klopfen%} (ein gewaschenes Kleid) <ls>MAHĀVY. 281,60</ls>. <ab>Vgl.</ab> {#kowanaka#}.<info n="sup_7"/>	<L>216157<pc>7-332-d<k1>kuw<k2>4. kuw
+YES <hom>1.</hom> {#kup#}¦ mit {#ud#} <ab>Caus.</ab> und {#kupaWita#} 3.<info n="sup_7"/>	<L>216193<pc>7-333-a<k1>kup<k2>1. kup
+YES {#kuz#}¦ mit {#anu#} II. 2.<info n="sup_7"/>	<L>216264<pc>7-333-c<k1>kuz<k2>kuz
+YES <hom>2.</hom> {#kUq#}¦ II. 2. — Mit {#ni#} 2.<info n="sup_7"/>	<L>216291<pc>7-333-d<k1>kUq<k2>2. kUq
+YES {#kUR#}¦ mit {#ni#} und {#vi#} II. 2.<info n="sup_7"/>	<L>216292<pc>7-333-d<k1>kUR<k2>kUR
+YES <hom>1.</hom> {#gad#}¦ mit {#ni#} II. {#nigadita#} {%berühmt in, — wegen%} (<ab>Loc.</ab>) <ls>R. ed. Bomb. 4,5,3</ls>. = {#prerita#} (<ab>sc.</ab> {#pitrA#}) <ab>Comm.</ab> — Mit {#pari#} II. 4.<info n="sup_7"/>	<L>216760<pc>7-337-b<k1>gad<k2>1. gad
+YES {#gam#}¦ mit {#aBi#} <ab>Caus.</ab> II. 5. — Mit {#A#} II. {#Agamya#} <ab>Absol.</ab> so <ab>v. a.</ab> {%für, behufs;%} mit <ab>Acc.</ab> <ls>DIVYĀVAD. 95,10</ls>. mit <ab>Gen.</ab> <ls n="DIVYĀVAD.">405,10</ls>. — Mit {#aByud#} II. 3. — Mit {#nis#} <ab>Caus.</ab> II. 5. — Mit {#upanis#} {%hinausgehen zu%} (<ab>Acc.</ab>) <ls>JĀTAKAM. 31</ls>.<info n="sup_7"/>	<L>216783<pc>7-337-c<k1>gam<k2>gam
+YES <hom>1.</hom> {#gar#}¦ II. {#gIrRa/#} <ls>ṚV. 10,88,2</ls>. — Mit {#aBiprati#} II. 6.<info n="sup_7"/>	<L>216790<pc>7-337-c<k1>gar<k2>1. gar
+YES <hom>2.</hom> {#gar#}¦ mit {#api#} {%hinunterschlucken%} <ls>ĀPAST. ŚR. 3,19,7</ls>. — Mit {#ud#} II. {#udgIrRa#} {%abgeworfen%} ({#aSvapfzWAt#}) <ls>JĀTAKAM. 25,2</ls>. — Mit {#prod#} 4. {#prodgIrRa#} {%aus sich entlassen, ausgegossen%} <ls>DIVYĀVAD. 589,1</ls>. — Mit {#vini#} 4.<info n="sup_7"/>	<L>216791<pc>7-337-c<k1>gar<k2>2. gar
+YES <hom>3.</hom> {#gar#}¦ mit {#ud#} II. 5.<info n="sup_7"/>	<L>216792<pc>7-337-c<k1>gar<k2>3. gar
+YES <hom>6.</hom> {#gar#}¦ 2.<info n="sup_7"/>	<L>216793<pc>7-337-c<k1>gar<k2>6. gar
+YES <hom>1.</hom> {#gal#}¦ mit {#vinis#} 3.<info n="sup_7"/>	<L>216820<pc>7-337-d<k1>gal<k2>1. gal
+YES {#gAh#}¦ mit {#pari#} 4. — Mit {#pra#} II. 4. — Mit {#mam#} II. <ls>Festgr. 13,35</ls>.<info n="sup_7"/>	<L>216857<pc>7-338-a<k1>gAh<k2>gAh
+YES <hom>1.</hom> {#gup#}¦ mit {#ni#} {%verbergen%} <ls>KIR. 6,38</ls>. <ls n="KIR.">15,19</ls>. — Mit {#vi#} <ab>Desid.</ab> II. {%Jmd%} (<ab>Acc.</ab>) {%tadeln%} <ls>JĀTAKAM. 23,23</ls>. {%sich tadelnd äussern%} <ls n="JĀTAKAM.">26</ls>.<info n="sup_7"/>	<L>216893<pc>7-338-c<k1>gup<k2>1. gup
+YES {#guP#}¦ II. vor {#guPita#} ist das *zu streichen.<info n="sup_7"/>	<L>216896<pc>7-338-c<k1>guP<k2>guP
+YES {#gur#}¦ mit {#A#} II. {#AgUrRa#} {%unter Drohungen aufgehoben%} ({#paraSvaDa#}) <ls>JĀTAKAM. 9,40</ls>.<info n="sup_7"/>	<L>216900<pc>7-338-c<k1>gur<k2>gur
+YES <hom>1.</hom> {#guh#}¦ II. Z. 6 lies *{#juGukzati#}. — Mit {#ni#} auch {%sich verstecken, — verbergen%}. {#nigUhitum#} <ls>R. ed. Bomb. 3,62,4</ls>.<info n="sup_7"/>	<L>216908<pc>7-338-c<k1>guh<k2>1. guh
+YES {#Gaw#}¦ mit {#pravi#} 3. — <ab>Caus.</ab> 3.<info n="sup_7"/>	<L>217063<pc>7-339-d<k1>Gaw<k2>Gaw
+YES <hom>1.</hom> {#Gar#}¦ mit {#aByA#} 2.<info n="sup_7"/>	<L>217075<pc>7-339-d<k1>Gar<k2>1. Gar
+YES {#Gas#}¦ II. {#aGat#} <ls>ŚĀṄKH. ŚR. 6,1,5</ls>. — <ab>Desid.</ab> II. *{#jiGatsita#} (so zu lesen) {%hungrig%} <ls>MAHĀVY. 245,922</ls>.<info n="sup_7"/>	<L>217082<pc>7-339-d<k1>Gas<k2>Gas
+YES {#Guw#}¦ mit {#vyA#} II. 5.<info n="sup_7"/>	<L>217088<pc>7-339-d<k1>Guw<k2>Guw
+YES <hom>1.</hom> {#Guz#}¦ mit {#A#} II. 5. — Mit {#ud#} II. 3.<info n="sup_7"/>	<L>217089<pc>7-339-d<k1>Guz<k2>1. Guz
+YES {#cat#}¦ II. Z. 2 lies {#catta/#}. <ab>Vgl.</ab> <ls>Ind. St. 17,283</ls>.<info n="sup_7"/>	<L>217146<pc>7-340-b<k1>cat<k2>cat
+YES {#can#}¦ II. {#ca/nati#} ({#hiMsArTa#}) <ls>DHĀTUP. 1,840</ls>.<info n="sup_7"/>	<L>217197<pc>7-340-c<k1>can<k2>can
+YES {#car#}¦ mit {#saha#} {%gehen mit,%} so <ab>v. a.</ab> {%übereinstimmen mit, ähnlich sein%} <ls>BĀLAR. 130,19</ls>. — Mit {#anvaByava#} 5. — Mit {#upa#} II. *{#°upacarita#} {%angenehm berührt —, sich angezogen fühlend durch%} <ls>MAHĀVY. 10,29</ls>. — Mit {#pari#} II. {#°cIrRa#} {%fein bedient%} <ls>DIVYĀVAD. 421,20</ls>. — <ab>Caus.</ab> = <ab>Simpl.</ab> mit {#pari#} 2〉 <ls>MAHĀVY. 245,943</ls>. <ls>DIVYĀVAD. 1,6</ls>. — Mit {#anupari#} 2.<info n="sup_7"/>	<L>217227<pc>7-340-d<k1>car<k2>car
+YES {#cuw#}¦ mit {#A#} 5.<info n="sup_7"/>	<L>217344<pc>7-341-d<k1>cuw<k2>cuw
+YES {#cud#}¦ mit {#prati#} <ab>Caus.</ab> II. {%zurückfordern%} <ls>JĀTAKAM. 29,20</ls>.<info n="sup_7"/>	<L>217345<pc>7-341-d<k1>cud<k2>cud
+YES {#cUz#}¦ mit {#nis#} <ab>Caus.</ab> 5.<info n="sup_7"/>	<L>217363<pc>7-342-a<k1>cUz<k2>cUz
+YES <hom>1.</hom> {#Cad#}¦ mit {#pratisam#}, {#°pratisaMCanna#} {%bedeckt mit%} <ls>R. ed. Bomb. 4,1,21</ls>.<info n="sup_7"/>	<L>217397<pc>7-342-b<k1>Cad<k2>1. Cad
+YES <hom>1.</hom> {#Cid#}¦ II. 6. Auch {%lösen, entscheiden%} (einen Zweifel) <ls>MBH. 1,71,17</ls>. — Mit {#vipra#} 4.<info n="sup_7"/>	<L>217423<pc>7-342-c<k1>Cid<k2>1. Cid
+YES {#Cur#}¦ <ab>Caus.</ab> II. {%weg —, fortwerfen%} <ls>MAHĀVY. 263,72</ls>. <ls>DIVYĀVAD. 82,23</ls>. {#Curita = Cinna#} <ls>PRIYAD. 10,2</ls>. — Mit {#A#} II. {#AcCurita = Curita#} (im Haupttheil) <ls>JĀTAKAM. 14,8</ls>. {%abgesetzt, niedergelegt%} <ls n="JĀTAKAM. 14,">7</ls>.<info n="sup_7"/>	<L>217429<pc>7-342-c<k1>Cur<k2>Cur
+YES {#jan#}¦ II. 2. {#jajYivAn#} {%lebte auf, wurde wieder lebendig%} <ls>MBH. 8,33,31</ls>. — Mit {#ava, °jAta = apajAta#} {%missrathen%} <ls>DIVYĀVAD. 2,13</ls>. — Mit {#pratyA#} II. 3. — Mit {#nis#} 3. 5. — Mit {#pra#} II. 4. — Mit {#parivi#} 4.<info n="sup_7"/>	<L>217452<pc>7-342-d<k1>jan<k2>jan
+YES {#jIv#}¦ mit {#aDi#} <ab>Caus.</ab> {%beleben%} <ls>DHARMAŚARM. 15,1</ls>. — Mit {#aBi#} {%glücklicher im Leben sich befinden als%} (<ab>Abl.</ab>) <ls>R. ed. Bomb. 3,34,19</ls>.<info n="sup_7"/>	<L>217572<pc>7-343-c<k1>jIv<k2>jIv
+YES {#wal#}¦ <ab>Caus.</ab> und {#wAparagrAma#} 5.<info n="sup_7"/>	<L>217658<pc>7-344-b<k1>wal<k2>wal
+YES {#tak#}¦ II. 1〉 lies {#takta/#}.<info n="sup_7"/>	<L>217671<pc>7-344-c<k1>tak<k2>tak
+YES <hom>1.</hom> {#tan#}¦ mit {#samA#} III. {#°tata#} {%ganz ausgestreckt%} <ls>JĀTAKAM. 27,23</ls>. — Mit {#pra#} III. 4. — Mit {#pravi#} III. {%sich weit verbreiten über%} (<ab>Acc.</ab>) <ls>JĀTAKAM. 10,26</ls>.<info n="sup_7"/>	<L>217715<pc>7-344-d<k1>tan<k2>1. tan
+YES <hom>1.</hom> {#tap#}¦ mit {#aBi#} <ab>Caus.</ab> III. 3.<info n="sup_7"/>	<L>217736<pc>7-345-a<k1>tap<k2>1. tap
+YES <hom>3.</hom> {#tap#}¦ <ab>vgl.</ab> {#tapa#} 1〉d〉.<info n="sup_7"/>	<L>217737<pc>7-345-a<k1>tap<k2>3. tap
+YES <hom>1.</hom> {#tar#}¦ mit {#ava#} III. 5. — Mit {#samava#} 5. — Mit {#ud#} <ab>Caus.</ab> III. 5. — Mit {#vyud#} <ab>Caus.</ab> 3. — Mit {#pratinis#} {%vollbringen, ausführen%} <ls>DIVYĀVAD. 102,14</ls>. — Mit {#pra#} III. {%vermögen, können;%} mit <ab>Infin.</ab> <ls>JĀTAKAM. 27,14</ls>.<info n="sup_7"/>	<L>217757<pc>7-345-a<k1>tar<k2>1. tar
+YES {#tij#}¦ mit {#samud#} <ab>Caus.</ab> {%anfeuern, beseelen%} <ls>DIVYĀVAD. 80,19</ls>.<info n="sup_7"/>	<L>217829<pc>7-345-d<k1>tij<k2>tij
+YES {#tIm#}¦, <ab>Caus.</ab> {#tImayati#} {%befeuchten, benetzen%} <ls>DIVYĀVAD. 285,25</ls>.<info n="sup_7"/>	<L>217857<pc>7-345-d<k1>tIm<k2>tIm
+YES <hom>3.</hom> {#tuj#}¦ III. 5.<info n="sup_7"/>	<L>217865<pc>7-346-a<k1>tuj<k2>3. tuj
+YES <hom>1.</hom> {#tud#}¦ <ab>Intens.</ab> III. Die passive Bedeutung verdächtig; eher ist <ls>KAUŚ. 107</ls> {#te tu tudyete#} zu lesen. — Mit {#ud#} III. {%durch Schläge hervorrufen%} <ls>JĀTAKAM. 13,15</ls>.<info n="sup_7"/>	<L>217868<pc>7-346-a<k1>tud<k2>1. tud
+YES {#daG#}¦ mit {#prati#} 6. Man könnte übrigens auch {#pratidamnuyAt#} vermuthen.<info n="sup_7"/>	<L>218040<pc>7-347-b<k1>daG<k2>daG
+YES <hom>1.</hom> {#daB#}¦ mit {#upa#} 5. — Mit {#prati#} <ab>s.</ab> oben <ab n="unter">u.</ab> {#daG#}.<info n="sup_7"/>	<L>218065<pc>7-347-c<k1>daB<k2>1. daB
+YES {#dal#}¦ III. 6.<info n="sup_7"/>	<L>218081<pc>7-347-c<k1>dal<k2>dal
+YES <hom>3.</hom> {#dAS#}¦ 5. — Mit {#A#} 5.<info n="sup_7"/>	<L>218133<pc>7-348-a<k1>dAS<k2>3. dAS
+YES <hom>1.</hom> {#diS#}¦ mit {#anvA#} III. {%Jmd%} (<ab>Acc.</ab>) {%befehlen%} <ls>JĀTAKAM. 20</ls>. {%Befehl geben%} <ls n="JĀTAKAM.">22</ls>. — Mit {#samA#} III. 3. — Mit {#ud#} auch {%abweisen%} <ls>R. ed. Bomb. 3,46,35</ls>. — Mit {#sam#} III. {%Abschied nehmen von%} (<ab>Acc.</ab>) <ls>DIVYĀVAD. 446,25</ls>.<info n="sup_7"/>	<L>218158<pc>7-348-b<k1>diS<k2>1. diS
+YES <hom>1.</hom> {#dih#}¦ mit {#sam#} <ab>Caus.</ab> auch {%täuschend ähnlich darstellen%} <ls>KĀD. 25,24 (45,4)</ls>.<info n="sup_7"/>	<L>218161<pc>7-348-b<k1>dih<k2>1. dih
+YES {#dIp#}¦ mit {#pra#} III. 4.<info n="sup_7"/>	<L>218168<pc>7-348-b<k1>dIp<k2>dIp
+YES <hom>2.</hom> {#duz#}¦ mit {#apa#} <ab>Caus.</ab> 4.<info n="sup_7"/>	<L>218224<pc>7-348-d<k1>duz<k2>2. duz
+YES <hom>1.</hom> {#Dar#}¦ mit {#upa#} III. 3. <ab>Caus.</ab> III. {%verstehen%} [Page7-350-c] <ls>JĀTAKAM. 20</ls>. — Mit {#saMpra#} III. 5.<info n="sup_7"/>	<L>218436<pc>7-350-b<k1>Dar<k2>1. Dar
+YES <hom>1.</hom> {#DAv#}¦ mit {#aBiprati#} {%zulaufen auf%} (<ab>Acc.</ab>) <ls>MAITR. S. 4,6,4 (84,17)</ls>. — Mit {#aBivi#} {%hindurchlaufen%} zwischen ({#antareRa#}) von einem Wege <ls>ĀPAST. ŚR. 10,20,11</ls>. — Mit {#sam#} III. eine Existenz (<ab>Acc.</ab>) {%durchlaufen%} <ls>DIVYĀVAD. 534,6</ls>.<info n="sup_7"/>	<L>218494<pc>7-351-a<k1>DAv<k2>1. DAv
+YES <hom>2.</hom> {#DAv#}¦ <ab>Caus.</ab> III. {%*waschen lassen%} <ls>MAHĀVY. 281,58</ls>.<info n="sup_7"/>	<L>218495<pc>7-351-a<k1>DAv<k2>2. DAv
+YES {#naw#}¦ III. 5. — Mit {#vi#} 5.<info n="sup_7"/>	<L>218551<pc>7-351-c<k1>naw<k2>naw
+YES {#nad#}¦ mit {#vi#} <ab>Caus.</ab> III. {%schmähen%} <ls>DIVYĀVAD. 540,19</ls>. — Mit {#aBivi#} 5. <ab>Caus.</ab> {#aBivinAdita#} {%ertönend von%} (<ab>Instr.</ab>) <ls>R. ed. Bomb. 4,30,59</ls>.<info n="sup_7"/>	<L>218554<pc>7-351-c<k1>nad<k2>nad
+YES {#nam#}¦ mit {#aBi#} <ab>Caus.</ab> ({#°nAmayati#}) {%hinneigen, zuwenden%} ({#cittam#}) <ls>JĀTAKAM. 22</ls>. — Mit {#nis#} <ab>Caus.</ab> ({#°nA°#} und {#°na°#}) {%ausstrecken%} <ls>DIVYĀVAD. 7,6</ls>. <ls n="DIVYĀVAD.">71,4</ls>. — Mit {#vipari#} <ab>Caus.</ab> III. 5. — Mit {#aBipra#} III. {#°praRata#} {%hingebogen nach der Seite von%} (<ab>Acc.</ab>) <ls>JĀTAKAM. 27</ls>. — Mit {#samaBipra#} {%sich tief verneigen vor%} (<ab>Acc.</ab>) <ls>JĀTAKAM. 24</ls>. <ls n="JĀTAKAM.">30</ls>. — Mit {#sam#} <ab>Caus.</ab> III. {%unterwerfen%} <ls>DIVYĀVAD. 446,1</ls>. <ls n="DIVYĀVAD.">451,20</ls>.<info n="sup_7"/>	<L>218570<pc>7-351-c<k1>nam<k2>nam
+YES <hom>1.</hom> {#naS#}¦ <ab>Caus.</ab> III. {%*ausstossen aus der Gemeinde%}. <ab>Vgl.</ab> {#nASitasaMgraha#}. Im <ab>Aor.</ab> {%abkommen von%} (<ab>Abl.</ab>). {#mADarmyAnnInaSaH paTaH#} <ls>MBH. 3,52,15</ls> = <ls>R. GORR. 1,24,9</ls>. — Mit {#pra#} III. {#mArgapranazwa#} {%vom Wege abgekommen%} <ls>JĀTAKAM. 6</ls>. — Mit {#vipra#} III. {#°nazwa#} {%der sich verirrt hat%} <ls>JĀTAKAM. 6,24</ls>.<info n="sup_7"/>	<L>218612<pc>7-352-a<k1>naS<k2>1. naS
+YES <hom>1.</hom> {#nah#}¦ mit {#paryava#} III. {#°nadDa#} {%überdeckt, überzogen%} <ls>DIVYĀVAD. 120,3</ls>. <ls n="DIVYĀVAD.">125,2</ls>.<info n="sup_7"/>	<L>218614<pc>7-352-a<k1>nah<k2>1. nah
+YES {#nAT#}¦ mit {#upa#} III. <ls>KĀD. (1883) 46,21</ls>. [Page7-352-b] <ab>v. l.</ab> {#upayAcitavatI#} <ab>st.</ab> {#upanATivatI#}.<info n="sup_7"/>	<L>218635<pc>7-352-a<k1>nAT<k2>nAT
+YES {#nuq#}¦ mit {#vi#} 6.<info n="sup_7"/>	<L>218896<pc>7-354-b<k1>nuq<k2>nuq
+YES <hom>1.</hom> {#nud#}¦ mit {#prativi#} {%vertreiben, verscheuchen%} <ls>DIVYĀVAD. 491,21</ls> (<ab>v. l.</ab> {#tud#}). — <ab>Caus.</ab> <ab>dass.</ab> <ls>JĀTAKAM. 32,49</ls>.<info n="sup_7"/>	<L>218898<pc>7-354-b<k1>nud<k2>1. nud
+YES <hom>1.</hom> {#ned#}¦ mit {#ati#} III. 6. — Mit {#pra#} 6. Zu lesen <ls>11, CXLVII.</ls><info n="sup_7"/>	<L>218912<pc>7-354-c<k1>ned<k2>1. ned
+YES <hom>1.</hom> {#pac#}¦, <ab>Pass.</ab> IV. auch {%gequält werden%} <ab>überh.</ab> <ls>DIVYĀVAD. 422,19</ls>.<info n="sup_7"/>	<L>218987<pc>7-355-a<k1>pac<k2>1. pac
+YES {#paw#}¦ IV. 6. — Mit {#pari#} <ab>Caus.</ab> {%zerreissen, zerkratzen%} <ls>DIVYĀVAD. 417,6</ls>. — Mit {#vi#} 5.<info n="sup_7"/>	<L>219020<pc>7-355-b<k1>paw<k2>paw
+YES <hom>1.</hom> {#pat#}¦ mit {#ati#} IV. {#°patya#} <ab>Absol.</ab> mit <ab>Acc.</ab> so <ab>v. a.</ab> {%sich nicht kümmernd um%} <ls>JĀTAKAM. 2,26</ls>. <ls n="JĀTAKAM.">28,13</ls>. — Mit {#samA#} IV. {#°patita#} {%unerwartet zum Vorschein gekommen, — sich eingestellt habend%} <ls>JĀTAKAM. 26</ls>. — Mit {#aByud#} <ab>Caus.</ab> 5. — Mit {#aBini#} {%herabfallen auf%} (<ab>Acc.</ab>) <ls>ĀPAST. GṚHY. 23,8</ls>. — <ab>Caus.</ab> {%fallenlassen, schleudern%} (Worte) <ls>JĀTAKAM. 21,18</ls>. — Mit {#aBisam#} 5.<info n="sup_7"/>	<L>219037<pc>7-355-c<k1>pat<k2>1. pat
+YES <hom>1.</hom> {#pad#}¦ mit {#ati#} IV. 4. — <ab>Caus.</ab> IV. 4. — Mit {#aByava#} {%Jmd%} (<ab>Acc.</ab>) {%zu Hülfe kommen%} <ls>R. ed. Bomb. 3,59,18</ls>. {#aByavapanna#} mit <ab>act.</ab> <ab>Bed.</ab> <ls n="R. ed. Bomb. 3,">67,17. 68,22</ls>. — Mit {#pratyA#} IV. 4. — Mit {#aByupa#} IV. {#°panna#} am Ende eines <ab>Comp.</ab> {%versehen mit, im Besitz von%} <ls>JĀTAKAM. 8</ls>. — Mit {#vyupa#} <ab>Act.</ab> {%heimkehren%} <ls>DIVYĀVAD. 41,27</ls>. {%sich widersetzen%} <ls n="DIVYĀVAD.">243,22</ls>. {#vyutpanna#} {%sich widersetzend%} <ls n="DIVYĀVAD.">447,23</ls>. — Mit {#ni#} IV. *{#°panna#} {%liegend%} <ls>MAHĀVY. 263,79</ls>. — Mit {#parinis, °nizpanna#} {%vollkommen ausgebildet%} <ls>JĀTAKAM. 1</ls>. — Mit {#anuprati#} <ab>Caus.</ab> <ab>Med.</ab> {%allmählich hinführen zu%} (<ab>Acc.</ab>) <ls>JĀTAKAM. 24,33</ls>. — Mit {#viprati#} IV. 5. <ab>Med.</ab> {%eine Sünde begehen, sündigen%} <ls>DIVYĀVAD. 293,20</ls>. — Mit {#sam#} IV. 6.<info n="sup_7"/>	<L>219058<pc>7-355-d<k1>pad<k2>1. pad
+YES <hom>1.</hom> {#par#}¦ IV. 4. — Mit {#vyA#} 4.<info n="sup_7"/>	<L>219087<pc>7-356-a<k1>par<k2>1. par
+YES <hom>2.</hom> {#par#}¦ mit {#ava#} <ab>Caus.</ab> 5. — Mit {#vi#} 4.<info n="sup_7"/>	<L>219088<pc>7-356-a<k1>par<k2>2. par
+YES {#piz#}¦ mit {#vi#} auch {%anstossen, stupsen%} <ls>ĀPAST. ŚR. 9,5,3</ls>.<info n="sup_7"/>	<L>219370<pc>7-358-b<k1>piz<k2>piz
+YES {#pIq#}¦ mit {#samA#} <ab>Caus.</ab> {%hart bedrükken, peinigen, mit Weh erfüllen%} <ls>JĀTAKAM. 14</ls>. <ls n="JĀTAKAM.">15</ls>. <ls n="JĀTAKAM.">17</ls>. — Mit {#ud#} <ab>Caus.</ab> IV. 5. — Mit {#ni, °nipIqita#} auch so <ab>v. a.</ab> {%vielfach besucht von%} <ls>R. ed. Bomb. 3,15,13</ls>. — Mit {#aBinis#} <ab>Caus.</ab> {%noch stärker ausdrücken%} <ls>JĀTAKAM. 27</ls>.<info n="sup_7"/>	<L>219374<pc>7-358-c<k1>pIq<k2>pIq
+YES <hom>1.</hom> {#puz#}¦ mit {#aBi#} {%verstärken%} <ls>KIR. 17,1</ls>.<info n="sup_7"/>	<L>219444<pc>7-359-a<k1>puz<k2>1. puz
+YES <hom>1.</hom> {#Pal#}¦ IV. {#Palita#} {%zurückstrahlend%} <ls>DHARMAŚARM. 9,12</ls>.<info n="sup_7"/>	<L>219904<pc>7-363-a<k1>Pal<k2>1. Pal
+YES {#bAq#}¦ IV. {#bAqita#} {%versunken%} <ls>DIVYĀVAD. 505,10</ls>. <ab>Vgl.</ab> {#bruq#}.<info n="sup_7"/>	<L>219984<pc>7-363-d<k1>bAq<k2>bAq
+YES <hom>1.</hom> {#bAD#}¦ <ab>Desid.</ab> IV. 5. — Mit {#vyA#} <ab>Caus.</ab> <ab>Med.</ab> {%Jmd%} (<ab>Acc.</ab>) {%eine grosse Pein verursachen%} <ls>DIVYĀVAD. 105,12</ls>.<info n="sup_7"/>	<L>219988<pc>7-363-d<k1>bAD<k2>1. bAD
+YES <hom>1.</hom> {#buD#}¦ mit {#prA#} <ab>Caus.</ab> {%erwecken, anfachen%} <ls>PĀRV. 592,5</ls>. — Mit {#vi#} <ab>Caus.</ab> IV. {%an den Tag legen, bezeugen%} <ls>JĀTAKAM. 31,69</ls>.<info n="sup_7"/>	<L>220032<pc>7-364-a<k1>buD<k2>1. buD
+YES {#Baj#}¦ mit {#vi#} IV. {%gründlich verstehen%} [Page7-364-d] <ls>DIVYĀVAD. 494,26</ls>.<info n="sup_7"/>	<L>220091<pc>7-364-c<k1>Baj<k2>Baj
+YES <hom>1.</hom> {#Bar#}¦ mit {#pra#}, {#praBfta#} IV. {%stark, gross%} ({#valepa#}) <ls>JĀTAKAM. 9,5</ls>. — Mit {#prati#} IV. {%den Unterhalt vergelten%} <ls>DIVYĀVAD. 2,13</ls>.<info n="sup_7"/>	<L>220115<pc>7-364-d<k1>Bar<k2>1. Bar
+YES {#Bal#}¦ mit {#nis#} <ab>Caus.</ab> IV. 5.<info n="sup_7"/>	<L>220120<pc>7-364-d<k1>Bal<k2>Bal
+YES <hom>1.</hom> {#BAz#}¦ mit {#vi#} auch {%reden, sprechen%} <ls>R. ed. Bomb. 4,3,28</ls>.<info n="sup_7"/>	<L>220162<pc>7-365-b<k1>BAz<k2>1. BAz
+YES <hom>2.</hom> {#BAs#}¦ mit {#nis#} {%erscheinen%} <ls>KIR. 7,36</ls>. — Mit {#prati#} <ab>Caus.</ab> {%zeigen, offenbaren%} <ls><ab>Comm.</ab> zu YOGAS. 1,8</ls>.<info n="sup_7"/>	<L>220163<pc>7-365-b<k1>BAs<k2>2. BAs
+YES <hom>1.</hom> {#Bid#}¦ mit {#antar#} IV. 5. — Mit {#ava#} IV. {#°Binna#} {%verwundet%} <ls>JĀTAKAM. 24,23</ls>. — Mit {#upapra#} IV. <ab>Vgl.</ab> <ls>PISCHEL, Vedische Studien 72</ls>.<info n="sup_7"/>	<L>220168<pc>7-365-b<k1>Bid<k2>1. Bid
+YES <hom>3.</hom> {#Buj#}¦ mit {#upa#} <ab>Desid.</ab> 5.<info n="sup_7"/>	<L>220186<pc>7-365-c<k1>Buj<k2>3. Buj
+YES <hom>1.</hom> {#maT#}¦ mit {#prod#} {%stark zusetzen, bezwingen%} <ls>DIVYĀVAD. 599,2</ls>. — Mit {#pari#} V. {%reiben%} (Holz zur Feuererzeugung) <ls>JĀTAKAM. 21,26</ls>.<info n="sup_7"/>	<L>220297<pc>7-366-c<k1>maT<k2>1. maT
+YES <hom>4.</hom> {#mad#}¦ mit {#nis#} <ab>Caus.</ab> ({#nirmAdayati#}) {%abwaschen%} <ls>MAHĀVY. 263,75</ls>. <ls>DIVYĀVAD. 53,18</ls>. <ls n="DIVYĀVAD.">185,21</ls>. <ls n="DIVYĀVAD.">343,1</ls>.<info n="sup_7"/>	<L>220298<pc>7-366-c<k1>mad<k2>4. mad
+YES {#man#}¦ mit {#anu#} V. 6. <ab>Caus.</ab> V. {%nachgeben, Rücksicht nehmen%} <ls>JĀTAKAM. 22,53</ls>. — Mit {#samanu#} <ab>Caus.</ab> <ab>dass.</ab> <ls n="JĀTAKAM.">22. 22,73</ls>. — Mit {#saMprod, saMplomnAya#} <ls>ĀPAST. ŚR. 8,16,6</ls> ohne Zweifel fehlerhaft. Vielleicht {#saMpronmlApya#} zu lesen. <ls>HIRAṆY. ŚR.</ls> nach <ls>HILLEBRANDT</ls> <ab>st.</ab> dessen {#saMSlizya#}. — Mit {#prati#} <ab>Caus.</ab> V. {%wieder ehren, Jmd%} (<ab>Acc.</ab>) {%vergelten mit%} (<ab>Instr.</ab>) <ls>JĀTAKAM. 10,8</ls>.<info n="sup_7"/>	<L>220330<pc>7-366-d<k1>man<k2>man
+YES <hom>1.</hom> {#mar#}¦ mit {#aBi#}, {#°mfta#} V. {%umstorben,%} <ab>d. i.</ab> {%vor dessen Augen die Verwandten der Reihe nach hinsterben, in dessen Familie eine Reihe von Todesfällen vorgekommen ist,%} <ls>ĀPAST. GṚHY. 23,10</ls>. Eben so <ls>ĀPAST. ŚR. 9,12,4</ls>.<info n="sup_7"/>	<L>220369<pc>7-367-a<k1>mar<k2>1. mar
+YES {#mIl#}¦ mit {#A#} <ab>Caus.</ab> V. 5.<info n="sup_7"/>	<L>220514<pc>7-368-b<k1>mIl<k2>mIl
+YES <hom>1.</hom> {#muc#}¦ V. 12〉 {%Jmd%} (<ab>Gen.</ab>) {%entwischen%} <ls>JĀTAKAM. 20</ls>. <ls n="JĀTAKAM.">21,11</ls>. <ls n="JĀTAKAM.">22</ls>. — Mit {#pra#} auch {%sich losmachen von%} (<ab>Gen.</ab>), {%entgehen%} <ls>R. ed. Bomb. 3,66,11</ls>. {#pramukta#} {%frei von%} (<ab>Abl.</ab>) <ls>MAHĀVY. 19,47</ls>. — Mit {#vi, °mukta#} {%Jmd%} (<ab>Gen.</ab>) {%entkommen%} <ls>JĀTAKAM. 21</ls>. <ls n="JĀTAKAM.">23</ls>. — Mit {#pratisam, °saMmukta#} {%erlöst, von einem peinlichen Zustande befreit%} <ls>R. ed. Bomb. 4,59,5</ls>.<info n="sup_7"/>	<L>220536<pc>7-368-c<k1>muc<k2>1. muc
+YES <hom>1.</hom> {#mud#}¦ mit {#sam#} {%einträchtig sein%} <ls>DIVYĀVAD. 28,27</ls>. — <ab>Caus.</ab> {%erfreuen%} <ls>R. ed. Bomb. 4,1,86</ls>. — Mit {#pratisam#} <ab>Acc.</ab> {%Jmd freundlich begrüssen%} <ls>JĀTAKAM. 31</ls>. <ls>DIVYĀVAD. 117,1</ls>. <ls n="DIVYĀVAD.">439,15</ls>. <ls n="DIVYĀVAD.">455,8</ls>.<info n="sup_7"/>	<L>220546<pc>7-368-c<k1>mud<k2>1. mud
+YES {#yat#}¦ <ab>Caus.</ab> <ab>vgl.</ab> <ls>ROTH</ls> in <ls>Z. d. d. m. G. 41,676</ls>. — Mit {#anvA#} V. {%sich bei Etwas betheiligen%} <ls>ŚĀṄKH. BR. 23,5</ls>.<info n="sup_7"/>	<L>220628<pc>7-369-b<k1>yat<k2>yat
+YES {#yam#}¦ mit {#upani#} {%befestigen%} (?) <ls>JĀTAKAM. 11</ls>. — Mit {#parini#} {%genau bestimmen%} (eine Zeit) <ls>VIVĀDARATNĀKARA 93,1</ls>. — Mit {#pratini, °yata#} V. vielleicht {%fest stehend, unveränderlich%} <ls>JĀTAKAM. 21</ls>. — Mit {#aBisam#} V. <ab>Med.</ab> {%fester anziehen%} (den Gürtel) 9.<info n="sup_7"/>	<L>220668<pc>7-369-d<k1>yam<k2>yam
+YES <hom>1.</hom> {#yuj#}¦ mit {#atyupa#} {%zu sehr gebrauchen%} <ls>CARAKA 256,19</ls>. — Mit {#nis, niryukta#} <ls>R. ed. Bomb. 3,69,39</ls> wohl fehlerhaft für {#nirmukta#} {%frei gekommen von%} (<ab>Instr.</ab>), so <ab>v. a.</ab> {%mit Aufopferung von%}. — Mit {#pra#} V. 16〉 <ab>Med.</ab> mit <ab>Loc.</ab> der Person <ls>JĀTAKAM. 29,17</ls>. — Mit {#atipra#} V. {%zu sehr gebrauchen%} <ls>CARAKA 256,11</ls>. — Mit *{#visaMpra, °yukta#} {%frei von%} (<ab>Instr.</ab>) <ls>MAHĀVY. 19,48</ls>. — Mit {#pratisam#} V. {#°pratisaMyukta#} {%in Verbindung stehend mit, Bezug habend auf%} <ls>JĀTAKAM. 12</ls>. <ls n="JĀTAKAM.">21</ls>. <ls n="JĀTAKAM.">28</ls>. <ls>MAHĀVY. 109,65</ls>.<info n="sup_7"/>	<L>220700<pc>7-370-b<k1>yuj<k2>1. yuj
+YES <hom>1.</hom> {#yuD#}¦ V. <ab>Act.</ab> {%schlagen%} (von Wellen) <ls>MAITR. S. 4,4,1</ls> (<ls n="MAITR. S. 4,">50,3</ls>). <ab>Vgl.</ab> <ls>PAT.</ls> zu <ls>P. 3,1,85</ls>.<info n="sup_7"/>	<L>220704<pc>7-370-b<k1>yuD<k2>1. yuD
+YES {#rag#}¦ mit {#A#} <ab>Caus.</ab> (<ab>vgl.</ab> {#ArAgay#} in Nachtrag 3) {%befriedigen, zufriedenstellen%} <ls>DIVYĀVAD. 131,5</ls>. <ls n="DIVYĀVAD.">133,20</ls>. <ls n="DIVYĀVAD.">192,16</ls>. <ls n="DIVYĀVAD.">233,20</ls>. {%theilhaftig werden, bekommen%} <ls n="DIVYĀVAD.">173,4. 29. 236,10</ls>. {%vollziehen, vollbringen%} <ls n="DIVYĀVAD.">302,20</ls>.<info n="sup_7"/>	<L>220724<pc>7-370-c<k1>rag<k2>rag
+YES {#rac#}¦ mit {#pravi#} {%verfertigen%} <ls>CAṆḌĪŚ. 96</ls>.<info n="sup_7"/>	<L>220727<pc>7-370-c<k1>rac<k2>rac
+YES {#raj#}¦ <ab>Caus.</ab> V. 6.<info n="sup_7"/>	<L>220728<pc>7-370-c<k1>raj<k2>raj
+YES <hom>1.</hom> {#ran#}¦ mit *{#pra, praraRita#} {%erschallend%} <ls>MAHĀVY. 151</ls>. — Mit *{#saMpra, °raRita#} dass, <ls><ab>ebend.</ab></ls><info n="sup_7"/>	<L>220759<pc>7-370-d<k1>ran<k2>1. ran
+YES {#ram#}¦ mit {#prativi#} {%abstehen —, ablassen von%} (<ab>Abl.</ab>) <ls>DIVYĀVAD. 11,23</ls>. <ls n="DIVYĀVAD.">302,8</ls>. <ls n="DIVYĀVAD.">585,18</ls>.<info n="sup_7"/>	<L>220761<pc>7-370-d<k1>ram<k2>ram
+YES <hom>1.</hom> {#rAj#}¦ mit {#pra#} {%Jmd%} (<ab>Acc.</ab>) {%prangend erscheinen%} <ls>ṚV. 8,6,26</ls>.<info n="sup_7"/>	<L>220774<pc>7-370-d<k1>rAj<k2>1. rAj
+YES <hom>1.</hom> {#rAD#}¦ mit {#A#} <ab>Caus.</ab> V. {%befolgen, vollführen%} <ls>JĀTAKAM. 18,5</ls>. — Mit {#sam#} <ab>Caus.</ab> V. {%Wohlgefallen —, Beifall bezeugen, zujauchzen%} <ls n="JĀTAKAM.">15. 22. 23. 25. 25,22. 31</ls>. — Mit {#aBisam#} <ab>Caus.</ab> <ab>dass.</ab> <ls n="JĀTAKAM.">2. 5. 15. 33</ls>.<info n="sup_7"/>	<L>220790<pc>7-371-a<k1>rAD<k2>1. rAD
+YES {#ric#}¦ V. *{#riYcati#} <ls>MAHĀVY. 130,6</ls>.<info n="sup_7"/>	<L>220800<pc>7-371-a<k1>ric<k2>ric
+YES {#riB#}¦ V. 5. 6.<info n="sup_7"/>	<L>220804<pc>7-371-b<k1>riB<k2>riB
+YES {#riS#}¦ mit {#vi#} V. {#virizwa#} gehört eher zu {#riz#}.<info n="sup_7"/>	<L>220805<pc>7-371-b<k1>riS<k2>riS
+YES {#riz#}¦ mit {#vi#}, {#°rizyati#} {%sich verletzen%} <ls>KAUŚ. 59,28</ls>. <ls n="KAUŚ.">72,30</ls>.<info n="sup_7"/>	<L>220807<pc>7-371-b<k1>riz<k2>riz
+YES {#ruz#}¦ 5. — Mit {#aDi#} und {#prati#} 5.<info n="sup_7"/>	<L>220811<pc>7-371-b<k1>ruz<k2>ruz
+YES <hom>1.</hom> {#ruj#}¦ mit {#aBi#} V. {%versehren, verletzen%} <ls>JĀTAKAM. 10,29</ls>. <ls n="JĀTAKAM.">22,72</ls>. <ls n="JĀTAKAM.">25,6</ls>.<info n="sup_7"/>	<L>220813<pc>7-371-b<k1>ruj<k2>1. ruj
+YES <hom>1.</hom> {#rud#}¦ V. *{#ruRRa#} {%thränend%} <ls>MAHĀVY. 245</ls>. — Mit {#aBi#} V. {#°rudita#} {%jammernd%} <ls>JĀTAKAM. 20</ls>.<info n="sup_7"/>	<L>220814<pc>7-371-b<k1>rud<k2>1. rud
+YES <hom>2.</hom> {#ruD#}¦ V. 5. — Mit {#samupa#} V. {%ganz einnehmen, — bewältigen, — überwältigen%} <ls>JĀTAKAM. 9</ls>. <ls n="JĀTAKAM.">26</ls>. — Mit {#prativi#} {%aufstehen, sich empören%} <ls>DIVYĀVAD. 445,24</ls>.<info n="sup_7"/>	<L>220819<pc>7-371-b<k1>ruD<k2>2. ruD
+YES <hom>1.</hom> {#ruh#}¦ mit {#A#}, {#ArUQa#} V. {%ausgerissen, ausgezogen%} (!) <ls>DIVYĀVAD. 84,10</ls>. — Mit {#vyupa#} <ab>Caus.</ab> {#°ropita#} {%versetzt%} (Baum) <ls>CARAKA 368,4</ls>. — Mit {#vi, °rUQa#} V. {%ausgewachsen,%} so <ab>v. a.</ab> {%entwickelt%} <ls>JĀTAKAM. 31</ls>.<info n="sup_7"/>	<L>220823<pc>7-371-b<k1>ruh<k2>1. ruh
+YES {#laq#}¦ V. 6. {#laqita#} {%sich hinundher bewegend%} <ls>JĀTAKAM. 32,32</ls>. <ls>HARAVIJAYA 1,54</ls>. — Mit {#upa#} <ab>Caus.</ab> ({#°lAqayati#}) = {#lal#} mit {#upa#} <ls>DIVYĀVAD. 114,26</ls>. <ls n="DIVYĀVAD.">503,9</ls>.<info n="sup_7"/>	<L>220858<pc>7-371-d<k1>laq<k2>laq
+YES <hom>1.</hom> {#lap#}¦ mit {#upa#} <ab>Caus.</ab> {%auf heitern%} <ls>JĀTAKAM. 19,18</ls>.<info n="sup_7"/>	<L>220862<pc>7-371-d<k1>lap<k2>1. lap
+YES {#laB#}¦ mit {#prati#} V. *{#°pratilabDa#} so <ab>v. a.</ab> {%theilhaftig geworden%} <ls>MAHĀVY. 30,6</ls>. <ls n="MAHĀVY. 30,">33</ls>. <ls n="MAHĀVY.">245,575</ls>.<info n="sup_7"/>	<L>220866<pc>7-371-d<k1>laB<k2>laB
+YES {#las#}¦ mit {#ud#} V. 6.<info n="sup_7"/>	<L>220871<pc>7-371-d<k1>las<k2>las
+YES {#liK#}¦ mit {#pari#} V. <ls>KAUŚ. 26,43</ls> und sonst nach <ls>DĀRILA</ls> {%zerreiben%}.<info n="sup_7"/>	<L>220879<pc>7-371-d<k1>liK<k2>liK
+YES {#lip#}¦ mit {#prati#} 6.<info n="sup_7"/>	<L>220881<pc>7-371-d<k1>lip<k2>lip
+YES <hom>1.</hom> {#lih#}¦ mit {#ni#} 5.<info n="sup_7"/>	<L>220883<pc>7-372-a<k1>lih<k2>1. lih
+YES <hom>1.</hom> {#luW#}¦ V. 3〉 = 1〉a〉 <ls>DHARMAŚ. 1,54</ls>.<info n="sup_7"/>	<L>220885<pc>7-372-a<k1>luW<k2>1. luW
+YES <hom>1.</hom> {#lup#}¦ mit {#ud#} V. {%*aufnehen%} (in die Gemeinde) <ls>MAHĀVY. 268,12</ls>.<info n="sup_7"/>	<L>220887<pc>7-372-a<k1>lup<k2>1. lup
+YES {#lul#}¦ mit {#vyA#} 6. — Mit {#pari#} <ab>Caus.</ab> {%hinundherbewegen%} <ls>KIR. 8,33</ls>. — Mit {#vi, vilolant#} {%sich hinundher bewegend%} <ls>DAMAYANTĪK. 220</ls>.<info n="sup_7"/>	<L>220888<pc>7-372-a<k1>lul<k2>lul
+YES {#lok#}¦ mit {#ava#} <ab>Caus.</ab> V. {%Jmd zum Abschied grüssen%} <ls>DIVYĀVAD. 4,26</ls>. <ls n="DIVYĀVAD.">128,2</ls>. <ls n="DIVYĀVAD.">281,17</ls>. <ls n="DIVYĀVAD.">331,18</ls>. <ls n="DIVYĀVAD.">439,22</ls>. <ls n="DIVYĀVAD.">446,18</ls>. <ls n="DIVYĀVAD.">511,10</ls>. <ls n="DIVYĀVAD.">524,12</ls>. — Mit {#vyava#} <ab>Caus.</ab> {%ringsum beschauen, besichtigen%} <ls>DIVYĀVAD. 437,5</ls>. — Mit *{#samud#} <ab>Caus.</ab> {%hinblicken auf%} <ls>MAHĀVY. 245</ls>. — Mit {#prati, °lokita#} <ls>R. ed. Bomb. 4,61,13</ls> wohl fehlerhaft für {#pravilokita#}.<info n="sup_7"/>	<L>220894<pc>7-372-a<k1>lok<k2>lok
+YES <hom>1.</hom> {#vac#}¦ mit {#paripra#} VI. 6. — Mit {#vi#} *<ab>Caus.</ab> {%murren, klagen, ungehalten sein%} <ls>MAHĀVY. 132,16</ls>. Statt dessen {#vipAcayati#} <ls n="MAHĀVY.">281,158</ls>.<info n="sup_7"/>	<L>220922<pc>7-372-b<k1>vac<k2>1. vac
+YES <hom>1.</hom> {#vap#}¦ mit {#pra#} VI. <ls>ĀPAST. GṚHY. 10,6</ls>.<info n="sup_7"/>	<L>220945<pc>7-372-c<k1>vap<k2>1. vap
+YES <hom>1.</hom> {#vam#}¦ mit {#ud#} VI. mit <ab>intransit.</ab> <ab>Bed.</ab> = {#ud-sary#} <ls>KIR. 9,27</ls>.<info n="sup_7"/>	<L>220950<pc>7-372-c<k1>vam<k2>1. vam
+YES <hom>1.</hom> {#var#}¦ mit {#pari#} VI. {#°vfta#} <ls>R. ed. Bomb. 3,71,34</ls> fehlerhaft für {#parivftta#}.<info n="sup_7"/>	<L>220951<pc>7-372-c<k1>var<k2>1. var
+YES <hom>2.</hom> {#var#}¦ mit {#ava#} {%erwählen, vorziehen%} <ls>MBH. 8,28,24</ls>. — Mit {#pra#} <ab>Caus.</ab> VI. 2〉 {%beschenken, bedenken mit%} (<ab>Instr.</ab>) <ls>DIVYĀVAD. 116,17</ls>. <ls n="DIVYĀVAD.">283,5</ls>. — Mit {#saMpra#} <ab>Caus.</ab> ({#°vArayati#}) {%bedienen%} (mit Speisen) <ls n="DIVYĀVAD.">285,5. fgg. 310,22</ls>.<info n="sup_7"/>	<L>220952<pc>7-372-c<k1>var<k2>2. var
+YES {#val#}¦ mit {#vi#} VI. {#vivalita = viniHsfta#} <ls>HARAVIJAYA 7,31</ls>.<info n="sup_7"/>	<L>220981<pc>7-373-a<k1>val<k2>val
+YES <hom>2.</hom> {#vas#}¦ mit {#vi#} VI. <ab>Aor.</ab> {#vyavAw#} <ls>MAITR. S. 3,4,9 (57,5)</ls>. <ab>Vgl.</ab> <ls>AV. 8,1,21</ls>. — Mit {#aBivi#} VI. 6.<info n="sup_7"/>	<L>220998<pc>7-373-a<k1>vas<k2>2. vas
+YES <hom>5.</hom> {#vas#}¦ VI. <ab>Aor.</ab> {#avAksam#} (so alle [Page7-373-b] <ab>Hdschrr.</ab> nach <ls>AUFRECHT</ls>) <ls>AIT. BR. 1,28,16</ls> im Wortspiel mit {#vAk#} <ab>st.</ab> {#avAtsam#} (so <ls>HAUG</ls>). 2〉 mit <ab>Acc.</ab> des Weibes <ls>MBH. 13,4</ls>. <ls n="MBH. 13,">10</ls>. — Mit {#vi#} VI. 6.<info n="sup_7"/>	<L>220999<pc>7-373-a<k1>vas<k2>5. vas
+YES <hom>1.</hom> {#vah#}¦ <ab>Caus.</ab> VI. {%treiben, betreiben%} (ein Geschäft) <ls>DIVYĀVAD. 14,20</ls>. — Mit {#aBi#} VI. {%tragen,%} so <ab>v. a.</ab> {%haben%} <ls>KIR. 16,39</ls>. — Mit {#samud#} <ab>Caus.</ab> {%in die Höhe heben%} <ls>R. ed. Bomb. 4,28,39</ls>. — Mit {#prati#} VI. {%entgegenhandeln%} (einem Befehl, <ab>Acc.</ab>) <ls>DIVYĀVAD. 178,11</ls>.<info n="sup_7"/>	<L>221008<pc>7-373-b<k1>vah<k2>1. vah
+YES <hom>3.</hom> {#vAh#}¦ VI. *{#vAhita#} {%entfernt, zu Nichte gemacht%} <ls>MAHĀVY. 19,70</ls>. <ls n="MAHĀVY.">130,8</ls>. Das <lang>Pāli</lang> spricht für {#bAh#}.<info n="sup_7"/>	<L>221064<pc>7-373-d<k1>vAh<k2>3. vAh
+YES {#vip#}¦ mit {#ava#} <ls>KAUŚ. 58,1</ls>.<info n="sup_7"/>	<L>221156<pc>7-374-d<k1>vip<k2>vip
+YES <hom>1.</hom> {#viS#}¦ mit {#pra#} <ab>Caus.</ab> VI. {#ahaM dArakaM praveSitA#} so <ab>v. a.</ab> {%ich bin mit einem Knaben schwanger%} <ls>DIVYĀVAD. 541,28</ls>. — Mit {#manas#} {%seine Gedanken richten auf%} (<ab>Loc.</ab>) <ls>R. ed. Bomb. 3,68,38</ls>.<info n="sup_7"/>	<L>221231<pc>7-375-c<k1>viS<k2>1. viS
+YES <hom>1.</hom> {#Sak#}¦ VI. 5. {#na SakitaM tena#} <ab>impers.</ab> <ls>R. GORR. 1,45,48</ls>.<info n="sup_7"/>	<L>221394<pc>7-377-b<k1>Sak<k2>1. Sak
+YES {#Sap#}¦ mit {#aBi#} VI. {%beschwören%} (mit einem Zauberspruch) <ls>JĀTAKAM. 16,9</ls>.<info n="sup_7"/>	<L>221422<pc>7-377-c<k1>Sap<k2>Sap
+YES <hom>1.</hom> {#Sam#}¦ mit {#ni#} VI. {%erlöschen%} <ls>DHARMAŚARM. 13,41</ls>.<info n="sup_7"/>	<L>221427<pc>7-377-c<k1>Sam<k2>1. Sam
+YES {#Sal#}¦ mit {#ud#}, {#ucCalita#} {%gehoben, begeistert%} <ls>KUṬṬANĪM. 168</ls>.<info n="sup_7"/>	<L>221444<pc>7-377-d<k1>Sal<k2>Sal
+YES <hom>1.</hom> {#SAs#}¦ mit {#samanu#} VI. {%zur Belehrung sagen%} <ls>JĀTAKAM. 3</ls>.<info n="sup_7"/>	<L>221472<pc>7-378-a<k1>SAs<k2>1. SAs
+YES <hom>1.</hom> {#sad#}¦ mit {#atyA#} <ab>Caus.</ab> auch {%Jmd%} (<ab>Acc.</ab>) {%zunahe kommen%} <ls>R. ed. Bomb. 3,37,17</ls>. — Mit {#ud#} <ab>Caus.</ab> VII. 3〉 <ls>ĀPAST. GṚHY. 12,7</ls>. — Mit {#anUpa#} <ab>Caus.</ab> streiche das Wort <ab>Comm.</ab> — Mit {#aBipra#} VII. {#°sanna#} {%günstig gestimmt%} <ls>MAHĀVY. 255</ls>. <ls>JĀTAKAM. 3</ls>. — Mit {#samaBipra#} <ab>Caus.</ab> {%ganz günstig stimmen%} <ls>JĀTAKAM. 5</ls>. <ls n="JĀTAKAM.">12</ls>. — Mit {#vipra, °sanna#} VII. {%*ganz klar, durchsichtig%} <ls>MAHĀVY. 245,887</ls>. — Mit {#sam#} <ab>Caus.</ab> VII. {%zu Boden strekken, niederworfen%} <ls>JĀTAKAM. 32</ls>. <ls n="JĀTAKAM.">33</ls>.<info n="sup_7"/>	<L>221657<pc>7-380-a<k1>sad<k2>1. sad
+YES <hom>1.</hom> {#han#}¦ mit *{#samava#} {%aus dem Wege räumen, wegschaffen%} <ls>MAHĀVY. 126</ls>.<info n="sup_7"/>	<L>222037<pc>7-384-c<k1>han<k2>1. han
+YES <hom>1.</hom> {#har#}¦ mit {#anu#} VII. {%nachtragen, hinterher tragen%} <ls>ĀPAST. GṚHY. 5,13</ls>. — Mit {#pratyud#} VII. 3〉 {%*etwas Geliehenes wieder zurückerstatten%}. {#apratyudDArya#} <ab>Absol.</ab> <ls>MAHĀVY. 261</ls>.<info n="sup_7"/>	<L>222039<pc>7-384-c<k1>har<k2>1. har
+YES {#kav#}¦ II. {#kavati#} {%dichten%} <ls>ŚRĪKAṆṬHAC. 2,35</ls>.<info n="sup_7"/>	<L>222323<pc>7-387-b<k1>kav<k2>kav
+YES {#kuT#}¦ II. {#kuTant#} {%stinkend%} <ls><ab>ebend.</ab> 170</ls>. — Mit {#pari, °kuTant#} <ab>dass.</ab> <ls><ab>ebend.</ab> 38</ls>.<info n="sup_7"/>	<L>222341<pc>7-387-b<k1>kuT<k2>kuT
+YES <hom>1.</hom> {#gar#}¦ mit {#aByud#} {%lärmen%} <ls>CAṆḌĪŚ. 84</ls>.<info n="sup_7"/>	<L>222362<pc>7-387-c<k1>gar<k2>1. gar
+YES {#Cuw#}¦ mit {#ud#} <ab>Caus.</ab> {#ucCowita#} {%getüncht%} <ls>DAMAYANTĪK. 254</ls>.<info n="sup_7"/>	<L>222387<pc>7-387-d<k1>Cuw<k2>Cuw
+YES <hom>1.</hom> {#pat#}¦ mit {#vyati#} {%über Etwas hinauskommen%} <ls>HARAVIJAYA 6,30</ls>.<info n="sup_7"/>	<L>222489<pc>7-388-d<k1>pat<k2>1. pat
+YES <hom>1.</hom> {#par#}¦ mit {#ava#} <ab>Caus.</ab> ({#°pUrya#}) {%auffüllen%} <ls>HARAVIJAYA 9,6</ls>. — Mit {#vipari#} <ab>Caus.</ab> {%voll machen%} (die Mondscheibe) <ls><ab>ebend.</ab> 8,40</ls>. — Mit {#vi#} <ab>Caus.</ab> {%füllen,%} so <ab>v. a.</ab> {%blasen%} in ein Horn <ls><ab>ebend.</ab> 10,22</ls>.<info n="sup_7"/>	<L>222493<pc>7-388-d<k1>par<k2>1. par
+YES <hom>1.</hom> {#lup#}¦ mit {#vyava#} {%abstreifen, ablegen%} <ls><ab>ebend.</ab> 6,97</ls>.<info n="sup_7"/>	<L>222601<pc>7-389-d<k1>lup<k2>1. lup
