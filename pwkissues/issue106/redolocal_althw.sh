@@ -1,4 +1,5 @@
-cp temp_pw_2.txt /c/xampp/htdocs/cologne/csl-orig/v02/pw/pw.txt
+version=$1
+cp temp_pw_${version}.txt /c/xampp/htdocs/cologne/csl-orig/v02/pw/pw.txt
 echo "regenerate pwhwextra in csl-orig"
 cd /c/xampp/htdocs/cologne/csl-orig/v02/pw/althws
 sh redo.sh

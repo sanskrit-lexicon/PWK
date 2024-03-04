@@ -347,10 +347,7 @@ cp temp_pw_1.txt /c/xampp/htdocs/cologne/csl-orig/v02/pw/pw.txt
 
 --- pull csl-orig, to get latest repository
 cd /c/xampp/htdocs/cologne/csl-orig/v02/
-git pull # in cas
-
-cd /c/xampp/htdocs/sanskrit-lexicon/pwk/pwkissues/issue106
-cp temp_pw_1.txt /c/xampp/htdocs/cologne/csl-orig/v02/pw/pw.txt
+git pull # in case
 
 # sync to github
 cd /c/xampp/htdocs/cologne/csl-orig/v02/

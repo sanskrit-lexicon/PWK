@@ -1,0 +1,2622 @@
+224	2	*{#aMseBAra#} *{#°BArika#}
+335	2	{#akaqama#} {#°cakra#}
+362	2	{#akaTaha#} {#°caka#}
+1050	2	{#akravyAd#} {#°da#}
+1110	2	{#aklizwakarman#} {#°kArin#}
+1203	2	{#akzakzapaRa#} {#°ta#}
+1269	2	{#akzaDur#} {#°DurA#}
+1434	3	*{#akzaracaYcu#} *{#°caRa#} *{#°cuYcu#}
+1446	3	*{#akzarajIvaka#} *{#°jIvika#} *{#°jIvin#}
+1474	2	{#akzaramAlA#} {#°mAlikA#}
+2703	2	{#agnipraveSa#} {#°praveSana#}
+2711	2	{#agniprAyaScitta#} {#°prAyaYcitti/#}
+2885	2	*{#agnivarDaka#} *{#°varDana#}
+2955	2	{#agniSA/la#} {#°SAlA#}
+3020	2	{#agnizwomasAma/#} {#°sAma/n#}
+3183	2	{#agnihotrocCizwa/#} {#°hotroccezRa/#}
+3388	2	*{#agrajAtaka#} *{#°jAti#}
+3679	2	{#agrega/#} {#°gA/#}
+3705	2	{#agrepA/#} {#°pU/#}
+4018	2	*{#aNkapAli#} *{#°kA#}
+4393	3	*{#aNgamarda#} *{#°mardaka#} *{#°mArdin#}
+4487	2	{#aNgasaMskAra#} *{#°saMskriyA#}
+4499	2	{#aNgahAra#} *{#°hAri#}
+4579	2	{#aNgArakAraka#} {#°kArin#}
+4607	3	*{#aNgAraDAnikA#} *{#°DARI#} *{#°DArikA#}
+4637	2	*{#aNgAramaYjarI#} *{#°maYjI#}
+4826	2	{#aNgulitra#} {#°trARa#}
+4842	2	{#aNgulimudrA#} *{#°muwrika#}
+5260	6	{#aciradyuti#} {#°praBA#} {#°BAs#} *{#°rocis#} *{#acirAMzu#} *{#acirABA#}
+5789	2	*{#ajapada#} *{#°pAda#}
+5812	2	*{#ajaBakza#} *{#°BakzA#}
+5828	2	{#ajamIQa#} {#°mIlha#}
+5836	2	{#ajamoda#} {#°modA#}
+5893	4	{#aja/rant#} {#°ntI#} {#ajarayu/#} *{#ajarasa#}
+6203	3	*{#ajinapattrA#} *{#°pattrikA#} *{#°pattrI#}
+6399	3	{#ajEkapad#} {#°pAd#} *{#°pada#}
+6665	2	*{#aYjanakoMSI#} {#°keSI#}
+6677	2	*{#aYjanatraya#} *{#°tritaya#}
+6869	3	{#awaruza#} {#°rUza#} {#°rUzaka#}
+7480	3	*{#atalasparSa#} *{#°spfS#} *{#atalesparSa#}
+7610	2	{#a/tikiriwa#} {#°kirIwa#}
+7622	2	{#a/tikulva#} {#°kUlva#}
+8109	2	{#atiTipUjana#} {#°pUjA#}
+8592	2	{#atiprasakti#} {#°prasaNga#}
+9223	2	{#ativarza#} {#°varzaRa#}
+9606	2	{#atizWA/van#} {#°zWA/vant#}
+9866	2	{#atisvAra#} {#°svArya#}
+10280	2	{#atyamarzaRa#} {#°marzin#}
+10680	3	*{#atrinetraja#} *{#°netraprasUta#} *{#°netraBU#}
+10861	2	<hom>2</hom> {#°ad#} {#°ada#}
+11357	3	{#adUraBava#} {#°vartin#} {#°sTa#}
+12122	4	{#advEtakOstuBa#} {#°candrikA#} {#cintAmaRi#} {#°jYnasarvasva#}
+12130	5	{#advEtadarpaRa#} {#°dIpikA#} {#°brahmasidDi#} {#°makaranda#} {#°ratnarakzaRa#}
+12138	2	{#advEtavidyAvinoda#} {#°sidDi#}
+12280	2	*{#aDamaSAKa#} *{#°SAKIya#}
+12348	5	{#aDarAcI/na#} {#aDarAcya^#} {#aDarAci/a#} {#aDarA/Yc#} {#°rA/cI#}
+12429	2	{#aDarzaRa#} {#°RIya#}
+12661	3	{#aDikaraRakOmudI#} {#°candrikA#} {#°culaka#}
+12673	2	{#aDikaraRamAlA#} {#°ratnamAlA#}
+12693	2	{#aDikarmakara#} {#°karmakfw#}
+12758	2	{#aDikAramAlA#} {#°saMgraha#}
+13169	2	{#aDirAj#} {#°rAja/#}
+13350	2	*{#aDivedikA#} *{#°vedinI#}
+13430	2	{#aDizWya#} {#°vant#}
+13621	2	{#aDo'kzam#} {#°kzeRa#}
+14022	2	{#aDyAtmakalpataru#} {#°cintAmanI#}
+14032	7	{#aDyAtmapradIpikA#} {#°boDa#} {#°mImAMsA#} {#°rAmAyaRa#} {#°vidyopadeSaviDi#} {#°SAstra#} {#°suDAtaraMgiRI#}
+14234	2	{#°aDva#} {#°aDvaka#}
+17190	2	{#anAkramaRIya#} {#°kramya#}
+17440	2	{#anATapiRqada#} {#°piRqika#}
+18227	2	{#anikziptaDura#} {#°DUra#}
+19736	2	{#anucintana#} {#°cintA#}
+20868	2	{#anupUrvya#} {#°pUrvia#}
+21090	2	{#anubrAhmaRika#} {#°brAhmaRin#}
+21252	6	{#anumAnaKaRqatarka#} {#°cintAmaRi#} {#°cintAmaRidIDiti#} {#°jAgadISIkroqa#} {#°tattvacintAmaRi#} {#°dIDiti#}
+21260	9	{#anumAnaparicCeda#} {#°prakASa#} {#°prAmARyavyavasTApana#} {#°prAmARyarahasya#} {#°maRidIDiti#} {#°mayUKa#} {#°mATurI#} {#°mUlatippaRI#} {#°SiromaRi#}
+21292	6	{#anumitidIDiti#} {#°prAmarSakAryakAraRavicAra#} {#°parAmarSavAda#} {#°parAmarSavicAra#} {#°mAnasavAda#} {#°lakzaRAvataraRa#}
+21356	2	{#anuyAtra#} {#°yAtrA#}
+22115	2	*{#anuScota#} {#°Scyota#}
+22279	2	*{#anuzRavallikA#} *{#°vallI#}
+22430	2	{#anusAritA#} {#°ritva#}
+23968	2	{#antargarBa#} {#°rBin#}
+24010	2	{#antarjalacara#} {#°rjalanivAsin#}
+24461	2	{#antaHSleza/#} {#°Sle/zaRa#}
+24796	4	{#antyezwi#} {#°padDati#} {#°prayoga#} {#°viDi#}
+24822	2	{#antravarDman#} {#°vfdDi#}
+25134	2	*{#annapAkatoda#} *{#°pAkaSUla#}
+25155	2	{#annapUrRakalpalatA#} {#°pUrRapawala#}
+25595	3	{#anyadevata#} {#°devatya^#} {#°dEvata#}
+25860	2	{#anvaksTAnin#} {#°sTAnIya#}
+25903	2	{#anvayaboDikA#} {#°boDinI#}
+26081	2	{#anvAlaBana#} {#°lamBana#}
+26109	2	{#anvAharaRa#} {#°hAra#}
+26322	3	{#apakfta#} {#°kfti#} {#°kftya#}
+26626	2	{#apaYcIkfta#} {#°BUta#}
+26782	2	{#apatrapaRa#} {#°trapA#}
+26798	4	{#apaT#} {#°paTi#} {#°panTan#} {#°panTA#}
+26850	2	*{#apadaruhA#} *{#°rohiRI#}
+27070	2	{#apapAtra#} {#°patrita#}
+28180	3	{#apavAritam#} {#°takena#} {#°vArya#}
+28527	2	{#apastamba#} {#°stamBa#}
+29027	2	*{#apAMnaptriya#} {#°naptrIya#}
+29247	2	{#apAzWiha/#} {#°ha/n#}
+29288	2	{#apikakzya^#} {#°kakzi/a#}
+29992	2	{#aponaptriya#} {#°naptrIya#}
+30068	2	{#aptoryAma/#} {#°ryAman#}
+30467	2	{#apratidvaMdva#} {#°dvaMdvin#}
+30624	2	{#aprativAcya#} {#°vAcia#}
+30656	2	{#aprativASya#} {#°vASia#}
+31730	2	{#apsuja/#} {#°jA/#}
+32971	2	{#aBicAraka#} {#°cArika#}
+33258	3	{#aBiDAnacintAmaRi#} {#°cUqAmaRi#} {#°tantra#}
+33547	2	{#aBinetavya#} {#°neya#}
+33808	2	{#aBiBu/#} {#°BU/#}
+33825	2	{#aBiBUtyo/jas#} {#°BUtio/jas#}
+33934	2	{#aBimAtiza/h#} {#°zAha/#}
+34037	2	*{#aBiyAti#} *{#°yAtin#}
+34088	2	{#aBirakzaRa#} {#°rakzA#}
+34203	2	{#aBilazaRIya#} {#°lazya#}
+34345	2	{#aBivAsa#} {#°vAsana#}
+34435	2	{#aBivyApaka#} {#°vyApin#}
+34447	2	{#aBivyAharaRa#} {#°hAra#}
+34512	2	{#aBiSastipA/#} {#°pA/van#}
+34516	2	{#aBiSastenya#} {#°Sastya#}
+34602	2	{#aBiza/c#} {#°zAc#}
+34736	2	{#aBizyant#} {#°nta#}
+34892	2	{#aBisaMpatti#} {#°saMpa/d#}
+35015	2	{#aBisyanda#} {#°syandin#}
+35709	2	*{#aByavaskanda#} *{#°na#}
+36101	2	{#aByudgama#} *{#°na#}
+36832	2	{#amararAj#} {#°rAja#}
+37605	2	*{#amilAtaka#} *{#°lAnaka#}
+37794	5	{#amUrtarajas#} {#°rajasa#} {#°rayas#} {#°rayasa#} {#amUrtimant#}
+38214	2	*{#amftAsaNga#} *{#°saMgama#}
+39517	2	{#a/yajYasac#} {#°sAc#}
+40286	2	{#ayonijatIrTa#} {#°jeSvaratIrTa#}
+40748	2	*{#araRyavAstuka#} *{#°vAstUka#}
+41110	2	{#arAtidU/zaRa#} {#°dU/zi#}
+42273	2	{#arkASvameDa#} {#°Da/u#}
+42689	2	{#arjunArcanakalpalatA#} {#°rcapArijAta#}
+42934	2	{#arTakftya#} {#°tyA#}
+43000	2	{#arTacintana#} {#°cintA#}
+43260	2	{#arTavattA#} {#°vattva#}
+43458	3	{#arTahAraka#} {#°rikA#} {#°hArin#}
+43868	2	*{#arDaKAra#} {#°rI#}
+43888	2	*{#arDacakravartin#} *{#°cakrin#}
+44006	3	{#arDanArInAweSvara#} *{#°nArISa#} {#°nArISvara#}
+44022	2	{#arDapaYcan#} {#°paYcama#}
+44108	2	{#arDapraharikA#} {#°hArikA#}
+44707	2	{#armakapAla/#} {#°kapAlikA#}
+44754	2	*{#aryamadevA#} *{#°dEvata#}
+45321	8	{#alaMkArakArikA#} {#°kOstuBa#} {#°kramamAlA#} {#°candrikA#} {#°cUqAmaRi#} {#°maYjarI#} {#°mAlA#} {#°muktAvalI#}
+45341	3	{#alaMkAraSeKara#} {#°kArasarvasva#} {#°suDAniDi#}
+45813	2	*{#alijihvA#} *{#°jihvikA#}
+46065	5	{#aloma/ka#} {#alo/maka#} {#°makA#} {#°mikA#} {#aloman#}
+46294	2	{#alparuj#} {#°ruja#}
+46462	2	{#allama#} {#°praBudeva#}
+46470	2	{#allAqa#} {#°nATa#}
+46478	2	{#allAla#} {#°sUri#}
+46799	2	{#avagama#} {#°na#}
+47055	2	{#avacUri#} {#°kA#}
+47442	3	*{#avadAha#} *{#°dAhezwa#} *{#°dAhezwakApaTa#}
+47728	4	{#avanipa#} {#°pati#} {#°pAla#} {#°pAlaka#}
+47748	2	{#avanIDara#} {#°Dra#}
+47752	2	{#avanIpati#} {#°pAla#}
+47760	2	{#avanISa#} {#°nISvara#}
+47842	2	{#avantimAtar#} {#°mAtfkA#}
+48086	2	{#avaBfTa/#} {#°Bf/Ta#}
+48092	2	{#avaBedaka#} {#°Bedi/n#}
+48619	2	{#avarza#} {#°Ra#}
+48691	2	{#avaliptatA#} {#°liptatva#}
+49055	2	*{#avasakTi#} {#°kA#}
+49746	2	{#avAntaradIkza/#} *{#°dIkzin#}
+50188	2	{#avicCindant#} {#°datI#}
+50384	2	*{#avidDakarRa#} *{#°karRI#}
+50474	2	{#avinABAva#} {#°BAvitva#}
+51265	2	{#avizAda#} {#°ditva#}
+51273	2	{#avizwamBa#} {#°na#}
+51303	2	{#avisaMvAdana#} {#°vAditA#}
+51400	2	{#avihiMsana#} {#°sA#}
+51643	2	{#avedavid#} {#°vidvaMs#}
+51777	3	{#avocat#} {#°cam#} {#°cas#}
+51824	2	{#avyaktagaRita#} {#°vIja#}
+52108	3	{#avyavasAyavant#} {#°sAyin#} {#°sita#}
+52163	2	{#avyasana#} {#°nin#}
+52886	2	{#aSiras#} {#°ska#}
+53188	2	{#aSezatA#} {#°tva#}
+53432	2	{#aSmagarBa#} *{#°ja#}
+53553	3	{#aSmaBid#} *{#°Beda#} {#°Bedaka#}
+53573	2	{#aSmarI#} {#°ri#}
+53779	3	{#aSrImant#} {#aSrIra/#} {#°A#}
+53940	2	*{#aSlezABava#} *{#°zABU#}
+54201	2	{#aSvadA/#} {#°dAvan#}
+54265	2	{#a/Svapastya#} {#°pAstia#}
+54408	2	{#aSvameDaka#} {#°meDaja#}
+54672	2	{#aSvasAda/#} {#°sAdin#}
+55505	2	<hom>1</hom> {#azwAdaSaSata#} {#°SatI#}
+56099	2	{#asaMSravaRe#} {#°Srave#}
+56453	3	{#asaMcaya#} {#°vant#} {#asaMcayika#}
+57045	2	{#asamAvfttaka#} {#°vfttika#}
+57439	5	{#asaSca/t#} {#a/saScant#} {#°ScatI#} {#a/saScivaMs#} {#°ScuzI#}
+57521	3	{#asAMvatsara#} {#°ka#} {#°rika#}
+57968	2	{#asiDenu#} {#°kA#}
+57972	3	{#asinva/#} {#°A#} {#a/sinvant#}
+58007	2	*{#asiputrikA#} *{#°putrI#}
+58178	3	{#asunva/#} {#°A#} {#a/sunvant#}
+59363	2	*{#asTisneha#} *{#°sajYaka#}
+59690	2	*{#asraja#} *{#°janman#}
+59714	2	*{#asramAtar#} *{#°mAtfkA#}
+60013	3	{#ahaMSreyas#} {#°zre/yasa#} *{#ahaMSrezWikA#}
+60611	2	*{#ahituRqa#} *{#°tuRqika#}
+60788	2	*{#ahirbuDnyadevatA#} *{#°devatya#}
+60792	2	{#ahirbraDna#} {#°rbraDnya#}
+61495	2	{#AkASagati#} {#°gamana#}
+61499	2	{#AkASagarBi#} {#°garBa#}
+61609	2	{#AkASavAda#} {#°vAdArTa#}
+61721	2	{#AkulatA#} {#°tva#}
+61914	2	{#Akraya/#} {#°yA/#}
+62252	2	*{#AKuparRikA#} *{#°parRI#}
+62276	2	*{#AKuvizahA#} *{#°vizApahA#}
+62433	8	*{#Agatanandin#} {#°nardin#} *{#AgataprahArin#} *{#°matsya#} {#°matsyA#} *{#°yoDin#} *{#°rohin#} *{#°vaYcin#}
+62532	2	{#AgamasAra#} {#°sArodDAra#}
+62748	2	{#AgniveSyAyana#} {#°vESyAyana#}
+63272	6	{#AcAracandrikA#} {#°cintAmaRI#} {#°tantra#} {#°dIpa#} {#°dIpikA#} {#°pradIpa#}
+63284	4	{#AcAramayUKa#} {#°mADava#} {#°mADavIya#} {#°ratna#}
+63368	2	{#AcAryatA#} {#°ryatva#}
+63604	2	{#AjamIQa#} {#°mILaha/#}
+63620	2	{#Ajarasa/m#} {#°sA/ya#}
+64291	2	*{#AQyaMBavizRu#} *{#°BAvuka#}
+64605	2	{#AtiTigva/#} {#°gua/#}
+64662	2	{#AtiSAyanika#} {#°SAyika#}
+64764	2	{#Attamanas#} {#°manaska#}
+64870	2	{#AtmaGAtaka#} {#°GAtin#}
+64927	2	{#AtmajYAnopadeSaprakaraRa#} {#°deSaviDi#}
+65321	2	{#AtmavaDa#} {#°vaDyA#}
+65390	2	{#AtmaSlAGa#} {#°SlAGin#}
+65394	2	{#AtmazawkaBAzya#} {#°zawkopanizad#}
+65535	2	{#AtmApahAraka#} {#°hArin#}
+65557	2	{#AtmArTam#} {#°rTe#}
+65617	2	{#AtmopadeSa#} {#°viDi#}
+66062	3	*{#AdityaparRikA#} {#°parRin#} {#°rRinI#}
+66808	2	{#ADidEvata#} {#°dEvika#}
+67187	2	{#AnandajYAna#} {#°giri#}
+67249	4	{#AnandaboDaparamahaMsa#} {#°boDayati#} {#°boDendra#} {#°boDendrasarasvatI#}
+67680	3	{#AnupUrva#} {#°pUrvI#} {#°pUrvya#}
+67767	3	{#AnuSrava#} {#°Sravika#} {#°SrAvika#}
+67840	2	{#AnfRya#} {#°tA#}
+67886	2	{#AnoBadra#} {#°drIya#}
+68447	2	{#Apavargika#} {#°vargya#}
+68760	2	{#Apodevata#} {#°devatya#}
+68881	2	{#AptoryAma#} {#°ryAman#}
+69278	2	{#ABijAtI#} {#°jAtya#}
+69332	2	{#ABizeka#} {#°zecanika#}
+69373	3	*{#ABIrapalli#} *{#°pallikA#} *{#°pallI#}
+69391	3	{#ABISava#} {#°SavAdya#} {#°Savottara#}
+69465	2	{#AByantara#} {#°rika#}
+69526	3	*{#AmaganDi#} *{#°ganDika#} *{#°ganDin#}
+69665	2	{#AmaraRAnta#} {#°Rantika#}
+69788	2	*{#AmikzIya#} {#°kzya#}
+69800	3	*{#AmitrAyaRa#} *{#°trAyaRi#} *{#°tri#}
+69891	2	*{#Amuzyakulaka#} {#°kulikA#}
+70047	4	*{#AmraganDaka#} {#ganDakft#} {#°ganDaDfk#} *{#°ganDaDft#}
+70170	3	{#Ayaji/#} {#°jin#} {#°jyu/#}
+70572	4	{#Ayurveda#} {#°rasAyana#} {#°sarvasva#} {#°sOKya#}
+72283	2	{#AryaBawwa#} {#°BawwIya#}
+72570	2	*{#Alakzi#} *{#°kzI#}
+72603	2	*{#AlabDi#} *{#°bDI#}
+72670	2	{#AlambAyana#} {#°nI#}
+73002	2	{#Alepa#} {#°na#}
+73634	2	{#AvirBAva/#} {#°rBUti#}
+73672	2	{#AvizkaraRa#} {#°zkAra#}
+74113	2	{#ASApiSAcikA#} {#°cI#}
+74117	2	{#ASApura#} {#°purI#}
+74290	2	{#ASIrdA/#} {#°rdAyA/#}
+75799	2	{#AstaraRika#} {#°RIya#}
+76442	2	{#AhirbuDna#} {#°rbuDnya#}
+77391	2	*{#ikzuvallarI#} *{#°vallI#}
+77395	2	*{#ikzuvAwikA#} *{#°vAwI#}
+77419	2	*{#ikzuSAkawa#} *{#°SAkina#}
+77441	3	*{#ikzvAri#} *{#ikzvAlika#} *{#°kA#}
+77544	2	{#icCArAma#} {#°svAmin#}
+77708	2	{#iqApAtra#} {#°pAtrI#}
+77904	2	{#itikartavya#} {#°tA#}
+77912	4	{#itikArya#} {#°kAryatA#} {#°kftya#} {#°kftyatA#}
+78491	2	{#indupramati#} {#°madi#}
+78713	2	<hom>2</hom> {#indragopa/#} {#°gepaka#}
+79048	2	*{#indramahakarman#} *{#°mahakAmuka#}
+79158	2	*{#indravallarI#} {#°vallI#}
+79166	2	{#indrava/h#} {#°vA/h#}
+79331	2	{#indrastu/t#} {#°stoma#}
+79383	2	{#indrAgnidEvata#} *{#°dEvatya#}
+79583	2	{#indriyaboDana#} {#°boDin#}
+79657	2	{#indreSvara#} {#°tIrTa#}
+80036	3	{#irivillA#} {#°vellikA#} {#°vellI#}
+80506	2	*{#izupuNKA#} *{#°NKikA#}
+80614	3	{#izwakApaTa#} *{#°Taka#} *{#°Tika#}
+80638	2	*{#izwakAva#} *{#°vant#}
+81994	2	*{#Izanmarza#} *{#°Ra#}
+82246	3	{#ukTaSa/s#} {#°SAs#} {#°Sasu#}
+82557	2	*{#ugradant#} *{#°danta#}
+82651	2	*{#ugrasenaja#} *{#°senasuta#}
+82994	2	{#uccErBAzaRa#} {#°rBAzya#}
+83128	2	{#ucCizwagaRapati#} {#°gaReSa#}
+83646	2	{#uqurAj#} {#°rAja#}
+83835	2	{#utkawikA#} {#°sana#}
+84239	2	{#utkramajIvA#} {#°jyA#}
+84320	2	{#utkleSana#} {#°utkleSin#}
+84910	2	{#uttaraPalgunI#} {#°PAlgunI#}
+84980	2	{#uttararAmacarita#} {#°caritra#}
+85042	2	{#uttaravedi/#} {#°dI#}
+85142	2	{#uttarADyayanagItA#} {#°nasUtra#}
+85321	2	{#uttarozWa#} {#°rOzWa#}
+85590	2	{#utTAnaSIla#} {#°SIlin#}
+85665	2	{#utpakzman#} {#°kzmala#}
+85775	2	{#utpaTavArika#} {#°vAraka#}
+86154	2	{#utprAsa#} {#°na#}
+86883	2	{#udakIrRa#} {#°kIrya#}
+87560	2	{#udaraMBara#} *{#°Bari#}
+89286	3	{#u/dbAhu#} {#°ka#} *{#°laka#}
+90093	2	{#undurakarRikA#} *{#°karRI#}
+90256	2	{#unnIyam#} {#°ya#}
+90557	2	{#unmuKIkaraRa#} {#°kAra#}
+90848	2	{#upakUlatas#} {#°kUlam#}
+90923	2	{#upakramya#} {#°krAmya#}
+91377	2	*{#upacAru#} {#°mant#}
+91425	2	{#upacUqana#} {#°cUlana#}
+91620	2	{#upata/pant#} *{#°taptar#}
+92233	3	{#upanizadbrAhmaRa#} {#°zadratna#} {#°zadvivaraRa#}
+92430	2	*{#upapura#} {#°purI#}
+92454	2	*{#upapOrRamAsam#} *{#°mAsi#}
+92864	3	{#upayAcana#} {#°yAcita#} *{#°yAcitaka#}
+93155	2	{#upa/rimartya#} {#°martia#}
+93183	2	{#uparizad#} {#°zadya#}
+93187	2	{#uparizwAjjyotizmatI#} {#°jyotis#}
+93540	2	{#upavasaTI/ya#} {#°vasaTya#}
+93584	4	{#upavAkya^#} {#°vAki/a#} {#°vA/cya#} {#°vA/cia#}
+93773	2	{#upavyuza/m#} {#°vyuzasam#}
+94201	2	*{#upasamid#} *{#°samiDam#}
+94877	2	{#upAMSutA#} {#°tva#}
+94943	2	{#upAkarmaprayoga#} {#°karmaviDi#}
+95005	2	*{#upAgrahAyaRam#} *{#°Ri#}
+95871	2	{#uBayataHpad#} {#°pAd#}
+96111	2	{#uBayAlaMkAra#} {#°kfti#}
+96127	2	{#uBayAhastya/#} {#°hastia/#}
+96219	2	{#umAmaheSvara#} {#°vrata#}
+96348	2	{#uraMga#} {#°ma#}
+96362	4	*{#uraRAkza#} *{#°ka#} *{#uraRAKya#} *{#°ka#}
+96611	2	{#urujra/yas#} {#°jri/#}
+96993	3	{#ulaparAji#} {#°kA#} {#°jI#}
+97776	2	*{#uzwraBakzA#} *{#°BakzikA#}
+98347	2	{#UnarAtra#} {#°rAtri#}
+98541	2	{#Urjavaha#} {#°vAha#}
+98634	3	{#UrRanA/Bi#} {#°nABi#} {#UrRapawa#}
+98893	2	{#UrDvaju#} {#°tA#}
+98933	2	{#UrDvadfS#} {#°dfzwi#}
+99058	2	<hom>2</hom> {#UrDvaBAga#} {#°BAgika#}
+99698	2	{#UhagAna#} {#°gIti#}
+99886	3	{#fkzarajas#} {#°rajasa#} {#°rAj#}
+100058	2	{#f/GAvan#} {#°vant#}
+100450	3	*{#fRamukti#} *{#°mokza#} {#°mocana#}
+100458	3	{#fRayA/#} {#°yAt#} {#°yA/van#}
+100500	2	{#fRiDani#} {#°cakra#}
+100756	2	{#ftasa/dana#} {#°nI#}
+100823	2	{#ftAza/h#} {#°zA/h#}
+100853	3	{#ftIza/h#} {#°za/h#} {#°zA/h#}
+101282	3	{#fBukza/n#} {#°kzA/#} *{#°kzin#}
+101345	2	*{#fSyaketana#} *{#°ketu#}
+101625	2	{#fziza/h#} {#°zA/h#}
+101841	2	{#ekakAlam#} {#°likam#}
+101888	2	{#ekagrAmIRa#} *{#°grAmIy#}
+102065	2	{#ekatantrikA#} {#°tantrI#}
+102308	3	*{#ekaDura#} *{#°DurAvaha#} {#°DurIRa#}
+102553	2	{#ekapiNga#} {#°la#}
+102729	2	*{#ekayazwi#} *{#°kA#}
+103769	4	{#ekAmra#} {#°ka#} {#°vana#} {#°kavana#}
+104025	2	{#ekoddizwa#} {#°SrAdDa#}
+104362	2	{#etAdf/kza#} {#°df/S#}
+104819	2	{#evamAtmaka#} {#°tmikA#}
+105676	2	{#Endrota#} {#°ti#}
+105844	2	*{#Eli#} {#°SAlA#}
+106736	3	{#Ograseni#} *{#°senya#} {#°sEnya#}
+106752	2	{#OcaTya/#} {#°Tia/#}
+106955	2	{#OttAnapAda#} {#°pAdi#}
+107178	2	*{#OdaSvita#} *{#°Svitka#}
+107998	2	*{#OrRAvata#} *{#°vatya#}
+108026	3	{#OrDvadehikakalpavalli#} {#°nirRaya#} {#°padDati#}
+109064	2	*{#kaNkatrowa#} *{#°trowi#}
+109138	2	{#kaNkAlaBErava#} {#°tantra#}
+109208	4	{#kaNgu#} {#°ka#} {#°kA#} *{#kaNgU#}
+110251	2	*{#kawutuRqikA#} *{#°tuRqI#}
+110267	2	*{#kawutraya#} {#°trika#}
+110295	2	{#kawupAka#} {#°pAkin#}
+110314	2	*{#kawuBaNga#} {#°Badra#}
+110346	2	*{#kawurohiRikA#} {#°RI#}
+110362	2	*{#kawuSfNga#} *{#°SfNgAla#}
+110415	3	*{#kawwAra#} {#°ka#} {#°rikA#}
+110795	3	*{#kaRAwIna#} *{#°wIra#} *{#°wIraka#}
+111279	2	{#kaRWaBUzaRa#} *{#°BUzA#}
+112195	2	*{#kadambapuzpA#} {#°puzpI#}
+112431	2	{#kaDApriya#} {#°prI#}
+112550	2	{#kanakapura#} {#°purI#}
+112613	2	{#kanakalatA#} {#°latikA#}
+113399	2	*{#kanyAja#} *{#°jAta#}
+113810	2	{#kapikacCu#} *{#°cCU#}
+113846	3	*{#kapicUqa#} *{#°cUqa#} *{#°cUta#}
+113944	2	{#kapinAsa#} {#°nAsikA#}
+113992	2	*{#kapiromaPalA#} *{#°romalatA#}
+114218	2	*{#kapivallikA#} *{#°vallI#}
+114428	2	*{#kapotapAlikA#} {#°pALI#}
+114518	2	{#kapolapAli#} {#°pAlI#}
+114922	2	{#kamalavarDana#} {#°varman#}
+115011	2	{#kamalAhAs#} {#°sati#}
+115898	2	*{#karaGarzaRa#} *{#°Garzin#}
+116132	2	{#karaRqaka#} {#°RqikA#}
+116455	2	{#karamokza#} {#°mocana#}
+116900	2	*{#karikaRA#} *{#°vallI#}
+117723	2	*{#karRakIwA#} *{#°kIwI#}
+117797	3	*{#karRajalUkA#} *{#°jalOkas#} *{#°jalOkA#}
+117940	2	{#karRaputraka#} *{#°trikA#}
+117944	2	*{#karRapur#} *{#°purI#}
+117981	2	{#karRapratinAha#} {#°pratInAha#}
+118128	2	*{#karRaveDanikA#} *{#°veDanI#}
+118142	2	*{#karRavezwakIya#} *{#°vezwakya#}
+118150	2	{#karRaSazkulikA#} {#°lI#}
+118407	2	*{#karRecuracurA#} *{#°curucurA#}
+118415	2	*{#karRewiwwiBa#} *{#°wiriwirA#}
+118921	2	{#karpUrastava#} {#°stotra#}
+119253	2	{#karmanizWa#} {#°nizWA/#}
+119285	3	{#karmaprakASa#} {#°kASikA#} {#°kASiRI#}
+120171	2	{#kalacuri#} {#°cUri#}
+120816	2	*{#kalAmbi#} *{#°kA#}
+121075	2	{#kaliDarmanirRaya#} {#°DarmasArasaMgraha#}
+121118	3	*{#kalimAraka#} *{#°mAlaka#} *{#°mAlya#}
+121596	2	{#kalpamahIruh#} {#°ruha#}
+121618	2	{#kalpalatAprakASa#} {#°latAvatAra#}
+121859	2	{#kalyatA#} *{#°tva#}
+122105	2	{#kallinATa#} {#°nArTa#}
+122531	2	{#kavirAjaBikzu#} {#°rAjayati#}
+122713	2	*{#kaSika#} *{#°pAda#}
+122825	2	{#kaSyapeSvara#} {#°tIrTa#}
+122905	2	{#kazAyadanta#} {#°daSana#}
+123283	2	{#kAMsyapAtra#} {#°trI#}
+123389	3	*{#kAkaciYcA#} *{#°ciYci#} {#°ciYcI#}
+123401	3	*{#kAkacCada#} *{#°cCadi#} *{#°cCardi#}
+123411	2	*{#kAkajambu#} *{#°jambU#}
+123585	2	*{#kAkapucCa#} *{#°puzwa#}
+123631	3	*{#kAkamAcikA#} {#°mAcI#} *{#°mAtA#}
+124374	2	{#kAYcanapura#} {#°purI#}
+124458	3	{#kAYcanAra#} *{#°nAraka#} *{#°nAla#}
+124758	3	{#kARqapawa#} *{#°pawI#} {#°pawaka#}
+124856	3	{#kARqAnukrama#} {#°kramaRikA#} {#°kramaRI#}
+125389	2	{#kAntipura#} {#°purI#}
+125413	2	{#kAntI#} *{#°nagarI#}
+125833	2	{#kAmakAma#} {#°kAmin#}
+125993	2	*{#kAmajani#} *{#°jAna#}
+126225	2	*{#kAmaparRikA#} *{#°parRI#}
+126453	2	{#kAmalAyana#} {#°ni#}
+126764	2	{#kAmASrama#} {#°pada#}
+127068	2	{#kAmyezwi#} {#°tantra#}
+127377	2	{#kAraRatA#} {#°tva#}
+127450	2	*{#kAratantavikA#} {#°kI#}
+127545	4	{#kAravella#} {#°vellI#} {#°vellaka#} {#°vellikA#}
+128289	2	{#kAryatA#} {#°tva#}
+129072	3	{#kAlacakrajAtaka#} {#°cakraprakASa#} {#kAlacandrakaTana#}
+129133	2	{#kAlatattvavivecana#} {#°tattvArRava#}
+129270	4	*{#kAlanemiripu#} *{#°nemihn#} *{#°nemihara#} *{#°nemyari#}
+129525	2	{#kAlayApa#} {#°na#}
+129541	2	{#kAlarAtri#} {#°trI#}
+129569	2	{#kAlaloha#} *{#°lOha#}
+129613	2	<hom>2</hom> *{#kAlavAla#} *{#°vAluka#}
+129900	2	{#kAlAgniBErava#} {#°tantra#}
+131522	2	{#kAzWavallikA#} *{#°vallI#}
+132010	2	{#kikidiva#} *{#°divi#}
+132030	3	*{#kikIdiva#} *{#°vi#} *{#°dIvi#}
+132146	3	*{#kiNkiRi#} {#°kA#} {#°RIka#}
+132328	2	*{#kiwimUlaka#} *{#°mUlABa#}
+132469	2	{#kindubilva#} {#°villa#}
+132517	2	*{#kiMnareSa#} *{#°nareSvara#}
+132521	4	{#kiMnAmaka#} {#°mikA#} {#°nAmaDeya#} {#°nAman#}
+132623	2	{#kimIdi/n#} {#°di/nI#}
+132635	2	*{#kiMpaca#} *{#°pacAna#}
+132663	2	{#kiMpuruza/#} {#°pu/ruza#}
+134009	2	*{#kukkuwamardaka#} *{#°marda#}
+134562	2	*{#kuYjavallarI#} *{#°vallI#}
+135239	2	*{#kuqmalAgradant#} *{#°danta#}
+135271	3	*{#kuqyapucCA#} *{#kuqyamatsI#} {#°matsya#}
+135477	2	{#kuRqakalpadruma#} {#°kalpalatA#}
+135534	2	{#kuRqanAci#} {#°lAci#}
+135546	2	{#kuRqapAyya#} {#°pA/yia#}
+135562	5	{#kuRqamaRqapakOmudI#} {#°maRqapasaMgraha#} {#°maRqapasidDi#} {#kuRqamArtaRqa#} {#kuRqaratnAkara#}
+136885	2	{#kuberahfdaya#} {#°hfdya#}
+137080	2	{#kumanIza#} {#°zin#}
+137371	3	{#kumArila#} {#°Bawwa#} {#°svAmin#}
+137511	2	*{#kumudabanDu#} *{#°bAnDava#}
+138211	2	{#kuraRwaka#} {#°RwikA#}
+138842	2	*{#kulaYja#} *{#°na#}
+139005	2	*{#kulapAli#} *{#°pAlI#}
+139123	2	{#kularatnamAlA#} {#°mAlikA#}
+139760	2	{#kulmalabarhiza#} {#°barhis#}
+140464	2	{#kuSinagara#} {#°rI#}
+141111	2	{#kusurubi/nda#} {#°bindu#}
+141692	2	{#kUwaleKa#} {#°leKya#}
+141895	2	*{#kUpaKA#} {#°KAnaka#}
+141923	2	{#kUpamaRqUka#} *{#°kI#}
+142898	2	{#kftanASaka#} {#°nASana#}
+143182	3	*{#kftasApatnikA#} *{#°sapatnI#} *{#°sApatnIkA#}
+143557	2	{#kfttivAseSvara#} {#°liNga#}
+143595	3	{#kftyakalpataru#} {#°kalpadruma#} {#°kalpalatA#}
+143611	3	{#kftyacintAmaRi#} {#kftyatattva#} {#°tattvArRava#}
+143619	7	{#kftyapradIpa#} {#kftyamaYjarI#} {#kftyamahArRava#} {#kftyaratna#} {#°ratnAkara#} {#°ratnAvalI#} {#kftyarAja#}
+143696	2	{#kftrimaputraka#} {#°putrikA#}
+144058	2	*{#kfmikoSaja#} *{#°koSotTa#}
+144553	2	{#kfzwapacya/#} *{#°pAkya#}
+145030	2	*{#kfzRapAka#} *{#°Pala#}
+145053	2	*{#kfzRapiRqItaka#} *{#°piRqIra#}
+145247	2	{#kfzRamfttikA#} *{#°mfd#}
+145378	2	{#kfzRavizARa#} {#°vizARA/#}
+145386	2	{#kfzRaveRA#} {#°veRI#}
+145390	3	{#kfzRaveRA#} {#°veRyA#} {#°veRvA#}
+145450	2	*{#kfzRaSimbikA#} *{#°SimbI#}
+145632	2	{#kfzRAnanda#} {#°Bawwa#}
+145656	2	{#kfzRAmftataraMgikA#} {#°mftamahArRava#}
+145916	2	{#ketasa/p#} {#°sAp#}
+146177	3	*{#kenipAta#} *{#°ka#} *{#°pAtana#}
+147327	2	*{#kEtavAyana#} *{#°yani#}
+147529	4	*{#kEvartamusta#} {#°ka#} {#°mustA#} *{#kEvartImustaka#}
+147555	3	{#kEvalyAnanda#} {#°yogIndra#} {#°sarasvatI#}
+148067	2	{#kowiliNga#} {#°liNgeSvara#}
+148570	2	*{#kolakarkawikA#} *{#°karkawI#}
+149556	2	*{#kORqIbfsI#} *{#°bfsya#}
+149701	2	*{#kOdAlika#} {#°lIka#}
+150118	2	*{#kOrujaNgala#} *{#°jANgala#}
+150624	2	{#kOSIlava#} {#°vya#}
+150953	2	*{#krakacapad#} {#°pAd#}
+151137	2	{#kratusaMgraha#} {#°pariSizwa#}
+151640	2	{#kramajyakA#} {#°jyA#}
+151985	2	{#kravyaBakzin#} {#°Buj#}
+152121	3	{#krAntijIvA#} {#°jyakA#} {#°jyA#}
+152220	2	{#kriyAgupta#} {#°gupti#}
+153124	2	*{#kroqIkaraRa#} *{#°kfti#}
+153328	2	*{#krozwupucCikA#} *{#°pucCI#}
+153336	2	*{#krozwumAna#} *{#°mAya#}
+153950	3	*{#kvatya#} *{#kvatyaka#} {#°tyikA#}
+155720	2	{#kzititanayadina#} {#°tanayadivasavAra#}
+155732	2	{#kzitideva#} {#°devatA#}
+155756	2	{#kzitipa#} {#°pati#}
+155794	2	{#kzitiruh#} {#°ruha#}
+156315	2	*{#kzIrakanda#} *{#°ndA#}
+156323	2	*{#kzIrakAkolikA#} {#°kAkolI#}
+156573	2	*{#kzIravAri#} {#°Di#}
+156581	2	*{#kzIravidArikA#} *{#°dAri#}
+156723	3	*{#kzIrAbDitanayA#} *{#°putrI#} *{#°mAnuzI#}
+156971	2	*{#kzudrakAralikA#} *{#°kAravelli#}
+156999	2	*{#kzudraGaRwikA#} *{#°GaRwI#}
+157115	3	*{#kzudrapAzARaBedaka#} *{#°BedA#} *{#°BedI#}
+157211	2	*{#kzudravArtAkinI#} *{#°vArtAkI#}
+157231	2	*{#kzudraSarkarA#} *{#°SarkarikA#}
+157247	2	*{#kzudraSukti#} *{#°kA#}
+157892	2	*{#kzetraparpawa#} {#°parpawI#}
+157961	2	{#kzetrasamAsa#} {#°sUtra#}
+158484	2	*{#kzEtrajYa#} *{#°jYya#}
+159320	2	*{#KaYjaKewa#} *{#°Kela#}
+159472	3	*{#KawwASa#} *{#°SI#} *{#KawwAsa#}
+159547	2	{#KawvANgaDara#} {#°DAra#}
+159920	2	{#KaRqaKAwwaka#} {#°KAqaka#}
+160250	2	{#Katta#} {#°Kutta#}
+160302	2	*{#KadirapattrikA#} {#°pattrA#}
+160318	3	{#KadiravaRika#} {#°vanika#} {#°vanIka#}
+160328	2	*{#KadiravarRapakza#} *{#°varRaparRa#}
+160562	3	*{#KamUli#} *{#°likA#} *{#°lI#}
+160606	2	{#KarakaRqUyana#} {#°kaRqUyita#}
+160644	2	*{#KaraganDaniBA#} *{#°ganDA#}
+160683	2	*{#KaraRas#} *{#°Rasa#}
+160854	3	*{#Karasoni#} *{#°sonda#} *{#°solla#}
+160928	2	*{#KariMDama#} *{#°Daya#}
+161228	2	*{#KalaDAna#} *{#°DAnya#}
+161310	2	{#KalIkAra#} {#°kfti#}
+161354	3	*{#KaleSa#} *{#°ya#} *{#°Kaleha#}
+161594	2	{#KAgi#} {#°kA#}
+161602	2	*{#KAYjAra#} *{#°rAyaRa#}
+161744	2	{#KARqikIya#} {#°keya#}
+162056	2	*{#KAriMDama#} *{#°Daya#}
+162390	2	*{#KuraRas#} *{#°sa#}
+162506	2	{#KecaratA#} {#°tva#}
+162957	2	*{#KyAtagarhaRa#} *{#°garhita#}
+163620	3	*{#gajabanDana#} {#°banDanA#} *{#°banDinI#}
+163628	2	*{#gajaBakzA#} *{#°BakzayA#}
+163656	2	*{#gajamocana#} *{#°mowana#}
+164117	2	{#gaRatattvamahodaDi#} {#°tattvazoqaSikA#}
+164249	2	{#gaRapatikalpa#} {#°patikavaca#}
+164257	2	{#gaRapatipUrvatApanIyopanizad#} {#°pUrvatApinI#}
+164368	2	{#gaRaratna#} {#°mahodaDi#}
+164487	2	*{#gaRikArikA#} *{#°kArI#}
+164819	2	{#gaRqasTala#} {#°lI#}
+164897	2	*{#gaRqUpadaBava#} *{#°padodBava#}
+165339	2	*{#gadAhva#} *{#°ya#}
+165343	2	{#gadi#} {#°ta#}
+165441	5	{#gadyARa#} {#°ka#} {#gadyAna#} *{#°ka#} *{#gadyAlaka#}
+165743	2	*{#ganDanAlikA#} *{#°nAli#}
+165966	3	*{#ganDamUzika#} *{#°mUzikA#} *{#°mUzI#}
+166162	2	{#ganDavajrA#} {#°vajrI#}
+166202	2	*{#ganDavallarI#} *{#°vallI#}
+167863	3	{#gardaBaka#} {#°BikA#} *{#gardaBagada#}
+168075	2	{#garBagraha#} {#°grahaRa#}
+168477	2	{#garBAvataraRa#} {#°tAraRa#}
+168748	3	{#galagoqikA#} {#°goqI#} {#°golI#}
+168861	2	{#galitapradIpa#} {#°pradIpikA#}
+169953	2	{#gAtrasaMkocanI#} *{#°saMkocin#}
+170384	5	{#gAyatrIpaYcANga#} {#°paYjara#} {#°puraScaraRa#} {#°BAzya#} {#°rahasya#}
+170517	3	*{#gArgIputrakAyaRi#} *{#°putrAyaRi#} *{#°putri#}
+170660	3	{#gArhapatyasTAna#} {#°patyAgAra/#} {#°patyAyatana#}
+171045	2	{#girijADava#} {#°jApati#}
+171111	2	{#giriDara#} {#°dIkzita#}
+171398	2	{#girvava/h#} {#°vA/h#}
+171499	2	{#gItagOrIpati#} {#°gOrISa#}
+171509	2	{#gItapustaka#} {#°saMgraha#}
+172243	2	{#guRadIDitiwippaRI#} {#°dIDitiwIka#}
+172420	2	*{#guRalayanikA#} *{#°layanI#}
+172790	2	*{#guRqarocanikA#} {#°nI#}
+172859	2	{#gudanirgama#} {#°niHsaraRa#}
+173246	2	{#gurugItA#} {#°stotra#}
+173284	3	{#gurutalpaga#} {#°talpagAmin#} {#°talparata#}
+174142	2	*{#gUQapad#} {#°pAd#}
+174500	2	{#gfDrarAj#} {#°rAja#}
+174512	2	{#gfDravAja#} {#°vAjita#}
+174679	2	{#gfhagoDA#} {#°goDikA#}
+174751	2	{#gfhadAsikA#} {#°dAsI#}
+174988	2	*{#gfhavAwikA#} *{#°vAwI#}
+175123	3	*{#gfhAlika#} *{#°kI#} *{#gfhAlI#}
+175127	2	*{#gfhAvagfhaRI#} *{#°grahiRI#}
+175665	2	{#gokarReSa#} {#°liNga#}
+175695	2	*{#gokirAwikA#} *{#°kirAwI#}
+175832	3	{#goGAta/#} *{#°ka#} {#°GAtin#}
+175885	2	{#°gocaratA#} {#°gocaratva#}
+176224	3	{#gotrapravaradIpa#} {#°pravaranirRaya#} {#°pravaramaYjarI#}
+176463	2	*{#goDApadikA#} *{#°padI#}
+176542	2	{#goDUli#} {#°kA#}
+176719	3	*{#gopaGaRwa#} {#°GaRqA#} {#°goRwA#}
+177004	2	{#gopAlatApanIyopanizad#} {#°tApinI#}
+177395	2	*{#gomat#} {#°tati#}
+177596	2	{#gomfga/#} *{#°mfgendra#}
+178014	2	*{#govatsAdin#} *{#°vatsAri#}
+178145	3	{#govindadatta#} {#°vindadIkzita#} {#°vindadeva#}
+178153	3	{#govindanATa#} {#°vindanAyaka#} {#°vindanyAyAlaMkAraBawwAcArya#}
+178161	2	{#govindaBagavatpAdAcArya#} {#°vindaBawwa#}
+178295	2	{#govrata#} {#°vratin#}
+178616	2	{#gosaMKya#} {#°KyAtar#}
+178672	3	*{#gosAda#} *{#°sAdi#} *{#°sAraTi#}
+178746	2	{#gohara#} {#°Ra#}
+179420	2	{#gOrIgAyatrikA#} {#°gAyatrI#}
+179783	2	*{#granTakuwI#} *{#°kUwI#}
+180501	3	{#grahaRIgada#} {#°doza#} {#°pradoza#}
+180509	2	*{#grahaRIruj#} {#°roga#}
+180583	2	{#grahapIqana#} {#°pIqA#}
+180902	2	*{#grAmakola#} *{#°kroqa#}
+181124	2	{#grAmayAjaka#} {#°yAjin#}
+181158	2	{#grAmaSatADyakza#} {#°SateSa#}
+183026	2	{#Garmatanu#} {#°tanU#}
+183492	2	{#GuRa#} {#°kIwaka#}
+183736	3	{#GUrRana#} {#°nA#} *{#GUrRi#}
+184076	2	{#GftastU/#} {#°sto/#}
+184188	2	*{#GftAhva#} *{#°ya#}
+184467	2	*{#Goli#} *{#°kA#}
+185300	2	*{#cakralakzaRa#} {#°lakzaRikA#}
+185324	2	{#cakravartitA#} {#°vatitva#}
+185874	2	{#cakzuHSravas#} {#°Sruti#}
+186610	2	{#caRqAlatA#} {#°tva#}
+186666	2	{#caRqikArcanakrama#} {#°rcanacandrikA#}
+186747	2	{#caRqIviDAna#} {#°viDi#}
+186948	3	{#caturaDyAyika#} {#°kA#} {#caturaDyAyI#}
+187044	3	{#caturADyAyika#} {#°kA#} {#caturADyAyI#}
+187092	2	*{#caturUrDvapad#} {#°pAd#}
+187815	2	{#catuHSAlaka#} {#°SAlikA#}
+187970	2	{#ca/tuzpad#} {#°pAd#}
+188078	2	{#catuHzazwikalAgama#} {#°kalASAstra#}
+188392	2	{#candanaputrikA#} {#°putrI#}
+188603	2	{#candrakAlAnala#} {#°cakra#}
+188706	2	{#candragraha#} {#°Ra#}
+188852	2	{#candrapfzwa#} {#°pfzWa#}
+189113	3	*{#candralohaka#} *{#°lOha#} *{#°lOhaka#}
+189342	3	{#candrahan#} {#°hanu#} {#°hantar#}
+189453	2	{#candrArDacUqAmaRi#} {#°rDamOli#}
+189801	2	{#camasodBeda#} {#°na#}
+189829	6	{#camUnATa#} {#camUnAyaka#} {#°tA#} {#camUpa#} {#camUpati#} {#camUpAla#}
+189872	3	{#campakaganDa#} {#°ganDi#} {#°ganDin#}
+189924	2	{#campakAvatI#} {#°kAvalI#}
+190910	4	*{#carmacawaka#} *{#°cawakA#} *{#°cawikA#} *{#°cawI#}
+191011	2	*{#carmaprasevaka#} {#°sevikA#}
+191133	2	{#carmAvakartin#} {#°karttar#}
+191759	2	{#cAwukAra#} *{#°kArin#}
+191966	2	*{#cAturmAsaka#} {#°sin#}
+191990	2	{#cAturmAsyapadDati#} {#°mAsyamAhAtmya#}
+192194	2	*{#cAndramasAyana#} *{#°ni#}
+192344	2	{#cAmaraDAri#} {#°RI#}
+192398	2	{#cAmIkarAcala#} {#°karAdri#}
+192577	2	{#cAraRavidya#} {#°vEdya#}
+192750	2	{#cArucitra#} {#°citrANgada#}
+193317	6	{#cikitsAkalikA#} {#°kOmudI#} {#cikitsAYjana#} {#°tattvajYAna#} {#°darpaRa#} {#°paratantra#}
+193408	5	*{#cikurakalApa#} *{#°pakza#} *{#°BAra#} *{#°racanA#} *{#°hasta#}
+193510	3	*{#ciNgawa#} *{#°wI#} *{#ciNgaqa#}
+193526	2	{#cicIkucI#} {#°kUcI#}
+193546	2	{#cicCuka#} {#°kI#}
+193788	2	{#citkAra#} {#°vant#}
+194634	2	{#citrarUpavAda#} {#°vAdArTa#}
+195522	4	{#cirakAra#} {#°kAri#} {#°kArika#} {#°kArin#}
+195550	2	{#cirajAta#} {#°tara#}
+195662	2	*{#cirasUtA#} *{#°sUtikA#}
+195789	2	{#cilicima#} *{#°cIma#}
+196942	2	{#cUri#} {#°kA#}
+197112	2	{#cUlikApESAcika#} {#°pESAcI#}
+197228	2	*{#cetanakA#} *{#°kI#}
+197623	3	{#cEtanyacaraRAmfta#} {#°caritAmfta#} {#°caritra#}
+198022	2	*{#corapuzpikA#} *{#°puzpI#}
+198313	2	{#cOhARa#} {#°hAna#}
+198495	2	{#cyutasaMskAra#} {#°saMskfti#}
+199140	2	{#CandaHstut#} {#°stu/B#}
+199166	3	{#CandogapadDati#} {#°gapariSizwa#} {#°gabrAhmaRa#}
+199174	9	{#Candogavfzotsargatattva#} {#°gaSAKA#} {#°gaSrAdDatattvapramARa#} {#°gaSruti#} {#°gasopAna#} {#°gAhnikapadDati#} {#Candogovinda#} {#CandogranTa#} {#CandodIpikA#}
+199216	4	{#Candomatrikakud#} {#°madaSarAtra#} {#°madaSAha#} {#°mapavamAnatrirAtra#}
+200233	2	{#CinnamastakA#} {#°mastA#}
+200290	5	{#CucCundara#} {#°ri#} *{#°rI#} {#CucCUndara#} {#°rI#}
+200712	5	{#jagatIpati#} {#°kanyakA#} {#°pAla#} {#°Bartar#} {#°Buj#}
+201301	2	*{#jaNGAkara#} {#°karika#}
+201317	3	*{#jaNGAprahata#} *{#hUta#} *{#°hfta#}
+202282	2	{#janamAra#} {#°rI#}
+202527	2	{#janiDa/#} {#°DA/#}
+202857	2	{#janmaBU#} {#°mi#}
+203553	3	{#jayaGoza#} {#°Ra#} {#°RA#}
+203960	2	{#jayAnanda#} {#°vAra#}
+205021	2	*{#jalanIlikA#} *{#°nIlI#}
+205214	2	{#jalabudbud#} {#°budbuda#}
+205316	2	*{#jalayantraniketana#} {#°yantramandira#}
+205324	3	*{#jalaraNka#} *{#°raNku#} *{#°raYja#}
+205474	2	*{#jalavyaTa#} *{#°vyaDa#}
+205482	2	*{#jalaSaya#} *{#°Sayana#}
+205557	2	{#jalastamBa#} {#°na#}
+205567	2	{#jalasTAna#} {#°sTAya#}
+205831	2	*{#jalAzah#} {#°zAh#}
+206375	2	{#jA~hAgIra#} {#°nagara#}
+206714	15	{#jAtakakalAniDi#} {#°kalpalatA#} {#°kOmudI#} {#°kOstuBa#} {#°candrikA#} {#°cintAmaRi#} {#°tantra#} {#°taraMgiRI#} {#°dIpikA#} {#°padDati#} {#°padmakoSa#} {#°maYjarI#} {#°mAlA#} {#°muktAvalI#} {#°ratnAkara#}
+206722	7	{#jAtakasaMgraha#} {#°sAra#} {#°sena#} {#°kABaraRa#} {#°kAmfta#} {#°kAmBoniDi#} {#°kArRava#}
+206782	2	{#jAtavAsaka#} {#°vAsagfha#}
+206958	2	{#jAtivicAra#} {#°viveka#}
+207306	2	*{#jAnuprahfta#} *{#°prahftika#}
+207561	2	{#jAmbavozWa#} {#°vOzWa#}
+207587	2	{#jAmbunada#} {#°maya#}
+207963	2	*{#jAlapad#} {#°pAd#}
+208017	2	*{#jAlavarvurika#} *{#°varvUraka#}
+208465	2	{#jitaMte#} {#°stotra#}
+208667	2	{#jinayajYakalpa#} {#°yajYAdiviDAna#}
+208760	2	{#jindurAja#} {#°rAjya#}
+209020	2	{#jihvAnirleKana#} *{#°nirleKanika#}
+209503	2	{#jIvacCrAdDaprayoga#} {#°cCrAdDaviDi#}
+209548	3	*{#jIvatpati#} {#°kA#} *{#jIvatpatnI#}
+209562	2	{#jIvatpitfkanirRaya#} {#°pitfvivaraRa#}
+209812	2	{#jIvapitar#} {#°pitfka#}
+210189	2	{#jIvitAntakara#} {#°tAntaga#}
+210335	2	{#jumara#} {#°nandin#}
+210879	2	{#jEnollABadIna#} {#°dena#}
+211095	2	*{#jozit#} *{#°tA#}
+211573	2	{#jYAnadvayakAraRatAvAda#} {#°kAraRatAvicAra#}
+211601	4	{#jYAnaprakASikA#} {#°pradIpa#} {#°pradIpikA#} {#°praboDvamaYjarI#}
+211663	2	{#jYAnaratnakoSa#} {#°ratnAvalI#}
+211728	2	{#jYAnasaMtati#} {#°saMtAna#}
+212228	2	{#jyezWAmUla#} *{#°mUlIya#}
+212321	2	{#jyotiraTA#} {#°raTyA#}
+212329	2	*{#jyotiriNga#} *{#°Ra#}
+212333	2	{#jyotirISa#} {#°rISvara#}
+212452	11	{#jyotizakalpataru#} {#°keralIya#} {#°granTa#} {#°cintAmaRi#} {#°tattva#} {#°prakASa#} {#°Pala#} {#°mAnasa#} {#°ratna#} {#°ratnamAlA#} {#°sAra#}
+212464	2	{#jyotizika#} *{#°zIka#}
+212500	3	{#jyotizkaraRqa#} {#°ka#} {#°zkalpalatA#}
+213118	2	{#jvAleSvara#} {#°tIrTa#}
+213551	3	*{#JiYJirA#} *{#°riwA#} *{#°rIwA#}
+213559	3	{#JiRwi#} *{#°kA#} *{#JiRwI#}
+213886	2	{#wAMkAra#} {#°kfta#}
+214766	2	{#QeNkikA#} {#°tAla#}
+214886	2	{#taMsu#} {#°roDa#}
+215129	3	*{#tagarapAdika#} *{#°kA#} *{#°pAdI#}
+215328	2	{#taqAgaBavanotsarga#} {#°tattva#}
+215748	9	{#tattvakOmudI#} {#tattvakOstuBa#} {#tattvagurukAntIya#} {#tattvacandra#} {#°candrikA#} {#tattvacintAmaRi#} {#°maRiprakASa#} {#°maRipraBA#} {#°maRivyAKyA#}
+215794	4	{#tattvadIpa#} {#°na#} {#°dipikA#} {#dIpinI#}
+215820	8	{#tattvapadavI#} {#tattvapariSudDi#} {#tattvapAda#} {#tattvaprakASa#} {#°prakASikA#} {#tattvapradIpikA#} {#tattvabindu#} {#°binduyoga#}
+215830	5	{#tattvaboDana#} {#°boDaprakaraRa#} {#°boDinI#} {#°boDinIkArakaprakaraRa#} {#°boDinItadDitaprakaraRa#}
+215842	9	{#tattvamAtfkA#} {#tattvamAnasa#} {#tattvamArtaRqa#} {#tattvamuktAkalApa#} {#°muktAvalI#} {#tattvamudrAvilAsa#} {#tattvayATArTyadIpana#} {#tattvaratnAvali#} {#°ratnAvalisaMgraha#}
+215876	11	{#tattvasaMKyAna#} {#tattvasaMgraha#} {#°saMgraharAmAyaRa#} {#°saMgrahavyAKyA#} *{#tattvasaMcaya#} {#tattvasatyaSAstra#} {#tattvasamAsa#} {#tattvasamIkzA#} {#tattvasAgara#} {#tattvasAra#} {#°sAravyAKyA#}
+216897	2	*{#tanuruh#} *{#°ruha#}
+217388	10	{#tantravArttika#} {#tantravilAsa#} {#tantraSAstra#} {#tantraSiKAmaRi#} {#tantrasadBAva#} {#tantrasamuccaya#} {#tantrasAra#} {#°sArasaMgraha#} {#°sArAvali#} {#tantrahfdaya#}
+219484	2	{#taruRIkawAkzakAma#} *{#°kawAkzamAla#}
+219561	2	*{#taruruhA#} *{#°rohiRI#}
+219728	16	{#tarkapariBAzA#} {#tarkapAda#} {#tarkaprakASa#} {#tarkapratibanDakatArahasya#} {#°pratibanDakarahasya#} {#tarkapradIpa#} {#tarkaBAzA#} {#°wippaRI#} {#°prakaraRa#} {#°prakASa#} {#°prakASikA#} {#°BAvaprakASikA#} {#°vyAKyA#} {#°sAramaYjarI#} {#tarkamaYjarI#} {#tarkamaRidIpikA#}
+219762	7	{#tarkasaMgraha#} {#°candrikA#} {#°tattvaprakASa#} {#°tattvopanyAsa#} {#°dIpikA#} {#°dIpikAvyAKyA#} {#°vyAKyA#}
+219786	4	{#tarkAmfta#} {#°cazaka#} {#°cazakatAtparyawIkA#} {#°taraMgiRI#}
+219843	4	*{#tarkupAWI#} *{#tarkupiRqa#} *{#tarkupIWa#} *{#°pIWI#}
+220087	2	*{#tarpili#} *{#°kA#}
+221449	2	{#tApItawa#} {#°deSa#}
+221604	5	*{#tAmbUlada#} {#°dAyaka#} {#°dAyin#} {#°dAyinI#} {#°Dara#}
+221734	2	*{#tAmrakfmi#} *{#°krami#}
+221798	2	*{#tAmradugDA#} *{#°dugDI#}
+222060	2	{#tAmrAyaRa#} {#°Ri#}
+222402	2	*{#tAraSudDikara#} *{#°kft#}
+222406	2	{#tArasAra#} {#°sAropanizad#}
+222414	2	{#tArAkalpa#} {#°latA#}
+222458	2	{#tArADipa#} *{#°ti#}
+222986	2	*{#tAlamardaka#} *{#°mardala#}
+222990	2	{#tAlamUlikA#} *{#°mUlI#}
+223093	2	{#tAlAvacara#} {#°Ra#}
+223423	3	{#tAvura#} {#°ri#} {#°ru#}
+223499	2	*{#tiktakandakA#} *{#°kAndikA#}
+223571	2	*{#tiktarohiRikA#} {#°rohiRI#}
+223959	4	{#tiTidvEDaprakaraRa#} {#tiTinirRaya#} {#°nirRayasaMkzepa#} {#°nirRayasAra#}
+223983	8	{#tiTiBUzaRa#} {#tiTiratna#} {#°mAlA#} {#tiTiviveka#} {#tiTisaMgraha#} {#tiTisAraRikA#} {#tiTisAriRI#} {#tiTInduSoKara#}
+224493	2	{#tiro/ahniya#} {#°aNnya#}
+224587	2	{#tiryakprekzaRa#} {#°prekzin#}
+224882	2	{#tilaKali#} {#°KalI#}
+224886	2	{#tilagaYji#} {#°Yjin#}
+225071	2	{#tiliNga#} {#°deSa#}
+225698	3	{#tIrTapad#} {#°pAd#} {#°pada#}
+225877	2	*{#tIvrakaRWa#} *{#°kanda#}
+226028	3	*{#tugA#} {#°kzIri#} {#°kzIrI#}
+226518	2	*{#tundakUpikA#} *{#°kUpI#}
+227135	2	{#turIyAtIta#} {#°topanizad#}
+227192	3	{#turyava/h#} {#°vA/h#} {#°vA/w#}
+227379	2	*{#tulApragraha#} *{#°pragrAha#}
+227387	2	{#tulABavAnI#} {#°pura#}
+227407	2	{#tulAvarArDa#} {#°Darya#}
+227557	2	{#tuvikUrmi/#} {#°kUrmin#}
+227665	3	{#tuvizvaRa/s#} {#°zava/Ri#} {#°zva/n#}
+228292	3	*{#tUlanAlA#} *{#°nAlikA#} *{#°nAlI#}
+228502	4	{#tfRakuwi#} *{#°kuwI#} {#°kuwIra#} {#°kuwIraka#}
+228566	2	{#tfRajalAyukA/#} {#°jalUkA#}
+228680	3	{#tfRabIja#} *{#°ka#} *{#°bIjottama#}
+229110	2	{#tfptikara#} {#°karaka#}
+229714	2	*{#tEjasAvartanI#} *{#°vartinI#}
+230375	2	*{#toyaqimba#} *{#°qimBa#}
+231022	2	*{#tyAdfS#} *{#°Sa#}
+231351	2	{#trayyAruRa#} {#°Ri#}
+231496	3	{#trAyanti#} {#°kA#} {#trAyantI#}
+231834	2	{#trikAlajYAkzaracintAmaRi#} {#°jYAnAkzarI#}
+232425	3	*{#tridivADISa#} *{#°diveSa#} *{#°diveSAna#}
+232693	3	{#tripa/d#} {#tri/pad#} {#°pAd#}
+232881	2	*{#tripuwin#} *{#°puwiPala#}
+232885	3	{#tripuRqra#} {#°ka#} {#°puRQra#}
+232942	2	{#tripuradruh#} {#°puradviz#}
+232976	2	{#tripurAtapana#} {#°tApanI#}
+232984	3	{#tripurAntaka/#} {#°rAntakara#} {#°rAntakft#}
+233008	2	{#tripurAsAra#} {#°samuccaya#}
+233075	2	{#tripralamba#} {#°mbin#}
+233700	2	{#trivarRAcAraprarUpaRa#} {#°cArasaMhitA#}
+234089	2	*{#triSARa#} *{#°SARya#}
+234132	2	{#triSiKIbrAhmaRa#} {#°Ropanizad#}
+234173	2	{#triSIrzaguhA#} {#°SIrzAKyaguhA#}
+234355	3	{#trizazwilakzaRamahApurARa#} {#°mahApuruzasaMgraha#} {#trizAzwiSalAkApuruzacarita#}
+234532	3	{#trisuganDa#} {#°ganDi#} {#°ganDika#}
+234886	4	{#trEDAtavI/#} {#°vI/ya#} {#°vIyA#} {#°vyA^#}
+235094	2	{#trElokyADipatitva#} {#°patya#}
+235164	2	{#trEvizwapa#} {#°peya#}
+235361	2	*{#tryaYjala#} *{#°li#}
+235510	2	{#tryahasparSa#} {#°spfSa#}
+235648	2	*{#tvakkzIrA#} {#°rI#}
+236760	2	{#da/kzapitar#} {#°pitAr#}
+236802	2	{#dakzasAvarRa#} {#°varRi#}
+236828	3	*{#dakzADvaraDvaMsaka#} *{#°DvaMsakft#} {#°DvaMsana#}
+236970	2	{#dakziRarAQA#} {#°rArA#}
+237981	2	{#daRqADipa#} {#°ti#}
+238235	2	{#dattAtreyayoga#} {#°SAstra#}
+238736	2	*{#daDyAhva#} *{#°dvaya#}
+239355	2	{#dantolUKalika#} {#°Kalin#}
+239548	3	{#damayantIkaTA#} {#°ntIkAvya#} {#°ntIpariRaya#}
+240190	3	{#darBapiYjula/#} {#°pYjUla#} {#°puYjIla/#}
+240643	5	{#darSapOrRamAsa#} {#darSapUrRamAsa/#} {#°prAyaScittaviDi#} {#viDi#} {#°hOtra#}
+240830	2	*{#dalapuzpA#} *{#°puzpI#}
+241054	2	{#daSakumAracarita#} {#°caritra#}
+241076	3	{#daSagIti#} {#°gItikA#} {#°gItisUtra#}
+241316	2	{#daSapadma#} {#°vant#}
+241494	2	{#da/SamAsya#} {#°mAsia#}
+241599	2	{#daSarUpAloka#} {#°rUpAvaloka#}
+241639	2	{#daSavarza#} {#°varzIya#}
+241658	4	{#daSaviDagaRita#} {#°viDamahAvidyA#} {#°SEvalakzaRa#} {#°viDasAmasUtra#}
+241747	2	{#daSaSlokI#} {#°vedAnta#}
+241819	2	*{#daSAkarza#} *{#°karzin#}
+241973	2	{#daSASvameDa#} {#°tIrTa#}
+242702	2	*{#dAkzAyaRIpati#} *{#°RIramaRa#}
+243569	2	{#dAmacarita#} {#°caritra#}
+244129	2	{#dAruputrikA#} *{#°putrI#}
+244299	2	{#dArvAGAwa/#} *{#°GAta#}
+244341	2	{#dArSapUrRamAsika#} {#°pOrRamAsika#}
+244588	2	{#dASapura#} {#°pUra#}
+244867	2	*{#dAsamitrAyaRa#} {#°mitri#}
+245762	2	{#dinakartavya#} {#°kArya#}
+246278	2	{#divAcara#} {#°cArin#}
+246394	2	{#divAsvapana#} {#°svapna#}
+246505	2	{#divispf/S#} {#°spfSant#}
+247500	2	{#dInamanas#} {#°mAnasa#}
+247655	2	{#dIpadAnapadDati#} {#°dAnaratna#}
+247718	2	{#dIpamAlA#} {#°mAlikA#}
+248115	3	*{#dIrGakoSA#} *{#°koSikA#} *{#°koSI#}
+248270	2	{#dIrGadarSitA#} {#°darSitva#}
+248285	3	{#dIrGadarSivaMs#} {#°dfSvan#} *{#°dfzwi#}
+248339	2	*{#dIrGapawolikA#} *{#°pawolI#}
+248392	2	*{#dIrGapad#} {#°pAd#}
+249008	2	{#duHKaBAgin#} {#°BAj#}
+249709	2	{#duravagrAha#} {#°grAhya#}
+249942	2	{#durArakza#} {#°rakzya#}
+250394	2	{#durgataraRI#} {#°tariRI#}
+250498	2	*{#durgasaMcara#} *{#°saMcAra#}
+250725	3	{#durjanamuKacapewikA#} {#°muKapadmapAdukA#} {#°muKamahAcapewikA#}
+250960	2	*{#durdyUtavedin#} {#°devin#}
+251954	2	{#durvitarka#} {#°tarkya#}
+252577	2	{#duzkarakarman#} {#°karmakArin#}
+252863	2	{#duzpArzRigraha#} {#°grAha#}
+252887	2	{#duzprakampa#} {#°kampya#}
+252935	2	{#duzprativIkzaRIya#} {#°vIkzya#}
+253019	2	{#duzprasADana#} {#°sADya#}
+253237	2	*{#duHsakTa#} *{#°sakTi#}
+253576	3	{#dUtalakzaRa#} {#dUtavAkya#} {#°prabanDa#}
+254024	2	*{#dUrvAvaRa#} *{#°vana#}
+254319	2	{#dfgdfSyaprakaraRa#} {#°daSyaviveka#}
+254566	2	{#dfQaBaktika#} {#°Baktimant#}
+254777	2	*{#dftihari#} *{#°hAra#}
+255070	2	*{#dfzwarajas#} *{#°rajaskA#}
+255082	2	{#dfzwa/vIrya#} {#°vIria#}
+255350	2	{#devakanyakA#} {#°kanyA#}
+255668	2	{#devacCandas#} {#°sa/#}
+255840	2	{#devatAnukrama#} {#°kramaRI#}
+255959	2	*{#devadattamaya#} {#°dattarUpya#}
+255979	2	{#devadamanikA#} {#°damanI#}
+256018	2	{#devadAlikA#} {#°dAlI#}
+256100	3	{#devadryaYc#} {#°dri/aYc#} {#°drI/c#}
+256382	2	{#devapratikfti#} {#°pritimA#}
+256569	2	{#devamanuzya^#} {#°zya/#}
+256696	2	{#devaya/jya#} {#°yajyA/#}
+257042	2	{#devavi/S#} {#°viSA/#}
+257339	2	{#devasenApati#} {#°senApriya#}
+257416	2	{#devahe/qana#} {#°he/Lana#}
+257474	2	*{#devAjIva#} *{#°vin#}
+257593	2	{#devAyu/#} {#°yU/#}
+257713	6	{#devAsuranamaskfta#} {#°ramahAmAtra#} {#°ramahASraya#} {#°ramaheSvara#} {#°ravaraprada#} {#°reSvara#}
+257827	2	{#devIBAgavata#} {#°purARa#}
+257859	2	{#devIrahasya#} {#°pawala#}
+258035	2	{#deSaja#} {#°jAta#}
+258153	2	{#deSAvakASika#} {#°vrata#}
+258539	3	*{#dEtyapuroDas#} {#°purohita#} {#dEtyapUjya#}
+258865	2	{#dEvapara#} {#°parAyaRa#}
+259566	2	{#dohanaka#} {#°nikA#}
+259840	2	{#dOzkanta#} {#°nti#}
+260323	2	{#dyumnAsa/h#} {#°sA/h#}
+260454	2	*{#dyUtapUrRimA#} *{#°pOrRamI#}
+260941	3	{#draviRoda/#} {#°da/s#} {#°dA/#}
+261009	5	{#dravyaguRa#} {#°guRadIpikA#} {#°guRaparyAya#} {#°guRasaMgraha#} {#°guRAkara#}
+261037	2	{#dravyaBAzA#} {#°wIkA#}
+262298	2	{#dvaMdvacara#} *{#°cArin#}
+262429	2	{#dvAcatvAriMSat#} {#°Sati#}
+262458	2	{#°dvAtriMSatikA#} {#°dvAtriMSatkA#}
+262575	2	{#dvAdaSaBAva#} {#°Pala#}
+263101	2	*{#dvAHsTita#} *{#°darSaka#}
+263171	2	*{#dvikArzApaRa#} *{#°Rika#}
+263826	2	*{#dvinizka#} *{#°nEzkika#}
+263853	2	{#dvipaYcamUla#} {#°mUlI#}
+263893	3	{#dvipa/d#} {#dvi/pad#} {#°pAd#}
+264151	2	*{#dvimArga#} {#°mArgI#}
+264407	2	{#dvivacana#} {#°vacas#}
+264560	2	*{#dviSARa#} *{#°SARya#}
+264914	2	*{#dvIpakarpUraka#} *{#°karpUraja#}
+265739	3	{#DanaMjayakoSa#} {#°jayanAmamAlA#} {#°jayaniGaRwu#}
+265882	2	*{#DanapiSAcikA#} {#°piSAcI#}
+265969	2	{#DanasaMcaya#} {#°na#}
+266233	2	{#DanurgrAha#} {#°rgrAhin#}
+266679	4	*{#DanvayavAsa#} *{#°ka#} {#°yAsa#} {#°yAsaka#}
+267451	2	*{#DarmakaTaka#} *{#°kaTika#}
+267624	2	{#DarmacaraRa#} {#°caryA#}
+267643	2	*{#Darmacintana#} {#°cintA#}
+267854	2	{#DarmaDvajika#} {#°Dvajin#}
+268142	2	{#DarmamImAMsAsaMgraha#} {#°mImAMsAsArasaMgraha#}
+268299	2	{#DarmavARijaka#} {#°vARijika#}
+268672	2	{#DarmADikAraRika#} *{#°kAraRin#}
+268816	7	{#DarmitAvacCeda#} {#°cCedakatApratyAsattivicAra#} {#°cCedakatAvAda#} {#°cCedakatAvAdArTa#} {#°cCedakapratyAsatti#} {#°nirUpaRa#} {#°cCedakavAda#}
+269835	3	{#DAtupArAyaRa#} {#°vftti#} {#°RIya#}
+269839	2	*{#DAtupuzpikA#} {#°puzpI#}
+269847	2	{#DAtupradIpa#} {#°dIpikA#}
+269995	2	*{#DAtfpuzpikA#} *{#°puzpI#}
+270503	2	{#DAmasa/c#} {#°sA/c#}
+271099	3	{#DArmikatA#} {#°katva#} *{#°kya#}
+271146	2	{#DArzwadyumna#} {#°dyumni#}
+272220	2	{#DUtapApatIrTa#} {#°pApeSvaratIrTa#}
+272620	2	{#DUmAvatImanu#} {#°vatImantra#}
+273435	2	{#DfzwamAna#} {#°mAnin#}
+274471	2	{#DruvatAraka#} {#°tArA#}
+275138	3	*{#DvANkzatuRqaPala#} *{#°tuRqA#} *{#tuRqI#}
+275156	2	*{#DvANkzanAsA#} *{#°nASikA#}
+275578	3	*{#nakrarAj#} *{#°rAja#} *{#nakrahAraka#}
+275608	3	{#nakzatrakUrma#} {#°cAra#} {#°viBAga#}
+275904	2	*{#naKanizpAvikA#} *{#°nizpAvA#}
+276715	2	{#natanAqikA#} {#°nAqI#}
+276951	2	*{#nadItarasTala#} *{#°tarasTAna#}
+277885	2	*{#naBaHkrAnta#} *{#°krAntin#}
+278047	2	<hom>1</hom> {#naBaHsTala#} {#°sTalI#}
+278059	2	{#naBaHspfS#} {#°spfSa#}
+278940	2	{#narakAsuravijaya#} {#°suravyAyoga#}
+279100	2	*{#naraBU#} *{#°mi#}
+279108	2	*{#naramAnikA#} *{#°mAninI#}
+280098	2	{#navakaRqikA#} {#°sUtra#}
+280192	2	{#navajvararipurasa#} {#°jvareBasiMha#}
+280208	6	{#navatattva#} {#°rakaraRa#} {#°bAlaboDa#} {#°bAlAvaboDa#} {#°boDa#} {#°sUtra#}
+280426	2	{#navamallikA#} {#°mallI#}
+280493	2	{#navaratnamAlA#} {#°ratneSvara#}
+280545	2	{#na/vavAstva#} {#°vAstua#}
+280825	6	{#navyaDarmitAvacCedakavAdArTa#} {#navyanirmARa#} {#navyamatavAda#} {#°vAdArTa#} {#°matavicAra#} {#navyamuktivAdawippaRI#}
+280945	2	*{#naSyatprasUti#} *{#°kA#}
+281538	2	*{#nAgakanyakA#} {#°kanyA#}
+281676	2	*{#nAgadASaka#} {#°dAsaka#}
+281858	2	{#nAgaboDa#} {#°boDin#}
+281921	3	{#nAgayajYopavIta#} {#°vItavant#} {#°vItin#}
+281925	2	*{#nAgayazwi#} *{#°kA#}
+282144	2	{#nAgavalli#} {#°vallI#}
+282284	2	*{#nAgADipa#} *{#°pati#}
+282440	3	{#nAgoji#} {#°jI#} {#°Bawwa#}
+282609	2	*{#nAwyaDarmikA#} *{#°DarmI#}
+283173	2	{#nATavi/d#} {#°vindu#}
+283479	4	{#nAnArTakoSa#} {#°rTaDvanimaYjarI#} {#°rTaratnatilaka#} {#°rTaratnamAlA#}
+283941	3	{#nAmagraha#} {#°grahaRa#} {#°grAha/#}
+283949	3	{#nAmacandrikA#} {#nAmacaraRaBazya#} {#°caraRavArttika#}
+283957	2	{#nAmajAtigraha#} {#°grahaRa#}
+283987	2	{#nAmaDa/#} {#°DA/#}
+284651	2	{#nAriNga#} {#°NgI#}
+284659	2	{#nArizwa#} {#°homa#}
+285221	2	{#nAsika#} {#°tryambaka#}
+286715	2	{#nityakarmaprakASikA#} {#°karmAnuzWAnakrama#}
+286907	2	{#nityArADana#} {#°krama#}
+286925	2	{#nityodaka#} {#°kin#}
+287344	2	{#niDipA/#} {#°pAla#}
+289470	3	{#nirAtmaka#} {#°tman#} {#°tmavant#}
+290187	2	{#nirUQapaSupadDati#} {#°paSuprayoga#}
+290636	2	<hom>2</hom> {#nirjara#} {#°ra#}
+292040	2	*{#nirvaRa#} {#°Re#}
+293787	3	*{#niSipuzpA#} *{#°puzpikA#} *{#°puzpI#}
+294216	2	{#niHSrI#} {#°kfta#}
+294605	2	{#nizkanizWa#} {#°zWika#}
+295645	2	*{#nizpravaRi#} *{#°pravaRa#}
+295704	2	{#niHzaNga#} {#°tA#}
+295720	2	{#nizza/h#} {#°zA/h#}
+295823	2	{#nisUdaka#} {#°sUdana#}
+295974	2	{#nistoda#} {#°na#}
+296008	2	{#nistriMSapattraka#} *{#°pattrikA#}
+297099	2	{#nItiratna#} {#°ratnAkara#}
+297213	2	{#nIraNgikA#} {#°NgI#}
+297515	4	{#nIlakaRWacampU#} {#°kaRWatantra#} {#°kaRWatAjaka#} {#°kaRWaprakASikA#}
+297523	3	{#nIlakaRWaBAzya#} {#°kaRWamAlA#} {#°kaRWavijaya#}
+297811	2	{#nIlapora#} {#°pOra#}
+297842	2	{#nIlamakzA#} {#°makzikA#}
+298039	3	*{#nIlaskandA#} *{#°skanDA#} *{#°spandA#}
+298364	2	{#nIza/h#} {#°zA/h#}
+299286	3	{#nfsiMhakaraRa#} {#°siMhakavaca#} {#°siMhagaRita#}
+299298	3	{#nfsiMhatApanI#} {#°ya#} {#°tApinIyopanizad#}
+299386	2	{#nfsiMhottaratApanI#} {#°ya#}
+299784	2	{#nepAlajA#} {#°jAtA#}
+300800	2	{#nEzaDIya#} {#°carita#}
+301392	2	*{#nyAgroDamUla#} *{#°mUlika#}
+301420	11	{#nyAyakaRikA#} {#nyAyakandalI#} {#nyAyakaraRqa#} {#nyAyakalAniDi#} {#nyAyakalApa#} {#nyAyakalikA#} {#nyAyakalpalatikA#} {#nyAyakutUhala#} {#nyAyakuli#} {#nyAyakusumAYjali#} {#°kArikA#}
+301428	9	{#nyAyakOmudI#} {#nyAyakOstuBa#} {#nyAyakroqa#} {#nyAyacandrikA#} {#nyAyacintAmaRi#} {#nyAyacUqARi#} {#nyAyatantra#} {#°boDinI#} {#nyAyataraMgiRI#}
+301436	6	{#nyAyadarpaRa#} {#nyAyadIpAvalI#} {#°tAtparyawIkA#} {#nyAyadIpikA#} {#nyAyadvArakAraRatAvAdA#} *{#nyAyadvAratArakaSAstra#}
+301444	4	{#nyAyanibanDa#} {#nyAyanirRaya#} {#nyAyanirmARa#} {#°nirvARa#}
+301468	9	{#nyAyapariSizwa#} {#°pariSudDi#} {#°prakASa#} {#nyAyapariBAzA#} {#nyAyaprakaraRa#} {#nyAyaprakASa#} {#nyAyaprakASikA#} {#nyAyapraveSa#} *{#tArakaSAstra#}
+301476	28	{#nyAyabindu#} {#nyAyaboDinI#} {#nyAyaBAsya#} {#nyAyaBAskara#} {#nyABUzaRa#} {#nyAyamakaranda#} {#°vivfti#} {#°vivecanI#} {#nyAyamaYjarI#} {#°grAnTiBaNga#} {#nyAyamAlA#} {#°vistara#} {#nyAmAlikA#} {#nyAyamuktAvali#} {#°muktAvalIprakASa#} {#nyAyarakzAmaRi#} {#nyAyaratma#} {#°mAlA#} {#nyAyaratnAkara#} {#°ratnAvali#} {#°lI#} {#nyAyalIlAvatI#} {#°kaRWABaraRa#} {#°prakASa#} {#°prakASadIDiti#} {#°prakASadIDitiviveka#} {#°BAvaprakASa#} {#°viBUti#}
+301532	5	{#nyAyasaMkzepa#} {#nyAtyasaMgraha#} {#nyAyasadarTasaMgraha#} {#nyAyasAra#} {#°padapaYjikA#}
+301540	3	{#nyAyasidDAYjana#} {#°sidDAntA#} {#°sidDAntadIpapraBA#}
+301548	7	{#nyAyasidDAntamaYjarI#} {#°dIpikA#} {#°prakASA#} {#°sAra#} {#°sidDAntamaRidIpikA#} {#°sidDAntamAlA#} {#°sidDAntamuktAvalI#}
+301576	5	{#nyAyAmfta#} {#°taraMgiRI#} {#°dIpikA#} {#nyAyArTamaYjUzikA#} {#nyAyArTalaGuboDinI#}
+301580	2	{#nyAyAlaMkAra#} {#°Bawwa#}
+301727	2	{#nyUnapadatA#} {#°padatva#}
+302076	2	{#pakzagrAha#} {#°grAhin#}
+302389	2	{#pakzirAj#} {#°rAja#}
+302513	2	*{#paNkakrIqa#} *{#°krIqanaka#}
+302748	3	{#paNktidUza#} {#°ka#} {#°dUzaRa#}
+303098	3	*{#paYcakarma#} {#°karman#} *{#karmI#}
+303814	2	{#paYcabARavijaya#} {#°bARavilAsa#}
+304016	2	*{#paYcamuzwi#} *{#°muzwI#}
+304219	3	{#paYcavarza#} {#°ka#} {#°varzIya#}
+304278	2	{#paYcaviMSatitama#} {#°viMSatima#}
+304298	2	{#paYcaviDisUtra#} {#°viDeya#}
+304302	2	{#paYcavft#} {#°vftam#}
+304442	3	{#paYcasaMskAra#} {#°prayoga#} {#°viDi#}
+304532	3	{#paYcasvarA#} {#°svarodaya#} {#paYcasvastyayana#}
+304724	2	{#paYcApsaras#} {#°rasa#}
+304886	2	{#paYcASata#} {#°Sati#}
+304958	3	{#paYcAstikAya#} {#°bAlAvaboDa#} {#°saMgrahasUtra#}
+305008	5	{#paYcIkaraRatAtparyacandrikA#} {#°karaRaprakriyA#} {#°karaRavArttika#} {#karaRavArttikABaraRa#} {#°karaRavivaraRa#}
+305652	4	{#pawwABirAmawipparRA#} {#°rAmaprakASikA#} {#°rAmaSastripattra#} {#°rAmIya#}
+305970	2	{#°paRAsTi#} *{#°ka#}
+306063	3	{#paRqitamAnika#} {#°mAnin#} {#paRqitaMmanya#}
+306173	2	{#paRyavITikA#} *{#°vITI#}
+307144	2	{#pattrapuwa#} {#°puwikA#}
+307170	3	{#pattraBaNga#} *{#°BaNgi#} {#°BaNgI#}
+307488	2	{#patnISA/la#} {#°SAlA#}
+307650	2	{#paTira/kzas#} {#°ra/kzi#}
+307666	2	{#paTizad#} {#°za/di#}
+308264	2	{#padapaYcaka#} {#°paYcikA#}
+308401	2	*{#padasaMGAwa#} {#°saMGAta#}
+308604	31	{#padArTakOmudI#} {#padArTaKaRqana#} {#°wippaRa#} {#°wIkA#} {#°vyAKyA#} {#°SiromaRi#} {#padArTacandrikA#} {#°vilAsa#} {#padArTatatva#} {#°wIkA#} {#°nirUpaRa#} {#°nirRaya#} {#°vivecana#} {#°vivecanaprakASa#} {#padArTadIpikA#} {#padArTadIpinI#} {#padArTaDarmasaMgraha#} {#padArTanirUpaRa#} {#padArTapArijAta#} {#padArTaprakASa#} {#padArTaboDa#} {#padArTamaRimAlA#} {#°prakASa#} {#padArTamAlA#} {#°dIpikA#} {#°prakASa#} {#padArTaratnamaYjUzA#} {#°ratnamAlA#} {#padArTaviveka#} {#padArTasaMgraha#} {#padArTAdarSa#}
+309284	2	{#padmasOganDika#} {#°vant#}
+309465	2	{#padminIzaRqa#} {#°pura#}
+310668	2	{#paratattvanirRaya#} {#°tatvaprakARikA#}
+310686	2	{#paratarkaka#} {#°tarkuka#}
+311018	2	{#paramajyA/#} {#°jiA/#}
+311149	12	{#paramahaMsakavaca#} {#°haMsatattvarAga#} {#°haMsaDarmanirUpaRa#} {#°haMsapawala#} {#°haMsapadDati#} {#°haMsaparivrAjakopanizad#} {#°haMsapraboDa#} {#°haMsapriyA#} {#°haMsasaMhitA#} {#°haMsasahasranAman#} {#°haMsopanizad#} {#°nizadDfdaya#}
+311259	11	{#paramArTaDarmavijaya#} {#°rTanirvftisatyanirdeSa#} {#°rTaprakASa#} {#°rTapradIpikA#} {#°rTaprapA#} {#°rTaboDa#} {#°rTaviveka#} {#°rTasaMgraha#} {#°rTasatyaSAstra#} {#rTasAra#} {#°rTastuti#}
+311321	2	{#parameSvaratA#} {#°ratva#}
+311403	2	{#paraMparAprApta#} {#°parAyAta#}
+311550	2	*{#paraSava#} *{#°Savya#}
+311600	2	{#paraSurAmaprakASa#} {#°rAmapratApa#}
+311715	2	{#parastara/m#} {#°tarA/m#}
+312307	3	{#parAmarSavAda#} {#°hetuvicAra#} {#°vAdArTa#}
+312563	3	{#parASaratantra#} {#°SaraDarma#} {#°SarapurARa#}
+312571	6	{#parASaramADavIya#} {#°SaravaMSavarRana#} {#°Saravijaya#} {#°SarasaMpAta#} {#°Sarasmfti#} {#°saMgraha#}
+312764	2	{#parikarti#} {#°kA#}
+313317	2	{#parica/kzya#} {#°ca/kzia#}
+314793	12	{#pariBAzAcandrikA#} {#°BAzAprakASikA#} {#°BAzApradIpArci#} {#°BAzABAzyasUtra#} {#°BAzABAskara#} {#°BAzAmaYjarI#} {#°BAzArTadIpikA#} {#°BAzArTasaMgraha#} {#°vyAKyAcandrikA#} {#°BAzAvftti#} {#°BAzAvyAKyA#} {#°BAzAsaMgraha#}
+314801	4	{#pariBAzenduSeKara#} {#°kASikA#} {#°saMgraha#} {#°BAzopaskAra#}
+315001	2	{#parimA/d#} {#°mAda#}
+315244	2	*{#parirAwaka#} *{#°rAwin#}
+315248	2	{#parirA/p#} {#°ra/p#}
+315510	2	*{#parivApika#} *{#°vApin#}
+315748	2	{#parivedanIyA#} *{#°vedinI#}
+315862	2	*{#parivraQizWa#} {#°vraQIyaMs#}
+315922	5	{#pariSizwaprakASa#} {#°prakASasya#} {#sAramaYjarI#} {#°SizwapraboDa#} {#°SizwasidDantaratnAkara#}
+316332	2	{#parisamApanIya#} {#°samApayitavya#}
+316541	2	{#parisyanda#} {#°syandin#}
+316669	2	{#parihARi#} {#°hAni#}
+317315	2	*{#parezwu#} *{#°kA#}
+317565	2	{#parja/nyakrandya#} {#°krandia#}
+317650	2	*{#parRakuwikA#} {#°kuwI#}
+318069	3	*{#paryaNkapawwikA#} {#°pAdikA#} {#°pAdikA#}
+318694	2	{#parvaRikA#} {#°RIkA#}
+318777	2	{#parvatarAj#} {#°raja#}
+318890	2	*{#parvapuzpikA#} {#°puzpI#}
+319239	2	*{#palAda#} *{#°na#}
+319433	2	*{#palitaMBavizRu#} *{#°BAvuka#}
+319978	2	{#pavitrA#} {#°ti#}
+321261	2	*{#pAkakfzRa#} {#°Pala#}
+321783	2	{#pAYcarAtrarakzA#} {#°rAtrarahasya#}
+321803	2	*{#pAYcalohitika#} *{#°lOhitika#}
+322299	2	{#pARikUrcan#} {#°kUrcas#}
+322311	2	*{#pARigfhItA#} *{#°gfhItI#}
+322337	3	{#pARigrahItar#} {#°graha#} {#°grahaka#}
+322357	2	{#pARicApala#} {#°cApalya#}
+322402	4	{#pARinIyamatadarpaRa#} {#°nIyaliNgAnuSAsana#} {#°nIyaSikzA#} {#°nIyasUtra#}
+322516	2	{#pARisaMgraha#} {#°Ra#}
+322878	2	{#pARquleKa#} {#°leKya#}
+322882	3	{#pARqulomaSaparRI#} *{#°lomaSA#} *{#°lomA#}
+322906	2	{#pARqusopAka#} {#°sOpAka#}
+323014	6	{#pAtaYjalatantra#} {#°YjalaBAzya#} {#°vArttika#} {#°Yjalarahasya#} {#°YjalasUtraBAzyavyAKyA#} {#°sUtravfttiBAzyacCAyAvyAKyA#}
+323080	2	{#pAtARqinIya#} {#°neya#}
+323110	2	{#pAtAlagaruqAhva#} {#°garuqI#}
+323542	2	*{#pAdacatura#} *{#°catvara#}
+323551	2	{#pAdacApala#} {#°cApalya#}
+323614	2	{#pAdadArikA#} {#°dArI#}
+324052	2	{#pAdAnuDyAta#} {#°DyAna#}
+324078	2	{#pAdABivandana#} {#°vAdana#}
+324238	2	{#pAdopaDAna#} {#°DAnI#}
+324311	2	*{#pAnagozWikA#} {#°gozWI#}
+324335	3	{#pAnaBU#} {#°BUmi#} {#°BUmI#}
+324455	2	*{#pAnIyaSAlA#} *{#°SAlikA#}
+324549	4	{#pApakarmin#} {#°kAraka#} {#°kAri/n#} {#°kf/t#}
+324784	2	{#pApavasIyasa#} {#°vasyasa#}
+324792	2	{#pApavinASatIrTa#} {#°vinASanatIrTa#}
+325181	2	{#pArajAyika#} {#°jAyin#}
+325489	2	*{#pAraSvaDa#} *{#°SvaDika#}
+325753	2	*{#pArikANkzaka#} *{#°kANkzin#}
+325783	2	{#pArikzepaka#} {#°pika#}
+325901	3	{#pAripAtra#} *{#°pAtraka#} {#°pAtrika#}
+325948	2	{#pAriplavatA#} {#°plavatva#}
+326036	2	*{#pArirakzaka#} *{#°rakzika#}
+326245	2	{#pAreviSokam#} {#°ke#}
+326910	3	{#pArzRivah#} {#°vah#} {#°vAha#}
+327403	2	{#pAvA#} {#°purI#}
+327664	3	{#pAzaRqamuKacapewikA#} {#°muKamardana#} {#pAzaRqAsyacapewikA#}
+327692	2	*{#pAzARadAraka#} *{#°dAraRa#}
+327696	4	{#pAzARaBeda#} {#°ka#} *{#°Bedana#} *{#°Bedin#}
+327716	2	{#pAzARqa#} {#°Rqin#}
+327941	2	{#piNgalacCandas#} {#°cCandogranTa#}
+327965	6	{#piNgalAtantra#} {#piNgalAmata#} {#piNgalAmfta#} {#piNgalArTa#} {#piNgalArya#} {#°pradIpa#}
+328122	2	{#picumanda#} {#°marda#}
+328571	3	{#piRqaKarjUra#} *{#°rikA#} {#°rI#}
+328975	2	*{#piRqoli#} *{#°kA#}
+329143	3	{#pitfGAtaka#} {#°GAtin#} {#°Gna#}
+329352	2	{#pitfyajYiya#} {#°yajIya#}
+329356	2	{#pitfyA/Ra#} {#°yAna#}
+329496	2	{#pitfsvasar#} {#°svasrIya#}
+329886	2	{#pipIlikamaDya#} {#°ma#}
+330103	4	{#pilipicCa#} {#°picCi#} {#°picCika#} {#°piYja#}
+330247	2	{#piSAcatA#} {#°catva#}
+330267	2	{#piSAcamocana#} {#°tIrTa#}
+331615	2	*{#pIlusAra#} *{#°giri#}
+332113	4	{#puYjikasTalA/#} {#°sTalI#} {#puYjikAstanA#} *{#puYjikAsTalA#}
+332618	2	{#puRyaBAj#} {#°BAjin#}
+332622	2	*{#puRyaBU#} *{#°BUmi#}
+333202	2	*{#putrezwi#} *{#°kA#}
+333530	2	{#punaruktatA#} {#°ktatva#}
+333849	2	{#punaScaraRadIpikA#} {#°ScaraRapadDati#}
+334250	2	{#puraMDri#} {#°DrI#}
+334288	2	{#purarakza#} {#°rakzin#}
+334857	2	{#purIzavA/haRa#} {#°vA/hana#}
+335081	2	{#purunizWa/#} {#°zWA/#}
+335085	2	{#puruniHzi/D#} {#°zi/Dvan#}
+335121	2	*{#puruprE/za#} {#°prEza/#}
+335167	2	{#purumAya/#} {#°mAyin#}
+335171	2	{#purumAyya#} {#°mA/yia#}
+335179	2	{#purumIQa/#} {#°mI|a/#}
+335518	2	{#puruzare/zaRa#} {#°rezin#}
+335572	2	{#puruzaSiras#} {#°SIrza/#}
+335716	5	{#puruzArTapraboDa#} {#°TaratnAkara#} {#°rTasidByupAya#} {#°rTasuDAniDi#} {#°rTAnuSAsana#}
+335774	3	{#puruzottamapurARa#} {#°ttamamAhAtmya#} {#°ttamavAdArTa#}
+335806	2	{#puruspArha/#} {#°spfh#}
+335966	2	{#puroqA/S#} {#°lAS#}
+336106	2	{#puroyu/D#} {#°yoDa/#}
+336611	2	*{#puzkaraparRikA#} *{#°parRI#}
+337008	3	{#puzpakaraRqa#} *{#°ka#} {#°karaRqakodyAna#}
+337165	2	{#puzpaDanus#} {#°Danvan#}
+337224	2	{#puzpapura#} {#°purI#}
+337324	2	{#puzpamAs#} {#°mAsa#}
+337356	2	*{#puzparasa#} *{#°rasAhvaya#}
+337360	2	{#puzparAga#} *{#°rAja#}
+337442	2	{#puzpavAwikA#} {#°vAwI#}
+337472	2	{#puzpaSakawikA#} *{#°SakawI#}
+337488	3	*{#puzpaSara#} {#°SarAsana#} {#puzpaSilImuKa#}
+337577	2	*{#puzpAjIva#} *{#°jIvin#}
+337677	2	{#puzpAstaraka#} {#°staraRa#}
+338257	2	*{#pUtikaraja#} {#°kraYja#}
+338367	2	*{#pUtiPalA#} *{#°PalI#}
+338758	2	*{#pUrRakAkud#} *{#°kAkuda#}
+338973	2	{#pUrRAkza#} {#°kzya#}
+339333	2	{#pUrvaMgata#} *{#°pUrvaMgama#}
+339357	2	*{#pUrvacittikA#} {#°cittI#}
+339481	2	*{#pUrvadikpati#} *{#°digISa#}
+339536	2	{#pUrvadehika#} {#°dEhika#}
+339593	5	{#pUrvapakzalakzaRa#} {#°pakzavyAptikroqa#} {#°pakzavyAptilakzaRa#} {#°pakzavyutpattilakzaRa#} {#°pakzAvali#}
+340695	2	{#pftanAza/h#} {#°zA/h#}
+340701	3	{#pftanAzAhya#} {#pftanAza/hia#} {#°sA/hya#}
+341055	2	{#pfTivizWa/#} {#°zWA/#}
+341197	3	{#pfTivISa#} *{#°vISakra#} {#°vISvara#}
+341575	2	{#pfTuzwu#} {#°zwukA#}
+341795	2	{#pfSniparRikA#} {#°parRI/#}
+341886	2	{#pfzadAjya/#} {#°jia/#}
+342165	2	*{#pfzWamAMsAda#} *{#°mAMsAdana#}
+342203	2	{#pfzWava/h#} {#°vA/h#}
+342983	2	{#pEtfyajYika#} {#°yajIya#}
+343236	3	{#powala#} {#°ka#} {#°likA#}
+343248	2	*{#powwala#} *{#°lI#}
+343308	2	*{#potaDAra#} {#°DArin#}
+343641	2	{#pOYjizwa/#} {#°zWa/#}
+344098	2	{#pOrumIQa#} {#°mI|a#}
+344309	2	{#pOrvadehika#} {#°dehika#}
+345142	2	{#prakASAtmapati#} {#°tmasvAmin#}
+345150	2	{#prakASitavirudDatA#} {#°rudDatva#}
+345154	2	{#prakASitA#} {#°Sitva#}
+345469	2	*{#prakopaRIya#} *{#°nIya#}
+346562	3	{#pracCada#} *{#°pawa#} {#°vAsas#}
+346590	2	*{#pracCardi#} *{#°kA#}
+347089	2	{#prajijanayizita/vya#} {#°tavya^#}
+348408	2	{#pratikramaRaviDi#} {#°kramaRasUtra#}
+348823	2	*{#pratijihvA#} *{#°jihvikA#}
+348827	2	{#pratijIvana#} {#°jIvita#}
+348898	2	{#pratijYAvAda#} {#°vAdArTa#}
+349097	2	{#pratidvAram#} {#°dvAri#}
+349163	2	{#pratiDvani#} {#°DvAna#}
+349376	2	{#pratipakzatA#} {#°pakzatva#}
+349625	2	{#pratipAlanIya#} {#°pAlayitavya#}
+349879	2	*{#pratiPala#} {#°Palana#}
+350075	2	{#pratiBayakara#} {#°BayaMkara#}
+350584	2	{#pratirAja#} {#°rAjan#}
+350592	2	{#pratirAtram#} {#°rAtri#}
+350691	2	{#pratileKana#} {#°leKA#}
+351043	2	{#prativIkzaRIya#} {#°vIkzya#}
+351928	2	{#pratispaSa/#} {#°spA/Sana#}
+351940	2	{#pratisrotam#} {#°strotas#}
+352394	2	{#pratIpagati#} {#°gamana#}
+352406	2	*{#pratIpadarSanI#} *{#°darSanI#}
+352516	2	{#pratIhAratA#} {#°hAratva#}
+352640	2	{#pratyaktattvadIpikA#} {#°tattvadiveka#}
+352714	2	{#pratyakzaKaRqacintAmaRi#} {#°KaRqavyAKyA#}
+352726	2	{#pratyakzatamAt#} {#°tamA/m#}
+352857	3	{#pratyakzAnumAna#} {#°SabdaKaRqana#} {#°KaRqa#}
+352937	2	{#pratyagdakziRatas#} {#°dakziRA#}
+353056	4	{#pratyaNgirAkalpa#} {#°rAtattva#} {#°rApaYcANga#} {#°rAsUkta#}
+353247	2	{#pratyaBimarSa#} {#°marSana#}
+353470	2	{#pratyavamarza#} {#°marzavant#}
+353887	2	{#pratyASrAva/#} {#°SrA/vaRa#}
+353920	2	*{#pratyAsara#} *{#°sAra#}
+354016	2	{#pratyuttamBa#} {#°na#}
+354082	3	{#pratyudgati#} {#°gama#} {#°gamana#}
+354098	2	{#pratyudgraha#} {#°dgrahaRa#}
+354260	2	{#pratyekabudDakaTA#} {#°budDacatuzwaya#}
+354406	2	{#praTamaja/#} {#°jA/#}
+354492	2	{#praTamavAsya#} {#°vAsi/a#}
+354924	2	{#pradIpaka#} {#°pikA#}
+355404	2	*{#pranAla#} {#°lI#}
+355492	2	{#prapaYcamiTyAtvAnumAna#} {#°KaRqana#}
+355502	5	{#prapaYcasAra#} {#°vivaraRa#} {#°viveka#} {#°vyAKyA#} {#°saMgraha#}
+355652	2	{#prapARqu#} {#°ra#}
+355711	2	{#prapApAlikA#} {#°pAlI#}
+358017	2	{#prayoktftA#} {#°ktftva#}
+358065	15	{#prayogapArijAta#} {#prayogamayUKa#} {#prayogamuktAvalI#} {#prayogamuKa#} {#prayogaratnamAlA#} {#°ratnamAlikA#} {#prayogaratnAkara#} {#prayogaratnAvali#} {#prayogaviveka#} {#prayogavftti#} {#prayogavEjayantI#} {#prayogasaraRi#} {#prayogasAra#} {#°sArasamuccaya#} {#prayogasetu#}
+358600	2	{#pravacanasAragATA#} {#°sArodDAra#}
+358969	3	{#°pravarDaka#} {#°rDikA#} {#°pravarDana#}
+359119	2	{#pravAteja/#} {#°jA#}
+359336	2	{#pravicAra#} {#°cAraRA#}
+360307	2	{#praSnapUrvakam#} {#°pUrvam#}
+360319	3	{#praSnaratna#} {#°ratnasAgara#} {#praSnavinoda#}
+360351	5	{#praSnottaratantra#} {#°ttaramaRimAlA#} {#°ttaramAlA#} {#praSnopadeSa#} {#praSnopanizad#}
+360810	2	{#prasa/h#} {#°sA/h#}
+361302	2	<hom>2</hom> {#prasena#} {#°jit#}
+361381	2	{#prastarasveda#} {#°na#}
+361389	2	{#prastarezWa/#} {#°zWA/#}
+361887	2	{#praharaRakalikA#} {#°kalitA#}
+362427	13	{#prAkftadIpikA#} {#prAkftapAda#} {#prAkftapiNgala#} {#prAkftaprakASa#} {#prAkftamaYjarI#} {#prAkftamaRidIpikA#} {#prAkftamanoramA#} {#prAkftarahasya#} {#prAkftarUpAvatAra#} {#prAkftalakzaRa#} {#prAkftalaNkeSvara#} {#prAkftavyAkarana#} {#°sUtravftti#}
+362461	2	{#prAkkUla#} {#°tA#}
+362475	2	{#prAkkoSala#} {#°sala#}
+362803	2	{#prAgjAta#} {#°jAti#}
+363341	3	{#prAcya^#} {#prAcya/#} {#°A#}
+363724	2	{#prARatozaRI#} {#°toziRI#}
+363916	2	{#prARapradAyaka#} {#°pradAyin#}
+364597	2	{#prAtaHsavanika#} {#°savanIya#}
+365426	4	{#prAmARyavAda#} {#°kroqa#} {#°rahasya#} {#°saMgraha#}
+365674	3	{#prAyopaveSa#} {#°veSana#} *{#°veSanikA#}
+366244	2	{#prASuza/h#} {#°zA/h#}
+366311	2	{#prAsaNgavAhIvah#} {#°vAh#}
+366520	2	*{#prAhRetamAm#} *{#°tarAm#}
+367650	2	*{#pretapura#} {#°purI#}
+367876	2	{#premabanDa#} {#°banDana#}
+368490	2	*{#prohyapadi#} *{#°pAdi#}
+369479	4	{#PaRilatA#} {#PaRivallI#} {#°vallIka#} {#PaRivIruD#}
+370328	3	*{#PalepAka#} *{#°pAkA#} *{#°pAku#}
+370415	3	{#PalguRa#} {#°ka#} {#°RI#}
+370637	2	{#PAlguRa#} {#°RI#}
+371170	2	{#bakavratika#} {#°vratin#}
+371397	2	*{#badarIvaRa#} {#°vana#}
+371469	2	{#badDanizyanda#} {#°nisyanda#}
+371487	2	{#badDapfzwa#} {#°pfzWa#}
+371629	2	{#badDAYjali#} {#°puwa#}
+372066	2	{#banDamocanikA#} {#°mocinI#}
+372433	2	{#baBruvAha#} {#°vAhana#}
+373292	3	{#balavftraGna#} {#°vftranizUdana#} {#°vftrahan#}
+373458	2	{#balAbalasUtra#} {#°balAkzepaparihAra#}
+374781	2	{#bahudAman#} {#°dAmA#}
+374789	2	{#bahudAsapuruza#} {#°pUruza/#}
+374911	2	*{#bahunizka#} *{#°nEzkika#}
+376007	2	{#bahvAScarya#} {#°maya#}
+376030	9	{#bahvfcapariSizwa#} {#°cabrAhmaRa#} {#°brAhmaRapaYcikABAzya#} {#°brAhmaRaBAzya#} {#°brAhmaRopanizad#} {#°caSruti#} {#°casaMDyABAzya#} {#°cAhnika#} {#°copanizad#}
+376433	6	{#bADabudDipratibanDakatAvicAra#} {#bADabudDivAda#} {#°vAdArTa#} {#bADaviBajaka#} {#bADarahasya#} {#bADasidDAnta#}
+376685	2	{#bArhaspatyamuhUrtaviDAna#} {#°patyasUtra#}
+376764	2	{#bAlakeli#} {#°kelI#}
+376802	2	{#bAlagopAlatIrTa#} {#°pAlayatIndra#}
+376896	2	*{#bAlapuzpikA#} *{#°puzpI#}
+377096	2	{#bAlAnucaragupta#} {#°gopta#}
+377694	2	{#bAhuyoDa#} {#°yoDin#}
+377762	2	{#bAhuviGawwana#} {#°viGawwita#}
+377770	2	<hom>1</hom> {#bAhuvIrya#} {#°vIri/a#}
+378090	2	*{#binducita#} *{#°citraka#}
+378289	3	{#bimbapratibimbatA#} {#°bimbatva#} {#°bimbaBAva#}
+378512	2	{#bilvapARqara#} {#°pARqura#}
+378516	2	{#bilvapeSikA#} {#°peSI#}
+378709	2	{#bIjakARqaprarohin#} {#°kARqaruha#}
+378776	4	{#bIjapUra#} {#°ka#} {#°pUrI#} {#°pUrRa#}
+378864	2	{#bIjavivftti#} {#°vivftti#}
+378880	2	{#bIjaharA#} {#°hAriRI#}
+379210	2	{#budDaBUmi#} {#°sUtra#}
+379410	2	{#budDivilAsa#} {#°vilAsinI#}
+380442	2	{#bfhadamara#} {#°koSa#}
+380737	2	{#bfhadratnakArikA#} {#°ratnAkara#}
+380943	2	{#bfhannAradIya#} {#°purARa#}
+380951	3	{#bfhannArAyaRa#} {#°RI#} {#°Ropanizad#}
+381186	3	*{#bEqAlavrati#} {#°vratika#} {#°vratin#}
+381190	2	*{#bEqAlikarRakakanTa#} {#°karRakanTa#}
+381478	2	{#boDAyanIya#} {#°gfhyamAlA#}
+381575	5	{#boDisattvacaryAvatAra#} {#°sattvapakzanirdeSa#} {#°sattvapiwaka#} {#sattvabudDAnusmftisamADi#} {#°sattvaBUmi#}
+381660	2	{#bODAyanamAsaprayoga#} {#°masaprAyaScitti#}
+381851	2	{#brahmakEvarta#} {#°kEvartakedAraKaRqa#}
+382037	2	*{#brahmajawA#} {#°jawin#}
+382556	2	{#brahmapfzwa#} {#°pfzWa#}
+382760	2	{#brahmayajYasaMhitA#} {#°yajYAdiviDi#}
+382788	2	{#brahmayAmala#} {#°yAmila#}
+382910	2	*{#brahmaliKita#} {#°leKa#}
+383064	4	{#brahmavidyABaraRa#} {#°vidyAvijaya#} {#°vidyAvilAsa#} {#°vidyopanizad#}
+383160	3	{#brahmaSabdaSaktivAda#} {#°SabdArTavAda#} {#°SabdArTavicAra#}
+383187	2	{#brahmaSiras#} {#°SIrzan#}
+383278	2	{#brahmasAma/#} {#°sAma/n#}
+383956	2	*{#brAhmaRayazwikA#} {#°yazwI#}
+384416	2	{#BaktAmara#} {#°stotra#}
+384449	4	{#Baktikalpataru#} {#°kalpalatA#} {#BakticandrikA#} {#Bakticandrodaya#}
+384465	2	{#BaktipUrvakam#} {#°pUrvam#}
+384509	2	{#BaktirasAmftasinDu#} {#°rasAyana#}
+384690	3	*{#BakzyakAra#} {#°kAraka#} {#BakzyaMkAra#}
+384800	7	{#BaganetraGna#} {#°netranipAtana#} {#°netrahan#} {#°netrahara#} {#°netrahft#} {#°netrAntaka#} {#°netrApahArin#}
+384890	2	{#BagavadguRadarpaRa#} {#°guRasArasaMgraha#}
+384906	8	{#BagavadBaktitaraMgiRI#} {#°BaktinirRaya#} {#°BaktiratnAvalI#} {#°BaktirasAyana#} {#°BaktivilAsa#} {#°Baktiviveka#} {#°Baktistotra#} {#BagavaNgAskara#}
+384946	4	{#BagavantaBAskara#} {#BagavannAmakOmudI#} {#°prakASa#} {#BagavannAmamAhAtmyagranTasaMgraha#}
+385110	2	{#Bagnaprakrama#} {#°tA#}
+385479	2	{#Baje/raTa#} {#°sya#}
+385698	2	{#BawwaBAskara#} {#°miSra#}
+385785	2	{#BawwIya#} {#°dIpikA#}
+385789	3	{#Bawwoji#} {#°dIkzita#} {#°Bawwa#}
+386131	2	{#BadrakAlIpurARa#} {#°kAlImAhAtmya#}
+386329	2	{#BadrabAhucarita#} {#°bAhusaMhitA#}
+386381	3	{#Badramusta#} *{#°mustaka#} {#°mustA#}
+387162	2	*{#BaraRizeRa#} *{#°sena#}
+387268	2	{#Baratamalla#} {#°mallika#}
+387573	2	{#BartfdevatA#} {#°dEvatA#}
+387988	4	{#Bavadeva#} {#°Bawwa#} {#°miSra#} {#Bavaddeva#}
+388244	3	{#BavAnandIya#} {#°KaRqana#} {#°vyAKyA#}
+388457	2	{#Bavizyottara#} {#°purARa#}
+388704	3	*{#BasmaganDA#} *{#°ganDikA#} *{#°ganDinI#}
+388777	2	{#BasmarudrAkzaDAraRaviDi#} {#°rudrAkzamAhAtmya#}
+389157	16	{#BAgavatakaTAsaMgraha#} {#BAgavatacampU#} {#BAgavatatatvadIpa#} {#BAgavatatAtparya#} {#°nirRaya#} {#BAgavataBAvArTadIpikA#} {#BAgavatamahAvivaraRa#} {#BAgavatamAhAtmya#} {#BAgavatalIlArahasya#} {#BAgavatasaMdarBa#} {#BAgavatasAra#} {#°saMgraha#} {#°sArasamuccaya#} {#BAgavatastotra#} {#BAgavatAmfta#} {#BAgavatAzwaka#}
+389189	2	{#BAgavftti#} {#°kA#}
+389271	2	{#BAgIraTInATa#} {#°raTIvallaBa#}
+389483	17	{#BAwwakOstuBa#} {#BAwwacintAmaRi#} {#BAwwatantra#} {#BAwwadinakara#} {#°dinakarIya#} {#BAwwadIpikA#} {#°dIpikAnyatkAra#} {#BAwwapariBAzA#} {#BAwaBAzAprakASikA#} {#mBAwwaBAskara#} {#BAwwarahasya#} {#BAwwaSabdaparicCeda#} {#°SabdenduSeKara#} {#BAwwasaMgraha#} {#BAwwasAra#} {#°sArakArikA#} {#BAwwotpAwana#}
+389573	2	*{#BARqala#} *{#°lI#}
+389611	2	{#BARqAra#} {#°gfha#}
+390029	12	{#BAratacampU#} {#BAratatAtparyanirRaya#} {#°tAtparyasaMgraha#} {#BAratanirvacana#} {#BAratapadaprakASa#} {#BArataBAvadIpa#} {#BAratamaYjarI#} {#BAravyAKyA#} {#BArataSravaRaviDi#} {#BAratasaMgrahadIpikA#} {#BAratasAvitrI#} {#BAratasUci#}
+390665	3	{#BAvakalpa#} {#°latA#} {#BAvakOmdI#}
+390717	2	{#BAvadIpa#} {#°dIpikA#}
+390823	5	{#BAvaprakASaka#} {#°SikA#} {#BAvapratyayavAdArTa#} {#BAvapradIpa#} {#BAvapradIpikA#}
+391006	3	{#BAvAnandIwIkA#} {#°ndIpradIya#} {#°ndIvyAKyA#}
+391018	5	{#BAvArTakOstuBa#} {#°rTacaraRa#} {#°rTacintAmaRi#} {#°rTadIpikA#} {#°rTaprakASikA#}
+391370	14	{#BAzyawIkA#} {#°vAcaspatIya#} {#BAzyadIpIkA#} {#BAzyapradIpa#} {#°pradIpakArikA#} {#°pradIpavivaraRa#} {#°pradIpoddyota#} {#°pradIpodboDa#} {#BAzyaBAnupraBA#} {#BAzyaratnapraBA#} {#°catuHsUtrI#} {#BAzyavizayavAkyadIpikA#} {#BAzyavyAKyA#} {#BAzyAvatArikA#}
+392175	2	{#BinnajAti#} {#°mant#}
+392223	2	{#BinnamaryAda#} {#°maryAdin#}
+393489	2	{#Bujabala#} {#°BIma#}
+393722	2	{#Buriza/h#} {#°za/h#}
+393794	2	{#BuvanadIpaka#} {#°dIpikA#}
+393907	5	{#BuvaneSvarIkakzapuwatantra#} {#°rItantra#} {#°rIpaYcANga#} {#°rIrahasya#} {#°rIstotra#}
+395688	2	{#BUmikampa#} {#°kampana#}
+395714	2	{#BUmiKarjUrikA#} *{#°KarjUrI#}
+395742	2	{#BUmicala#} {#°calana#}
+395767	3	*{#BUmijambu#} *{#°jambukA#} *{#°jambU#}
+395868	2	{#BUmipASa/#} {#°pASakA#}
+396064	2	{#BUmIruh#} {#°ruha#}
+396501	2	{#BUriSrezWaka#} {#°SrezWika#}
+396610	2	{#BUliNgaSakuna#} {#°Sakuni#}
+396722	2	{#BUzaRasAra#} {#°darpaRa#}
+397060	3	*{#BfNgariwi#} *{#°rIwa#} {#°rIwi#}
+397158	3	{#BfNgiriwa#} {#°riwi#} *{#°rIwi#}
+397524	5	{#BedaDikkAra#} {#°vyAKyA#} {#°prakASa#} {#°satkriyA#} {#kArAnyatkArahuMkfti#}
+397790	2	{#BEkzacarya#} {#°caryA#}
+397880	2	{#BEmaseni#} *{#°senya#}
+397946	2	{#BEravadIpadAna#} {#°dIpana#}
+398568	2	{#Bojapura#} {#°purI#}
+398572	2	{#BojaprabanDa#} {#°sAra#}
+398595	3	{#BojarAjaprabanDa#} {#°rAjavijaya#} {#°rAjavftti#}
+399872	2	{#BrUkzepa#} {#°kzepaRa#}
+401569	2	{#maYjupawwana#} {#°pattana#}
+401638	2	{#maYjuSrImUlatantra#} {#°SrIvikrIqita#}
+401850	2	{#maRikarRikAmahiman#} {#°karRikAstotra#}
+401858	2	{#maRikarRISvara#} {#°krReSvara#}
+402005	2	{#maRiDanu#} {#°Dunus#}
+402080	3	{#maRiprakASa#} {#°prakASakadIpti#} {#maRipratyakza#}
+402348	4	{#maRisAra#} {#°KsaRqana#} {#°darpaRa#} {#°prAmAeyavAda#}
+402628	2	{#maRqalabrAhmaRa#} {#°brAhmaRopanizad#}
+403117	2	{#matottara#} {#°tantra#}
+403296	2	*{#matsagaRwa#} {#°gaRWa#}
+403387	2	{#matsyajIvant#} {#°jIvin#}
+403423	2	*{#matsyanASaka#} *{#°nASana#}
+403459	2	*{#matsyaraNka#} *{#°raNga#}
+403771	4	{#maTurAnATajAtimAlA#} {#°nATIya#} {#maTurAmAhArmya#} {#maTurAsetu#}
+404160	2	{#madanaratna#} {#°pradIpa#}
+404561	2	{#madi#} {#°kA#}
+404816	2	{#madyAsattaka#} {#°saktraka#}
+404859	2	{#madragAra#} {#°gAri#}
+405031	2	{#maDukarasAha#} {#°sAhi#}
+405317	3	*{#maDunArikeraka#} *{#°nAlikeraka#} *{#°kerika#}
+405545	2	{#maDumakzA#} {#°makzikA#}
+405681	2	*{#maDuyazwikA#} *{#°yazwI#}
+405741	2	*{#maDuraKarjUrikA#} *{#°RbarjUrI#}
+406103	2	{#maDuSrava#} {#°SravA#}
+406663	2	{#maDyamalokapAla#} {#°lokendu#}
+406675	2	{#maDyamava/h#} {#°vA/h#}
+406755	2	{#maDyarAtra/#} {#°rAtri#}
+407028	2	{#maDvatantracapewApradIpa#} {#°tantramuKamardana#}
+407036	11	{#maDvaBAzya#} {#°wIkA#} {#°vyAKyA#} {#maDvamataKaRqana#} {#°mataprakaraRa#} {#°matamuKaBaNga#} {#°matamuKamardana#} {#°maDvataviDvMsa#} {#°mataviDcMsana#} {#maDvamuKaBaNga#} {#maDvamuKamardana#}
+407807	2	{#manupravarha#} {#°pravalha#}
+407998	2	{#manuzyarAja/#} {#°rAjan#}
+408010	3	{#manuzyaviS#} {#viSa/#} {#°viSA#}
+408454	4	{#manoramAkucamardana#} {#°mardanI#} {#°ramADaRqana#} {#°ramAvyAKyA#}
+408768	2	{#mantratattvanetra#} {#°tattvaprakASa#}
+408819	3	{#mantradevatAprakASa#} {#°devatAprakASikA#} {#°devaprakASikA#}
+408831	2	{#mantraDara#} {#°DArin#}
+408885	6	{#mantrapraSna#} {#°kARqa#} {#°BAzya#} {#°kARqa#} {#°BAzya#} {#mantraprastAra#}
+409032	5	{#mantraratna#} {#°ratnakoSa#} {#°ratrAkara#} {#°ratnvalI#} {#mantrarahasyapraMkASikA#}
+409180	2	{#mantrANganAwaka#} {#°prayoga#}
+409208	2	{#mantrArTadIpa#} {#°dIpikA#}
+410415	3	{#manvarTacandrikA#} {#°rTamtkAvali#} {#°valI#}
+410609	2	{#mayUKamAlA#} {#°mAlikA#}
+410834	2	{#mayoBu/#} {#°BU/#}
+411527	2	{#marusTala#} {#°sTalI#}
+411843	2	{#martyaDarman#} {#°Darmin#}
+412557	6	{#malamAsakaTA#} {#°mAsatatva#} {#°mAsani/paRa#} {#°mAsanirRaya#} {#°mAsanirRayatantrasAra#} {#°mAsamAhAtmya#}
+413206	2	*{#mallikACad#} *{#°Cadana#}
+414522	2	{#mahAkOzWila#} {#°ka/zWilya#}
+414729	6	{#mahAgni#} {#°cayana#} {#°cayanakArikA#} {#°cayanavyAKyA#} {#°cayanasutra#} {#°sarvasva#}
+414848	2	{#mahAcakravAqa#} {#°vAla#}
+414975	2	*{#mahAjambu#} *{#°jambu#}
+415291	2	{#mahAtrikakud#} {#°kakuB#}
+415299	2	{#mahAtripurasundarItApanIyopanizad#} {#°sundaryutaratApanI#}
+415359	2	{#mahAdAnapadDati#} {#°dAnAnukamaRikA#}
+416109	2	{#mahAparinirvARa#} {#°sutra#}
+416767	4	{#mahABAratatAtparyanirRaya#} {#°BAratadarpaRa#} {#°BAratavyAKyAna#} {#°BAratasaMgrahadIpikA#}
+416886	2	*{#mahABerIhAraka#} {#°parivarta#}
+417200	2	{#mahAmAyASambara#} {#°tantra#}
+417370	2	*{#mahAmeda#} {#°medA#}
+417513	3	{#mahAyAnayogaSAstra#} {#°yAnasaMgraha#} {#°yAnasaMparigrahaSAstra#}
+417750	2	{#mahArAjANgaRa#} {#°rAjANgana#}
+417825	2	{#mahAruj#} {#°ruja#}
+418069	2	*{#mahAloDa#} *{#°loDna#}
+418191	17	{#mahAvAkyanyAsa#} {#°vAkyapaYcIkaraRa#} {#°vAkyamantropadeSapadDati#} {#°vAkyamutkAvalI#} {#°vAkyaratnAvali#} {#°vAkyarahasya#} {#°vAkyavicAra#} {#°vAkyavivaraRa#} {#°vAkyaviveka#} {#°vAkyavivekArTasAkzivivaraRa#} {#°vAkyavyAKyA#} {#°vAkyasidDAnta#} {#°vAkyArTa#} {#°vAkyArTadarpaRa#} {#°vAkyArTapravoDa#} {#°vAkyarTavicAra#} {#°vAkyopanizad#}
+418659	2	*{#mahASatA#} *{#°SatAvarI#}
+418813	4	{#mahASivarAtrinirRaya#} {#°rAtrivrata#} {#°rAtrivratanirRaya#} {#°rAtryudvApana#}
+419967	2	{#mahIcara#} {#°cArin#}
+420746	2	{#mahOzaDi#} {#°zI#}
+421186	5	*{#mAMsaruhA#} *{#°rohA#} *{#°rohikA#} *{#°rohiRA#} *{#°rohI#}
+421218	2	{#mAMsavikrayin#} {#°vikretara#}
+421310	2	{#mAMsepad#} {#°pAd#}
+421571	2	{#mAGamAhAtmya#} {#°saMgraha#}
+421736	3	{#mAYjizWa#} {#°ka#} {#°zWika#}
+421870	4	{#mARavakakrIqa#} {#°krIqanaka#} {#°krIqA#} {#°krIqitaka#}
+421892	2	{#mARikAmbA#} {#°kAmbu#}
+422116	3	{#mAtaNgalIlA#} {#°prakASikA#} {#°vyAKyA#}
+422120	4	{#mAtaNgIkarRAwakakaTA#} {#°NgIkrama#} {#°NgIdaRqaka#} {#°NgIrahasya#}
+422371	2	*{#mAtuHzvasar#} *{#°svasar#}
+422401	2	{#mAtfkAniGaRwa#} {#°niGaRwu#}
+422473	3	*{#mAtfGAta#} {#°GAtaka#} {#°GAtin#}
+422549	2	{#mAtfpUjana#} {#°pujA#}
+422598	2	{#mAtfyajYa#} {#°yAga#}
+422957	2	{#mAduza#} {#°tva#}
+423154	2	{#mADavasena#} {#°senArAjan#}
+423727	2	*{#mAnaranDrA#} {#°ranDnI#}
+424584	2	{#mAyApur#} {#°purI#}
+424653	4	{#mAyAvAda#} {#°KaRqanawIkA#} {#°KaRqavivaraRa#} {#°KawUzaRI#}
+424794	2	{#mAyoBava#} {#°Bvya#}
+424909	3	{#mArahAwI#} *{#hAwwA#} {#°hAWI#}
+425298	2	{#mArgapa#} {#°pati#}
+425389	2	{#mArgaSIrzamAhAtmya#} {#°SIrzAdipujA#}
+425517	2	*{#mArjArakarRikA#} *{#°karRI#}
+426575	2	{#mAsaSivarAtrivratakalpa#} {#°rAtryudvApana#}
+426587	2	{#mAsADipa#} {#°pati#}
+426712	2	*{#mAhAkula#} *{#°kulIna#}
+426724	2	*{#mAhAjanika#} *{#°janIna#}
+426744	3	{#mAhAnAmana#} *{#°nAmika#} *{#°nAmnika#}
+426857	2	{#mAhizikA#} {#°kI#}
+427544	2	{#mitrahan#} {#°hana#}
+428248	2	{#miSrakAvaRa#} {#°vana#}
+428264	2	{#miSracora#} {#°ca/ra#}
+429012	2	{#mukundAnanda#} {#°BARa#}
+429501	4	{#muktivAda#} {#°vicAra#} {#mutkisaptaSatI#} {#matkisAra#}
+429739	2	{#muKamaRqikA#} {#°maRiqanikA#}
+430157	2	*{#muKyarAj#} *{#°rAjan#}
+430782	2	{#muRqamAlA#} {#°tantra#}
+430889	2	{#muTaSilita#} {#°Silin#}
+431091	4	*{#mudgazwa#} {#°ka#} {#mudrazWa#} {#°ka#}
+431156	2	{#°mudrANka#} {#°mudrANkita#}
+431188	2	{#mudrArAkzasakaTAsaMgraha#} {#°kaTAsAra#}
+432299	26	{#muhUrtawIkA#} {#muhUrtatattva#} {#muhUrtadarSana#} {#muhUrtadIpaka#} {#°dIpikA#} {#muhUrtanirRaya#} {#muhUrtapadavI#} {#muhUrtarIkzA#} {#muhUrtaBAga#} {#muhUrtaBUzaRa#} {#muhUrtaBErava#} {#muhUrtamaRi#} {#muhUrtamADavIya#} {#muhUmArtaRqa#} {#°mArtaRqa#} {#muhUrtamAlA#} {#muhUrtaratna#} {#muhUrtaratnAkara#} {#muhUrtarAjAjIyan#} {#muhUrtalakzaRapawala#} {#muhUrtavallaBA#} {#muhUrtaSAstra#} {#muhUrtasaMgraha#} {#muhUrtasarvasva#} {#muhUrtasAra#} {#muhUrtasidDi#}
+433093	2	{#mUlakapotikA#} {#°potI#}
+433215	2	{#mUlanakzatraSAnti#} {#°prayoga#}
+433438	2	{#mUlasarvAstivAda#} {#°vAdin#}
+433483	2	{#mUlAgra#} {#°grO#}
+433659	3	{#mUzakakarRikA#} {#°karRI#} {#mUzakamArI#}
+433890	5	*{#mfgatfz#} {#tfzA#} {#°tfzRA#} {#°tfzRi#} {#°tfzRikA#}
+433902	2	*{#mfgadaMSa#} {#°daMSaka#}
+433942	2	*{#mfgaDUrta#} {#°DUrtaka#}
+434073	2	{#mfgayAkrIqana#} {#°krIqA#}
+434193	2	*{#mfgavaDAjIva#} {#°jIvin#}
+434217	2	{#mfgavITikA#} {#°vITI#}
+434589	2	{#mfgeSa#} {#°varavarman#}
+435012	2	{#mftahAra#} {#°harin#}
+435279	2	{#mftyumahizIdAna#} {#°viDri#}
+435299	4	{#mftyulaNGanopanizad#} {#mftyulANgala#} {#°lANgalopanizad#} {#mftyulANgUla#}
+435597	2	*{#mfduparvaka#} {#°parvan#}
+435863	2	{#mfzArTa#} *{#°kA#}
+435871	2	{#mfzAvacana#} {#°vAc#}
+435974	2	{#mekalakanyakA#} *{#°kanyA#}
+436120	2	*{#meGajIvaka#} *{#°jIvana#}
+436152	2	{#meGadunduBinirGoza#} {#°dDandDaBirAvin#}
+436204	2	*{#meGanAdAnulAsaka#} *{#°lAsin#}
+436335	2	{#meGaraNgikA#} {#°raNgI#}
+436477	2	{#meGasvara#} {#°rAja#}
+437755	2	{#mEtrAyaRIbrAhmaRaBAzyadIpikA#} {#°brAhmaRopanisad#}
+437796	2	{#mEtrAvaruRaprayoga#} {#°varuRasomaprayoga#}
+438159	2	{#mokzaDarmavyAKyAna#} {#°DarmArTadIpikA#}
+438695	2	{#mohacUqottara#} {#°SAstra#}
+438745	2	{#mohanavallikA#} *{#°vallI#}
+439171	3	{#mOnavrataDara#} {#°vrataDArin#} {#ma/navratin#}
+439338	2	{#mOlimAlA#} {#°mAlikA#}
+439985	2	{#yakzADipa#} {#°pati#}
+440318	2	{#yajurvodivfzotsargatattva#} {#°vediSrAdDatatva#}
+440663	2	{#yajYapariBAzA#} {#°sutra#}
+440701	2	{#yajYapuruza#} {#°puruza#}
+441051	2	{#yajYasac#} {#°sAc#}
+441283	2	{#yajYAsa/h#} {#°sA/ha#}
+441376	3	{#yajYopavItadAna#} {#yajopavItapratizWA#} {#°saNcikA#}
+441637	2	{#yatiDarmasaMgraha#} {#°Darmasamfccaya#}
+441671	3	{#yatirAjaviMSati#} {#°rAjavijaya#} {#°rAjasaptati#}
+441683	4	{#yatiliNgasamarTana#} {#yativandananizEDa#} {#°vandnaSatadUzaRI#} {#°vandanasamarTana#}
+441876	2	{#yatrakAmAvaSAyitA#} {#°SAyitva#}
+442019	2	{#yaTAkA/mam#} {#°kAma/m#}
+442273	2	{#yaTAtaTyam#} {#°taTyEna#}
+442592	2	{#yaTAprARam#} {#°prAREna#}
+442822	2	{#yaTAyukti#} {#°tas#}
+443083	2	{#yaTAvittAnusAram#} {#°sArERa#}
+443095	2	{#yaTAviDAnam#} {#°DAnEna#}
+443180	2	{#yaTASakti#} {#°SaktyA#}
+443264	2	{#yaTAsaMKyam#} {#°saMKyEna#}
+443348	2	{#yaTAsaMBavin#} {#°BAvita#}
+443672	2	{#yaTOcityam#} {#°tyAt#}
+444023	2	{#yantraputraka#} {#°putrikA#}
+444513	3	{#yamaja#} {#°jAta#} {#°jAtaka#}
+445178	3	{#yavakrin#} {#°krI#} {#°krIta#}
+445476	2	*{#yavaSUka#} *{#°ja#}
+445827	2	{#yaSodAnandana#} {#°dAsata#}
+445886	2	*{#yaSoBagIna#} {#°Bagya#}
+446033	3	*{#yazwimaDu#} *{#maDuka#} {#°maDukA#}
+446466	2	*{#yAci#} *{#°kA#}
+446589	2	{#yAjurvedika#} {#°vadika#}
+446661	5	{#yAjYavalkyagItA#} {#°valkyayoga#} {#°valkyaSikzA#} {#°valkyasmfti#} {#°valkyopanizad#}
+446999	2	{#yATAkAmI#} {#°kAmya#}
+448496	2	*{#yugapArSvaka#} *{#°pArSvaga#}
+449723	2	{#yuzmAdfS#} {#°dfSa#}
+449914	2	*{#yUpadru#} *{#°druma#}
+450168	2	{#yogakuRqalinI#} {#°kuRqalyupanizad#}
+450234	2	{#yogatArakA#} {#°tArA#}
+450400	3	{#yogayAjYavalkya#} {#°gItA#} {#°smfti#}
+450440	4	{#yogaratnamAlA#} {#°ratnasamuccaya#} {#°ratnAkara#} {#°ratnAvalI#}
+450535	4	{#yogavfttisaMgraha#} {#yogaSata#} {#yogaSataka#} {#°SatakAKyAna#}
+450561	2	{#yogaSiKA#} {#°SiKopanizad#}
+450605	2	{#yogasuDAkara#} {#°suDAniDi#}
+450970	2	*{#yojanavallikA#} {#°vallI#}
+451243	3	*{#yonisaMvaraRa#} {#yonisaMvfti#} {#°saMvftti#}
+451957	2	{#raktadantikA#} {#°dantI#}
+452123	2	*{#raktapiRqaka#} {#°piRqAlu#}
+452135	2	{#raktapittika#} {#°pittin#}
+452324	2	{#raktamokza#} {#°mokzaRa#}
+452328	2	*{#raktayazwi#} {#°kA#}
+452500	2	*{#raktaSfNgaka#} {#°SfNgI#}
+452508	2	{#raktazWIvanatA#} {#°zWIvI#}
+453244	2	{#raGunATacarita#} {#°nATavilAsa#}
+453486	3	{#raNganATanAmaratna#} {#°nATamAhAtmya#} {#°nATastotra#}
+453494	2	*{#raNganAmaka#} {#°nAyaka#}
+453565	2	{#raNgarAmAnuja#} {#°nujAcArya#}
+453585	2	{#raNgavallikA#} {#°vallI#}
+453643	2	{#raNgAvatAraka#} {#°tArin#}
+453677	2	{#raNgopajIvin#} {#°jIvya#}
+454531	2	{#raRaDur#} {#°DurA#}
+455226	5	{#ratnakoSa#} {#°kAramatavAda#} {#°kArikAvicAra#} {#°vAda#} {#°vAdarahasya#}
+455290	2	{#ratnacUra#} {#°cUropAKyAna#}
+455334	2	{#ratnatrayaviDAnakaTA#} {#°trayodyApana#}
+455670	2	*{#ratnasamudgala#} {#°samadgaka#}
+455886	2	{#raTakawyA#} {#°kaqyA#}
+455914	3	{#raTakuwumba#} {#°kuwumbika#} {#°kuwumbin#}
+456424	2	*{#raTANganAmaka#} {#°nAman#}
+456593	2	{#raTezWa/#} {#°zWA/#}
+456775	2	{#raDracoda/#} {#°co/dana#}
+457582	2	{#rayida/#} {#°dA/#}
+457612	2	{#rayiza/c#} {#°zA/c#}
+457616	2	{#rayiza/h#} {#°zA/h#}
+457766	2	{#ravigraha#} {#°grahaRa#}
+458521	3	{#rasamaYjarI#} {#°parimala#} {#°prakASa#}
+458541	2	*{#rasamAtar#} *{#°mAtfkA#}
+458581	4	{#rasaratna#} {#°ratnadIpikA#} {#°ratnapradIpa#} {#°ratnapradIpikA#}
+458589	5	{#rasaratnasamuccaya#} {#°ratnahAra#} {#°ratnAkara#} {#°ratnAvalI#} {#rasarahasya#}
+458599	3	{#rasarAjalakzmI#} {#°rAjaSaMkara#} {#°rAjahaMsa#}
+458681	5	{#rasasamuccaya#} {#rasasarvasva#} {#rasasAgara#} {#rasasAra#} {#°saMgraha#}
+458699	3	{#rasasinDu#} {#rasasuDAkara#} {#°suDAmBoDi#}
+458867	2	{#rasArRava#} {#°suDAkara#}
+459197	7	{#rahasyatraya#} {#°culuka#} {#°cUqAmaRi#} {#°mImAMsA#} {#°sAra#} {#°sAradIpikA#} {#rahasyadIpikA#}
+459217	2	{#rahasyaBeda#} {#°Bedana#}
+459629	2	{#rAgazAqava#} {#°zAQava#}
+459724	2	{#rAGavayAdavIya#} {#°carita#}
+460249	2	{#rAjadvAr#} {#°dvAra#}
+460374	3	{#rAjaniGaRwa#} {#°niGaRwu#} {#°nirGaRwa#}
+460800	2	*{#rAjamudga#} {#°mudgaka#}
+460819	2	{#rAjayakzma/#} {#°yakzman#}
+460891	2	{#rAjarAjatA#} {#°rAjatva#}
+461131	2	*{#rAjaSayana#} *{#°SayyA#}
+461139	2	*{#rAjaSAkanikA#} *{#°SAkinI#}
+461549	3	{#rAjAvali#} {#°lI#} {#°lIpatAkA#}
+461871	2	{#rAjyasTa#} {#°sTAyin#}
+462228	2	*{#rAtriveda#} *{#°vedin#}
+462557	2	{#rADAvinoda#} {#°kAvya#}
+462829	5	{#rAmacandrakaruRAsAgaracandrikA#} {#°candrakAvya#} {#°candracampU#} {#°candracaritrasAra#} {#°candrapUjAviDi#}
+462899	2	*{#rAmataraRI#} *{#°taruRI#}
+462907	4	{#rAmatApanI#} {#°tApanIya#} {#°tApanopanizad#} {#°tApinI#}
+463039	4	{#rAmapUjAviDAnapadDati#} {#°pUjAviDi#} {#°pUjASaraRi#} {#°saraRi#}
+463051	2	{#rAmaprasAdatarkavAgISa#} {#°tarkAlaMkAra#}
+463101	2	{#rAmarahasya#} {#°rahasyopanizad#}
+463163	2	{#rAmavAjapeya#} {#°peyin#}
+463171	2	{#rAmavilAsa#} {#°kAvya#}
+463337	5	{#rAmABinanda#} {#rAmABizeka#} {#rAmAByudaya#} {#°tilaka#} {#°vyAKyAna#}
+463352	21	{#rAmAyaRakaTApraSna#} {#°kaTAsAra#} {#°RacampU#} {#°RatAtparyasaMgraha#} {#°Ratilaka#} {#°RadIpikA#} {#°RanAwaka#} {#°Ranirvacana#} {#°RapaWanaPala#} {#°RaprabanDa#} {#°RamaYjarI#} {#°RamahimAdarSa#} {#°RamAhAtmya#} {#°RaraYjanI#} {#°Raviveka#} {#°RaviroDaBaYjanI#} {#°RavyAKyA#} {#°RasaMkzepa#} {#°Rasaptabimba#} {#°RasArasaMgraha#} {#°vyAKyAna#}
+463513	2	{#rAyamukuwa#} {#°maRi#}
+463547	2	{#rAyaspozadA/#} {#°dA/van#}
+463834	2	{#rAzwraBf/ti#} {#°Bf/tya#}
+464947	2	{#rukmANgadacarita#} {#°caritra#}
+465636	4	{#rudrakalpa#} {#°taru#} {#rudrakavaca#} {#°stotra#}
+465672	2	{#rudragIta#} {#°gItA#}
+465708	2	{#rudrajApaka#} {#°jApin#}
+465795	2	{#rudrapUjana#} {#°pUjA#}
+465819	2	{#rudraBawwa#} {#°BawwAcArya#}
+465853	3	{#rudrayAmala#} {#°tantra#} {#°yAmila#}
+465901	2	{#rudraviDAna#} {#°padDati#}
+466029	2	{#rudrahfdaya#} {#°hfdayopanizad#}
+466048	2	{#rudrAkzamAlA#} {#°mAlikA#}
+466052	2	{#rudrAkzamAhAtmya#} {#°varRana#}
+468629	2	{#rocanA/vant#} {#°na/vant#}
+469100	2	*{#romaBU#} *{#°BUmi#}
+469112	2	{#romarAji#} {#°rAjI#}
+469120	2	*{#romalatA#} {#°latikA#}
+469205	2	{#romaharzaRi#} {#°harziRi#}
+469516	2	*{#rohiRizeRa#} *{#°sena#}
+470349	3	{#lakzaRaratna#} {#°mAlikA#} {#lakzaRarAjI#}
+470365	4	{#lakzaRavAda#} {#°rahasya#} {#lakzaRaSataka#} {#lakzaRasaMgraha#}
+470417	2	{#lakzatulasIvratodyApana#} {#°tulasyudyApanaviDi#}
+470425	4	{#lakzadIpabilvodyApana#} {#°dIpavratodyApana#} {#lakzanamaskAraviDi#} {#lakzapArTivaliNgavratodyApana#}
+470433	6	{#lakzapuzpapUjodyApana#} {#°puzpavrata#} {#°vratodyApanaviDi#} {#lakzapUjodyApana#} {#lakzapradakziRaviDi#} {#pradakziRavrataviDi#}
+470497	5	{#lakzarAmanAmaleKanavrata#} {#lakzavartikaTA#} {#°vartidIpavratakalpa#} {#°vartyudyApana#} {#°viDAna#}
+470707	2	{#lakzmIkulatantra#} {#°kulArRava#}
+470791	3	{#lakzmInArAyaRasaMvAda#} {#°nArAyaRastotra#} {#°nArAyaRahfdaya#}
+470811	5	{#lakzmInfsiMhapaYcaratnamAlikA#} {#°nfsiMhamahAzwottara#} {#lakzmayazwottara#} {#°RfsiMhastavarAja#} {#°nfsiMhastotra#}
+471589	7	{#laGulalitavistara#} {#laGuvasizWasidDAnta#} {#laGuvAkyavftti#} {#°prakASikA#} {#laGuvAyustuti#} {#laGuvArttika#} {#laGuvAsizWasidDAnta#}
+471623	3	{#laGuvEyAkaraRaBUzaRa#} {#°vEyAkaraRasidDAntamaYjIzA#} {#laGuvyAkaraRaBUzaRasAra#}
+471631	4	{#laGuSabdaratna#} {#°SabdenduSeKara#} {#laGuSAntipurARa#} {#°SAntiviDAna#}
+471663	2	{#laGusaptatikAstava#} {#°saptaSatI#}
+471675	2	{#laGusAMKyavftti#} {#°sAMKyasUtravftti#}
+471683	2	{#laGusidDAntakOmudI#} {#°sidDAntacandrikA#}
+472317	2	{#latAkastUrikA#} *{#°kasturI#}
+473360	3	{#lalAwapawwa#} {#°pawwaka#} {#°pawwikA#}
+473522	2	{#lalitavistara#} {#°purARa#}
+473604	3	{#lalitAsahasra#} {#°sahasranAman#} {#°nAmaBAzya#}
+474465	2	*{#lANgUlikA#} {#°likI#}
+475366	2	{#liNgaDAraRacandrikA#} {#°DAraRadIpikA#}
+475539	2	{#liNgopahitalENgikaBAnanirAsarahasya#} {#°BAnavicAra#}
+476114	2	{#lukeSvara#} {#°tIrTa#}
+476432	2	{#luptavisargaka#} {#°visargatA#}
+476816	2	{#leKapattra#} {#°pattrikA#}
+476840	2	{#leKahAra#} {#°hAraka#}
+477410	2	{#lokatraya#} {#°trayI#}
+477538	2	{#lokapAlatA#} {#°pAlatva#}
+477616	2	{#lokaBAvana#} {#°BAvin#}
+478417	2	{#lopAmudrApati#} {#°mudrAsahacara#}
+478680	2	{#lomaSa/sakTa#} {#°sakTi#}
+478749	2	*{#lomASikA#} {#°sikA#}
+479054	2	{#lohatAraRI#} {#°tAriRI#}
+479697	3	{#lOkikanyAyasaMgraha#} {#lOkikavizayatAvAda#} {#°vizayavicAra#}
+480120	2	{#vaMSanAqikA#} {#°nAqI#}
+480277	3	{#vaMSastanita#} {#vaMSasTa#} {#°sTA#}
+480983	2	{#vakzaHsTala#} {#°sTalI#}
+481023	2	{#vagalA#} {#°muKI#}
+481379	3	{#vacanakara#} {#°kAraka#} {#°kArin#}
+481965	2	{#vajraprastAriRI#} {#°prastAvinI#}
+482094	2	{#vajrava/h#} {#°vA/h#}
+482215	2	{#vajrasUci#} {#°sUcI#}
+482584	3	{#vawakaRikA#} {#°kaRIkA#} {#°kaRIya#}
+482627	3	{#vawasAvitrIpUjA#} {#°sAvitrIvrata#} {#°vratakAlaRirnaya#}
+482812	2	{#vaqahaMsikA#} {#°haMsI#}
+483127	2	{#vatsatantI#} {#°tantrI#}
+483214	3	{#vatsapri#} {#vatsaprI/#} {#°prIti#}
+483388	2	{#vatsIputra#} {#°putrIya#}
+483804	2	{#vaDatma/n#} {#°nA#}
+483990	2	{#vaDyaBU#} {#°BUmi#}
+484273	2	{#vanacarya#} {#°caryA#}
+484521	3	*{#vanabIja#} *{#°ka#} *{#°pUraka#}
+484533	2	{#vanaBU#} {#°BUmi#}
+484541	3	{#vanaBojanapuRyAhavAcanaprayoga#} {#°Bojanaprayoga#} {#°BojanaviDi#}
+484676	2	{#vanarAji#} {#°rAjI#}
+485257	2	{#vaneza/h#} {#°zA/h#}
+485425	3	{#vandAka#} *{#°kA#} {#°kI#}
+486262	2	{#vayunADa/#} {#°DA/#}
+486690	2	*{#varaGaRwikA#} *{#°GaRwI#}
+486916	6	{#varadarAjacampU#} {#°rAjapaYcASat#} {#°rAjaSataka#} {#°rAjastava#} {#°rAjAzwaka#} {#°rAjIya#}
+487097	4	{#vararucikArikA#} {#°rUciprAkftasUtra#} {#°ruciliNgakArikA#} {#°rucivAkya#}
+487114	3	{#varalakzmIpUjA#} {#°lakzmIvratakaTA#} {#°lakzmIvratakalpa#}
+487504	2	{#varAhadaMzwra#} {#°daMzwrA#}
+487512	2	*{#varAhadant#} *{#°danta#}
+487844	2	{#varuRadEva#} {#°dEvata#}
+487930	2	{#varuRasenA#} {#°senikA#}
+488892	2	*{#varRaleKA#} *{#°leKikA#}
+488906	2	{#varRavarti#} {#°vartikA#}
+488944	2	{#varRavyavasTA#} {#°sTiti#}
+491024	2	{#varzarAtra#} {#°rAtri#}
+491150	2	{#varzArAtra#} {#°rAtri#}
+491440	2	{#valaBI#} {#°Bi#}
+493338	2	{#vasugupta#} {#°guptAcArya#}
+493480	2	{#vasudEva#} {#°dEvata#}
+493712	2	{#vasubanDu#} {#°banDa#}
+494059	2	{#vastikuRqala#} {#°kuRqalikA#}
+494692	4	<hom>2</hom> {#°vah#} {#vAh#} {#uh#} {#Uh#}
+495502	3	{#vAkprasArikAma#} {#°prasArikAkAma#} {#prasArakAma#}
+495606	4	{#vAkyavivaraRa#} {#vAkyavftti#} {#°prakASikA#} {#°vyAKyA#}
+496536	3	{#vAcyavAcakatA#} {#°vAcakatva#} {#°vAcakaBAva#}
+496707	2	{#vAjaprasavI/ya#} {#°prasavya^#}
+497230	2	*{#vAwyapuzpikA#} {#°puzpI#}
+497391	2	{#vARijya#} {#°jyA#}
+497514	2	{#vAtakuRqalikA#} {#°kuRqalI#}
+498129	2	{#vAtAnulomana#} {#°lomin#}
+498578	2	{#vAdanakzatramAlAsUryodaya#} {#°nakzatramAlikA#}
+498842	3	{#vADrIRasa#} {#°nasa#} {#°ka#}
+498992	2	{#vAnavAsika#} {#°vAsin#}
+499309	2	{#vAmacUqa#} {#°cUla#}
+499484	2	{#vAmanasUtra#} {#°vftti#}
+500009	2	*{#vAyudattamaya#} *{#°dattarUpya#}
+500035	2	{#vAyudEvata#} {#°dEvatya#}
+500242	2	*{#vAyusaKa#} *{#°saKi#}
+500532	2	{#vArapASi#} {#°pASya#}
+500540	2	*{#vArabuzA#} {#°vArabfzA#}
+501448	2	*{#vArtaka#} *{#°rtikA#}
+501516	2	{#vArttAka#} {#°kI#}
+501610	5	{#vArttikatAtparyawIkA#} {#°tAtparyapariSudDi#} {#vArttikapAWa#} {#vArttikayojanA#} {#vArttikasAravyAKyA#}
+502463	2	{#vAlmIkeSvara#} {#°tIrTa#}
+502712	2	{#vAsakasajjA#} {#°sajjikA#}
+503246	2	*{#vAsudevavargIRa#} *{#°vargya#}
+503296	2	{#vAsoda#} {#°dA/#}
+503378	2	{#vAstudeva#} {#°devatA#}
+503486	2	{#vAstUpaSama#} {#°Samana#}
+503825	2	{#vAhyAlI#} {#°BU#}
+504985	2	{#vikramacarita#} {#°caritra#}
+505068	2	{#vikramANka#} {#°deva#}
+506150	2	{#vicarcikA#} {#°carcI#}
+507583	2	{#vijYAnaBErava#} {#°BEravoddyotasaMgraha#}
+508171	2	{#vitantasAyya#} {#°sA/yia#}
+508236	2	{#vitardi#} {#°kA#}
+508541	2	{#vittapewA#} {#°pewI#}
+509192	2	{#vidArIganDA#} *{#°ganDikA#}
+509279	2	{#vidIpaka#} {#°pikA#}
+509491	2	{#videhanagara#} {#°nagarI#}
+509515	4	*{#vidDakarRa#} *{#°karRA#} *{#°karRikA#} *{#°karRI#}
+509741	2	{#vidyADirAja#} {#°rAya#}
+509757	2	{#vidyAnagara#} {#°nagarI#}
+509767	2	{#vidyAnATa#} {#°Bawwa#}
+509883	3	{#vidyAraRyapaYcadaSI#} {#°raRyaBAzya#} {#°raRyamUla#}
+509910	2	{#vidyArTadIpikA#} {#°rTaprakASikA#}
+509980	2	{#vidyAvedavratavant#} {#°vratasnAta#}
+510089	2	{#vidyutkeSa#} {#°keSin#}
+510916	2	{#viDipUrvakam#} {#°pUrvam#}
+510938	6	{#viDiratna#} {#viDirasAyana#} {#°dUzaRa#} {#°vyAKyA#} {#°suKopajIvinI#} {#°suKopayoginI#}
+511393	2	{#vinayakzudraka#} {#°vastu#}
+511567	2	{#vinAmaka#} {#°mikA#}
+512764	2	{#viparyanta#} {#°ntaM#}
+513500	2	{#viprarAjya#} {#°rA/jia#}
+513753	2	{#°viplAvaka#} {#°viplAvin#}
+515004	3	{#vimarza#} {#°marzaRa#} {#°marzin#}
+515040	2	{#vimalaka#} {#°maRi#}
+516613	2	{#virudDamatikArin#} {#°matikft#}
+516912	2	{#viroDavarUTinI#} {#°BaYjanI#}
+517754	2	{#vilomaja#} {#°jAta#}
+517952	6	{#vivaraRatattvadIpana#} {#°tattvadIpikA#} {#vivaraRadarpaRa#} {#vivaraRaprameyasaMgraha#} {#vivaraRaratna#} {#vivaraRopanyAsa#}
+518205	3	{#vivAdaBaNgArRava#} {#°setu#} {#vivAdasOKya#}
+518217	2	{#vivAdArRavaBaYjana#} {#°rRavasetu#}
+518642	3	{#vivekaDEryASraya#} {#°vivfti#} {#vivekaPala#}
+518650	2	{#vivekamArtaRqa#} {#°mArtARqa#}
+518662	6	{#vivekavilAsa#} {#vivekasAra#} {#°sArasinDu#} {#°sAravarRana#} {#vivekasinDu#} {#vivekAmfta#}
+519679	2	{#viSizwacAritra#} {#°cArin#}
+519693	4	{#viSizwavESizwyaboDarahasya#} {#°boDavicAra#} {#°vESizwyavAda#} {#°vESizyavAda#}
+519816	2	{#viSudDeSvara#} {#°tantra#}
+520456	4	{#viSvakarmapurARa#} {#°saMgraha#} {#°karmaprakASa#} {#°karmamAhAtmya#}
+520472	2	{#viSvakarmeSa#} {#°karmeSvaraliNga#}
+520728	2	{#viSva/taspad#} {#°pAd#}
+520740	4	{#viSva/tur#} {#viSvaturAzah#} {#°zAw#} {#viSva/tUrti#}
+520827	2	{#viSvadAvya/#} {#°dAvi/a#}
+520870	2	{#viSva/devya#} {#°devia#}
+520880	2	{#viSvadEva#} {#°dEvata#}
+520942	2	{#viSvaDfk#} {#°Dft#}
+521093	3	{#viSvaprakASa#} {#°prakASikA#} {#°prakASin#}
+521311	2	{#viSvaMBaravAstuSAstra#} {#°BaraSAstra#}
+521460	3	*{#viSvavah#} {#°vAh#} {#viSvOh#}
+521729	7	{#viSvasPawika#} {#°sPAwi#} {#°sPARi#} {#°sPArRi#} {#°sPIRi#} {#°sPUrji#} {#°sPUrti#}
+521963	2	{#viSvAsaGAtaka#} {#°GAtin#}
+521983	2	{#viSvAsa/h#} {#°sA/h#}
+521987	2	{#viSvAsahantar#} {#°hartar#}
+522206	2	{#vizakanyakA#} {#°kanyA#}
+522360	2	{#vizadAyaka#} {#°dAyin#}
+522541	3	{#vizamacaturaSra#} {#°caturBuja#} {#°catuzkoRa#}
+522617	3	*{#vizamardanikA#} *{#°mardanI#} *{#°mardinI#}
+522784	3	{#vizayatAvAda#} {#°vAdArTa#} {#vizayatAvicAra#}
+522818	2	{#vizayavAkyadIpikA#} {#°vAkyasaMgraha#}
+522943	2	{#vizalAwA#} {#°lARwA#}
+522951	3	{#vizavallarI#} {#°valli#} {#°vallI#}
+523043	2	{#vizaharacikitsA#} {#°haramantraprayoga#}
+523959	3	{#vizRupaYjara#} {#°yantraviDi#} {#°paYjarastotra#}
+524004	2	*{#vizRupur#} *{#°pura#}
+524018	2	{#vizRupUjApadDati#} {#°pUjAviDi#}
+524050	3	{#vizRuBujaMga#} {#°stotra#} {#°BujaMgI#}
+524084	2	{#vizRumAhAtmya#} {#°padDati#}
+524108	2	{#vizRuyAmala#} {#°yAmila#}
+524163	2	{#vizRuvAhana#} *{#°vAhya#}
+524684	2	{#visarpi#} {#°kA#}
+525248	4	{#visyanda#} {#°ka#} {#°na#} {#°syandin#}
+525308	2	{#visramBa#} {#°sramBin#}
+526382	2	{#vItihotradayitA#} {#°hotrapriyA#}
+526558	2	{#vIrakesarin#} {#°kesarin#}
+526766	3	*{#vIrapARa#} *{#°pARaka#} {#°pAna#}
+526816	2	{#vIraprasavinI#} {#°prasU#}
+527040	2	{#vIrava/h#} {#°vA/h#}
+527101	2	{#vIraSaya#} {#°Sayana#}
+527790	2	*{#vfkzacCAya#} {#°CAyA#}
+527917	2	{#vfkzavAwikA#} *{#°vAwI#}
+528645	2	{#vftratU/rya#} {#°tU/ria#}
+528677	2	{#vftravidviz#} {#°vftravErin#}
+528817	2	{#vfTAza/h#} {#°zA/h#}
+528976	3	*{#vfdDadAra#} *{#°ka#} *{#°dAru#}
+529002	2	{#vfdDapArASarIya#} {#°pArASarya#}
+529432	2	{#vfntAka#} {#°kI#}
+529515	4	{#vfndAvanamAhAtmya#} {#°vanayamaka#} {#°vanaSataka#} {#°vanAKyAna#}
+530309	2	{#vfzAdarBa#} {#°darBi#}
+531332	2	{#vetAlapaYcaviMSati#} {#°kA#}
+531721	2	{#vedapaTa#} {#°panTA#}
+532124	4	{#vedasAraSivasahasranAman#} {#°Sivastava#} {#°Sivastotra#} {#°sArasahasranAman#}
+532148	3	{#vedasmftA#} {#°smfti#} {#°smftI#}
+532287	10	{#vedArTacandra#} {#vedArTatattvanirRaya#} {#vedArTadIpa#} {#vedArTadIpikA#} {#vedArTaprakASa#} {#vedArTaprakASikA#} {#vedArTapradIpa#} {#vedArTasaMgraha#} {#°saMgrahawIkA#} {#°saMgrahatAtparyawIkA#}
+532430	2	{#vediSroRi#} {#°SroRI#}
+532796	2	{#vemacitra#} {#°citrin#}
+533173	2	*{#veSoBagIna#} *{#°Bagya#}
+533349	2	{#ve/zaSri#} {#°SrI#}
+534720	2	{#vEdyanATadIkzitIya#} {#°nATaBew#}
+535228	3	{#vEBAra#} {#°giri#} {#°parvata#}
+535429	6	{#vEyAkaraRaBUzaRa#} {#°sAra#} {#vEyAkaraRamaYjUzA#} {#vEyAkaraRasarvasva#} {#vEyAkaraRasidDAntamaYjUzA#} {#°sidDAntaratnAkara#}
+535505	2	{#vEyAvftya#} {#°kara#}
+536323	3	{#vESezikadarSana#} {#vESezikasUtra#} {#°sUtropaskara#}
+536649	2	{#vESvAnarapaTikftapUrvakadarSasTAlIpAkaprayoga#} {#°paTikftasTAlIpAkaprayoga#}
+537918	2	{#vyaDikaraRAvacCinnABAvakroqa#} {#°BAvaKaRqana#}
+538329	2	{#vyarTanAmaka#} {#°nAman#}
+539105	2	{#vyAkroSa#} {#°kroSI#}
+539816	4	{#vyAptilakzaRa#} {#vyAptivAda#} {#°kroqa#} {#vyAptyanugama#}
+539986	2	{#vyAlagrAha#} {#°grAhin#}
+540094	2	*{#vyAvaBAzI#} *{#°BAsI#}
+540305	5	{#vyAsaSataka#} {#vyAsaSikzA#} {#°BAzya#} {#°vyAKyA#} {#vyAsaSukasaMvAda#}
+540325	7	{#vyAsasUtra#} {#°candrikA#} {#°BAzya#} {#°vftti#} {#°vyAKyA#} {#°SaMkaraBAzya#} {#°saMgati#}
+540501	4	{#vyutpattivAda#} {#°wIkA#} {#°vAdadIpikA#} {#°vAdArTa#}
+540567	2	{#vyupajApa#} {#°jAva#}
+540843	2	{#vyomakeSa#} *{#°keSin#}
+541282	3	{#vraRapawwa#} {#°ka#} {#°pawwikA#}
+541386	4	{#vratakalpa#} {#°druma#} {#vratakAlanirRaya#} {#vratakoSa#}
+541654	2	{#vratodyApana#} {#°kOmudI#}
+541792	2	{#vrAtasAha/#} {#°saha/#}
+542433	2	{#SakaDUmaja/#} {#°jA/#}
+542994	2	{#SaktiBErava#} {#°tantra#}
+543050	5	{#SaktivAda#} {#°wIkA#} {#°vivaraRa#} {#°vAdArTadIpikA#} {#SaktivicAra#}
+543173	2	{#SakrakumArikA#} {#°kumArI#}
+543289	2	{#Sakrapura#} {#°purI#}
+543755	3	{#SaMkaraBawwIya#} {#SaMkaraBAzya#} {#°wIkA#}
+543771	5	{#SaMkaravijaya#} {#°prakaraRa#} {#°vijayaBAzya#} {#SaMkaravilAsa#} {#SaMkaraSikzA#}
+543815	3	{#SaMkarAcAryacarita#} {#°caritra#} {#SaMkarAcAryavijayaqiRqima#}
+543982	2	*{#SaNkuPalA#} *{#°PalikA#}
+544178	2	{#SaNKaDma/#} *{#°DmA#}
+544212	2	{#SaNKapad#} {#°pAd#}
+544261	2	{#SaNKapuzpikA#} {#°puzpI#}
+544434	2	{#SaNKodDAra#} {#°tIrTa#}
+544552	2	{#SaWakopavizaya#} {#°kopasahasranAman#}
+544634	2	*{#SaRapuzpikA#} {#°puzpI#}
+544793	2	*{#Satakunta#} {#°kunda#}
+545044	2	{#Satatraya#} {#°trayI#}
+545126	2	{#Satadvaya#} {#°dvayI#}
+545144	2	{#SataDanu#} {#°Danus#}
+545251	2	{#SatapattranivAsa#} {#°pattrayoni#}
+545273	2	{#Sata/pad#} {#°pAd#}
+545414	2	{#Sataprasava#} {#°prasUti#}
+545777	2	{#SatavArakam#} {#°vAram#}
+545801	2	{#Sata/vIrya#} {#°vIria#}
+545861	2	*{#SataSAstra#} {#°vEpulya#}
+545888	3	{#SataSlokI#} {#°candrakalA#} {#°vyAKyA#}
+546555	2	{#SatrUza/h#} {#°zA/h#}
+547089	4	{#Sabdakalpa#} {#°kalpadru#} {#°kalpadruma#} {#°kalpalatikA#}
+547093	2	{#SabdakAra#} {#°kArin#}
+547109	3	{#SabdaKaRqa#} {#°prakASa#} {#°vyAKyA#}
+547203	3	{#SabdaprakASa#} {#°prakASikAdvi/pakoSa#} {#SabdapraBeda#}
+547219	2	{#SabdaboDaprakAra#} {#°boDavicAra#}
+547251	3	{#SabdaBeda#} {#°BedanirUpaRa#} {#°BedaprakASa#}
+547263	3	{#SabdamaYjarI#} {#SabdamaRiparicCedAloka#} {#°maRivyAKyA#}
+547305	4	{#Sabdaratna#} {#°rtnasamanvaya#} {#°ratnAkara#} {#°ratnAvalI#}
+547385	3	{#SabdaSaktiprakASikA#} {#°praboDinI#} {#SabdaSabdArTamaYUzA#}
+547548	6	{#SabdArTacintAmaRi#} {#SabdArTarkAmfta#} {#SabdArTanirvacana#} {#°KaRqana#} {#SabdArTaratna#} {#SabdArTasAmaYjarI#}
+548806	3	{#SaraRAgatitAtparyaSlokopanyAsa#} {#°gatidIpikA#} {#SaraRADikAramaYjarI#}
+550676	2	{#SavasauSInara#} {#°rezu#}
+552023	3	{#SAkalyamata#} {#SAkalyasaMhitA#} {#°pariSizwa#}
+552037	3	{#SAkavAwa#} {#°ka#} {#°vAwikA#}
+552088	2	*{#SAkAmlaBedaka#} *{#°Bedana#}
+552286	4	{#SAktatantra#} {#°tA#} {#SAktiBAzya#} {#SAktAnandataraMgiRI#}
+552881	2	*{#SARavAsa#} *{#°vAsika#}
+552982	5	{#SARqilyaSatasUtra#} {#°pravacana#} {#°gazya#} {#°vyAKyA#} {#°sUtrIBAzya#}
+553626	2	{#SAntisAra#} {#°BAzya#}
+553788	3	{#SAbaratantrasarvasva#} {#SAbaraBAzya#} {#°vArttika#}
+554167	2	{#SAradaRqAyanI#} {#°daRqAyinI#}
+554171	2	{#SAradAkalpa#} {#°latA#}
+554357	19	{#SArIrakanyAyanirRaya#} {#°nyAyarakzAmaRi#} {#°nyAyasaMgraha#} {#SArIrakapradIpikA#} {#SArIrakaBAzya#} {#°BAzyawIkA#} {#°BAzyanyAyavArttika#} {#°BAzyavArttika#} {#°BAzyaviBAga#} {#°BAzyavyAKyA#} {#SArIrakamImAMsA#} {#°mImAmsABAzya#} {#°mImAMsAvyAKyA#} {#SArIrakaSAstradarpaRa#} {#SArIrakasaMgraha#} {#SArIrakasUtra#} {#°sUtrasArArTacandrikA#} {#SArIrakopanizad#} {#SArIranyAyasaMgraha#}
+554639	2	{#SArmaRya#} {#°deSa#}
+554738	4	{#SAlagrAmakalpa#} {#°grAmaparIkzA#} {#°grAmalakzaRa#} {#°grAmastotra#}
+555216	3	*{#SAlivah#} {#°vAh#} {#SAlyUhI#}
+555228	2	{#SAlivAhanacaritra#} {#°vAhanaSataka#}
+555250	2	*{#SAlistamBaka#} {#°stabaka#}
+555810	3	*{#SAsanahara#} {#°hAraka#} {#°hArin#}
+555943	8	{#SAstradIpikA#} {#°kroqa#} {#°wIkA#} {#°prakASa#} {#°praBA#} {#°praveSa#} {#°loka#} {#°vyAKyA#}
+555973	2	{#SAstramAlA#} {#°vftti#}
+556511	2	*{#SiKAgradant#} *{#°danta#}
+556943	2	{#SitikaRWarAmAyaRa#} {#°kaRWastotra#}
+556993	2	{#SitibA/hu#} {#°bAhu/#}
+557402	2	*{#SimbiparRikA#} *{#°parRI#}
+557504	2	{#SiraSCeda#} {#°Cedana#}
+557706	2	{#SiroDara#} {#°DarA#}
+557933	2	*{#Silavaha#} *{#°vAhA#}
+558111	2	*{#SilABid#} *{#°Beda#}
+558378	2	{#SilpakArin#} {#°riRI#}
+558661	2	{#SivacampU#} {#°prabanDa#}
+558681	9	{#Sivatattva#} {#°prakASikA#} {#°boDa#} {#°ratnakalikA#} {#°ratnAkara#} {#°rahasya#} {#°viveka#} {#°suDAniDi#} {#°tattvopanizad#}
+558835	3	{#SivanArAyaRadAsa#} {#°sarasvatIkaRWABaraRa#} {#SivanArAyaRAnandatIrTa#}
+558839	4	{#SivapaYcamuKaDyAna#} {#°paYcAkzarastotra#} {#°paYcAkzarInakzatramAlikA#} {#°paYcANga#}
+558867	2	{#Sivapura#} {#°purI#}
+558942	2	{#SivaBujaMga#} {#°BujaMgAzwaka#}
+558992	2	{#SivamAhAtmya#} {#°KaRqa#}
+559030	4	{#Sivarahasya#} {#°kARqa#} {#°KaRqa#} {#°purARa#}
+559060	4	{#SivarAtrikalpa#} {#°rAtrimAhAtmya#} {#°rAtrivrata#} {#°rAtryarGa#}
+559078	8	{#SivaliNgadAnaviDi#} {#°liNgaparIkzA#} {#°liNapratizWAkrama#} {#°liNgapratizWAprayoga#} {#°liNgalakzaRa#} {#°liNgAnandajYAnodaya#} {#°liNgasUryodaya#} {#SivalIlArRava#}
+559206	8	{#SivastavarAja#} {#Sivastuti#} {#Sivastotra#} {#°vyAKyA#} {#°SivasTalamahimavarRana#} {#SivasvarUpapUjA#} {#°viDi#} {#SvarUpamantra#}
+559334	2	{#SivArti#} {#°prakAra#}
+559382	2	{#Sivira#} {#°giri#}
+559653	2	*{#SiSuvAhaka#} *{#°vAhyaka#}
+559882	2	{#SizyahitA#} {#°nyAsa#}
+561548	2	*{#SukanASa#} {#°nASA#}
+561569	2	{#SukapakzIya#} {#°vyAKyA#}
+561657	2	*{#SukaSimbA#} *{#°Simbi#}
+561661	4	{#SukasaMhitA#} {#SukasaMdeSa#} {#°vyAKyA#} {#Sukasaptati#}
+561695	2	{#SukAzwaka#} {#°vyAKyA#}
+562306	2	{#SuklAdiSrAvaRakfzRasaptamI#} {#°kfzRAzwamI#}
+562879	2	{#SudDadant#} *{#°danta#}
+563023	2	{#SudDasAropalakzaRA#} {#°sAropA#}
+563065	2	{#SudDAntacara#} {#°cArin#}
+563331	2	{#SunaHsaKa#} {#°saKi#}
+564511	2	*{#SUkapiRqi#} *{#°piRqI#}
+564539	4	*{#SUkaSimbA#} *{#°Simbi#} *{#°SimbikA#} *{#°SimbI#}
+564703	2	{#SUdrAcAra#} {#°saMgraha#}
+565104	2	{#SUrpaRaKA#} {#°RaKI#}
+565696	4	{#SfNgAratilaka#} {#°tilakAlaMkara#} {#SfNgArapadya#} {#SfNgArapAvana#}
+565740	2	{#SfNgArarAjIvana#} {#°rAjIvavana#}
+565752	3	{#SfNgAraviDi#} {#SfNgAraSata#} {#°Sataka#}
+566338	5	{#SezasaMhitA#} {#SezasaMgraha#} {#°nAmamAlA#} {#SezasamuccayawIkA#} {#Sezahomaprayoga#}
+566394	2	{#SEkyAyasa#} {#°maya#}
+566760	2	{#SElarAj#} {#°rAja#}
+566830	2	{#SElasutAkAnta#} {#°sutApati#}
+567120	5	{#SEvavEzRavapratizWAprayoga#} {#°vEzRavamataKaRqana#} {#°vEzRavavAda#} {#SEvasarvasva#} {#SEvasidDAntaSeKara#}
+567241	2	{#SESunAri#} {#°nAli#}
+568346	2	{#SOnahotra#} {#°hotri#}
+568413	2	{#SOradevya#} {#°devia/#}
+568657	2	<hom>2</hom> {#°Scut#} {#°Scyut#}
+568738	2	{#SmaSAnakAlikA#} {#°kAlI#}
+569440	2	{#SyenASvaSyena#} {#°SyEna#}
+570224	6	{#SrAdDakalpaBAzya#} {#°kalpalAtA#} {#°kalpasUtra#} {#SrAdDakARqa#} {#°saMgraha#} {#SrAdDakArikA#}
+571110	9	{#SrIkfzRa#} {#°kfzRatarkAlaMkAraBawwAcArya#} {#°kfzRatIrTa#} {#°kfzRanyAyavAgISaBawwAcArya#} {#°kfzRarAya#} {#°kfzRavidyAvAgISa#} {#°kfzRavipra#} {#°kfzRasarasvatI#} {#mahAmahopADyAyaSrIkfzRasArvaBOma#}
+571118	2	{#SrIkeSava#} {#°keSavAcArya#}
+571150	2	{#SrIKaRqapfTvIDara#} {#°KaRqaSEla#}
+571332	2	{#SrIdAmAnandadAtrI#} {#°dAmeSvaravallaBa#}
+571379	3	{#SrIDarIya#} {#°vyAKyA#} {#°saMhitA#}
+571457	4	{#SrInivAsadIkzitIya#} {#°vAsadIpikA#} {#°vAsamAhAtmya#} {#°vAsIya#}
+571476	2	{#SrIpatigranTa#} {#°patijAtaka#}
+571484	3	{#SrIpatiBAzya#} {#°patisaMhitA#} {#°patisamuccaya#}
+571536	2	{#SrIpAYcarAtra#} {#°rAtrArADana#}
+571632	2	{#SrIbaka#} {#°vaka#}
+571683	6	{#SrIBAzya#} {#°dIpa#} {#°vftti#} {#°vfttyupanyAsa#} {#°saMgraha#} {#°BAzyAnDrawIkA#}
+571782	2	*{#SrImalA#} *{#°malApahA#}
+571862	6	{#SrIraNganATaprapatti#} {#°nATasupraBAta#} {#°nATArADanakrama#} {#SrIraNgamAhAtmya#} {#SrIraNgarAjacatuzwaya#} {#SrIraNgarAjastava#}
+571892	7	{#SrIrAmakalpadruma#} {#°rAmanavamInirRaya#} {#°rAmapadDati#} {#°rAmamaNgala#} {#°rAmarakzA#} {#°rAmastuti#} {#°rAmodanta#}
+572199	3	{#SrIharza#} {#°kavi#} {#°deva#}
+572450	2	{#SrutaprakASikA#} {#°KaRqana#}
+572458	4	{#SrutaprakASikAtAtparyadIpikA#} {#°prakASikAsaMgraha#} {#SrutapradIpa#} {#SrutapradIpikA#}
+572812	2	{#SrutiraYjanI#} {#°raYjinI#}
+572860	3	{#SrutisuKa#} {#°da#} {#°suKAvaha#}
+572864	2	{#SrutisUktimAlA#} {#°vyAKyA#}
+576113	3	{#zawkArakapraticCandaka#} {#°cCandasa#} {#°zawkArakavivecana#}
+576300	3	{#zawpaYcASatikahorA#} {#°SatikA#} {#°SadDorAvftti#}
+576546	2	*{#zaqaNguli#} *{#°datta#}
+576968	2	{#zaqvidyAgama#} {#°zAMKyAyanatantra#}
+577611	2	{#zoqaSakarmaprayoga#} {#°karmaviDi#}
+577619	6	{#zoqaSakAraRajayamAlA#} {#°kAraRapUjA#} {#zoqaSakArikA#} {#zoqaSakUrca#} {#zoqaSagaRapatiDyAna#} {#°gaRapatilakzaRa#}
+577705	2	{#zoqaSasahasra#} {#°sAhasra#}
+577858	2	{#°zWIvi#} {#°zWIvin#}
+578525	2	{#saMvatsaraprabarha#} {#°pravalha#}
+578655	2	{#saMvadita/vya#} {#°tavya^#}
+579182	2	{#saMviBAgaSIla#} {#°vant#}
+579549	3	{#saMSayapakzatArahasya#} {#saMSayavAda#} {#°vAdArTa#}
+580760	2	{#°saMsparSin#} {#°saMspfS#}
+581177	2	{#saMhitopanizad#} {#°zadbrAhmaRa#}
+581848	3	{#saktukAra#} {#°ka#} {#°rikA#}
+581860	2	*{#saktuPalA#} *{#°PalI#}
+582739	2	{#saMketaniketa#} {#°niketana#}
+583018	2	{#saMkzipti#} {#°kA#}
+583048	9	{#saMkzepayogavAsizWa#} {#saMkzeparAmAyaRa#} {#°vyAKyAna#} {#saMkzepaSaMkarajaya#} {#°SaMkaravijay#} {#saMkzepaSArIraka#} {#°wIkA#} {#°vyAKyAna#} {#saMkzepAnukramaRikA#}
+583413	13	{#saMgItakOmudI#} {#saMgItacUqAmaRI#} {#saMgItadarpaRa#} {#saMgItadAmodara#} {#saMgInArAyaRa#} {#saMgItamakaranda#} {#saMgIttamuktAvalI#} {#saMgItaratnamAlA#} {#saMgItaratnAkara#} {#°kalAniDi#} {#°candrikA#} {#°wIkA#} {#°rAGava#}
+583433	9	{#saMgItasAra#} {#°sArasaMgraha#} {#°sArAmfta#} {#saMgItasinDu#} {#saMgItasuDA#} {#°kar#} {#saMgItasundara#} {#saMgIrasetu#} {#saMgItArRava#}
+583562	4	{#saMgrahaRIratna#} {#saMgrahaprakASikA#} {#saMgraharAmAyaRa#} {#°vivaraRa#}
+584056	2	<hom>2</hom> {#°sac#} {#°sAc#}
+585765	2	{#satISvara#} {#°liNga#}
+586323	8	{#satpratipakzagranTa#} {#°pakzatA#} {#°vyavahArakroqa#} {#°pakzapattra#} {#°pakzabADfgranTa#} {#°pakzavicAra#} {#°pakzaviBAga#} {#°pakzavizayatASUnyatvavicAra#}
+586449	2	{#satyaKAna#} {#°SrImAnadatta#}
+586506	2	{#satyajYAnAnandatIrTa#} {#°yati#}
+586716	3	{#satyaBAmApariRaya#} {#°BAmAByudaya#} {#°vyAKyAna#}
+586992	2	{#satyaSIla#} {#°SIlin#}
+587346	2	{#satrAha/#} {#°ha/n#}
+588029	5	{#sadAcArakrama#} {#°cAracandrodaya#} {#°cAranirRaya#} {#°cArapadDati#} {#°cAraprakaraRa#}
+588037	6	{#sadAcAravarRana#} {#°cAraviDi#} {#°cArasaMgraha#} {#°cArasmfti#} {#°vivaraRa#} {#°vyAKyA#}
+588272	3	{#sadASivakavaca#} {#°SivagItA#} {#°Sivapada#}
+588288	4	{#sadASivamAlA#} {#°SivazaRmuKasaMvAda#} {#°SivasaMhitA#} {#°Sivastotra#}
+588811	2	{#sadyobala#} {#°kara#}
+588859	2	{#sadyovarza#} {#°varzaRa#}
+589330	5	{#sanatkumAratantra#} {#°kumArasaMhitA#} {#°kumArastava#} {#°kumArItattra#} {#sanatkumArIya#}
+589342	4	{#sanatsujAtavedAnta#} {#°jAtIya#} {#°wIkA#} {#°vivaraRa#}
+591170	2	*{#sannakadru#} {#°ma#}
+591345	3	{#saMnikarzavAda#} {#°vAdArTa#} {#°karzavicAra#}
+591764	2	<hom>2</hom> {#°sap#} {#°sAp#}
+592608	5	{#saptapadArTacandrikA#} {#°padArTanirUpaRa#} {#°padArTI#} {#°wIkA#} {#°vyAKyA#}
+592851	3	{#saptarzistotra#} {#saptarzismfti#} {#°saMgraha#}
+592861	2	{#saptalakzaRa#} {#°BAzya#}
+592943	2	{#saptaviMSatitama#} {#°viMSatima#}
+593163	2	{#saptahOtra#} {#°prayoga#}
+594181	2	{#samacaturaSra#} {#°caturasra#}
+594185	2	{#samacaturaSrI#} {#°caturasrI#}
+594731	2	{#samanvAramBa#} {#°Ra#}
+595726	2	{#samasUtraga#} {#°sUtrasTa#}
+595926	2	{#samAKyABakza#} {#°BakzaRa#}
+596464	2	{#samAnavayas#} {#°vayaska#}
+596774	2	{#samAplava#} {#°plAva#}
+597452	2	{#samitsamAropaRaprAtarOpAsanaprayoga#} {#°samAropaRaviDAna#}
+598487	2	{#samudranemIpati#} {#°nemISvara#}
+598823	2	{#samupaveSa#} {#°beSana#}
+599715	2	{#saMprativeDakI#} {#°DikI#}
+599810	3	{#saMpradAyacandrikA#} {#°dAyapariSudDi#} {#saMpradAyaprakASinI#}
+600327	2	{#saMbADavartin#} {#°vartman#}
+601248	5	{#samyaktvakOmudI#} {#samyaktvaprakASa#} {#samyaktvADyAyana#} {#°Tyayana#} {#°DyApana#}
+601292	3	{#samyaksaMbudDi#} {#°saMboDa#} {#°saMboiDi#}
+602310	3	{#sarasvatIpUjana#} {#°pUjAviDAna#} {#sarasvatIprakriyA#}
+602318	2	{#sarasvatIrahasya#} {#°rahasyopanizad#}
+603334	2	*{#sarpakaNkAlikA#} {#°kaNkAlI#}
+603354	2	*{#sarpacCattra#} {#°cCantraka#}
+603468	2	{#sarpabali#} {#°karman#}
+603527	2	{#sarpaSIrzan#} {#°SIrzin#}
+604290	2	{#sa/rvatanu#} {#°tanU#}
+604446	2	{#sarvatoBadradevatAsTApanaprayoga#} {#°Badraprayoga#}
+604631	2	{#sarvadevAtmaka#} {#°devAtman#}
+604721	2	*{#sarvaDarmasamatA#} {#°DarmasamavaSaraRasAgaramudrA#}
+604799	2	*{#sarvaMdama#} {#°damana#}
+604895	2	{#sa/rvapuruza#} {#°pUruza#}
+604933	2	{#sarvapfzWahOtraprayoga#} {#°pfzWAptoryAmaprayoga#}
+605416	2	{#sarvaliNgasaMnyAsanirRaya#} {#°liNgasADanI#}
+606053	2	{#sarvasidDAnta#} {#°saMgraha#}
+606422	3	{#sarvAnukrama#} {#°kramaRikA#} {#°kramaRI#}
+606526	2	{#sarvABisaMDaka#} {#°saMDin#}
+606650	2	{#sarvAvAsa#} {#°vAsin#}
+607622	2	*{#savitfdevata#} {#°dEvata#}
+608798	2	*{#sasyasaMvara#} {#°saMvaraRa#}
+608951	2	<hom>2</hom> {#°sah#} {#°sAh#}
+609046	2	{#sahakAritA#} {#°kAritva#}
+609115	3	{#sahacaraBinna#} {#°tA#} {#°tva#}
+610199	4	{#sahasranAmaBAzya#} {#°nAmavivaraRa#} {#°nAmastotra#} {#°nAmArTaSlokasahasrAvali#}
+610227	2	{#saha/srapad#} {#°pAd#}
+610286	2	<hom>1</hom> {#sahasrapoza/#} {#°pozA#}
+610447	2	{#sahasrayAj#} {#°yAji/n#}
+610455	2	{#sahasrayoga#} {#°cikitsA#}
+611821	2	{#sAkaMprasTAyI/ya#} {#°prasTAyya#}
+611837	2	{#sAkali#} {#°kA#}
+612279	2	{#sAgarAmburaSana#} {#°rasana#}
+612464	11	{#sAMKyakArikA#} {#°BAzya#} {#sAMKyakOmudI#} {#sAMKyakramadIpikA#} {#sAMKyacandrikA#} {#sAMKyatattvakOmudI#} {#°vyAKyA#} {#°tattvapradIpa#} {#°tattvaviBAkara#} {#°tattvavilAsa#} {#saMKyataraMga#}
+612472	3	{#sAMKyapravacana#} {#°BAzya#} {#sAMKyamata#}
+612499	12	{#sAMKyavftti#} {#°vfttiprakASa#} {#°vfttisAra#} {#sAMKyasaptati#} {#sAMKyasAra#} {#°sAraviveka#} {#sAMKyasidDAnta#} {#sAMKyasUtra#} {#°sUtraprakzepikA#} {#°sUtravivaraRa#} {#°sUtravftti#} {#°sUtravfttisAra#}
+612820	2	{#sAtavAha#} {#°vAhana#}
+613855	2	{#sADyavasAnA#} {#°sAnikA#}
+614802	2	{#sAmaga/#} {#°gA/#}
+615173	2	{#sAmaSrAdDa#} {#°tattva#}
+615185	2	{#sAmasaras#} {#°sarasa#}
+615321	2	{#sAmAnyaBAvagranTa#} {#°BAvavyavasTApana#}
+615325	4	{#sAmAnyalakzaRavyaBicAra#} {#°lakzaRAgranTa#} {#°lakzaRArahasya#} {#°lakzaRI#}
+615357	3	{#sAmAnyABAvagranTa#} {#°BAvawippanI#} {#°BAvarahasya#}
+615686	2	{#sAmbapaYcASikA#} {#°vivaraRa#}
+615690	2	{#sAmbapura#} {#°purI#}
+615855	2	{#sAmrAjyalakzmIpIWikA#} {#°lakzmIpUjA#}
+616196	2	{#sArakzetramAhAtmya#} {#°sArodDAra#}
+616475	2	{#sAraPalgutA#} {#°Palgutva#}
+616923	3	{#sArisfkka#} {#°sfkta#} {#°sfkva#}
+617356	2	{#sArvarogika#} {#°rOgika#}
+617518	2	{#sAlaNga#} {#°neri#}
+617642	2	<hom>1</hom> {#sAvaka#} {#°vikA#}
+618541	2	{#siMhakesara#} {#°keSara#}
+618547	2	{#siMhakesarin#} {#°keSarin#}
+618605	2	*{#siMhatAla#} *{#°tAlAKya#}
+618643	2	{#siMhadvAr#} {#°dvAra#}
+618952	3	{#siMhavyAGrawippaRI#} {#°vyAGrarahasya#} {#°vyAGralakzaRa#}
+619055	6	{#siMhAsanadvAtriMSati#} {#°SatikA#} {#°SatkaTA#} {#°SatputtalikAvArttA#} {#°SatputrikAvArttA#} {#°dvAtriMSikA#}
+619474	2	{#sitakarRikA#} *{#°karRI#}
+620175	2	{#sidDanAgArjunatantra#} {#°rjunIya#}
+620439	2	{#sidDasArasvata#} {#°dIpikA#}
+620465	2	{#sidDasenadivAkara#} {#°divAkft#}
+620545	20	{#sidDAntakalpataru#} {#°kalpalatA#} {#°kalpavallI#} {#sidDAntakOmudrI#} {#sidDAntagarBa#} {#sidDAntagItA#} {#sidDAntagranTa#} {#sidDAntacandrikA#} {#°KaRqana#} {#°candrodaya#} {#sidDAntacintAmaRi#} {#sidDAntacUqAmaRi#} {#sidDAntatattva#} {#°prakASikA#} {#°bindu#} {#°bindusaMdIpana#} {#°viveka#} {#°sarvasva#} {#sidDAntadIpa#} {#°dIpikA#}
+620561	9	{#sidDAntapaYjara#} {#sidDAntapadDati#} {#sidDAntaprakaraRa#} {#sidDAntabindu#} {#°vyAKyA#} {#sidDAntaBedalavasaMgraha#} {#sidDAntamaYjarI#} {#sidDAntamaYjUzA#} {#sidDAntamuktAvalI#}
+620569	11	{#sidDAntaratna#} {#°ratnAvali#} {#°ratnAvalI#} {#sidDAntarahasya#} {#sidDAntlakzaRa#} {#°jAgadISI#} {#°lakzaRAkroqa#} {#sidDAntalakzaRI#} {#sidDAntalaGuKamARika#} {#sidDAntaleSa#} {#°saMgraha#}
+620577	24	{#sidDAntavicAragATA#} {#sidDAntavelA#} {#sidDAntavEjayantI#} {#sidDAntavyAKyA#} {#sidDAntavyutpattilakzaRa#} {#sidDAntaSikzA#} {#sidDAntaSiKAmaRi#} {#sidDAntaSiromaRi#} {#°prakASa#} {#sidDAntaSeKara#} {#sidDAntasaMhitAsArasamuccaya#} {#sidDAntasaMgraha#} {#sidDAntasaMdarBa#} {#sidDAntasAra#} {#°dipikA#} {#°kO#} {#stuBa#} {#°sArAvali#} {#°sArAvalI#} {#sidDAntasArvaBOma#} {#sidDAntasidDAjYana#} {#sidDAntasundara#} {#sidDAntasUktamaYjarI#} {#sidDAntasvAnuBUtiprakASikA#}
+620776	2	{#sidDiBErava#} {#°tantra#}
+621385	3	{#sinDuvAraka#} {#°vArikA#} *{#°vArita#}
+621621	4	{#sirAveDa#} {#°veDana#} {#°vyaDa#} {#°vyaDana#}
+621921	2	{#sItAlozwa#} {#°lozWa#}
+623267	2	{#suKaprakASa#} {#°muni#}
+623331	3	{#suKabudDi#} {#suKaboDa#} {#°boDana#}
+623437	2	{#suKarAtri#} {#°kA#}
+623583	2	*{#suKasaMduhyA#} {#°saMdohyA#}
+625751	14	{#sudarSanakavaca#} {#sudarSanapaYjaropanizad#} {#sudarSanapAYjanyapratizWA#} {#sudarSanaBAzya#} {#sudarSanamImA/sA#} {#sudarSanavijaya#} {#sudarSanaSataka#} {#°wIkA#} {#°vyAKyA#} {#sudarSanasaMhitA#} {#sudarSanasaMpAta#} {#sudarSanAyantraviDi#} {#sudarSanarADanakrama#} {#sudarSanAzwaka#}
+626861	3	{#suDIvAda#} {#suDIvilocana#} {#°sAra#}
+627565	2	{#sundarikAtIrTa#} {#°sundarikAhrada#}
+627569	2	{#sundarItApanI#} {#°tApinI#}
+627931	2	{#suparRaci/t#} {#°citya#}
+631484	2	{#surapura#} {#°purI#}
+632234	2	<hom>1</hom> {#surApA/Ra#} {#°pA/na#}
+632238	2	<hom>2</hom> {#surApARa#} {#°pAna#}
+632488	2	{#suriSAt#} {#°SAd#}
+632636	2	{#suretoDas#} {#°DA#}
+633292	2	*{#suvarRakaRa#} {#°guggulu#}
+633497	2	*{#suvarRayUTikA#} {#°yUTI#}
+633507	2	{#suvarRaratnAkaracCattrakUwa#} {#°cCattraketu#}
+633970	2	{#suvikrAntavikramin#} {#°krAmin#}
+635441	2	{#suzWuva/h#} {#°vA/h#}
+636090	2	{#susuganDa#} {#°ganDi#}
+637214	2	*{#sUcipattraka#} {#°pattrika#}
+637531	3	{#sUtasaMhitA#} {#°tAtparyadIpikA#} {#°vyAKyA#}
+637594	2	{#sUtimAs#} {#°sAma#}
+637820	2	{#sUtraBAzya#} {#°vyAKyA#}
+638590	2	{#sUryagraha#} {#°grahaRa#}
+639006	2	{#sUryasaMkrama#} {#°saMkrAnti#}
+639096	2	{#sUryAcandrama/sA#} {#°masO#}
+640378	4	{#sevAPala#} {#°stotra#} {#°stotravivfti#} {#°Paloktivivfti#}
+640759	2	*{#sEnyapfzWa#} {#°BAga#}
+640859	4	{#sErIya#} {#°ka#} {#sEreya#} {#°ka#}
+641526	2	*{#somajamBan#} {#°jamBA#}
+641673	2	{#somapaYcaka#} {#°prayoga#}
+641870	2	{#somama/d#} {#°mAd#}
+642029	2	{#somavaMSIya#} {#°vaMSya#}
+642052	2	{#somavalka#} {#°lkA#}
+642303	2	{#somahOtra#} {#°prayoga#}
+643260	3	{#sOndaryalaharI#} {#°vyAKyA#} {#°stotra#}
+645187	3	{#skamBani/#} {#°nI/#} {#°nI/s#}
+645191	2	{#skamBasa/rjana#} {#°sa/rjanI#}
+645216	2	{#skAndapurARa#} {#°samuccaya#}
+645965	2	*{#stambahanana#} {#°hananI#}
+646615	2	{#stutiSastra#} {#°SAstra#}
+647092	2	{#strIkawi#} {#°kawI#}
+647238	2	{#strIdviz#} {#°dvezin#}
+647441	4	*{#strImuKapa#} {#°muKamaDu#} {#°muKamaDudohada#} {#°dohala#}
+647477	2	{#strIrAjya#} {#°rAja#}
+647525	2	{#strIvaSa#} {#°vaSya#}
+647557	2	{#strIvezaDAraka#} {#°DArin#}
+647691	2	{#°sTa#} {#°zWa#}
+647937	2	{#sTalavihaMga#} {#°haMgama#}
+649344	2	*{#sTAlIbilIya#} {#°bIlya#}
+650320	2	*{#sTUlaMBavizRu#} {#°BAvuka#}
+650388	3	*{#sTUlaSAwa#} {#°ka#} {#°SAwI#}
+650741	2	*{#snAkzA#} {#°prasTa#}
+650853	2	{#snAnaSAwI#} {#°SAWI#}
+650865	2	{#snAnasUtra#} {#°padDati#}
+651684	2	*{#sparSaspanda#} {#°syanda#}
+651804	2	{#spazwIkaraRa#} {#°kfti#}
+652059	3	*{#sPawikAri#} {#°kA#} {#°rI#}
+652781	2	{#sma/drAtizac#} {#°zac#}
+653154	7	{#smArtadIpikA#} {#smArtapradIpikA#} {#smArtaprAyaScitta#} {#°prAyaScittodDAra#} {#smArtavyavasTArRava#} {#smArtahomapariSizwa#} {#smArtARqapille#}
+653305	7	{#smftimahArRava#} {#smftimuktAPala#} {#smftimuktAvalI#} {#smftiratnamahodaDi#} {#smftiratnAkara#} {#°ratnAvali#} {#°ratnAvalI#}
+653342	13	{#smftisaMskArarahasya#} {#°saMskAravAda#} {#°saMskAravicAra#} {#smftisaMgraha#} {#°vyAKyA#} {#smftisamuccaya#} {#smftisAgara#} {#smftisAra#} {#°sArasamuccaya#} {#°sArasarvasva#} {#°sArAvalI#} {#smftisinDu#} {#smftisuDAkara#}
+653346	2	{#smftiharA#} {#°hArikA#}
+654457	2	{#srotovah#} {#°vahA#}
+656210	3	{#svayaMhArakarI#} {#°hArika#} {#°hArI#}
+656480	5	{#svayaMprakASamuni#} {#°prakASayati#} {#°prakASayogIndra#} {#°prakASasarasvatI#} {#°prakASAnandasarasvatI#}
+656768	3	{#svaratattvacamatkAra#} {#°tattodaya#} {#svaratantra#}
+656796	2	{#svarapaYcASat#} {#°SadvyAKyA#}
+656859	2	{#svaramaRqala#} *{#°maRqalikA#}
+656883	2	{#svararatnakoSa#} {#°ratnaBARqa#}
+656980	4	{#svarasAra#} {#svarasiMha#} {#svarasidDAntacandrikA#} {#°sidDAntamaYjarI#}
+657172	4	{#svarUpasaMboDana#} {#paYcaviMSativftti#} {#svarUpAnusaMDAna#} {#°stotra#}
+657580	2	*{#svarRakzIriRikA#} {#°kzIrI#}
+657637	2	*{#svarRajAtikA#} {#°jAtI#}
+657641	2	*{#svarRajIvantikA#} {#°jIvA#}
+657671	2	*{#svarRadugDA#} {#°duGI#}
+658725	3	{#svastivah#} {#suastiva/h#} {#°vA/h#}
+658729	2	{#svastivAc#} {#°vAcaka#}
+659149	5	{#svAtmanirUpaRa#} {#°prakaraRa#} {#svAtmapUjA#} {#svAtmaprayogapradIpikA#} {#svAtmayogapradIpa#}
+659551	2	{#svAnuBUtiprakASa#} {#°vivfti#}
+661347	2	{#hatajIvana#} {#°jIvita#}
+661948	7	{#hanumatkavaca#} {#°matkIrtana#} {#°matpaYcANga#} {#°matpratizWA#} {#°matsahasranAman#} {#°matstotra#} {#°madazwottaraSatanAman#}
+661956	2	{#hanumadvizayamantra#} {#°madvratakalpa#}
+661976	3	{#hanumannAwaka#} {#°dIpikA#} {#hanumanniGaRwu#}
+662008	4	{#hanUmatkalpa#} {#°matkavaca#} {#°matpadDati#} {#°matprabanDa#}
+662016	2	{#hanUmanteSvara#} {#°tIrTa#}
+662165	2	*{#hayakanTarA#} {#°kanTarikA#}
+662173	2	*{#hayakAtarA#} {#°kAtarikA#}
+662200	2	{#hayagrIvapaYcarAtra#} {#°grIvapaYjara#}
+662208	3	{#hayagrIvavaDa#} {#°grIvastotra#} {#°grIvopanizad#}
+662264	2	*{#hayapucCikA#} {#°pucCI#}
+662314	2	*{#hayavAhanaSaMkara#} {#°saMkara#}
+662358	2	{#hayaSIrzapaYcarAtra#} {#°rAtri#}
+663004	2	{#haragovindatattvavAgISa#} {#°vindavAcaspati#}
+663047	3	{#haraRahArika#} {#°kA#} {#haraRAharaRa#}
+663067	3	{#haradattacarita#} {#°dattIya#} {#°dattIyamantrapraSnaBAzya#}
+663473	2	{#hariRapluta#} {#°plutA#}
+663865	2	{#haridrAgaRapati#} {#°gaReSa#}
+663959	3	{#harinAmamAlA#} {#°nAmAmfta#} {#°nAmopanizad#}
+663967	2	{#harinArAyaRa#} {#°Sarman#}
+664104	4	{#hariBakti#} {#°latikAstava#} {#°vilAsa#} {#°suDodaya#}
+664215	2	{#hariyAlikA#} {#°yAlI#}
+664293	5	{#harivaMSakfzRalIlA#} {#°vaMSacatuzka#} {#°vaMSanyAsa#} {#°vaMSapurARa#} {#°vaMSasAracarita#}
+664389	2	{#harivilAsa#} {#°kAvya#}
+664431	3	{#hariSarman#} {#°SarmIrya#} {#hariSiKa#}
+664488	2	{#hariza/c#} {#°zA/c#}
+665818	2	{#havyavAha/#} {#°vA/ha#}
+665845	3	{#havyasU/d#} {#°sU/da#} {#°sU/dana#}
+666411	2	*{#hastikarRaka#} *{#°karRadala#}
+667146	2	{#hAwakeSa#} {#°keSAna#}
+667589	2	*{#hArizeRi#} {#°zeRya#}
+667957	3	{#hAsyakara#} {#kAra#} {#°kft#}
+668755	2	*{#himaJawi#} {#°JaRwi#}
+668929	2	*{#himaSraTa#} {#°SraTana#}
+668953	2	{#himAMSu#} {#°mAlin#}
+669219	2	{#hiraRyakakza#} {#°kakzya/#}
+669245	2	{#hiraRyakaSipucCedin#} {#°kaSipudAraRa#}
+669876	3	*{#hilamoci#} *{#°mocikA#} *{#°mocI#}
+670169	4	{#hugali#} {#°lI#} {#huguli#} {#°lI#}
+670848	3	{#hfdayadIpa#} {#°ka#} {#°dIpakaniGaRwu#}
+671122	2	{#hfdispf/S#} {#°spfSa#}
+671206	2	{#hfdBeda#} {#°tantra#}
+671317	3	{#hfllAsa#} {#°ka#} {#°sikA#}
+671444	2	{#heqAvuka#} *{#°vukka#}
+671561	2	{#hetuvAdika#} {#°vAdin#}
+671712	3	{#hemakuqya#} {#°kuRdDya#} {#°kUwya#}
+671836	2	*{#hemadugDaka#} *{#°dugDin#}
+672196	3	{#hemAdrikAnanamAhAtmya#} {#hemAdrikAlanirUpaRa#} {#°kAlanirRaya#}
+672204	8	{#hemAdriwIkA#} {#hemAdridAnakARqa#} {#hemAdriprAyaScitta#} {#°kARqa#} {#hemAdrivrataviDi#} {#hemAdriSAnti#} {#hemAdrisUtrasTAna#} {#hemAdrIya#}
+672469	2	*{#hEtanAma#} {#°nAmana/#}
+672816	3	{#hotfva/rya#} {#°vU/rya#} {#°vU/ria#}
+672944	2	{#homadvayaprayoga#} {#°dvayasamAsaprayoga#}
+673055	2	{#horAmakaranda#} {#°makarandodAharaRa#}
+673631	2	{#hrItamuKa#} {#°muKi/n#}
+674123	2	<hom>1</hom> {#akAraRa#} {#°tas#}
+674603	2	{#agnyADeya#} {#°devatA#}
+676619	2	{#anAlamba#} {#°natA#}
+677003	3	{#anupakramaRIya#} {#°kramya#} {#°krAmya#}
+677275	2	{#anUrDvakarman#} {#°kriyA#}
+678367	2	<hom>1</hom> {#aBivAsas#} {#°vAsa#}
+678743	2	{#ayorajas#} {#°ska#}
+679203	2	{#avama#} {#°vAsara#}
+680267	3	{#AptamImAMsAlaMkfti#} {#°mImAMsAvivfti#} {#°mImAMsAvftti#}
+681661	2	{#aNgulivezwaka#} {#°vezwana#}
+681717	2	{#acira#} {#°tas#}
+682385	3	{#aDikaraRacintAmaRi#} {#°karaRaSAstra#} {#°karaRasArAvali#}
+682497	4	{#anantavratakalpa#} {#°vrataviDi#} {#anantAryadaSaka#} {#anantopanizad#}
+682701	2	{#aniNgya#} {#°SikzA#}
+682873	8	{#anumAna#} {#°kAYcana#} {#°KaRqa#} {#°nirUpaRa#} {#°prakASikA#} {#°praveSa#} {#°maRi#} {#°vAda#}
+682881	3	{#anumiti#} {#°mAnasatvavicAra#} {#°rahasya#}
+682965	2	{#antarBAvaprakASikA#} {#°rBAvavAda#}
+683017	2	{#anyAya#} {#°vftti#}
+683429	2	{#aBinnanimittopAdAna#} {#°samarTana#}
+683493	2	{#aBramupriya#} {#°tama#}
+683505	3	{#amarakoSapaYcikA#} {#°koSapadapArijAta#} {#°koSabfhadvftti#}
+683737	4	{#alaMkAranikarza#} {#°kAramayUKa#} {#°kArarahasya#} {#°kArarAGava#}
+683829	6	{#avacCedakatattvanirukti#} {#°CedakatAnirukti#} {#°CedakatAmAlA#} {#°CedakatAleSa#} {#°CedakatAvAda#} {#°CedakatAsAra#}
+683869	5	{#avayava#} {#°kroqa#} {#°granTa#} {#°wippaRI#} {#°SiromaRi#}
+683877	2	{#avarRI#} {#°SikzA#}
+683901	2	{#avasvApanikA#} {#°svApinI#}
+684077	6	{#azwaSlokI#} {#azwasTAnaparIkzA#} {#azwANganiGaRwu#} {#azwANgahfdayadIpikA#} {#°hfdayasaMhitA#} {#°hfdayasaMgraha#}
+684093	4	{#azwAdaSavAda#} {#°daSasmfti#} {#°smftisAra#} {#°daSArTavAda#}
+684101	4	{#azwottaraSatadivyadeSanirUpaRa#} {#°deSasTalamAhAtmya#} {#°sTalaSloka#} {#°Satopanizad#}
+684285	2	{#AkASaBErava#} {#°kalpa#}
+684433	2	{#AtmArpaRa#} {#°Sruti#}
+684473	3	{#ADAna#} {#°paYcaka#} {#°paYcakaprayoga#}
+684501	10	{#ApadevIya#} {#Apastambagfhya#} {#°stambaDarma#} {#°stambapUrvaprayoga#} {#°stambaprayoga#} {#°stambaSrOta#} {#°stambasAmAnyasUtraBAzya#} {#°stambasUtra#} {#°stambasmfti#} {#°stambAparasUtra#}
+684505	2	{#ApastamBa#} {#°stamBIya#}
+684589	10	{#AraRyakaBawwaBAskara#} {#AraRyakaBAzya#} {#AraRyakopanizad#} {#AraRyaBAzya#} {#AraRyamahAprastAnikA#} {#°prasTAnikA#} {#AraRyaSikzA#} {#AraRyopanizad#} {#ArADanakrama#} {#AruRaSikzA#}
+684633	2	{#AvarRI#} {#°SikzA#}
+684649	17	{#ASIrvacanamAlA#} {#ASOcakARqa#} {#ASOcacandrikA#} {#ASOcadIpikA#} {#ASOcaviDi#} {#ASOcaSataka#} {#ASramavAsaparvan#} {#ASramavAda#} {#ASvalAyanadIpikA#} {#ASvalAyanaDarma#} {#ASvalAyanapUrvaprayoga#} {#ASvalAyanaprAyaScitta#} {#ASvalAyanaSrOta#} {#°sUtra#} {#ASvalAyanasUtra#} {#ASvalAyanasTAlIpAka#} {#ASvalAyanasmfti#}
+684689	3	{#AhitAgnibrAhmaRa#} {#°gniviDAna#} {#AhnikaBAskara#}
+684869	2	{#uccodarki#} {#°rkI#}
+685117	3	{#upadeSasUtra#} {#°deSavivaraRa#} {#°deSasahasrakratuvyAKyA#}
+685241	2	{#UrDvapuRqraDAraRa#} {#°puRqravacana#}
+685257	2	{#UvaDya#} {#°goha/#}
+685269	12	{#fgvedapada#} {#°vedaprakftipada#} {#°vedapramARa#} {#°vedaprayoga#} {#°vedaprAtiSAKya#} {#°vedabrAhmaRa#} {#°vedaviDAna#} {#°vedaSivamantra#} {#°vedAraRyaka#} {#fjuvivaraRa#} {#fjuvftti#} {#fRavimocanaSAnti#}
+685405	2	{#ekAdaSaprayoga#} {#°daSaBAzAvyAKyA#}
+685417	2	{#ekAdaSImAhAtmya#} {#°daSIvratakalpa#}
+685601	2	{#kaRamUwaka#} {#°mUqaka#}
+685793	3	{#karmavipAkamahArRava#} {#°vipAkamADavIya#} {#karmAntavyAKyA#}
+685873	3	{#kalyARasOganDikA#} {#°nibanDana#} {#kalyARIpariRaya#}
+685945	3	{#kAntAlIya#} {#°KaRqana#} {#°KaRqanamaRqana#}
+685977	6	{#kArikAdarpaRa#} {#kArikAratna#} {#kArikAvali#} {#kArikAvyAKyA#} {#kArtavIryArjunakavaca#} {#°vIryArjunadIpArADanaviDi#}
+686265	2	{#kUrmaputrakaTA#} {#°putrakevalicaritra#}
+686501	2	{#KaqIna#} {#°pariqInaka#}
+686549	3	{#gajalakzaRa#} {#gajavEdya#} {#°SAstra#}
+686557	4	{#gajasUtravAda#} {#°sUtrArTavAda#} {#gajAvartalakzaRa#} {#gajendramokza#}
+686565	10	{#gaRakAnanda#} {#gaRacaturTIcandradarSanakaTA#} {#gaRaniGaRwu#} {#gaRapatipurARa#} {#°pativiDAna#} {#gaRaPalaviveka#} {#gaRitacandrikA#} {#gaRitaBAskara#} {#gaRitasaMgraha#} {#gaRitAmfta#}
+686653	12	{#gItAgUQArTadIpikA#} {#gItAtAtparya#} {#°candrikA#} {#°boDikA#} {#gItApratipada#} {#gItArTasaMgraha#} {#°rakzA#} {#gItAvivfti#} {#gItAsamaNgalAcArapadDati#} {#gItAsAra#} {#gIrvARaSloka#} {#guRapAWa#}
+686713	14	{#godApariRaya#} {#godAstuti#} {#gopadmavrata#} {#gopAlaratnAkara#} {#°pAlaviMSati#} {#gopIcandanamAhAtmya#} {#gopInATIya#} {#°pariBAzA#} {#govindagItA#} {#°vindarAjIya#} {#°vindavirudAvali#} {#govEdyaSAstra#} {#goSAstra#} {#gozWIpurImAhAtmya#}
+686777	10	{#caRqaBAskara#} {#caRqikAkilaka#} {#caRqikArgala#} {#caRqikAsaptati#} {#caturdaSatattvArTasArasaMgraha#} {#°rdaSalakzaRI#} {#°kroqa#} {#°jagadISIya#} {#°rdaSIstotra#} {#°rdaSopanizad#}
+686793	4	{#caturvedatattvArTasArasaMgraha#} {#°rvedatAtparya#} {#°saMgraha#} {#°sArasaMgraha#}
+686829	3	{#cannuBawwIya#} {#°niruktivivaraRa#} {#camakaBAzya#}
+686845	4	{#carakasaMdeSa#} {#caramaSlokacandrikA#} {#°SlokawippaRI#} {#caravikramacarita#}
+686857	7	{#caryApAda#} {#calAkzara#} {#°sUtra#} {#calitarAma#} {#cAkzuzIyanItiSAstra#} {#cAwuSloka#} {#cARakyasUtra#}
+686877	3	{#cAturmAsyaviDAna#} {#°rmAsyavrataviDi#} {#°rmAsyahOtra#}
+686901	3	{#cikitsAtantra#} {#°tsAdIpikA#} {#°tsAsArasaMgraha#}
+686909	9	{#citrapadDati#} {#citraraktapawa#} {#citraratnAkara#} {#cidambaranawana#} {#cidambaramAhAtmya#} {#cintAmaRipratyakza#} {#°maRivyAptivAda#} {#°maRiSabdaKaRqa#} {#cinmayadIkzAviDi#}
+686917	6	{#cUqAcandravijaya#} {#cUqAmaRinAwaka#} {#°maRimImAMsA#} {#corapaYcASat#} {#colacarita#} {#colapparAjIya#}
+686937	8	{#jagadvallaBa#} {#jagannATatarkapaYcAnana#} {#°nnATamAhAtmya#} {#°nnATIya#} {#jawAdarpaRa#} {#°mUla#} {#jawAmaRi#} {#°SikzA#}
+686953	20	{#janmavarzAdiPala#} {#jayantInirRaya#} {#jayantIvratakalpa#} {#jayarAmIya#} {#jalodanapaYcaka#} {#jAtakakiraRAvali#} {#jAtakapArijAta#} {#jAtakaPalavicAra#} {#jAtakamuktAPala#} {#jAtakaratna#} {#jAtakavizaya#} {#jAtakasaralI#} {#jAtakasArasaMgraha#} {#jAtakAdiprayoga#} {#jAtakAvalidIpikA#} {#°valipradIpikA#} {#jAtakAlaMkAra#} {#°cintAmaRi#} {#jAtiKaRqana#} {#jAticandrikA#}
+689607	2	{#arTasaMhata#} {#°saMhita#}
+690411	2	*{#AmravAwaka#} *{#°vAwika#}
+690795	2	{#uttarottaraBAva#} {#°Bava#}
+691479	2	*{#kawuSfNgAwa#} {#°SfNgAla#}
+691519	2	{#kanyAdUzayitar#} {#°dUzin#}
+691951	2	{#kfRuzvapAjavatI#} {#°pAjIyA#}
+692315	2	{#gAtra#} {#°yuta#}
+692323	2	{#gArDapfzwa#} {#°prazwa#}
+692415	2	*{#gozpadapUram#} *{#°padapram#}
+693151	2	*{#tfRapUla#} {#°pUlaka#}
+693223	3	{#tripurARaka#} {#°RikA#} {#tripurARIya#}
+694729	2	{#aprattadevata#} {#°dEvata#}
+694961	7	{#aBiDarma#} {#°jYAnaprasTAna#} {#°DarmaskanDapAda#} {#°prakaraRaSAsana#} {#°prakASasADana#} {#°vijYAnakAyapAda#} {#°viBAzA#}
+695285	2	{#arDaBAgika#} {#°BAgin#}
+695449	2	<hom>1</hom> {#asatpaTa#} {#°juz#}
+700403	2	{#avimfzwaviDeyAMSa#} {#°BAva#}
+701555	2	{#°udgrAhiRikA#} {#udgrAhaRikA#}
+701747	2	*{#uzRIzavijaya#} *{#°DAraRI#}
+702051	2	*{#karRapASI#} *{#°pAsI#}
+702295	2	{#ku/yavAc#} {#°vAca#}
+702367	2	{#kftavApa#} {#°vApana#}
+702571	2	*{#Keqqa#} *{#°tAla#}
+703135	2	{#jalakAnta#} {#°kAntASman#}
+705007	2	{#pAta#} *{#°Beda#}
+706893	2	{#atiBUmi#} {#°vartin#}
+707433	2	{#anftakAraka#} {#°kArin#}
+709289	4	{#kutapahAra#} {#kuTahAra#} {#°hAri#} {#°hArI#}
+710033	2	{#devaniSrayaRI#} {#°niSreRI#}
+710509	2	{#puruniHzi/D#} {#°zi/Dvan#}
+711065	2	*{#mAtaNgavedi#} *{#°vedI#}
+711353	2	{#vajrapAtAy#} {#°yita#}
+712648	2	{#agastI#} {#°ya#}
+713168	2	{#aGapaYcavivecana#} {#°paYcazazwi#}
+713432	2	{#aNgulivezwaka#} {#°vezwana#}
+714348	4	{#aticikkaRa#} {#aticitram#} {#aticirasya#} {#°cirAt#}
+716040	16	{#advEta#} {#°dIpikAsAkziviveka#} {#°nirRaya#} {#°paYcapadI#} {#°paYcaratna#} {#°pariBAzA#} {#°bahizkAra#} {#°boDa#} {#°maNgala#} {#°muKara#} {#°ratnakoSa#} {#°rahasya#} {#°vidyAvijaya#} {#°vidyAvilAsa#} {#°vyAKyA#} {#°saMgraha#}
+716216	5	{#aDikaraRa#} {#°cintAmaRi#} {#°SAstra#} {#°sArAvali#} {#aDikarRa#}
+716244	2	{#aDikAritA#} {#°ritva#}
+717056	4	{#anantargarBaka#} {#°rgarBin#} {#a/nantarhiti#} {#anantavAta#}
+717064	2	{#anantavratakalpa#} {#°vrataviDi#}
+717832	2	{#anAgAmin#} {#°mitva#}
+717864	3	{#anAtura#} {#anAtmajYa#} {#°tA#}
+717960	2	{#anAdyanta#} {#°tva#}
+718260	2	{#anikziptaDura#} {#°DUra#}
+718944	8	{#a/nunmukta#} {#anupakaraRIya#} {#anupakurvARa#} {#anupakramaRIya#} {#°kramya#} {#°krAmya#} {#anupagama#} {#anupagfhIta#}
+719300	2	{#anuyogin#} {#°gitA#}
+719468	2	{#anuzWAyajYayajYIya#} {#°yajYAyajYIya#}
+719624	2	{#anftakAraka#} {#°kArin#}
+719632	2	{#anftavAdin#} {#°ditA#}
+719888	2	{#antarAvedi#} {#°vedI#}
+719972	2	{#antarBAvaprakASikA#} {#°rBAvavAda#}
+720248	2	{#anyapara#} {#°tva#}
+720272	2	{#anyavarRa#} {#°tva#}
+720288	2	{#anyAya#} {#°vftti#}
+720696	2	{#apamada#} {#°apamAnaka#}
+720792	2	{#aparADIna#} {#°tA#}
+721260	2	{#°apahft#} {#apahelana#}
+722060	4	{#aprattadevata#} {#°dEvata#} {#aprattasOvizwakfta#} {#aprattAprahutAda#}
+722876	3	{#aBinnanimittopAdAna#} {#°samarTana#} {#aBinnaparivArA#}
+722912	3	{#aBipiNgala#} {#aBipIta#} {#°tva#}
+723140	2	<hom>1</hom> {#aBivAsa#} {#°vAsas#}
+723628	3	{#amadana#} {#amadyamadyant#} {#°mAdyant#}
+723688	3	{#amarakoSapaYcikA#} {#°koSapadapArijAta#} {#°koSabfhadvftti#}
+723900	2	{#amftaturaMga#} {#°taraMga#}
+724372	2	{#ayorajas#} {#°ska#}
+724976	2	{#arTasaMhata#} {#°saMhita#}
+725064	2	{#arDadroRika#} {#°drORika#}
+725136	3	{#arDaBAgika#} {#°BAgin#} {#arDaBukta#}
+725312	2	{#arSasin#} {#°arhaka#}
+725388	2	{#alaMkAranikarza#} {#°kAramayUKa#}
+725396	2	{#alaMkArarahasya#} {#°kArarAGava#}
+725792	7	{#avacCedakatattvanirukti#} {#°CedakatAnirukti#} {#°CedakatAmAlA#} {#°CedakatAleSa#} {#°CedakatAvAda#} {#°CedakatAsAra#} {#avajayana#}
+725880	3	{#avaDAnavant#} {#°avaDika#} {#avaDI#}
+726088	2	{#avarRI#} {#°SikzA#}
+726316	2	{#avasvApanikA#} {#°svApinI#}
+726624	3	{#avitfptaka#} {#avitfz#} {#°tfza#}
+726788	2	{#avimanas#} {#°naska#}
+726820	2	{#avimfzwaviDeyAMSa#} {#°BAva#}
+727444	3	{#aSItyakzara#} {#°tva#} {#aSIrRAgra#}
+727528	2	{#aSocya#} {#°tA#}
+727712	2	{#aSvaprapadana#} {#°padanIya#}
+727880	3	{#azwANgahfdayadIpikA#} {#°hfdayasaMhitA#} {#°hfdayasaMgraha#}
+727908	4	{#azwAdaSavAda#} {#°daSasmfti#} {#°smftisAra#} {#°daSArTavAda#}
+727940	4	{#azwottaraSatadivyadeSanirUpaRa#} {#°deSasTalamAhAtmya#} {#°sTalaSloka#} {#°Satopanizad#}
+729432	2	{#AkASaBErava#} {#°kalpa#}
+729676	2	{#AgastI#} {#°ya#}
+729884	3	{#AjakaroRa#} {#°rORa#} {#AjAtaSAtrava#}
+730208	3	{#AtmaSlAGana#} {#°nA#} {#°SlAGA#}
+730460	2	{#ADAnapaYcaka#} {#°prayoga#}
+730488	2	{#ADItayajus#} {#°yajuzwva/#}
+730696	12	{#Apastamba#} {#°gfhya#} {#°Darma#} {#°pUrvaprayoga#} {#°prayoga#} {#°SrOta#} {#°sAmAnyasUtraBAzya#} {#°sUtra#} {#°smfti#} {#ApastambAparasUtra#} {#ApastamBa#} {#ApastamBIya#}
+730776	5	{#AptacCandas#} {#AptamImAMsAlaMkfti#} {#°mImAMsAvivfti#} {#°mImAMsAvftti#} {#Aptar#}
+730996	2	{#AmravAwaka#} {#°vAwika#}
+731064	3	{#AyAsita#} {#AyuHpati#} {#°patnI#}
+731100	2	{#Ayuzpati#} {#°patnI#}
+731428	2	{#AlAla#} {#°mehin#}
+731492	2	{#AvarRI#} {#°SikzA#}
+731708	6	{#ASOca#} {#°kARqa#} {#°candrikA#} {#°dIpikA#} {#°viDi#} {#°Sataka#}
+731764	10	{#ASvalAyana#} {#°dIpikA#} {#°Darma#} {#°pUrvaprayoga#} {#°prAyaScitta#} {#°SrOta#} {#°SrOtasUtra#} {#°sUtra#} {#°sTAlIpAka#} {#°smfti#}
+732044	4	{#ikzudaRqamaya#} {#ikzumaya#} {#ikzuyazwi#} {#°maya#}
+732424	3	{#izuDanva/#} {#°Danvan#} {#°Danvi/n#}
+732828	2	{#uccodarki#} {#°rkI#}
+732944	2	<hom>2</hom> {#utka#} {#°tA#}
+733296	2	{#utTApana#} {#°pinI#}
+734208	2	{#upaDivAra#} {#°vArika#}
+735012	3	{#uzRIzavijaya#} {#°DAraRI#} {#uzRIzavijayA#}
+735144	2	{#UrDvapuRqraDAraRa#} {#°puRqravacana#}
+735272	9	{#fgvedapada#} {#°vedaprakftipada#} {#°vedapramARa#} {#°vedaprayoga#} {#°vedaprAtiSAKya#} {#°vedabrAhmaRa#} {#°vedaviDAna#} {#°vedaSivamantra#} {#°vedAraRyaka#}
+735824	4	{#ekAdaSaprayoga#} {#°daSaBAzAvyAKyA#} {#ekAdaSarca/#} {#ekAdaSavyUha#}
+735840	2	{#ekAdaSImAhAtmya#} {#°daSIvratakalpa#}
+736468	2	{#kaNkapfzWin#} {#°pfzWI#}
+736584	2	{#kawutumbinI#} {#°tumbI#}
+736588	2	{#kawuSfNgAwa#} {#°SfNgAla#}
+736620	2	{#kaRamUwaka#} {#°mUqaka#}
+736784	2	{#kanakadatta#} {#°danta#}
+736868	3	{#kanyAdarSam#} {#kanyAdUzayitar#} {#°dUzin#}
+737192	2	{#karRapASI#} {#°pAsI#}
+737332	2	{#karmavipAkamahArRava#} {#°vipAkamADavIya#}
+737616	7	{#kalyARaGfta#} {#kalyARapurImAhAtmya#} {#kalyARalakzaRa#} {#kalyARasOganDikA#} {#°nibanDana#} {#kalyARIpariRaya#} {#kallAwa#}
+737808	3	{#kARAdasaMgraha#} {#kARuBawwa#} {#°BawwIya#}
+737876	3	{#kAntAlIya#} {#°KaRqana#} {#°KaRqanamaRqana#}
+738056	5	{#kArikA#} {#°darpaRa#} {#°ratna#} {#°vali#} {#°vyAKyA#}
+738084	3	{#kArtavIryArjuna#} {#°kavaca#} {#°dIpArADanaviDi#}
+738192	2	{#kAlapfzwa#} {#°zWa#}
+738280	4	{#kAlikulAmfta#} {#kAlita#} {#kAlidAsacandrikA#} {#°dAsapaYcASat#}
+738340	4	{#kASI#} {#°kArikA#} {#°dAsaprahasana#} {#°DarmasaBA#}
+738352	3	{#kASyapa#} {#°saMhitA#} {#°sUtra#}
+738372	2	{#kAzWAluka#} {#°latA#}
+738748	3	{#kuTahAra#} {#°hAri#} {#°hArI#}
+739216	4	{#kUrmaputrakaTA#} {#°putrakevalicaritra#} {#kUrmamAhAtmya#} {#kUrmAkftimudgAlakzaRagranTa#}
+739236	3	{#kfcCrasADya#} {#kfRuzvapAjavatI#} {#°pAjIyA#}
+739676	4	{#kEyawa#} {#°pradIpa#} {#°BAzyapradIpikA#} {#°wIya#}
+739848	3	{#kOtuka#} {#°rahasya#} {#°sarvasva#}
+740528	2	{#KaqIna#} {#°pariqInaka#}
+740672	2	{#KalekapotanyAya#} {#°kapotikA#}
+740772	2	{#Keqqa#} {#°tAla#}
+740824	3	{#gaNgarAmaBawwa#} {#°BawwIya#} {#gaNgAstava#}
+740844	5	{#gajaBawwa#} {#gajareva#} {#gajalakzaRa#} {#gajavEdya#} {#°SAstra#}
+740852	2	{#gajasUtravAda#} {#°sUtrArTavAda#}
+740936	4	{#gaRaniGaRwu#} {#gaRapatipurARa#} {#°pativiDAna#} {#gaRaPalaviveka#}
+740952	5	{#gaRita#} {#°candrikA#} {#°BAskara#} {#°saMgraha#} {#gaRitAmfta#}
+740972	2	{#gaReSvaradIkzita#} {#°tIya#}
+741404	5	{#gAyatrI#} {#°kalpa#} {#°kavaca#} {#°tattvadarpaRa#} {#°tAtparya#}
+741428	2	{#gArDapfzwa#} {#°prazwa#}
+741476	11	{#gItA#} {#°gUQArTadIpikA#} {#°tAtparya#} {#°tAtparyacandrikA#} {#°tAtparyaboDikA#} {#°pratipada#} {#°rTasaMgraha#} {#°rTasaMgraharakzA#} {#°vivfti#} {#°samaNgalAcArapadDati#} {#°sAra#}
+741556	2	*{#guRastu#} *{#°stU#}
+741620	2	{#guruvartin#} {#°rtitva#}
+741852	2	{#gotrin#} {#°tritva#}
+741904	2	{#gopAlaratnAkara#} {#°pAlaviMSati#}
+741916	3	{#gopIcandanamAhAtmya#} {#gopInATIya#} {#°pariBAzA#}
+741928	2	{#goPaRA#} {#°PaRikA#}
+741984	3	{#govindarAjIya#} {#°vindavirudAvali#} {#govEdyaSAstra#}
+742012	2	{#gozpadapUram#} {#°pram#}
+742024	2	{#gOqabrahmAnanda#} {#°nandIya#}
+742056	3	{#gOrI#} {#°kAntIya#} {#°paYcANga#}
+742584	4	{#caRqikA#} {#°kIlaka#} {#°rgala#} {#°saptati#}
+742632	4	{#caturdaSatattvArTasArasaMgraha#} {#°rdaSalakzaRI#} {#°kroqa#} {#°jagadISIya#}
+742640	2	{#caturdaSIstotra#} {#°rdaSopanizad#}
+742720	4	{#caturvedatattvArTasaMgraha#} {#°rvedatAtparya#} {#°saMgraha#} {#°sArasaMgraha#}
+742876	2	{#cannuBawwIya#} {#°niruktivivaraRa#}
+742904	5	{#cayana#} {#°kArikA#} {#°purARaBAzya#} {#°prayoga#} {#°mantrapada#}
+742956	3	{#caramaSlokacandrikA#} {#°SlokawippaRI#} {#caravikramacarita#}
+743012	3	{#calAkzara#} {#°sUtra#} {#calitarAma#}
+743060	4	{#cAturmAsyatva#} {#cAturmAsyaviDAna#} {#°mAsyavrataviDi#} {#°rmAsyahOtra#}
+743068	2	{#cAturvedya#} {#°rvEdya#}
+743312	3	{#cidambara#} {#°nawana#} {#°mAhAtmya#}
+743336	5	{#cintAmaRi#} {#°pratyakza#} {#°vyAptivAda#} {#°SabdaKaRqa#} {#cinmayadIkzAviDi#}
+743436	4	{#cUqA#} {#°candravijaya#} {#°maRinAwaka#} {#°maRimImAMsA#}
+743752	7	{#jagatsUtravAdArTa#} {#jagadAnanda#} {#jagadISIya#} {#jagadvallaBa#} {#jagannATatarkapaYcAnana#} {#°nnATamAhAtmya#} {#°nnATIya#}
+743776	2	{#jawAdarpaRa#} {#°mUla#}
+743784	2	{#jawAmaRi#} {#°SikzA#}
+743968	3	{#jayantI#} {#°nirRaya#} {#°vratakalpa#}
+744136	14	{#jAtaka#} {#°kiraRAvali#} {#°pArijAta#} {#°PalavicAra#} {#°muktAPala#} {#°ratna#} {#°vizaya#} {#°saralI#} {#°sArasaMgraha#} {#°kAdiprayoga#} {#°kAlaMkAra#} {#°kAlaMkAracintAmaRi#} {#°kAvalidIpikA#} {#°kAvalipradIpikA#}
+745836	2	{#tripurARaka#} {#°purARIya#}
+745980	2	{#trihalikAgrAma#} {#°halikASrama#}
+746380	2	{#daSaraTalalitavrata#} {#°lalitAvrata#}
+746812	2	{#durIkza#} {#°tA#}
+747132	2	{#devaniSrayaRI#} {#°niSreRI#}
+747156	2	{#devamanuzya/#} {#°zya^#}
+747560	2	{#dvipAtrika#} {#°pAtrIRa#}
+747664	7	{#dvyAcita#} {#°citika#} {#°citIna#} {#dvyAQaka#} {#dvyAQakika#} {#dvyAQakIna#} {#dvyArzeya#}
+747900	2	<hom>2</hom> {#Davalapakza#} {#°vihaMgama#}
+748980	2	{#nirudDapakaSa#} {#°prakaSa#}
+749204	4	{#nirhrAdana#} {#°nilAyin#} {#°yitA#} {#nilopam#}
+750448	2	{#parAgvadana#} {#°SAlin#}
+750772	2	{#pariharaRIya#} {#°tA#}
+751624	2	{#putrasahasraka#} {#°sahasrin#}
+751732	2	{#puruniHzi/D#} {#°zi/Dvan#}
+751824	2	{#puzparAga#} {#°rAja#}
+751852	2	{#puzyarAga#} {#°rAja#}
+752472	2	*{#pratipraSrabDi#} {#°srabDi#}
+752520	2	{#pratimAsaMprokzaRa#} {#°kzaRam#}
+753668	2	{#Puwwaka#} {#°vastra#}
+753828	6	{#baliSa#} {#°Si#} {#°SI#} {#balih#} {#balIvAka#} {#balUka#}
+753876	3	{#bahiHsadas#} {#°sadasam#} {#bahiHstomaBAga/m#}
+753928	3	{#bahuvarzasahasraka#} {#°sahasrin#} {#bahuvyApin#}
+754116	2	{#budDakzetravaralocana#} {#°kzetrasamADi#}
+754204	2	{#boDicittavivaraRa#} {#°cittotpAdanaSAstra#}
+754332	2	{#BaktIdyAvApfTivI#} {#°pfTivya#}
+754644	2	{#BAvayatin#} {#°yati#}
+755172	2	{#maRqUka#} {#°kI#}
+755388	2	{#manuzyanAma/#} {#°nAma/n#}
+756712	2	{#yavaSasya#} {#°sasya#}
+756804	2	{#yugapraDAnasvarUpa#} {#°praDAnapawwAvalIsUtra#}
+756836	2	{#yuvarAja#} {#°divAkara#}
+757044	2	{#raDra/#} {#°tu/r#}
+757148	2	{#rAjImatI#} {#°parityAga#}
+757188	2	{#rAmakAyaRa/#} {#°na#}
+757420	2	{#laGusamudIraRa#} {#°tva#}
+757468	2	{#labDasaMhAra#} {#°saMBAra#}
+757924	4	{#varzasahasraka#} {#°sahasrika#} {#°sahasrin#} {#°sahasrIya#}
+758164	2	{#vAmanaka#} {#°nikA#}
+759040	2	{#vi/zRvanuzWita#} {#°sTita#}
+759716	2	{#SabdaprAC#} {#°prAS#}
+762228	2	{#hastikakza#} {#°kakzya#}
+763218	2	{#uSa/daG#} {#°dah#}
+764262	2	{#maRqalISa#} {#°leSa#}
+764430	2	{#vaDASaNka#} {#°NkA/#}

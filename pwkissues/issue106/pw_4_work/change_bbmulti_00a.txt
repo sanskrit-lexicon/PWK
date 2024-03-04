@@ -1,0 +1,719 @@
+; ********************************************************
+; changes from change_bbmulti_00.txt to change_bbmulti_00a.txt
+; 01: 18  Root editing
+; 02: 46 (a)misplaced '*'; (b) {#X Y#} -> {#X} {#Y}; drop alternate
+; 03: 39 remove text between '#} and {#'
+; 04: 85 {#A#} -> {#°A#} (55), {#I#} -> {#°I#} (30)
+; ********************************************************
+; ********************************************************
+; 01: 18  Root editing
+; ********************************************************
+95 old 7289	2√	*{#aRqara#} davon *{#aRqarAy#}
+;
+95 new 7289	2√	*{#aRqara#} *{#aRqarAy#}
+;---------------------------------------------------
+520 old 46815	4√	*{#avagalB#} {#°lBate#} *{#avagalBAy#} {#°yate#}
+;
+520 new 46815	2√	*{#avagalB#} *{#avagalBAy#}
+;---------------------------------------------------
+1145 old 106470	4√	*{#olaRq#} {#°Rqayati#} *{#olj#} {#oljayati#}
+;
+1145 new 106470	2√	*{#olaRq#} *{#olj#}
+;---------------------------------------------------
+1457 old 134226	4√	{#kuc#} {#kucati#} {#kuYc#} {#kuYcate#}
+;
+1457 new 134226	2√	{#kuc#} {#kuYc#}
+;---------------------------------------------------
+1875 old 173126	4√	*{#guP#} *{#guPati#} {#gumP#} {#gumPati#}
+;
+1875 new 173126	2√	*{#guP#} {#gumP#}
+;---------------------------------------------------
+1967 old 181931	4√	*{#GaMz#} {#GaMzate#} *{#GaMs#} {#GaMsate#}
+;
+1967 new 181931	2√	*{#GaMz#} *{#GaMs#}
+;---------------------------------------------------
+1968 old 181935	4√	*{#GagG#} {#GagGati#} *{#GaG#} {#GaGati#}
+;
+1968 new 181935	2√	*{#GagG#} *{#GaG#}
+;---------------------------------------------------
+2271 old 213299	6√	*{#Jarc#} {#Jarcati#} *{#JarC#} {#JarCati#} *{#JarJ#} {#JarJati#}
+;
+2271 new 213299	3√	*{#Jarc#} *{#JarC#} *{#JarJ#}
+;---------------------------------------------------
+2290 old 214472	4√	*{#qimp#} {#qimpayate#} *{#qimb#} {#qimbayate#}
+;
+2290 new 214472	2√	*{#qimp#} *{#qimb#}
+;---------------------------------------------------
+2483 old 231042	6√	*{#traK#} {#traKati#} *{#traNk#} {#traNkati#} *{#traNg#} {#traNgati#}
+;
+2483 new 231042	3√	*{#traK#} *{#traNk#} *{#traNg#}
+;---------------------------------------------------
+2529 old 234731	8√	*{#trup#} {#tropati#} *{#truP#} {#troPati#} *{#trump#} {#trumpati#} *{#trumP#} {#trumPati#}
+;
+2529 new 234731	4√	*{#trup#} *{#truP#} *{#trump#} *{#trumP#}
+;---------------------------------------------------
+2846 old 260733	4√	*{#dramp#} {#dampati#} *{#dramP#} {#damPati#}
+;
+2846 new 260733	2√	*{#dramp#} *{#dramP#}
+;---------------------------------------------------
+3104 old 286941	3√	<hom>1</hom> {#nid#} {#ninidu/s nidAna/ nidya/mAna#} {#nind#}
+;
+3104 new 286941	2√	<hom>1</hom> {#nid#} {#nind#}
+;---------------------------------------------------
+4640 old 439761	4√	*{#mlew#} {#mlewati#} *{#mleq#} {#mleqti#}
+;
+4640 new 439761	2√	*{#mlew#} *{#mleq#}
+;---------------------------------------------------
+4777 old 451405	4√	*{#yOw#} {#yOwati#} *{#yOq#} {#yOqati#}
+;
+4777 new 451405	2√	*{#yOw#} *{#yOq#}
+;---------------------------------------------------
+4968 old 469846	4√	*{#rOw#} {#rOwati#} *{#rOq#} {#rOqati#}
+;
+4968 new 469846	2√	*{#rOw#} *{#rOq#}
+;---------------------------------------------------
+6108 old 577879	5√	*{#zvazk#} {#zvazkati #} {#°te#} *{#zvask#} {#zvaskate#}
+;
+6108 new 577879	2√	*{#zvazk#} *{#zvask#}
+;---------------------------------------------------
+8283 old 744612	4√	{#JaMkfti#} {#Jaw#} mit {#nis#} {#JaRajJaRatkArin#}
+;
+8283 new 744612	3√	{#JaMkfti#} {#Jaw#} {#JaRajJaRatkArin#}
+;---------------------------------------------------
+; ********************************************************
+; 02: 46 (a)misplaced '*'; (b) {#X Y#} -> {#X} {#Y}; drop alternate
+; ********************************************************
+391 old 36207	2	*{#aByeza#} * {#aByezIya aByezya#}
+;
+391 new 36207	3	*{#aByeza#} {#aByezIya#} {#aByezya#}
+;---------------------------------------------------
+393 old 36215	2	*{#aByoza#} * {#aByozIya aByozya#}
+;
+393 new 36215	3	*{#aByoza#} {#aByozIya#} {#aByozya#}
+;---------------------------------------------------
+461 old 41911	2	{#arere#} {#are 're#}
+; drop alternate
+461 new 41911	1	{#arere#}
+;---------------------------------------------------
+465 old 42273	2	{#arkASvameDa#} * {#°Da/u#}
+;
+465 new 42273	2	{#arkASvameDa#} {#°Da/u#}
+;---------------------------------------------------
+684 old 63284	3	{#AcAramayUKa#} {#°mADava °mADavIya#} {#°ratna#}
+;
+684 new 63284	4	{#AcAramayUKa#} {#°mADava#} {#°mADavIya#} {#°ratna#}
+;---------------------------------------------------
+877 old 81298	8	{#Idf/kza#} {#A#} {#IdfgviDa Idf/S#} {#Idf/N#} {#Idfk#} {#Idf/Sa#} {#I#} {#IdfSaka#}
+;
+877 new 81298	9	{#Idf/kza#} {#A#} {#IdfgviDa#} {#Idf/S#} {#Idf/N#} {#Idfk#} {#Idf/Sa#} {#I#} {#IdfSaka#}
+;---------------------------------------------------
+967 old 91870	2	{#upadeSya^#} {#upadeSi/a upadeSya#}
+;
+967 new 91870	3	{#upadeSya^#} {#upadeSi/a#} {#upadeSya#}
+;---------------------------------------------------
+1189 old 109182	3	{#kaNkeli#} *{#kaNkella kaNkelli#} {#kakellI#}
+;
+1189 new 109182	4	{#kaNkeli#} *{#kaNkella#} {#kaNkelli#} {#kakellI#}
+;---------------------------------------------------
+1322 old 121100	5	{#kalindakanyA#} *{#kalindatanayA kalindanandinI#} *{#kalindaSElajAtA#} {#kalindasutA#} {#kalindAtmajA#}
+;
+1322 new 121100	6	{#kalindakanyA#} *{#kalindatanayA#} {#kalindanandinI#} *{#kalindaSElajAtA#} {#kalindasutA#} {#kalindAtmajA#}
+;---------------------------------------------------
+1494 old 137573	3	{#kumudinInAyaka#} *{#kumudinIpati kumudinIvaDUvara#} *{#kumudeSa#}
+;
+1494 new 137573	4	{#kumudinInAyaka#} *{#kumudinIpati#} {#kumudinIvaDUvara#} *{#kumudeSa#}
+;---------------------------------------------------
+1759 old 161729	2	*{#KARqavIraRa#} {#KaRqa vIraRa#}
+;
+1759 new 161729	3	*{#KARqavIraRa#} {#KaRqa#} {#vIraRa#}
+;---------------------------------------------------
+1816 old 167205	3	{#gayApadDati#} {#gayApraGawwaka gayAmAhAtmya#} {#gayAyAtrAprayoga#}
+;
+1816 new 167205	4	{#gayApadDati#} {#gayApraGawwaka#} {#gayAmAhAtmya#} {#gayAyAtrAprayoga#}
+;---------------------------------------------------
+1850 old 170384	3	{#gAyatrIpaYcANga#} {#°paYjara °puraScaraRa °BAzya#} {#°rahasya#}
+;
+1850 new 170384	5	{#gAyatrIpaYcANga#} {#°paYjara#} {#°puraScaraRa#} {#°BAzya#} {#°rahasya#}
+;---------------------------------------------------
+2020 old 188285	2	{#cana/#} {#ca na/#}
+; drop alternate
+2020 new 188285	1	{#cana/#}
+;---------------------------------------------------
+2132 old 200712	4	{#jagatIpati#} {#°kanyakA#} {#°pAla °Bartar#} {#°Buj#}
+;
+2132 new 200712	5	{#jagatIpati#} {#°kanyakA#} {#°pAla#} {#°Bartar#} {#°Buj#}
+;---------------------------------------------------
+2183 old 206722	5	{#jAtakasaMgraha#} {#°sAra °sena °kABaraRa#} {#°kAmfta#} {#°kAmBoniDi#} {#°kArRava#}
+;
+2183 new 206722	7	{#jAtakasaMgraha#} {#°sAra#} {#°sena#} {#°kABaraRa#} {#°kAmfta#} {#°kAmBoniDi#} {#°kArRava#}
+;---------------------------------------------------
+2209 old 208655	3	{#jinapraBAsUri#} *{#jinabanDu jinaBaktisUri#} {#jinaBadrasUri#}
+;
+2209 new 208655	4	{#jinapraBAsUri#} *{#jinabanDu#} {#jinaBaktisUri#} {#jinaBadrasUri#}
+;---------------------------------------------------
+2357 old 219786	3	{#tarkAmfta#} {#°cazaka °cazakatAtparyawIkA#} {#°taraMgiRI#}
+;
+2357 new 219786	4	{#tarkAmfta#} {#°cazaka#} {#°cazakatAtparyawIkA#} {#°taraMgiRI#}
+;---------------------------------------------------
+2593 old 238293	3	{#dattoBi#} {#dattoBri dattori#} {#dattoli#}
+;
+2593 new 238293	4	{#dattoBi#} {#dattoBri#} {#dattori#} {#dattoli#}
+;---------------------------------------------------
+2684 old 245527	2	{#dititanaya#} {#ditinandana ditisuta#}
+;
+2684 new 245527	3	{#dititanaya#} {#ditinandana#} {#ditisuta#}
+;---------------------------------------------------
+2690 old 246087	2	<hom>3</hom> {#di/v#} {#dyu/ diu/#}
+;
+2690 new 246087	3	<hom>3</hom> {#di/v#} {#dyu/#} {#diu/#}
+;---------------------------------------------------
+2760 old 253217	3	{#dusTa#} {#dusTita dusTiti dusTeya duspfSa#} {#duspfzwa#}
+;
+2760 new 253217	6	{#dusTa#} {#dusTita#} {#dusTiti#} {#dusTeya#} {#duspfSa#} {#duspfzwa#}
+;---------------------------------------------------
+2808 old 257713	3	{#devAsuranamaskfta#} {#°ramahAmAtra °ramahASraya °ramaheSvara °ravaraprada#} {#°reSvara#}
+;
+2808 new 257713	6	{#devAsuranamaskfta#} {#°ramahAmAtra#} {#°ramahASraya#} {#°ramaheSvara#} {#°ravaraprada#} {#°reSvara#}
+;---------------------------------------------------
+2843 old 260544	2	<hom>1</hom> {#dyo/tana#} {#dyotana/ dio/tana#}
+;
+2843 new 260544	3	<hom>1</hom> {#dyo/tana#} {#dyotana/#} {#dio/tana#}
+;---------------------------------------------------
+2914 old 266679	3	*{#DanvayavAsa#} *{#°ka °yAsa#} {#°yAsaka#}
+;
+2914 new 266679	4	*{#DanvayavAsa#} *{#°ka#} {#°yAsa#} {#°yAsaka#}
+;---------------------------------------------------
+3020 old 278763	3	{#nayaboDikA#} {#nayamaRimAlikA nayamayUKamAlikA#} {#nayaratnamAlA#}
+;
+3020 new 278763	4	{#nayaboDikA#} {#nayamaRimAlikA#} {#nayamayUKamAlikA#} {#nayaratnamAlA#}
+;---------------------------------------------------
+3105 old 287095	3	{#nideSakArin#} {#nideSakft nideSaBAj#} {#nideSavartin#}
+;
+3105 new 287095	4	{#nideSakArin#} {#nideSakft#} {#nideSaBAj#} {#nideSavartin#}
+;---------------------------------------------------
+3319 old 307575	3	<hom>2</hom> {#pa/T#} {#paTi/ pa/nTan#} {#pa/nTA#}
+;
+3319 new 307575	4	<hom>2</hom> {#pa/T#} {#paTi/#} {#pa/nTan#} {#pa/nTA#}
+;---------------------------------------------------
+3328 old 308604	30	{#padArTakOmudI#} {#padArTaKaRqana#} {#°wippaRa °wIkA#} {#°vyAKyA#} {#°SiromaRi#} {#padArTacandrikA#} {#°vilAsa#} {#padArTatatva#} {#°wIkA#} {#°nirUpaRa#} {#°nirRaya#} {#°vivecana#} {#°vivecanaprakASa#} {#padArTadIpikA#} {#padArTadIpinI#} {#padArTaDarmasaMgraha#} {#padArTanirUpaRa#} {#padArTapArijAta#} {#padArTaprakASa#} {#padArTaboDa#} {#padArTamaRimAlA#} {#°prakASa#} {#padArTamAlA#} {#°dIpikA#} {#°prakASa#} {#padArTaratnamaYjUzA#} {#°ratnamAlA#} {#padArTaviveka#} {#padArTasaMgraha#} {#padArTAdarSa#}
+;
+3328 new 308604	31	{#padArTakOmudI#} {#padArTaKaRqana#} {#°wippaRa#} {#°wIkA#} {#°vyAKyA#} {#°SiromaRi#} {#padArTacandrikA#} {#°vilAsa#} {#padArTatatva#} {#°wIkA#} {#°nirUpaRa#} {#°nirRaya#} {#°vivecana#} {#°vivecanaprakASa#} {#padArTadIpikA#} {#padArTadIpinI#} {#padArTaDarmasaMgraha#} {#padArTanirUpaRa#} {#padArTapArijAta#} {#padArTaprakASa#} {#padArTaboDa#} {#padArTamaRimAlA#} {#°prakASa#} {#padArTamAlA#} {#°dIpikA#} {#°prakASa#} {#padArTaratnamaYjUzA#} {#°ratnamAlA#} {#padArTaviveka#} {#padArTasaMgraha#} {#padArTAdarSa#}
+;---------------------------------------------------
+3383 old 315922	4	{#pariSizwaprakASa#} {#°prakASasya sAramaYjarI#} {#°SizwapraboDa#} {#°SizwasidDantaratnAkara#}
+;
+3383 new 315922	5	{#pariSizwaprakASa#} {#°prakASasya#} {#sAramaYjarI#} {#°SizwapraboDa#} {#°SizwasidDantaratnAkara#}
+;---------------------------------------------------
+3525 old 328708	3	*{#piRqamUla#} {#°ka#} {#piRqAkAraM mUlakam#}
+;
+3525 new 328708	2	*{#piRqamUla#} {#°ka#}
+;---------------------------------------------------
+3545 old 330103	3	{#pilipicCa#} {#°picCi °picCika#} {#°piYja#}
+;
+3545 new 330103	4	{#pilipicCa#} {#°picCi#} {#°picCika#} {#°piYja#}
+;---------------------------------------------------
+3562 old 332113	3	{#puYjikasTalA/#} {#°sTalI puYjikAstanA#} *{#puYjikAsTalA#}
+;
+3562 new 332113	4	{#puYjikasTalA/#} {#°sTalI#} {#puYjikAstanA#} *{#puYjikAsTalA#}
+;---------------------------------------------------
+3810 old 358065	14	{#prayogapArijAta#} {#prayogamayUKa#} {#prayogamuktAvalI#} {#prayogamuKa#} {#prayogaratnamAlA#} {#°ratnamAlikA#} {#prayogaratnAkara#} {#prayogaratnAvali#} {#prayogaviveka#} {#prayogavftti#} {#prayogavEjayantI#} {#prayogasaraRi#} {#prayogasAra °sArasamuccaya#} {#prayogasetu#}
+;
+3810 new 358065	15	{#prayogapArijAta#} {#prayogamayUKa#} {#prayogamuktAvalI#} {#prayogamuKa#} {#prayogaratnamAlA#} {#°ratnamAlikA#} {#prayogaratnAkara#} {#prayogaratnAvali#} {#prayogaviveka#} {#prayogavftti#} {#prayogavEjayantI#} {#prayogasaraRi#} {#prayogasAra#} {#°sArasamuccaya#} {#prayogasetu#}
+;---------------------------------------------------
+4591 old 435299	3	{#mftyulaNGanopanizad#} {#mftyulANgala °lANgalopanizad#} {#mftyulANgUla#}
+;
+4591 new 435299	4	{#mftyulaNGanopanizad#} {#mftyulANgala#} {#°lANgalopanizad#} {#mftyulANgUla#}
+;---------------------------------------------------
+5190 old 495682	2	{#vAkra#} {#vAkraM suvAtram#}
+; drop alternate
+5190 new 495682	1	{#vAkra#}
+;---------------------------------------------------
+5366 old 514427	4	{#viBIta#} {#viBI/taka#} * {#I#} {#viBI/daka#}
+;
+5366 new 514427	4	{#viBIta#} {#viBI/taka#} {#I#} {#viBI/daka#}
+;---------------------------------------------------
+5578 old 535429	5	{#vEyAkaraRaBUzaRa#} {#°sAra vEyAkaraRamaYjUzA#} {#vEyAkaraRasarvasva#} {#vEyAkaraRasidDAntamaYjUzA#} {#°sidDAntaratnAkara#}
+;
+5578 new 535429	6	{#vEyAkaraRaBUzaRa#} {#°sAra#} {#vEyAkaraRamaYjUzA#} {#vEyAkaraRasarvasva#} {#vEyAkaraRasidDAntamaYjUzA#} {#°sidDAntaratnAkara#}
+;---------------------------------------------------
+5896 old 559374	3	{#Sivi#} {#Sivika SivikA#} {#SivikAla#}
+;
+5896 new 559374	4	{#Sivi#} {#Sivika#} {#SivikA#} {#SivikAla#}
+;---------------------------------------------------
+6046 old 571798	2	{#SrImahiman#} {#°mnaH stavaH#}
+; drop alternate
+6046 new 571798	1	{#SrImahiman#}
+;---------------------------------------------------
+6359 old 612499	11	{#sAMKyavftti#} {#°vfttiprakASa#} {#°vfttisAra#} {#sAMKyasaptati#} {#sAMKyasAra °sAraviveka#} {#sAMKyasidDAnta#} {#sAMKyasUtra#} {#°sUtraprakzepikA#} {#°sUtravivaraRa#} {#°sUtravftti#} {#°sUtravfttisAra#}
+;
+6359 new 612499	12	{#sAMKyavftti#} {#°vfttiprakASa#} {#°vfttisAra#} {#sAMKyasaptati#} {#sAMKyasAra#} {#°sAraviveka#} {#sAMKyasidDAnta#} {#sAMKyasUtra#} {#°sUtraprakzepikA#} {#°sUtravivaraRa#} {#°sUtravftti#} {#°sUtravfttisAra#}
+;---------------------------------------------------
+6403 old 616332	3	{#sAraRikA#} {#sAraRi#} {#cintAmaRiH sA°#}
+;
+6403 new 616332	2	{#sAraRikA#} {#sAraRi#}
+;---------------------------------------------------
+6408 old 617147	2	{#sArparAja#} {#prajApatestisraH sArparAjAH#}
+; drop alternate
+6408 new 617147	1	{#sArparAja#}
+;---------------------------------------------------
+6533 old 633866	2	{#suvAtra#} {#vAkraM suvAtram#}
+; drop alternate
+6533 new 633866	1	{#suvAtra#}
+;---------------------------------------------------
+6669 old 647441	3	*{#strImuKapa#} {#°muKamaDu °muKamaDudohada#} {#°dohala#}
+;
+6669 new 647441	4	*{#strImuKapa#} {#°muKamaDu#} {#°muKamaDudohada#} {#°dohala#}
+;---------------------------------------------------
+7057 old 682873	6	{#anumAna#} {#°kAYcana °KaRqa °nirUpaRa#} {#°prakASikA#} {#°praveSa#} {#°maRi#} {#°vAda#}
+;
+7057 new 682873	8	{#anumAna#} {#°kAYcana#} {#°KaRqa#} {#°nirUpaRa#} {#°prakASikA#} {#°praveSa#} {#°maRi#} {#°vAda#}
+;---------------------------------------------------
+; ********************************************************
+; 03: 39 remove text between '#} and {#'
+; ********************************************************
+144 old 11611	2	{#a/dButa#} einmal {#adButa/#}
+;
+144 new 11611	2	{#a/dButa#} {#adButa/#}
+;---------------------------------------------------
+145 old 11737	3	{#adya/#} selten {#adia/#} auch {#adyA/#}
+;
+145 new 11737	3	{#adya/#} {#adia/#} {#adyA/#}
+;---------------------------------------------------
+436 old 39521	2	{#ayajYiya/#} einmal {#a/yajYiya#}
+;
+436 new 39521	2	{#ayajYiya/#} {#a/yajYiya#}
+;---------------------------------------------------
+734 old 67924	2	{#Antarikza/#} weniger gut {#AntarIkza#}
+;
+734 new 67924	2	{#Antarikza/#} {#AntarIkza#}
+;---------------------------------------------------
+808 old 75062	2	*{#Azwaka#} einer Oertlichkeit Davon *{#AzwakIya#}
+;
+808 new 75062	2	*{#Azwaka#} *{#AzwakIya#}
+;---------------------------------------------------
+861 old 80046	2	*{#irkuwa#} davon *{#irkuwin#}
+;
+861 new 80046	2	*{#irkuwa#} *{#irkuwin#}
+;---------------------------------------------------
+862 old 80050	3	*{#irgala#} davon *{#irgalIya#} *{#irgalya#}
+;
+862 new 80050	3	*{#irgala#} *{#irgalIya#} *{#irgalya#}
+;---------------------------------------------------
+1015 old 96385	2	*{#urala#} davon *{#uralya#}
+;
+1015 new 96385	2	*{#urala#} *{#uralya#}
+;---------------------------------------------------
+1672 old 154763	4	<hom>2</hom> {#kza/m#} {#kzA/m#} schwach {#kzam#} {#kzm#}
+;
+1672 new 154763	4	<hom>2</hom> {#kza/m#} {#kzA/m#} {#kzam#} {#kzm#}
+;---------------------------------------------------
+2245 old 211728	2	{#jYAnasaMtati#} und {#°saMtAna#}
+;
+2245 new 211728	2	{#jYAnasaMtati#} {#°saMtAna#}
+;---------------------------------------------------
+2577 old 236760	2	{#da/kzapitar#} auch {#°pitAr#}
+;
+2577 new 236760	2	{#da/kzapitar#} {#°pitAr#}
+;---------------------------------------------------
+2796 old 256100	3	{#devadryaYc#} {#°dri/aYc#} schwach {#°drI/c#}
+;
+2796 new 256100	3	{#devadryaYc#} {#°dri/aYc#} {#°drI/c#}
+;---------------------------------------------------
+3638 old 340462	3	{#pUrvya/#} {#pUrvia/#} un {#pU/rvia#}
+;
+3638 new 340462	3	{#pUrvya/#} {#pUrvia/#} {#pU/rvia#}
+;---------------------------------------------------
+3843 old 360956	3	{#prasAdavitta#} [ {#A#}] {#°ka#}
+;
+3843 new 360956	3	{#prasAdavitta#} {#A#} {#°ka#}
+;---------------------------------------------------
+4180 old 393688	3	{#Buraj#} {#Bura/janta#} statt {#Brajanta#}
+;
+4180 new 393688	3	{#Buraj#} {#Bura/janta#} {#Brajanta#}
+;---------------------------------------------------
+4211 old 396630	3	*{#BUvah#} {#BUvAh#} schwach {#BUh#}
+;
+4211 new 396630	3	*{#BUvah#} {#BUvAh#} {#BUh#}
+;---------------------------------------------------
+4449 old 422062	4	{#mARqUkyaSruti#} {#mARqukyupanizad#} {#mARqUkI#} wohl {#mARqukyopanizad#}
+;
+4449 new 422062	4	{#mARqUkyaSruti#} {#mARqukyupanizad#} {#mARqUkI#} {#mARqukyopanizad#}
+;---------------------------------------------------
+4473 old 424653	4	{#mAyAvAda#} der Einheitslehre des des Buddhismus {#°KaRqanawIkA#} {#°KaRqavivaraRa#} {#°KawUzaRI#}
+;
+4473 new 424653	4	{#mAyAvAda#} {#°KaRqanawIkA#} {#°KaRqavivaraRa#} {#°KawUzaRI#}
+;---------------------------------------------------
+4547 old 432299	26	{#muhUrtawIkA#} {#muhUrtatattva#} {#muhUrtadarSana#} {#muhUrtadIpaka#} {#°dIpikA#} {#muhUrtanirRaya#} {#muhUrtapadavI#} {#muhUrtarIkzA#} {#muhUrtaBAga#} {#muhUrtaBUzaRa#} {#muhUrtaBErava#} {#muhUrtamaRi#} {#muhUrtamADavIya#} {#muhUmArtaRqa#} {#°mArtaRqa#} fehlerhaft {#muhUrtamAlA#} {#muhUrtaratna#} {#muhUrtaratnAkara#} {#muhUrtarAjAjIyan#} {#muhUrtalakzaRapawala#} {#muhUrtavallaBA#} {#muhUrtaSAstra#} {#muhUrtasaMgraha#} {#muhUrtasarvasva#} {#muhUrtasAra#} {#muhUrtasidDi#}
+;
+4547 new 432299	26	{#muhUrtawIkA#} {#muhUrtatattva#} {#muhUrtadarSana#} {#muhUrtadIpaka#} {#°dIpikA#} {#muhUrtanirRaya#} {#muhUrtapadavI#} {#muhUrtarIkzA#} {#muhUrtaBAga#} {#muhUrtaBUzaRa#} {#muhUrtaBErava#} {#muhUrtamaRi#} {#muhUrtamADavIya#} {#muhUmArtaRqa#} {#°mArtaRqa#} {#muhUrtamAlA#} {#muhUrtaratna#} {#muhUrtaratnAkara#} {#muhUrtarAjAjIyan#} {#muhUrtalakzaRapawala#} {#muhUrtavallaBA#} {#muhUrtaSAstra#} {#muhUrtasaMgraha#} {#muhUrtasarvasva#} {#muhUrtasAra#} {#muhUrtasidDi#}
+;---------------------------------------------------
+4679 old 443113	9	{#yaTAviBava°#} {#°Bavatas#} [{#aTAvi°#} ] {#°Bavam#} {#°BavamAnEna#} {#°Bavavistaram#} {#°BavavistarEs#} {#°BavavistAram#} {#°BavasaMBavAt#}
+;
+4679 new 443113	9	{#yaTAviBava°#} {#°Bavatas#} {#aTAvi°#} {#°Bavam#} {#°BavamAnEna#} {#°Bavavistaram#} {#°BavavistarEs#} {#°BavavistAram#} {#°BavasaMBavAt#}
+;---------------------------------------------------
+4775 old 451279	2	{#yo/zaRA#} einmal {#yoza/RA#}
+;
+4775 new 451279	2	{#yo/zaRA#} {#yoza/RA#}
+;---------------------------------------------------
+5152 old 491440	2	{#valaBI#} seltener {#°Bi#}
+;
+5152 new 491440	2	{#valaBI#} {#°Bi#}
+;---------------------------------------------------
+5178 old 494692	4	<hom>2</hom> {#°vah#} {#vAh#} schwach {#uh#} {#Uh#}
+;
+5178 new 494692	4	<hom>2</hom> {#°vah#} {#vAh#} {#uh#} {#Uh#}
+;---------------------------------------------------
+5229 old 498842	3	{#vADrIRasa#} {#°nasa#} fehlerhaft {#°ka#}
+;
+5229 new 498842	3	{#vADrIRasa#} {#°nasa#} {#°ka#}
+;---------------------------------------------------
+5429 old 521460	3	*{#viSvavah#} {#°vAh#} schwach {#viSvOh#}
+;
+5429 new 521460	3	*{#viSvavah#} {#°vAh#} {#viSvOh#}
+;---------------------------------------------------
+5432 old 521711	3	{#viSvastaGAtaka#} {#viSvastaGAtako#} zu lesen ist {#viSvastaGAtin#}
+;
+5432 new 521711	3	{#viSvastaGAtaka#} {#viSvastaGAtako#} {#viSvastaGAtin#}
+;---------------------------------------------------
+5674 old 541871	2	{#vrIqa#} häufiger {#vrIqA#}
+;
+5674 new 541871	2	{#vrIqa#} {#vrIqA#}
+;---------------------------------------------------
+5868 old 557706	2	{#SiroDara#} gewöhnlich {#°DarA#}
+;
+5868 new 557706	2	{#SiroDara#} {#°DarA#}
+;---------------------------------------------------
+6419 old 618383	13	{#sAhityakaRwakodDAra#} {#sAhityaka/mudI#} {#sAhityacintAmaRi#} {#sAhityacUqAmaRI#} {#sAhityadarpaRa#} {#sAhityamImAMsA#} {#sAhityaratnamAlA#} {#sAhityaratnAkara#} {#sAhityasaraRivyAKyA#} {#sAhityasarvasva#} {#sAhityasAra#} {#sAhityasUci#} Titel von Werkes {#sAhityasUci#}
+;
+6419 new 618383	13	{#sAhityakaRwakodDAra#} {#sAhityaka/mudI#} {#sAhityacintAmaRi#} {#sAhityacUqAmaRI#} {#sAhityadarpaRa#} {#sAhityamImAMsA#} {#sAhityaratnamAlA#} {#sAhityaratnAkara#} {#sAhityasaraRivyAKyA#} {#sAhityasarvasva#} {#sAhityasAra#} {#sAhityasUci#} {#sAhityasUci#}
+;---------------------------------------------------
+6902 old 664584	8	{#hariharatAratamya#} {#hariharadIkzitIya#} {#harihara#} 3〉 {#hariharapadDati#} {#hariharaBAzya#} {#hariharayoga#} {#hariharavilAsa#} {#hariharastotra#}
+;
+6902 new 664584	8	{#hariharatAratamya#} {#hariharadIkzitIya#} {#harihara#} {#hariharapadDati#} {#hariharaBAzya#} {#hariharayoga#} {#hariharavilAsa#} {#hariharastotra#}
+;---------------------------------------------------
+7040 old 678743	2	{#ayorajas#} am Ende eines {#°ska#}
+;
+7040 new 678743	2	{#ayorajas#} {#°ska#}
+;---------------------------------------------------
+7216 old 693483	2	*{#dfQakzurA#} die richtige Form ist {#dfQekzurA#}
+;
+7216 new 693483	2	*{#dfQakzurA#} {#dfQekzurA#}
+;---------------------------------------------------
+7248 old 701355	2	{#indindirA#} auch *{#indindira#}
+;
+7248 new 701355	2	{#indindirA#} *{#indindira#}
+;---------------------------------------------------
+7256 old 702107	2	{#kavacaDara#} richtig {#kavacahara#}
+;
+7256 new 702107	2	{#kavacaDara#} {#kavacahara#}
+;---------------------------------------------------
+7285 old 706579	2	{#yuvarAja#} 3〉 {#yuvarAjadivAkara#}
+;
+7285 new 706579	2	{#yuvarAja#} {#yuvarAjadivAkara#}
+;---------------------------------------------------
+7295 old 708997	4	{#kawukaviwapa#} nach {#kawukavallI#} {#kawutumbI#} nach {#kawutumbinI#}
+;
+7295 new 708997	4	{#kawukaviwapa#} {#kawukavallI#} {#kawutumbI#} {#kawutumbinI#}
+;---------------------------------------------------
+7298 old 709777	4	{#QuRQika#} in {#vyAkaraRa°#} {#°QuRQikA#} zu lesen {#°kA#}
+;
+7298 new 709777	4	{#QuRQika#} {#vyAkaraRa°#} {#°QuRQikA#} {#°kA#}
+;---------------------------------------------------
+7302 old 710249	2	{#nizkA/vam#} {#ni[H]zkA/vam#}
+;
+7302 new 710249	3	{#nizkA/vam#} {#nizkA/vam#} {#niHzkA/vam#}
+;---------------------------------------------------
+8035 old 735896	6	{#ekEkatra#} {#ekEkavant#} {#ekotiBAva#} {#ekotIBAva#} [ {#ekoti°#}] {#ekoti#}
+;
+8035 new 735896	4	{#ekEkatra#} {#ekEkavant#} {#ekotiBAva#} {#ekotIBAva#}
+;---------------------------------------------------
+; ********************************************************
+; 04: 85 {#A#} -> {#°A#} (55), {#I#} -> {#°I#} (30)
+; ********************************************************
+186 old 15862	4	{#a/napasPur#} {#a/napasPura#} {#A#} {#a/napasPurant#}
+;
+186 new 15862	4	{#a/napasPur#} {#a/napasPura#} {#°A#} {#a/napasPurant#}
+;---------------------------------------------------
+256 old 24742	4	{#antyaja#} {#A#} {#antyajanman#} {#antyajAti#}
+;
+256 new 24742	4	{#antyaja#} {#°A#} {#antyajanman#} {#antyajAti#}
+;---------------------------------------------------
+269 old 25681	3	<hom>2</hom> {#anya/rUpa#} {#A#} {#anyarUpin#}
+;
+269 new 25681	3	<hom>2</hom> {#anya/rUpa#} {#°A#} {#anyarUpin#}
+;---------------------------------------------------
+271 old 25733	4	{#anyAdakza#} {#°df/S#} {#°dfSa#} {#I#}
+;
+271 new 25733	4	{#anyAdakza#} {#°df/S#} {#°dfSa#} {#°I#}
+;---------------------------------------------------
+318 old 29516	4	<hom>2</hom> {#apu/tra#} {#A#} {#aputraka#} {#aputrikA#}
+;
+318 new 29516	4	<hom>2</hom> {#apu/tra#} {#°A#} {#aputraka#} {#aputrikA#}
+;---------------------------------------------------
+343 old 31670	3	{#a/plava#} {#A#} {#aplavavant#}
+;
+343 new 31670	3	{#a/plava#} {#°A#} {#aplavavant#}
+;---------------------------------------------------
+537 old 48220	3	{#avamowana#} {#I#} {#°win#}
+;
+537 new 48220	3	{#avamowana#} {#°I#} {#°win#}
+;---------------------------------------------------
+578 old 53779	3	{#aSrImant#} {#aSrIra/#} {#A#}
+;
+578 new 53779	3	{#aSrImant#} {#aSrIra/#} {#°A#}
+;---------------------------------------------------
+582 old 54177	4	*{#aSvatTika#} {#I#} *{#aSvatTila#} *{#aSvatTIya#}
+;
+582 new 54177	4	*{#aSvatTika#} {#°I#} *{#aSvatTila#} *{#aSvatTIya#}
+;---------------------------------------------------
+614 old 57972	3	{#asinva/#} {#A#} {#a/sinvant#}
+;
+614 new 57972	3	{#asinva/#} {#°A#} {#a/sinvant#}
+;---------------------------------------------------
+617 old 58178	3	{#asunva/#} {#A#} {#a/sunvant#}
+;
+617 new 58178	3	{#asunva/#} {#°A#} {#a/sunvant#}
+;---------------------------------------------------
+686 old 63424	4	*{#Acitika#} {#I#} *{#AcitIna#} {#A#}
+;
+686 new 63424	4	*{#Acitika#} {#°I#} *{#AcitIna#} {#°A#}
+;---------------------------------------------------
+696 old 64246	4	*{#AQakika#} {#I#} *{#AQakIna#} {#A#}
+;
+696 new 64246	4	*{#AQakika#} {#°I#} *{#AQakIna#} {#°A#}
+;---------------------------------------------------
+754 old 69550	3	*{#AmaRqa#} {#A#} *{#°ka#}
+;
+754 new 69550	3	*{#AmaRqa#} {#°A#} *{#°ka#}
+;---------------------------------------------------
+768 old 70422	4	{#AyAsaka#} {#AyAsakara#} {#A#} {#AyAsada#}
+;
+768 new 70422	4	{#AyAsaka#} {#AyAsakara#} {#°A#} {#AyAsada#}
+;---------------------------------------------------
+877 old 81298	9	{#Idf/kza#} {#A#} {#IdfgviDa#} {#Idf/S#} {#Idf/N#} {#Idfk#} {#Idf/Sa#} {#I#} {#IdfSaka#}
+;
+877 new 81298	9	{#Idf/kza#} {#°A#} {#IdfgviDa#} {#Idf/S#} {#Idf/N#} {#Idfk#} {#Idf/Sa#} {#°I#} {#IdfSaka#}
+;---------------------------------------------------
+894 old 82845	4	*{#uccalalAwa#} {#A#} *{#°ka#} {#°wikA#}
+;
+894 new 82845	4	*{#uccalalAwa#} {#°A#} *{#°ka#} {#°wikA#}
+;---------------------------------------------------
+923 old 86126	3	<hom>2</hom> {#utpulaka#} {#A#} {#utpulakita#}
+;
+923 new 86126	3	<hom>2</hom> {#utpulaka#} {#°A#} {#utpulakita#}
+;---------------------------------------------------
+1005 old 95941	3	{#uBaya/todant#} {#uBaya/todanta#} {#A#}
+;
+1005 new 95941	3	{#uBaya/todant#} {#uBaya/todanta#} {#°A#}
+;---------------------------------------------------
+1083 old 101177	3	{#ftvya#} {#f/tvia#} {#A#}
+;
+1083 new 101177	3	{#ftvya#} {#f/tvia#} {#°A#}
+;---------------------------------------------------
+1116 old 104717	3	{#evaMvftta#} {#A#} {#°vftti#}
+;
+1116 new 104717	3	{#evaMvftta#} {#°A#} {#°vftti#}
+;---------------------------------------------------
+1261 old 115298	3	{#kambukaRWa#} {#I#} {#kambukaDara#}
+;
+1261 new 115298	3	{#kambukaRWa#} {#°I#} {#kambukaDara#}
+;---------------------------------------------------
+1330 old 122047	3	*{#kalyARIpaYcama#} {#A#} *{#°paYcamIka#}
+;
+1330 new 122047	3	*{#kalyARIpaYcama#} {#°A#} *{#°paYcamIka#}
+;---------------------------------------------------
+1459 old 134341	3	{#kucEla#} {#A#} {#kucElin#}
+;
+1459 new 134341	3	{#kucEla#} {#°A#} {#kucElin#}
+;---------------------------------------------------
+1508 old 139524	4	*{#kulijika#} {#I#} *{#kulijIna#} {#A#}
+;
+1508 new 139524	4	*{#kulijika#} {#°I#} *{#kulijIna#} {#°A#}
+;---------------------------------------------------
+1543 old 143651	3	{#kftyAdU/zaRa#} {#I#} {#°dU/zi#}
+;
+1543 new 143651	3	{#kftyAdU/zaRa#} {#°I#} {#°dU/zi#}
+;---------------------------------------------------
+1669 old 154151	3	{#kzaRaBaNgin#} {#°BaNgura#} {#A#}
+;
+1669 new 154151	3	{#kzaRaBaNgin#} {#°BaNgura#} {#°A#}
+;---------------------------------------------------
+1785 old 163972	3	*{#gaqura#} *{#gaqula#} {#I#}
+;
+1785 new 163972	3	*{#gaqura#} *{#gaqula#} {#°I#}
+;---------------------------------------------------
+1975 old 183042	4	{#Garmadu/Ga#} {#A#} {#°du/h#} {#°Du/k#}
+;
+1975 new 183042	4	{#Garmadu/Ga#} {#°A#} {#°du/h#} {#°Du/k#}
+;---------------------------------------------------
+2325 old 216170	3	{#taTArUpa#} {#A#} {#°rUpin#}
+;
+2325 new 216170	3	{#taTArUpa#} {#°A#} {#°rUpin#}
+;---------------------------------------------------
+2559 old 236121	4	{#tvAdfS#} {#°Sa#} {#I#} {#°Saka#}
+;
+2559 new 236121	4	{#tvAdfS#} {#°Sa#} {#°I#} {#°Saka#}
+;---------------------------------------------------
+2717 old 248970	2	*{#duHKajAta#} {#A#}
+;
+2717 new 248970	2	*{#duHKajAta#} {#°A#}
+;---------------------------------------------------
+2740 old 251525	3	{#durmeDa#} {#A#} {#durmeDa/s#}
+;
+2740 new 251525	3	{#durmeDa#} {#°A#} {#durmeDa/s#}
+;---------------------------------------------------
+2757 old 253035	3	{#duzprApa#} {#A#} {#°Ra#}
+;
+2757 new 253035	3	{#duzprApa#} {#°A#} {#°Ra#}
+;---------------------------------------------------
+2766 old 253932	3	*{#dUrepAka#} {#A#} *{#pAku#}
+;
+2766 new 253932	3	*{#dUrepAka#} {#°A#} *{#pAku#}
+;---------------------------------------------------
+2877 old 263179	7	*{#dvikulija#} {#A#} {#I#} *{#°kulijika#} {#I#} *{#°kulijIna#} {#A#}
+;
+2877 new 263179	7	*{#dvikulija#} {#°A#} {#°I#} *{#°kulijika#} {#°I#} *{#°kulijIna#} {#°A#}
+;---------------------------------------------------
+2880 old 263655	3	{#dvitra#} {#A#} {#dvitri#}
+;
+2880 new 263655	3	{#dvitra#} {#°A#} {#dvitri#}
+;---------------------------------------------------
+2915 old 266691	4	{#DanvAyana#} {#I#} {#DanvAyi/n#} {#DanvAvin#}
+;
+2915 new 266691	4	{#DanvAyana#} {#°I#} {#DanvAyi/n#} {#DanvAvin#}
+;---------------------------------------------------
+3273 old 303984	3	{#paYcamAzaka#} {#I#} {#°mAzika#}
+;
+3273 new 303984	3	{#paYcamAzaka#} {#°I#} {#°mAzika#}
+;---------------------------------------------------
+3377 old 315338	3	{#parivatsarI/Ra#} {#A#} {#°vatsarIya#}
+;
+3377 new 315338	3	{#parivatsarI/Ra#} {#°A#} {#°vatsarIya#}
+;---------------------------------------------------
+3389 old 316647	3	{#pariharzaRa#} {#I#} {#°harzin#}
+;
+3389 new 316647	3	{#pariharzaRa#} {#°I#} {#°harzin#}
+;---------------------------------------------------
+3399 old 317642	3	{#parRakazAya/nizpakva#} {#A#} {#°kazAyapakva#}
+;
+3399 new 317642	3	{#parRakazAya/nizpakva#} {#°A#} {#°kazAyapakva#}
+;---------------------------------------------------
+3479 old 324945	3	{#pAmanaMBA/vuka#} {#A#} {#pAmaMBavizRu/#}
+;
+3479 new 324945	3	{#pAmanaMBA/vuka#} {#°A#} {#pAmaMBavizRu/#}
+;---------------------------------------------------
+3585 old 335105	3	{#purupe/Sa#} {#A#} {#°pe/Sas#}
+;
+3585 new 335105	3	{#purupe/Sa#} {#°A#} {#°pe/Sas#}
+;---------------------------------------------------
+3652 old 341346	3	{#pfTujra/ya#} {#I#} {#°jra/yas#}
+;
+3652 new 341346	3	{#pfTujra/ya#} {#°I#} {#°jra/yas#}
+;---------------------------------------------------
+3843 old 360956	3	{#prasAdavitta#} {#A#} {#°ka#}
+;
+3843 new 360956	3	{#prasAdavitta#} {#°A#} {#°ka#}
+;---------------------------------------------------
+3871 old 362601	3	{#prAksoma#} {#°sOmika#} {#I#}
+;
+3871 new 362601	3	{#prAksoma#} {#°sOmika#} {#°I#}
+;---------------------------------------------------
+3876 old 363341	3	{#prAcya^#} {#prAcya/#} {#A#}
+;
+3876 new 363341	3	{#prAcya^#} {#prAcya/#} {#°A#}
+;---------------------------------------------------
+4119 old 388230	4	*{#BavAdfkza#} {#BavAdfS#} {#BavAdfSa#} {#I#}
+;
+4119 new 388230	4	*{#BavAdfkza#} {#BavAdfS#} {#BavAdfSa#} {#°I#}
+;---------------------------------------------------
+4304 old 405189	3	{#maDucyut#} {#°cyuta#} {#A#}
+;
+4304 new 405189	3	{#maDucyut#} {#°cyuta#} {#°A#}
+;---------------------------------------------------
+4461 old 422961	3	{#mAdfS#} {#mAdaSa#} {#I#}
+;
+4461 new 422961	3	{#mAdfS#} {#mAdaSa#} {#°I#}
+;---------------------------------------------------
+4479 old 425342	4	{#mArgavaSAgata#} {#°vaSAnuga#} {#A#} {#°vaSAyAta#}
+;
+4479 new 425342	4	{#mArgavaSAgata#} {#°vaSAnuga#} {#°A#} {#°vaSAyAta#}
+;---------------------------------------------------
+4742 old 449516	2	*{#yuvaKalati#} {#I#}
+;
+4742 new 449516	2	*{#yuvaKalati#} {#°I#}
+;---------------------------------------------------
+5075 old 482271	3	{#vajrAkAra#} {#A#} {#vajrAkfti#}
+;
+5075 new 482271	3	{#vajrAkAra#} {#°A#} {#vajrAkfti#}
+;---------------------------------------------------
+5266 old 502716	3	{#vAsagfha#} {#A#} {#vAsageha#}
+;
+5266 new 502716	3	{#vAsagfha#} {#°A#} {#vAsageha#}
+;---------------------------------------------------
+5317 old 508179	3	{#vitamas#} {#°tamaska#} {#A#}
+;
+5317 new 508179	3	{#vitamas#} {#°tamaska#} {#°A#}
+;---------------------------------------------------
+5343 old 510866	3	{#viDikara#} {#I#} {#viDikft#}
+;
+5343 new 510866	3	{#viDikara#} {#°I#} {#viDikft#}
+;---------------------------------------------------
+5366 old 514427	4	{#viBIta#} {#viBI/taka#} {#I#} {#viBI/daka#}
+;
+5366 new 514427	4	{#viBIta#} {#viBI/taka#} {#°I#} {#viBI/daka#}
+;---------------------------------------------------
+5821 old 553107	4	*{#SAtaBiza#} {#I#} *{#°Bizaja#} {#I#}
+;
+5821 new 553107	4	*{#SAtaBiza#} {#°I#} *{#°Bizaja#} {#°I#}
+;---------------------------------------------------
+6082 old 576151	3	{#zawcatvAriMSa#} {#I#} {#°ka#}
+;
+6082 new 576151	3	{#zawcatvAriMSa#} {#°I#} {#°ka#}
+;---------------------------------------------------
+6172 old 587073	4	{#satya/sava#} {#A#} {#satya/savana#} {#satya/savas#}
+;
+6172 new 587073	4	{#satya/sava#} {#°A#} {#satya/savana#} {#satya/savas#}
+;---------------------------------------------------
+6188 old 589304	3	{#sana/ja#} {#A#} {#sanajA/#}
+;
+6188 new 589304	3	{#sana/ja#} {#°A#} {#sanajA/#}
+;---------------------------------------------------
+6320 old 608063	3	{#savyAhfti#} {#°ka#} {#A#}
+;
+6320 new 608063	3	{#savyAhfti#} {#°ka#} {#°A#}
+;---------------------------------------------------
+6323 old 608456	2	{#sasaMBrama#} {#A#}
+;
+6323 new 608456	2	{#sasaMBrama#} {#°A#}
+;---------------------------------------------------
+6376 old 614627	3	{#sAptapuruza#} {#sAptapOruza#} {#I#}
+;
+6376 new 614627	3	{#sAptapuruza#} {#sAptapOruza#} {#°I#}
+;---------------------------------------------------
+6457 old 623136	3	{#suKagama#} {#°gamya#} {#A#}
+;
+6457 new 623136	3	{#suKagama#} {#°gamya#} {#°A#}
+;---------------------------------------------------
+6484 old 627245	2	{#sunirvfta#} {#A#}
+;
+6484 new 627245	2	{#sunirvfta#} {#°A#}
+;---------------------------------------------------
+6497 old 628908	2	*{#supravfkRa#} {#A#}
+;
+6497 new 628908	2	*{#supravfkRa#} {#°A#}
+;---------------------------------------------------
+6609 old 640505	2	{#sehuRqa#} {#A#}
+;
+6609 new 640505	2	{#sehuRqa#} {#°A#}
+;---------------------------------------------------
+7217 old 693603	4	*{#dvipAtrika#} {#I#} *{#dvipAtrIRa#} {#A#}
+;
+7217 new 693603	4	*{#dvipAtrika#} {#°I#} *{#dvipAtrIRa#} {#°A#}
+;---------------------------------------------------
+7218 old 693631	6	*{#dvyAcita#} {#A#} *{#dvyAcitika#} {#I#} *{#dvyAcitIna#} {#A#}
+;
+7218 new 693631	6	*{#dvyAcita#} {#°A#} *{#dvyAcitika#} {#°I#} *{#dvyAcitIna#} {#°A#}
+;---------------------------------------------------
+7219 old 693635	6	*{#dvyAQaka#} {#A#} *{#dvyAQakika#} {#I#} *{#dvyAQakIna#} {#A#}
+;
+7219 new 693635	6	*{#dvyAQaka#} {#°A#} *{#dvyAQakika#} {#°I#} *{#dvyAQakIna#} {#°A#}
+;---------------------------------------------------
