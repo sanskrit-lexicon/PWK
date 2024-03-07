@@ -1,0 +1,1137 @@
+; *****************************************************
+; changes from temp_pw_4.txt to temp_pw_5.txt
+; 01: 34  based on pwkvn_4.differences-1.metalines.and.header.lines.txt
+; 02: 98  based on pwkvn_4.differences-2.dhAtu.and.denominative.verbs.txt
+; 03: 75  based on pwkvn_4.differences-3.splits.and.miscellaneous.txt
+; *****************************************************
+; 01: 34  based on pwkvn_4.differences-1.metalines.and.header.lines.txt
+; *****************************************************
+; <L>200069<pc>1-282-c<k1>akzayya<k2>akzayya, akzayyodaka
+674290 old <L>200069<pc>1-282-c<k1>akzayya<k2>akzayya, akzayyodaka
+;
+674290 new <L>200069<pc>1-282-c<k1>akzayya<k2>akzayya
+;---------------------------------------------------
+; <L>200069<pc>1-282-c<k1>akzayya<k2>akzayya, akzayyodaka
+674291 old {#akzayya#}, {#akzayyodaka#}¦ <lex>n.</lex> {%Wasser, begleitet von dem Wunsche, dass es nie mangeln möge,%} <ls>YĀJÑ. 1,242</ls>. <ls>VIṢṆUS. 21,4</ls>. <ls n="VIṢṆUS.">73,27</ls>. {#akzayyasTAne#} <ls>ŚĀṄKH. GṚHY. 4,2</ls>. <ls>YĀJÑ. 1,251</ls>.<info n="sup_1"/>
+;
+674291 new {#akzayya#}¦, {#akzayyodaka#} <lex>n.</lex> {%Wasser, begleitet von dem Wunsche, dass es nie mangeln möge,%} <ls>YĀJÑ. 1,242</ls>. <ls>VIṢṆUS. 21,4</ls>. <ls n="VIṢṆUS.">73,27</ls>. {#akzayyasTAne#} <ls>ŚĀṄKH. GṚHY. 4,2</ls>. <ls>YĀJÑ. 1,251</ls>.<info n="sup_1"/>
+;---------------------------------------------------
+; <L>204802<pc>3-263-b<k1>tripurARaka<k2>tripurARaka, tripurARikA, tripurARIya
+693243 old <L>204802<pc>3-263-b<k1>tripurARaka<k2>tripurARaka, tripurARikA, tripurARIya
+;
+693243 new <L>204802<pc>3-263-b<k1>tripurARaka<k2>tripurARaka, tripurARIya
+;---------------------------------------------------
+; <L>204850<pc>3-264-a<k1>duHKasparSa<k2>duHKasparSa(m)
+693435 old <L>204850<pc>3-264-a<k1>duHKasparSa<k2>duHKasparSa(m)
+;
+693435 new <L>204850<pc>3-264-a<k1>duHKasparSa<k2>duHKasparSa, duHKasparSam
+;---------------------------------------------------
+; <L>204897<pc>3-264-b<k1>dvipAtrika<k2>*dvipAtrika, dvipAtrikI, *dvipAtrIRa, dvipAtrIRA
+693623 old <L>204897<pc>3-264-b<k1>dvipAtrika<k2>*dvipAtrika, dvipAtrikI, *dvipAtrIRa, dvipAtrIRA
+;
+693623 new <L>204897<pc>3-264-b<k1>dvipAtrika<k2>*dvipAtrika, *dvipAtrIRa
+;---------------------------------------------------
+; <L>204904<pc>3-264-b<k1>dvyAcita<k2>*dvyAcita, dvyAcitA, *dvyAcitika, dvyAcitikI, *dvyAcitIna, dvyAcitInA
+693651 old <L>204904<pc>3-264-b<k1>dvyAcita<k2>*dvyAcita, dvyAcitA, *dvyAcitika, dvyAcitikI, *dvyAcitIna, dvyAcitInA
+;
+693651 new <L>204904<pc>3-264-b<k1>dvyAcita<k2>*dvyAcita, *dvyAcitika, *dvyAcitIna
+;---------------------------------------------------
+; <L>204905<pc>3-264-b<k1>dvyAQaka<k2>*dvyAQaka, dvyAQakA, *dvyAQakika, dvyAQakikI, *dvyAQakIna, dvyAQakInA
+693655 old <L>204905<pc>3-264-b<k1>dvyAQaka<k2>*dvyAQaka, dvyAQakA, *dvyAQakika, dvyAQakikI, *dvyAQakIna, dvyAQakInA
+;
+693655 new <L>204905<pc>3-264-b<k1>dvyAQaka<k2>*dvyAQaka, *dvyAQakika, *dvyAQakIna
+;---------------------------------------------------
+; <L>205237<pc>4-294-a<k1>aBiDarma<k2>aBiDarma, aBiDarmajYAnaprasTAna, aBiDarmaskanDapAda, aBiDarmaskanDaprakaraRaSAsana, aBiDarmaskanDaprakASasADana, aBiDarmavijYAnakAyapAda, aBiDarmaviBAzA
+694983 old <L>205237<pc>4-294-a<k1>aBiDarma<k2>aBiDarma, aBiDarmajYAnaprasTAna, aBiDarmaskanDapAda, aBiDarmaskanDaprakaraRaSAsana, aBiDarmaskanDaprakASasADana, aBiDarmavijYAnakAyapAda, aBiDarmaviBAzA
+;
+694983 new <L>205237<pc>4-294-a<k1>aBiDarma<k2>aBiDarma, aBiDarmajYAnaprasTAna, aBiDarmaDarmaskanDapAda, aBiDarmaprakaraRaSAsana, aBiDarmaprakASasADana, aBiDarmavijYAnakAyapAda, aBiDarmamahAviBAzA
+;---------------------------------------------------
+; <L>205237<pc>4-294-a<k1>aBiDarma<k2>aBiDarma, aBiDarmajYAnaprasTAna, aBiDarmaskanDapAda, aBiDarmaskanDaprakaraRaSAsana, aBiDarmaskanDaprakASasADana, aBiDarmavijYAnakAyapAda, aBiDarmaviBAzA
+694984 old {#aBiDarma#}, {#°jYAnaprasTAna#}, {#°DarmaskanDapAda#}, {#°prakaraRaSAsana#}, {#°prakASasADana#}, {#°vijYAnakAyapAda#} <lex>n.</lex>, {#°viBAzA#}¦ <ls>EITEL, Chin. B.</ls><info n="sup_4"/>
+;
+694984 new {#aBiDarma#}, {#°jYAnaprasTAna#}, {#°DarmaskanDapAda#}, {#°prakaraRaSAsana#}, {#°prakASasADana#}, {#°vijYAnakAyapAda#} <lex>n.</lex>, {#°mahAviBAzA#}¦ <ls>EITEL, Chin. B.</ls><info n="sup_4"/>
+;---------------------------------------------------
+; <L>206032<pc>5-241-a<k1>acCanda<k2>acCanda
+698172 old <L>206032<pc>5-241-a<k1>acCanda<k2>acCanda
+;
+698172 new <L>206032<pc>5-241-a<k1>acCanda<k2>acCanda, acCandatas
+;---------------------------------------------------
+; <L>206032<pc>5-241-a<k1>acCanda<k2>acCanda
+698173 old {#acCanda#}¦ (<ls>Nachtr. 2</ls>), {#°tas = acCandena#} <ls>NĀRADA (a.) 2,1,29</ls>.<info n="sup_5"/>
+;
+698173 new {#acCanda#} (<ls>Nachtr. 2</ls>), {#°tas#}¦ = {#acCandena#} <ls>NĀRADA (a.) 2,1,29</ls>.<info n="sup_5"/>
+;---------------------------------------------------
+; <L>207867<pc>5-261-a<k1>prasftiMpaca<k2>prasftiMpaca, amBaHprasftiMpaca
+705531 old <L>207867<pc>5-261-a<k1>prasftiMpaca<k2>prasftiMpaca, amBaHprasftiMpaca
+;
+705531 new <L>207867<pc>5-261-a<k1>prasftiMpaca<k2>prasftiMpaca
+;---------------------------------------------------
+; <L>207867<pc>5-261-a<k1>prasftiMpaca<k2>prasftiMpaca, amBaHprasftiMpaca
+705532 old {#prasftiMpaca#}, {#amBaH°#}¦ so <ab>v. a.</ab> {%nur wenig Wasser gebend%} <ls>ALAṂKĀRAS. 26,b.</ls> <ls>ALAṂKĀRAV. 72,a.</ls> <ls>ALAṂKĀRAR. 10,b.</ls><info n="sup_5"/>
+;
+705532 new {#prasftiMpaca#}¦, {#amBaH°#} so <ab>v. a.</ab> {%nur wenig Wasser gebend%} <ls>ALAṂKĀRAS. 26,b.</ls> <ls>ALAṂKĀRAV. 72,a.</ls> <ls>ALAṂKĀRAR. 10,b.</ls><info n="sup_5"/>
+;---------------------------------------------------
+; <L>208941<pc>6-301-c<k1>QuRQika<k2>QuRQika, vyAkaraRaQuRQika, vyAkaraRaQuRQikA, QuRQikA
+709834 old <L>208941<pc>6-301-c<k1>QuRQika<k2>QuRQika, vyAkaraRaQuRQika, vyAkaraRaQuRQikA, QuRQikA
+;
+709834 new <L>208941<pc>6-301-c<k1>QuRQika<k2>QuRQika, QuRQikA
+;---------------------------------------------------
+; <L>209059<pc>6-303-a<k1>nizkAvam<k2>nizkA/vam, nizkA/vam, niHzkA/vam
+710308 old <L>209059<pc>6-303-a<k1>nizkAvam<k2>nizkA/vam, nizkA/vam, niHzkA/vam
+;
+710308 new <L>209059<pc>6-303-a<k1>nizkAvam<k2>nizkA/vam, niHzkA/vam
+;---------------------------------------------------
+; <L>209335<pc>6-306-a<k1>vajrapAtAy<k2>vajrapAtAy, vajrapAtAyita
+711412 old <L>209335<pc>6-306-a<k1>vajrapAtAy<k2>vajrapAtAy, vajrapAtAyita
+;
+711412 new <L>209335<pc>6-306-a<k1>vajrapAtAy<k2>vajrapAtAy
+;---------------------------------------------------
+; <L>209335<pc>6-306-a<k1>vajrapAtAy<k2>vajrapAtAy, vajrapAtAyita
+711413 old !√{#vajrapAtAy#}, {#°yita#}¦ <lex>Adj.</lex> {%wie ein Donnerkeil niederfallend%} <ls>PĀRŚVAN. 4,155</ls>.<info n="sup_6"/>
+;
+711413 new !√{#vajrapAtAy#}¦, {#°yita#} <lex>Adj.</lex> {%wie ein Donnerkeil niederfallend%} <ls>PĀRŚVAN. 4,155</ls>.<info n="sup_6"/>
+;---------------------------------------------------
+; <L>209692<pc>7-290-d<k1>agotracaraRa<k2>agotracaraRa, 2. agopa
+712837 old <L>209692<pc>7-290-d<k1>agotracaraRa<k2>agotracaraRa, 2. agopa
+;
+712837 new <L>209692<pc>7-290-d<k1>agotracaraRa<k2>agotracaraRa, 1. agopa, 2. agopa
+;---------------------------------------------------
+; <L>214124<pc>7-318-b<k1>Anantarya<k2>Anantarya
+730590 old <L>214124<pc>7-318-b<k1>Anantarya<k2>Anantarya
+;
+730590 new <L>214124<pc>7-318-b<k1>Anantarya<k2>Anantarya, A/nantya
+;---------------------------------------------------
+; <L>214124<pc>7-318-b<k1>Anantarya<k2>Anantarya
+730591 old {#Anantarya#}¦ (*{#°karman#} <lex>n.</lex> <ls>MAHĀVY. 122</ls>. {#°mArga#} <lex>m.</lex> <ls n="MAHĀVY.">54</ls>) und {#A/nantya#} I. 3.<info n="sup_7"/>
+;
+730591 new {#Anantarya#} (*{#°karman#} <lex>n.</lex> <ls>MAHĀVY. 122</ls>. {#°mArga#} <lex>m.</lex> <ls n="MAHĀVY.">54</ls>) und {#A/nantya#}¦ I. 3.<info n="sup_7"/>
+;---------------------------------------------------
+; <L>214726<pc>7-322-c<k1>uYC<k2>uYC
+733027 old <L>214726<pc>7-322-c<k1>uYC<k2>uYC
+;
+733027 new <L>214726<pc>7-322-c<k1>uYC<k2>uYC, uYCaDarman
+;---------------------------------------------------
+; <L>214726<pc>7-322-c<k1>uYC<k2>uYC
+733028 old {#uYC#}¦ mit {#nis#} und {#uYCaDarman#} 3.<info n="sup_7"/>
+;
+733028 new {#uYC#} mit {#nis#} und {#uYCaDarman#}¦ 3.<info n="sup_7"/>
+;---------------------------------------------------
+; <L>216628<pc>7-336-b<k1>KawuNka<k2>KawuNka
+740683 old <L>216628<pc>7-336-b<k1>KawuNka<k2>KawuNka
+;
+740683 new <L>216628<pc>7-336-b<k1>KawuNka<k2>KawuNka, Kawvay
+;---------------------------------------------------
+; <L>216628<pc>7-336-b<k1>KawuNka<k2>KawuNka
+740684 old {#KawuNka#}¦ (<ab>vgl.</ab> <ls>MAHĀVY. 127,9</ls>. <ab>Nom. abstr.</ab> {#°tA#} {%Niederträchtigkeit%} <ls>JĀTAKAM. 1,36</ls>) und {#Kawvay#} 3.<info n="sup_7"/>
+;
+740684 new {#KawuNka#} (<ab>vgl.</ab> <ls>MAHĀVY. 127,9</ls>. <ab>Nom. abstr.</ab> {#°tA#} {%Niederträchtigkeit%} <ls>JĀTAKAM. 1,36</ls>) und {#Kawvay#}¦ 3.<info n="sup_7"/>
+;---------------------------------------------------
+; <L>216709<pc>7-336-d<k1>gajaBawwa<k2>gajaBawwa, gajareva, gajalakzaRa, gajavEdya, gajaSAstra
+741009 old <L>216709<pc>7-336-d<k1>gajaBawwa<k2>gajaBawwa, gajareva, gajalakzaRa, gajavEdya, gajaSAstra
+;
+741009 new <L>216709<pc>7-336-d<k1>gajaBawwa<k2>gajaBawwa, gajareva, gajalakzaRa, gajavEdya, gajavEdyaSAstra
+;---------------------------------------------------
+; <L>217330<pc>7-341-c<k1>cint<k2>cint, vicintamAna
+743531 old <L>217330<pc>7-341-c<k1>cint<k2>cint, vicintamAna
+;
+743531 new <L>217330<pc>7-341-c<k1>cint<k2>cint
+;---------------------------------------------------
+; <L>217330<pc>7-341-c<k1>cint<k2>cint, vicintamAna
+743532 old {#cint#}, {#vicintamAna#}¦ <ls>R. ed. Bomb. 2. 83,26</ls> [Page7-341-d] fehlerhaft für {#vicintayAna#}.<info n="sup_7"/>
+;
+743532 new √{#cint#}¦, {#vicintamAna#} <ls>R. ed. Bomb. 2. 83,26</ls> [Page7-341-d] fehlerhaft für {#vicintayAna#}.<info n="sup_7"/>
+;---------------------------------------------------
+; <L>218236<pc>7-348-d<k1>duh<k2>1. duh, aduhra
+747201 old <L>218236<pc>7-348-d<k1>duh<k2>1. duh, aduhra
+;
+747201 new <L>218236<pc>7-348-d<k1>duh<k2>1. duh
+;---------------------------------------------------
+; <L>218236<pc>7-348-d<k1>duh<k2>1. duh, aduhra
+747202 old <hom>1.</hom> {#duh#}, {#aduhra#}¦ <ls>MAITR. S. 3,3,4 (36,9). 4,2,1 (21,14)</ls>. <ab>Vgl.</ab> zu <ls>P. 7,1,8</ls>. <ls n="P. 7,1,">41</ls>.<info n="sup_7"/>
+;
+747202 new <hom>1.</hom> √{#duh#}¦, {#aduhra#} <ls>MAITR. S. 3,3,4 (36,9). 4,2,1 (21,14)</ls>. <ab>Vgl.</ab> zu <ls>P. 7,1,8</ls>. <ls n="P. 7,1,">41</ls>.<info n="sup_7"/>
+;---------------------------------------------------
+; <L>219616<pc>7-360-c<k1>pratipraSrabDi<k2>*pratipraSrabDi, pratipraSrabDisrabDi
+752784 old <L>219616<pc>7-360-c<k1>pratipraSrabDi<k2>*pratipraSrabDi, pratipraSrabDisrabDi
+;
+752784 new <L>219616<pc>7-360-c<k1>pratipraSrabDi<k2>*pratipraSrabDi, pratiprasrabDi
+;---------------------------------------------------
+; <L>220760<pc>7-370-d<k1>raB<k2>raB, AraBya
+757408 old <L>220760<pc>7-370-d<k1>raB<k2>raB, AraBya
+;
+757408 new <L>220760<pc>7-370-d<k1>raB<k2>raB
+;---------------------------------------------------
+; <L>220760<pc>7-370-d<k1>raB<k2>raB, AraBya
+757409 old {#raB#}, {#AraBya#}¦ <ab>Absol.</ab> auch so <ab>v. a.</ab> {%in Bezug auf, über%} <ls>JĀTAKAM. 26,27</ls>.<info n="sup_7"/>
+;
+757409 new √{#raB#}¦, {#AraBya#} <ab>Absol.</ab> auch so <ab>v. a.</ab> {%in Bezug auf, über%} <ls>JĀTAKAM. 26,27</ls>.<info n="sup_7"/>
+;---------------------------------------------------
+; <L>221792<pc>7-381-c<k1>sar<k2>sar, *sAreta
+761588 old <L>221792<pc>7-381-c<k1>sar<k2>sar, *sAreta
+;
+761588 new <L>221792<pc>7-381-c<k1>sar<k2>sar
+;---------------------------------------------------
+; <L>221792<pc>7-381-c<k1>sar<k2>sar, *sAreta
+761589 old {#sar#}, *{#sAreta#}¦ {%fliessend%} (Stimme) <ls>MAHĀVY. 20</ls>.
+;
+761589 new {#sar#}¦, *{#sAreta#} {%fliessend%} (Stimme) <ls>MAHĀVY. 20</ls>.
+;---------------------------------------------------
+; *****************************************************
+; 02: 98  based on pwkvn_4.differences-2.dhAtu.and.denominative.verbs.txt
+; *****************************************************
+; ----------------------------------------------
+; <L>201182<pc>1-293-c<k1>ar<k2>ar
+678751 old {#ar#}¦ <ab>Caus.</ab> 9〉 {%Jmd%} (<ab>Acc.</ab>) {%versehen mit%} (<ab>Instr.</ab>) <ls>TS. 5,1,1,3</ls>.<info n="sup_1"/>
+678751 new √{#ar#}¦ <ab>Caus.</ab> 9〉 {%Jmd%} (<ab>Acc.</ab>) {%versehen mit%} (<ab>Instr.</ab>) <ls>TS. 5,1,1,3</ls>.<info n="sup_1"/>
+; ----------------------------------------------
+; <L>201221<pc>1-294-a<k1>arD<k2>arD
+678907 old {#arD#}¦, {#fdDa/#} 3〉 {%gelungen%} <ls>VS. 18,11</ls>.
+678907 new √{#arD#}¦, {#fdDa/#} 3〉 {%gelungen%} <ls>VS. 18,11</ls>.
+; ----------------------------------------------
+; <L>201360<pc>1-295-b<k1>aS<k2>2. aS
+679464 old <hom>2.</hom> {#aS#}¦ mit {#saMpra#} {%geniessen%} <ls>HEMĀDRI 1,396,6</ls>. <ls n="HEMĀDRI 1,">464,12</ls>.<info n="sup_1"/>
+679464 new <hom>2.</hom> √{#aS#}¦ mit {#saMpra#} {%geniessen%} <ls>HEMĀDRI 1,396,6</ls>. <ls n="HEMĀDRI 1,">464,12</ls>.<info n="sup_1"/>
+; ----------------------------------------------
+; <L>201420<pc>1-296-a<k1>as<k2>2. as
+679704 old <hom>2.</hom> {#as#}¦ mit {#ud#} 2〉 auch {%schleudern%} (eine Waffe) <ls>NAIṢ. 4,39</ls>.
+679704 new <hom>2.</hom> √{#as#}¦ mit {#ud#} 2〉 auch {%schleudern%} (eine Waffe) <ls>NAIṢ. 4,39</ls>.
+; ----------------------------------------------
+; <L>201550<pc>1-297-a<k1>Ap<k2>Ap
+680226 old {#Ap#}¦ mit {#ava#} <ab>Caus.</ab> {%Jmd%} (<ab>Acc.</ab>) {%Etwas%} (<ab>Acc.</ab>) {%erlangen [Page1-297-b] lassen%} <ls>NAIṢ. 8,89</ls>.<info n="sup_1"/>
+680226 new √{#Ap#}¦ mit {#ava#} <ab>Caus.</ab> {%Jmd%} (<ab>Acc.</ab>) {%Etwas%} (<ab>Acc.</ab>) {%erlangen [Page1-297-b] lassen%} <ls>NAIṢ. 8,89</ls>.<info n="sup_1"/>
+; ----------------------------------------------
+; <L>201621<pc>1-298-a<k1>As<k2>2. As
+680510 old <hom>2.</hom> {#As#}¦ 9〉 {#kaTamAste tAtaH#} so <ab>v. a.</ab> {%wie geht es dem Vater ?%} <ls>HARṢAC. 126,9</ls>.
+680510 new <hom>2.</hom> √{#As#}¦ 9〉 {#kaTamAste tAtaH#} so <ab>v. a.</ab> {%wie geht es dem Vater ?%} <ls>HARṢAC. 126,9</ls>.
+; ----------------------------------------------
+; <L>201625<pc>1-298-a<k1>i<k2>3. i
+680527 old <hom>3.</hom> {#i#}¦ mit {#aDi#} <ab>Caus.</ab> <ab>Med.</ab> {%veranlassen, dass Jmd Jmd%} (<ab>Acc.</ab>) {%lehrt,%} <ls>HEMĀDRI 1,525,8</ls>.
+680527 new <hom>3.</hom> √{#i#}¦ mit {#aDi#} <ab>Caus.</ab> <ab>Med.</ab> {%veranlassen, dass Jmd Jmd%} (<ab>Acc.</ab>) {%lehrt,%} <ls>HEMĀDRI 1,525,8</ls>.
+; ----------------------------------------------
+; <L>201672<pc>1-298-b<k1>uc<k2>uc
+680718 old {#uc#}¦ mit {#aBi#}, {#aByucita#} {%entsprechend, passend%} <ls>R. GORR. 1,75,12</ls>.<info n="sup_1"/>
+680718 new √{#uc#}¦ mit {#aBi#}, {#aByucita#} {%entsprechend, passend%} <ls>R. GORR. 1,75,12</ls>.<info n="sup_1"/>
+; ----------------------------------------------
+; <L>201754<pc>1-299-c<k1>Uh<k2>1. Uh
+681046 old <hom>1.</hom> {#Uh#}¦ mit {#prativi#} 4〉 {%aus einander schieben%} <ls>R. GORR. 2,12,26</ls>.<info n="sup_1"/>
+681046 new <hom>1.</hom> √{#Uh#}¦ mit {#prativi#} 4〉 {%aus einander schieben%} <ls>R. GORR. 2,12,26</ls>.<info n="sup_1"/>
+; ----------------------------------------------
+; <L>201911<pc>2-286-b<k1>ac<k2>ac 
+681672 old {#ac#}¦ mit {#ud#}, {#udaYcita#} {%emporgehoben%} <ls>HEM. PAR. 1,47</ls>. <ls n="HEM. PAR.">2,559</ls>. <ls n="HEM. PAR. 2,">585</ls>.<info n="sup_2"/>
+681672 new √{#ac#}¦ mit {#ud#}, {#udaYcita#} {%emporgehoben%} <ls>HEM. PAR. 1,47</ls>. <ls n="HEM. PAR.">2,559</ls>. <ls n="HEM. PAR. 2,">585</ls>.<info n="sup_2"/>
+; ----------------------------------------------
+; <L>202521<pc>2-292-c<k1>as<k2>2. as
+684112 old <hom>2.</hom> {#as#}¦ mit {#aDini#} {%darüber werfen%} <ls>KAP. S. 32,4</ls>.<info n="sup_2"/>
+684112 new <hom>2.</hom> √{#as#}¦ mit {#aDini#} {%darüber werfen%} <ls>KAP. S. 32,4</ls>.<info n="sup_2"/>
+; ----------------------------------------------
+; <L>202677<pc>2-294-c<k1>iD<k2>1. iD
+684738 old <hom>1.</hom> {#iD#}¦, <ab>Caus.</ab> {#inDita#} {%angezündet, angefacht%} <ls>CARAKA 6,18</ls>.<info n="sup_2"/>
+684738 new <hom>1.</hom> √{#iD#}¦, <ab>Caus.</ab> {#inDita#} {%angezündet, angefacht%} <ls>CARAKA 6,18</ls>.<info n="sup_2"/>
+; ----------------------------------------------
+; <L>202688<pc>2-294-c<k1>iz<k2>1. iz
+684782 old <hom>1.</hom> {#iz#}¦ mit {#upa#} {%hinstreben zu%} (<ab>Acc.</ab>) <ls>MAITR. S. 1,2,14</ls> (<ls>KĀṬH. 3,3</ls>. <ls>KAP. S. 2,10</ls>. <ls>MĀN. ŚR. 1,8,2</ls>).<info n="sup_2"/>
+684782 new <hom>1.</hom> √{#iz#}¦ mit {#upa#} {%hinstreben zu%} (<ab>Acc.</ab>) <ls>MAITR. S. 1,2,14</ls> (<ls>KĀṬH. 3,3</ls>. <ls>KAP. S. 2,10</ls>. <ls>MĀN. ŚR. 1,8,2</ls>).<info n="sup_2"/>
+; ----------------------------------------------
+; <L>202694<pc>2-295-a<k1>Ikz<k2>Ikz
+684806 old {#Ikz#}¦ mit {#niraByava#} {%durchsuchen, durchstöbern%} <ls>KĀRAṆḌ. 44,1</ls>.<info n="sup_2"/>
+684806 new √{#Ikz#}¦ mit {#niraByava#} {%durchsuchen, durchstöbern%} <ls>KĀRAṆḌ. 44,1</ls>.<info n="sup_2"/>
+; ----------------------------------------------
+; <L>202705<pc>2-295-a<k1>ukz<k2>ukz
+684850 old {#ukz#}¦ mit {#prati#} {%besprengen%} <ls>ĀPAST. ŚR. 2,8,3</ls>.<info n="sup_2"/>
+684850 new √{#ukz#}¦ mit {#prati#} {%besprengen%} <ls>ĀPAST. ŚR. 2,8,3</ls>.<info n="sup_2"/>
+; ----------------------------------------------
+; <L>202811<pc>2-296-a<k1>Uh<k2>1. Uh
+685270 old <hom>1.</hom> {#Uh#}¦ mit {#anupra#} {%einschieben%} <ls>ĀPAST. ŚR. 1,21,7</ls>. <ls n="ĀPAST. ŚR. 1,">14,19</ls>.<info n="sup_2"/>
+685270 new <hom>1.</hom> √{#Uh#}¦ mit {#anupra#} {%einschieben%} <ls>ĀPAST. ŚR. 1,21,7</ls>. <ls n="ĀPAST. ŚR. 1,">14,19</ls>.<info n="sup_2"/>
+; ----------------------------------------------
+; <L>203315<pc>3-247-b<k1>ac<k2>ac
+687287 old {#ac#}¦ mit {#ni#} 1〉 «{#nya^kta#} und» {%zu streichen%}. {#nyA^kna#} <ls>TBR. 1,6,4,2</ls> fehlerhaft für {#nya^kna#}. — <ab>Caus.</ab> {%niederdrücken, eindrücken%} <ls>HEM. PAR. 2,195</ls>. *{#nyaYcita#} {%niedergebogen%} <ls>H. 1482</ls>. <ls>HALĀY. 4,83</ls>.<info n="sup_3"/>
+687287 new √{#ac#}¦ mit {#ni#} 1〉 «{#nya^kta#} und» {%zu streichen%}. {#nyA^kna#} <ls>TBR. 1,6,4,2</ls> fehlerhaft für {#nya^kna#}. — <ab>Caus.</ab> {%niederdrücken, eindrücken%} <ls>HEM. PAR. 2,195</ls>. *{#nyaYcita#} {%niedergebogen%} <ls>H. 1482</ls>. <ls>HALĀY. 4,83</ls>.<info n="sup_3"/>
+; ----------------------------------------------
+; <L>203332<pc>3-247-b<k1>aYj<k2>aYj
+687355 old {#aYj#}¦ mit {#parivi#}, {#parivyaktam#} <lex>Adv.</lex> {%überaus deutlich%} [Page3-247-c] <ls>HARIV. 4514</ls>.<info n="sup_3"/>
+687355 new √{#aYj#}¦ mit {#parivi#}, {#parivyaktam#} <lex>Adv.</lex> {%überaus deutlich%} [Page3-247-c] <ls>HARIV. 4514</ls>.<info n="sup_3"/>
+; ----------------------------------------------
+; <L>203418<pc>3-248-b<k1>ad<k2>1. ad
+687699 old <hom>1.</hom> {#ad#}¦, <ab>Caus.</ab> {#adayate#} (!) <ls>ĀPAST. ŚR. 5,25,18</ls>.<info n="sup_3"/>
+687699 new <hom>1.</hom> √{#ad#}¦, <ab>Caus.</ab> {#adayate#} (!) <ls>ĀPAST. ŚR. 5,25,18</ls>.<info n="sup_3"/>
+; ----------------------------------------------
+; <L>203888<pc>3-253-c<k1>arC<k2>arC
+689579 old {#arC#}¦ mit {#upa#} {%Jmd auf den Leib rücken, Jmd belästigen%} <ls>TS. 1,5,9,6</ls>.<info n="sup_3"/>
+689579 new √{#arC#}¦ mit {#upa#} {%Jmd auf den Leib rücken, Jmd belästigen%} <ls>TS. 1,5,9,6</ls>.<info n="sup_3"/>
+; ----------------------------------------------
+; <L>203889<pc>3-253-c<k1>arj<k2>1. arj
+689583 old <hom>1.</hom> {#arj#}¦ mit {#nis#} {%herauslassen, — geben%} <ls>TS. 1,5,9,3</ls>.<info n="sup_3"/>
+689583 new <hom>1.</hom> √{#arj#}¦ mit {#nis#} {%herauslassen, — geben%} <ls>TS. 1,5,9,3</ls>.<info n="sup_3"/>
+; ----------------------------------------------
+; <L>203988<pc>3-254-c<k1>as<k2>2. as
+689979 old <hom>2.</hom> {#as#}¦ mit {#aDi#} 1〉 {%werfen auf, in%}. {#agnO#} {%in das Feuer%} <ls>MĀN. ŚR. 1,3,4</ls>. <ls n="MĀN. ŚR. 1,">7,1</ls>.
+689979 new <hom>2.</hom> √{#as#}¦ mit {#aDi#} 1〉 {%werfen auf, in%}. {#agnO#} {%in das Feuer%} <ls>MĀN. ŚR. 1,3,4</ls>. <ls n="MĀN. ŚR. 1,">7,1</ls>.
+; ----------------------------------------------
+; <L>204092<pc>3-255-c<k1>Ap<k2>Ap
+690397 old {#Ap#}¦ mit {#anu#} <ab>Desid.</ab> {%einstimmen%}. {#indreRa bAQamityevamanvIpsitam#} (<ab>impers.</ab>) <ls>VP. 4,2,11</ls>.
+690397 new √{#Ap#}¦ mit {#anu#} <ab>Desid.</ab> {%einstimmen%}. {#indreRa bAQamityevamanvIpsitam#} (<ab>impers.</ab>) <ls>VP. 4,2,11</ls>.
+; ----------------------------------------------
+; <L>204132<pc>3-256-b<k1>i<k2>3. i ?
+690559 old <hom>3.</hom> {#i#}¦ mit {#prati#} 6〉 {%annehmen,%} so <ab>v. a.</ab> {%lernen von%} (<ab>Abl.</ab>) <ls>ĀPAST. 2,29,15</ls>.<info n="sup_3"/>
+690559 new <hom>3.</hom> √{#i#}¦ mit {#prati#} 6〉 {%annehmen,%} so <ab>v. a.</ab> {%lernen von%} (<ab>Abl.</ab>) <ls>ĀPAST. 2,29,15</ls>.<info n="sup_3"/>
+; ----------------------------------------------
+; <L>204149<pc>3-256-b<k1>iz<k2>4. iz
+690627 old <hom>4.</hom> {#iz#}¦ 2〉 <ls>HARIV. 2,72,52</ls> nach <ls>NĪLAK.</ls><info n="sup_3"/>
+690627 new <hom>4.</hom> √{#iz#}¦ 2〉 <ls>HARIV. 2,72,52</ls> nach <ls>NĪLAK.</ls><info n="sup_3"/>
+; ----------------------------------------------
+; <L>204180<pc>3-256-c<k1>uYC<k2>uYC
+690751 old {#uYC#}¦ mit {#nis#} in {#niruYCana#}.<info n="sup_3"/>
+690751 new √{#uYC#}¦ mit {#nis#} in {#niruYCana#}.<info n="sup_3"/>
+; ----------------------------------------------
+; <L>204278<pc>3-257-c<k1>Uh<k2>1. Uh
+691143 old <hom>1.</hom> {#Uh#}¦ mit {#nirvi#} 3〉 {#nirvyUQa#} {%zu Ende geführt%} <ls>HEM. PAR. 8,133</ls>.<info n="sup_3"/>
+691143 new <hom>1.</hom> √{#Uh#}¦ mit {#nirvi#} 3〉 {#nirvyUQa#} {%zu Ende geführt%} <ls>HEM. PAR. 8,133</ls>.<info n="sup_3"/>
+; ----------------------------------------------
+; <L>204675<pc>3-262-a<k1>culump<k2>culump
+692735 old {#culump#}¦ mit {#ud#} {%einschlürfen%} <ls>MAHĀVĪRAC. 82,14</ls>.<info n="sup_3"/>
+692735 new √{#culump#}¦ mit {#ud#} {%einschlürfen%} <ls>MAHĀVĪRAC. 82,14</ls>.<info n="sup_3"/>
+; ----------------------------------------------
+; <L>204986<pc>4-291-a<k1>ac<k2>ac
+693978 old {#ac#}¦ mit {#samud#} {%anbrechen, beginnen%} <ls>BHĀM. V. 2,45</ls>.
+693978 new √{#ac#}¦ mit {#samud#} {%anbrechen, beginnen%} <ls>BHĀM. V. 2,45</ls>.
+; ----------------------------------------------
+; <L>204993<pc>4-291-a<k1>aYj<k2>aYj
+694008 old {#aYj#}¦ mit {#pravi#}, {#pravyakta#} {%deutlich%}. <ab>Compar.</ab> {#°tara#} <ls>SUŚR. 1,258,20</ls>.<info n="sup_4"/>
+694008 new √{#aYj#}¦ mit {#pravi#}, {#pravyakta#} {%deutlich%}. <ab>Compar.</ab> {#°tara#} <ls>SUŚR. 1,258,20</ls>.<info n="sup_4"/>
+; ----------------------------------------------
+; <L>204999<pc>4-291-b<k1>at<k2>at
+694032 old {#at#}¦ mit {#anu#} in {#anvatya#} (= {#anugamayya#} <ab>Comm.</ab>) <ls>ĀPAST. ŚR. 9,10,15</ls>. Schon nach der Betonung <ls>TBR. 1,4,3,6</ls> ist diese Trennung in {#anvatyAva/rtayet#} nicht denkbar.<info n="sup_4"/>
+694032 new √{#at#}¦ mit {#anu#} in {#anvatya#} (= {#anugamayya#} <ab>Comm.</ab>) <ls>ĀPAST. ŚR. 9,10,15</ls>. Schon nach der Betonung <ls>TBR. 1,4,3,6</ls> ist diese Trennung in {#anvatyAva/rtayet#} nicht denkbar.<info n="sup_4"/>
+; ----------------------------------------------
+; <L>205314<pc>4-295-a<k1>arD<k2>arD
+695293 old {#arD#}¦ mit {#vi#}, {#vyfdDa#} (<ab>vgl.</ab> auch <ls>Nachtr. 1</ls>) auch {%misslungen%} <ls>NIR. 1,7</ls>.<info n="sup_4"/>
+695293 new √{#arD#}¦ mit {#vi#}, {#vyfdDa#} (<ab>vgl.</ab> auch <ls>Nachtr. 1</ls>) auch {%misslungen%} <ls>NIR. 1,7</ls>.<info n="sup_4"/>
+; ----------------------------------------------
+; <L>205357<pc>4-295-c<k1>as<k2>2. as
+695465 old <hom>2.</hom> {#as#}¦ mit {#vyati#}, {#vyatyasta#} auch {%verkehrt, verworren%} <ls>BHĀM. V. 2,82</ls>.
+695465 new <hom>2.</hom> √{#as#}¦ mit {#vyati#}, {#vyatyasta#} auch {%verkehrt, verworren%} <ls>BHĀM. V. 2,82</ls>.
+; ----------------------------------------------
+; <L>205418<pc>4-296-b<k1>i<k2>3. i ?
+695714 old <hom>3.</hom> {#i#}¦ mit {#prati#}, {#pratIta#} nach den Lexicographen auch {%aufgebrochen, fortgegangen; ehrerbietig; klug%}.<info n="sup_4"/>
+695714 new <hom>3.</hom> √{#i#}¦ mit {#prati#}, {#pratIta#} nach den Lexicographen auch {%aufgebrochen, fortgegangen; ehrerbietig; klug%}.<info n="sup_4"/>
+; ----------------------------------------------
+; <L>205424<pc>4-296-b<k1>Ikz<k2>Ikz
+695738 old {#Ikz#}¦ mit {#pratyupa#}, {#pratyupekzita#} {%nicht beachtet%} <ls>R. GORR. 2,6,21</ls> (zu trennen {#vA pra°#}).<info n="sup_4"/>
+695738 new √{#Ikz#}¦ mit {#pratyupa#}, {#pratyupekzita#} {%nicht beachtet%} <ls>R. GORR. 2,6,21</ls> (zu trennen {#vA pra°#}).<info n="sup_4"/>
+; ----------------------------------------------
+; <L>205425<pc>4-296-b<k1>Ir<k2>Ir
+695742 old {#Ir#}¦ mit {#vi#}. {#ya/di#} — {#vI/ryeta#} {%wenn zerfallen sollte%} <ls>MAITR. S. 2,1,8 (9,13. 14)</ls>. Richtig wohl {#SI/ryeta#}.<info n="sup_4"/>
+695742 new √{#Ir#}¦ mit {#vi#}. {#ya/di#} — {#vI/ryeta#} {%wenn zerfallen sollte%} <ls>MAITR. S. 2,1,8 (9,13. 14)</ls>. Richtig wohl {#SI/ryeta#}.<info n="sup_4"/>
+; ----------------------------------------------
+; <L>205480<pc>4-297-a<k1>Uh<k2>1. Uh
+695962 old <hom>1.</hom> {#Uh#}¦ mit {#aBi/ pa/ri#} {%hinschaffen zu%} (<ab>Acc.</ab>) <ls>TS. 5,2,10,2</ls>.<info n="sup_4"/>
+695962 new <hom>1.</hom> √{#Uh#}¦ mit {#aBi/ pa/ri#} {%hinschaffen zu%} (<ab>Acc.</ab>) <ls>TS. 5,2,10,2</ls>.<info n="sup_4"/>
+; ----------------------------------------------
+; <L>206027<pc>5-241-a<k1>ac<k2>ac
+698153 old {#ac#}¦ mit {#samud#} (auch <ls>Nachtr. 4</ls>) {%sich erheben%} <ls>SADUKTIK. 5,33</ls>.<info n="sup_5"/>
+698153 new √{#ac#}¦ mit {#samud#} (auch <ls>Nachtr. 4</ls>) {%sich erheben%} <ls>SADUKTIK. 5,33</ls>.<info n="sup_5"/>
+; ----------------------------------------------
+; <L>206426<pc>5-245-a<k1>arC<k2>arC
+699749 old {#arC#}¦ mit {#ava#}, {#avA/rCati#} (!) <ls>TS.</ls>, {#avArCe/t#} <ls>ŚAT. BR.</ls>
+699749 new √{#arC#}¦ mit {#ava#}, {#avA/rCati#} (!) <ls>TS.</ls>, {#avArCe/t#} <ls>ŚAT. BR.</ls>
+; ----------------------------------------------
+; <L>206490<pc>5-246-a<k1>av<k2>av
+700006 old {#av#}¦ mit {#aBi#} <ls>ṚV. 9,97,39</ls>.<info n="sup_5"/>
+700006 new √{#av#}¦ mit {#aBi#} <ls>ṚV. 9,97,39</ls>.<info n="sup_5"/>
+; ----------------------------------------------
+; <L>206666<pc>5-248-a<k1>as<k2>1. as
+700710 old <hom>1.</hom> {#as#}¦ 8〉 {#cintayAmAsivAn = cinnayAmAsa#} <ls>HEM. PAR. 1,327</ls>.<info n="sup_5"/>
+700710 new <hom>1.</hom> √{#as#}¦ 8〉 {#cintayAmAsivAn = cinnayAmAsa#} <ls>HEM. PAR. 1,327</ls>.<info n="sup_5"/>
+; ----------------------------------------------
+; <L>206667<pc>5-248-a<k1>as<k2>2. as
+700714 old <hom>2.</hom> {#as#}¦ mit {#vipari#}, {#viparyasta#} auch {%entgegengesetzt,%} mit <ab>Abl.</ab> <ls>SĀṂKHYAK. 23</ls>.<info n="sup_5"/>
+700714 new <hom>2.</hom> √{#as#}¦ mit {#vipari#}, {#viparyasta#} auch {%entgegengesetzt,%} mit <ab>Abl.</ab> <ls>SĀṂKHYAK. 23</ls>.<info n="sup_5"/>
+; ----------------------------------------------
+; <L>206831<pc>5-249-c<k1>i<k2>3. i ?
+701370 old <hom>3.</hom> {#i#}¦ mit {#vi#}, {#vIta#} auch {%*unbrauchbar%} und {%*beruhigt%}.<info n="sup_5"/>
+701370 new <hom>3.</hom> √{#i#}¦ mit {#vi#}, {#vIta#} auch {%*unbrauchbar%} und {%*beruhigt%}.<info n="sup_5"/>
+; ----------------------------------------------
+; <L>206842<pc>5-249-c<k1>iz<k2>1. iz
+701414 old <hom>1.</hom> {#iz#}¦ mit {#atipra#} {%darüber hinaus auffordern%} <ls>ĀPAST. ŚR. 12,27,6</ls>. <ls n="ĀPAST. ŚR.">14,34,4</ls>. <ls>VAITĀN.</ls><info n="sup_5"/>
+701414 new <hom>1.</hom> √{#iz#}¦ mit {#atipra#} {%darüber hinaus auffordern%} <ls>ĀPAST. ŚR. 12,27,6</ls>. <ls n="ĀPAST. ŚR.">14,34,4</ls>. <ls>VAITĀN.</ls><info n="sup_5"/>
+; ----------------------------------------------
+; <L>206942<pc>5-251-a<k1>Uh<k2>1. Uh
+701815 old <hom>1.</hom> {#Uh#}¦ mit {#vyapa#} 2〉 {#vyapoQa#} {%offenbart, an den Tag gelegt%} <ls>MBH. 8,34,152</ls>.
+701815 new <hom>1.</hom> √{#Uh#}¦ mit {#vyapa#} 2〉 {#vyapoQa#} {%offenbart, an den Tag gelegt%} <ls>MBH. 8,34,152</ls>.
+; ----------------------------------------------
+; <L>206962<pc>5-251-a<k1>ez<k2>ez
+701898 old {#ez#}¦ mit {#aDi#}, {#aDyezita#} (<ab>buddh.</ab>) = {#aDIzwa#} {%ersucht, angegangen%} <ls>J. R. A. S. 1876, S. 27</ls>.<info n="sup_5"/>
+701898 new √{#ez#}¦ mit {#aDi#}, {#aDyezita#} (<ab>buddh.</ab>) = {#aDIzwa#} {%ersucht, angegangen%} <ls>J. R. A. S. 1876, S. 27</ls>.<info n="sup_5"/>
+; ----------------------------------------------
+; <L>208160<pc>5-264-b<k1>ruMz<k2>ruMz, rUz
+706710 old {#ruMz#} (<ab>vgl.</ab> {#rUz#})¦, {#ruMzita#} {%bestäubt, bestreut, beschmiert%} <ls>KIR. 1,34</ls>.
+706710 new √{#ruMz#} (<ab>vgl.</ab> √{#rUz#})¦, {#ruMzita#} {%bestäubt, bestreut, beschmiert%} <ls>KIR. 1,34</ls>.
+; ----------------------------------------------
+; <L>208206<pc>6-293-a<k1>aj<k2>aj
+706894 old {#aj#}¦ mit {#aBi#} <ab>vgl.</ab> <ls>OLDENBERG</ls> in <ls>Z. d. d. m. G. 39,65, N. 4</ls>.<info n="sup_6"/>
+706894 new √{#aj#}¦ mit {#aBi#} <ab>vgl.</ab> <ls>OLDENBERG</ls> in <ls>Z. d. d. m. G. 39,65, N. 4</ls>.<info n="sup_6"/>
+; ----------------------------------------------
+; <L>208208<pc>6-293-a<k1>aw<k2>aw
+706902 old {#aw#}¦, metrisch auch {#awate#}.<info n="sup_6"/>
+706902 new √{#aw#}¦, metrisch auch {#awate#}.<info n="sup_6"/>
+; ----------------------------------------------
+; <L>208426<pc>6-295-c<k1>arC<k2>arC
+707774 old {#arC#}¦ mit {#nis#} auch {%kommen um%} (<ab>Abl.</ab>), {%verlustig gehen%} <ls>TĀṆḌYA-BR. 6,6,13</ls>.<info n="sup_6"/>
+707774 new √{#arC#}¦ mit {#nis#} auch {%kommen um%} (<ab>Abl.</ab>), {%verlustig gehen%} <ls>TĀṆḌYA-BR. 6,6,13</ls>.<info n="sup_6"/>
+; ----------------------------------------------
+; <L>208492<pc>6-296-b<k1>aS<k2>1. aS
+708038 old <hom>1.</hom> {#aS#}¦, <ab>Perf.</ab> {#AnASa#} <ls>ĀPAST. ŚR. 14,29,3</ls>. Statt dessen {#AnaMSa#} <ls>AV. 6,49,1</ls>. {#cakAra#} <ls>TAITT. ĀR. 6,10,1</ls>.<info n="sup_6"/>
+708038 new <hom>1.</hom> √{#aS#}¦, <ab>Perf.</ab> {#AnASa#} <ls>ĀPAST. ŚR. 14,29,3</ls>. Statt dessen {#AnaMSa#} <ls>AV. 6,49,1</ls>. {#cakAra#} <ls>TAITT. ĀR. 6,10,1</ls>.<info n="sup_6"/>
+; ----------------------------------------------
+; <L>208621<pc>6-298-a<k1>Ap<k2>Ap
+708554 old {#Ap#}¦ mit {#vi#}, {#vyApta#} 4〉 {%in Allem enthalten, überallhin verbreitet%} <ls>Ind. St. 9,137</ls>. <ab>Superl.</ab> {#°tama#} <ls n="Ind. St. 9,">146</ls>. {#vyAptadeha#} <ls>ŚIŚ. 18,5</ls> nach dem <ab>Comm.</ab> = {#sarvANgIna#}. Nach <ls>MED. t. 57</ls> ist {#vyApta#} auch = {#KyAta#}.<info n="sup_6"/>
+708554 new √{#Ap#}¦ mit {#vi#}, {#vyApta#} 4〉 {%in Allem enthalten, überallhin verbreitet%} <ls>Ind. St. 9,137</ls>. <ab>Superl.</ab> {#°tama#} <ls n="Ind. St. 9,">146</ls>. {#vyAptadeha#} <ls>ŚIŚ. 18,5</ls> nach dem <ab>Comm.</ab> = {#sarvANgIna#}. Nach <ls>MED. t. 57</ls> ist {#vyApta#} auch = {#KyAta#}.<info n="sup_6"/>
+; ----------------------------------------------
+; <L>208655<pc>6-298-b<k1>i<k2>3. i  ?
+708690 old <hom>3.</hom> {#i#}¦ mit {#upani#} auch {%geschlechtlich beiwohnen,%} mit <ab>Acc.</ab> <ls>ṢAḌV. BR. 1,1</ls>.
+708690 new <hom>3.</hom> √{#i#}¦ mit {#upani#} auch {%geschlechtlich beiwohnen,%} mit <ab>Acc.</ab> <ls>ṢAḌV. BR. 1,1</ls>.
+; ----------------------------------------------
+; <L>208665<pc>6-298-c<k1>Ir<k2>Ir
+708731 old {#Ir#}¦ mit {#sam#} <ab>Caus.</ab> 5〉 {%ertönen lassen, sprechen%}. {#samIritaM vacaH#} 〔98,19〕.<info n="sup_6"/>
+708731 new √{#Ir#}¦ mit {#sam#} <ab>Caus.</ab> 5〉 {%ertönen lassen, sprechen%}. {#samIritaM vacaH#} 〔98,19〕.<info n="sup_6"/>
+; ----------------------------------------------
+; <L>208670<pc>6-298-c<k1>uc<k2>uc
+708751 old {#uc#}¦ mit {#sam#}, {#samucita#} 1〉 mit <ab>Gen.</ab> <ls>MEGH. 93</ls>.<info n="sup_6"/>
+708751 new √{#uc#}¦ mit {#sam#}, {#samucita#} 1〉 mit <ab>Gen.</ab> <ls>MEGH. 93</ls>.<info n="sup_6"/>
+; ----------------------------------------------
+; <L>209866<pc>7-291-d<k1>ac<k2>ac
+713534 old {#ac#}¦ mit {#ud#} I. 2.
+713534 new √{#ac#}¦ mit {#ud#} I. 2.
+; ----------------------------------------------
+; <L>209931<pc>7-292-a<k1>aj<k2>aj
+713797 old {#aj#}¦ mit {#aBi#} I. 6.<info n="sup_7"/>
+713797 new √{#aj#}¦ mit {#aBi#} I. 6.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>209993<pc>7-292-c<k1>aYj<k2>aYj
+714045 old {#aYj#}¦ mit {#parivi#} 3.
+714045 new √{#aYj#}¦ mit {#parivi#} 3.
+; ----------------------------------------------
+; <L>210003<pc>7-292-c<k1>aw<k2>aw
+714086 old {#aw#}¦ I. 6.<info n="sup_7"/>
+714086 new √{#aw#}¦ I. 6.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>210021<pc>7-292-c<k1>aRW<k2>aRW
+714158 old {#aRW#}¦ I. 5.<info n="sup_7"/>
+714158 new √{#aRW#}¦ I. 5.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>210027<pc>7-292-d<k1>at<k2>at
+714182 old {#at#}¦ mit {#anu#} 4.<info n="sup_7"/>
+714182 new √{#at#}¦ mit {#anu#} 4.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>210417<pc>7-295-a<k1>ad<k2>1. ad
+715742 old <hom>1.</hom> {#ad#}¦ <ab>Caus.</ab> I. 3.<info n="sup_7"/>
+715742 new <hom>1.</hom> √{#ad#}¦ <ab>Caus.</ab> I. 3.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>212087<pc>7-305-a<k1>apsarAy<k2>apsarAy, apsavya^
+722422 old {#apsarAy#} und {#apsavya^#}¦ I. 1.<info n="sup_7"/>
+722422 new !√{#apsarAy#} und {#apsavya^#}¦ I. 1.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>212596<pc>7-308-b<k1>ar<k2>ar
+724458 old {#ar#}¦ <ab>Caus.</ab> I. 1.<info n="sup_7"/>
+724458 new √{#ar#}¦ <ab>Caus.</ab> I. 1.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>212679<pc>7-308-d<k1>ark<k2>ark
+724790 old {#ark#}¦ 5.<info n="sup_7"/>
+724790 new √{#ark#}¦ 5.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>212696<pc>7-309-a<k1>arC<k2>arC
+724858 old {#arC#}¦ mit {#ava#} I. 5.
+724858 new √{#arC#}¦ mit {#ava#} I. 5.
+; ----------------------------------------------
+; <L>212697<pc>7-309-a<k1>arj<k2>1. arj
+724865 old <hom>1.</hom> {#arj#}¦ mit {#nis#} 3.<info n="sup_7"/>
+724865 new <hom>1.</hom> √{#arj#}¦ mit {#nis#} 3.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>212755<pc>7-309-b<k1>arD<k2>arD
+725099 old {#arD#}¦ I. 1. — <ab>Desid.</ab> {#Irtsati#} {%Gelingen wünschen%} <ls>ĀPAST. ŚR. 6,29,9</ls>.
+725099 new √{#arD#}¦ I. 1. — <ab>Desid.</ab> {#Irtsati#} {%Gelingen wünschen%} <ls>ĀPAST. ŚR. 6,29,9</ls>.
+; ----------------------------------------------
+; <L>212914<pc>7-310-b<k1>av<k2>av
+725736 old {#av#}¦ I. {#avita#} <ls>R. ed. Bomb. 4,60,20</ls> nach dem <ab>Comm.</ab> = {#jYAta#}.
+725736 new √{#av#}¦ I. {#avita#} <ls>R. ed. Bomb. 4,60,20</ls> nach dem <ab>Comm.</ab> = {#jYAta#}.
+; ----------------------------------------------
+; <L>213317<pc>7-312-d<k1>aS<k2>1. aS
+727349 old <hom>1.</hom> {#aS#}¦ I. 6.<info n="sup_7"/>
+727349 new <hom>1.</hom> √{#aS#}¦ I. 6.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>213318<pc>7-312-d<k1>aS<k2>2. aS
+727353 old <hom>2.</hom> {#aS#}¦ mit {#saMpra#}, {#aSakalIkaraRa#} und {#aSakunI#} 1.<info n="sup_7"/>
+727353 new <hom>2.</hom> √{#aS#}¦ mit {#saMpra#}, {#aSakalIkaraRa#} und {#aSakunI#} 1.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>213485<pc>7-314-a<k1>as<k2>1. as
+728021 old <hom>1.</hom> {#as#}¦ <ls>81,1. 5</ls>.<info n="sup_7"/>
+728021 new <hom>1.</hom> √{#as#}¦ <ls>81,1. 5</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>213486<pc>7-314-a<k1>as<k2>2. as
+728025 old <hom>2.</hom> {#as#}¦ mit {#vyati#} I. 4.
+728025 new <hom>2.</hom> √{#as#}¦ mit {#vyati#} I. 4.
+; ----------------------------------------------
+; <L>213487<pc>7-314-a<k1>as<k2>5. as
+728042 old <hom>5.</hom> {#as#}¦ 1.<info n="sup_7"/>
+728042 new <hom>5.</hom> √{#as#}¦ 1.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>214162<pc>7-318-c<k1>Ap<k2>Ap
+730743 old {#Ap#}¦ mit {#anu#} <ab>Desid.</ab> 3.
+730743 new √{#Ap#}¦ mit {#anu#} <ab>Desid.</ab> 3.
+; ----------------------------------------------
+; <L>214444<pc>7-320-b<k1>As<k2>2. As
+731875 old <hom>2.</hom> {#As#}¦ I. 1. Mit {#avasTAnam#} {%sich niederlassen an einem Orte%} <ls>R. ed. Bomb. 4,54,16</ls> ({#Asizyasi#}).
+731875 new <hom>2.</hom> √{#As#}¦ I. 1. Mit {#avasTAnam#} {%sich niederlassen an einem Orte%} <ls>R. ed. Bomb. 4,54,16</ls> ({#Asizyasi#}).
+; ----------------------------------------------
+; <L>214506<pc>7-320-d<k1>i<k2>3. i  ?
+732124 old <hom>3.</hom> {#i#}¦ mit {#aDi#} <ab>Caus.</ab> I. 1.
+732124 new <hom>3.</hom> √{#i#}¦ mit {#aDi#} <ab>Caus.</ab> I. 1.
+; ----------------------------------------------
+; <L>214532<pc>7-321-a<k1>iD<k2>1. iD
+732240 old <hom>1.</hom> {#iD#}¦ <ab>Caus.</ab> 2.<info n="sup_7"/>
+732240 new <hom>1.</hom> √{#iD#}¦ <ab>Caus.</ab> 2.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>214598<pc>7-321-c<k1>iz<k2>1. iz
+732505 old <hom>1.</hom> {#iz#}¦ mit {#samanu#} I. {%durchsuchen%}. {#samanvezitum#} <ls>R. ed. Bomb. 3,67,7</ls>.
+732505 new <hom>1.</hom> √{#iz#}¦ mit {#samanu#} I. {%durchsuchen%}. {#samanvezitum#} <ls>R. ed. Bomb. 3,67,7</ls>.
+; ----------------------------------------------
+; <L>214599<pc>7-321-c<k1>iz<k2>3. iz
+732511 old <hom>3.</hom> {#iz#}¦ mit passivisch aufzufassendem Infinitiv: {#samudraM netumicCAmi BavadBiH#} {%ich wünsche von Euch anʼs Meer geführt zu werden%} <ls>R. ed. Bomb. 4,58,33</ls>. <ls n="R. ed. Bomb. 4,">56,21</ls>. Zu 4〉e〉β〉 gehört {#pratikUlitumicCAmi na hi vAkyamidaM tvayA#} <ls n="R. ed. Bomb.">3,24,13</ls>.<info n="sup_7"/>
+732511 new <hom>3.</hom> √{#iz#}¦ mit passivisch aufzufassendem Infinitiv: {#samudraM netumicCAmi BavadBiH#} {%ich wünsche von Euch anʼs Meer geführt zu werden%} <ls>R. ed. Bomb. 4,58,33</ls>. <ls n="R. ed. Bomb. 4,">56,21</ls>. Zu 4〉e〉β〉 gehört {#pratikUlitumicCAmi na hi vAkyamidaM tvayA#} <ls n="R. ed. Bomb.">3,24,13</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>214600<pc>7-321-c<k1>iz<k2>4. iz
+732515 old <hom>4.</hom> {#iz#}¦ I. 3.<info n="sup_7"/>
+732515 new <hom>4.</hom> √{#iz#}¦ I. 3.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>214627<pc>7-321-d<k1>Ikz<k2>Ikz
+732623 old {#Ikz#}¦ I. <ab>Pass.</ab> {%videri, scheinen%} <ls>JĀTAKAM. 28,40</ls>. {#Ikzita#} so <ab>v. a.</ab> {%gutgeheissen%} <ls n="JĀTAKAM.">31,88</ls>.
+732623 new √{#Ikz#}¦ I. <ab>Pass.</ab> {%videri, scheinen%} <ls>JĀTAKAM. 28,40</ls>. {#Ikzita#} so <ab>v. a.</ab> {%gutgeheissen%} <ls n="JĀTAKAM.">31,88</ls>.
+; ----------------------------------------------
+; <L>214633<pc>7-321-d<k1>INK<k2>INK
+732653 old {#INK#}¦ mit {#aBipra#} {%erzittern, schimmern%} <ls>DHARMAŚARMĀBHY. 4,19</ls>.<info n="sup_7"/>
+732653 new √{#INK#}¦ mit {#aBipra#} {%erzittern, schimmern%} <ls>DHARMAŚARMĀBHY. 4,19</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>214638<pc>7-321-d<k1>Ir<k2>Ir
+732673 old {#Ir#}¦ mit {#aByud#} <ab>Caus.</ab> 3〉 {%entgegen sprengen%} <ls>ŚIŚ. 1,18</ls>.
+732673 new √{#Ir#}¦ mit {#aByud#} <ab>Caus.</ab> 3〉 {%entgegen sprengen%} <ls>ŚIŚ. 1,18</ls>.
+; ----------------------------------------------
+; <L>214666<pc>7-322-a<k1>ukz<k2>1. ukz
+732787 old <hom>1.</hom> {#ukz#}¦ mit {#prati#} 1.<info n="sup_7"/>
+732787 new <hom>1.</hom> √{#ukz#}¦ mit {#prati#} 1.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>214680<pc>7-322-a<k1>uc<k2>uc
+732843 old {#uc#}¦ mit {#aBi#} I. 1.
+732843 new √{#uc#}¦ mit {#aBi#} I. 1.
+; ----------------------------------------------
+; <L>215190<pc>7-325-d<k1>uB<k2>uB
+734884 old {#uB#}¦ I. 4. {#°umBita#} {%voller%} — <ls>SUBHĀṢITĀV. 181</ls>.<info n="sup_7"/>
+734884 new √{#uB#}¦ I. 4. {#°umBita#} {%voller%} — <ls>SUBHĀṢITĀV. 181</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>215305<pc>7-326-c<k1>Uh<k2>1. Uh
+735344 old <hom>1.</hom> {#Uh#}¦ mit {#vyapa#} I. 5.
+735344 new <hom>1.</hom> √{#Uh#}¦ mit {#vyapa#} I. 5.
+; ----------------------------------------------
+; <L>215489<pc>7-327-d<k1>eD<k2>eD
+736086 old {#eD#}¦ I. 3.<info n="sup_7"/>
+736086 new √{#eD#}¦ I. 3.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>215514<pc>7-328-a<k1>ez<k2>ez
+736186 old {#ez#}¦ mit {#aDi#} 5.<info n="sup_7"/>
+736186 new √{#ez#}¦ mit {#aDi#} 5.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>217351<pc>7-341-d<k1>culump<k2>culump
+743617 old {#culump#}¦ mit {#ud#} 3. {%ausschöpfen%} <ls>DHARMAŚARM. 8,27</ls> ({#ucculumpAM ca°#} zu lesen).<info n="sup_7"/>
+743617 new √{#culump#}¦ mit {#ud#} 3. {%ausschöpfen%} <ls>DHARMAŚARM. 8,27</ls> ({#ucculumpAM ca°#} zu lesen).<info n="sup_7"/>
+; ----------------------------------------------
+; <L>219109<pc>7-356-b<k1>parAgamana<k2>parAgamana, parAgAy, parAgin
+750752 old {#parAgamana#}, {#parAgAy#} und {#parAgin#}¦ 5.<info n="sup_7"/>
+750752 new {#parAgamana#}, !√{#parAgAy#} und {#parAgin#}¦ 5.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>222077<pc>7-384-1b<k1>akz<k2>akz
+762745 old {#akz#}¦ I. {#akzRute, akzRuyAt#} und {#akzita/#} in der <ab>Bed.</ab> {%verschneiden%} <ls>MAITR. S. 4,2,9 (32,8. fgg.)</ls>.<info n="sup_7"/>
+762745 new √{#akz#}¦ I. {#akzRute, akzRuyAt#} und {#akzita/#} in der <ab>Bed.</ab> {%verschneiden%} <ls>MAITR. S. 4,2,9 (32,8. fgg.)</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>222088<pc>7-384-1d<k1>ac<k2>ac
+762789 old {#ac#}¦ I. {%schmücken%} <ls>DHARMAŚARM. 11,7</ls>.
+762789 new √{#ac#}¦ I. {%schmücken%} <ls>DHARMAŚARM. 11,7</ls>.
+; ----------------------------------------------
+; <L>222109<pc>7-385-a<k1>ad<k2>1. ad
+762874 old <hom>1.</hom> {#ad#}¦ I. 3. Im Nachtrag ist {#adayate#} zu streichen, da an der <ab n="angeführten">angef.</ab> <ab n="Stelle">St.</ab> nach <ls>DELBRÜCK</ls> {#dadanna dayota#} zu trennen ist.<info n="sup_7"/>
+762874 new <hom>1.</hom> √{#ad#}¦ I. 3. Im Nachtrag ist {#adayate#} zu streichen, da an der <ab n="angeführten">angef.</ab> <ab n="Stelle">St.</ab> nach <ls>DELBRÜCK</ls> {#dadanna dayota#} zu trennen ist.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>222244<pc>7-386-c<k1>as<k2>2. as
+763414 old <hom>2.</hom> {#as#}¦ mit {#nis#} I. 6〉 <ls>KIR. 10,52</ls>. <ls n="KIR.">17,32</ls>. — {%niedersetzen%} ({#padam#}) <ls n="KIR.">10,31</ls>.
+763414 new <hom>2.</hom> √{#as#}¦ mit {#nis#} I. 6〉 <ls>KIR. 10,52</ls>. <ls n="KIR.">17,32</ls>. — {%niedersetzen%} ({#padam#}) <ls n="KIR.">10,31</ls>.
+; ----------------------------------------------
+; <L>222260<pc>7-386-c<k1>Ap<k2>Ap
+763480 old {#Ap#}¦ mit {#pra#}, {#prApta#} I. {%passend, schicklich, rathsam%} <ls>JĀTAKAM. 22</ls>.<info n="sup_7"/>
+763480 new √{#Ap#}¦ mit {#pra#}, {#prApta#} I. {%passend, schicklich, rathsam%} <ls>JĀTAKAM. 22</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>222279<pc>7-386-d<k1>ir<k2>ir
+763556 old {#ir#}¦ mit {#prati#} <ab>Caus.</ab> I. lies {%aufsetzen%}.<info n="sup_7"/>
+763556 new √{#ir#}¦ mit {#prati#} <ab>Caus.</ab> I. lies {%aufsetzen%}.<info n="sup_7"/>
+; ----------------------------------------------
+; *****************************************************
+; 03: 75  based on pwkvn_4.differences-3.splits.and.miscellaneous.txt
+; *****************************************************
+; <L>201211<pc>1-293-c<k1>arTay<k2>arTay (chk SUP: <info n="sup_1"/>)
+678867 old !√{#arTay#}¦ mit {#aBi#}, {#aByarTasi = prerayasi#} <ls><ab>Comm.</ab> zu R. ed. Bomb. 2,21,56</ls>. Vielleicht ist {#aByarCasi#} gemeinnt.<info n="sup_1"/>
+;
+678867 new !√{#arTay#}¦ mit {#aBi#}, {#aByarTasi#} = {#prerayasi#} <ls><ab>Comm.</ab> zu R. ed. Bomb. 2,21,56</ls>. Vielleicht ist {#aByarCasi#} gemeinnt.<info n="sup_1"/>
+; ----------------------------------------------
+; <L>202213<pc>2-289-b<k1>anumAna<k2>anumAna, anumAnakAYcana, anumAnaKaRqa, anumAnanirUpaRa, anumAnaprakASikA, anumAnapraveSa, anumAnamaRi, anumAnavAda (chk SUP: <info n="sup_2"/>)
+682880 old {#anumAna#} <lex>n.</lex>, {#°kAYcana, °KaRqa, °nirUpaRa#} <lex>n.</lex>, {#°prakASikA#} <lex>f.</lex>, {#°praveSa#} <lex>m.</lex>, {#°maRi#} <lex>m.</lex> und {#°vAda#} <lex>m.</lex>¦ Titel von Werken <ls>OPP. Cat. 1</ls>.<info n="sup_2"/>
+;
+682880 new {#anumAna#} <lex>n.</lex>, {#°kAYcana#}, {#°KaRqa#}, {#°nirUpaRa#} <lex>n.</lex>, {#°prakASikA#} <lex>f.</lex>, {#°praveSa#} <lex>m.</lex>, {#°maRi#} <lex>m.</lex> und {#°vAda#} <lex>m.</lex>¦ Titel von Werken <ls>OPP. Cat. 1</ls>.<info n="sup_2"/>
+; ----------------------------------------------
+; <L>203059<pc>2-298-c<k1>kUR<k2>kUR
+686264 old √{#kUR#}¦ mit {#ni#}, {#°kURita#} {%geschlossen%} (Auge) <ls>DEŚĪN. 1,88</ls>.
+;
+686264 new √{#kUR#}¦ mit {#ni#}, {#°kURita#} {%geschlossen%} (Auge) <ls>DEŚĪN. 1,88</ls>.
+; ----------------------------------------------
+; <L>203097<pc>2-299-b<k1>kram<k2>kram (chk SUP: <info n="sup_2"/>)
+686417 old √{#kram#}¦ mit {#pratisam#}, {#pratisaMkrAnta = pratibimbita#} <ls>SARVAD. 155,4</ls>. <ls n="SARVAD. 155,">6</ls>.<info n="sup_2"/>
+;
+686417 new √{#kram#}¦ mit {#pratisam#}, {#pratisaMkrAnta#} = {#pratibimbita#} <ls>SARVAD. 155,4</ls>. <ls n="SARVAD. 155,">6</ls>.<info n="sup_2"/>
+; ----------------------------------------------
+; <L>203272<pc>3-246-c<k1>akzikUwa<k2>akzikUwa (chk SUP: <info n="sup_3"/>)
+687115 old {#akzikUwa#}¦ <ls>VIṢṆUS. 96,92</ls>. Nach dem <ab>Comm.</ab> {#°kUwe [Page3-247-a] = pakzmaRI#}, nach Andern {#netranAsAsaMDI#}.<info n="sup_3"/>
+;
+687115 new {#akzikUwa#}¦ <ls>VIṢṆUS. 96,92</ls>. Nach dem <ab>Comm.</ab> {#°kUwe#} [Page3-247-a] = {#pakzmaRI#}, nach Andern {#netranAsAsaMDI#}.<info n="sup_3"/>
+; ----------------------------------------------
+; <L>203906<pc>3-253-c<k1>arDaBedaka<k2>arDaBedaka (chk SUP: <info n="sup_3"/>)
+689651 old {#arDaBedaka#}¦ <lex>Adj.</lex> mit {#vyADi = arDaBeda#} <lex>m.</lex> {%Hemiplegie%} <ls>SUŚR. 2,380,10</ls>.<info n="sup_3"/>
+;
+689651 new {#arDaBedaka#}¦ <lex>Adj.</lex> mit {#vyADi#} = {#arDaBeda#} <lex>m.</lex> {%Hemiplegie%} <ls>SUŚR. 2,380,10</ls>.<info n="sup_3"/>
+; ----------------------------------------------
+; <L>203910<pc>3-254-a<k1>arDika<k2>arDika (chk SUP: <info n="sup_3"/>)
+689667 old {#arDika#}¦ <lex>Adj.</lex> = {#ArDika = arDasIrin#} <ls>VIṢṆUS. 57,16</ls>.<info n="sup_3"/>
+;
+689667 new {#arDika#}¦ <lex>Adj.</lex> = {#ArDika#} = {#arDasIrin#} <ls>VIṢṆUS. 57,16</ls>.<info n="sup_3"/>
+; ----------------------------------------------
+; <L>204075<pc>3-255-c<k1>Atmasama<k2>Atmasama (chk SUP: <info n="sup_3"/>)
+690329 old {#Atmasama#}¦ nach <ls>NĪLAK.</ls> auch so <ab>v. a.</ab> {#AtmasAmya = AtmasamatA#} <ls>MBH. 5,36,4</ls>.<info n="sup_3"/>
+;
+690329 new {#Atmasama#}¦ nach <ls>NĪLAK.</ls> auch so <ab>v. a.</ab> {#AtmasAmya#} = {#AtmasamatA#} <ls>MBH. 5,36,4</ls>.<info n="sup_3"/>
+; ----------------------------------------------
+; <L>204364<pc>3-258-c<k1>kawukaBAzin<k2>kawukaBAzin (chk SUP: <info n="sup_3"/>)
+691487 old {#kawukaBAzin#}¦ <lex>Adj.</lex> {%harte Reden führend%} <ls>MBH. 3. 40,13</ls>.<info n="sup_3"/>
+;
+691487 new {#kawukaBAzin#}¦ <lex>Adj.</lex> {%harte Reden führend%} <ls>MBH. 3,40,13</ls>.<info n="sup_3"/>
+; ----------------------------------------------
+; <L>205313<pc>4-295-a<k1>arTay<k2>arTay X
+;695288 old !√{#arTay#}¦ mit {#pra#}. Die Lexicographen führen für {#prArTita#} folgende Bedeutungen an: {#ardita, yAcita, aBiyukta, SatrusaMrudDa, hata#} und {#aBihata#}.
+;
+;695288 new !√{#arTay#}¦ mit {#pra#}. Die Lexicographen führen für {#prArTita#} folgende Bedeutungen an: {#ardita, yAcita, aBiyukta, SatrusaMrudDa, hata#} und {#aBihata#}. — Mit {#sam#} 10〉 {%bestätigen, begründen, rechtfertigen%} <ls><ab>Comm.</ab> zu TS. PRĀT.</ls> — 11〉 {#samarTita#} = {#samarTa#} {%im Stande seiend%} <ls>Spr. 4005</ls>. — In den meisten, vielleicht in allen Bedeutungen <ab>Denomin.</ab> von {#samarTa#}.
+695289 old <div n="p">— Mit {#sam#} 10〉 {%bestätigen, begründen, rechtfertigen%} <ls><ab>Comm.</ab> zu TS. PRĀT.</ls> — 11〉 {#samarTita = samarTa#} {%im Stande seiend%} <ls>Spr. 4005</ls>. — In den meisten, vielleicht in allen Bedeutungen <ab>Denomin.</ab> von {#samarTa#}.<info n="sup_4"/>
+;
+695289 new <div n="p">— Mit {#sam#} 10〉 {%bestätigen, begründen, rechtfertigen%} <ls><ab>Comm.</ab> zu TS. PRĀT.</ls> — 11〉 {#samarTita#} = {#samarTa#} {%im Stande seiend%} <ls>Spr. 4005</ls>. — In den meisten, vielleicht in allen Bedeutungen <ab>Denomin.</ab> von {#samarTa#}.<info n="sup_4"/>
+; ----------------------------------------------
+; <L>205596<pc>4-298-b<k1>gAh<k2>gAh X
+;696427 old √{#gAh#}¦ mit {#pari#}, {#°gAQam#} <lex>Adv.</lex> {%in hohem Grade, mit aller Macht%} <ls>Z. d. d. m. G. 36,535</ls>.
+;
+;696427 new √{#gAh#}¦ mit {#pari#}, {#°gAQam#} <lex>Adv.</lex> {%in hohem Grade, mit aller Macht%} <ls>Z. d. d. m. G. 36,535</ls>. — Mit {#pra#}, {#pragAQa#} 1〉 {%eingetaucht, eingeweicht, getränkt —, stark vermischt mit%} (im <ab>Comp.</ab> vorangehend). — 2〉 {%viel, vielfach%}. {#°m#} <lex>Adv.</lex> {%stark, kräftig, nachdrücklich, [Page4-298-c] in gehörigem Maasse%}. — 3〉 {%reich an%} (im <ab>Comp.</ab> vorangehend). — 4〉 {%vorgerückt, spät%} (Abendstunde) <ls>DAŚAK. 89,3</ls>. — 5〉 {%*schlimm, arg%}.
+696428 old <div n="p">— Mit {#pra, pragAQa#} 1〉 {%eingetaucht, eingeweicht, getränkt —, stark vermischt mit%} (im <ab>Comp.</ab> vorangehend). — 2〉 {%viel, vielfach%}. {#°m#} <lex>Adv.</lex> {%stark, kräftig, nachdrücklich, [Page4-298-c] in gehörigem Maasse%}. — 3〉 {%reich an%} (im <ab>Comp.</ab> vorangehend). — 4〉 {%vorgerückt, spät%} (Abendstunde) <ls>DAŚAK. 89,3</ls>. — 5〉 {%*schlimm, arg%}.<info n="sup_4"/>
+;
+696428 new <div n="p">— Mit {#pra#}, {#pragAQa#} 1〉 {%eingetaucht, eingeweicht, getränkt —, stark vermischt mit%} (im <ab>Comp.</ab> vorangehend). — 2〉 {%viel, vielfach%}. {#°m#} <lex>Adv.</lex> {%stark, kräftig, nachdrücklich, [Page4-298-c] in gehörigem Maasse%}. — 3〉 {%reich an%} (im <ab>Comp.</ab> vorangehend). — 4〉 {%vorgerückt, spät%} (Abendstunde) <ls>DAŚAK. 89,3</ls>. — 5〉 {%*schlimm, arg%}.<info n="sup_4"/>
+; ----------------------------------------------
+; <L>205850<pc>4-301-b<k1>pad<k2>1. pad X
+;697445 old <hom>1.</hom> √{#pad#}¦ mit {#ati#} 3〉 {%unterbleiben%} <ls>MAITR. S. 2,1,10 (11,13. 14)</ls>. — <ab>Caus.</ab> auch so <ab>v. a.</ab> {%versäumen, unterlassen%} <ls>MAITR. S. 2,1,10 (11,17)</ls>. <ab>v. l.</ab> {#api#}.
+;
+;697445 new <hom>1.</hom> √{#pad#}¦ mit {#ati#} 3〉 {%unterbleiben%} <ls>MAITR. S. 2,1,10 (11,13. 14)</ls>. — <ab>Caus.</ab> auch so <ab>v. a.</ab> {%versäumen, unterlassen%} <ls>MAITR. S. 2,1,10 (11,17)</ls>. <ab>v. l.</ab> {#api#}. — Mit {#pratyA#}, {#°panna#} auch {%zurückgekehrt vom Bösen, bekehrt, der sein Unrecht eingesehen hat%} <ls>MBH. 12,291,8</ls>.
+;
+697446 old <div n="p">— Mit {#pratyA, °panna#} auch {%zurückgekehrt vom Bösen, bekehrt, der sein Unrecht eingesehen hat%} <ls>MBH. 12,291,8</ls>.<info n="sup_4"/>
+;
+697446 new <div n="p">— Mit {#pratyA#}, {#°panna#} auch {%zurückgekehrt vom Bösen, bekehrt, der sein Unrecht eingesehen hat%} <ls>MBH. 12,291,8</ls>.<info n="sup_4"/>
+; ----------------------------------------------
+; <L>205864<pc>4-301-c<k1>pariRaya<k2>pariRaya (chk SUP: <info n="sup_4"/>)
+697503 old {#pariRaya#}¦ 2〉 <ab>Instr.</ab> so <ab>v. a.</ab> {%ringsum%} <ls>ĀPAST. ŚR. 10,12,9</ls>. Nach dem <ab>Comm.</ab> soll {#pariRaya = sADuSabda#} sein.<info n="sup_4"/>
+;
+697503 new {#pariRaya#}¦ 2〉 <ab>Instr.</ab> so <ab>v. a.</ab> {%ringsum%} <ls>ĀPAST. ŚR. 10,12,9</ls>. Nach dem <ab>Comm.</ab> soll {#pariRaya#} = {#sADuSabda#} sein.<info n="sup_4"/>
+; ----------------------------------------------
+; <L>205949<pc>4-302-c<k1>prAgjanmaka<k2>prAgjanmaka (chk SUP: <info n="sup_4"/>)
+697843 old {#prAgjanmaka#}¦, <lex>f.</lex> {#°nmikA = devANganA#} nach einer Randglosse.<info n="sup_4"/>
+;
+697843 new {#prAgjanmaka#}¦, <lex>f.</lex> {#°nmikA#} = {#devANganA#} nach einer Randglosse.<info n="sup_4"/>
+; ----------------------------------------------
+; <L>206496<pc>5-246-a<k1>avaKAda<k2>avaKAda/ (chk SUP: <info n="sup_5"/>)
+700030 old {#avaKAda/#}¦ führt <ls>AUFRECHT</ls> (wie {#praKAda/#} und {#viKAda/#}) auf {#Kad = Kid#} zurück und giebt dem Worte die Bedeutung {%Hinderung, Hinderniss%}.<info n="sup_5"/>
+;
+700030 new {#avaKAda/#}¦ führt <ls>AUFRECHT</ls> (wie {#praKAda/#} und {#viKAda/#}) auf {#Kad#} = {#Kid#} zurück und giebt dem Worte die Bedeutung {%Hinderung, Hinderniss%}.<info n="sup_5"/>
+; ----------------------------------------------
+; <L>207003<pc>5-251-c<k1>kar<k2>1. kar X
+;702062 old <hom>1.</hom> √{#kar#}¦ mit {#anvava#}, lies {%mit Etwas%} (<ab>Instr.</ab>) {%über Etwas%} (<ab>Acc.</ab>) {%entlang fahren%}.
+;
+;702062 new <hom>1.</hom> √{#kar#}¦ mit {#anvava#}, lies {%mit Etwas%} (<ab>Instr.</ab>) {%über Etwas%} (<ab>Acc.</ab>) {%entlang fahren%}. — Mit {#paryA#} auch {%umgiessen%} <ls>MAITR. S. 1,8,3 (119,1)</ls>. — Mit {#vi#}, {#vikfta#} auch {%gefärbt%} <ls>PĀR. GṚHY. 2,7,17</ls>. — <ab>Desid.</ab> {#vicikIrzita#} {%mit dem man eine Veränderung vorzunehmen wünscht%} <ls>BHĀG. P. 11,29,34</ls>.
+;
+702064 old <div n="p">— Mit {#vi, vikfta#} auch {%gefärbt%} <ls>PĀR. GṚHY. 2,7,17</ls>. — <ab>Desid.</ab> {#vicikIrzita#} {%mit dem man eine Veränderung vorzunehmen wünscht%} <ls>BHĀG. P. 11,29,34</ls>.<info n="sup_5"/>
+;
+702064 new <div n="p">— Mit {#vi#}, {#vikfta#} auch {%gefärbt%} <ls>PĀR. GṚHY. 2,7,17</ls>. — <ab>Desid.</ab> {#vicikIrzita#} {%mit dem man eine Veränderung vorzunehmen wünscht%} <ls>BHĀG. P. 11,29,34</ls>.<info n="sup_5"/>
+; ----------------------------------------------
+; <L>207147<pc>5-253-b<k1>gaqa<k2>gaqa (chk SUP: <info n="sup_5"/>)
+702640 old {#gaqa#}¦ 3〉 *<lex>n.</lex> {#girergaqam = pfTuSilA#} <ls>DEŚĪN. 2,110</ls>.<info n="sup_5"/>
+;
+702640 new {#gaqa#}¦ 3〉 *<lex>n.</lex> {#girergaqam#} = {#pfTuSilA#} <ls>DEŚĪN. 2,110</ls>.<info n="sup_5"/>
+; ----------------------------------------------
+; <L>207227<pc>5-254-a<k1>caturviMSika<k2>caturviMSika (chk SUP: <info n="sup_5"/>)
+702961 old {#caturviMSika#}¦ mit {#ahan = caturviMSa#} 3〉 <ls>SĀY.</ls> in der <ls>Einl. zu ṚV. 3,35,4</ls>.<info n="sup_5"/>
+;
+702961 new {#caturviMSika#}¦ mit {#ahan#} = {#caturviMSa#} 3〉 <ls>SĀY.</ls> in der <ls>Einl. zu ṚV. 3,35,4</ls>.<info n="sup_5"/>
+; ----------------------------------------------
+; <L>207339<pc>5-255-b<k1>tar<k2>1. tar X
+;703410 old <hom>1.</hom> √{#tar#}¦ mit {#ava#} Z. 2, lies {#avatI/ryatI#}.
+;
+;703410 new <hom>1.</hom> √{#tar#}¦ mit {#ava#} Z. 2, lies {#avatI/ryatI#}. — Mit {#samava#}, {#°tIrRa#} {%abgestiegen%} <ls>DAŚAK. 46,18</ls>. — Mit {#ud#} <ab>Caus.</ab> 4〉 Nägel {%abnehmen,%} so <ab>v. a.</ab> {%beschneiden%} <ls>HEM. PAR. 1,185</ls>.
+;
+703411 old <div n="p">— Mit {#samava, °tIrRa#} {%abgestiegen%} <ls>DAŚAK. 46,18</ls>.
+;
+703411 new <div n="p">— Mit {#samava#}, {#°tIrRa#} {%abgestiegen%} <ls>DAŚAK. 46,18</ls>.
+; ----------------------------------------------
+; <L>207346<pc>5-255-b<k1>talArakza<k2>talArakza (chk SUP: <info n="sup_5"/>)
+703440 old {#talArakza#}¦ <lex>m.</lex> <ls>CAMPAKA 422</ls>. <ab>Vgl.</ab> {#talavara#} bei <ls>LEUMANN, Aup. Gl.</ls> und <ls>Ind. St. 16,38</ls>. {#talavAro#} im <lang>Prākrit</lang> ist = {#talavara = purADyakza#} <ls>BEZZENBERGER, Beitr. 3,261</ls>.<info n="sup_5"/>
+;
+703440 new {#talArakza#}¦ <lex>m.</lex> <ls>CAMPAKA 422</ls>. <ab>Vgl.</ab> {#talavara#} bei <ls>LEUMANN, Aup. Gl.</ls> und <ls>Ind. St. 16,38</ls>. {#talavAro#} im <lang>Prākrit</lang> ist = {#talavara#} = {#purADyakza#} <ls>BEZZENBERGER, Beitr. 3,261</ls>.<info n="sup_5"/>
+; ----------------------------------------------
+; <L>207469<pc>5-256-c<k1>drA<k2>2. drA X
+;703932 old <hom>2.</hom> √{#drA#}¦ mit {#ni#}, {#nidrAyita#} {%eingeschlummert%} <ls>ŚĀKTĀN. Kap. 4</ls>.
+;
+;703932 new <hom>2.</hom> √{#drA#}¦ mit {#ni#}, {#nidrAyita#} {%eingeschlummert%} <ls>ŚĀKTĀN. Kap. 4</ls>. — Mit {#vini#}, {#°drita#} {%aus dem Schlafe erweckt%} <ls>CAMPAKA 361</ls>.
+;
+703933 old <div n="p">— Mit {#vini, °drita#} {%aus dem Schlafe erweckt%} <ls>CAMPAKA 361</ls>.<info n="sup_5"/>
+;
+703933 new <div n="p">— Mit {#vini#}, {#°drita#} {%aus dem Schlafe erweckt%} <ls>CAMPAKA 361</ls>.<info n="sup_5"/>
+; ----------------------------------------------
+; <L>207497<pc>5-257-a<k1>DUmay<k2>DUmay (chk SUP: <info n="sup_5"/>)
+704047 old !√{#DUmay#}¦ mit {#aBi#}, {#°DUmita#} in Verbindung mit {#diS = DUmita#} 2〉 (wie statt b) zu lesen ist〉 <ls>ŚIŚ. 17,41</ls>.<info n="sup_5"/>
+;
+704047 new !√{#DUmay#}¦ mit {#aBi#}, {#°DUmita#} in Verbindung mit {#diS#} = {#DUmita#} 2〉 (wie statt b) zu lesen ist〉 <ls>ŚIŚ. 17,41</ls>.<info n="sup_5"/>
+; ----------------------------------------------
+; <L>207518<pc>5-257-b<k1>naw<k2>naw X
+;704131 old √{#naw#}¦, {#nawita#} wohl so <ab>v. a.</ab> {%überdrüssig;%} mit <ab>Instr.</ab> <ls>HEM. PAR. 1,172</ls>. <ab>Vgl.</ab> <ls>HĀLA, S. 27</ls>.
+;
+;704131 new √{#naw#}¦, {#nawita#} wohl so <ab>v. a.</ab> {%überdrüssig;%} mit <ab>Instr.</ab> <ls>HEM. PAR. 1,172</ls>. <ab>Vgl.</ab> <ls>HĀLA, S. 27</ls>. — Mit {#vi#}, {#°nawita#} {%hinundher tanzend, — schwärmend%} (von Bienen) <ls>VĀSAV. 180,3</ls>. <ab>Vgl.</ab> {#vinawana#}.
+;
+704132 old <div n="p">— Mit {#vi, °nawita#} {%hinundher tanzend, — schwärmend%} (von Bienen) <ls>VĀSAV. 180,3</ls>. <ab>Vgl.</ab> {#vinawana#}.<info n="sup_5"/>
+;
+704132 new <div n="p">— Mit {#vi#}, {#°nawita#} {%hinundher tanzend, — schwärmend%} (von Bienen) <ls>VĀSAV. 180,3</ls>. <ab>Vgl.</ab> {#vinawana#}.<info n="sup_5"/>
+; ----------------------------------------------
+; <L>207753<pc>5-259-c<k1>pAdaka<k2>pAdaka (chk SUP: <info n="sup_5"/>)
+705076 old {#pAdaka#}¦ 3〉 *<lex>f.</lex> {#pAdikA = upAnah#} und {#rasatUryeRa veDaH svarRAdikasya#} <ls>MAṄKHA</ls> bei <ls>ZACH. Beitr. 72</ls>.<info n="sup_5"/>
+;
+705076 new {#pAdaka#}¦ 3〉 *<lex>f.</lex> {#pAdikA#} = {#upAnah#} und {#rasatUryeRa veDaH svarRAdikasya#} <ls>MAṄKHA</ls> bei <ls>ZACH. Beitr. 72</ls>.<info n="sup_5"/>
+; ----------------------------------------------
+; <L>207759<pc>5-259-c<k1>pAvana<k2>pAvana (chk SUP: <info n="sup_5"/>)
+705100 old {#pAvana#}¦ 2〉f〉 <ab>st.</ab> {#vyAse#} ist <ls>H. an.</ls> {#'DyAse = SUrpe#} zu lesen; <ab>vgl.</ab> <ls>ZACH. Beitr. 88</ls>.<info n="sup_5"/>
+;
+705100 new {#pAvana#}¦ 2〉f〉 <ab>st.</ab> {#vyAse#} ist <ls>H. an.</ls> {#'DyAse#} = {#SUrpe#} zu lesen; <ab>vgl.</ab> <ls>ZACH. Beitr. 88</ls>.<info n="sup_5"/>
+; ----------------------------------------------
+; <L>207824<pc>5-260-b<k1>praKAda<k2>praKAda/ (chk SUP: <info n="sup_5"/>)
+705360 old {#praKAda/#}¦ führt <ls>AUFRECHT</ls> auf {#Kad = Kid#} zurück.<info n="sup_5"/>
+;
+705360 new {#praKAda/#}¦ führt <ls>AUFRECHT</ls> auf {#Kad#} = {#Kid#} zurück.<info n="sup_5"/>
+; ----------------------------------------------
+; <L>208094<pc>5-263-b<k1>mA<k2>3. mA  X
+;706444 old <hom>3.</hom> {#mA#}¦ 15〉 {#mita/#} neben {#saM/mita#} <ls>MAITR. S. 2,11,1 (140,4)</ls>.
+;
+;706444 new <hom>3.</hom> {#mA#}¦ 15〉 {#mita/#} neben {#saM/mita#} <ls>MAITR. S. 2,11,1 (140,4)</ls>. — Mit {#A#} 1〉 {%bilden, hervorbringen%} <ls>ṚV. 3,38,7</ls>. — 2〉 {%herbeischaffen%} <ls>ṚV. 10,56,2</ls>. — Mit {#sam#}, {#saM/mita#} <ls>MAITR. S. 2,11,1 (140,4)</ls>.
+;
+706446 old <div n="p">— Mit {#sam, saM/mita#} <ls>MAITR. S. 2,11,1 (140,4)</ls>.<info n="sup_5"/>
+;
+706446 new <div n="p">— Mit {#sam#}, {#saM/mita#} <ls>MAITR. S. 2,11,1 (140,4)</ls>.<info n="sup_5"/>
+; ----------------------------------------------
+; <L>208123<pc>5-263-c<k1>meGapuzpa<k2>1. *meGapuzpa (chk SUP: <info n="sup_5"/>)
+706562 old <hom>1.</hom> *{#meGapuzpa#}¦ 2〉 nicht {%Hagel,%} sondern {%eine <ab>best.</ab> Heilpflanze%} <ls>ZACH. Beitr.</ls> — 3〉 {#nAdeya = vetasa#} die richtige Lesart <ls><ab>ebend.</ab></ls><info n="sup_5"/>
+;
+706562 new <hom>1.</hom> *{#meGapuzpa#}¦ 2〉 nicht {%Hagel,%} sondern {%eine <ab>best.</ab> Heilpflanze%} <ls>ZACH. Beitr.</ls> — 3〉 {#nAdeya#} = {#vetasa#} die richtige Lesart <ls><ab>ebend.</ab></ls><info n="sup_5"/>
+; ----------------------------------------------
+; <L>208847<pc>6-300-c<k1>krOYca<k2>krOYca (chk SUP: <info n="sup_6"/>)
+709459 old {#krOYca#}¦ <lex>Adj.</lex> mit {#vyUha = krOYcAruRa#} <ls>MBH. 6,51,1</ls>.<info n="sup_6"/>
+;
+709459 new {#krOYca#}¦ <lex>Adj.</lex> mit {#vyUha#} = {#krOYcAruRa#} <ls>MBH. 6,51,1</ls>.<info n="sup_6"/>
+; ----------------------------------------------
+; <L>208879<pc>6-300-c<k1>gAtrAvara<k2>gAtrAvara (chk SUP: <info n="sup_6"/>)
+709587 old {#gAtrAvara#}¦ <ls>MBH. 6,54,57</ls> am Anfange eines <ab>Comp.</ab> nach <ls>NĪLAK.</ls> {#gAtra = pUrvakAya#} und {#avara = aDaHkAya#} (bei einem Elephanten).<info n="sup_6"/>
+;
+709587 new {#gAtrAvara#}¦ <ls>MBH. 6,54,57</ls> am Anfange eines <ab>Comp.</ab> nach <ls>NĪLAK.</ls> {#gAtra#} = {#pUrvakAya#} und {#avara#} = {#aDaHkAya#} (bei einem Elephanten).<info n="sup_6"/>
+; ----------------------------------------------
+; <L>209337<pc>6-306-a<k1>vaYc<k2>vaYc X
+;711421 old √{#vaYc#}¦ <ab>Caus.</ab> auch {%bewahren vor%} (<ab>Abl.</ab>) <ls>KĀŚĪKH. 7,71</ls>.
+;
+;711421 new √{#vaYc#}¦ <ab>Caus.</ab> auch {%bewahren vor%} (<ab>Abl.</ab>) <ls>KĀŚĪKH. 7,71</ls>. — Mit {#vi#}, {#°vaYcita#} {%betrogen, angeführt%} <ls>MATSYAP. 42,203</ls>.
+;
+711422 old <div n="p">— Mit {#vi, °vaYcita#} {%betrogen, angeführt%} <ls>MATSYAP. 42,203</ls>.<info n="sup_6"/>
+;
+711422 new <div n="p">— Mit {#vi#}, {#°vaYcita#} {%betrogen, angeführt%} <ls>MATSYAP. 42,203</ls>.<info n="sup_6"/>
+; ----------------------------------------------
+; <L>215749<pc>7-329-d<k1>kayASuBIya<k2>kayASuBI/ya X
+;737127 old {#kayASuBI/ya#}¦ II. <ls>MAITR. S. 2,1,8 (10,8)</ls>. <hom>1.</hom> {#kar#} mit {#pratyapa#} II. 2.
+;
+;737127 new {#kayASuBI/ya#}¦ II. <ls>MAITR. S. 2,1,8 (10,8)</ls>. <hom>1.</hom> {#kar#} mit {#pratyapa#} II. 2. — Mit {#anvava#} II. 5. — Mit {#aByA#} 3. — Mit {#paryA#} II. 5. — Mit {#ud#} II. 2. — Mit {#vi#} II. 5. <ab>Desid.</ab> 5. — Mit {#pravi#} 3. — Mit {#sam#} II. 6. — Mit {#aBisam#}, {#°saMskfta#} {%bereitet, vorbereitet%} <ls>JĀTAKAM. 26,19</ls>.
+737135 old <div n="p">— Mit {#aBisam, °saMskfta#} {%bereitet, vorbereitet%} <ls>JĀTAKAM. 26,19</ls>.<info n="sup_7"/>
+;
+737135 new <div n="p">— Mit {#aBisam#}, {#°saMskfta#} {%bereitet, vorbereitet%} <ls>JĀTAKAM. 26,19</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>215750<pc>7-329-d<k1>kar<k2>3. kar X
+;737139 old <hom>3.</hom> √{#kar#}¦ mit {#aBipra#} 6.
+;
+;737139 new <hom>3.</hom> √{#kar#}¦ mit {#aBipra#} 6. — Mit {#avasam#}, {#°avasaMkIrRa#} {%überschüttet mit, voll von%} <ls>R. ed. Bomb. 4,8,15</ls>.
+;
+737140 old <div n="p">— Mit {#avasam, °avasaMkIrRa#} {%überschüttet mit, voll von%} <ls>R. ed. Bomb. 4,8,15</ls>.<info n="sup_7"/>
+;
+737140 new <div n="p">— Mit {#avasam#}, {#°avasaMkIrRa#} {%überschüttet mit, voll von%} <ls>R. ed. Bomb. 4,8,15</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>215847<pc>7-330-c<k1>kal<k2>2. kal X
+;737532 old <hom>2.</hom> √{#kal#}¦ II. 4. 5.
+;
+;737532 new <hom>2.</hom> √{#kal#}¦ II. 4. 5. — Mit {#anu#}, {#°kalita#} {%wahrgenommen%} <ls>DHARMAŚARMĀBHY. 13,64</ls>. — Mit {#samA#} {%prüfen, untersuchen%} <ls>PĀRV. 579,23</ls>.
+;
+737533 old <div n="p">— Mit {#anu, °kalita#} {%wahrgenommen%} <ls>DHARMAŚARMĀBHY. 13,64</ls>.
+;
+737533 new <div n="p">— Mit {#anu#}, {#°kalita#} {%wahrgenommen%} <ls>DHARMAŚARMĀBHY. 13,64</ls>.
+; ----------------------------------------------
+; <L>217016<pc>7-339-b<k1>graT<k2>1. graT X
+;742257 old <hom>1.</hom> √{#graT#}¦ <ab>Caus.</ab> {#graTayate#} = <ab>Simpl.</ab> <ls>MBH. 4,9,19</ls>. {#granTayate#} <ls>ed. Calc. 4,262</ls>.
+;
+;742257 new <hom>1.</hom> √{#graT#}¦ <ab>Caus.</ab> {#graTayate#} = <ab>Simpl.</ab> <ls>MBH. 4,9,19</ls>. {#granTayate#} <ls>ed. Calc. 4,262</ls>. — Mit {#ud#}, {#udgfRatti#} (!) <ls>AV. 10,7,43</ls>.
+;
+742258 old <div n="p">— Mit {#ud, udgfRatti#} (!) <ls>AV. 10,7,43</ls>.<info n="sup_7"/>
+;
+742258 new <div n="p">— Mit {#ud#}, {#udgfRatti#} (!) <ls>AV. 10,7,43</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>217066<pc>7-339-d<k1>Gaww<k2>Gaww 
+742465 old √{#Gaww#}¦ II. {#Gawwita = Gawita#} {%geschlossen%} <ls>DIVYĀVAD. 29,7</ls>. <ls n="DIVYĀVAD. 29,">12</ls>.
+;
+742465 new √{#Gaww#}¦ II. {#Gawwita#} = {#Gawita#} {%geschlossen%} <ls>DIVYĀVAD. 29,7</ls>. <ls n="DIVYĀVAD. 29,">12</ls>.
+; ----------------------------------------------
+; <L>217263<pc>7-341-b<k1>cAturmAsyatva<k2>cAturmAsyatva, cAturmAsyaviDAna, cAturmAsyavrataviDi, cAturmAsyahOtra (chk SUP: <info n="sup_7"/>)
+743262 old {#cAturmAsyatva#}, {#cAturmAsyaviDAna#}, {#°mAsyavrataviDi#} und {#°rmAsyahOtra#}¦ 2.<info n="sup_7"/>
+;
+743262 new {#cAturmAsyatva#}, {#cAturmAsyaviDAna#}, {#°rmAsyavrataviDi#} und {#°rmAsyahOtra#}¦ 2.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>217429<pc>7-342-c<k1>Cur<k2>Cur X
+743932 old √{#Cur#}¦ <ab>Caus.</ab> II. {%weg —, fortwerfen%} <ls>MAHĀVY. 263,72</ls>. <ls>DIVYĀVAD. 82,23</ls>. {#Curita = Cinna#} <ls>PRIYAD. 10,2</ls>.
+;
+743932 new √{#Cur#}¦ <ab>Caus.</ab> II. {%weg —, fortwerfen%} <ls>MAHĀVY. 263,72</ls>. <ls>DIVYĀVAD. 82,23</ls>. {#Curita#} = {#Cinna#} <ls>PRIYAD. 10,2</ls>.
+;
+743933 old <div n="p">— Mit {#A#} II. {#AcCurita = Curita#} (im Haupttheil) <ls>JĀTAKAM. 14,8</ls>. {%abgesetzt, niedergelegt%} <ls n="JĀTAKAM. 14,">7</ls>.<info n="sup_7"/>
+;
+743933 new <div n="p">— Mit {#A#} II. {#AcCurita#} = {#Curita#} (im Haupttheil) <ls>JĀTAKAM. 14,8</ls>. {%abgesetzt, niedergelegt%} <ls n="JĀTAKAM. 14,">7</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>217452<pc>7-342-d<k1>jan<k2>jan X
+;744025 old √{#jan#}¦ II. 2. {#jajYivAn#} {%lebte auf, wurde wieder lebendig%} <ls>MBH. 8,33,31</ls>.
+;
+;744025 new √{#jan#}¦ II. 2. {#jajYivAn#} {%lebte auf, wurde wieder lebendig%} <ls>MBH. 8,33,31</ls>. — Mit {#ava#}, {#°jAta#} = {#apajAta#} {%missrathen%} <ls>DIVYĀVAD. 2,13</ls>. — Mit {#pratyA#} II. 3. — Mit {#nis#} 3. 5. — Mit {#pra#} II. 4. — Mit {#parivi#} 4.
+744026 old <div n="p">— Mit {#ava, °jAta = apajAta#} {%missrathen%} <ls>DIVYĀVAD. 2,13</ls>.
+;
+744026 new <div n="p">— Mit {#ava#}, {#°jAta#} = {#apajAta#} {%missrathen%} <ls>DIVYĀVAD. 2,13</ls>.
+; ----------------------------------------------
+; <L>217562<pc>7-343-c<k1>jijYAsTi<k2>*jijYAsTi, siYjAsTa (chk SUP: <info n="sup_7"/>)
+744472 old *{#jijYAsTi#} <ls>GAṆAP. 194,32</ls> und {#siYjAsTa#} <ls n="GAṆAP. 194,">33</ls>¦ <lex>n.</lex> nach <ls>LEUMANN</ls> fehlerhaft für {#miYjAsTi#} oder {#°sTa#} {%Knochenmark%}. Im <lang>Prākrit</lang> ist {#miYjA = majjan#}.<info n="sup_7"/>
+;
+744472 new *{#jijYAsTi#} <ls>GAṆAP. 194,32</ls> und {#siYjAsTa#} <ls n="GAṆAP. 194,">33</ls>¦ <lex>n.</lex> nach <ls>LEUMANN</ls> fehlerhaft für {#miYjAsTi#} oder {#°sTa#} {%Knochenmark%}. Im <lang>Prākrit</lang> ist {#miYjA#} = {#majjan#}.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>217589<pc>7-343-d<k1>jIvAntarhita<k2>jIvAntarhita (chk SUP: <info n="sup_7"/>)
+744581 old {#jIvAntarhita#}¦ <lex>Adj.</lex> <ls>ŚĀṄKH. ŚR. 4,4,8</ls> nach dem <ab>Comm.</ab> = {#jIvatAntarhitaH = pitAmahAdiH pitrAdO jIvati#}.<info n="sup_7"/>
+;
+744581 new {#jIvAntarhita#}¦ <lex>Adj.</lex> <ls>ŚĀṄKH. ŚR. 4,4,8</ls> nach dem <ab>Comm.</ab> = {#jIvatAntarhitaH#} = {#pitAmahAdiH pitrAdO jIvati#}.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>218080<pc>7-347-c<k1>darS<k2>darS 
+746564 old √{#darS#}¦ mit {#pari#} III. {%untersuchen%} <ls>JĀTAKAM. 23</ls>. <ls n="JĀTAKAM.">27</ls>. {#SAstraparidfzwa = SAstradfzwa#} <ls n="JĀTAKAM.">12</ls>.
+;
+746564 new √{#darS#}¦ mit {#pari#} III. {%untersuchen%} <ls>JĀTAKAM. 23</ls>. <ls n="JĀTAKAM.">27</ls>. {#SAstraparidfzwa#} = {#SAstradfzwa#} <ls n="JĀTAKAM.">12</ls>.
+; ----------------------------------------------
+; <L>218102<pc>7-347-d<k1>dA<k2>1. dA X
+;746654 old <hom>1.</hom> √{#dA#}¦ mit {#A#} III. 5.
+;
+;746654 new <hom>1.</hom> √{#dA#}¦ mit {#A#} III. 5. — Mit {#upA#} III. {#anupAdAya#} <ab>Absol.</ab> {%sich nicht an die Welt klammernd%} <ls>DIVYĀVAD. 655,4</ls>. — Mit {#vyA#} auch {%hineinthun —, hineinwerfen in%} (<ab>Loc.</ab>) {#°dAya#} <ls>KAUŚ. 48,40</ls>. — Mit {#nirvyA#} = {#vyA#} <ls>JĀTAKAM. 34</ls>. — Mit {#samA#} III. (ein Gelübde <ab>u. s. w.</ab>) {%auf sich nehmen und halten%} <ls>MAHĀVY. 84,25</ls>. <ls>DIVYĀVAD. 302,19</ls>. <ab>Caus.</ab> {%zum Guten rathen, ermahnen%} <ls>MAHĀVY. 245</ls>. <ls>DIVYĀVAD. 51,28</ls>. <ls n="DIVYĀVAD.">57,17</ls>. <ls n="DIVYĀVAD.">59,5</ls>. <ls n="DIVYĀVAD.">80,18</ls>. — Mit {#pari#}, {#parIdAya#} <ls>ĀPAST. GṚHY. 10,12</ls> fehlerhaft für {#pari°#}
+;
+746657 old <div n="p">— Mit {#nirvyA = vyA#} <ls>JĀTAKAM. 34</ls>.
+;
+746657 new <div n="p">— Mit {#nirvyA#} = {#vyA#} <ls>JĀTAKAM. 34</ls>.
+;
+746659 old <div n="p">— Mit {#pari, parIdAya#} <ls>ĀPAST. GṚHY. 10,12</ls> fehlerhaft für {#pari°#}<info n="sup_7"/>
+;
+746659 new <div n="p">— Mit {#pari#}, {#parIdAya#} <ls>ĀPAST. GṚHY. 10,12</ls> fehlerhaft für {#pari°#}<info n="sup_7"/>
+; ----------------------------------------------
+; <L>218177<pc>7-348-b<k1>du<k2>1. du X
+;746965 old <hom>1.</hom> {#du#}¦, {#Adunvasva#} und {#vidunvasva#} [Page7-348-c] <ls>MBH. 1,78,11</ls>.
+;
+;746965 new <hom>1.</hom> {#du#}¦, {#Adunvasva#} und {#vidunvasva#} [Page7-348-c] <ls>MBH. 1,78,11</ls>. — Mit {#saMpari#}, {#°dUyamAna#} {%sich verzehrend, — abhärmend%} <ls>R. ed. Bomb. 4,24,2</ls>.
+;
+746966 old <div n="p">— Mit {#saMpari, °dUyamAna#} {%sich verzehrend, — abhärmend%} <ls>R. ed. Bomb. 4,24,2</ls>.<info n="sup_7"/>
+;
+746966 new <div n="p">— Mit {#saMpari, °dUyamAna#} {%sich verzehrend, — abhärmend%} <ls>R. ed. Bomb. 4,24,2</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>218476<pc>7-350-d<k1>DA<k2>1. DA X
+;748166 old <hom>1.</hom> √{#DA#}¦ mit {#aBi#} III. 5.
+;
+;748166 new <hom>1.</hom> √{#DA#}¦ mit {#aBi#} III. 5. — Mit {#anvava#} III. <ls>ĀPAST. ŚR. 8,11,16</ls>. <ls>GṚHY. 17,5</ls>. — Mit {#samA#} III. 6. *<ab>Pass.</ab> {%in eine andachtsvolle Stimmung gerathen%} <ls>MAHĀVY. 81,5</ls>. — Mit {#aByupa#} III. 5. — Mit {#anuni#}, {#anuni/hitAH#} {%nacheinander geordnet%} <ls>MAITR. S. 4,6,7 (89,9)</ls>. — Mit {#vini#} III. 6. — Mit {#saMpi#} {%schliessen%} <ls>DIVYĀVAD. 232,19</ls>. — Mit {#pra#} III. *{#cittam#} (dieses wohl zu ergänzen) den Geist {%auf Etwas richten%} <ls>MAHĀVY. 39,4</ls>. — Mit {#vi#} III. 3. — Mit {#sam#} III. 6. — Mit {#aBisam#} III. 5.
+;
+748170 old <div n="p">— Mit {#anuni, anuni/hitAH#} {%nacheinander geordnet%} <ls>MAITR. S. 4,6,7 (89,9)</ls>.
+;
+748170 new <div n="p">— Mit {#anuni#}, {#anuni/hitAH#} {%nacheinander geordnet%} <ls>MAITR. S. 4,6,7 (89,9)</ls>.
+; ----------------------------------------------
+; <L>218872<pc>7-354-a<k1>nI<k2>1. nI X
+;749776 old <hom>1.</hom> √{#nI#}¦ III. 3.
+;
+;749776 new <hom>1.</hom> √{#nI#}¦ III. 3. — Mit {#samanu#} = {#anu#} 3〉 <ls>JĀTAKAM. 28</ls>. — Mit {#vyava#} 5. — Mit {#samava#} 5. — Mit {#samudA#} {%zusammenbringen, sammeln%} <ls>DIVYĀVAD. 242,10</ls>. {%zu Stande bringen, vollbringen%} <ls>JĀTAKAM. 2</ls>. — Mit {#upa#} III. 5. {%als Beispiel [Page7-354-b] anführen%} <ls>JĀTAKAM. 28</ls>. — Mit {#pi#} = {#api#} {%einschütten%} <ls>ĀPAST. GṚHY. 14,11</ls>. — Mit {#pra#} III. {#praRIta#} {%ausgezeichnet, köstlich, vorzüglich%} <ls>DIVYĀVAD. 50,15</ls>. <ls>JĀTAKAM. 4</ls>. <ls>MAHĀVY. 245,1262</ls>. — Mit {#atipra#} III. 6. — Mit {#aBipra#} III. 5. — Mit {#aBivi#} III. {%durch Unterricht bekehren%} <ls>JĀTAKAM. 31,42</ls>.
+;
+749777 old <div n="p">— Mit {#samanu = anu#} 3〉 <ls>JĀTAKAM. 28</ls>.
+;
+749777 new <div n="p">— Mit {#samanu#} = {#anu#} 3〉 <ls>JĀTAKAM. 28</ls>.
+;
+749782 old <div n="p">— Mit {#pi = api#} {%einschütten%} <ls>ĀPAST. GṚHY. 14,11</ls>.
+;
+749782 new <div n="p">— Mit {#pi#} = {#api#} {%einschütten%} <ls>ĀPAST. GṚHY. 14,11</ls>.
+; ----------------------------------------------
+; <L>219058<pc>7-355-d<k1>pad<k2>1. pad X
+;750537 old <hom>1.</hom> √{#pad#}¦ mit {#ati#} IV. 4. — <ab>Caus.</ab> IV. 4.
+;
+;750537 new <hom>1.</hom> √{#pad#}¦ mit {#ati#} IV. 4. — <ab>Caus.</ab> IV. 4. — Mit {#aByava#} {%Jmd%} (<ab>Acc.</ab>) {%zu Hülfe kommen%} <ls>R. ed. Bomb. 3,59,18</ls>. {#aByavapanna#} mit <ab>act.</ab> <ab>Bed.</ab> <ls n="R. ed. Bomb. 3,">67,17. 68,22</ls>. — Mit {#pratyA#} IV. 4. — Mit {#aByupa#} IV. {#°panna#} am Ende eines <ab>Comp.</ab> {%versehen mit, im Besitz von%} <ls>JĀTAKAM. 8</ls>. — Mit {#vyupa#} <ab>Act.</ab> {%heimkehren%} <ls>DIVYĀVAD. 41,27</ls>. {%sich widersetzen%} <ls n="DIVYĀVAD.">243,22</ls>. {#vyutpanna#} {%sich widersetzend%} <ls n="DIVYĀVAD.">447,23</ls>. — Mit {#ni#} IV. *{#°panna#} {%liegend%} <ls>MAHĀVY. 263,79</ls>. — Mit {#parinis#}, {#°nizpanna#} {%vollkommen ausgebildet%} <ls>JĀTAKAM. 1</ls>. — Mit {#anuprati#} <ab>Caus.</ab> <ab>Med.</ab> {%allmählich hinführen zu%} (<ab>Acc.</ab>) <ls>JĀTAKAM. 24,33</ls>. — Mit {#viprati#} IV. 5. <ab>Med.</ab> {%eine Sünde begehen, sündigen%} <ls>DIVYĀVAD. 293,20</ls>. — Mit {#sam#} IV. 6.
+;
+750543 old <div n="p">— Mit {#parinis, °nizpanna#} {%vollkommen ausgebildet%} <ls>JĀTAKAM. 1</ls>.
+;
+750543 new <div n="p">— Mit {#parinis#}, {#°nizpanna#} {%vollkommen ausgebildet%} <ls>JĀTAKAM. 1</ls>.
+; ----------------------------------------------
+; <L>219374<pc>7-358-c<k1>pIq<k2>pIq X
+;751813 old √{#pIq#}¦ mit {#samA#} <ab>Caus.</ab> {%hart bedrükken, peinigen, mit Weh erfüllen%} <ls>JĀTAKAM. 14</ls>. <ls n="JĀTAKAM.">15</ls>. <ls n="JĀTAKAM.">17</ls>.
+;
+;751813 new √{#pIq#}¦ mit {#samA#} <ab>Caus.</ab> {%hart bedrükken, peinigen, mit Weh erfüllen%} <ls>JĀTAKAM. 14</ls>. <ls n="JĀTAKAM.">15</ls>. <ls n="JĀTAKAM.">17</ls>. — Mit {#ud#} <ab>Caus.</ab> IV. 5. — Mit {#ni#}, {#°nipIqita#} auch so <ab>v. a.</ab> {%vielfach besucht von%} <ls>R. ed. Bomb. 3,15,13</ls>. — Mit {#aBinis#} <ab>Caus.</ab> {%noch stärker ausdrücken%} <ls>JĀTAKAM. 27</ls>.
+;
+751815 old <div n="p">— Mit {#ni, °nipIqita#} auch so <ab>v. a.</ab> {%vielfach besucht von%} <ls>R. ed. Bomb. 3,15,13</ls>.
+;
+751815 new <div n="p">— Mit {#ni#}, {#°nipIqita#} auch so <ab>v. a.</ab> {%vielfach besucht von%} <ls>R. ed. Bomb. 3,15,13</ls>.
+; ----------------------------------------------
+; <L>219919<pc>7-363-b<k1>PelA<k2>PelA (chk SUP: <info n="sup_7"/>)
+754000 old {#PelA#}¦ <lex>f.</lex> <ls>DIVYĀVAD. 563,24</ls> wohl fehlerhaft für {#pelA = pewA#} {%Kästchen%}.<info n="sup_7"/>
+;
+754000 new {#PelA#}¦ <lex>f.</lex> <ls>DIVYĀVAD. 563,24</ls> wohl fehlerhaft für {#pelA#} = {#pewA#} {%Kästchen%}.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>220271<pc>7-366-b<k1>mawUzikA<k2>mawUzikA, maqUzikA, maRqUzikA (chk SUP: <info n="sup_7"/>)
+755422 old {#mawUzikA#}, {#maqUzikA#} oder {#maRqUzikA#}¦ <lex>f.</lex> <ls>ĀPAST. GṚHY. 3,11</ls>. <ls>BAUDH. GṚHY. PARIŚ.</ls> auf verschiedene Weise erklärt. <ab>Vgl.</ab> {#naDUzikA = svalpadehA#} <ls>VAIJAYANTĪ</ls>, <ls>BHŪMIK.</ls>, <ls>BRĀHMAṆĀDHY. 51</ls>.<info n="sup_7"/>
+;
+755422 new {#mawUzikA#}, {#maqUzikA#} oder {#maRqUzikA#}¦ <lex>f.</lex> <ls>ĀPAST. GṚHY. 3,11</ls>. <ls>BAUDH. GṚHY. PARIŚ.</ls> auf verschiedene Weise erklärt. <ab>Vgl.</ab> {#naDUzikA#} = {#svalpadehA#} <ls>VAIJAYANTĪ</ls>, <ls>BHŪMIK.</ls>, <ls>BRĀHMAṆĀDHY. 51</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>220330<pc>7-366-d<k1>man<k2>man X
+;755659 old √{#man#}¦ mit {#anu#} V. 6. <ab>Caus.</ab> V. {%nachgeben, Rücksicht nehmen%} <ls>JĀTAKAM. 22,53</ls>.
+;
+;755659 new √{#man#}¦ mit {#anu#} V. 6. <ab>Caus.</ab> V. {%nachgeben, Rücksicht nehmen%} <ls>JĀTAKAM. 22,53</ls>. — Mit {#samanu#} <ab>Caus.</ab> <ab>dass.</ab> <ls n="JĀTAKAM.">22. 22,73</ls>. — Mit {#saMprod#}, {#saMplomnAya#} <ls>ĀPAST. ŚR. 8,16,6</ls> ohne Zweifel fehlerhaft. Vielleicht {#saMpronmlApya#} zu lesen. <ls>HIRAṆY. ŚR.</ls> nach <ls>HILLEBRANDT</ls> <ab>st.</ab> dessen {#saMSlizya#}. — Mit {#prati#} <ab>Caus.</ab> V. {%wieder ehren, Jmd%} (<ab>Acc.</ab>) {%vergelten mit%} (<ab>Instr.</ab>) <ls>JĀTAKAM. 10,8</ls>.
+;
+755661 old <div n="p">— Mit {#saMprod, saMplomnAya#} <ls>ĀPAST. ŚR. 8,16,6</ls> ohne Zweifel fehlerhaft. Vielleicht {#saMpronmlApya#} zu lesen. <ls>HIRAṆY. ŚR.</ls> nach <ls>HILLEBRANDT</ls> <ab>st.</ab> dessen {#saMSlizya#}.
+;
+755661 new <div n="p">— Mit {#saMprod#}, {#saMplomnAya#} <ls>ĀPAST. ŚR. 8,16,6</ls> ohne Zweifel fehlerhaft. Vielleicht {#saMpronmlApya#} zu lesen. <ls>HIRAṆY. ŚR.</ls> nach <ls>HILLEBRANDT</ls> <ab>st.</ab> dessen {#saMSlizya#}.
+; ----------------------------------------------
+; <L>220493<pc>7-368-a<k1>mi<k2>1. mi X
+;756317 old <hom>1.</hom> √{#mi#}¦ mit {#pari#} V. {%rings einschlagen%} <ls>ĀPAST. ŚR. 11,7,7</ls>.
+;
+;756317 new <hom>1.</hom> √{#mi#}¦ mit {#pari#} V. {%rings einschlagen%} <ls>ĀPAST. ŚR. 11,7,7</ls>. — Mit {#sam#}, {#saMmita#} {%fertig gebaut%} <ls>ĀPAST. GṚHY. 17,6</ls>.
+;
+756318 old <div n="p">— Mit {#sam, saMmita#} {%fertig gebaut%} <ls>ĀPAST. GṚHY. 17,6</ls>.<info n="sup_7"/>
+;
+756318 new <div n="p">— Mit {#sam#}, {#saMmita#} {%fertig gebaut%} <ls>ĀPAST. GṚHY. 17,6</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>220494<pc>7-368-a<k1>miYj<k2>miYj X
+756322 old √{#miYj#}¦ mit *{#ud, unmiYjita#} <lex>n.</lex> {%das nach oben Verziehen%} <ls>MAHĀVY. 133</ls>. <ls n="MAHĀVY.">244</ls>.
+;
+756322 new √{#miYj#}¦ mit *{#ud#}, {#unmiYjita#} <lex>n.</lex> {%das nach oben Verziehen%} <ls>MAHĀVY. 133</ls>. <ls n="MAHĀVY.">244</ls>.
+;756322 new √{#miYj#}¦ mit *{#ud#}, {#unmiYjita#} <lex>n.</lex> {%das nach oben Verziehen%} <ls>MAHĀVY. 133</ls>. <ls n="MAHĀVY.">244</ls>. — Mit *{#ni#}, {#°miYjita#} <lex>n.</lex> {%das nach unten <ab n="Verziehen">V.</ab>%} <ls><ab>ebend.</ab></ls> — Mit {#sam#} {%zusammen —, einziehen%} (den Arm) <ls>DIVYĀVAD. 473,6</ls>.
+;
+756323 old <div n="p">— Mit *{#ni, °miYjita#} <lex>n.</lex> {%das nach unten <ab n="Verziehen">V.</ab>%} <ls><ab>ebend.</ab></ls>
+;
+756323 new <div n="p">— Mit *{#ni#}, {#°miYjita#} <lex>n.</lex> {%das nach unten <ab n="Verziehen">V.</ab>%} <ls><ab>ebend.</ab></ls>
+; ----------------------------------------------
+; <L>220536<pc>7-368-c<k1>muc<k2>1. muc X
+;756492 old <hom>1.</hom> √{#muc#}¦ V. 12〉 {%Jmd%} (<ab>Gen.</ab>) {%entwischen%} <ls>JĀTAKAM. 20</ls>. <ls n="JĀTAKAM.">21,11</ls>. <ls n="JĀTAKAM.">22</ls>.
+;
+;756492 new <hom>1.</hom> √{#muc#}¦ V. 12〉 {%Jmd%} (<ab>Gen.</ab>) {%entwischen%} <ls>JĀTAKAM. 20</ls>. <ls n="JĀTAKAM.">21,11</ls>. <ls n="JĀTAKAM.">22</ls>. — Mit {#pra#} auch {%sich losmachen von%} (<ab>Gen.</ab>), {%entgehen%} <ls>R. ed. Bomb. 3,66,11</ls>. {#pramukta#} {%frei von%} (<ab>Abl.</ab>) <ls>MAHĀVY. 19,47</ls>. — Mit {#vi#}, {#°mukta#} {%Jmd%} (<ab>Gen.</ab>) {%entkommen%} <ls>JĀTAKAM. 21</ls>. <ls n="JĀTAKAM.">23</ls>. — Mit {#pratisam#}, {#°saMmukta#} {%erlöst, von einem peinlichen Zustande befreit%} <ls>R. ed. Bomb. 4,59,5</ls>.
+;
+756494 old <div n="p">— Mit {#vi, °mukta#} {%Jmd%} (<ab>Gen.</ab>) {%entkommen%} <ls>JĀTAKAM. 21</ls>. <ls n="JĀTAKAM.">23</ls>.
+;
+756494 new <div n="p">— Mit {#vi#}, {#°mukta#} {%Jmd%} (<ab>Gen.</ab>) {%entkommen%} <ls>JĀTAKAM. 21</ls>. <ls n="JĀTAKAM.">23</ls>.
+;
+756495 old <div n="p">— Mit {#pratisam, °saMmukta#} {%erlöst, von einem peinlichen Zustande befreit%} <ls>R. ed. Bomb. 4,59,5</ls>.<info n="sup_7"/>
+;
+756495 new <div n="p">— Mit {#pratisam#}, {#°saMmukta#} {%erlöst, von einem peinlichen Zustande befreit%} <ls>R. ed. Bomb. 4,59,5</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>220560<pc>7-368-d<k1>mUrC<k2>mUrC X
+;756592 old √{#mUrC#}¦ mit {#aDi#} 6.
+;
+;756592 new √{#mUrC#}¦ mit {#aDi#} 6. — Mit {#vi#}, {#°mUrcCita#} V. {%betäubt, ganz hin%} <ls>DIVYĀVAD. 454,30</ls>.
+;
+756593 old <div n="p">— Mit {#vi, °mUrcCita#} V. {%betäubt, ganz hin%} <ls>DIVYĀVAD. 454,30</ls>.<info n="sup_7"/>
+;
+756593 new <div n="p">— Mit {#vi#}, {#°mUrcCita#} V. {%betäubt, ganz hin%} <ls>DIVYĀVAD. 454,30</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>220668<pc>7-369-d<k1>yam<k2>yam X
+;757026 old √{#yam#}¦ mit {#upani#} {%befestigen%} (?) <ls>JĀTAKAM. 11</ls>.
+;
+;757026 new √{#yam#}¦ mit {#upani#} {%befestigen%} (?) <ls>JĀTAKAM. 11</ls>. — Mit {#parini#} {%genau bestimmen%} (eine Zeit) <ls>VIVĀDARATNĀKARA 93,1</ls>. — Mit {#pratini#}, {#°yata#} V. vielleicht {%fest stehend, unveränderlich%} <ls>JĀTAKAM. 21</ls>. — Mit {#aBisam#} V. <ab>Med.</ab> {%fester anziehen%} (den Gürtel) 9.
+;
+757028 old <div n="p">— Mit {#pratini, °yata#} V. vielleicht {%fest stehend, unveränderlich%} <ls>JĀTAKAM. 21</ls>.
+;
+757028 new <div n="p">— Mit {#pratini#}, {#°yata#} V. vielleicht {%fest stehend, unveränderlich%} <ls>JĀTAKAM. 21</ls>.
+; ----------------------------------------------
+; <L>220678<pc>7-369-d<k1>yA<k2>1. yA X
+;757069 old <hom>1.</hom> √{#yA#}¦ <ab>Caus.</ab> {%unterhalten, aufziehen%} <ls>DIVYĀVAD. 499,1</ls>. {%sich wohl befinden%} <ls n="DIVYĀVAD.">93,6. 150,16. 196,18. 471,4</ls>.
+;
+;757069 new <hom>1.</hom> √{#yA#}¦ <ab>Caus.</ab> {%unterhalten, aufziehen%} <ls>DIVYĀVAD. 499,1</ls>. {%sich wohl befinden%} <ls n="DIVYĀVAD.">93,6. 150,16. 196,18. 471,4</ls>. — Mit {#vyatI#} [Page7-370-a] V. {#°yAta#} = {#vyatikramya gataH#} <ls>R. ed. Bomb. 3,69,4</ls>. — Mit {#aBi#} V. {%fahren über%} (<ab>Acc.</ab>) <ls>ĀPAST. GṚHY. 5,24</ls>. — Mit {#A#} <ab>Caus.</ab> {%erziehen%} <ls>DIVYĀVAD. 499,9</ls>. — Mit {#pari#} V. {%den Umlauf vollbringen%} <ls>JĀTAKAM. 10,29</ls>. — Mit {#pra#} V. {%zu Werke gehen, verfahren%} <ls n="JĀTAKAM.">20,33</ls>. — Mit {#aBipra#} V. {%aufbrechen —, eine Reise antreten von%} (<ab>Abl.</ab>) <ls n="JĀTAKAM.">24</ls>. {%von einer Stelle zu einer anderen sich schwingen%} <ls n="JĀTAKAM.">27,10</ls>.
+;
+757070 old <div n="p">— Mit {#vyatI#} [Page7-370-a] V. {#°yAta = vyatikramya gataH#} <ls>R. ed. Bomb. 3,69,4</ls>.
+;
+757070 new <div n="p">— Mit {#vyatI#} [Page7-370-a] V. {#°yAta#} = {#vyatikramya gataH#} <ls>R. ed. Bomb. 3,69,4</ls>.
+; ----------------------------------------------
+; <L>220700<pc>7-370-b<k1>yuj<k2>1. yuj X
+;757163 old <hom>1.</hom> √{#yuj#}¦ mit {#atyupa#} {%zu sehr gebrauchen%} <ls>CARAKA 256,19</ls>.
+;
+;757163 new <hom>1.</hom> √{#yuj#}¦ mit {#atyupa#} {%zu sehr gebrauchen%} <ls>CARAKA 256,19</ls>. — Mit {#nis#}, {#niryukta#} <ls>R. ed. Bomb. 3,69,39</ls> wohl fehlerhaft für {#nirmukta#} {%frei gekommen von%} (<ab>Instr.</ab>), so <ab>v. a.</ab> {%mit Aufopferung von%}. — Mit {#pra#} V. 16〉 <ab>Med.</ab> mit <ab>Loc.</ab> der Person <ls>JĀTAKAM. 29,17</ls>. — Mit {#atipra#} V. {%zu sehr gebrauchen%} <ls>CARAKA 256,11</ls>. — Mit *{#visaMpra#}, {#°yukta#} {%frei von%} (<ab>Instr.</ab>) <ls>MAHĀVY. 19,48</ls>. — Mit {#pratisam#} V. {#°pratisaMyukta#} {%in Verbindung stehend mit, Bezug habend auf%} <ls>JĀTAKAM. 12</ls>. <ls n="JĀTAKAM.">21</ls>. <ls n="JĀTAKAM.">28</ls>. <ls>MAHĀVY. 109,65</ls>.
+;
+757164 old <div n="p">— Mit {#nis, niryukta#} <ls>R. ed. Bomb. 3,69,39</ls> wohl fehlerhaft für {#nirmukta#} {%frei gekommen von%} (<ab>Instr.</ab>), so <ab>v. a.</ab> {%mit Aufopferung von%}.
+;
+757164 new <div n="p">— Mit {#nis#}, {#niryukta#} <ls>R. ed. Bomb. 3,69,39</ls> wohl fehlerhaft für {#nirmukta#} {%frei gekommen von%} (<ab>Instr.</ab>), so <ab>v. a.</ab> {%mit Aufopferung von%}.
+;
+757167 old <div n="p">— Mit *{#visaMpra, °yukta#} {%frei von%} (<ab>Instr.</ab>) <ls>MAHĀVY. 19,48</ls>.
+;
+757167 new <div n="p">— Mit *{#visaMpra#}, {#°yukta#} {%frei von%} (<ab>Instr.</ab>) <ls>MAHĀVY. 19,48</ls>.
+; ----------------------------------------------
+; <L>220759<L>220759<pc>7-370-d<k1>ran<k2>1. ran
+757404 old <hom>1.</hom> √{#ran#}¦ mit *{#pra, praraRita#} {%erschallend%} <ls>MAHĀVY. 151</ls>.
+;
+757404 new <hom>1.</hom> √{#ran#}¦ mit *{#pra#}, {#praraRita#} {%erschallend%} <ls>MAHĀVY. 151</ls>.
+;
+;757404 new <hom>1.</hom> √{#ran#}¦ mit *{#pra, praraRita#} {%erschallend%} <ls>MAHĀVY. 151</ls>. — Mit *{#saMpra#}, {#°raRita#} dass, <ls><ab>ebend.</ab></ls>
+;
+757405 old <div n="p">— Mit *{#saMpra, °raRita#} dass, <ls><ab>ebend.</ab></ls><info n="sup_7"/>
+;
+757405 new <div n="p">— Mit *{#saMpra#}, {#°raRita#} dass, <ls><ab>ebend.</ab></ls><info n="sup_7"/>
+; ----------------------------------------------
+; <L>220823<pc>7-371-b<k1>ruh<k2>1. ruh X
+;757668 old <hom>1.</hom> √{#ruh#}¦ mit {#A#}, {#ArUQa#} V. {%ausgerissen, ausgezogen%} (!) <ls>DIVYĀVAD. 84,10</ls>.
+;
+;757668 new <hom>1.</hom> √{#ruh#}¦ mit {#A#}, {#ArUQa#} V. {%ausgerissen, ausgezogen%} (!) <ls>DIVYĀVAD. 84,10</ls>. — Mit {#vyupa#} <ab>Caus.</ab> {#°ropita#} {%versetzt%} (Baum) <ls>CARAKA 368,4</ls>. — Mit {#vi#}, {#°rUQa#} V. {%ausgewachsen,%} so <ab>v. a.</ab> {%entwickelt%} <ls>JĀTAKAM. 31</ls>.
+;
+757670 old <div n="p">— Mit {#vi, °rUQa#} V. {%ausgewachsen,%} so <ab>v. a.</ab> {%entwickelt%} <ls>JĀTAKAM. 31</ls>.<info n="sup_7"/>
+;
+757670 new <div n="p">— Mit {#vi#}, {#°rUQa#} V. {%ausgewachsen,%} so <ab>v. a.</ab> {%entwickelt%} <ls>JĀTAKAM. 31</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>220847<pc>7-371-c<k1>lakzay<k2>lakzay X
+;757766 old !√{#lakzay#}¦ mit {#aBi#}, {#°lakzita#} auch {%erprobt%} <ls>R. ed. Bomb. 4,41,1</ls>. {%ausgezeichnet%} <ls>JĀTAKAM. 7</ls>. <ls n="JĀTAKAM.">18</ls>. <ls n="JĀTAKAM.">28,42</ls>. <ab>Nom. abstr.</ab> {#°tva#} <lex>n.</lex> 7.
+;
+;757766 new !√{#lakzay#}¦ mit {#aBi#}, {#°lakzita#} auch {%erprobt%} <ls>R. ed. Bomb. 4,41,1</ls>. {%ausgezeichnet%} <ls>JĀTAKAM. 7</ls>. <ls n="JĀTAKAM.">18</ls>. <ls n="JĀTAKAM.">28,42</ls>. <ab>Nom. abstr.</ab> {#°tva#} <lex>n.</lex> 7. — Mit {#samaBi#}, {#°lakzita#} {%ganz ausgezeichnet%} <ls n="JĀTAKAM.">3,15</ls>. — Mit {#A#} {%erzielen, erreichen%} <ls n="JĀTAKAM. 3,">20</ls>.
+;
+757767 old <div n="p">— Mit {#samaBi, °lakzita#} {%ganz ausgezeichnet%} <ls n="JĀTAKAM.">3,15</ls>.
+;
+757767 new <div n="p">— Mit {#samaBi#}, {#°lakzita#} {%ganz ausgezeichnet%} <ls n="JĀTAKAM.">3,15</ls>.
+; ----------------------------------------------
+; <L>220888<pc>7-372-a<k1>lul<k2>lul X
+;757935 old √{#lul#}¦ mit {#vyA#} 6.
+;
+;757935 new √{#lul#}¦ mit {#vyA#} 6. — Mit {#pari#} <ab>Caus.</ab> {%hinundherbewegen%} <ls>KIR. 8,33</ls>. — Mit {#vi#}, {#vilolant#} {%sich hinundher bewegend%} <ls>DAMAYANTĪK. 220</ls>.
+;
+757937 old <div n="p">— Mit {#vi, vilolant#} {%sich hinundher bewegend%} <ls>DAMAYANTĪK. 220</ls>.<info n="sup_7"/>
+;
+757937 new <div n="p">— Mit {#vi#}, {#vilolant#} {%sich hinundher bewegend%} <ls>DAMAYANTĪK. 220</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>220894<pc>7-372-a<k1>lok<k2>lok X
+;757961 old √{#lok#}¦ mit {#ava#} <ab>Caus.</ab> V. {%Jmd zum Abschied grüssen%} <ls>DIVYĀVAD. 4,26</ls>. <ls n="DIVYĀVAD.">128,2</ls>. <ls n="DIVYĀVAD.">281,17</ls>. <ls n="DIVYĀVAD.">331,18</ls>. <ls n="DIVYĀVAD.">439,22</ls>. <ls n="DIVYĀVAD.">446,18</ls>. <ls n="DIVYĀVAD.">511,10</ls>. <ls n="DIVYĀVAD.">524,12</ls>.
+;
+;757961 new √{#lok#}¦ mit {#ava#} <ab>Caus.</ab> V. {%Jmd zum Abschied grüssen%} <ls>DIVYĀVAD. 4,26</ls>. <ls n="DIVYĀVAD.">128,2</ls>. <ls n="DIVYĀVAD.">281,17</ls>. <ls n="DIVYĀVAD.">331,18</ls>. <ls n="DIVYĀVAD.">439,22</ls>. <ls n="DIVYĀVAD.">446,18</ls>. <ls n="DIVYĀVAD.">511,10</ls>. <ls n="DIVYĀVAD.">524,12</ls>. — Mit {#vyava#} <ab>Caus.</ab> {%ringsum beschauen, besichtigen%} <ls>DIVYĀVAD. 437,5</ls>. — Mit *{#samud#} <ab>Caus.</ab> {%hinblicken auf%} <ls>MAHĀVY. 245</ls>. — Mit {#prati#}, {#°lokita#} <ls>R. ed. Bomb. 4,61,13</ls> wohl fehlerhaft für {#pravilokita#}.
+;
+757964 old <div n="p">— Mit {#prati, °lokita#} <ls>R. ed. Bomb. 4,61,13</ls> wohl fehlerhaft für {#pravilokita#}.<info n="sup_7"/>
+;
+757964 new <div n="p">— Mit {#prati#}, {#°lokita#} <ls>R. ed. Bomb. 4,61,13</ls> wohl fehlerhaft für {#pravilokita#}.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>220967<pc>7-372-d<k1>vart<k2>vart X
+;758262 old √{#vart#}¦ mit {#ati#} VI. 1〉e〉 {#Atavftta#} {%übertroffen, in Schatten gestellt%} <ls>MBH. 1,83,28</ls>.
+;
+;758262 new √{#vart#}¦ mit {#ati#} VI. 1〉e〉 {#Atavftta#} {%übertroffen, in Schatten gestellt%} <ls>MBH. 1,83,28</ls>. — Mit {#antar#} <ab>Caus.</ab> {%zugesellen%} <ls>MĀLATĪM. (ed. Bomb.) 324,7</ls>. — Mit {#ud#} <ab>Caus.</ab> VI. 6. <ls>DIVYĀVAD. 12,21</ls>. <ls n="DIVYĀVAD.">36,6</ls>. — Mit {#pari#}, {#°vftta#} (so zu lesen) {%der durchwandert hat,%} mit <ab>Acc.</ab> <ls>R. 3,71,34</ls>. — Mit {#saMpari#} <ab>Caus.</ab> VI. {%ringen%} (die Hande) <ls>DIVYĀVAD. 263,13</ls>. — Mit {#pratisaMni#} {%zurückkehren%} <ls>R. ed. Bomb. 4,28,32</ls>.
+;
+758265 old <div n="p">— Mit {#pari, °vftta#} (so zu lesen) {%der durchwandert hat,%} mit <ab>Acc.</ab> <ls>R. 3,71,34</ls>.
+;
+758265 new <div n="p">— Mit {#pari#}, {#°vftta#} (so zu lesen) {%der durchwandert hat,%} mit <ab>Acc.</ab> <ls>R. 3,71,34</ls>.
+; ----------------------------------------------
+; <L>220981<pc>7-373-a<k1>val<k2>val (chk SUP: <info n="sup_7"/>)
+758324 old √{#val#}¦ mit {#vi#} VI. {#vivalita = viniHsfta#} <ls>HARAVIJAYA 7,31</ls>.<info n="sup_7"/>
+;
+758324 new √{#val#}¦ mit {#vi#} VI. {#vivalita#} = {#viniHsfta#} <ls>HARAVIJAYA 7,31</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>221407<pc>7-377-b<k1>SaNKasvara<k2>*SaNKasvara (chk SUP: <info n="sup_7"/>)
+760035 old *{#SaNKasvara#}¦ <ls><ab>ebend.</ab> 278</ls> wohl verstümmelt für {#saMkasvara = saMkasuka#}.<info n="sup_7"/>
+;
+760035 new *{#SaNKasvara#}¦ <ls><ab>ebend.</ab> 278</ls> wohl verstümmelt für {#saMkasvara#} = {#saMkasuka#}.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>221435<pc>7-377-c<k1>SaraBA<k2>SaraBA (chk SUP: <info n="sup_7"/>)
+760147 old {#SaraBA#}¦ <lex>Adj.</lex> <lex>f.</lex> <ls>ĀPAST. GṚHY. 3,11</ls>. <ls>BAUDH. GṚHY. PARIŚ.</ls> verschiedentlich gedeutet. {#saraBA = viSIrRANgI#} <ls>VAIJAY.</ls>, <ls>BHŪMIK.</ls> <ls>BRĀHMAṆĀDHY. 51</ls> nach <ls>WINTERNITZ</ls>.<info n="sup_7"/>
+;
+760147 new {#SaraBA#}¦ <lex>Adj.</lex> <lex>f.</lex> <ls>ĀPAST. GṚHY. 3,11</ls>. <ls>BAUDH. GṚHY. PARIŚ.</ls> verschiedentlich gedeutet. {#saraBA#} = {#viSIrRANgI#} <ls>VAIJAY.</ls>, <ls>BHŪMIK.</ls> <ls>BRĀHMAṆĀDHY. 51</ls> nach <ls>WINTERNITZ</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>221547<pc>7-378-d<k1>Sri<k2>1. Sri X
+760596 old <hom>1.</hom> √{#Sri#}¦ mit {#ni#}. {%*Halt finden an%} (<ab>Acc.</ab>) <ls>MAHĀVY. 244,105</ls> ({#°vIM niSrAya sAma°#} zu lesen). *{#niSrita = ASrita#} 〔40〕.
+;
+760596 new <hom>1.</hom> √{#Sri#}¦ mit {#ni#}. {%*Halt finden an%} (<ab>Acc.</ab>) <ls>MAHĀVY. 244,105</ls> ({#°vIM niSrAya sAma°#} zu lesen). *{#niSrita#} = {#ASrita#} 〔40〕.
+;760596 new <hom>1.</hom> √{#Sri#}¦ mit {#ni#}. {%*Halt finden an%} (<ab>Acc.</ab>) <ls>MAHĀVY. 244,105</ls> ({#°vIM niSrAya sAma°#} zu lesen). *{#niSrita#} = {#ASrita#} 〔40〕. — Mit {#saMni#}, {#°Srita#} {%in Jmdes Schutz stehend, Jmd%} (<ab>Gen.</ab>) {%ergeben%} <ls>DIVYĀVAD. 94,11</ls>. <ls n="DIVYĀVAD.">101,10</ls>. {%sich befindend in%} (<ab>Loc.</ab>) <ls n="DIVYĀVAD.">230,23</ls>. — Mit {#nis#}, {#niHSritya#} {%sich anlehnend an, sich stüzzend auf%} (<ab>Acc.</ab>) <ls>JĀTAKAM. 27,23</ls>. in {%der Nähe von%} (<ab>Acc.</ab>) <ls n="JĀTAKAM. 27,">27</ls>.
+;
+760597 old <div n="p">— Mit {#saMni, °Srita#} {%in Jmdes Schutz stehend, Jmd%} (<ab>Gen.</ab>) {%ergeben%} <ls>DIVYĀVAD. 94,11</ls>. <ls n="DIVYĀVAD.">101,10</ls>. {%sich befindend in%} (<ab>Loc.</ab>) <ls n="DIVYĀVAD.">230,23</ls>.
+;
+760597 new <div n="p">— Mit {#saMni#}, {#°Srita#} {%in Jmdes Schutz stehend, Jmd%} (<ab>Gen.</ab>) {%ergeben%} <ls>DIVYĀVAD. 94,11</ls>. <ls n="DIVYĀVAD.">101,10</ls>. {%sich befindend in%} (<ab>Loc.</ab>) <ls n="DIVYĀVAD.">230,23</ls>.
+;
+760598 old <div n="p">— Mit {#nis, niHSritya#} {%sich anlehnend an, sich stüzzend auf%} (<ab>Acc.</ab>) <ls>JĀTAKAM. 27,23</ls>. in {%der Nähe von%} (<ab>Acc.</ab>) <ls n="JĀTAKAM. 27,">27</ls>.<info n="sup_7"/>
+;
+760598 new <div n="p">— Mit {#nis#}, {#niHSritya#} {%sich anlehnend an, sich stüzzend auf%} (<ab>Acc.</ab>) <ls>JĀTAKAM. 27,23</ls>. in {%der Nähe von%} (<ab>Acc.</ab>) <ls n="JĀTAKAM. 27,">27</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>221647<pc>7-379-d<k1>saYj<k2>saYj X
+760999 old √{#saYj#}¦ VII. 3〉 {#sajjase = sajjayasi#} (von <hom>2.</hom> {#sajjay#}) <ls>R. ed. Bomb. 4,66,7</ls>.
+;
+760999 new √{#saYj#}¦ VII. 3〉 {#sajjase#} = {#sajjayasi#} (von <hom>2.</hom> {#sajjay#}) <ls>R. ed. Bomb. 4,66,7</ls>.
+;760999 new √{#saYj#}¦ VII. 3〉 {#sajjase#} = {#sajjayasi#} (von <hom>2.</hom> {#sajjay#}) <ls>R. ed. Bomb. 4,66,7</ls>. — Mit {#aBi#}, {#°zakta#} VII. {%*grimmig%} <ls>MAHĀVY. 146</ls>. — Mit {#vi#}, {#°zakta#} VII. Am Ende eines <ab>Comp.</ab> {%zusammenhängend —, verbunden mit%} <ls>JĀTAKAM. 10,33</ls>. — Mit {#sam#} 1〉c〉 lies {#saMsasajjatuH#}.
+;
+761000 old <div n="p">— Mit {#aBi, °zakta#} VII. {%*grimmig%} <ls>MAHĀVY. 146</ls>.
+;
+761000 new <div n="p">— Mit {#aBi#}, {#°zakta#} VII. {%*grimmig%} <ls>MAHĀVY. 146</ls>.
+;
+761001 old <div n="p">— Mit {#vi, °zakta#} VII. Am Ende eines <ab>Comp.</ab> {%zusammenhängend —, verbunden mit%} <ls>JĀTAKAM. 10,33</ls>.
+;
+761001 new <div n="p">— Mit {#vi#}, {#°zakta#} VII. Am Ende eines <ab>Comp.</ab> {%zusammenhängend —, verbunden mit%} <ls>JĀTAKAM. 10,33</ls>.
+; ----------------------------------------------
+; <L>221657<pc>7-380-a<k1>sad<k2>1. sad X
+;761042 old <hom>1.</hom> √{#sad#}¦ mit {#atyA#} <ab>Caus.</ab> auch {%Jmd%} (<ab>Acc.</ab>) {%zunahe kommen%} <ls>R. ed. Bomb. 3,37,17</ls>.
+;
+;761042 new <hom>1.</hom> √{#sad#}¦ mit {#atyA#} <ab>Caus.</ab> auch {%Jmd%} (<ab>Acc.</ab>) {%zunahe kommen%} <ls>R. ed. Bomb. 3,37,17</ls>. — Mit {#ud#} <ab>Caus.</ab> VII. 3〉 <ls>ĀPAST. GṚHY. 12,7</ls>. — Mit {#anUpa#} <ab>Caus.</ab> streiche das Wort <ab>Comm.</ab> — Mit {#aBipra#} VII. {#°sanna#} {%günstig gestimmt%} <ls>MAHĀVY. 255</ls>. <ls>JĀTAKAM. 3</ls>. — Mit {#samaBipra#} <ab>Caus.</ab> {%ganz günstig stimmen%} <ls>JĀTAKAM. 5</ls>. <ls n="JĀTAKAM.">12</ls>. — Mit {#vipra#}, {#°sanna#} VII. {%*ganz klar, durchsichtig%} <ls>MAHĀVY. 245,887</ls>. — Mit {#sam#} <ab>Caus.</ab> VII. {%zu Boden strekken, niederworfen%} <ls>JĀTAKAM. 32</ls>. <ls n="JĀTAKAM.">33</ls>.
+;
+761047 old <div n="p">— Mit {#vipra, °sanna#} VII. {%*ganz klar, durchsichtig%} <ls>MAHĀVY. 245,887</ls>.
+;
+761047 new <div n="p">— Mit {#vipra#}, {#°sanna#} VII. {%*ganz klar, durchsichtig%} <ls>MAHĀVY. 245,887</ls>.
+; ----------------------------------------------
+; <L>221987<pc>7-383-d<k1>star<k2>1. star X
+;762381 old <hom>1.</hom> √{#star#}¦ mit {#vyava#} {%darüber hinbreiten%} <ls>ĀPAST. GṚHY. 5,23</ls>.
+;
+;762381 new <hom>1.</hom> √{#star#}¦ mit {#vyava#} {%darüber hinbreiten%} <ls>ĀPAST. GṚHY. 5,23</ls>. — Mit *{#pratyA#}, {#°stfta#} {%ausgebreitet%} <ls>MAHĀVY. 223</ls>.
+;
+762382 old <div n="p">— Mit *{#pratyA, °stfta#} {%ausgebreitet%} <ls>MAHĀVY. 223</ls>.<info n="sup_7"/>
+;
+762382 new <div n="p">— Mit *{#pratyA#}, {#°stfta#} {%ausgebreitet%} <ls>MAHĀVY. 223</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>222341<pc>7-387-b<k1>kuT<k2>kuT X
+;763804 old √{#kuT#}¦ II. {#kuTant#} {%stinkend%} <ls><ab>ebend.</ab> 170</ls>.
+;
+;763804 new √{#kuT#}¦ II. {#kuTant#} {%stinkend%} <ls><ab>ebend.</ab> 170</ls>. — Mit {#pari#}, {#°kuTant#} <ab>dass.</ab> <ls><ab>ebend.</ab> 38</ls>.
+;
+763805 old <div n="p">— Mit {#pari, °kuTant#} <ab>dass.</ab> <ls><ab>ebend.</ab> 38</ls>.<info n="sup_7"/>
+;
+763805 new <div n="p">— Mit {#pari#}, {#°kuTant#} <ab>dass.</ab> <ls><ab>ebend.</ab> 38</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>222359<pc>7-387-c<k1>kzip<k2>1. kzip (chk SUP: <info n="sup_7"/>)
+763877 old <hom>1.</hom> √{#kzip#}¦ II. {#kzipta = gata#} <ls>CAṆḌĪŚ. 96</ls>.<info n="sup_7"/>
+;
+763877 new <hom>1.</hom> √{#kzip#}¦ II. {#kzipta#} = {#gata#} <ls>CAṆḌĪŚ. 96</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>222569<pc>7-389-c<k1>marS<k2>marS (chk SUP: <info n="sup_7"/>)
+764719 old √{#marS#}¦ mit {#pravi#} V. {#°mfzwa = spfzwa#} <ls>HARAVIJAYA 12,49</ls>.<info n="sup_7"/>
+;
+764719 new √{#marS#}¦ mit {#pravi#} V. {#°mfzwa#} = {#spfzwa#} <ls>HARAVIJAYA 12,49</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>222590<pc>7-389-d<k1>riktI<k2>riktI (chk SUP: <info n="sup_7"/>)
+764803 old {#riktI#}¦ mit {#kar#} V. {%leer machen%} <ls>HARAVIJAYA 2,4</ls>.<info n="sup_7"/>
+;
+764803 new !√{#riktI#}¦ mit {#kar#} V. {%leer machen%} <ls>HARAVIJAYA 2,4</ls>.<info n="sup_7"/>
+; ----------------------------------------------

@@ -1,0 +1,148 @@
+271 done
+(CDSL): <L>200069<pc>1-282-c<k1>akzayya<k2>akzayya, akzayyodaka
+(AB): <L>200069<pc>1-282-c<k1>akzayya<k2>akzayya
+;;AB note: "akzayya" is the entry word, under whose body portion "akzayyodaka" etc. occur.
+;;AB note: This reduces the multiple entry count by one and extra HW count by 1.
+------------------------
+19203 done
+(CDSL): <L>204802<pc>3-263-b<k1>tripurARaka<k2>tripurARaka, tripurARikA, tripurARIya
+(AB): <L>204802<pc>3-263-b<k1>tripurARaka<k2>tripurARaka, tripurARIya
+;; AB note: As a norm, the fem. word (wholely given or just the termination) within braces (or otherwise) after an adjective (or other gender) is not treated as a main HW, but could be made as an "implied" HW at a later stage.
+------------------------
+19395 done jim doesn't put () in k2
+(CDSL): <L>204850<pc>3-264-a<k1>duHKasparSa<k2>duHKasparSa(m)
+(AB): <L>204850<pc>3-264-a<k1>duHKasparSa<k2>duHKasparSa, duHKasparSa(m)
+;; AB note: The letter in braces is treated as indicating multiple entries.
+------------------------
+19583 done
+(CDSL): <L>204897<pc>3-264-b<k1>dvipAtrika<k2>*dvipAtrika, dvipAtrikI, *dvipAtrIRa, dvipAtrIRA
+(AB): <L>204897<pc>3-264-b<k1>dvipAtrika<k2>*dvipAtrika, *dvipAtrIRa
+;; AB note: As a norm, the fem. word (wholely given or just the termination) within braces (or otherwise) after an adjective (or other gender) is not treated as a main HW, but could be made as an "implied" HW at a later stage.
+;; AB note: This reduces the extra HW count by 2.
+------------------------
+19611 done
+(CDSL): <L>204904<pc>3-264-b<k1>dvyAcita<k2>*dvyAcita, dvyAcitA, *dvyAcitika, dvyAcitikI, *dvyAcitIna, dvyAcitInA
+(AB): <L>204904<pc>3-264-b<k1>dvyAcita<k2>*dvyAcita, *dvyAcitika, *dvyAcitIna
+;; AB note: As a norm, the fem. word (wholely given or just the termination) within braces (or otherwise) after an adjective (or other gender) is not treated as a main HW, but could be made as an "implied" HW at a later stage.
+;; AB note: This reduces the extra HW count by 3.
+------------------------
+19615 done
+(CDSL): <L>204905<pc>3-264-b<k1>dvyAQaka<k2>*dvyAQaka, dvyAQakA, *dvyAQakika, dvyAQakikI, *dvyAQakIna, dvyAQakInA
+(AB): <L>204905<pc>3-264-b<k1>dvyAQaka<k2>*dvyAQaka, *dvyAQakika, *dvyAQakIna
+;; AB note: As a norm, the fem. word (wholely given or just the termination) within braces (or otherwise) after an adjective (or other gender) is not treated as a main HW, but could be made as an "implied" HW at a later stage.
+;; AB note: This reduces the extra HW count by 3.
+------------------------
+20941 aBiDarmamahAviBAzA  print change? 
+{#aBiDarma#}, {#°jYAnaprasTAna#}, {#°DarmaskanDapAda#}, {#°prakaraRaSAsana#}, {#°prakASasADana#}, {#°vijYAnakAyapAda#} <lex>n.</lex>, {#°mahAviBAzA#}¦ <ls>EITEL, Chin. B.</ls><info n="sup_4"/>
+
+(CDSL): <L>205237<pc>4-294-a<k1>aBiDarma<k2>aBiDarma, aBiDarmajYAnaprasTAna, aBiDarmaskanDapAda, aBiDarmaskanDaprakaraRaSAsana, aBiDarmaskanDaprakASasADana, aBiDarmavijYAnakAyapAda, aBiDarmaviBAzA
+---------------
+(CDSL):x<L>205237<pc>4-294-a<k1>aBiDarma<k2>aBiDarma,
+aBiDarmajYAnaprasTAna,
+aBiDarmaDarmaskanDapAda,
+aBiDarmaprakaraRaSAsana,
+aBiDarmaprakASasADana,
+aBiDarmavijYAnakAyapAda,
+aBiDarmamahAviBAzA
+
+(AB):x  <L>205237<pc>4-294-a<k1>aBiDarma<k2>aBiDarma, aBiDarmajYAnaprasTAna, aBiDarmaDarmaskanDapAda, aBiDarmaprakaraRaSAsana, aBiDarmaprakASasADana, aBiDarmavijYAnakAyapAda, aBiDarmamahAviBAzA
+--------------
+(AB): <L>205237<pc>4-294-a<k1>aBiDarma<k2>aBiDarma, ⁅aBiDarma⁆°jYAnaprasTAna, ⁅aBiDarma⁆°DarmaskanDapAda, ⁅aBiDarma⁆°prakaraRaSAsana, ⁅aBiDarma⁆°prakASasADana, ⁅aBiDarma⁆°vijYAnakAyapAda, ⁅aBiDarmamahA⁆°viBAzA
+;; JIm had erred in 'filling' the front-portion.
+------------------------
+24119,24120 done jim changed ¦
+(CDSL): <L>206032<pc>5-241-a<k1>acCanda<k2>acCanda
+(CDSL): {#acCanda#}¦ (<ls>Nachtr. 2</ls>), {#°tas = acCandena#} <ls>NĀRADA (a.) 2,1,29</ls>.
+(AB): <L>206032<pc>5-241-a<k1>acCanda<k2>acCanda, ⁅acCanda⁆°tas
+(AB): {#acCanda#}¦ (<ls>Nachtr. 2</ls>), {#°tas#} = {#acCandena#} <ls>NĀRADA (a.) 2,1,29</ls>.
+;JIM: {#acCanda#} (<ls>Nachtr. 2</ls>), {#°tas#}¦ = {#acCandena#} <ls>NĀRADA (a.) 2,1,29</ls>.
+;; AB note: "°tas" occurs at the trailing end.
+------------------------
+31459 Jim also change ¦
+(CDSL): <L>207867<pc>5-261-a<k1>prasftiMpaca<k2>prasftiMpaca, amBaHprasftiMpaca
+(AB): <L>207867<pc>5-261-a<k1>prasftiMpaca<k2>prasftiMpaca
+;;AB note: "prasftiMpaca" is the entry word, under whose body portion "amBaHprasftiMpaca" etc. occur.
+JIM: {#prasftiMpaca#}¦, {#amBaH°#} so <ab>v. a.</ab> {%nur wenig Wasser gebend%} <ls>ALAṂKĀRAS. 26,b.</ls> <ls>ALAṂKĀRAV. 72,a.</ls> <ls>ALAṂKĀRAR. 10,b.</ls><info n="sup_5"/>
+
+;;AB note: This reduces the multiple entry count by one and extra HW count by 1.
+------------------------
+35757  Jim Why 'QuRQikA'? it is feminine of QuRQika
+(CDSL): <L>208941<pc>6-301-c<k1>QuRQika<k2>QuRQika, vyAkaraRaQuRQika, vyAkaraRaQuRQikA, QuRQikA
+(AB): <L>208941<pc>6-301-c<k1>QuRQika<k2>QuRQika, ⁅QuRQi⁆°kA
+;; AB note: as a norm, only the appropriate words are treated as main HWs.
+;; AB note: This reduces the extra HW count by 2.
+------------------------
+36229 done
+(CDSL): <L>209059<pc>6-303-a<k1>nizkAvam<k2>nizkA/vam, nizkA/vam, niHzkA/vam
+(AB): <L>209059<pc>6-303-a<k1>nizkAvam<k2>nizkA/vam, niHzkA/vam
+;; AB note: Jim had marked a dulpication.
+;; AB note: This reduces the extra HW count by 1.
+------------------------
+37333 done
+(CDSL): <L>209335<pc>6-306-a<k1>vajrapAtAy<k2>vajrapAtAy, vajrapAtAyita
+(AB): <L>209335<pc>6-306-a<k1>vajrapAtAy<k2>vajrapAtAy
+;; AB note: "vajrapAtAy" is the entry word, whose derivative is "vajrapAtAyita".
+;;AB note: This reduces the multiple entry count by one and extra HW count by 1.
+------------------------
+38756 done
+(CDSL): <L>209692<pc>7-290-d<k1>agotracaraRa<k2>agotracaraRa, 2. agopa
+(AB): <L>209692<pc>7-290-d<k1>agotracaraRa<k2>agotracaraRa, 1. agopa, 2. agopa
+;; AB note: Jim had missed the "1. agopa" entry.
+------------------------
+56484 done
+(CDSL): <L>214124<pc>7-318-b<k1>Anantarya<k2>Anantarya
+(AB): <L>214124<pc>7-318-b<k1>Anantarya<k2>Anantarya, A/nantya
+;; AB note: "A/nantya" occurs at the trailing end.
+------------------------
+58892,58893 done
+(CDSL): <L>214726<pc>7-322-c<k1>uYC<k2>uYC
+(CDSL): {#uYC#}¦ mit {#nis#} und {#uYCaDarman#} 3.
+(AB): <L>214726<pc>7-322-c<k1>uYC<k2>uYC, uYCaDarman
+(AB): √{#uYC#} mit {#nis#} und {#uYCaDarman#}¦ 3.
+;; AB note: "uYCaDarman" occurs at the trailing end.
+------------------------
+66500,66501 done
+(CDSL): <L>216628<pc>7-336-b<k1>KawuNka<k2>KawuNka
+(CDSL): {#KawuNka#}¦ (<ab>vgl.</ab> <ls>MAHĀVY. 127,9</ls>. <ab>Nom. abstr.</ab> {#°tA#} {%Niederträchtigkeit%} <ls>JĀTAKAM. 1,36</ls>) und {#Kawvay#} 3.
+(AB): <L>216628<pc>7-336-b<k1>KawuNka<k2>KawuNka, Kawvay
+(AB): {#KawuNka#} (<ab>vgl.</ab> <ls>MAHĀVY. 127,9</ls>. <ab>Nom. abstr.</ab> {#°tA#} {%Niederträchtigkeit%} <ls>JĀTAKAM. 1,36</ls>) und !√{#Kawvay#}¦ 3.
+;; AB note: "Kawvay" occurs at the trailing end.
+------------------------
+66824 done
+(CDSL): <L>216709<pc>7-336-d<k1>gajaBawwa<k2>gajaBawwa, gajareva, gajalakzaRa, gajavEdya, gajaSAstra
+(AB): <L>216709<pc>7-336-d<k1>gajaBawwa<k2>gajaBawwa, gajareva, gajalakzaRa, gajavEdya, ⁅gajavEdya⁆°SAstra
+;; Jim had erred in 'filling' the front-portion.
+------------------------
+69308,69309 Jim: cint is a root
+(CDSL): <L>217330<pc>7-341-c<k1>cint<k2>cint, vicintamAna
+(CDSL): {#cint#}, {#vicintamAna#}¦ <ls>R. ed. Bomb. 2. 83,26</ls> [Page7-341-d] fehlerhaft für {#vicintayAna#}.
+(AB): <L>217330<pc>7-341-c<k1>cint<k2>cint
+(AB): {#cint#}¦, {#vicintamAna#} <ls>R. ed. Bomb. 2,83,26</ls> [Page7-341-d] fehlerhaft für {#vicintayAna#}.
+;;AB note: "cint" is the entry word, under whose body portion "vicintamAna" etc. occur.
+;;AB note: This reduces the multiple entry count by one and extra HW count by 1.
+------------------------
+72932 jim: duh is a verb
+(CDSL): <L>218236<pc>7-348-d<k1>duh<k2>1. duh, aduhra
+(AB): <L>218236<pc>7-348-d<k1>duh<k2>1. duh
+;;AB note: "duh" is the entry word, under whose body portion "aduhra" etc. occur.
+;;AB note: This reduces the multiple entry count by one and extra HW count by 1.
+------------------------
+78452 done. Jim doesn't put () in k2
+(CDSL): <L>219616<pc>7-360-c<k1>pratipraSrabDi<k2>*pratipraSrabDi, pratipraSrabDisrabDi
+(AB):   <L>219616<pc>7-360-c<k1>pratipraSrabDi<k2>*pratipraSrabDi, (⁅pratipra⁆°srabDi)
+;; Jim had erred in 'filling' the front-portion.
+------------------------
+83032 done. changed ¦ location, mark as root
+(CDSL): <L>220760<pc>7-370-d<k1>raB<k2>raB, AraBya
+(AB): <L>220760<pc>7-370-d<k1>raB<k2>raB
+;;AB note: "raB" is the entry word, under whose body portion "AraBya" etc. occur.
+;;AB note: This reduces the multiple entry count by one and extra HW count by 1.
+------------------------
+87160,87161 done. Also mark as root
+(CDSL): <L>221792<pc>7-381-c<k1>sar<k2>sar, *sAreta
+(CDSL): {#sar#}, *{#sAreta#}¦ {%fliessend%} (Stimme) <ls>MAHĀVY. 20</ls>. — Mit *{#ati, nAtisaret#} ? <ls><ab>ebend.</ab> 245,619</ls>. — Mit {#vyati#} <ab>Caus.</ab> {%wechseln%} (die Rede) <ls>DIVYĀVAD. 70,11</ls>. <ls n="DIVYĀVAD.">75,23</ls>. <ls n="DIVYĀVAD.">156,20</ls>. <ls n="DIVYĀVAD.">619,2</ls>. — Mit {#aBi#} <ab>Caus.</ab> VII. {%überfliessen machen, erfüllen%} <ls>JĀTAKAM. 15</ls>. <ls n="JĀTAKAM.">27,17</ls>. — Mit {#pratyava, °sfta#} {%wieder fortgegangen%} <ls>DIVYĀVAD. 235,27</ls>. — Mit {#aBipra, °sfta#} VII. {%herbeigeströmt%} <ls>JĀTAKAM. 15</ls>. — <ab>Caus.</ab> {%entgegenstrecken%} <ls><ab>ebend.</ab> 9</ls>. — Mit {#vyapasam#} {%durchwandern%} (verschiedene Existenzen) <ls>DIVYĀVAD. 200,10</ls>.
+(AB): <L>221792<pc>7-381-c<k1>sar<k2>sar
+(AB): {#sar#}¦, *{#sAreta#} {%fliessend%} (Stimme) <ls>MAHĀVY. 20</ls>. — Mit *{#ati#}, {#nAtisaret#} ? <ls><ab>ebend.</ab> 245,619</ls>. — Mit {#vyati#} <ab>Caus.</ab> {%wechseln%} (die Rede) <ls>DIVYĀVAD. 70,11</ls>. <ls n="DIVYĀVAD.">75,23</ls>. <ls n="DIVYĀVAD.">156,20</ls>. <ls n="DIVYĀVAD.">619,2</ls>. — Mit {#aBi#} <ab>Caus.</ab> VII. {%überfliessen machen, erfüllen%} <ls>JĀTAKAM. 15</ls>. <ls n="JĀTAKAM.">27,17</ls>. — Mit {#pratyava#}, {#°sfta#} {%wieder fortgegangen%} <ls>DIVYĀVAD. 235,27</ls>. — Mit {#aBipra#}, {#°sfta#} VII. {%herbeigeströmt%} <ls>JĀTAKAM. 15</ls>. — <ab>Caus.</ab> {%entgegenstrecken%} <ls><ab>ebend.</ab> 9</ls>. — Mit {#vyapasam#} {%durchwandern%} (verschiedene Existenzen) <ls>DIVYĀVAD. 200,10</ls>.
+;;AB note: "sar" is the entry word, under whose body portion "sAreta" etc. occur.
+;;AB note: This reduces the multiple entry count by one and extra HW count by 1.
+------------------------
