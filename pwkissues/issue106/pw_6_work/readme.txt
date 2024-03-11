@@ -96,6 +96,7 @@ Remove ' in k1
 
 Here begin many items that Jim thinks are errors in pw_5.differences.latest.txt
 
+---
 <L>16299<pc>1-193-a<k1>Azwaka<k2>*Azwaka, *AzwakIya
 ---
 <L>23050<pc>1-281-b<k1>OrDvadehikakalpavalli  cf. ACC
@@ -385,74 +386,3 @@ print change?
  {#nAmamAlA#} -> {#°nAmamAlA#} ?
  Note: SAradIyanAmamAlA in ACC
 ------------------------------------------------------------------------
-OLD NOTES from pw_5_work -- to be deleted
-------------------------------------------------------------------------
-temp_pw_6.txt
-Constructed from ../temp_pw_5a.txt in 3 steps.
-
--- 01
-cp ../temp_pw_5a.txt  ../temp_pw_5a1.txt
-manual edit of temp_pw_5a1.txt.
-Apply Changes per pwkvn_4.differences-1.metalines.and.header.lines.txt  (22)
-
-# construct change file
-python ../diff_to_changes_dict.py ../temp_pw_5a.txt  ../temp_pw_5a1.txt temp_change_4_5_01.txt
-
-touch ../change_5a_6.txt
-# manual insert temp_change_4_5_01.txt into change_5a_6.txt
-
-# recompute temp_pw_6.txt from temp_pw_5a.txt
-cd ../
-python updateByLine.py temp_pw_5a.txt change_5a_6.txt temp_pw_6.txt
-34 change transactions from change_5a_6.txt
-
--- 02
- Changes per pwkvn_4.differences-2.dhAtu.and.denominative.verbs.txt
-
-# this is complicated for various reasons.
-# the 'temp_unused_groups_02.txt have (about 30) have to be done manually
-python make_change_01.py ../temp_pw_6.txt pwkvn_4.differences-2.dhAtu.and.denominative.verbs.txt temp_change_4_5_02.txt 
-764912 from ../temp_pw_6.txt
-372 from pwkvn_4.differences-2.dhAtu.and.denominative.verbs.txt
-102 records written to temp_change_4_5_02.txt
-
-# manual edit of temp_change_4_5_02.txt
- compare with pwkvn_4.differences-2
- a) remove a few in temp_change_4_5_02.txt
- b) accept 5 more ('i' see below)
-# manual insert temp_change_4_5_02.txt into change_5a_6.txt
-
-# recompute temp_pw_6.txt from temp_pw_5a.txt
-cd ../
-python updateByLine.py temp_pw_5a.txt change_5a_6.txt temp_pw_6.txt
-132 change transactions from change_5a_6.txt
-
-AB missed these
-<L>204132<pc>3-256-b<k1>i<k2>3. i ?
-<L>205418<pc>4-296-b<k1>i<k2>3. i ?
-<L>206831<pc>5-249-c<k1>i<k2>3. i ?
-<L>208655<pc>6-298-b<k1>i<k2>3. i  ?
-<L>214506<pc>7-320-d<k1>i<k2>3. i  ?
-
--- 03
- Changes per pwkvn_4.differences-3.splits.and.miscellaneous.txt
-
-# this is complicated for various reasons.
-# the 'temp_unused_groups_02.txt have (about 30) have to be done manually
-python make_change_03.py ../temp_pw_6.txt pwkvn_4.differences-3.splits.and.miscellaneous.txt temp_change_4_5_03.txt 
-nit_ab_changes: 75 groups found
-76 records written to temp_change_4_5_03.txt
-
-# manual edit of temp_change_4_5_03.txt
- compare with pwkvn_4.differences-3
- many manual changes required due to <div n="p"/>
-# manual insert temp_change_4_5_03.txt into change_5a_6.txt
-
-# recompute temp_pw_6.txt from temp_pw_5a.txt
-cd ../
-python updateByLine.py temp_pw_5a.txt change_5a_6.txt temp_pw_6.txt
-218 change transactions from change_5a_6.txt
-
-Note: <L>222590<pc>7-389-d<k1>riktI
-  Question !√{#riktI#}.  cf. <L>94190<pc>5-189-b<k1>riktI
-
