@@ -1,0 +1,163 @@
+4889
+(CDSL): <div n="p">— Mit {#vi, vyfdDa#} {%sündlich%} <ls>ĀPAST.</ls>
+(AB): <div n="p">— Mit {#vi#}, {#vyfdDa#} {%sündlich%} <ls>ĀPAST.</ls>
+;; AB note: split-prefix
+------------------------
+5854
+(CDSL): {#asUy#}¦, statt des blossen <ab>Acc.</ab> auch <ab>Acc.</ab> mit {#prati#} <ls>MBH. 12,109,13</ls>.
+(AB): !√{#asUy#}¦, statt des blossen <ab>Acc.</ab> auch <ab>Acc.</ab> mit {#prati#} <ls>MBH. 12,109,13</ls>.
+;; AB note: add !√ markup
+------------------------
+6510 done
+(CDSL): <div n="p">— Mit {#ud#} 9〉 {#udIta = udita#} <ls>NAIṢ. 1,83</ls>. <ls n="NAIṢ.">6,52</ls>. <ls n="NAIṢ. 6,">74</ls>.
+(AB): <div n="p">— Mit {#ud#} 9〉 {#udIta#} = {#udita#} <ls>NAIṢ. 1,83</ls>. <ls n="NAIṢ.">6,52</ls>. <ls n="NAIṢ. 6,">74</ls>.
+;; AB note: split at =
+------------------------
+12246 done
+(CDSL): <div n="p">— Mit {#vi, °kURita#} {%zugehalten%} (Nase) <ls>HEM. PAR. 8,80</ls>.
+(AB): <div n="p">— Mit {#vi#}, {#°kURita#} {%zugehalten%} (Nase) <ls>HEM. PAR. 8,80</ls>.
+;; AB note: split-prefix
+------------------------
+20964,20965 done
+(CDSL): <L>205237<pc>4-294-a<k1>aBiDarma<k2>aBiDarma, aBiDarmajYAnaprasTAna, aBiDarmaDarmaskanDapAda, aBiDarmaprakaraRaSAsana, aBiDarmaprakASasADana, aBiDarmavijYAnakAyapAda, aBiDarmamahAviBAzA
+(CDSL): {#aBiDarma#}, {#°jYAnaprasTAna#}, {#°DarmaskanDapAda#}, {#°prakaraRaSAsana#}, {#°prakASasADana#}, {#°vijYAnakAyapAda#} <lex>n.</lex>, {#°mahAviBAzA#}¦ <ls>EITEL, Chin. B.</ls>
+(AB): <L>205237<pc>4-294-a<k1>aBiDarma<k2>aBiDarma, ⁅aBiDarma⁆°jYAnaprasTAna, ⁅aBiDarma⁆°DarmaskanDapAda, ⁅aBiDarma⁆°prakaraRaSAsana, ⁅aBiDarma⁆°prakASasADana, ⁅aBiDarma⁆°mahAviBAzA, ⁅aBiDarma⁆°vijYAnakAyapAda
+(AB): {#aBiDarma#}, {#°jYAnaprasTAna#}, {#°DarmaskanDapAda#}, {#°prakaraRaSAsana#}, {#°prakASasADana#}, {#°mahAviBAzA#}, {#°vijYAnakAyapAda#} <lex>n.</lex>¦ <ls>EITEL, Chin. B.</ls>
+;; AB note: as 'mahAviBAzA' is decided to be considered as a print error, it is more appropriate to put the list in alphabetical order.
+------------------------
+21449 done
+(CDSL): <div n="p">— Mit {#praRi, praRyasta#} {%nach vorn niedergedrückt%} <ls>TS. PRĀT. 2,20</ls>.
+(AB): <div n="p">— Mit {#praRi#}, {#praRyasta#} {%nach vorn niedergedrückt%} <ls>TS. PRĀT. 2,20</ls>.
+;; AB note: split-prefix
+------------------------
+26691 done
+(CDSL): <hom>1.</hom> √{#as#}¦ 8〉 {#cintayAmAsivAn = cinnayAmAsa#} <ls>HEM. PAR. 1,327</ls>.
+(AB): <hom>1.</hom> √{#as#}¦ 8〉 {#cintayAmAsivAn#} = {#cinnayAmAsa#} <ls>HEM. PAR. 1,327</ls>.
+;; AB note: split at =
+------------------------
+26783 done
+(CDSL): {#asUy#}¦ Z. 3 1〉 zu streichen und Z. 4 <ab>st.</ab> 2〉 zu setzen Mit {#aBi#}.
+(AB): !√{#asUy#}¦ Z. 3 1〉 zu streichen und Z. 4 <ab>st.</ab> 2〉 zu setzen Mit {#aBi#}.
+;; AB note: add !√ markup
+------------------------
+27797 done
+(CDSL): <div n="p">— Mit {#vinis, vinirUQa#} {%unverschoben, in regulärer Reihenfolge%} <ls>ĀPAST. ŚR. 4,14,9</ls>.
+(AB): <div n="p">— Mit {#vinis#}, {#vinirUQa#} {%unverschoben, in regulärer Reihenfolge%} <ls>ĀPAST. ŚR. 4,14,9</ls>.
+;; AB note: split-prefix
+------------------------
+29279 done
+(CDSL): √{#jyot#}¦ mit {#kar#} <ab>Simpl.</ab> und <ab>Caus.</ab> {%Abschied nehmen, Lebewohl sagen%} <ls><ab>Comm.</ab> zu HARṢAC. (1936) 354,5. 357,14</ls>.
+(AB): {#jyot#}¦ mit {#kar#} <ab>Simpl.</ab> und <ab>Caus.</ab> {%Abschied nehmen, Lebewohl sagen%} <ls><ab>Comm.</ab> zu HARṢAC. (1936) 354,5. 357,14</ls>.
+;; AB note: remove √ markup
+------------------------
+29307 done
+(CDSL): {#taMs#}¦ mit {#apa#} in {#apataMsana#} oben.
+(AB): √{#taMs#}¦ mit {#apa#} in {#apataMsana#} oben.
+;; AB note: add √ markup
+------------------------
+32692,32693 done
+(CDSL): <div n="p">— Mit {#aDi, °ruMzita#} <ab>dass.</ab> [Page5-264-c] <ls><ab>ebend.</ab> 10,46</ls>.
+(CDSL): <div n="p">— Mit {#prati, °ruMzita#} <ab>dass.</ab> <ls>ANARGHAR. 3,51</ls>.
+(AB): <div n="p">— Mit {#aDi#}, {#°ruMzita#} <ab>dass.</ab> [Page5-264-c] <ls><ab>ebend.</ab> 10,46</ls>.
+(AB): <div n="p">— Mit {#prati#}, {#°ruMzita#} <ab>dass.</ab> <ls>ANARGHAR. 3,51</ls>.
+;; AB note: split-prefix
+------------------------
+34700 done
+(CDSL): {#iyakz#}¦ mit {#ava#} ({#ava — iyakzva#}) = {#yaj#} mit {#ava#} <ls>ĀPAST. ŚR. 14,17,1</ls>. [Page6-298-c] <ab>Vgl.</ab> <ls>AV. 19,3,4</ls>.
+(AB): √{#iyakz#}¦ mit {#ava#} ({#ava — iyakzva#}) = {#yaj#} mit {#ava#} <ls>ĀPAST. ŚR. 14,17,1</ls>. [Page6-298-c] <ab>Vgl.</ab> <ls>AV. 19,3,4</ls>.
+;; AB note: add √ markup
+------------------------
+34704 done
+(CDSL): {#irasy#}¦ mit {#aBi#} nach <ls>AUFRECHT</ls> zu streichen, da <ls>ṚV. 10,174,2</ls> zu {#aBi#} aus dem Vorhergehenden {#tizWa#} zu ergänzen ist.
+(AB): !√{#irasy#}¦ mit {#aBi#} nach <ls>AUFRECHT</ls> zu streichen, da <ls>ṚV. 10,174,2</ls> zu {#aBi#} aus dem Vorhergehenden {#tizWa#} zu ergänzen ist.
+;; AB note: add !√ markup
+------------------------
+54831 done
+(CDSL): {#asUy#}¦ I. 1. 5.
+(AB): !√{#asUy#}¦ I. 1. 5.
+;; AB note: add !√ markup
+------------------------
+58449 done
+(CDSL): {#iyakz#}¦ mit {#ava#} 5.
+(AB): √{#iyakz#}¦ mit {#ava#} 5.
+;; AB note: add √ markup
+------------------------
+59009 done
+(CDSL): {#uYC#} mit {#nis#} und {#uYCaDarman#}¦ 3.
+(AB): √{#uYC#} mit {#nis#} und {#uYCaDarman#}¦ 3.
+;; AB note: add √ markup
+------------------------
+66665 done
+(CDSL): {#KawuNka#} (<ab>vgl.</ab> <ls>MAHĀVY. 127,9</ls>. <ab>Nom. abstr.</ab> {#°tA#} {%Niederträchtigkeit%} <ls>JĀTAKAM. 1,36</ls>) und {#Kawvay#}¦ 3.
+(AB): {#KawuNka#} (<ab>vgl.</ab> <ls>MAHĀVY. 127,9</ls>. <ab>Nom. abstr.</ab> {#°tA#} {%Niederträchtigkeit%} <ls>JĀTAKAM. 1,36</ls>) und !√{#Kawvay#}¦ 3.
+;; AB note: add !√ markup
+------------------------
+69513 done
+(CDSL): √{#cint#}¦, {#vicintamAna#} <ls>R. ed. Bomb. 2. 83,26</ls> [Page7-341-d] fehlerhaft für {#vicintayAna#}.
+(AB):   √{#cint#}¦, {#vicintamAna#} <ls>R. ed. Bomb. 2,83,26</ls> [Page7-341-d] fehlerhaft für {#vicintayAna#}.
+;; AB note: correct typo error
+------------------------
+69790 done
+(CDSL): <hom>3.</hom> {#Cad#} ({#Cand#})¦ mit {#aByud#} 6.
+(AB): <hom>3.</hom> √{#Cad#} (√{#Cand#})¦ mit {#aByud#} 6.
+;; AB note: add √ markup
+------------------------
+70888 done
+(CDSL): {#taMs#}¦ mit {#apa#} 5.
+(AB): √{#taMs#}¦ mit {#apa#} 5.
+;; AB note: add √ markup
+------------------------
+72278 done
+(CDSL): <hom>1.</hom> {#daMS#}¦ mit {#aBi#} {%beissen%} <ls>JĀTAKAM. 32,30</ls>.
+(AB): <hom>1.</hom> √{#daMS#}¦ mit {#aBi#} {%beissen%} <ls>JĀTAKAM. 32,30</ls>.
+;; AB note: add √ markup
+------------------------
+72947 done
+(CDSL): <div n="p">— Mit {#saMpari, °dUyamAna#} {%sich verzehrend, — abhärmend%} <ls>R. ed. Bomb. 4,24,2</ls>.
+(AB): <div n="p">— Mit {#saMpari#}, {#°dUyamAna#} {%sich verzehrend, — abhärmend%} <ls>R. ed. Bomb. 4,24,2</ls>.
+;; AB note: split-prefix
+------------------------
+81283 done
+(CDSL): <hom>1.</hom> {#BraMS#}¦ mit {#apa#} {%stürzen%}. {#apaBraSya#} <ls>DAŚAK. (1883) 165,7</ls>. <ab>Med.</ab> ({#°BraMSanta#}) etwa {%verfehlen, um Etwas kommen%} <ls>MAITR. S. 4,6,4 (83,6)</ls>.
+(AB): <hom>1.</hom> √{#BraMS#}¦ mit {#apa#} {%stürzen%}. {#apaBraSya#} <ls>DAŚAK. (1883) 165,7</ls>. <ab>Med.</ab> ({#°BraMSanta#}) etwa {%verfehlen, um Etwas kommen%} <ls>MAITR. S. 4,6,4 (83,6)</ls>.
+;; AB note: add √ markup
+------------------------
+83385 ? 
+(CDSL): <hom>1.</hom> √{#ran#}¦ mit *{#pra#}, {#praraRita#} {%erschallend%} <ls>MAHĀVY. 151</ls>.
+(AB): <hom>1.</hom> √{#ran#}¦ mit *{#pra, praraRita#} {%erschallend%} <ls>MAHĀVY. 151</ls>.
+;; AB note: add √ markup
+------------------------
+85956 done
+(CDSL): {#SaMs#}¦ mit {#ava#} <ls>KAUŚ. 50,8</ls>.
+(AB): √{#SaMs#}¦ mit {#ava#} <ls>KAUŚ. 50,8</ls>.
+;; AB note: add √ markup
+------------------------
+86560 done
+(CDSL): {#SramB#} ({#sramB#})¦ mit {#pra#} *<ab>Pass.</ab> {%zur Ruhe kommen%} <ls>MAHĀVY. 81</ls>. *{#°sraBya#} <ls n="MAHĀVY.">53</ls>. {#°srabDa#} <ls n="MAHĀVY.">19,85. 81</ls>. <ls>DIVYĀVAD. 48,10</ls>.
+(AB): √{#SramB#} (√{#sramB#})¦ mit {#pra#} *<ab>Pass.</ab> {%zur Ruhe kommen%} <ls>MAHĀVY. 81</ls>. *{#°sraBya#} <ls n="MAHĀVY.">53</ls>. {#°srabDa#} <ls n="MAHĀVY.">19,85. 81</ls>. <ls>DIVYĀVAD. 48,10</ls>.
+;; AB note: add √ markup
+------------------------
+87570,87571 done
+(CDSL): {#sar#}¦, *{#sAreta#} {%fliessend%} (Stimme) <ls>MAHĀVY. 20</ls>.
+(CDSL): <div n="p">— Mit *{#ati, nAtisaret#} ? <ls><ab>ebend.</ab> 245,619</ls>.
+(AB): √{#sar#}¦, *{#sAreta#} {%fliessend%} (Stimme) <ls>MAHĀVY. 20</ls>.
+(AB): <div n="p">— Mit *{#ati#}, {#nAtisaret#} ? <ls><ab>ebend.</ab> 245,619</ls>.
+;; AB note: add √ markup and split-prefix
+------------------------
+87574,87575 done
+(CDSL): <div n="p">— Mit {#pratyava, °sfta#} {%wieder fortgegangen%} <ls>DIVYĀVAD. 235,27</ls>.
+(CDSL): <div n="p">— Mit {#aBipra, °sfta#} VII. {%herbeigeströmt%} <ls>JĀTAKAM. 15</ls>. — <ab>Caus.</ab> {%entgegenstrecken%} <ls><ab>ebend.</ab> 9</ls>.
+(AB): <div n="p">— Mit {#pratyava#}, {#°sfta#} {%wieder fortgegangen%} <ls>DIVYĀVAD. 235,27</ls>.
+(AB): <div n="p">— Mit {#aBipra#}, {#°sfta#} VII. {%herbeigeströmt%} <ls>JĀTAKAM. 15</ls>. — <ab>Caus.</ab> {%entgegenstrecken%} <ls><ab>ebend.</ab> 9</ls>.
+;; AB note: split-prefix
+------------------------
+89396 done
+(CDSL): <div n="p">— Mit {#pra, prAsta#} {%vertrieben%} <ls>KIR. 11,45</ls>.
+(AB): <div n="p">— Mit {#pra#}, {#prAsta#} {%vertrieben%} <ls>KIR. 11,45</ls>.
+;; AB note: split-prefix
+------------------------
+90784 done
+(CDSL): !√{#riktI#}¦ mit {#kar#} V. {%leer machen%} <ls>HARAVIJAYA 2,4</ls>.
+(AB): {#riktI#}¦ mit {#kar#} V. {%leer machen%} <ls>HARAVIJAYA 2,4</ls>.
+;; AB note: remove !√ markup
+------------------------
