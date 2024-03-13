@@ -1,0 +1,42 @@
+; <L>37346<pc>2-191-b<k1>grahaRa<k2>grahaRa
+180447 old <div n="3">— α〉 {%das Ergreifen, Packen, Festhalten%} <ls n="Chr.">34,10 ff.</ls>
+;
+180447 new <div n="3">— α〉 {%das Ergreifen, Packen, Festhalten%} <ls n="Chr.">34,10. fgg.</ls>
+;---------------------------------------------------
+; <L>72935<pc>4-166-b<k1>prayoktar<k2>prayoktar
+358003 old <div n="1">— 7〉 {%Sprecher%} (<ls n="Chr.">240,29 fg.</ls>) {%der Vortragende, Vorträger%}.
+;
+358003 new <div n="1">— 7〉 {%Sprecher%} (<ls n="Chr.">240,29. fg.</ls>) {%der Vortragende, Vorträger%}.
+;---------------------------------------------------
+; <L>135648<pc>7-286-c<k1>hyas<k2>hyas, hia/s
+673262 old {#hyas#}, {#hia/s#}¦ <lex>Adv.</lex> {%gestern%} <ls n="Chr.">240,27 fgg.</ls>
+;
+673262 new {#hyas#}, {#hia/s#}¦ <lex>Adv.</lex> {%gestern%} <ls n="Chr.">240,27. fgg.</ls>
+;---------------------------------------------------
+; <L>5235<pc>1-062-b<k1>antarA<k2>antarA/
+; <ls n="Chr.">136</ls> -> 〔136〕
+; maybe KĀD. ??
+23710 old <div n="2">— f〉 {%dann und wann%}. {#antarAntarA#} <ab>dass.</ab> <ls>KĀD. 65,9</ls>. {%hie und da%} <ls n="Chr.">136</ls>. {#antarA — antarA — antarA#} {%das eine Mal, <ab n="das">d.</ab> andere <ab n="Mal">M.</ab>, <ab n="das">d.</ab> dritte <ab n="Mal">M.</ab>%} <ls n="Chr.">133,1</ls>.
+;
+23710 new <div n="2">— f〉 {%dann und wann%}. {#antarAntarA#} <ab>dass.</ab> <ls>KĀD. 65,9</ls>. {%hie und da%} 〔136〕. {#antarA — antarA — antarA#} {%das eine Mal, <ab n="das">d.</ab> andere <ab n="Mal">M.</ab>, <ab n="das">d.</ab> dritte <ab n="Mal">M.</ab>%} <ls n="Chr.">133,1</ls>.
+;---------------------------------------------------
+; <L>9184<pc>1-107-b<k1>arunDatI<k2>arunDatI/
+41736 old <div n="1">— 3〉 {%der kaum sichtbare Stern Alkor im grossen Bären%} <ls n="Chr.">83,15. fgg. 218,24</ls>. Wer den nicht sieht, soll dem Tode verfallen sein. Später in dieser Verbindung als {%Zunge gefasst%}.
+;
+41736 new <div n="1">— 3〉 {%der kaum sichtbare Stern Alkor im grossen Bären%} <ls n="Chr.">83,15. fgg.</ls> <ls n="Chr.">218,24</ls>. Wer den nicht sieht, soll dem Tode verfallen sein. Später in dieser Verbindung als {%Zunge gefasst%}.
+;---------------------------------------------------
+; <L>24527<pc>2-018-b<k1>kar<k2>1. kar, skar
+115422 old <div n="1">— 10〉 bildet im <ls>AV.</ls> und später mit dem <ab>Acc.</ab> eines oft sonst gar nicht vorkommenden <ab>Nom.</ab> <ab>act.</ab> auf ein periphrastisches Tempus. so <ab>insbes.</ab> <ab>Perf.</ab> {#cakAra#} und {#cakre#}, aber auch <ab>Praes.</ab> {#karoti#} (<ls>ŚĀṄKH. ŚR.</ls>), <ab>Imperf.</ab> {#akar#} (<ls>MAITR. S. 1,6,5. 10. 8,5</ls>. <ls>KĀṬH. 7,7</ls>), {#kakran#} (<ls>MAITR. S. 1,4,7</ls>. <ls>TBR. 1,3,10,3</ls>), <ab>Prec.</ab> {#kriyAt#} (<ls>MAITR. S. 2,1,3</ls>) und *<ab>Imper.</ab> {#karotu#}. Das Genus der Hülfsverbum richtet sich in der älteren Sprache nach dem des Hauptverbum <ls>Chr. 35. fg.</ls>
+;
+115422 new <div n="1">— 10〉 bildet im <ls>AV.</ls> und später mit dem <ab>Acc.</ab> eines oft sonst gar nicht vorkommenden <ab>Nom.</ab> <ab>act.</ab> auf ein periphrastisches Tempus. so <ab>insbes.</ab> <ab>Perf.</ab> {#cakAra#} und {#cakre#}, aber auch <ab>Praes.</ab> {#karoti#} (<ls>ŚĀṄKH. ŚR.</ls>), <ab>Imperf.</ab> {#akar#} (<ls>MAITR. S. 1,6,5. 10. 8,5</ls>. <ls>KĀṬH. 7,7</ls>), {#kakran#} (<ls>MAITR. S. 1,4,7</ls>. <ls>TBR. 1,3,10,3</ls>), <ab>Prec.</ab> {#kriyAt#} (<ls>MAITR. S. 2,1,3</ls>) und *<ab>Imper.</ab> {#karotu#}. Das Genus der Hülfsverbum richtet sich in der älteren Sprache nach dem des Hauptverbum <ls>Chr. 351. fg.</ls>
+;---------------------------------------------------
+; <L>90166<pc>5-126-b<k1>yadi<k2>ya/di, ya/dI
+443777 old <div n="3">— δ〉 <ab>Imperat.</ab> <ls n="Chr.">248. 21</ls>.
+;
+443777 new <div n="3">— δ〉 <ab>Imperat.</ab> <ls n="Chr.">248,21</ls>.
+;---------------------------------------------------
+; <L>122725<pc>7-097-b<k1>sasADvasa<k2>sasADvasa
+608502 old {#sasADvasa#}¦ <lex>Adj.</lex> {%bestürzt, erschrocken%} <ls>ŚIŚ. 7,52</ls>. {#°m#} <lex>Adv.</lex> <ls>Chr. 3041</ls>.
+;
+608502 new {#sasADvasa#}¦ <lex>Adj.</lex> {%bestürzt, erschrocken%} <ls>ŚIŚ. 7,52</ls>. {#°m#} <lex>Adv.</lex> <ls>Chr. 304,1</ls>.
+;---------------------------------------------------
