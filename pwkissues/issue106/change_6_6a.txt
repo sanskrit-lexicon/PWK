@@ -1,0 +1,38 @@
+; ***********************************************************
+; 7 changes.  Resolve differences re review of readme.AB.remarks.txt
+; ***********************************************************
+; <L>15358<pc>1-181-c<k1>Ayurveda<k2>Ayurveda, AyurvedarasAyana, Ayurvedasarvasva, AyurvedasOKya
+70571 old <L>15358<pc>1-181-c<k1>Ayurveda<k2>Ayurveda, AyurvedarasAyana, Ayurvedasarvasva, AyurvedasOKya
+;
+70571 new <L>15358<pc>1-181-c<k1>Ayurveda<k2>Ayurveda
+; 
+70572 old {#Ayurveda#} <lex>m.</lex> {%Heilkunde%}. {#°rasAyana#} <lex>n.</lex>, {#°sarvasva#} <lex>n.</lex> und {#°sOKya#} <lex>n.</lex>¦ Titel von Werken.
+;
+70572 new {#Ayurveda#}¦ <lex>m.</lex> {%Heilkunde%}. {#°rasAyana#} <lex>n.</lex>, {#°sarvasva#} <lex>n.</lex> und {#°sOKya#} <lex>n.</lex> Titel von Werken.
+;---------------------------------------------------
+; <L>42819<pc>2-267-c<k1>jinamantraSAstra<k2>jinamantraSAstra
+208658 old <L>42819<pc>2-267-c<k1>jinamantraSAstra<k2>jinamantraSAstra
+;
+208658 new <L>42819<pc>2-267-c<k1>jinamantraSAstrastotrAdi<k2>jinamantraSAstrastotrAdi
+;---------------------------------------------------
+; <L>86745<pc>5-076-c<k1>mAheSvara<k2>mAheSvara
+; <is>Śivait</is> -> Śivait
+426957 old <div n="1">— 2〉 <lex>m.</lex> {%ein Verehrer des%} <is>Śiva</is>, {%ein%} <is>Śivait</is>. Vier Secten derselben <ls>GOVINDĀN. S. 592</ls>. {#parama°#} <ls>KĀD. 249,11</ls>. <ls>HARṢAC. 71,10</ls>. <ab>Nom. abstr.</ab> {#°tA#} <lex>f.</lex>
+;
+426957 new <div n="1">— 2〉 <lex>m.</lex> {%ein Verehrer des%} <is>Śiva</is>, {%ein%} Śivait. Vier Secten derselben <ls>GOVINDĀN. S. 592</ls>. {#parama°#} <ls>KĀD. 249,11</ls>. <ls>HARṢAC. 71,10</ls>. <ab>Nom. abstr.</ab> {#°tA#} <lex>f.</lex>
+;---------------------------------------------------
+; <L>117644<pc>7-020-a<k1>saMgrahaRIratna<k2>saMgrahaRIratna, saMgrahaprakASikA, saMgraharAmAyaRa, saMgrahavivaraRa
+; saMgrahavivaraRa -> saMgraharAmAyaRavivaraRa
+583561 old <L>117644<pc>7-020-a<k1>saMgrahaRIratna<k2>saMgrahaRIratna, saMgrahaprakASikA, saMgraharAmAyaRa, saMgrahavivaraRa
+;
+583561 new <L>117644<pc>7-020-a<k1>saMgrahaRIratna<k2>saMgrahaRIratna, saMgrahaprakASikA, saMgraharAmAyaRa, saMgraharAmAyaRavivaraRa
+;---------------------------------------------------
+; <L>133798<pc>7-260-c<k1>hariBakti<k2>hariBakti, hariBaktilatikAstava, hariBaktivilAsa, hariBaktisuDodaya
+664103 old <L>133798<pc>7-260-c<k1>hariBakti<k2>hariBakti, hariBaktilatikAstava, hariBaktivilAsa, hariBaktisuDodaya
+;
+664103 new <L>133798<pc>7-260-c<k1>hariBakti<k2>hariBakti
+;
+664104 old {#hariBakti#} <lex>f.</lex> <is>Viṣṇu</is>ʼs {%Verehrung%}. {#°latikAstava#} <lex>m.</lex> (<ls>BÜHLER, Rep. No. 431</ls>), {#°vilAsa#} <lex>m.</lex> und [Page7-261-a] {#°suDodaya#} <lex>m.</lex> (<ls>BURNELL, T.</ls> <ls>OPP. CAT. 1</ls>)¦ Titel.
+;
+664104 new {#hariBakti#}¦ <lex>f.</lex> <is>Viṣṇu</is>ʼs {%Verehrung%}. {#°latikAstava#} <lex>m.</lex> (<ls>BÜHLER, Rep. No. 431</ls>), {#°vilAsa#} <lex>m.</lex> und [Page7-261-a] {#°suDodaya#} <lex>m.</lex> (<ls>BURNELL, T.</ls> <ls>OPP. CAT. 1</ls>) Titel.
+;---------------------------------------------------

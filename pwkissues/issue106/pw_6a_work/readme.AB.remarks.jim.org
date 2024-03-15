@@ -1,0 +1,95 @@
+; NOTES where AB did not put a simple 'Agreed' or 'slp1 hiatus'
+; TODO indicates changes to make to temp_pw_6.txt
+; DONE means no change (currently) made to temp_pw_6.txt
+* TODO <L>15358<pc>1-181-c<k1>Ayurveda
+  Why does AB drop the last 3?
+;; AB note: Because {#Ayurveda#} ended with a fullstop after whick other words that are composite words are present (that go as internal HWs).
+OLD:
+<L>15358<pc>1-181-c<k1>Ayurveda<k2>Ayurveda, AyurvedarasAyana, Ayurvedasarvasva, AyurvedasOKya
+{#Ayurveda#} <lex>m.</lex> {%Heilkunde%}. {#°rasAyana#} <lex>n.</lex>, {#°sarvasva#} <lex>n.</lex> und {#°sOKya#} <lex>n.</lex>¦ Titel von Werken.
+NEW:
+<L>15358<pc>1-181-c<k1>Ayurveda<k2>Ayurveda
+{#Ayurveda#}¦ <lex>m.</lex> {%Heilkunde%}. {#°rasAyana#} <lex>n.</lex>, {#°sarvasva#} <lex>n.</lex> und {#°sOKya#} <lex>n.</lex> Titel von Werken.
+* DONE <L>16299<pc>1-193-a<k1>Azwaka<k2>*Azwaka, *AzwakIya
+;; AB note: disagree; only Azwaka is a hw
+;; JIM:  temp_pw_6 has only Azwaka. No change required
+* DONE <L>23050<pc>1-281-b<k1>OrDvadehikakalpavalli  cf. ACC
+;; AB note: agreed for prefixing just OrDvadehika to the next two entries, looking at the MW entries.
+;; [kaplavalli is also valid and is present in both pwk and MW, so not going with the ACC spelling.]
+; Jim: Note temp_pw_6 remains unchanged at:
+<L>23050<pc>1-281-b<k1>OrDvadehikakalpavalli<k2>OrDvadehikakalpavalli, OrDvadehikanirRaya, OrDvadehikapadDati
+
+{#OrDvadehikakalpavalli#} <lex>f.</lex>, {#°nirRaya#} <lex>m.</lex> und {#°padDati#} <lex>f.</lex>¦ Titel von Werken.
+* TODO <L>42819<pc>2-267-c<k1>jinamantraSAstrastotrAdi<k2>jinamantraSAstrastotrAdi
+Why not k2 = jinamantra, jinaSAstra jinastotra ?
+;; AB note: disagree; see the singular form for the name of the work (which doesn't indicate three words here)!
+;; Jim 
+OLD:
+<L>42819<pc>2-267-c<k1>jinamantraSAstra<k2>jinamantraSAstra
+NEW:
+<L>42819<pc>2-267-c<k1>jinamantraSAstrastotrAdi<k2>jinamantraSAstrastotrAdi
+* DONE <L>61473<pc>3-245-b<k1>nyAyapariSizwa<k2>nyAyapariSizwa, ⁅nyAyapariSizwa⁆°pariSudDi, ⁅nyAyapariSizwa⁆°prakASa, nyAyapariBAzA, nyAyaprakaraRa, nyAyaprakASa, nyAyaprakASikA, nyAyapraveSa, *tArakaSAstra
+ -? ⁅nyAyapariSizwa⁆°pariSudDi  cannot find. mw has nyAyapariSudDi
+    but nyAyapariSudDi would be out of alphabetical order.
+;; AB note: agreed with a note. Probably we could use ⁅nyAya⁆°pariSudDi, till ⁅nyAyapariSizwa⁆°pariSudDi gets traced.
+;; There are couple of places (in almost all the works) where the alphabetical order is disturbed.
+;; And do we revert the few places where the sequence is recently changed to put the items in order?
+ - *tArakaSAstra mw has nyAyapraveSatArakaSAstra
+;; AB note: agreed
+* DONE <L>63546<pc>4-034-c<k1>parAmarSavAda
+  could find neither parAmarSavAdahetuvicAra nor parAmarSahetuvicAra.
+  parAmarSavAdahetuvicAra in correct alphabetical order.
+  MW and acc have parAmarSahetutAvicAra.  PW typo?
+;; AB note: agreed. 
+   Probably we could use ⁅parAmarSa⁆°hetutAvicAra, and mark it as a print error.
+;; JIM: Don't make print change now.
+   If <ls>OPP. CAT. 1</ls>. provides proof, then make a change
+CURRENT  temp_pw_6:
+<L>63546<pc>4-034-c<k1>parAmarSavAda<k2>parAmarSavAda, parAmarSavAdahetuvicAra, parAmarSavAdArTa
+{#parAmarSavAda#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>), {#°hetuvicAra#} <lex>m.</lex> und {#°vAdArTa#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>.)¦ Titel von Werken.
+* DONE 397523 new <L>80876<pc>4-283-b<k1>BedaDikkAra<k2>BedaDikkAra, ⁅BedaDikkAra⁆°vyAKyA, ⁅BedaDikkAravyAKyA⁆°prakASa, ⁅BedaDikkAravyAKyA⁆°satkriyA, kArAnyatkArahuMkfti
+  kArAnyatkArahuMkfti -> BedaDikkArAnyatkArahuMkfti
+  ? ACC has              BedaDikkAranyakkArahuMkfti
+;; AB note: ACC also has cited Oppert cat. 1 which is having DikkkArAnyatkArahuMkfti = DikkkAra + anyatkAra + huMkfti; but could be a print error therein.
+;; But then, it spoils the alphabetical order in pwk; 
+;; so AB suggests go with what pwk and Oppert have.
+;; Jim Agree.
+;; Current temp_pw_6
+<L>80876<pc>4-283-b<k1>BedaDikkAra<k2>BedaDikkAra, BedaDikkAravyAKyA, BedaDikkAravyAKyAprakASa, BedaDikkAravyAKyAsatkriyA, BedaDikkArAnyatkArahuMkfti
+{#BedaDikkAra#} <lex>m.</lex>, {#°vyAKyA#} <lex>f.</lex> (<ls>OPP. CAT.</ls>), {#°prakASa#} <lex>m.</lex>, {#°satkriyA#} <lex>f.</lex> und {#°kArAnyatkArahuMkfti#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>)¦ Titel von Werken.
+* TODO <L>86745<pc>5-076-c<k1>mAheSvara<k2>mAheSvara
+  Jim thinks <is>Śivait</is> is correct, based on wide-spacing in print.
+;; AB note: Śivait is german for eng. Śaivite (definitely not Sanskrit, nor a proper noun to be wide-spaced).
+;; JIM
+<is>Śivait</is> -> Śivait
+* TODO <L>117644<pc>7-020-a<k1>saMgrahaRIratna<k2>saMgrahaRIratna, saMgrahaprakASikA, saMgraharAmAyaRa, ⁅saMgraharAmAyaRa⁆°vivaraRa
+  ⁅saMgraharAmAyaRa⁆°vivaraRa -> saMgrahavivaraRa (cf. MW)
+;; AB note: Burnell's catalogue clearly has both saMgraharAmAyaRavivaraRa & saMgraharAmAyaRavivaraRa (109a), which is cited in pwk.
+;; JIM:
+saMgrahavivaraRa -> saMgraharAmAyaRavivaraRa
+* DONE <L>118222<pc>7-029-c<k1>satyajYAnAnandatIrTa<k2>satyajYAnAnandatIrTa, ⁅satyajYAnAnanda⁆°yati
+  satyajYAnAnandayati -> satyajYAnAnandatIrTayati cf. MW
+;; AB note: In general, tIrTa and yati do not go side-by-side (both being suffixes for a name); but as Edward Hall specifically mentions satyajYAnAnandatIrTayati, AB agrees to go with it.
+* DONE note to AB <L>124169<pc>7-118-a<k1>sAmAnyABAvagranTa<k2>sAmAnyABAvagranTa, ⁅#sAmAnyA⁆°BAvawippanI, ⁅#sAmAnyA⁆°BAvarahasya
+  #sAmAnyA -> sAmAnyA 
+;; AB note: disagree
+;; JIM:  The '#' is to be removed in k2
+* TODO <L>133798<pc>7-260-c<k1>hariBakti<k2>hariBakti
+ hariBakti, hariBaktilatikAstava, hariBaktivilAsa, hariBaktisuDodaya  cf. ACC
+;; AB note: these are all internal HWs, following a sentence fullstop.
+old:
+<L>133798<pc>7-260-c<k1>hariBakti<k2>hariBakti, hariBaktilatikAstava, hariBaktivilAsa, hariBaktisuDodaya
+{#hariBakti#} <lex>f.</lex> <is>Viṣṇu</is>ʼs {%Verehrung%}. {#°latikAstava#} <lex>m.</lex> (<ls>BÜHLER, Rep. No. 431</ls>), {#°vilAsa#} <lex>m.</lex> und [Page7-261-a] {#°suDodaya#} <lex>m.</lex> (<ls>BURNELL, T.</ls> <ls>OPP. CAT. 1</ls>)¦ Titel.
+
+new:
+<L>133798<pc>7-260-c<k1>hariBakti<k2>hariBakti
+{#hariBakti#}¦ <lex>f.</lex> <is>Viṣṇu</is>ʼs {%Verehrung%}. {#°latikAstava#} <lex>m.</lex> (<ls>BÜHLER, Rep. No. 431</ls>), {#°vilAsa#} <lex>m.</lex> und [Page7-261-a] {#°suDodaya#} <lex>m.</lex> (<ls>BURNELL, T.</ls> <ls>OPP. CAT. 1</ls>) Titel.
+* DONE note to AB <L>124385<pc>7-121-b<k1>sAradIya
+ {#nAmamAlA#} -> {#°nAmamAlA#} ?
+ Note: SAradIyanAmamAlA in ACC
+;; AB note: no need for a ° here; it just means sAradIyanAmamAlA, if the content in parenthesis is ignored.
+;; JIM: disagree.  
+Current temp_pw_6
+<L>124385<pc>7-121-b<k1>sAradIya<k2>sAradIya, SAradIya, SAradIyanAmamAlA
+{#sAradIya#} (besser {#SA°#}) <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {#°nAmamAlA#} <lex>f.</lex>¦ Titel eines Werkes <ls>BÜHLER, Rep. No. 780</ls>.
+* THE END
