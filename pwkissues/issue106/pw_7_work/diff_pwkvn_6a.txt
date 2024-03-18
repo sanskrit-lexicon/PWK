@@ -1,0 +1,52 @@
+292 done
+(CDSL): {#akzarya#}¦, {#°ryaM#} {#revat#} Name eines <is>Sāman</is> <ls>ĀRṢ. BR.</ls>
+(AB): {#akzarya#}¦, {#°ryaM revat#} Name eines <is>Sāman</is> <ls>ĀRṢ. BR.</ls>
+------------------------
+4889 done
+(CDSL): <div n="p">— Mit {#vi, vyfdDa#} {%sündlich%} <ls>ĀPAST.</ls>
+(AB): <div n="p">— Mit {#vi#}, {#vyfdDa#} {%sündlich%} <ls>ĀPAST.</ls>
+------------------------
+5854 done
+(CDSL): {#asUy#}¦, statt des blossen <ab>Acc.</ab> auch <ab>Acc.</ab> mit {#prati#} <ls>MBH. 12,109,13</ls>.
+(AB): !√{#asUy#}¦, statt des blossen <ab>Acc.</ab> auch <ab>Acc.</ab> mit {#prati#} <ls>MBH. 12,109,13</ls>.
+------------------------
+9481 done
+(CDSL): {#aBramupriya#}, {#°tama#}¦ <ls>VIKRAMĀṄKAC. 5,16</ls>.
+(AB): {#aBramupriya#}, {#°tama#} <ls>VIKRAMĀṄKAC. 5,16</ls>¦.
+------------------------
+16600 done
+(CDSL): {#irasy#}¦, so zu lesen <ab>st.</ab> {#irasya#}.
+(AB): !√{#irasy#}¦, so zu lesen <ab>st.</ab> {#irasya#}.
+------------------------
+18957 done - also change metaline
+(CDSL): <hom>2.</hom> √{#ta#}¦, {#te#} auch <ab>Acc.</ab>; <ab>s.</ab> <ls>PISCHEL</ls> in <ls>Z. d. d. m. G. 33,714. fg.</ls>
+(AB): <hom>2.</hom> {#ta#}, {#te#}¦ auch <ab>Acc.</ab>; <ab>s.</ab> <ls>PISCHEL</ls> in <ls>Z. d. d. m. G. 33,714. fg.</ls>
+------------------------
+20965 done - also change metaline
+(CDSL): {#aBiDarma#}, {#°jYAnaprasTAna#}, {#°DarmaskanDapAda#}, {#°prakaraRaSAsana#}, {#°prakASasADana#}, {#°mahAviBAzA#}, {#°vijYAnakAyapAda#} <lex>n.</lex>¦ <ls>EITEL, Chin. B.</ls>
+(AB):   {#aBiDarma#}, {#°jYAnaprasTAna#}, {#°DarmaskanDapAda#}, {#°prakaraRaSAsana#}, {#°prakASasADana#}, {#°vijYAnakAyapAda#}, {#°mahAviBAzA#} <lex>n.</lex>¦ <ls>EITEL, Chin. B.</ls>
+------------------------
+26807 done
+(CDSL): {#asOnA/man#}¦ zu streichen, da <ls>ŚAT. BR.</ls> (<ls>Chr. 31,29</ls>) {#asO/ nA/sAya/m#} gemeint ist.
+(AB):   {#asOnA/man#}¦ zu streichen, da <ls>ŚAT. BR.</ls> (<ls>Chr. 31,29</ls>) {#asO/ nA/mAya/m#} gemeint ist.
+------------------------
+34704 done
+(CDSL): √{#irasy#}¦ mit {#aBi#} nach <ls>AUFRECHT</ls> zu streichen, da <ls>ṚV. 10,174,2</ls> zu {#aBi#} aus dem Vorhergehenden {#tizWa#} zu ergänzen ist.
+(AB): !√{#irasy#}¦ mit {#aBi#} nach <ls>AUFRECHT</ls> zu streichen, da <ls>ṚV. 10,174,2</ls> zu {#aBi#} aus dem Vorhergehenden {#tizWa#} zu ergänzen ist.
+------------------------
+34844 done
+(CDSL): !√{#upaSlokay#}¦ <ab>s.</ab> {#Slokay#} mit {#upa#}.
+(AB): !√{#upaSlokay#}¦ <ab>s.</ab> !√{#Slokay#} mit {#upa#}.
+------------------------
+35092 done
+(CDSL): √{#kand#}¦ <ab>s.</ab> {#skand#} mit {#ud#}.
+(AB): √{#kand#}¦ <ab>s.</ab> √{#skand#} mit {#ud#}.
+------------------------
+58461 done
+(CDSL): √{#irasy#}¦ I. 3.
+(AB): !√{#irasy#}¦ I. 3.
+------------------------
+81283
+(CDSL): <hom>1.</hom> {#BraMS#}¦ mit {#apa#} {%stürzen%}. {#apaBraSya#} <ls>DAŚAK. (1883) 165,7</ls>. <ab>Med.</ab> ({#°BraMSanta#}) etwa {%verfehlen, um Etwas kommen%} <ls>MAITR. S. 4,6,4 (83,6)</ls>.
+(AB):   <hom>1.</hom> √{#BraMS#}¦ mit {#apa#} {%stürzen%}. {#apaBraSya#} <ls>DAŚAK. (1883) 165,7</ls>. <ab>Med.</ab> ({#°BraMSanta#}) etwa {%verfehlen, um Etwas kommen%} <ls>MAITR. S. 4,6,4 (83,6)</ls>.
+------------------------

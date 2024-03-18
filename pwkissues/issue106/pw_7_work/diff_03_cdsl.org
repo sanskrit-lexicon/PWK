@@ -1,0 +1,182 @@
+* 76890c76890,76891
+< <div n="1">— 1〉 {%herbeikommen, kommen, hingehen zu%} (<ab>Acc.</ab>, ausnahmsweise <ab>Dat.</ab>) <ls n="Chr.">119,4. 128,11. 271,13</ls>. Mit {#punar#} {%wiederkommen, — hingehen zu%} <ls n="Chr.">25,9. 40,15. 116,26</ls>.
+---
+> <div n="1">— 1〉 {%herbeikommen, kommen, hingehen zu%} (<ab>Acc.</ab>, ausnahmsweise <ab>Dat.</ab>) <ls n="Chr.">119,4</ls>. <ls n="Chr.">128,11</ls>. <ls n="Chr.">271,13</ls>.
+> <div n="p">Mit {#punar#} {%wiederkommen, — hingehen zu%} <ls n="Chr.">25,9</ls>. <ls n="Chr.">40,15</ls>. <ls n="Chr.">116,26</ls>.
+* 86640c86641,86642
+< <div n="1">— 2〉 {%beträufeln, benetzen%}. <ab>Partic.</ab> {#vyu^tta#}. Mit {#sam#} {%benetzen%}. <ab>Partic.</ab> {#samunna#} {%benetzt, nass gemacht%} <ls>Spr. 6863</ls>.
+---
+> <div n="1">— 2〉 {%beträufeln, benetzen%}. <ab>Partic.</ab> {#vyu^tta#}.
+> <div n="p">Mit {#sam#} {%benetzen%}. <ab>Partic.</ab> {#samunna#} {%benetzt, nass gemacht%} <ls>Spr. 6863</ls>.
+* 151451c151453,151454
+< <div n="1">— 1〉 {%hinaufschreiten, aufsteigen%}. Mit {#a/Di#} und vorangehendem <ab>Abl.</ab> {%sich erheben über%} <ls>MAITR. S. 1,6,10</ls>.
+---
+> <div n="1">— 1〉 {%hinaufschreiten, aufsteigen%}.
+> <div n="p">Mit {#a/Di#} und vorangehendem <ab>Abl.</ab> {%sich erheben über%} <ls>MAITR. S. 1,6,10</ls>.
+* 166749c166752,166753
+< <div n="p">— Mit {#samaByA#} {%convenire%} <ls>PRASANNAR. 14,3</ls>. {%herbeikommen%}. Mit {#punar#} {%zurückkehren%}.
+---
+> <div n="p">— Mit {#samaByA#} {%convenire%} <ls>PRASANNAR. 14,3</ls>. {%herbeikommen%}.
+> <div n="p">Mit {#punar#} {%zurückkehren%}.
+* 209367c209371,209372
+< <div n="1">— 2〉 {%aufleben%}. Mit {#punar#} <ab>dass.</ab> {#jIvita#} {%wieder aufgelebt%}.
+---
+> <div n="1">— 2〉 {%aufleben%}.
+> <div n="p">Mit {#punar#} <ab>dass.</ab> {#jIvita#} {%wieder aufgelebt%}.
+* 317521c317526,317527
+< <div n="p">— Mit {#aDi#} {%setzen auf%} (<ab>Loc.</ab>) <ls>BAUDH.</ls> bei <ls>HILLEBR. N. 41, N. 7</ls>. Mit {#anu, °pfkta#} {%verbunden mit%} (im <ab>Comp.</ab> vorangehend).
+---
+> <div n="p">— Mit {#aDi#} {%setzen auf%} (<ab>Loc.</ab>) <ls>BAUDH.</ls> bei <ls>HILLEBR. N. 41, N. 7</ls>.
+> <div n="p">Mit {#anu#}, {#°pfkta#} {%verbunden mit%} (im <ab>Comp.</ab> vorangehend).
+* 367288c367294,367295
+< <div n="p">— Mit {#apa#} {%herabspringen%}. Mit {#aBi#}
+---
+> <div n="p">— Mit {#apa#} {%herabspringen%}.
+> <div n="p">Mit {#aBi#}
+* 367292c367299,367300
+< <div n="p">— Mit {#ud#} {%herausspringen%}. Mit {#upa#} in {#upapru/t#}.
+---
+> <div n="p">— Mit {#ud#} {%herausspringen%}.
+> <div n="p">Mit {#upa#} in {#upapru/t#}.
+* 367303c367311,367312
+< <div n="m">— <ab>Intens.</ab> <ab>Partic.</ab> {#pro/pruTat#} {%heftig schnaubend%}. Mit {#apa#} {%wegschnauben%}.
+---
+> <div n="m">— <ab>Intens.</ab> <ab>Partic.</ab> {#pro/pruTat#} {%heftig schnaubend%}.
+> <div n="p">Mit {#apa#} {%wegschnauben%}.
+* 371930,371931c371939,371941
+< <div n="1">— 2〉 {%verbinden [Page4-208-a] heissen mit%} (<ab>Instr.</ab>) so <ab>v. a.</ab> {%sagen, dass man verbinden müsse%}. Mit {#anusam#}. {#anusaMbadDa#} {%verbunden mit, begleitet von%} (im <ab>Comp.</ab> vorangehend).
+< <div n="p">— Mit {#aBisam#} {%mit Etwas verbinden,%} so <ab>v. a.</ab> {%darunter verstehen%}. <ab>Pass.</ab> {%verbunden werden mit,%} so <ab>v. a.</ab> {%gehören zu%} (<ab>Instr.</ab>). {#pratyekam#} {%zu Jedem gehören, — zu ergänzen sein%} <ls n="Chr.">225,22. 234,29</ls>.
+---
+> <div n="1">— 2〉 {%verbinden [Page4-208-a] heissen mit%} (<ab>Instr.</ab>) so <ab>v. a.</ab> {%sagen, dass man verbinden müsse%}.
+> <div n="p">Mit {#anusam#}. {#anusaMbadDa#} {%verbunden mit, begleitet von%} (im <ab>Comp.</ab> vorangehend).
+> <div n="p">— Mit {#aBisam#} {%mit Etwas verbinden,%} so <ab>v. a.</ab> {%darunter verstehen%}. <ab>Pass.</ab> {%verbunden werden mit,%} so <ab>v. a.</ab> {%gehören zu%} (<ab>Instr.</ab>). {#pratyekam#} {%zu Jedem gehören, — zu ergänzen sein%} <ls n="Chr.">225,22</ls>. <ls n="Chr.">234,29</ls>.
+* 372653c372663,372664
+< <div n="p">— Mit {#vi#} {%sich an oder in einander drücken%}. Mit {#sam#} {%fest zusammenfügen%}.
+---
+> <div n="p">— Mit {#vi#} {%sich an oder in einander drücken%}.
+> <div n="p">Mit {#sam#} {%fest zusammenfügen%}.
+* 384186c384197,384198
+< <div n="1">— 1〉 <ab>Act.</ab> <ab>Med.</ab> {%sagen, aussprechen, berichten, mittheilen, nennen, angeben%} (mit <ab>Acc.</ab> der Sache, und <ab>Gen.</ab> <ab>Dat.</ab> oder <ab>Loc.</ab> der Person), {%Etwas zu Jmd sagen%} (mit doppeltem <ab>Acc.</ab>) {%sprechen zu%} (<ab>Acc.</ab>, seltener <ab>Gen.</ab>), {%erklären für, nennen%} (mit doppeltem <ab>Acc.</ab>), {%sagen —, aussagen —, sprechen von%} (<ab>Acc.</ab> oder) <ab>Acc.</ab> mit {#prati#} oder {#aDikftya#}, {%beantworten%} (eine Frage); {%vorhersagen, verkünden%}. Mit {#punar#} {%antworten%}. Im <ls>HIT.</ls> steht regelmässig {#brUte#} neben {#AbravIta#}
+---
+> <div n="1">— 1〉 <ab>Act.</ab> <ab>Med.</ab> {%sagen, aussprechen, berichten, mittheilen, nennen, angeben%} (mit <ab>Acc.</ab> der Sache, und <ab>Gen.</ab> <ab>Dat.</ab> oder <ab>Loc.</ab> der Person), {%Etwas zu Jmd sagen%} (mit doppeltem <ab>Acc.</ab>) {%sprechen zu%} (<ab>Acc.</ab>, seltener <ab>Gen.</ab>), {%erklären für, nennen%} (mit doppeltem <ab>Acc.</ab>), {%sagen —, aussagen —, sprechen von%} (<ab>Acc.</ab> oder) <ab>Acc.</ab> mit {#prati#} oder {#aDikftya#}, {%beantworten%} (eine Frage); {%vorhersagen, verkünden%}.
+> <div n="p">Mit {#punar#} {%antworten%}. Im <ls>HIT.</ls> steht regelmässig {#brUte#} neben {#AbravIta#}
+* 387007c387019,387020
+< <div n="1">— 2〉 {%beständig erhalten%}. Mit {#ati#} <ab>Med.</ab> {%sich erheben —, hinfahren über%}.
+---
+> <div n="1">— 2〉 {%beständig erhalten%}.
+> <div n="p">Mit {#ati#} <ab>Med.</ab> {%sich erheben —, hinfahren über%}.
+* 387053c387066,387067
+< <div n="p">— Mit {#parA#}, {#pa/rABfta#} {%weggenommen, beseitigt, verborgen%}. Mit {#pari#}
+---
+> <div n="p">— Mit {#parA#}, {#pa/rABfta#} {%weggenommen, beseitigt, verborgen%}.
+> <div n="p">Mit {#pari#}
+* 387652,387653c387666,387669
+< <div n="p">— Mit {#ava#} {%Jmd bedrohen, ausschelten%}. Mit {#ud#}, {#udaBartsaTa#} <ls>AV. 20,134,1</ls>. (<ab>Handschrr.</ab>) und {#udaBartsata#} <ls>ŚĀṄKH. ŚR. 12,23,1</ls>.
+< <div n="p">— Mit {#ni#}, {#°Bartsayant#} <ls>PAÑCAT. 220,2</ls> fehlerhaft für {#nirBa°#}; <ab>vgl.</ab> <ls>ed. Bomb. 4,18,7</ls>. Mit {#nis#}
+---
+> <div n="p">— Mit {#ava#} {%Jmd bedrohen, ausschelten%}.
+> <div n="p">Mit {#ud#}, {#udaBartsaTa#} <ls>AV. 20,134,1</ls>. (<ab>Handschrr.</ab>) und {#udaBartsata#} <ls>ŚĀṄKH. ŚR. 12,23,1</ls>.
+> <div n="p">— Mit {#ni#}, {#°Bartsayant#} <ls>PAÑCAT. 220,2</ls> fehlerhaft für {#nirBa°#}; <ab>vgl.</ab> <ls>ed. Bomb. 4,18,7</ls>.
+> <div n="p">Mit {#nis#}
+* 387655c387671,387672
+< <div n="1">— 2〉 {%verhöhnen, verspotten%}. in <ab>übertr.</ab> <ab>Bed.</ab> so <ab>v. a.</ab> {%übertreffen, verdunkeln%}. Mit {#ava#} {%Jmd bedrohen, ausschelten%}.
+---
+> <div n="1">— 2〉 {%verhöhnen, verspotten%}. in <ab>übertr.</ab> <ab>Bed.</ab> so <ab>v. a.</ab> {%übertreffen, verdunkeln%}.
+> <div n="p">Mit {#ava#} {%Jmd bedrohen, ausschelten%}.
+* 387661c387678,387679
+< <div n="p">— Mit {#aBinis#} {%ausschelten%}. Mit {#vinis#} <ab>dass.</ab>
+---
+> <div n="p">— Mit {#aBinis#} {%ausschelten%}.
+> <div n="p">Mit {#vinis#} <ab>dass.</ab>
+* 388939c388957,388958
+< <div n="p">— Mit {#anupra#} {%bescheinen%}. Mit {#saMpra#} {%erscheinen, sich einstellen%}.
+---
+> <div n="p">— Mit {#anupra#} {%bescheinen%}.
+> <div n="p">Mit {#saMpra#} {%erscheinen, sich einstellen%}.
+* 391237c391256,391257
+< <div n="1">— 2〉 <ab>Pass.</ab> {%einen Wechsel zulassen, facultative sein%}. {#viBAzita#} {%facultative%}. Mit {#saMvi#} {%sich unterhalten%}.
+---
+> <div n="1">— 2〉 <ab>Pass.</ab> {%einen Wechsel zulassen, facultative sein%}. {#viBAzita#} {%facultative%}.
+> <div n="p">Mit {#saMvi#} {%sich unterhalten%}.
+* 391990c392010,392011
+< <div n="p">— Mit {#upapra#} {%zerbröckeln, in Brocken hinstreuen%}. Mit {#saMpra#}, {#°Binna#} von einem Elephanten, {%dessen Stirn sich geöffnet hat und fliesst%} (in der Brunstzeit).
+---
+> <div n="p">— Mit {#upapra#} {%zerbröckeln, in Brocken hinstreuen%}.
+> <div n="p">Mit {#saMpra#}, {#°Binna#} von einem Elephanten, {%dessen Stirn sich geöffnet hat und fliesst%} (in der Brunstzeit).
+* 396696c396717,396718
+< <div n="p">— Mit {#anupra#} {%sich darbieten%}. Mit {#upapra#} {%befolgen%}.
+---
+> <div n="p">— Mit {#anupra#} {%sich darbieten%}.
+> <div n="p">Mit {#upapra#} {%befolgen%}.
+* 396702c396724,396725
+< <div n="m">— <ab>Caus.</ab> {%schmücken%}. {#viBUzita#} {%geschmückt, geziert%}. Mit {#sam#} {%Jmd%} (<ab>Loc.</ab>) {%Etwas%} (<ab>Acc.</ab>) {%verschaffen%}.
+---
+> <div n="m">— <ab>Caus.</ab> {%schmücken%}. {#viBUzita#} {%geschmückt, geziert%}.
+> <div n="p">Mit {#sam#} {%Jmd%} (<ab>Loc.</ab>) {%Etwas%} (<ab>Acc.</ab>) {%verschaffen%}.
+* 399416c399439,399440
+< <div n="m">— <ab>Caus.</ab> {#BrAjayati#} {%strahlen —, glänzen machen%}. Mit {#pari#} {%rundherum Glanz verbreiten%}.
+---
+> <div n="m">— <ab>Caus.</ab> {#BrAjayati#} {%strahlen —, glänzen machen%}.
+> <div n="p">Mit {#pari#} {%rundherum Glanz verbreiten%}.
+* 410877c410901,410902
+< <div n="p">— Mit {#upa#}, <ab>Pass.</ab> {#°mUryute#} {%aufgerieben werden%}. Mit {#pAri#} in {#pariburRa#} ({#°rRI#})
+---
+> <div n="p">— Mit {#upa#}, <ab>Pass.</ab> {#°mUryute#} {%aufgerieben werden%}.
+> <div n="p">Mit {#pAri#} in {#pariburRa#} ({#°rRI#})
+* 411732c411757,411758
+< <div n="p">— Mit {#vipra#} {%reinwischen%}. Mit {#saMpra#}
+---
+> <div n="p">— Mit {#vipra#} {%reinwischen%}.
+> <div n="p">Mit {#saMpra#}
+* 427797c427823,427824
+< <div n="1">— 1〉 {%verkehrt, falsch, unrichtig%}. Häufig in Verbindung mit {#kara#}; mit dem *Gaus. von {#kara#} <ab>Act.</ab> {%einmal falsch aussprechen,%} <ab>Med.</ab> {%zu wiederholten Malen falsch aussprechen%}. Mit {#pra-vart#} {%sich ungebührlich gegen Jmd%} (<ab>Loc.</ab>). {%benehmen%}.
+---
+> <div n="1">— 1〉 {%verkehrt, falsch, unrichtig%}. Häufig in Verbindung mit {#kara#}; mit dem *Gaus. von {#kara#} <ab>Act.</ab> {%einmal falsch aussprechen,%} <ab>Med.</ab> {%zu wiederholten Malen falsch aussprechen%}.
+> <div n="p">Mit {#pra-vart#} {%sich ungebührlich gegen Jmd%} (<ab>Loc.</ab>). {%benehmen%}.
+* 440127c440154,440155
+< <div n="p">— Mit {#atyupa#} {%weiter dazu opfern%}. Mit {#pari#}
+---
+> <div n="p">— Mit {#atyupa#} {%weiter dazu opfern%}.
+> <div n="p">Mit {#pari#}
+* 446208c446236,446237
+< <div n="1">— 1〉 {%herbei-, herankommen, — aus%} (<ab>Abl.</ab>), {%kommen nach, in%} oder {%zu%} (<ab>Acc.</ab>, ausnahmsweise <ab>Loc.</ab>); auch mit {#acCa#}, {#saMmuKam#} {%entgegenkommen;%} {#aBimuKAyAta#} {%entgegengekommen%} <ls n="Chr.">133,9</ls>. {#astam#} {%untergehen und sterben;%} {#karRapaTam#} {%zu Ohren kommen%}. Mit {#punar#} {%wiederkommen%} und {%wiedergeboren werden%}. {#AyAta#} mit <ab>act.</ab> <ab>Bed.</ab>; auch <lex>n.</lex> <ab>impers.</ab> mit <ab>Instr.</ab> des Subjects.
+---
+> <div n="1">— 1〉 {%herbei-, herankommen, — aus%} (<ab>Abl.</ab>), {%kommen nach, in%} oder {%zu%} (<ab>Acc.</ab>, ausnahmsweise <ab>Loc.</ab>); auch mit {#acCa#}, {#saMmuKam#} {%entgegenkommen;%} {#aBimuKAyAta#} {%entgegengekommen%} <ls n="Chr.">133,9</ls>. {#astam#} {%untergehen und sterben;%} {#karRapaTam#} {%zu Ohren kommen%}.
+> <div n="p">Mit {#punar#} {%wiederkommen%} und {%wiedergeboren werden%}. {#AyAta#} mit <ab>act.</ab> <ab>Bed.</ab>; auch <lex>n.</lex> <ab>impers.</ab> mit <ab>Instr.</ab> des Subjects.
+* 446414c446443,446444
+< <div n="1">— 1〉 {%flehen, heischen, betteln, bittend angehen, anflehen;%} mit <ab>Acc.</ab> der Person und der Sache; die Person häufig auch im <ab>Abl.</ab>, seltener im <ab>Gen.</ab>; die Sache auch in <ab>Comp.</ab> mit {#arTe#} oder {#arTam#} im <ab>Acc.</ab> mit {#prati#} und im <ab>Dat.</ab> (bei einem <ab>Nom.</ab> <ab>act.</ab>). <ab>Pass.</ab> {%gebeten werden, — um%} (<ab>Acc.</ab>), ausnahmsweise {%erbeten werden%}. Mit {#pu/nar#} {%zurückfordern, wiederhaben wollen%}. {#yAcita#}
+---
+> <div n="1">— 1〉 {%flehen, heischen, betteln, bittend angehen, anflehen;%} mit <ab>Acc.</ab> der Person und der Sache; die Person häufig auch im <ab>Abl.</ab>, seltener im <ab>Gen.</ab>; die Sache auch in <ab>Comp.</ab> mit {#arTe#} oder {#arTam#} im <ab>Acc.</ab> mit {#prati#} und im <ab>Dat.</ab> (bei einem <ab>Nom.</ab> <ab>act.</ab>). <ab>Pass.</ab> {%gebeten werden, — um%} (<ab>Acc.</ab>), ausnahmsweise {%erbeten werden%}.
+> <div n="p">Mit {#pu/nar#} {%zurückfordern, wiederhaben wollen%}. {#yAcita#}
+* 449454,449455c449484,449486
+< <div n="p">— Mit {#A#}, {#AyupitA#} {#yoniH#} <ls>ĀPAST. ŚR. 1,4,11</ls>. Druckfehler für {#ayupitA#} {#yoniH#}; <ab>vgl.</ab> <ls>MAITR. S. 1,1,2</ls>.
+< <div n="m">— <ab>Caus.</ab> {%turbare%}. Mit {#sam#} <ab>Caus.</ab> {%verwischen, glatter%}.
+---
+> <div n="p">— Mit {#A#}, {#AyupitA yoniH#} <ls>ĀPAST. ŚR. 1,4,11</ls>. Druckfehler für {#ayupitA yoniH#}; <ab>vgl.</ab> <ls>MAITR. S. 1,1,2</ls>.
+> <div n="m">— <ab>Caus.</ab> {%turbare%}.
+> <div n="p">Mit {#sam#} <ab>Caus.</ab> {%verwischen, glatter%}.
+* 464590c464621,464622
+< <div n="p">— Mit {#anu#} ({#°rizyati#}) {%nach Jmd%} (<ab>Acc.</ab>) {%versehrt [Page5-191-a] werden, — Schaden nehmen%}. Mit {#aBi#} {%misslingen%}.
+---
+> <div n="p">— Mit {#anu#} ({#°rizyati#}) {%nach Jmd%} (<ab>Acc.</ab>) {%versehrt [Page5-191-a] werden, — Schaden nehmen%}.
+> <div n="p">Mit {#aBi#} {%misslingen%}.
+* 476278c476310,476311
+< <div n="1">— 3〉 {%enthülsen%}. Mit {#ava#} in {#avaluRWana#}.
+---
+> <div n="1">— 3〉 {%enthülsen%}.
+> <div n="p">Mit {#ava#} in {#avaluRWana#}.
+* 645138c645171,645172
+< <div n="1">— 2〉 {%sich stützen auf%} (<ab>Acc.</ab>) <ls>MAITR. S. 4,5,9 (77,3)</ls>. Mit {#vi#}
+---
+> <div n="1">— 2〉 {%sich stützen auf%} (<ab>Acc.</ab>) <ls>MAITR. S. 4,5,9 (77,3)</ls>.
+> <div n="p">Mit {#vi#}
+* 651077c651111,651112
+< <div n="m">— <ab>Caus.</ab> {%zugethan machen, für sich gewinnen%}. Mit {#pra, °snigDa#}
+---
+> <div n="m">— <ab>Caus.</ab> {%zugethan machen, für sich gewinnen%}.
+> <div n="p">Mit {#pra#}, {#°snigDa#}
+* 662589c662624,662625
+< <div n="1">— 2〉 {%erlangen wollen%}. Mit {#punar#} {%wieder <ab n="erlangen wollen">e. w.</ab>%}
+---
+> <div n="1">— 2〉 {%erlangen wollen%}.
+> <div n="p">Mit {#punar#} {%wieder <ab n="erlangen wollen">e. w.</ab>%}

@@ -1,0 +1,592 @@
+; ******************************************************************
+; Changes from 6a to 7
+; 01: 15  Based on diff_pwkvn_6a.txt
+; 02: < 61 Based on diff_pwk.v6a.metalines.txt
+; ******************************************************************
+; ******************************************************************
+; 01: 15  Based on diff_pwkvn_6a.txt
+; ******************************************************************
+; <L>200074<pc>1-282-c<k1>akzarya<k2>akzarya
+674311 old {#akzarya#}¦, {#°ryaM#} {#revat#} Name eines <is>Sāman</is> <ls>ĀRṢ. BR.</ls><info n="sup_1"/>
+;
+674311 new {#akzarya#}¦, {#°ryaM revat#} Name eines <is>Sāman</is> <ls>ĀRṢ. BR.</ls><info n="sup_1"/>
+;---------------------------------------------------
+; <L>201221<pc>1-294-a<k1>arD<k2>arD
+678908 old <div n="p">— Mit {#vi, vyfdDa#} {%sündlich%} <ls>ĀPAST.</ls><info n="sup_1"/>
+;
+678908 new <div n="p">— Mit {#vi#}, {#vyfdDa#} {%sündlich%} <ls>ĀPAST.</ls><info n="sup_1"/>
+;---------------------------------------------------
+; <L>201462<pc>1-296-b<k1>asUy<k2>asUy
+679873 old {#asUy#}¦, statt des blossen <ab>Acc.</ab> auch <ab>Acc.</ab> mit {#prati#} <ls>MBH. 12,109,13</ls>.
+;
+679873 new !√{#asUy#}¦, statt des blossen <ab>Acc.</ab> auch <ab>Acc.</ab> mit {#prati#} <ls>MBH. 12,109,13</ls>.
+;---------------------------------------------------
+; <L>202368<pc>2-291-a<k1>aBramupriya<k2>aBramupriya, aBramupriyatama
+683500 old {#aBramupriya#}, {#°tama#}¦ <ls>VIKRAMĀṄKAC. 5,16</ls>.<info n="sup_2"/>
+;
+683500 new {#aBramupriya#}, {#°tama#} <ls>VIKRAMĀṄKAC. 5,16</ls>¦.<info n="sup_2"/>
+;---------------------------------------------------
+; <L>204147<pc>3-256-b<k1>irasy<k2>irasy
+690619 old {#irasy#}¦, so zu lesen <ab>st.</ab> {#irasya#}.<info n="sup_3"/>
+;
+690619 new !√{#irasy#}¦, so zu lesen <ab>st.</ab> {#irasya#}.<info n="sup_3"/>
+;---------------------------------------------------
+; <L>204735<pc>3-262-c<k1>ta<k2>2. ta
+692975 old <L>204735<pc>3-262-c<k1>ta<k2>2. ta
+;
+692975 new <L>204735<pc>3-262-c<k1>ta<k2>2. ta, te
+;---------------------------------------------------
+; <L>204735<pc>3-262-c<k1>ta<k2>2. ta
+692976 old <hom>2.</hom> √{#ta#}¦, {#te#} auch <ab>Acc.</ab>; <ab>s.</ab> <ls>PISCHEL</ls> in <ls>Z. d. d. m. G. 33,714. fg.</ls><info n="sup_3"/>
+;
+692976 new <hom>2.</hom> {#ta#}, {#te#}¦ auch <ab>Acc.</ab>; <ab>s.</ab> <ls>PISCHEL</ls> in <ls>Z. d. d. m. G. 33,714. fg.</ls><info n="sup_3"/>
+;---------------------------------------------------
+; <L>205237<pc>4-294-a<k1>aBiDarma<k2>aBiDarma, aBiDarmajYAnaprasTAna, aBiDarmaDarmaskanDapAda, aBiDarmaprakaraRaSAsana, aBiDarmaprakASasADana, aBiDarmamahAviBAzA, aBiDarmavijYAnakAyapAda
+694983 old <L>205237<pc>4-294-a<k1>aBiDarma<k2>aBiDarma, aBiDarmajYAnaprasTAna, aBiDarmaDarmaskanDapAda, aBiDarmaprakaraRaSAsana, aBiDarmaprakASasADana, aBiDarmamahAviBAzA, aBiDarmavijYAnakAyapAda
+;
+694983 new <L>205237<pc>4-294-a<k1>aBiDarma<k2>aBiDarma, aBiDarmajYAnaprasTAna, aBiDarmaDarmaskanDapAda, aBiDarmaprakaraRaSAsana, aBiDarmaprakASasADana, aBiDarmavijYAnakAyapAda, aBiDarmamahAviBAzA
+;---------------------------------------------------
+; <L>205237<pc>4-294-a<k1>aBiDarma<k2>aBiDarma, aBiDarmajYAnaprasTAna, aBiDarmaDarmaskanDapAda, aBiDarmaprakaraRaSAsana, aBiDarmaprakASasADana, aBiDarmamahAviBAzA, aBiDarmavijYAnakAyapAda
+694984 old {#aBiDarma#}, {#°jYAnaprasTAna#}, {#°DarmaskanDapAda#}, {#°prakaraRaSAsana#}, {#°prakASasADana#}, {#°mahAviBAzA#}, {#°vijYAnakAyapAda#} <lex>n.</lex>¦ <ls>EITEL, Chin. B.</ls><info n="sup_4"/>
+;
+694984 new {#aBiDarma#}, {#°jYAnaprasTAna#}, {#°DarmaskanDapAda#}, {#°prakaraRaSAsana#}, {#°prakASasADana#}, {#°vijYAnakAyapAda#}, {#°mahAviBAzA#} <lex>n.</lex>¦ <ls>EITEL, Chin. B.</ls><info n="sup_4"/>
+;---------------------------------------------------
+; <L>206695<pc>5-248-b<k1>asOnAman<k2>asOnA/man
+700826 old {#asOnA/man#}¦ zu streichen, da <ls>ŚAT. BR.</ls> (<ls>Chr. 31,29</ls>) {#asO/ nA/sAya/m#} gemeint ist.<info n="sup_5"/>
+;
+700826 new {#asOnA/man#}¦ zu streichen, da <ls>ŚAT. BR.</ls> (<ls>Chr. 31,29</ls>) {#asO/ nA/mAya/m#} gemeint ist.<info n="sup_5"/>
+;---------------------------------------------------
+; <L>208663<pc>6-298-c<k1>irasy<k2>irasy
+708723 old √{#irasy#}¦ mit {#aBi#} nach <ls>AUFRECHT</ls> zu streichen, da <ls>ṚV. 10,174,2</ls> zu {#aBi#} aus dem Vorhergehenden {#tizWa#} zu ergänzen ist.<info n="sup_6"/>
+;
+708723 new !√{#irasy#}¦ mit {#aBi#} nach <ls>AUFRECHT</ls> zu streichen, da <ls>ṚV. 10,174,2</ls> zu {#aBi#} aus dem Vorhergehenden {#tizWa#} zu ergänzen ist.<info n="sup_6"/>
+;---------------------------------------------------
+; <L>208698<pc>6-299-a<k1>upaSlokay<k2>upaSlokay
+708863 old !√{#upaSlokay#}¦ <ab>s.</ab> {#Slokay#} mit {#upa#}.<info n="sup_6"/>
+;
+708863 new !√{#upaSlokay#}¦ <ab>s.</ab> !√{#Slokay#} mit {#upa#}.<info n="sup_6"/>
+;---------------------------------------------------
+; <L>208760<pc>6-299-c<k1>kand<k2>kand
+709111 old √{#kand#}¦ <ab>s.</ab> {#skand#} mit {#ud#}.<info n="sup_6"/>
+;
+709111 new √{#kand#}¦ <ab>s.</ab> √{#skand#} mit {#ud#}.<info n="sup_6"/>
+;---------------------------------------------------
+; <L>214592<pc>7-321-c<k1>irasy<k2>irasy
+732480 old √{#irasy#}¦ I. 3.
+;
+732480 new !√{#irasy#}¦ I. 3.
+;---------------------------------------------------
+; <L>220242<pc>7-366-a<k1>BraMS<k2>1. BraMS
+755302 old <hom>1.</hom> {#BraMS#}¦ mit {#apa#} {%stürzen%}. {#apaBraSya#} <ls>DAŚAK. (1883) 165,7</ls>. <ab>Med.</ab> ({#°BraMSanta#}) etwa {%verfehlen, um Etwas kommen%} <ls>MAITR. S. 4,6,4 (83,6)</ls>.<info n="sup_7"/>
+;
+755302 new <hom>1.</hom> √{#BraMS#}¦ mit {#apa#} {%stürzen%}. {#apaBraSya#} <ls>DAŚAK. (1883) 165,7</ls>. <ab>Med.</ab> ({#°BraMSanta#}) etwa {%verfehlen, um Etwas kommen%} <ls>MAITR. S. 4,6,4 (83,6)</ls>.<info n="sup_7"/>
+;---------------------------------------------------
+; ******************************************************************
+; 02: < 61 Based on diff_pwk.v6a.metalines.txt
+; <L>2336<pc>1-027-b<k1>atra<k2>2. atra/, attra cat=metabb
+10606 old <L>2336<pc>1-027-b<k1>atra<k2>2. atra/, attra
+10606 new <L>2336<pc>1-027-b<k1>atra<k2>2. atra/
+; ---- 
+10607 old <hom>2.</hom> {#atra/#} ({#attra#} <ab>etym.</ab>)¦ <lex>m.</lex> {%Fresser%}.
+;
+10607 new <hom>2.</hom> {#atra/#}¦ ({#attra#} <ab>etym.</ab>) <lex>m.</lex> {%Fresser%}.
+; ----------------------------------------------
+; <L>2337<pc>1-027-b<k1>atra<k2>3. a/tra, attra cat=metabb
+10610 old <L>2337<pc>1-027-b<k1>atra<k2>3. a/tra, attra
+10610 new <L>2337<pc>1-027-b<k1>atra<k2>3. a/tra
+; ---- 
+10611 old <hom>3.</hom> {#a/tra#} ({#attra#} <ab>etym.</ab>)¦ <lex>n.</lex> {%Nahrungsstoff%}.
+;
+10611 new <hom>3.</hom> {#a/tra#}¦ ({#attra#} <ab>etym.</ab>) <lex>n.</lex> {%Nahrungsstoff%}.
+; ----------------------------------------------
+; <L>5223<pc>1-062-a<k1>antarantasTa<k2>antarantasTa, antaranta[H]sTa cat=meta
+23652 old <L>5223<pc>1-062-a<k1>antarantasTa<k2>antarantasTa, antaranta[H]sTa
+23652 new <L>5223<pc>1-062-a<k1>antarantasTa<k2>antarantasTa, antarantaHsTa
+; ---- change to bbline no
+;23653 old {#antaranta[H]sTa#}¦ <lex>Adj.</lex> {%in der Mitte einen Halbvocal enthaltend%} <ls>Ind. St. 13,457</ls>.
+;
+;23653 new {#antaranta[H]sTa#}¦ <lex>Adj.</lex> {%in der Mitte einen Halbvocal enthaltend%} <ls>Ind. St. 13,457</ls>.
+; ----------------------------------------------
+; <L>5433<pc>1-064-b<k1>antasTAcCandas<k2>antasTAcCandas, anta[H]sTAcCandas cat=meta
+24568 old <L>5433<pc>1-064-b<k1>antasTAcCandas<k2>antasTAcCandas, anta[H]sTAcCandas
+24568 new <L>5433<pc>1-064-b<k1>antasTAcCandas<k2>antasTAcCandas, antaHsTAcCandas
+; ---- change to bbline no
+;24569 old {#anta[H]sTAcCandas#}¦ <lex>n.</lex> {%eine <ab>best.</ab> Klasse von Metren%}.
+;
+;24569 new {#anta[H]sTAcCandas#}¦ <lex>n.</lex> {%eine <ab>best.</ab> Klasse von Metren%}.
+; ----------------------------------------------
+; <L>5434<pc>1-064-b<k1>antasTIBAva<k2>antasTIBAva, anta[H]sTIBAva cat=meta
+24572 old <L>5434<pc>1-064-b<k1>antasTIBAva<k2>antasTIBAva, anta[H]sTIBAva
+24572 new <L>5434<pc>1-064-b<k1>antasTIBAva<k2>antasTIBAva, antaHsTIBAva
+; ---- change to bbline no
+;24573 old {#anta[H]sTIBAva#}¦ <lex>m.</lex> {%Uebergang in einen Halbvocal%}.
+;
+;24573 new {#anta[H]sTIBAva#}¦ <lex>m.</lex> {%Uebergang in einen Halbvocal%}.
+; ----------------------------------------------
+; <L>5481<pc>1-064-c<k1>antyezwi<k2>antyezwi, antyezwipadDati, antyezwiprayoga, antyezwiviDi cat=metabb
+24795 old <L>5481<pc>1-064-c<k1>antyezwi<k2>antyezwi, antyezwipadDati, antyezwiprayoga, antyezwiviDi
+24795 new <L>5481<pc>1-064-c<k1>antyezwi<k2>antyezwi
+; ---- 
+24796 old {#antyezwi#} <lex>f.</lex> {%Todtenopfer%}. {#°padDati#} <lex>f.</lex>, {#°prayoga#} <lex>m.</lex> und {#°viDi#} <lex>m.</lex>¦ Titel von Werken.
+;
+24796 new {#antyezwi#}¦ <lex>f.</lex> {%Todtenopfer%}. {#°padDati#} <lex>f.</lex>, {#°prayoga#} <lex>m.</lex> und {#°viDi#} <lex>m.</lex> Titel von Werken.
+; ----------------------------------------------
+; <L>5734<pc>1-068-a<k1>anvartitar<k2>anvartita/r cat=metabb
+25928 old <L>5734<pc>1-068-a<k1>anvartitar<k2>anvartita/r
+25928 new <L>5734<pc>1-068-a<k1>anvartitar<k2>anvartita/r, anuva°rtita/r⁆
+; ---- 
+25929 old {#anvartita/r#}¦ (metrisch für {#anuva°#}) <ab>Nom. ag.</ab> {%Bewerber%}.
+;
+25929 new {#anvartita/r#} (metrisch für {#anuva°#})¦ <ab>Nom. ag.</ab> {%Bewerber%}.
+; ----------------------------------------------
+; <L>7684<pc>1-090-a<k1>aBizwipA<k2>aBizwipA/, aBizwipA/(si) cat=meta
+34715 old <L>7684<pc>1-090-a<k1>aBizwipA<k2>aBizwipA/, aBizwipA/(si)
+34715 new <L>7684<pc>1-090-a<k1>aBizwipAsi<k2>aBizwipA/si
+; ---- change to bbline no
+;34716 old {#aBizwipA/(si)#}¦ <ls>ṚV. 2,20,2</ls> nach <ls>GRASSMANN.</ls> für {#aBi/zwI pAsi#}.
+;
+;34716 new {#aBizwipA/(si)#}¦ <ls>ṚV. 2,20,2</ls> nach <ls>GRASSMANN.</ls> für {#aBi/zwI pAsi#}.
+; ----------------------------------------------
+; <L>18160<pc>1-222-a<k1>uttaratOpacAra<k2>uttarata/upacAra cat=meta
+84774 old <L>18160<pc>1-222-a<k1>uttaratOpacAra<k2>uttarata/upacAra
+84774 new <L>18160<pc>1-222-a<k1>uttarataupacAra<k2>uttarata/upacAra
+; ---- change to bbline no
+;84775 old {#uttarata/upacAra#}¦ <lex>Adj.</lex> {%woran man von links herantritt%}.
+;
+;84775 new {#uttarata/upacAra#}¦ <lex>Adj.</lex> {%woran man von links herantritt%}.
+; ----------------------------------------------
+; <L>22061<pc>1-270-a<k1>ekAdaSakapAla<k2>e/kAdaSakapAlaM cat=meta
+103553 old <L>22061<pc>1-270-a<k1>ekAdaSakapAla<k2>e/kAdaSakapAlaM
+103553 new <L>22061<pc>1-270-a<k1>ekAdaSakapAla<k2>e/kAdaSakapAla
+; ---- change to bbline yes
+103554 old {#e/kAdaSakapAlaM#}¦ <lex>Adj.</lex> {%auf eilf Schüsseln vertheilt%}.
+;
+103554 new {#e/kAdaSakapAla#}¦ <lex>Adj.</lex> {%auf eilf Schüsseln vertheilt%}.
+; ----------------------------------------------
+; <L>27428<pc>2-060-a<k1>kAlIvidyA<k2>kAlIvidyA_svacCandasaMgrahaH cat=meta
+130441 old <L>27428<pc>2-060-a<k1>kAlIvidyA<k2>kAlIvidyA_svacCandasaMgrahaH
+130441 new <L>27428<pc>2-060-a<k1>kAlIvidyAsvacCandasaMgrahaH<k2>kAlIvidyA_svacCandasaMgrahaH
+; ---- change to bbline no
+;130442 old {#kAlIvidyA svacCandasaMgrahaH#}¦ <ab>desgl.</ab>
+;
+;130442 new {#kAlIvidyA svacCandasaMgrahaH#}¦ <ab>desgl.</ab>
+; ----------------------------------------------
+; <L>31692<pc>2-111-a<k1>kranda<k2>kra/ndaM cat=meta
+151273 old <L>31692<pc>2-111-a<k1>kranda<k2>kra/ndaM
+151273 new <L>31692<pc>2-111-a<k1>krandaM<k2>kra/nda
+; ---- change to bbline ?
+151274 old {#kra/ndaM#}¦ <lex>m.</lex>
+;
+151274 new {#kra/nda#}¦ <lex>m.</lex>
+; ----------------------------------------------
+; <L>36928<pc>2-184-b<k1>govindanATa<k2>govindanATa, govindanAyaka, govindanyAyAlaMkAraBawwAcArya cat=meta
+;178152 old <L>36928<pc>2-184-b<k1>govindanATa<k2>govindanATa, govindanAyaka, govindanyAyAlaMkAraBawwAcArya
+;178152 new <L>36928<pc>2-184-b<k1>govindanATa<k2>govindanATa, govindanAyaka, govindanyAyAlaM_kAraBawwAcArya
+; ---- change to bbline ?
+;178153 old {#govindanATa#}, {#°vindanAyaka#} und {#°vindanyAyAlaMkAraBawwAcArya#}¦ <lex>m.</lex> <ab>N. pr.</ab> verschiedener Männer.
+;
+;178153 new {#govindanATa#}, {#°vindanAyaka#} und {#°vindanyAyAlaMkAraBawwAcArya#}¦ <lex>m.</lex> <ab>N. pr.</ab> verschiedener Männer.
+; ----------------------------------------------
+; <L>37116<pc>2-186-b<k1>gOtaminandana<k2>gOtaminandana cat=metabb
+179006 old <L>37116<pc>2-186-b<k1>gOtaminandana<k2>gOtaminandana
+179006 new <L>37116<pc>2-186-b<k1>gOtaminandana<k2>gOtaminandana, gOtamI°nandana⁆
+; ---- 
+179007 old {#gOtaminandana#}¦ (metrisch <ab>st.</ab> {#gOtamI°#}) <lex>m.</lex> <ab>Metron.</ab> <is>Aśvatthāman</is>ʼs <ls>MBH. 7,156,118</ls>.
+;
+179007 new {#gOtaminandana#} (metrisch <ab>st.</ab> {#gOtamI°#})¦ <lex>m.</lex> <ab>Metron.</ab> <is>Aśvatthāman</is>ʼs <ls>MBH. 7,156,118</ls>.
+; ----------------------------------------------
+; <L>56092<pc>3-171-b<k1>DvANkzatuRqaPala<k2>*DvANkzatuRqaPala, *DvANkzatuRqA, DvANkzatuRqI cat=meta
+275137 old <L>56092<pc>3-171-b<k1>DvANkzatuRqaPala<k2>*DvANkzatuRqaPala, *DvANkzatuRqA, DvANkzatuRqI
+275137 new <L>56092<pc>3-171-b<k1>DvANkzatuRqaPala<k2>*DvANkzatuRqaPala, *DvANkzatuRqA, *DvANkzatuRqI
+; ---- change to bbline no
+;275138 old *{#DvANkzatuRqaPala#} <lex>m.</lex>, *{#°tuRqA#} <lex>f.</lex> und *{#tuRqI#} <lex>f.</lex>¦ {%<bot>Ardisia solanacea</bot>%} <ls>RĀJAN. 3,95</ls>.
+;
+;275138 new *{#DvANkzatuRqaPala#} <lex>m.</lex>, *{#°tuRqA#} <lex>f.</lex> und *{#tuRqI#} <lex>f.</lex>¦ {%<bot>Ardisia solanacea</bot>%} <ls>RĀJAN. 3,95</ls>.
+; ----------------------------------------------
+; <L>58889<pc>3-209-b<k1>niranvaya<k2>liranvaya cat=metabb
+288813 old <L>58889<pc>3-209-b<k1>niranvaya<k2>liranvaya
+288813 new <L>58889<pc>3-209-b<k1>niranvaya<k2>niranvaya
+; ---- 
+288814 old {#liranvaya#}¦
+;
+288814 new {#niranvaya#}¦
+; ----------------------------------------------
+; <L>61473<pc>3-245-b<k1>nyAyapariSizwa<k2>nyAyapariSizwa, nyAyapariSudDi, nyAyapariSudDiprakASa, nyAyapariBAzA, nyAyaprakaraRa, nyAyaprakASa, nyAyaprakASikA, nyAyapraveSa, *nyAyapraveSatArakaSAstra cat=metabb
+; nyAyapariSudDiprakASa confirmed mw.
+301467 old <L>61473<pc>3-245-b<k1>nyAyapariSizwa<k2>nyAyapariSizwa, nyAyapariSudDi, nyAyapariSudDiprakASa, nyAyapariBAzA, nyAyaprakaraRa, nyAyaprakASa, nyAyaprakASikA, nyAyapraveSa, *nyAyapraveSatArakaSAstra
+301467 new <L>61473<pc>3-245-b<k1>nyAyapariSizwa<k2>nyAyapariSizwa, nyAyapariSudDi, nyAyapariSizwaprakASa, nyAyapariBAzA, nyAyaprakaraRa, nyAyaprakASa, nyAyaprakASikA, nyAyapraveSa, *nyAyapraveSatArakaSAstra
+; ---- 
+301468 old {#nyAyapariSizwa#} <lex>n.</lex>, {#°pariSudDi#} <lex>f.</lex>, {#°prakASa#} <lex>m.</lex>, {#nyAyapariBAzA#} <lex>f.</lex>, {#nyAyaprakaraRa#} <lex>n.</lex>, {#nyAyaprakASa#} <lex>m.</lex>, {#nyAyaprakASikA#} <lex>f.</lex>, {#nyAyapraveSa#} <lex>f.</lex> (<ls>BÜHLER, Rep. No. 738</ls>) und *{#°tArakaSAstra#} <lex>n.</lex>¦ Titel von Werken.
+;
+301468 new {#nyAyapariSizwa#} <lex>n.</lex>, {#°pariSudDi#} <lex>f.</lex>, {#°prakASa#} <lex>m.</lex>, {#nyAyapariBAzA#} <lex>f.</lex>, {#nyAyaprakaraRa#} <lex>n.</lex>, {#nyAyaprakASa#} <lex>m.</lex>, {#nyAyaprakASikA#} <lex>f.</lex>, {#nyAyapraveSa#} <lex>m.</lex> (<ls>BÜHLER, Rep. No. 738</ls>) und *{#°tArakaSAstra#} <lex>n.</lex>¦ Titel von Werken.
+; ----------------------------------------------
+; <L>63546<pc>4-034-c<k1>parAmarSavAda<k2>parAmarSavAda, parAmarSavAdahetuvicAra, parAmarSavAdArTa cat=metabb
+312306 old <L>63546<pc>4-034-c<k1>parAmarSavAda<k2>parAmarSavAda, parAmarSavAdahetuvicAra, parAmarSavAdArTa
+312306 new <L>63546<pc>4-034-c<k1>parAmarSavAda<k2>parAmarSavAda, parAmarSahetutAvicAra, parAmarSavAdArTa
+; ----  print change
+312307 old {#parAmarSavAda#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>), {#°hetuvicAra#} <lex>m.</lex> und {#°vAdArTa#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>.)¦ Titel von Werken.
+;
+312307 new {#parAmarSavAda#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>), {#°hetutAvicAra#} <lex>m.</lex> und {#°vAdArTa#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>.)¦ Titel von Werken.
+; ----------------------------------------------
+; <L>64410<pc>4-047-a<k1>parisTAnam<k2>parisTAna(m) cat=meta
+316494 old <L>64410<pc>4-047-a<k1>parisTAnam<k2>parisTAna(m)
+316494 new <L>64410<pc>4-047-a<k1>parisTAna<k2>parisTAna, parisTAnam
+; ---- change to bbline no
+;316495 old {#parisTAna(m)#}¦ <ls>MBH. 14,1163</ls>. Fehlerhaft für {#paraMsTAnam#}
+;
+;316495 new {#parisTAna(m)#}¦ <ls>MBH. 14,1163</ls>. Fehlerhaft für {#paraMsTAnam#}
+; ----------------------------------------------
+; <L>70023<pc>4-124-a<k1>pOtrajIvika<k2>pOtrajIvika cat=metabb
+343830 old <L>70023<pc>4-124-a<k1>pOtrajIvika<k2>pOtrajIvika
+343830 new <L>70023<pc>4-124-a<k1>pOtrajIvika<k2>pOtrajIvika, pOtraM°jIvika⁆
+; ---- 
+343831 old {#pOtrajIvika#}¦ (metrisch <ab>st.</ab> {#pOtraM°#}) <lex>n.</lex> {%ein aus <bot>Putranjiva Roxburghii</bot> gemachtes Amulet%}.
+;
+343831 new {#pOtrajIvika#} (metrisch <ab>st.</ab> {#pOtraM°#})¦ <lex>n.</lex> {%ein aus <bot>Putranjiva Roxburghii</bot> gemachtes Amulet%}.
+; ----------------------------------------------
+; <L>70206<pc>4-126-c<k1>praugya<k2>praugya^ cat=metabb
+;344720 old <L>70206<pc>4-126-c<k1>praugya<k2>praugya^
+;344720 new <L>70206<pc>4-126-c<k1>praugya<k2>pra_ugya^
+; ---- 
+;344721 old {#praugya^#}¦ <lex>Adj.</lex> {%am%} {#prauga#} 1〉a〉 {%befindlich%}.
+;
+;344721 new {#pra_ugya^#}¦ <lex>Adj.</lex> {%am%} {#pra_uga#} 1〉a〉 {%befindlich%}.
+; ----------------------------------------------
+; <L>71380<pc>4-144-b<k1>pratiyogijYAnasya<k2>pratiyogijYAnasya_hetutvaKaRqanam cat=meta
+350498 old <L>71380<pc>4-144-b<k1>pratiyogijYAnasya<k2>pratiyogijYAnasya_hetutvaKaRqanam
+350498 new <L>71380<pc>4-144-b<k1>pratiyogijYAnasyahetutvaKaRqanam<k2>pratiyogijYAnasya_hetutvaKaRqanam
+; ---- change to bbline no
+;350499 old {#pratiyogijYAnasya hetutvaKaRqanam#}¦ <ab>desgl.</ab>
+;
+;350499 new {#pratiyogijYAnasya hetutvaKaRqanam#}¦ <ab>desgl.</ab>
+; ----------------------------------------------
+; <L>71382<pc>4-144-b<k1>pratiyogyanaDikaraRe<k2>pratiyogyanaDikaraRe_nASasyotpattinirAsaH cat=meta
+350508 old <L>71382<pc>4-144-b<k1>pratiyogyanaDikaraRe<k2>pratiyogyanaDikaraRe_nASasyotpattinirAsaH
+350508 new <L>71382<pc>4-144-b<k1>pratiyogyanaDikaraRenASasyotpattinirAsaH<k2>pratiyogyanaDikaraRe_nASasyotpattinirAsaH
+; ---- change to bbline ?
+350509 old {#pratiyogyanaDikaraRe nASasyotpattinirAsaH#}¦ Titel eines Werkes.
+;
+350509 new {#pratiyogyanaDikaraRe nASasyotpattinirAsaH#}¦ Titel eines Werkes.
+; ----------------------------------------------
+; <L>73947<pc>4-181-b<k1>prAGAra<k2>prAghAra cat=metabb
+;363007 old <L>73947<pc>4-181-b<k1>prAGAra<k2>prAghAra
+;363007 new <L>73947<pc>4-181-b<k1>prAghAra<k2>prAg_hAra
+; ---- 
+;363008 old {#prAghAra#}¦ <lex>m.</lex> fehlerhaft für {#pragBAra#}.
+;
+;363008 new {#prAg_hAra#}¦ <lex>m.</lex> fehlerhaft für {#pragBAra#}.
+; ----------------------------------------------
+; <L>76149<pc>4-213-c<k1>bastamAram<k2>bastamAram cat=meta
+373963 old <L>76149<pc>4-213-c<k1>bastamAram<k2>bastamAram
+373963 new <L>76149<pc>4-213-c<k1>bastamAra<k2>bastamAra, bastamAram
+; ---- change to bbline no
+;373964 old {#bastamAra[m]#}¦ <ab>Absol.</ab> {%wie ein Bock verendet%} <ls>SUŚR. 1,279,8</ls>.
+;
+;373964 new {#bastamAra[m]#}¦ <ab>Absol.</ab> {%wie ein Bock verendet%} <ls>SUŚR. 1,279,8</ls>.
+; ----------------------------------------------
+; <L>76602<pc>4-219-b<k1>bAjabAhAduracandra<k2>bAjabAhAduracandra cat=metabb
+376067 old <L>76602<pc>4-219-b<k1>bAjabAhAduracandra<k2>bAjabAhAduracandra
+376067 new <L>76602<pc>4-219-b<k1>bAjabAhaduracandra<k2>bAjabAhaduracandra, bAjabAhAduracandra
+; ---- 
+376068 old {#bAjabAh[A]duracandra#}¦ <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten.
+;
+376068 new {#bAjabAha[A]duracandra#}¦ <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten.
+; ----------------------------------------------
+; <L>80876<pc>4-283-b<k1>BedaDikkAra<k2>BedaDikkAra, BedaDikkAravyAKyA, BedaDikkAravyAKyAprakASa, BedaDikkAravyAKyAsatkriyA, BedaDikkArAnyatkArahuMkfti cat=meta
+;397523 old <L>80876<pc>4-283-b<k1>BedaDikkAra<k2>BedaDikkAra, BedaDikkAravyAKyA, BedaDikkAravyAKyAprakASa, BedaDikkAravyAKyAsatkriyA, BedaDikkArAnyatkArahuMkfti
+; BedaDikkArAnyatkArahuMkfti pw
+; BedaDikkAranyakkArahuMkfti MW  ACC
+;397523 new <L>80876<pc>4-283-b<k1>BedaDikkAra<k2>BedaDikkAra, BedaDikkAravyAKyA, BedaDikkAravyAKyAprakASa, BedaDikkAravyAKyAsatkriyA, kArAnyatkArahuMkfti
+; ---- change to bbline ?
+;397524 old {#BedaDikkAra#} <lex>m.</lex>, {#°vyAKyA#} <lex>f.</lex> (<ls>OPP. CAT.</ls>), {#°prakASa#} <lex>m.</lex>, {#°satkriyA#} <lex>f.</lex> und {#°kArAnyatkArahuMkfti#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>)¦ Titel von Werken.
+;
+;397524 new {#BedaDikkAra#} <lex>m.</lex>, {#°vyAKyA#} <lex>f.</lex> (<ls>OPP. CAT.</ls>), {#°prakASa#} <lex>m.</lex>, {#°satkriyA#} <lex>f.</lex> und {#°kArAnyatkArahuMkfti#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>)¦ Titel von Werken.
+; ----------------------------------------------
+; <L>82293<pc>5-014-b<k1>madyAsattaka<k2>madyAsattaka, (madyAsaktaka) cat=metabb
+404815 old <L>82293<pc>5-014-b<k1>madyAsattaka<k2>madyAsattaka, (madyAsaktaka)
+404815 new <L>82293<pc>5-014-b<k1>madyAsattaka<k2>madyAsattaka, (madyAsattraka)
+; ---- 
+404816 old {#madyAsattaka#} ({#°saktaka#} ?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+404816 new {#madyAsattaka#} ({#°sattraka#} ?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>82746<pc>5-020-b<k1>maDvaBAzya<k2>maDvaBAzya, maDvaBAzyawIkA, maDvaBAzyavyAKyA, maDvamataKaRqana, maDvamataprakaraRa, maDvamatamuKaBaNga, maDvamatamuKamardana, maDvamataviDvaMsa, maDvamataviDvaMsana, maDvamuKaBaNga, maDvamuKamardana cat=metabb
+;407035 old <L>82746<pc>5-020-b<k1>maDvaBAzya<k2>maDvaBAzya, maDvaBAzyawIkA, maDvaBAzyavyAKyA, maDvamataKaRqana, maDvamataprakaraRa, maDvamatamuKaBaNga, maDvamatamuKamardana, maDvamataviDvaMsa, maDvamataviDvaMsana, maDvamuKaBaNga, maDvamuKamardana
+;
+;407035 nex <L>82746<pc>5-020-b<k1>maDvaBAzya<k2>maDvaBAzya, maDvaBAzyawIkA, maDvaBAzyavyAKyA, maDvamataKaRqana, maDvamataprakaraRa, maDvamatamuKaBaNga, maDvamatamuKamardana, maDvamataviDvMsa, maDvamataviDcMsana, maDvamuKaBaNga, maDvamuKamardana
+;
+;407035 new <L>82746<pc>5-020-b<k1>maDvaBAzya<k2>maDvaBAzya, maDvaBAzyawIkA, maDvaBAzyavyAKyA, maDvamataKaRqana, maDvamataprakaraRa, maDvamatamuKaBaNga, maDvamatamuKamardana, maDvamataviDvMsa, maDvamataviDcMsana, maDvamuKaBaNga, maDvamuKamardana
+; ---- 
+;407036 old {#maDvaBAzya#} <lex>n.</lex>, {#°wIkA#} <lex>f.</lex>, {#°vyAKyA#} <lex>f.</lex>, {#maDvamataKaRqana#} <lex>n.</lex>, {#°mataprakaraRa#} <lex>n.</lex>, {#°matamuKaBaNga#} <lex>m.</lex>, {#°matamuKamardana#} <lex>n.</lex>, {#°mataviDvaMsa#} <lex>m.</lex> (<ls>BURNELL, T.</ls>), {#°mataviDvaMsana#} <lex>n.</lex>, {#maDvamuKaBaNga#} <lex>m.</lex> und {#maDvamuKamardana#} <lex>n.</lex>¦ Titel von Werken <ls>OPP. CAT. 1</ls>.
+;
+;407036 new {#maDvaBAzya#} <lex>n.</lex>, {#°wIkA#} <lex>f.</lex>, {#°vyAKyA#} <lex>f.</lex>, {#maDvamataKaRqana#} <lex>n.</lex>, {#°mataprakaraRa#} <lex>n.</lex>, {#°matamuKaBaNga#} <lex>m.</lex>, {#°matamuKamardana#} <lex>n.</lex>, {#°mataviDvMsa#} <lex>m.</lex> (<ls>BURNELL, T.</ls>), {#°mataviDcMsana#} <lex>n.</lex>, {#maDvamuKaBaNga#} <lex>m.</lex> und {#maDvamuKamardana#} <lex>n.</lex>¦ Titel von Werken <ls>OPP. CAT. 1</ls>.
+; ----------------------------------------------
+; <L>82771<pc>5-021-c<k1>manaU<k2>manaU cat=metabb
+;407251 old <L>82771<pc>5-021-c<k1>manaU<k2>manaU
+;407251 new <L>82771<pc>5-021-c<k1>manaU<k2>mana_U
+; ---- 
+;407252 old {#manaU#}¦ <lex>m.</lex> = <arab>منع</arab> {%eine <ab>best.</ab> Constellation%} <ls>Ind. St. 2,282</ls>.
+;
+;407252 new {#mana_U#}¦ <lex>m.</lex> = <arab>منع</arab> {%eine <ab>best.</ab> Constellation%} <ls>Ind. St. 2,282</ls>.
+; ----------------------------------------------
+; <L>84311<pc>5-043-c<k1>mahAjAlini<k2>mahAjAlini cat=metabb
+415013 old <L>84311<pc>5-043-c<k1>mahAjAlini<k2>mahAjAlini
+415013 new <L>84311<pc>5-043-c<k1>mahAjAlini<k2>mahAjAlini, mahAjAlinI
+; ---- 
+415014 old {#mahAjAlini#}¦ (metrisch für {#°nI#}) <lex>f.</lex> {%eine <ab>best.</ab> Pflanze%} <ls>CARAKA. 7,4</ls>.
+;
+415014 new {#mahAjAlini#} (metrisch für {#°nI#})¦ <lex>f.</lex> {%eine <ab>best.</ab> Pflanze%} <ls>CARAKA. 7,4</ls>.
+; ----------------------------------------------
+; <L>84790<pc>5-049-c<k1>mahAmUzaka<k2>*mahAmUzaka cat=metabb
+417327 old <L>84790<pc>5-049-c<k1>mahAmUzaka<k2>*mahAmUzaka
+417327 new <L>84790<pc>5-049-c<k1>mahAmUzaka<k2>*mahAmUzaka, *mahAmUzika
+; ---- 
+417328 old *{#mahAmUzaka#}¦ oder *{#°muzika#} <lex>m.</lex> {%eine Rattenart%} <ls>RĀJAN. 19,58</ls>.
+;
+417328 new *{#mahAmUzaka#} oder *{#°mUzika#}¦ <lex>m.</lex> {%eine Rattenart%} <ls>RĀJAN. 19,58</ls>.
+; ----------------------------------------------
+; <L>86292<pc>5-070-b<k1>mAyAvAda<k2>mAyAvAda, mAyAvAdaKaRqanawIkA, mAyAvAdaKaRqavivaraRa, mAyAvAdasaMdUzaRI cat=metabb
+424652 old <L>86292<pc>5-070-b<k1>mAyAvAda<k2>mAyAvAda, mAyAvAdaKaRqanawIkA, mAyAvAdaKaRqavivaraRa, mAyAvAdasaMdUzaRI
+424652 new <L>86292<pc>5-070-b<k1>mAyAvAda<k2>mAyAvAda
+; ---- 
+424653 old {#mAyAvAda#} <lex>m.</lex> {%die Annahme, dass Alles Täuschung sei,%} <ab>Bez.</ab> der Einheitslehre des <is>Vedānta</is> und des Buddhismus. {#°KaRqanawIkA#} <lex>f.</lex> <lex>f.</lex> (<ls>ebend.</ls>), {#°KaRqavivaraRa#} <lex>n.</lex> (<ls>BURNELL, T.</ls>) und {#°saMdUzaRI#} <lex>f.</lex>¦ Titel von Werken.
+;
+424653 new {#mAyAvAda#}¦ <lex>m.</lex> {%die Annahme, dass Alles Täuschung sei,%} <ab>Bez.</ab> der Einheitslehre des <is>Vedānta</is> und des Buddhismus. {#°KaRqanawIkA#} <lex>f.</lex> <lex>f.</lex> (<ls>ebend.</ls>), {#°KaRqavivaraRa#} <lex>n.</lex> (<ls>BURNELL, T.</ls>) und {#°KawUzaRI#} <lex>f.</lex> Titel von Werken.
+; ----------------------------------------------
+; <L>86893<pc>5-078-c<k1>miTaHspfDya<k2>miTaspf/Dya, miTa[H]spf/Dya cat=meta
+427680 old <L>86893<pc>5-078-c<k1>miTaHspfDya<k2>miTaspf/Dya, miTa[H]spf/Dya
+427680 new <L>86893<pc>5-078-c<k1>miTaHspfDya<k2>miTaspf/Dya, miTaHspf/Dya
+; ---- change to bbline ?
+427681 old {#miTa[H]spf/Dya#}¦ <ab>Absol.</ab> {%unter sich wetteifernd%}. Nach den Erklärern <lex>Adj.</lex>
+;
+427681 new {#miTa[H]spf/Dya#}¦ <ab>Absol.</ab> {%unter sich wetteifernd%}. Nach den Erklärern <lex>Adj.</lex>
+; ----------------------------------------------
+; <L>87109<pc>5-082-a<k1>mIm<k2>1. mIm cat=metabb
+;428746 old <L>87109<pc>5-082-a<k1>mIm<k2>1. mIm
+;428746 new <L>87109<pc>5-082-a<k1>mIm<k2>1. mIm, a/mImet, mImayat
+; ---- 
+;428747 old <hom>1.</hom> √{#mIm#}¦, {#a/mImet#} und {#mImayat#} <ab>s. u.</ab> <hom>5.</hom> {#mA#}.
+;
+;428747 new <hom>1.</hom> √{#mIm#}, {#a/mImet#} und {#mImayat#}¦ <ab>s. u.</ab> <hom>5.</hom> {#mA#}.
+; ----------------------------------------------
+; <L>87785<pc>5-093-b<k1>muhUrtawIkA<k2>muhUrtawIkA, muhUrtatattva, muhUrtadarSana, muhUrtadIpaka, muhUrtadIpikA, muhUrtanirRaya, muhUrtapadavI, muhUrtaparIkzA, muhUrtaBAga, muhUrtaBUzaRa, muhUrtaBErava, muhUrtamaRi, muhUrtamADavIya, muhUrtamArtaRqa, (muhUrtamArtARqa), muhUrtamAlA, muhUrtaratna, muhUrtaratnAkara, muhUrtarAjIya, muhUrtalakzaRapawala, muhUrtavallaBA, muhUrtaSAstra, muhUrtasaMgraha, muhUrtasarvasva, muhUrtasAra, muhUrtasidDi cat=metabb
+;432298 old <L>87785<pc>5-093-b<k1>muhUrtawIkA<k2>muhUrtawIkA, muhUrtatattva, muhUrtadarSana, muhUrtadIpaka, muhUrtadIpikA, muhUrtanirRaya, muhUrtapadavI, muhUrtaparIkzA, muhUrtaBAga, muhUrtaBUzaRa, muhUrtaBErava, muhUrtamaRi, muhUrtamADavIya, muhUrtamArtaRqa, (muhUrtamArtARqa), muhUrtamAlA, muhUrtaratna, muhUrtaratnAkara, muhUrtarAjIya, muhUrtalakzaRapawala, muhUrtavallaBA, muhUrtaSAstra, muhUrtasaMgraha, muhUrtasarvasva, muhUrtasAra, muhUrtasidDi
+; muhUrtarIkzA -> muhUrtaparIkzA
+; muhUrtarAjAjIyan -> muhUrtarAjIya
+; {#muhUrtarAjAjIyan#} -> {#muhUrtarAjIya#} <lex>n.</lex>  (in bbline)
+;432298 nex <L>87785<pc>5-093-b<k1>muhUrtawIkA<k2>muhUrtawIkA, muhUrtatattva, muhUrtadarSana, muhUrtadIpaka, muhUrtadIpikA, muhUrtanirRaya, muhUrtapadavI, muhUrtaparIkzA, muhUrtaBAga, muhUrtaBUzaRa, muhUrtaBErava, muhUrtamaRi, muhUrtamADavIya, muhUrtamArtaRqa, (muhUrtamArtARqa), muhUrtamAlA, muhUrtaratna, muhUrtaratnAkara, muhUrtarAjIya, muhUrtalakzaRapawala, muhUrtavallaBA, muhUrtaSAstra, muhUrtasaMgraha, muhUrtasarvasva, muhUrtasAra, muhUrtasidDi
+;
+;432298 new <L>87785<pc>5-093-b<k1>muhUrtawIkA<k2>muhUrtawIkA, muhUrtatattva, muhUrtadarSana, muhUrtadIpaka, muhUrtadIpikA, muhUrtanirRaya, muhUrtapadavI, muhUrtarIkzA, muhUrtaBAga, muhUrtaBUzaRa, muhUrtaBErava, muhUrtamaRi, muhUrtamADavIya, muhUrtamArtaRqa, (muhUrtamArtARqa), muhUrtamAlA, muhUrtaratna, muhUrtaratnAkara, muhUrtarAjAjIyan, muhUrtalakzaRapawala, muhUrtavallaBA, muhUrtaSAstra, muhUrtasaMgraha, muhUrtasarvasva, muhUrtasAra, muhUrtasidDi
+; ---- 
+;432299 old {#muhUrtawIkA#} <lex>f.</lex>, {#muhUrtatattva#} <lex>n.</lex>, {#muhUrtadarSana#} <lex>n.</lex>, {#muhUrtadIpaka#} <lex>m.</lex>, {#°dIpikA#} <lex>f.</lex>, {#muhUrtanirRaya#} <lex>m.</lex> (<ls>BURNELL, T.</ls>), {#muhUrtapadavI#} <lex>f.</lex>, {#muhUrtaparIkzA#} <lex>f.</lex>, {#muhUrtaBAga#} <lex>m.</lex>, {#muhUrtaBUzaRa#} <lex>n.</lex>, {#muhUrtaBErava#}, {#muhUrtamaRi#} <lex>m.</lex>, {#muhUrtamADavIya#} <lex>n.</lex>, {#muhUrtamArtaRqa#} <lex>m.</lex> ({#°mArtARqa#} fehlerhaft), {#muhUrtamAlA#} <lex>f.</lex>, {#muhUrtaratna#} <lex>n.</lex>, {#muhUrtaratnAkara#} <lex>m.</lex>, {#muhUrtarAjIya#} <lex>n.</lex>, {#muhUrtalakzaRapawala#}, {#muhUrtavallaBA#} <lex>f.</lex>, {#muhUrtaSAstra#} <lex>n.</lex>, {#muhUrtasaMgraha#} <lex>m.</lex>, {#muhUrtasarvasva#} <lex>n.</lex>, {#muhUrtasAra#} <lex>m.</lex> <ls>BURNELL, T.</ls> und {#muhUrtasidDi#} <lex>f.</lex>¦ Titel von Werken <ls>OPP. CAT. 1</ls>.
+; 
+;432299 new {#muhUrtawIkA#} <lex>f.</lex>, {#muhUrtatattva#} <lex>n.</lex>, {#muhUrtadarSana#} <lex>n.</lex>, {#muhUrtadIpaka#} <lex>m.</lex>, {#°dIpikA#} <lex>f.</lex>, {#muhUrtanirRaya#} <lex>m.</lex> (<ls>BURNELL, T.</ls>), {#muhUrtapadavI#} <lex>f.</lex>, {#muhUrtarIkzA#} <lex>f.</lex>, {#muhUrtaBAga#} <lex>m.</lex>, {#muhUrtaBUzaRa#} <lex>n.</lex>, {#muhUrtaBErava#}, {#muhUrtamaRi#} <lex>m.</lex>, {#muhUrtamADavIya#} <lex>n.</lex>, {#muhUrtamArtaRqa#} <lex>m.</lex> ({#°mArtARqa#} fehlerhaft), {#muhUrtamAlA#} <lex>f.</lex>, {#muhUrtaratna#} <lex>n.</lex>, {#muhUrtaratnAkara#} <lex>m.</lex>, {#muhUrtarAjAjIyan#}, {#muhUrtalakzaRapawala#}, {#muhUrtavallaBA#} <lex>f.</lex>, {#muhUrtaSAstra#} <lex>n.</lex>, {#muhUrtasaMgraha#} <lex>m.</lex>, {#muhUrtasarvasva#} <lex>n.</lex>, {#muhUrtasAra#} <lex>m.</lex> <ls>BURNELL, T.</ls> und {#muhUrtasidDi#} <lex>f.</lex>¦ Titel von Werken <ls>OPP. CAT. 1</ls>.
+; ----------------------------------------------
+; <L>88376<pc>5-101-a<k1>mfttika<k2>mfttika cat=metabb
+435113 old <L>88376<pc>5-101-a<k1>mfttika<k2>mfttika
+435113 new <L>88376<pc>5-101-a<k1>mfttika<k2>mfttika, mf/ttikA
+; ---- 
+435114 old {#mfttika#}¦ (metrisch im <ab>Comp.</ab>) und {#mf/ttikA#} <lex>f.</lex>
+;
+435114 new {#mfttika#} (metrisch im <ab>Comp.</ab>) und {#mf/ttikA#}¦ <lex>f.</lex>
+; ----------------------------------------------
+; <L>89573<pc>5-117-b<k1>yajYavoQave<k2>yajYavoQave cat=metabb
+440982 old <L>89573<pc>5-117-b<k1>yajYavoQave<k2>yajYavoQave
+; 440982 new <L>89573<pc>5-117-b<k1>yajYavoQave<k2>yajYavoQave, yajYaM vo°Qave⁆
+440982 new <L>89573<pc>5-117-b<k1>yajYavoQave<k2>yajYavoQave, yajYaM_vo°Qave⁆
+; ---- 
+440983 old {#yajYavoQave#}¦ (metrisch <ab>st.</ab> {#yajaM#} {#vo°#}) <ab>Dat.</ab> <ab>Infin.</ab> {%um die Opfer zu geleiten, — zu den Göttern zu befördern%}.
+;
+440983 new {#yajYavoQave#} (metrisch <ab>st.</ab> {#yajYaM vo°#})¦ <ab>Dat.</ab> <ab>Infin.</ab> {%um die Opfer zu geleiten, — zu den Göttern zu befördern%}.
+; ----------------------------------------------
+; <L>89639<pc>5-118-a<k1>yajYAsah<k2>yajYAsa/h, (yajYAsA/h) cat=metabb
+;441282 old <L>89639<pc>5-118-a<k1>yajYAsah<k2>yajYAsa/h, (yajYAsA/h)
+;441282 new <L>89639<pc>5-118-a<k1>yajYAsah<k2>yajYAsa/h, (yajYAsA/ha)
+; ---- 
+;441283 old {#yajYAsa/h#} (stark {#°sA/h#})¦ <lex>Adj.</lex> {%des Opfers mächtig%}.
+;
+;441283 new {#yajYAsa/h#} (stark {#°sA/ha#})¦ <lex>Adj.</lex> {%des Opfers mächtig%}.
+; ----------------------------------------------
+; <L>90393<pc>5-131-b<k1>yamya<k2>2. (yamya) cat=metabb
+445067 old <L>90393<pc>5-131-b<k1>yamya<k2>2. (yamya)
+445067 new <L>90393<pc>5-131-b<k1>yamya<k2>2. (yamya), yami/a
+; ---- 
+445068 old <hom>2.</hom> ({#yamya#})¦ <lex>Adj.</lex> {%verzwillingt%} scheinbar <ls>ṚV. 3,55,11</ls>, da hier {#yamyAM#} <ab>Nomin.</ab> <ab>Du.</ab> <lex>f.</lex> von {#yamI/#} ist.
+;
+445068 new <hom>2.</hom> ({#yamya#}) yami/a¦ <lex>Adj.</lex> {%verzwillingt%} scheinbar <ls>ṚV. 3,55,11</ls>, da hier {#yamyAM#} <ab>Nomin.</ab> <ab>Du.</ab> <lex>f.</lex> von {#yamI/#} ist.
+; ----------------------------------------------
+; <L>92669<pc>5-168-a<k1>radAvalidvaMdva<k2>radAvalidvaMdva cat=metabb
+456733 old <L>92669<pc>5-168-a<k1>radAvalidvaMdva<k2>radAvalidvaMdva
+456733 new <L>92669<pc>5-168-a<k1>radAvalidvaMdv<k2>radAvalidvaMdv
+; ---- 
+456734 old √{#radAvalidvaMdva#}¦, {#°dvaMdvati#} {%wie zwei Reihen Zähne erscheinen%} [Page5-168-b] <ls>NAIṢ. 7,44</ls>.
+;
+456734 new !√{#radAvalidvaMdv#}¦, {#°dvaMdvati#} {%wie zwei Reihen Zähne erscheinen%} [Page5-168-b] <ls>NAIṢ. 7,44</ls>.
+; ----------------------------------------------
+; <L>96999<pc>5-239-b<k1>lohitAyani<k2>lohitAyani cat=metabb
+479530 old <L>96999<pc>5-239-b<k1>lohitAyani<k2>lohitAyani
+479530 new <L>96999<pc>5-239-b<k1>lohitAyani<k2>lohitAyani, lohitAyanI
+; ---- 
+479531 old {#lohitAyani#}¦ (metrisch für {#°nI#}) <lex>f.</lex> <ab>Patron.</ab>
+;
+479531 new {#lohitAyani#} (metrisch für {#°nI#})¦ <lex>f.</lex> <ab>Patron.</ab>
+; ----------------------------------------------
+; <L>98093<pc>6-016-a<k1>vanApaga<k2>vanApaga cat=metabb
+485014 old <L>98093<pc>6-016-a<k1>vanApaga<k2>vanApaga
+485014 new <L>98093<pc>6-016-a<k1>vanApaga<k2>vanApaga, vanApagA
+; ---- 
+485015 old {#vanApaga#}¦ (metrisch <ab>st.</ab> {#°gA#}) {%Fluss%}.
+;
+485015 new {#vanApaga#} (metrisch <ab>st.</ab> {#°gA#})¦ {%Fluss%}.
+; ----------------------------------------------
+; <L>103170<pc>6-100-c<k1>viniHsfptAhuti<k2>vinisfptAhuti, vini[H]sfptAhuti cat=meta
+512034 old <L>103170<pc>6-100-c<k1>viniHsfptAhuti<k2>vinisfptAhuti, vini[H]sfptAhuti
+512034 new <L>103170<pc>6-100-c<k1>viniHsfptAhuti<k2>vinisfptAhuti, viniHsfptAhuti
+; ---- change to bbline no
+;512035 old {#vini[H]sfptAhuti#}¦ <lex>f.</lex> {%eine <ab>best.</ab> Spende%} <ls>ĀŚV. ŚR. 6,12,2</ls>.
+;
+;512035 new {#vini[H]sfptAhuti#}¦ <lex>f.</lex> {%eine <ab>best.</ab> Spende%} <ls>ĀŚV. ŚR. 6,12,2</ls>.
+; ----------------------------------------------
+; <L>104317<pc>6-117-b<k1>vivatsu<k2>vivatsu cat=metabb
+517878 old <L>104317<pc>6-117-b<k1>vivatsu<k2>vivatsu
+517878 new <L>104317<pc>6-117-b<k1>vivatsu<k2>vivatsu, vivadizu
+; ---- 
+517879 old {#vivatsu#}¦ (metrisch für {#vivadizu#}) <lex>Adj.</lex> {%zu sagen wünschend%} <ls>Spr. 7684</ls>.
+;
+517879 new {#vivatsu#} (metrisch für {#vivadizu#})¦ <lex>Adj.</lex> {%zu sagen wünschend%} <ls>Spr. 7684</ls>.
+; ----------------------------------------------
+; <L>112233<pc>6-232-c<k1>SitivAra<k2>SitivA/raM cat=meta
+557024 old <L>112233<pc>6-232-c<k1>SitivAra<k2>SitivA/raM
+;557024 new <L>112233<pc>6-232-c<k1>SitivAraM<k2>SitivA/raM
+557024 new <L>112233<pc>6-232-c<k1>SitivAra<k2>SitivA/ra
+; ---- change to bbline yes
+557025 old {#SitivA/raM#}¦
+;
+557025 new {#SitivA/ra#}¦
+; ----------------------------------------------
+; <L>110933<pc>6-215-a<k1>SavasauSInara<k2>SavasauSInara cat=metabb
+;550675 old <L>110933<pc>6-215-a<k1>SavasauSInara<k2>SavasauSInara
+;550675 new <L>110933<pc>6-215-a<k1>SavasauSInara<k2>Savasa_uSInara
+; ---- 
+550676 old {#SavasauSInara#}, {#°rezu#} <ls>GOP. BR. 1,2,9</ls>¦ fehlerhaft für {#savaSoSI°#}; <ab>vgl.</ab> <ls>AIT. BR. 8,14</ls>.
+;
+;550676 new {#Savasa_uSInara#}¦, {#°rezu#} <ls>GOP. BR. 1,2,9</ls> fehlerhaft für {#savaSoSI°#}; <ab>vgl.</ab> <ls>AIT. BR. 8,14</ls>.
+550676 new {#SavasauSInara#}¦, {#°rezu#} <ls>GOP. BR. 1,2,9</ls> fehlerhaft für {#savaSoSI°#}; <ab>vgl.</ab> <ls>AIT. BR. 8,14</ls>.
+; ----------------------------------------------
+; <L>111278<pc>6-219-b<k1>SAktatantra<k2>SAktatantra, SAktiBAzya, SAktAnandataraMgiRI cat=meta
+552285 old <L>111278<pc>6-219-b<k1>SAktatantra<k2>SAktatantra, SAktiBAzya, SAktAnandataraMgiRI
+552285 new <L>111278<pc>6-219-b<k1>SAktatantra<k2>SAktatantra, SAktaBAzya, SAktAnandataraMgiRI
+; ---- change to bbline no
+;552286 old {#SAktatantra#} <lex>n.</lex> (<ab>Nom. abstr.</ab> {#°tA#} <lex>f.</lex>), {#SAktaBAzya#} <lex>n.</lex> und {#SAktAnandataraMgiRI#} <lex>f.</lex>¦ Titel.
+;
+;552286 new {#SAktatantra#} <lex>n.</lex> (<ab>Nom. abstr.</ab> {#°tA#} <lex>f.</lex>), {#SAktaBAzya#} <lex>n.</lex> und {#SAktAnandataraMgiRI#} <lex>f.</lex>¦ Titel.
+; ----------------------------------------------
+; <L>112153<pc>6-231-c<k1>SiKi<k2>SiKi cat=metabb
+556616 old <L>112153<pc>6-231-c<k1>SiKi<k2>SiKi
+556616 new <L>112153<pc>6-231-c<k1>SiKi<k2>SiKi, SiKin
+; ---- 
+556617 old {#SiKi#}¦ (metrisch für {#SiKin#}) <lex>m.</lex>
+;
+556617 new {#SiKi#} (metrisch für {#SiKin#})¦ <lex>m.</lex>
+; ----------------------------------------------
+; <L>113197<pc>6-245-c<k1>SukamahimnaH<k2>SukamahimnaH_stavaH cat=meta
+561624 old <L>113197<pc>6-245-c<k1>SukamahimnaH<k2>SukamahimnaH_stavaH
+561624 new <L>113197<pc>6-245-c<k1>SukamahimnaHstavaH<k2>SukamahimnaH_stavaH
+; ---- change to bbline no
+;561625 old {#SukamahimnaH stavaH#}¦ Titel <ls>BURNELL, T.</ls>
+;
+;561625 new {#SukamahimnaH stavaH#}¦ Titel <ls>BURNELL, T.</ls>
+; ----------------------------------------------
+; <L>114226<pc>6-260-b<k1>SElavAlukA<k2>SElavAlukA, SElavAlukA(s) cat=meta
+566781 old <L>114226<pc>6-260-b<k1>SElavAlukA<k2>SElavAlukA, SElavAlukA(s)
+566781 new <L>114226<pc>6-260-b<k1>SElavAlukAs<k2>SElavAlukA, SElavAlukAs
+; ---- change to bbline no
+;566782 old {#SElavAlukA(s)#}¦ <ls>HARIV. 12678</ls> und <ls>BHĀVAPR. 6,116</ls> fehlerhaft für {#sEla°#} (<ab>d. i.</ab> {#sa#} + {#ela°#}).
+;
+;566782 new {#SElavAlukA(s)#}¦ <ls>HARIV. 12678</ls> und <ls>BHĀVAPR. 6,116</ls> fehlerhaft für {#sEla°#} (<ab>d. i.</ab> {#sa#} + {#ela°#}).
+; ----------------------------------------------
+; <L>116438<pc>6-292-a<k1>zoqaSakAraRajayamAlA<k2>zoqaSakAraRajayamAlA, zoqaSakAraRapUjA, zoqaSakArikA, zoqaSakUrca, zoqaSagaRapatiDyAna, zoqaSagaRapatilakzaRa cat=meta
+;577618 old <L>116438<pc>6-292-a<k1>zoqaSakAraRajayamAlA<k2>zoqaSakAraRajayamAlA, zoqaSakAraRapUjA, zoqaSakArikA, zoqaSakUrca, zoqaSagaRapatiDyAna, zoqaSagaRapatilakzaRa
+; oqaSakAraRapUjA, -> zoqaSakAraRapUjA,
+;
+;577618 new <L>116438<pc>6-292-a<k1>zoqaSakAraRajayamAlA<k2>zoqaSakAraRajayamAlA, oqaSakAraRapUjA, zoqaSakArikA, zoqaSakUrca, zoqaSagaRapatiDyAna, zoqaSagaRapatilakzaRa
+; ---- change to bbline no
+;577619 old {#zoqaSakAraRajayamAlA#} <lex>f.</lex> (<ls>BÜHLER, Rep. No. 679</ls>), {#°kAraRapUjA#} <lex>f.</lex> (<ls>ebend. No. 680</ls>), {#zoqaSakArikA#} <lex>f.</lex> (<ls>ebend. No. 326</ls>), {#zoqaSakUrca#} (<ls>OPP. CAT. 1</ls>), {#zoqaSagaRapatiDyAna#} <lex>n.</lex> (<ls>BURNELL, T.</ls>) und {#°gaRapatilakzaRa#} <lex>n.</lex> (<ls>OPP. CAT. 1</ls>)¦ Titel.
+;
+;577619 new {#zoqaSakAraRajayamAlA#} <lex>f.</lex> (<ls>BÜHLER, Rep. No. 679</ls>), {#°kAraRapUjA#} <lex>f.</lex> (<ls>ebend. No. 680</ls>), {#zoqaSakArikA#} <lex>f.</lex> (<ls>ebend. No. 326</ls>), {#zoqaSakUrca#} (<ls>OPP. CAT. 1</ls>), {#zoqaSagaRapatiDyAna#} <lex>n.</lex> (<ls>BURNELL, T.</ls>) und {#°gaRapatilakzaRa#} <lex>n.</lex> (<ls>OPP. CAT. 1</ls>)¦ Titel.
+; ----------------------------------------------
+; <L>120439<pc>7-062-b<k1>samAvApti<k2>samAvApti cat=metabb
+597060 old <L>120439<pc>7-062-b<k1>samAvApti<k2>samAvApti
+597060 new <L>120439<pc>7-062-b<k1>samAvApti<k2>samAvApti, samavApti
+; ---- 
+597061 old {#samAvApti#}¦ (metrisch für {#samavApti#}) <lex>f.</lex> {%Erlangung%} <ls>HEMĀDRI 1,407,4</ls>.
+;
+597061 new {#samAvApti#} (metrisch für {#samavApti#})¦ <lex>f.</lex> {%Erlangung%} <ls>HEMĀDRI 1,407,4</ls>.
+; ----------------------------------------------
+; <L>120440<pc>7-062-b<k1>samAvAya<k2>samAvAya cat=metabb
+597064 old <L>120440<pc>7-062-b<k1>samAvAya<k2>samAvAya
+597064 new <L>120440<pc>7-062-b<k1>samAvAya<k2>samAvAya, samavAya
+; ---- 
+597065 old {#samAvAya#}¦ (metrisch für {#samavAya#}) <lex>m.</lex> {%Zusammenkunft, Versammlung; Schwarm, Menge; Verbindung, Aggregat%}.
+;
+597065 new {#samAvAya#} (metrisch für {#samavAya#})¦ <lex>m.</lex> {%Zusammenkunft, Versammlung; Schwarm, Menge; Verbindung, Aggregat%}.
+; ----------------------------------------------
+; <L>121106<pc>7-071-c<k1>saMbanDi<k2>saMbanDi cat=metabb
+600260 old <L>121106<pc>7-071-c<k1>saMbanDi<k2>saMbanDi
+600260 new <L>121106<pc>7-071-c<k1>saMbanDi<k2>saMbanDi, saMbanDin
+; ---- 
+600261 old {#saMbanDi#}¦ (metrisch für {#°n#})
+;
+600261 new {#saMbanDi#} (metrisch für {#°n#})¦
+; ----------------------------------------------
+; <L>121662<pc>7-084-a<k1>sarpizmant<k2>sa/rpizmant, sarpi/zvant cat=metabb
+;603713 old <L>121662<pc>7-084-a<k1>sarpizmant<k2>sa/rpizmant, sarpi/zvant
+;603713 new <L>121662<pc>7-084-a<k1>sarpizmant<k2>sa/rpizmant, sarpizvant
+; ---- 
+;603714 old {#sa/rpizmant#} (Accent!) und {#sarpi/zvant#}¦ <lex>Adj.</lex> {%mit Schmalz versehen, mit Schmalz bereitet%}.
+;
+;603714 new {#sa/rpizmant#} (Accent!) und {#sarpizvant#}¦ <lex>Adj.</lex> {%mit Schmalz versehen, mit Schmalz bereitet%}.
+; ----------------------------------------------
+; <L>124385<pc>7-121-b<k1>sAradIya<k2>sAradIya, SAradIya, SAradIyanAmamAlA cat=metabb
+;616420 old <L>124385<pc>7-121-b<k1>sAradIya<k2>sAradIya, SAradIya, SAradIyanAmamAlA
+;616420 new <L>124385<pc>7-121-b<k1>sAradIya<k2>sAradIya_nAmamAlA, (SAradIya_nAmamAlA)
+; ---- 
+;616421 old {#sAradIya#} (besser {#SA°#}) <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {#°nAmamAlA#} <lex>f.</lex>¦ Titel eines Werkes <ls>BÜHLER, Rep. No. 780</ls>.
+;
+;616421 new {#sAradIya#} (besser {#SA°#}) <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {#nAmamAlA#}¦ <lex>f.</lex> Titel eines Werkes <ls>BÜHLER, Rep. No. 780</ls>.
+; ----------------------------------------------
+; <L>124654<pc>7-124-c<k1>sAvErisole<k2>sAvairisole cat=metabb
+;617637 old <L>124654<pc>7-124-c<k1>sAvErisole<k2>sAvairisole
+;617637 new <L>124654<pc>7-124-c<k1>sAvairisole<k2>sAva_irisole
+; ---- 
+;617638 old {#sAvairisole#}¦ <ab>N. pr.</ab> eines Districts.
+;
+;617638 new {#sAva_irisole#}¦ <ab>N. pr.</ab> eines Districts.
+; ----------------------------------------------
+; <L>125254<pc>7-132-c<k1>sidDAntaratna<k2>sidDAntaratna, sidDAntaratnAvali, sidDAntaratnAvalI, sidDAntarahasya, sidDAntlakzaRa, sidDAntlakzaRajAgadISI, sidDAntalakzaRAkroqa, sidDAntalakzaRI, sidDAntalaGuKamARika, sidDAntaleSa, sidDAntaleSasaMgraha cat=metabb
+620568 old <L>125254<pc>7-132-c<k1>sidDAntaratna<k2>sidDAntaratna, sidDAntaratnAvali, sidDAntaratnAvalI, sidDAntarahasya, sidDAntlakzaRa, sidDAntlakzaRajAgadISI, sidDAntalakzaRAkroqa, sidDAntalakzaRI, sidDAntalaGuKamARika, sidDAntaleSa, sidDAntaleSasaMgraha
+;
+;620568 nex <L>125254<pc>7-132-c<k1>sidDAntaratna<k2>sidDAntaratna, sidDAntaratnAvali, sidDAntaratnAvalI, sidDAntarahasya, sidDAntalakzaRa, sidDAntalakzaRajAgadISI, sidDAntalakzaRAkroqa, sidDAntalakzaRI, sidDAntalaGuKamARika, sidDAntaleSa, sidDAntaleSasaMgraha
+;
+620568 new <L>125254<pc>7-132-c<k1>sidDAntaratna<k2>sidDAntaratna, sidDAntaratnAvali, sidDAntaratnAvalI, sidDAntarahasya, sidDAntalakzaRa, sidDAntalakzaRajAgadISI, sidDAntalakzaRAkroqa, sidDAntalakzaRI, sidDAntalaGuKamARika, sidDAntaleSa, sidDAntaleSasaMgraha
+; ---- 
+620569 old {#sidDAntaratna#} <lex>n.</lex>, {#°ratnAvali#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>), {#°ratnAvalI#} (<ls>BURNELL, T.</ls>), {#sidDAntarahasya#} <lex>n.</lex>, {#sidDAntlakzaRa#} <lex>n.</lex> (<ls>OPP. CAT. 1</ls>), {#°jAgadISI#} <lex>f.</lex>, {#°lakzaRAkroqa#} <lex>m.</lex>, {#sidDAntalakzaRI#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>), {#sidDAntalaGuKamARika#}, {#sidDAntaleSa#} <lex>m.</lex> und {#°saMgraha#} <lex>m.</lex>¦ Titel von Werken.
+;
+620569 new {#sidDAntaratna#} <lex>n.</lex>, {#°ratnAvali#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>), {#°ratnAvalI#} (<ls>BURNELL, T.</ls>), {#sidDAntarahasya#} <lex>n.</lex>, {#sidDAntalakzaRa#} <lex>n.</lex> (<ls>OPP. CAT. 1</ls>), {#°jAgadISI#} <lex>f.</lex>, {#°lakzaRAkroqa#} <lex>m.</lex>, {#sidDAntalakzaRI#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>), {#sidDAntalaGuKamARika#}, {#sidDAntaleSa#} <lex>m.</lex> und {#°saMgraha#} <lex>m.</lex>¦ Titel von Werken.
+; ----------------------------------------------
+; <L>125870<pc>7-141-b<k1>suKasaMbanDi<k2>suKasaMbanDi cat=metabb
+623586 old <L>125870<pc>7-141-b<k1>suKasaMbanDi<k2>suKasaMbanDi
+623586 new <L>125870<pc>7-141-b<k1>suKasaMbanDi<k2>suKasaMbanDi, suKasaMbanDin
+; ---- 
+623587 old {#suKasaMbanDi#}¦ (metrisch für {#°saMbanDin#}) <lex>Adj.</lex> {%froh, glücklich%} <ls>MBH. 7,143,20</ls>.
+;
+623587 new {#suKasaMbanDi#} (metrisch für {#°saMbanDin#})¦ <lex>Adj.</lex> {%froh, glücklich%} <ls>MBH. 7,143,20</ls>.
+; ----------------------------------------------
+; <L>133461<pc>7-253-a<k1>hananIya<k2>*hananIya cat=metabb
+661904 old <L>133461<pc>7-253-a<k1>hananIya<k2>*hananIya
+661904 new <L>133461<pc>7-253-a<k1>hananIy<k2>*hananIy
+; ---- 
+661905 old *√{#hananIya#}¦ {#°yati#} = {#hananamicCati#}
+;
+661905 new *!√{#hananIy#}¦ {#°yati#} = {#hananamicCati#}
+; ----------------------------------------------

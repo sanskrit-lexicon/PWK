@@ -63,6 +63,7 @@ def check_instance_string(s,regexes):
    m =  re.search(regex,s)
   except:
    print('check_instance_string ERROR. regex=\n%s' % regex)
+   print('s=',s)
    exit(1)
   if m != None:
     return iregex
@@ -76,7 +77,7 @@ def check_instance_strings(a,lscode):
  for x in a:
   status = check_instance_string(x,regexes)
   if status == None:
-   print('check fails:',x)
+   print('check_instance_strings fails:',x)
    n = n + 1
  print('check_instance_strings finds %s non-standard strings' % n)
 

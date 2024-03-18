@@ -1,0 +1,322 @@
+10606,10607
+(CDSL): <L>2336<pc>1-027-b<k1>atra<k2>2. atra/, attra
+(CDSL): <hom>2.</hom> {#atra/#} ({#attra#} <ab>etym.</ab>)¦ <lex>m.</lex> {%Fresser%}.
+(AB): <L>2336<pc>1-027-b<k1>atra<k2>2. atra/
+(AB): <hom>2.</hom> {#atra/#}¦ ({#attra#} <ab>etym.</ab>) <lex>m.</lex> {%Fresser%}.
+------------------------
+10610,10611
+(CDSL): <L>2337<pc>1-027-b<k1>atra<k2>3. a/tra, attra
+(CDSL): <hom>3.</hom> {#a/tra#} ({#attra#} <ab>etym.</ab>)¦ <lex>n.</lex> {%Nahrungsstoff%}.
+(AB): <L>2337<pc>1-027-b<k1>atra<k2>3. a/tra
+(AB): <hom>3.</hom> {#a/tra#}¦ ({#attra#} <ab>etym.</ab>) <lex>n.</lex> {%Nahrungsstoff%}.
+------------------------
+23652
+(CDSL): <L>5223<pc>1-062-a<k1>antarantasTa<k2>antarantasTa, antaranta[H]sTa
+(AB): <L>5223<pc>1-062-a<k1>antarantasTa<k2>antarantasTa, antarantaHsTa
+------------------------
+24568
+(CDSL): <L>5433<pc>1-064-b<k1>antasTAcCandas<k2>antasTAcCandas, anta[H]sTAcCandas
+(AB): <L>5433<pc>1-064-b<k1>antasTAcCandas<k2>antasTAcCandas, antaHsTAcCandas
+------------------------
+24572
+(CDSL): <L>5434<pc>1-064-b<k1>antasTIBAva<k2>antasTIBAva, anta[H]sTIBAva
+(AB): <L>5434<pc>1-064-b<k1>antasTIBAva<k2>antasTIBAva, antaHsTIBAva
+------------------------
+24795,24796
+(CDSL): <L>5481<pc>1-064-c<k1>antyezwi<k2>antyezwi, antyezwipadDati, antyezwiprayoga, antyezwiviDi
+(CDSL): {#antyezwi#} <lex>f.</lex> {%Todtenopfer%}. {#°padDati#} <lex>f.</lex>, {#°prayoga#} <lex>m.</lex> und {#°viDi#} <lex>m.</lex>¦ Titel von Werken.
+(AB): <L>5481<pc>1-064-c<k1>antyezwi<k2>antyezwi
+(AB): {#antyezwi#}¦ <lex>f.</lex> {%Todtenopfer%}. {#°padDati#} <lex>f.</lex>, {#°prayoga#} <lex>m.</lex> und {#°viDi#} <lex>m.</lex> Titel von Werken.
+------------------------
+25928,25929
+(CDSL): <L>5734<pc>1-068-a<k1>anvartitar<k2>anvartita/r
+(CDSL): {#anvartita/r#}¦ (metrisch für {#anuva°#}) <ab>Nom. ag.</ab> {%Bewerber%}.
+(AB): <L>5734<pc>1-068-a<k1>anvartitar<k2>anvartita/r, anuva°⁅rtita/r⁆
+(AB): {#anvartita/r#} (metrisch für {#anuva°#})¦ <ab>Nom. ag.</ab> {%Bewerber%}.
+------------------------
+34715
+(CDSL): <L>7684<pc>1-090-a<k1>aBizwipA<k2>aBizwipA/, aBizwipA/(si)
+(AB): <L>7684<pc>1-090-a<k1>aBizwipAsi<k2>aBizwipA/si
+------------------------
+84774
+(CDSL): <L>18160<pc>1-222-a<k1>uttaratOpacAra<k2>uttarata/upacAra
+(AB): <L>18160<pc>1-222-a<k1>uttarataupacAra<k2>uttarata/upacAra
+------------------------
+103553
+(CDSL): <L>22061<pc>1-270-a<k1>ekAdaSakapAla<k2>e/kAdaSakapAlaM
+(AB): <L>22061<pc>1-270-a<k1>ekAdaSakapAlaM<k2>e/kAdaSakapAlaM
+------------------------
+130441
+(CDSL): <L>27428<pc>2-060-a<k1>kAlIvidyA<k2>kAlIvidyA_svacCandasaMgrahaH
+(AB): <L>27428<pc>2-060-a<k1>kAlIvidyAsvacCandasaMgrahaH<k2>kAlIvidyA_svacCandasaMgrahaH
+------------------------
+151273
+(CDSL): <L>31692<pc>2-111-a<k1>kranda<k2>kra/ndaM
+(AB): <L>31692<pc>2-111-a<k1>krandaM<k2>kra/ndaM
+------------------------
+178152
+(CDSL): <L>36928<pc>2-184-b<k1>govindanATa<k2>govindanATa, govindanAyaka, govindanyAyAlaMkAraBawwAcArya
+(AB): <L>36928<pc>2-184-b<k1>govindanATa<k2>govindanATa, ⁅go⁆°vindanAyaka, ⁅go⁆°vindanyAyAlaM_kAraBawwAcArya
+------------------------
+179006,179007
+(CDSL): <L>37116<pc>2-186-b<k1>gOtaminandana<k2>gOtaminandana
+(CDSL): {#gOtaminandana#}¦ (metrisch <ab>st.</ab> {#gOtamI°#}) <lex>m.</lex> <ab>Metron.</ab> <is>Aśvatthāman</is>ʼs <ls>MBH. 7,156,118</ls>.
+(AB): <L>37116<pc>2-186-b<k1>gOtaminandana<k2>gOtaminandana, gOtamI°⁅nandana⁆
+(AB): {#gOtaminandana#} (metrisch <ab>st.</ab> {#gOtamI°#})¦ <lex>m.</lex> <ab>Metron.</ab> <is>Aśvatthāman</is>ʼs <ls>MBH. 7,156,118</ls>.
+------------------------
+275137
+(CDSL): <L>56092<pc>3-171-b<k1>DvANkzatuRqaPala<k2>*DvANkzatuRqaPala, *DvANkzatuRqA, DvANkzatuRqI
+(AB): <L>56092<pc>3-171-b<k1>DvANkzatuRqaPala<k2>*DvANkzatuRqaPala, *⁅DvANkza⁆°tuRqA, *⁅DvANkza⁆°tuRqI
+------------------------
+288813,288814
+(CDSL): <L>58889<pc>3-209-b<k1>niranvaya<k2>liranvaya
+(CDSL): {#liranvaya#}¦
+(AB): <L>58889<pc>3-209-b<k1>niranvaya<k2>niranvaya
+(AB): {#niranvaya#}¦
+------------------------
+301467,301468
+(CDSL): <L>61473<pc>3-245-b<k1>nyAyapariSizwa<k2>nyAyapariSizwa, nyAyapariSudDi, nyAyapariSudDiprakASa, nyAyapariBAzA, nyAyaprakaraRa, nyAyaprakASa, nyAyaprakASikA, nyAyapraveSa, *nyAyapraveSatArakaSAstra
+(CDSL): {#nyAyapariSizwa#} <lex>n.</lex>, {#°pariSudDi#} <lex>f.</lex>, {#°prakASa#} <lex>m.</lex>, {#nyAyapariBAzA#} <lex>f.</lex>, {#nyAyaprakaraRa#} <lex>n.</lex>, {#nyAyaprakASa#} <lex>m.</lex>, {#nyAyaprakASikA#} <lex>f.</lex>, {#nyAyapraveSa#} <lex>f.</lex> (<ls>BÜHLER, Rep. No. 738</ls>) und *{#°tArakaSAstra#} <lex>n.</lex>¦ Titel von Werken.
+(AB): <L>61473<pc>3-245-b<k1>nyAyapariSizwa<k2>nyAyapariSizwa, ⁅nyAya⁆°pariSudDi, ⁅nyAyapariSizwa⁆°prakASa, nyAyapariBAzA, nyAyaprakaraRa, nyAyaprakASa, nyAyaprakASikA, nyAyapraveSa, *⁅nyAyapraveSa⁆°tArakaSAstra
+(AB): {#nyAyapariSizwa#} <lex>n.</lex>, {#°pariSudDi#} <lex>f.</lex>, {#°prakASa#} <lex>m.</lex>, {#nyAyapariBAzA#} <lex>f.</lex>, {#nyAyaprakaraRa#} <lex>n.</lex>, {#nyAyaprakASa#} <lex>m.</lex>, {#nyAyaprakASikA#} <lex>f.</lex>, {#nyAyapraveSa#} <lex>m.</lex> (<ls>BÜHLER, Rep. No. 738</ls>) und *{#°tArakaSAstra#} <lex>n.</lex>¦ Titel von Werken.
+------------------------
+312306,312307
+(CDSL): <L>63546<pc>4-034-c<k1>parAmarSavAda<k2>parAmarSavAda, parAmarSavAdahetuvicAra, parAmarSavAdArTa
+(CDSL): {#parAmarSavAda#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>), {#°hetuvicAra#} <lex>m.</lex> und {#°vAdArTa#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>.)¦ Titel von Werken.
+(AB): <L>63546<pc>4-034-c<k1>parAmarSavAda<k2>parAmarSavAda, ⁅parAmarSa⁆°hetutAvicAra, ⁅parAmarSa⁆°vAdArTa
+(AB): {#parAmarSavAda#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>), {#°hetutAvicAra#} <lex>m.</lex> und {#°vAdArTa#} <lex>m.</lex> (<ls>OPP. CAT. 1</ls>.)¦ Titel von Werken.
+------------------------
+316494
+(CDSL): <L>64410<pc>4-047-a<k1>parisTAnam<k2>parisTAna(m)
+(AB): <L>64410<pc>4-047-a<k1>parisTAna<k2>parisTAna, parisTAnam
+------------------------
+343830,343831
+(CDSL): <L>70023<pc>4-124-a<k1>pOtrajIvika<k2>pOtrajIvika
+(CDSL): {#pOtrajIvika#}¦ (metrisch <ab>st.</ab> {#pOtraM°#}) <lex>n.</lex> {%ein aus <bot>Putranjiva Roxburghii</bot> gemachtes Amulet%}.
+(AB): <L>70023<pc>4-124-a<k1>pOtrajIvika<k2>pOtrajIvika, pOtraM°⁅jIvika⁆
+(AB): {#pOtrajIvika#} (metrisch <ab>st.</ab> {#pOtraM°#})¦ <lex>n.</lex> {%ein aus <bot>Putranjiva Roxburghii</bot> gemachtes Amulet%}.
+------------------------
+344720,344721
+(CDSL): <L>70206<pc>4-126-c<k1>praugya<k2>praugya^
+(CDSL): {#praugya^#}¦ <lex>Adj.</lex> {%am%} {#prauga#} 1〉a〉 {%befindlich%}.
+(AB): <L>70206<pc>4-126-c<k1>praugya<k2>pra_ugya^
+(AB): {#pra_ugya^#}¦ <lex>Adj.</lex> {%am%} {#pra_uga#} 1〉a〉 {%befindlich%}.
+------------------------
+350498
+(CDSL): <L>71380<pc>4-144-b<k1>pratiyogijYAnasya<k2>pratiyogijYAnasya_hetutvaKaRqanam
+(AB): <L>71380<pc>4-144-b<k1>pratiyogijYAnasyahetutvaKaRqanam<k2>pratiyogijYAnasya_hetutvaKaRqanam
+------------------------
+350508
+(CDSL): <L>71382<pc>4-144-b<k1>pratiyogyanaDikaraRe<k2>pratiyogyanaDikaraRe_nASasyotpattinirAsaH
+(AB): <L>71382<pc>4-144-b<k1>pratiyogyanaDikaraRenASasyotpattinirAsaH<k2>pratiyogyanaDikaraRe_nASasyotpattinirAsaH
+------------------------
+363007,363008
+(CDSL): <L>73947<pc>4-181-b<k1>prAGAra<k2>prAghAra
+(CDSL): {#prAghAra#}¦ <lex>m.</lex> fehlerhaft für {#pragBAra#}.
+(AB): <L>73947<pc>4-181-b<k1>prAghAra<k2>prAg_hAra
+(AB): {#prAg_hAra#}¦ <lex>m.</lex> fehlerhaft für {#pragBAra#}.
+------------------------
+373963
+(CDSL): <L>76149<pc>4-213-c<k1>bastamAram<k2>bastamAram
+(AB): <L>76149<pc>4-213-c<k1>bastamAra<k2>bastamAra, bastamAram
+------------------------
+376067,376068
+(CDSL): <L>76602<pc>4-219-b<k1>bAjabAhAduracandra<k2>bAjabAhAduracandra
+(CDSL): {#bAjabAh[A]duracandra#}¦ <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten.
+(AB): <L>76602<pc>4-219-b<k1>bAjabAhaduracandra<k2>bAjabAhaduracandra, bAjabAhAduracandra
+(AB): {#bAjabAha[A]duracandra#}¦ <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten.
+------------------------
+397523
+(CDSL): <L>80876<pc>4-283-b<k1>BedaDikkAra<k2>BedaDikkAra, BedaDikkAravyAKyA, BedaDikkAravyAKyAprakASa, BedaDikkAravyAKyAsatkriyA, BedaDikkArAnyatkArahuMkfti
+(AB): <L>80876<pc>4-283-b<k1>BedaDikkAra<k2>BedaDikkAra, ⁅BedaDikkAra⁆°vyAKyA, ⁅BedaDikkAravyAKyA⁆°prakASa, ⁅BedaDikkAravyAKyA⁆°satkriyA, kArAnyatkArahuMkfti
+------------------------
+404815,404816
+(CDSL): <L>82293<pc>5-014-b<k1>madyAsattaka<k2>madyAsattaka, (madyAsaktaka)
+(CDSL): {#madyAsattaka#} ({#°saktaka#} ?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+(AB): <L>82293<pc>5-014-b<k1>madyAsattaka<k2>madyAsattaka, (⁅madyA⁆°sattraka)
+(AB): {#madyAsattaka#} ({#°sattraka#} ?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+------------------------
+407035,407036
+(CDSL): <L>82746<pc>5-020-b<k1>maDvaBAzya<k2>maDvaBAzya, maDvaBAzyawIkA, maDvaBAzyavyAKyA, maDvamataKaRqana, maDvamataprakaraRa, maDvamatamuKaBaNga, maDvamatamuKamardana, maDvamataviDvaMsa, maDvamataviDvaMsana, maDvamuKaBaNga, maDvamuKamardana
+(CDSL): {#maDvaBAzya#} <lex>n.</lex>, {#°wIkA#} <lex>f.</lex>, {#°vyAKyA#} <lex>f.</lex>, {#maDvamataKaRqana#} <lex>n.</lex>, {#°mataprakaraRa#} <lex>n.</lex>, {#°matamuKaBaNga#} <lex>m.</lex>, {#°matamuKamardana#} <lex>n.</lex>, {#°mataviDvaMsa#} <lex>m.</lex> (<ls>BURNELL, T.</ls>), {#°mataviDvaMsana#} <lex>n.</lex>, {#maDvamuKaBaNga#} <lex>m.</lex> und {#maDvamuKamardana#} <lex>n.</lex>¦ Titel von Werken <ls>OPP. CAT. 1</ls>.
+(AB): <L>82746<pc>5-020-b<k1>maDvaBAzya<k2>maDvaBAzya, ⁅maDvaBAzya⁆°wIkA, ⁅maDvaBAzya⁆°vyAKyA, maDvamataKaRqana, ⁅maDva⁆°mataprakaraRa, ⁅maDva⁆°matamuKaBaNga, ⁅maDva⁆°matamuKamardana, ⁅maDva⁆°mataviDvMsa, ⁅maDva⁆°mataviDcMsana, maDvamuKaBaNga, maDvamuKamardana
+(AB): {#maDvaBAzya#} <lex>n.</lex>, {#°wIkA#} <lex>f.</lex>, {#°vyAKyA#} <lex>f.</lex>, {#maDvamataKaRqana#} <lex>n.</lex>, {#°mataprakaraRa#} <lex>n.</lex>, {#°matamuKaBaNga#} <lex>m.</lex>, {#°matamuKamardana#} <lex>n.</lex>, {#°mataviDvMsa#} <lex>m.</lex> (<ls>BURNELL, T.</ls>), {#°mataviDcMsana#} <lex>n.</lex>, {#maDvamuKaBaNga#} <lex>m.</lex> und {#maDvamuKamardana#} <lex>n.</lex>¦ Titel von Werken <ls>OPP. CAT. 1</ls>.
+------------------------
+407251,407252
+(CDSL): <L>82771<pc>5-021-c<k1>manaU<k2>manaU
+(CDSL): {#manaU#}¦ <lex>m.</lex> = <arab>منع</arab> {%eine <ab>best.</ab> Constellation%} <ls>Ind. St. 2,282</ls>.
+(AB): <L>82771<pc>5-021-c<k1>manaU<k2>mana_U
+(AB): {#mana_U#}¦ <lex>m.</lex> = <arab>منع</arab> {%eine <ab>best.</ab> Constellation%} <ls>Ind. St. 2,282</ls>.
+------------------------
+415013,415014
+(CDSL): <L>84311<pc>5-043-c<k1>mahAjAlini<k2>mahAjAlini
+(CDSL): {#mahAjAlini#}¦ (metrisch für {#°nI#}) <lex>f.</lex> {%eine <ab>best.</ab> Pflanze%} <ls>CARAKA. 7,4</ls>.
+(AB): <L>84311<pc>5-043-c<k1>mahAjAlini<k2>mahAjAlini, ⁅mahAjAli⁆°nI
+(AB): {#mahAjAlini#} (metrisch für {#°nI#})¦ <lex>f.</lex> {%eine <ab>best.</ab> Pflanze%} <ls>CARAKA. 7,4</ls>.
+------------------------
+417327,417328
+(CDSL): <L>84790<pc>5-049-c<k1>mahAmUzaka<k2>*mahAmUzaka
+(CDSL): *{#mahAmUzaka#}¦ oder *{#°muzika#} <lex>m.</lex> {%eine Rattenart%} <ls>RĀJAN. 19,58</ls>.
+(AB): <L>84790<pc>5-049-c<k1>mahAmUzaka<k2>*mahAmUzaka, *⁅mahA⁆°mUzika
+(AB): *{#mahAmUzaka#} oder *{#°mUzika#}¦ <lex>m.</lex> {%eine Rattenart%} <ls>RĀJAN. 19,58</ls>.
+------------------------
+424652,424653
+(CDSL): <L>86292<pc>5-070-b<k1>mAyAvAda<k2>mAyAvAda, mAyAvAdaKaRqanawIkA, mAyAvAdaKaRqavivaraRa, mAyAvAdasaMdUzaRI
+(CDSL): {#mAyAvAda#} <lex>m.</lex> {%die Annahme, dass Alles Täuschung sei,%} <ab>Bez.</ab> der Einheitslehre des <is>Vedānta</is> und des Buddhismus. {#°KaRqanawIkA#} <lex>f.</lex> <lex>f.</lex> (<ls>ebend.</ls>), {#°KaRqavivaraRa#} <lex>n.</lex> (<ls>BURNELL, T.</ls>) und {#°saMdUzaRI#} <lex>f.</lex>¦ Titel von Werken.
+(AB): <L>86292<pc>5-070-b<k1>mAyAvAda<k2>mAyAvAda
+(AB): {#mAyAvAda#}¦ <lex>m.</lex> {%die Annahme, dass Alles Täuschung sei,%} <ab>Bez.</ab> der Einheitslehre des <is>Vedānta</is> und des Buddhismus. {#°KaRqanawIkA#} <lex>f.</lex> <lex>f.</lex> (<ls>ebend.</ls>), {#°KaRqavivaraRa#} <lex>n.</lex> (<ls>BURNELL, T.</ls>) und {#°KawUzaRI#} <lex>f.</lex> Titel von Werken.
+------------------------
+427680
+(CDSL): <L>86893<pc>5-078-c<k1>miTaHspfDya<k2>miTaspf/Dya, miTa[H]spf/Dya
+(AB): <L>86893<pc>5-078-c<k1>miTaHspfDya<k2>miTaspf/Dya, miTaHspf/Dya
+------------------------
+428746,428747
+(CDSL): <L>87109<pc>5-082-a<k1>mIm<k2>1. mIm
+(CDSL): <hom>1.</hom> √{#mIm#}¦, {#a/mImet#} und {#mImayat#} <ab>s. u.</ab> <hom>5.</hom> {#mA#}.
+(AB): <L>87109<pc>5-082-a<k1>mIm<k2>1. mIm, a/mImet, mImayat
+(AB): <hom>1.</hom> √{#mIm#}, {#a/mImet#} und {#mImayat#}¦ <ab>s. u.</ab> <hom>5.</hom> {#mA#}.
+------------------------
+432298,432299
+(CDSL): <L>87785<pc>5-093-b<k1>muhUrtawIkA<k2>muhUrtawIkA, muhUrtatattva, muhUrtadarSana, muhUrtadIpaka, muhUrtadIpikA, muhUrtanirRaya, muhUrtapadavI, muhUrtaparIkzA, muhUrtaBAga, muhUrtaBUzaRa, muhUrtaBErava, muhUrtamaRi, muhUrtamADavIya, muhUrtamArtaRqa, (muhUrtamArtARqa), muhUrtamAlA, muhUrtaratna, muhUrtaratnAkara, muhUrtarAjIya, muhUrtalakzaRapawala, muhUrtavallaBA, muhUrtaSAstra, muhUrtasaMgraha, muhUrtasarvasva, muhUrtasAra, muhUrtasidDi
+(CDSL): {#muhUrtawIkA#} <lex>f.</lex>, {#muhUrtatattva#} <lex>n.</lex>, {#muhUrtadarSana#} <lex>n.</lex>, {#muhUrtadIpaka#} <lex>m.</lex>, {#°dIpikA#} <lex>f.</lex>, {#muhUrtanirRaya#} <lex>m.</lex> (<ls>BURNELL, T.</ls>), {#muhUrtapadavI#} <lex>f.</lex>, {#muhUrtaparIkzA#} <lex>f.</lex>, {#muhUrtaBAga#} <lex>m.</lex>, {#muhUrtaBUzaRa#} <lex>n.</lex>, {#muhUrtaBErava#}, {#muhUrtamaRi#} <lex>m.</lex>, {#muhUrtamADavIya#} <lex>n.</lex>, {#muhUrtamArtaRqa#} <lex>m.</lex> ({#°mArtARqa#} fehlerhaft), {#muhUrtamAlA#} <lex>f.</lex>, {#muhUrtaratna#} <lex>n.</lex>, {#muhUrtaratnAkara#} <lex>m.</lex>, {#muhUrtarAjIya#} <lex>n.</lex>, {#muhUrtalakzaRapawala#}, {#muhUrtavallaBA#} <lex>f.</lex>, {#muhUrtaSAstra#} <lex>n.</lex>, {#muhUrtasaMgraha#} <lex>m.</lex>, {#muhUrtasarvasva#} <lex>n.</lex>, {#muhUrtasAra#} <lex>m.</lex> <ls>BURNELL, T.</ls> und {#muhUrtasidDi#} <lex>f.</lex>¦ Titel von Werken <ls>OPP. CAT. 1</ls>.
+(AB): <L>87785<pc>5-093-b<k1>muhUrtawIkA<k2>muhUrtawIkA, muhUrtatattva, muhUrtadarSana, muhUrtadIpaka, ⁅muhUrta⁆°dIpikA, muhUrtanirRaya, muhUrtapadavI, muhUrtarIkzA, muhUrtaBAga, muhUrtaBUzaRa, muhUrtaBErava, muhUrtamaRi, muhUrtamADavIya, muhUrtamArtaRqa, (⁅muhUrta⁆°mArtARqa), muhUrtamAlA, muhUrtaratna, muhUrtaratnAkara, muhUrtarAjAjIyan, muhUrtalakzaRapawala, muhUrtavallaBA, muhUrtaSAstra, muhUrtasaMgraha, muhUrtasarvasva, muhUrtasAra, muhUrtasidDi
+(AB): {#muhUrtawIkA#} <lex>f.</lex>, {#muhUrtatattva#} <lex>n.</lex>, {#muhUrtadarSana#} <lex>n.</lex>, {#muhUrtadIpaka#} <lex>m.</lex>, {#°dIpikA#} <lex>f.</lex>, {#muhUrtanirRaya#} <lex>m.</lex> (<ls>BURNELL, T.</ls>), {#muhUrtapadavI#} <lex>f.</lex>, {#muhUrtarIkzA#} <lex>f.</lex>, {#muhUrtaBAga#} <lex>m.</lex>, {#muhUrtaBUzaRa#} <lex>n.</lex>, {#muhUrtaBErava#}, {#muhUrtamaRi#} <lex>m.</lex>, {#muhUrtamADavIya#} <lex>n.</lex>, {#muhUrtamArtaRqa#} <lex>m.</lex> ({#°mArtARqa#} fehlerhaft), {#muhUrtamAlA#} <lex>f.</lex>, {#muhUrtaratna#} <lex>n.</lex>, {#muhUrtaratnAkara#} <lex>m.</lex>, {#muhUrtarAjAjIyan#}, {#muhUrtalakzaRapawala#}, {#muhUrtavallaBA#} <lex>f.</lex>, {#muhUrtaSAstra#} <lex>n.</lex>, {#muhUrtasaMgraha#} <lex>m.</lex>, {#muhUrtasarvasva#} <lex>n.</lex>, {#muhUrtasAra#} <lex>m.</lex> <ls>BURNELL, T.</ls> und {#muhUrtasidDi#} <lex>f.</lex>¦ Titel von Werken <ls>OPP. CAT. 1</ls>.
+------------------------
+435113,435114
+(CDSL): <L>88376<pc>5-101-a<k1>mfttika<k2>mfttika
+(CDSL): {#mfttika#}¦ (metrisch im <ab>Comp.</ab>) und {#mf/ttikA#} <lex>f.</lex>
+(AB): <L>88376<pc>5-101-a<k1>mfttika<k2>mfttika, mf/ttikA
+(AB): {#mfttika#} (metrisch im <ab>Comp.</ab>) und {#mf/ttikA#}¦ <lex>f.</lex>
+------------------------
+440982,440983
+(CDSL): <L>89573<pc>5-117-b<k1>yajYavoQave<k2>yajYavoQave
+(CDSL): {#yajYavoQave#}¦ (metrisch <ab>st.</ab> {#yajaM#} {#vo°#}) <ab>Dat.</ab> <ab>Infin.</ab> {%um die Opfer zu geleiten, — zu den Göttern zu befördern%}.
+(AB): <L>89573<pc>5-117-b<k1>yajYavoQave<k2>yajYavoQave, yajYaM vo°⁅Qave⁆
+(AB): {#yajYavoQave#} (metrisch <ab>st.</ab> {#yajYaM vo°#})¦ <ab>Dat.</ab> <ab>Infin.</ab> {%um die Opfer zu geleiten, — zu den Göttern zu befördern%}.
+------------------------
+441282,441283
+(CDSL): <L>89639<pc>5-118-a<k1>yajYAsah<k2>yajYAsa/h, (yajYAsA/h)
+(CDSL): {#yajYAsa/h#} (stark {#°sA/h#})¦ <lex>Adj.</lex> {%des Opfers mächtig%}.
+(AB): <L>89639<pc>5-118-a<k1>yajYAsah<k2>yajYAsa/h, (⁅yajYA⁆°sA/ha)
+(AB): {#yajYAsa/h#} (stark {#°sA/ha#})¦ <lex>Adj.</lex> {%des Opfers mächtig%}.
+------------------------
+445067,445068
+(CDSL): <L>90393<pc>5-131-b<k1>yamya<k2>2. (yamya)
+(CDSL): <hom>2.</hom> ({#yamya#})¦ <lex>Adj.</lex> {%verzwillingt%} scheinbar <ls>ṚV. 3,55,11</ls>, da hier {#yamyAM#} <ab>Nomin.</ab> <ab>Du.</ab> <lex>f.</lex> von {#yamI/#} ist.
+(AB): <L>90393<pc>5-131-b<k1>yamya<k2>2. (yamya), yami/a
+(AB): <hom>2.</hom> ({#yamya#}) yami/a¦ <lex>Adj.</lex> {%verzwillingt%} scheinbar <ls>ṚV. 3,55,11</ls>, da hier {#yamyAM#} <ab>Nomin.</ab> <ab>Du.</ab> <lex>f.</lex> von {#yamI/#} ist.
+------------------------
+456733,456734
+(CDSL): <L>92669<pc>5-168-a<k1>radAvalidvaMdva<k2>radAvalidvaMdva
+(CDSL): √{#radAvalidvaMdva#}¦, {#°dvaMdvati#} {%wie zwei Reihen Zähne erscheinen%} [Page5-168-b] <ls>NAIṢ. 7,44</ls>.
+(AB): <L>92669<pc>5-168-a<k1>radAvalidvaMdv<k2>radAvalidvaMdv
+(AB): !√{#radAvalidvaMdv#}¦, {#°dvaMdvati#} {%wie zwei Reihen Zähne erscheinen%} [Page5-168-b] <ls>NAIṢ. 7,44</ls>.
+------------------------
+479530,479531
+(CDSL): <L>96999<pc>5-239-b<k1>lohitAyani<k2>lohitAyani
+(CDSL): {#lohitAyani#}¦ (metrisch für {#°nI#}) <lex>f.</lex> <ab>Patron.</ab>
+(AB): <L>96999<pc>5-239-b<k1>lohitAyani<k2>lohitAyani, ⁅lohitAya⁆°nI
+(AB): {#lohitAyani#} (metrisch für {#°nI#})¦ <lex>f.</lex> <ab>Patron.</ab>
+------------------------
+485014,485015
+(CDSL): <L>98093<pc>6-016-a<k1>vanApaga<k2>vanApaga
+(CDSL): {#vanApaga#}¦ (metrisch <ab>st.</ab> {#°gA#}) {%Fluss%}.
+(AB): <L>98093<pc>6-016-a<k1>vanApaga<k2>vanApaga, ⁅vanApa⁆°gA
+(AB): {#vanApaga#} (metrisch <ab>st.</ab> {#°gA#})¦ {%Fluss%}.
+------------------------
+512034
+(CDSL): <L>103170<pc>6-100-c<k1>viniHsfptAhuti<k2>vinisfptAhuti, vini[H]sfptAhuti
+(AB): <L>103170<pc>6-100-c<k1>viniHsfptAhuti<k2>vinisfptAhuti, viniHsfptAhuti
+------------------------
+517878,517879
+(CDSL): <L>104317<pc>6-117-b<k1>vivatsu<k2>vivatsu
+(CDSL): {#vivatsu#}¦ (metrisch für {#vivadizu#}) <lex>Adj.</lex> {%zu sagen wünschend%} <ls>Spr. 7684</ls>.
+(AB): <L>104317<pc>6-117-b<k1>vivatsu<k2>vivatsu, vivadizu
+(AB): {#vivatsu#} (metrisch für {#vivadizu#})¦ <lex>Adj.</lex> {%zu sagen wünschend%} <ls>Spr. 7684</ls>.
+------------------------
+557024
+(CDSL): <L>112233<pc>6-232-c<k1>SitivAra<k2>SitivA/raM
+(AB): <L>112233<pc>6-232-c<k1>SitivAraM<k2>SitivA/raM
+------------------------
+550675,550676
+(CDSL): <L>110933<pc>6-215-a<k1>SavasauSInara<k2>SavasauSInara
+(CDSL): {#SavasauSInara#}, {#°rezu#} <ls>GOP. BR. 1,2,9</ls>¦ fehlerhaft für {#savaSoSI°#}; <ab>vgl.</ab> <ls>AIT. BR. 8,14</ls>.
+(AB): <L>110933<pc>6-215-a<k1>SavasauSInara<k2>Savasa_uSInara
+(AB): {#Savasa_uSInara#}¦, {#°rezu#} <ls>GOP. BR. 1,2,9</ls> fehlerhaft für {#savaSoSI°#}; <ab>vgl.</ab> <ls>AIT. BR. 8,14</ls>.
+------------------------
+552285
+(CDSL): <L>111278<pc>6-219-b<k1>SAktatantra<k2>SAktatantra, SAktiBAzya, SAktAnandataraMgiRI
+(AB): <L>111278<pc>6-219-b<k1>SAktatantra<k2>SAktatantra, SAktaBAzya, SAktAnandataraMgiRI
+------------------------
+556616,556617
+(CDSL): <L>112153<pc>6-231-c<k1>SiKi<k2>SiKi
+(CDSL): {#SiKi#}¦ (metrisch für {#SiKin#}) <lex>m.</lex>
+(AB): <L>112153<pc>6-231-c<k1>SiKi<k2>SiKi, SiKin
+(AB): {#SiKi#} (metrisch für {#SiKin#})¦ <lex>m.</lex>
+------------------------
+561624
+(CDSL): <L>113197<pc>6-245-c<k1>SukamahimnaH<k2>SukamahimnaH_stavaH
+(AB): <L>113197<pc>6-245-c<k1>SukamahimnaHstavaH<k2>SukamahimnaH_stavaH
+------------------------
+566781
+(CDSL): <L>114226<pc>6-260-b<k1>SElavAlukA<k2>SElavAlukA, SElavAlukA(s)
+(AB): <L>114226<pc>6-260-b<k1>SElavAlukAs<k2>SElavAlukA, SElavAlukAs
+------------------------
+577618
+(CDSL): <L>116438<pc>6-292-a<k1>zoqaSakAraRajayamAlA<k2>zoqaSakAraRajayamAlA, zoqaSakAraRapUjA, zoqaSakArikA, zoqaSakUrca, zoqaSagaRapatiDyAna, zoqaSagaRapatilakzaRa
+(AB): <L>116438<pc>6-292-a<k1>zoqaSakAraRajayamAlA<k2>zoqaSakAraRajayamAlA, ⁅oqaSa⁆°kAraRapUjA, zoqaSakArikA, zoqaSakUrca, zoqaSagaRapatiDyAna, ⁅zoqaSa⁆°gaRapatilakzaRa
+------------------------
+597060,597061
+(CDSL): <L>120439<pc>7-062-b<k1>samAvApti<k2>samAvApti
+(CDSL): {#samAvApti#}¦ (metrisch für {#samavApti#}) <lex>f.</lex> {%Erlangung%} <ls>HEMĀDRI 1,407,4</ls>.
+(AB): <L>120439<pc>7-062-b<k1>samAvApti<k2>samAvApti, samavApti
+(AB): {#samAvApti#} (metrisch für {#samavApti#})¦ <lex>f.</lex> {%Erlangung%} <ls>HEMĀDRI 1,407,4</ls>.
+------------------------
+597064,597065
+(CDSL): <L>120440<pc>7-062-b<k1>samAvAya<k2>samAvAya
+(CDSL): {#samAvAya#}¦ (metrisch für {#samavAya#}) <lex>m.</lex> {%Zusammenkunft, Versammlung; Schwarm, Menge; Verbindung, Aggregat%}.
+(AB): <L>120440<pc>7-062-b<k1>samAvAya<k2>samAvAya, samavAya
+(AB): {#samAvAya#} (metrisch für {#samavAya#})¦ <lex>m.</lex> {%Zusammenkunft, Versammlung; Schwarm, Menge; Verbindung, Aggregat%}.
+------------------------
+600260,600261
+(CDSL): <L>121106<pc>7-071-c<k1>saMbanDi<k2>saMbanDi
+(CDSL): {#saMbanDi#}¦ (metrisch für {#°n#})
+(AB): <L>121106<pc>7-071-c<k1>saMbanDi<k2>saMbanDi, ⁅saMbanDi⁆°n
+(AB): {#saMbanDi#} (metrisch für {#°n#})¦
+------------------------
+603713,603714
+(CDSL): <L>121662<pc>7-084-a<k1>sarpizmant<k2>sa/rpizmant, sarpi/zvant
+(CDSL): {#sa/rpizmant#} (Accent!) und {#sarpi/zvant#}¦ <lex>Adj.</lex> {%mit Schmalz versehen, mit Schmalz bereitet%}.
+(AB): <L>121662<pc>7-084-a<k1>sarpizmant<k2>sa/rpizmant, sarpizvant
+(AB): {#sa/rpizmant#} (Accent!) und {#sarpizvant#}¦ <lex>Adj.</lex> {%mit Schmalz versehen, mit Schmalz bereitet%}.
+------------------------
+616420,616421
+(CDSL): <L>124385<pc>7-121-b<k1>sAradIya<k2>sAradIya, SAradIya, SAradIyanAmamAlA
+(CDSL): {#sAradIya#} (besser {#SA°#}) <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {#°nAmamAlA#} <lex>f.</lex>¦ Titel eines Werkes <ls>BÜHLER, Rep. No. 780</ls>.
+(AB): <L>124385<pc>7-121-b<k1>sAradIya<k2>sAradIya_nAmamAlA, (SAradIya_nAmamAlA)
+(AB): {#sAradIya#} (besser {#SA°#}) <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {#nAmamAlA#}¦ <lex>f.</lex> Titel eines Werkes <ls>BÜHLER, Rep. No. 780</ls>.
+------------------------
+617637,617638
+(CDSL): <L>124654<pc>7-124-c<k1>sAvErisole<k2>sAvairisole
+(CDSL): {#sAvairisole#}¦ <ab>N. pr.</ab> eines Districts.
+(AB): <L>124654<pc>7-124-c<k1>sAvairisole<k2>sAva_irisole
+(AB): {#sAva_irisole#}¦ <ab>N. pr.</ab> eines Districts.
+------------------------
+620568,620569
+(CDSL): <L>125254<pc>7-132-c<k1>sidDAntaratna<k2>sidDAntaratna, sidDAntaratnAvali, sidDAntaratnAvalI, sidDAntarahasya, sidDAntlakzaRa, sidDAntlakzaRajAgadISI, sidDAntalakzaRAkroqa, sidDAntalakzaRI, sidDAntalaGuKamARika, sidDAntaleSa, sidDAntaleSasaMgraha
+(CDSL): {#sidDAntaratna#} <lex>n.</lex>, {#°ratnAvali#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>), {#°ratnAvalI#} (<ls>BURNELL, T.</ls>), {#sidDAntarahasya#} <lex>n.</lex>, {#sidDAntlakzaRa#} <lex>n.</lex> (<ls>OPP. CAT. 1</ls>), {#°jAgadISI#} <lex>f.</lex>, {#°lakzaRAkroqa#} <lex>m.</lex>, {#sidDAntalakzaRI#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>), {#sidDAntalaGuKamARika#}, {#sidDAntaleSa#} <lex>m.</lex> und {#°saMgraha#} <lex>m.</lex>¦ Titel von Werken.
+(AB): <L>125254<pc>7-132-c<k1>sidDAntaratna<k2>sidDAntaratna, ⁅sidDAnta⁆°ratnAvali, ⁅sidDAnta⁆°ratnAvalI, sidDAntarahasya, sidDAntalakzaRa, ⁅sidDAntalakzaRa⁆°jAgadISI, ⁅sidDAnta⁆°lakzaRAkroqa, sidDAntalakzaRI, sidDAntalaGuKamARika, sidDAntaleSa, ⁅sidDAntaleSa⁆°saMgraha
+(AB): {#sidDAntaratna#} <lex>n.</lex>, {#°ratnAvali#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>), {#°ratnAvalI#} (<ls>BURNELL, T.</ls>), {#sidDAntarahasya#} <lex>n.</lex>, {#sidDAntalakzaRa#} <lex>n.</lex> (<ls>OPP. CAT. 1</ls>), {#°jAgadISI#} <lex>f.</lex>, {#°lakzaRAkroqa#} <lex>m.</lex>, {#sidDAntalakzaRI#} <lex>f.</lex> (<ls>OPP. CAT. 1</ls>), {#sidDAntalaGuKamARika#}, {#sidDAntaleSa#} <lex>m.</lex> und {#°saMgraha#} <lex>m.</lex>¦ Titel von Werken.
+------------------------
+623586,623587
+(CDSL): <L>125870<pc>7-141-b<k1>suKasaMbanDi<k2>suKasaMbanDi
+(CDSL): {#suKasaMbanDi#}¦ (metrisch für {#°saMbanDin#}) <lex>Adj.</lex> {%froh, glücklich%} <ls>MBH. 7,143,20</ls>.
+(AB): <L>125870<pc>7-141-b<k1>suKasaMbanDi<k2>suKasaMbanDi, ⁅suKa⁆°saMbanDin
+(AB): {#suKasaMbanDi#} (metrisch für {#°saMbanDin#})¦ <lex>Adj.</lex> {%froh, glücklich%} <ls>MBH. 7,143,20</ls>.
+------------------------
+661904,661905
+(CDSL): <L>133461<pc>7-253-a<k1>hananIya<k2>*hananIya
+(CDSL): *√{#hananIya#}¦ {#°yati#} = {#hananamicCati#}
+(AB): <L>133461<pc>7-253-a<k1>hananIy<k2>*hananIy
+(AB): *!√{#hananIy#}¦ {#°yati#} = {#hananamicCati#}
+------------------------
