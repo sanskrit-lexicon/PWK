@@ -1,0 +1,104 @@
+214
+(CDSL): <L>200215<pc>1-284-a<k1>acCera<k2>acCe/ra, aYSe/ra
+(AB): <L>200215<pc>1-284-a<k1>acCera<k2>acCe/ra, (aYSe/ra)
+------------------------
+2642
+(CDSL): <L>202642<pc>2-294-a<k1>AraRyakaBawwaBAskara<k2>AraRyakaBawwaBAskara, AraRyakaBAzya, AraRyakopanizad, AraRyaBAzya, AraRyamahAprastAnikA, AraRyamahAprasTAnikA, AraRyaSikzA, AraRyopanizad, ArADanakrama, AruRaSikzA
+(AB): <L>202642<pc>2-294-a<k1>AraRyakaBawwaBAskara<k2>AraRyakaBawwaBAskara, AraRyakaBAzya, AraRyakopanizad, AraRyaBAzya, AraRyamahAprastAnikA, (AraRyamahAprasTAnikA), AraRyaSikzA, AraRyopanizad, ArADanakrama, AruRaSikzA
+------------------------
+4364
+(CDSL): <L>204366<pc>3-258-c<k1>kawuSfNgAwa<k2>*kawuSfNgAwa, kawuSfNgAla
+(AB): <L>204366<pc>3-258-c<k1>kawuSfNgAwa<k2>*kawuSfNgAwa, (kawuSfNgAla)
+------------------------
+6421
+(CDSL): <L>206425<pc>5-245-a<k1>arcatrya<k2>arcatrya, arcatri/a
+(AB): <L>206425<pc>5-245-a<k1>arcatrya<k2>(arcatrya), arcatri/a
+------------------------
+6882
+(CDSL): <L>206886<pc>5-250-b<k1>udgrAhiRikA<k2>°udgrAhiRikA, °udgrAhaRikA
+(AB): <L>206886<pc>5-250-b<k1>udgrAhiRikA<k2>°udgrAhiRikA, udgrAhaRikA
+------------------------
+7067
+(CDSL): <L>207071<pc>5-252-b<k1>kuyavAc<k2>ku/yavAc, ku/yavAca
+(AB): <L>207071<pc>5-252-b<k1>kuyavAc<k2>ku/yavAc, (ku/yavAca)
+------------------------
+7925
+(CDSL): <L>207929<pc>5-261-c<k1>bArQya<k2>*bArQya, vArQya
+(AB): <L>207929<pc>5-261-c<k1>bArQya<k2>*bArQya, (vArQya)
+------------------------
+8157
+(CDSL): <L>208160<pc>5-264-b<k1>ruMz<k2>ruMz, rUz
+(AB): <L>208160<pc>5-264-b<k1>ruMz<k2>ruMz, (rUz)
+------------------------
+9175
+(CDSL): <L>209179<pc>6-304-b<k1>balakza<k2>balakza, valakza
+(AB): <L>209179<pc>6-304-b<k1>balakza<k2>balakza, (valakza)
+------------------------
+10004
+(CDSL): <L>210010<pc>7-292-c<k1>aRi<k2>aRi, aRI
+(AB): <L>210010<pc>7-292-c<k1>aRi<k2>(aRi), aRI
+------------------------
+11057
+(CDSL): <L>211063<pc>7-298-d<k1>anikziptaDura<k2>anikziptaDura, anikziptaDUra
+(AB): <L>211063<pc>7-298-d<k1>anikziptaDura<k2>anikziptaDura, (anikziptaDUra)
+------------------------
+12399
+(CDSL): <L>212405<pc>7-307-a<k1>amadana<k2>amadana, amadyamadyant, amadyamAdyant
+(AB): <L>212405<pc>7-307-a<k1>amadana<k2>amadana, amadyamadyant, (amadyamAdyant)
+------------------------
+12467
+(CDSL): <L>212473<pc>7-307-c<k1>amftaturaMga<k2>amftaturaMga, amftataraMga
+(AB): <L>212473<pc>7-307-c<k1>amftaturaMga<k2>amftaturaMga, (amftataraMga)
+------------------------
+12684
+(CDSL): <L>212690<pc>7-308-d<k1>arcatrya<k2>arcatrya^, arcatri/a
+(AB): <L>212690<pc>7-308-d<k1>arcatrya<k2>arcatrya^, (arcatri/a)
+------------------------
+14044
+(CDSL): <L>214050<pc>7-317-d<k1>AtmaSlAGana<k2>AtmaSlAGana, AtmaSlAGanA, AtmaSlAGA
+(AB): <L>214050<pc>7-317-d<k1>AtmaSlAGana<k2>AtmaSlAGana, (AtmaSlAGanA), AtmaSlAGA
+------------------------
+15466
+(CDSL): <L>215472<pc>7-327-d<k1>ekEkatra<k2>ekEkatra, ekEkavant, ekotiBAva, ekotIBAva
+(AB): <L>215472<pc>7-327-d<k1>ekEkatra<k2>ekEkatra, ekEkavant, ekotiBAva, (ekotIBAva)
+------------------------
+16040
+(CDSL): <L>216046<pc>7-332-a<k1>kAlapfzwa<k2>kAlapfzwa, kAlapfzWa
+(AB): <L>216046<pc>7-332-a<k1>kAlapfzwa<k2>kAlapfzwa, (kAlapfzWa)
+------------------------
+17393
+(CDSL): <L>217399<pc>7-342-b<k1>Cad<k2>3. Cad, Cand
+(AB): <L>217399<pc>7-342-b<k1>Cad<k2>3. Cad, (Cand)
+------------------------
+19610
+(CDSL): <L>219616<pc>7-360-c<k1>pratipraSrabDi<k2>*pratipraSrabDi, pratiprasrabDi
+(AB): <L>219616<pc>7-360-c<k1>pratipraSrabDi<k2>*pratipraSrabDi, (pratiprasrabDi)
+------------------------
+19986
+(CDSL): <L>219992<pc>7-363-d<k1>bArQya<k2>bArQya, vArQya, bArbara, bArbaraka
+(AB): <L>219992<pc>7-363-d<k1>bArQya<k2>bArQya, (vArQya), bArbara, bArbaraka
+------------------------
+19992
+(CDSL): <L>219998<pc>7-363-d<k1>bAlAha<k2>bAlAha, vAlAha, bAlAhaka
+(AB): <L>219998<pc>7-363-d<k1>bAlAha<k2>bAlAha, (vAlAha), bAlAhaka
+------------------------
+20670
+(CDSL): <L>220675<pc>7-369-d<k1>yavaSasya<k2>yavaSasya, yavasasya
+(AB): <L>220675<pc>7-369-d<k1>yavaSasya<k2>yavaSasya, (yavasasya)
+------------------------
+20789
+(CDSL): <L>220794<pc>7-371-a<k1>rAmakAyaRa<k2>rAmakAyaRa/, rAmakAyana
+(AB): <L>220794<pc>7-371-a<k1>rAmakAyaRa<k2>rAmakAyaRa/, (rAmakAyana)
+------------------------
+21105
+(CDSL): <L>221110<pc>7-374-b<k1>viRwaka<k2>viRwaka, viMwaka
+(AB): <L>221110<pc>7-374-b<k1>viRwaka<k2>viRwaka, (viMwaka)
+------------------------
+21538
+(CDSL): <L>221543<pc>7-378-d<k1>SramB<k2>SramB, sramB
+(AB): <L>221543<pc>7-378-d<k1>SramB<k2>SramB, (sramB)
+------------------------
+22296
+(CDSL): <L>222302<pc>7-387-a<k1>uSadaG<k2>uSa/daG, uSa/dah
+(AB): <L>222302<pc>7-387-a<k1>uSadaG<k2>uSa/daG, (uSa/dah)
+------------------------

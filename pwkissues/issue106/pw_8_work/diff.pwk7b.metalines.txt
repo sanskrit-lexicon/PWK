@@ -1,0 +1,2812 @@
+47
+(CDSL): <L>47<pc>1-001-b<k1>aMsya<k2>a/Msya, a/Msia
+(AB): <L>47<pc>1-001-b<k1>aMsya<k2>(a/Msya), a/Msia
+------------------------
+169
+(CDSL): <L>169<pc>1-003-a<k1>akuDryak<k2>akuDrya^k, akuDri/ak
+(AB): <L>169<pc>1-003-a<k1>akuDryak<k2>(akuDrya^k), akuDri/ak
+------------------------
+499
+(CDSL): <L>499<pc>1-006-c<k1>agohya<k2>a/gohya, a/gohia
+(AB): <L>499<pc>1-006-c<k1>agohya<k2>(a/gohya), a/gohia
+------------------------
+1081
+(CDSL): <L>1081<pc>1-013-b<k1>aNgya<k2>a/Ngya, a/Ngia
+(AB): <L>1081<pc>1-013-b<k1>aNgya<k2>(a/Ngya), a/Ngia
+------------------------
+1393
+(CDSL): <L>1393<pc>1-017-a<k1>ajozya<k2>a/jozya, a/jozia
+(AB): <L>1393<pc>1-017-a<k1>ajozya<k2>(a/jozya), a/jozia
+------------------------
+1421
+(CDSL): <L>1421<pc>1-017-b<k1>ajrya<k2>ajrya^, ajri^a
+(AB): <L>1421<pc>1-017-b<k1>ajrya<k2>(ajrya^), ajri^a
+------------------------
+1620
+(CDSL): <L>1620<pc>1-020-a<k1>atasAyya<k2>atasA/yya, atasA/yia
+(AB): <L>1620<pc>1-020-a<k1>atasAyya<k2>(atasA/yya), atasA/yia
+------------------------
+1642
+(CDSL): <L>1642<pc>1-020-a<k1>atikiriwa<k2>a/tikiriwa, a/tikirIwa
+(AB): <L>1642<pc>1-020-a<k1>atikiriwa<k2>a/tikiriwa, (a/tikirIwa)
+------------------------
+1691
+(CDSL): <L>1691<pc>1-020-c<k1>atiGnya<k2>atiGnya^, atiGni/a
+(AB): <L>1691<pc>1-020-c<k1>atiGnya<k2>(atiGnya^), atiGni/a
+------------------------
+2297
+(CDSL): <L>2297<pc>1-027-a<k1>atyAyam<k2>atyA/yam, atiA/yam
+(AB): <L>2297<pc>1-027-a<k1>atyAyam<k2>(atyA/yam), atiA/yam
+------------------------
+2363
+(CDSL): <L>2363<pc>1-027-c<k1>aTa<k2>a/Ta, a/TA
+(AB): <L>2363<pc>1-027-c<k1>aTa<k2>a/Ta, (a/TA)
+------------------------
+2553
+(CDSL): <L>2553<pc>1-030-a<k1>adDyAlohakarRa<k2>adDyAlohaka/rRa, (aDyA°lohaka/rRa)
+(AB): <L>2553<pc>1-030-a<k1>adDyAlohakarRa<k2>adDyAlohaka/rRa, (aDyAlohaka/rRa)
+------------------------
+2597
+(CDSL): <L>2598<pc>1-030-c<k1>adyUtya<k2>adyUtya^, adyUti/a
+(AB): <L>2598<pc>1-030-c<k1>adyUtya<k2>(adyUtya^), adyUti/a
+------------------------
+2665
+(CDSL): <L>2666<pc>1-031-b<k1>advizenya<k2>advizenya/, advizeRia/, adveza/
+(AB): <L>2666<pc>1-031-b<k1>advizenya<k2>(advizenya/), advizeRia/, adveza/
+------------------------
+2696
+(CDSL): <L>2697<pc>1-031-c<k1>aDaHprANSAyin<k2>aDaHprANSAyin, (aDaHprAkSA°yin)
+(AB): <L>2697<pc>1-031-c<k1>aDaHprANSAyin<k2>aDaHprANSAyin, (aDaHprAkSAyin)
+------------------------
+2815
+(CDSL): <L>2816<pc>1-033-c<k1>aDigartya<k2>a/Digartya, a/Digartia
+(AB): <L>2816<pc>1-033-c<k1>aDigartya<k2>(a/Digartya), a/Digartia
+------------------------
+2875
+(CDSL): <L>2876<pc>1-034-b<k1>aDimAtrakAruRika<k2>aDimAtrakAruRika, atimAtrakAruRika
+(AB): <L>2876<pc>1-034-b<k1>aDimAtrakAruRika<k2>aDimAtrakAruRika, (atimAtrakAruRika)
+------------------------
+2946
+(CDSL): <L>2947<pc>1-035-a<k1>aDizavaRya<k2>aDizavaRya^, aDizavaRi/a
+(AB): <L>2947<pc>1-035-a<k1>aDizavaRya<k2>(aDizavaRya^), aDizavaRi/a
+------------------------
+4040
+(CDSL): <L>4041<pc>1-047-b<k1>anikziptaDura<k2>anikziptaDura, anikziptaDUra
+(AB): <L>4041<pc>1-047-b<k1>anikziptaDura<k2>anikziptaDura, (anikziptaDUra)
+------------------------
+4889
+(CDSL): <L>4890<pc>1-058-a<k1>anuScota<k2>*anuScota, anuScyota
+(AB): <L>4890<pc>1-058-a<k1>anuScota<k2>*anuScota, (anuScyota)
+------------------------
+5032
+(CDSL): <L>5033<pc>1-059-b<k1>anUpya<k2>anUpya^, anUpi/a
+(AB): <L>5033<pc>1-059-b<k1>anUpya<k2>(anUpya^), anUpi/a
+------------------------
+5118
+(CDSL): <L>5119<pc>1-060-b<k1>anedya<k2>a/nedya, a/nedia
+(AB): <L>5119<pc>1-060-b<k1>anedya<k2>(a/nedya), a/nedia
+------------------------
+5273
+(CDSL): <L>5274<pc>1-062-c<k1>antarikzya<k2>anta/rikzya, anta/rikzia
+(AB): <L>5274<pc>1-062-c<k1>antarikzya<k2>(anta/rikzya), anta/rikzia
+------------------------
+5415
+(CDSL): <L>5416<pc>1-064-a<k1>antasTIya<k2>*antasTIya, antaHsTIya
+(AB): <L>5416<pc>1-064-a<k1>antasTIya<k2>*antasTIya, (antaHsTIya)
+------------------------
+5479
+(CDSL): <L>5480<pc>1-064-c<k1>antyUti<k2>a/ntyUti, a/ntiUti
+(AB): <L>5480<pc>1-064-c<k1>antyUti<k2>(a/ntyUti), a/ntiUti
+------------------------
+5732
+(CDSL): <L>5734<pc>1-068-a<k1>anvartitar<k2>anvartita/r, anuva°rtita/r⁆
+(AB): <L>5734<pc>1-068-a<k1>anvartitar<k2>anvartita/r, anuvartita/r
+------------------------
+5935
+(CDSL): <L>5937<pc>1-070-b<k1>apad<k2>apa/d, apa/d, apudI, a/pad
+(AB): <L>5937<pc>1-070-b<k1>apad<k2>apa/d, (apa/d, apudI), a/pad
+------------------------
+6434
+(CDSL): <L>6436<pc>1-075-c<k1>apAmaMBavizRu<k2>apAmaMBavizRu, apAmanaMBavizRu
+(AB): <L>6436<pc>1-075-c<k1>apAmaMBavizRu<k2>apAmaMBavizRu, (apAmanaMBavizRu)
+------------------------
+6478
+(CDSL): <L>6480<pc>1-076-b<k1>apikakzya<k2>apikakzya^, apikakzi/a
+(AB): <L>6480<pc>1-076-b<k1>apikakzya<k2>(apikakzya^), apikakzi/a
+------------------------
+6597
+(CDSL): <L>6599<pc>1-077-c<k1>apUrvya<k2>a/pUrvya, a/pUrvia
+(AB): <L>6599<pc>1-077-c<k1>apUrvya<k2>(a/pUrvya), a/pUrvia
+------------------------
+6654
+(CDSL): <L>6656<pc>1-078-b<k1>aptUrya<k2>aptU/rya, aptU/ria
+(AB): <L>6656<pc>1-078-b<k1>aptUrya<k2>(aptU/rya), aptU/ria
+------------------------
+6656
+(CDSL): <L>6658<pc>1-078-b<k1>aptya<k2>aptya/, aptia/
+(AB): <L>6658<pc>1-078-b<k1>aptya<k2>(aptya/), aptia/
+------------------------
+6782
+(CDSL): <L>6784<pc>1-079-c<k1>aprativAcya<k2>aprativAcya, aprativAcia
+(AB): <L>6784<pc>1-079-c<k1>aprativAcya<k2>(aprativAcya), aprativAcia
+------------------------
+6790
+(CDSL): <L>6792<pc>1-079-c<k1>aprativASya<k2>aprativASya, aprativASia
+(AB): <L>6792<pc>1-079-c<k1>aprativASya<k2>(aprativASya), aprativASia
+------------------------
+7071
+(CDSL): <L>7073<pc>1-083-a<k1>abandDra<k2>abandDra/, abanDra/
+(AB): <L>7073<pc>1-083-a<k1>abandDra<k2>abandDra/, (abanDra/)
+------------------------
+7107
+(CDSL): <L>7109<pc>1-083-b<k1>abiBIvaMs<k2>a/biBIvaMs, a/biByus, a/biByat
+(AB): <L>7109<pc>1-083-b<k1>abiBIvaMs<k2>a/biBIvaMs, (a/biByus), a/biByat
+------------------------
+7491
+(CDSL): <L>7493<pc>1-087-c<k1>aBiBUtyojas<k2>aBiBUtyo/jas, aBiBUtio/jas
+(AB): <L>7493<pc>1-087-c<k1>aBiBUtyojas<k2>(aBiBUtyo/jas), aBiBUtio/jas
+------------------------
+7658
+(CDSL): <L>7660<pc>1-089-c<k1>aBizac<k2>aBiza/c, aBizAc
+(AB): <L>7660<pc>1-089-c<k1>aBizac<k2>aBiza/c, (aBizAc)
+------------------------
+7888
+(CDSL): <L>7890<pc>1-092-b<k1>aByarDayajvan<k2>aByarDaya/jvan, aBiarDaya/jvan
+(AB): <L>7890<pc>1-092-b<k1>aByarDayajvan<k2>(aByarDaya/jvan), aBiarDaya/jvan
+------------------------
+8712
+(CDSL): <L>8714<pc>1-101-c<k1>ayajYasac<k2>a/yajYasac, a/yajYasAc
+(AB): <L>8714<pc>1-101-c<k1>ayajYasac<k2>a/yajYasac, (a/yajYasAc)
+------------------------
+8756
+(CDSL): <L>8758<pc>1-102-b<k1>ayavAha<k2>ayavAha, AyavAha
+(AB): <L>8758<pc>1-102-b<k1>ayavAha<k2>ayavAha, (AyavAha)
+------------------------
+8885
+(CDSL): <L>8887<pc>1-103-c<k1>ayopAzwi<k2>a/yopAzwi, a/yoapAzwi
+(AB): <L>8887<pc>1-103-c<k1>ayopAzwi<k2>(a/yopAzwi), a/yoapAzwi
+------------------------
+9315
+(CDSL): <L>9317<pc>1-108-c<k1>arGapAtra<k2>arGapAtra, (arGya°pAtra)
+(AB): <L>9317<pc>1-108-c<k1>arGapAtra<k2>arGapAtra, (arGyapAtra)
+------------------------
+9326
+(CDSL): <L>9328<pc>1-109-a<k1>arcatrya<k2>arca/trya, arca/tria
+(AB): <L>9328<pc>1-109-a<k1>arcatrya<k2>(arca/trya), arca/tria
+------------------------
+9800
+(CDSL): <L>9802<pc>1-115-b<k1>arya<k2>2. arya^, ari/a
+(AB): <L>9802<pc>1-115-b<k1>arya<k2>2. (arya^), ari/a
+------------------------
+9812
+(CDSL): <L>9814<pc>1-115-b<k1>aryamya<k2>aryamya^, aryamia/
+(AB): <L>9814<pc>1-115-b<k1>aryamya<k2>(aryamya^), aryamia/
+------------------------
+9898
+(CDSL): <L>9900<pc>1-116-c<k1>alagnam<k2>ala/gnam, ala/glam
+(AB): <L>9900<pc>1-116-c<k1>alagnam<k2>ala/gnam, (ala/glam)
+------------------------
+9995
+(CDSL): <L>9997<pc>1-118-a<k1>alAyya<k2>alA/yya, alA/yia
+(AB): <L>9997<pc>1-118-a<k1>alAyya<k2>(alA/yya), alA/yia
+------------------------
+10512
+(CDSL): <L>10514<pc>1-123-c<k1>avaBfTa<k2>avaBfTa/, avaBf/Ta
+(AB): <L>10514<pc>1-123-c<k1>avaBfTa<k2>avaBfTa/, (avaBf/Ta)
+------------------------
+10877
+(CDSL): <L>10879<pc>1-128-a<k1>avAryakratu<k2>avArya/kratu, avAria/kratu
+(AB): <L>10879<pc>1-128-a<k1>avAryakratu<k2>(avArya/kratu), avAria/kratu
+------------------------
+11354
+(CDSL): <L>11356<pc>1-133-c<k1>avyanant<k2>a/vyanant, a/vianant
+(AB): <L>11356<pc>1-133-c<k1>avyanant<k2>(a/vyanant), a/vianant
+------------------------
+11527
+(CDSL): <L>11529<pc>1-136-a<k1>aSAsya<k2>aSAsya/, aSAsia/
+(AB): <L>11529<pc>1-136-a<k1>aSAsya<k2>(aSAsya/), aSAsia/
+------------------------
+11718
+(CDSL): <L>11720<pc>1-138-a<k1>aSmAsya<k2>a/SmAsya, a/SmAsia
+(AB): <L>11720<pc>1-138-a<k1>aSmAsya<k2>(a/SmAsya), a/SmAsia
+------------------------
+11850
+(CDSL): <L>11852<pc>1-139-b<k1>aSvapastya<k2>a/Svapastya, a/SvapAstia
+(AB): <L>11852<pc>1-139-b<k1>aSvapastya<k2>(a/Svapastya), a/SvapAstia
+------------------------
+12003
+(CDSL): <L>12005<pc>1-141-a<k1>aSvya<k2>2. aSvya/, aSvia/
+(AB): <L>12005<pc>1-141-a<k1>aSvya<k2>2. (aSvya/), aSvia/
+------------------------
+12414
+(CDSL): <L>12416<pc>1-147-b<k1>asamAtyojas<k2>a/samAtyojas, a/samAtiaojas
+(AB): <L>12416<pc>1-147-b<k1>asamAtyojas<k2>(a/samAtyojas), a/samAtiaojas
+------------------------
+12743
+(CDSL): <L>12745<pc>1-151-b<k1>asUrya<k2>1. asUrya/, asUria/
+(AB): <L>12745<pc>1-151-b<k1>asUrya<k2>1. (asUrya/), asUria/
+------------------------
+12767
+(CDSL): <L>12769<pc>1-151-b<k1>asenya<k2>asenya/, asenia/
+(AB): <L>12769<pc>1-151-b<k1>asenya<k2>(asenya/), asenia/
+------------------------
+12991
+(CDSL): <L>12993<pc>1-154-a<k1>asmadryaYc<k2>asmadrya^Yc, asmadri/aYc
+(AB): <L>12993<pc>1-154-a<k1>asmadryaYc<k2>(asmadrya^Yc), asmadri/aYc
+------------------------
+13105
+(CDSL): <L>13107<pc>1-155-b<k1>ahan<k2>a/han, a/has, a/har
+(AB): <L>13107<pc>1-155-b<k1>ahan<k2>a/han, a/has, (a/har)
+------------------------
+13115
+(CDSL): <L>13117<pc>1-155-b<k1>ahanya<k2>ahanya^, ahani/a
+(AB): <L>13117<pc>1-155-b<k1>ahanya<k2>(ahanya^), ahani/a
+------------------------
+13317
+(CDSL): <L>13319<pc>1-157-c<k1>ahnavAyya<k2>ahnavAyya/, ahnavAia/
+(AB): <L>13319<pc>1-157-c<k1>ahnavAyya<k2>(ahnavAyya/), ahnavAia/
+------------------------
+13385
+(CDSL): <L>13387<pc>1-158-b<k1>AkAyya<k2>AkAyya^, AkAyi/a
+(AB): <L>13387<pc>1-158-b<k1>AkAyya<k2>(AkAyya^), AkAyi/a
+------------------------
+13405
+(CDSL): <L>13407<pc>1-158-c<k1>AkASagarBi<k2>AkASagarBi, AkASagarBa
+(AB): <L>13407<pc>1-158-c<k1>AkASagarBi<k2>AkASagarBi, (AkASagarBa)
+------------------------
+13611
+(CDSL): <L>13613<pc>1-161-a<k1>Agatanandin<k2>*Agatanandin, Agatanardin, *AgataprahArin, *Agatamatsya, AgatamatsyA, *AgatayoDin, *Agatarohin, *AgatavaYcin
+(AB): <L>13613<pc>1-161-a<k1>Agatanandin<k2>*Agatanandin, (Agatanardin), *AgataprahArin, *Agatamatsya, (AgatamatsyA), *AgatayoDin, *Agatarohin, *AgatavaYcin
+------------------------
+13749
+(CDSL): <L>13752<pc>1-163-a<k1>ANgUzya<k2>ANgUzya^, ANgUzi/a
+(AB): <L>13752<pc>1-163-a<k1>ANgUzya<k2>(ANgUzya^), ANgUzi/a
+------------------------
+13819
+(CDSL): <L>13822<pc>1-163-c<k1>Acidoha<k2>Acidoha, Aciddoha
+(AB): <L>13822<pc>1-163-c<k1>Acidoha<k2>Acidoha, (Aciddoha)
+------------------------
+14082
+(CDSL): <L>14085<pc>1-166-c<k1>AtiTigva<k2>AtiTigva/, AtiTigua/
+(AB): <L>14085<pc>1-166-c<k1>AtiTigva<k2>(AtiTigva/), AtiTigua/
+------------------------
+14503
+(CDSL): <L>14506<pc>1-171-c<k1>AdDvam<k2>AdDvam, ADvam
+(AB): <L>14506<pc>1-171-c<k1>AdDvam<k2>AdDvam, (ADvam)
+------------------------
+14536
+(CDSL): <L>14539<pc>1-172-a<k1>ADAnakArikA<k2>ADAnakArikA, ADArakArikA, ADAnapadDati, ADAnaviDi
+(AB): <L>14539<pc>1-172-a<k1>ADAnakArikA<k2>ADAnakArikA, (ADArakArikA), ADAnapadDati, ADAnaviDi
+------------------------
+14959
+(CDSL): <L>14962<pc>1-177-b<k1>ApfcCya<k2>Apf/cCya, Apf/cCia
+(AB): <L>14962<pc>1-177-b<k1>ApfcCya<k2>(Apf/cCya), Apf/cCia
+------------------------
+14996
+(CDSL): <L>14999<pc>1-177-c<k1>Apya<k2>3. A/pya, A/pia
+(AB): <L>14999<pc>1-177-c<k1>Apya<k2>3. (A/pya), A/pia
+------------------------
+15108
+(CDSL): <L>15111<pc>1-179-a<k1>ABerI<k2>*ABerI, ABIri
+(AB): <L>15111<pc>1-179-a<k1>ABerI<k2>*ABerI, (ABIri)
+------------------------
+16003
+(CDSL): <L>16007<pc>1-189-c<k1>Avizwya<k2>A/vizwya, A/vizwia
+(AB): <L>16007<pc>1-189-c<k1>Avizwya<k2>(A/vizwya), A/vizwia
+------------------------
+16043
+(CDSL): <L>16047<pc>1-190-a<k1>Avya<k2>2. A/vya, A/via
+(AB): <L>16047<pc>1-190-a<k1>Avya<k2>2. (A/vya), A/via
+------------------------
+16245
+(CDSL): <L>16249<pc>1-192-b<k1>ASvapas<k2>ASva^pas, ASu/apas
+(AB): <L>16249<pc>1-192-b<k1>ASvapas<k2>(ASva^pas), ASu/apas
+------------------------
+16260,16261
+(CDSL): <L>16264<pc>1-192-c<k1>ASvaSva<k2>ASva^Sva, ASu/aSva
+(CDSL): <L>16265<pc>1-192-c<k1>ASvaSvya<k2>ASva/Svya, ASua/Sviva
+(AB): <L>16264<pc>1-192-c<k1>ASvaSva<k2>(ASva^Sva), ASu/aSva
+(AB): <L>16265<pc>1-192-c<k1>ASvaSvya<k2>(ASva/Svya), ASua/Sviva
+------------------------
+16584
+(CDSL): <L>16589<pc>1-197-a<k1>AhUrya<k2>AhU/rya, AhU/ria
+(AB): <L>16589<pc>1-197-a<k1>AhUrya<k2>(AhU/rya), AhU/ria
+------------------------
+16723
+(CDSL): <L>16728<pc>1-202-a<k1>iqAdaDa<k2>iqAdaDa, iLAdaDa
+(AB): <L>16728<pc>1-202-a<k1>iqAdaDa<k2>iqAdaDa, (iLAdaDa)
+------------------------
+16738
+(CDSL): <L>16743<pc>1-202-b<k1>iRverikA<k2>*iRverikA, iRqarikA
+(AB): <L>16743<pc>1-202-b<k1>iRverikA<k2>*iRverikA, (iRqarikA)
+------------------------
+16892
+(CDSL): <L>16897<pc>1-204-b<k1>indupramati<k2>indupramati, indupramadi
+(AB): <L>16897<pc>1-204-b<k1>indupramati<k2>indupramati, (indupramadi)
+------------------------
+16996
+(CDSL): <L>17001<pc>1-205-c<k1>indrapuzpa<k2>indrapuzpa, *indrapuzpA, *indrapuzpikA, (indu°puzpikA), indrapuzpI
+(AB): <L>17001<pc>1-205-c<k1>indrapuzpa<k2>indrapuzpa, *indrapuzpA, *indrapuzpikA, (indupuzpikA), indrapuzpI
+------------------------
+17015
+(CDSL): <L>17020<pc>1-205-c<k1>indramaha<k2>2. indramaha, i/ndramaha/m
+(AB): <L>17020<pc>1-205-c<k1>indramaha<k2>2. indramaha, (i/ndramaha/m)
+------------------------
+17045
+(CDSL): <L>17050<pc>1-206-a<k1>indravah<k2>indrava/h, indravA/h
+(AB): <L>17050<pc>1-206-a<k1>indravah<k2>indrava/h, (indravA/h)
+------------------------
+17210
+(CDSL): <L>17216<pc>1-208-a<k1>iraDyE<k2>ira/DyE, ira/DiE
+(AB): <L>17216<pc>1-208-a<k1>iraDyE<k2>(ira/DyE), ira/DiE
+------------------------
+17436
+(CDSL): <L>17442<pc>1-212-a<k1>IkzeRya<k2>Ikze/Rya, Ikze/Ria
+(AB): <L>17442<pc>1-212-a<k1>IkzeRya<k2>(Ikze/Rya), Ikze/Ria
+------------------------
+17484
+(CDSL): <L>17491<pc>1-213-a<k1>IrmA<k2>IrmA/, Irma/
+(AB): <L>17491<pc>1-213-a<k1>IrmA<k2>IrmA/, (Irma/)
+------------------------
+17602
+(CDSL): <L>17609<pc>1-214-c<k1>u<k2>2. u, U
+(AB): <L>17609<pc>1-214-c<k1>u<k2>2. u, (U)
+------------------------
+17634
+(CDSL): <L>17641<pc>1-215-a<k1>ukTaSas<k2>ukTaSa/s, ukTaSAs, ukTaSasu
+(AB): <L>17641<pc>1-215-a<k1>ukTaSas<k2>ukTaSa/s, (ukTaSAs), ukTaSasu
+------------------------
+17654
+(CDSL): <L>17661<pc>1-215-c<k1>ukzaRyAyana<k2>ukzaRyA/yana, ukzaRiA/ana
+(AB): <L>17661<pc>1-215-c<k1>ukzaRyAyana<k2>(ukzaRyA/yana), ukzaRiA/ana
+------------------------
+17902
+(CDSL): <L>17909<pc>1-218-c<k1>uwwaNkana<k2>uwwaNkana, uwwaNkaRa
+(AB): <L>17909<pc>1-218-c<k1>uwwaNkana<k2>uwwaNkana, (uwwaNkaRa)
+------------------------
+18062
+(CDSL): <L>18069<pc>1-220-c<k1>utkleSana<k2>utkleSana, utkleSin
+(AB): <L>18069<pc>1-220-c<k1>utkleSana<k2>utkleSana, °utkleSin
+------------------------
+18113
+(CDSL): <L>18120<pc>1-221-b<k1>uttamAyya<k2>uttamA/yya, uttamA/yia
+(AB): <L>18120<pc>1-221-b<k1>uttamAyya<k2>(uttamA/yya), uttamA/yia
+------------------------
+18171
+(CDSL): <L>18178<pc>1-222-a<k1>uttarapaTika<k2>uttarapaTika, OttarapaTika
+(AB): <L>18178<pc>1-222-a<k1>uttarapaTika<k2>uttarapaTika, (OttarapaTika)
+------------------------
+18376
+(CDSL): <L>18383<pc>1-224-c<k1>utpaTavArika<k2>utpaTavArika, utpaTavAraka
+(AB): <L>18383<pc>1-224-c<k1>utpaTavArika<k2>utpaTavArika, (utpaTavAraka)
+------------------------
+18469
+(CDSL): <L>18476<pc>1-225-c<k1>utPuliNga<k2>utPuliNga, utsPuliNga
+(AB): <L>18476<pc>1-225-c<k1>utPuliNga<k2>utPuliNga, (utsPuliNga)
+------------------------
+18544
+(CDSL): <L>18551<pc>1-226-c<k1>utsya<k2>utsya^, utsi/a
+(AB): <L>18551<pc>1-226-c<k1>utsya<k2>(utsya^), utsi/a
+------------------------
+18827
+(CDSL): <L>18834<pc>1-230-a<k1>udApyam<k2>udApya^m, udApi/am
+(AB): <L>18834<pc>1-230-a<k1>udApyam<k2>(udApya^m), udApi/am
+------------------------
+18891
+(CDSL): <L>18898<pc>1-230-c<k1>udIcya<k2>udIcya^, udIci/a, udIcya/
+(AB): <L>18898<pc>1-230-c<k1>udIcya<k2>(udIcya^), udIci/a, udIcya/
+------------------------
+19290
+(CDSL): <L>19297<pc>1-235-c<k1>unnIyam<k2>unnIyam, unnIya
+(AB): <L>19297<pc>1-235-c<k1>unnIyam<k2>unnIyam, (unnIya)
+------------------------
+19620
+(CDSL): <L>19627<pc>1-240-a<k1>upadeSya<k2>upadeSya^, upadeSi/a, upadeSya
+(AB): <L>19627<pc>1-240-a<k1>upadeSya<k2>(upadeSya^), upadeSi/a, upadeSya
+------------------------
+19709
+(CDSL): <L>19716<pc>1-241-a<k1>upapakzya<k2>upapakzya^, upapakzi/a
+(AB): <L>19716<pc>1-241-a<k1>upapakzya<k2>(upapakzya^), upapakzi/a
+------------------------
+19891
+(CDSL): <L>19898<pc>1-243-b<k1>uparimartya<k2>upa/rimartya, upa/rimartia
+(AB): <L>19898<pc>1-243-b<k1>uparimartya<k2>(upa/rimartya), upa/rimartia
+------------------------
+19983
+(CDSL): <L>19990<pc>1-244-b<k1>upavAkya<k2>upavAkya^, upavAki/a, upavA/cya, upavA/cia
+(AB): <L>19990<pc>1-244-b<k1>upavAkya<k2>(upavAkya^), upavAki/a, (upavA/cya), upavA/cia
+------------------------
+20464
+(CDSL): <L>20471<pc>1-250-a<k1>uBayataHpad<k2>uBayataHpad, uBayataHpAd
+(AB): <L>20471<pc>1-250-a<k1>uBayataHpad<k2>uBayataHpad, (uBayataHpAd)
+------------------------
+20467
+(CDSL): <L>20474<pc>1-250-b<k1>uBayataHprauga<k2>uBaya/taHprauga, uBaya/taHpra/uga
+(AB): <L>20474<pc>1-250-b<k1>uBayataHprauga<k2>uBaya/taHprauga, (uBaya/taHpra/uga)
+------------------------
+20527
+(CDSL): <L>20534<pc>1-251-a<k1>uBayAhastya<k2>uBayAhastya/, uBayAhastia/
+(AB): <L>20534<pc>1-251-a<k1>uBayAhastya<k2>(uBayAhastya/), uBayAhastia/
+------------------------
+20685
+(CDSL): <L>20692<pc>1-252-c<k1>urvajra<k2>urva/jra, urua/jra
+(AB): <L>20692<pc>1-252-c<k1>urvajra<k2>(urva/jra), urua/jra
+------------------------
+20710
+(CDSL): <L>20717<pc>1-253-a<k1>urvyUti<k2>urvyU^ti, urvi/Uti
+(AB): <L>20717<pc>1-253-a<k1>urvyUti<k2>(urvyU^ti), urvi/Uti
+------------------------
+20817
+(CDSL): <L>20824<pc>1-254-b<k1>uSenya<k2>uSe/nya, uSo/nia
+(AB): <L>20824<pc>1-254-b<k1>uSenya<k2>(uSe/nya), uSo/nia
+------------------------
+20958
+(CDSL): <L>20965<pc>1-256-a<k1>U~<k2>U~, UM
+(AB): <L>20965<pc>1-256-a<k1>U~<k2>U~, (UM)
+------------------------
+21032
+(CDSL): <L>21039<pc>1-256-c<k1>Urjavya<k2>Urjavya^, Urjavi/a
+(AB): <L>21039<pc>1-256-c<k1>Urjavya<k2>(Urjavya^), Urjavi/a
+------------------------
+21060
+(CDSL): <L>21067<pc>1-257-a<k1>Urd<k2>*Urd, urd
+(AB): <L>21067<pc>1-257-a<k1>Urd<k2>*Urd, (urd)
+------------------------
+21200
+(CDSL): <L>21207<pc>1-258-c<k1>Urv<k2>*Urv, *urv
+(AB): <L>21207<pc>1-258-c<k1>Urv<k2>*Urv, (*urv)
+------------------------
+21224
+(CDSL): <L>21231<pc>1-259-a<k1>UzAy<k2>UzAy, UzmAy
+(AB): <L>21231<pc>1-259-a<k1>UzAy<k2>UzAy, (UzmAy)
+------------------------
+21229
+(CDSL): <L>21236<pc>1-259-b<k1>UzmaRa<k2>*UzmaRa, UzmaRya, UzmaRi/a
+(AB): <L>21236<pc>1-259-b<k1>UzmaRa<k2>*UzmaRa, (UzmaRya), UzmaRi/a
+------------------------
+21387
+(CDSL): <L>21394<pc>1-261-b<k1>fjvaYc<k2>fjva/Yc, fjua/Yc
+(AB): <L>21394<pc>1-261-b<k1>fjvaYc<k2>(fjva/Yc), fjua/Yc
+------------------------
+21487
+(CDSL): <L>21494<pc>1-262-c<k1>ftAzah<k2>ftAza/h, ftAzA/h
+(AB): <L>21494<pc>1-262-c<k1>ftAzah<k2>ftAza/h, (ftAzA/h)
+------------------------
+21492
+(CDSL): <L>21499<pc>1-262-c<k1>ftIzah<k2>ftIza/h, ftIza/h, ftIzA/h
+(AB): <L>21499<pc>1-262-c<k1>ftIzah<k2>ftIza/h, (ftIza/h, ftIzA/h)
+------------------------
+21589,21590
+(CDSL): <L>21596<pc>1-264-a<k1>fllaka<k2>fllaka, Jallaka
+(CDSL): <L>21597<pc>1-264-a<k1>fllarI<k2>fllarI, JallarI
+(AB): <L>21596<pc>1-264-a<k1>fllaka<k2>fllaka, (Jallaka)
+(AB): <L>21597<pc>1-264-a<k1>fllarI<k2>fllarI, (JallarI)
+------------------------
+21652
+(CDSL): <L>21659<pc>1-264-c<k1>fzizah<k2>fziza/h, fzizA/h
+(AB): <L>21659<pc>1-264-c<k1>fzizah<k2>fziza/h, (fzizA/h)
+------------------------
+22208
+(CDSL): <L>22215<pc>1-271-c<k1>etaka<k2>1. *etaka, etikA
+(AB): <L>22215<pc>1-271-c<k1>etaka<k2>1. *etaka, (etikA)
+------------------------
+22354
+(CDSL): <L>22361<pc>1-273-c<k1>ezaka<k2>*ezaka, ezakA, ezikA
+(AB): <L>22361<pc>1-273-c<k1>ezaka<k2>*ezaka, (ezakA, ezikA)
+------------------------
+22366
+(CDSL): <L>22373<pc>1-273-c<k1>ezEzya<k2>ezEzya^, ezEzi/a
+(AB): <L>22373<pc>1-273-c<k1>ezEzya<k2>(ezEzya^), ezEzi/a
+------------------------
+22605
+(CDSL): <L>22612<pc>1-276-b<k1>okya<k2>okya/, oki/a
+(AB): <L>22612<pc>1-276-b<k1>okya<k2>(okya/), oki/a
+------------------------
+22688
+(CDSL): <L>22696<pc>1-277-b<k1>omyAvant<k2>omyA/vant, omiA/vant
+(AB): <L>22696<pc>1-277-b<k1>omyAvant<k2>(omyA/vant), omiA/vant
+------------------------
+22756
+(CDSL): <L>22764<pc>1-278-a<k1>OcaTya<k2>OcaTya/, OcaTia/
+(AB): <L>22764<pc>1-278-a<k1>OcaTya<k2>OcaTya/, (OcaTia/)
+------------------------
+23053
+(CDSL): <L>23062<pc>1-281-b<k1>OrvaBfguvat<k2>OrvaBfguva/t, OruaBfguva/t
+(AB): <L>23062<pc>1-281-b<k1>OrvaBfguvat<k2>OrvaBfguva/t, (OruaBfguva/t)
+------------------------
+23112
+(CDSL): <L>23121<pc>2-001-b<k1>kaMvant<k2>ka/Mvant, ka/mvant
+(AB): <L>23121<pc>2-001-b<k1>kaMvant<k2>ka/Mvant, (ka/mvant)
+------------------------
+23211,23212
+(CDSL): <L>23220<pc>2-002-c<k1>kakzya<k2>2. kakzya^, kakzi/a
+(CDSL): <L>23221<pc>2-002-c<k1>kakzyaprA<k2>kakzyaprA/, kakziaprA/
+(AB): <L>23220<pc>2-002-c<k1>kakzya<k2>2. kakzya^, (kakzi/a)
+(AB): <L>23221<pc>2-002-c<k1>kakzyaprA<k2>(kakzyaprA/), kakziaprA/
+------------------------
+24518
+(CDSL): <L>24527<pc>2-018-b<k1>kar<k2>1. kar, skar
+(AB): <L>24527<pc>2-018-b<k1>kar<k2>1. kar, (skar)
+------------------------
+24520
+(CDSL): <L>24529<pc>2-020-b<k1>kar<k2>3. kar, skar
+(AB): <L>24529<pc>2-020-b<k1>kar<k2>3. kar, (skar)
+------------------------
+24883
+(CDSL): <L>24892<pc>2-025-b<k1>karketaRa<k2>karketaRa, karkeRata, karketana, *karketila
+(AB): <L>24892<pc>2-025-b<k1>karketaRa<k2>karketaRa, (karkeRata), karketana, *karketila
+------------------------
+25064
+(CDSL): <L>25073<pc>2-027-b<k1>karRya<k2>karRya, ka/rRia
+(AB): <L>25073<pc>2-027-b<k1>karRya<k2>karRya, (ka/rRia)
+------------------------
+25208
+(CDSL): <L>25217<pc>2-029-b<k1>karmaRya<k2>karmaRya/, karma/Ri/a
+(AB): <L>25217<pc>2-029-b<k1>karmaRya<k2>karmaRya/, (karma/Ri/a)
+------------------------
+26715
+(CDSL): <L>26724<pc>2-051-a<k1>kAmya<k2>kA/mya, kA/mia
+(AB): <L>26724<pc>2-051-a<k1>kAmya<k2>kA/mya, (kA/mia)
+------------------------
+27467,27468
+(CDSL): <L>27477<pc>2-060-c<k1>kAvya<k2>1. kAvya/, kAvia/
+(CDSL): <L>27478<pc>2-060-c<k1>kAvya<k2>2. kA/vya, kA/via
+(AB): <L>27477<pc>2-060-c<k1>kAvya<k2>1. kAvya/, (kAvia/)
+(AB): <L>27478<pc>2-060-c<k1>kAvya<k2>2. kA/vya, (kA/via)
+------------------------
+27753
+(CDSL): <L>27765<pc>2-064-a<k1>kikkiSa<k2>kikkiSa, kikviSa, kikkisa
+(AB): <L>27765<pc>2-064-a<k1>kikkiSa<k2>kikkiSa, (kikviSa), kikkisa
+------------------------
+27773
+(CDSL): <L>27785<pc>2-064-b<k1>kiNkiRi<k2>*kiNkiRi, kiNkiRikA,  kiNkiRIka
+(AB): <L>27785<pc>2-064-b<k1>kiNkiRi<k2>*kiNkiRi, kiNkiRikA, kiNkiRIka
+------------------------
+27947
+(CDSL): <L>27959<pc>2-066-c<k1>kila<k2>1. ki/la, kilA
+(AB): <L>27959<pc>2-066-c<k1>kila<k2>1. ki/la, (kilA)
+------------------------
+28068
+(CDSL): <L>28080<pc>2-068-b<k1>kIrtenya<k2>kIrtenya, kIrte/nia
+(AB): <L>28080<pc>2-068-b<k1>kIrtenya<k2>(kIrtenya), kIrte/nia
+------------------------
+28445
+(CDSL): <L>28457<pc>2-073-a<k1>kuRqapAyya<k2>kuRqapAyya, kuRqapA/yia
+(AB): <L>28457<pc>2-073-a<k1>kuRqapAyya<k2>kuRqapAyya, (kuRqapA/yia)
+------------------------
+28448
+(CDSL): <L>28460<pc>2-073-a<k1>kuRqamaRqapakOmudI<k2>kuRqamaRqapakOmudI, °kuRqamaRqapasaMgraha, kuRqamaRqapasidDi, kuRqamArtaRqa, kuRqaratnAkara
+(AB): <L>28460<pc>2-073-a<k1>kuRqamaRqapakOmudI<k2>kuRqamaRqapakOmudI, kuRqamaRqapasaMgraha, kuRqamaRqapasidDi, kuRqamArtaRqa, kuRqaratnAkara
+------------------------
+28524
+(CDSL): <L>28536<pc>2-074-b<k1>kutra<k2>ku/tra, ku/trA
+(AB): <L>28536<pc>2-074-b<k1>kutra<k2>ku/tra, (ku/trA)
+------------------------
+28541
+(CDSL): <L>28553<pc>2-074-c<k1>kutsya<k2>1. kutsya, kutsia/
+(AB): <L>28553<pc>2-074-c<k1>kutsya<k2>1. kutsya, (kutsia/)
+------------------------
+29036
+(CDSL): <L>29048<pc>2-080-b<k1>kurubaka<k2>kurubaka, kuruvaka
+(AB): <L>29048<pc>2-080-b<k1>kurubaka<k2>kurubaka, (kuruvaka)
+------------------------
+29317
+(CDSL): <L>29329<pc>2-083-c<k1>kulyA<k2>1. kulyA/, kuliA/
+(AB): <L>29329<pc>2-083-c<k1>kulyA<k2>1. kulyA/, (kuliA/)
+------------------------
+29651
+(CDSL): <L>29663<pc>2-087-b<k1>kU<k2>1. kU, ku
+(AB): <L>29663<pc>2-087-b<k1>kU<k2>1. kU, (ku)
+------------------------
+30120
+(CDSL): <L>30132<pc>2-093-b<k1>kftvya<k2>kf/tvya, kf/tvia
+(AB): <L>30132<pc>2-093-b<k1>kftvya<k2>(kf/tvya), kf/tvia
+------------------------
+30298
+(CDSL): <L>30310<pc>2-095-a<k1>kfzwyojas<k2>kfzwyojas, kfzwiojas
+(AB): <L>30310<pc>2-095-a<k1>kfzwyojas<k2>(kfzwyojas), kfzwiojas
+------------------------
+30592
+(CDSL): <L>30604<pc>2-098-b<k1>ketasap<k2>ketasa/p, ketasAp
+(AB): <L>30604<pc>2-098-b<k1>ketasap<k2>ketasa/p, (ketasAp)
+------------------------
+30781
+(CDSL): <L>30793<pc>2-100-b<k1>keSaromA<k2>*keSaromA, (kISa°romA)
+(AB): <L>30793<pc>2-100-b<k1>keSaromA<k2>*keSaromA, (kISaromA)
+------------------------
+30834
+(CDSL): <L>30846<pc>2-101-a<k1>keSya<k2>keSya, ke/Sia
+(AB): <L>30846<pc>2-101-a<k1>keSya<k2>keSya, (ke/Sia)
+------------------------
+31110
+(CDSL): <L>31122<pc>2-104-b<k1>komya<k2>komya/, komia/
+(AB): <L>31122<pc>2-104-b<k1>komya<k2>(komya/), komia/
+------------------------
+31330
+(CDSL): <L>31342<pc>2-106-c<k1>kORqilyaka<k2>kORqilyaka, kORqinyaka
+(AB): <L>31342<pc>2-106-c<k1>kORqilyaka<k2>kORqilyaka, (kORqinyaka)
+------------------------
+31516
+(CDSL): <L>31528<pc>2-109-a<k1>kOSakI<k2>kOSakI, kOSikI
+(AB): <L>31528<pc>2-109-a<k1>kOSakI<k2>kOSakI, (kOSikI)
+------------------------
+31624
+(CDSL): <L>31636<pc>2-110-b<k1>krakacapad<k2>*krakacapad, krakacapAd
+(AB): <L>31636<pc>2-110-b<k1>krakacapad<k2>*krakacapad, (krakacapAd)
+------------------------
+31680
+(CDSL): <L>31692<pc>2-111-a<k1>krandaM<k2>kra/nda
+(AB): <L>31692<pc>2-111-a<k1>kranda<k2>kra/nda
+------------------------
+31769
+(CDSL): <L>31781<pc>2-113-c<k1>krayi<k2>kra/yi, kra/yI
+(AB): <L>31781<pc>2-113-c<k1>krayi<k2>kra/yi, (kra/yI)
+------------------------
+32148
+(CDSL): <L>32160<pc>2-119-a<k1>kva<k2>kva^, ku/a
+(AB): <L>32160<pc>2-119-a<k1>kva<k2>kva^, (ku/a)
+------------------------
+32317
+(CDSL): <L>32329<pc>2-121-c<k1>kzam<k2>2. kza/m, kzA/m, kzam, kzm
+(AB): <L>32329<pc>2-121-c<k1>kzam<k2>2. kza/m, (kzA/m, kzam, kzm)
+------------------------
+32345
+(CDSL): <L>32357<pc>2-122-b<k1>kzamya<k2>kza/mya, kza/mia
+(AB): <L>32357<pc>2-122-b<k1>kzamya<k2>(kza/mya), kza/mia
+------------------------
+32558
+(CDSL): <L>32570<pc>2-126-b<k1>kziprezu<k2>kziprezu, kzipra/izu
+(AB): <L>32570<pc>2-126-b<k1>kziprezu<k2>(kziprezu), kzipra/izu
+------------------------
+32702
+(CDSL): <L>32714<pc>2-128-a<k1>kzIrOdana<k2>kzIrOdana/, kzIrOdana
+(AB): <L>32714<pc>2-128-a<k1>kzIrOdana<k2>kzIrOdana/, (kzIrOdana)
+------------------------
+33031
+(CDSL): <L>33043<pc>2-131-c<k1>kzemya<k2>kzemya/, kzemia/, kze/mya
+(AB): <L>33043<pc>2-131-c<k1>kzemya<k2>kzemya/, (kzemia/), kze/mya
+------------------------
+33852
+(CDSL): <L>33864<pc>2-141-b<k1>Kurd<k2>*Kurd, KUrd
+(AB): <L>33864<pc>2-141-b<k1>Kurd<k2>*Kurd, (KUrd)
+------------------------
+33898
+(CDSL): <L>33910<pc>2-142-a<k1>KemakarRa<k2>KemakarRa, kzemakarRa
+(AB): <L>33910<pc>2-142-a<k1>KemakarRa<k2>KemakarRa, (kzemakarRa)
+------------------------
+34347
+(CDSL): <L>34359<pc>2-147-c<k1>gaRya<k2>gaRya, ga/Ria
+(AB): <L>34359<pc>2-147-c<k1>gaRya<k2>gaRya, (ga/Ria)
+------------------------
+34446
+(CDSL): <L>34458<pc>2-149-b<k1>gaDya<k2>gaDya, ga/Dia
+(AB): <L>34458<pc>2-149-b<k1>gaDya<k2>gaDya, (ga/Dia)
+------------------------
+34982
+(CDSL): <L>34994<pc>2-159-b<k1>garmud<k2>garmud, garmuw
+(AB): <L>34994<pc>2-159-b<k1>garmud<k2>garmud, (garmuw)
+------------------------
+35127
+(CDSL): <L>35139<pc>2-161-b<k1>gavya<k2>ga/vya, ga/via, gavya/
+(AB): <L>35139<pc>2-161-b<k1>gavya<k2>ga/vya, (ga/via), gavya/
+------------------------
+35166
+(CDSL): <L>35178<pc>2-163-a<k1>gANgya<k2>gANgya, gANgia/
+(AB): <L>35178<pc>2-163-a<k1>gANgya<k2>gANgya, (gANgia/)
+------------------------
+35519
+(CDSL): <L>35531<pc>2-167-b<k1>girvavah<k2>girvava/h, girvavA/h
+(AB): <L>35531<pc>2-167-b<k1>girvavah<k2>girvava/h, (girvavA/h)
+------------------------
+36005
+(CDSL): <L>36017<pc>2-173-c<k1>gulPinI<k2>*gulPinI, gulminI
+(AB): <L>36017<pc>2-173-c<k1>gulPinI<k2>*gulPinI, (gulminI)
+------------------------
+36086
+(CDSL): <L>36098<pc>2-174-c<k1>gUQapad<k2>*gUQapad, gUQapAd
+(AB): <L>36098<pc>2-174-c<k1>gUQapad<k2>*gUQapad, (gUQapAd)
+------------------------
+36382
+(CDSL): <L>36394<pc>2-178-a<k1>gehya<k2>2. gehya^, gehi/a
+(AB): <L>36394<pc>2-178-a<k1>gehya<k2>2. (gehya^), gehi/a
+------------------------
+36623
+(CDSL): <L>36635<pc>2-181-a<k1>gonyoGas<k2>gonyoGas, go/nioGas
+(AB): <L>36635<pc>2-181-a<k1>gonyoGas<k2>(gonyoGas), go/nioGas
+------------------------
+36638
+(CDSL): <L>36650<pc>2-181-b<k1>gopadatta<k2>gopadatta, AcAryaBadanta°gopadatta
+(AB): <L>36650<pc>2-181-b<k1>gopadatta<k2>gopadatta, AcAryaBadantagopadatta
+------------------------
+36648
+(CDSL): <L>36660<pc>2-181-b<k1>gopayatya<k2>gopayatya, gipaya/tia
+(AB): <L>36660<pc>2-181-b<k1>gopayatya<k2>(gopayatya), gipaya/tia
+------------------------
+36711
+(CDSL): <L>36723<pc>2-182-a<k1>gopITya<k2>gopITya, gopI/Tia
+(AB): <L>36723<pc>2-182-a<k1>gopITya<k2>(gopITya), gopI/Tia
+------------------------
+37104
+(CDSL): <L>37116<pc>2-186-b<k1>gOtaminandana<k2>gOtaminandana, gOtamI°nandana⁆
+(AB): <L>37116<pc>2-186-b<k1>gOtaminandana<k2>gOtaminandana, gOtamInandana
+------------------------
+37523
+(CDSL): <L>37535<pc>2-193-b<k1>grAmya<k2>grAmya/, grAmi/a
+(AB): <L>37535<pc>2-193-b<k1>grAmya<k2>grAmya/, (grAmi/a)
+------------------------
+37572
+(CDSL): <L>37584<pc>2-194-b<k1>grAhya<k2>grAhya, grAhi/a
+(AB): <L>37584<pc>2-194-b<k1>grAhya<k2>grAhya, (grAhi/a)
+------------------------
+37601
+(CDSL): <L>37613<pc>2-194-c<k1>grEvya<k2>grEvya, grEvia
+(AB): <L>37613<pc>2-194-c<k1>grEvya<k2>(grEvya), grEvia
+------------------------
+37866
+(CDSL): <L>37878<pc>2-198-c<k1>GarmyezWA<k2>GarmyezWA, GarmiezWA/
+(AB): <L>37878<pc>2-198-c<k1>GarmyezWA<k2>(GarmyezWA), GarmiezWA/
+------------------------
+38613
+(CDSL): <L>38625<pc>2-208-c<k1>caturUrDvapad<k2>*caturUrDvapad, caturUrDvapAd
+(AB): <L>38625<pc>2-208-c<k1>caturUrDvapad<k2>*caturUrDvapad, (caturUrDvapAd)
+------------------------
+39303
+(CDSL): <L>39315<pc>2-218-c<k1>carkftya<k2>carkf/tya, carkf/tia
+(AB): <L>39315<pc>2-218-c<k1>carkftya<k2>carkf/tya, (carkf/tia)
+------------------------
+40087
+(CDSL): <L>40099<pc>2-230-a<k1>citraSAkapUpaBakzyavikArakriyA<k2>citraSAkapUpaBakzyavikArakriyA, citraSAkApUpaBakza°vikArakriyA
+(AB): <L>40099<pc>2-230-a<k1>citraSAkapUpaBakzyavikArakriyA<k2>citraSAkapUpaBakzyavikArakriyA, citraSAkApUpaBakzavikArakriyA
+------------------------
+40143
+(CDSL): <L>40155<pc>2-230-c<k1>citrya<k2>citrya, ci/tria
+(AB): <L>40155<pc>2-230-c<k1>citrya<k2>(citrya), ci/tria
+------------------------
+40597,40598
+(CDSL): <L>40609<pc>2-236-c<k1>cetya<k2>ce/tya, ce/tia
+(CDSL): <L>40610<pc>2-236-c<k1>cetyA<k2>cetyA/, cetiA/
+(AB): <L>40609<pc>2-236-c<k1>cetya<k2>(ce/tya), ce/tia
+(AB): <L>40610<pc>2-236-c<k1>cetyA<k2>(cetyA/), cetiA/
+------------------------
+40915
+(CDSL): <L>40927<pc>2-242-a<k1>CandasikA<k2>CandasikA, CAndasikA
+(AB): <L>40927<pc>2-242-a<k1>CandasikA<k2>CandasikA, (CAndasikA)
+------------------------
+40920
+(CDSL): <L>40932<pc>2-242-a<k1>Candasya<k2>Candasya^, Candasi/a
+(AB): <L>40932<pc>2-242-a<k1>Candasya<k2>Candasya^, (Candasi/a)
+------------------------
+40956
+(CDSL): <L>40968<pc>2-242-b<k1>Candya<k2>Candya, Ca/ndia
+(AB): <L>40968<pc>2-242-b<k1>Candya<k2>(Candya), Ca/ndia
+------------------------
+41605
+(CDSL): <L>41617<pc>2-252-b<k1>jantva<k2>jantva, ja/ntua
+(AB): <L>41617<pc>2-252-b<k1>jantva<k2>(jantva), ja/ntua
+------------------------
+41658
+(CDSL): <L>41670<pc>2-253-a<k1>janya<k2>2. ja/nya, ja/nia
+(AB): <L>41670<pc>2-253-a<k1>janya<k2>2. ja/nya, (ja/nia)
+------------------------
+42077
+(CDSL): <L>42089<pc>2-258-b<k1>jalapAda<k2>jalapAda, jAlapAda
+(AB): <L>42089<pc>2-258-b<k1>jalapAda<k2>jalapAda, (jAlapAda)
+------------------------
+42245
+(CDSL): <L>42257<pc>2-260-a<k1>jalAzah<k2>*jalAzah, jalAzAh
+(AB): <L>42257<pc>2-260-a<k1>jalAzah<k2>*jalAzah, (jalAzAh)
+------------------------
+42505
+(CDSL): <L>42517<pc>2-263-b<k1>jAnaki<k2>jA/naki, jAnaki/
+(AB): <L>42517<pc>2-263-b<k1>jAnaki<k2>jA/naki, (jAnaki/)
+------------------------
+42572
+(CDSL): <L>42585<pc>2-264-b<k1>jAmarya<k2>jAmarya, jA/maria
+(AB): <L>42585<pc>2-264-b<k1>jAmarya<k2>(jAmarya), jA/maria
+------------------------
+42652
+(CDSL): <L>42665<pc>2-265-b<k1>jArya<k2>jArya, jari/a
+(AB): <L>42665<pc>2-265-b<k1>jArya<k2>(jArya), jari/a
+------------------------
+42674
+(CDSL): <L>42687<pc>2-265-c<k1>jAlapad<k2>*jAlapad, jAlapAd
+(AB): <L>42687<pc>2-265-c<k1>jAlapad<k2>*jAlapad, (jAlapAd)
+------------------------
+43164
+(CDSL): <L>43177<pc>2-272-c<k1>juhvAMsya<k2>juhvAMsya, juhU/Asia
+(AB): <L>43177<pc>2-272-c<k1>juhvAMsya<k2>(juhvAMsya), juhU/Asia
+------------------------
+43186
+(CDSL): <L>43199<pc>2-273-a<k1>jUrya<k2>jUrya, jU/ria
+(AB): <L>43199<pc>2-273-a<k1>jUrya<k2>(jUrya), jU/ria
+------------------------
+43206
+(CDSL): <L>43219<pc>2-273-b<k1>jetva<k2>jetva, je/tua
+(AB): <L>43219<pc>2-273-b<k1>jetva<k2>jetva, (je/tua)
+------------------------
+43208,43209
+(CDSL): <L>43221<pc>2-273-b<k1>jenya<k2>jenya, je/nia
+(CDSL): <L>43222<pc>2-273-b<k1>jenyAvasu<k2>jenyAvasu, jeniAvasu
+(AB): <L>43221<pc>2-273-b<k1>jenya<k2>(jenya), je/nia
+(AB): <L>43222<pc>2-273-b<k1>jenyAvasu<k2>(jenyAvasu), jeniAvasu
+------------------------
+43444
+(CDSL): <L>43457<pc>2-277-b<k1>jyAkA<k2>jyAkA, jiAkA/
+(AB): <L>43457<pc>2-277-b<k1>jyAkA<k2>(jyAkA), jiAkA/
+------------------------
+43463
+(CDSL): <L>43476<pc>2-277-c<k1>jyAvAja<k2>jyAvAja, jiA/vAja
+(AB): <L>43476<pc>2-277-c<k1>jyAvAja<k2>(jyAvAja), jiA/vAja
+------------------------
+43600
+(CDSL): <L>43613<pc>2-279-b<k1>jyotsnI<k2>jyotsnI, (jyO°tsnI)
+(AB): <L>43613<pc>2-279-b<k1>jyotsnI<k2>jyotsnI, (jyOtsnI)
+------------------------
+44061
+(CDSL): <L>44074<pc>3-002-a<k1>takzya<k2>takzya, ta/kzia
+(AB): <L>44074<pc>3-002-a<k1>takzya<k2>(takzya), ta/kzia
+------------------------
+44072
+(CDSL): <L>44085<pc>3-002-a<k1>taNgalva<k2>taNgalva, taNgalu/a
+(AB): <L>44085<pc>3-002-a<k1>taNgalva<k2>(taNgalva), taNgalu/a
+------------------------
+44110
+(CDSL): <L>44123<pc>3-002-c<k1>taqit<k2>1. taqit, taLi/t
+(AB): <L>44123<pc>3-002-c<k1>taqit<k2>1. (taqit), taLi/t
+------------------------
+44113
+(CDSL): <L>44126<pc>3-002-c<k1>taqitas<k2>taqitas, taLi/tas
+(AB): <L>44126<pc>3-002-c<k1>taqitas<k2>(taqitas), taLi/tas
+------------------------
+44286
+(CDSL): <L>44299<pc>3-005-c<k1>tada<k2>*tada, tadam
+(AB): <L>44299<pc>3-005-c<k1>tada<k2>*tada, (tadam)
+------------------------
+44355
+(CDSL): <L>44368<pc>3-007-b<k1>tanaka<k2>tanaka, vetanaka
+(AB): <L>44368<pc>3-007-b<k1>tanaka<k2>tanaka, (vetanaka)
+------------------------
+44745
+(CDSL): <L>44758<pc>3-015-a<k1>taraMgaRi<k2>taraMgaRi, taraMgaRim
+(AB): <L>44758<pc>3-015-a<k1>taraMgaRi<k2>taraMgaRi, (taraMgaRim)
+------------------------
+44970
+(CDSL): <L>44983<pc>3-018-a<k1>tarzyAvant<k2>tarzyAvant, arziA/vant
+(AB): <L>44983<pc>3-018-a<k1>tarzyAvant<k2>(tarzyAvant), arziA/vant
+------------------------
+45192
+(CDSL): <L>45206<pc>3-021-a<k1>tAnva<k2>1. tAnva, tA/nua
+(AB): <L>45206<pc>3-021-a<k1>tAnva<k2>1. (tAnva), tA/nua
+------------------------
+45194
+(CDSL): <L>45208<pc>3-021-a<k1>tAnva<k2>3. tAnva, tA/nua
+(AB): <L>45208<pc>3-021-a<k1>tAnva<k2>3. (tAnva), tA/nua
+------------------------
+45237
+(CDSL): <L>45251<pc>3-021-c<k1>tAmala<k2>tAmala, tAmAla
+(AB): <L>45251<pc>3-021-c<k1>tAmala<k2>tAmala, (tAmAla)
+------------------------
+45539
+(CDSL): <L>45553<pc>3-025-c<k1>tAlAka<k2>tAlAka, tAlaka
+(AB): <L>45553<pc>3-025-c<k1>tAlAka<k2>tAlAka, (tAlaka)
+------------------------
+45983
+(CDSL): <L>45997<pc>3-031-b<k1>tizya<k2>tizya^, tizi/a, tizya/
+(AB): <L>45997<pc>3-031-b<k1>tizya<k2>tizya^, (tizi/a), tizya/
+------------------------
+46084
+(CDSL): <L>46098<pc>3-032-c<k1>tIrTapad<k2>tIrTapad, tIrTapAd, tIrTapada
+(AB): <L>46098<pc>3-032-c<k1>tIrTapad<k2>tIrTapad, (tIrTapAd), tIrTapada
+------------------------
+46142
+(CDSL): <L>46156<pc>3-033-b<k1>tu<k2>2. tu/, tU/
+(AB): <L>46156<pc>3-033-b<k1>tu<k2>2. tu/, (tU/)
+------------------------
+46155,46156
+(CDSL): <L>46169<pc>3-033-c<k1>tugrya<k2>tugrya, tu/gria
+(CDSL): <L>46170<pc>3-033-c<k1>tugryAvfD<k2>tugryAvfD, tugriAvf/D
+(AB): <L>46169<pc>3-033-c<k1>tugrya<k2>(tugrya), tu/gria
+(AB): <L>46170<pc>3-033-c<k1>tugryAvfD<k2>(tugryAvfD), tugriAvf/D
+------------------------
+46192
+(CDSL): <L>46206<pc>3-034-a<k1>tucCya<k2>tucCya, tucCia/
+(AB): <L>46206<pc>3-034-a<k1>tucCya<k2>(tucCya), tucCia/
+------------------------
+46200
+(CDSL): <L>46214<pc>3-034-b<k1>tujya<k2>tujya, tu/jia
+(AB): <L>46214<pc>3-034-b<k1>tujya<k2>(tujya), tu/jia
+------------------------
+46356
+(CDSL): <L>46370<pc>3-036-b<k1>turIya<k2>1. turI/ya, tu/rIya, turIya/
+(AB): <L>46370<pc>3-036-b<k1>turIya<k2>1. turI/ya, (tu/rIya, turIya/)
+------------------------
+46487
+(CDSL): <L>46501<pc>3-038-a<k1>tuvyojas<k2>tuvyojas, tuvio/jas
+(AB): <L>46501<pc>3-038-a<k1>tuvyojas<k2>(tuvyojas), tuvio/jas
+------------------------
+46588
+(CDSL): <L>46602<pc>3-039-b<k1>tUrRyarTa<k2>tUrRyarTa, tU/rRiarTa
+(AB): <L>46602<pc>3-039-b<k1>tUrRyarTa<k2>(tUrRyarTa), tU/rRiarTa
+------------------------
+47131
+(CDSL): <L>47145<pc>3-045-a<k1>tOgrya<k2>tOgrya, togria/
+(AB): <L>47145<pc>3-045-a<k1>tOgrya<k2>(tOgrya), togria/
+------------------------
+47222
+(CDSL): <L>47236<pc>3-046-c<k1>trayayAyya<k2>trayayAyya, trayayA/yia
+(AB): <L>47236<pc>3-046-c<k1>trayayAyya<k2>(trayayAyya), trayayA/yia
+------------------------
+47536
+(CDSL): <L>47550<pc>3-051-a<k1>tripad<k2>tripa/d, tri/pad, tri/pAd
+(AB): <L>47550<pc>3-051-a<k1>tripad<k2>tripa/d, tri/pad, (tri/pAd)
+------------------------
+47548
+(CDSL): <L>47562<pc>3-051-b<k1>tripastya<k2>tripastya, tripastia/
+(AB): <L>47562<pc>3-051-b<k1>tripastya<k2>(tripastya), tripastia/
+------------------------
+48116
+(CDSL): <L>48130<pc>3-058-a<k1>tryara<k2>tryara, tri/ara
+(AB): <L>48130<pc>3-058-a<k1>tryara<k2>(tryara), tri/ara
+------------------------
+48118
+(CDSL): <L>48132<pc>3-058-a<k1>tryaruza<k2>tryaruza, tri/aruza
+(AB): <L>48132<pc>3-058-a<k1>tryaruza<k2>(tryaruza), tri/aruza
+------------------------
+48145
+(CDSL): <L>48159<pc>3-058-b<k1>tryASir<k2>tryASir, tri/ASir
+(AB): <L>48159<pc>3-058-b<k1>tryASir<k2>(tryASir), tri/ASir
+------------------------
+48150
+(CDSL): <L>48164<pc>3-058-c<k1>tryudAya<k2>tryudAya, tri/dAya/
+(AB): <L>48164<pc>3-058-c<k1>tryudAya<k2>(tryudAya), tri/dAya/
+------------------------
+48152
+(CDSL): <L>48166<pc>3-058-c<k1>tryuDan<k2>tryuDan, tri/Da/n, triuDan
+(AB): <L>48166<pc>3-058-c<k1>tryuDan<k2>(tryuDan), tri/Da/n, (triuDan)
+------------------------
+48160
+(CDSL): <L>48174<pc>3-058-c<k1>tva<k2>2. tva, tua/
+(AB): <L>48174<pc>3-058-c<k1>tva<k2>2. (tva), tua/
+------------------------
+48238
+(CDSL): <L>48252<pc>3-059-c<k1>tvadyoni<k2>tvadyoni, tua/dyoni
+(AB): <L>48252<pc>3-059-c<k1>tvadyoni<k2>(tvadyoni), tua/dyoni
+------------------------
+48272
+(CDSL): <L>48286<pc>3-060-a<k1>tvAnid<k2>tvAnid, tuAni/d
+(AB): <L>48286<pc>3-060-a<k1>tvAnid<k2>(tvAnid), tuAni/d
+------------------------
+48279
+(CDSL): <L>48293<pc>3-060-a<k1>tvAvasu<k2>tvAvasu, tuA/vasu
+(AB): <L>48293<pc>3-060-a<k1>tvAvasu<k2>(tvAvasu), tuA/vasu
+------------------------
+48303
+(CDSL): <L>48317<pc>3-060-b<k1>tvezya<k2>tvezya, tvezi/a
+(AB): <L>48317<pc>3-060-b<k1>tvezya<k2>(tvezya), tvezi/a
+------------------------
+48392
+(CDSL): <L>48406<pc>3-061-c<k1>dakzapitar<k2>da/kzapitar, da/kzapitAr
+(AB): <L>48406<pc>3-061-c<k1>dakzapitar<k2>da/kzapitar, (da/kzapitAr)
+------------------------
+48432
+(CDSL): <L>48446<pc>3-062-b<k1>dakziRaprAkpravaRa<k2>dakziRaprAkpravaRa, dakziRAprAkpravaRa
+(AB): <L>48446<pc>3-062-b<k1>dakziRaprAkpravaRa<k2>dakziRaprAkpravaRa, (dakziRAprAkpravaRa)
+------------------------
+48442
+(CDSL): <L>48456<pc>3-062-c<k1>dakziRA<k2>2. dakziRA/, da/kziRA
+(AB): <L>48456<pc>3-062-c<k1>dakziRA<k2>2. dakziRA/, (da/kziRA)
+------------------------
+48810
+(CDSL): <L>48824<pc>3-067-a<k1>daDyaYc<k2>daDya/Yc, daDia/Yc, daDIc
+(AB): <L>48824<pc>3-067-a<k1>daDyaYc<k2>daDya/Yc, daDia/Yc, (daDIc)
+------------------------
+48815
+(CDSL): <L>48829<pc>3-067-b<k1>daDyASir<k2>daDyASir, da/DiASir
+(AB): <L>48829<pc>3-067-b<k1>daDyASir<k2>(daDyASir), da/DiASir
+------------------------
+48964
+(CDSL): <L>48978<pc>3-069-a<k1>daBya<k2>daBya, da/Bia
+(AB): <L>48978<pc>3-069-a<k1>daBya<k2>(daBya), da/Bia
+------------------------
+49006
+(CDSL): <L>49020<pc>3-069-c<k1>damya<k2>2. damya, da/mia
+(AB): <L>49020<pc>3-069-c<k1>damya<k2>2. (damya), da/mia
+------------------------
+49168
+(CDSL): <L>49182<pc>3-073-b<k1>darSya<k2>darSya, da/rSia
+(AB): <L>49182<pc>3-073-b<k1>darSya<k2>(darSya), da/rSia
+------------------------
+49223
+(CDSL): <L>49237<pc>3-074-b<k1>daSakakzya<k2>daSakakzya, da/Sakakzia
+(AB): <L>49237<pc>3-074-b<k1>daSakakzya<k2>(daSakakzya), da/Sakakzia
+------------------------
+49332
+(CDSL): <L>49346<pc>3-075-b<k1>daSamAsya<k2>da/SamAsya, da/SamAsia
+(AB): <L>49346<pc>3-075-b<k1>daSamAsya<k2>da/SamAsya, (da/SamAsia)
+------------------------
+49449
+(CDSL): <L>49463<pc>3-076-c<k1>daSoRi<k2>da/SoRi, daSoRya, da/SoRia
+(AB): <L>49463<pc>3-076-c<k1>daSoRi<k2>da/SoRi, (daSoRya), da/SoRia
+------------------------
+49460
+(CDSL): <L>49474<pc>3-077-a<k1>dasmya<k2>dasmya, da/smia
+(AB): <L>49474<pc>3-077-a<k1>dasmya<k2>(dasmya), da/smia
+------------------------
+49846
+(CDSL): <L>49860<pc>3-084-a<k1>dArBya<k2>dArBya/, dArBia/, dArBya^
+(AB): <L>49860<pc>3-084-a<k1>dArBya<k2>dArBya/, (dArBia/), dArBya^
+------------------------
+49947
+(CDSL): <L>49961<pc>3-085-a<k1>dASvaDvara<k2>dASvaDvara, dASu/aDvara
+(AB): <L>49961<pc>3-085-a<k1>dASvaDvara<k2>(dASvaDvara), dASu/aDvara
+------------------------
+50151
+(CDSL): <L>50165<pc>3-087-b<k1>diDizAyya<k2>diDizAyya, diDizA/yiA
+(AB): <L>50165<pc>3-087-b<k1>diDizAyya<k2>(diDizAyya), diDizA/yiA
+------------------------
+50432
+(CDSL): <L>50446<pc>3-092-b<k1>dihlA<k2>dihlA, hilhA
+(AB): <L>50446<pc>3-092-b<k1>dihlA<k2>dihlA, (hilhA)
+------------------------
+50474
+(CDSL): <L>50488<pc>3-093-a<k1>dIdyagni<k2>dIdyagni, dI/diagni
+(AB): <L>50488<pc>3-093-a<k1>dIdyagni<k2>(dIdyagni), dI/diagni
+------------------------
+50608
+(CDSL): <L>50622<pc>3-095-b<k1>dIrGajihvya<k2>dIrGajihvya^, dIGajihvi/a
+(AB): <L>50622<pc>3-095-b<k1>dIrGajihvya<k2>(dIrGajihvya^), dIGajihvi/a
+------------------------
+50644
+(CDSL): <L>50658<pc>3-095-c<k1>dIrGapad<k2>*dIrGapad, dIrGapAd
+(AB): <L>50658<pc>3-095-c<k1>dIrGapad<k2>*dIrGapad, (dIrGapAd)
+------------------------
+50687
+(CDSL): <L>50701<pc>3-096-b<k1>dIrGavacCikA<k2>*dIrGavacCikA, dIrGa*°varCikA
+(AB): <L>50701<pc>3-096-b<k1>dIrGavacCikA<k2>*dIrGavacCikA, *dIrGavarCikA
+------------------------
+50691
+(CDSL): <L>50705<pc>3-096-b<k1>dIrGavfttaPalA<k2>*dIrGavfttaPalA, dIrGavfntaPalA
+(AB): <L>50705<pc>3-096-b<k1>dIrGavfttaPalA<k2>*dIrGavfttaPalA, (dIrGavfntaPalA)
+------------------------
+51019
+(CDSL): <L>51033<pc>3-100-a<k1>durita<k2>durita/, du/rita
+(AB): <L>51033<pc>3-100-a<k1>durita<k2>durita/, (du/rita)
+------------------------
+51201
+(CDSL): <L>51215<pc>3-102-b<k1>durdyUtavedin<k2>*durdyUtavedin, durdyUtadevin
+(AB): <L>51215<pc>3-102-b<k1>durdyUtavedin<k2>*durdyUtavedin, (durdyUtadevin)
+------------------------
+51748
+(CDSL): <L>51762<pc>3-109-a<k1>dUqaBa<k2>dUqaBa, dULa/Ba
+(AB): <L>51762<pc>3-109-a<k1>dUqaBa<k2>(dUqaBa), dULa/Ba
+------------------------
+52041
+(CDSL): <L>52055<pc>3-112-c<k1>dfSenya<k2>dfSenya, daSo/nia
+(AB): <L>52055<pc>3-112-c<k1>dfSenya<k2>(dfSenya), daSo/nia
+------------------------
+52293
+(CDSL): <L>52307<pc>3-116-a<k1>devadryaYc<k2>devadryaYc, devadri/aYc, devadrI/c
+(AB): <L>52307<pc>3-116-a<k1>devadryaYc<k2>devadryaYc, (devadri/aYc, devadrI/c)
+------------------------
+52704
+(CDSL): <L>52718<pc>3-120-b<k1>devya<k2>devya, devi/a
+(AB): <L>52718<pc>3-120-b<k1>devya<k2>(devya), devi/a
+------------------------
+53037
+(CDSL): <L>53051<pc>3-124-b<k1>dosTa<k2>*dosTa, doHsTa
+(AB): <L>53051<pc>3-124-b<k1>dosTa<k2>*dosTa, (doHsTa)
+------------------------
+53114
+(CDSL): <L>53128<pc>3-125-b<k1>dOzkanta<k2>dOzkanta, dOzkanti
+(AB): <L>53128<pc>3-125-b<k1>dOzkanta<k2>dOzkanta, (dOzkanti)
+------------------------
+53211
+(CDSL): <L>53225<pc>3-126-b<k1>dyumnAsah<k2>dyumnAsa/h, dyumnAsA/h
+(AB): <L>53225<pc>3-126-b<k1>dyumnAsah<k2>dyumnAsa/h, (dyumnAsA/h)
+------------------------
+53529
+(CDSL): <L>53543<pc>3-131-b<k1>droRakajihvi<k2>droRakajihvi, (drO°Rakajihvi)
+(AB): <L>53543<pc>3-131-b<k1>droRakajihvi<k2>droRakajihvi, (drORakajihvi)
+------------------------
+53563,53564
+(CDSL): <L>53577<pc>3-131-c<k1>droRya<k2>droRya, dro/Ria
+(CDSL): <L>53578<pc>3-131-c<k1>droRyaSva<k2>droRyaSva, droRI/aSva
+(AB): <L>53577<pc>3-131-c<k1>droRya<k2>(droRya), dro/Ria
+(AB): <L>53578<pc>3-131-c<k1>droRyaSva<k2>(droRyaSva), droRI/aSva
+------------------------
+53595
+(CDSL): <L>53609<pc>3-132-a<k1>drvanna<k2>drvanna, dru/anna
+(AB): <L>53609<pc>3-132-a<k1>drvanna<k2>(drvanna), dru/anna
+------------------------
+53956
+(CDSL): <L>53970<pc>3-136-a<k1>dvipad<k2>dvipa/d, dvi/pad,  dvi/pAd
+(AB): <L>53970<pc>3-136-a<k1>dvipad<k2>dvipa/d, dvi/pad, (dvi/pAd)
+------------------------
+54313
+(CDSL): <L>54328<pc>3-140-a<k1>dvyAsya<k2>dvyAsya, dvi/Asya, dvi/Asia
+(AB): <L>54328<pc>3-140-a<k1>dvyAsya<k2>(dvyAsya), dvi/Asya, dvi/Asia
+------------------------
+54538
+(CDSL): <L>54553<pc>3-142-c<k1>Danvacyut<k2>Danvacyut, Danuacyu/t
+(AB): <L>54553<pc>3-142-c<k1>Danvacyut<k2>(Danvacyut), Danuacyu/t
+------------------------
+54664
+(CDSL): <L>54679<pc>3-146-b<k1>DarmakAla<k2>*DarmakAla, DarmakAya
+(AB): <L>54679<pc>3-146-b<k1>DarmakAla<k2>*DarmakAla, (DarmakAya)
+------------------------
+55180
+(CDSL): <L>55195<pc>3-157-b<k1>DAnyAkft<k2>DAnyAkft, DAniAkf/t
+(AB): <L>55195<pc>3-157-b<k1>DAnyAkft<k2>(DAnyAkft), DAniAkf/t
+------------------------
+55212
+(CDSL): <L>55227<pc>3-157-c<k1>DAmasac<k2>DAmasa/c, DAmasA/c
+(AB): <L>55227<pc>3-157-c<k1>DAmasac<k2>DAmasa/c, (DAmasA/c)
+------------------------
+55417
+(CDSL): <L>55432<pc>3-161-c<k1>DImaraRa<k2>DImaraRa, miSraDImaraRa
+(AB): <L>55432<pc>3-161-c<k1>DImaraRa<k2>DImaraRa, (miSraDImaraRa)
+------------------------
+55445
+(CDSL): <L>55460<pc>3-162-a<k1>DIrya<k2>2. DIrya, DIri/a
+(AB): <L>55460<pc>3-162-a<k1>DIrya<k2>2. (DIrya), DIri/a
+------------------------
+55664
+(CDSL): <L>55679<pc>3-165-b<k1>DUrzah<k2>DUrzah, DUrzAh
+(AB): <L>55679<pc>3-165-b<k1>DUrzah<k2>DUrzah, (DUrzAh)
+------------------------
+55765
+(CDSL): <L>55780<pc>3-166-c<k1>DfzRvojas<k2>DfzRvojas, DfzRu/ojas
+(AB): <L>55780<pc>3-166-c<k1>DfzRvojas<k2>(DfzRvojas), DfzRu/ojas
+------------------------
+56051
+(CDSL): <L>56067<pc>3-171-a<k1>Dvanya<k2>Dvanya, Dvani/a
+(AB): <L>56067<pc>3-171-a<k1>Dvanya<k2>(Dvanya), Dvani/a
+------------------------
+56134
+(CDSL): <L>56150<pc>3-172-b<k1>nakta<k2>2. nakta, natkla
+(AB): <L>56150<pc>3-172-b<k1>nakta<k2>2. nakta, (natkla)
+------------------------
+56224
+(CDSL): <L>56240<pc>3-173-b<k1>nakzya<k2>nakzya, nakzia
+(AB): <L>56240<pc>3-173-b<k1>nakzya<k2>(nakzya), nakzia
+------------------------
+56499
+(CDSL): <L>56515<pc>3-176-b<k1>nantva<k2>nantva, na/ntua
+(AB): <L>56515<pc>3-176-b<k1>nantva<k2>(nantva), na/ntua
+------------------------
+56629
+(CDSL): <L>56645<pc>3-178-c<k1>naBanya<k2>naBanya, naBani/a
+(AB): <L>56645<pc>3-178-c<k1>naBanya<k2>(naBanya), naBani/a
+------------------------
+56956
+(CDSL): <L>56972<pc>3-183-c<k1>nartitavya<k2>nartitavya, Raccidavva
+(AB): <L>56972<pc>3-183-c<k1>nartitavya<k2>nartitavya, (Raccidavva)
+------------------------
+57291
+(CDSL): <L>57307<pc>3-188-a<k1>nastakaraRa<k2>*nastakaraRa, nastaHkaraRa
+(AB): <L>57307<pc>3-188-a<k1>nastakaraRa<k2>*nastakaraRa, (nastaHkaraRa)
+------------------------
+57307
+(CDSL): <L>57323<pc>3-188-c<k1>nahi<k2>nahi/, na/hi/
+(AB): <L>57323<pc>3-188-c<k1>nahi<k2>nahi/, (na/hi/)
+------------------------
+57311
+(CDSL): <L>57327<pc>3-188-c<k1>nahuzya<k2>nahuzya, nahuzi/a
+(AB): <L>57327<pc>3-188-c<k1>nahuzya<k2>(nahuzya), nahuzi/a
+------------------------
+57376
+(CDSL): <L>57392<pc>3-189-c<k1>nAgadASaka<k2>*nAgadASaka, nAgadAsaka
+(AB): <L>57392<pc>3-189-c<k1>nAgadASaka<k2>*nAgadASaka, (nAgadAsaka)
+------------------------
+58042
+(CDSL): <L>58058<pc>3-198-a<k1>nArya<k2>nArya, nAria/
+(AB): <L>58058<pc>3-198-a<k1>nArya<k2>(nArya), nAria/
+------------------------
+58556
+(CDSL): <L>58572<pc>3-204-c<k1>niDAnya<k2>niDAnya, niDAni/a
+(AB): <L>58572<pc>3-204-c<k1>niDAnya<k2>(niDAnya), niDAni/a
+------------------------
+59379
+(CDSL): <L>59395<pc>3-216-b<k1>nirbADya<k2>nirbADya, nirbADi/a
+(AB): <L>59395<pc>3-216-b<k1>nirbADya<k2>(nirbADya), nirbADi/a
+------------------------
+60167
+(CDSL): <L>60183<pc>3-227-a<k1>nizWA<k2>nizWA/, niHzWA/
+(AB): <L>60183<pc>3-227-a<k1>nizWA<k2>nizWA/, (niHzWA/)
+------------------------
+60172
+(CDSL): <L>60188<pc>3-227-b<k1>nizWAva<k2>nizWAva, niHzWAva
+(AB): <L>60188<pc>3-227-b<k1>nizWAva<k2>nizWAva, (niHzWAva)
+------------------------
+60306
+(CDSL): <L>60322<pc>3-228-c<k1>nizzah<k2>nizza/h, nizzA/h
+(AB): <L>60322<pc>3-228-c<k1>nizzah<k2>nizza/h, (nizzA/h)
+------------------------
+60794
+(CDSL): <L>60810<pc>3-237-a<k1>nIviBArya<k2>nIviBArya, nIviBAri/a
+(AB): <L>60810<pc>3-237-a<k1>nIviBArya<k2>(nIviBArya), nIviBAri/a
+------------------------
+60797
+(CDSL): <L>60813<pc>3-237-a<k1>nIvyA<k2>nIvyA, nIvi/A
+(AB): <L>60813<pc>3-237-a<k1>nIvyA<k2>(nIvyA), nIvi/A
+------------------------
+60800
+(CDSL): <L>60816<pc>3-237-a<k1>nIzah<k2>nIza/h, nIzA/h
+(AB): <L>60816<pc>3-237-a<k1>nIzah<k2>nIza/h, (nIzA/h)
+------------------------
+60810
+(CDSL): <L>60826<pc>3-237-b<k1>nu<k2>4. nu, nU
+(AB): <L>60826<pc>3-237-b<k1>nu<k2>4. nu, (nU)
+------------------------
+60921
+(CDSL): <L>60937<pc>3-239-a<k1>nfpAyya<k2>nfpAyya, nfpA/yia
+(AB): <L>60937<pc>3-239-a<k1>nfpAyya<k2>(nfpAyya), nfpA/yia
+------------------------
+60973
+(CDSL): <L>60989<pc>3-239-b<k1>nfzac<k2>nfza/c, nfzA/c
+(AB): <L>60989<pc>3-239-b<k1>nfzac<k2>nfza/c, (nfzA/c)
+------------------------
+60978
+(CDSL): <L>60994<pc>3-239-b<k1>nfzah<k2>nfza/h, nfzA/h
+(AB): <L>60994<pc>3-239-b<k1>nfzah<k2>nfza/h, (nfzA/h)
+------------------------
+61270
+(CDSL): <L>61286<pc>3-243-a<k1>nErbADya<k2>nErbADya, nErbaDi/a
+(AB): <L>61286<pc>3-243-a<k1>nErbADya<k2>(nErbADya), nErbaDi/a
+------------------------
+61331
+(CDSL): <L>61347<pc>3-243-c<k1>nEzwika<k2>nEzwika, nEHzWika
+(AB): <L>61347<pc>3-243-c<k1>nEzwika<k2>nEzwika, (nEHzWika)
+------------------------
+61336
+(CDSL): <L>61352<pc>3-243-c<k1>nEzpeSikatva<k2>*nEzpeSikatva, nEzpezikatva
+(AB): <L>61352<pc>3-243-c<k1>nEzpeSikatva<k2>*nEzpeSikatva, (nEzpezikatva)
+------------------------
+61392
+(CDSL): <L>61408<pc>3-244-b<k1>nya<k2>nya, nia/
+(AB): <L>61408<pc>3-244-b<k1>nya<k2>(nya), nia/
+------------------------
+61422
+(CDSL): <L>61438<pc>3-244-c<k1>nyayana<k2>nyayana, ni^a/yana
+(AB): <L>61438<pc>3-244-c<k1>nyayana<k2>(nyayana), ni^a/yana
+------------------------
+61425
+(CDSL): <L>61441<pc>3-244-c<k1>nyarTa<k2>nyarTa, niarTa/
+(AB): <L>61441<pc>3-244-c<k1>nyarTa<k2>(nyarTa), niarTa/
+------------------------
+61427
+(CDSL): <L>61443<pc>3-244-c<k1>nyarbudi<k2>nyarbudi, ni/arbudi
+(AB): <L>61443<pc>3-244-c<k1>nyarbudi<k2>(nyarbudi), ni/arbudi
+------------------------
+61438
+(CDSL): <L>61454<pc>3-245-a<k1>nyahna<k2>nyahna, nia/hna
+(AB): <L>61454<pc>3-245-a<k1>nyahna<k2>(nyahna), nia/hna
+------------------------
+61450,61451
+(CDSL): <L>61466<pc>3-245-b<k1>nyAyana<k2>nyAyana, niA/yana
+(CDSL): <L>61467<pc>3-245-b<k1>nyAyanibanDa<k2>nyAyanibanDa, nyAyanirRaya, nyAyanirmARa, nyAyanirvARa
+(AB): <L>61466<pc>3-245-b<k1>nyAyana<k2>nyAyana, (niA/yana)
+(AB): <L>61467<pc>3-245-b<k1>nyAyanibanDa<k2>nyAyanibanDa, nyAyanirRaya, nyAyanirmARa, (nyAyanirvARa)
+------------------------
+61528,61530
+(CDSL): <L>61544<pc>3-246-b<k1>nyoGas<k2>nyoGas, nioGas
+(CDSL): <L>61545<pc>3-246-b<k1>nyocanI<k2>nyocanI, nio/canI
+(CDSL): <L>61546<pc>3-246-b<k1>nyocara<k2>nyocara, niocara/
+(AB): <L>61544<pc>3-246-b<k1>nyoGas<k2>nyoGas, (nioGas)
+(AB): <L>61545<pc>3-246-b<k1>nyocanI<k2>(nyocanI), nio/canI
+(AB): <L>61546<pc>3-246-b<k1>nyocara<k2>(nyocara), niocara/
+------------------------
+61752
+(CDSL): <L>61768<pc>4-004-b<k1>pacatya<k2>pacatya, pacati/a
+(AB): <L>61768<pc>4-004-b<k1>pacatya<k2>(pacatya), pacati/a
+------------------------
+62381
+(CDSL): <L>62398<pc>4-012-c<k1>paRAsTi<k2>°paRAsTi, *°paRAsTika
+(AB): <L>62398<pc>4-012-c<k1>paRAsTi<k2>°paRAsTi, *paRAsTika
+------------------------
+62534
+(CDSL): <L>62551<pc>4-016-b<k1>pattalI<k2>pattalI, pattralI
+(AB): <L>62551<pc>4-016-b<k1>pattalI<k2>pattalI, (pattralI)
+------------------------
+62995
+(CDSL): <L>63012<pc>4-026-a<k1>panayAyya<k2>panayAyya, panayA/yia
+(AB): <L>63012<pc>4-026-a<k1>panayAyya<k2>(panayAyya), panayA/yia
+------------------------
+63002
+(CDSL): <L>63019<pc>4-026-b<k1>panAyya<k2>panAyya, panA/yia
+(AB): <L>63019<pc>4-026-b<k1>panAyya<k2>(panAyya), panA/yia
+------------------------
+63257
+(CDSL): <L>63274<pc>4-031-a<k1>paramananda<k2>paramananda, paramAnanda
+(AB): <L>63274<pc>4-031-a<k1>paramananda<k2>paramananda, (paramAnanda)
+------------------------
+63821
+(CDSL): <L>63838<pc>4-039-b<k1>paritakmya<k2>paritakmya, pa/ritakmia
+(AB): <L>63838<pc>4-039-b<k1>paritakmya<k2>(paritakmya), pa/ritakmia
+------------------------
+64038
+(CDSL): <L>64055<pc>4-042-b<k1>pariBAzenduSeKara<k2>pariBAzenduSeKara, pariBAzenduSeKarakASikA, pariBAzenduSeKarasaMgraha, °pariBAzopaskAra
+(AB): <L>64055<pc>4-042-b<k1>pariBAzenduSeKara<k2>pariBAzenduSeKara, pariBAzenduSeKarakASikA, pariBAzenduSeKarasaMgraha, pariBAzopaskAra
+------------------------
+64137
+(CDSL): <L>64154<pc>4-043-b<k1>parirAp<k2>parirA/p, parira/p
+(AB): <L>64154<pc>4-043-b<k1>parirAp<k2>parirA/p, (parira/p)
+------------------------
+64611
+(CDSL): <L>64628<pc>4-050-b<k1>parjanyakrandya<k2>parja/nyakrandya, parja/nyakrandia
+(AB): <L>64628<pc>4-050-b<k1>parjanyakrandya<k2>(parja/nyakrandya), parja/nyakrandia
+------------------------
+64831
+(CDSL): <L>64848<pc>4-053-a<k1>paryUzaRAzwAhnikA<k2>paryUzaRAzwAhnikA, (paryu°zaRAzwAhnikA)
+(AB): <L>64848<pc>4-053-a<k1>paryUzaRAzwAhnikA<k2>paryUzaRAzwAhnikA, (paryuzaRAzwAhnikA)
+------------------------
+64961
+(CDSL): <L>64978<pc>4-054-c<k1>palAgratas<k2>palAgra, palAgra(tas)
+(AB): <L>64978<pc>4-054-c<k1>palAgratas<k2>palAgra, palAgratas
+------------------------
+65002
+(CDSL): <L>65019<pc>4-055-b<k1>paleSinI<k2>paleSinI, palASinI
+(AB): <L>65019<pc>4-055-b<k1>paleSinI<k2>paleSinI, (palASinI)
+------------------------
+65268
+(CDSL): <L>65285<pc>4-059-b<k1>paSvEzwi<k2>pa/Svaizwi
+(AB): <L>65285<pc>4-059-b<k1>paSvaizwi<k2>pa/Sva_izwi
+------------------------
+65275
+(CDSL): <L>65292<pc>4-059-c<k1>paSviz<k2>paSviz, paSui/z
+(AB): <L>65292<pc>4-059-c<k1>paSviz<k2>(paSviz), paSui/z
+------------------------
+65283,65285
+(CDSL): <L>65300<pc>4-059-c<k1>pastya<k2>pastya, pasti/a
+(CDSL): <L>65302<pc>4-059-c<k1>pastyasad<k2>pastyasad, pastiasa/d
+(CDSL): <L>65303<pc>4-059-c<k1>pastyAvant<k2>pastyAvant, pasti/Avant
+(AB): <L>65300<pc>4-059-c<k1>pastya<k2>(pastya), pasti/a
+(AB): <L>65302<pc>4-059-c<k1>pastyasad<k2>(pastyasad), pastiasa/d
+(AB): <L>65303<pc>4-059-c<k1>pastyAvant<k2>(pastyAvant), pasti/Avant
+------------------------
+65387
+(CDSL): <L>65405<pc>4-061-c<k1>pAkyA<k2>pAkyA, pAki/A
+(AB): <L>65405<pc>4-061-c<k1>pAkyA<k2>(pAkyA), pAki/A
+------------------------
+65787
+(CDSL): <L>65805<pc>4-067-a<k1>pATya<k2>pATya, pATia/
+(AB): <L>65805<pc>4-067-a<k1>pATya<k2>(pATya), pATia/
+------------------------
+65962
+(CDSL): <L>65980<pc>4-069-b<k1>pAdmapurARa<k2>pAdmapurARa, padmapurARa, pAdmapUrva, pAdmasaMhitA, pAdmasaMhitAprayoga, pAdmottara, pAdmottaraKaRqa
+(AB): <L>65980<pc>4-069-b<k1>pAdmapurARa<k2>pAdmapurARa, (padmapurARa), pAdmapUrva, pAdmasaMhitA, pAdmasaMhitAprayoga, pAdmottara, pAdmottaraKaRqa
+------------------------
+66116
+(CDSL): <L>66134<pc>4-071-a<k1>pAmaGnI<k2>*pAmaGnI, pAmahan
+(AB): <L>66134<pc>4-071-a<k1>pAmaGnI<k2>*pAmaGnI, (pAmahan)
+------------------------
+66141
+(CDSL): <L>66159<pc>4-071-b<k1>pAyu<k2>2. pAyu/, pA/yu
+(AB): <L>66159<pc>4-071-b<k1>pAyu<k2>2. pAyu/, (pA/yu)
+------------------------
+66240
+(CDSL): <L>66258<pc>4-072-c<k1>pArasIprakASa<k2>pArasIprakASa, pAraSIprakASa, pArasIvivAda
+(AB): <L>66258<pc>4-072-c<k1>pArasIprakASa<k2>pArasIprakASa, (pAraSIprakASa), pArasIvivAda
+------------------------
+66384
+(CDSL): <L>66402<pc>4-074-c<k1>pAreviSokam<k2>pAreviSokam, pAreviSoke
+(AB): <L>66402<pc>4-074-c<k1>pAreviSokam<k2>pAreviSokam, (pAreviSoke)
+------------------------
+66418
+(CDSL): <L>66436<pc>4-075-a<k1>pArTya<k2>pArTya, pArTia/
+(AB): <L>66436<pc>4-075-a<k1>pArTya<k2>(pArTya), pArTia/
+------------------------
+66518
+(CDSL): <L>66536<pc>4-076-c<k1>pArzRivah<k2>pArzRivah, pArzRivAh, pArzRivAha
+(AB): <L>66536<pc>4-076-c<k1>pArzRivah<k2>pArzRivah, (pArzRivAh), pArzRivAha
+------------------------
+66670
+(CDSL): <L>66688<pc>4-079-a<k1>pAzya<k2>pAzya, pAzi/a
+(AB): <L>66688<pc>4-079-a<k1>pAzya<k2>(pAzya), pAzi/a
+------------------------
+66672
+(CDSL): <L>66690<pc>4-079-a<k1>pAstya<k2>pAstya, pAstia/
+(AB): <L>66690<pc>4-079-a<k1>pAstya<k2>(pAstya), pAstia/
+------------------------
+66711
+(CDSL): <L>66730<pc>4-079-c<k1>piNgalAtantra<k2>piNgalAtantra, piNgalAmata, piNgalAmfta, piNgalArTa, piNgalArya, piNgalArTapradIpa
+(AB): <L>66730<pc>4-079-c<k1>piNgalAtantra<k2>piNgalAtantra, piNgalAmata, piNgalAmfta, piNgalArTa, (piNgalArya), piNgalArTapradIpa
+------------------------
+66976
+(CDSL): <L>66995<pc>4-083-c<k1>pitfyajYiya<k2>pitfyajYiya, pitfyajIya
+(AB): <L>66995<pc>4-083-c<k1>pitfyajYiya<k2>pitfyajYiya, (pitfyajIya)
+------------------------
+67048
+(CDSL): <L>67067<pc>4-084-c<k1>pitryAvant<k2>pitryAvant, pi/triAvant
+(AB): <L>67067<pc>4-084-c<k1>pitryAvant<k2>(pitryAvant), pi/triAvant
+------------------------
+67066
+(CDSL): <L>67085<pc>4-085-a<k1>pinAkagoptar<k2>pinAkagoptar, pinAkaDfk, pinAkapARi, *pinAkaBft, pi/nAkahfsta, pi/nAkAvasa, pinAki, pinAkin
+(AB): <L>67085<pc>4-085-a<k1>pinAkagoptar<k2>pinAkagoptar, pinAkaDfk, pinAkapARi, *pinAkaBft, pi/nAkahfsta, pi/nAkAvasa, pinAki, (pinAkin)
+------------------------
+67371
+(CDSL): <L>67390<pc>4-089-c<k1>pItvA<k2>pItvA/, pituA/, *pItvAnam, pItvInam
+(AB): <L>67390<pc>4-089-c<k1>pItvA<k2>pItvA/, pituA/, *pItvAnam, (pItvInam)
+------------------------
+68180
+(CDSL): <L>68199<pc>4-100-b<k1>purumAyya<k2>purumAyya, purumA/yia
+(AB): <L>68199<pc>4-100-b<k1>purumAyya<k2>(purumAyya), purumA/yia
+------------------------
+68316
+(CDSL): <L>68335<pc>4-102-a<k1>puruzya<k2>puruzya, puruzi/a
+(AB): <L>68335<pc>4-102-a<k1>puruzya<k2>(puruzya), puruzi/a
+------------------------
+68411
+(CDSL): <L>68431<pc>4-103-a<k1>purvaRIka<k2>purvaRIka, puruaRIka
+(AB): <L>68431<pc>4-103-a<k1>purvaRIka<k2>(purvaRIka), puruaRIka
+------------------------
+68710
+(CDSL): <L>68730<pc>4-107-c<k1>puzya<k2>1. puzya, pu/zia
+(AB): <L>68730<pc>4-107-c<k1>puzya<k2>1. puzya, (pu/zia)
+------------------------
+69104
+(CDSL): <L>69124<pc>4-113-c<k1>pUrvapAna<k2>*pUrvapAna, pUrvapAyya, pUrvapAyia
+(AB): <L>69124<pc>4-113-c<k1>pUrvapAna<k2>*pUrvapAna, (pUrvapAyya), pUrvapAyia
+------------------------
+69284
+(CDSL): <L>69304<pc>4-115-c<k1>pUrvyastuti<k2>pUrvyastuti, pUrvia/stuti
+(AB): <L>69304<pc>4-115-c<k1>pUrvyastuti<k2>(pUrvyastuti), pUrvia/stuti
+------------------------
+69303
+(CDSL): <L>69323<pc>4-116-a<k1>pUzarya<k2>pUzarya, pUzari/a
+(AB): <L>69323<pc>4-116-a<k1>pUzarya<k2>(pUzarya), pUzari/a
+------------------------
+69329
+(CDSL): <L>69349<pc>4-116-b<k1>pftanAjya<k2>pftanAjya, pftanA/jia
+(AB): <L>69349<pc>4-116-b<k1>pftanAjya<k2>(pftanAjya), pftanA/jia
+------------------------
+69333,69334
+(CDSL): <L>69353<pc>4-116-b<k1>pftanAzah<k2>pftanAza/h, pftanAzA/h
+(CDSL): <L>69354<pc>4-116-b<k1>pftanAzAhya<k2>pftanAzAhya, pftanAza/hia, pftanAsA/hya
+(AB): <L>69353<pc>4-116-b<k1>pftanAzah<k2>pftanAza/h, (pftanAzA/h)
+(AB): <L>69354<pc>4-116-b<k1>pftanAzAhya<k2>(pftanAzAhya), pftanAza/hia, pftanAsA/hya
+------------------------
+69627,69628
+(CDSL): <L>69647<pc>4-119-c<k1>pfzwyAmaya<k2>pfzwyAmaya, pfzwiAmaya/
+(CDSL): <L>69648<pc>4-119-c<k1>pfzwyAmayin<k2>pfzwyAmayin, pfzwiAmayi/n
+(AB): <L>69647<pc>4-119-c<k1>pfzwyAmaya<k2>(pfzwyAmaya), pfzwiAmaya/
+(AB): <L>69648<pc>4-119-c<k1>pfzwyAmayin<k2>(pfzwyAmayin), pfzwiAmayi/n
+------------------------
+69661
+(CDSL): <L>69681<pc>4-120-b<k1>pfzWavah<k2>pfzWava/h, pfzWavA/h
+(AB): <L>69681<pc>4-120-b<k1>pfzWavah<k2>pfzWava/h, (pfzWavA/h)
+------------------------
+69948
+(CDSL): <L>69970<pc>4-123-b<k1>pozyAvant<k2>pozyAvant, poziA/vant
+(AB): <L>69970<pc>4-123-b<k1>pozyAvant<k2>(pozyAvant), poziA/vant
+------------------------
+70001
+(CDSL): <L>70023<pc>4-124-a<k1>pOtrajIvika<k2>pOtrajIvika, pOtraM°jIvika⁆
+(AB): <L>70023<pc>4-124-a<k1>pOtrajIvika<k2>pOtrajIvika, pOtraMjIvika
+------------------------
+70090
+(CDSL): <L>70112<pc>4-125-a<k1>pOrRamAsyaDikaraRa<k2>pOrRamAsyaDikaraRa, (pOrRamAsyADi°karaRa)
+(AB): <L>70112<pc>4-125-a<k1>pOrRamAsyaDikaraRa<k2>pOrRamAsyaDikaraRa, (pOrRamAsyADikaraRa)
+------------------------
+70184
+(CDSL): <L>70206<pc>4-126-c<k1>praugya<k2>praugya^
+(AB): <L>70206<pc>4-126-c<k1>praugya<k2>pra_ugya^
+------------------------
+70865
+(CDSL): <L>70887<pc>4-137-c<k1>pratikAmya<k2>pratikAmya, pratikAmi/a
+(AB): <L>70887<pc>4-137-c<k1>pratikAmya<k2>(pratikAmya), pratikAmi/a
+------------------------
+71745
+(CDSL): <L>71767<pc>4-149-c<k1>pratItya<k2>pratItya, pratI/tia
+(AB): <L>71767<pc>4-149-c<k1>pratItya<k2>(pratItya), pratI/tia
+------------------------
+72207
+(CDSL): <L>72229<pc>4-156-a<k1>praTamavAsya<k2>praTamavAsya, praTamavAsi/a
+(AB): <L>72229<pc>4-156-a<k1>praTamavAsya<k2>(praTamavAsya), praTamavAsi/a
+------------------------
+72354
+(CDSL): <L>72376<pc>4-158-b<k1>praDanya<k2>praDanya, praDani/a
+(AB): <L>72376<pc>4-158-b<k1>praDanya<k2>(praDanya), praDani/a
+------------------------
+72522
+(CDSL): <L>72544<pc>4-160-c<k1>prabAlika<k2>*prabAlika, pravAlika
+(AB): <L>72544<pc>4-160-c<k1>prabAlika<k2>*prabAlika, (pravAlika)
+------------------------
+72642
+(CDSL): <L>72664<pc>4-162-b<k1>praBUvasu<k2>praBU/vasu, praBu/vasu
+(AB): <L>72664<pc>4-162-b<k1>praBUvasu<k2>praBU/vasu, (praBu/vasu)
+------------------------
+72939
+(CDSL): <L>72961<pc>4-167-a<k1>prarADya<k2>prarADya, prarA/Dia
+(AB): <L>72961<pc>4-167-a<k1>prarADya<k2>(prarADya), prarA/Dia
+------------------------
+73136
+(CDSL): <L>73159<pc>4-170-a<k1>pravAyya<k2>pravAyya, pravAyi/a
+(AB): <L>73159<pc>4-170-a<k1>pravAyya<k2>(pravAyya), pravAyi/a
+------------------------
+73413
+(CDSL): <L>73436<pc>4-173-c<k1>prazWavah<k2>prazWavah, (prazWavAh), (prazWOh)
+(AB): <L>73436<pc>4-173-c<k1>prazWavah<k2>prazWavah, (prazWavAh, prazWOh)
+------------------------
+73432
+(CDSL): <L>73455<pc>4-174-b<k1>prasajyapratizeDa<k2>prasajyapratizeDa, prasajya
+(AB): <L>73455<pc>4-174-b<k1>prasajyapratizeDa<k2>prasajyapratizeDa, (prasajya)
+------------------------
+73481
+(CDSL): <L>73504<pc>4-175-a<k1>prasah<k2>prasa/h, prasA/h
+(AB): <L>73504<pc>4-175-a<k1>prasah<k2>prasa/h, (prasA/h)
+------------------------
+73551
+(CDSL): <L>73574<pc>4-176-a<k1>prasUmant<k2>prasU/mant, prasUmaya, prasU/van, prasU/varI
+(AB): <L>73574<pc>4-176-a<k1>prasUmant<k2>prasU/mant, prasUmaya, prasU/van, (prasU/varI)
+------------------------
+73740
+(CDSL): <L>73763<pc>4-179-a<k1>prahye<k2>prahye, prahi/e
+(AB): <L>73763<pc>4-179-a<k1>prahye<k2>(prahye), prahi/e
+------------------------
+73924
+(CDSL): <L>73947<pc>4-181-b<k1>prAGAra<k2>prAghAra
+(AB): <L>73947<pc>4-181-b<k1>prAghAra<k2>prAg_hAra
+------------------------
+74340
+(CDSL): <L>74363<pc>4-187-a<k1>prAdurAkzi<k2>prAdurAkzi, prAdurakzi
+(AB): <L>74363<pc>4-187-a<k1>prAdurAkzi<k2>prAdurAkzi, (prAdurakzi)
+------------------------
+74599
+(CDSL): <L>74622<pc>4-190-c<k1>prASavya<k2>prASavya, prASavi/a
+(AB): <L>74622<pc>4-190-c<k1>prASavya<k2>(prASavya), prASavi/a
+------------------------
+74613
+(CDSL): <L>74636<pc>4-191-a<k1>prASuzah<k2>prASuza/h, prASuzA/h
+(AB): <L>74636<pc>4-191-a<k1>prASuzah<k2>prASuza/h, (prASuzA/h)
+------------------------
+74628
+(CDSL): <L>74651<pc>4-191-a<k1>prAsaNgavAhIvah<k2>prAsaNgavAhIvah, prAsaNgavAhIvAh
+(AB): <L>74651<pc>4-191-a<k1>prAsaNgavAhIvah<k2>prAsaNgavAhIvah, (prAsaNgavAhIvAh)
+------------------------
+75442
+(CDSL): <L>75465<pc>4-203-a<k1>PalguRa<k2>PalguRa, PalguRaka, °PalguRI
+(AB): <L>75465<pc>4-203-a<k1>PalguRa<k2>PalguRa, PalguRaka, PalguRI
+------------------------
+75460
+(CDSL): <L>75483<pc>4-203-b<k1>Palgva<k2>Palgva, Palgua
+(AB): <L>75483<pc>4-203-b<k1>Palgva<k2>(Palgva), Palgua
+------------------------
+75635
+(CDSL): <L>75658<pc>4-205-c<k1>badarivanamAhAtmya<k2>badarivanamAhAtmya, (badarI°vanamAhAtmya)
+(AB): <L>75658<pc>4-205-c<k1>badarivanamAhAtmya<k2>badarivanamAhAtmya, (badarIvanamAhAtmya)
+------------------------
+75807
+(CDSL): <L>75830<pc>4-209-a<k1>banDveza<k2>banDveza, banDueza/
+(AB): <L>75830<pc>4-209-a<k1>banDveza<k2>(banDveza), banDueza/
+------------------------
+76278
+(CDSL): <L>76301<pc>4-215-c<k1>bahujanya<k2>*bahujanya, bAhujanya
+(AB): <L>76301<pc>4-215-c<k1>bahujanya<k2>*bahujanya, (bAhujanya)
+------------------------
+76357
+(CDSL): <L>76380<pc>4-216-c<k1>bahupAyya<k2>bahupAyya, bahupA/yia
+(AB): <L>76380<pc>4-216-c<k1>bahupAyya<k2>(bahupAyya), bahupA/yia
+------------------------
+76570
+(CDSL): <L>76593<pc>4-219-b<k1>bahvfcapariSizwa<k2>bahvfcapariSizwa, bahvfcabrAhmaRa, °bahvfcabrAhmaRapaYcikABAzya, bahvfcabrAhmaRaBAzya, bahvfcabrAhmaRopanizad, bahvfcaSruti, bahvfcasaMDyABAzya, bahvfcAhnika, bahvfcopanizad
+(AB): <L>76593<pc>4-219-b<k1>bahvfcapariSizwa<k2>bahvfcapariSizwa, bahvfcabrAhmaRa, bahvfcabrAhmaRapaYcikABAzya, bahvfcabrAhmaRaBAzya, bahvfcabrAhmaRopanizad, bahvfcaSruti, bahvfcasaMDyABAzya, bahvfcAhnika, bahvfcopanizad
+------------------------
+76819
+(CDSL): <L>76842<pc>4-222-c<k1>bAlhAyana<k2>*bAlhAyana, bAhlAyana
+(AB): <L>76842<pc>4-222-c<k1>bAlhAyana<k2>*bAlhAyana, (bAhlAyana)
+------------------------
+76961
+(CDSL): <L>76984<pc>4-224-c<k1>bAhvaNka<k2>bAhvaNka, bAhuaNka/
+(AB): <L>76984<pc>4-224-c<k1>bAhvaNka<k2>(bAhvaNka), bAhuaNka/
+------------------------
+76963,76964
+(CDSL): <L>76986<pc>4-224-c<k1>bAhvojas<k2>1. bAhvojas, bAhu/ojas
+(CDSL): <L>76987<pc>4-224-c<k1>bAhvojas<k2>2. bAhvojas, bAhu/ojas
+(AB): <L>76986<pc>4-224-c<k1>bAhvojas<k2>1. (bAhvojas), bAhu/ojas
+(AB): <L>76987<pc>4-224-c<k1>bAhvojas<k2>2. (bAhvojas), bAhu/ojas
+------------------------
+77161
+(CDSL): <L>77184<pc>4-227-a<k1>bIjavivfti<k2>bIjavivfti, bIjavivftti
+(AB): <L>77184<pc>4-227-a<k1>bIjavivfti<k2>bIjavivfti, (bIjavivftti)
+------------------------
+78893
+(CDSL): <L>78917<pc>4-252-b<k1>BaraheSaravftti<k2>BaraheSaravftti, BaraheSvaravftti
+(AB): <L>78917<pc>4-252-b<k1>BaraheSaravftti<k2>BaraheSaravftti, (BaraheSvaravftti)
+------------------------
+78923
+(CDSL): <L>78947<pc>4-252-c<k1>Bartar<k2>1. Barta/r, Ba/rtar
+(AB): <L>78947<pc>4-252-c<k1>Bartar<k2>1. Barta/r, (Ba/rtar)
+------------------------
+80566
+(CDSL): <L>80591<pc>4-279-b<k1>BUmya<k2>BUmya, BUmia/
+(AB): <L>80591<pc>4-279-b<k1>BUmya<k2>(BUmya), BUmia/
+------------------------
+80669,80671
+(CDSL): <L>80694<pc>4-280-c<k1>BUryakza<k2>BUryakza, BUriakza/
+(CDSL): <L>80695<pc>4-280-c<k1>BUryAsuti<k2>BUryAsuti, BUriAsuti
+(CDSL): <L>80696<pc>4-280-c<k1>BUryojas<k2>BUryojas, BUriojas
+(AB): <L>80694<pc>4-280-c<k1>BUryakza<k2>(BUryakza), BUriakza/
+(AB): <L>80695<pc>4-280-c<k1>BUryAsuti<k2>(BUryAsuti), BUriAsuti
+(AB): <L>80696<pc>4-280-c<k1>BUryojas<k2>(BUryojas), BUriojas
+------------------------
+80681
+(CDSL): <L>80706<pc>4-280-c<k1>BUvah<k2>*BUvah, BUvAh, BUh
+(AB): <L>80706<pc>4-280-c<k1>BUvah<k2>*BUvah, (BUvAh, BUh)
+------------------------
+81017
+(CDSL): <L>81042<pc>4-285-c<k1>BogeSvaratIrTa<k2>BogeSvaratIrTa, BogISvaratIrTa
+(AB): <L>81042<pc>4-285-c<k1>BogeSvaratIrTa<k2>BogeSvaratIrTa, (BogISvaratIrTa)
+------------------------
+81265
+(CDSL): <L>81290<pc>4-290-a<k1>BrASya<k2>BrASya, prA/Sia
+(AB): <L>81290<pc>4-290-a<k1>BrASya<k2>(BrASya), prA/Sia
+------------------------
+81453
+(CDSL): <L>81478<pc>5-002-c<k1>maGavan<k2>maGa/van, meGo/n, maGonI, maGa/vant
+(AB): <L>81478<pc>5-002-c<k1>maGavan<k2>maGa/van, (meGo/n, maGonI), maGa/vant
+------------------------
+82052
+(CDSL): <L>82077<pc>5-011-b<k1>maTavya<k2>maTavya, maTavi/a
+(AB): <L>82077<pc>5-011-b<k1>maTavya<k2>(maTavya), maTavi/a
+------------------------
+82073
+(CDSL): <L>82098<pc>5-012-a<k1>mad<k2>2. mad, mAd
+(AB): <L>82098<pc>5-012-a<k1>mad<k2>2. mad, (mAd)
+------------------------
+82268
+(CDSL): <L>82293<pc>5-014-b<k1>madyAsattaka<k2>madyAsattaka, (madyAsattraka)
+(AB): <L>82293<pc>5-014-b<k1>madyAsattaka<k2>madyAsattaka, (madyAsaktaka)
+------------------------
+82287,82288
+(CDSL): <L>82312<pc>5-014-c<k1>madryaYc<k2>madryaYc, madri/aYc
+(CDSL): <L>82313<pc>5-014-c<k1>madryadrik<k2>madryadrik, madriadf/k
+(AB): <L>82312<pc>5-014-c<k1>madryaYc<k2>(madryaYc), madri/aYc
+(AB): <L>82313<pc>5-014-c<k1>madryadrik<k2>(madryadrik), madriadf/k
+------------------------
+82561
+(CDSL): <L>82586<pc>5-018-a<k1>maDuhastya<k2>maDuhastya, ma/Dujastia
+(AB): <L>82586<pc>5-018-a<k1>maDuhastya<k2>(maDuhastya), ma/Dujastia
+------------------------
+82634
+(CDSL): <L>82659<pc>5-019-b<k1>maDyamavah<k2>maDyamava/h, maDyamavA/h
+(AB): <L>82659<pc>5-019-b<k1>maDyamavah<k2>maDyamava/h, (maDyamavA/h)
+------------------------
+82680
+(CDSL): <L>82705<pc>5-020-a<k1>maDyAntaviBaNgaSAstra<k2>*maDyAntaviBaNgaSAstra, *maDyAntaviBAga°SAstra
+(AB): <L>82705<pc>5-020-a<k1>maDyAntaviBaNgaSAstra<k2>*maDyAntaviBaNgaSAstra, *maDyAntaviBAgaSAstra
+------------------------
+82720
+(CDSL): <L>82745<pc>5-020-b<k1>maDvad<k2>maDvad, maDua/d
+(AB): <L>82745<pc>5-020-b<k1>maDvad<k2>(maDvad), maDua/d
+------------------------
+82722
+(CDSL): <L>82747<pc>5-020-b<k1>maDvarRas<k2>maDvarRas, ma/DuarRas
+(AB): <L>82747<pc>5-020-b<k1>maDvarRas<k2>(maDvarRas), ma/DuarRas
+------------------------
+82746
+(CDSL): <L>82771<pc>5-021-c<k1>manaU<k2>manaU
+(AB): <L>82771<pc>5-021-c<k1>manaU<k2>mana_U
+------------------------
+82763
+(CDSL): <L>82788<pc>5-021-c<k1>mananya<k2>mananya, mananu/a
+(AB): <L>82788<pc>5-021-c<k1>mananya<k2>(mananya), mananu/a
+------------------------
+83472
+(CDSL): <L>83497<pc>5-031-c<k1>mayUraSepya<k2>mayUraSepya, mayU/raSepia
+(AB): <L>83497<pc>5-031-c<k1>mayUraSepya<k2>(mayUraSepya), mayU/raSepia
+------------------------
+83641
+(CDSL): <L>83666<pc>5-034-c<k1>marjya<k2>marjya, ma/jira
+(AB): <L>83666<pc>5-034-c<k1>marjya<k2>(marjya), ma/jira
+------------------------
+83653
+(CDSL): <L>83678<pc>5-034-c<k1>martyatrA<k2>martyatrA, mArtiatrA/
+(AB): <L>83678<pc>5-034-c<k1>martyatrA<k2>(martyatrA), mArtiatrA/
+------------------------
+83655
+(CDSL): <L>83680<pc>5-034-c<k1>martyatvana<k2>martyatvana, martiatvana/
+(AB): <L>83680<pc>5-034-c<k1>martyatvana<k2>(martyatvana), martiatvana/
+------------------------
+83667
+(CDSL): <L>83692<pc>5-035-a<k1>martyezita<k2>martyezita, ma/rtiezita
+(AB): <L>83692<pc>5-035-a<k1>martyezita<k2>(martyezita), ma/rtiezita
+------------------------
+84819
+(CDSL): <L>84844<pc>5-050-b<k1>mahAyya<k2>mahAyya, mahA/yia
+(AB): <L>84844<pc>5-050-b<k1>mahAyya<k2>(mahAyya), mahA/yia
+------------------------
+85510
+(CDSL): <L>85535<pc>5-059-c<k1>mA<k2>5. mA, mI
+(AB): <L>85535<pc>5-059-c<k1>mA<k2>5. mA, (mI)
+------------------------
+85591
+(CDSL): <L>85616<pc>5-060-c<k1>mAMsepad<k2>mAMsepad, mAMsepAd
+(AB): <L>85616<pc>5-060-c<k1>mAMsepad<k2>mAMsepad, (mAMsepAd)
+------------------------
+85748
+(CDSL): <L>85773<pc>5-062-c<k1>mARqUkyaSruti<k2>mARqUkyaSruti, mARqukyupanizad, mARqUkI, mARqukyopanizad
+(AB): <L>85773<pc>5-062-c<k1>mARqUkyaSruti<k2>mARqUkyaSruti, mARqukyupanizad, (mARqUkI), mARqukyopanizad
+------------------------
+85920
+(CDSL): <L>85945<pc>5-065-b<k1>mAdAnaka<k2>mAdAnaka, mAdanaka
+(AB): <L>85945<pc>5-065-b<k1>mAdAnaka<k2>mAdAnaka, (mAdanaka)
+------------------------
+86197
+(CDSL): <L>86222<pc>5-069-b<k1>mAndArya<k2>mAndArya, mAndAria/
+(AB): <L>86222<pc>5-069-b<k1>mAndArya<k2>(mAndArya), mAndAria/
+------------------------
+86437
+(CDSL): <L>86462<pc>5-072-c<k1>mArjAlya<k2>mArjAlya, mArjAli/a
+(AB): <L>86462<pc>5-072-c<k1>mArjAlya<k2>(mArjAlya), mArjAli/a
+------------------------
+86970
+(CDSL): <L>86995<pc>5-080-a<k1>miyeDya<k2>miyeDya, miyeDia
+(AB): <L>86995<pc>5-080-a<k1>miyeDya<k2>(miyeDya), miyeDia
+------------------------
+87056
+(CDSL): <L>87081<pc>5-081-c<k1>mIQvaMs<k2>mIQva/Ms, mIlaha/ze
+(AB): <L>87081<pc>5-081-c<k1>mIQvaMs<k2>mIQva/Ms, (mIlaha/ze)
+------------------------
+87767
+(CDSL): <L>87792<pc>5-093-c<k1>mUka<k2>mU/ka, mUka/
+(AB): <L>87792<pc>5-093-c<k1>mUka<k2>mU/ka, (mUka/)
+------------------------
+88776
+(CDSL): <L>88801<pc>5-106-b<k1>meDya<k2>2. meDya, me/Dia
+(AB): <L>88801<pc>5-106-b<k1>meDya<k2>2. (meDya), me/Dia
+------------------------
+88780
+(CDSL): <L>88805<pc>5-106-b<k1>meDyAtiTi<k2>meDyAtiTi, mo/DiAtiTi
+(AB): <L>88805<pc>5-106-b<k1>meDyAtiTi<k2>(meDyAtiTi), mo/DiAtiTi
+------------------------
+88845
+(CDSL): <L>88870<pc>5-107-a<k1>melAyana<k2>melAyana, melApana
+(AB): <L>88870<pc>5-107-a<k1>melAyana<k2>melAyana, (melApana)
+------------------------
+88931
+(CDSL): <L>88956<pc>5-108-b<k1>mEtryABimuKa<k2>mEtryABimuKa, mEtryaBimuKa
+(AB): <L>88956<pc>5-108-b<k1>mEtryABimuKa<k2>mEtryABimuKa, (mEtryaBimuKa)
+------------------------
+89010
+(CDSL): <L>89035<pc>5-109-b<k1>moGa<k2>mo/Ga, moGa/
+(AB): <L>89035<pc>5-109-b<k1>moGa<k2>mo/Ga, (moGa/)
+------------------------
+89354
+(CDSL): <L>89379<pc>5-114-c<k1>yakzya<k2>yakzya, ya/kzia
+(AB): <L>89379<pc>5-114-c<k1>yakzya<k2>(yakzya), ya/kzia
+------------------------
+89548
+(CDSL): <L>89573<pc>5-117-b<k1>yajYavoQave<k2>yajYavoQave, yajYaM_vo°Qave⁆
+(AB): <L>89573<pc>5-117-b<k1>yajYavoQave<k2>yajYavoQave, yajYaM_voQave
+------------------------
+89563
+(CDSL): <L>89588<pc>5-117-c<k1>yajYasac<k2>yajYasac, yajYasAc
+(AB): <L>89588<pc>5-117-c<k1>yajYasac<k2>yajYasac, (yajYasAc)
+------------------------
+90485
+(CDSL): <L>90510<pc>5-133-a<k1>yavizWya<k2>yavizWya, ya/vizWia
+(AB): <L>90510<pc>5-133-a<k1>yavizWya<k2>(yavizWya), ya/vizWia
+------------------------
+90496
+(CDSL): <L>90521<pc>5-133-a<k1>yavyA<k2>yavyA, yavIA/
+(AB): <L>90521<pc>5-133-a<k1>yavyA<k2>(yavyA), yavIA/
+------------------------
+90749,90750
+(CDSL): <L>90774<pc>5-139-a<k1>yAdrADyam<k2>yAdrADyam, yAdrADi/am
+(CDSL): <L>90775<pc>5-139-a<k1>yAdva<k2>yAdva, yA/dua
+(AB): <L>90774<pc>5-139-a<k1>yAdrADyam<k2>(yAdrADyam), yAdrADi/am
+(AB): <L>90775<pc>5-139-a<k1>yAdva<k2>(yAdva), yA/dua
+------------------------
+91133
+(CDSL): <L>91158<pc>5-148-a<k1>yuDenya<k2>yuDenya, yuDe/nia
+(AB): <L>91158<pc>5-148-a<k1>yuDenya<k2>(yuDenya), yuDe/nia
+------------------------
+91268,91269
+(CDSL): <L>91293<pc>5-149-c<k1>yUyuDi<k2>yU/yuDi, yu/yuDi
+(CDSL): <L>91294<pc>5-149-c<k1>yUyuvi<k2>yU/yuvi, yu/yuvi
+(AB): <L>91293<pc>5-149-c<k1>yUyuDi<k2>yU/yuDi, (yu/yuDi)
+(AB): <L>91294<pc>5-149-c<k1>yUyuvi<k2>yU/yuvi, (yu/yuvi)
+------------------------
+91518
+(CDSL): <L>91543<pc>5-153-c<k1>yonya<k2>yonya, yonia/
+(AB): <L>91543<pc>5-153-c<k1>yonya<k2>(yonya), yonia/
+------------------------
+92227
+(CDSL): <L>92252<pc>5-163-b<k1>raRya<k2>2. raRya, raRi/a
+(AB): <L>92252<pc>5-163-b<k1>raRya<k2>2. (raRya), raRi/a
+------------------------
+92663
+(CDSL): <L>92688<pc>5-168-c<k1>rantya<k2>rantya, ra/ntia
+(AB): <L>92688<pc>5-168-c<k1>rantya<k2>(rantya), ra/ntia
+------------------------
+92774,92775
+(CDSL): <L>92799<pc>5-171-c<k1>rayizac<k2>rayiza/c, rayizA/c
+(CDSL): <L>92800<pc>5-171-c<k1>rayizah<k2>rayiza/h, rayizA/h
+(AB): <L>92799<pc>5-171-c<k1>rayizac<k2>rayiza/c, (rayizA/c)
+(AB): <L>92800<pc>5-171-c<k1>rayizah<k2>rayiza/h, (rayizA/h)
+------------------------
+93031
+(CDSL): <L>93056<pc>5-175-a<k1>rasAyya<k2>rasAyya, rasA/yia
+(AB): <L>93056<pc>5-175-a<k1>rasAyya<k2>(rasAyya), rasA/yia
+------------------------
+93775
+(CDSL): <L>93800<pc>5-184-a<k1>rATya<k2>1. rATya, rA/Tia
+(AB): <L>93800<pc>5-184-a<k1>rATya<k2>1. (rATya), rA/Tia
+------------------------
+93817
+(CDSL): <L>93842<pc>5-185-a<k1>rADya<k2>rADya, rA/Dia
+(AB): <L>93842<pc>5-185-a<k1>rADya<k2>(rADya), rA/Dia
+------------------------
+93907
+(CDSL): <L>93932<pc>5-186-b<k1>rAmapUjAviDAnapadDati<k2>rAmapUjAviDAnapadDati, rAmapUjAviDi, rAmapUjASaraRi, rAmapUjAsaraRi
+(AB): <L>93932<pc>5-186-b<k1>rAmapUjAviDAnapadDati<k2>rAmapUjAviDAnapadDati, rAmapUjAviDi, rAmapUjASaraRi, (rAmapUjAsaraRi)
+------------------------
+94263
+(CDSL): <L>94288<pc>5-191-b<k1>rItyap<k2>rItya^p, rIti/ap, rItyA^p, rIti/Ap
+(AB): <L>94288<pc>5-191-b<k1>rItyap<k2>rItya^p, rIti/ap, (rItyA^p, rIti/Ap)
+------------------------
+94578
+(CDSL): <L>94603<pc>5-197-b<k1>ruSama<k2>ru/Sama, ruSa/ma
+(AB): <L>94603<pc>5-197-b<k1>ruSama<k2>ru/Sama, (ruSa/ma)
+------------------------
+94932
+(CDSL): <L>94957<pc>5-204-b<k1>rocanAvant<k2>rocanA/vant, rocana/vant
+(AB): <L>94957<pc>5-204-b<k1>rocanAvant<k2>rocanA/vant, (rocana/vant)
+------------------------
+95689
+(CDSL): <L>95714<pc>5-216-b<k1>ladUzaka<k2>ladUzaka, lawUzaka
+(AB): <L>95714<pc>5-216-b<k1>ladUzaka<k2>ladUzaka, (lawUzaka)
+------------------------
+95885
+(CDSL): <L>95910<pc>5-221-b<k1>lavaRasADikA<k2>lavaRasADikA, (lavana°sADikA)
+(AB): <L>95910<pc>5-221-b<k1>lavaRasADikA<k2>lavaRasADikA, (lavanasADikA)
+------------------------
+96843
+(CDSL): <L>96868<pc>5-237-c<k1>lozwaDara<k2>lozwaDara, lozWa
+(AB): <L>96868<pc>5-237-c<k1>lozwaDara<k2>lozwaDara, (lozWa)
+------------------------
+96849
+(CDSL): <L>96874<pc>5-237-c<k1>lozwAkza<k2>lozwAkza, lozWAkza
+(AB): <L>96874<pc>5-237-c<k1>lozwAkza<k2>lozwAkza, (lozWAkza)
+------------------------
+97196
+(CDSL): <L>97221<pc>6-002-c<k1>vaktva<k2>vaktva, va/ktua
+(AB): <L>97221<pc>6-002-c<k1>vaktva<k2>(vaktva), va/ktua
+------------------------
+97199
+(CDSL): <L>97224<pc>6-002-c<k1>vakmya<k2>vakmya, va/kmia
+(AB): <L>97224<pc>6-002-c<k1>vakmya<k2>(vakmya), va/kmia
+------------------------
+97413
+(CDSL): <L>97438<pc>6-006-b<k1>vajracCedakaprajYApAramitA<k2>vajracCedakaprajYApAramitA, vajracCedikA_pra°jYApAramitA
+(AB): <L>97438<pc>6-006-b<k1>vajracCedakaprajYApAramitA<k2>vajracCedakaprajYApAramitA, vajracCedikA_prajYApAramitA
+------------------------
+97492
+(CDSL): <L>97517<pc>6-007-b<k1>vajravah<k2>vajrava/h, vajravA/h
+(AB): <L>97517<pc>6-007-b<k1>vajravah<k2>vajrava/h, (vajravA/h)
+------------------------
+97613
+(CDSL): <L>97638<pc>6-009-a<k1>vawwa<k2>vawwa, bawwa
+(AB): <L>97638<pc>6-009-a<k1>vawwa<k2>vawwa, (bawwa)
+------------------------
+98103
+(CDSL): <L>98128<pc>6-016-b<k1>vanIka<k2>*vanIka, vanIpaka, vanIyaka
+(AB): <L>98128<pc>6-016-b<k1>vanIka<k2>*vanIka, vanIpaka, (vanIyaka)
+------------------------
+98121
+(CDSL): <L>98146<pc>6-016-c<k1>vanezah<k2>vaneza/h, vanezA/h
+(AB): <L>98146<pc>6-016-c<k1>vanezah<k2>vaneza/h, (vanezA/h)
+------------------------
+98316
+(CDSL): <L>98341<pc>6-020-a<k1>vayya<k2>vayya, vayi/a
+(AB): <L>98341<pc>6-020-a<k1>vayya<k2>(vayya), vayi/a
+------------------------
+98606
+(CDSL): <L>98631<pc>6-025-c<k1>vareRyakratu<k2>vareRyakratu, va/reRiakratu
+(AB): <L>98631<pc>6-025-c<k1>vareRyakratu<k2>(vareRyakratu), va/reRiakratu
+------------------------
+98888
+(CDSL): <L>98913<pc>6-036-c<k1>varDipaTaka<k2>varDipaTaka, vardDipaTaka
+(AB): <L>98913<pc>6-036-c<k1>varDipaTaka<k2>varDipaTaka, (vardDipaTaka)
+------------------------
+99473
+(CDSL): <L>99498<pc>6-047-a<k1>vasubanDu<k2>vasubanDu, vasubanDa
+(AB): <L>99498<pc>6-047-a<k1>vasubanDu<k2>vasubanDu, (vasubanDa)
+------------------------
+99547
+(CDSL): <L>99572<pc>6-047-c<k1>vastika<k2>vastika, bastika
+(AB): <L>99572<pc>6-047-c<k1>vastika<k2>vastika, (bastika)
+------------------------
+99555
+(CDSL): <L>99580<pc>6-048-a<k1>vastimUla<k2>vastimUla, bastimUla
+(AB): <L>99580<pc>6-048-a<k1>vastimUla<k2>vastimUla, (bastimUla)
+------------------------
+99632
+(CDSL): <L>99657<pc>6-048-c<k1>vasnya<k2>vasnya, va/snia
+(AB): <L>99657<pc>6-048-c<k1>vasnya<k2>(vasnya), va/snia
+------------------------
+99647
+(CDSL): <L>99672<pc>6-050-b<k1>vah<k2>2. °vah, °vAh, °uh, °Uh
+(AB): <L>99672<pc>6-050-b<k1>vah<k2>2. °vah, (vAh, uh, Uh)
+------------------------
+99673
+(CDSL): <L>99698<pc>6-050-c<k1>vahedaka<k2>vahedaka, bahedaka
+(AB): <L>99698<pc>6-050-c<k1>vahedaka<k2>vahedaka, (bahedaka)
+------------------------
+99792
+(CDSL): <L>99817<pc>6-053-a<k1>vAkprasArikAma<k2>vAkprasArikAma, vAkprasArikAkAma, vAkprasArakAma
+(AB): <L>99817<pc>6-053-a<k1>vAkprasArikAma<k2>vAkprasArikAma, (vAkprasArikAkAma, vAkprasArakAma)
+------------------------
+100028
+(CDSL): <L>100054<pc>6-056-a<k1>vAjaganDya<k2>vAjaganDya, vA/jaganDia
+(AB): <L>100054<pc>6-056-a<k1>vAjaganDya<k2>(vAjaganDya), vA/jaganDia
+------------------------
+100039
+(CDSL): <L>100065<pc>6-056-b<k1>vAjapastya<k2>vAjapastya, vA/japastia
+(AB): <L>100065<pc>6-056-b<k1>vAjapastya<k2>(vAjapastya), vA/japastia
+------------------------
+100804
+(CDSL): <L>100830<pc>6-066-b<k1>vAyya<k2>vAyya, vAyia/
+(AB): <L>100830<pc>6-066-b<k1>vAyya<k2>(vAyya), vAyia/
+------------------------
+100848
+(CDSL): <L>100874<pc>6-067-a<k1>vArabuzA<k2>*vArabuzA, vArabfzA
+(AB): <L>100874<pc>6-067-a<k1>vArabuzA<k2>*vArabuzA, °vArabfzA
+------------------------
+101026
+(CDSL): <L>101052<pc>6-069-a<k1>vArkAryA<k2>vArkAryA, vArkAriA/
+(AB): <L>101052<pc>6-069-a<k1>vArkAryA<k2>(vArkAryA), vArkAriA/
+------------------------
+101038
+(CDSL): <L>101064<pc>6-069-a<k1>vArQya<k2>*vArQya, bArQya
+(AB): <L>101064<pc>6-069-a<k1>vArQya<k2>*vArQya, (bArQya)
+------------------------
+101277
+(CDSL): <L>101303<pc>6-072-a<k1>vAvfDenya<k2>vAvfDenya, vAvfDe/nia
+(AB): <L>101303<pc>6-072-a<k1>vAvfDenya<k2>(vAvfDenya), vAvfDe/nia
+------------------------
+102219
+(CDSL): <L>102245<pc>6-086-b<k1>vijenya<k2>vijenya, vijeni/a
+(AB): <L>102245<pc>6-086-b<k1>vijenya<k2>(vijenya), vijeni/a
+------------------------
+102221
+(CDSL): <L>102247<pc>6-086-c<k1>vijeyavilAsa<k2>vijeyavilAsa, vijYeyavilAsa
+(AB): <L>102247<pc>6-086-c<k1>vijeyavilAsa<k2>vijeyavilAsa, (vijYeyavilAsa)
+------------------------
+102337
+(CDSL): <L>102363<pc>6-088-a<k1>viqinATakavi<k2>viqinATakavi, viLinATakavi
+(AB): <L>102363<pc>6-088-a<k1>viqinATakavi<k2>viqinATakavi, (viLinATakavi)
+------------------------
+102383
+(CDSL): <L>102409<pc>6-088-c<k1>vitantasAyya<k2>vitantasAyya, vitantasA/yia
+(AB): <L>102409<pc>6-088-c<k1>vitantasAyya<k2>(vitantasAyya), vitantasA/yia
+------------------------
+102521
+(CDSL): <L>102547<pc>6-091-c<k1>vidaTya<k2>vidaTya, vidaTi/a
+(AB): <L>102547<pc>6-091-c<k1>vidaTya<k2>(vidaTya), vidaTi/a
+------------------------
+102550
+(CDSL): <L>102576<pc>6-092-a<k1>vidAyya<k2>vidAyya, vidA/yia
+(AB): <L>102576<pc>6-092-a<k1>vidAyya<k2>(vidAyya), vidA/yia
+------------------------
+103965
+(CDSL): <L>103991<pc>6-112-a<k1>virada<k2>virada, birada
+(AB): <L>103991<pc>6-112-a<k1>virada<k2>virada, (birada)
+------------------------
+104054
+(CDSL): <L>104080<pc>6-113-c<k1>virudAvali<k2>virudAvali, virudAvalI, birudAvalI
+(AB): <L>104080<pc>6-113-c<k1>virudAvali<k2>virudAvali, virudAvalI, (birudAvalI)
+------------------------
+104520
+(CDSL): <L>104546<pc>6-123-c<k1>viSAKa<k2>vi/SAKa, viSA/Ka
+(AB): <L>104546<pc>6-123-c<k1>viSAKa<k2>vi/SAKa, (viSA/Ka)
+------------------------
+104578
+(CDSL): <L>104604<pc>6-124-c<k1>viSizwavESizwyaboDarahasya<k2>viSizwavESizwyaboDarahasya, viSizwavESizwyaboDavicAra, viSizwavESizwyavAda, viSizwavESizyavAda
+(AB): <L>104604<pc>6-124-c<k1>viSizwavESizwyaboDarahasya<k2>viSizwavESizwyaboDarahasya, viSizwavESizwyaboDavicAra, viSizwavESizwyavAda, (viSizwavESizyavAda)
+------------------------
+104781
+(CDSL): <L>104808<pc>6-128-a<k1>viSvataspad<k2>viSva/taspad, viSva/taspAd
+(AB): <L>104808<pc>6-128-a<k1>viSvataspad<k2>viSva/taspad, (viSva/taspAd)
+------------------------
+104946
+(CDSL): <L>104973<pc>6-130-a<k1>viSvavArya<k2>viSvavArya, viSva/vAria
+(AB): <L>104973<pc>6-130-a<k1>viSvavArya<k2>(viSvavArya), viSva/vAria
+------------------------
+105001
+(CDSL): <L>105028<pc>6-130-b<k1>viSvastaGAtaka<k2>viSvastaGAtaka, viSvastaGAtako, viSvastaGAtin
+(AB): <L>105028<pc>6-130-b<k1>viSvastaGAtaka<k2>viSvastaGAtaka, (viSvastaGAtako), viSvastaGAtin
+------------------------
+105012
+(CDSL): <L>105039<pc>6-130-c<k1>viSvANgya<k2>viSvANgya, viSvANgi/a
+(AB): <L>105039<pc>6-130-c<k1>viSvANgya<k2>(viSvANgya), viSvANgi/a
+------------------------
+105058
+(CDSL): <L>105085<pc>6-131-b<k1>viSvAsah<k2>viSvAsa/h, viSvAsA/h
+(AB): <L>105085<pc>6-131-b<k1>viSvAsah<k2>viSvAsa/h, (viSvAsA/h)
+------------------------
+105085
+(CDSL): <L>105112<pc>6-131-c<k1>viSvyA<k2>viSvyA, vi/SviA
+(AB): <L>105112<pc>6-131-c<k1>viSvyA<k2>(viSvyA), vi/SviA
+------------------------
+105986
+(CDSL): <L>106013<pc>6-144-b<k1>vIrakesarin<k2>vIrakesarin, vIrakeSarin
+(AB): <L>106013<pc>6-144-b<k1>vIrakesarin<k2>vIrakesarin, (vIrakeSarin)
+------------------------
+106033
+(CDSL): <L>106060<pc>6-144-c<k1>vIrapastya<k2>vIrapastya, vIra/pastiA
+(AB): <L>106060<pc>6-144-c<k1>vIrapastya<k2>(vIrapastya), vIra/pastiA
+------------------------
+106094
+(CDSL): <L>106121<pc>6-145-b<k1>vIravah<k2>vIrava/h, vIravA/h
+(AB): <L>106121<pc>6-145-b<k1>vIravah<k2>vIrava/h, (vIravA/h)
+------------------------
+106150
+(CDSL): <L>106177<pc>6-146-b<k1>vIreRya<k2>vIreRya, vIre/Ria
+(AB): <L>106177<pc>6-146-b<k1>vIreRya<k2>(vIreRya), vIre/Ria
+------------------------
+106322
+(CDSL): <L>106349<pc>6-148-a<k1>vfjanya<k2>vfjanya, vfjani/a
+(AB): <L>106349<pc>6-148-a<k1>vfjanya<k2>(vfjanya), vfjani/a
+------------------------
+106440
+(CDSL): <L>106467<pc>6-150-a<k1>vftravidviz<k2>vftravidviz, vftravErin
+(AB): <L>106467<pc>6-150-a<k1>vftravidviz<k2>vftravidviz, °vftravErin
+------------------------
+106473
+(CDSL): <L>106500<pc>6-150-b<k1>vfTAzah<k2>vfTAza/h, vfTAzA/h
+(AB): <L>106500<pc>6-150-b<k1>vfTAzah<k2>vfTAza/h, (vfTAzA/h)
+------------------------
+107259
+(CDSL): <L>107286<pc>6-160-c<k1>vedyA<k2>vedyA, vediA/
+(AB): <L>107286<pc>6-160-c<k1>vedyA<k2>(vedyA), vediA/
+------------------------
+107282
+(CDSL): <L>107309<pc>6-161-b<k1>venya<k2>venya, venia/
+(AB): <L>107309<pc>6-161-b<k1>venya<k2>(venya), venia/
+------------------------
+108249
+(CDSL): <L>108276<pc>6-174-c<k1>vyati<k2>vyati, via/ti
+(AB): <L>108276<pc>6-174-c<k1>vyati<k2>(vyati), via/ti
+------------------------
+108396
+(CDSL): <L>108423<pc>6-178-b<k1>vyalkaSA<k2>vyalkaSA, vi/alkaSA
+(AB): <L>108423<pc>6-178-b<k1>vyalkaSA<k2>(vyalkaSA), vi/alkaSA
+------------------------
+108599
+(CDSL): <L>108626<pc>6-181-c<k1>vyAGrya<k2>vyAGrya, viAGria/
+(AB): <L>108626<pc>6-181-c<k1>vyAGrya<k2>(vyAGrya), viAGria/
+------------------------
+108659
+(CDSL): <L>108686<pc>6-182-b<k1>vyAnaSi<k2>vyAnaSi, viAnaSi/
+(AB): <L>108686<pc>6-182-b<k1>vyAnaSi<k2>(vyAnaSi), viAnaSi/
+------------------------
+108699
+(CDSL): <L>108726<pc>6-183-a<k1>vyAmya<k2>vyAmya, viAmya^
+(AB): <L>108726<pc>6-183-a<k1>vyAmya<k2>(vyAmya), viAmya^
+------------------------
+108860
+(CDSL): <L>108888<pc>6-185-b<k1>vyuz<k2>1. vyuz, viu/z
+(AB): <L>108888<pc>6-185-b<k1>vyuz<k2>1. (vyuz), viu/z
+------------------------
+108864
+(CDSL): <L>108892<pc>6-185-b<k1>vyuzi<k2>vyuzi, viu/zi
+(AB): <L>108892<pc>6-185-b<k1>vyuzi<k2>(vyuzi), viu/zi
+------------------------
+108898,108899
+(CDSL): <L>108926<pc>6-186-a<k1>vyenas<k2>vyenas, vi/enas
+(CDSL): <L>108927<pc>6-186-a<k1>vyenI<k2>vyenI, vi/enI
+(AB): <L>108926<pc>6-186-a<k1>vyenas<k2>(vyenas), vi/enas
+(AB): <L>108927<pc>6-186-a<k1>vyenI<k2>(vyenI), vi/enI
+------------------------
+108901
+(CDSL): <L>108929<pc>6-186-a<k1>vyElaba<k2>vyElaba, vi/Elaba
+(AB): <L>108929<pc>6-186-a<k1>vyElaba<k2>(vyElaba), vi/Elaba
+------------------------
+108904
+(CDSL): <L>108932<pc>6-186-a<k1>vyodana<k2>vyodana, vi/odana
+(AB): <L>108932<pc>6-186-a<k1>vyodana<k2>(vyodana), vi/odana
+------------------------
+109078
+(CDSL): <L>109106<pc>6-189-a<k1>vratya<k2>1. vratya, vrati/a
+(AB): <L>109106<pc>6-189-a<k1>vratya<k2>1. (vratya), vrati/a
+------------------------
+109101
+(CDSL): <L>109129<pc>6-189-b<k1>vrAtasAha<k2>vrAtasAha/, vrAtasaha/
+(AB): <L>109129<pc>6-189-b<k1>vrAtasAha<k2>vrAtasAha/, (vrAtasaha/)
+------------------------
+109167
+(CDSL): <L>109195<pc>6-190-b<k1>SaMvant<k2>Sa/Mvant, Sa/mvant
+(AB): <L>109195<pc>6-190-b<k1>SaMvant<k2>Sa/Mvant, (Sa/mvant)
+------------------------
+109581
+(CDSL): <L>109609<pc>6-196-c<k1>SaNKapad<k2>SaNKapad, SaNKapAd
+(AB): <L>109609<pc>6-196-c<k1>SaNKapad<k2>SaNKapad, (SaNKapAd)
+------------------------
+109648
+(CDSL): <L>109676<pc>6-197-c<k1>Sawi<k2>*Sawi, SawI, SaWI
+(AB): <L>109676<pc>6-197-c<k1>Sawi<k2>*Sawi, SawI, (SaWI)
+------------------------
+109783
+(CDSL): <L>109811<pc>6-199-b<k1>SataDanya<k2>SataDanya, SataDani/a
+(AB): <L>109811<pc>6-199-b<k1>SataDanya<k2>(SataDanya), SataDani/a
+------------------------
+109807
+(CDSL): <L>109835<pc>6-199-c<k1>Satapad<k2>Sata/pad, Sata/pAd
+(AB): <L>109835<pc>6-199-c<k1>Satapad<k2>Sata/pad, (Sata/pAd)
+------------------------
+109919
+(CDSL): <L>109947<pc>6-201-a<k1>SatavfzRya<k2>SatavfzRya, Sata/vfzRia
+(AB): <L>109947<pc>6-201-a<k1>SatavfzRya<k2>(SatavfzRya), Sata/vfzRia
+------------------------
+110075
+(CDSL): <L>110103<pc>6-203-a<k1>SatrUzah<k2>SatrUza/h, SatrUzA/h
+(AB): <L>110103<pc>6-203-a<k1>SatrUzah<k2>SatrUza/h, (SatrUzA/h)
+------------------------
+110132,110133
+(CDSL): <L>110160<pc>6-204-a<k1>SapaTeyya<k2>SapaTeyya, Sapateyi/a
+(CDSL): <L>110161<pc>6-204-a<k1>SapaTya<k2>SapaTya, SapaTi/a
+(AB): <L>110160<pc>6-204-a<k1>SapaTeyya<k2>(SapaTeyya), Sapateyi/a
+(AB): <L>110161<pc>6-204-a<k1>SapaTya<k2>(SapaTya), SapaTi/a
+------------------------
+110354
+(CDSL): <L>110382<pc>6-207-c<k1>Samopya<k2>Samopya, Samo/pia
+(AB): <L>110382<pc>6-207-c<k1>Samopya<k2>(Samopya), Samo/pia
+------------------------
+110573
+(CDSL): <L>110601<pc>6-211-a<k1>SaraBArcApArijAta<k2>SaraBArcApArijAta, SaraBAvilAsa, SaraBarAjavilAsa
+(AB): <L>110601<pc>6-211-a<k1>SaraBArcApArijAta<k2>SaraBArcApArijAta, SaraBAvilAsa, (SaraBarAjavilAsa)
+------------------------
+110759
+(CDSL): <L>110787<pc>6-213-a<k1>SarDya<k2>SarDya, Sa/rDia
+(AB): <L>110787<pc>6-213-a<k1>SarDya<k2>(SarDya), Sa/rDia
+------------------------
+110905
+(CDSL): <L>110933<pc>6-215-a<k1>SavasauSInara<k2>SavasauSInara
+(AB): <L>110933<pc>6-215-a<k1>SavasauSInara<k2>Savasa_uSInara
+------------------------
+111471
+(CDSL): <L>111499<pc>6-222-a<k1>SAntakarRa<k2>SAntakarRa, SrISAntakarRa
+(AB): <L>111499<pc>6-222-a<k1>SAntakarRa<k2>SAntakarRa, (SrISAntakarRa)
+------------------------
+111601
+(CDSL): <L>111629<pc>6-223-c<k1>SAmulya<k2>SAmulya, SAmuli/a, SAmUla/
+(AB): <L>111629<pc>6-223-c<k1>SAmulya<k2>(SAmulya), SAmuli/a, SAmUla/
+------------------------
+111869
+(CDSL): <L>111897<pc>6-227-b<k1>SAlistamBaka<k2>*SAlistamBaka, SAlistabaka
+(AB): <L>111897<pc>6-227-b<k1>SAlistamBaka<k2>*SAlistamBaka, (SAlistabaka)
+------------------------
+112044
+(CDSL): <L>112072<pc>6-230-a<k1>SikyAkfta<k2>SikyAkfta, SikiA/kfta
+(AB): <L>112072<pc>6-230-a<k1>SikyAkfta<k2>(SikyAkfta), SikiA/kfta
+------------------------
+112291
+(CDSL): <L>112319<pc>6-233-c<k1>Sir<k2>2. Sir, Sar
+(AB): <L>112319<pc>6-233-c<k1>Sir<k2>2. Sir, (Sar)
+------------------------
+112796
+(CDSL): <L>112824<pc>6-240-a<k1>Siz<k2>1. Siz, Sis
+(AB): <L>112824<pc>6-240-a<k1>Siz<k2>1. Siz, (Sis)
+------------------------
+112827
+(CDSL): <L>112855<pc>6-241-a<k1>Sis<k2>Sis, Siz
+(AB): <L>112855<pc>6-241-a<k1>Sis<k2>Sis, (Siz)
+------------------------
+113013
+(CDSL): <L>113041<pc>6-243-c<k1>SIpAlila<k2>*SIpAlila, sIpAlila
+(AB): <L>113041<pc>6-243-c<k1>SIpAlila<k2>*SIpAlila, (sIpAlila)
+------------------------
+113081
+(CDSL): <L>113109<pc>6-244-c<k1>SIrzAyaRa<k2>SIrzAyaRa, (SE°rzAyaRa)
+(AB): <L>113109<pc>6-244-c<k1>SIrzAyaRa<k2>SIrzAyaRa, (SErzAyaRa)
+------------------------
+113410
+(CDSL): <L>113438<pc>6-249-b<k1>SudDatattvadAsavijYapti<k2>SudDatattvadAsavijYapti, SudDitattva
+(AB): <L>113438<pc>6-249-b<k1>SudDatattvadAsavijYapti<k2>SudDatattvadAsavijYapti, (SudDitattva)
+------------------------
+113854
+(CDSL): <L>113882<pc>6-255-c<k1>SUrpaRaKA<k2>SUrpaRaKA, SUrpaRaKI
+(AB): <L>113882<pc>6-255-c<k1>SUrpaRaKA<k2>SUrpaRaKA, SUrpa°RaKI
+------------------------
+113921
+(CDSL): <L>113949<pc>6-256-c<k1>SUzya<k2>SUzya, SUzi/a
+(AB): <L>113949<pc>6-256-c<k1>SUzya<k2>(SUzya), SUzi/a
+------------------------
+113979
+(CDSL): <L>114007<pc>6-257-c<k1>SfNgArarAjIvana<k2>SfNgArarAjIvana, SfNgArarAjIvavana
+(AB): <L>114007<pc>6-257-c<k1>SfNgArarAjIvana<k2>SfNgArarAjIvana, (SfNgArarAjIvavana)
+------------------------
+114042
+(CDSL): <L>114070<pc>6-258-b<k1>SepyAvant<k2>SepyAvant, SepiA/vant
+(AB): <L>114070<pc>6-258-b<k1>SepyAvant<k2>(SepyAvant), SepiA/vant
+------------------------
+114072
+(CDSL): <L>114100<pc>6-258-c<k1>Sevya<k2>Sevya, Se/via
+(AB): <L>114100<pc>6-258-c<k1>Sevya<k2>(Sevya), Se/via
+------------------------
+114090
+(CDSL): <L>114118<pc>6-259-a<k1>SezanArAyaRapaRqita<k2>SezanArAyaRapaRqita, SrISezanArAyaRapaRqita
+(AB): <L>114118<pc>6-259-a<k1>SezanArAyaRapaRqita<k2>SezanArAyaRapaRqita, (SrISezanArAyaRapaRqita)
+------------------------
+114245
+(CDSL): <L>114273<pc>6-260-c<k1>SEleScaya<k2>SEleScaya, SEleSaya
+(AB): <L>114273<pc>6-260-c<k1>SEleScaya<k2>SEleScaya, (SEleSaya)
+------------------------
+114543
+(CDSL): <L>114571<pc>6-264-b<k1>SOradevya<k2>SOradevya, SOradevia/
+(AB): <L>114571<pc>6-264-b<k1>SOradevya<k2>(SOradevya), SOradevia/
+------------------------
+114727
+(CDSL): <L>114755<pc>6-267-a<k1>SyAvyA<k2>SyAvyA, SyAvi/A
+(AB): <L>114755<pc>6-267-a<k1>SyAvyA<k2>(SyAvyA), SyAvi/A
+------------------------
+114887,114888
+(CDSL): <L>114915<pc>6-269-b<k1>Sravasya<k2>1. Sravasya, Sravasi/a
+(CDSL): <L>114916<pc>6-269-c<k1>Sravasya<k2>2. Sravasya, Sravasi/a
+(AB): <L>114915<pc>6-269-b<k1>Sravasya<k2>1. (Sravasya), Sravasi/a
+(AB): <L>114916<pc>6-269-c<k1>Sravasya<k2>2. (Sravasya), Sravasi/a
+------------------------
+114893
+(CDSL): <L>114921<pc>6-269-c<k1>SravAyya<k2>SravAyya, SravA/yia
+(AB): <L>114921<pc>6-269-c<k1>SravAyya<k2>SravAyya, (SravA/yia)
+------------------------
+115293
+(CDSL): <L>115321<pc>6-277-b<k1>Srutafzi<k2>Sruta/fzi, Sruta/rzi
+(AB): <L>115321<pc>6-277-b<k1>Srutafzi<k2>Sruta/fzi, (Sruta/rzi)
+------------------------
+115794
+(CDSL): <L>115822<pc>6-284-c<k1>SvA<k2>SvA, Svi
+(AB): <L>115822<pc>6-284-c<k1>SvA<k2>SvA, (Svi)
+------------------------
+115803
+(CDSL): <L>115831<pc>6-284-c<k1>SvAtrya<k2>SvAtrya, SvA/tria
+(AB): <L>115831<pc>6-284-c<k1>SvAtrya<k2>(SvAtrya), SvA/tria
+------------------------
+115851
+(CDSL): <L>115879<pc>6-285-b<k1>SvitIci<k2>SvitIci/, Svi/tna, Svitnya, Svitnia/
+(AB): <L>115879<pc>6-285-b<k1>SvitIci<k2>SvitIci/, Svi/tna, (Svitnya), Svitnia/
+------------------------
+115859
+(CDSL): <L>115887<pc>6-285-b<k1>Svitrya<k2>Svitrya, Svi/tria
+(AB): <L>115887<pc>6-285-b<k1>Svitrya<k2>(Svitrya), Svi/tria
+------------------------
+116047
+(CDSL): <L>116075<pc>6-287-c<k1>Svetya<k2>Svetya, Svetia/
+(AB): <L>116075<pc>6-287-c<k1>Svetya<k2>(Svetya), Svetia/
+------------------------
+116079
+(CDSL): <L>116107<pc>6-288-a<k1>zawkArakapraticCandaka<k2>zawkArakapraticCandaka, zawkArakapraticCandasa, zawkArakavivecana
+(AB): <L>116107<pc>6-288-a<k1>zawkArakapraticCandaka<k2>zawkArakapraticCandaka, zawkArakapraticCandasa, °zawkArakavivecana
+------------------------
+116125
+(CDSL): <L>116153<pc>6-288-b<k1>zawpad<k2>za/wpad, za/wpAd
+(AB): <L>116153<pc>6-288-b<k1>zawpad<k2>za/wpad, (za/wpAd)
+------------------------
+116176
+(CDSL): <L>116204<pc>6-289-a<k1>zaqara<k2>za/qara, za/Lara
+(AB): <L>116204<pc>6-289-a<k1>zaqara<k2>za/qara, (za/Lara)
+------------------------
+116769
+(CDSL): <L>116797<pc>7-006-a<k1>saMveSya<k2>saMveSya, saMveSi/a
+(AB): <L>116797<pc>7-006-a<k1>saMveSya<k2>(saMveSya), saMveSi/a
+------------------------
+117063
+(CDSL): <L>117091<pc>7-011-a<k1>saMsrAvya<k2>saMsrAvya, saMsrAvi/a
+(AB): <L>117091<pc>7-011-a<k1>saMsrAvya<k2>(saMsrAvya), saMsrAvi/a
+------------------------
+117141
+(CDSL): <L>117169<pc>7-012-b<k1>saka<k2>saka/, A/
+(AB): <L>117169<pc>7-012-b<k1>saka<k2>saka/
+------------------------
+117281
+(CDSL): <L>117309<pc>7-014-a<k1>sakmya<k2>sakmya, sa/kmia
+(AB): <L>117309<pc>7-014-a<k1>sakmya<k2>(sakmya), sa/kmia
+------------------------
+117712
+(CDSL): <L>117740<pc>7-021-b<k1>sac<k2>2. °sac, °sAc
+(AB): <L>117740<pc>7-021-b<k1>sac<k2>2. °sac, (°sAc)
+------------------------
+117721
+(CDSL): <L>117749<pc>7-021-c<k1>sacaTya<k2>sacaTya, sacaTi/a
+(AB): <L>117749<pc>7-021-c<k1>sacaTya<k2>(sacaTya), sacaTi/a
+------------------------
+117859
+(CDSL): <L>117888<pc>7-023-b<k1>saMcareRya<k2>saMcareRya, saMcare/Ria
+(AB): <L>117888<pc>7-023-b<k1>saMcareRya<k2>(saMcareRya), saMcare/Ria
+------------------------
+117999
+(CDSL): <L>118028<pc>7-027-a<k1>satattvaratnamAlAvyAKyAna<k2>satattvaratnamAlAvyAKyAna, satatvaratnamAlAvyAKyAna
+(AB): <L>118028<pc>7-027-a<k1>satattvaratnamAlAvyAKyAna<k2>satattvaratnamAlAvyAKyAna, (satatvaratnamAlAvyAKyAna)
+------------------------
+118704
+(CDSL): <L>118733<pc>7-037-c<k1>saDanya<k2>saDanya, saDani/a
+(AB): <L>118733<pc>7-037-c<k1>saDanya<k2>(saDanya), saDani/a
+------------------------
+118708
+(CDSL): <L>118737<pc>7-037-c<k1>saDamAdya<k2>saDamAdya, saDamAdi/a
+(AB): <L>118737<pc>7-037-c<k1>saDamAdya<k2>(saDamAdya), saDamAdi/a
+------------------------
+119238
+(CDSL): <L>119267<pc>7-046-b<k1>sap<k2>2. °sap, °sAp
+(AB): <L>119267<pc>7-046-b<k1>sap<k2>2. °sap, (°sAp)
+------------------------
+119594
+(CDSL): <L>119623<pc>7-050-c<k1>saptya<k2>saptya, sa/ptiA
+(AB): <L>119623<pc>7-050-c<k1>saptya<k2>(saptya), sa/ptiA
+------------------------
+119892
+(CDSL): <L>119921<pc>7-054-c<k1>samanya<k2>samanya, samani/a
+(AB): <L>119921<pc>7-054-c<k1>samanya<k2>(samanya), samani/a
+------------------------
+120029
+(CDSL): <L>120058<pc>7-057-a<k1>samarya<k2>2. samarya, samari/A
+(AB): <L>120058<pc>7-057-a<k1>samarya<k2>2. (samarya), samari/A
+------------------------
+120032
+(CDSL): <L>120061<pc>7-057-a<k1>samaryarAjya<k2>samaryarAjya, samaryarA/jia
+(AB): <L>120061<pc>7-057-a<k1>samaryarAjya<k2>(samaryarAjya), samaryarA/jia
+------------------------
+121073
+(CDSL): <L>121102<pc>7-071-c<k1>saMbanDapaYcASikA<k2>saMbanDapaYcASikA, saMbaDapaYcASikA
+(AB): <L>121102<pc>7-071-c<k1>saMbanDapaYcASikA<k2>saMbanDapaYcASikA, (saMbaDapaYcASikA)
+------------------------
+121209
+(CDSL): <L>121238<pc>7-074-a<k1>saMmAnakara<k2>saMmAnakara, sanmAnakara
+(AB): <L>121238<pc>7-074-a<k1>saMmAnakara<k2>saMmAnakara, (sanmAnakara)
+------------------------
+121260
+(CDSL): <L>121289<pc>7-075-a<k1>samyaktvakOmudI<k2>samyaktvakOmudI, samyaktvaprakASa, samyaktvADyAyana, samyaktvADyayana, samyaktvADyApana
+(AB): <L>121289<pc>7-075-a<k1>samyaktvakOmudI<k2>samyaktvakOmudI, samyaktvaprakASa, samyaktvADyAyana, (samyaktvADyayana, samyaktvADyApana)
+------------------------
+122783
+(CDSL): <L>122812<pc>7-099-a<k1>sah<k2>2. °sah, °sAh
+(AB): <L>122812<pc>7-099-a<k1>sah<k2>2. °sah, (°sAh)
+------------------------
+123060
+(CDSL): <L>123089<pc>7-102-c<k1>sahasrapad<k2>saha/srapad, saha/srapAd
+(AB): <L>123089<pc>7-102-c<k1>sahasrapad<k2>saha/srapad, (saha/srapAd)
+------------------------
+123075
+(CDSL): <L>123104<pc>7-102-c<k1>sahasrapozya<k2>sahasrapozya, sahasrapozia
+(AB): <L>123104<pc>7-102-c<k1>sahasrapozya<k2>(sahasrapozya), sahasrapozia
+------------------------
+123492
+(CDSL): <L>123521<pc>7-108-c<k1>sAgarAmburaSana<k2>sAgarAmburaSana, sAgarAmburasana
+(AB): <L>123521<pc>7-108-c<k1>sAgarAmburaSana<k2>sAgarAmburaSana, (sAgarAmburasana)
+------------------------
+123676
+(CDSL): <L>123705<pc>7-111-a<k1>sAdanya<k2>sAdanya, sAdani/a
+(AB): <L>123705<pc>7-111-a<k1>sAdanya<k2>(sAdanya), sAdani/a
+------------------------
+123814
+(CDSL): <L>123843<pc>7-113-c<k1>sADvarya<k2>sADvarya, sADuarya/
+(AB): <L>123843<pc>7-113-c<k1>sADvarya<k2>(sADvarya), sADuarya/
+------------------------
+123983
+(CDSL): <L>124012<pc>7-116-a<k1>sApya<k2>sApya, sApia/
+(AB): <L>124012<pc>7-116-a<k1>sApya<k2>(sApya), sApia/
+------------------------
+124239
+(CDSL): <L>124268<pc>7-119-c<k1>sAmrAjya<k2>2. sAmrAjya, sAmrAjia/
+(AB): <L>124268<pc>7-119-c<k1>sAmrAjya<k2>2. (sAmrAjya), sAmrAjia/
+------------------------
+124304
+(CDSL): <L>124333<pc>7-120-b<k1>sAyya<k2>sAyya, sAyia/
+(AB): <L>124333<pc>7-120-b<k1>sAyya<k2>(sAyya), sAyia/
+------------------------
+124337
+(CDSL): <L>124366<pc>7-121-a<k1>sAraRikA<k2>sAraRikA, cintAmaRiH_sA°raRikA
+(AB): <L>124366<pc>7-121-a<k1>sAraRikA<k2>sAraRikA, cintAmaRiH_sAraRikA
+------------------------
+124356
+(CDSL): <L>124385<pc>7-121-b<k1>sAradIya<k2>sAradIya, SAradIya, SAradIyanAmamAlA
+(AB): <L>124385<pc>7-121-b<k1>sAradIyanAmamAlA<k2>sAradIyanAmamAlA, (SAradIyanAmamAlA)
+------------------------
+124625
+(CDSL): <L>124654<pc>7-124-c<k1>sAvErisole<k2>sAvairisole
+(AB): <L>124654<pc>7-124-c<k1>sAvairisole<k2>sAva_irisole
+------------------------
+124748
+(CDSL): <L>124777<pc>7-126-b<k1>sAhadevya<k2>sAhadevya, sAhadevia/
+(AB): <L>124777<pc>7-126-b<k1>sAhadevya<k2>(sAhadevya), sAhadevia/
+------------------------
+124810,124811
+(CDSL): <L>124839<pc>7-127-b<k1>siMhakesara<k2>siMhakesara, siMhakeSara
+(CDSL): <L>124840<pc>7-127-b<k1>siMhakesarin<k2>siMhakesarin, siMhakeSarin
+(AB): <L>124839<pc>7-127-b<k1>siMhakesara<k2>siMhakesara, (siMhakeSara)
+(AB): <L>124840<pc>7-127-b<k1>siMhakesarin<k2>siMhakesarin, (siMhakeSarin)
+------------------------
+125513
+(CDSL): <L>125542<pc>7-137-b<k1>sImantadfSvan<k2>sImantadfSvan, (sImAnta°dfSvan)
+(AB): <L>125542<pc>7-137-b<k1>sImantadfSvan<k2>sImantadfSvan, (sImAntadfSvan)
+------------------------
+126018
+(CDSL): <L>126047<pc>7-143-b<k1>sugmya<k2>sugmya, su/gmia
+(AB): <L>126047<pc>7-143-b<k1>sugmya<k2>(sugmya), su/gmia
+------------------------
+126132
+(CDSL): <L>126161<pc>7-145-a<k1>sujyEzWya<k2>sujyEzWya, sujyEzwia/
+(AB): <L>126161<pc>7-145-a<k1>sujyEzWya<k2>(sujyEzWya), sujyEzwia/
+------------------------
+126388
+(CDSL): <L>126417<pc>7-148-c<k1>sudevya<k2>sudevya, sudevi/a
+(AB): <L>126417<pc>7-148-c<k1>sudevya<k2>(sudevya), sudevi/a
+------------------------
+126643
+(CDSL): <L>126672<pc>7-151-c<k1>sundarikAtIrTa<k2>sundarikAtIrTa, sundarikAhrada
+(AB): <L>126672<pc>7-151-c<k1>sundarikAtIrTa<k2>sundarikAtIrTa, °sundarikAhrada
+------------------------
+126765
+(CDSL): <L>126794<pc>7-153-a<k1>supitrya<k2>supitrya, supitria
+(AB): <L>126794<pc>7-153-a<k1>supitrya<k2>(supitrya), supitria
+------------------------
+126884
+(CDSL): <L>126913<pc>7-154-c<k1>supratyUQa<k2>supratyUQa, supratyUlha
+(AB): <L>126913<pc>7-154-c<k1>supratyUQa<k2>supratyUQa, (supratyUlha)
+------------------------
+126949
+(CDSL): <L>126978<pc>7-155-b<k1>suprAvya<k2>suprAvya, suprAvi/a
+(AB): <L>126978<pc>7-155-b<k1>suprAvya<k2>(suprAvya), suprAvi/a
+------------------------
+127238
+(CDSL): <L>127267<pc>7-159-b<k1>sumitrya<k2>sumitrya, sumitriA/
+(AB): <L>127267<pc>7-159-b<k1>sumitrya<k2>(sumitrya), sumitriA/
+------------------------
+127909
+(CDSL): <L>127938<pc>7-167-b<k1>suvah<k2>suvah, suvAh
+(AB): <L>127938<pc>7-167-b<k1>suvah<k2>suvah, (suvAh)
+------------------------
+127943
+(CDSL): <L>127972<pc>7-167-c<k1>suvikrAntavikramin<k2>suvikrAntavikramin, suvikrAntavikrAmin
+(AB): <L>127972<pc>7-167-c<k1>suvikrAntavikramin<k2>suvikrAntavikramin, (suvikrAntavikrAmin)
+------------------------
+128142
+(CDSL): <L>128171<pc>7-170-b<k1>suSevya<k2>suSevya, suSe/viA
+(AB): <L>128171<pc>7-170-b<k1>suSevya<k2>(suSevya), suSe/viA
+------------------------
+128201
+(CDSL): <L>128230<pc>7-171-a<k1>suzAha<k2>suzA/ha, suza/ha
+(AB): <L>128230<pc>7-171-a<k1>suzAha<k2>suzA/ha, (suza/ha)
+------------------------
+128246
+(CDSL): <L>128275<pc>7-171-c<k1>suzWuvah<k2>suzWuva/h, suzWuvA/h
+(AB): <L>128275<pc>7-171-c<k1>suzWuvah<k2>suzWuva/h, (suzWuvA/h)
+------------------------
+128912
+(CDSL): <L>128941<pc>7-180-c<k1>sUryatvac<k2>sUryatvac, sU/riatvac
+(AB): <L>128941<pc>7-180-c<k1>sUryatvac<k2>(sUryatvac), sU/riatvac
+------------------------
+128990
+(CDSL): <L>129019<pc>7-181-b<k1>sUryaSrit<k2>sUryaSrit, suriaSri/t
+(AB): <L>129019<pc>7-181-b<k1>sUryaSrit<k2>(sUryaSrit), suriaSri/t
+------------------------
+128992
+(CDSL): <L>129021<pc>7-181-b<k1>sUryaSvit<k2>sUryaSvit, suriaSvi/t
+(AB): <L>129021<pc>7-181-b<k1>sUryaSvit<k2>(sUryaSvit), suriaSvi/t
+------------------------
+129029
+(CDSL): <L>129058<pc>7-182-a<k1>sUryAvasu<k2>*sUryAvasu, sUriAvasu
+(AB): <L>129058<pc>7-182-a<k1>sUryAvasu<k2>*(sUryAvasu), sUriAvasu
+------------------------
+129102
+(CDSL): <L>129131<pc>7-182-c<k1>sfRya<k2>sfRya, sf/Ria
+(AB): <L>129131<pc>7-182-c<k1>sfRya<k2>(sfRya), sf/Ria
+------------------------
+129375
+(CDSL): <L>129403<pc>7-186-c<k1>sErya<k2>sErya, sEria/
+(AB): <L>129403<pc>7-186-c<k1>sErya<k2>(sErya), sEria/
+------------------------
+129414
+(CDSL): <L>129442<pc>7-187-a<k1>sotva<k2>sotva, so/tua
+(AB): <L>129442<pc>7-187-a<k1>sotva<k2>(sotva), so/tua
+------------------------
+130128
+(CDSL): <L>130156<pc>7-195-c<k1>sOvaSvya<k2>sOvaSvya, sO/vaSvia
+(AB): <L>130156<pc>7-195-c<k1>sOvaSvya<k2>(sOvaSvya), sO/vaSvia
+------------------------
+130366
+(CDSL): <L>130394<pc>7-199-b<k1>stanABuj<k2>stanABu/j, stanaBu/j
+(AB): <L>130394<pc>7-199-b<k1>stanABuj<k2>stanABu/j, (stanaBu/j)
+------------------------
+130542
+(CDSL): <L>130570<pc>7-203-b<k1>stuzeyya<k2>stuzeyya, stuze/yia
+(AB): <L>130570<pc>7-203-b<k1>stuzeyya<k2>(stuzeyya), stuze/yia
+------------------------
+130716
+(CDSL): <L>130744<pc>7-205-b<k1>strIrAjya<k2>strIrAjya, strIrAja
+(AB): <L>130744<pc>7-205-b<k1>strIrAjya<k2>strIrAjya, (strIrAja)
+------------------------
+131607
+(CDSL): <L>131635<pc>7-224-c<k1>sma<k2>1. sma, smA, zma, smA
+(AB): <L>131635<pc>7-224-c<k1>sma<k2>1. sma, smA, (zma, smA)
+------------------------
+131616
+(CDSL): <L>131644<pc>7-225-a<k1>smadrAtizac<k2>sma/drAtizac, sma/drAtizAc
+(AB): <L>131644<pc>7-225-a<k1>smadrAtizac<k2>sma/drAtizac, (sma/drAtizAc)
+------------------------
+131783,131784
+(CDSL): <L>131811<pc>7-228-a<k1>syonakft<k2>syonakft, sionakf/t
+(CDSL): <L>131812<pc>7-228-a<k1>syonaSI<k2>syonaSI, sionaSI/
+(AB): <L>131811<pc>7-228-a<k1>syonakft<k2>(syonakft), sionakf/t
+(AB): <L>131812<pc>7-228-a<k1>syonaSI<k2>(syonaSI), sionaSI/
+------------------------
+131838
+(CDSL): <L>131866<pc>7-229-a<k1>srAktya<k2>srAktya, srAktia/
+(AB): <L>131866<pc>7-229-a<k1>srAktya<k2>srAktya, (srAktia/)
+------------------------
+131899
+(CDSL): <L>131927<pc>7-230-b<k1>srevuka<k2>sre/vuka, Sre/vuka
+(AB): <L>131927<pc>7-230-b<k1>srevuka<k2>sre/vuka, (Sre/vuka)
+------------------------
+131974
+(CDSL): <L>132002<pc>7-231-b<k1>svagni<k2>svagni, suagni/
+(AB): <L>132002<pc>7-231-b<k1>svagni<k2>(svagni), suagni/
+------------------------
+131980
+(CDSL): <L>132008<pc>7-231-b<k1>svaNguri<k2>svaNguri, suaNguri/
+(AB): <L>132008<pc>7-231-b<k1>svaNguri<k2>(svaNguri), suaNguri/
+------------------------
+132017,132018
+(CDSL): <L>132045<pc>7-232-a<k1>svajenya<k2>svajenya, sva/jenia
+(CDSL): <L>132046<pc>7-232-a<k1>svaYc<k2>svaYc, sua/Yc
+(AB): <L>132045<pc>7-232-a<k1>svajenya<k2>(svajenya), sva/jenia
+(AB): <L>132046<pc>7-232-a<k1>svaYc<k2>(svaYc), sua/Yc
+------------------------
+132020
+(CDSL): <L>132048<pc>7-232-a<k1>svaYcas<k2>svaYcas, sua/Ycas
+(AB): <L>132048<pc>7-232-a<k1>svaYcas<k2>(svaYcas), sua/Ycas
+------------------------
+132041
+(CDSL): <L>132069<pc>7-232-b<k1>svad<k2>svad, suad, svAd
+(AB): <L>132069<pc>7-232-b<k1>svad<k2>svad, (suad), svAd
+------------------------
+132072
+(CDSL): <L>132100<pc>7-233-a<k1>svaDAmahe<k2>svaDAmahe, yajAmahe
+(AB): <L>132100<pc>7-233-a<k1>svaDAmahe<k2>svaDAmahe, (yajAmahe)
+------------------------
+132097
+(CDSL): <L>132125<pc>7-233-b<k1>svaDvara<k2>2. svaDvara, suaDvara/
+(AB): <L>132125<pc>7-233-b<k1>svaDvara<k2>2. (svaDvara), suaDvara/
+------------------------
+132119
+(CDSL): <L>132147<pc>7-233-c<k1>svanIka<k2>svanIka, suanIka
+(AB): <L>132147<pc>7-233-c<k1>svanIka<k2>(svanIka), suanIka
+------------------------
+132138,132139
+(CDSL): <L>132166<pc>7-234-a<k1>svapatya<k2>1. svapatya, suapataya/
+(CDSL): <L>132167<pc>7-234-a<k1>svapatya<k2>2. svapatya, suapataya/
+(AB): <L>132166<pc>7-234-a<k1>svapatya<k2>1. (svapatya), suapataya/
+(AB): <L>132167<pc>7-234-a<k1>svapatya<k2>2. (svapatya), suapataya/
+------------------------
+132145,132147
+(CDSL): <L>132173<pc>7-234-b<k1>svapas<k2>1. svapas, sua/pas
+(CDSL): <L>132174<pc>7-234-b<k1>svapas<k2>2. svapas, suapa/s
+(CDSL): <L>132175<pc>7-234-b<k1>svapasy<k2>svapasy, suapasy
+(AB): <L>132173<pc>7-234-b<k1>svapas<k2>1. (svapas), sua/pas
+(AB): <L>132174<pc>7-234-b<k1>svapas<k2>2. (svapas), suapa/s
+(AB): <L>132175<pc>7-234-b<k1>svapasy<k2>(svapasy), suapasy
+------------------------
+132149,132150
+(CDSL): <L>132177<pc>7-234-b<k1>svapasyA<k2>svapasyA, suapasyA/
+(CDSL): <L>132178<pc>7-234-b<k1>svapAka<k2>svapAka, suapAka
+(AB): <L>132177<pc>7-234-b<k1>svapasyA<k2>(svapasyA), suapasyA/
+(AB): <L>132178<pc>7-234-b<k1>svapAka<k2>(svapAka), suapAka
+------------------------
+132154
+(CDSL): <L>132182<pc>7-234-b<k1>svapivAta<k2>svapivAta, suapivAta
+(AB): <L>132182<pc>7-234-b<k1>svapivAta<k2>(svapivAta), suapivAta
+------------------------
+132192
+(CDSL): <L>132220<pc>7-234-c<k1>svapnas<k2>svapnas, sua/pnas
+(AB): <L>132220<pc>7-234-c<k1>svapnas<k2>(svapnas), sua/pnas
+------------------------
+132241,132243
+(CDSL): <L>132269<pc>7-235-b<k1>svaBizwi<k2>svaBizwi, suaBizwi/
+(CDSL): <L>132270<pc>7-235-b<k1>svaBizwisumna<k2>svaBizwisumna, suabizwi/sumna
+(CDSL): <L>132271<pc>7-235-b<k1>svaBISu<k2>svaBISu, suaBISu/
+(AB): <L>132269<pc>7-235-b<k1>svaBizwi<k2>(svaBizwi), suaBizwi/
+(AB): <L>132270<pc>7-235-b<k1>svaBizwisumna<k2>(svaBizwisumna), suabizwi/sumna
+(AB): <L>132271<pc>7-235-b<k1>svaBISu<k2>(svaBISu), suaBISu/
+------------------------
+132248
+(CDSL): <L>132276<pc>7-235-b<k1>svaBUtyojas<k2>svaBUtyojas, sva/BUtiojas
+(AB): <L>132276<pc>7-235-b<k1>svaBUtyojas<k2>(svaBUtyojas), sva/BUtiojas
+------------------------
+132251
+(CDSL): <L>132279<pc>7-235-b<k1>svaByakta<k2>svaByakta, suaByakta/
+(AB): <L>132279<pc>7-235-b<k1>svaByakta<k2>(svaByakta), suaByakta/
+------------------------
+132393
+(CDSL): <L>132421<pc>7-237-c<k1>svaraMkfta<k2>svaraMkfta, su/araMkfta
+(AB): <L>132421<pc>7-237-c<k1>svaraMkfta<k2>(svaraMkfta), su/araMkfta
+------------------------
+132396
+(CDSL): <L>132424<pc>7-237-c<k1>svaraRa<k2>svaraRa, sua/raRa
+(AB): <L>132424<pc>7-237-c<k1>svaraRa<k2>(svaraRa), sua/raRa
+------------------------
+132469
+(CDSL): <L>132497<pc>7-238-b<k1>svarIyas<k2>svarIyas, svarIyaMs
+(AB): <L>132497<pc>7-238-b<k1>svarIyas<k2>svarIyas, (svarIyaMs)
+------------------------
+132550
+(CDSL): <L>132578<pc>7-239-c<k1>svarcakzas<k2>svarcakzas, su/arcakzas
+(AB): <L>132578<pc>7-239-c<k1>svarcakzas<k2>(svarcakzas), su/arcakzas
+------------------------
+132552
+(CDSL): <L>132580<pc>7-239-c<k1>svarcanas<k2>svarcanas, su/arcanas
+(AB): <L>132580<pc>7-239-c<k1>svarcanas<k2>(svarcanas), su/arcanas
+------------------------
+132559
+(CDSL): <L>132587<pc>7-239-c<k1>svarjeza<k2>svarjeza, suarbeza/
+(AB): <L>132587<pc>7-239-c<k1>svarjeza<k2>(svarjeza), suarbeza/
+------------------------
+132658
+(CDSL): <L>132686<pc>7-240-c<k1>svarTa<k2>svarTa, sua/rTa
+(AB): <L>132686<pc>7-240-c<k1>svarTa<k2>(svarTa), sua/rTa
+------------------------
+132662
+(CDSL): <L>132690<pc>7-240-c<k1>svardfS<k2>svardfS, suArdf/S
+(AB): <L>132690<pc>7-240-c<k1>svardfS<k2>(svardfS), suArdf/S
+------------------------
+132677
+(CDSL): <L>132705<pc>7-240-c<k1>svarmIlha<k2>svarmIlha, su/armI|a
+(AB): <L>132705<pc>7-240-c<k1>svarmIlha<k2>(svarmIlha), su/armI|a
+------------------------
+132686
+(CDSL): <L>132714<pc>7-241-a<k1>svaryu<k2>svaryu, suaryu/
+(AB): <L>132714<pc>7-241-a<k1>svaryu<k2>(svaryu), suaryu/
+------------------------
+132701,132702
+(CDSL): <L>132729<pc>7-241-a<k1>svarzA<k2>svarzA, suarzA/
+(CDSL): <L>132730<pc>7-241-a<k1>svarzAti<k2>svarzAti, su/arzAti
+(AB): <L>132729<pc>7-241-a<k1>svarzA<k2>(svarzA), suarzA/
+(AB): <L>132730<pc>7-241-a<k1>svarzAti<k2>(svarzAti), su/arzAti
+------------------------
+132748
+(CDSL): <L>132776<pc>7-241-c<k1>svavas<k2>(svavas), (svavaMs), su/a°vas, su/a°vaMs
+(AB): <L>132776<pc>7-241-c<k1>svavas<k2>(svavas), (svavaMs), su/avas, su/avaMs
+------------------------
+132776,132777
+(CDSL): <L>132804<pc>7-242-a<k1>svaSva<k2>svaSva, sua/Sva
+(CDSL): <L>132805<pc>7-242-a<k1>svaSvayu<k2>svaSvayu, suaSvayu/
+(AB): <L>132804<pc>7-242-a<k1>svaSva<k2>(svaSva), sua/Sva
+(AB): <L>132805<pc>7-242-a<k1>svaSvayu<k2>(svaSvayu), suaSvayu/
+------------------------
+132780
+(CDSL): <L>132808<pc>7-242-a<k1>svazwra<k2>svazwra, sua/zwra
+(AB): <L>132808<pc>7-242-a<k1>svazwra<k2>(svazwra), sua/zwra
+------------------------
+132806
+(CDSL): <L>132834<pc>7-242-b<k1>svastaka<k2>svastaka, suastaka/
+(AB): <L>132834<pc>7-242-b<k1>svastaka<k2>(svastaka), suastaka/
+------------------------
+132820
+(CDSL): <L>132848<pc>7-242-c<k1>svastigA<k2>svastigA, suAstigA/
+(AB): <L>132848<pc>7-242-c<k1>svastigA<k2>(svastigA), suAstigA/
+------------------------
+132823
+(CDSL): <L>132851<pc>7-242-c<k1>svastidA<k2>svastidA, suAstidA/
+(AB): <L>132851<pc>7-242-c<k1>svastidA<k2>(svastidA), suAstidA/
+------------------------
+132829
+(CDSL): <L>132857<pc>7-242-c<k1>svastivah<k2>svastivah, suastiva/h, suastivA/h
+(AB): <L>132857<pc>7-242-c<k1>svastivah<k2>(svastivah), suastiva/h, (suastivA/h)
+------------------------
+132837
+(CDSL): <L>132865<pc>7-243-a<k1>svastivAhana<k2>svastivAhana, suastivA/hana
+(AB): <L>132865<pc>7-243-a<k1>svastivAhana<k2>(svastivAhana), suastivA/hana
+------------------------
+132883
+(CDSL): <L>132911<pc>7-243-c<k1>svAkta<k2>svAkta, suA/kta
+(AB): <L>132911<pc>7-243-c<k1>svAkta<k2>(svAkta), suA/kta
+------------------------
+132910
+(CDSL): <L>132938<pc>7-244-a<k1>svAtata<k2>svAtata, su/Atata
+(AB): <L>132938<pc>7-244-a<k1>svAtata<k2>(svAtata), su/Atata
+------------------------
+133041
+(CDSL): <L>133069<pc>7-245-c<k1>svABU<k2>svABU, suABU/
+(AB): <L>133069<pc>7-245-c<k1>svABU<k2>(svABU), suABU/
+------------------------
+133065
+(CDSL): <L>133093<pc>7-246-a<k1>svAyasa<k2>svAyasa, suAyasa/
+(AB): <L>133093<pc>7-246-a<k1>svAyasa<k2>(svAyasa), suAyasa/
+------------------------
+133067
+(CDSL): <L>133095<pc>7-246-a<k1>svAyuj<k2>svAyuj, suAyuj
+(AB): <L>133095<pc>7-246-a<k1>svAyuj<k2>(svAyuj), suAyuj
+------------------------
+133108
+(CDSL): <L>133136<pc>7-246-b<k1>svAvasu<k2>svAvasu, suA/vasu
+(AB): <L>133136<pc>7-246-b<k1>svAvasu<k2>(svAvasu), suA/vasu
+------------------------
+133115,133116
+(CDSL): <L>133143<pc>7-246-c<k1>svASis<k2>svASis, suaSi/s
+(CDSL): <L>133144<pc>7-246-c<k1>svASu<k2>svASu, suASu/
+(AB): <L>133143<pc>7-246-c<k1>svASis<k2>(svASis), suaSi/s
+(AB): <L>133144<pc>7-246-c<k1>svASu<k2>(svASu), suASu/
+------------------------
+133119,133120
+(CDSL): <L>133147<pc>7-246-c<k1>svAs<k2>svAs, suA/s
+(CDSL): <L>133148<pc>7-246-c<k1>svAsad<k2>svAsad, suAsud
+(AB): <L>133147<pc>7-246-c<k1>svAs<k2>(svAs), suA/s
+(AB): <L>133148<pc>7-246-c<k1>svAsad<k2>(svAsad), suAsud
+------------------------
+133149
+(CDSL): <L>133177<pc>7-247-a<k1>svAhuta<k2>svAhuta, su/Ahuta
+(AB): <L>133177<pc>7-247-a<k1>svAhuta<k2>(svAhuta), su/Ahuta
+------------------------
+133159
+(CDSL): <L>133187<pc>7-247-a<k1>sviDma<k2>sviDma, suiDma/
+(AB): <L>133187<pc>7-247-a<k1>sviDma<k2>(sviDma), suiDma/
+------------------------
+133161
+(CDSL): <L>133189<pc>7-247-b<k1>svizu<k2>svizu, suizu/
+(AB): <L>133189<pc>7-247-b<k1>svizu<k2>(svizu), suizu/
+------------------------
+133214
+(CDSL): <L>133242<pc>7-248-a<k1>svEtu<k2>svEtu, sva/etu
+(AB): <L>133242<pc>7-248-a<k1>svEtu<k2>(svEtu), sva/etu
+------------------------
+133238
+(CDSL): <L>133266<pc>7-248-b<k1>svojas<k2>svojas, suo/jas
+(AB): <L>133266<pc>7-248-b<k1>svojas<k2>(svojas), suo/jas
+------------------------
+133528
+(CDSL): <L>133556<pc>7-254-b<k1>hayaSIrzapaYcarAtra<k2>hayaSIrzapaYcarAtra, hayaSIrzapaYcarAtri
+(AB): <L>133556<pc>7-254-b<k1>hayaSIrzapaYcarAtra<k2>hayaSIrzapaYcarAtra, (hayaSIrzapaYcarAtri)
+------------------------
+133853
+(CDSL): <L>133881<pc>7-262-a<k1>harizac<k2>hariza/c, harizA/c
+(AB): <L>133881<pc>7-262-a<k1>harizac<k2>hariza/c, (harizA/c)
+------------------------
+133906
+(CDSL): <L>133934<pc>7-262-c<k1>harmyezWA<k2>harmyezWA, harmiezWA/
+(AB): <L>133934<pc>7-262-c<k1>harmyezWA<k2>(harmyezWA), harmiezWA/
+------------------------
+133919
+(CDSL): <L>133947<pc>7-262-c<k1>haryaSvaprasUta<k2>haryaSvaprasUta, ha/riaSvaprasUta
+(AB): <L>133947<pc>7-262-c<k1>haryaSvaprasUta<k2>(haryaSvaprasUta), ha/riaSvaprasUta
+------------------------
+133961
+(CDSL): <L>133989<pc>7-263-c<k1>harzyA<k2>harzyA, ha/rziA
+(AB): <L>133989<pc>7-263-c<k1>harzyA<k2>(harzyA), ha/rziA
+------------------------
+134106
+(CDSL): <L>134134<pc>7-265-c<k1>havyavAha<k2>havyavAha/, havyavA/ha
+(AB): <L>134134<pc>7-265-c<k1>havyavAha<k2>havyavAha/, (havyavA/ha)
+------------------------
+134739
+(CDSL): <L>134767<pc>7-275-c<k1>himyA<k2>himyA, himiA/
+(AB): <L>134767<pc>7-275-c<k1>himyA<k2>(himyA), himiA/
+------------------------
+134765
+(CDSL): <L>134793<pc>7-276-a<k1>hiraRyakeSya<k2>hiraRyakeSya, hi/raRyakeSia
+(AB): <L>134793<pc>7-276-a<k1>hiraRyakeSya<k2>(hiraRyakeSya), hi/raRyakeSia
+------------------------
+134888
+(CDSL): <L>134916<pc>7-277-c<k1>hiruka<k2>*hiruka, hirukam
+(AB): <L>134916<pc>7-277-c<k1>hiruka<k2>*hiruka, (hirukam)
+------------------------
+135075
+(CDSL): <L>135103<pc>7-280-a<k1>hftsvas<k2>hftsvas, hftsua/s
+(AB): <L>135103<pc>7-280-a<k1>hftsvas<k2>(hftsvas), hftsua/s
+------------------------
+135267
+(CDSL): <L>135295<pc>7-282-b<k1>hetva<k2>hetva, he/tua
+(AB): <L>135295<pc>7-282-b<k1>hetva<k2>(hetva), he/tua
+------------------------
+135405
+(CDSL): <L>135433<pc>7-283-c<k1>hemyAvant<k2>hemyAvant, hemiA/vant
+(AB): <L>135433<pc>7-283-c<k1>hemyAvant<k2>(hemyAvant), hemiA/vant
+------------------------
+135749
+(CDSL): <L>135777<pc>7-288-b<k1>hvA<k2>1. hvA, hU
+(AB): <L>135777<pc>7-288-b<k1>hvA<k2>1. hvA, (hU)
+------------------------
+135758
+(CDSL): <L>135786<pc>7-288-c<k1>hvArya<k2>hvArya, hvAria/
+(AB): <L>135786<pc>7-288-c<k1>hvArya<k2>(hvArya), hvAria/
+------------------------
