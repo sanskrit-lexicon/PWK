@@ -1,0 +1,29 @@
+; ****************************************************
+; 0: 8 Insert 8 blank lines.
+;    Note this makes use of the 'ins' option of updateByLine.py
+; 0a: 1 L=2991 remove '_' at hiatus
+; ****************************************************
+674048 old <LEND>
+674048 ins 
+681134 old <H>[Page2-285-a] Nachträge und Verbesserungen. [2]
+681134 ins 
+687008 old <H>[Page3-246-b] Nachträge und Verbesserungen. [3]
+687008 ins 
+693878 old <H>[Page4-290-c] Nachträge und Verbesserungen. [4]
+693878 ins 
+697968 old <H>[Page5-240-b] Nachträge und Verbesserungen. [5]
+697968 ins 
+706796 old <H>[Page6-292-a] Nachträge und Verbesserungen. [6]
+706796 ins 
+711731 old <H>(Eine arabische Ziffer bezeichnet den Band, in welchem das nachgetragene Wort steht, eine voranstehende römische, dass das Wort auch in dem und dem Haupttheile des Werkes sich befindet.)
+711731 ins 
+762737 old <H>[Page7-384-1a] Schluss der [= Allerletzte TM] Nachträge. [8]
+762737 ins 
+; --------------------------------------------------------
+; 0a: 1 L=2991 remove '_' at hiatus
+; ****************************************************
+13602 old <L>2991<pc>1-035-c<k1>aDoakza<k2>aDo_akza/
+13602 new <L>2991<pc>1-035-c<k1>aDoakza<k2>aDoakza/
+13603 old {#aDo_akza/#}¦ <lex>Adj.</lex> {%nicht bis zur Achse reichend%}.
+13603 new {#aDoakza/#}¦ <lex>Adj.</lex> {%nicht bis zur Achse reichend%}.
+; --------------------------------------------------------

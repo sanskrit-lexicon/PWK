@@ -1,0 +1,71 @@
+
+diff ../temp_pw_9b.txt temp_pw_ab_2.txt > diff_9b_ab_2.txt
+**********************************************************
+13602,13603c13602,13603
+< <L>2991<pc>1-035-c<k1>aDoakza<k2>aDoakza/
+< {#aDoakza/#}¦ <lex>Adj.</lex> {%nicht bis zur Achse reichend%}.
+---
+> <L>2991<pc>1-035-c<k1>aDoakza<k2>aDo_akza/
+> {#aDo_akza/#}¦ <lex>Adj.</lex> {%nicht bis zur Achse reichend%}.
+81850c81850
+< {#ISvarItantra#} <lex>n.</lex> und {#ISvare#} (<ab>Loc.</ab>) {#nityasuKAvasTApanam#}¦ Titel von Werken.
+---
+> {#ISvarItantra#} <lex>n.</lex> und {#ISvare (<ab>Loc.</ab>) nityasuKAvasTApanam#}¦ Titel von Werken.
+319220c319220
+< <L>64978<pc>4-054-c<k1>palAgra<k2>palAgra, palAgratas
+---
+> <L>64978<pc>4-054-c<k1>palAgratas<k2>palAgra, palAgratas
+320820,320821c320820,320821
+< <L>65285<pc>4-059-b<k1>paSvaizwi<k2>pa/Svaizwi
+< {#pa/Svaizwi#}¦ <lex>Adj.</lex> {%Heerden begehrend%}.
+---
+> <L>65285<pc>4-059-b<k1>paSvaizwi<k2>pa/Sva_izwi
+> {#pa/Sva_izwi#}¦ <lex>Adj.</lex> {%Heerden begehrend%}.
+344710,344711c344710,344711
+< <L>70206<pc>4-126-c<k1>praugya<k2>praugya^
+< {#praugya^#}¦ <lex>Adj.</lex> {%am%} {#prauga#} 1〉a〉 {%befindlich%}.
+---
+> <L>70206<pc>4-126-c<k1>praugya<k2>pra_ugya^
+> {#pra_ugya^#}¦ <lex>Adj.</lex> {%am%} {#pra_uga#} 1〉a〉 {%befindlich%}.
+362995c362995
+< {#prAghAra#}¦ <lex>m.</lex> fehlerhaft für {#pragBAra#}.
+---
+> {#prAg_hAra#}¦ <lex>m.</lex> fehlerhaft für {#pragBAra#}.
+407261,407262c407261,407262
+< <L>82771<pc>5-021-c<k1>manaU<k2>manaU
+< {#manaU#}¦ <lex>m.</lex> = <arab>منع</arab> {%eine <ab>best.</ab> Constellation%} <ls>Ind. St. 2,282</ls>.
+---
+> <L>82771<pc>5-021-c<k1>manaU<k2>mana_U
+> {#mana_U#}¦ <lex>m.</lex> = <arab>منع</arab> {%eine <ab>best.</ab> Constellation%} <ls>Ind. St. 2,282</ls>.
+427692c427692
+< <L>86893<pc>5-078-c<k1>miTaspfDya<k2>miTaspf/Dya, miTaHspf/Dya
+---
+> <L>86893<pc>5-078-c<k1>miTaHspfDya<k2>miTaspf/Dya, miTaHspf/Dya
+494459c494459
+< {#va/syazwi#}¦ <lex>f.</lex> = {#vasyaizwi#} (in der concreten <ab>Bed.</ab> {%zur Wohlfahrt gelangend%}) in einer Formel <ls>TS. 3,5,2,5. 4,4,1,3</ls>. <ls>MAITR. S. 2,8,8 (113,3)</ls>. <ls>TĀṆḌYA-BR. 1,10,11</ls>. <ls>GOP. BR. 2,2,14</ls>.
+---
+> {#va/syazwi#}¦ <lex>f.</lex> = {#vasya_izwi#} (in der concreten <ab>Bed.</ab> {%zur Wohlfahrt gelangend%}) in einer Formel <ls>TS. 3,5,2,5. 4,4,1,3</ls>. <ls>MAITR. S. 2,8,8 (113,3)</ls>. <ls>TĀṆḌYA-BR. 1,10,11</ls>. <ls>GOP. BR. 2,2,14</ls>.
+512055c512055
+< <L>103170<pc>6-100-c<k1>vinisfptAhuti<k2>vinisfptAhuti, viniHsfptAhuti
+---
+> <L>103170<pc>6-100-c<k1>viniHsfptAhuti<k2>vinisfptAhuti, viniHsfptAhuti
+550699,550700c550699,550700
+< <L>110933<pc>6-215-a<k1>SavasauSInara<k2>SavasauSInara
+< {#SavasauSInara#}¦, {#°rezu#} <ls>GOP. BR. 1,2,9</ls> fehlerhaft für {#savaSoSI°#}; <ab>vgl.</ab> <ls>AIT. BR. 8,14</ls>.
+---
+> <L>110933<pc>6-215-a<k1>SavasauSInara<k2>Savasa_uSInara
+> {#Savasa_uSInara#}¦, {#°rezu#} <ls>GOP. BR. 1,2,9</ls> fehlerhaft für {#savaSoSI°#}; <ab>vgl.</ab> <ls>AIT. BR. 8,14</ls>.
+566805c566805
+< <L>114226<pc>6-260-b<k1>SElavAlukA<k2>SElavAlukA, SElavAlukAs
+---
+> <L>114226<pc>6-260-b<k1>SElavAlukAs<k2>SElavAlukA, SElavAlukAs
+617662,617663c617662,617663
+< <L>124654<pc>7-124-c<k1>sAvairisole<k2>sAvairisole
+< {#sAvairisole#}¦ <ab>N. pr.</ab> eines Districts.
+---
+> <L>124654<pc>7-124-c<k1>sAvairisole<k2>sAva_irisole
+> {#sAva_irisole#}¦ <ab>N. pr.</ab> eines Districts.
+753997c753997
+< !√{#PARway#}¦ <ab>Denomin.</ab> von {#PARwa#} <ls>DĀRILA zu KAUŚ. 25,18</ls>.[Page7-363-b]<info n="sup_7"/>
+---
+> !√{#PARway#}¦ <ab>Denomin.</ab> von {#PARwa#} <ls>DĀRILA [Page7-363-b] zu KAUŚ. 25,18</ls>.<info n="sup_7"/>

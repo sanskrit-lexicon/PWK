@@ -1,0 +1,2865 @@
+; ******************************************************
+; cat=1:a: 364 changes
+; ******************************************************
+; <L>2964<pc>1-035-b<k1>aDItaveda<k2>aDItave/da
+13474 old {#aDItave/da#}¦ (!) <lex>Adj.</lex> {%der den%} <is>Veda</is> {%durchstudirt hat%} <ls>ŚAT. BR. 14,6,11,1</ls>.
+;
+13474 new {#aDItave/da#} (!)¦ <lex>Adj.</lex> {%der den%} <is>Veda</is> {%durchstudirt hat%} <ls>ŚAT. BR. 14,6,11,1</ls>.
+; ----------------------------------------------
+; <L>3408<pc>1-040-b<k1>ananDatA<k2>ana/nDatA
+15506 old {#ana/nDatA#}¦ (!) <lex>f.</lex> {%Nichtblindheit%} <ls>Ind. St. 14,1</ls>.
+;
+15506 new {#ana/nDatA#} (!)¦ <lex>f.</lex> {%Nichtblindheit%} <ls>Ind. St. 14,1</ls>.
+; ----------------------------------------------
+; <L>4177<pc>1-049-a<k1>anivIrya<k2>anivIrya
+18846 old {#anivIrya#}¦ (!) <lex>Adj.</lex> {%nicht impotent%}.
+;
+18846 new {#anivIrya#} (!)¦ <lex>Adj.</lex> {%nicht impotent%}.
+; ----------------------------------------------
+; <L>4357<pc>1-051-b<k1>anuGaRa<k2>anuGaRa
+19702 old {#anuGaRa#}¦ (!) <lex>Adj.</lex> {%hinterher schlagend%} <ls>TAITT. ĀR. 2,4,1</ls>.
+;
+19702 new {#anuGaRa#} (!)¦ <lex>Adj.</lex> {%hinterher schlagend%} <ls>TAITT. ĀR. 2,4,1</ls>.
+; ----------------------------------------------
+; <L>7126<pc>1-083-c<k1>abodDavya<k2>abodDavya
+32095 old {#abodDavya#}¦ (!) <lex>Adj.</lex> {%nicht mit dem Verstande zu erreichen%} <ls>NṚS. UP.</ls> in <ls>Ind. St. 9,165</ls>.
+;
+32095 new {#abodDavya#} (!)¦ <lex>Adj.</lex> {%nicht mit dem Verstande zu erreichen%} <ls>NṚS. UP.</ls> in <ls>Ind. St. 9,165</ls>.
+; ----------------------------------------------
+; <L>11497<pc>1-135-c<k1>aSarIra<k2>aSarI/ra
+52664 old {#aSarI/ra#}¦ (!) <lex>Adj.</lex> (<lex>f.</lex> {#A#})
+;
+52664 new {#aSarI/ra#} (!)¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#})
+; ----------------------------------------------
+; <L>12050<pc>1-141-c<k1>azwapat<k2>azwa/pat
+55157 old {#azwa/pat#}¦ (!) <lex>Adj.</lex> <lex>n.</lex> zu {#azwapatnI#} <lex>f.</lex> <ls>TAITT. ĀR. 1,13</ls>.
+;
+55157 new {#azwa/pat#} (!)¦ <lex>Adj.</lex> <lex>n.</lex> zu {#azwapatnI#} <lex>f.</lex> <ls>TAITT. ĀR. 1,13</ls>.
+; ----------------------------------------------
+; <L>12531<pc>1-149-a<k1>asahyanaviDi<k2>asahyanaviDi
+57515 old {#asahyanaviDi#}¦ (!) <lex>m.</lex> Titel einer Schrift.
+;
+57515 new {#asahyanaviDi#} (!)¦ <lex>m.</lex> Titel einer Schrift.
+; ----------------------------------------------
+; <L>12901<pc>1-153-a<k1>asTAya<k2>*asTAya
+59165 old *{#asTAya#}¦ (!) <lex>Adj.</lex> {%überaus tief%}.
+;
+59165 new *{#asTAya#} (!)¦ <lex>Adj.</lex> {%überaus tief%}.
+; ----------------------------------------------
+; <L>13604<pc>1-161-a<k1>AKyApaka<k2>AKyApaka
+62391 old {#AKyApaka#}¦ (!) <lex>Adj.</lex> {%verkündend%}.
+;
+62391 new {#AKyApaka#} (!)¦ <lex>Adj.</lex> {%verkündend%}.
+; ----------------------------------------------
+; <L>14773<pc>1-174-b<k1>AnuviDitsA<k2>*AnuviDitsA
+67749 old *{#AnuviDitsA#}¦ (!) <lex>f.</lex> {%Undankbarkeit%}.
+;
+67749 new *{#AnuviDitsA#} (!)¦ <lex>f.</lex> {%Undankbarkeit%}.
+; ----------------------------------------------
+; <L>15771<pc>1-186-c<k1>ArziReSva<k2>ArziReSva
+72508 old {#ArziReSva#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten <ls>VP.² 4,31</ls>.
+;
+72508 new {#ArziReSva#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten <ls>VP.² 4,31</ls>.
+; ----------------------------------------------
+; <L>16129<pc>1-191-a<k1>ASirvAda<k2>ASirvAda
+74249 old {#ASirvAda#}¦ (!) <lex>m.</lex> = {#ASIrvAda#} <ls>NIR. 7,1</ls>.
+;
+74249 new {#ASirvAda#} (!)¦ <lex>m.</lex> = {#ASIrvAda#} <ls>NIR. 7,1</ls>.
+; ----------------------------------------------
+; <L>17229<pc>1-208-a<k1>irAmbara<k2>*irAmbara
+79976 old *{#irAmbara#}¦ (!) <lex>n.</lex> = {#irAcara#}.
+;
+79976 new *{#irAmbara#} (!)¦ <lex>n.</lex> = {#irAcara#}.
+; ----------------------------------------------
+; <L>18605<pc>1-227-b<k1>udakAtman<k2>uda/kAtman
+86843 old {#uda/kAtman#}¦ (!) <lex>Adj.</lex> {%Wasser zum Wesen habend%}.
+;
+86843 new {#uda/kAtman#} (!)¦ <lex>Adj.</lex> {%Wasser zum Wesen habend%}.
+; ----------------------------------------------
+; <L>18887<pc>1-230-c<k1>udikzaRa<k2>udikzaRa
+88163 old {#udikzaRa#}¦ (!) <lex>m.</lex> {%ein <ab>best.</ab> Tact%} <ls>S. S. S. 210</ls>.
+;
+88163 new {#udikzaRa#} (!)¦ <lex>m.</lex> {%ein <ab>best.</ab> Tact%} <ls>S. S. S. 210</ls>.
+; ----------------------------------------------
+; <L>18889<pc>1-230-c<k1>uditaqambAra<k2>uditaqambAra
+88174 old {#uditaqambAra#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+88174 new {#uditaqambAra#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>18930<pc>1-231-a<k1>udgantar<k2>udga/ntar
+88373 old {#udga/ntar#}¦ (!) <ab>Nom. ag.</ab> {%Hinausführer%} <ls>MAITRYUP. 6,31</ls>.
+;
+88373 new {#udga/ntar#} (!)¦ <ab>Nom. ag.</ab> {%Hinausführer%} <ls>MAITRYUP. 6,31</ls>.
+; ----------------------------------------------
+; <L>19103<pc>1-233-b<k1>udbAhu<k2>u/dbAhu, u/dbAhuka, *u/dbAhulaka
+89282 old {#u/dbAhu#}, {#°ka#} und *{#°laka#}¦ (!) <lex>Adj.</lex> {%die Arme erhebend%}.
+;
+89282 new {#u/dbAhu#}, {#°ka#} und *{#°laka#} (!)¦ <lex>Adj.</lex> {%die Arme erhebend%}.
+; ----------------------------------------------
+; <L>19916<pc>1-243-c<k1>uparisTa<k2>upari/sTa
+93232 old {#upari/sTa#}¦ (!) <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%oben —, darüber stehend, darauf befindlich%} <ls>MAITRYUP. 2,4</ls>. {%stehend auf%} (<ab>Gen.</ab> oder im <ab>Comp.</ab> vorangehend) <ls>HEMĀDRI 1,591,1. 13</ls>.
+;
+93232 new {#upari/sTa#} (!)¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%oben —, darüber stehend, darauf befindlich%} <ls>MAITRYUP. 2,4</ls>. {%stehend auf%} (<ab>Gen.</ab> oder im <ab>Comp.</ab> vorangehend) <ls>HEMĀDRI 1,591,1. 13</ls>.
+; ----------------------------------------------
+; <L>20626<pc>1-252-a<k1>uruga<k2>uru/ga
+96562 old {#uru/ga#}¦ (!) <lex>m.</lex> = {#uraga#} {%Schlange%} <ls>SUPARṆ. 4,5</ls>.
+;
+96562 new {#uru/ga#} (!)¦ <lex>m.</lex> = {#uraga#} {%Schlange%} <ls>SUPARṆ. 4,5</ls>.
+; ----------------------------------------------
+; <L>20825<pc>1-254-b<k1>uSrAyus<k2>uSrAyus
+97510 old {#uSrAyus#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Sohnes des <is>Purūravas</is> <ls>VP.² 4,13</ls>.
+;
+97510 new {#uSrAyus#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Sohnes des <is>Purūravas</is> <ls>VP.² 4,13</ls>.
+; ----------------------------------------------
+; <L>21668<pc>1-265-a<k1>fzItata<k2>fzItata
+101657 old {#fzItata#}¦ (!) <lex>Adj.</lex> <ls>R. 3,78,31</ls>.
+;
+101657 new {#fzItata#} (!)¦ <lex>Adj.</lex> <ls>R. 3,78,31</ls>.
+; ----------------------------------------------
+; <L>21680<pc>1-265-a<k1>fzyaproktA<k2>fzyaproktA
+101709 old {#fzyaproktA#}¦ (!) <lex>f.</lex>
+;
+101709 new {#fzyaproktA#} (!)¦ <lex>f.</lex>
+; ----------------------------------------------
+; <L>22101<pc>1-270-b<k1>ekAntItIrTa<k2>ekAntItIrTa
+103721 old {#ekAntItIrTa#}¦ (!) <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+;
+103721 new {#ekAntItIrTa#} (!)¦ <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+; ----------------------------------------------
+; <L>22178<pc>1-271-b<k1>eji<k2>*eji
+104066 old *{#eji#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+104066 new *{#eji#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>22440<pc>1-274-b<k1>EkyABAvayant<k2>EkyABAvayant
+105247 old {#EkyABAvayant#}¦ (!) <ab>Partic.</ab> {%vereinigend%} <ls>AIT. ĀR. 346,16</ls>.
+;
+105247 new {#EkyABAvayant#} (!)¦ <ab>Partic.</ab> {%vereinigend%} <ls>AIT. ĀR. 346,16</ls>.
+; ----------------------------------------------
+; <L>22608<pc>1-276-b<k1>okUlaka<k2>okUlaka
+106053 old {#okUlaka#}¦ (!) <lex>m.</lex> <ab>N.</ab> eines Mannes.
+;
+106053 new {#okUlaka#} (!)¦ <lex>m.</lex> <ab>N.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>22743<pc>1-278-a<k1>ohala<k2>ohala
+106656 old {#ohala#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+106656 new {#ohala#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>22859<pc>1-279-a<k1>OdavAha<k2>OdavAha, OdavAhi/
+107158 old {#OdavAha#} (<ls>AV. PARIŚ. 43,4</ls>) und {#OdavAhi/#}¦ (!) <lex>m.</lex> <ab>Patron.</ab> von {#udavAha#}.
+;
+107158 new {#OdavAha#} (<ls>AV. PARIŚ. 43,4</ls>) und {#OdavAhi/#} (!)¦ <lex>m.</lex> <ab>Patron.</ab> von {#udavAha#}.
+; ----------------------------------------------
+; <L>23008<pc>1-280-c<k1>Opeya<k2>Opeya
+107830 old {#Opeya#}¦ (!) <lex>m.</lex> <ab>Patron.</ab>
+;
+107830 new {#Opeya#} (!)¦ <lex>m.</lex> <ab>Patron.</ab>
+; ----------------------------------------------
+; <L>23087<pc>1-281-c<k1>OSanasya<k2>OSanasya
+108187 old {#OSanasya#}¦ (!) <lex>Adj.</lex> {%von%} <is>Uśanas</is> {%herrührend%} <ls>MUDRĀR. (1926) 24,9</ls>.
+;
+108187 new {#OSanasya#} (!)¦ <lex>Adj.</lex> {%von%} <is>Uśanas</is> {%herrührend%} <ls>MUDRĀR. (1926) 24,9</ls>.
+; ----------------------------------------------
+; <L>23206<pc>2-002-c<k1>kakzApuwi<k2>kakzApuwi
+108830 old {#kakzApuwi#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Arztes.
+;
+108830 new {#kakzApuwi#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Arztes.
+; ----------------------------------------------
+; <L>23819<pc>2-009-c<k1>kaTanika<k2>kaTanika
+111872 old {#kaTanika#}¦ (!) <lex>m.</lex> {%Erzähler%} <ls>HARṢAC. 30,12</ls>.
+;
+111872 new {#kaTanika#} (!)¦ <lex>m.</lex> {%Erzähler%} <ls>HARṢAC. 30,12</ls>.
+; ----------------------------------------------
+; <L>23914<pc>2-011-b<k1>kadUhi<k2>kadUhi
+112371 old {#kadUhi#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+112371 new {#kadUhi#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>24007<pc>2-012-b<k1>kanAWa<k2>kanAWa
+112789 old {#kanAWa#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+112789 new {#kanAWa#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>24168<pc>2-014-b<k1>kapardIvinAyakavrata<k2>kapardIvinAyakavrata
+113605 old {#kapardIvinAyakavrata#}¦ (!) <lex>n.</lex> {%eine <ab>best.</ab> Begehung%}.
+;
+113605 new {#kapardIvinAyakavrata#} (!)¦ <lex>n.</lex> {%eine <ab>best.</ab> Begehung%}.
+; ----------------------------------------------
+; <L>24829<pc>2-024-c<k1>karera<k2>*karera
+117251 old *{#karera#}¦ (!) <lex>Adj.</lex> {%hart%} <ls>GAL.</ls>
+;
+117251 new *{#karera#} (!)¦ <lex>Adj.</lex> {%hart%} <ls>GAL.</ls>
+; ----------------------------------------------
+; <L>25720<pc>2-038-c<k1>kallinATa<k2>kallinATa, kallinArTa
+122101 old {#kallinATa#} und {#°nArTa#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Autors.
+;
+122101 new {#kallinATa#} und {#°nArTa#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Autors.
+; ----------------------------------------------
+; <L>26360<pc>2-046-b<k1>kAnAyana<k2>kAnAyana
+125178 old {#kAnAyana#}¦ (!) <lex>m.</lex> <ab>Patron.</ab>
+;
+125178 new {#kAnAyana#} (!)¦ <lex>m.</lex> <ab>Patron.</ab>
+; ----------------------------------------------
+; <L>27083<pc>2-056-b<k1>kAlakuYja<k2>*kAlakuYja
+128881 old *{#kAlakuYja#}¦ (!) <lex>m.</lex> <ab>Bein.</ab> <is>Viṣṇu</is>ʼs.
+;
+128881 new *{#kAlakuYja#} (!)¦ <lex>m.</lex> <ab>Bein.</ab> <is>Viṣṇu</is>ʼs.
+; ----------------------------------------------
+; <L>27111<pc>2-056-c<k1>kAlaKaRqahan<k2>*kAlaKaRqahan
+129016 old *{#kAlaKaRqahan#}¦ (!) <lex>m.</lex> <ab>Bein.</ab> <is>Arjuna</is>ʼs <ls>GAL.</ls>
+;
+129016 new *{#kAlaKaRqahan#} (!)¦ <lex>m.</lex> <ab>Bein.</ab> <is>Arjuna</is>ʼs <ls>GAL.</ls>
+; ----------------------------------------------
+; <L>29739<pc>2-088-b<k1>kURakucCa<k2>*kURakucCa
+141790 old *{#kURakucCa#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Wesens im Gefolge <is>Śiva</is>ʼs.
+;
+141790 new *{#kURakucCa#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Wesens im Gefolge <is>Śiva</is>ʼs.
+; ----------------------------------------------
+; <L>30264<pc>2-094-c<k1>kfSAku<k2>*kfSAku
+144359 old *{#kfSAku#}¦ (!) <lex>m.</lex>
+;
+144359 new *{#kfSAku#} (!)¦ <lex>m.</lex>
+; ----------------------------------------------
+; <L>30917<pc>2-102-a<k1>kEla<k2>kEla
+147463 old {#kEla#}¦ (!) <lex>m.</lex> <ab>Patron.</ab>
+;
+147463 new {#kEla#} (!)¦ <lex>m.</lex> <ab>Patron.</ab>
+; ----------------------------------------------
+; <L>31123<pc>2-104-b<k1>koyaMpurI<k2>koyaMpurI
+148461 old {#koyaMpurI#}¦ (!) <lex>f.</lex> <ab>N. pr.</ab> einer {%Stadt%}.
+;
+148461 new {#koyaMpurI#} (!)¦ <lex>f.</lex> <ab>N. pr.</ab> einer {%Stadt%}.
+; ----------------------------------------------
+; <L>31394<pc>2-107-b<k1>kOpAdakI<k2>*kOpAdakI
+149775 old *{#kOpAdakI#}¦ (!) <lex>f.</lex> = {#kOmodakI#}.
+;
+149775 new *{#kOpAdakI#} (!)¦ <lex>f.</lex> = {#kOmodakI#}.
+; ----------------------------------------------
+; <L>31462<pc>2-108-b<k1>kOrasrava<k2>kOrasrava
+150100 old {#kOrasrava#}¦ (!) <lex>m.</lex> <ab>Patron.</ab>
+;
+150100 new {#kOrasrava#} (!)¦ <lex>m.</lex> <ab>Patron.</ab>
+; ----------------------------------------------
+; <L>31796<pc>2-114-a<k1>kravyAdas<k2>kravyAdas
+152014 old {#kravyAdas#}¦ (!) <lex>m.</lex> {%Raubthier%} <ls>ĀPAST.</ls> Es ist wohl {#kravyAdAnAm#} zu lesen.
+;
+152014 new {#kravyAdas#} (!)¦ <lex>m.</lex> {%Raubthier%} <ls>ĀPAST.</ls> Es ist wohl {#kravyAdAnAm#} zu lesen.
+; ----------------------------------------------
+; <L>32253<pc>2-120-c<k1>kzatraBeda<k2>*kzatraBeda
+154379 old *{#kzatraBeda#}¦ (!) <lex>m.</lex> <ab>Bein.</ab> <is>Śatadhanvan</is>ʼs <ls>GAL.</ls>
+;
+154379 new *{#kzatraBeda#} (!)¦ <lex>m.</lex> <ab>Bein.</ab> <is>Śatadhanvan</is>ʼs <ls>GAL.</ls>
+; ----------------------------------------------
+; <L>35416<pc>2-166-a<k1>giDra<k2>*giDra
+170849 old *{#giDra#}¦ (!) <is>gaṇa</is> {#mUlaviBujAdi#}.
+;
+170849 new *{#giDra#} (!)¦ <is>gaṇa</is> {#mUlaviBujAdi#}.
+; ----------------------------------------------
+; <L>37380<pc>2-192-a<k1>grahaBojana<k2>*grahaBojana
+180607 old *{#grahaBojana#}¦ (!) <lex>m.</lex> {%Pferd%}.
+;
+180607 new *{#grahaBojana#} (!)¦ <lex>m.</lex> {%Pferd%}.
+; ----------------------------------------------
+; <L>37705<pc>2-196-b<k1>GawImAla<k2>*GawImAla
+182247 old *{#GawImAla#}¦ (!) <lex>m.</lex> {%ein Zeitabschnitt von etwa drei Stunden%} <ls>GAL.</ls>
+;
+182247 new *{#GawImAla#} (!)¦ <lex>m.</lex> {%ein Zeitabschnitt von etwa drei Stunden%} <ls>GAL.</ls>
+; ----------------------------------------------
+; <L>38573<pc>2-208-a<k1>catu<k2>catu
+186835 old {#catu#}¦ (!) <lex>Adj.</lex> {%der vierte%} <ls>TAITT. ĀR. 1,8,4</ls>.
+;
+186835 new {#catu#} (!)¦ <lex>Adj.</lex> {%der vierte%} <ls>TAITT. ĀR. 1,8,4</ls>.
+; ----------------------------------------------
+; <L>38733<pc>2-210-a<k1>caturviMSatima<k2>caturviMSatima
+187599 old {#caturviMSatima#}¦ (!) <lex>Adj.</lex> {%der 24ste%} <ls>HEMĀDRI 1,134,12</ls>.
+;
+187599 new {#caturviMSatima#} (!)¦ <lex>Adj.</lex> {%der 24ste%} <ls>HEMĀDRI 1,134,12</ls>.
+; ----------------------------------------------
+; <L>38925<pc>2-212-c<k1>candrakAwuki<k2>candrakAwuki
+188564 old {#candrakAwuki#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes
+;
+188564 new {#candrakAwuki#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes
+; ----------------------------------------------
+; <L>39701<pc>2-224-a<k1>cArivAc<k2>*cArivAc
+192685 old *{#cArivAc#}¦ (!) <lex>f.</lex> angeblich = {#karkawaSfNgI#}.
+;
+192685 new *{#cArivAc#} (!)¦ <lex>f.</lex> angeblich = {#karkawaSfNgI#}.
+; ----------------------------------------------
+; <L>40370<pc>2-233-c<k1>cIraBavantI<k2>*cIraBavantI
+196119 old *{#cIraBavantI#}¦ (!) <lex>f.</lex> {%der Frau ältere Schwester%}.
+;
+196119 new *{#cIraBavantI#} (!)¦ <lex>f.</lex> {%der Frau ältere Schwester%}.
+; ----------------------------------------------
+; <L>40875<pc>2-240-c<k1>CattriRa<k2>CattriRa
+198757 old {#CattriRa#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+198757 new {#CattriRa#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>41341<pc>2-248-a<k1>jaNgapUga<k2>*jaNgapUga
+201229 old *{#jaNgapUga#}¦ (!) <lex>m.</lex> {%wickedness, sin%}.
+;
+201229 new *{#jaNgapUga#} (!)¦ <lex>m.</lex> {%wickedness, sin%}.
+; ----------------------------------------------
+; <L>42137<pc>2-258-c<k1>jalambala<k2>*jalambala
+205288 old *{#jalambala#}¦ (!) <lex>n.</lex>
+;
+205288 new *{#jalambala#} (!)¦ <lex>n.</lex>
+; ----------------------------------------------
+; <L>42773<pc>2-267-a<k1>jijYu<k2>jijYu
+208435 old {#jijYu#}¦ (!) <lex>Adj.</lex> = {#jijYAsu#}.
+;
+208435 new {#jijYu#} (!)¦ <lex>Adj.</lex> = {#jijYAsu#}.
+; ----------------------------------------------
+; <L>43272<pc>2-274-a<k1>jEhmati<k2>jEhmati
+210973 old {#jEhmati#}¦ (!) <lex>m.</lex> <ab>Patron.</ab> <ab>Pl.</ab> {%sein Geschlecht%}.
+;
+210973 new {#jEhmati#} (!)¦ <lex>m.</lex> <ab>Patron.</ab> <ab>Pl.</ab> {%sein Geschlecht%}.
+; ----------------------------------------------
+; <L>43273<pc>2-274-a<k1>jEhmAkani<k2>jEhmAkani
+210977 old {#jEhmAkani#}¦ (!) <lex>m.</lex> <ab>desgl.</ab> <ab>Pl.</ab> {%sein Geschlecht%}.
+;
+210977 new {#jEhmAkani#} (!)¦ <lex>m.</lex> <ab>desgl.</ab> <ab>Pl.</ab> {%sein Geschlecht%}.
+; ----------------------------------------------
+; <L>43911<pc>2-283-b<k1>qambAra<k2>qambAra
+214259 old {#qambAra#}¦ (!) in {#udita°#}.
+;
+214259 new {#qambAra#} (!)¦ in {#udita°#}.
+; ----------------------------------------------
+; <L>44121<pc>3-002-c<k1>taqAGAta<k2>taqAGAta
+215342 old {#taqAGAta#}¦ (!) <lex>m.</lex> {%ein Schlag mit dem Elephantenrüssel%}.
+;
+215342 new {#taqAGAta#} (!)¦ <lex>m.</lex> {%ein Schlag mit dem Elephantenrüssel%}.
+; ----------------------------------------------
+; <L>45205<pc>3-021-a<k1>tAndana<k2>*tAndana
+221239 old *{#tAndana#}¦ (!) <lex>m.</lex> {%Wind%}.
+;
+221239 new *{#tAndana#} (!)¦ <lex>m.</lex> {%Wind%}.
+; ----------------------------------------------
+; <L>45635<pc>3-027-a<k1>ti<k2>1. ti
+223457 old <hom>1.</hom> √{#ti#}¦ (!) {#tinoti#} mit {#sam#} {%zerquetschen, zerdrücken%} <ls>MANTRABR. 2,7,2</ls>. <ab>Vgl.</ab> {#tik, tiknoti#} und {#tig, tignoti#}.
+;
+223457 new <hom>1.</hom> √{#ti#} (!)¦ {#tinoti#} mit {#sam#} {%zerquetschen, zerdrücken%} <ls>MANTRABR. 2,7,2</ls>. <ab>Vgl.</ab> {#tik, tiknoti#} und {#tig, tignoti#}.
+; ----------------------------------------------
+; <L>45919<pc>3-030-b<k1>tilakanija<k2>tilakanija
+224809 old {#tilakanija#}¦ (!) <lex>m.</lex> <ab>Pl.</ab> <ab>N. pr.</ab> eines Volkes.
+;
+224809 new {#tilakanija#} (!)¦ <lex>m.</lex> <ab>Pl.</ab> <ab>N. pr.</ab> eines Volkes.
+; ----------------------------------------------
+; <L>46587<pc>3-039-a<k1>tUnasevinI<k2>tUnasevinI
+228095 old {#tUnasevinI#}¦ (!) <lex>f.</lex> <ab>s.</ab> {#tUnasevanI#} 2〉.
+;
+228095 new {#tUnasevinI#} (!)¦ <lex>f.</lex> <ab>s.</ab> {#tUnasevanI#} 2〉.
+; ----------------------------------------------
+; <L>48129<pc>3-058-a<k1>tryambuka<k2>*tryambuka
+235426 old *{#tryambuka#}¦ (!) {%eine Art Fliege%}.
+;
+235426 new *{#tryambuka#} (!)¦ {%eine Art Fliege%}.
+; ----------------------------------------------
+; <L>48295<pc>3-060-a<k1>tvAzwI<k2>tvAzwI
+236159 old {#tvAzwI#}¦ (!) <ab>Bein.</ab> der <is>Durgā</is>.
+;
+236159 new {#tvAzwI#} (!)¦ <ab>Bein.</ab> der <is>Durgā</is>.
+; ----------------------------------------------
+; <L>48838<pc>3-067-b<k1>danAyU<k2>danAyU/
+238771 old {#danAyU/#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> des Vaters der <is>Dānava</is>.
+;
+238771 new {#danAyU/#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> des Vaters der <is>Dānava</is>.
+; ----------------------------------------------
+; <L>49189<pc>3-073-c<k1>dalatar<k2>*dalatar
+240796 old *{#dalatar#}¦ (!) <is>gaṇa</is> {#arIhaRAdi#}.
+;
+240796 new *{#dalatar#} (!)¦ <is>gaṇa</is> {#arIhaRAdi#}.
+; ----------------------------------------------
+; <L>49202<pc>3-074-a<k1>dalasAyasI<k2>*dalasAyasI
+240856 old *{#dalasAyasI#}¦ (!) <lex>f.</lex> {%weisses Basilienkraut%}.
+;
+240856 new *{#dalasAyasI#} (!)¦ <lex>f.</lex> {%weisses Basilienkraut%}.
+; ----------------------------------------------
+; <L>49622<pc>3-081-a<k1>dAdada<k2>*dAdada
+243133 old *{#dAdada#}¦ (!) <lex>Adj.</lex> {%gebend%}.
+;
+243133 new *{#dAdada#} (!)¦ <lex>Adj.</lex> {%gebend%}.
+; ----------------------------------------------
+; <L>49737<pc>3-082-b<k1>dAmAYcana<k2>dAmAYcana, dAmaYcala
+243662 old {#dAmAYcana#} und {#dAmaYcala#}¦ (!) <lex>n.</lex> {%Fussfessel beim Pferde%}.
+;
+243662 new {#dAmAYcana#} und {#dAmaYcala#} (!)¦ <lex>n.</lex> {%Fussfessel beim Pferde%}.
+; ----------------------------------------------
+; <L>49900<pc>3-084-b<k1>dAlmAyaRi<k2>dAlmAyaRi
+244449 old {#dAlmAyaRi#}¦ (!) <lex>m.</lex> <ab>Patron.</ab> <is>Plakṣa</is>ʼs, das sonst {#dayyAmpAti#} und {#dEyAmpAti#} lautet.
+;
+244449 new {#dAlmAyaRi#} (!)¦ <lex>m.</lex> <ab>Patron.</ab> <is>Plakṣa</is>ʼs, das sonst {#dayyAmpAti#} und {#dEyAmpAti#} lautet.
+; ----------------------------------------------
+; <L>49940<pc>3-084-c<k1>dASarma<k2>dASarma
+244632 old {#dASarma#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+244632 new {#dASarma#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>50133<pc>3-087-a<k1>ditya<k2>*ditya
+245533 old *{#ditya#}¦ (!) <lex>m.</lex> = {#ditija#}.
+;
+245533 new *{#ditya#} (!)¦ <lex>m.</lex> = {#ditija#}.
+; ----------------------------------------------
+; <L>50163<pc>3-087-b<k1>diDi<k2>*diDi
+245668 old *{#diDi#}¦ (!) <lex>f.</lex> {%firmness, fixed state of mind or being%}.
+;
+245668 new *{#diDi#} (!)¦ <lex>f.</lex> {%firmness, fixed state of mind or being%}.
+; ----------------------------------------------
+; <L>50217<pc>3-088-a<k1>dinARqa<k2>*dinARqa
+245904 old *{#dinARqa#}¦ (!) <lex>n.</lex> Finsterniss.
+;
+245904 new *{#dinARqa#} (!)¦ <lex>n.</lex> Finsterniss.
+; ----------------------------------------------
+; <L>50868<pc>3-098-a<k1>dudDara<k2>dudDara
+249347 old {#dudDara#}¦ (!) etwa {%Strickleiter%} <ls>PAÑCAD.</ls>
+;
+249347 new {#dudDara#} (!)¦ etwa {%Strickleiter%} <ls>PAÑCAD.</ls>
+; ----------------------------------------------
+; <L>51883<pc>3-110-c<k1>dUlAsa<k2>*dUlAsa
+254054 old *{#dUlAsa#}¦ (!) <lex>m.</lex> {%Bogen%}.
+;
+254054 new *{#dUlAsa#} (!)¦ <lex>m.</lex> {%Bogen%}.
+; ----------------------------------------------
+; <L>52282<pc>3-115-c<k1>devadantin<k2>devadantin
+255973 old {#devadantin#}¦ (!) <lex>m.</lex> wohl <ab>Bein.</ab> <is>Śiva</is>ʼs.
+;
+255973 new {#devadantin#} (!)¦ <lex>m.</lex> wohl <ab>Bein.</ab> <is>Śiva</is>ʼs.
+; ----------------------------------------------
+; <L>52974<pc>3-123-b<k1>doga<k2>*doga
+259125 old *{#doga#}¦ (!) <lex>m.</lex> {%Stier%}.
+;
+259125 new *{#doga#} (!)¦ <lex>m.</lex> {%Stier%}.
+; ----------------------------------------------
+; <L>53090<pc>3-125-a<k1>dOrganDi<k2>*dOrganDi
+259669 old *{#dOrganDi#}¦ (!) <lex>m.</lex> = {#dOrganDya#}.
+;
+259669 new *{#dOrganDi#} (!)¦ <lex>m.</lex> = {#dOrganDya#}.
+; ----------------------------------------------
+; <L>54138<pc>3-138-a<k1>dvizadA<k2>*dvizadA
+264664 old *{#dvizadA#}¦ (!) <lex>f.</lex> {%<bot>Polianthes tuberosa</bot>%}.
+;
+264664 new *{#dvizadA#} (!)¦ <lex>f.</lex> {%<bot>Polianthes tuberosa</bot>%}.
+; ----------------------------------------------
+; <L>55341<pc>3-159-b<k1>DArmuka<k2>DArmuka
+271105 old {#DArmuka#}¦ (!) <lex>Adj.</lex> {%gerecht%} <ls>MĀN. ŚR. 1,6,1</ls>.
+;
+271105 new {#DArmuka#} (!)¦ <lex>Adj.</lex> {%gerecht%} <ls>MĀN. ŚR. 1,6,1</ls>.
+; ----------------------------------------------
+; <L>55837<pc>3-167-b<k1>DOtAYjanI<k2>*DOtAYjanI, *DOtAYjalI
+273800 old *{#DOtAYjanI#} und *{#DOtAYjalI#}¦ (!) <lex>f.</lex> {%eine Art Collyrium%}.
+;
+273800 new *{#DOtAYjanI#} und *{#DOtAYjalI#} (!)¦ <lex>f.</lex> {%eine Art Collyrium%}.
+; ----------------------------------------------
+; <L>56427<pc>3-175-a<k1>naqvABU<k2>*naqvABU
+276679 old *{#naqvABU#}¦ (!) <lex>f.</lex> {%Estrich%}.
+;
+276679 new *{#naqvABU#} (!)¦ <lex>f.</lex> {%Estrich%}.
+; ----------------------------------------------
+; <L>56708<pc>3-180-c<k1>namaHSiva<k2>na/maHSiva
+278346 old {#na/maHSiva#}¦ (!) <lex>Adj.</lex> <ls>MAITR. S. 2,9,10</ls>. <ab>Vgl.</ab> {#na/monama#}.
+;
+278346 new {#na/maHSiva#} (!)¦ <lex>Adj.</lex> <ls>MAITR. S. 2,9,10</ls>. <ab>Vgl.</ab> {#na/monama#}.
+; ----------------------------------------------
+; <L>57238<pc>3-186-c<k1>navonavavyAKyA<k2>navonavavyAKyA
+280799 old {#navonavavyAKyA#}¦ (!) <lex>f.</lex> Titel eines Werkes <ls>OPP. CAT. 1</ls>.
+;
+280799 new {#navonavavyAKyA#} (!)¦ <lex>f.</lex> Titel eines Werkes <ls>OPP. CAT. 1</ls>.
+; ----------------------------------------------
+; <L>58931<pc>3-210-a<k1>nirayu<k2>nirayu
+288998 old {#nirayu#}¦ (!) <lex>Adj.</lex> <ab>v. l.</ab> für {#nirambu#} <ls>MBH. 3,7,5</ls>.
+;
+288998 new {#nirayu#} (!)¦ <lex>Adj.</lex> <ab>v. l.</ab> für {#nirambu#} <ls>MBH. 3,7,5</ls>.
+; ----------------------------------------------
+; <L>59082<pc>3-212-a<k1>nirAsu<k2>nirAsu
+289750 old {#nirAsu#}¦ (!) <lex>Adj.</lex> <ab>v. l.</ab> für {#nirambu#} <ls>MBH. 3,7,5</ls>.
+;
+289750 new {#nirAsu#} (!)¦ <lex>Adj.</lex> <ab>v. l.</ab> für {#nirambu#} <ls>MBH. 3,7,5</ls>.
+; ----------------------------------------------
+; <L>59251<pc>3-214-b<k1>nirGUriRI<k2>*nirGUriRI
+290582 old *{#nirGUriRI#}¦ (!) {%Fluss%}. <ab>Vgl.</ab> {#nirJariRI#}.
+;
+290582 new *{#nirGUriRI#} (!)¦ {%Fluss%}. <ab>Vgl.</ab> {#nirJariRI#}.
+; ----------------------------------------------
+; <L>59463<pc>3-217-b<k1>nirmAKya<k2>nirmAKya
+291575 old {#nirmAKya#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+291575 new {#nirmAKya#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>59601<pc>3-219-a<k1>nirvARamastaka<k2>nirvARamastaka
+292220 old {#nirvARamastaka#}¦ (!) <lex>m.</lex> {%Erlösung%}.
+;
+292220 new {#nirvARamastaka#} (!)¦ <lex>m.</lex> {%Erlösung%}.
+; ----------------------------------------------
+; <L>59967<pc>3-224-a<k1>niSna<k2>*niSna
+294016 old *{#niSna#}¦ (!) <is>gaṇa</is> {#brAhmaRAdi#}.
+;
+294016 new *{#niSna#} (!)¦ <is>gaṇa</is> {#brAhmaRAdi#}.
+; ----------------------------------------------
+; <L>60334<pc>3-229-a<k1>nisandi<k2>nisandi
+295769 old {#nisandi#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines <is>Daitya</is>.
+;
+295769 new {#nisandi#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines <is>Daitya</is>.
+; ----------------------------------------------
+; <L>61714<pc>4-003-b<k1>paNkamaRquka<k2>*paNkamaRquka
+302615 old *{#paNkamaRquka#}¦ (!) <lex>m.</lex> {%eine zweischalige Muschel%}.
+;
+302615 new *{#paNkamaRquka#} (!)¦ <lex>m.</lex> {%eine zweischalige Muschel%}.
+; ----------------------------------------------
+; <L>61979<pc>4-007-a<k1>paYcaBUryABimuKA<k2>paYcaBUryABimuKA
+303887 old {#paYcaBUryABimuKA#}¦ (!) <lex>f.</lex> <ab>N. pr.</ab> einer <is>Apsaras</is> <ls>KĀRAṆḌ. 3,13</ls>.
+;
+303887 new {#paYcaBUryABimuKA#} (!)¦ <lex>f.</lex> <ab>N. pr.</ab> einer <is>Apsaras</is> <ls>KĀRAṆḌ. 3,13</ls>.
+; ----------------------------------------------
+; <L>62298<pc>4-011-b<k1>pawowaja<k2>*pawowaja
+305474 old *{#pawowaja#}¦ (!) <lex>n.</lex>
+;
+305474 new *{#pawowaja#} (!)¦ <lex>n.</lex>
+; ----------------------------------------------
+; <L>62468<pc>4-015-b<k1>pataYcala<k2>pataYcala/, pata/Ycala
+306521 old {#pataYcala/#} und {#pata/Ycala#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+306521 new {#pataYcala/#} und {#pata/Ycala#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>62737<pc>4-022-a<k1>padatvarA<k2>*padatvarA
+308209 old *{#padatvarA#}¦ (!) <lex>f.</lex> {%Schuh%}.
+;
+308209 new *{#padatvarA#} (!)¦ <lex>f.</lex> {%Schuh%}.
+; ----------------------------------------------
+; <L>62835<pc>4-023-b<k1>padeka<k2>*padeka
+308661 old *{#padeka#}¦ (!) <lex>m.</lex> {%Habicht%}.
+;
+308661 new *{#padeka#} (!)¦ <lex>m.</lex> {%Habicht%}.
+; ----------------------------------------------
+; <L>63331<pc>4-031-c<k1>paramftyu<k2>*paramftyu
+311284 old *{#paramftyu#}¦ (!) <lex>m.</lex> {%Krähe%}.
+;
+311284 new *{#paramftyu#} (!)¦ <lex>m.</lex> {%Krähe%}.
+; ----------------------------------------------
+; <L>63650<pc>4-036-b<k1>parikAyana<k2>parikAyana
+312840 old {#parikAyana#}¦ (!) <lex>m.</lex> <ab>Pl.</ab> {%eine <ab>best.</ab> Schule%}.
+;
+312840 new {#parikAyana#} (!)¦ <lex>m.</lex> <ab>Pl.</ab> {%eine <ab>best.</ab> Schule%}.
+; ----------------------------------------------
+; <L>63787<pc>4-038-c<k1>parijanman<k2>*parijanman
+313521 old *{#parijanman#}¦ (!) <lex>m.</lex>
+;
+313521 new *{#parijanman#} (!)¦ <lex>m.</lex>
+; ----------------------------------------------
+; <L>64586<pc>4-049-b<k1>parokumantra<k2>parokumantra
+317328 old {#parokumantra#}¦ (!) <ls>Verz. d. B. H. No. 903 (XII)</ls>.
+;
+317328 new {#parokumantra#} (!)¦ <ls>Verz. d. B. H. No. 903 (XII)</ls>.
+; ----------------------------------------------
+; <L>64656<pc>4-050-c<k1>parRaprAtyika<k2>parRaprAtyika
+317696 old {#parRaprAtyika#}¦ (!) <ab>N. pr.</ab> einer Oertlichkeit.
+;
+317696 new {#parRaprAtyika#} (!)¦ <ab>N. pr.</ab> einer Oertlichkeit.
+; ----------------------------------------------
+; <L>64789<pc>4-052-b<k1>paryAntam<k2>paryAntam
+318302 old {#paryAntam#}¦ (!) = {#°paryantam#} {%bis zu%} <ls>ĀPAST. 1,9,21</ls>.
+;
+318302 new {#paryAntam#} (!)¦ = {#°paryantam#} {%bis zu%} <ls>ĀPAST. 1,9,21</ls>.
+; ----------------------------------------------
+; <L>65055<pc>4-056-a<k1>pallARa<k2>pallARa
+319631 old {#pallARa#}¦ (!) = {#palyAna#} {%Sattel%} <ls>PAÑCAD.</ls>
+;
+319631 new {#pallARa#} (!)¦ = {#palyAna#} {%Sattel%} <ls>PAÑCAD.</ls>
+; ----------------------------------------------
+; <L>65088<pc>4-056-b<k1>pavanombuja<k2>*pavanombuja
+319798 old *{#pavanombuja#}¦ (!) {%<bot>Grewia asiatica</bot>%}.
+;
+319798 new *{#pavanombuja#} (!)¦ {%<bot>Grewia asiatica</bot>%}.
+; ----------------------------------------------
+; <L>65098<pc>4-056-b<k1>pavazwurika<k2>*pavazwurika
+319844 old *{#pavazwurika#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+319844 new *{#pavazwurika#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>65933<pc>4-068-c<k1>pAdAnuDyAta<k2>pAdAnuDyAta, pAdAnuDyAna
+324050 old {#pAdAnuDyAta#} und {#°DyAna#}¦ (!) <lex>Adj.</lex> {%an den die Füsse dessen und dessen gedacht haben,%} so <ab>v. a.</ab> {%der von dem und dem hohen Herrn designirte Nachfolger%}.
+;
+324050 new {#pAdAnuDyAta#} und {#°DyAna#} (!)¦ <lex>Adj.</lex> {%an den die Füsse dessen und dessen gedacht haben,%} so <ab>v. a.</ab> {%der von dem und dem hohen Herrn designirte Nachfolger%}.
+; ----------------------------------------------
+; <L>66303<pc>4-073-b<k1>pArikzi<k2>pArikzi
+325763 old {#pArikzi#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes <ls>WEBER, Lit. 303</ls>
+;
+325763 new {#pArikzi#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes <ls>WEBER, Lit. 303</ls>
+; ----------------------------------------------
+; <L>66539<pc>4-076-c<k1>pArzRuvi<k2>pArzRuvi
+326920 old {#pArzRuvi#}¦ (!) <lex>m.</lex> <ab>Patron.</ab>
+;
+326920 new {#pArzRuvi#} (!)¦ <lex>m.</lex> <ab>Patron.</ab>
+; ----------------------------------------------
+; <L>66590<pc>4-077-c<k1>pAlohaya<k2>pAlohaya
+327235 old {#pAlohaya#}¦ (!) <lex>m.</lex> <ab>Patron.</ab>
+;
+327235 new {#pAlohaya#} (!)¦ <lex>m.</lex> <ab>Patron.</ab>
+; ----------------------------------------------
+; <L>66754<pc>4-080-a<k1>picila<k2>*picila
+328089 old *{#picila#}¦ (!) <lex>m.</lex> {%Elephant%} <ls>GAL.</ls>
+;
+328089 new *{#picila#} (!)¦ <lex>m.</lex> {%Elephant%} <ls>GAL.</ls>
+; ----------------------------------------------
+; <L>66776<pc>4-080-b<k1>picCitikA<k2>*picCitikA
+328219 old *{#picCitikA#}¦ (!) <lex>f.</lex> {%<bot>Dalbergia Sissoo</bot>%}.
+;
+328219 new *{#picCitikA#} (!)¦ <lex>f.</lex> {%<bot>Dalbergia Sissoo</bot>%}.
+; ----------------------------------------------
+; <L>67068<pc>4-084-c<k1>pitryupavIta<k2>pitryupavIta
+329682 old {#pitryupavIta#}¦ (!) <lex>n.</lex> {%das Umlegen der Manenschnur%} <ls>GOP. BR. 1,3,12</ls>. <ls>VAITĀN.</ls>
+;
+329682 new {#pitryupavIta#} (!)¦ <lex>n.</lex> {%das Umlegen der Manenschnur%} <ls>GOP. BR. 1,3,12</ls>. <ls>VAITĀN.</ls>
+; ----------------------------------------------
+; <L>67069<pc>4-084-c<k1>pitryupavItin<k2>pitryupavItin
+329686 old {#pitryupavItin#}¦ (!) <lex>Adj.</lex> {%der die Manenschnur umgelegt hat%} <ls>VAITĀN.</ls>
+;
+329686 new {#pitryupavItin#} (!)¦ <lex>Adj.</lex> {%der die Manenschnur umgelegt hat%} <ls>VAITĀN.</ls>
+; ----------------------------------------------
+; <L>67549<pc>4-091-c<k1>puYjAtuka<k2>*puYjAtuka
+332103 old *{#puYjAtuka#}¦ (!) = {#PalelANku#} (!).
+;
+332103 new *{#puYjAtuka#} (!)¦ = {#PalelANku#} (!).
+; ----------------------------------------------
+; <L>68870<pc>4-110-a<k1>pUTikA<k2>pUTikA
+338461 old {#pUTikA#}¦ (!) <lex>f.</lex> {%eine <ab>best.</ab> Gemüsepflanze%}. Der <ab>Comm.</ab> hat an einer stelle wahrscheinlich {#pfTukA#} an der anderen {#pUTikA#}.
+;
+338461 new {#pUTikA#} (!)¦ <lex>f.</lex> {%eine <ab>best.</ab> Gemüsepflanze%}. Der <ab>Comm.</ab> hat an einer stelle wahrscheinlich {#pfTukA#} an der anderen {#pUTikA#}.
+; ----------------------------------------------
+; <L>68969<pc>4-111-b<k1>pUrRAkza<k2>pUrRAkza, pUrRAkzya
+338971 old {#pUrRAkza#} und {#°kzya#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines <is>Maudgalya</is> <ls>CARAKA. 1,26</ls>.
+;
+338971 new {#pUrRAkza#} und {#°kzya#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines <is>Maudgalya</is> <ls>CARAKA. 1,26</ls>.
+; ----------------------------------------------
+; <L>69890<pc>4-122-c<k1>pEsukAyana<k2>pEsukAyana
+343189 old {#pEsukAyana#}¦ (!) <lex>m.</lex> <ab>Patron.</ab>
+;
+343189 new {#pEsukAyana#} (!)¦ <lex>m.</lex> <ab>Patron.</ab>
+; ----------------------------------------------
+; <L>70170<pc>4-126-a<k1>pOzWimera<k2>pOzWimera
+344535 old {#pOzWimera#}¦ (!) <lex>m.</lex> <ab>Patron.</ab>
+;
+344535 new {#pOzWimera#} (!)¦ <lex>m.</lex> <ab>Patron.</ab>
+; ----------------------------------------------
+; <L>70353<pc>4-129-b<k1>prakozRA<k2>prakozRA
+345487 old {#prakozRA#}¦ (!) <lex>f.</lex> <ab>N. pr.</ab> einer <is>Apsaras</is> <ls>VP. 2,2,298</ls>. {#pramlocA#} <ab>v. l.</ab>
+;
+345487 new {#prakozRA#} (!)¦ <lex>f.</lex> <ab>N. pr.</ab> einer <is>Apsaras</is> <ls>VP. 2,2,298</ls>. {#pramlocA#} <ab>v. l.</ab>
+; ----------------------------------------------
+; <L>72440<pc>4-159-b<k1>prapatyupADitvanizeDa<k2>prapatyupADitvanizeDa
+355512 old {#prapatyupADitvanizeDa#}¦ (!) <lex>m.</lex> Titel eines Werkes <ls>OPP. CAT. 1</ls>.
+;
+355512 new {#prapatyupADitvanizeDa#} (!)¦ <lex>m.</lex> Titel eines Werkes <ls>OPP. CAT. 1</ls>.
+; ----------------------------------------------
+; <L>74039<pc>4-182-c<k1>prAjala<k2>prAjala
+363417 old {#prAjala#}¦ (!) <lex>m.</lex> <ab>Pl.</ab> {%eine <ab>best.</ab> Schule%}.
+;
+363417 new {#prAjala#} (!)¦ <lex>m.</lex> <ab>Pl.</ab> {%eine <ab>best.</ab> Schule%}.
+; ----------------------------------------------
+; <L>75085<pc>4-197-a<k1>prorRunAva<k2>prorRunAva
+368390 old {#prorRunAva#}¦ (!) <lex>Adj.</lex> mit {#jvara#} <lex>m.</lex> {%eine Species von Fieber%} <ls>BHĀVAPR. 3,79</ls>.
+;
+368390 new {#prorRunAva#} (!)¦ <lex>Adj.</lex> mit {#jvara#} <lex>m.</lex> {%eine Species von Fieber%} <ls>BHĀVAPR. 3,79</ls>.
+; ----------------------------------------------
+; <L>75226<pc>4-200-a<k1>Pagula<k2>Pagula
+369257 old {#Pagula#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+369257 new {#Pagula#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>75450<pc>4-203-a<k1>PalelANku<k2>*PalelANku
+370330 old *{#PalelANku#}¦ (!) <lex>m.</lex> = {#puYjAtuka#} <ls>HĀR. 137</ls>.
+;
+370330 new *{#PalelANku#} (!)¦ <lex>m.</lex> = {#puYjAtuka#} <ls>HĀR. 137</ls>.
+; ----------------------------------------------
+; <L>75452<pc>4-203-a<k1>Palotpati<k2>*Palotpati
+370340 old *{#Palotpati#}¦ (!) <lex>m.</lex> {%der Mangobaum%}.
+;
+370340 new *{#Palotpati#} (!)¦ <lex>m.</lex> {%der Mangobaum%}.
+; ----------------------------------------------
+; <L>75458<pc>4-203-a<k1>Paloni<k2>*Paloni
+370367 old *{#Paloni#}¦ (!) {%die weibliche Scham%}.
+;
+370367 new *{#Paloni#} (!)¦ {%die weibliche Scham%}.
+; ----------------------------------------------
+; <L>75690<pc>4-206-a<k1>badDappi<k2>badDappi
+371481 old {#badDappi#}¦ (!) <lex>n.</lex> {%die geschlossene Hand, Faust%}.
+;
+371481 new {#badDappi#} (!)¦ <lex>n.</lex> {%die geschlossene Hand, Faust%}.
+; ----------------------------------------------
+; <L>75729<pc>4-206-b<k1>badDAppi<k2>badDAppi
+371643 old {#badDAppi#}¦ (!) <lex>m.</lex> = {#badDappi#}.
+;
+371643 new {#badDAppi#} (!)¦ <lex>m.</lex> = {#badDappi#}.
+; ----------------------------------------------
+; <L>75860<pc>4-209-b<k1>bamBArviSvavayas<k2>bamBArviSvavayas
+372456 old {#bamBArviSvavayas#}¦ (!) <lex>m.</lex> <ab>Du.</ab> = {#bambA/viSva°#} <ls>KĀṬH. 29,7</ls>.
+;
+372456 new {#bamBArviSvavayas#} (!)¦ <lex>m.</lex> <ab>Du.</ab> = {#bambA/viSva°#} <ls>KĀṬH. 29,7</ls>.
+; ----------------------------------------------
+; <L>76360<pc>4-216-b<k1>bahuDeya<k2>bahuDeya
+374887 old {#bahuDeya#}¦ (!) <ab>Pl.</ab> {%eine <ab>best.</ab> Schule%}.
+;
+374887 new {#bahuDeya#} (!)¦ <ab>Pl.</ab> {%eine <ab>best.</ab> Schule%}.
+; ----------------------------------------------
+; <L>76829<pc>4-222-c<k1>bAloka<k2>*bAloka
+377186 old *{#bAloka#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Autors.
+;
+377186 new *{#bAloka#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Autors.
+; ----------------------------------------------
+; <L>77518<pc>4-231-c<k1>bfhadukTi<k2>bfhadukTi
+380492 old {#bfhadukTi#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines <is>Ṛṣi</is>
+;
+380492 new {#bfhadukTi#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines <is>Ṛṣi</is>
+; ----------------------------------------------
+; <L>78032<pc>4-238-b<k1>brahmavada<k2>brahmavada
+382920 old {#brahmavada#}¦ (!) <lex>m.</lex> <ab>Pl.</ab> {%eine <ab>best.</ab> Schule%}.
+;
+382920 new {#brahmavada#} (!)¦ <lex>m.</lex> <ab>Pl.</ab> {%eine <ab>best.</ab> Schule%}.
+; ----------------------------------------------
+; <L>78047<pc>4-238-c<k1>brahmavala<k2>brahmavala
+382984 old {#brahmavala#}¦ (!) <lex>m.</lex> <ab>Pl.</ab> {%eine <ab>best.</ab> Schule%}.
+;
+382984 new {#brahmavala#} (!)¦ <lex>m.</lex> <ab>Pl.</ab> {%eine <ab>best.</ab> Schule%}.
+; ----------------------------------------------
+; <L>78475<pc>4-245-a<k1>BaginIya<k2>BaginIya
+385021 old {#BaginIya#}¦ (!) <lex>m.</lex> wohl {%Schwestersohn%}.
+;
+385021 new {#BaginIya#} (!)¦ <lex>m.</lex> wohl {%Schwestersohn%}.
+; ----------------------------------------------
+; <L>79020<pc>4-253-c<k1>BalvAci<k2>BalvAci
+387886 old {#BalvAci#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+387886 new {#BalvAci#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>79159<pc>4-255-c<k1>BaSirA<k2>*BaSirA
+388548 old *{#BaSirA#}¦ (!) <lex>f.</lex> {%<bot>Beta bengalensis</bot>%}.
+;
+388548 new *{#BaSirA#} (!)¦ <lex>f.</lex> {%<bot>Beta bengalensis</bot>%}.
+; ----------------------------------------------
+; <L>79685<pc>4-264-a<k1>BAzaRIkzOlema<k2>BAzaRIkzOlema
+391276 old {#BAzaRIkzOlema#}¦ (!) <lex>m.</lex> <ab>Pl.</ab> <ab>N. pr.</ab> eines Geschlechts.
+;
+391276 new {#BAzaRIkzOlema#} (!)¦ <lex>m.</lex> <ab>Pl.</ab> <ab>N. pr.</ab> eines Geschlechts.
+; ----------------------------------------------
+; <L>79877<pc>4-267-c<k1>Billowa<k2>Billowa, Billodaka
+392365 old {#Billowa#} und {#Billodaka#}¦ (!) <lex>m.</lex> {%eine <ab>best.</ab> Pflanze%}.
+;
+392365 new {#Billowa#} und {#Billodaka#} (!)¦ <lex>m.</lex> {%eine <ab>best.</ab> Pflanze%}.
+; ----------------------------------------------
+; <L>80006<pc>4-269-b<k1>BIzugati<k2>BIzugati
+392998 old {#BIzugati#}¦ (!) <lex>Adj.</lex> {%einschüchternd%} <ls>BHĀVAPR. 1,86</ls>.
+;
+392998 new {#BIzugati#} (!)¦ <lex>Adj.</lex> {%einschüchternd%} <ls>BHĀVAPR. 1,86</ls>.
+; ----------------------------------------------
+; <L>80314<pc>4-276-a<k1>BUtamAtotsava<k2>BUtamAtotsava
+394802 old {#BUtamAtotsava#}¦ (!) <lex>n.</lex> {%ein <ab>best.</ab> Fest%}.
+;
+394802 new {#BUtamAtotsava#} (!)¦ <lex>n.</lex> {%ein <ab>best.</ab> Fest%}.
+; ----------------------------------------------
+; <L>80777<pc>4-282-a<k1>BfgvandIya<k2>BfgvandIya
+396995 old {#BfgvandIya#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+396995 new {#BfgvandIya#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>80815<pc>4-282-b<k1>BfjAyana<k2>BfjAyana
+397194 old {#BfjAyana#}¦ (!) <lex>m.</lex> <ab>Patron.</ab>
+;
+397194 new {#BfjAyana#} (!)¦ <lex>m.</lex> <ab>Patron.</ab>
+; ----------------------------------------------
+; <L>81243<pc>4-289-b<k1>BrAjoBrAdantya<k2>BrAjoBrAdantya
+399529 old {#BrAjoBrAdantya#}¦ (!) <lex>m.</lex> <ab>Pl.</ab> <ab>N. pr.</ab> eines Geschlechts.
+;
+399529 new {#BrAjoBrAdantya#} (!)¦ <lex>m.</lex> <ab>Pl.</ab> <ab>N. pr.</ab> eines Geschlechts.
+; ----------------------------------------------
+; <L>81828<pc>5-007-b<k1>maRisOpAna<k2>*maRisOpAna
+402370 old *{#maRisOpAna#}¦ (!) <lex>m.</lex> {%a staff or stick set with jewels%}.
+;
+402370 new *{#maRisOpAna#} (!)¦ <lex>m.</lex> {%a staff or stick set with jewels%}.
+; ----------------------------------------------
+; <L>82787<pc>5-021-c<k1>manavaSas<k2>manavaSas
+407328 old {#manavaSas#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten <ls>VP.² 4,69</ls>.
+;
+407328 new {#manavaSas#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten <ls>VP.² 4,69</ls>.
+; ----------------------------------------------
+; <L>82839<pc>5-022-c<k1>manahaMsa<k2>manahaMsa
+407579 old {#manahaMsa#}¦ (!) {%ein <ab>best.</ab> Metrum%}.
+;
+407579 new {#manahaMsa#} (!)¦ {%ein <ab>best.</ab> Metrum%}.
+; ----------------------------------------------
+; <L>82862<pc>5-023-a<k1>manIziRA<k2>manIziRA
+407686 old {#manIziRA#}¦ (!) <lex>f.</lex> {%ein <ab>best.</ab> Metrum%} <ls>ŚRUT. 24</ls>.
+;
+407686 new {#manIziRA#} (!)¦ <lex>f.</lex> {%ein <ab>best.</ab> Metrum%} <ls>ŚRUT. 24</ls>.
+; ----------------------------------------------
+; <L>82886<pc>5-023-b<k1>manudivi<k2>manudivi
+407813 old {#manudivi#}¦ (!) Titel eines Werkes <ls>OPP. CAT. 1</ls>.
+;
+407813 new {#manudivi#} (!)¦ Titel eines Werkes <ls>OPP. CAT. 1</ls>.
+; ----------------------------------------------
+; <L>83707<pc>5-035-c<k1>marmacara<k2>*marmacara
+412033 old *{#marmacara#}¦ (!) <lex>n.</lex> = {#hfda#}.
+;
+412033 new *{#marmacara#} (!)¦ <lex>n.</lex> = {#hfda#}.
+; ----------------------------------------------
+; <L>84011<pc>5-039-c<k1>masurakzita<k2>*masurakzita
+413559 old *{#masurakzita#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten.
+;
+413559 new *{#masurakzita#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten.
+; ----------------------------------------------
+; <L>84052<pc>5-040-b<k1>mahaMkAla<k2>mahaMkAla
+413799 old {#mahaMkAla#}¦ (!) <lex>m.</lex> = {#mahAkAla#} 1〉a〉 <ls>Ind. St. 15,286. 289. fg.</ls>
+;
+413799 new {#mahaMkAla#} (!)¦ <lex>m.</lex> = {#mahAkAla#} 1〉a〉 <ls>Ind. St. 15,286. 289. fg.</ls>
+; ----------------------------------------------
+; <L>84106<pc>5-041-b<k1>mahavIrya<k2>mahavIrya
+414076 old {#mahavIrya#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Lehrers.
+;
+414076 new {#mahavIrya#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Lehrers.
+; ----------------------------------------------
+; <L>84194<pc>5-042-b<k1>mahAkUla<k2>2. *mahAkUla
+414486 old <hom>2.</hom> *{#mahAkUla#}¦ (!) <lex>Adj.</lex> = <hom>2.</hom> {#mahAkula#}.
+;
+414486 new <hom>2.</hom> *{#mahAkUla#} (!)¦ <lex>Adj.</lex> = <hom>2.</hom> {#mahAkula#}.
+; ----------------------------------------------
+; <L>84330<pc>5-043-c<k1>mahARagnI<k2>mahARagnI
+415113 old {#mahARagnI#}¦ (!) <lex>f.</lex> {%Buhlerin%}. <ab>Vgl.</ab> {#mahAnagna#}.
+;
+415113 new {#mahARagnI#} (!)¦ <lex>f.</lex> {%Buhlerin%}. <ab>Vgl.</ab> {#mahAnagna#}.
+; ----------------------------------------------
+; <L>84714<pc>5-048-c<k1>mahAmaYjuzaka<k2>mahAmaYjuzaka
+416962 old {#mahAmaYjuzaka#}¦ (!) <lex>n.</lex> (<ls>KĀRAṆḌ. 79,1</ls>) und *{#maYjuzaka#} <lex>m.</lex> <ab>Bez.</ab> {%einer <ab>best.</ab> himmlischen Blume%}.
+;
+416962 new {#mahAmaYjuzaka#} (!)¦ <lex>n.</lex> (<ls>KĀRAṆḌ. 79,1</ls>) und *{#maYjuzaka#} <lex>m.</lex> <ab>Bez.</ab> {%einer <ab>best.</ab> himmlischen Blume%}.
+; ----------------------------------------------
+; <L>85358<pc>5-056-c<k1>mahItapattana<k2>mahItapattana
+420000 old {#mahItapattana#}¦ (!) <ab>N. pr.</ab> einer {%Stadt%}.
+;
+420000 new {#mahItapattana#} (!)¦ <ab>N. pr.</ab> einer {%Stadt%}.
+; ----------------------------------------------
+; <L>85648<pc>5-061-a<k1>mAkzikASarkarA<k2>*mAkzikASarkarA
+421470 old *{#mAkzikASarkarA#}¦ (!) <lex>f.</lex> {%Zucker in Stücken%} <ls>RĀJAN. 14,104</ls>.
+;
+421470 new *{#mAkzikASarkarA#} (!)¦ <lex>f.</lex> {%Zucker in Stücken%} <ls>RĀJAN. 14,104</ls>.
+; ----------------------------------------------
+; <L>85834<pc>5-063-c<k1>mAtfkacCida<k2>*mAtfkacCida
+422405 old *{#mAtfkacCida#}¦ (!) <lex>m.</lex> <ab>Bein.</ab> <is>Paraśurāma</is>ʼs.
+;
+422405 new *{#mAtfkacCida#} (!)¦ <lex>m.</lex> <ab>Bein.</ab> <is>Paraśurāma</is>ʼs.
+; ----------------------------------------------
+; <L>86158<pc>5-068-b<k1>mAnasoka<k2>mAnasoka
+424022 old {#mAnasoka#}¦ (!) <lex>m.</lex> Titel eines Werkes <ls>BÜHL. GUZ. 4,82</ls>.
+;
+424022 new {#mAnasoka#} (!)¦ <lex>m.</lex> Titel eines Werkes <ls>BÜHL. GUZ. 4,82</ls>.
+; ----------------------------------------------
+; <L>86233<pc>5-069-b<k1>mAnDyoda<k2>mAnDyoda
+424385 old {#mAnDyoda#}¦ (!) <lex>m.</lex> <ab>Patron.</ab>
+;
+424385 new {#mAnDyoda#} (!)¦ <lex>m.</lex> <ab>Patron.</ab>
+; ----------------------------------------------
+; <L>86252<pc>5-069-c<k1>mAmanasAyati<k2>mAmanasAyati
+424471 old {#mAmanasAyati#}¦ (!) <lex>m.</lex> <ab>Patron.</ab>
+;
+424471 new {#mAmanasAyati#} (!)¦ <lex>m.</lex> <ab>Patron.</ab>
+; ----------------------------------------------
+; <L>86269<pc>5-070-a<k1>mAyAti<k2>mAyAti
+424556 old {#mAyAti#}¦ (!) <lex>m.</lex> {%Menschenopfer%}.
+;
+424556 new {#mAyAti#} (!)¦ <lex>m.</lex> {%Menschenopfer%}.
+; ----------------------------------------------
+; <L>86415<pc>5-072-a<k1>mArgayaTa<k2>mArgayaTa
+425334 old {#mArgayaTa#}¦ (!) <lex>m.</lex> <ab>desgl.</ab> Auch <ab>Pl.</ab>
+;
+425334 new {#mArgayaTa#} (!)¦ <lex>m.</lex> <ab>desgl.</ab> Auch <ab>Pl.</ab>
+; ----------------------------------------------
+; <L>86513<pc>5-073-c<k1>mAlatItIra<k2>*mAlatItIra
+425867 old *{#mAlatItIra#}¦ (!) <lex>m.</lex> {%Borax%}.
+;
+425867 new *{#mAlatItIra#} (!)¦ <lex>m.</lex> {%Borax%}.
+; ----------------------------------------------
+; <L>86541<pc>5-074-a<k1>mAlahAnaya<k2>mAlahAnaya
+426015 old {#mAlahAnaya#}¦ (!) <lex>m.</lex> <ab>Patron.</ab>
+;
+426015 new {#mAlahAnaya#} (!)¦ <lex>m.</lex> <ab>Patron.</ab>
+; ----------------------------------------------
+; <L>87068<pc>5-081-b<k1>mihiropadi<k2>mihiropadi
+428543 old {#mihiropadi#}¦ (!) <lex>m.</lex> oder <lex>f.</lex> <ls>HEMĀDRI 1,67,22</ls> angeblich {%Sonnenfinsterniss%}. Richtig {#mihirApad#}.
+;
+428543 new {#mihiropadi#} (!)¦ <lex>m.</lex> oder <lex>f.</lex> <ls>HEMĀDRI 1,67,22</ls> angeblich {%Sonnenfinsterniss%}. Richtig {#mihirApad#}.
+; ----------------------------------------------
+; <L>87490<pc>5-089-a<k1>muRqamaTanA<k2>muRqamaTanA
+430791 old {#muRqamaTanA#}¦ (!) <lex>Adj.</lex> <lex>f.</lex> <ab>Beiw.</ab> der <is>Durgā</is>.
+;
+430791 new {#muRqamaTanA#} (!)¦ <lex>Adj.</lex> <lex>f.</lex> <ab>Beiw.</ab> der <is>Durgā</is>.
+; ----------------------------------------------
+; <L>88095<pc>5-098-a<k1>mfgakAyana<k2>mfgakAyana
+433843 old {#mfgakAyana#}¦ (!) <ab>Patron.</ab> Auch <ab>Pl.</ab>
+;
+433843 new {#mfgakAyana#} (!)¦ <ab>Patron.</ab> Auch <ab>Pl.</ab>
+; ----------------------------------------------
+; <L>88103<pc>5-098-a<k1>mfgacEwaka<k2>*mfgacEwaka
+433875 old *{#mfgacEwaka#}¦ (!) <lex>m.</lex> a {%wild or pole cat%}.
+;
+433875 new *{#mfgacEwaka#} (!)¦ <lex>m.</lex> a {%wild or pole cat%}.
+; ----------------------------------------------
+; <L>88475<pc>5-102-b<k1>mfdunnaka<k2>*mfdunnaka
+435600 old *{#mfdunnaka#}¦ (!) <lex>n.</lex> {%Gold%}.
+;
+435600 new *{#mfdunnaka#} (!)¦ <lex>n.</lex> {%Gold%}.
+; ----------------------------------------------
+; <L>88703<pc>5-105-a<k1>mecurudi<k2>*mecurudi
+436646 old *{#mecurudi#}¦ (!) <ab>N. pr.</ab> einer Oertlichkeit.
+;
+436646 new *{#mecurudi#} (!)¦ <ab>N. pr.</ab> einer Oertlichkeit.
+; ----------------------------------------------
+; <L>88824<pc>5-106-c<k1>meraRqu<k2>meraRqu
+437250 old {#meraRqu#}¦ (!) = {#melAnDu#} {%Dintenfass%} <ls>KĀRAṆḌ. 92,7</ls>.
+;
+437250 new {#meraRqu#} (!)¦ = {#melAnDu#} {%Dintenfass%} <ls>KĀRAṆḌ. 92,7</ls>.
+; ----------------------------------------------
+; <L>88863<pc>5-107-a<k1>melanduka<k2>melanduka
+437432 old {#melanduka#}¦ (!) = {#melAnDuka#} {%Dintenfass%} <ls>KĀRAṆḌ. 28,24</ls>.
+;
+437432 new {#melanduka#} (!)¦ = {#melAnDuka#} {%Dintenfass%} <ls>KĀRAṆḌ. 28,24</ls>.
+; ----------------------------------------------
+; <L>89281<pc>5-113-a<k1>mlakta<k2>*mlakta
+439566 old *{#mlakta#}¦ (!) <lex>Adj.</lex> {%gestohlen%}.
+;
+439566 new *{#mlakta#} (!)¦ <lex>Adj.</lex> {%gestohlen%}.
+; ----------------------------------------------
+; <L>89629<pc>5-118-a<k1>yajYAraNgeSapurI<k2>yajYAraNgeSapurI
+441255 old {#yajYAraNgeSapurI#}¦ (!) <ab>N. pr.</ab> einer {%Stadt%}.
+;
+441255 new {#yajYAraNgeSapurI#} (!)¦ <ab>N. pr.</ab> einer {%Stadt%}.
+; ----------------------------------------------
+; <L>90602<pc>5-134-b<k1>yazwraska<k2>*yazwraska
+446083 old *{#yazwraska#}¦ (!) <lex>m.</lex> <ab>Pl.</ab> <ab>N. pr.</ab> eines Volkes.
+;
+446083 new *{#yazwraska#} (!)¦ <lex>m.</lex> <ab>Pl.</ab> <ab>N. pr.</ab> eines Volkes.
+; ----------------------------------------------
+; <L>91154<pc>5-148-a<k1>yuDika<k2>*yuDika
+449416 old *{#yuDika#}¦ (!) <lex>Adj.</lex> {%kämpfend, streitend%}.
+;
+449416 new *{#yuDika#} (!)¦ <lex>Adj.</lex> {%kämpfend, streitend%}.
+; ----------------------------------------------
+; <L>91559<pc>5-154-a<k1>yohula<k2>yohula
+451345 old {#yohula#}¦ (!) <ab>N. pr.</ab> eines Mannes.
+;
+451345 new {#yohula#} (!)¦ <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>92244<pc>5-163-b<k1>raResvacCa<k2>*raResvacCa
+454768 old *{#raResvacCa#}¦ (!) {%Hahn%}.
+;
+454768 new *{#raResvacCa#} (!)¦ {%Hahn%}.
+; ----------------------------------------------
+; <L>92277<pc>5-163-c<k1>ratAmbuka<k2>*ratAmbuka
+454931 old *{#ratAmbuka#}¦ (!) <lex>n.</lex> <ab>Du.</ab> {%die beiden Vertiefungen un mittelbar über den Hüften%}.
+;
+454931 new *{#ratAmbuka#} (!)¦ <lex>n.</lex> <ab>Du.</ab> {%die beiden Vertiefungen un mittelbar über den Hüften%}.
+; ----------------------------------------------
+; <L>92721<pc>5-169-c<k1>raBineya<k2>raBineya
+457107 old {#raBineya#}¦ (!) <lex>m.</lex> <ab>Patron.</ab> Auch <ab>Pl.</ab>
+;
+457107 new {#raBineya#} (!)¦ <lex>m.</lex> <ab>Patron.</ab> Auch <ab>Pl.</ab>
+; ----------------------------------------------
+; <L>92804<pc>5-171-c<k1>rayIzin<k2>rayIzi/n
+457651 old {#rayIzi/n#}¦ (!) <lex>Adj.</lex> {%Schätze begehrend%}.
+;
+457651 new {#rayIzi/n#} (!)¦ <lex>Adj.</lex> {%Schätze begehrend%}.
+; ----------------------------------------------
+; <L>93611<pc>5-182-a<k1>rAjApatyASAnti<k2>rAjApatyASAnti
+461519 old {#rAjApatyASAnti#}¦ (!) <lex>f.</lex> Titel eines Werkes <ls>BURNELL, T.</ls>
+;
+461519 new {#rAjApatyASAnti#} (!)¦ <lex>f.</lex> Titel eines Werkes <ls>BURNELL, T.</ls>
+; ----------------------------------------------
+; <L>93703<pc>5-183-a<k1>rAqa<k2>rAqa
+461934 old {#rAqa#}¦ (!) = {#rAQA#} 2〉 <ls>COLEBR. Misc. Ess. 2,179</ls>.
+;
+461934 new {#rAqa#} (!)¦ = {#rAQA#} 2〉 <ls>COLEBR. Misc. Ess. 2,179</ls>.
+; ----------------------------------------------
+; <L>93843<pc>5-185-a<k1>rADrevaki<k2>rADrevaki
+462631 old {#rADrevaki#}¦ (!) <lex>m.</lex> <ab>Patron.</ab>
+;
+462631 new {#rADrevaki#} (!)¦ <lex>m.</lex> <ab>Patron.</ab>
+; ----------------------------------------------
+; <L>93993<pc>5-187-a<k1>rAmARqAr<k2>rAmARqAr
+463312 old {#rAmARqAr#}¦ (!) <ab>N. pr.</ab> eines Autors und Titel seines Werkes <ls>OPP. CAT. 1</ls>. Als Autor wird auch <is>Viṣṇucitta</is> angegeben.
+;
+463312 new {#rAmARqAr#} (!)¦ <ab>N. pr.</ab> eines Autors und Titel seines Werkes <ls>OPP. CAT. 1</ls>. Als Autor wird auch <is>Viṣṇucitta</is> angegeben.
+; ----------------------------------------------
+; <L>94054<pc>5-187-c<k1>rAyAna<k2>rAyAna
+463578 old {#rAyAna#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Hirten. Einmal {#rAyana#}.
+;
+463578 new {#rAyAna#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Hirten. Einmal {#rAyana#}.
+; ----------------------------------------------
+; <L>94683<pc>5-200-c<k1>rUpamatI<k2>rUpamatI
+467237 old {#rUpamatI#}¦ (!) <lex>f.</lex> <ab>N. pr.</ab> einer Prinzessin <ls>Ind. Antiq. 9,188, Śl. 7</ls>.
+;
+467237 new {#rUpamatI#} (!)¦ <lex>f.</lex> <ab>N. pr.</ab> einer Prinzessin <ls>Ind. Antiq. 9,188, Śl. 7</ls>.
+; ----------------------------------------------
+; <L>94685<pc>5-200-c<k1>rUpamAlI<k2>rUpamAlI
+467245 old {#rUpamAlI#}¦ (!) <lex>f.</lex> {%ein <ab>best.</ab> Metrum%}.
+;
+467245 new {#rUpamAlI#} (!)¦ <lex>f.</lex> {%ein <ab>best.</ab> Metrum%}.
+; ----------------------------------------------
+; <L>94984<pc>5-204-c<k1>rodAkA<k2>rodAkA
+468781 old {#rodAkA#}¦ (!) <lex>f.</lex> <ls>VAITĀN.</ls>
+;
+468781 new {#rodAkA#} (!)¦ <lex>f.</lex> <ls>VAITĀN.</ls>
+; ----------------------------------------------
+; <L>95052<pc>5-205-c<k1>romarasAsAra<k2>*romarasAsAra
+469128 old *{#romarasAsAra#}¦ (!) <lex>m.</lex> {%Bauch%}.
+;
+469128 new *{#romarasAsAra#} (!)¦ <lex>m.</lex> {%Bauch%}.
+; ----------------------------------------------
+; <L>95103<pc>5-206-b<k1>rolicandrU<k2>rolicandrU
+469361 old {#rolicandrU#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+469361 new {#rolicandrU#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>95112<pc>5-206-b<k1>rozARa<k2>*rozARa
+469403 old *{#rozARa#}¦ (!) <ls>ZACH. Beitr.</ls>
+;
+469403 new *{#rozARa#} (!)¦ <ls>ZACH. Beitr.</ls>
+; ----------------------------------------------
+; <L>95120<pc>5-206-b<k1>rohakziti<k2>*rohakziti
+469446 old *{#rohakziti#}¦ (!) <lex>m.</lex> <ab>Patron.</ab> <is>gaṇa</is> {#pElAda#} in der <ls>KĀŚ.</ls> {#rAhakziti#} <ab>v. l.</ab>
+;
+469446 new *{#rohakziti#} (!)¦ <lex>m.</lex> <ab>Patron.</ab> <is>gaṇa</is> {#pElAda#} in der <ls>KĀŚ.</ls> {#rAhakziti#} <ab>v. l.</ab>
+; ----------------------------------------------
+; <L>95258<pc>5-208-c<k1>rOhiz<k2>*rOhiz
+470197 old *{#rOhiz#}¦ (!) <lex>m.</lex> {%eine Hirschart%}.
+;
+470197 new *{#rOhiz#} (!)¦ <lex>m.</lex> {%eine Hirschart%}.
+; ----------------------------------------------
+; <L>96157<pc>5-224-b<k1>lAveriRi<k2>*lAveriRi
+475043 old *{#lAveriRi#}¦ (!) <lex>m.</lex> <ab>Patron.</ab>
+;
+475043 new *{#lAveriRi#} (!)¦ <lex>m.</lex> <ab>Patron.</ab>
+; ----------------------------------------------
+; <L>96337<pc>5-229-a<k1>lIlopavatI<k2>lIlopavatI
+476114 old {#lIlopavatI#}¦ (!) <lex>f.</lex> {%ein <ab>best.</ab> Metrum%}.
+;
+476114 new {#lIlopavatI#} (!)¦ <lex>f.</lex> {%ein <ab>best.</ab> Metrum%}.
+; ----------------------------------------------
+; <L>96511<pc>5-232-c<k1>lehina<k2>*lehina
+477171 old *{#lehina#}¦ (!) <lex>m.</lex> {%Borax%}.
+;
+477171 new *{#lehina#} (!)¦ <lex>m.</lex> {%Borax%}.
+; ----------------------------------------------
+; <L>96687<pc>5-235-b<k1>lokAyatana<k2>*lokAyatana
+478022 old *{#lokAyatana#}¦ (!) <lex>m.</lex> {%ein Materialist%}.
+;
+478022 new *{#lokAyatana#} (!)¦ <lex>m.</lex> {%ein Materialist%}.
+; ----------------------------------------------
+; <L>96834<pc>5-237-b<k1>lomAyayaRi<k2>lomAyayaRi
+478758 old {#lomAyayaRi#}¦ (!) <lex>m.</lex> <ab>Patron.</ab>
+;
+478758 new {#lomAyayaRi#} (!)¦ <lex>m.</lex> <ab>Patron.</ab>
+; ----------------------------------------------
+; <L>96859<pc>5-237-c<k1>loSaSarAyaRi<k2>loSaSarAyaRi
+478882 old {#loSaSarAyaRi#}¦ (!) <lex>m.</lex> <ab>desgl.</ab>
+;
+478882 new {#loSaSarAyaRi#} (!)¦ <lex>m.</lex> <ab>desgl.</ab>
+; ----------------------------------------------
+; <L>97028<pc>5-239-c<k1>lohinya<k2>lohinya
+479683 old {#lohinya#}¦ (!) <ab>Patron.</ab>
+;
+479683 new {#lohinya#} (!)¦ <ab>Patron.</ab>
+; ----------------------------------------------
+; <L>97171<pc>6-002-a<k1>vaMSivAdya<k2>vaMSivAdya
+480369 old {#vaMSivAdya#}¦ (!) <lex>n.</lex> {%Flöte%}.
+;
+480369 new {#vaMSivAdya#} (!)¦ <lex>n.</lex> {%Flöte%}.
+; ----------------------------------------------
+; <L>97401<pc>6-005-c<k1>vacoviparilopa<k2>va/coviparilopa/
+481553 old {#va/coviparilopa/#}¦ (!) <lex>m.</lex> {%Verlust der Worte%} <ls>ŚAT. BR. 14,7,1,26</ls>.
+;
+481553 new {#va/coviparilopa/#} (!)¦ <lex>m.</lex> {%Verlust der Worte%} <ls>ŚAT. BR. 14,7,1,26</ls>.
+; ----------------------------------------------
+; <L>97877<pc>6-013-b<k1>vaDyApita<k2>vaDyApita
+484033 old {#vaDyApita#}¦ (!) <ab>Partic.</ab> <ls>Ind. St. 14,381. 391</ls>.
+;
+484033 new {#vaDyApita#} (!)¦ <ab>Partic.</ab> <ls>Ind. St. 14,381. 391</ls>.
+; ----------------------------------------------
+; <L>98160<pc>6-016-c<k1>vantava<k2>vantava
+485345 old {#vantava#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+485345 new {#vantava#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>98184<pc>6-017-a<k1>vandIka<k2>*vandIka
+485477 old *{#vandIka#}¦ (!) <lex>m.</lex> <ab>Bein.</ab> <is>Indra</is>ʼs.
+;
+485477 new *{#vandIka#} (!)¦ <lex>m.</lex> <ab>Bein.</ab> <is>Indra</is>ʼs.
+; ----------------------------------------------
+; <L>99035<pc>6-038-b<k1>varzAlaNkAyikA<k2>*varzAlaNkAyikA
+491187 old *{#varzAlaNkAyikA#}¦ (!) <lex>f.</lex> {%<bot>Trigonella corniculata</bot>%}.
+;
+491187 new *{#varzAlaNkAyikA#} (!)¦ <lex>f.</lex> {%<bot>Trigonella corniculata</bot>%}.
+; ----------------------------------------------
+; <L>99156<pc>6-040-b<k1>valmIkalpa<k2>valmIkalpa
+491839 old {#valmIkalpa#}¦ (!) <lex>m.</lex> {%der 11te Tag in der dunkelen Hälfte im Monat%} <is>Brahman</is>ʼs.
+;
+491839 new {#valmIkalpa#} (!)¦ <lex>m.</lex> {%der 11te Tag in der dunkelen Hälfte im Monat%} <is>Brahman</is>ʼs.
+; ----------------------------------------------
+; <L>99883<pc>6-053-c<k1>vAgASani<k2>*vAgASani
+495805 old *{#vAgASani#}¦ (!) <lex>m.</lex> {%ein%} <is>Buddha</is>.
+;
+495805 new *{#vAgASani#} (!)¦ <lex>m.</lex> {%ein%} <is>Buddha</is>.
+; ----------------------------------------------
+; <L>99938<pc>6-054-b<k1>vAgya<k2>*vAgya
+496050 old *{#vAgya#}¦ (!) <lex>Adj.</lex> = {#vAgdaridra#}, {#nirveda#} und {#kalya#}.
+;
+496050 new *{#vAgya#} (!)¦ <lex>Adj.</lex> = {#vAgdaridra#}, {#nirveda#} und {#kalya#}.
+; ----------------------------------------------
+; <L>100161<pc>6-057-c<k1>vAjIviDAna<k2>vAjIviDAna
+497113 old {#vAjIviDAna#}¦ (!) <lex>n.</lex> {%die Anwendung von Aphrodisiaca%}.
+;
+497113 new {#vAjIviDAna#} (!)¦ <lex>n.</lex> {%die Anwendung von Aphrodisiaca%}.
+; ----------------------------------------------
+; <L>100165<pc>6-057-c<k1>vAYceSvara<k2>vAYceSvara
+497129 old {#vAYceSvara#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Scholiasten <ls>WEBER, Lit.</ls>
+;
+497129 new {#vAYceSvara#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Scholiasten <ls>WEBER, Lit.</ls>
+; ----------------------------------------------
+; <L>100509<pc>6-062-a<k1>vAdgala<k2>*vAdgala
+498766 old *{#vAdgala#}¦ (!) <lex>n.</lex> {%Lippe%} <ls>GAL.</ls>
+;
+498766 new *{#vAdgala#} (!)¦ <lex>n.</lex> {%Lippe%} <ls>GAL.</ls>
+; ----------------------------------------------
+; <L>100530<pc>6-062-b<k1>vADriya<k2>vADriya
+498859 old {#vADriya#}¦ (!) <lex>m.</lex> <ab>Patron.</ab>
+;
+498859 new {#vADriya#} (!)¦ <lex>m.</lex> <ab>Patron.</ab>
+; ----------------------------------------------
+; <L>100564<pc>6-062-c<k1>vAnavAsika<k2>vAnavAsika, vAnavAsin
+499013 old {#vAnavAsika#} und {#°vAsin#}¦ (!) <lex>m.</lex> <ab>Pl.</ab> <ab>N. pr.</ab> eines Volkes.
+;
+499013 new {#vAnavAsika#} und {#°vAsin#} (!)¦ <lex>m.</lex> <ab>Pl.</ab> <ab>N. pr.</ab> eines Volkes.
+; ----------------------------------------------
+; <L>100802<pc>6-066-a<k1>vAyurozA<k2>vAyurozA
+500194 old {#vAyurozA#}¦ (!) <lex>f.</lex> {%Nacht%}. Es sind wohl {#vAsurA#} und {#uzA#} gemeint.
+;
+500194 new {#vAyurozA#} (!)¦ <lex>f.</lex> {%Nacht%}. Es sind wohl {#vAsurA#} und {#uzA#} gemeint.
+; ----------------------------------------------
+; <L>101001<pc>6-068-b<k1>vArivindI<k2>*vArivindI
+501141 old *{#vArivindI#}¦ (!) <lex>f.</lex> {%eine blaue Wasserrose%}.
+;
+501141 new *{#vArivindI#} (!)¦ <lex>f.</lex> {%eine blaue Wasserrose%}.
+; ----------------------------------------------
+; <L>101073<pc>6-069-a<k1>vArtantavIya<k2>vArtantavIya
+501481 old {#vArtantavIya#}¦ (!) <lex>m.</lex> <ab>Pl.</ab> {%eine <ab>best.</ab> Schule%}. <ab>Vgl.</ab> {#vAratantavIya#}.
+;
+501481 new {#vArtantavIya#} (!)¦ <lex>m.</lex> <ab>Pl.</ab> {%eine <ab>best.</ab> Schule%}. <ab>Vgl.</ab> {#vAratantavIya#}.
+; ----------------------------------------------
+; <L>101076<pc>6-069-a<k1>vArtAtaveya<k2>vArtAtaveya
+501493 old {#vArtAtaveya#}¦ (!) <lex>m.</lex> <ab>Pl.</ab> {%eine <ab>best.</ab> Schule%}.
+;
+501493 new {#vArtAtaveya#} (!)¦ <lex>m.</lex> <ab>Pl.</ab> {%eine <ab>best.</ab> Schule%}.
+; ----------------------------------------------
+; <L>101159<pc>6-070-b<k1>vArrASi<k2>vArrASi
+501889 old {#vArrASi#}¦ (!) <lex>m.</lex> {%das Meer%}.
+;
+501889 new {#vArrASi#} (!)¦ <lex>m.</lex> {%das Meer%}.
+; ----------------------------------------------
+; <L>101301<pc>6-072-a<k1>vAvfdDa<k2>vAvfdDa
+502550 old {#vAvfdDa#}¦ (!) <lex>m.</lex> <ab>Pl.</ab> <ab>v. l.</ab> für {#vAcAvfdDa#}.
+;
+502550 new {#vAvfdDa#} (!)¦ <lex>m.</lex> <ab>Pl.</ab> <ab>v. l.</ab> für {#vAcAvfdDa#}.
+; ----------------------------------------------
+; <L>101397<pc>6-073-c<k1>vAsastevi<k2>vAsastevi
+503073 old {#vAsastevi#}¦ (!) <lex>m.</lex> <ab>Patron.</ab> Nur <ab>Pl.</ab>
+;
+503073 new {#vAsastevi#} (!)¦ <lex>m.</lex> <ab>Patron.</ab> Nur <ab>Pl.</ab>
+; ----------------------------------------------
+; <L>101446<pc>6-074-b<k1>vAsurAyaRIya<k2>vAsurAyaRIya
+503309 old {#vAsurAyaRIya#}¦ (!) <lex>m.</lex> <ab>Pl.</ab> {%eine <ab>best.</ab> Schule%}.
+;
+503309 new {#vAsurAyaRIya#} (!)¦ <lex>m.</lex> <ab>Pl.</ab> {%eine <ab>best.</ab> Schule%}.
+; ----------------------------------------------
+; <L>101677<pc>6-077-c<k1>vikasvarUpa<k2>vikasvarUpa
+504526 old {#vikasvarUpa#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+504526 new {#vikasvarUpa#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>102196<pc>6-086-a<k1>vijAnatA<k2>vijAnatA
+507191 old {#vijAnatA#}¦ (!) <lex>f.</lex> etwa {%List, Verschlagenheit%} <ls>BĀLAR. 124,9</ls>.
+;
+507191 new {#vijAnatA#} (!)¦ <lex>f.</lex> etwa {%List, Verschlagenheit%} <ls>BĀLAR. 124,9</ls>.
+; ----------------------------------------------
+; <L>102349<pc>6-087-c<k1>viWaNka<k2>*viWaNka
+507898 old *{#viWaNka#}¦ (!) <lex>Adj.</lex> {%bad, vile%}.
+;
+507898 new *{#viWaNka#} (!)¦ <lex>Adj.</lex> {%bad, vile%}.
+; ----------------------------------------------
+; <L>102522<pc>6-090-a<k1>viTUtistotra<k2>viTUtistotra
+508727 old {#viTUtistotra#}¦ (!) <lex>n.</lex> Titel eines <is>Stotra</is> <ls>BURNELL, T.</ls>
+;
+508727 new {#viTUtistotra#} (!)¦ <lex>n.</lex> Titel eines <is>Stotra</is> <ls>BURNELL, T.</ls>
+; ----------------------------------------------
+; <L>102548<pc>6-091-c<k1>vidadaNkzu<k2>vidadaNkzu
+509013 old {#vidadaNkzu#}¦ (!) <lex>Adj.</lex> {%Etwas zu beissen —, zu essen wünschend%} <ls>ŚIŚ. 10,9</ls>.
+;
+509013 new {#vidadaNkzu#} (!)¦ <lex>Adj.</lex> {%Etwas zu beissen —, zu essen wünschend%} <ls>ŚIŚ. 10,9</ls>.
+; ----------------------------------------------
+; <L>102711<pc>6-094-a<k1>vidyAnulomAlipi<k2>vidyAnulomAlipi
+509804 old {#vidyAnulomAlipi#}¦ (!) <lex>f.</lex> {%eine <ab>best.</ab> Art zu schreiben%}.
+;
+509804 new {#vidyAnulomAlipi#} (!)¦ <lex>f.</lex> {%eine <ab>best.</ab> Art zu schreiben%}.
+; ----------------------------------------------
+; <L>103206<pc>6-101-a<k1>vinDapattrI<k2>*vinDapattrI
+512228 old *{#vinDapattrI#}¦ (!) <lex>f.</lex> {%eine <ab>best.</ab> Pflanze%}.
+;
+512228 new *{#vinDapattrI#} (!)¦ <lex>f.</lex> {%eine <ab>best.</ab> Pflanze%}.
+; ----------------------------------------------
+; <L>103207<pc>6-101-a<k1>vinDasa<k2>*vinDasa
+512232 old *{#vinDasa#}¦ (!) <lex>m.</lex> {%der Mond%}.
+;
+512232 new *{#vinDasa#} (!)¦ <lex>m.</lex> {%der Mond%}.
+; ----------------------------------------------
+; <L>103275<pc>6-102-a<k1>vipatna<k2>vipatna
+512572 old {#vipatna#}¦ (!) {%eine <ab>best.</ab> Krankheit%}.
+;
+512572 new {#vipatna#} (!)¦ {%eine <ab>best.</ab> Krankheit%}.
+; ----------------------------------------------
+; <L>104051<pc>6-113-a<k1>virADAna<k2>*virADAna
+516463 old *{#virADAna#}¦ (!) <lex>n.</lex> = {#virADana#} 1〉b〉.
+;
+516463 new *{#virADAna#} (!)¦ <lex>n.</lex> = {#virADana#} 1〉b〉.
+; ----------------------------------------------
+; <L>104216<pc>6-116-a<k1>vilAsaviBavAnasa<k2>*vilAsaviBavAnasa
+517377 old *{#vilAsaviBavAnasa#}¦ (!) <lex>Adj.</lex> = {#lubDa#}.
+;
+517377 new *{#vilAsaviBavAnasa#} (!)¦ <lex>Adj.</lex> = {#lubDa#}.
+; ----------------------------------------------
+; <L>106002<pc>6-144-a<k1>vIbukoSa<k2>*vIbukoSa
+526500 old *{#vIbukoSa#}¦ (!) <lex>m.</lex> {%Fliegenwedel%}.
+;
+526500 new *{#vIbukoSa#} (!)¦ <lex>m.</lex> {%Fliegenwedel%}.
+; ----------------------------------------------
+; <L>106163<pc>6-146-a<k1>vIrAnaka<k2>vIrAnaka
+527255 old {#vIrAnaka#}¦ (!) <ab>N. pr.</ab> einer Oertlichkeit. <ab>Vgl.</ab> {#vIrARaka#}.
+;
+527255 new {#vIrAnaka#} (!)¦ <ab>N. pr.</ab> einer Oertlichkeit. <ab>Vgl.</ab> {#vIrARaka#}.
+; ----------------------------------------------
+; <L>106254<pc>6-147-a<k1>vfkASvaki<k2>vfkASvaki
+527695 old {#vfkASvaki#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes. <ab>Pl.</ab> {%seine Nachkommen%}.
+;
+527695 new {#vfkASvaki#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes. <ab>Pl.</ab> {%seine Nachkommen%}.
+; ----------------------------------------------
+; <L>106260<pc>6-147-b<k1>vfkkAvatI<k2>vfkkAvatI
+527724 old {#vfkkAvatI#}¦ (!) <lex>f.</lex> <ab>Bez.</ab> {%eines <ab>best.</ab> Verses%} <ls>VAITĀN.</ls>
+;
+527724 new {#vfkkAvatI#} (!)¦ <lex>f.</lex> <ab>Bez.</ab> {%eines <ab>best.</ab> Verses%} <ls>VAITĀN.</ls>
+; ----------------------------------------------
+; <L>107045<pc>6-157-c<k1>vedakA<k2>vedakA
+531541 old {#vedakA#}¦ (!) <lex>f.</lex> <ab>N. pr.</ab> einer <is>Apsaras</is> <ls>VP.² 2,82</ls>.
+;
+531541 new {#vedakA#} (!)¦ <lex>f.</lex> <ab>N. pr.</ab> einer <is>Apsaras</is> <ls>VP.² 2,82</ls>.
+; ----------------------------------------------
+; <L>107200<pc>6-159-b<k1>vedAtmana<k2>vedAtmana/
+532215 old {#vedAtmana/#}¦ (!) <lex>m.</lex> = {#vedAtman#} als <ab>Beiw.</ab> <is>Brahman</is>ʼs <ls>TAITT. ĀR. 10,1,6</ls>.
+;
+532215 new {#vedAtmana/#} (!)¦ <lex>m.</lex> = {#vedAtman#} als <ab>Beiw.</ab> <is>Brahman</is>ʼs <ls>TAITT. ĀR. 10,1,6</ls>.
+; ----------------------------------------------
+; <L>107347<pc>6-161-c<k1>velAyani<k2>velAyani
+532951 old {#velAyani#}¦ (!) <lex>m.</lex> <ab>Patron.</ab>
+;
+532951 new {#velAyani#} (!)¦ <lex>m.</lex> <ab>Patron.</ab>
+; ----------------------------------------------
+; <L>107601<pc>6-165-b<k1>vERu<k2>vERu
+534226 old {#vERu#}¦ (!) <lex>Adj.</lex> als <ab>Beiw.</ab> des Meeres <ls>ŚĀṄKH. GṚHY. 4,14</ls>.
+;
+534226 new {#vERu#} (!)¦ <lex>Adj.</lex> als <ab>Beiw.</ab> des Meeres <ls>ŚĀṄKH. GṚHY. 4,14</ls>.
+; ----------------------------------------------
+; <L>107653<pc>6-166-b<k1>vEdanfta<k2>vEdanfta
+534480 old {#vEdanfta#}¦ (!) <lex>n.</lex> Name eines <is>Sāman</is>.
+;
+534480 new {#vEdanfta#} (!)¦ <lex>n.</lex> Name eines <is>Sāman</is>.
+; ----------------------------------------------
+; <L>107740<pc>6-167-b<k1>vEDAtaki<k2>*vEDAtaki
+534907 old *{#vEDAtaki#}¦ (!) <lex>m.</lex> = {#vEDAtra#}.
+;
+534907 new *{#vEDAtaki#} (!)¦ <lex>m.</lex> = {#vEDAtra#}.
+; ----------------------------------------------
+; <L>107802<pc>6-168-b<k1>vEBaqi<k2>vEBaqi
+535213 old {#vEBaqi#}¦ (!) <lex>m.</lex> <ab>Patron.</ab>
+;
+535213 new {#vEBaqi#} (!)¦ <lex>m.</lex> <ab>Patron.</ab>
+; ----------------------------------------------
+; <L>107974<pc>6-170-b<k1>vEroci<k2>*vEroci
+536002 old *{#vEroci#}¦ (!) <lex>m.</lex> <ab>Patron.</ab> <is>Bāṇa</is>ʼs, eines Sohnes des <is>Bali</is>.
+;
+536002 new *{#vEroci#} (!)¦ <lex>m.</lex> <ab>Patron.</ab> <is>Bāṇa</is>ʼs, eines Sohnes des <is>Bali</is>.
+; ----------------------------------------------
+; <L>108210<pc>6-173-c<k1>vOli<k2>vOli
+537172 old {#vOli#}¦ (!) <lex>m.</lex> <ab>Patron.</ab>
+;
+537172 new {#vOli#} (!)¦ <lex>m.</lex> <ab>Patron.</ab>
+; ----------------------------------------------
+; <L>108774<pc>6-183-c<k1>vyAvaBAzI<k2>*vyAvaBAzI, *vyAvaBAsI
+540118 old *{#vyAvaBAzI#} und *{#°BAsI#}¦ (!) <lex>f.</lex> {%allgemeines Schmähen%}.
+;
+540118 new *{#vyAvaBAzI#} und *{#°BAsI#} (!)¦ <lex>f.</lex> {%allgemeines Schmähen%}.
+; ----------------------------------------------
+; <L>109324<pc>6-192-c<k1>Sakfdita<k2>*Sakfdita
+542843 old *{#Sakfdita#}¦ (!) <lex>Adj.</lex> {%mit Mist beschmiert%}.
+;
+542843 new *{#Sakfdita#} (!)¦ <lex>Adj.</lex> {%mit Mist beschmiert%}.
+; ----------------------------------------------
+; <L>109494<pc>6-195-a<k1>SaNkatvanirukti<k2>SaNkatvanirukti
+543643 old {#SaNkatvanirukti#}¦ (!) <lex>f.</lex> Titel eines Werkes <ls>OPP. CAT. 1</ls>.
+;
+543643 new {#SaNkatvanirukti#} (!)¦ <lex>f.</lex> Titel eines Werkes <ls>OPP. CAT. 1</ls>.
+; ----------------------------------------------
+; <L>109591<pc>6-196-c<k1>SaNKajAtI<k2>*SaNKajAtI
+544160 old *{#SaNKajAtI#}¦ (!) <lex>f.</lex> <ab>N. pr.</ab> einer Prinzessin.
+;
+544160 new *{#SaNKajAtI#} (!)¦ <lex>f.</lex> <ab>N. pr.</ab> einer Prinzessin.
+; ----------------------------------------------
+; <L>109837<pc>6-199-c<k1>Satapadma<k2>*Satapadma
+545311 old *{#Satapadma#}¦ (!) <lex>n.</lex> {%die Blüthe der weissen Wasserlilie%}.
+;
+545311 new *{#Satapadma#} (!)¦ <lex>n.</lex> {%die Blüthe der weissen Wasserlilie%}.
+; ----------------------------------------------
+; <L>110137<pc>6-203-c<k1>SantAcI<k2>SantAcI
+546734 old {#SantAcI#}¦ (!) <lex>Adj.</lex> <lex>f.</lex> = {#Sa/ntAti#} 1〉 <ls>TBR. 3,7,10,5</ls>. <ls>ĀPAST. ŚR. 14,29,1</ls>.
+;
+546734 new {#SantAcI#} (!)¦ <lex>Adj.</lex> <lex>f.</lex> = {#Sa/ntAti#} 1〉 <ls>TBR. 3,7,10,5</ls>. <ls>ĀPAST. ŚR. 14,29,1</ls>.
+; ----------------------------------------------
+; <L>110530<pc>6-210-b<k1>SaraRArpaka<k2>*SaraRArpaka
+548842 old *{#SaraRArpaka#}¦ (!) <lex>Adj.</lex> <ab>dass.</ab>
+;
+548842 new *{#SaraRArpaka#} (!)¦ <lex>Adj.</lex> <ab>dass.</ab>
+; ----------------------------------------------
+; <L>110772<pc>6-213-a<k1>SarRacApili<k2>SarRacApili
+549917 old {#SarRacApili#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+549917 new {#SarRacApili#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>111350<pc>6-220-b<k1>SAgali<k2>SAgali
+552644 old {#SAgali#}¦ (!) <lex>m.</lex> <ab>Patron.</ab>
+;
+552644 new {#SAgali#} (!)¦ <lex>m.</lex> <ab>Patron.</ab>
+; ----------------------------------------------
+; <L>111628<pc>6-223-c<k1>SAmupAla<k2>*SAmupAla
+553947 old *{#SAmupAla#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten.
+;
+553947 new *{#SAmupAla#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten.
+; ----------------------------------------------
+; <L>111726<pc>6-225-a<k1>SArkarAkzasa<k2>SArkarAkzasa
+554454 old {#SArkarAkzasa#}¦ (!) <lex>n.</lex> <ab>Bez.</ab> einer Abtheilung der <is>Hāridravīya</is>.
+;
+554454 new {#SArkarAkzasa#} (!)¦ <lex>n.</lex> <ab>Bez.</ab> einer Abtheilung der <is>Hāridravīya</is>.
+; ----------------------------------------------
+; <L>111795<pc>6-226-a<k1>SAlaNkftya<k2>SAlaNkftya
+554812 old {#SAlaNkftya#}¦ (!) <lex>m.</lex> <ab>Pl.</ab> <ab>N. pr.</ab> eines Geschlechts <ls>VP.² 4,29</ls>.
+;
+554812 new {#SAlaNkftya#} (!)¦ <lex>m.</lex> <ab>Pl.</ab> <ab>N. pr.</ab> eines Geschlechts <ls>VP.² 4,29</ls>.
+; ----------------------------------------------
+; <L>111912<pc>6-227-b<k1>SAlIhotramuni<k2>SAlIhotramuni
+555348 old {#SAlIhotramuni#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Autors <ls>BURNELL, T.</ls>
+;
+555348 new {#SAlIhotramuni#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Autors <ls>BURNELL, T.</ls>
+; ----------------------------------------------
+; <L>112161<pc>6-231-c<k1>SiKinDana<k2>SiKinDana
+556709 old {#SiKinDana#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+556709 new {#SiKinDana#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>112495<pc>6-235-c<k1>SilAhya<k2>SilAhya
+558215 old {#SilAhya#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+558215 new {#SilAhya#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>113645<pc>6-252-c<k1>SuBramatI<k2>SuBramatI
+563958 old {#SuBramatI#}¦ (!) <lex>f.</lex> <ab>N. pr.</ab> eines Flusses. <ab>Vgl.</ab> {#SuBravatI#}.
+;
+563958 new {#SuBramatI#} (!)¦ <lex>f.</lex> <ab>N. pr.</ab> eines Flusses. <ab>Vgl.</ab> {#SuBravatI#}.
+; ----------------------------------------------
+; <L>114179<pc>6-259-c<k1>SErin<k2>SErin
+566585 old {#SErin#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+566585 new {#SErin#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>114538<pc>6-264-a<k1>SORqrin<k2>SORqrin
+568290 old {#SORqrin#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+568290 new {#SORqrin#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>114811<pc>6-267-c<k1>SradDayant<k2>SradDayant
+569603 old {#SradDayant#}¦ (!) <lex>Adj.</lex> = {#SraddaDAna#} {%gläubig%}.
+;
+569603 new {#SradDayant#} (!)¦ <lex>Adj.</lex> = {#SraddaDAna#} {%gläubig%}.
+; ----------------------------------------------
+; <L>114898<pc>6-269-b<k1>SravaRas<k2>SravaRas
+570062 old {#SravaRas#}¦ (!) <lex>Adj.</lex> {%einen Gesang begleitend%} <ls>S. S. S. 182,17</ls>.
+;
+570062 new {#SravaRas#} (!)¦ <lex>Adj.</lex> {%einen Gesang begleitend%} <ls>S. S. S. 182,17</ls>.
+; ----------------------------------------------
+; <L>115261<pc>6-276-a<k1>SrIvaBAsa<k2>SrIvaBAsa
+572011 old {#SrIvaBAsa#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+572011 new {#SrIvaBAsa#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>115510<pc>6-280-a<k1>SrEzWyatama<k2>SrEzWyatama
+573253 old {#SrEzWyatama#}¦ (!) <lex>Adj.</lex> {%der beste unter%} (<ab>Gen.</ab>).
+;
+573253 new {#SrEzWyatama#} (!)¦ <lex>Adj.</lex> {%der beste unter%} (<ab>Gen.</ab>).
+; ----------------------------------------------
+; <L>115567<pc>6-280-c<k1>SroTa<k2>*SroTa
+573501 old *{#SroTa#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Dieners des Sonnengottes.
+;
+573501 new *{#SroTa#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Dieners des Sonnengottes.
+; ----------------------------------------------
+; <L>115810<pc>6-284-b<k1>Svasaya<k2>Svasaya
+574769 old {#Svasaya#}¦ (!) <lex>Adj.</lex> <ls>KAUŚ. 107</ls>.
+;
+574769 new {#Svasaya#} (!)¦ <lex>Adj.</lex> <ls>KAUŚ. 107</ls>.
+; ----------------------------------------------
+; <L>116193<pc>6-289-a<k1>zaqaga<k2>zaqaga
+576534 old {#zaqaga#}¦ (!) <lex>m.</lex> {%eine <ab>best.</ab> Schlange%}.
+;
+576534 new {#zaqaga#} (!)¦ <lex>m.</lex> {%eine <ab>best.</ab> Schlange%}.
+; ----------------------------------------------
+; <L>116798<pc>7-006-a<k1>saMveza<k2>*saMveza
+579424 old *{#saMveza#}¦ (!) <lex>m.</lex> <is>gaṇa</is> {#saMtApAdi#}.
+;
+579424 new *{#saMveza#} (!)¦ <lex>m.</lex> <is>gaṇa</is> {#saMtApAdi#}.
+; ----------------------------------------------
+; <L>117756<pc>7-021-c<k1>sacandrikAprasAda<k2>sacandrikAprasAda
+584149 old {#sacandrikAprasAda#}¦ (!) <lex>m.</lex> Titel eines Werkes <ls>OPP. CAT. 1</ls>.
+;
+584149 new {#sacandrikAprasAda#} (!)¦ <lex>m.</lex> Titel eines Werkes <ls>OPP. CAT. 1</ls>.
+; ----------------------------------------------
+; <L>118006<pc>7-026-c<k1>saRqiSa<k2>*saRqiSa
+585537 old *{#saRqiSa#}¦ (!) <lex>m.</lex> = {#saMdaMSa#} {%Zange%}.
+;
+585537 new *{#saRqiSa#} (!)¦ <lex>m.</lex> = {#saMdaMSa#} {%Zange%}.
+; ----------------------------------------------
+; <L>118029<pc>7-027-a<k1>satadvArAwwAragamantA<k2>satadvArAwwAragamantA
+585629 old {#satadvArAwwAragamantA#}¦ (!) <ls>TAITT. ĀR. 1,31,2</ls>.
+;
+585629 new {#satadvArAwwAragamantA#} (!)¦ <ls>TAITT. ĀR. 1,31,2</ls>.
+; ----------------------------------------------
+; <L>118872<pc>7-039-c<k1>sanUdaparvata<k2>sanUdaparvata
+589753 old {#sanUdaparvata#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines {%Berges%}.
+;
+589753 new {#sanUdaparvata#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines {%Berges%}.
+; ----------------------------------------------
+; <L>119847<pc>7-054-a<k1>samadu<k2>*samadu
+594387 old *{#samadu#}¦ (!) <lex>f.</lex> {%Tochter%}.
+;
+594387 new *{#samadu#} (!)¦ <lex>f.</lex> {%Tochter%}.
+; ----------------------------------------------
+; <L>120366<pc>7-061-b<k1>samAptacinta<k2>*samAptacinta
+596748 old *{#samAptacinta#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+596748 new *{#samAptacinta#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>121011<pc>7-070-b<k1>saMpraduta<k2>*saMpraduta
+599848 old *{#saMpraduta#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes. Man könnte {#saMprahuta#} vermuthen.
+;
+599848 new *{#saMpraduta#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes. Man könnte {#saMprahuta#} vermuthen.
+; ----------------------------------------------
+; <L>121422<pc>7-078-b<k1>sarasaMprata<k2>*sarasaMprata
+602208 old *{#sarasaMprata#}¦ (!) <lex>m.</lex> {%<bot>Asteracantha longifolia</bot>%}.
+;
+602208 new *{#sarasaMprata#} (!)¦ <lex>m.</lex> {%<bot>Asteracantha longifolia</bot>%}.
+; ----------------------------------------------
+; <L>121503<pc>7-079-b<k1>sarudBava<k2>*sarudBava
+602597 old *{#sarudBava#}¦ (!) <lex>n.</lex> {%Lotusblüthe%}.
+;
+602597 new *{#sarudBava#} (!)¦ <lex>n.</lex> {%Lotusblüthe%}.
+; ----------------------------------------------
+; <L>122019<pc>7-088-c<k1>sarvarutasaMgrahiRilipi<k2>sarvarutasaMgrahiRilipi
+605373 old {#sarvarutasaMgrahiRilipi#}¦ (!) <lex>f.</lex> {%eine <ab>best.</ab> Art zu schreiben%}.
+;
+605373 new {#sarvarutasaMgrahiRilipi#} (!)¦ <lex>f.</lex> {%eine <ab>best.</ab> Art zu schreiben%}.
+; ----------------------------------------------
+; <L>122522<pc>7-094-b<k1>saviqAlamBa<k2>saviqAlamBa
+607614 old {#saviqAlamBa#}¦ (!) <lex>n.</lex> <ls>BHĀR. NĀṬYAŚ.</ls> als <ab>Bez.</ab> {%eines <ab>best.</ab> Scherzes%}.
+;
+607614 new {#saviqAlamBa#} (!)¦ <lex>n.</lex> <ls>BHĀR. NĀṬYAŚ.</ls> als <ab>Bez.</ab> {%eines <ab>best.</ab> Scherzes%}.
+; ----------------------------------------------
+; <L>123121<pc>7-103-a<k1>sahasraBujaDyAnarAma<k2>sahasraBujaDyAnarAma
+610399 old {#sahasraBujaDyAnarAma#}¦ (!) <lex>m.</lex> Titel <ls>BURNELL, T. 200,b.</ls> Im Index {#°BujarAmaDyAna#} <lex>n.</lex>
+;
+610399 new {#sahasraBujaDyAnarAma#} (!)¦ <lex>m.</lex> Titel <ls>BURNELL, T. 200,b.</ls> Im Index {#°BujarAmaDyAna#} <lex>n.</lex>
+; ----------------------------------------------
+; <L>123192<pc>7-103-c<k1>sahasraharyASva<k2>*sahasraharyASva
+610707 old *{#sahasraharyASva#}¦ (!) <lex>m.</lex> <is>Indra</is>ʼs {%Wagen%}.
+;
+610707 new *{#sahasraharyASva#} (!)¦ <lex>m.</lex> <is>Indra</is>ʼs {%Wagen%}.
+; ----------------------------------------------
+; <L>123202<pc>7-103-c<k1>sahasrANka<k2>*sahasrANka
+610758 old *{#sahasrANka#}¦ (!) {%die Sonne%}.
+;
+610758 new *{#sahasrANka#} (!)¦ {%die Sonne%}.
+; ----------------------------------------------
+; <L>123434<pc>7-107-b<k1>sAkAMprAttAyana<k2>sAkAMprAttAyana
+611884 old {#sAkAMprAttAyana#}¦ (!) <ab>Patron.</ab> Nur <ab>Pl.</ab>
+;
+611884 new {#sAkAMprAttAyana#} (!)¦ <ab>Patron.</ab> Nur <ab>Pl.</ab>
+; ----------------------------------------------
+; <L>124353<pc>7-121-a<k1>sAraNgajadfS<k2>sAraNgajadfS
+616286 old {#sAraNgajadfS#}¦ (!) <lex>f.</lex> {%eine Gazellenäugige%} <ls>BHĀM. V. 2,74</ls>.
+;
+616286 new {#sAraNgajadfS#} (!)¦ <lex>f.</lex> {%eine Gazellenäugige%} <ls>BHĀM. V. 2,74</ls>.
+; ----------------------------------------------
+; <L>124564<pc>7-123-c<k1>sArvagAmin<k2>sArvagAmin
+617270 old {#sArvagAmin#}¦ (!) <lex>Adj.</lex> nach dem <ab>Comm.</ab> {%in die Weltseele eingehend%} <ls>ĀPAST.</ls>
+;
+617270 new {#sArvagAmin#} (!)¦ <lex>Adj.</lex> nach dem <ab>Comm.</ab> {%in die Weltseele eingehend%} <ls>ĀPAST.</ls>
+; ----------------------------------------------
+; <L>124721<pc>7-125-c<k1>sASayandaka<k2>*sASayandaka
+618013 old *{#sASayandaka#}¦ (!) <lex>m.</lex> {%Eidechse%}.
+;
+618013 new *{#sASayandaka#} (!)¦ <lex>m.</lex> {%Eidechse%}.
+; ----------------------------------------------
+; <L>125141<pc>7-131-b<k1>sidDakalpa<k2>*sidDakalpa
+620101 old *{#sidDakalpa#}¦ (!) <lex>m.</lex> {%eine <ab>best.</ab> Weltperiode%} (<ab>Buddh.</ab>).
+;
+620101 new *{#sidDakalpa#} (!)¦ <lex>m.</lex> {%eine <ab>best.</ab> Weltperiode%} (<ab>Buddh.</ab>).
+; ----------------------------------------------
+; <L>127617<pc>7-163-b<k1>surApin<k2>surApin
+632273 old {#surApin#}¦ (!) <lex>Adj.</lex> <is>Surā</is> {%trinkend%} <ls>BHAṬṬ. 9,36</ls>.
+;
+632273 new {#surApin#} (!)¦ <lex>Adj.</lex> <is>Surā</is> {%trinkend%} <ls>BHAṬṬ. 9,36</ls>.
+; ----------------------------------------------
+; <L>129851<pc>7-191-c<k1>sOganDikAvivaraRa<k2>sOganDikAvivaraRa
+642898 old {#sOganDikAvivaraRa#}¦ (!) <lex>n.</lex> Titel eines <is>Kāvya</is> <ls>OPP. CAT. 1</ls>.
+;
+642898 new {#sOganDikAvivaraRa#} (!)¦ <lex>n.</lex> Titel eines <is>Kāvya</is> <ls>OPP. CAT. 1</ls>.
+; ----------------------------------------------
+; <L>130039<pc>7-194-a<k1>sOmivi<k2>*sOmivi
+643776 old *{#sOmivi#}¦ (!) <lex>m.</lex> <ab>Patron.</ab> Nur <ab>Pl.</ab>
+;
+643776 new *{#sOmivi#} (!)¦ <lex>m.</lex> <ab>Patron.</ab> Nur <ab>Pl.</ab>
+; ----------------------------------------------
+; <L>130040<pc>7-194-a<k1>sOmiSri<k2>sOmiSri
+643780 old {#sOmiSri#}¦ (!) <lex>m.</lex> <ab>desgl.</ab>
+;
+643780 new {#sOmiSri#} (!)¦ <lex>m.</lex> <ab>desgl.</ab>
+; ----------------------------------------------
+; <L>130042<pc>7-194-a<k1>sOmuktivAda<k2>sOmuktivAda
+643790 old {#sOmuktivAda#}¦ (!) <lex>m.</lex> Titel eines <is>Nyāya</is>-Werkes.
+;
+643790 new {#sOmuktivAda#} (!)¦ <lex>m.</lex> Titel eines <is>Nyāya</is>-Werkes.
+; ----------------------------------------------
+; <L>130084<pc>7-195-a<k1>sOrapi<k2>sOrapi
+644024 old {#sOrapi#}¦ (!) <lex>m.</lex> <ab>Patron.</ab> Nur <ab>Pl.</ab>
+;
+644024 new {#sOrapi#} (!)¦ <lex>m.</lex> <ab>Patron.</ab> Nur <ab>Pl.</ab>
+; ----------------------------------------------
+; <L>130289<pc>7-197-c<k1>skanDastamBi<k2>skanDastamBi
+645081 old {#skanDastamBi#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten <ls>VP.² 4,200</ls>.
+;
+645081 new {#skanDastamBi#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten <ls>VP.² 4,200</ls>.
+; ----------------------------------------------
+; <L>130290<pc>7-197-c<k1>skanDasvAti<k2>skanDasvAti
+645085 old {#skanDasvAti#}¦ (!) <lex>m.</lex> <ab>desgl.</ab> <ls>VP.² 4,200. 201</ls>.
+;
+645085 new {#skanDasvAti#} (!)¦ <lex>m.</lex> <ab>desgl.</ab> <ls>VP.² 4,200. 201</ls>.
+; ----------------------------------------------
+; <L>130317<pc>7-198-b<k1>skamBiRya<k2>skamBiRya
+645221 old {#skamBiRya#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes. Vielleicht {#skAmBAyanya#} zu lesen.
+;
+645221 new {#skamBiRya#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes. Vielleicht {#skAmBAyanya#} zu lesen.
+; ----------------------------------------------
+; <L>130427<pc>7-200-a<k1>stabDasaMBAra<k2>*stabDasaMBAra
+645769 old *{#stabDasaMBAra#}¦ (!) <lex>m.</lex> {%ein%} <is>Rākṣasa</is>.
+;
+645769 new *{#stabDasaMBAra#} (!)¦ <lex>m.</lex> {%ein%} <is>Rākṣasa</is>.
+; ----------------------------------------------
+; <L>130647<pc>7-204-b<k1>strAwa<k2>strAwa
+647087 old {#strAwa#}¦ (!) <ls>PAÑCAD.</ls>
+;
+647087 new {#strAwa#} (!)¦ <ls>PAÑCAD.</ls>
+; ----------------------------------------------
+; <L>131470<pc>7-221-c<k1>spASa<k2>spASa
+651860 old {#spASa#}¦ (!) <lex>m.</lex> <ls>PAÑCAT. ed. Bomb. 3,59,3</ls> <ab>v. l.</ab> für {#spaSADyakza#}.
+;
+651860 new {#spASa#} (!)¦ <lex>m.</lex> <ls>PAÑCAT. ed. Bomb. 3,59,3</ls> <ab>v. l.</ab> für {#spaSADyakza#}.
+; ----------------------------------------------
+; <L>131851<pc>7-228-c<k1>sravamI<k2>sravamI
+653970 old {#sravamI#}¦ (!) <lex>Adj.</lex> nach <ls>GARBE</ls> {%krankhaften Harnfluss vermindernd%} <ls>RĀJAN. 13,120</ls>.
+;
+653970 new {#sravamI#} (!)¦ <lex>Adj.</lex> nach <ls>GARBE</ls> {%krankhaften Harnfluss vermindernd%} <ls>RĀJAN. 13,120</ls>.
+; ----------------------------------------------
+; <L>132615<pc>7-240-a<k1>svarRaMjIrI<k2>svarRaMjIrI
+657673 old {#svarRaMjIrI#}¦ (!) <lex>f.</lex> {%eine <ab>best.</ab> Mixtur%}.
+;
+657673 new {#svarRaMjIrI#} (!)¦ <lex>f.</lex> {%eine <ab>best.</ab> Mixtur%}.
+; ----------------------------------------------
+; <L>133471<pc>7-253-b<k1>hanumadIpa<k2>hanumadIpa
+661980 old {#hanumadIpa#}¦ (!) <lex>Adj.</lex> {%von%} <is>Hanumant</is> {%verfasst%}. <lex>n.</lex> als Titel <ls>OPP. CAT. 1</ls>.
+;
+661980 new {#hanumadIpa#} (!)¦ <lex>Adj.</lex> {%von%} <is>Hanumant</is> {%verfasst%}. <lex>n.</lex> als Titel <ls>OPP. CAT. 1</ls>.
+; ----------------------------------------------
+; <L>133637<pc>7-258-c<k1>harikAlAvrata<k2>harikAlAvrata
+663333 old {#harikAlAvrata#}¦ (!) <lex>n.</lex> {%eine <ab>best.</ab> Begehung%}.
+;
+663333 new {#harikAlAvrata#} (!)¦ <lex>n.</lex> {%eine <ab>best.</ab> Begehung%}.
+; ----------------------------------------------
+; <L>133687<pc>7-259-b<k1>hariREgumezin<k2>hariREgumezin
+663583 old {#hariREgumezin#}¦ (!) <ab>N. pr.</ab> eines Wesens im Gefolge <is>Indra</is>ʼs. <ab>Vgl.</ab> {#nEgameza#}.
+;
+663583 new {#hariREgumezin#} (!)¦ <ab>N. pr.</ab> eines Wesens im Gefolge <is>Indra</is>ʼs. <ab>Vgl.</ab> {#nEgameza#}.
+; ----------------------------------------------
+; <L>133861<pc>7-261-c<k1>harivfza<k2>*harivfza
+664426 old *{#harivfza#}¦ (!) <lex>n.</lex> = {#harivarza#} 1〉.
+;
+664426 new *{#harivfza#} (!)¦ <lex>n.</lex> = {#harivarza#} 1〉.
+; ----------------------------------------------
+; <L>134118<pc>7-265-b<k1>havInDra<k2>havInDra
+665775 old {#havInDra#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes <ls>VP.² 3,5</ls>.
+;
+665775 new {#havInDra#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes <ls>VP.² 3,5</ls>.
+; ----------------------------------------------
+; <L>134758<pc>7-275-c<k1>himodaka<k2>himodaka, himodaki
+669142 old {#himodaka#} und {#himodaki#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+669142 new {#himodaka#} und {#himodaki#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>135023<pc>7-279-a<k1>hutAhuta<k2>hutA/huta/
+670411 old {#hutA/huta/#}¦ (!) <lex>Adj.</lex> {%geopfert und (oder) nicht geopfert%} <ls>TBR. 3,7,8,3</ls>. <ls>ĀPAST. ŚR. 14,30,2</ls>.
+;
+670411 new {#hutA/huta/#} (!)¦ <lex>Adj.</lex> {%geopfert und (oder) nicht geopfert%} <ls>TBR. 3,7,8,3</ls>. <ls>ĀPAST. ŚR. 14,30,2</ls>.
+; ----------------------------------------------
+; <L>135498<pc>7-284-c<k1>hEmavant<k2>hEmavant
+672602 old {#hEmavant#}¦ (!) <lex>m.</lex> {%der 8te Monat%}.
+;
+672602 new {#hEmavant#} (!)¦ <lex>m.</lex> {%der 8te Monat%}.
+; ----------------------------------------------
+; <L>135530<pc>7-285-a<k1>hoqar<k2>*hoqar
+672755 old *{#hoqar#}¦ (!) <ab>Nom. ag.</ab> {%Räuber, Wegelagerer%}.
+;
+672755 new *{#hoqar#} (!)¦ <ab>Nom. ag.</ab> {%Räuber, Wegelagerer%}.
+; ----------------------------------------------
+; <L>200097<pc>1-282-c<k1>aKarvan<k2>aKarvan
+674433 old {#aKarvan#}¦ (!) <lex>Adj.</lex> {%unverstümmelt%} <ls>HEMĀDRI 2,a,75,19</ls>.<info n="sup_1"/>
+;
+674433 new {#aKarvan#} (!)¦ <lex>Adj.</lex> {%unverstümmelt%} <ls>HEMĀDRI 2,a,75,19</ls>.<info n="sup_1"/>
+; ----------------------------------------------
+; <L>201414<pc>1-296-a<k1>azwAdiS<k2>azwAdiS
+679710 old {#azwAdiS#}¦ (!) <lex>f.</lex> <ab>Pl.</ab> {%die acht Weltgegenden%} <ls>HEMĀDRI 2,a,61,21</ls>.<info n="sup_1"/>
+;
+679710 new {#azwAdiS#} (!)¦ <lex>f.</lex> <ab>Pl.</ab> {%die acht Weltgegenden%} <ls>HEMĀDRI 2,a,61,21</ls>.<info n="sup_1"/>
+; ----------------------------------------------
+; <L>202345<pc>2-291-a<k1>aBitvamAna<k2>aBitvamAna
+683438 old {#aBitvamAna#}¦ (!) <lex>m.</lex> {%swift messenger%} <ls>J. A. S. Beng. 47,405,35</ls>.<info n="sup_2"/>
+;
+683438 new {#aBitvamAna#} (!)¦ <lex>m.</lex> {%swift messenger%} <ls>J. A. S. Beng. 47,405,35</ls>.<info n="sup_2"/>
+; ----------------------------------------------
+; <L>202831<pc>2-296-b<k1>ekadvfca<k2>ekadvfca/
+685380 old {#ekadvfca/#}¦ (!) {%ein aus einem oder zwei Versen bestehendes Lied%} <ls>AV. 19,23,22</ls>.<info n="sup_2"/>
+;
+685380 new {#ekadvfca/#} (!)¦ {%ein aus einem oder zwei Versen bestehendes Lied%} <ls>AV. 19,23,22</ls>.<info n="sup_2"/>
+; ----------------------------------------------
+; <L>203628<pc>3-250-c<k1>aneva<k2>a/neva
+688569 old {#a/neva#}¦ (!) <lex>Adv.</lex> {%nicht so, anders%} <ls>AV. 16,7,4</ls>.<info n="sup_3"/>
+;
+688569 new {#a/neva#} (!)¦ <lex>Adv.</lex> {%nicht so, anders%} <ls>AV. 16,7,4</ls>.<info n="sup_3"/>
+; ----------------------------------------------
+; <L>205436<pc>4-296-c<k1>udaNIza<k2>udaNIza
+695816 old {#udaNIza#}¦ (!) <lex>Adj.</lex> {%mit der Deichsel nach Norden%} <ls>ĀPAST.</ls> im <ls><ab>Comm.</ab> zu KĀTY. ŚR. 7,9,25</ls>.<info n="sup_4"/>
+;
+695816 new {#udaNIza#} (!)¦ <lex>Adj.</lex> {%mit der Deichsel nach Norden%} <ls>ĀPAST.</ls> im <ls><ab>Comm.</ab> zu KĀTY. ŚR. 7,9,25</ls>.<info n="sup_4"/>
+; ----------------------------------------------
+; <L>205533<pc>4-297-c<k1>kArya<k2>2. kArya^
+696204 old <hom>2.</hom> {#kArya^#}¦ (!) <lex>Adj.</lex> (<lex>f.</lex> {#A^#}) {%zu kaufen%} <ls>MAITR. S. 2,4,2 (39,4. 5)</ls>.<info n="sup_4"/>
+;
+696204 new <hom>2.</hom> {#kArya^#} (!)¦ <lex>Adj.</lex> (<lex>f.</lex> {#A^#}) {%zu kaufen%} <ls>MAITR. S. 2,4,2 (39,4. 5)</ls>.<info n="sup_4"/>
+; ----------------------------------------------
+; <L>205878<pc>4-301-c<k1>partvA<k2>pa/rtvA
+697589 old {#pa/rtvA#}¦ (!) <ls>TS. 7,5,1,2</ls> angeblich = {#prItiM prApya#}.<info n="sup_4"/>
+;
+697589 new {#pa/rtvA#} (!)¦ <ls>TS. 7,5,1,2</ls> angeblich = {#prItiM prApya#}.<info n="sup_4"/>
+; ----------------------------------------------
+; <L>206287<pc>5-243-c<k1>apayARya<k2>apayARya
+699223 old {#apayARya#}¦ (!) <lex>n.</lex> <ls>VASIṢṬHA 15,19</ls> nach <ls>BÜHLER</ls> {%das Abbüssen einer Sünde%}.<info n="sup_5"/>
+;
+699223 new {#apayARya#} (!)¦ <lex>n.</lex> <ls>VASIṢṬHA 15,19</ls> nach <ls>BÜHLER</ls> {%das Abbüssen einer Sünde%}.<info n="sup_5"/>
+; ----------------------------------------------
+; <L>206456<pc>5-245-c<k1>arhadatta<k2>arhadatta
+699900 old {#arhadatta#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines <is>Jaina</is>-Lehrers <ls>VARDHAMĀNAC. 1,51</ls>.<info n="sup_5"/>
+;
+699900 new {#arhadatta#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines <is>Jaina</is>-Lehrers <ls>VARDHAMĀNAC. 1,51</ls>.<info n="sup_5"/>
+; ----------------------------------------------
+; <L>206729<pc>5-248-c<k1>AkowanA<k2>AkowanA
+700992 old {#AkowanA#}¦ (!) <lex>f.</lex> {%Bestrafung%} <ls>ASAHĀYA</ls> zu <ls>NĀRADA</ls>.<info n="sup_5"/>
+;
+700992 new {#AkowanA#} (!)¦ <lex>f.</lex> {%Bestrafung%} <ls>ASAHĀYA</ls> zu <ls>NĀRADA</ls>.<info n="sup_5"/>
+; ----------------------------------------------
+; <L>209167<pc>6-304-a<k1>prAnUna<k2>prAnUna
+710771 old {#prAnUna#}¦ (!) <lex>m.</lex> <ab>Pl.</ab> <ab>N. pr.</ab> eines Volkes <ls>BAUDH. 1,2,14</ls>.<info n="sup_6"/>
+;
+710771 new {#prAnUna#} (!)¦ <lex>m.</lex> <ab>Pl.</ab> <ab>N. pr.</ab> eines Volkes <ls>BAUDH. 1,2,14</ls>.<info n="sup_6"/>
+; ----------------------------------------------
+; <L>209843<pc>7-291-c<k1>aNgArakA<k2>aNgArakA
+713472 old {#aNgArakA#}¦ (!) <lex>f.</lex> <ab>N. pr.</ab> einer <is>Rākṣasī</is> <ls>R. ed. Bomb. 4,41,26</ls>.<info n="sup_7"/>
+;
+713472 new {#aNgArakA#} (!)¦ <lex>f.</lex> <ab>N. pr.</ab> einer <is>Rākṣasī</is> <ls>R. ed. Bomb. 4,41,26</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>214207<pc>7-318-d<k1>ABAradvAja<k2>ABAradvAja
+730957 old {#ABAradvAja#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes <ls>MAITR. S. 3,10,4 (135,8)</ls>.<info n="sup_7"/>
+;
+730957 new {#ABAradvAja#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes <ls>MAITR. S. 3,10,4 (135,8)</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>215276<pc>7-326-b<k1>UrRAparikarmaRa<k2>*UrRAparikarmaRa
+735258 old *{#UrRAparikarmaRa#}¦ (!) <lex>m.</lex> {%das Waschenlassen%} <ab>u. s. w.</ab> {%von Wolle durch nichtverwandte Frauen%} <ls>MAHĀVY. 260</ls>.<info n="sup_7"/>
+;
+735258 new *{#UrRAparikarmaRa#} (!)¦ <lex>m.</lex> {%das Waschenlassen%} <ab>u. s. w.</ab> {%von Wolle durch nichtverwandte Frauen%} <ls>MAHĀVY. 260</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>216610<pc>7-336-a<k1>kzemaRIya<k2>kzemaRIya
+740642 old {#kzemaRIya#}¦ (!) <lex>Adj.</lex> <ab>Compar.</ab> {#°tara#} {%behaglicher, von besserer Gesundheit%} <ls>DIVYĀVAD. 110,2</ls>.<info n="sup_7"/>
+;
+740642 new {#kzemaRIya#} (!)¦ <lex>Adj.</lex> <ab>Compar.</ab> {#°tara#} {%behaglicher, von besserer Gesundheit%} <ls>DIVYĀVAD. 110,2</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>217057<pc>7-339-d<k1>glaTamlaTa<k2>*glaTamlaTa
+742459 old *{#glaTamlaTa#}¦ (!) <lex>m.</lex> <ls>MAHĀVY. 245,1166</ls>.<info n="sup_7"/>
+;
+742459 new *{#glaTamlaTa#} (!)¦ <lex>m.</lex> <ls>MAHĀVY. 245,1166</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>217439<pc>7-342-c<k1>jaGna<k2>jaGna
+744003 old {#jaGna#}¦ (!) <lex>Adj.</lex> {%verletzt%} <ls>DIVYĀVAD. 599,13</ls>.<info n="sup_7"/>
+;
+744003 new {#jaGna#} (!)¦ <lex>Adj.</lex> {%verletzt%} <ls>DIVYĀVAD. 599,13</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>217642<pc>7-344-b<k1>jyotizmati<k2>*jyotizmati
+744825 old *{#jyotizmati#}¦ (!) <lex>m.</lex> <ab>N. pr.</ab> eines <is>Bodhisattva</is> <ls>MAHĀVY. 23,54</ls>.<info n="sup_7"/>
+;
+744825 new *{#jyotizmati#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines <is>Bodhisattva</is> <ls>MAHĀVY. 23,54</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>218009<pc>7-347-a<k1>tvadAnIm<k2>tvadAnIm
+746307 old {#tvadAnIm#}¦ (!) <ls>MAITR. S. 4,2,2 (23,12)</ls>. <ab>Vgl.</ab> {#idAnIm#} und {#tadAnIm#}.<info n="sup_7"/>
+;
+746307 new {#tvadAnIm#} (!)¦ <ls>MAITR. S. 4,2,2 (23,12)</ls>. <ab>Vgl.</ab> {#idAnIm#} und {#tadAnIm#}.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>218777<pc>7-353-b<k1>nirmimitsA<k2>nirmimitsA
+749426 old {#nirmimitsA#}¦ (!) <lex>f.</lex> {%der Wunsch zu schaffen%} <ls><ab>Comm.</ab> zu YOGAS. 4,4</ls>.<info n="sup_7"/>
+;
+749426 new {#nirmimitsA#} (!)¦ <lex>f.</lex> {%der Wunsch zu schaffen%} <ls><ab>Comm.</ab> zu YOGAS. 4,4</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>218971<pc>7-355-a<k1>pakzaMbfhat<k2>pakzaM/bfhat
+750213 old {#pakzaM/bfhat#}¦ (!) <ls>MAITR. S. 3,2,4 (21,2)</ls>.<info n="sup_7"/>
+;
+750213 new {#pakzaM/bfhat#} (!)¦ <ls>MAITR. S. 3,2,4 (21,2)</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>219130<pc>7-356-c<k1>parigreDa<k2>*parigreDa
+750866 old *{#parigreDa#}¦ (!) <lex>m.</lex> {%Gier, Begierde%} <ls>MAHĀVY. 111,10</ls>.<info n="sup_7"/>
+;
+750866 new *{#parigreDa#} (!)¦ <lex>m.</lex> {%Gier, Begierde%} <ls>MAHĀVY. 111,10</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>219163<pc>7-356-d<k1>pariBogya<k2>pariBogya
+750998 old {#pariBogya#}¦ (!) <lex>n.</lex> {%Gebrauch%} <ls>DIVYĀVAD. 275,21</ls>.<info n="sup_7"/>
+;
+750998 new {#pariBogya#} (!)¦ <lex>n.</lex> {%Gebrauch%} <ls>DIVYĀVAD. 275,21</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>219189<pc>7-356-d<k1>parisamohana<k2>parisamohana
+751102 old {#parisamohana#}¦ (!) <lex>n.</lex> = {#parisamUhana#} <ls>DAŚAK.</ls> zu <ls>KAUŚ. 57,22</ls>.<info n="sup_7"/>
+;
+751102 new {#parisamohana#} (!)¦ <lex>n.</lex> = {#parisamUhana#} <ls>DAŚAK.</ls> zu <ls>KAUŚ. 57,22</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>219439<pc>7-359-a<k1>puroBaktakA<k2>puroBaktakA
+752106 old {#puroBaktakA#}¦ (!) <lex>f.</lex> {%Frühmahl%} <ls>DIVYĀVAD. 307,2. fgg.</ls><info n="sup_7"/>
+;
+752106 new {#puroBaktakA#} (!)¦ <lex>f.</lex> {%Frühmahl%} <ls>DIVYĀVAD. 307,2. fgg.</ls><info n="sup_7"/>
+; ----------------------------------------------
+; <L>220224<pc>7-365-d<k1>BEkzAkula<k2>BEkzAkula
+755260 old {#BEkzAkula#}¦ (!) <lex>n.</lex> {%ein Haus, in dem Almosen gereicht werden,%} <ls>DIVYĀVAD. 263,2</ls>.<info n="sup_7"/>
+;
+755260 new {#BEkzAkula#} (!)¦ <lex>n.</lex> {%ein Haus, in dem Almosen gereicht werden,%} <ls>DIVYĀVAD. 263,2</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>220341<pc>7-366-d<k1>manizWakA<k2>*manizWakA
+755736 old *{#manizWakA#}¦ (!) <lex>f.</lex> {%der kleine Finger%} <ls>MAHĀVY. 189,53</ls>.<info n="sup_7"/>
+;
+755736 new *{#manizWakA#} (!)¦ <lex>f.</lex> {%der kleine Finger%} <ls>MAHĀVY. 189,53</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>220595<pc>7-369-a<k1>mElatrata<k2>mElatrata
+756763 old {#mElatrata#}¦ (!) <lex>n.</lex> {%eine <ab>best.</ab> Begehung des%} <is>Brahmacārin</is> <ls>AV. PADDH.</ls> zu <ls>KAUŚ. 57</ls>.<info n="sup_7"/>
+;
+756763 new {#mElatrata#} (!)¦ <lex>n.</lex> {%eine <ab>best.</ab> Begehung des%} <is>Brahmacārin</is> <ls>AV. PADDH.</ls> zu <ls>KAUŚ. 57</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>220624<pc>7-369-b<k1>yajYapuruzAsaMmita<k2>yajYapuruzAsaM/mita
+756879 old {#yajYapuruzAsaM/mita#}¦ (!) <lex>Adj.</lex> <ls>MAITR. S. 3,1,2 (3,3). 7 (9,8)</ls>.<info n="sup_7"/>
+;
+756879 new {#yajYapuruzAsaM/mita#} (!)¦ <lex>Adj.</lex> <ls>MAITR. S. 3,1,2 (3,3). 7 (9,8)</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>220699<pc>7-370-b<k1>yugmadayuja<k2>yu/gmadayuja/
+757189 old {#yu/gmadayuja/#}¦ (!) <lex>Adj.</lex> <ab>Du.</ab> {%paarig und unpaarig%} <ls>MAITR. S. 3,4,2 (46,12)</ls>.<info n="sup_7"/>
+;
+757189 new {#yu/gmadayuja/#} (!)¦ <lex>Adj.</lex> <ab>Du.</ab> {%paarig und unpaarig%} <ls>MAITR. S. 3,4,2 (46,12)</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>221118<pc>7-374-b<k1>vitkowikA<k2>vitkowikA
+758907 old {#vitkowikA#}¦ (!) <lex>f.</lex> {%ein <ab>best.</ab> Kinderspiel%} <ls>DIVYĀVAD. 475,18</ls>.<info n="sup_7"/>
+;
+758907 new {#vitkowikA#} (!)¦ <lex>f.</lex> {%ein <ab>best.</ab> Kinderspiel%} <ls>DIVYĀVAD. 475,18</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>221350<pc>7-376-d<k1>vyapatrApya<k2>vyapatrApya
+759836 old {#vyapatrApya#}¦ (!) <lex>n.</lex> {%Schüchternheit%} <ls>DIVYĀVAD. 255,17</ls>.<info n="sup_7"/>
+;
+759836 new {#vyapatrApya#} (!)¦ <lex>n.</lex> {%Schüchternheit%} <ls>DIVYĀVAD. 255,17</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>221765<pc>7-381-b<k1>saMprajanya<k2>saMprajanya
+761511 old {#saMprajanya#}¦ (!) <lex>n.</lex> {%volles Bewusstsein%} <ls>DIVYĀVAD. 654,27</ls>. <ls n="DIVYĀVAD.">655,3</ls>.<info n="sup_7"/>
+;
+761511 new {#saMprajanya#} (!)¦ <lex>n.</lex> {%volles Bewusstsein%} <ls>DIVYĀVAD. 654,27</ls>. <ls n="DIVYĀVAD.">655,3</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>221766<pc>7-381-b<k1>saMprajAna<k2>*saMprajAna
+761515 old *{#saMprajAna#}¦ (!) <ab>dass.</ab> <ls>MAHĀVY. 281</ls>.<info n="sup_7"/>
+;
+761515 new *{#saMprajAna#} (!)¦ <ab>dass.</ab> <ls>MAHĀVY. 281</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>221845<pc>7-382-b<k1>sahasrapozapuzi<k2>sahasrapozapu/zi
+761842 old {#sahasrapozapu/zi#}¦ (!) <lex>Adj.</lex> <ls>MAITR. S. 1,5,10 (79,5. 6)</ls>.<info n="sup_7"/>
+;
+761842 new {#sahasrapozapu/zi#} (!)¦ <lex>Adj.</lex> <ls>MAITR. S. 1,5,10 (79,5. 6)</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>222174<pc>7-385-d<k1>aparitta<k2>a/paritta
+763164 old {#a/paritta#}¦ (!) <lex>Adj.</lex> {%nicht übergeben%} <ls>MAITR. S. 3,1,8 (11,2)</ls>.<info n="sup_7"/>
+;
+763164 new {#a/paritta#} (!)¦ <lex>Adj.</lex> {%nicht übergeben%} <ls>MAITR. S. 3,1,8 (11,2)</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; ******************************************************
+; cat=1:b: 19 changes
+; ******************************************************
+; <L>30647<pc>2-098-c<k1>kenatI<k2>*kenatI
+146150 old *{#kenatI#}¦(!) <lex>f.</lex> <ab>Bein.</ab> von <is>Kāma</is>ʼs Gattin.
+;
+146150 new *{#kenatI#} (!)¦ <lex>f.</lex> <ab>Bein.</ab> von <is>Kāma</is>ʼs Gattin.
+; ----------------------------------------------
+; <L>42843<pc>2-268-a<k1>jindurAja<k2>jindurAja, jindurAjya
+208756 old {#jindurAja#} und {#°rAjya#}¦(!) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+208756 new {#jindurAja#} und {#°rAjya#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>49624<pc>3-081-a<k1>dAdin<k2>*dAdin
+243141 old *{#dAdin#}¦(!) <lex>Adj.</lex> {%gebend%}.
+;
+243141 new *{#dAdin#} (!)¦ <lex>Adj.</lex> {%gebend%}.
+; ----------------------------------------------
+; <L>51713<pc>3-108-b<k1>dussaTa<k2>*dussaTa
+253259 old *{#dussaTa#}¦(!) <lex>m.</lex> {%Hahn oder Hund%}.
+;
+253259 new *{#dussaTa#} (!)¦ <lex>m.</lex> {%Hahn oder Hund%}.
+; ----------------------------------------------
+; <L>51785<pc>3-109-b<k1>dUpra<k2>*dUpra
+253616 old *{#dUpra#}¦(!) <lex>Adj.</lex> {%stark%}. <ab>Vgl.</ab> {#dfpra#}.
+;
+253616 new *{#dUpra#} (!)¦ <lex>Adj.</lex> {%stark%}. <ab>Vgl.</ab> {#dfpra#}.
+; ----------------------------------------------
+; <L>51945<pc>3-111-c<k1>dfqaka<k2>*dfqaka
+254360 old *{#dfqaka#}¦(!) <lex>n.</lex> {%a fire place, or hole made in the ground for cooking%}.
+;
+254360 new *{#dfqaka#} (!)¦ <lex>n.</lex> {%a fire place, or hole made in the ground for cooking%}.
+; ----------------------------------------------
+; <L>53229<pc>3-126-c<k1>dyumnodA<k2>dyumnodA
+260340 old {#dyumnodA#}¦(!) <lex>Adj.</lex> {%Glanz verleihend%}.
+;
+260340 new {#dyumnodA#} (!)¦ <lex>Adj.</lex> {%Glanz verleihend%}.
+; ----------------------------------------------
+; <L>53798<pc>3-134-a<k1>dvi<k2>2. dvi
+263107 old <hom>2.</hom> {#dvi#}¦(!) <lex>n.</lex> <ab>Sg.</ab> {%Tage%}.
+;
+263107 new <hom>2.</hom> {#dvi#} (!)¦ <lex>n.</lex> <ab>Sg.</ab> {%Tage%}.
+; ----------------------------------------------
+; <L>54137<pc>3-138-a<k1>dvizaRqika<k2>*dvizaRqika
+264660 old *{#dvizaRqika#}¦(!) <lex>m.</lex> {%ein vor Wind und Kälte schützendes Kleidungsstück%}.
+;
+264660 new *{#dvizaRqika#} (!)¦ <lex>m.</lex> {%ein vor Wind und Kälte schützendes Kleidungsstück%}.
+; ----------------------------------------------
+; <L>55511<pc>3-162-c<k1>DuSulyA<k2>DuSulyA
+272078 old {#DuSulyA#}¦(!) <lex>f.</lex> <ab>N. pr.</ab> eines Flusses.
+;
+272078 new {#DuSulyA#} (!)¦ <lex>f.</lex> <ab>N. pr.</ab> eines Flusses.
+; ----------------------------------------------
+; <L>56511<pc>3-176-b<k1>nanAnanatAyin<k2>nanAnanatAyin
+277114 old {#nanAnanatAyin#}¦(!) <ls>Ind. St. 2,28, N.</ls>
+;
+277114 new {#nanAnanatAyin#} (!)¦ <ls>Ind. St. 2,28, N.</ls>
+; ----------------------------------------------
+; <L>56739<pc>3-181-a<k1>namonama<k2>na/monama
+278491 old {#na/monama#}¦(!) <lex>Adj.</lex> <ls>MAITR. S. 2,9,10</ls>. <ab>Vgl.</ab> {#na/maHSiva#}.
+;
+278491 new {#na/monama#} (!)¦ <lex>Adj.</lex> <ls>MAITR. S. 2,9,10</ls>. <ab>Vgl.</ab> {#na/maHSiva#}.
+; ----------------------------------------------
+; <L>60174<pc>3-227-a<k1>nizwavESya<k2>nizwavESya
+295045 old {#nizwavESya#}¦(!) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+295045 new {#nizwavESya#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>60614<pc>3-234-b<k1>nIrindu<k2>*nIrindu
+297352 old *{#nIrindu#}¦(!) <lex>m.</lex> {%ein <ab>best.</ab> Pflanze%}.
+;
+297352 new *{#nIrindu#} (!)¦ <lex>m.</lex> {%ein <ab>best.</ab> Pflanze%}.
+; ----------------------------------------------
+; <L>95174<pc>5-207-b<k1>rohitAyana<k2>rohitAyana
+469756 old {#rohitAyana#}¦(!) <lex>m.</lex> <ab>Patron.</ab> Auch <ab>Pl.</ab>
+;
+469756 new {#rohitAyana#} (!)¦ <lex>m.</lex> <ab>Patron.</ab> Auch <ab>Pl.</ab>
+; ----------------------------------------------
+; <L>96007<pc>5-222-c<k1>lAGarakolasa<k2>lAGarako'lasa
+474326 old {#lAGarako'lasa#}¦(!) <lex>m.</lex> {%eine <ab>best.</ab> Form der Gelbsucht%}.
+;
+474326 new {#lAGarako'lasa#} (!)¦ <lex>m.</lex> {%eine <ab>best.</ab> Form der Gelbsucht%}.
+; ----------------------------------------------
+; <L>96099<pc>5-223-c<k1>lArga<k2>lArga
+474775 old {#lArga#}¦(!) <lex>m.</lex> <ab>Pl.</ab> <ab>N. pr.</ab> eines Volkes <ls>VP. 22,171</ls>.
+;
+474775 new {#lArga#} (!)¦ <lex>m.</lex> <ab>Pl.</ab> <ab>N. pr.</ab> eines Volkes <ls>VP. 22,171</ls>.
+; ----------------------------------------------
+; <L>96166<pc>5-224-c<k1>lAsPowanI<k2>*lAsPowanI
+475094 old *{#lAsPowanI#}¦(!) <lex>f.</lex> = {#AsPowanI#}.
+;
+475094 new *{#lAsPowanI#} (!)¦ <lex>f.</lex> = {#AsPowanI#}.
+; ----------------------------------------------
+; <L>103602<pc>6-106-b<k1>viBarawwa<k2>*viBarawwa
+514132 old *{#viBarawwa#}¦(!) <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten. <ab>Vgl.</ab> {#viBarata#}.
+;
+514132 new *{#viBarawwa#} (!)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten. <ab>Vgl.</ab> {#viBarata#}.
+; ----------------------------------------------
+; ******************************************************
+; cat=1:c: 138 changes
+; ******************************************************
+; <L>1140<pc>1-014-a<k1>acintendravara<k2>acintendravara
+5244 old {#acintendravara#}¦ (?) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes. <ls>B. A. J. 10,54,16</ls>.
+;
+5244 new {#acintendravara#} (?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes. <ls>B. A. J. 10,54,16</ls>.
+; ----------------------------------------------
+; <L>3351<pc>1-039-c<k1>anantakAya<k2>anantakAya
+15251 old {#anantakAya#}¦ (?) <ls>HEM. YOG. 3,6,46</ls>.
+;
+15251 new {#anantakAya#} (?)¦ <ls>HEM. YOG. 3,6,46</ls>.
+; ----------------------------------------------
+; <L>13712<pc>1-162-b<k1>AgrAvasavIya<k2>AgrAvasavIya
+62927 old {#AgrAvasavIya#}¦ (?) <lex>Adj.</lex> <ls>Ind. St. 3,259</ls>.
+;
+62927 new {#AgrAvasavIya#} (?)¦ <lex>Adj.</lex> <ls>Ind. St. 3,259</ls>.
+; ----------------------------------------------
+; <L>13985<pc>1-165-b<k1>Awikya<k2>Awikya
+64139 old {#Awikya#}¦ (?) <lex>Adj.</lex> {%auf der Wanderung begriffen%}.
+;
+64139 new {#Awikya#} (?)¦ <lex>Adj.</lex> {%auf der Wanderung begriffen%}.
+; ----------------------------------------------
+; <L>14524<pc>1-171-c<k1>Adrava<k2>Adrava
+66616 old {#Adrava#}¦ (?) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+66616 new {#Adrava#} (?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>18455<pc>1-225-c<k1>utpozaDa<k2>utpozaDa
+86125 old {#utpozaDa#}¦ (?) <lex>m.</lex> <ab>N. pr.</ab> eines alten Königs (<ab>buddh.</ab>).
+;
+86125 new {#utpozaDa#} (?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines alten Königs (<ab>buddh.</ab>).
+; ----------------------------------------------
+; <L>20625<pc>1-252-a<k1>urukzepa<k2>urukzepa
+96558 old {#urukzepa#}¦ (?) <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten.
+;
+96558 new {#urukzepa#} (?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten.
+; ----------------------------------------------
+; <L>25054<pc>2-027-b<k1>karRASva<k2>karRASva
+118330 old {#karRASva#}¦ (?) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+118330 new {#karRASva#} (?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>25915<pc>2-041-a<k1>kasAras<k2>kasAras
+123060 old {#kasAras#}¦ (?) <lex>m.</lex> {%ein <ab>best.</ab> Vogel%}.
+;
+123060 new {#kasAras#} (?)¦ <lex>m.</lex> {%ein <ab>best.</ab> Vogel%}.
+; ----------------------------------------------
+; <L>32395<pc>2-123-a<k1>kzarapattrA<k2>*kzarapattrA
+155134 old *{#kzarapattrA#}¦ (?) <lex>f.</lex> {%ein <ab>best.</ab> kleiner Strauch%}.
+;
+155134 new *{#kzarapattrA#} (?)¦ <lex>f.</lex> {%ein <ab>best.</ab> kleiner Strauch%}.
+; ----------------------------------------------
+; <L>34830<pc>2-157-b<k1>garteSa<k2>garteSa
+167812 old {#garteSa#}¦ (?) <lex>m.</lex> <ls>Lot. de la b. l. 502</ls>.
+;
+167812 new {#garteSa#} (?)¦ <lex>m.</lex> <ls>Lot. de la b. l. 502</ls>.
+; ----------------------------------------------
+; <L>36850<pc>2-183-c<k1>gorava<k2>*gorava
+177770 old *{#gorava#}¦ (?) <lex>m.</lex> {%Safran%}.
+;
+177770 new *{#gorava#} (?)¦ <lex>m.</lex> {%Safran%}.
+; ----------------------------------------------
+; <L>37108<pc>2-186-b<k1>gOtamasa<k2>gOtamasa
+178971 old {#gOtamasa#}¦ (?) <lex>Adj.</lex> mit {#arka#} <lex>m.</lex> Name verschiedener <is>Sāman</is>.
+;
+178971 new {#gOtamasa#} (?)¦ <lex>Adj.</lex> mit {#arka#} <lex>m.</lex> Name verschiedener <is>Sāman</is>.
+; ----------------------------------------------
+; <L>39796<pc>2-226-a<k1>cikaSa<k2>cikaSa
+193241 old {#cikaSa#}¦ (?) <ls>KAUŚ. 21</ls>.
+;
+193241 new {#cikaSa#} (?)¦ <ls>KAUŚ. 21</ls>.
+; ----------------------------------------------
+; <L>40366<pc>2-233-b<k1>cIraRIya<k2>cIraRIya
+196103 old {#cIraRIya#}¦ (?) {%ein <ab>best.</ab> Spiel%} <ls>Ind. St. 15,419</ls>.
+;
+196103 new {#cIraRIya#} (?)¦ {%ein <ab>best.</ab> Spiel%} <ls>Ind. St. 15,419</ls>.
+; ----------------------------------------------
+; <L>41590<pc>2-252-a<k1>janIya<k2>*janIya
+202577 old *{#janIya#}¦ (?) <lex>Adj.</lex> von {#janyA#}.
+;
+202577 new *{#janIya#} (?)¦ <lex>Adj.</lex> von {#janyA#}.
+; ----------------------------------------------
+; <L>41673<pc>2-253-a<k1>janyIya<k2>*janyIya
+202985 old *{#janyIya#}¦ (?) <lex>Adj.</lex> von {#janyA#}.
+;
+202985 new *{#janyIya#} (?)¦ <lex>Adj.</lex> von {#janyA#}.
+; ----------------------------------------------
+; <L>41824<pc>2-255-b<k1>jayaraTa<k2>jayaraTa
+203804 old {#jayaraTa#}¦ (?) <lex>m.</lex> <ab>N. pr.</ab> eines Autors.
+;
+203804 new {#jayaraTa#} (?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Autors.
+; ----------------------------------------------
+; <L>42771<pc>2-267-a<k1>jijYAsTi<k2>*jijYAsTi
+208427 old *{#jijYAsTi#}¦ (?) <is>gaṇa</is> {#rAjadantAdi#}.
+;
+208427 new *{#jijYAsTi#} (?)¦ <is>gaṇa</is> {#rAjadantAdi#}.
+; ----------------------------------------------
+; <L>42838<pc>2-268-a<k1>jinendraBUti<k2>jinendraBUti
+208734 old {#jinendraBUti#}¦ (?) <lex>m.</lex> = {#jinendrabudDi#}.
+;
+208734 new {#jinendraBUti#} (?)¦ <lex>m.</lex> = {#jinendrabudDi#}.
+; ----------------------------------------------
+; <L>43912<pc>2-283-b<k1>qambura<k2>qambura
+214263 old {#qambura#}¦ (?) <ls>HEMĀDRI 1,638,10</ls>.
+;
+214263 new {#qambura#} (?)¦ <ls>HEMĀDRI 1,638,10</ls>.
+; ----------------------------------------------
+; <L>44422<pc>3-008-a<k1>tanuvAraBasa<k2>*tanuvAraBasa
+216911 old *{#tanuvAraBasa#}¦ (?) <lex>m.</lex> {%ein gepanzerter Krieger%}.
+;
+216911 new *{#tanuvAraBasa#} (?)¦ <lex>m.</lex> {%ein gepanzerter Krieger%}.
+; ----------------------------------------------
+; <L>45508<pc>3-025-a<k1>tArtIyika<k2>tArtIyika
+222788 old {#tArtIyika#}¦ (?) <ls>Ind. St. 2,248</ls>.
+;
+222788 new {#tArtIyika#} (?)¦ <ls>Ind. St. 2,248</ls>.
+; ----------------------------------------------
+; <L>45670<pc>3-027-b<k1>tigala<k2>tigala
+223617 old {#tigala#}¦ (?) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+223617 new {#tigala#} (?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>47583<pc>3-051-c<k1>tripuRqra<k2>tripuRqra, tripuRqraka, tripuRQra
+232883 old {#tripuRqra#}, {#°ka#} und {#°puRQra#}¦ (?) <lex>n.</lex> {%drei auf verschiedenen Theilen des Körpers,%} <ab>insbes.</ab> {%auf der Stirn%} ({%bei den%} <is>Śiva</is>-{%Verehrern%}) {%mit Asche aufgetragene Striche%}.
+;
+232883 new {#tripuRqra#}, {#°ka#} und {#°puRQra#} (?)¦ <lex>n.</lex> {%drei auf verschiedenen Theilen des Körpers,%} <ab>insbes.</ab> {%auf der Stirn%} ({%bei den%} <is>Śiva</is>-{%Verehrern%}) {%mit Asche aufgetragene Striche%}.
+; ----------------------------------------------
+; <L>47960<pc>3-056-a<k1>triHsAman<k2>triHsAman
+234632 old {#triHsAman#}¦ (?) <lex>n.</lex> Name eines <is>Sāman</is>.
+;
+234632 new {#triHsAman#} (?)¦ <lex>n.</lex> Name eines <is>Sāman</is>.
+; ----------------------------------------------
+; <L>49958<pc>3-085-a<k1>dASya<k2>*dASya
+244723 old *{#dASya#}¦ (?) <lex>Adj.</lex> von {#daSa#} (?).
+;
+244723 new *{#dASya#} (?)¦ <lex>Adj.</lex> von {#daSa#} (?).
+; ----------------------------------------------
+; <L>54877<pc>3-149-a<k1>DarmaSrezWin<k2>*DarmaSrezWin
+268416 old *{#DarmaSrezWin#}¦ (?) <lex>m.</lex> <ab>N. pr.</ab> eines <ab>buddh.</ab> <is>Arhant</is>ʼs.
+;
+268416 new *{#DarmaSrezWin#} (?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines <ab>buddh.</ab> <is>Arhant</is>ʼs.
+; ----------------------------------------------
+; <L>57404<pc>3-189-c<k1>nAganABa<k2>nAganABa
+281724 old {#nAganABa#}¦ (?) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+281724 new {#nAganABa#} (?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>57470<pc>3-190-c<k1>nAgarIwa<k2>*nAgarIwa
+282053 old *{#nAgarIwa#}¦ (?) <lex>m.</lex> {%Wüstling%}.
+;
+282053 new *{#nAgarIwa#} (?)¦ <lex>m.</lex> {%Wüstling%}.
+; ----------------------------------------------
+; <L>57984<pc>3-197-b<k1>nArAyaRagupta<k2>nArAyaRagupta
+284447 old {#nArAyaRagupta#}¦ (?) <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten.
+;
+284447 new {#nArAyaRagupta#} (?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten.
+; ----------------------------------------------
+; <L>58047<pc>3-198-a<k1>nAropAyana<k2>nAropAyana
+284729 old {#nAropAyana#}¦ (?) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes. <ab>Pl.</ab> {%sein Geschlecht%}.
+;
+284729 new {#nAropAyana#} (?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes. <ab>Pl.</ab> {%sein Geschlecht%}.
+; ----------------------------------------------
+; <L>58110<pc>3-198-c<k1>nASaSata<k2>*nASaSata
+285046 old *{#nASaSata#}¦ (?) <lex>m.</lex> <ab>N. pr.</ab> eines <ab>buddh.</ab> Patriarchen.
+;
+285046 new *{#nASaSata#} (?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines <ab>buddh.</ab> Patriarchen.
+; ----------------------------------------------
+; <L>60801<pc>3-236-c<k1>nIvan<k2>*nIvan
+298278 old *{#nIvan#}¦ (?) <lex>m.</lex> <ab>N. pr.</ab> eines Rosses des Mondgottes.
+;
+298278 new *{#nIvan#} (?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Rosses des Mondgottes.
+; ----------------------------------------------
+; <L>61462<pc>3-245-a<k1>nyAyakokila<k2>*nyAyakokila
+301418 old *{#nyAyakokila#}¦ (?) <lex>m.</lex> <ab>N. pr.</ab> eines <ab>buddh.</ab> Lehrers.
+;
+301418 new *{#nyAyakokila#} (?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines <ab>buddh.</ab> Lehrers.
+; ----------------------------------------------
+; <L>64095<pc>4-042-c<k1>parimARya<k2>parimARya
+314990 old {#parimARya#}¦ (?) <lex>n.</lex> {%Umfang%} <ls>Verz. d. Oxf. H. 48,b,2</ls>. <ab>Vgl.</ab> {#pAri°#}.
+;
+314990 new {#parimARya#} (?)¦ <lex>n.</lex> {%Umfang%} <ls>Verz. d. Oxf. H. 48,b,2</ls>. <ab>Vgl.</ab> {#pAri°#}.
+; ----------------------------------------------
+; <L>64577<pc>4-049-b<k1>paredyus<k2>*paredyus
+317286 old *{#paredyus#}¦ (?) <lex>Adv.</lex> <ab>dass.</ab>
+;
+317286 new *{#paredyus#} (?)¦ <lex>Adv.</lex> <ab>dass.</ab>
+; ----------------------------------------------
+; <L>66379<pc>4-074-b<k1>pArihAriRI<k2>*pArihAriRI
+326134 old *{#pArihAriRI#}¦ (?) <ls>DEŚĪN. 5,56</ls>.
+;
+326134 new *{#pArihAriRI#} (?)¦ <ls>DEŚĪN. 5,56</ls>.
+; ----------------------------------------------
+; <L>66951<pc>4-083-b<k1>pitfcewA<k2>*pitfcewA
+329145 old *{#pitfcewA#}¦ (?) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+329145 new *{#pitfcewA#} (?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>67676<pc>4-093-b<k1>puRyastamBakara<k2>puRyastamBakara
+332754 old {#puRyastamBakara#}¦ (?) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+332754 new {#puRyastamBakara#} (?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>70472<pc>4-131-a<k1>praGawwa<k2>praGawwa
+346101 old {#praGawwa#}¦ (?) <ls>SĀY. zu AIT. BR. 7,13,7</ls>.
+;
+346101 new {#praGawwa#} (?)¦ <ls>SĀY. zu AIT. BR. 7,13,7</ls>.
+; ----------------------------------------------
+; <L>70598<pc>4-133-a<k1>prajanuka<k2>*prajanuka
+346763 old *{#prajanuka#}¦ (?) <lex>m.</lex> {%Körper%}.
+;
+346763 new *{#prajanuka#} (?)¦ <lex>m.</lex> {%Körper%}.
+; ----------------------------------------------
+; <L>75253<pc>4-200-b<k1>PaRiKela<k2>*PaRiKela
+369390 old *{#PaRiKela#}¦ (?) <lex>m.</lex> {%Wachtel%}.
+;
+369390 new *{#PaRiKela#} (?)¦ <lex>m.</lex> {%Wachtel%}.
+; ----------------------------------------------
+; <L>75485<pc>4-203-b<k1>PalPa<k2>PalPa
+370499 old {#PalPa#}¦ (?) in {#viPalPa#}.
+;
+370499 new {#PalPa#} (?)¦ in {#viPalPa#}.
+; ----------------------------------------------
+; <L>77082<pc>4-226-a<k1>bilinTa<k2>bilinTa/
+378398 old {#bilinTa/#}¦ (?) <ls>SUPARṆ. 15,5</ls>.
+;
+378398 new {#bilinTa/#} (?)¦ <ls>SUPARṆ. 15,5</ls>.
+; ----------------------------------------------
+; <L>77249<pc>4-228-a<k1>budDadiS<k2>*budDadiS
+379152 old *{#budDadiS#}¦ (?) <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten.
+;
+379152 new *{#budDadiS#} (?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten.
+; ----------------------------------------------
+; <L>77254<pc>4-228-a<k1>budDanandi<k2>budDanandi
+379174 old {#budDanandi#}¦ (?) <lex>m.</lex> <ab>N. pr.</ab> des 8ten <ab>buddh.</ab> Patriarchen <ls>EITEL, Chin. B.</ls>
+;
+379174 new {#budDanandi#} (?)¦ <lex>m.</lex> <ab>N. pr.</ab> des 8ten <ab>buddh.</ab> Patriarchen <ls>EITEL, Chin. B.</ls>
+; ----------------------------------------------
+; <L>77255<pc>4-228-a<k1>budDapakza<k2>*budDapakza
+379178 old *{#budDapakza#}¦ (?) <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten.
+;
+379178 new *{#budDapakza#} (?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten.
+; ----------------------------------------------
+; <L>77793<pc>4-235-a<k1>brahmakileya<k2>*brahmakileya
+381799 old *{#brahmakileya#}¦ (?) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+381799 new *{#brahmakileya#} (?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>77959<pc>4-237-c<k1>brahmabileya<k2>brahmabileya
+382602 old {#brahmabileya#}¦ (?) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+382602 new {#brahmabileya#} (?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>79330<pc>4-258-c<k1>BAjanacArika<k2>BAjanacArika
+389420 old {#BAjanacArika#}¦ (?) <lex>Adj.</lex> <ls>BURN. <ab>Intr.</ab> 261, N. 2</ls>.
+;
+389420 new {#BAjanacArika#} (?)¦ <lex>Adj.</lex> <ls>BURN. <ab>Intr.</ab> 261, N. 2</ls>.
+; ----------------------------------------------
+; <L>79404<pc>4-259-b<k1>BAnucandra<k2>BAnucandra
+389783 old {#BAnucandra#}¦ (?) <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten <ls>VP. 23,321</ls>.
+;
+389783 new {#BAnucandra#} (?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten <ls>VP. 23,321</ls>.
+; ----------------------------------------------
+; <L>79901<pc>4-268-a<k1>Bihu<k2>*Bihu
+392469 old *{#Bihu#}¦ (?) <lex>m.</lex> <ab>N. pr.</ab> eines Berges.
+;
+392469 new *{#Bihu#} (?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Berges.
+; ----------------------------------------------
+; <L>79997<pc>4-269-b<k1>BIzawAcArya<k2>BIzawAcArya
+392950 old {#BIzawAcArya#}¦ (?) <lex>m.</lex> <ab>N. pr.</ab> eines {%Lehrers%}.
+;
+392950 new {#BIzawAcArya#} (?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines {%Lehrers%}.
+; ----------------------------------------------
+; <L>81800<pc>5-007-a<k1>maRirata<k2>*maRirata
+402248 old *{#maRirata#}¦ (?) <lex>m.</lex> <ab>N. pr.</ab> eines <ab>buddh.</ab> Lehrers.
+;
+402248 new *{#maRirata#} (?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines <ab>buddh.</ab> Lehrers.
+; ----------------------------------------------
+; <L>90474<pc>5-132-b<k1>yavalaka<k2>yavalaka
+445474 old {#yavalaka#}¦ (?) <lex>m.</lex> {%ein <ab>best.</ab> Vogel%} <ls>SUŚR. 1,201,2</ls>.
+;
+445474 new {#yavalaka#} (?)¦ <lex>m.</lex> {%ein <ab>best.</ab> Vogel%} <ls>SUŚR. 1,201,2</ls>.
+; ----------------------------------------------
+; <L>91716<pc>5-155-c<k1>raktapAna<k2>raktapAna
+452114 old {#raktapAna#}¦ (?) <lex>Adj.</lex> <lex>f.</lex> {#A#} <ls>HEMĀDRI 2,a,98,5</ls>.
+;
+452114 new {#raktapAna#} (?)¦ <lex>Adj.</lex> <lex>f.</lex> {#A#} <ls>HEMĀDRI 2,a,98,5</ls>.
+; ----------------------------------------------
+; <L>93507<pc>5-181-a<k1>rAjavADavya<k2>rAjavADavya
+461068 old {#rAjavADavya#}¦ (?) <lex>m.</lex> <ab>Patron.</ab>
+;
+461068 new {#rAjavADavya#} (?)¦ <lex>m.</lex> <ab>Patron.</ab>
+; ----------------------------------------------
+; <L>97283<pc>6-003-c<k1>vakrima<k2>vakrima
+480903 old {#vakrima#}¦ (?) <lex>Adj.</lex> {%gekrümmt, gebogen%}.
+;
+480903 new {#vakrima#} (?)¦ <lex>Adj.</lex> {%gekrümmt, gebogen%}.
+; ----------------------------------------------
+; <L>97588<pc>6-008-b<k1>vaYcati<k2>*vaYcati
+482471 old *{#vaYcati#}¦ (?) <lex>m.</lex> {%Feuer%}.
+;
+482471 new *{#vaYcati#} (?)¦ <lex>m.</lex> {%Feuer%}.
+; ----------------------------------------------
+; <L>98065<pc>6-015-c<k1>vanasTAna<k2>*vanasTAna
+484904 old *{#vanasTAna#}¦ (?) <lex>n.</lex> <ab>N. pr.</ab> eines Reiches.
+;
+484904 new *{#vanasTAna#} (?)¦ <lex>n.</lex> <ab>N. pr.</ab> eines Reiches.
+; ----------------------------------------------
+; <L>98440<pc>6-023-b<k1>varavAsi<k2>varavAsi
+487173 old {#varavAsi#}¦ (?) <lex>m.</lex> <ab>Pl.</ab> <ab>N. pr.</ab> eines Volkes.
+;
+487173 new {#varavAsi#} (?)¦ <lex>m.</lex> <ab>Pl.</ab> <ab>N. pr.</ab> eines Volkes.
+; ----------------------------------------------
+; <L>98453<pc>6-023-b<k1>varasena<k2>*varasena
+487227 old *{#varasena#}¦ (?) <ab>N. pr.</ab> eines Gebirgspasses.
+;
+487227 new *{#varasena#} (?)¦ <ab>N. pr.</ab> eines Gebirgspasses.
+; ----------------------------------------------
+; <L>98474<pc>6-023-c<k1>varAtuzwa<k2>varAtuzwa
+487347 old {#varAtuzwa#}¦ (?) <ab>N. pr.</ab>
+;
+487347 new {#varAtuzwa#} (?)¦ <ab>N. pr.</ab>
+; ----------------------------------------------
+; <L>99199<pc>6-041-a<k1>vallirAzwra<k2>vallirAzwra
+492035 old {#vallirAzwra#}¦ (?) <ab>Pl.</ab> <ab>N. pr.</ab> eines Volkes.
+;
+492035 new {#vallirAzwra#} (?)¦ <ab>Pl.</ab> <ab>N. pr.</ab> eines Volkes.
+; ----------------------------------------------
+; <L>99258<pc>6-042-a<k1>vaSAyita<k2>*vaSAyita
+492332 old *{#vaSAyita#}¦ (?) <lex>Adj.</lex> <ls>DEŚĪN.</ls> <ab>Comm.</ab> zu <ls n="DEŚĪN.">1,84 (36,4)</ls>.
+;
+492332 new *{#vaSAyita#} (?)¦ <lex>Adj.</lex> <ls>DEŚĪN.</ls> <ab>Comm.</ab> zu <ls n="DEŚĪN.">1,84 (36,4)</ls>.
+; ----------------------------------------------
+; <L>100062<pc>6-056-b<k1>vAjanA<k2>vAjanA
+496642 old {#vAjanA#}¦ (?) <lex>f.</lex> <ls>PAÑCAD.</ls>
+;
+496642 new {#vAjanA#} (?)¦ <lex>f.</lex> <ls>PAÑCAD.</ls>
+; ----------------------------------------------
+; <L>100333<pc>6-059-c<k1>vAtareRusuvarRa<k2>vAtareRusuvarRa
+497924 old {#vAtareRusuvarRa#}¦ (?) <lex>Adj.</lex> (<lex>f.</lex> {#A#}) als <ab>Beiw.</ab> einer Kuh <ls>HEMĀDRI 1. 459,20</ls>.
+;
+497924 new {#vAtareRusuvarRa#} (?)¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) als <ab>Beiw.</ab> einer Kuh <ls>HEMĀDRI 1. 459,20</ls>.
+; ----------------------------------------------
+; <L>101102<pc>6-069-c<k1>vArttikakASikA<k2>vArttikakASikA
+501623 old {#vArttikakASikA#}¦ (?) <lex>f.</lex> Titel eines Werkes.
+;
+501623 new {#vArttikakASikA#} (?)¦ <lex>f.</lex> Titel eines Werkes.
+; ----------------------------------------------
+; <L>101295<pc>6-071-c<k1>vAvala<k2>*vAvala
+502524 old *{#vAvala#}¦ (?) <lex>m.</lex> {%eine <ab>best.</ab> Pflanze%}.
+;
+502524 new *{#vAvala#} (?)¦ <lex>m.</lex> {%eine <ab>best.</ab> Pflanze%}.
+; ----------------------------------------------
+; <L>102385<pc>6-088-b<k1>viRwaka<k2>viRwaka
+508067 old {#viRwaka#}¦ (?) <ls>VIKRAMĀṄKAC. 4,80</ls>.
+;
+508067 new {#viRwaka#} (?)¦ <ls>VIKRAMĀṄKAC. 4,80</ls>.
+; ----------------------------------------------
+; <L>102688<pc>6-093-c<k1>vidyADarapiwaka<k2>*vidyADarapiwaka
+509708 old *{#vidyADarapiwaka#}¦ (?) Titel eines Werkes.
+;
+509708 new *{#vidyADarapiwaka#} (?)¦ Titel eines Werkes.
+; ----------------------------------------------
+; <L>102883<pc>6-096-a<k1>viDara<k2>viDara
+510622 old {#viDara#}¦ (?) <ls>PAÑCAR. 3,12,15</ls>.
+;
+510622 new {#viDara#} (?)¦ <ls>PAÑCAR. 3,12,15</ls>.
+; ----------------------------------------------
+; <L>104715<pc>6-126-c<k1>viSrARika<k2>°viSrARika
+520259 old {#°viSrARika#}¦ (?) <lex>Adj.</lex> {%über das Verschenken von — handelnd%}. <ab>v. l.</ab> {#viSrARana#} <lex>n.</lex>
+;
+520259 new {#°viSrARika#} (?)¦ <lex>Adj.</lex> {%über das Verschenken von — handelnd%}. <ab>v. l.</ab> {#viSrARana#} <lex>n.</lex>
+; ----------------------------------------------
+; <L>106808<pc>6-154-b<k1>vfzAlalatAyin<k2>vfzAla/latAyin
+530384 old {#vfzAla/latAyin#}¦ (?) <ls>Ind. St. 2,28, N. 1</ls>.
+;
+530384 new {#vfzAla/latAyin#} (?)¦ <ls>Ind. St. 2,28, N. 1</ls>.
+; ----------------------------------------------
+; <L>106953<pc>6-156-b<k1>veRugraDa<k2>veRugraDa
+531096 old {#veRugraDa#}¦ (?) {%eine <ab>best.</ab> Pflanze%}.
+;
+531096 new {#veRugraDa#} (?)¦ {%eine <ab>best.</ab> Pflanze%}.
+; ----------------------------------------------
+; <L>107580<pc>6-165-b<k1>vEjYAnaSAlika<k2>vEjYAnaSAlika
+534119 old {#vEjYAnaSAlika#}¦ (?) <lex>m.</lex> <is>Campaka</is> 5.
+;
+534119 new {#vEjYAnaSAlika#} (?)¦ <lex>m.</lex> <is>Campaka</is> 5.
+; ----------------------------------------------
+; <L>108345<pc>6-177-a<k1>vyantarapaNkti<k2>vyantarapaNkti
+537988 old {#vyantarapaNkti#}¦ (?) <lex>f.</lex> <ls>Verz. d. Cambr. H. 77</ls>.
+;
+537988 new {#vyantarapaNkti#} (?)¦ <lex>f.</lex> <ls>Verz. d. Cambr. H. 77</ls>.
+; ----------------------------------------------
+; <L>108798<pc>6-184-a<k1>vyAsagiri<k2>vyAsagiri
+540247 old {#vyAsagiri#}¦ (?) <lex>m.</lex> <ab>desgl.</ab> <ls>BURNELL, T.</ls>
+;
+540247 new {#vyAsagiri#} (?)¦ <lex>m.</lex> <ab>desgl.</ab> <ls>BURNELL, T.</ls>
+; ----------------------------------------------
+; <L>111453<pc>6-221-b<k1>SAtapanta<k2>SA/tapanta
+553119 old {#SA/tapanta#}¦ (?) <ls>ṚV. 10,106,5</ls>.
+;
+553119 new {#SA/tapanta#} (?)¦ <ls>ṚV. 10,106,5</ls>.
+; ----------------------------------------------
+; <L>111704<pc>6-224-c<k1>SAriSAkA<k2>SAriSA/kA
+554342 old {#SAriSA/kA#}¦ (?) <ls>AV. 3,14,5</ls>. Besprochen von <ls>WEBER.</ls> in <ls>Ind. St. 17,246</ls>.
+;
+554342 new {#SAriSA/kA#} (?)¦ <ls>AV. 3,14,5</ls>. Besprochen von <ls>WEBER.</ls> in <ls>Ind. St. 17,246</ls>.
+; ----------------------------------------------
+; <L>114455<pc>6-263-a<k1>SoBavyUha<k2>*SoBavyUha
+567904 old *{#SoBavyUha#}¦ (?) <lex>m.</lex> <ab>N. pr.</ab> eines Gelehrten.
+;
+567904 new *{#SoBavyUha#} (?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Gelehrten.
+; ----------------------------------------------
+; <L>114459<pc>6-263-a<k1>SoBAkAwi<k2>SoBAkAwi
+567922 old {#SoBAkAwi#}¦ (?) <ls>Verz. d. Oxf. H. 90,a,10</ls>.
+;
+567922 new {#SoBAkAwi#} (?)¦ <ls>Verz. d. Oxf. H. 90,a,10</ls>.
+; ----------------------------------------------
+; <L>115472<pc>6-279-b<k1>Sreya<k2>Sreya
+573061 old {#Sreya#}¦ (?) <lex>n.</lex> Name eines <is>Sāman</is>. <ab>Vgl.</ab> {#SreyaMs#} 4〉e〉.
+;
+573061 new {#Sreya#} (?)¦ <lex>n.</lex> Name eines <is>Sāman</is>. <ab>Vgl.</ab> {#SreyaMs#} 4〉e〉.
+; ----------------------------------------------
+; <L>119107<pc>7-044-a<k1>saMDyarkza<k2>saMDyarkza
+591027 old {#saMDyarkza#}¦ (?) <ls>MĀRK. P. 51,87</ls>.
+;
+591027 new {#saMDyarkza#} (?)¦ <ls>MĀRK. P. 51,87</ls>.
+; ----------------------------------------------
+; <L>119500<pc>7-049-a<k1>saptarAtrika<k2>saptarAtrika
+592819 old {#saptarAtrika#}¦ (?) <lex>n.</lex> = <hom>1.</hom> {#saptarAtra#}.
+;
+592819 new {#saptarAtrika#} (?)¦ <lex>n.</lex> = <hom>1.</hom> {#saptarAtra#}.
+; ----------------------------------------------
+; <L>120412<pc>7-062-a<k1>samAlambin<k2>*samAlambin
+596969 old *{#samAlambin#}¦ (?) <lex>m.</lex> {%ein <ab>best.</ab> wohlriechendes Gras%} <ls>RĀJAN. 8,121</ls>.
+;
+596969 new *{#samAlambin#} (?)¦ <lex>m.</lex> {%ein <ab>best.</ab> wohlriechendes Gras%} <ls>RĀJAN. 8,121</ls>.
+; ----------------------------------------------
+; <L>122749<pc>7-097-b<k1>sasUka<k2>sasUka
+608626 old {#sasUka#}¦ (?) <lex>Adj.</lex> <ls>HEM. PAR. 7,42</ls>.
+;
+608626 new {#sasUka#} (?)¦ <lex>Adj.</lex> <ls>HEM. PAR. 7,42</ls>.
+; ----------------------------------------------
+; <L>123263<pc>7-104-c<k1>sahArogya<k2>*sahArogya
+611038 old *{#sahArogya#}¦ (?) {%gesund%}.
+;
+611038 new *{#sahArogya#} (?)¦ {%gesund%}.
+; ----------------------------------------------
+; <L>123863<pc>7-114-a<k1>sAnibApa<k2>sAnibApa
+614002 old {#sAnibApa#}¦ (?) <ls>PAÑCAD. 27</ls>.
+;
+614002 new {#sAnibApa#} (?)¦ <ls>PAÑCAD. 27</ls>.
+; ----------------------------------------------
+; <L>124015<pc>7-116-a<k1>sAbarRika<k2>sAbarRika
+614695 old {#sAbarRika#}¦ (?) <ab>Nom. pr.</ab> <ls>RĀJAT. 8,2278</ls>.
+;
+614695 new {#sAbarRika#} (?)¦ <ab>Nom. pr.</ab> <ls>RĀJAT. 8,2278</ls>.
+; ----------------------------------------------
+; <L>124517<pc>7-123-a<k1>sArjana<k2>sArjana
+617058 old {#sArjana#}¦ (?) <ls>PAÑCAR. 3,14,53</ls>.
+;
+617058 new {#sArjana#} (?)¦ <ls>PAÑCAR. 3,14,53</ls>.
+; ----------------------------------------------
+; <L>124630<pc>7-124-b<k1>sAlabala<k2>*sAlabala
+617567 old *{#sAlabala#}¦ (?) <ab>N. pr.</ab> eines Ortes.
+;
+617567 new *{#sAlabala#} (?)¦ <ab>N. pr.</ab> eines Ortes.
+; ----------------------------------------------
+; <L>124817<pc>7-126-c<k1>sAhula<k2>sAhula
+618432 old {#sAhula#}¦ (?) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+618432 new {#sAhula#} (?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>124895<pc>7-128-a<k1>siMharaSmi<k2>*siMharaSmi
+618833 old *{#siMharaSmi#}¦ (?) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+618833 new *{#siMharaSmi#} (?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>125246<pc>7-132-c<k1>sidDAnanda<k2>sidDAnanda
+620554 old {#sidDAnanda#}¦ (?) <lex>m.</lex> <ab>N. pr.</ab> eines Autors <ls>BURNELL, T.</ls>
+;
+620554 new {#sidDAnanda#} (?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Autors <ls>BURNELL, T.</ls>
+; ----------------------------------------------
+; <L>125468<pc>7-136-b<k1>sivata<k2>sivata
+621750 old {#sivata#}¦ (?) <lex>m.</lex> <ab>Pl.</ab> <ab>N. pr.</ab> eines Volkes.
+;
+621750 new {#sivata#} (?)¦ <lex>m.</lex> <ab>Pl.</ab> <ab>N. pr.</ab> eines Volkes.
+; ----------------------------------------------
+; <L>125935<pc>7-142-a<k1>suKIlalitA<k2>*suKIlalitA
+623885 old *{#suKIlalitA#}¦ (?) <lex>f.</lex> <ab>N. pr.</ab> einer Jungfrau.
+;
+623885 new *{#suKIlalitA#} (?)¦ <lex>f.</lex> <ab>N. pr.</ab> einer Jungfrau.
+; ----------------------------------------------
+; <L>126253<pc>7-146-a<k1>sutfzRa<k2>*sutfzRa
+625477 old *{#sutfzRa#}¦ (?) <ab>N. pr.</ab> eines Reichs.
+;
+625477 new *{#sutfzRa#} (?)¦ <ab>N. pr.</ab> eines Reichs.
+; ----------------------------------------------
+; <L>127934<pc>7-167-b<k1>suvasu<k2>*suvasu
+633818 old *{#suvasu#}¦ (?) <lex>f.</lex> <ab>N. pr.</ab> einer <is>Apsaras</is>.
+;
+633818 new *{#suvasu#} (?)¦ <lex>f.</lex> <ab>N. pr.</ab> einer <is>Apsaras</is>.
+; ----------------------------------------------
+; <L>127948<pc>7-167-b<k1>suvAtA<k2>*suvAtA
+633887 old *{#suvAtA#}¦ (?) <lex>f.</lex> <ab>N. pr.</ab> einer <is>Apsaras</is>.
+;
+633887 new *{#suvAtA#} (?)¦ <lex>f.</lex> <ab>N. pr.</ab> einer <is>Apsaras</is>.
+; ----------------------------------------------
+; <L>128401<pc>7-173-b<k1>susAyaka<k2>susAyaka
+636030 old {#susAyaka#}¦ (?) <ls>WEBER, RĀMAT. 356, Col. 20</ls>.
+;
+636030 new {#susAyaka#} (?)¦ <ls>WEBER, RĀMAT. 356, Col. 20</ls>.
+; ----------------------------------------------
+; <L>128661<pc>7-177-a<k1>sUcIpaNki<k2>*sUcIpaNki
+637313 old *{#sUcIpaNki#}¦ (?) <ls>Verz. d. Cambr. H. 77</ls>.
+;
+637313 new *{#sUcIpaNki#} (?)¦ <ls>Verz. d. Cambr. H. 77</ls>.
+; ----------------------------------------------
+; <L>128684<pc>7-177-b<k1>sUqa<k2>sUqa
+637431 old {#sUqa#}¦ (?) <ls>S. S. S. 139. fgg.</ls> <ab>Vgl.</ab> {#suqaSabdanftya#}.
+;
+637431 new {#sUqa#} (?)¦ <ls>S. S. S. 139. fgg.</ls> <ab>Vgl.</ab> {#suqaSabdanftya#}.
+; ----------------------------------------------
+; <L>128829<pc>7-179-a<k1>sUnAka<k2>sUnAka
+638120 old {#sUnAka#}¦ (?) <ls>WEBER, JYOT. 78</ls>.
+;
+638120 new {#sUnAka#} (?)¦ <ls>WEBER, JYOT. 78</ls>.
+; ----------------------------------------------
+; <L>128893<pc>7-180-a<k1>sUraTa<k2>sUraTa
+638422 old {#sUraTa#}¦ (?) <lex>m.</lex> <ab>N. pr.</ab> eines Autors <ls>BURNELL, T.</ls>
+;
+638422 new {#sUraTa#} (?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Autors <ls>BURNELL, T.</ls>
+; ----------------------------------------------
+; <L>128929<pc>7-180-b<k1>sUryagupta<k2>*sUryagupta
+638611 old *{#sUryagupta#}¦ (?) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+638611 new *{#sUryagupta#} (?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>129224<pc>7-184-a<k1>sena<k2>2. *sena
+639975 old <hom>2.</hom> *{#sena#}¦ (?) <lex>n.</lex> {%Leib, Körper%}.
+;
+639975 new <hom>2.</hom> *{#sena#} (?)¦ <lex>n.</lex> {%Leib, Körper%}.
+; ----------------------------------------------
+; <L>130648<pc>7-204-b<k1>stri<k2>1. stri
+647091 old <hom>1.</hom> {#stri#}¦ (?) = {#star#} {%Stern%}.
+;
+647091 new <hom>1.</hom> {#stri#} (?)¦ = {#star#} {%Stern%}.
+; ----------------------------------------------
+; <L>134386<pc>7-270-b<k1>hAmPa<k2>hAmPa
+667279 old {#hAmPa#}¦ (?) <ls>PAÑCAD.</ls>
+;
+667279 new {#hAmPa#} (?)¦ <ls>PAÑCAD.</ls>
+; ----------------------------------------------
+; <L>134560<pc>7-273-b<k1>hikkala<k2>*hikkala
+668231 old *{#hikkala#}¦ (?) {%der Stock der buddhistischen Religiosen%}.
+;
+668231 new *{#hikkala#} (?)¦ {%der Stock der buddhistischen Religiosen%}.
+; ----------------------------------------------
+; <L>135064<pc>7-279-c<k1>hUmPa<k2>hUmPa
+670587 old {#hUmPa#}¦ (?) <ls>PAÑCAD.</ls>
+;
+670587 new {#hUmPa#} (?)¦ <ls>PAÑCAD.</ls>
+; ----------------------------------------------
+; <L>201320<pc>1-295-a<k1>avAraka<k2>avAraka
+679334 old {#avAraka#}¦ (?) <ls>MĀRK. P. 49,17</ls>.<info n="sup_1"/>
+;
+679334 new {#avAraka#} (?)¦ <ls>MĀRK. P. 49,17</ls>.<info n="sup_1"/>
+; ----------------------------------------------
+; <L>204421<pc>3-259-b<k1>kAjava<k2>kAjava/
+691746 old {#kAjava/#}¦ (?) <ls>MAITR. S. 2,1,4</ls>.<info n="sup_3"/>
+;
+691746 new {#kAjava/#} (?)¦ <ls>MAITR. S. 2,1,4</ls>.<info n="sup_3"/>
+; ----------------------------------------------
+; <L>204572<pc>3-261-a<k1>galunta<k2>galunta/
+692351 old {#galunta/#}¦ (?) <lex>m.</lex> <ls>AV. 6,83,3</ls>.<info n="sup_3"/>
+;
+692351 new {#galunta/#} (?)¦ <lex>m.</lex> <ls>AV. 6,83,3</ls>.<info n="sup_3"/>
+; ----------------------------------------------
+; <L>205372<pc>4-295-c<k1>AkzaRika<k2>AkzaRika/
+695560 old {#AkzaRika/#}¦ (?) <ls>MAITR. S. 2,9,9</ls>.<info n="sup_4"/>
+;
+695560 new {#AkzaRika/#} (?)¦ <ls>MAITR. S. 2,9,9</ls>.<info n="sup_4"/>
+; ----------------------------------------------
+; <L>205873<pc>4-301-c<k1>parivfkza<k2>parivfkza
+697569 old {#parivfkza#}¦ (?) <ls>KAUŚ. 80</ls>.<info n="sup_4"/>
+;
+697569 new {#parivfkza#} (?)¦ <ls>KAUŚ. 80</ls>.<info n="sup_4"/>
+; ----------------------------------------------
+; <L>205875<pc>4-301-c<k1>pariSEla<k2>pariSEla
+697577 old {#pariSEla#}¦ (?) <ls>KAUŚ. 85</ls>.<info n="sup_4"/>
+;
+697577 new {#pariSEla#} (?)¦ <ls>KAUŚ. 85</ls>.<info n="sup_4"/>
+; ----------------------------------------------
+; <L>206346<pc>5-244-b<k1>aBileSa<k2>aBileSa
+699459 old {#aBileSa#}¦ (?) <ls>Ind. St. 17,145</ls>.<info n="sup_5"/>
+;
+699459 new {#aBileSa#} (?)¦ <ls>Ind. St. 17,145</ls>.<info n="sup_5"/>
+; ----------------------------------------------
+; <L>207121<pc>5-253-a<k1>kzullaka<k2>kzullaka
+702566 old {#kzullaka#}¦ (?) <ls>HEM. PAR. 1,336</ls>.<info n="sup_5"/>
+;
+702566 new {#kzullaka#} (?)¦ <ls>HEM. PAR. 1,336</ls>.<info n="sup_5"/>
+; ----------------------------------------------
+; <L>207137<pc>5-253-a<k1>Killita<k2>Killita
+702630 old {#Killita#}¦ (?) <lex>Adj.</lex> <ls>VĀSAV. 156,5</ls>. <ls n="VĀSAV. 156,">6</ls>.<info n="sup_5"/>
+;
+702630 new {#Killita#} (?)¦ <lex>Adj.</lex> <ls>VĀSAV. 156,5</ls>. <ls n="VĀSAV. 156,">6</ls>.<info n="sup_5"/>
+; ----------------------------------------------
+; <L>207623<pc>5-258-b<k1>nIhAra<k2>nIhAra
+704585 old {#nIhAra#}¦ (?) <ls>VASIṢṬHA 19,14</ls>.<info n="sup_5"/>
+;
+704585 new {#nIhAra#} (?)¦ <ls>VASIṢṬHA 19,14</ls>.<info n="sup_5"/>
+; ----------------------------------------------
+; <L>207637<pc>5-258-b<k1>nEhArika<k2>nEhArika
+704641 old {#nEhArika#}¦ (?) <ls>VASIṢṬHA 19,15</ls>.<info n="sup_5"/>
+;
+704641 new {#nEhArika#} (?)¦ <ls>VASIṢṬHA 19,15</ls>.<info n="sup_5"/>
+; ----------------------------------------------
+; <L>208126<pc>5-263-c<k1>meRqya<k2>meRqya
+706604 old {#meRqya#}¦ (?) <ls>BHADRAB. 4,18</ls>.<info n="sup_5"/>
+;
+706604 new {#meRqya#} (?)¦ <ls>BHADRAB. 4,18</ls>.<info n="sup_5"/>
+; ----------------------------------------------
+; <L>208203<pc>6-293-a<k1>aNgulya<k2>aNgulya
+706912 old {#aNgulya#}¦ (?) <ls>VASIṢṬHA 3,65</ls>.<info n="sup_6"/>
+;
+706912 new {#aNgulya#} (?)¦ <ls>VASIṢṬHA 3,65</ls>.<info n="sup_6"/>
+; ----------------------------------------------
+; <L>208843<pc>6-300-b<k1>kOnta<k2>kOnta/
+709473 old {#kOnta/#}¦ (?) <ls>MAITR. S. 4,2,6</ls> (<ls n="MAITR. S. 4,">7,13</ls>).<info n="sup_6"/>
+;
+709473 new {#kOnta/#} (?)¦ <ls>MAITR. S. 4,2,6</ls> (<ls n="MAITR. S. 4,">7,13</ls>).<info n="sup_6"/>
+; ----------------------------------------------
+; <L>212945<pc>7-310-c<k1>avacIravicIraka<k2>avacIravicIraka
+725891 old {#avacIravicIraka#}¦ (?) <ls>DIVYĀVAD. 83,21</ls>.<info n="sup_7"/>
+;
+725891 new {#avacIravicIraka#} (?)¦ <ls>DIVYĀVAD. 83,21</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>213388<pc>7-313-b<k1>aSmayokta<k2>aSmayokta
+727663 old {#aSmayokta#}¦ (?) {%eine <ab>best.</ab> Pflanze%} <ls>KAUŚ. 8,15</ls>.<info n="sup_7"/>
+;
+727663 new {#aSmayokta#} (?)¦ {%eine <ab>best.</ab> Pflanze%} <ls>KAUŚ. 8,15</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>213664<pc>7-315-b<k1>asitAlakARqA<k2>asitAlakARqA
+728780 old {#asitAlakARqA#}¦ (?) <ls>KAUŚ. 35,28</ls>.<info n="sup_7"/>
+;
+728780 new {#asitAlakARqA#} (?)¦ <ls>KAUŚ. 35,28</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>216651<pc>7-336-b<k1>KamBIrapati<k2>*KamBIrapati
+740806 old *{#KamBIrapati#}¦ (?) <lex>m.</lex> <ls>MAHĀVY. 186,33</ls>.<info n="sup_7"/>
+;
+740806 new *{#KamBIrapati#} (?)¦ <lex>m.</lex> <ls>MAHĀVY. 186,33</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>217370<pc>7-342-a<k1>cezwi<k2>cezwi
+743723 old {#cezwi#}¦ (?) = {#cezwA#} <ls>ŚĀṄKH. BR. 17,9</ls>.<info n="sup_7"/>
+;
+743723 new {#cezwi#} (?)¦ = {#cezwA#} <ls>ŚĀṄKH. BR. 17,9</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>217556<pc>7-343-c<k1>jAlImAMsa<k2>jAlImAMsa
+744476 old {#jAlImAMsa#}¦ (?) <ls>SUBHĀṢITĀV. 611</ls>.<info n="sup_7"/>
+;
+744476 new {#jAlImAMsa#} (?)¦ <ls>SUBHĀṢITĀV. 611</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>218127<pc>7-348-a<k1>dArByUza<k2>dArByUza
+746790 old {#dArByUza#}¦ (?) <ls>KAUŚ. 32,8</ls>. <ls n="KAUŚ.">35,28</ls>.<info n="sup_7"/>
+;
+746790 new {#dArByUza#} (?)¦ <ls>KAUŚ. 32,8</ls>. <ls n="KAUŚ.">35,28</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>218487<pc>7-350-d<k1>DAyina<k2>DAyina
+748250 old {#DAyina#}¦ (?) <ls>KAUŚ. 34,10</ls>.<info n="sup_7"/>
+;
+748250 new {#DAyina#} (?)¦ <ls>KAUŚ. 34,10</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>218734<pc>7-353-a<k1>niravadozatva<k2>niravadozatva
+749254 old {#niravadozatva#}¦ (?) <lex>n.</lex> <ls>DĀRILA</ls> zu <ls>KAUŚ. 7,16</ls>.<info n="sup_7"/>
+;
+749254 new {#niravadozatva#} (?)¦ <lex>n.</lex> <ls>DĀRILA</ls> zu <ls>KAUŚ. 7,16</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>218852<pc>7-354-a<k1>nizpramanda<k2>nizpramanda
+749726 old {#nizpramanda#}¦ (?) <ls>KAUŚ. 36,15</ls>.<info n="sup_7"/>
+;
+749726 new {#nizpramanda#} (?)¦ <ls>KAUŚ. 36,15</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>220342<pc>7-366-d<k1>manuza<k2>manuza/
+755740 old {#manuza/#}¦ (?) <ls>MAITR. S. 1,6,5 (93,13). 4,2,1 (21,11)</ls>.<info n="sup_7"/>
+;
+755740 new {#manuza/#} (?)¦ <ls>MAITR. S. 1,6,5 (93,13). 4,2,1 (21,11)</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; <L>221779<pc>7-381-b<k1>saMBaja<k2>saMBaja
+761567 old {#saMBaja#}¦ (?) <ls>DĀRILA</ls> zu <ls>KAUŚ. 41,18</ls>.<info n="sup_7"/>
+;
+761567 new {#saMBaja#} (?)¦ <ls>DĀRILA</ls> zu <ls>KAUŚ. 41,18</ls>.<info n="sup_7"/>
+; ----------------------------------------------
+; ******************************************************
+; cat=1:d: 19 changes
+; ******************************************************
+; <L>31877<pc>2-115-a<k1>krI<k2>1. krI
+152421 old <div n="1">— 5〉 {#parkrIta#} von einem Sohne nach <ls>NĪLAK.</ls> So <ab>v. a.</ab> {#retomUlyadAnena#}(!) {#tasyAmeva#} (<ab>d. i.</ab> {#BAryAyAm#}) {#janitaH#}.
+;
+152421 new <div n="1">— 5〉 {#parkrIta#} von einem Sohne nach <ls>NĪLAK.</ls> So <ab>v. a.</ab> {#retomUlyadAnena#} (!) {#tasyAmeva#} (<ab>d. i.</ab> {#BAryAyAm#}) {#janitaH#}.
+; ----------------------------------------------
+; <L>38110<pc>2-201-c<k1>Gora<k2>Gora/
+184362 old <div n="1">— 5〉 <lex>f.</lex> {#GorI#}(!) <ab>N. pr.</ab> eines Wesens im Gefolge der <is>Durgā</is>.
+;
+184362 new <div n="1">— 5〉 <lex>f.</lex> {#GorI#} (!) <ab>N. pr.</ab> eines Wesens im Gefolge der <is>Durgā</is>.
+; ----------------------------------------------
+; <L>42777<pc>2-267-a<k1>jitakASin<k2>jitakASin
+208453 old {#jitakASin#}¦ <lex>Adj.</lex> {%sich als Sieger gebarend, siegesbewusst%} <ls>MBH. 1,2,309</ls>. Wird durch {#jayaSlAGin#} und {#jitAhava#} erklärt. {#°kASi#}(!) soll = {#dfQamuzwi#}. [Page2-267-b] sein.
+;
+208453 new {#jitakASin#}¦ <lex>Adj.</lex> {%sich als Sieger gebarend, siegesbewusst%} <ls>MBH. 1,2,309</ls>. Wird durch {#jayaSlAGin#} und {#jitAhava#} erklärt. {#°kASi#} (!) soll = {#dfQamuzwi#}. [Page2-267-b] sein.
+; ----------------------------------------------
+; <L>45709<pc>3-027-c<k1>tij<k2>tij
+223808 old <div n="p">— Mit {#prati#} {%mit der Hitze%} (des Feuers) {%sich wenden gegen%} (<ab>Acc.</ab>). {#pra/ti tigDi#} und {#titigDi#} <ls>MAITR. S. 1,5,2</ls>. (<ls>KAP. S. 4,8</ls>) Statt dessen {#prati tityagDi#}(!) <ls>KĀṬH. 6,9</ls> und {#prati tiNQi#} (!) <ls>ĀPAST. ŚR. 6,21,1</ls>.
+;
+223808 new <div n="p">— Mit {#prati#} {%mit der Hitze%} (des Feuers) {%sich wenden gegen%} (<ab>Acc.</ab>). {#pra/ti tigDi#} und {#titigDi#} <ls>MAITR. S. 1,5,2</ls>. (<ls>KAP. S. 4,8</ls>) Statt dessen {#prati tityagDi#} (!) <ls>KĀṬH. 6,9</ls> und {#prati tiNQi#} (!) <ls>ĀPAST. ŚR. 6,21,1</ls>.
+; ----------------------------------------------
+; <L>50489<pc>3-093-a<k1>dIDi<k2>dIDi
+247428 old <div n="p">— Mit {#ni#}, {#ni/dIDyat#} <ls>VS. 6,20</ls>. (<ab>vgl.</ab> <ls>KĀŚ. zu P. 6,1,119</ls>) = {#nihita#}(!) nach <ls>MAHĪDH.</ls> Statt dessen {#ni/deDyat#} <ls>TS. 1,3,10,1</ls>; <ab>vgl.</ab> auch <ls>MAITR. S. 1,2,17</ls>.
+;
+247428 new <div n="p">— Mit {#ni#}, {#ni/dIDyat#} <ls>VS. 6,20</ls>. (<ab>vgl.</ab> <ls>KĀŚ. zu P. 6,1,119</ls>) = {#nihita#} (!) nach <ls>MAHĪDH.</ls> Statt dessen {#ni/deDyat#} <ls>TS. 1,3,10,1</ls>; <ab>vgl.</ab> auch <ls>MAITR. S. 1,2,17</ls>.
+; ----------------------------------------------
+; <L>64995<pc>4-055-a<k1>palASa<k2>palASa/
+319302 old <div n="2">— d〉 *= {#SAsana#}(!)
+;
+319302 new <div n="2">— d〉 *= {#SAsana#} (!)
+; ----------------------------------------------
+; <L>76858<pc>4-223-a<k1>bAzpaka<k2>bAzpaka
+377341 old <div n="1">— 3〉 *<lex>f.</lex> {#A#}(!) = {#hiNgupattrI#}.
+;
+377341 new <div n="1">— 3〉 *<lex>f.</lex> {#A#} (!) = {#hiNgupattrI#}.
+; ----------------------------------------------
+; <L>81034<pc>4-285-b<k1>Bogin<k2>2. Bogin
+398344 old <div n="2">— d〉 *= {#vEyAvfttikara#}(!).
+;
+398344 new <div n="2">— d〉 *= {#vEyAvfttikara#} (!).
+; ----------------------------------------------
+; <L>94736<pc>5-201-b<k1>rUz<k2>rUz
+467508 old <div n="p">— Mit {#sam#} <ab>Caus.</ab> {#saMrozayati#}(!) {%bestreuen%}.
+;
+467508 new <div n="p">— Mit {#sam#} <ab>Caus.</ab> {#saMrozayati#} (!) {%bestreuen%}.
+; ----------------------------------------------
+; <L>95809<pc>5-219-c<k1>lal<k2>lal
+473294 old <div n="1">— 2〉 {%aufspringen%}. {#ullalayitvA#}(!) <ls>PAÑCAT. ed. Bomb. 4,40,22</ls>.
+;
+473294 new <div n="1">— 2〉 {%aufspringen%}. {#ullalayitvA#} (!) <ls>PAÑCAT. ed. Bomb. 4,40,22</ls>.
+; ----------------------------------------------
+; <L>98874<pc>6-035-a<k1>varD<k2>1. varD
+490341 old <div n="1">— 4〉 {#vivfDant#}(!) {%vergrössernd%} <ls>PAÑCAD.</ls>
+;
+490341 new <div n="1">— 4〉 {#vivfDant#} (!) {%vergrössernd%} <ls>PAÑCAD.</ls>
+; ----------------------------------------------
+; <L>101708<pc>6-078-b<k1>vikira<k2>vikira
+504694 old <div n="1">— 4〉 {%durchgesickertes Wasser%}. <ls>SUŚR. 1,169,12</ls>. {#cikira#}(!) <ls>BHĀVAPR. 2,36</ls>.
+;
+504694 new <div n="1">— 4〉 {%durchgesickertes Wasser%}. <ls>SUŚR. 1,169,12</ls>. {#cikira#} (!) <ls>BHĀVAPR. 2,36</ls>.
+; ----------------------------------------------
+; <L>102320<pc>6-087-b<k1>viwa<k2>viwa
+507756 old <div n="2">— f〉 *= {#prAYcalloha#}(!).
+;
+507756 new <div n="2">— f〉 *= {#prAYcalloha#} (!).
+; ----------------------------------------------
+; <L>102686<pc>6-093-c<k1>vidyADara<k2>vidyADara
+509697 old <div n="1">— 3〉 <lex>f.</lex> {#A#}(!) und {#I#} <ab>N. pr.</ab> einer <is>Surāṅganā</is> <ls>Ind. St. 15,232. 241</ls>.
+;
+509697 new <div n="1">— 3〉 <lex>f.</lex> {#A#} (!) und {#I#} <ab>N. pr.</ab> einer <is>Surāṅganā</is> <ls>Ind. St. 15,232. 241</ls>.
+; ----------------------------------------------
+; <L>103070<pc>6-099-b<k1>vinAyaka<k2>vinAyaka
+511601 old <div n="2">— h〉 *= {#anATa#}(!) <ab>N. pr.</ab> verschiedener Männer. Auch {#°paRqita#} und {#°Bawwa#}.
+;
+511601 new <div n="2">— h〉 *= {#anATa#} (!) <ab>N. pr.</ab> verschiedener Männer. Auch {#°paRqita#} und {#°Bawwa#}.
+; ----------------------------------------------
+; <L>105482<pc>6-137-a<k1>vizRuDarma<k2>vizRuDarma
+523948 old {#vizRuDarma#}¦ <lex>m.</lex> Titel eines Werkes. {#°DarmARi#}(!) {#SAstrARi#} <ls>HEMĀDRI 2,a,19,21</ls>.
+;
+523948 new {#vizRuDarma#}¦ <lex>m.</lex> Titel eines Werkes. {#°DarmARi#} (!) {#SAstrARi#} <ls>HEMĀDRI 2,a,19,21</ls>.
+; ----------------------------------------------
+; <L>116010<pc>6-287-a<k1>Svetavah<k2>*Svetavah
+575695 old *{#Svetavah#}¦ <lex>Adj.</lex> {%mit Schimmeln fahrend%}. <ab>Nomin.</ab> {#°vAs#}, <ab>Instr.</ab> {#°vAhA#} (!) und {#SvetOhA#}, <ab>Du.</ab> {#°voByAm#}, <lex>f.</lex> {#°vAhI#}(!) und {#SvetOhI#}.
+;
+575695 new *{#Svetavah#}¦ <lex>Adj.</lex> {%mit Schimmeln fahrend%}. <ab>Nomin.</ab> {#°vAs#}, <ab>Instr.</ab> {#°vAhA#} (!) und {#SvetOhA#}, <ab>Du.</ab> {#°voByAm#}, <lex>f.</lex> {#°vAhI#} (!) und {#SvetOhI#}.
+; ----------------------------------------------
+; <L>122811<pc>7-098-b<k1>sah<k2>1. sah
+608934 old <div n="m">— <ab>Caus.</ab> {%bestärken, aufmuntern, auffordern, anstacheln, reizen%} <ls n="Chr.">204,20</ls> {#protsAhya#} <ab>Conj.</ab> für {#protsAdya#} <ls n="Chr.">223,33</ls>. {#protsAhati#}(!) = {#protsAhayati#}; {#protsAhayantas#} <ls>MBH. 6,97,3</ls> fehlerhaft für {#protsAdayantas#}
+;
+608934 new <div n="m">— <ab>Caus.</ab> {%bestärken, aufmuntern, auffordern, anstacheln, reizen%} <ls n="Chr.">204,20</ls> {#protsAhya#} <ab>Conj.</ab> für {#protsAdya#} <ls n="Chr.">223,33</ls>. {#protsAhati#} (!) = {#protsAhayati#}; {#protsAhayantas#} <ls>MBH. 6,97,3</ls> fehlerhaft für {#protsAdayantas#}
+; ----------------------------------------------
+; <L>128632<pc>7-176-c<k1>sUci<k2>sUci, sUcI/
+637178 old <div n="1">— 1〉 {%Nadel;%} auch {%eine chirurgische und Magnetnadel%}. {#sUcinA#}(!) <ls>R. 2,75,16</ls>.
+;
+637178 new <div n="1">— 1〉 {%Nadel;%} auch {%eine chirurgische und Magnetnadel%}. {#sUcinA#} (!) <ls>R. 2,75,16</ls>.
+; ----------------------------------------------
+; ******************************************************
+; cat=1:other: 30 changes
+; ******************************************************
+; <L>2102<pc>1-025-a<k1>atiSvan<k2>atiSvan
+9576 old {#atiSvan#}¦ (?).
+;
+9576 new {#atiSvan#} (?)¦.
+; ----------------------------------------------
+; <L>2991<pc>1-035-c<k1>aDoakza<k2>aDoakza/  not changed
+;13602 old <L>2991<pc>1-035-c<k1>aDoakza<k2>aDoakza/
+;
+;13602 new <L>2991<pc>1-035-c<k1>aDoakza<k2>aDo_akza/
+; ----------------------------------------------
+; <L>2991<pc>1-035-c<k1>aDoakza<k2>aDoakza/  not changed.
+;13603 old {#aDoakza/#}¦ <lex>Adj.</lex> {%nicht bis zur Achse reichend%}.
+;
+;13603 new {#aDo_akza/#}¦ <lex>Adj.</lex> {%nicht bis zur Achse reichend%}.
+; ----------------------------------------------
+; <L>5771<pc>1-068-b<k1>anvAlaBana<k2>anvAlaBana, anvAlamBana
+26079 old {#anvAlaBana#} und {#°lamBana#}¦(?) <lex>n.</lex> etwas {%Griff, Handhabe%}.
+;
+26079 new {#anvAlaBana#} und {#°lamBana#} (?)¦ <lex>n.</lex> etwas {%Griff, Handhabe%}.
+; ----------------------------------------------
+; <L>23789<pc>2-009-a<k1>katitiTa<k2>katitiTa
+111730 old {#katitiTa#}¦ (!) <lex>Adj.</lex> = {#katiTa#}. Mit folgendem {#cid#} oder {#ca#}(!) {%der so und so vielste%} <ls>BĀLAR. 162,19. 170,1</ls>.
+;
+111730 new {#katitiTa#} (!)¦ <lex>Adj.</lex> = {#katiTa#}. Mit folgendem {#cid#} oder {#ca#} (!) {%der so und so vielste%} <ls>BĀLAR. 162,19. 170,1</ls>.
+; ----------------------------------------------
+; <L>33045<pc>2-131-c<k1>kzev<k2>*kzev
+158439 old *√{#kzev#}¦ (?), {#kzevati#} ({#nirasane#}).
+;
+158439 new *√{#kzev#} (?)¦, {#kzevati#} ({#nirasane#}).
+; ----------------------------------------------
+; <L>52562<pc>3-118-c<k1>devasaha<k2>devasaha
+257263 old <div n="2">— b〉 = {#BikzAsUtra#}(?).
+;
+257263 new <div n="2">— b〉 = {#BikzAsUtra#} (?).
+; ----------------------------------------------
+; <L>56543<pc>3-177-b<k1>nandamitra<k2>*nandamitra
+277370 old *{#nandamitra#}¦(?) <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+;
+277370 new *{#nandamitra#} (?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes.
+; ----------------------------------------------
+; <L>56730<pc>3-180-c<k1>namuca<k2>namuca
+278453 old {#namuca#}¦(?) <lex>m.</lex> <ab>N. pr.</ab> eines alten Weisen.
+;
+278453 new {#namuca#} (?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines alten Weisen.
+; ----------------------------------------------
+; <L>56900<pc>3-182-c<k1>narasaMGArAma<k2>*narasaMGArAma
+279208 old *{#narasaMGArAma#}¦(?) <lex>m.</lex> <ab>N. pr.</ab> eines <ab>buddh.</ab> Klosters.
+;
+279208 new *{#narasaMGArAma#} (?)¦ <lex>m.</lex> <ab>N. pr.</ab> eines <ab>buddh.</ab> Klosters.
+; ----------------------------------------------
+; <L>57322<pc>3-188-c<k1>nahas<k2>na/has
+281283 old {#na/has#}¦(?) <ls>SUPARṆ. 22,1</ls>.
+;
+281283 new {#na/has#} (?)¦ <ls>SUPARṆ. 22,1</ls>.
+; ----------------------------------------------
+; <L>61903<pc>4-006-a<k1>paYcaDAvanDyAprakASa<k2>paYcaDAvanDyAprakASa
+303545 old {#paYcaDAvanDyAprakASa#}¦(?) <lex>m.</lex> Titel eines Werkes.
+;
+303545 new {#paYcaDAvanDyAprakASa#} (?)¦ <lex>m.</lex> Titel eines Werkes.
+; ----------------------------------------------
+; <L>62381<pc>4-012-c<k1>paRaDA<k2>*paRaDA
+305888 old *{#paRaDA#}¦(?) <lex>f.</lex> {%<bot>Panicum verticillatum</bot>%} <ls>RĀJAN. 8,140</ls>.
+;
+305888 new *{#paRaDA#} (?)¦ <lex>f.</lex> {%<bot>Panicum verticillatum</bot>%} <ls>RĀJAN. 8,140</ls>.
+; ----------------------------------------------
+; <L>64716<pc>4-051-b<k1>parp<k2>*parp
+317964 old *√{#parp#}¦ (?), {#parpati#} ({#gatO#}).
+;
+317964 new *√{#parp#} (?)¦, {#parpati#} ({#gatO#}).
+; ----------------------------------------------
+; <L>73747<pc>4-179-a<k1>prahitu<k2>prahitu
+362104 old {#prahitu#}¦ (?), {#prahitoH saMyojane#} Name zweier <is>Sāman</is> <ls>ĀRṢ. BR. 1,382</ls>.
+;
+362104 new {#prahitu#} (?)¦, {#prahitoH saMyojane#} Name zweier <is>Sāman</is> <ls>ĀRṢ. BR. 1,382</ls>.
+; ----------------------------------------------
+; <L>91091<pc>5-144-a<k1>yuC<k2>yuC
+448763 old <div n="p">— Mit {#nirA#}(?) <ls>ŚĀṄKH. ŚR. 12,22,3</ls>.
+;
+448763 new <div n="p">— Mit {#nirA#} (?) <ls>ŚĀṄKH. ŚR. 12,22,3</ls>.
+; ----------------------------------------------
+; <L>91437<pc>5-152-a<k1>yogAyana<k2>yogAyana
+450713 old {#yogAyana#}¦ (?).
+;
+450713 new {#yogAyana#} (?)¦.
+; ----------------------------------------------
+; <L>93243<pc>5-177-c<k1>rAj<k2>1. rAj
+459828 old <div n="p">— Mit {#apa#}, {#a/pArAw#}(?) <ls>MAITR. S. 1,6,3 (90,5). 4,8,3</ls>.
+;
+459828 new <div n="p">— Mit {#apa#}, {#a/pArAw#} (?) <ls>MAITR. S. 1,6,3 (90,5). 4,8,3</ls>.
+; ----------------------------------------------
+; <L>95182<pc>5-207-c<k1>rohiz<k2>*rohiz
+469801 old *{#rohiz#}¦ (!)
+;
+469801 new *{#rohiz#} (!)¦
+; ----------------------------------------------
+; <L>95699<pc>5-216-a<k1>latAliNga<k2>latAliNga
+472468 old {#latAliNga#}¦(?) <ls>Verz. d. B. H. 274,1,3</ls>.
+;
+472468 new {#latAliNga#} (?)¦ <ls>Verz. d. B. H. 274,1,3</ls>.
+; ----------------------------------------------
+; <L>102884<pc>6-096-a<k1>viDaraRa<k2>vi/DaraRa
+510630 old <div n="1">— 2〉 <lex>f.</lex> {#viDa/raRI#}(?) <ls>AV. 9,7,4</ls>.
+;
+510630 new <div n="1">— 2〉 <lex>f.</lex> {#viDa/raRI#} (?) <ls>AV. 9,7,4</ls>.
+; ----------------------------------------------
+; <L>103668<pc>6-107-b<k1>viBuvarI<k2>viBuvarI
+514528 old {#viBuvarI#}¦(?) <lex>Adj.</lex> <lex>f.</lex> etwa {%weit reichend%}.
+;
+514528 new {#viBuvarI#} (?)¦ <lex>Adj.</lex> <lex>f.</lex> etwa {%weit reichend%}.
+; ----------------------------------------------
+; <L>106221<pc>6-146-c<k1>vUs<k2>vUs
+527521 old √{#vUs#}¦(!), {#vUsyet#} angeblich = {#pfTakkuryAt#} <ls>PRIY. 37,2</ls>.
+;
+527521 new √{#vUs#} (!)¦, {#vUsyet#} angeblich = {#pfTakkuryAt#} <ls>PRIY. 37,2</ls>.
+; ----------------------------------------------
+; <L>109871<pc>6-200-a<k1>SatabAhu<k2>SatabAhu/
+545480 old {#SatabAhu/#}¦ (!)
+;
+545480 new {#SatabAhu/#} (!)¦
+; ----------------------------------------------
+; <L>129149<pc>7-183-a<k1>sfpta<k2>sf/pta
+639616 old {#sf/pta#}¦ (!)
+;
+639616 new {#sf/pta#} (!)¦
+; ----------------------------------------------
+; <L>200117<pc>1-283-a<k1>agfhyamAnakAraRa<k2>agfhyamAnakAraRa
+674513 old {#agfhyamAnakAraRa#}¦ (!), {#Aryasamaya#} <ls>ĀPAST.</ls><info n="sup_1"/>
+;
+674513 new {#agfhyamAnakAraRa#} (!)¦, {#Aryasamaya#} <ls>ĀPAST.</ls><info n="sup_1"/>
+; ----------------------------------------------
+; <L>200605<pc>1-288-a<k1>anasTaka<k2>ana/sTaka
+676465 old {#ana/sTaka#}¦ (!).<info n="sup_1"/>
+;
+676465 new {#ana/sTaka#} (!)¦.<info n="sup_1"/>
+; ----------------------------------------------
+; <L>202326<pc>2-290-c<k1>apsas<k2>a/psas
+683362 old {#a/psas#}¦ (?), {#yadapsaScakfmA vayam#} parallel mit {#yadenaScakfmA vayam#} <ls>MAITR. S. 1,10,2</ls> (<ls>KĀṬH. 9,4</ls>. {#apsvas#} <ls>KAP. S. 8,7</ls>). Man könnte {#aM/has#} oder {#A/gas#} vermuthen.<info n="sup_2"/>
+;
+683362 new {#a/psas#} (?)¦, {#yadapsaScakfmA vayam#} parallel mit {#yadenaScakfmA vayam#} <ls>MAITR. S. 1,10,2</ls> (<ls>KĀṬH. 9,4</ls>. {#apsvas#} <ls>KAP. S. 8,7</ls>). Man könnte {#aM/has#} oder {#A/gas#} vermuthen.<info n="sup_2"/>
+; ----------------------------------------------
+; <L>203974<pc>3-254-c<k1>aSezas<k2>aSe/zas
+689953 old {#aSe/zas#}¦ (!), so zu betonen.<info n="sup_3"/>
+;
+689953 new {#aSe/zas#} (!)¦, so zu betonen.<info n="sup_3"/>
+; ----------------------------------------------
+; <L>214433<pc>7-320-b<k1>ASrumay<k2>A/Srumay
+731861 old !√{#A/Srumay#}¦ (!), {#°yati#} <ls>MAITR. S. 3,10,3 (133,14)</ls>.<info n="sup_7"/>
+;
+731861 new !√{#A/Srumay#} (!)¦, {#°yati#} <ls>MAITR. S. 3,10,3 (133,14)</ls>.<info n="sup_7"/>
+; ----------------------------------------------
