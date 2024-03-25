@@ -166,7 +166,7 @@ Why not k2 = jinamantra, jinaSAstra jinastotra ?
 ---
 341575 old {#pfTuzwu#} und {#°zwukA#}¦ <lex>Adj.</lex> <lex>f.</lex> {%einen breiten Zopf habend%}. Nach auch = {#pfTujaGana#}.
 341575 new {#pfTuzwu#} <lex>Adj.</lex> und {#°zwukA#} <lex>f.</lex>¦ {%einen breiten Zopf habend%}. Nach auch = {#pfTujaGana#}.
-  PRINT CHANGE
+  PRINT CHANGE done
 ---
 <L>70123<pc>4-125-b<k1>pOrvadehika<k2>pOrvadehika, ⁅pOrva⁆°dehika
   ⁅pOrva⁆°dehika -> ⁅pOrva⁆°dEhika typo
@@ -310,7 +310,7 @@ new <L>95371<pc>5-211-a<k1>lakzmInfsiMhapaYcaratnamAlikA<k2>lakzmInfsiMhapaYcara
  ⁅oqaSa⁆ -> ⁅zoqaSa⁆
 ---
 <L>117618<pc>7-019-b<k1>saMgItakOmudI<k2>saMgItakOmudI, saMgItacUqAmaRI, saMgItadarpaRa, saMgItadAmodara, saMgInArAyaRa, saMgItamakaranda, saMgIttamuktAvalI, saMgItaratnamAlA, saMgItaratnAkara, ⁅saMgItaratnAkara⁆°kalAniDi, ⁅saMgItaratnAkara⁆°candrikA, ⁅saMgItaratnAkara⁆°wIkA, ⁅saMgIta⁆°rAGava
-  saMgInArAyaRa -> saMgItanArAyaRa print change
+  saMgInArAyaRa -> saMgItanArAyaRa print change done
   saMgIttamuktAvalI -> saMgItamuktAvalI typo
 ---
 <L>117644<pc>7-020-a<k1>saMgrahaRIratna<k2>saMgrahaRIratna, saMgrahaprakASikA, saMgraharAmAyaRa, ⁅saMgraharAmAyaRa⁆°vivaraRa
@@ -327,7 +327,7 @@ new <L>95371<pc>5-211-a<k1>lakzmInfsiMhapaYcaratnamAlikA<k2>lakzmInfsiMhapaYcara
 ---
 <L>124654<pc>7-124-c<k1>sAvairisole<k2>sAva_irisole
   sAva_irisole -> sAvairisole  slp1 does not need _ for hiatus
-  Note: mw:   sAvaisirole  MW print change?
+  Note: mw:   sAvaisirole  MW print change?  Yes. done
 ---
 <L>124811<pc>7-126-c<k1>sAhityakaRwakodDAra<k2>sAhityakaRwakodDAra, sAhityaka/mudI, sAhityacintAmaRi, sAhityacUqAmaRI, sAhityadarpaRa, sAhityamImAMsA, sAhityaratnamAlA, sAhityaratnAkara, sAhityasaraRivyAKyA, sAhityasarvasva, sAhityasAra, sAhityasUci
   sAhityaka/mudI -> sAhityakOmudI
@@ -369,20 +369,20 @@ END NOTES RE change_5_6_02_edit.org
 ------------------------------------------------------------------------
 TODO: print changes to note in csl-corrections for pw_printchange.txt
 ---
-print change
+print change done
 old: <L>85520<pc>5-058-b<k1>mahOzaDi<k2>mahOzaDi, ⁅mahOza⁆°zI
 new: <L>85520<pc>5-058-b<k1>mahOzaDi<k2>mahOzaDi, ⁅mahOza⁆°DI
 ---
-print change
+print change done
 534720 old {#vEdyanATadIkzitIya#} <lex>n.</lex> und {#°nATaBew#}¦ Titel von Werken <ls>OPP. CAT. 1</ls>.
 534720 new {#vEdyanATadIkzitIya#} <lex>n.</lex> und {#°nATaBEw#}¦ Titel von Werken <ls>OPP. CAT. 1</ls>. ;; print error (cf. ACC entry)  also PWG
 ---
-print change
+print change done
 <L>117618<pc>7-019-b<k1>saMgItakOmudI
   saMgInArAyaRa -> saMgItanArAyaRa print change
 ---
-print change?
+print change done
 <L>124385<pc>7-121-b<k1>sAradIya
- {#nAmamAlA#} -> {#°nAmamAlA#} ?
+ {#nAmamAlA#} -> {#°nAmamAlA#} 
  Note: SAradIyanAmamAlA in ACC
 ------------------------------------------------------------------------

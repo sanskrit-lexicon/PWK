@@ -80,7 +80,7 @@ These are all slp1-hiatus, except for sAradIya
 ---
  AB: <L>124385<pc>7-121-b<k1>sAradIyanAmamAlA<k2>sAradIyanAmamAlA, (SAradIyanAmamAlA)
 Jim: <L>124385<pc>7-121-b<k1>sAradIya<k2>sAradIya, (SAradIya), SAradIyanAmamAlA
- Note: Also bbline change {#nAmamAlA#} -> {#°nAmamAlA#}  PRINT CHANGE
+ Note: Also bbline change {#nAmamAlA#} -> {#°nAmamAlA#}  PRINT CHANGE done
 ---
 <L>124654<pc>7-124-c<k1>sAvairisole<k2>sAva_irisole
   sAva_irisole -> sAvairisole

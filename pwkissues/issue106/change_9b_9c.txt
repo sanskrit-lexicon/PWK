@@ -1,0 +1,60 @@
+; <L>17562<pc>1-214-a<k1>ISvarItantra<k2>ISvarItantra, ISvare_nityasuKAvasTApanam
+81849 old <L>17562<pc>1-214-a<k1>ISvarItantra<k2>ISvarItantra, ISvare_nityasuKAvasTApanam
+;
+81849 new <L>17562<pc>1-214-a<k1>ISvarItantra<k2>ISvarItantra, ISvare nityasuKAvasTApanam
+;---------------------------------------------------
+; <L>43533<pc>2-278-b<k1>jyoti<k2>jyoti
+212306 old {#jyoti#}¦ = {#°s#}. Nur <ab>Loc.</ab> {#jyotO#} und in {#°darSana#} (<ls>GARGA</ls> in der <ab>N.</ab> zur <ab>Uebers.</ab> von <ls>VARĀH. BṚH. S. 30,2</ls>). {#daSa°Sata°#}.
+;
+212306 new {#jyoti#}¦ = {#°s#}. Nur <ab>Loc.</ab> {#jyotO#} und in {#°darSana#} (<ls>GARGA</ls> in der <ab>N.</ab> zur <ab>Uebers.</ab> von <ls>VARĀH. BṚH. S. 30,2</ls>). {#daSa°#}, {#Sata°#}.
+;---------------------------------------------------
+; <L>60044<pc>3-225-a<k1>nizAda<k2>nizAda/
+294400 old <div n="2">— a〉 <ab>Bez.</ab> {%nichtarischer in wildem Zustande lebender Volksstämme in Indien%} (auch als {%eine <ab>best.</ab> Mischlingskaste%} betrachtet). <ab>Sg.</ab> als Bezeichnung {%eines Einzelnen%} — und als <ab>N. pr.</ab> {%des Urahnen dieses Stammes%}. <ab>Nom. abstr.</ab> {#nizAda°tva#} <lex>n.</lex>
+;
+294400 new <div n="2">— a〉 <ab>Bez.</ab> {%nichtarischer in wildem Zustande lebender Volksstämme in Indien%} (auch als {%eine <ab>best.</ab> Mischlingskaste%} betrachtet). <ab>Sg.</ab> als Bezeichnung {%eines Einzelnen%} — und als <ab>N. pr.</ab> {%des Urahnen dieses Stammes%}. <ab>Nom. abstr.</ab> {#nizAdatva#} <lex>n.</lex>
+;---------------------------------------------------
+; <L>73947<pc>4-181-b<k1>prAghAra<k2>prAg_hAra
+362994 old <L>73947<pc>4-181-b<k1>prAghAra<k2>prAg_hAra
+;
+362994 new <L>73947<pc>4-181-b<k1>prAghAra<k2>prAghAra
+;---------------------------------------------------
+; <L>100978<pc>6-068-a<k1>vArimasi<k2>*vArimasi
+501040 old <L>100978<pc>6-068-a<k1>vArimasi<k2>*vArimasi
+;
+501040 new <L>100978<pc>6-068-a<k1>vArimasi<k2>*vArimasi, (vArimazi)
+;---------------------------------------------------
+; <L>100978<pc>6-068-a<k1>vArimasi<k2>*vArimasi
+501041 old *{#vArimasi#}¦ (besser {#°mazi#}) <lex>f.</lex> {%Regenwolke%}.
+;
+501041 new *{#vArimasi#} (besser {#°mazi#})¦ <lex>f.</lex> {%Regenwolke%}.
+;---------------------------------------------------
+; <L>113882<pc>6-255-c<k1>SUrpaRaKA<k2>SUrpaRaKA, SUrpa°RaKI
+565127 old <L>113882<pc>6-255-c<k1>SUrpaRaKA<k2>SUrpaRaKA, SUrpa°RaKI
+;
+565127 new <L>113882<pc>6-255-c<k1>SUrpaRaKA<k2>SUrpaRaKA, SUrpaRaKI
+;---------------------------------------------------
+; <L>120606<pc>7-064-c<k1>samucCraya<k2>samucCraya
+597908 old <div n="1">— 1〉 <lex>Adj.</lex> {%was in die Höhe schiesst%}. {#sarvaM°yam#} so <ab>v. a.</ab> {%alles Lebende%}.
+;
+597908 new <div n="1">— 1〉 <lex>Adj.</lex> {%was in die Höhe schiesst%}. {#sarvaM °yam#} so <ab>v. a.</ab> {%alles Lebende%}.
+;---------------------------------------------------
+; <L>122913<pc>7-100-b<k1>sahaprakfti<k2>sahaprakfti, sahapraklapti
+609461 old {#sahaprakfti#} und {#sahapraklapti#}¦ (besser) <lex>f.</lex> {%eine Vorschrift über Gleichzeitigkeit, — Zusammengehörigkeit%} <ls>KĀTY. ŚR. 25,3,26</ls> nebst <ab>v. l.</ab>
+;
+609461 new {#sahaprakfti#} und {#sahapraklapti#} (besser)¦ <lex>f.</lex> {%eine Vorschrift über Gleichzeitigkeit, — Zusammengehörigkeit%} <ls>KĀTY. ŚR. 25,3,26</ls> nebst <ab>v. l.</ab>
+;---------------------------------------------------
+; <L>130345<pc>7-198-c<k1>sKalita<k2>sKalita
+645392 old <div n="2">— a〉 {%das Straucheln, Taumeln, Stolpern,%} {#pa°da#} <ab>Pl.</ab> <ls n="Chr.">306,12</ls>.
+;
+645392 new <div n="2">— a〉 {%das Straucheln, Taumeln, Stolpern%}. {#pada°#} <ab>Pl.</ab> <ls n="Chr.">306,12</ls>.
+;---------------------------------------------------
+; <L>205402<pc>4-296-a<k1>AyuHpati<k2>AyuHpati
+695679 old <L>205402<pc>4-296-a<k1>AyuHpati<k2>AyuHpati
+;
+695679 new <L>205402<pc>4-296-a<k1>AyuHpati<k2>AyuHpati, (Ayuzpati)
+;---------------------------------------------------
+; <L>205402<pc>4-296-a<k1>AyuHpati<k2>AyuHpati
+695680 old {#AyuHpati#}¦ (besser {#Ayuzpati#}) <lex>n.</lex> {%Herr des Alters%} ({#sAman#}) <ls>ĀPAST. ŚR. 11,5,1</ls>.<info n="sup_4"/>
+;
+695680 new {#AyuHpati#} (besser {#Ayuzpati#})¦ <lex>n.</lex> {%Herr des Alters%} ({#sAman#}) <ls>ĀPAST. ŚR. 11,5,1</ls>.<info n="sup_4"/>
+;---------------------------------------------------

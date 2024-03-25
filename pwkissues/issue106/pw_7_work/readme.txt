@@ -113,7 +113,7 @@ BEGIN NOTES: where Jim disagrees with AB
 ---
 <L>124385<pc>7-121-b<k1>sAradIya<k2>sAradIya_nAmamAlA, (SAradIya_nAmamAlA)
  (SAradIya_nAmamAlA) -> SAradIyanAmamAlA  cf. ACC
-   Also bbline change {#nAmamAlA#} -> {#°nAmamAlA#}  PRINT CHANGE
+   Also bbline change {#nAmamAlA#} -> {#°nAmamAlA#}  PRINT CHANGE  done
 ---
 <L>124654<pc>7-124-c<k1>sAvairisole<k2>sAva_irisole
  sAva_irisole -> sAvairisole (_ not needed for slp1 hiatus)
@@ -240,10 +240,10 @@ sh redolocal.sh 7b
 
 -----------------------------------------------------------
 TODO: notes for PW print change(s) to be documented in csl-corrections
----
+--- done
  <L>63546<pc>4-034-c<k1>parAmarSavAda
- hetuvicAra -> hetutAvicAra    cf. MW
----
+ °hetuvicAra -> °hetutAvicAra    cf. MW
+--- done
 <L>124385<pc>7-121-b<k1>sAradIya<k2>sAradIya_nAmamAlA, SAradIyanAmamAlA
    {#nAmamAlA#} -> {#°nAmamAlA#}
 ---

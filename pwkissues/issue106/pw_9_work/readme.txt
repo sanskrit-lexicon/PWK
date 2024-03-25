@@ -221,10 +221,62 @@ cd /c/xampp/htdocs/cologne/csl-orig/v02/pw/temp_to_install/
 cd althws
 # reconstructs ../pw_hwextra.txt
 sh redo.sh
----------------------
-
 
 -----------------------------------------------------------
+last-minute changes from AB
+ Ref: https://github.com/sanskrit-lexicon/PWK/issues/106#issuecomment-2017490352
+
+cp ../temp_pw_9b.txt temp_pw_9c_work.txt
+# manual edit of temp_pw_9c_work.txt
+
+# generate standardized change transactions
+python ../diff_to_changes_dict.py ../temp_pw_9b.txt temp_pw_9c_work.txt ../change_9b_9c.txt
+12 changes written to ../change_9b_9c.txt
+
+# generate temp_pw_9c.txt as final form
+cd ../
+python updateByLine.py temp_pw_9b.txt change_9b_9c.txt temp_pw_9c.txt
+764942 records written to temp_pw_9c.txt
+12 change transactions from change_9b_9c.txt
+
+# check
+diff temp_pw_9c_work.txt ../temp_pw_9c.txt
+# files are same, as expected
+# remove temp_pw_9c_work.txt, as it is not needed now.
+rm temp_pw_9c_work.txt
+-----------------------------------------------------------
+Prepare version 9c for installation.
+---
+cd /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue106
+cp temp_pw_9c.txt /c/xampp/htdocs/cologne/csl-orig/v02/pw/pw.txt
+
+cd /c/xampp/htdocs/cologne/csl-orig/v02/pw
+# move althws directory from its test location, so tracked by git
+cp -r temp_to_install/althws .
+# regenerate pw_hwextra.txt
+cd althws
+sh redo.sh
+# generate local displays
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh pw  ../../pw
+sh xmlchk_xampp.sh pw
+# ok
+
+---------------------
+# push csl-orig to github
+cd /c/xampp/htdocs/cologne/csl-orig/v02/
+git status  # pw/pw.txt, pw/pw_hwextra.txt, pw/althws
+git add .
+git commit -m "PW: Alternate headwords and other work.
+Ref: https://github.com/sanskrit-lexicon/PWK/issues/106
+Installed temp_pw_9c.txt"
+git push
+cd /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue106
+
+-----------------------------------------------------------
+TODO print change (Andhrabharati) done
+<L>60044<pc>3-225-a<k1>nizAda<k2>nizAda/
+{#nizAda°tva#} -> {#nizAdatva#}
 -----------------------------------------------------------
 -----------------------------------------------------------
 THE END

@@ -300,7 +300,7 @@ The script bb_k2prob_all.sh in code directory does this analysis for each
  bbcode.
 
 ----------------------------------------------------
-NO SCAN: TODO
+NO SCAN: TODO  problem corrected.
 <L>209421<pc>7-289-a<k1>aMholiNga<k2>aMholiNga
 https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=pw&page=7-289
 
@@ -313,62 +313,13 @@ These are identified in bb_NA.txt.
 
 
 ***********************************************************
-OLD NOTES
-----------------------------------------------------------
-Save a copy of the metalines of pw that have <e>
-grep -E '<e>' temp_pw_0.txt > pw_e_metalines.txt
+brief guide to subdirectories:
+bb  Broken-bar work. See above in this readme
+chr ls Expansion of Chr. references
+code python code referenced above in this readme
+italic_tooltip  First exploration of Andhrabharati CSS code for displaying tooltip text in italics
+pw_3_work ... pw_9_work  steps in modification of pw.txt
+Last version temp_pw_9c.txt.  This version installed.
 
-wc -l pw_e_metalines.txt
-# 135764 pw_e_metalines.txt
-
-----------------------------------------------------------
-temp_pw_1.txt : remove <e>N
-python remove_e.py temp_pw_0.txt temp_pw_1.txt
-764479 lines read from temp_pw_0.txt
-764479 lines written to temp_pw_1.txt
-
-Note: In <e>N,  the code N is of form ddd  (3 digits)
---------
-# test displays for pwk
- 
-cp temp_pw_1.txt /c/xampp/htdocs/cologne/csl-orig/v02/pw/pw.txt
-cd /c/xampp/htdocs/cologne/csl-pywork/v02
-sh generate_dict.sh pw  ../../pw
-sh xmlchk_xampp.sh pw
-# ok  
-
-
--------------------------------------------------------
-install temp_pw_1 into csl-orig.
----
-First, locally.
-cd /c/xampp/htdocs/sanskrit-lexicon/pwk/pwkissues/issue106
-cp temp_pw_1.txt /c/xampp/htdocs/cologne/csl-orig/v02/pw/pw.txt
-
---- pull csl-orig, to get latest repository
-cd /c/xampp/htdocs/cologne/csl-orig/v02/
-git pull # in case
-
-# sync to github
-cd /c/xampp/htdocs/cologne/csl-orig/v02/
-git pull #
-git add .
-git commit -m "PW: remove <e>N codes from metaline.
-Ref: https://github.com/sanskrit-lexicon/PWK/issues/106"
-git push
-
-
----------------------
-sync cologne from github for csl-orig repository
---- regenerate displays at Cologne
-# login to cologne server
-cd csl-pywork/v02, etc.
----------------------
-Sync this repo to github
-cd /c/xampp/htdocs/sanskrit-lexicon/pwk/pwkissues/issue106
-git add .
-git commit -m "PW: remove <e>N codes from metaline.
-Ref: https://github.com/sanskrit-lexicon/PWK/issues/106"
----------------------
-
-TODO 5-257-b (naw) L=207518) page not found
+The final version changes about 42000 lines out of 764942, or about 5% of lines.
+There are now about 12000 'alternate' headwords.

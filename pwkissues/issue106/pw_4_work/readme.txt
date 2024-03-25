@@ -393,6 +393,6 @@ a/u  -> O/
 example: 42272 new <L>9297<pc>1-108-c<k1>arkASvameDa<k2>arkASvameDa, °Da/u
  (corrected in 07 group)
 ---
-print change
+print change: done
 <L>117618<pc>7-019-b<k1>saMgItakOmudI
 saMgInArAyaRa -> saMgItanArAyaRa
