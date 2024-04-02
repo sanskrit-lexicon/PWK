@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        /* Style for the tooltip */
+     i >   .tooltip {
+            position: relative;
+            display: inline-block;
+	    border-bottom: 1px dotted #000; text-decoration: none;
+        }
+
+     i >    .tooltip::after {
+            content: attr(title);
+            position: absolute;
+            background-color: #000;
+            color: #fff;
+            padding: 5px;
+            border-radius: 5px;
+            font-style: italic; /* Set the font style to italic */
+            white-space: nowrap;
+            opacity: 0;
+            visibility: hidden;
+            transition: opacity 0.3s;
+            bottom: 125%;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+
+      i >   .tooltip:hover::after {
+            opacity: 1;
+            visibility: visible;
+        }
+     /* tooltip NOT a child of 'i' */
+:not(i) > span  .tooltip {
+     position: relative;
+     display: inline-block;
+     border-bottom: 1px dotted #000; text-decoration: none;
+ }
+
+:not(i) > span  .tooltip::after {
+     content: attr(title);
+     position: absolute;
+     background-color: #000;
+     color: #fff;
+     padding: 5px;
+     border-radius: 5px;
+     font-style: bold;  /* Set the font style to bold */
+     white-space: nowrap;
+     opacity: 0;
+     visibility: hidden;
+     transition: opacity 0.3s;
+     bottom: 125%;
+     left: 50%;
+     transform: translateX(-50%);
+ }
+      :not(i) >   .tooltip:hover::after {
+            opacity: 1;
+            visibility: visible;
+        }
+    </style>
+    <title>Italic Tooltip</title>
+</head>
+<body>
+  <br>
+  <h1>version 1.1</h1>
+	<br>
+	<h2>Tooltip in italics (child of 'i')</h2>
+	  <p>*काण्डपुष्प — 1〉 <b>n.</b> <i>die Blüthe von Artemisia indica</i>. — 2〉 <b>f.</b> आ wohl <i>die Pflanze <span class="tooltip" title="Artemisia indica">A. i.</span>.</i></p>
+	  <h2>Tooltip not in italics (not a child of 'i')</h2>
+	<p>
+*काण्डपुष्प — 1〉 <b>n.</b> die Blüthe von Artemisia indica. — 2〉 <b>f.</b> आ wohl die Pflanze <span class="tooltip" title="Artemisia indica">A. i.</span>.	  
+	  </p>
+</body>
+</html>

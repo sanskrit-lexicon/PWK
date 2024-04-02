@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+    /* Style for the tooltip */
+    .custom-tooltip {
+        position: relative;
+        cursor: pointer;
+    }
+
+    /* Tooltip content */
+    .custom-tooltip::after {
+        content: attr(title); /* Display the tooltip text */
+        position: absolute;
+        top: 100%;
+        left: 50%;
+        transform: translateX(-50%);
+        background-color: #f9f9f9;
+        color: #333;
+        padding: 5px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        font-size: 14px;
+        opacity: 0; /* Initially hidden */
+        transition: opacity 0.2s ease;
+    }
+
+    /* Show tooltip on hover */
+    .custom-tooltip:hover::after {
+        opacity: 1;
+    }
+</style>
+</head>
+<body>
+  <H2>use the title attribute</H2>
+
+<span class="custom-tooltip" title="Custom tooltip text">Hover over me</span>
+</body>
+</html>
