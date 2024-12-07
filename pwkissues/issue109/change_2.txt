@@ -1,0 +1,80 @@
+; <L>11884<pc>1-139-c<k1>aSvameDaka<k2>aSvameDaka
+44736 old {#aSvameDaka#} oder {#°meDaja#}¦ <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten <ls>BHĀG. P. 9,22,38.</ls> <ls n="BHĀG. P. 9,22,">(39)</ls>.
+;
+44736 new {#aSvameDaka#} oder {#°meDaja#}¦ <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten <ls>BHĀG. P. 9,22,38.</ls> (<ls n="BHĀG. P. 9,22,">39</ls>).
+;---------------------------------------------------
+; <L>21461<pc>1-262-b<k1>ftaMBara<k2>ftaMBara
+83278 old <div n="1">— 2〉 <lex>m.</lex> <ab>Bein.</ab> <is>Viṣṇu</is>ʼs <ls n="BHĀG. P.">BHĀG. 6,13,17</ls>.
+;
+83278 new <div n="1">— 2〉 <lex>m.</lex> <ab>Bein.</ab> <is>Viṣṇu</is>ʼs <ls n="BHĀG. P.">6,13,17</ls>.
+;---------------------------------------------------
+; <L>21824<pc>1-267-a<k1>ekapati<k2>ekapati
+84708 old {#ekapati#}¦ <lex>m.</lex> {%ein und derselbe Gatte%} <ls>BHĀG. P. 4,26,27</ls>.
+;
+84708 new {#ekapati#}¦ <lex>m.</lex> {%ein und derselbe Gatte%} <ls>BHĀG. P. 4,20,27</ls>.
+;---------------------------------------------------
+; <L>26676<pc>2-050-a<k1>kAmASaya<k2>kAmASaya
+105300 old {#kAmASaya#}¦ <lex>m.</lex> {%der Sitz des Begehrens%} <ls>BHĀG. P. 7</ls>.
+;
+105300 new {#kAmASaya#}¦ <lex>m.</lex> {%der Sitz des Begehrens%} <ls>BHĀG. P. 7,11,34.</ls>.
+;---------------------------------------------------
+; <L>34382<pc>2-148-a<k1>gataspfha<k2>gataspfha
+137484 old <div n="1">— 1〉 {%kein Verlangen —, kein Wohlgefallen mehr habend%} <ls>Spr. 2796</ls>. die Ergänzung im <ab>Loc.</ab> (<ls>BHĀG. P. 7,10,190</ls>) oder <ab>Gen.</ab> (<ls>R. GORR. 2,1,10</ls>).
+;
+137484 new <div n="1">— 1〉 {%kein Verlangen —, kein Wohlgefallen mehr habend%} <ls>Spr. 2796</ls>. die Ergänzung im <ab>Loc.</ab> (<ls>BHĀG. P. 7,10,19</ls>) oder <ab>Gen.</ab> (<ls>R. GORR. 2,1,10</ls>).
+;---------------------------------------------------
+; <L>39232<pc>2-216-a<k1>car<k2>car
+158594 old <div n="1">— 12〉 {%verzehren%} (von Ameisen) <ls>BHĀG. P. 7,15</ls>.
+;
+158594 new <div n="1">— 12〉 {%verzehren%} (von Ameisen) <ls>BHĀG. P. 7,3,15</ls>.
+;---------------------------------------------------
+; <L>47512<pc>3-050-c<k1>triDAman<k2>triDAman<h>2
+194858 old <div n="2">— b〉 {%in allen drei Welten erglänzend%} <ls>BHĀG. P. 3,8. 31</ls>. <ls>VP. 2,8,54</ls>. (hier vom <ab>Comm.</ab> anders erklärt).
+;
+194858 new <div n="2">— b〉 {%in allen drei Welten erglänzend%} <ls>BHĀG. P. 3,8,31</ls>. <ls>VP. 2,8,54</ls>. (hier vom <ab>Comm.</ab> anders erklärt).
+;---------------------------------------------------
+; <L>49440<pc>3-076-c<k1>daSArDa<k2>daSArDa
+202888 old {#daSArDa#}¦ <lex>Adj.</lex> <ab>Pl.</ab> {%fünf%}. {#°vayas#} <lex>Adj.</lex> {%fünfjährig%} <ls>BHĀG. P. 5,15,30</ls>.
+;
+202888 new {#daSArDa#}¦ <lex>Adj.</lex> <ab>Pl.</ab> {%fünf%}. {#°vayas#} <lex>Adj.</lex> {%fünfjährig%} <ls>BHĀG. P. 3,15,30</ls>.
+;---------------------------------------------------
+; <L>63492<pc>4-034-a<k1>parAYc<k2>pa/rAYc
+262083 old <div n="3">— β〉 {%nach vorn%} <ls>BHĀG. P. 5,5,3,1</ls>.
+;
+262083 new <div n="3">— β〉 {%nach vorn%} <ls>BHĀG. P. 5,5,31</ls>.
+;---------------------------------------------------
+; <L>82462<pc>5-016-c<k1>maDumEreya<k2>maDumEreya
+340902 old {#maDumEreya#}¦ <lex>m.</lex> {%ein aus Honig bereitetes berauschendes Getränk%} <ls>P. 6,2,70, <ab>Sch.</ab></ls> <ls>BHĀG. P. 6,2,59</ls>.
+;
+340902 new {#maDumEreya#}¦ <lex>m.</lex> {%ein aus Honig bereitetes berauschendes Getränk%} <ls>P. 6,2,70, <ab>Sch.</ab></ls> <ls>BHĀG. P. 6,1,59</ls>.
+;---------------------------------------------------
+; <L>84707<pc>5-048-c<k1>mahABogin<k2>mahABogin
+350359 old {#mahABogin#}¦ <lex>Adj.</lex> <ab>dass.</ab> <ls>BHĀG. P. 5,24,81</ls>.
+;
+350359 new {#mahABogin#}¦ <lex>Adj.</lex> <ab>dass.</ab> <ls>BHĀG. P. 5,24,31</ls>.
+;---------------------------------------------------
+; <L>84708<pc>5-048-c<k1>mahABoja<k2>mahABoja
+350364 old <div n="1">— 2〉 <ab>N. pr.</ab> eines {%Fürsten%}.
+;
+350364 new <div n="1">— 2〉 <ab>N. pr.</ab> ein ces {%Fürsten%}.
+;---------------------------------------------------
+; <L>98343<pc>6-021-b<k1>var<k2>var<h>2
+409440 old <div n="p">— Mit {#sam#} {%erwählen, aufsuchen%}. {#saMvfRute#} 3te <ab>Pl.</ab> (!) <ls>BHĀG. P. 1</ls>.
+;
+409440 new <div n="p">— Mit {#sam#} {%erwählen, aufsuchen%}. {#saMvfRute#} 3te <ab>Pl.</ab> (!) <ls>BHĀG. P.</ls>.
+;---------------------------------------------------
+; <L>119549<pc>7-049-c<k1>saptaSAlivawI<k2>saptaSAlivawI
+499464 old {#saptaSAlivawI#}¦ <lex>f.</lex> {%<ab>best.</ab> Quecksilberpillen gegen Syphilis%} <ls>Mat. med. 36</ls>. <ls>BHĀG. P. 6,52</ls>.
+;
+499464 new {#saptaSAlivawI#}¦ <lex>f.</lex> {%<ab>best.</ab> Quecksilberpillen gegen Syphilis%} <ls>Mat. med. 36</ls>. <ls>BHĀV. P. 6,52</ls>.
+;---------------------------------------------------
+; <L>206319<pc>5-244-a<k1>apravizwa<k2>apravizwa
+588168 old {#apravizwa#}¦ <lex>Adj.</lex> 1〉 {%nicht eingetreten —, nicht eingedrungen in%} (<ab>Loc.</ab>) <ls>BHĀG. P. 2,9,34</ls>. <ls n="BHĀG. P.">7,49,4</ls>. — 2〉 {%nicht betreten%} <ls>RAGH. 11,18</ls>.<info n="sup_5"/>
+;
+588168 new {#apravizwa#}¦ <lex>Adj.</lex> 1〉 {%nicht eingetreten —, nicht eingedrungen in%} (<ab>Loc.</ab>) <ls>BHĀG. P. 2,9,34</ls>. <ls n="BHĀG. P.">2,9,34</ls>. — 2〉 {%nicht betreten%} <ls>RAGH. 11,18</ls>.<info n="sup_5"/>
+;---------------------------------------------------
+; <L>206433<pc>5-245-b<k1>arTaracana<k2>arTaracana
+588520 old {#arTaracana#} <lex>n.</lex> oder {#°nA#} <lex>f.</lex>¦ {%das Betreiben seiner Sache, Verfolgung seines Zieles, Bemühung%}. Am Ende eines <ab>adj. Comp.</ab> <ls>BHĀG. P. 3,9,10</ls>. <ls n="BHĀG. P. 3">23,8</ls>.<info n="sup_5"/>
+;
+588520 new {#arTaracana#} <lex>n.</lex> oder {#°nA#} <lex>f.</lex>¦ {%das Betreiben seiner Sache, Verfolgung seines Zieles, Bemühung%}. Am Ende eines <ab>adj. Comp.</ab> <ls>BHĀG. P. 3,9,10</ls>. <ls n="BHĀG. P. 3,">23,8</ls>.<info n="sup_5"/>
+;---------------------------------------------------

@@ -1,0 +1,1037 @@
+2	a	5	<ls>BHĀG. P.</ls>
+112	akalpa	432	<ls>BHĀG. P. 3,30,13.</ls>
+112	akalpa	432	<ls n="BHĀG. P. 3,30,">14.</ls>
+112	akalpa	432	<ls n="BHĀG. P. 3,">31,8.</ls>
+112	akalpa	432	<ls n="BHĀG. P.">4,3,21.</ls>
+112	akalpa	432	<ls n="BHĀG. P.">5,14,25.</ls>
+112	akalpa	432	<ls n="BHĀG. P.">7,12,23</ls>
+177	akuSala	645	<ls>BHĀG. P. 2,10,40</ls>
+228	akrama	833	<ls>BHĀG. P. 4,16,7</ls>
+276	akzan	1048	<ls>BHĀG. P. 4,29,5</ls>
+407	aKaRqita	1526	<ls>BHĀG. P. 1,3,6</ls>
+407	aKaRqita	1526	<ls n="BHĀG. P.">3,31,37</ls>
+1231	ajaqa	4714	<ls>BHĀG. P. 7,5,46</ls>
+1240	ajanajanman	4745	<ls>BHĀG. P. 10,3,1</ls>
+1374	ajIva	5248	<ls>BHĀG. P. 3,29,28</ls>
+1538	aRu	5934	<ls>BHĀG. P. 3,11,5</ls>
+2121	atisaMBrama	7943	<ls>BHĀG. P. 10,81,5</ls>
+2141	atisukumAra	8009	<ls>BHĀG. P. 5,5,31</ls>
+2185	atIrTa	8158	<ls>BHĀG. P. 5,26,24</ls>
+2262	atyamarzaRa	8431	<ls>BHĀG. P. 3,1,37</ls>
+2445	adAnta	9131	<ls>BHĀG. P. 7,5,30</ls>
+2815	aDigamya	10637	<ls>BHĀG. P. 5,10,10</ls>
+2831	aDidaRqanetar	10693	<ls>BHĀG. P. 3,16,10</ls>
+3281	anativelam	12352	<ls>BHĀG. P. 4,21,39</ls>
+3390	anantarvAsas	12722	<ls>BHĀG. P. 9,8,6</ls>
+3856	anAtmya	14314	<ls>BHĀG. P. 4,4,29</ls>
+3879	anAdeSakara	14395	<ls>BHĀG. P. 8,20,14</ls>
+4011	anASrita	14859	<ls>BHĀG. P. 1,13,42</ls>
+4040	aniketa	14956	<ls>BHĀG. P. 11,3,25</ls>
+4082	anipAna	15103	<ls>BHĀG. P. 5,26,8</ls>
+4092	animitta	15146	<ls>BHĀG. P. 3,15,31</ls>
+4093	animittanimitta	15149	<ls>BHĀG. P. 3,15,14</ls>
+4094	animiza	15154	<ls>BHĀG. P. 3,20,12</ls>
+4101	animeza	15190	<ls>BHĀG. P. 6,10,1</ls>
+4168	anivartana	15424	<ls>BHĀG. P. 6,5,21</ls>
+4173	anivAraRa	15445	<ls>BHĀG. P. 3,15,35</ls>
+4179	anivftta	15464	<ls>BHĀG. P. 6,10,33</ls>
+4344	anuguRita	16091	<ls>BHĀG. P. 3,28,31</ls>
+4432	anudapAna	16429	<ls>BHĀG. P. ed. Bomb. 5,26,7</ls>
+4446	anudita	16477	<ls>BHĀG. P. 1,5,8</ls>
+4519	anupaTa	16732	<ls>BHĀG. P. 10,87,22</ls>
+4537	anupapannArTa	16804	<ls>BHĀG. P. 5,14,5</ls>
+4557	anupalakzita	16870	<ls>BHĀG. P. 5,17,1</ls>
+4786	anullaNGita	17750	<ls>BHĀG. P. 5,26,6.</ls>
+4786	anullaNGita	17750	<ls n="BHĀG. P.">12,1,9</ls>
+4818	anuvAda	17882	<ls>BHĀG. P. 5,10,15</ls>
+4866	anuSaya	18051	<ls>BHĀG. P. 10,87,22</ls>
+5437	antaHsparSa	20141	<ls>BHĀG. P. 3,10,18</ls>
+5521	anDas	20490	<ls>BHĀG. P.</ls>
+5531	anDra	20524	<ls>BHĀG. P. 12,1,20</ls>
+6207	aparvan	22980	<ls>BHĀG. P.</ls>
+6227	apavarga	23052	<ls>BHĀG. P. 5,20,45</ls>
+6471	apAzaRqa	23979	<ls>BHĀG. P. 5,26,22</ls>
+6471	apAzaRqa	23979	<ls>BHĀG. P. ed. BURN.</ls>
+6471	apAzaRqa	23979	<ls>BHĀG. P. ed. Bomb.</ls>
+6810	apratizWita	25234	<ls>BHĀG. P. 3,10,11</ls>
+6890	apramARavid	25499	<ls>BHĀG. P. 8,9,13</ls>
+7069	abadDavant	26114	<ls>BHĀG. P. 1,5,11</ls>
+7128	aboDa	26335	<ls>BHĀG. P. 8,7,11</ls>
+7187	abBakzaRa	26541	<ls>BHĀG. P. 9,4,40</ls>
+7202	aBakta	26602	<ls>BHĀG. P. 6,10,29</ls>
+7524	aBimAnin	27859	<ls>BHĀG. P. 4,1,59</ls>
+7589	aBivarzaRa	28104	<ls>BHĀG. P. 12,10,33</ls>
+7658	aBizaNga	28362	<ls>BHĀG. P. 10,90,11</ls>
+8064	amaNgalya	29928	<ls>BHĀG. P. 4,23,24</ls>
+8154	amarAcArya	30265	<ls>BHĀG. P. 6,7,15</ls>
+8306	amiTyArTaDI	30838	<ls>BHĀG. P. 6,2,38</ls>
+8355	amfjita	31045	<ls>BHĀG. P. 5,24,26</ls>
+8627	amBojanman	32126	<ls>BHĀG. P. 10,13,15</ls>
+8690	amlAna	32367	<ls>BHĀG. P. 2,2,10</ls>
+8818	ayukta	32851	<ls>BHĀG. P. 10,83,11</ls>
+8994	aratijYa	33545	<ls>BHĀG. P. 4,25,38</ls>
+8996	aratni	33552	<ls>BHĀG. P.</ls>
+9343	arcis	34963	<ls>BHĀG. P. 6,6,20</ls>
+9402	arTa	35248	<ls>BHĀG. P. 3,8,5</ls>
+9402	arTa	35261	<ls>BHĀG. P. 4,1,51</ls>
+9410	arTakASin	35289	<ls>BHĀG. P. 4,29,47</ls>
+9436	arTatfzRA	35394	<ls>BHĀG. P. 7,6,10</ls>
+9445	arTadfzwi	35423	<ls>BHĀG. P. 4,29,47</ls>
+9503	arTavyayanASa	35639	<ls>BHĀG. P. 5,26,36</ls>
+9927	alaNGya	37381	<ls>BHĀG. P. 4,4,14</ls>
+9941	alabDanidra	37429	<ls>BHĀG. P. 4,13,47</ls>
+10014	aliNga	37715	<ls>BHĀG. P. 1,15,31</ls>
+10421	avaDyeya	39222	<ls>BHĀG. P. 4,13,23</ls>
+10832	avANmanasa	40852	<ls>BHĀG. P. 5,1,21</ls>
+10896	avikalpa	41096	<ls>BHĀG. P. 3,9,3</ls>
+10964	avijYAtagati	41334	<ls>BHĀG. P. 1,13,24</ls>
+10975	avitaTABisaMDi	41372	<ls>BHĀG. P. 8,7,8</ls>
+10998	avidDa	41452	<ls>BHĀG. P. 3,9,3.</ls>
+10998	avidDa	41452	<ls n="BHĀG. P.">8,3,4</ls>
+11041	avipakvakazAya	41596	<ls>BHĀG. P. 1,6,22.</ls>
+11041	avipakvakazAya	41596	<ls n="BHĀG. P.">11,18,11</ls>
+11042	avipakvabudDi	41599	<ls>BHĀG. P. 1,18,12</ls>
+11064	avipralabDa	41669	<ls>BHĀG. P. 5,10,10</ls>
+11101	avimfzwa	41797	<ls>BHĀG. P. 4,26,25</ls>
+11154	avivfta	41969	<ls>BHĀG. P. 5,12,15</ls>
+11169	aviSudDa	42025	<ls>BHĀG. P. 6,16,41</ls>
+11182	aviSva	42069	<ls>BHĀG. P. 3,9,3</ls>
+11222	avismita	42219	<ls>BHĀG. P. 6,9,21</ls>
+11243	avIcimant	42295	<ls>BHĀG. P. 5,26,28</ls>
+11245	avIra	42304	<ls>BHĀG. P. 6,19,25</ls>
+11358	avyapadeSarUpin	42725	<ls>BHĀG. P. 5,18,31</ls>
+11393	avyavahita	42867	<ls>BHĀG. P. 3,29,12</ls>
+11394	avyavahfta	42871	<ls>BHĀG. P. 5,1,21</ls>
+11419	avyAvahArika	42955	<ls>BHĀG. P. 10,85,14</ls>
+11729	aSradDita	44140	<ls>BHĀG. P. 8,20,14</ls>
+11884	aSvameDaka	44736	<ls>BHĀG. P. 9,22,38.</ls>
+11884	aSvameDaka	44736	<ls n="BHĀG. P. 9,22,">39</ls>
+12244	asaMhata	46214	<ls>BHĀG. P. 2,5,32</ls>
+12253	asakta	46248	<ls>BHĀG. P. 1,6,28.</ls>
+12253	asakta	46248	<ls n="BHĀG. P.">3,3,19</ls>
+12279	asaMgata	46351	<ls>BHĀG. P. ed. Bomb. 2,5,32</ls>
+12347	asadvftti	46586	<ls>BHĀG. P. 3,5,44</ls>
+12444	asaMpanna	46949	<ls>BHĀG. P. 1,4,30</ls>
+12445	asaMparAyABimuKa	46952	<ls>BHĀG. P. 4,25,38</ls>
+12468	asaMBava	47044	<ls>BHĀG. P. 1,15,31</ls>
+12651	asImakfzRa	47725	<ls>BHĀG. P. 9,22,38</ls>
+12960	aspanda	48847	<ls>BHĀG. P. 12,6,9</ls>
+12968	aspazwa	48877	<ls>BHĀG. P. 4,23,34</ls>
+12972	aspfSya	48893	<ls>BHĀG. P.</ls>
+12973	aspfzwa	48897	<ls>BHĀG. P. 4,29,47.</ls>
+12973	aspfzwa	48897	<ls n="BHĀG. P.">6,3,15</ls>
+13049	asvatantra	49162	<ls>BHĀG. P. 1,6,7</ls>
+13086	ahaMrahita	49316	<ls>BHĀG. P. 10,38,11</ls>
+13118	ahanyamAna	49450	<ls>BHĀG. P. 3,17,25</ls>
+13685	AgnIDra	51649	<ls>BHĀG. P. 5,1,25</ls>
+13686	AgnIDraka	51657	<ls>BHĀG. P. 8,13,29</ls>
+14128	AttasAra	53309	<ls>BHĀG. P. 6,10,29</ls>
+14128	AttasAra	53311	<ls>BHĀG. P. 3,15,23</ls>
+14163	AtmatA	53448	<ls>BHĀG. P. 10,14,24. fg.</ls>
+14167	AtmatrARa	53464	<ls>BHĀG. P. 1,7,19</ls>
+14198	AtmapAta	53582	<ls>BHĀG. P. 2,1,39</ls>
+14295	AtmAvAsya	53951	<ls>BHĀG. P. 8,1,10</ls>
+14997	Apya	56722	<ls>BHĀG. P.</ls>
+15003	ApyAyana	56746	<ls>BHĀG. P. 5,20,9</ls>
+15125	Ama	57234	<ls>BHĀG. P. 5,20,21</ls>
+15351	AyurdA	58120	<ls>BHĀG. P. 5,20,27</ls>
+15692	Aryaka	59437	<ls>BHĀG. P. 5,20,22</ls>
+15911	Avapana	60275	<ls>BHĀG. P. 10,80,45.</ls>
+15911	Avapana	60275	<ls n="BHĀG. P. 10,">87,20</ls>
+15938	Avartana	60391	<ls>BHĀG. P. 5,19,30</ls>
+15962	Avaha	60496	<ls>BHĀG. P.</ls>
+16320	AsaNga	61962	<ls>BHĀG. P. 9,24,15</ls>
+16624	i	63189	<ls>BHĀG. P. 3,32,36</ls>
+16624	i	63542	<ls>BHĀG. P.</ls>
+16717	iq	64057	<ls>BHĀG. P. 6,5,27</ls>
+16722	iqaviqa	64079	<ls>BHĀG. P.</ls>
+16724	iqA	64098	<ls>BHĀG. P. 9,24,44</ls>
+16852	iDmajihva	64598	<ls>BHĀG. P. 5,1,25</ls>
+17056	indravAha	65353	<ls>BHĀG. P. 9,6,12</ls>
+17078	indrasAvarRi	65421	<ls>BHĀG. P. 8,13,34</ls>
+17086	indrasena	65450	<ls>BHĀG. P. 5,20,4</ls>
+17231	irAvant	66021	<ls>BHĀG. P. 3,12,13</ls>
+17277	iz	66217	<ls>BHĀG. P. 3,13,44.</ls>
+17277	iz	66217	<ls n="BHĀG. P.">9,4,52</ls>
+17283	iza	66317	<ls>BHĀG. P. 4,13,12</ls>
+17289	izaMDara	66336	<ls>BHĀG. P. 5,20,11</ls>
+17525	ISAna	67509	<ls>BHĀG. P. 5,20,26</ls>
+17679	ugra	68174	<ls>BHĀG. P. 6,6,17</ls>
+17711	ugraretas	68294	<ls>BHĀG. P. 3,12,12</ls>
+17754	uccarita	68477	<ls>BHĀG. P. 5,5,32</ls>
+18300	uttAnabarhis	70547	<ls>BHĀG. P. 9,3,27</ls>
+18381	utpaTa	70869	<ls>BHĀG. P. 1,17,16</ls>
+18791	udavasAna	72452	<ls>BHĀG. P. 4,7,56</ls>
+19271	unnati	74440	<ls>BHĀG. P. 4,1,49</ls>
+19380	upakaraRa	74904	<ls>BHĀG. P.</ls>
+20147	upasuparRam	77897	<ls>BHĀG. P. 8,5,29</ls>
+20310	upAdAnopalamBakatA	78536	<ls>BHĀG. P. 6,9,41</ls>
+20491	uBayatonABi	79246	<ls>BHĀG. P. 5,7,9</ls>
+20522	uBayaspfzwi	79344	<ls>BHĀG. P. 5,20,27</ls>
+20615	uru	79745	<ls>BHĀG. P. 8,13,34</ls>
+20669	uruSfNga	79949	<ls>BHĀG. P. 5,20,26</ls>
+20813	uSij	80548	<ls>BHĀG. P.</ls>
+20976	UQavayas	81208	<ls>BHĀG. P. 4,9,66</ls>
+20981	Uti	81232	<ls>BHĀG. P.</ls>
+21249	Uh	82379	<ls>BHĀG. P. 4,22,38</ls>
+21433	fta	83161	<ls>BHĀG. P. 4,13,16</ls>
+21461	ftaMBara	83278	<ls n="BHĀG. P.">6,13,17</ls>
+21824	ekapati	84708	<ls>BHĀG. P. 4,20,27</ls>
+21925	ekavarRa	85125	<ls>BHĀG. P. 8,5,29</ls>
+22071	ekAdaSaskanDArTanirUpaRakArikA	85667	<ls>BHĀG. P.</ls>
+22088	ekAnta	85727	<ls>BHĀG. P. 3,6,37</ls>
+22156	ekEka	85973	<ls>BHĀG. P.</ls>
+22424	EkAtmya	86996	<ls>BHĀG. P. 4,13,8.</ls>
+22424	EkAtmya	86996	<ls n="BHĀG. P. 4,">21,29</ls>
+22814	Otpattika	88514	<ls>BHĀG. P. 5,2,20</ls>
+23193	kakza	90046	<ls>BHĀG. P. 9,10,37</ls>
+23525	kawvaNga	91471	<ls>BHĀG. P. 9,9,41.</ls>
+23525	kawvaNga	91471	<ls>BHĀG. P. ed. Bomb.</ls>
+23525	kawvaNga	91471	<ls n="BHĀG. P. 9,">10,1</ls>
+23779	katama	92512	<ls>BHĀG. P.</ls>
+23792	katipaya	92566	<ls>BHĀG. P.</ls>
+23860	kaTodaya	92838	<ls>BHĀG. P. 1,7,12</ls>
+23863	kad	92854	<ls>BHĀG. P.</ls>
+23908	kadindriya	93061	<ls>BHĀG. P. 9,18,51</ls>
+23909	kadindriya	93064	<ls>BHĀG. P. 8,3,28</ls>
+24522	kayADu	95637	<ls>BHĀG. P. ed. Bomb.</ls>
+24527	kar	95700	<ls>BHĀG. P.</ls>
+24527	kar	95705	<ls>BHĀG. P.</ls>
+24529	kar	95995	<ls>BHĀG. P.</ls>
+24669	karamBa	96612	<ls>BHĀG. P. 3,26,45</ls>
+24692	karavIra	96705	<ls>BHĀG. P. 5,16,28</ls>
+24799	karuRa	97122	<ls>BHĀG. P.</ls>
+24858	karkanDu	97402	<ls>BHĀG. P. 3,31,2</ls>
+25290	karmasAraTi	99176	<ls>BHĀG. P. 5,23,3</ls>
+25327	karS	99319	<ls>BHĀG. P. ed. Bomb. 4,23,20</ls>
+25346	karhi	99578	<ls>BHĀG. P.</ls>
+25350	kala	99672	<ls>BHĀG. P.</ls>
+25415	kalala	99960	<ls>BHĀG. P. ed. Bomb. 3,31,2</ls>
+25585	kalp	100781	<ls>BHĀG. P. 5,20,30</ls>
+25585	kalp	100816	<ls>BHĀG. P. 5,26,38.</ls>
+25585	kalp	100816	<ls n="BHĀG. P. 5,">14,1</ls>
+25585	kalp	100821	<ls>BHĀG. P. 1,15,1</ls>
+25585	kalp	100824	<ls>BHĀG. P. 9,16,37</ls>
+25653	kalmaza	101125	<ls>BHĀG. P.</ls>
+25876	kaz	102009	<ls>BHĀG. P.</ls>
+26543	kAmadeva	104792	<ls>BHĀG. P. 5,18,15</ls>
+26579	kAmabindu	104929	<ls>BHĀG. P. 7,11,34</ls>
+26676	kAmASaya	105300	<ls>BHĀG. P. 7,11,34.</ls>
+26757	kAyenetivivaraRa	105671	<ls>BHĀG. P.</ls>
+27656	kAzWA	109290	<ls>BHĀG. P. 1,1,23</ls>
+27656	kAzWA	109294	<ls>BHĀG. P. 1,12,31</ls>
+27656	kAzWA	109295	<ls>BHĀG. P. 3,28,12.</ls>
+27656	kAzWA	109295	<ls n="BHĀG. P.">7,4,22</ls>
+27683	kAsAra	109394	<ls>BHĀG. P. 12,6,59</ls>
+27986	kilbiza	110608	<ls>BHĀG. P.</ls>
+28401	kuqya	112395	<ls>BHĀG. P.</ls>
+28666	kup	113532	<ls>BHĀG. P. 3,16,15</ls>
+28666	kup	113537	<ls>BHĀG. P. 4,5,11</ls>
+28994	kuraba	114901	<ls>BHĀG. P. 3,15,19</ls>
+29093	kulaka	115304	<ls>BHĀG. P. 5,20,16</ls>
+29405	kuSakASamaya	116470	<ls>BHĀG. P. 3,22,31</ls>
+29434	kuSala	116567	<ls>BHĀG. P. 1,14,29</ls>
+29684	kUwa	117590	<ls>BHĀG. P. 3,13,29</ls>
+30030	kftAgaska	118992	<ls>BHĀG. P. 10,88,29</ls>
+30933	kEvalya	122660	<ls>BHĀG. P. 3,11,2.</ls>
+30933	kEvalya	122660	<ls n="BHĀG. P.">5,3,17</ls>
+31174	kovida	123656	<ls>BHĀG. P. 5,20,16</ls>
+31353	kOtuka	124396	<ls>BHĀG. P. 1,17,26</ls>
+31701	kram	125864	<ls>BHĀG. P. 3,16,2</ls>
+32160	kva	128048	<ls>BHĀG. P.</ls>
+32191	kzaRa	128185	<ls>BHĀG. P. 3,3,21</ls>
+32328	kzam	128733	<ls>BHĀG. P.</ls>
+32441	kzAra	129268	<ls>BHĀG. P. 7,4,17</ls>
+32538	kzip	129690	<ls>BHĀG. P. 4,8,24.</ls>
+32538	kzip	129690	<ls n="BHĀG. P. 4,">15,17</ls>
+32538	kzip	129828	<ls>BHĀG. P. 8,18,25</ls>
+32590	kzIban	130048	<ls>BHĀG. P.</ls>
+33814	Kid	135051	<ls>BHĀG. P.</ls>
+33820	Kila	135099	<ls>BHĀG. P. 1,4,32.</ls>
+33820	Kila	135099	<ls n="BHĀG. P. 1,">5,8.</ls>
+33820	Kila	135099	<ls n="BHĀG. P.">6,4,49</ls>
+34238	gaRay	136886	<ls>BHĀG. P. ed. Bomb. 4,29,53</ls>
+34382	gataspfha	137484	<ls>BHĀG. P. 7,10,19</ls>
+34671	gaBIra	138752	<ls>BHĀG. P. 1,5,18</ls>
+34705	gamBIrabudDi	139256	<ls>BHĀG. P. 8,13,34</ls>
+34731	gar	139385	<ls>BHĀG. P. 1,1,14</ls>
+34731	gar	139414	<ls>BHĀG. P. 3,15,45</ls>
+35160	gA	141288	<ls>BHĀG. P.</ls>
+35160	gA	141321	<ls>BHĀG. P. 2,6,35</ls>
+35409	gAh	142412	<ls>BHĀG. P. 1,15,28</ls>
+35439	girikUwa	142584	<ls>BHĀG. P. 5,17,9</ls>
+35509	giriSiKara	142843	<ls>BHĀG. P. 5,17,8</ls>
+35689	guRagaRa	143554	<ls>BHĀG. P. 5,3,11</ls>
+35991	gurvarTa	144739	<ls>BHĀG. P. 3,16,14</ls>
+36183	gfDrARa	145512	<ls>BHĀG. P. 5,7,13</ls>
+36218	gfhacetas	145665	<ls>BHĀG. P. 9,11,17</ls>
+36288	gfhavrata	145902	<ls>BHĀG. P. 7,5,30</ls>
+36330	gfhItasAra	146058	<ls>BHĀG. P. 5,14,19</ls>
+36455	gogaRa	146589	<ls>BHĀG. P. 4,16,14</ls>
+36636	gopa	147321	<ls>BHĀG. P. 12,8,21</ls>
+37314	graB	150069	<ls>BHĀG. P.</ls>
+37314	graB	150087	<ls>BHĀG. P. 2,9,26</ls>
+37314	graB	150126	<ls>BHĀG. P.</ls>
+37314	graB	150288	<ls>BHĀG. P. 4,1,27</ls>
+37331	graha	150414	<ls>BHĀG. P. 4,7,31</ls>
+37331	graha	150438	<ls>BHĀG. P. 7,14,11</ls>
+37469	grAmaRI	150958	<ls>BHĀG. P. 5,21,15</ls>
+37987	GfRi	153332	<ls>BHĀG. P. 7,2,7</ls>
+38199	cakra	154261	<ls>BHĀG. P. 5,20,15</ls>
+38726	caturviMSati	156487	<ls>BHĀG. P.</ls>
+38799	catuzwaya	156761	<ls>BHĀG. P.</ls>
+38802	catuzpaYca	156774	<ls>BHĀG. P.</ls>
+39020	candramasa	157651	<ls>BHĀG. P. ed. Bomb. 4,28,35</ls>
+39058	candravaSA	157803	<ls>BHĀG. P. ed. Bomb. 5,19,18</ls>
+39232	car	158568	<ls>BHĀG. P.</ls>
+39232	car	158594	<ls>BHĀG. P. 7,3,15</ls>
+39415	carvaRa	159525	<ls>BHĀG. P. 7,5,30</ls>
+39443	caladgu	159720	<ls>BHĀG. P. 1,9,37</ls>
+39573	cAturhotra	160241	<ls>BHĀG. P. ed. Bomb. 7,3,30</ls>
+39634	cAmara	160475	<ls>BHĀG. P. 8,10,13</ls>
+39790	ci	161206	<ls>BHĀG. P. 5,3,9</ls>
+40064	citraraTa	162412	<ls>BHĀG. P. 4,10,22</ls>
+40166	cidAtmaka	162833	<ls>BHĀG. P. 8,3,2</ls>
+40661	cEtanyacandrikA	164937	<ls>BHĀG. P.</ls>
+40889	Cadi	166050	<ls>BHĀG. P. 7,14,13</ls>
+40893	Cadmawkara	166065	<ls>BHĀG. P. 3,18,26</ls>
+40978	Cambawkara	166422	<ls>BHĀG. P. ed. Bomb. 3,18,26</ls>
+41118	Cid	166999	<ls>BHĀG. P. 4,29,45</ls>
+41215	jakz	167513	<ls>BHĀG. P.</ls>
+41215	jakz	167514	<ls>BHĀG. P.</ls>
+41255	jagatsrazwar	167699	<ls>BHĀG. P. 3,9,44</ls>
+41470	jan	168690	<ls>BHĀG. P. 3,32,20</ls>
+41562	janAlaya	169064	<ls>BHĀG. P. 3,11,31</ls>
+41690	japya	169600	<ls>BHĀG. P.</ls>
+41698	jaB	169632	<ls>BHĀG. P. 3,20,25</ls>
+41978	jalakalmaza	170835	<ls>BHĀG. P. 8,7,43</ls>
+42441	jAtaveda	172720	<ls>BHĀG. P. 5,7,13</ls>
+42565	jApaka	173181	<ls>BHĀG. P. ed. Bomb. 9,6,10</ls>
+42669	jAlaka	173619	<ls>BHĀG. P. 3,20,17</ls>
+42671	jAlakamAlin	173639	<ls>BHĀG. P. 8,20,17</ls>
+42965	jIv	174875	<ls>BHĀG. P.</ls>
+42968	jIvakoSa	174964	<ls>BHĀG. P. 4,22,26.</ls>
+42968	jIvakoSa	174964	<ls n="BHĀG. P. 4,">23,11.</ls>
+42968	jIvakoSa	174964	<ls n="BHĀG. P.">10,82,47</ls>
+43050	jIvaBUta	175310	<ls>BHĀG. P. 5,24,19</ls>
+43138	jugupsita	175634	<ls>BHĀG. P. 1,5,15</ls>
+43138	jugupsita	175635	<ls>BHĀG. P. 1,7,42</ls>
+43158	juz	175737	<ls>BHĀG. P.</ls>
+43318	jYA	176424	<ls>BHĀG. P.</ls>
+43318	jYA	176450	<ls>BHĀG. P. 12,3,28</ls>
+43318	jYA	176547	<ls>BHĀG. P.</ls>
+43355	jYAnagUha	176716	<ls>BHĀG. P. 3,26,5</ls>
+43356	jYAnaGana	176719	<ls>BHĀG. P. 8,3,12.</ls>
+43356	jYAnaGana	176719	<ls n="BHĀG. P.">9,8,23</ls>
+44108	taq	180000	<ls>BHĀG. P.</ls>
+44165	tatadruh	180267	<ls>BHĀG. P. 1,18,37</ls>
+44363	tan	181220	<ls>BHĀG. P. 1,8,6.</ls>
+44363	tan	181220	<ls n="BHĀG. P. 1,">16,34.</ls>
+44363	tan	181220	<ls n="BHĀG. P.">3,21,20.</ls>
+44363	tan	181220	<ls n="BHĀG. P.">4,17,22</ls>
+44500	tantra	181860	<ls>BHĀG. P. 3,33,5</ls>
+44500	tantra	181876	<ls>BHĀG. P. ed. Bomb.</ls>
+44541	tandri	182099	<ls>BHĀG. P.</ls>
+44567	tapa	182356	<ls>BHĀG. P. 4,22,37</ls>
+44750	tar	183168	<ls>BHĀG. P.</ls>
+44976	tarza	184453	<ls>BHĀG. P.</ls>
+45485	tArkzya	186594	<ls>BHĀG. P. ed. Bomb. 6,6,2. 21</ls>
+45489	tArkzyaputra	186621	<ls>BHĀG. P. ed. Bomb. 3,2,24</ls>
+45496	tArkzyasuta	186642	<ls>BHĀG. P. ed. Bomb. 7,8,26</ls>
+45676	tigmagati	187417	<ls>BHĀG. P. 4,10,28</ls>
+45684	tigmanemi	187445	<ls>BHĀG. P. 10,57,21</ls>
+46080	tIrTa	189073	<ls>BHĀG. P. 8,19,4</ls>
+46082	tIrTakamaRqalu	189096	<ls>BHĀG. P. 9,10,43</ls>
+46086	tIrTakIrti	189112	<ls>BHĀG. P. 3,1,45.</ls>
+46086	tIrTakIrti	189112	<ls n="BHĀG. P. 3,">5,15</ls>
+46114	tIrTaSravas	189206	<ls>BHĀG. P. 2,7,15.</ls>
+46114	tIrTaSravas	189206	<ls n="BHĀG. P.">8,17,8</ls>
+46250	tud	189822	<ls>BHĀG. P. ed. Bomb. 4,8,38. 12,40</ls>
+46374	turIyaBAga	190351	<ls>BHĀG. P. ed. Bomb. 5,16. 30</ls>
+46389	turya	190409	<ls>BHĀG. P. 6,5,12</ls>
+47271	trayoviMSat	193870	<ls>BHĀG. P.</ls>
+47282	trasadasyu	193929	<ls>BHĀG. P.</ls>
+47437	triRAka	194568	<ls>BHĀG. P. ed. Bomb. 6,13,16</ls>
+47512	triDAman	194858	<ls>BHĀG. P. 3,8,31</ls>
+47932	trisAhasra	196538	<ls>BHĀG. P. 10,58,50</ls>
+48075	trEviDya	197082	<ls>BHĀG. P. 6,3,4</ls>
+48260	tvara	197817	<ls>BHĀG. P.</ls>
+48300	tviz	197992	<ls>BHĀG. P.</ls>
+48694	dattakzaRa	199656	<ls>BHĀG. P. 3,3,21</ls>
+48740	dadAyuDa	199832	<ls>BHĀG. P. 10,17,6</ls>
+49022	day	200957	<ls>BHĀG. P.</ls>
+49141	darS	201656	<ls>BHĀG. P. 4,26,6</ls>
+49147	darSana	201724	<ls>BHĀG. P. 5,4,11</ls>
+49262	daSacandra	202236	<ls>BHĀG. P. 4,15,17</ls>
+49264	daSacCadin	202242	<ls>BHĀG. P. 10,2,27</ls>
+49440	daSArDa	202888	<ls>BHĀG. P. 3,15,30</ls>
+49511	dA	203368	<ls>BHĀG. P.</ls>
+49511	dA	203415	<ls>BHĀG. P.</ls>
+49513	dA	203486	<ls>BHĀG. P. 6,6,23</ls>
+49778	dAra	204598	<ls>BHĀG. P.</ls>
+49780	dAraka	204610	<ls>BHĀG. P.</ls>
+50250	div	206388	<ls>BHĀG. P.</ls>
+50250	div	206400	<ls>BHĀG. P. 3,20,22</ls>
+50297	divAnaktam	206611	<ls>BHĀG. P. 5,22,5</ls>
+50420	diS	207101	<ls>BHĀG. P.</ls>
+50435	dizwakArin	207303	<ls>BHĀG. P. 4,28,1</ls>
+50436	dizwadfS	207306	<ls>BHĀG. P. 4,21,22</ls>
+50439	dizwaBuj	207315	<ls>BHĀG. P. 7,13,39</ls>
+50452	dIkz	207399	<ls>BHĀG. P.</ls>
+50452	dIkz	207400	<ls>BHĀG. P.</ls>
+50761	dIrGotkaRWamanas	208823	<ls>BHĀG. P. 4,9,43</ls>
+50816	duHKodarka	209013	<ls>BHĀG. P. 11,20,28</ls>
+50946	duravagrAha	209474	<ls>BHĀG. P. ed. Bomb. 7,1,19</ls>
+51320	durmarza	210903	<ls>BHĀG. P. 4,4,30.</ls>
+51320	durmarza	210903	<ls n="BHĀG. P.">6,14,43.</ls>
+51320	durmarza	210903	<ls n="BHĀG. P.">10,58,53</ls>
+51746	duh	212545	<ls>BHĀG. P. 5,14,12</ls>
+51835	dUrasvarga	212901	<ls>BHĀG. P. 4,21,33</ls>
+52045	dfS	213711	<ls>BHĀG. P. 4,4,24</ls>
+52136	deva	214080	<ls>BHĀG. P.</ls>
+52143	devakaBojaputrI	214153	<ls>BHĀG. P. 3,1,33</ls>
+52285	devadarSana	214674	<ls>BHĀG. P. 2,8,1</ls>
+53004	doza	217353	<ls>BHĀG. P.</ls>
+53214	dyumant	218186	<ls>BHĀG. P. 4,25,47</ls>
+53474	drutavikrama	219340	<ls>BHĀG. P. 4,4,4</ls>
+53814	dvikUbara	220653	<ls>BHĀG. P. 4,26,2</ls>
+53848	dvijadeva	220770	<ls>BHĀG. P. 3,1,23.</ls>
+53848	dvijadeva	220770	<ls n="BHĀG. P.">5,5,22</ls>
+53973	dvipadapati	221258	<ls>BHĀG. P. 4,31,22</ls>
+54313	dvyazwasAhasra	222497	<ls>BHĀG. P. 10,69,2</ls>
+54574	Dam	223571	<ls>BHĀG. P.</ls>
+54596	Dar	223842	<ls>BHĀG. P. 8,1,29</ls>
+54736	DarmaduGA	224470	<ls>BHĀG. P. 1,17,3</ls>
+54957	DarmArTaduGa	225281	<ls>BHĀG. P. 4,6,44</ls>
+55032	DA	225692	<ls>BHĀG. P. 3,13,30</ls>
+55032	DA	225723	<ls>BHĀG. P. 1,9,36</ls>
+55032	DA	225850	<ls>BHĀG. P. 7,8,18</ls>
+55141	DAnA	226492	<ls>BHĀG. P.</ls>
+55225	DAmamAnin	226804	<ls>BHĀG. P. 3,11,38</ls>
+55246	DAraRa	226920	<ls>BHĀG. P. ed. Bomb. 2,7,46</ls>
+55349	DArzwya	227353	<ls>BHĀG. P.</ls>
+55409	DizRyapa	227718	<ls>BHĀG. P. 7,8,27.</ls>
+55409	DizRyapa	227718	<ls n="BHĀG. P. 7,">9,23</ls>
+55414	DI	227739	<ls>BHĀG. P. 3,12,13</ls>
+55491	DunDuhan	228050	<ls>BHĀG. P. 12,3,9</ls>
+55514	DU	228170	<ls>BHĀG. P. 2,8,5</ls>
+55718	DftadaRqa	229081	<ls>BHĀG. P. 3,14,34</ls>
+56115	na	230800	<ls>BHĀG. P. 9,18,30</ls>
+56115	na	230800	<ls>BHĀG. P. 6,5,41</ls>
+56432	natadvid	232041	<ls>BHĀG. P. 5,4,13</ls>
+56499	nadUzitaDI	232337	<ls>BHĀG. P. 7,5,56</ls>
+56523	nandagopakumAra	232514	<ls>BHĀG. P. 1,8,21</ls>
+56698	nam	233380	<ls>BHĀG. P. 10,70,29</ls>
+56735	namfta	233553	<ls>BHĀG. P. 5,8,26</ls>
+57220	navidvaMs	235407	<ls>BHĀG. P. 6,3,30</ls>
+57267	nazwadfzwi	235647	<ls>BHĀG. P. 5,26,9</ls>
+57273	nazwamati	235665	<ls>BHĀG. P. 5,26,9</ls>
+57606	nAqi	237070	<ls>BHĀG. P. 2,10,29.</ls>
+57606	nAqi	237070	<ls n="BHĀG. P.">3,30,17</ls>
+57607	nAqika	237075	<ls>BHĀG. P. ed. Bomb. 3,30,16</ls>
+57676	nAtiprIta	237312	<ls>BHĀG. P. 4,9,27</ls>
+57708	nAT	237417	<ls>BHĀG. P. ed. Bomb. 2,9,25</ls>
+57718	nATAy	237457	<ls>BHĀG. P. 2,9,25</ls>
+57753	nAnAtanu	237588	<ls>BHĀG. P. 3,31,12</ls>
+57909	nAmapada	238184	<ls>BHĀG. P. 6,2,11</ls>
+58251	nikfti	239581	<ls>BHĀG. P. ed. Bomb. 4,8,3</ls>
+58308	nigadita	239801	<ls>BHĀG. P. 8,21,25</ls>
+58349	nigrahItar	239964	<ls>BHĀG. P. ed. Bomb. 1,12,26</ls>
+58410	nij	240197	<ls>BHĀG. P.</ls>
+58410	nij	240200	<ls>BHĀG. P.</ls>
+58473	nityabudDi	240473	<ls>BHĀG. P. 9,18,41</ls>
+58675	nibanDana	241283	<ls>BHĀG. P. ed. Bomb. 9,7,5</ls>
+58713	nimi	241431	<ls>BHĀG. P. 9,24,64</ls>
+58886	niranDa	242114	<ls>BHĀG. P. 5,13,6</ls>
+59003	nirAkfti	242583	<ls>BHĀG. P. 1,6,4</ls>
+59196	nirfti	243320	<ls>BHĀG. P. 1,19,4</ls>
+59630	nirvikalpaka	245044	<ls>BHĀG. P. 1,4,4</ls>
+60142	nizkfti	247106	<ls>BHĀG. P. 4,8,3</ls>
+60152	nizkOrava	247137	<ls>BHĀG. P.</ls>
+60413	niHsaNga	248136	<ls>BHĀG. P. 4,8,31</ls>
+60495	nI	248498	<ls>BHĀG. P. 5,18,33</ls>
+60495	nI	248624	<ls>BHĀG. P. 2,2,16</ls>
+60828	nu	250133	<ls>BHĀG. P. 8,11,25</ls>
+60967	nfmRa	250691	<ls>BHĀG. P. ed. Bomb. 5,20,4</ls>
+61237	nEmiSa	251716	<ls>BHĀG. P. ed. Bomb.</ls>
+61923	paYcapaYcaka	254741	<ls>BHĀG. P. 6,5,8</ls>
+61954	paYcapraharaRa	254846	<ls>BHĀG. P. 4,26,2</ls>
+61959	paYcabanDura	254861	<ls>BHĀG. P. 4,26,1</ls>
+62057	paYcavikrama	255269	<ls>BHĀG. P. 4,26,2</ls>
+62203	paYcAsubanDura	255837	<ls>BHĀG. P. 4,29,18</ls>
+62713	pad	258518	<ls>BHĀG. P.</ls>
+62994	padmotpalakumudvant	259877	<ls>BHĀG. P. 4,9,64</ls>
+63141	par	260475	<ls>BHĀG. P.</ls>
+63141	par	260487	<ls>BHĀG. P. ed. Bomb. 3,24,32</ls>
+63142	par	260614	<ls>BHĀG. P.</ls>
+63431	paraspara	261827	<ls>BHĀG. P. 1,8,9</ls>
+63492	parAYc	262079	<ls>BHĀG. P. 4,11,10</ls>
+63492	parAYc	262083	<ls>BHĀG. P. 5,5,31</ls>
+63689	pariKa	262882	<ls>BHĀG. P.</ls>
+63977	paripicCa	264034	<ls>BHĀG. P. 10,14,1</ls>
+64238	parivfQa	265071	<ls>BHĀG. P. 5,1,8.</ls>
+64238	parivfQa	265071	<ls n="BHĀG. P. 5,">16,16.</ls>
+64238	parivfQa	265071	<ls n="BHĀG. P.">6,16,25</ls>
+64867	parvaRa	267555	<ls>BHĀG. P. 5,17,24</ls>
+65070	pavana	268412	<ls>BHĀG. P. 5,16,28</ls>
+65089	pavamAna	268492	<ls>BHĀG. P. 5,20,25</ls>
+65309	pA	269434	<ls>BHĀG. P. 7,9,32</ls>
+65309	pA	269466	<ls>BHĀG. P. 7,9,32</ls>
+65451	pAYcadaSya	270097	<ls>BHĀG. P. 6,4,27</ls>
+65837	pAdaniketa	271735	<ls>BHĀG. P. 1,4,11</ls>
+65949	pAdAvanejana	272118	<ls>BHĀG. P. 10,48,15</ls>
+65949	pAdAvanejana	272119	<ls>BHĀG. P. 10,80,20</ls>
+65979	pAdma	272229	<ls>BHĀG. P. ed. Bomb. 3,4,13</ls>
+65979	pAdma	272230	<ls>BHĀG. P. 3,1,26</ls>
+66997	pitfyAna	276600	<ls>BHĀG. P. 4,29,13.</ls>
+66997	pitfyAna	276600	<ls n="BHĀG. P.">7,15,51</ls>
+67232	pizwapeza	277571	<ls>BHĀG. P. 5,10,14</ls>
+67234	pizwaBuj	277577	<ls>BHĀG. P. 4,4,4</ls>
+67245	pizwAda	277615	<ls>BHĀG. P. 6,6,41</ls>
+67297	pIQa	277899	<ls>BHĀG. P. 3,5,41</ls>
+67731	putrapravara	279667	<ls>BHĀG. P. 9,7,1</ls>
+68076	purARasaMhitA	280975	<ls>BHĀG. P. 8,24,55</ls>
+68080	purARArkapraBA	280996	<ls>BHĀG. P.</ls>
+68138	purukArakavant	281224	<ls>BHĀG. P. 2,7,47</ls>
+68144	purukfpA	281244	<ls>BHĀG. P. 5,25,10</ls>
+68166	purudaya	281319	<ls>BHĀG. P. 3,31,18</ls>
+68188	puruprOQa	281400	<ls>BHĀG. P. 3,2,9</ls>
+68207	pururuj	281473	<ls>BHĀG. P. 2,7,21</ls>
+68209	purulampawa	281481	<ls>BHĀG. P. 7,15,70</ls>
+68222	puruSakti	281520	<ls>BHĀG. P. 2,4,7</ls>
+68257	puruzapaSu	281665	<ls>BHĀG. P. 5,9,13</ls>
+68421	purovfzendra	282263	<ls>BHĀG. P. 4,4,4</ls>
+68478	pulkasa	282498	<ls>BHĀG. P. ed. Bomb. 6,13,8</ls>
+69399	pfTagdfS	286212	<ls>BHĀG. P. 1,5,14</ls>
+69747	peSa	287552	<ls>BHĀG. P. 3,31,2</ls>
+70299	prakIrRakeSa	289761	<ls>BHĀG. P. 5,5,28.</ls>
+70299	prakIrRakeSa	289761	<ls n="BHĀG. P.">7,2,30</ls>
+70524	pracalita	290725	<ls>BHĀG. P. 5,22,1</ls>
+70619	prajAtantu	291137	<ls>BHĀG. P. 1,12,15</ls>
+70622	prajAtIrTa	291151	<ls>BHĀG. P. 1,12,14</ls>
+70690	prajYAGana	291419	<ls>BHĀG. P. 8,3,12.</ls>
+70690	prajYAGana	291419	<ls n="BHĀG. P.">9,8,23</ls>
+71550	pratiSruta	294726	<ls>BHĀG. P. ed. Bomb. 9,24,50</ls>
+71688	pratisrotam	295269	<ls>BHĀG. P.</ls>
+71698	pratihartave	295312	<ls>BHĀG. P. 3,5,47</ls>
+71729	pratIka	295428	<ls>BHĀG. P. 10,16,21</ls>
+72194	praT	297230	<ls>BHĀG. P.</ls>
+73262	pravfttinivfttimant	301786	<ls>BHĀG. P. 3,32,35</ls>
+73340	praSamAyana	302102	<ls>BHĀG. P. 1,1,15</ls>
+73993	prAcInamUla	304910	<ls>BHĀG. P. ed. Bomb. 1,19,17</ls>
+74152	prARaroDa	305570	<ls>BHĀG. P. 5,26,7</ls>
+74433	prApti	306589	<ls>BHĀG. P. 10,50,1</ls>
+74807	priyApriya	308023	<ls>BHĀG. P. 4,28,37</ls>
+75172	plAvita	309533	<ls>BHĀG. P. 4,6,12</ls>
+75436	PalIkaraRa	310706	<ls>BHĀG. P.</ls>
+75906	barhi	312809	<ls>BHĀG. P. 3,13,34</ls>
+75932	barhizmant	312917	<ls>BHĀG. P. 5,14,14</ls>
+75942	bala	312991	<ls>BHĀG. P.</ls>
+75982	balaBadra	313179	<ls>BHĀG. P. 10,20,26</ls>
+76015	balasTala	313302	<ls>BHĀG. P. ed. Bomb. 9,12,2</ls>
+76255	bahInara	314164	<ls>BHĀG. P. ed. Bomb. 9,22,43</ls>
+76336	bahuduHKavAsam	314469	<ls>BHĀG. P. 3,31,20</ls>
+76673	bADyabADakatA	315887	<ls>BHĀG. P. 10,4,22</ls>
+76673	bADyabADakatA	315888	<ls>BHĀG. P. 7,1,6</ls>
+76801	bAlahan	316379	<ls>BHĀG. P. 10,11,23</ls>
+76913	bAhuprasAra	316856	<ls>BHĀG. P. 10,29,46</ls>
+77211	bIBartsita	318030	<ls>BHĀG. P. 5,5,32</ls>
+77211	bIBartsita	318030	<ls>BHĀG. P. ed. BURN.</ls>
+77335	buD	318556	<ls>BHĀG. P. 3,28,38</ls>
+77370	buButsita	318738	<ls>BHĀG. P. 1,5,40</ls>
+77585	bfhadvaDa	319514	<ls>BHĀG. P. 4,29,49</ls>
+77585	bfhadvaDa	319515	<ls>BHĀG. P. 6,13,4</ls>
+78042	brahmavarcasya	321307	<ls>BHĀG. P. 1,4,30</ls>
+78541	Baj	323375	<ls>BHĀG. P.</ls>
+78555	BaYj	323513	<ls>BHĀG. P.</ls>
+78555	BaYj	323548	<ls>BHĀG. P.</ls>
+78864	Bar	324840	<ls>BHĀG. P. 2,7,22</ls>
+78864	Bar	324862	<ls>BHĀG. P.</ls>
+79030	BavacCid	325639	<ls>BHĀG. P. 2,6,25.</ls>
+79030	BavacCid	325639	<ls n="BHĀG. P.">4,1,48.</ls>
+79030	BavacCid	325639	<ls n="BHĀG. P.">9,9,14</ls>
+79068	BavaBAvana	325783	<ls>BHĀG. P. 1,10,2</ls>
+79080	BavavrataDara	325822	<ls>BHĀG. P. 4,2,28</ls>
+79165	Bas	326188	<ls>BHĀG. P.</ls>
+79440	BAmin	327432	<ls>BHĀG. P. 3,20,34</ls>
+79806	Bid	329265	<ls>BHĀG. P. 3,2,5</ls>
+79806	Bid	329269	<ls>BHĀG. P.</ls>
+79902	BI	329715	<ls>BHĀG. P.</ls>
+80202	BU	331168	<ls>BHĀG. P. 9,4,25</ls>
+80310	BUtamaya	331713	<ls>BHĀG. P. 10,14,2</ls>
+80619	BUri	332908	<ls>BHĀG. P.</ls>
+80669	BUrivarcas	333083	<ls>BHĀG. P. 4,24,40</ls>
+80754	Bfgudevata	333465	<ls>BHĀG. P. 6,7,23</ls>
+81055	Bojana	334824	<ls>BHĀG. P. 5,20,21</ls>
+81159	BraMS	335255	<ls>BHĀG. P. 3,22,34</ls>
+82462	maDumEreya	340902	<ls>BHĀG. P. 6,1,59</ls>
+82837	manaHsparSa	342517	<ls>BHĀG. P. 3,21,10</ls>
+83125	mantramAlA	343699	<ls>BHĀG. P. 5,20,16</ls>
+83417	manvantara	344939	<ls>BHĀG. P.</ls>
+83713	marmatAqana	346357	<ls>BHĀG. P. 8,11,9</ls>
+83766	marz	346631	<ls>BHĀG. P.</ls>
+84706	mahABogavant	350356	<ls>BHĀG. P. 5,24,29</ls>
+84707	mahABogin	350359	<ls>BHĀG. P. 5,24,31</ls>
+84740	mahAmarza	350481	<ls>BHĀG. P. 5,24,31</ls>
+85000	mahAviBUti	351540	<ls>BHĀG. P. 5,4,1</ls>
+85000	mahAviBUti	351541	<ls>BHĀG. P. 3,28,26</ls>
+85001	mahAviBUti	351544	<ls>BHĀG. P. 8,5,32</ls>
+85047	mahAvrataDara	351740	<ls>BHĀG. P. 6,17,8</ls>
+85193	mahAsAhasin	352275	<ls>BHĀG. P. 5,24,30</ls>
+85437	mahendrAdri	353155	<ls>BHĀG. P. 10,79,12</ls>
+85531	mA	353540	<ls>BHĀG. P.</ls>
+85533	mA	353578	<ls>BHĀG. P.</ls>
+85901	mAtra	355179	<ls>BHĀG. P.</ls>
+86658	mAsaBukti	358383	<ls>BHĀG. P. 5,22,8</ls>
+86852	mitravinda	359173	<ls>BHĀG. P. 5,20,16</ls>
+86891	miTas	359324	<ls>BHĀG. P.</ls>
+86908	miTus	359405	<ls>BHĀG. P.</ls>
+86949	miTyABiSaMsin	359545	<ls>BHĀG. P. 10,8,35</ls>
+87071	mI	360048	<ls>BHĀG. P. 7,8,51</ls>
+87422	muc	361560	<ls>BHĀG. P. 11,26,8</ls>
+88153	mfgayAvihAra	364813	<ls>BHĀG. P. 5,26,24</ls>
+88329	mftaprajA	365483	<ls>BHĀG. P. 6,19,25</ls>
+88365	mftotTita	365617	<ls>BHĀG. P. 6,18,75</ls>
+89547	yajYaliNga	370463	<ls>BHĀG. P. 3,13,13</ls>
+89922	yaTABava	371964	<ls>BHĀG. P. 4,27,11</ls>
+90161	yadA	372883	<ls>BHĀG. P.</ls>
+90244	yaB	373236	<ls>BHĀG. P. ed. Bomb. 3,20,26</ls>
+90246	yam	373409	<ls>BHĀG. P. 1,15,3</ls>
+90407	yarhi	374071	<ls>BHĀG. P.</ls>
+90547	yaSoGna	374637	<ls>BHĀG. P. 4,2,10</ls>
+92054	racitaDI	381425	<ls>BHĀG. P. 4,7,29</ls>
+92492	raTakuwumba	383233	<ls>BHĀG. P. 1,9,39</ls>
+92555	raTayuga	383453	<ls>BHĀG. P. 5,21,15</ls>
+92698	ranDra	384060	<ls>BHĀG. P.</ls>
+92806	rarAwa	384733	<ls>BHĀG. P.</ls>
+93105	raha	386045	<ls>BHĀG. P.</ls>
+93719	rAtave	388421	<ls>BHĀG. P. 4,17,11</ls>
+93814	rADas	388824	<ls>BHĀG. P.</ls>
+93814	rADas	388825	<ls>BHĀG. P.</ls>
+93814	rADas	388826	<ls>BHĀG. P.</ls>
+94186	riktamati	390360	<ls>BHĀG. P. 4,22,39</ls>
+94188	riktahAra	390366	<ls>BHĀG. P. 8,22,9</ls>
+94240	rirakzA	390666	<ls>BHĀG. P.</ls>
+94241	rirakzizu	390672	<ls>BHĀG. P.</ls>
+94291	ru	390892	<ls>BHĀG. P.</ls>
+94552	ruD	392120	<ls>BHĀG. P.</ls>
+94552	ruD	392122	<ls>BHĀG. P. ed. Bomb. 2,7,21</ls>
+94602	ruSant	392435	<ls>BHĀG. P. 4,4,17.</ls>
+94602	ruSant	392435	<ls n="BHĀG. P.">9,9,24</ls>
+94602	ruSant	392435	<ls n="BHĀG. P.">6,10,28</ls>
+94617	ruh	392622	<ls>BHĀG. P.</ls>
+94808	retoGas	393542	<ls>BHĀG. P.</ls>
+94820	rePa	393585	<ls>BHĀG. P.</ls>
+95731	labDatIrTa	397657	<ls>BHĀG. P. 3,19,4</ls>
+95804	layArka	398184	<ls>BHĀG. P. 10,77,35</ls>
+96345	luYc	400621	<ls>BHĀG. P.</ls>
+96630	lokavisarga	402009	<ls>BHĀG. P. 3,8,32</ls>
+97357	vac	404893	<ls>BHĀG. P.</ls>
+97416	vajrakapAwamant	405228	<ls>BHĀG. P. 3,23,18</ls>
+98292	vayaHSata	409010	<ls>BHĀG. P. 3,11,32</ls>
+98318	vayuna	409123	<ls>BHĀG. P. 10,13,38</ls>
+98334	vayovasTA	409186	<ls>BHĀG. P. 5,24,13</ls>
+98342	var	409224	<ls>BHĀG. P.</ls>
+98343	var	409440	<ls>BHĀG. P.</ls>
+98484	varArTA	410131	<ls>BHĀG. P. 3,8,5</ls>
+98820	vart	412009	<ls>BHĀG. P. 8,19,40</ls>
+98990	varzapUga	413298	<ls>BHĀG. P. 3,17,26</ls>
+98990	varzapUga	413299	<ls>BHĀG. P. 2,5,34.</ls>
+98990	varzapUga	413299	<ls n="BHĀG. P.">3,23,44.</ls>
+98990	varzapUga	413299	<ls n="BHĀG. P.">4,12,42</ls>
+99220	vaS	414243	<ls>BHĀG. P.</ls>
+99298	vas	414573	<ls>BHĀG. P. 6,4,13</ls>
+99648	vastrAnta	416139	<ls>BHĀG. P. 4,25,24</ls>
+99671	vah	416256	<ls>BHĀG. P. 2,7,25</ls>
+99671	vah	416300	<ls>BHĀG. P.</ls>
+99960	vAgvisarga	417642	<ls>BHĀG. P. 1,5,11</ls>
+99960	vAgvisarga	417642	<ls n="BHĀG. P.">12,12,51</ls>
+100116	vAjasaMnyasta	418284	<ls>BHĀG. P. 12,6,74</ls>
+100683	vAmasvaBAva	420580	<ls>BHĀG. P. 1,7,42</ls>
+101093	vArttAvftti	422177	<ls>BHĀG. P. 7,11,15</ls>
+101289	vAva	422938	<ls>BHĀG. P.</ls>
+101456	vAstu	423686	<ls>BHĀG. P.</ls>
+101493	vAstozpati	423830	<ls>BHĀG. P.</ls>
+101562	viMSaka	424150	<ls>BHĀG. P. 4,27,16</ls>
+101745	vikftavezin	424976	<ls>BHĀG. P. 9,8,5</ls>
+101813	vikrIqita	425278	<ls>BHĀG. P. 10,42,26</ls>
+102322	viwaNka	427391	<ls>BHĀG. P. 3,15,27.</ls>
+102322	viwaNka	427391	<ls n="BHĀG. P.">5,2,10.</ls>
+102322	viwaNka	427391	<ls n="BHĀG. P.">10,33,16</ls>
+102376	viqBuj	427607	<ls>BHĀG. P. 5,5,1</ls>
+102381	viqvarAha	427624	<ls>BHĀG. P. 2,3,19</ls>
+102441	vitAyitar	427886	<ls>BHĀG. P. 8,13,36</ls>
+102764	vidyASrutasaMpanna	429293	<ls>BHĀG. P. 11,19,1</ls>
+102929	viDitsita	430044	<ls>BHĀG. P. 1,9,16</ls>
+102935	viDinizeDatA	430062	<ls>BHĀG. P. 7,15,61</ls>
+103412	vipfzwa	431956	<ls>BHĀG. P. 9,24,49</ls>
+103834	vimAnayAna	433730	<ls>BHĀG. P. 4,3,6</ls>
+104621	viSudDakaraRa	437513	<ls>BHĀG. P. 4,12,17</ls>
+104691	viSpati	437826	<ls>BHĀG. P.</ls>
+104727	viSruta	437975	<ls>BHĀG. P. 1,5,40</ls>
+105007	viSvasaMplava	439080	<ls>BHĀG. P. 3,17,15</ls>
+105113	viz	439539	<ls>BHĀG. P. 11,1,14</ls>
+105370	vizUci	440588	<ls>BHĀG. P.</ls>
+105373	vizUcIna	440599	<ls>BHĀG. P.</ls>
+105826	vihAra	442431	<ls>BHĀG. P. 2,2,22</ls>
+106204	vIryaSulka	443975	<ls>BHĀG. P. 1,10,29</ls>
+106205	vIryaSulka	443978	<ls>BHĀG. P. 10,52,41</ls>
+106423	vftti	444843	<ls>BHĀG. P. ed. Bomb. 3,12,13</ls>
+107188	vedastuti	447869	<ls>BHĀG. P.</ls>
+108532	vyA	453676	<ls>BHĀG. P.</ls>
+108887	vyuptajawAkalApa	455116	<ls>BHĀG. P. 4,5,10</ls>
+109111	vraSc	456076	<ls>BHĀG. P.</ls>
+109128	vrAtamaya	456146	<ls>BHĀG. P. 4,9,60</ls>
+109758	SataGni	458809	<ls>BHĀG. P. 9,15,30</ls>
+110550	SaratprAvfzika	462248	<ls>BHĀG. P. 1,5,28</ls>
+110638	Saras	462558	<ls>BHĀG. P. 8,24,26</ls>
+111496	SAnta	465881	<ls>BHĀG. P. 5,20,2.</ls>
+111496	SAnta	465881	<ls n="BHĀG. P. 5,20,">3</ls>
+111879	SAlin	467506	<ls>BHĀG. P. 3,20,36.</ls>
+111879	SAlin	467506	<ls n="BHĀG. P. 3,">24,1</ls>
+111939	SAlyanna	467760	<ls>BHĀG. P. 8,16,40</ls>
+112200	SitaDAra	468969	<ls>BHĀG. P. 4,5,22</ls>
+112287	Sibi	469303	<ls>BHĀG. P. 4,13,16</ls>
+112358	SiraHsnAna	469566	<ls>BHĀG. P. 3,23,31</ls>
+112525	Silpa	470164	<ls>BHĀG. P.</ls>
+112554	Siva	470274	<ls>BHĀG. P.</ls>
+112805	SiSumAra	471365	<ls>BHĀG. P. 6,6,14</ls>
+112819	SiSnodaratfp	471415	<ls>BHĀG. P. 11,26,3</ls>
+112820	SiSnodaraMBara	471418	<ls>BHĀG. P. 12,3,42</ls>
+112826	Siz	471453	<ls>BHĀG. P.</ls>
+112858	SI	471655	<ls>BHĀG. P.</ls>
+112858	SI	471663	<ls>BHĀG. P. 2,7,29.</ls>
+112858	SI	471663	<ls n="BHĀG. P.">3,9,10</ls>
+113531	SunAsIra	474507	<ls>BHĀG. P. ed. Bomb. 4,7,7</ls>
+113531	SunAsIra	474507	<ls>BHĀG. P. ed. BURN.</ls>
+113551	SuBa	474638	<ls>BHĀG. P. 4,1,50</ls>
+113578	SuBaDAraRa	474755	<ls>BHĀG. P. ed. Bomb. 2,7,46</ls>
+113919	SUlaprota	476136	<ls>BHĀG. P. 5,26,7</ls>
+113958	SfNga	476297	<ls>BHĀG. P. 5,2,16</ls>
+114187	SEla	477271	<ls>BHĀG. P.</ls>
+114725	SyAmAvadAta	479401	<ls>BHĀG. P. 2,9,11.</ls>
+114725	SyAmAvadAta	479401	<ls n="BHĀG. P.">3,4,7.</ls>
+114725	SyAmAvadAta	479401	<ls n="BHĀG. P.">8,18,2</ls>
+114843	Srama	479906	<ls>BHĀG. P. ed. Bomb. 9,24,50</ls>
+115247	SrIlakzmaRa	481858	<ls>BHĀG. P. 2,2,10</ls>
+115275	SrIvizRupadI	481966	<ls>BHĀG. P. 2,3,23</ls>
+115401	Srutigocara	482549	<ls>BHĀG. P. 1,4,25</ls>
+115559	SrotrasparSin	483146	<ls>BHĀG. P. 4,29,47</ls>
+115630	Sliz	483452	<ls>BHĀG. P.</ls>
+115711	SvagardaBa	483801	<ls>BHĀG. P. 5,26,24</ls>
+115799	Svas	484184	<ls>BHĀG. P.</ls>
+116498	sa	486835	<ls>BHĀG. P.</ls>
+116550	saMyuga	487052	<ls>BHĀG. P.</ls>
+116629	saMvatsaraBukti	487367	<ls>BHĀG. P. 5,22,8</ls>
+117047	saMsTAnaBukti	489103	<ls>BHĀG. P. 3,11,3</ls>
+117941	saMjalpita	492983	<ls>BHĀG. P. 1,15,18</ls>
+117941	saMjalpita	492984	<ls>BHĀG. P. 4,8,24</ls>
+118259	satyapASa	494192	<ls>BHĀG. P. 9,10,8</ls>
+118421	satsaMkalpa	494800	<ls>BHĀG. P. 4,1,30.</ls>
+118421	satsaMkalpa	494800	<ls n="BHĀG. P. 4,">9,18</ls>
+118425	satsaMgraha	494812	<ls>BHĀG. P. 6,9,44</ls>
+118443	sadanugraha	495139	<ls>BHĀG. P. 3,17,31</ls>
+118626	sadman	495826	<ls>BHĀG. P. 6,5,28</ls>
+118813	sanAtana	496535	<ls>BHĀG. P.</ls>
+119442	saptaDAtuvarUTaka	499066	<ls>BHĀG. P. 4,29,19</ls>
+119522	saptavarUTa	499372	<ls>BHĀG. P. 4,26,2</ls>
+119737	saBARqa	500109	<ls>BHĀG. P. 1,18,34</ls>
+119786	samakAla	500303	<ls>BHĀG. P. 5,23,1</ls>
+120114	samavetArTa	501547	<ls>BHĀG. P. 10,85,22</ls>
+120125	samaSIla	501583	<ls>BHĀG. P. 1,2,27</ls>
+120213	samAtfka	501903	<ls>BHĀG. P. 1,13,7</ls>
+120238	samADiyogardDitapovidyAviraktimant	502004	<ls>BHĀG. P. 3,20,53</ls>
+120323	samAnasUtranipAta	502295	<ls>BHĀG. P. 5,21,9</ls>
+120474	samAsavyAsayogatas	502865	<ls>BHĀG. P. 1,9,27</ls>
+120495	samAhitaDI	502945	<ls>BHĀG. P. 7,4,23</ls>
+120512	samitiSAlin	503020	<ls>BHĀG. P. 2,7,35</ls>
+121397	saraBasa	506870	<ls>BHĀG. P. 3,30,20</ls>
+121397	saraBasa	506870	<ls>BHĀG. P. 5,26,27</ls>
+121470	sarAhu	507208	<ls>BHĀG. P. 3,17,8</ls>
+121689	sarvakAmaduGa	508454	<ls>BHĀG. P. 4,19,7</ls>
+121700	sarvakAla	508492	<ls>BHĀG. P. 3,23,14</ls>
+122040	sarvalokaguru	509740	<ls>BHĀG. P. 4,19,3</ls>
+122069	sarvavArzikaparvan	509834	<ls>BHĀG. P. 11,11,37</ls>
+122095	sarvavedamaya	509914	<ls>BHĀG. P. 3,9,43</ls>
+122270	sarvAnusyUta	510530	<ls>BHĀG. P. 3,27,11</ls>
+122552	savilAsa	511560	<ls>BHĀG. P. 9,24,64</ls>
+122568	savistara	511620	<ls>BHĀG. P. 3,3,2</ls>
+122838	sahacandralalAma	512658	<ls>BHĀG. P. 3,16,9</ls>
+122896	sahanO	512885	<ls>BHĀG. P. 8,24,37</ls>
+123007	sahasuralalanAlalAmayUTapati	513273	<ls>BHĀG. P. 5,16,16</ls>
+123168	sahasraSiras	513878	<ls>BHĀG. P. 3,26,25</ls>
+123179	sahasrasama	513915	<ls>BHĀG. P. 1,1,4</ls>
+123207	sahasrAnanaSIrzavant	514015	<ls>BHĀG. P. 2,5,35</ls>
+123236	sahasrorvaNGribAhvakza	514122	<ls>BHĀG. P. 2,5,35</ls>
+123351	sA	514573	<ls>BHĀG. P. 1,19,17</ls>
+123920	sAntva	516939	<ls>BHĀG. P.</ls>
+123972	sAnvaya	517127	<ls>BHĀG. P.</ls>
+124729	sASmavarzin	520078	<ls>BHĀG. P. 4,10,29</ls>
+125192	sidDayozit	522004	<ls>BHĀG. P. 4,6,11</ls>
+126368	sudurnirIkzaRa	526952	<ls>BHĀG. P. 10,59,7</ls>
+126375	sudurmarza	526973	<ls>BHĀG. P. 3,11,18</ls>
+126383	suduScikitsa	526999	<ls>BHĀG. P. 4,30,38</ls>
+126403	sudfpta	527068	<ls>BHĀG. P. 4,26,13</ls>
+126481	suDAman	527401	<ls>BHĀG. P. 5,20,21</ls>
+126610	sunirviRRa	527908	<ls>BHĀG. P. 8,7,7</ls>
+126622	sunizkfta	527954	<ls>BHĀG. P. 6,2,10</ls>
+126838	supeSala	528878	<ls>BHĀG. P. 10,88,35.</ls>
+126838	supeSala	528878	<ls n="BHĀG. P.">12,6,65</ls>
+127229	sumahAprARa	530507	<ls>BHĀG. P. 6,11,6</ls>
+127377	suragAyaka	531126	<ls>BHĀG. P. 3,22,33</ls>
+128020	suviBakta	533616	<ls>BHĀG. P. 5,16,6</ls>
+128028	suviraja	533642	<ls>BHĀG. P. 3,28,12</ls>
+128035	suviSArada	533667	<ls>BHĀG. P. 11,7,26</ls>
+128052	suvismita	533730	<ls>BHĀG. P. 5,18,4</ls>
+128206	suSlokya	534364	<ls>BHĀG. P. 3,12,31.</ls>
+128206	suSlokya	534364	<ls n="BHĀG. P.">6,18,16.</ls>
+128206	suSlokya	534364	<ls n="BHĀG. P.">10,89,21</ls>
+128290	susaMvftta	534718	<ls>BHĀG. P. 10,87,10</ls>
+128311	susaMkawa	534801	<ls>BHĀG. P. 10,88,16</ls>
+128317	susaMgama	534819	<ls>BHĀG. P. 10,60,53</ls>
+128344	susaBAjita	534909	<ls>BHĀG. P. 10,38,43</ls>
+128351	susamAhita	534936	<ls>BHĀG. P. 3,28,12</ls>
+128470	susragDara	535334	<ls>BHĀG. P. 8,15,8</ls>
+130874	sTA	545147	<ls>BHĀG. P.</ls>
+130958	sTApitar	546186	<ls>BHĀG. P.</ls>
+130983	sTAlIpurIza	546302	<ls>BHĀG. P. 5,9,12</ls>
+131434	sparSaSabdavant	548230	<ls>BHĀG. P. 2,5,27</ls>
+131477	spfD	548392	<ls>BHĀG. P.</ls>
+131702	smarodgITa	549433	<ls>BHĀG. P. 10,85,51</ls>
+131762	syad	549801	<ls>BHĀG. P. 5,16,20</ls>
+131971	svakIrtimaya	550806	<ls>BHĀG. P. 3,8,31</ls>
+132139	svanABya	551513	<ls>BHĀG. P. 3,1,26</ls>
+132215	svapnavat	551856	<ls>BHĀG. P. 7,14,4</ls>
+132708	svaryaSas	553832	<ls>BHĀG. P. 1,10,27</ls>
+132734	svalakzita	553933	<ls>BHĀG. P. 2,5,20</ls>
+132798	svaSakti	554150	<ls>BHĀG. P. 3,8,12</ls>
+132819	svasaMBava	554233	<ls>BHĀG. P. 3,9,26</ls>
+133425	hataDI	556637	<ls>BHĀG. P. 3,9,7</ls>
+133457	han	557023	<ls>BHĀG. P. 4,14,34.</ls>
+133457	han	557023	<ls n="BHĀG. P.">6,9,18</ls>
+133492	hantave	557303	<ls>BHĀG. P. 4,19,16</ls>
+133492	hantave	557303	<ls n="BHĀG. P.">11,5,50</ls>
+133571	hayyaMgava	557638	<ls>BHĀG. P. 10,9,6</ls>
+133572	har	557879	<ls>BHĀG. P.</ls>
+134348	hA	561529	<ls>BHĀG. P.</ls>
+134482	hAlAhala	562289	<ls>BHĀG. P.</ls>
+134500	hAsa	562362	<ls>BHĀG. P. 2,7,25</ls>
+134538	hi	562519	<ls>BHĀG. P.</ls>
+134538	hi	562528	<ls>BHĀG. P.</ls>
+134538	hi	562539	<ls>BHĀG. P.</ls>
+134686	himanirJaravipruzmant	563159	<ls>BHĀG. P. 4,25,18</ls>
+134852	hiraRyaraSana	563795	<ls>BHĀG. P. ed. Bomb. 4,7,20</ls>
+134852	hiraRyaraSana	563795	<ls>BHĀG. P. ed. BURN.</ls>
+135150	hfdayaSETilya	564915	<ls>BHĀG. P. 5,7,11</ls>
+135221	hfdruj	565181	<ls>BHĀG. P. 4,6,47</ls>
+200017	akarAla	567584	<ls>BHĀG. P. 3,13,28</ls>
+200033	akuRWaDizRya	567635	<ls>BHĀG. P. ed. Bomb. 3,5,45</ls>
+200163	aGa	568034	<ls>BHĀG. P. 10,12,13</ls>
+200185	aNGryavanejana	568100	<ls>BHĀG. P. 10,41,15</ls>
+200254	atadvid	568322	<ls>BHĀG. P. 4,9,4</ls>
+200284	atinirvfta	568412	<ls>BHĀG. P. 1,6,18</ls>
+200298	atiBayAnaka	568454	<ls>BHĀG. P. 5,9,19</ls>
+200608	anahaMkfti	569399	<ls>BHĀG. P. 11,9,30</ls>
+200663	anAsTita	569570	<ls>BHĀG. P. 4,12,26</ls>
+200766	anupaSruti	569891	<ls>BHĀG. P. 10,42,29</ls>
+200830	anejant	570089	<ls>BHĀG. P. 7,3,32</ls>
+201046	aBaya	570749	<ls>BHĀG. P. 5,20,2</ls>
+201046	aBaya	570749	<ls>BHĀG. P. 4,1,50</ls>
+201046	aBaya	570749	<ls>BHĀG. P. 5,20,22</ls>
+201046	aBaya	570749	<ls>BHĀG. P. 5,20,3</ls>
+201046	aBaya	570749	<ls n="BHĀG. P. 5,20,">3</ls>
+201059	aBijYAta	570788	<ls>BHĀG. P. 5,20,9</ls>
+201501	AkozWam	572141	<ls>BHĀG. P. 10,83,22</ls>
+201782	akalpa	572991	<ls>BHĀG. P. 10,84,63</ls>
+201798	akutomftyu	573039	<ls>BHĀG. P. 3,17,19</ls>
+201823	aketana	573117	<ls>BHĀG. P. 3,4,6</ls>
+201834	akzama	573150	<ls>BHĀG. P. 1,14,43</ls>
+201894	aGawita	573333	<ls>BHĀG. P. 6,16,44</ls>
+201938	acCUrI	573489	<ls>BHĀG. P. 5,3,3</ls>
+201974	atad	573603	<ls>BHĀG. P. 7,7,23</ls>
+201996	atikfcCra	573669	<ls>BHĀG. P. 5,13,10</ls>
+202025	atidurvizaha	573756	<ls>BHĀG. P. 5,9,18</ls>
+202055	atodya	573846	<ls>BHĀG. P. ed. Bomb. 4,12,40</ls>
+202118	anantacCadin	574095	<ls>BHĀG. P. 3,21,18</ls>
+202136	anaBipreta	574158	<ls>BHĀG. P. 3,31,25</ls>
+202143	anavasTAna	574179	<ls>BHĀG. P. 5,6,2</ls>
+202200	anupacita	574356	<ls>BHĀG. P. 3,20,47</ls>
+202257	apakaruRa	574569	<ls>BHĀG. P. 5,26,13</ls>
+202310	apratapta	574737	<ls>BHĀG. P. 6,16,24</ls>
+202341	aBijAta	574833	<ls>BHĀG. P. 1,16,1</ls>
+202413	arTatfz	575073	<ls>BHĀG. P. 11,8,31</ls>
+202476	avigalita	575310	<ls>BHĀG. P. 5,1,27</ls>
+202484	avipakva	575334	<ls>BHĀG. P. 1,6,22</ls>
+202532	asatvaram	575523	<ls>BHĀG. P. 4,9,5</ls>
+202545	asutfp	575562	<ls>BHĀG. P.</ls>
+202592	ARqakoSa	575751	<ls>BHĀG. P. 2,1,25</ls>
+202720	utkacakumudgaRavant	576347	<ls>BHĀG. P. 3,23,38</ls>
+202724	uttamagAya	576359	<ls>BHĀG. P. 4,12,21</ls>
+202741	utsrotas	576431	<ls>BHĀG. P. 3,10,18</ls>
+202794	uBayacihna	576611	<ls>BHĀG. P. 3,32,35</ls>
+202849	ekAdaSavyUha	576824	<ls>BHĀG. P. 5,25,3</ls>
+202967	kaSa	577248	<ls>BHĀG. P. ed. Bomb. 9,20,29</ls>
+203295	agnipiRqa	578921	<ls>BHĀG. P. 5,26,19</ls>
+203306	aGaSaMsa	578954	<ls>BHĀG. P. 5,22,14</ls>
+203313	aNGripAta	578975	<ls>BHĀG. P. 3,1,37</ls>
+203314	aNGryavanejana	578978	<ls>BHĀG. P. 10,83,12</ls>
+203384	atiraBasa	579188	<ls>BHĀG. P. 5,17,9</ls>
+203421	adABya	579299	<ls>BHĀG. P. 4,23,4</ls>
+203425	adIrGaboDa	579311	<ls>BHĀG. P. 10,81,37</ls>
+203440	adogDar	579359	<ls>BHĀG. P. 3,29,32</ls>
+203462	aDAtumant	579425	<ls>BHĀG. P. 2,8,7</ls>
+203553	anAmarUpa	579698	<ls>BHĀG. P. 1,10,22</ls>
+203561	anikAmatas	579722	<ls>BHĀG. P. 4,28,10</ls>
+203567	animiz	579740	<ls>BHĀG. P. 2,2,17</ls>
+203567	animiz	579740	<ls n="BHĀG. P.">3,15,25</ls>
+203567	animiz	579740	<ls n="BHĀG. P.">5,23,8</ls>
+203568	animiza	579743	<ls>BHĀG. P. 1,1,4</ls>
+203607	anuBavam	579860	<ls>BHĀG. P. 10,83,12</ls>
+203661	anyAyatas	580022	<ls>BHĀG. P. 6,1,66</ls>
+203694	aparigraha	580121	<ls>BHĀG. P. 4,22,23</ls>
+203741	apArayant	580262	<ls>BHĀG. P. 8,2,30</ls>
+203746	apippalAda	580277	<ls>BHĀG. P. 11,11,7</ls>
+203754	apUra	580301	<ls>BHĀG. P. 7,13,23</ls>
+203755	apUraRa	580304	<ls>BHĀG. P. 10,13,28</ls>
+203767	apratinandita	580340	<ls>BHĀG. P. 4,4,8</ls>
+203840	amiSrita	580559	<ls>BHĀG. P. 10,33,10</ls>
+203847	amoGadfS	580580	<ls>BHĀG. P. 1,4,18</ls>
+203847	amoGadfS	580580	<ls n="BHĀG. P. 1,">5,13</ls>
+203954	avipadyant	580904	<ls>BHĀG. P. 6,1,8</ls>
+203995	asaMvyavahitam	581032	<ls>BHĀG. P. 5,6,6</ls>
+204118	Avis	581406	<ls>BHĀG. P. 2,7,36</ls>
+204187	uttarapaYcAla	581616	<ls>BHĀG. P. 4,25,51</ls>
+204260	uBayatoDAra	581838	<ls>BHĀG. P. 5,26,15</ls>
+204262	uruDAra	581844	<ls>BHĀG. P. 2,7,22</ls>
+204270	Ura	581868	<ls>BHĀG. P. 7,8,29</ls>
+204387	karanyAsa	582226	<ls>BHĀG. P. 6,8,6</ls>
+204475	kuSaletara	582493	<ls>BHĀG. P. 3,30,32</ls>
+204749	tadDarmya	583346	<ls>BHĀG. P. 5,14,2</ls>
+204794	triRemi	583484	<ls>BHĀG. P. ed. Bomb. 3,8,20</ls>
+204797	trinemi	583493	<ls>BHĀG. P. 3,8,20</ls>
+204799	triparus	583499	<ls>BHĀG. P. 3,13,30</ls>
+204808	triSataMzazwiparvan	583532	<ls>BHĀG. P. 3,21,18</ls>
+204817	dakziRapaYcAla	583559	<ls>BHĀG. P. 4,25,50</ls>
+204961	akftaprajYa	584015	<ls>BHĀG. P. 1,13,31</ls>
+205013	atibIBatsita	584173	<ls>BHĀG. P. ed. Bomb. 5,26,22</ls>
+205053	anaBiyukta	584293	<ls>BHĀG. P. 5,9,6</ls>
+205063	anApfzwa	584323	<ls>BHĀG. P. 3,7,36</ls>
+205094	anuBAzita	584416	<ls>BHĀG. P. 7,7,1</ls>
+205130	aparuza	584524	<ls>BHĀG. P. 5,8,18</ls>
+205140	apunarmfta	584554	<ls>BHĀG. P. 5,19,25</ls>
+205146	apOzkalya	584572	<ls>BHĀG. P. 4,29,72</ls>
+205168	apratiGAta	584638	<ls>BHĀG. P. 1,12,16</ls>
+205181	aprattAprahutAda	584680	<ls>BHĀG. P. 5,26,18</ls>
+205186	apratyutTAyin	584695	<ls>BHĀG. P. 10,78,23</ls>
+205213	abahirvAsas	584776	<ls>BHĀG. P. 9,8,6</ls>
+205215	abahis	584782	<ls>BHĀG. P. 3,9,37</ls>
+205224	abfMhita	584809	<ls>BHĀG. P. 6,4,20</ls>
+205229	aBAra	584824	<ls>BHĀG. P. 9,24,58</ls>
+205236	aBid	584845	<ls>BHĀG. P. 7,10,39</ls>
+205241	aBinnAtman	584878	<ls>BHĀG. P. 8,22,1</ls>
+205243	aBiBAzita	584884	<ls>BHĀG. P. 6,2,1</ls>
+205243	aBiBAzita	584884	<ls n="BHĀG. P. 6,">17,36</ls>
+205265	aBrama	584950	<ls>BHĀG. P. 3,11,15</ls>
+205274	amadana	584977	<ls>BHĀG. P. 1,11,37</ls>
+205283	amImAMsita	585004	<ls>BHĀG. P. 6,5,37</ls>
+205284	amIlitadfS	585007	<ls>BHĀG. P. 3,8,10</ls>
+205358	asaMyatta	585244	<ls>BHĀG. P. 8,6,28</ls>
+205361	asaMprayuYjant	585256	<ls>BHĀG. P. 11,26,33</ls>
+205364	asADu	585265	<ls>BHĀG. P. 7,8,27</ls>
+205485	ekagarBa	585637	<ls>BHĀG. P. 5,17,12</ls>
+205529	kAkamfgagocarita	585769	<ls>BHĀG. P. 5,5,34</ls>
+205603	gomfgakAkacaryA	585996	<ls>BHĀG. P. 5,5,34</ls>
+205992	aKilalokanATa	587178	<ls>BHĀG. P. 2,7,15</ls>
+206051	atadvIryavidvaMs	587361	<ls>BHĀG. P. 6,17,10</ls>
+206057	atipraloBita	587379	<ls>BHĀG. P. 4,29,54</ls>
+206065	atirajasvala	587403	<ls>BHĀG. P. 5,14,9</ls>
+206068	atiriraMsA	587412	<ls>BHĀG. P. 3,23,11</ls>
+206069	atiruzwa	587415	<ls>BHĀG. P. 4,19,34</ls>
+206073	atilolupa	587427	<ls>BHĀG. P. 3,20,23</ls>
+206076	ativallaBa	587436	<ls>BHĀG. P. 9,9,43</ls>
+206089	ativismaya	587475	<ls>BHĀG. P. 3,13,42</ls>
+206308	apAvft	588135	<ls>BHĀG. P. 5,18,5</ls>
+206308	apAvft	588135	<ls n="BHĀG. P.">11,29,12</ls>
+206319	apravizwa	588168	<ls>BHĀG. P. 2,9,34</ls>
+206319	apravizwa	588168	<ls n="BHĀG. P.">2,9,34</ls>
+206385	ayaTA	588369	<ls>BHĀG. P. 10,87,15</ls>
+206433	arTaracana	588520	<ls>BHĀG. P. 3,9,10</ls>
+206433	arTaracana	588520	<ls n="BHĀG. P. 3,">23,8</ls>
+206459	alakzamARa	588601	<ls>BHĀG. P. 3,16,12</ls>
+206463	alaGu	588613	<ls>BHĀG. P. 10,35,10</ls>
+206468	alabDanidrAkzaRa	588628	<ls>BHĀG. P. 5,14,21</ls>
+206487	alokavrata	588694	<ls>BHĀG. P. 8,3,7</ls>
+206558	avikuRWa	588907	<ls>BHĀG. P. 3,31,14</ls>
+206564	aviGAta	588925	<ls>BHĀG. P. 1,6,32</ls>
+206576	avitfz	588961	<ls>BHĀG. P. 4,29,40</ls>
+206577	avitfza	588964	<ls>BHĀG. P. 10,51,59</ls>
+206578	avid	588967	<ls>BHĀG. P. 3,10,19</ls>
+206610	avilakzita	589066	<ls>BHĀG. P. 5,6,6</ls>
+206624	avizamaya	589108	<ls>BHĀG. P. 3,15,29</ls>
+206625	avizahya	589111	<ls>BHĀG. P. 4,22,60</ls>
+206657	aSruleSa	589213	<ls>BHĀG. P. 6,16,32</ls>
+206658	aSruvadana	589216	<ls>BHĀG. P. 1,16,19</ls>
+206658	aSruvadana	589216	<ls n="BHĀG. P. 1,">17,3</ls>
+206705	asvArTa	589357	<ls>BHĀG. P. 6,10,10</ls>
+206924	uBayatovAha	590030	<ls>BHĀG. P. 6,5,8</ls>
+206998	kandukalIlA	590267	<ls>BHĀG. P. 8,12,18</ls>
+206998	kandukalIlA	590267	<ls n="BHĀG. P. 8,12,">22</ls>
+206998	kandukalIlA	590267	<ls n="BHĀG. P.">5,9,19</ls>
+207003	kar	590284	<ls>BHĀG. P. 11,29,34</ls>
+207021	kalpavAsin	590347	<ls>BHĀG. P. 4,9,20</ls>
+207153	gatasvArTa	590761	<ls>BHĀG. P. 1,13,24</ls>
+207180	gUQavarcas	590843	<ls>BHĀG. P. 1,19,28</ls>
+207271	janmatapovidyAcAravarRASramavant	591120	<ls>BHĀG. P. 5,26,30</ls>
+207348	talloka	591365	<ls>BHĀG. P. 4,24,7</ls>
+207403	daSalakzaRa	591539	<ls>BHĀG. P. 2,9,43</ls>
+207458	dehaMBaravArttika	591710	<ls>BHĀG. P. 5,5,3</ls>
+207536	navalakzaRa	591951	<ls>BHĀG. P. 7,5,24</ls>
+207547	nAtilampawa	591984	<ls>BHĀG. P. 10,81,38</ls>
+207577	nirukta	592074	<ls>BHĀG. P. 12,6,58</ls>
+207638	nopalakzita	592260	<ls>BHĀG. P. 5,18,30</ls>
+207799	puzkaravizwara	592756	<ls>BHĀG. P. 3,19,31</ls>
+207816	pfTagrasamaya	592807	<ls>BHĀG. P. 4,18,25</ls>
+207922	bahurUpin	593140	<ls>BHĀG. P. 4,17,3</ls>
+207945	bilAyana	593212	<ls>BHĀG. P. 5,24,16</ls>
+207960	brahmarasAsava	593263	<ls>BHĀG. P. 4,4,15</ls>
+208063	mantravarRa	593575	<ls>BHĀG. P. 5,24,30</ls>
+208228	ativESasa	594095	<ls>BHĀG. P. 3,19,21</ls>
+208230	ativyaTita	594101	<ls>BHĀG. P. 5,14,11</ls>
+208241	atiSAdvala	594134	<ls>BHĀG. P. 10,18,5</ls>
+208245	atiSrama	594146	<ls>BHĀG. P. 2,7,31</ls>
+208248	atisaMramBa	594158	<ls>BHĀG. P. 5,9,19</ls>
+208280	atihelana	594257	<ls>BHĀG. P. 3,14,37</ls>
+208287	adButasiMha	594278	<ls>BHĀG. P. 7,10,9</ls>
+208326	anavasita	594395	<ls>BHĀG. P. 5,3,14</ls>
+208331	anAvidDa	594410	<ls>BHĀG. P. 1,2,19</ls>
+208331	anAvidDa	594410	<ls n="BHĀG. P.">7,15,35</ls>
+208339	anizidDa	594434	<ls>BHĀG. P. 7,15,66</ls>
+208363	antaHsadas	594509	<ls>BHĀG. P. 1,9,41</ls>
+208463	aviSrabDa	594809	<ls>BHĀG. P. 11,26,4</ls>
+208470	avistfta	594830	<ls>BHĀG. P. 3,12,49</ls>
+208476	avErin	594848	<ls>BHĀG. P. 6,5,39</ls>
+208494	aSaWaDI	594902	<ls>BHĀG. P. 8,22,23</ls>
+208522	asaMroha	594986	<ls>BHĀG. P. 7,10,6</ls>
+208525	asaMvIta	594995	<ls>BHĀG. P. 5,6,8</ls>
+208525	asaMvIta	594995	<ls n="BHĀG. P.">6,18,49</ls>
+208542	asaMKyaSas	595046	<ls>BHĀG. P. 3,12,16</ls>
+208544	asajjita	595052	<ls>BHĀG. P. 5,13,20</ls>
+208549	asadgati	595067	<ls>BHĀG. P. 3,19,29</ls>
+208550	asaDnIcIna	595070	<ls>BHĀG. P. 5,9,5</ls>
+208560	asaMBrama	595100	<ls>BHĀG. P. 5,9,21</ls>
+208575	asfRya	595145	<ls>BHĀG. P. 3,17,22</ls>
+208643	ASleza	595355	<ls>BHĀG. P. ed. Bomb. 3,20,30</ls>
+208681	udaraMBara	595470	<ls>BHĀG. P. 12,2,6</ls>
+208781	karmasaMDa	595779	<ls>BHĀG. P. ed. Bomb. 6,5,42</ls>
+208801	kAmasaMdoha	595839	<ls>BHĀG. P. 4,21,22</ls>
+208815	kIcakaveRuvetravant	595881	<ls>BHĀG. P. 8,2,19</ls>
+208979	damaSarIrin	596388	<ls>BHĀG. P. 3,31,19</ls>
+208983	daSaSatAra	596400	<ls>BHĀG. P. 3,28,27</ls>
+209020	dviSiKa	596520	<ls>BHĀG. P. 10,16,25</ls>
+209026	Darmasatyavrateyu	596538	<ls>BHĀG. P. 9,20,4</ls>
+209041	nAtiprasIdant	596585	<ls>BHĀG. P. 1,4,27</ls>
+209066	nihrAdita	596663	<ls>BHĀG. P. 10,36,3</ls>
+209143	pratiSruta	596906	<ls>BHĀG. P. 10,89,45</ls>
+209240	manaHsamfdDi	597212	<ls>BHĀG. P. 4,9,36</ls>
+209241	manaHsuKa	597215	<ls>BHĀG. P. 9,18,51</ls>
+209259	mahASrotriya	597269	<ls>BHĀG. P. 5,4,12</ls>

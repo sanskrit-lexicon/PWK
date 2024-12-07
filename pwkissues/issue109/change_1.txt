@@ -1,0 +1,287 @@
+; -----------------------------------------------------
+; <L>112<pc>1-002-b<k1>akalpa<k2>akalpa/
+; oldls :<ls>BHĀG. P. 3,30,13. 14. 31,8. 4,3,21. 5,14,25. 7,12,23</ls>
+; newls :<ls>BHĀG. P. 3,30,13.</ls> <ls n="BHĀG. P. 3,30,">14.</ls> <ls n="BHĀG. P. 3,">31,8.</ls> <ls n="BHĀG. P.">4,3,21.</ls> <ls n="BHĀG. P.">5,14,25.</ls> <ls n="BHĀG. P.">7,12,23</ls>
+432 old <div n="1">— 2〉 {%nicht im Stande seiend, — vermögend;%} die Ergänzung im <ab>Loc.</ab>, <ab>Inf.</ab> oder im <ab>Comp.</ab> vorangehend. <ls>Spr. 7614</ls>. <ls>BHĀG. P. 3,30,13. 14. 31,8. 4,3,21. 5,14,25. 7,12,23</ls>.
+;
+432 new <div n="1">— 2〉 {%nicht im Stande seiend, — vermögend;%} die Ergänzung im <ab>Loc.</ab>, <ab>Inf.</ab> oder im <ab>Comp.</ab> vorangehend. <ls>Spr. 7614</ls>. <ls>BHĀG. P. 3,30,13.</ls> <ls n="BHĀG. P. 3,30,">14.</ls> <ls n="BHĀG. P. 3,">31,8.</ls> <ls n="BHĀG. P.">4,3,21.</ls> <ls n="BHĀG. P.">5,14,25.</ls> <ls n="BHĀG. P.">7,12,23</ls>.
+; -----------------------------------------------------
+; <L>4786<pc>1-056-c<k1>anullaNGita<k2>anullaNGita
+; oldls :<ls>BHĀG. P. 5,26,6. 12,1,9</ls>
+; newls :<ls>BHĀG. P. 5,26,6.</ls> <ls n="BHĀG. P.">12,1,9</ls>
+17750 old {#anullaNGita#}¦ <lex>Adj.</lex> {%nicht übertreten%}. {#SAsana#} <ls>KATHĀS. 56,162</ls>. <ls>VP. 4,24,5</ls>. <ls>BHĀG. P. 5,26,6. 12,1,9</ls>.
+;
+17750 new {#anullaNGita#}¦ <lex>Adj.</lex> {%nicht übertreten%}. {#SAsana#} <ls>KATHĀS. 56,162</ls>. <ls>VP. 4,24,5</ls>. <ls>BHĀG. P. 5,26,6.</ls> <ls n="BHĀG. P.">12,1,9</ls>.
+; -----------------------------------------------------
+; <L>10998<pc>1-129-b<k1>avidDa<k2>avidDa
+; oldls :<ls>BHĀG. P. 3,9,3. 8,3,4</ls>
+; newls :<ls>BHĀG. P. 3,9,3.</ls> <ls n="BHĀG. P.">8,3,4</ls>
+41452 old <div n="1">— 2〉 {%unbeschädigt, unabgenutzt, in voller Kraft%} <ls>BHĀG. P. 3,9,3. 8,3,4</ls>.
+;
+41452 new <div n="1">— 2〉 {%unbeschädigt, unabgenutzt, in voller Kraft%} <ls>BHĀG. P. 3,9,3.</ls> <ls n="BHĀG. P.">8,3,4</ls>.
+; -----------------------------------------------------
+; <L>11041<pc>1-130-a<k1>avipakvakazAya<k2>avipakvakazAya
+; oldls :<ls>BHĀG. P. 1,6,22. 11,18,11</ls>
+; newls :<ls>BHĀG. P. 1,6,22.</ls> <ls n="BHĀG. P.">11,18,11</ls>
+41596 old {#avipakvakazAya#}¦ <lex>Adj.</lex> {%dessen Schlacken noch nicht ausgeglüht sind, an dem noch Sünde haftet%} <ls>BHĀG. P. 1,6,22. 11,18,11</ls>.
+;
+41596 new {#avipakvakazAya#}¦ <lex>Adj.</lex> {%dessen Schlacken noch nicht ausgeglüht sind, an dem noch Sünde haftet%} <ls>BHĀG. P. 1,6,22.</ls> <ls n="BHĀG. P.">11,18,11</ls>.
+; -----------------------------------------------------
+; <L>11884<pc>1-139-c<k1>aSvameDaka<k2>aSvameDaka
+; oldls :<ls>BHĀG. P. 9,22,38. (39)</ls>
+; newls :<ls>BHĀG. P. 9,22,38.</ls> <ls n="BHĀG. P. 9,22,">(39)</ls>
+44736 old {#aSvameDaka#} oder {#°meDaja#}¦ <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten <ls>BHĀG. P. 9,22,38. (39)</ls>.
+;
+44736 new {#aSvameDaka#} oder {#°meDaja#}¦ <lex>m.</lex> <ab>N. pr.</ab> eines Fürsten <ls>BHĀG. P. 9,22,38.</ls> <ls n="BHĀG. P. 9,22,">(39)</ls>.
+; -----------------------------------------------------
+; <L>12253<pc>1-145-b<k1>asakta<k2>asakta
+; oldls :<ls>BHĀG. P. 1,6,28. 3,3,19</ls>
+; newls :<ls>BHĀG. P. 1,6,28.</ls> <ls n="BHĀG. P.">3,3,19</ls>
+46248 old <div n="2">— c〉 {%an den Dingen nicht hängend, mit dem Herzen unbetheiliget%} <ls>RAGH. 1,21</ls>. <ls>BHĀG. P. 1,6,28. 3,3,19</ls>.
+;
+46248 new <div n="2">— c〉 {%an den Dingen nicht hängend, mit dem Herzen unbetheiliget%} <ls>RAGH. 1,21</ls>. <ls>BHĀG. P. 1,6,28.</ls> <ls n="BHĀG. P.">3,3,19</ls>.
+; -----------------------------------------------------
+; <L>12973<pc>1-153-c<k1>aspfzwa<k2>aspfzwa
+; oldls :<ls>BHĀG. P. 4,29,47. 6,3,15</ls>
+; newls :<ls>BHĀG. P. 4,29,47.</ls> <ls n="BHĀG. P.">6,3,15</ls>
+48897 old <div n="1">— 1〉 {%nicht berührt, womit man nicht in Berührung gekommen ist, wohin man nicht gelangt ist%} <ls>Spr. 517</ls>. <ls>BHĀG. P. 4,29,47. 6,3,15</ls>.
+;
+48897 new <div n="1">— 1〉 {%nicht berührt, womit man nicht in Berührung gekommen ist, wohin man nicht gelangt ist%} <ls>Spr. 517</ls>. <ls>BHĀG. P. 4,29,47.</ls> <ls n="BHĀG. P.">6,3,15</ls>.
+; -----------------------------------------------------
+; <L>15911<pc>1-188-b<k1>Avapana<k2>Ava/pana
+; oldls :<ls>BHĀG. P. 10,80,45. 87,20</ls>
+; newls :<ls>BHĀG. P. 10,80,45.</ls> <ls n="BHĀG. P. 10,">87,20</ls>
+60275 old <div n="2">— d〉 {%Gefäss, Behälter%} (auch in <ab>übertr.</ab> <ab>Bed.</ab>). <ls>MAITR. S. 3,12,19</ls>. <ls>BHĀG. P. 10,80,45. 87,20</ls>.
+;
+60275 new <div n="2">— d〉 {%Gefäss, Behälter%} (auch in <ab>übertr.</ab> <ab>Bed.</ab>). <ls>MAITR. S. 3,12,19</ls>. <ls>BHĀG. P. 10,80,45.</ls> <ls n="BHĀG. P. 10,">87,20</ls>.
+; -----------------------------------------------------
+; <L>17277<pc>1-208-c<k1>iz<k2>iz<h>1
+; oldls :<ls>BHĀG. P. 3,13,44. 9,4,52</ls>
+; newls :<ls>BHĀG. P. 3,13,44.</ls> <ls n="BHĀG. P.">9,4,52</ls>
+66217 old <div n="1">— 7〉 {#ezate#} {%suchen%} <ls>BHĀG. P. 3,13,44. 9,4,52</ls>.
+;
+66217 new <div n="1">— 7〉 {#ezate#} {%suchen%} <ls>BHĀG. P. 3,13,44.</ls> <ls n="BHĀG. P.">9,4,52</ls>.
+; -----------------------------------------------------
+; <L>22424<pc>1-274-b<k1>EkAtmya<k2>EkAtmya
+; oldls :<ls>BHĀG. P. 4,13,8. 21,29</ls>
+; newls :<ls>BHĀG. P. 4,13,8.</ls> <ls n="BHĀG. P. 4,">21,29</ls>
+86996 old {#EkAtmya#}¦ <lex>n.</lex> {%Wesenseinheit%} <ls>BHĀG. P. 4,13,8. 21,29</ls>.
+;
+86996 new {#EkAtmya#}¦ <lex>n.</lex> {%Wesenseinheit%} <ls>BHĀG. P. 4,13,8.</ls> <ls n="BHĀG. P. 4,">21,29</ls>.
+; -----------------------------------------------------
+; <L>23525<pc>2-006-b<k1>kawvaNga<k2>kawvaNga
+; oldls :<ls>BHĀG. P. 9,9,41. 10,1</ls>
+; newls :<ls>BHĀG. P. 9,9,41.</ls> <ls n="BHĀG. P. 9,">10,1</ls>
+91471 old <div n="1">— 2〉 <ab>Bein.</ab> <is>Dilīpa</is>ʼs <ls>BHĀG. P. 9,9,41. 10,1</ls>. {#KAwvANga#} <ls>BHĀG. P. ed. Bomb.</ls>
+;
+91471 new <div n="1">— 2〉 <ab>Bein.</ab> <is>Dilīpa</is>ʼs <ls>BHĀG. P. 9,9,41.</ls> <ls n="BHĀG. P. 9,">10,1</ls>. {#KAwvANga#} <ls>BHĀG. P. ed. Bomb.</ls>
+; -----------------------------------------------------
+; <L>25585<pc>2-035-c<k1>kalp<k2>kalp
+; oldls :<ls>BHĀG. P. 5,26,38. 14,1</ls>
+; newls :<ls>BHĀG. P. 5,26,38.</ls> <ls n="BHĀG. P. 5,">14,1</ls>
+100816 old <div n="1">— 2〉 {%theilen%}. {#vikalpita#} {%getheilt, so und so vielfach%} (Zahladverb auf {#DA#}) {%erscheinend, so und auch anders erscheinend%} <ls>BHĀG. P. 5,26,38. 14,1</ls>.
+;
+100816 new <div n="1">— 2〉 {%theilen%}. {#vikalpita#} {%getheilt, so und so vielfach%} (Zahladverb auf {#DA#}) {%erscheinend, so und auch anders erscheinend%} <ls>BHĀG. P. 5,26,38.</ls> <ls n="BHĀG. P. 5,">14,1</ls>.
+; -----------------------------------------------------
+; <L>27656<pc>2-063-a<k1>kAzWA<k2>kA/zWA
+; oldls :<ls>BHĀG. P. 3,28,12. 7,4,22</ls>
+; newls :<ls>BHĀG. P. 3,28,12.</ls> <ls n="BHĀG. P.">7,4,22</ls>
+109295 old <div n="1">— 7〉 {%Form, Erscheinungsform%} <ls>BHĀG. P. 3,28,12. 7,4,22</ls>.
+;
+109295 new <div n="1">— 7〉 {%Form, Erscheinungsform%} <ls>BHĀG. P. 3,28,12.</ls> <ls n="BHĀG. P.">7,4,22</ls>.
+; -----------------------------------------------------
+; <L>30933<pc>2-102-a<k1>kEvalya<k2>kEvalya
+; oldls :<ls>BHĀG. P. 3,11,2. 5,3,17</ls>
+; newls :<ls>BHĀG. P. 3,11,2.</ls> <ls n="BHĀG. P.">5,3,17</ls>
+122660 old <div n="2">— b〉 {%absolute Einheit%} <ls n="Chr.">289,13</ls>. <ls>BHĀG. P. 3,11,2. 5,3,17</ls>.
+;
+122660 new <div n="2">— b〉 {%absolute Einheit%} <ls n="Chr.">289,13</ls>. <ls>BHĀG. P. 3,11,2.</ls> <ls n="BHĀG. P.">5,3,17</ls>.
+; -----------------------------------------------------
+; <L>32538<pc>2-125-a<k1>kzip<k2>kzip<h>1
+; oldls :<ls>BHĀG. P. 4,8,24. 15,17</ls>
+; newls :<ls>BHĀG. P. 4,8,24.</ls> <ls n="BHĀG. P. 4,">15,17</ls>
+129690 old <div n="1">— 8〉 {%verhöhnen,%} so <ab>v. a.</ab> {%in Schatten stellen, übertreffen%} <ls>BHĀG. P. 4,8,24. 15,17</ls>.
+;
+129690 new <div n="1">— 8〉 {%verhöhnen,%} so <ab>v. a.</ab> {%in Schatten stellen, übertreffen%} <ls>BHĀG. P. 4,8,24.</ls> <ls n="BHĀG. P. 4,">15,17</ls>.
+; -----------------------------------------------------
+; <L>33820<pc>2-141-a<k1>Kila<k2>Kila/
+; oldls :<ls>BHĀG. P. 1,4,32. 5,8. 6,4,49</ls>
+; newls :<ls>BHĀG. P. 1,4,32.</ls> <ls n="BHĀG. P. 1,">5,8.</ls> <ls n="BHĀG. P.">6,4,49</ls>
+135099 old <div n="1">— 8〉 <lex>Adj.</lex> {%mangelhaft, unzulänglich%} <ls>BHĀG. P. 1,4,32. 5,8. 6,4,49</ls>.
+;
+135099 new <div n="1">— 8〉 <lex>Adj.</lex> {%mangelhaft, unzulänglich%} <ls>BHĀG. P. 1,4,32.</ls> <ls n="BHĀG. P. 1,">5,8.</ls> <ls n="BHĀG. P.">6,4,49</ls>.
+; -----------------------------------------------------
+; <L>42968<pc>2-270-a<k1>jIvakoSa<k2>jIvakoSa
+; oldls :<ls>BHĀG. P. 4,22,26. 23,11. 10,82,47</ls>
+; newls :<ls>BHĀG. P. 4,22,26.</ls> <ls n="BHĀG. P. 4,">23,11.</ls> <ls n="BHĀG. P.">10,82,47</ls>
+174964 old {#jIvakoSa#}¦ <lex>m.</lex> {%das Gehäuse aer Seele%} <ls>BHĀG. P. 4,22,26. 23,11. 10,82,47</ls>.
+;
+174964 new {#jIvakoSa#}¦ <lex>m.</lex> {%das Gehäuse aer Seele%} <ls>BHĀG. P. 4,22,26.</ls> <ls n="BHĀG. P. 4,">23,11.</ls> <ls n="BHĀG. P.">10,82,47</ls>.
+; -----------------------------------------------------
+; <L>43356<pc>2-276-b<k1>jYAnaGana<k2>jYAnaGana
+; oldls :<ls>BHĀG. P. 8,3,12. 9,8,23</ls>
+; newls :<ls>BHĀG. P. 8,3,12.</ls> <ls n="BHĀG. P.">9,8,23</ls>
+176719 old {#jYAnaGana#}¦ <lex>m.</lex> {%reine Erkenntniss, Nichts als <ab n="Erkenntniss">E.</ab>%} <ls>BHĀG. P. 8,3,12. 9,8,23</ls>.
+;
+176719 new {#jYAnaGana#}¦ <lex>m.</lex> {%reine Erkenntniss, Nichts als <ab n="Erkenntniss">E.</ab>%} <ls>BHĀG. P. 8,3,12.</ls> <ls n="BHĀG. P.">9,8,23</ls>.
+; -----------------------------------------------------
+; <L>44363<pc>3-006-b<k1>tan<k2>tan<h>1
+; oldls :<ls>BHĀG. P. 1,8,6. 16,34. 3,21,20. 4,17,22</ls>
+; newls :<ls>BHĀG. P. 1,8,6.</ls> <ls n="BHĀG. P. 1,">16,34.</ls> <ls n="BHĀG. P.">3,21,20.</ls> <ls n="BHĀG. P.">4,17,22</ls>
+181220 old <div n="1">— 7〉 {%ausbreiten, verbreiten, vermehren%} <ls>RAGH. 3,25</ls>. <ls>Spr. 2503</ls>. <ls>KATHĀS. 104,89</ls>. <ls>PRAB. 30,13</ls>. <ls>BHĀG. P. 1,8,6. 16,34. 3,21,20. 4,17,22</ls>. <ls>DHŪRTAS. 66,10</ls>. <ls>BHAṬṬ. 2,17</ls>. <ab>Pass.</ab> {#tAyate#} {%sich ausbreiten; zunehmen%}. {#tata#} {%ausgebreitet, weit%}.
+;
+181220 new <div n="1">— 7〉 {%ausbreiten, verbreiten, vermehren%} <ls>RAGH. 3,25</ls>. <ls>Spr. 2503</ls>. <ls>KATHĀS. 104,89</ls>. <ls>PRAB. 30,13</ls>. <ls>BHĀG. P. 1,8,6.</ls> <ls n="BHĀG. P. 1,">16,34.</ls> <ls n="BHĀG. P.">3,21,20.</ls> <ls n="BHĀG. P.">4,17,22</ls>. <ls>DHŪRTAS. 66,10</ls>. <ls>BHAṬṬ. 2,17</ls>. <ab>Pass.</ab> {#tAyate#} {%sich ausbreiten; zunehmen%}. {#tata#} {%ausgebreitet, weit%}.
+; -----------------------------------------------------
+; <L>46086<pc>3-032-c<k1>tIrTakIrti<k2>tIrTakIrti
+; oldls :<ls>BHĀG. P. 3,1,45. 5,15</ls>
+; newls :<ls>BHĀG. P. 3,1,45.</ls> <ls n="BHĀG. P. 3,">5,15</ls>
+189112 old {#tIrTakIrti#}¦ <lex>Adj.</lex> {%dessen Ruhm eine Furt durchʼs Leben bildet%} <ls>BHĀG. P. 3,1,45. 5,15</ls>.
+;
+189112 new {#tIrTakIrti#}¦ <lex>Adj.</lex> {%dessen Ruhm eine Furt durchʼs Leben bildet%} <ls>BHĀG. P. 3,1,45.</ls> <ls n="BHĀG. P. 3,">5,15</ls>.
+; -----------------------------------------------------
+; <L>46114<pc>3-033-a<k1>tIrTaSravas<k2>tIrTaSravas
+; oldls :<ls>BHĀG. P. 2,7,15. 8,17,8</ls>
+; newls :<ls>BHĀG. P. 2,7,15.</ls> <ls n="BHĀG. P.">8,17,8</ls>
+189206 old {#tIrTaSravas#}¦ <lex>Adj.</lex> = {#tIrTakIrti#} <ls>BHĀG. P. 2,7,15. 8,17,8</ls>.
+;
+189206 new {#tIrTaSravas#}¦ <lex>Adj.</lex> = {#tIrTakIrti#} <ls>BHĀG. P. 2,7,15.</ls> <ls n="BHĀG. P.">8,17,8</ls>.
+; -----------------------------------------------------
+; <L>51320<pc>3-103-c<k1>durmarza<k2>durma/rza
+; oldls :<ls>BHĀG. P. 4,4,30. 6,14,43. 10,58,53</ls>
+; newls :<ls>BHĀG. P. 4,4,30.</ls> <ls n="BHĀG. P.">6,14,43.</ls> <ls n="BHĀG. P.">10,58,53</ls>
+210903 old <div n="2">— c〉 {%sich Nichts gefallen lassend, aufsässig gegen%} ({#prati#}) <ls>BHĀG. P. 4,4,30. 6,14,43. 10,58,53</ls>.
+;
+210903 new <div n="2">— c〉 {%sich Nichts gefallen lassend, aufsässig gegen%} ({#prati#}) <ls>BHĀG. P. 4,4,30.</ls> <ls n="BHĀG. P.">6,14,43.</ls> <ls n="BHĀG. P.">10,58,53</ls>.
+; -----------------------------------------------------
+; <L>53848<pc>3-134-c<k1>dvijadeva<k2>dvijadeva
+; oldls :<ls>BHĀG. P. 3,1,23. 5,5,22</ls>
+; newls :<ls>BHĀG. P. 3,1,23.</ls> <ls n="BHĀG. P.">5,5,22</ls>
+220770 old {#dvijadeva#}¦ <lex>m.</lex> {%ein Brahman, ein%} <is>Ṛṣi</is> <ls>BHĀG. P. 3,1,23. 5,5,22</ls>.
+;
+220770 new {#dvijadeva#}¦ <lex>m.</lex> {%ein Brahman, ein%} <is>Ṛṣi</is> <ls>BHĀG. P. 3,1,23.</ls> <ls n="BHĀG. P.">5,5,22</ls>.
+; -----------------------------------------------------
+; <L>55409<pc>3-161-a<k1>DizRyapa<k2>DizRyapa
+; oldls :<ls>BHĀG. P. 7,8,27. 9,23</ls>
+; newls :<ls>BHĀG. P. 7,8,27.</ls> <ls n="BHĀG. P. 7,">9,23</ls>
+227718 old {#DizRyapa#}¦ <lex>m.</lex> {%Hüter einer Himmelsgegend%} <ls>BHĀG. P. 7,8,27. 9,23</ls>.
+;
+227718 new {#DizRyapa#}¦ <lex>m.</lex> {%Hüter einer Himmelsgegend%} <ls>BHĀG. P. 7,8,27.</ls> <ls n="BHĀG. P. 7,">9,23</ls>.
+; -----------------------------------------------------
+; <L>57606<pc>3-192-a<k1>nAqi<k2>nAqi
+; oldls :<ls>BHĀG. P. 2,10,29. 3,30,17</ls>
+; newls :<ls>BHĀG. P. 2,10,29.</ls> <ls n="BHĀG. P.">3,30,17</ls>
+237070 old {#nAqi#}¦ <lex>f.</lex> = {#nAqI#} {%Ader, Gefäss des thierischen Leibes%} <ls>BHĀG. P. 2,10,29. 3,30,17</ls>.
+;
+237070 new {#nAqi#}¦ <lex>f.</lex> = {#nAqI#} {%Ader, Gefäss des thierischen Leibes%} <ls>BHĀG. P. 2,10,29.</ls> <ls n="BHĀG. P.">3,30,17</ls>.
+; -----------------------------------------------------
+; <L>64238<pc>4-044-c<k1>parivfQa<k2>parivfQa
+; oldls :<ls>BHĀG. P. 5,1,8. 16,16. 6,16,25</ls>
+; newls :<ls>BHĀG. P. 5,1,8.</ls> <ls n="BHĀG. P. 5,">16,16.</ls> <ls n="BHĀG. P.">6,16,25</ls>
+265071 old <div n="1">— 2〉 <lex>m.</lex> {%Herr, Gebieter, Anführer%} <ls>BHĀG. P. 5,1,8. 16,16. 6,16,25</ls>. <ls>Verz. d. Oxf. H. 117,b,5</ls>. {#kziti°#} {%Landesherr, Fürst%} <ls>VIKRAMĀṄKAC. 18,93</ls>.
+;
+265071 new <div n="1">— 2〉 <lex>m.</lex> {%Herr, Gebieter, Anführer%} <ls>BHĀG. P. 5,1,8.</ls> <ls n="BHĀG. P. 5,">16,16.</ls> <ls n="BHĀG. P.">6,16,25</ls>. <ls>Verz. d. Oxf. H. 117,b,5</ls>. {#kziti°#} {%Landesherr, Fürst%} <ls>VIKRAMĀṄKAC. 18,93</ls>.
+; -----------------------------------------------------
+; <L>66997<pc>4-083-c<k1>pitfyAna<k2>pitfyAna<h>1
+; oldls :<ls>BHĀG. P. 4,29,13. 7,15,51</ls>
+; newls :<ls>BHĀG. P. 4,29,13.</ls> <ls n="BHĀG. P.">7,15,51</ls>
+276600 old <hom>1.</hom> {#pitfyAna#}¦ <lex>n.</lex> {%der Gang zu den Vätern%} <ls>BHĀG. P. 4,29,13. 7,15,51</ls>.
+;
+276600 new <hom>1.</hom> {#pitfyAna#}¦ <lex>n.</lex> {%der Gang zu den Vätern%} <ls>BHĀG. P. 4,29,13.</ls> <ls n="BHĀG. P.">7,15,51</ls>.
+; -----------------------------------------------------
+; <L>70299<pc>4-128-b<k1>prakIrRakeSa<k2>prakIrRakeSa
+; oldls :<ls>BHĀG. P. 5,5,28. 7,2,30</ls>
+; newls :<ls>BHĀG. P. 5,5,28.</ls> <ls n="BHĀG. P.">7,2,30</ls>
+289761 old <div n="1">— 1〉 <lex>Adj.</lex> (<lex>f.</lex> {#I#}) {%mit zerstreutem, aufgelöstem Haar%} <ls>MBH. 3,173,62</ls>. <ls>SUŚR. 1,106,3</ls>. <ls>BHĀG. P. 5,5,28. 7,2,30</ls>.
+;
+289761 new <div n="1">— 1〉 <lex>Adj.</lex> (<lex>f.</lex> {#I#}) {%mit zerstreutem, aufgelöstem Haar%} <ls>MBH. 3,173,62</ls>. <ls>SUŚR. 1,106,3</ls>. <ls>BHĀG. P. 5,5,28.</ls> <ls n="BHĀG. P.">7,2,30</ls>.
+; -----------------------------------------------------
+; <L>70690<pc>4-134-b<k1>prajYAGana<k2>prajYAGana
+; oldls :<ls>BHĀG. P. 8,3,12. 9,8,23</ls>
+; newls :<ls>BHĀG. P. 8,3,12.</ls> <ls n="BHĀG. P.">9,8,23</ls>
+291419 old {#prajYAGana#}¦ <lex>m.</lex> {%Nichts als Erkenntniss, aus lauter Erkenntniss bestehend%} <ls>BHĀG. P. 8,3,12. 9,8,23</ls>.
+;
+291419 new {#prajYAGana#}¦ <lex>m.</lex> {%Nichts als Erkenntniss, aus lauter Erkenntniss bestehend%} <ls>BHĀG. P. 8,3,12.</ls> <ls n="BHĀG. P.">9,8,23</ls>.
+; -----------------------------------------------------
+; <L>79030<pc>4-254-a<k1>BavacCid<k2>BavacCid
+; oldls :<ls>BHĀG. P. 2,6,25. 4,1,48. 9,9,14</ls>
+; newls :<ls>BHĀG. P. 2,6,25.</ls> <ls n="BHĀG. P.">4,1,48.</ls> <ls n="BHĀG. P.">9,9,14</ls>
+325639 old {#BavacCid#}¦ <lex>Adj.</lex> {%das weltliche Dasein vernichtend, von allen ferneren Wiedergeburten befreiend%} <ls>KĀD. 1,8</ls>. <ls>KIR. 5,22</ls>. <ls>BHĀG. P. 2,6,25. 4,1,48. 9,9,14</ls>. <ls>PRAB. 108,6</ls>.
+;
+325639 new {#BavacCid#}¦ <lex>Adj.</lex> {%das weltliche Dasein vernichtend, von allen ferneren Wiedergeburten befreiend%} <ls>KĀD. 1,8</ls>. <ls>KIR. 5,22</ls>. <ls>BHĀG. P. 2,6,25.</ls> <ls n="BHĀG. P.">4,1,48.</ls> <ls n="BHĀG. P.">9,9,14</ls>. <ls>PRAB. 108,6</ls>.
+; -----------------------------------------------------
+; <L>94602<pc>5-197-b<k1>ruSant<k2>ru/Sant
+; oldls :<ls>BHĀG. P. 4,4,17. 9,9,24</ls>
+; newls :<ls>BHĀG. P. 4,4,17.</ls> <ls n="BHĀG. P.">9,9,24</ls>
+392435 old <div n="1">— 2〉 {%widerwärtig, ungünstig; widerlich, abscheulich%} <ls>AV. 3,28,1. 4,16,6. 14,1,38</ls>. <ls>KAUŚ. 102</ls>. <ls>BHĀG. P. 4,4,17. 9,9,24</ls>. <ab>Insbes.</ab> {#ruSatI#} von einer Rede so <ab>v. a.</ab> {%verletzend%} <ls n="BHĀG. P.">6,10,28</ls>; in dieser Verbindung auch {#ruzatI#} (<ls>MBH. 5,75,5</ls> = {#rozavatI#} <ab>Comm.</ab>) und {#uzatI#} geschrieben; <ab>vgl.</ab> <ls>Spr. 3542</ls>. <ls n="Spr.">3646</ls>. <ls n="Spr.">4732</ls>. {#ruzatI#} <ls>HARIV. 7796</ls> könnte {%Böses im Sinne habend gegen%} (<ab>Gen.</ab>) bedeuten.
+;
+392435 new <div n="1">— 2〉 {%widerwärtig, ungünstig; widerlich, abscheulich%} <ls>AV. 3,28,1. 4,16,6. 14,1,38</ls>. <ls>KAUŚ. 102</ls>. <ls>BHĀG. P. 4,4,17.</ls> <ls n="BHĀG. P.">9,9,24</ls>. <ab>Insbes.</ab> {#ruSatI#} von einer Rede so <ab>v. a.</ab> {%verletzend%} <ls n="BHĀG. P.">6,10,28</ls>; in dieser Verbindung auch {#ruzatI#} (<ls>MBH. 5,75,5</ls> = {#rozavatI#} <ab>Comm.</ab>) und {#uzatI#} geschrieben; <ab>vgl.</ab> <ls>Spr. 3542</ls>. <ls n="Spr.">3646</ls>. <ls n="Spr.">4732</ls>. {#ruzatI#} <ls>HARIV. 7796</ls> könnte {%Böses im Sinne habend gegen%} (<ab>Gen.</ab>) bedeuten.
+; -----------------------------------------------------
+; <L>98990<pc>6-038-a<k1>varzapUga<k2>varzapUga
+; oldls :<ls>BHĀG. P. 2,5,34. 3,23,44. 4,12,42</ls>
+; newls :<ls>BHĀG. P. 2,5,34.</ls> <ls n="BHĀG. P.">3,23,44.</ls> <ls n="BHĀG. P.">4,12,42</ls>
+413299 old <div n="1">— 2〉 {%eine Reihe von Jahren%} <ls n="Chr.">87,8</ls>. <ls>MBH. 1,80,7. 5,27,7. 13,145,22</ls>. <ls>BHĀG. P. 2,5,34. 3,23,44. 4,12,42</ls>.
+;
+413299 new <div n="1">— 2〉 {%eine Reihe von Jahren%} <ls n="Chr.">87,8</ls>. <ls>MBH. 1,80,7. 5,27,7. 13,145,22</ls>. <ls>BHĀG. P. 2,5,34.</ls> <ls n="BHĀG. P.">3,23,44.</ls> <ls n="BHĀG. P.">4,12,42</ls>.
+; -----------------------------------------------------
+; <L>102322<pc>6-087-b<k1>viwaNka<k2>viwaNka
+; oldls :<ls>BHĀG. P. 3,15,27. 5,2,10. 10,33,16</ls>
+; newls :<ls>BHĀG. P. 3,15,27.</ls> <ls n="BHĀG. P.">5,2,10.</ls> <ls n="BHĀG. P.">10,33,16</ls>
+427391 old <div n="1">— 2〉 <lex>Adj.</lex> {%schmuck, hübsch, schön%} <ls>BHĀG. P. 3,15,27. 5,2,10. 10,33,16</ls>. <ls>PR. P. 49</ls>. <ab>Vgl.</ab> {#viwaNkita#} unter {#waNk#} mit {#vi#}.
+;
+427391 new <div n="1">— 2〉 <lex>Adj.</lex> {%schmuck, hübsch, schön%} <ls>BHĀG. P. 3,15,27.</ls> <ls n="BHĀG. P.">5,2,10.</ls> <ls n="BHĀG. P.">10,33,16</ls>. <ls>PR. P. 49</ls>. <ab>Vgl.</ab> {#viwaNkita#} unter {#waNk#} mit {#vi#}.
+; -----------------------------------------------------
+; <L>111496<pc>6-221-c<k1>SAnta<k2>SAnta/<h>1
+; oldls :<ls>BHĀG. P. 5,20,2. 3</ls>
+; newls :<ls>BHĀG. P. 5,20,2.</ls> <ls n="BHĀG. P. 5,20,">3</ls>
+465881 old <div n="2">— d〉 eines Sohnes des <is>Idhmajihva</is> <ls>BHĀG. P. 5,20,2. 3</ls>.
+;
+465881 new <div n="2">— d〉 eines Sohnes des <is>Idhmajihva</is> <ls>BHĀG. P. 5,20,2.</ls> <ls n="BHĀG. P. 5,20,">3</ls>.
+; -----------------------------------------------------
+; <L>111879<pc>6-227-a<k1>SAlin<k2>SAlin
+; oldls :<ls>BHĀG. P. 3,20,36. 24,1</ls>
+; newls :<ls>BHĀG. P. 3,20,36.</ls> <ls n="BHĀG. P. 3,">24,1</ls>
+467506 old <div n="2">— b〉 am Ende eines <ab>Comp.</ab> {%voll von, reichlich versehen mit, verbunden mit, in hohem Grade Etwas besitzend, sich verstehend auf, sich auszeichnend durch%} oder {%in%}. <ls>BHĀG. P. 3,20,36. 24,1</ls>. ausserhalb des <ab>Comp.</ab> von einer Person so <ab>v. a.</ab> {%rühmenswerth%} (<ab>vgl.</ab> {#SAl#}).
+;
+467506 new <div n="2">— b〉 am Ende eines <ab>Comp.</ab> {%voll von, reichlich versehen mit, verbunden mit, in hohem Grade Etwas besitzend, sich verstehend auf, sich auszeichnend durch%} oder {%in%}. <ls>BHĀG. P. 3,20,36.</ls> <ls n="BHĀG. P. 3,">24,1</ls>. ausserhalb des <ab>Comp.</ab> von einer Person so <ab>v. a.</ab> {%rühmenswerth%} (<ab>vgl.</ab> {#SAl#}).
+; -----------------------------------------------------
+; <L>112858<pc>6-241-a<k1>SI<k2>SI<h>2
+; oldls :<ls>BHĀG. P. 2,7,29. 3,9,10</ls>
+; newls :<ls>BHĀG. P. 2,7,29.</ls> <ls n="BHĀG. P.">3,9,10</ls>
+471663 old <div n="p">— Mit {#nis#}, {#niHSayAna#} {%aus dem Schlafe fahrend%} <ls>BHĀG. P. 2,7,29. 3,9,10</ls>.
+;
+471663 new <div n="p">— Mit {#nis#}, {#niHSayAna#} {%aus dem Schlafe fahrend%} <ls>BHĀG. P. 2,7,29.</ls> <ls n="BHĀG. P.">3,9,10</ls>.
+; -----------------------------------------------------
+; <L>114725<pc>6-266-c<k1>SyAmAvadAta<k2>SyAmAvadAta
+; oldls :<ls>BHĀG. P. 2,9,11. 3,4,7. 8,18,2</ls>
+; newls :<ls>BHĀG. P. 2,9,11.</ls> <ls n="BHĀG. P.">3,4,7.</ls> <ls n="BHĀG. P.">8,18,2</ls>
+479401 old {#SyAmAvadAta#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%rein —, glänzend schwarz%} oder {%schwärzlich weiss%} <ls>R. 5,14,23</ls>. <ls>BHĀG. P. 2,9,11. 3,4,7. 8,18,2</ls>.
+;
+479401 new {#SyAmAvadAta#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%rein —, glänzend schwarz%} oder {%schwärzlich weiss%} <ls>R. 5,14,23</ls>. <ls>BHĀG. P. 2,9,11.</ls> <ls n="BHĀG. P.">3,4,7.</ls> <ls n="BHĀG. P.">8,18,2</ls>.
+; -----------------------------------------------------
+; <L>118421<pc>7-032-a<k1>satsaMkalpa<k2>satsaMkalpa
+; oldls :<ls>BHĀG. P. 4,1,30. 9,18</ls>
+; newls :<ls>BHĀG. P. 4,1,30.</ls> <ls n="BHĀG. P. 4,">9,18</ls>
+494800 old {#satsaMkalpa#}¦ <lex>Adj.</lex> {%gute Vorsätze habend%} <ls>BHĀG. P. 4,1,30. 9,18</ls>.
+;
+494800 new {#satsaMkalpa#}¦ <lex>Adj.</lex> {%gute Vorsätze habend%} <ls>BHĀG. P. 4,1,30.</ls> <ls n="BHĀG. P. 4,">9,18</ls>.
+; -----------------------------------------------------
+; <L>126838<pc>7-153-c<k1>supeSala<k2>supeSala
+; oldls :<ls>BHĀG. P. 10,88,35. 12,6,65</ls>
+; newls :<ls>BHĀG. P. 10,88,35.</ls> <ls n="BHĀG. P.">12,6,65</ls>
+528878 old {#supeSala#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%überaus schön, — reizend, — lieblich%} <ls>BHĀG. P. 10,88,35. 12,6,65</ls>.
+;
+528878 new {#supeSala#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%überaus schön, — reizend, — lieblich%} <ls>BHĀG. P. 10,88,35.</ls> <ls n="BHĀG. P.">12,6,65</ls>.
+; -----------------------------------------------------
+; <L>128206<pc>7-170-c<k1>suSlokya<k2>suSlokya
+; oldls :<ls>BHĀG. P. 3,12,31. 6,18,16. 10,89,21</ls>
+; newls :<ls>BHĀG. P. 3,12,31.</ls> <ls n="BHĀG. P.">6,18,16.</ls> <ls n="BHĀG. P.">10,89,21</ls>
+534364 old <div n="1">— 1〉 <lex>Adj.</lex> {%sehr ruhmwürdig%} <ls>BHĀG. P. 3,12,31. 6,18,16. 10,89,21</ls>.
+;
+534364 new <div n="1">— 1〉 <lex>Adj.</lex> {%sehr ruhmwürdig%} <ls>BHĀG. P. 3,12,31.</ls> <ls n="BHĀG. P.">6,18,16.</ls> <ls n="BHĀG. P.">10,89,21</ls>.
+; -----------------------------------------------------
+; <L>133457<pc>7-250-c<k1>han<k2>han<h>1
+; oldls :<ls>BHĀG. P. 4,14,34. 6,9,18</ls>
+; newls :<ls>BHĀG. P. 4,14,34.</ls> <ls n="BHĀG. P.">6,9,18</ls>
+557023 old <div n="1">— 3〉 {%erschlagen%}. <ls>MBH. 8,849</ls>. <ls>BHĀG. P. 4,14,34. 6,9,18</ls> hat die <ab>v. l.</ab> besser {#ni#} statt {#nis#}
+;
+557023 new <div n="1">— 3〉 {%erschlagen%}. <ls>MBH. 8,849</ls>. <ls>BHĀG. P. 4,14,34.</ls> <ls n="BHĀG. P.">6,9,18</ls> hat die <ab>v. l.</ab> besser {#ni#} statt {#nis#}

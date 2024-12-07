@@ -1,0 +1,15 @@
+Print changes as mentioned in readme.txt
+
+21824	ekapati	84708	<ls>BHĀG. P. 4,26,27</ls>	     4,20,27
+49440	daSArDa	202888	<ls>BHĀG. P. 5,15,30</ls>	     3,15,30
+82462	maDumEreya	340902	<ls>BHĀG. P. 6,2,59</ls>     6,1,59
+84707	mahABogin	350359	<ls>BHĀG. P. 5,24,81</ls>    5,24,31
+206319	apravizwa	588168	<ls n="BHĀG. P.">7,49,4</ls> 2,9,34 (other places 7,12,15 & 10,3,14)
+
+
+
+21824 : ekapati    : <ls>BHĀG. P. 4,26,27</ls> :      4,20,27
+49440 : daSArDa    : <ls>BHĀG. P. 5,15,30</ls> :      3,15,30
+82462 : maDumEreya : <ls>BHĀG. P. 6,2,59</ls>     6,1,59
+84707 : mahABogin  : <ls>BHĀG. P. 5,24,81</ls>    5,24,31
+206319 : apravizwa : <ls n="BHĀG. P.">7,49,4</ls> 2,9,34 (other places 7,12,15 & 10,3,14)
