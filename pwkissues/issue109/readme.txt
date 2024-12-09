@@ -167,3 +167,46 @@ Sync Cologne server to github
 sync this PWK repo to github.
 
 ===============================================
+12-09-2024  Revise apravizwa 7,12,15
+First, edit temp_pw_2.txt and revise
+# regenerate change_2.txt
+python diff_to_changes_dict.py temp_pw_1.txt temp_pw_2.txt change_2.txt
+16 changes written to change_2.txt
+
+python summary.py 1 temp_pw_2.txt bhagp_standard_2.txt bhagp_nonstandard_2.txt
+983 cases written to bhagp_standard_2.txt
+54 cases written to bhagp_nonstandard_2.txt
+
+python summary.py 2 temp_pw_2.txt bhagp_verse_2.txt
+1037 instances of ls
+738 cases written to bhagp_verse_2.txt
+
+===============================================
+Reinstall pw version 2
+--------------------------------------------
+# local installation
+sh redo_pw.sh 2
+
+-----------------------------------
+sync csl-orig to Github
+cd /c/xampp/htdocs/cologne/csl-orig/v02
+
+git add pw/pw.txt # pw.txt
+git commit -m "PW: apravizwa 7,12,15
+Ref: https://github.com/sanskrit-lexicon/PWK/issues/109"
+# 1 line changed
+git push
+
+-----------------------------------
+sync csl-corrections to Github
+Already synced;
+
+-----------------------------------
+Sync Cologne server to github
+1. csl-orig repo  # pull
+2. csl-pywork/v02 #  pw  make displays
+
+-----------------------------------
+sync this PWK repo to github.
+
+===============================================
