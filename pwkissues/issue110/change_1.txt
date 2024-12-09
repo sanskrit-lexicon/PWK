@@ -1,7 +1,7 @@
 ; <L>6319<pc>5-244-a<k1>apravizwa<k2>apravizwa
 20555 old {#apravizwa#}¦ <lex>Adj.</lex> 1〉 {%nicht eingetreten —, nicht eingedrungen in%} (<ab>Loc.</ab>) <ls>BHĀG. P. 2,9,34</ls>. <ls n="BHĀG. P.">7,49,4</ls>. — 2〉 {%nicht betreten%} <ls>RAGH. 11,18</ls>.
 ;
-20555 new {#apravizwa#}¦ <lex>Adj.</lex> 1〉 {%nicht eingetreten —, nicht eingedrungen in%} (<ab>Loc.</ab>) <ls>BHĀG. P. 2,9,34</ls>. <ls n="BHĀG. P.">2,9,34</ls>. — 2〉 {%nicht betreten%} <ls>RAGH. 11,18</ls>.
+20555 new {#apravizwa#}¦ <lex>Adj.</lex> 1〉 {%nicht eingetreten —, nicht eingedrungen in%} (<ab>Loc.</ab>) <ls>BHĀG. P. 2,9,34</ls>. <ls n="BHĀG. P.">7,12,15</ls>. — 2〉 {%nicht betreten%} <ls>RAGH. 11,18</ls>.
 ;---------------------------------------------------
 ; <L>6433<pc>5-245-b<k1>arTaracana<k2>arTaracana
 20903 old {#arTaracana#} <lex>n.</lex> oder {#°nA#} <lex>f.</lex>¦ {%das Betreiben seiner Sache, Verfolgung seines Zieles, Bemühung%}. Am Ende eines <ab>adj. Comp.</ab> <ls>BHĀG. P. 3,9,10</ls>. <ls n="BHĀG. P. 3">23,8</ls>.

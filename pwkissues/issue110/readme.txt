@@ -62,13 +62,13 @@ python check_bur.py link_prelim2_1.txt Burnouf.BhP.index.txt temp_check_bur.txt
 # summary by book order
 python summary.py 1 temp_pwkvn_1.txt bhagp_standard_1.txt bhagp_nonstandard_1.txt
 211 instances of ls
-204 cases written to bhagp_standard_2.txt
-7 cases written to bhagp_nonstandard_2.txt
+204 cases written to bhagp_standard_1.txt
+7 cases written to bhagp_nonstandard_1.txt
 
 # summary by skandha, adhyaya, verse  # only standard
-python summary.py 2 temp_pwkvn_1.txt bhagp_verse_2.txt
+python summary.py 2 temp_pwkvn_1.txt bhagp_verse_1.txt
 211 instances of ls
-196 cases written to bhagp_verse_2.txt
+197 cases written to bhagp_verse_1.txt
 
 --------------------------------------------
 Installation version 1
@@ -105,3 +105,39 @@ Sync Cologne server to github
 -----------------------------------
 sync this PW repo to github.
 ============================================================
+12-08-2024
+# Revision of apravizwa to use 7,12,15
+--------------------------------------------
+Installation version 1 repeated
+--------------------------------------------
+# local installation
+sh redo_pwkvn.sh 1
+-----------------------------------
+sync csl-orig to Github
+cd /c/xampp/htdocs/cologne/csl-orig
+
+git add . # pwkvn.txt
+git commit -m "apravizwa 7,12,15
+Ref: https://github.com/sanskrit-lexicon/PWK/issues/110"
+#  1 line changed.
+git push
+
+-----------------------------------
+sync csl-corrections to Github
+  Note: there is no 'pwkvn' dictionary in csl-corrections.
+        Make a comment in pw_printchange.txt at 12-07-2024 apravizwa
+cd /c/xampp/htdocs/cologne/csl-corrections/
+git add . # dictionaries/pw/pw_printchange.txt
+git commit -m "PW print change revision apravizwa 7,12,15
+Ref: https://github.com/sanskrit-lexicon/PWK/issues/110"
+# 1 line changed.
+git push
+
+-----------------------------------
+Sync Cologne server to github
+1. csl-orig repo
+2. csl-pywork/v02  pw  make displays
+3. csl-corrections
+
+-----------------------------------
+sync this PW repo to github.
