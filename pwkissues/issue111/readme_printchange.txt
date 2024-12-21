@@ -1,0 +1,1063 @@
+Print changes from change_pw_3.txt. Sorted by L.
+    89 : akarA : Phyllanthus embelica : Phyllanthus emblica 
+  1014 : aNgAravallarI : Clerodendrum siphoananthus R. Br. : Clerodendrum siphonanthus R. Br.
+  1262 : ajamoda : Ligeuticum ajowan : Ligusticum ajowan
+  1295 : ajAgara : Verbesina prostrata. : Verbesina prostrata
+  1551 : aRurevatI : Croton polyandrum : Croton polyandrus
+  1619 : atasa : Crotolaria juncea : Crotalaria juncea
+  1682 : atiguhA : Haemionites cordifolia Roxb. : Hemionitis cordifolia Roxb.
+  1973 : atirasa : Sansevieria ceylanica Roxb. : Sansevieria ceylonica Roxb.
+  3347 : ananta : Jussiaed repens : Jussiaea repens
+  3802 : anAkrAntA : Solanum jacquini Willd. : Solanum jacquinii Willd.
+  3965 : anAryatikta : Gentiana chiraita Wall. : Gentiana chirayita Wall.
+  4155 : anilaGnaka : Terminalia bellerica Roxb. : Terminalia bellirica Roxb.
+  4200 : anizwa : Sida albe Lin. : Sida alba Lin.
+  4291 : anukUla : Croton polyandrum : Croton polyandrus
+  4292 : anukUlakA : Croton polyandrum : Croton polyandrus
+  5465 : antya : Cyperus hexastachyus communis Nees : Cyperus hexastachyus Nees
+  6249 : apavizA : Kyllingia monocephala Lin. : Kyllinga monocephala Lin.
+  6275 : apaSoka : Joncesia asoka Roxb. : Jonesia asoca Roxb.
+  6567 : apuzpaPalada : Artocarpus integrifolia : Artocarpus integrifolius
+  7083 : abala : Crataeva roxburghii R. Br. : Crateva roxburghii R. Br.
+  8111 : amara : Indica royle : Aloe indica Royle
+  8124 : amaradAru : Pinus deodora Roxb. : Pinus deodara Roxb.
+  8146 : amaravallarI : Cassyta filiformis L. : Cassytha filiformis L.
+  8358 : amfta : Halicacabum cardiospermum : Cardiospermum halicacabum
+  8358 : amfta : Ocimum sanetum : Ocimum sanctum
+  8358 : amfta : Plaseolus trilobus Ait. : Phaseolus trilobus Ait.
+  8388 : amftaPala : Trichosanthes dioeca Roxb. : Trichosanthes dioica Roxb.
+  8529 : ambazWa : Clypea hernandifolia W. u. A. : Clypea hernandiifolia W. u. A.
+  8530 : ambazWakI : Clypea hernandifolia Vahl : Clypea hernandiifolia Vahl
+  8551 : ambukanda : Trapa bispinasa : Trapa bispinosa
+  8570 : ambuda : Cyperus hexastachyus communis Nees : Cyperus hexastachyus Nees
+  8578 : ambupa : Tora l. : Cassia tora L.
+  8630 : amBoda : Cyperus hexastachyus communis Nees : Cyperus hexastachyus Nees
+  8647 : amlaka : Artocarpus locutscha Roxb. : Artocarpus lacucha Roxb.
+  8664 : amlapanasa : Artocarpus locutscha Roxb. : Artocarpus lacucha Roxb.
+  9023 : aralu : Colosanthes indica Bl. : Calosanthes indica Bl.
+  9095 : arimarda : Cassia sophora : Cassia sophera
+  9156 : aruRapuzpI : Peintapetes phoenicea : Pentapetes phoenicea
+  9294 : arkahitA : Pelanisia icosandra W. u. A. : Polanisia icosandra W. u. A.
+  9352 : arjuna : Terminalia arunja W. u. A. : Terminalia arjuna W. u. A.
+  9470 : arTaprasAdanI : Herlicteres isora : Helicteres isora
+  9613 : arDacandraka : Gynandropsis penaphylla : Gynandropsis pentaphylla
+  9624 : arDatikta : Gentiana chirata : Gentiana chirayita
+  9650 : arDapAdA : Phyttanthus niruri : Phyllanthus niruri
+  9854 : arSoGnavalkalA : Xanthoxylon rhetsa : Xanthoxylon rhetsa
+ 10671 : avalguja : Vernonia anthelminthica Willd. : Vernonia anthelmintica Willd.
+ 11622 : aSoka : Jonesia asoka Roxb. : Jonesia asoca Roxb.
+ 11701 : aSmarIGna : Capparis trifliata : Capparis trifoliata
+ 11701 : aSmarIGna : Crataeva roxburghii R. Br. : Crateva roxburghii R. Br.
+ 11868 : aSvabalA : Trigonalla foenum graecum : Trigonella foenum-graecum
+ 12055 : azwapadikA : Vallaris dichotomus Wall. : Vallaris dichotoma Wall.
+ 13020 : asraGna : Xanthoxylon rhetsa : Zanthoxylum rhetsa
+ 13377 : Akalla : Anemis pyrethrum : Anthemis pyrethrum
+ 13431 : AkASavallI : Cassyta filiformis L. : Cassytha filiformis L.
+ 13512 : Akza : Terminalia bellerica : Terminalia bellirica
+ 13526 : Akzika : Terminalia bellerica : Terminalia bellirica
+ 13526 : Akzika : Terminalia bellerica : Terminalia bellirica
+ 13782 : AcAra : Hingtscha repens Roxb. : Hingtsha repens Roxb.
+ 14112 : Atfpya : Anona reticulata : Annona reticulata
+ 14143 : AtmaguptA : Mucuna pruritus Hook. : Mucuna pruriens Hook.
+ 14391 : Adityatejas : Herpestes monniera : Herpestis monnieria
+ 14416 : AdityavallaBA : Polanisia icaosandra : Polanisia icosandra
+ 15949 : Avalguja : Vernonia anthelminthica : Vernonia anthelmintica
+ 16075 : ASaya : Artocarpus integrifolia L. : Artocarpus integrifolius L.
+ 16478 : AsPota : Clitroia ternatea : Clitoria ternatea
+ 16632 : ikzukARqa : Saccharum munjia Roxb. : Saccharum munja Roxb.
+ 16641 : ikzupattra : Penicillaria spicat Willd. : Penicillaria spicata Willd.
+ 16656 : ikzuraka : Saccharum sponataneum L. : Saccharum spontaneum L.
+ 16911 : indurAjI : Vernonia anthelminthica : Vernonia anthelmintica
+ 16977 : indradAru : Pinus deodora : Pinus deodara
+ 16982 : indradru : Pinus deodora Roxb. : Pinus deodara Roxb.
+ 17684 : ugraganDa : Ligusticum ajwan : Ligusticum ajowan
+ 17976 : utkatA : Pothos officinatis Roxb. : Pothos officinalis Roxb.
+ 18324 : uttuRqikA : Milletia piscidia : Millettia piscidia
+ 18780 : udarka : Vanguiera spinosa Roxb. : Vangueria spinosa Roxb.
+ 18908 : udumbaracCadA : Croton polyandra Roxb. : Croton polyandrus Roxb.
+ 19404 : upakumBa : Croton polyandrum : Croton polyandrus
+ 19525 : upacitra : Croton polyandrum Spr. : Croton polyandrus Spr.
+ 20652 : urumARa : Crataeva religiosa : Crateva religiosa
+ 20911 : uzRasundara : Terminalia bellerica : Terminalia bellirica
+ 22137 : ekAzWIla : Clypea hernandifolia : Clypea hernandiifolia
+ 22161 : ekEzikA : Gissampelos hexandra : Cissampelos hexandra
+ 22279 : eraRqaPalA : Croton polyandrum Spr. : Croton polyandrus Spr.
+ 22485 : Endava : Serratula anthelminthica : Serratula anthelmintica
+ 22874 : OdumbaracCada : Croton polyandrum : Croton polyandrus
+ 23276 : kaNkeli : Jonesia asoka : Jonesia asoca
+ 23314 : kacCapa : Gedrela toona : Cedrela toona
+ 23324 : kacCuGna : Trichosanthes dioeca : Trichosanthes dioica
+ 23348 : kaYcaqa : Commelina bengalensis : Commelina benghalensis
+ 23371 : kaYjikA : Siphonanthus indica : Siphonanthus indicus
+ 23410 : kawaSarkarA : Cuilandina bonducella : Guilandina bonducella
+ 23457 : kawu : Trichosanthes dioeca : Trichosanthes dioica
+ 23458 : kawuka : Trichosanthes dioeca : Trichosanthes dioica
+ 23471 : kawukAlAbu : Trichosanthes dioeca : Trichosanthes dioica
+ 23484 : kawutiktaka : Gentiana cherayta : Gentiana chirayita
+ 23496 : kawuPala : Trichosanthes dioeca : Trichosanthes dioica
+ 23608 : kaRika : Premna langifolia : Premna longifolia
+ 23625 : kaRwakaPala : Artocarpus integrifolia : Artocarpus integrifolius
+ 23627 : kaRwakalatA : Capparis ceylanica : Capparis zeylanica
+ 23629 : kaRwakavfntAkI : Solanum jacquini : Solanum jacquinii
+ 23635 : kaRwakAra : Flacourtia sopida : Flacourtia sapida
+ 23635 : kaRwakAra : Solanum jacquini : Solanum jacquinii
+ 23636 : kaRwakAraka : Solanum jacquini : Solanum jacquinii
+ 23642 : kaRwakin : Solanum jacquini : Solanum jacquinii
+ 23642 : kaRwakin : Vanguiera spinosa : Vangueria spinosa
+ 23642 : kaRwakin : Zizyphus jujuba : Ziziphus jujuba
+ 23659 : kaRwapuNKikA : Solanum jacquini : Solanum jacquinii
+ 23667 : kaRwAlikA : Solanum jacquini : Solanum jacquinii
+ 23668 : kaRwAlu : Solanum jacquini : Solanum jacquinii
+ 23672 : kaRWa : Vanguiera spinosa : Vangueria spinosa
+ 23734 : kaRqura : Mucuna pruritus : Mucuna pruriens
+ 23738 : kaRqUkarI : Mucuna pruritus : Mucuna pruriens
+ 23750 : kaRqUra : Mucuna praritus : Mucuna pruriens
+ 23875 : kadamba : Nauclea cadamaba : Nauclea cadamba
+ 23930 : kanaka : Cassia sophora : Cassia sophera
+ 24206 : kapikacCu : Mucuna pruritus : Mucuna pruriens
+ 24208 : kapikacCurA : Mucuna pruritus : Mucuna pruriens
+ 24241 : kapipraBA : Mucuna pruritus : Mucuna pruriens
+ 24248 : kapiromaPalA : Mucuna pruritus : Mucuna pruriens
+ 24288 : kapilomaPalA : Mucuna ruritus : Mucuna pruriens
+ 24402 : kamana : Jonesia asoka : Jonesia asoca
+ 24534 : karaka : Pangamia glabra : Pongamia glabra
+ 24730 : karAmarda : Crissa carandas : Carissa carandas
+ 24841 : karkawa : Bambax heptaphyllum : Bombax heptaphyllum
+ 24853 : karkawinI : Curcuma xanthorrhiza : Curcuma zanthorrhiza
+ 24858 : karkanDu : Zizyphus jujuba : Ziziphus jujuba
+ 24881 : karkaSacCada : Trichosanthes dioeca : Trichosanthes dioica
+ 24883 : karkaSadala : Trichosanthes dioeca : Trichosanthes dioica
+ 24888 : karkAru : Beninkasa cerifera : Benincasa cerifera
+ 24967 : karRapUra : Jonesia asoka : Jonesia asoca
+ 250 : akza : Terminalia bellerica : Terminalia bellirica
+ 25187 : karmakara : Momoridica monadelpha : Momordica monadelpha
+ 25334 : karza : Terminalia bellerica : Terminalia bellirica
+ 25340 : karzaPala : Terminalia bellerica : Terminalia bellirica
+ 25373 : kalaYja : Calumus rotang : Calamus rotang
+ 25520 : kali : Terminalia bellerica : Terminalia bellirica
+ 25525 : kalikAra : Methonia superba : Methonica superba
+ 25526 : kalikAraka : Caesalpina bonducella : Caesalpinia bonducella
+ 25531 : kaliNga : Caesalpina bonducella : Caesalpinia bonducella
+ 25539 : kalidru : Terminalia bellerica : Terminalia bellirica
+ 25540 : kalidruma : Terminalia bellerica : Terminalia bellirica
+ 25544 : kalinda : Terminalia bellerica : Terminalia bellirica
+ 25549 : kalimAraka : Caesalpina bonducella : Caesalpinia bonducella
+ 25551 : kaliyugAlaya : Terminalia bellerica : Terminalia bellirica
+ 25557 : kalivfkza : Terminalia bellerica : Terminalia bellirica
+ 25574 : kalka : Terminali bellerica : Terminalia bellirica
+ 26024 : kAkapIluka : Dispyros tomentosa : Diospyros tomentosa
+ 26040 : kAkamezI : Vernonia anthelminthica : Vernonia anthelmintica
+ 26079 : kAkAdanI : Capparis sepiarioa : Capparis sepiaria
+ 26300 : kARqerI : Tiridium indicum : Tiaridium indicum
+ 26395 : kAntida : Serratula anthelminthica : Serratula anthelmintica
+ 26541 : kAmadUtikA : Tiaridum indicum : Tiaridium indicum
+ 26719 : kAmboja : Serratula anthelminthica : Serratula anthelmintica
+ 26830 : kAraskara : Strychnos nux vomica : Strychnos nux-vomica
+ 26865 : kAruja : Mesua ferra : Mesua ferrea
+ 27025 : kArSya : Artocarpus locucha : Artocarpus lacucha
+ 27048 : kArzya : Artocarpus locucha : Artocarpus lacucha
+ 27050 : kAla : Cassia sophora : Cassia sophera
+ 27050 : kAla : Ipomoa atropurpurea : Ipomoea atropurpurea
+ 27052 : kAlaka : Trichosanthes dioeca : Trichosanthes dioica
+ 27121 : kAlaNkata : Cassia sophora : Cassia sophera
+ 27220 : kAlamezI : Vernonia anthelminthica : Vernonia anthelmintica
+ 27222 : kAlamorikA : Vernonia anthelminthica : Vernonia anthelmintica
+ 27389 : kAliNga : Beninkasa cerifera : Benincasa cerifera
+ 27425 : kAlIyaka : Curcuma xanthorrhiza : Curcuma zanthorrhiza
+ 27441 : kAleyaka : Curcuma xanthorrhiza : Curcuma zanthorrhiza
+ 27626 : kAzWadAru : Pinus deodora : Pinus deodara
+ 27656 : kAzWA : Curcuma xanthorrhiza : Curcuma zanthorrhiza
+ 27675 : kAsaGna : Solanum jacquini : Solanum jacquinii
+ 27678 : kAsamarda : Cassia sophora : Cassia sophera
+ 27680 : kAsamardana : Trichosanthes dioeca : Trichosanthes dioica
+ 27690 : kAsundIvawikA : Cassia sophora : Cassia sophera
+ 27708 : kAhI : Wrigthia antidysenterica : Wrightia antidysenterica
+ 27825 : kiwimUlaka : Batata edulis : Batatas edulis
+ 27893 : kiMpAka : Strychnos nux vomica : Strychnos nux-vomica
+ 27932 : kirAta : Agathotes chirayta : Agathotes chirayita
+ 27933 : kirAtaka : Agathotes chirayta : Agathotes chirayita
+ 27936 : kirAtatikta : Agathotes chirayt : Agathotes chirayita
+ 27984 : kilima : Pinus deodora : Pinus deodara
+ 28035 : kIqera : Amranthus polygonoides : Amaranthus polygonoides
+ 28139 : kukurajihvA : Imora undulata : Ixora undulata
+ 28139 : kukurajihvA : Lea stophylea : Leea staphylea
+ 28151 : kukola : Zizyphus jujuba : Ziziphus jujuba
+ 28213 : kucandana : Adeanthera pavonina : Adenanthera pavonina
+ 28213 : kucandana : Cesalpina sappan : Caesalpinia sappan
+ 28227 : kucela : Clypea hernandifolia : Clypea hernandiifolia
+ 28250 : kuYcaPalA : Beninkasa cerifera : Benincasa cerifera
+ 28252 : kuYcikA : Trigonella foenum graecum : Trigonella foenum-graecum
+ 28254 : kuYcI : Trigonella foenum graecum : Trigonella foenum-graecum
+ 28461 : kuRqala : Mucuna pruritus : Mucuna pruriens
+ 28682 : kupAka : Strychnos nux vomica : Strychnos nux-vomica
+ 28693 : kupIlu : Strychnos nux vomica : Strychnos nux-vomica
+ 28887 : kumBa : Croton polyandrum : Croton polyandrus
+ 28922 : kumBayoni : Phlomis ceylanica : Phlomis zeylanica
+ 28932 : kumBARqa : Beninkasa cerifera : Benincasa cerifera
+ 28940 : kumBinIbIja : Croton jamlagota : Croton jamalgota
+ 29014 : kuru : Solanum jacquini : Solanum jacquinii
+ 29066 : kuruvIraka : Terminalia arunja : Terminalia arjuna
+ 29092 : kula : Solanum jacquini : Solanum jacquinii
+ 29093 : kulaka : Trichosanthes dioeca : Trichosanthes dioica
+ 29109 : kulakzayA : Mucuna pruritus : Mucuna pruriens
+ 29260 : kulAhaka : Celeia coromandelina : Celsia coromandelina
+ 29262 : kuli : Solanum jacquini : Solanum jacquinii
+ 29353 : kuvala : Zizyphus jujuba : Ziziphus jujuba
+ 29354 : kuvalakuRa : Zizyphus jujuba : Ziziphus jujuba
+ 29395 : kuvfttikft : Caesalpina bonducella : Caesalpinia bonducella
+ 29465 : kuSika : Terminalia bellerica : Terminalia bellirica
+ 29503 : kuzWa : Saussurea uricutata : Saussurea auriculata
+ 29506 : kuzWakanda : Trichosanthes dioeca : Trichosanthes dioica
+ 29509 : kuzWaGna : Vernonia anthelminthica : Vernonia anthelmintica
+ 29512 : kuzWanASinI : Vernonia anthelminthica : Vernonia anthelmintica
+ 29517 : kuzWahantar : Vernonia anthelminthica : Vernonia anthelmintica
+ 29521 : kuzWAri : Trichosanthes dioeca : Trichosanthes dioica
+ 29524 : kuzmARqa : Beninkasa cerifera : Benincasa cerifera
+ 29718 : kUwaSAlmali : Andersonia rohitaka : Andersonia rohituka
+ 29786 : kUrcaparRI : Gymnema sylverstre : Gymnema sylvestre
+ 29826 : kUlaka : Trichosanthes dioeca : Trichosanthes dioica
+ 29852 : kUzmARqa : Beninkasa cerifera : Benincasa cerifera
+ 30200 : kfmiGna : Vernonia anthelminthica : Vernonia anthelmintica
+ 30312 : kfzRa : Vernonia anthelminthica : Vernonia anthelmintica
+ 30403 : kfzRapAka : Carissa carnadas : Carissa carandas
+ 30417 : kfzRaPala : Vernonia anthelminthica : Vernonia anthelmintica
+ 30485 : kfzRavetra : Colamus rotang : Calamus rotang
+ 30511 : kfzRasAraTi : Terminalia arunja : Terminalia arjuna
+ 30631 : kedAraja : Cerausus pudum : Cerasus puddum
+ 30793 : keSaromA : Mucuna pruritus : Mucuna pruriens
+ 30808 : keSavarDana : Sida rhomboides : Sida rhomboidea
+ 30834 : keSAruhA : Sida rhomboides : Sida rhomboidea
+ 30842 : keSin : Nardostachys jatamnsi : Nardostachys jatamansi
+ 30860 : kesarikA : Sida rhomboides : Sida rhomboidea
+ 30873 : kEMkirAta : Jonesia asoka : Jonesia asoca
+ 30883 : kEqarya : Hyrica sapida : Myrica sapida
+ 30907 : kErava : Trigonella foenum graecum : Trigonella foenum-graecum
+ 30911 : kErAta : Agathotes chirayta : Agathotes chirayita
+ 31087 : kodrava : Pasplum scrobiculatum : Paspalum scrobiculatum
+ 31136 : kola : Piper langeum : Piper longum
+ 31136 : kola : Zizyphus jujuba : Ziziphus jujuba
+ 31152 : kolavallI : Potos officinalis : Pothos officinalis
+ 31162 : koli : Zizyphus jujuba : Ziziphus jujuba
+ 31176 : koSa : Artocarpus integrifolia : Artocarpus integrifolius
+ 31208 : koSAtaka : Luffa acutangula und pentandra : Luffa acutangula und Luffa pentandra
+ 31208 : koSAtaka : Trichosanthes dioeca : Trichosanthes dioica
+ 31251 : kohin : Wightia antidysanterica : Wrightia antidysenterica
+ 31389 : kOnteya : Terminalia arunja : Terminalia arjuna
+ 31454 : kOrava : Trigonella foenum graecum : Trigonella foenum-graecum
+ 32004 : kroqaparRI : Solanum jacquini : Solanum jacquinii
+ 32465 : kzAravfkza : Schreberia swietenoides : Schrebera swietenioides
+ 32600 : kzIrakARqaka : Tithymalus antiquorum : Tithymalus antiquorus
+ 32619 : kzIradAru : Tithymalus antiquorum : Tithymalus antiquorus
+ 32730 : kzudra : Solanum jacquini : Solanum jacquinii
+ 32733 : kzudrakaRwArikA : Solanum jacquini : Solanum jacquinii
+ 32761 : kzudraduHsparSA : Solanum jacquini : Solanum jacquinii
+ 32778 : kzudraPalA : Solanum jacquini : Solanum jacquinii
+ 32819 : kzudrahiNgulikA : Solanum jacquini : Solanum jacquinii
+ 32831 : kzudrAmra : Mangifera sylvtica : Mangifera sylvatica
+ 32833 : kzudrAmlA : Oxlis corniculata : Oxalis corniculata
+ 32873 : kzumA : Crotolaria juncea : Crotalaria juncea
+ 32878 : kzuraka : Steracantha longifolia : Asteracantha longifolia
+ 32878 : kzuraka : Trilobus lanuginosus : Tribulus lanuginosus
+ 33187 : Kagavaktra : Artocarpus locucha : Artocarpus lacucha
+ 33528 : KaraSAka : Clerodendrum sinhonnthus : Clerodendrum siphonanthus
+ 33569 : KarjUra : Phoenix sylverstris : Phoenix sylvestris
+ 33618 : Kalin : Curculgo orchioides : Curculigo orchioides
+ 33652 : KavallI : Cassyta filiformis : Cassytha filiformis
+ 34314 : gaRqagAtra : Anona squamosa : Annona squamosa
+ 34337 : gaRqAri : Rauhinia variegata : Bauhinia variegata
+ 34344 : gaRqIra : Tithymalus antiquorum : Tithymalus antiquorus
+ 34533 : ganDaPala : Trigonella foenum graecum : Trigonella foenum-graecum
+ 34537 : ganDabIjA : Trigonella foenum graecum : Trigonella foenum-graecum
+ 34745 : garadruma : Strychnos nux vomica : Strychnos nux-vomica
+ 35128 : gaveSakA : Edysarum lagopodioides : Hedysarum lagopodioides
+ 35215 : gARqIvin : Terminalia arunja : Terminalia arjuna
+ 35232 : gAtraBaNgA : Mucuna pruritus : Mucuna pruriens
+ 35296 : gAnDAraka : Alhagi murorum : Alhagi maurorum
+ 35864 : gupta : Mucuna pruritus : Mucuna pruriens
+ 35896 : guru : Mucuna pruritus : Mucuna pruriens
+ 35996 : gula : Tithymalus antiquorum : Tithymalus antiquorus
+ 36171 : gfDranaKI : Zizyphus jujuba : Ziziphus jujuba
+ 36641 : gopaGaRwa : Flacourtia savida : Flacourtia sapida
+ 37297 : granTiPala : Vanguierd spinosa : Vangueria spinosa
+ 37302 : granTimatPala : Artocarpus locucha : Artocarpus lacucha
+ 37537 : grAmyakarkawI : Beninkasa cerifera : Benincasa cerifera
+ 37598 : grIzmajA : Anona reticulata : Annona reticulata
+ 37604 : grIzmasundaraka : Erythraea centaureoides : Erythraea centaurioides
+ 37732 : GaRwApAwali : Schreberia swietenoides : Schrebera swietenioides
+ 37789 : GanavAsa : Beninkasa cerifera : Benincasa cerifera
+ 37800 : GanaskanDa : Mangifera sylvativa : Mangifera sylvatica
+ 37809 : GanAmaya : Phoenix sylverstris : Phoenix sylvestris
+ 37977 : GUrRa : Erythraea centaureoides : Erythraea centaurioides
+ 37986 : GfRAvAsa : Beninkasa cerifera : Benincasa cerifera
+ 38321 : cakrANga : Enhydra heloncha : Enydra heloncha
+ 38415 : caYcalatEla : Liquidambar orientale : Liquidambar orientalis
+ 38468 : caRqa : Mucuna pruritus : Mucuna pruriens
+ 38815 : catuzparRI : Oxalis pusila : Oxalis pusilla
+ 38827 : catuzPalA : Uraria lagopadioides : Uraria lagopodioides
+ 38917 : candra : Serratula anthelminthica : Serratula anthelmintica
+ 38918 : candraka : Cynandropsis pentaphylla : Gynandropsis pentaphylla
+ 38918 : candraka : Trigonella foenum graecum : Trigonella foenum-graecum
+ 38992 : candrapraBa : Serratula anthelminthica : Serratula anthelmintica
+ 39041 : candraleKa : Serratula anthelminthica : Serratula anthelmintica
+ 39367 : carmadruma : Betula bhojpatra : Betula bhojpattra
+ 39393 : carmavfkza : Betula bhojpatra : Betula bhojpattra
+ 39400 : carmahantrI : Trigonella foenum graecum : Trigonella foenum-graecum
+ 39409 : carmin : Betula bhojpatra : Betula bhojpattra
+ 39410 : carmivfkza : Betula bhojpatra : Betula bhojpattra
+ 39433 : calaGnI : Trigionella corniculata : Trigonella corniculata
+ 39441 : caladaNga : Ophicocephalus aurantiacus : Ophiocephalus aurantiacus
+ 39532 : cAtaka : Cucculus melanoleucus : Cuculus melanoleucus
+ 39596 : cAndra : Serratula anthelminthica : Serratula anthelmintica
+ 39963 : citra : Croton polyandrum : Croton polyandrus
+ 39963 : citra : Jonesia asoka : Jonesia asoca
+ 40022 : citrapattra : Betula bhojpatra : Betula bhojpattra
+ 40062 : citrayoDin : Terminalia arunja : Terminalia arjuna
+ 40109 : citraSoka : Jonesia asoka : Jonesia asoca
+ 40254 : ciratiktA : Agathotes chirayta : Agathotes chirayita
+ 40324 : cihnaDAriRI : Ichnocarpous frutescens : Ichnocarpus frutescens
+ 40385 : cIrRaparRa : Phoenix sylverstris : Phoenix sylvestris
+ 40513 : cUqArha : Comphrena globosa : Gomphrena globosa
+ 40864 : Cattrapattra : Betula bhojpatra : Betula bhojpattra
+ 41130 : CidrapippalI : Sindapsus officinalis : Scindapsus officinalis
+ 41154 : CinnavezikA : Clypea hernandifolia : Clypea hernandiifolia
+ 41192 : Cedin : Strychnos patatorum : Strychnos potatorum
+ 41199 : Celu : Vernonia anthelminthica : Vernonia anthelmintica
+ 41380 : jawa : Mucuna pruritus : Mucuna pruriens
+ 41432 : jaqa : Mucuna pruitus : Mucuna pruriens
+ 41718 : jambu : Eugenia jambalana : Eugenia jambolana
+ 41766 : jayakArikA : Momosa pudica : Mimosa pudica
+ 41804 : jayantaka : Cucuma longa : Curcuma longa
+ 41887 : jaraRa : Cassia sophora : Cassia sophera
+ 42120 : jalabrahmI : Hingcha repens : Hingtsha repens
+ 42391 : jANgala : Mucuna pruritus : Mucuna pruriens
+ 43572 : jyotizka : Trigonella foenum graecum : Trigonella foenum-graecum
+ 43592 : jyotis : Trigonella foenum graecum : Trigonella foenum-graecum
+ 43638 : jvarANkuSa : Andropogon jawarancusa : Andropogon jwarancusa
+ 43797 : waNka : Feronia elephanteum : Feronia elephantum
+ 43815 : waNginI : Clypea hernandifolia : Clypea hernandiifolia
+ 43863 : wuRwuka : Clypea hernandifolia : Clypea hernandiifolia
+ 43921 : qahu : Artocarpus locucha : Artocarpus lacucha
+ 44159 : taRqulOGa : Bambus spinosa : Bambusa spinosa
+ 44381 : tanuka : Terminalia bellerica : Terminalia bellirica
+ 44703 : tamAla : Crataeva roxburghii : Crateva roxburghii
+ 44844 : taruRa : Croton polyandrum : Croton polyandrus
+ 450 : agasti : Agati grandiflorum Desv. : Agati grandiflora Desv.
+ 45081 : taskara : Vanguiera spinosa : Vangueria spinosa
+ 45133 : tARqava : Saccharum percerum : Saccharum procerum
+ 45323 : tAmrapallava : Jonesia asoka : Jonesia asoca
+ 45531 : tAlapattra : Trigonella foenum graecum : Trigonella foenum-graecum
+ 45640 : tikta : Agathotes chirayta : Agathotes chirayita
+ 45640 : tikta : Clypa hernandifolia : Clypea hernandiifolia
+ 45641 : tiktaka : Agathotes chirayta : Agathotes chirayita
+ 45652 : tiktaparvan : Hingcha repens : Hingtsha repens
+ 45653 : tiktapuzpA : Clypea hernandifolia : Clypea hernandiifolia
+ 45656 : tiktaBadraka : Trichosanthes dioeca : Trichosanthes dioica
+ 45761 : tindu : Strychnos nux vomica : Strychnos nux-vomica
+ 45762 : tinduka : Strychnos nux vomica : Strychnos nux-vomica
+ 45804 : timiza : Beninkasa cerifera : Benincasa cerifera
+ 45955 : tilapuzpaka : Terminalia bellerica : Terminalia bellirica
+ 46011 : tIkzRa : Mucuna pruritus : Mucuna pruriens
+ 46137 : tIvraganDA : Ptychotis ajowan : Ptychotis ajawain
+ 46228 : tuRqa : Beninkasa cerifera : Benincasa cerifera
+ 46275 : tubara : Cojanus indicus : Cajanus indicus
+ 46285 : tumula : Terminalia bellerica : Terminalia bellirica
+ 46304 : tumburu : Xanthoxylon hastile : Zanthoxylum hastile
+ 46505 : tuza : Terminalia bellerica : Terminalia bellirica
+ 46627 : tUlaPala : Calotrapis gigantea : Calotropis gigantea
+ 46731 : tfRaSUnya : Jasminus sambac : Jasminum sambac
+ 46869 : tejavalkala : Zanthoxylon rhetsa : Zanthoxylum rhetsa
+ 46912 : tejohvA : Zanthoxylon rhetsa : Zanthoxylum rhetsa
+ 47010 : tElaPala : Terminalia bellerica : Terminalia bellirica
+ 47233 : traya : Vernonia anthelminthica : Vernonia anthelmintica
+ 47305 : trAyamARikA : Ficus hierophylla : Ficus heterophylla
+ 47616 : tripuzA : Convolulus turpethum : Convolvulus turpethum
+ 47626 : triPala : Terminalia bellerica : Terminalia bellirica
+ 47638 : triBaRqi : Convolvulus trupethum : Convolvulus turpethum
+ 47802 : trivftparRI : Hingcha repens : Hingtsha repens
+ 47852 : triSira : Clypea hernandifolia : Clypea hernandiifolia
+ 48198 : tvaksAra : Lauratus cassia : Laurus cassia
+ 48213 : tvagdozApahA : Vernonia anthelminthica : Vernonia anthelmintica
+ 48648 : daRqavfkzaka : Tithymalus antiquorum : Tithymalus antiquorus
+ 48845 : danta : Croton polyandrum : Croton polyandrus
+ 48846 : dantaka : Crotom polyandrum : Croton polyandrus
+ 48850 : dantakAzWa : Terminalis altata : Terminalia alata
+ 48894 : dantamUlikA : Croton polyandrum : Croton polyandrus
+ 48918 : dantaSaWa : Ferinia elephantum : Feronia elephantum
+ 48948 : dantijA : Croton polyandrum : Croton polyandrus
+ 48953 : dantin : Croton polyandrum : Croton polyandrus
+ 48990 : damana : Solanum jacquini : Solanum jacquinii
+ 49122 : darBAhvaya : Saccharum munjia : Saccharum munja
+ 49192 : dalanirmoka : Betula bhojpatra : Betula bhojpattra
+ 49426 : daSAnika : Croton polyandrum : Croton polyandrus
+ 49522 : dAkzAyaRa : Croton polyandrum : Croton polyandrus
+ 49571 : dAqimapattraka : Amoora rohitaka : Amoora rohituka
+ 49802 : dAru : Pinus deodora : Pinus deodara
+ 49804 : dAruka : Pinus deodora : Pinus deodara
+ 49861 : dArva : Curcuma xanthorrhiza : Curcuma zanthorrhiza
+ 49861 : dArva : Pinus deodora : Pinus deodara
+ 49862 : dArvaka : Curcuma xanthorrhiza : Curcuma zanthorrhiza
+ 50514 : dIpaka : Ptychotis ajowan : Ptychotis ajawain
+ 50525 : dIpana : Cassia sophora : Cassia sophera
+ 50525 : dIpana : Clypea hernandifolia : Clypea hernandiifolia
+ 50525 : dIpana : Ptychotis ajowan : Ptychotis ajawain
+ 50525 : dIpana : Trigonella foenum graecum : Trigonella foenum-graecum
+ 50526 : dIpanIya : Ptychotis ajowan : Ptychotis ajawain
+ 50536 : dIpavfkza : Pinus deodora : Pinus deodara
+ 50566 : dIptapuzpA : Iragia involucrata : Tragia involucrata
+ 50591 : dIpya : Ptychotis ajowan : Ptychotis ajawain
+ 50592 : dIpyaka : Ptychotis ajowan : Ptychotis ajawain
+ 50594 : dIrGa : Heminonitis cordifolia : Hemionitis cordifolia
+ 50603 : dIrGakARqa : Scripus kysoor : Scirpus kysoor
+ 50644 : dIrGadruma : Sulmalia malabarica : Salmalia malabarica
+ 50647 : dIrGanAla : Anderopogon bicolor : Andropogon bicolor
+ 50657 : dIrGapallava : Crotolaria juncea : Crotalaria juncea
+ 50710 : dIrGaSAKa : Crotolaria juncea : Crotalaria juncea
+ 50734 : dIrGANgI : Desmodium gangetium : Desmodium gangeticum
+ 50936 : duraBigraha : Mucuna pruritus : Mucuna pruriens
+ 51737 : duHsparSa : Cassyta filiformis : Cassytha filiformis
+ 51737 : duHsparSa : Mucuna pruritus : Mucuna pruriens
+ 51823 : dUramUla : Saccharum munjia : Saccharum munja
+ 51962 : dfQatfRa : Saccharu munjia : Saccharum munja 
+ 51977 : dfQapAda : Phyllanthus niruir : Phyllanthus niruri
+ 51984 : dfQabIja : Zizyphus jujuba : Ziziphus jujuba
+ 51991 : dfQamUla : Saccharum munjia : Saccharum munja
+ 52003 : dfQavalkala : Artocarpus locucha : Artocarpus lacucha
+ 52136 : deva : Clypea hernandifolia : Clypea hernandiifolia
+ 52154 : devakAzWa : Pinus deodora : Pinus deodara
+ 52289 : devadAru : Erythraoxylon sideroxyloides : Erythroxylum sideroxyloides
+ 52289 : devadAru : Pinus deodora : Pinus deodara
+ 52306 : devadroRI : Phlomis ceylanica : Phlomis zeylanica
+ 52545 : devaSreRI : Sansevieria ceylanica : Sansevieria ceylonica
+ 52910 : dEvadArava : Pinus deodora : Pinus deodara
+ 53063 : dohadin : Jonesia asoka : Jonesia asoca
+ 53197 : dyutilA : Hemionites cordifolia : Hemionitis cordifolia
+ 53451 : drukilima : Pinus deodora : Pinus deodara
+ 53510 : drumotpala : Paerospermum acerifolium : Pterospermum acerifolium
+ 53553 : droRaparRI : Musa sapientam : Musa sapientum
+ 53841 : dvija : Xanthoxylum alatum : Zanthoxylum alatum
+ 54204 : dvIpasaMBava : Vernonia anthelminthica : Vernonia anthelmintica
+ 54370 : DanaMjaya : Terminalia arunja : Terminalia arjuna
+ 54492 : DanuryAsa : Alhage maurorum : Alhagi maurorum
+ 54572 : Danvin : Terminalia arunja : Terminalia arjuna
+ 54701 : DarmaGna : Terminalia bellerica : Terminalia bellirica
+ 54746 : Darmadvezin : Terminalia bellerica : Terminalia bellirica
+ 55007 : DavanI : Demodium gangeticum : Desmodium gangeticum
+ 551 : agnidamanI : Solanum jacquini : Solanum jacquinii
+ 55221 : DAmanikA : Solanum jacquini : Solanum jacquinii
+ 55360 : DAvani : Solanum jacquini : Solanum jacquinii
+ 55362 : DAvanikA : Solanum jacquini : Solanum jacquinii
+ 55955 : Druva : Sansevieria ceylanica : Sansevieria ceylonica
+ 56099 : DvANkzavallI : Capparis sepiarla : Capparis sepiaria
+ 56100 : DvANkzAdanI : Capparis sepiartia : Capparis sepiaria
+ 56380 : nawa : Caesalpina bonducella : Caesalpinia bonducella
+ 56380 : nawa : Jonesia asoka : Jonesia asoca
+ 56468 : nadIja : Terminalia arunja : Terminalia arjuna
+ 56498 : nadIsarja : Terminalia arunja : Terminalia arjuna
+ 57013 : nalaka : Daemia extensa : Daemia extensa
+ 57421 : nAgapuzpaPalA : Beninkasa cerifera : Benincasa cerifera
+ 57425 : nAgaPala : Morodica monadelpha : Momordica monadelpha
+ 57425 : nAgaPala : Trichosanthes dioeca : Trichosanthes dioica
+ 57510 : nAgasPowA : Croton polyandrum : Croton polyandrus
+ 57617 : nAqIka : Corcharus editorius : Corchorus olitorius
+ 57732 : nAdeya : Placourtia sapida : Flacourtia sapida
+ 58060 : nAryatikta : Getiana chiraita : Gentiana chirayita
+ 58242 : nikumBa : Croton polyandrum : Croton polyandrus
+ 58527 : nidigDikA : Solanum jacquini : Solanum jacquinii
+ 59314 : nirdagDikA : Solanum jacquini : Solanum jacquinii
+ 59335 : nirdigDA : Solanum jacquini : Solanum jacquinii
+ 59916 : niSipuzpA : Nyctanthes arbor : Nyctanthes arbor-tristis
+ 60080 : nizkaRWa : Crataeva roxburghii : Crateva roxburghii
+ 60130 : nizkumBa : Croton polyandrum : Croton polyandrus
+ 60577 : nIpa : Ixora bandhucca : Ixora bandhuca
+ 60628 : nIlaka : Nyctanthes arbor : Nyctanthes arbor-tristis
+ 60643 : nIlakuraRwaka : Barleria coerulea : Barleria caerulea
+ 60664 : nIlaJiRwI : Barleria coerulea : Barleria caerulea
+ 60700 : nIlabuhnA : Convolvulus argentens : Convolvulus argenteus
+ 60748 : nIlasinduka : Vitem negundo : Vitex negundo
+ 60792 : nIlotpala : Nymphaea cyanca : Nymphaea cyanea
+ 60905 : nfpadruma : Minusops hexandra : Mimusops hexandra
+ 61221 : nEpAla : Nyctanthes arbor : Nyctanthes arbor-tristis
+ 61426 : nyaNkuBUruha : Bigonia indica : Bignonia indica
+ 61774 : pacaMpacA : Curcuma xanthorrhiza : Curcuma zanthorrhiza
+ 62018 : paYcarAjIPala : Trichosanthes dioeca : Trichosanthes dioica
+ 62283 : pawu : Trichosanthes dioeca : Trichosanthes dioica
+ 62284 : pawuka : Trichosanthes dioeca : Trichosanthes dioica
+ 62299 : pawola : Trichosanthes dioeca : Trichosanthes dioica
+ 62390 : paRasa : Artocarpus integrifolia : Artocarpus integrifolius
+ 62543 : pattaNga : Caesalpina sappan : Caesalpinia sappan
+ 62591 : pattrapuzpaka : Betula bhojpatra : Betula bhojpattra
+ 62628 : pattrANga : Betula bhojpatra : Betula bhojpattra
+ 62646 : pattropaskara : Cassia sophora : Cassia sophera
+ 62854 : padmakin : Betula bhojpatra : Betula bhojpattra
+ 62907 : padmabIjABa : Euryala ferox : Euryale ferox
+ 62978 : padmAhvaya : Cerazus puddum : Cerasus puddum
+ 63013 : panasa : Artocarpus integrifolia : Artocarpus integrifolius
+ 63572 : parAvata : Garewia asiatica : Grewia asiatica
+ 64626 : parjanI : Curcuma xanthorrhiza : Curcuma zanthorrhiza
+ 64718 : parpawa : Hedyotis burnanniana : Hedyotis burmanniana
+ 64718 : parpawa : Molluga pentaphylla : Mollugo pentaphylla
+ 65043 : pallavadru : Jonesia asoka : Jonesia asoca
+ 65539 : pAWA : Clypea hernandifolia : Clypea hernandiifolia
+ 65541 : pAWikA : Clypea hernandifolia : Clypea hernandiifolia
+ 65643 : pARqu : Trichosanthes dioeca : Trichosanthes dioica
+ 65662 : pARquPala : Trichosanthes dioeca : Trichosanthes dioica
+ 66021 : pAnIyaPala : Euryala ferox : Euryale ferox
+ 66022 : pAnIyamUlaka : Vernonia anthelminthica : Vernonia anthelmintica
+ 66056 : pApacelikA : Clypea hernandifolia : Clypea hernandiifolia
+ 66344 : pAriBadra : Pinus deodora : Pinus deodara
+ 66415 : pArTa : Terminalia arunja : Terminalia arjuna
+ 66680 : pAzARaBeda : Colcus amboinicus : Coleus amboinicus
+ 66773 : picCaladalA : Zizyphus jujuba : Ziziphus jujuba
+ 66850 : piRqapuzpa : Jonesia asoka : Jonesia asoca
+ 66884 : piRqAra : Trewia nudiflora : Trevia nudiflora
+ 66896 : piRqin : Vangueria spinasa : Vangueria spinosa
+ 66907 : piRqIpuzpa : Jonesia asoka : Jonesia asoca
+ 66987 : pitfBojana : Phazeolus radiatus : Phaseolus radiatus
+ 67044 : pittala : Betula bhojpatra : Betula bhojpattra
+ 67221 : pizwaka : Tamarindas indica : Tamarindus indica
+ 67300 : pIta : Curcuma longe : Curcuma longa
+ 67323 : pItadAru : Pinus deodora : Pinus deodara
+ 67327 : pItana : Pinus deodora : Pinus deodara
+ 67336 : pItaPala : Averrhoa corambola : Averrhoa carambola
+ 67338 : pItabIjA : Trigonella foenum graecum : Trigonella foenum-graecum
+ 67367 : pItasAraka : Azadriachta indica : Azadirachta indica
+ 67389 : pItudAru : Pinus deodora : Pinus deodara
+ 67407 : pInasa : Caucumis utilissimus : Cucumis utilissimus
+ 67448 : pIvara : Physalis flexuosus : Physalis flexuosa
+ 67745 : putraSreRI : Authericum tuberosum : Anthericum tuberosum
+ 68616 : puzpaPala : Beninkasa cerifera : Benincasa cerifera
+ 68829 : pUtikAzWa : Pinus deodera : Pinus deodara
+ 68836 : pUtiganDa : Vernonia anthelminthica : Vernonia anthelmintica
+ 68838 : pUtiganDika : Serratula anthelminthica : Serratula anthelmintica
+ 68848 : pUtiPalA : Serratula anthelminthica : Serratula anthelmintica
+ 68865 : pUtudru : Pinus deodora : Pinus deodara
+ 70499 : pracaRqamUrti : Crataeva roxburghii : Crateva roxburghii
+ 70559 : pracodana : Solanum jacquini : Solanum jacquinii
+ 71838 : pratyakSreRI : Croton polyandrum : Croton polyandrus
+ 71838 : pratyakSreRI : Croton tiglicum : Croton tiglium
+ 71904 : pratyagraganDA : Rhinacnathus communis : Rhinacanthus communis
+ 72499 : prapUraka : Solanum jacquini : Solanum jacquinii
+ 73977 : prAcIna : Clypea hernandifolia : Clypea hernandiifolia
+ 74601 : prAvfzAyaRI : Mucuna pruritus : Mucuna pruriens
+ 74605 : prAvfzeRya : Macuna pruritus : Mucuna prurita
+ 74607 : prAvfzya : Nauclea cordifoloa : Nauclea cordifolia
+ 74704 : priyaka : Nauclea cadamaba : Nauclea cadamba
+ 75183 : plIhaGna : Andersonia rohitaka : Andersonia rohituka
+ 75185 : plIhapuzA : Adelia nereifolia : Adelia neriifolia
+ 75186 : plIhaSatru : Andersonia rohitaka : Andersonia rohituka
+ 75190 : plIhASatru : Adelia nereifolia : Adelia neriifolia
+ 75227 : PaYjikA : Alhagi murrorum : Alhagi maurorum
+ 75297 : Pala : Aglaia odeorata : Aglaia odorata
+ 75341 : PalapAka : Carrissa carandas : Carissa carandas
+ 75386 : PalaSESira : Zizyphus jujuba : Ziziphus jujuba
+ 75511 : PAlguna : Terminalia arunja : Terminalia arjuna
+ 75585 : Penila : Hingcha repens : Hingtsha repens
+ 75585 : Penila : Zizyphus jujuba : Ziziphus jujuba
+ 75652 : badara : Mucuna pruritus : Mucuna pruriens
+ 75652 : badara : Zizyphus jujuba : Ziziphus jujuba
+ 75656 : badarAmalaka : Flacourtia cataphraeta : Flacourtia cataphracta
+ 75823 : banDUka : Pentapetes phoenicen : Pentapetes phoenicea
+ 75942 : bala : Crataeva roxburghii : Crateva roxburghii
+ 76047 : balAya : Crataeva roxburghii : Crateva roxburghii
+ 76259 : bahukaRwaka : Solanum jacquini : Solanum jacquinii
+ 76260 : bahukaRwA : Solanum jacquini : Solanum jacquinii
+ 76261 : bahukanda : Amorphophallus compunilatus : Amorphophallus campunilatus
+ 76264 : bahukarRikA : Saivinia cucullata : Salvinia cucullata
+ 76285 : bahuguqA : Solanum jacquini : Solanum jacquinii
+ 76288 : bahuguhA : Solanum jacquini : Solanum jacquinii
+ 76319 : bahutfRa : Saccharum munjia : Saccharum munja
+ 76325 : bahutvakka : Betula bhojpatra : Betula bhojpattra
+ 76339 : bahudugDikA : Tithymalus antiguorum : Tithymalus antiquorus
+ 76367 : bahupattrikA : Flacourtia cataphrachta : Flacourtia cataphracta
+ 76367 : bahupattrikA : Trigonella foenum graecum : Trigonella foenum-graecum
+ 76372 : bahuparRa : Trigonilla foenum : Trigonella foenum-graecum
+ 76379 : bahupAdikA : Salvinia cuculata : Salvinia cucullata
+ 76389 : bahupraja : Saccharum munjia : Saccharum munja
+ 76407 : bahubIja : Anona squamosa : Annona squamosa
+ 76407 : bahubIja : Trigonella foenum graecum : Trigonella foenum-graecum
+ 76514 : bahuvIrya : Flacomurtia cataphracta : Flacourtia cataphracta
+ 76514 : bahuvIrya : Terminalia bellerica : Terminalia bellirica
+ 76755 : bAlapattra : Hedysarum athoagi : Hedysarum athagi
+ 77021 : bindupattra : Betula bhojpatra : Betula bhojpattra
+ 77152 : bIjagarBa : Trichosanthes dioeca : Trichosanthes dioica
+ 77466 : bfhattiktA : Clypea hernandifolia : Clypea hernandiifolia
+ 77486 : bfhatPala : Beninkasa cerifera : Benincasa cerifera
+ 77507 : bfhadamla : Averrhoa corambola : Averrhoa carambola
+ 77792 : brahmakAzWa : Thepesia populneoides : Thespesia populneoides
+ 77833 : brahmacAraRI : Clerdendrum siphonanthus : Clerodendrum siphonanthus
+ 77835 : brahmacArin : Clerdendrum siphonanthus : Clerodendrum siphonanthus
+ 77866 : brahmaRya : Saccharum munjia : Saccharum munja
+ 77890 : brahmadarBA : Ptychotis ajowan : Ptychotis ajawain
+ 77985 : brahmamARqUkI : Clerodenrum siphonanthus : Clerodendrum siphonanthus
+ 77991 : brahmameKala : Saccharum munjia : Saccharum munja
+ 77998 : brahmayazwi : Clerodendrum siphoanathus : Clerodendrum siphonanthus
+ 78215 : brAhma : Enhydra hingcha : Enydra hingcha
+ 78222 : brAhmaRa : Ruta graveoloens : Ruta graveolens
+ 78650 : BaRquka : Calvosanthes indica : Calosanthes indica
+ 78657 : Badra : Tithymalus antiquorum : Tithymalus antiquorus
+ 78659 : Badraka : Pinus deodora : Pinus deodara
+ 78673 : BadrakAzWa : Pinus deodora : Pinus deodara
+ 78685 : Badraja : Wrigthia antidysenterica : Wrightia antidysenterica
+ 78698 : BadradAru : Pinus deodora : Pinus deodara
+ 78742 : Badravant : Pinus deodora : Pinus deodara
+ 78746 : BadravallI : Vallaris dichotomus : Vallaris dichotoma
+ 78994 : BalatA : Paedersa foetida : Paederia foetida
+ 79022 : Bava : Dillenin speciosa : Dillenia speciosa
+ 79038 : BavadAru : Pinus deodora : Pinus deodara
+ 79152 : Bavya : Piper chapa : Piper chaba
+ 79545 : BAryAvfkza : Caesalpina sappan : Caesalpinia sappan
+ 79725 : BAsurapuzpA : Tragta involucrata : Tragia involucrata
+ 79743 : BAskarezwA : Palanisia icosandra : Polanisia icosandra
+ 79784 : Bikzu : Sphacranthus mollis : Sphaeranthus mollis
+ 798 : agrima : Anona reticulata : Annona reticulata
+ 79848 : BinnayojanI : Plectranthus scutellaioides : Plectranthus scutellarioides
+ 79875 : BillaBUzaRA : Aprus precatorius : Abrus precatorius
+ 79979 : BIru : Solanum jacquini : Solanum jacquinii
+ 80207 : BUkadambaka : Ptychotis ajowan : Ptychotis ajawain
+ 80220 : BUkeSa : Vernonia anthelminthica : Vernonia anthelmintica
+ 80249 : BUtakeSa : Corydalis goveniana : Corydalis govaniana
+ 80249 : BUtakeSa : Nardostachys jatmansi : Nardostachys jatamansi
+ 80250 : BUtakesarA : Trigonilla foenum grecum : Trigonella foenum-graecum
+ 80258 : BUtaGna : Betula bhojpatra : Betula bhojpattra
+ 80331 : BUtavAsa : Terminalia bellerica : Terminalia bellirica
+ 80340 : BUtavfkza : Terminalia bellerica : Terminalia bellirica
+ 80362 : BUtahArin : Pinus deodora : Pinus deodara
+ 80382 : BUtAvAsa : Terminalia bellerica : Terminalia bellirica
+ 80387 : BUtika : Gentiana chirata : Gentiana chirayita
+ 80410 : BUtIka : Ptychotis ajowan : Ptychotis ajawain
+ 80441 : BUDAtrI : Flacourtia cotaphracta : Flacourtia cataphracta
+ 80447 : BUnimba : Gentiana chirata : Gentiana chirayita
+ 80555 : BUmimaRqa : Vallaris dichotomus : Vallaris dichotoma
+ 80685 : BUrja : Betula bhojpatra : Betula bhojpattra
+ 80779 : BfNga : Eclipta prostata : Eclipta prostrata
+ 80787 : BfNgarAja : Wedelia calenduiacea : Wedelia calendulacea
+ 80856 : Beka : Hydrocotile asiatica : Hydrocotyle asiatica
+ 80885 : Bedin : Rumex vesicorius : Rumex vesicarius
+ 81387 : makarAkAra : Cassalpina banducella : Caesalpinia bonducella
+ 81408 : makuzWa : Phaseolus aconittifolius : Phaseolus aconitifolius
+ 81410 : makUlaka : Croton polyandrum : Croton polyandrus
+ 81704 : maqaka : Eleusine corocana : Eleusine coracana
+ 81904 : maRqUka : Hydrocotile asiatica : Hydrocotyle asiatica
+ 81907 : maRqUkaparRa : Clerodenrum siphonantus : Clerodendrum siphonantus
+ 81907 : maRqUkaparRa : Colosanthes indica : Calosanthes indica
+ 81907 : maRqUkaparRa : Hydrocotile asiatica : Hydrocotyle asiatica
+ 81907 : maRqUkaparRa : Polanisia incosandra : Polanisia icosandra
+ 81910 : maRqUkamAtar : Clerodendrum siponanthus : Clerodendrum siphonanthus
+ 82054 : matsyAkzI : Hingcha repens : Hingtsha repens
+ 82108 : madaganDa : Crotolaria juncea : Crotalaria juncea
+ 82119 : madana : Alangu hexapetalum : Alangium hexapetalum
+ 82119 : madana : Vanguiera spinosa : Vangueria spinosa
+ 82121 : madanakaRwaka : Vanguiera spinosa : Vangueria spinosa
+ 82173 : madanAgraka : Paspalum scrabiculatum : Paspalum scrobiculatum
+ 82262 : madotkawa : Linum usitatisimum : Linum usitatissimum
+ 82288 : madyavAsinI : Grislea tometonsa : Grislea tomentosa
+ 82320 : maDu : Jonesia asoka : Jonesia asoca
+ 82321 : maDuka : Jonesia asoka : Jonesia asoca
+ 82348 : maDukzIra : Phoenix silvestris : Phoenix sylvestris
+ 82401 : maDuparRi : Indigogera tinctoria : Indigofera tinctoria
+ 82402 : maDuparRikA : Lycopodium cimbricatum : Lycopodium imbricatum
+ 82417 : maDupuzpa : Croton polyandrum : Croton polyandrus
+ 82417 : maDupuzpa : Jonesia asoka : Jonesia asoca
+ 82466 : maDuraka : Sinapis racemosa : Sinapis ramosa
+ 82497 : maDurAmlaka : Spondias managifera : Spondias mangifera
+ 82714 : maDyAhnika : Pertapetes phoenicea : Pentapetes phoenicea
+ 82759 : maDvAlu : Dioscorea aculeadta : Dioscorea aculeata
+ 83214 : manTA : Trigonella foenum graecum : Trigonella foenum-graecum
+ 83469 : mayUra : Celosia eristata : Celosia cristata
+ 83496 : mayUraSiKA : Celosia tristata : Celosia cristata
+ 83605 : marudruma : Vachellia farnestana : Vachellia farnesiana
+ 83635 : maruvaka : Vanguerta spinosa : Vangueria spinosa
+ 83691 : martyendramAtar : Solanum jacquini : Solanum jacquinii
+ 83720 : marmara : Pinus deodora : Pinus deodara
+ 83846 : malahantar : Salmaria malabarica : Salmalia malabarica
+ 83998 : masana : Vernonia anthelminthica : Vernonia anthelmintica
+ 84003 : masi : Nyctanthes arbor : Nyctanthes arbor-tristis
+ 84004 : masika : Nyctanthes arbor : Nyctanthes arbor-tristis
+ 84035 : mastadAru : Pinus deodora : Pinus deodara
+ 84046 : mah : Hingtscha repens : Hingtsha repens
+ 84341 : mahAtaru : Tithymalus antiquorum : Tithymalus antiquorus
+ 84347 : mahAtikta : Clypea hernandifolia : Clypea hernandiifolia
+ 84386 : mahAdAru : Pinus deodora : Pinus deodara
+ 84491 : mahAnIla : Cittoria ternatca : Clitoria ternatea
+ 84782 : mahAmuni : Xanthoxylon hastile : Zanthoxylum hastile
+ 84872 : mahArasa : Schirpus kysoor : Scirpus kysoor
+ 84967 : mahAvallI : Gaertnera racemasa : Gaertnera racemosa
+ 85016 : mahAvIra : Helminthostachys lawiniata : Helminthostachys laciniata
+ 85172 : mahAsarja : Artocarpus integrifolia : Artocarpus integrifolius
+ 85172 : mahAsarja : Germinalia tomentosa : Terminalia tomentosa
+ 85174 : mahAsaha : Glyeine debilis : Glycine debilis
+ 85268 : mahAhrasvA : Mucuna pruritus : Mucuna pruriens
+ 85520 : mahOzaDi : Hingtscha repens : Hingtsha repens
+ 85562 : mAMsadalana : Amoora rohitaka : Amoora rohituka
+ 85660 : mAGa : Hingtscha repens : Hingtsha repens
+ 85676 : mAGya : Jasminum pubescenz : Jasminum pubescens
+ 85824 : mAtulAnI : Crotolaria juncea : Crotalaria juncea
+ 85941 : mAdana : Vanguiera spinosa : Vangueria spinosa
+ 86505 : mAlaka : Hibisus mutabilis : Hibiscus mutabilis
+ 86527 : mAlava : Clypea hernandifolia : Clypea hernandiifolia
+ 86528 : mAlavaka : Ipomoea turopethum : Ipomoea turpethum
+ 86592 : mAlyapuzpa : Crotolaria juncea : Crotalaria juncea
+ 86648 : mAsana : Vernonia anthelminthica : Vernonia anthelmintica
+ 87026 : miSrapuzpA : Trigonella foenum graecum : Trigonella foenum-graecum
+ 87039 : miSreyA : Anethum dill : Anethum graveolens
+ 87057 : misi : Nardostachys jatamanzi : Nardostachys jatamansi
+ 87262 : muKa : Artocarpus locucha : Artocarpus lacucha
+ 87373 : muKArjaka : Ocimmum pilosum : Ocimum pilosum
+ 87443 : muYja : Saccharum munjia : Saccharum munja
+ 87452 : muYjanaka : Saccharum munjia : Saccharum munja
+ 87466 : muYjAtaka : Saccharum munjia : Saccharum munja
+ 87541 : mudgaraka : Averrhoa corambola : Averrhoa carambola
+ 87597 : muniBezaja : Terminalica citrina : Terminalia citrina
+ 87648 : murajaPala : Artocarpus integrifolia : Artocarpus integrifolius
+ 88465 : mfducarmin : Betula bhojpatra : Betula bhojpattra
+ 88468 : mfducCada : Betula bhojpatra : Betula bhojpattra
+ 88474 : mfdutvac : Betula bhojpatra : Betula bhojpattra
+ 88499 : mfdusArA : Thespesia populnes : Thespesia populnea
+ 88633 : meGamodinI : Eugenta jambolana : Eugenia jambolana
+ 88729 : meTi : Trigonella foenum graecum : Trigonella foenum-graecum
+ 88730 : meTikA : Trigonella foenum graecum : Trigonella foenum-graecum
+ 89043 : moca : Hingtscha repens : Hingtsha repens
+ 89051 : mocarasa : Gossampinus rumphit : Gossampinus rumphii
+ 89081 : modayantikA : Ptychotis ajowan : Ptychotis ajawain
+ 89232 : mOli : Jonesia asoka : Jonesia asoca
+ 89614 : yajYANga : Clerodendrum siphononthus : Clerodendrum siphonanthus
+ 90360 : yamAnikA : Ptychotis ajowan : Ptychotis ajawain
+ 90485 : yavasAhva : Ptychotis ajowan : Ptychotis ajawain
+ 90495 : yavAnikA : Plychotis ajowan : Ptychotis ajawain
+ 91078 : yugmaPalA : Trogai involucrata : Tragia involucrata
+ 91079 : yugmaPalottama : Asclepias rosca : Asclepias rosea
+ 91254 : yUTikA : Clypea hernandifolia : Clypea hernandiifolia
+ 91634 : raktaka : Caesalpina sappan : Caesalpinia sappan
+ 91649 : raktakAzWa : Caesalpina sappan : Caesalpinia sappan
+ 91666 : raktaGna : Andersonia rohitaka : Andersonia rohituka
+ 91668 : raktacandana : Caesalpina sappan : Caesalpinia sappan
+ 91712 : raktapallava : Jonesia asoka : Jonesia asoca
+ 91728 : raktapuzpa : Andersonia rohitaka : Andersonia rohituka
+ 91729 : raktapuzpaka : Andersonia rohitaka : Andersonia rohituka
+ 91788 : raktavfntA : Nyctanthes arbor : Nyctanthes arbor-tristis
+ 91806 : raktasAra : Caesalpina sappan : Caesalpinia sappan
+ 91814 : raktAkta : Caesalpina sappan : Caesalpinia sappan
+ 91888 : rakzApattra : Betula bhojpatra : Betula bhojpattra
+ 91983 : raNgakAzWa : Caesalpina sappan : Caesalpinia sappan
+ 92020 : raNgalAsinI : Nyctanthes arbor : Nyctanthes arbor-tristis
+ 92099 : rajanIhAsA : Nyetanthes arbor : Nyctanthes arbor-tristis
+ 92161 : raYjana : Nyctanthes arbor : Nyctanthes arbor-tristis
+ 92161 : raYjana : Saccharum munjia : Saccharum munja
+ 92733 : ramaRa : Trichosanthes dioeca : Trichosanthes dioica
+ 92771 : ramya : Trichosanthe dioeca : Trichosanthes dioica
+ 92772 : ramyaka : Trichosanthes dioeca : Trichosanthes dioica
+ 92778 : ramyaPala : Strychnos nux vomica : Strychnos nux-vomica
+ 92849 : ravipriya : Artocarpus locucha : Artocarpus lacucha
+ 92849 : ravipriya : Calotropis giganten : Calotropis gigantea
+ 92907 : rasa : Clypea hernandifolia : Clypea hernandiifolia
+ 93360 : rAjanAman : Trichosanthes dioeca : Trichosanthes dioica
+ 93377 : rAjapawola : Trichosanthes dioeca : Trichosanthes dioica
+ 93412 : rAjaPala : Trichosanthes dioeca : Trichosanthes dioica
+ 93629 : rAji : Vernonia anthelminthica : Vernonia anthelmintica
+ 93640 : rAjIPala : Trichosanthe dioeca : Trichosanthes dioica
+ 93849 : rAma : Jonesia asoka : Jonesia asoca
+ 93985 : rAmasenaka : Gentiana cherayta : Gentiana chirayita
+ 94623 : rUkza : Croton polyandrum : Croton polyandrus
+ 94759 : recana : Croton polyandrum : Croton polyandrus
+ 94947 : roca : Hingcha repens : Hingtsha repens
+ 94950 : rocana : Andersonia rohitaka : Andersonia rohituka
+ 94950 : rocana : Croton polyandrum : Croton polyandrus
+ 94977 : rodana : Alhage maurorum : Alhagi maurorum
+ 95069 : romaharzaRa : Terminalia bellerica : Terminalia bellirica
+ 95084 : romAlu : Mucuna pruritus : Mucuna pruriens
+ 95131 : rohiRa : Andersonia rohitaka : Andersonia rohituka
+ 95161 : rohita : Andersonia rohitaka : Andersonia rohituka
+ 95163 : rohitaka : Andersonia rohitaka : Andersonia rohituka
+ 95177 : rohiteya : Andersonia rohitaka : Andersonia rohituka
+ 95181 : rohin : Andersonia rohitaka : Andersonia rohituka
+ 95186 : rohItaka : Andersonia rohitaka : Andersonia rohituka
+ 95255 : rOhitaka : Andersonia rohitaka : Andersonia rohituka
+ 95261 : rOhItaka : Andersonia rohitaka : Andersonia rohituka
+ 95268 : lakuca : Artocarpus locucha : Artocarpus lacucha
+ 95322 : lakzmaRa : Hemionita cordifolia : Hemionitis cordifolia
+ 95384 : lakzmIvant : Andersonia rohitaka : Andersonia rohituka
+ 95384 : lakzmIvant : Artocarpus integrifolia : Artocarpus integrifolius
+ 95632 : laYCana : Eleusine corocana : Eleusine coracana
+ 95679 : latAparRa : Trigonella foenum graecum : Trigonella foenum-graecum
+ 95683 : latAPala : Trichosanthes dioeca : Trichosanthes dioica
+ 95689 : latAmADavI : Gaertneria racemosa : Gaertnera racemosa
+ 95889 : lavaRakiMSukA : Cordiospermum halicacabumm : Cardiospermum halicacabum
+ 95933 : lavana : Anona reticulata : Annona reticulata
+ 95978 : lAkuca : Arthocarpus locucha : Artocarpus lacucha
+ 96035 : lANgUlikA : Hemionits cordifolia : Hemionitis cordifolia
+ 96175 : likuca : Artocarpus locucha : Artocarpus lacucha
+ 96436 : leKana : Betula bhojpatra : Betula bhojpattra
+ 96751 : loRikA : Portulacca olercea : Portulaca oleracea
+ 96813 : lomaSa : Carpopogon prurens : Carpopogon pruriens
+ 96817 : lomaSaparRinI : Clycine debilis : Glycine debilis
+ 96885 : lohakaRwaka : Vanguiera spinosa : Vangueria spinosa
+ 97245 : vakradanta : Croton polyandrum : Croton polyandrus
+ 97490 : vajrabIjaka : Guilandina bondue : Guilandina bonduc
+ 97604 : vaYjula : Joneisia asoca : Jonesia asoca
+ 97720 : vatsaka : Wrighia antidysenterica : Wrightia antidysenterica
+ 97733 : vatsanABa : Melthonica superba : Methonica superba
+ 97925 : vanacandana : Pinus deodora : Pinus deodara
+ 97940 : vanatiktikA : Clypea hernandifolia : Clypea hernandiifolia
+ 97981 : vanabarbarikA : Ocimum pilosun : Ocimum pilosum
+ 98005 : vanamudga : Phaseolus aconitifolus : Phaseolus aconitifolius
+ 98010 : vanameTikA : Melilotus parviflora : Melilotus parviflorus
+ 98046 : vanaSUkarI : Mucuna pruritus : Mucuna pruriens
+ 98208 : vanya : Phaseolus irilobus : Phaseolus trilobus
+ 98346 : vara : Clypea hernandifolia : Clypea hernandiifolia
+ 98357 : varacandana : Pinus deodora : Pinus deodara
+ 98362 : varaRa : Crataeva roxburghii : Crateva roxburghii
+ 98379 : varatiktaka : Clypea hernandifolia : Clypea hernandiifolia
+ 98470 : varARa : Crataeva roxburghii : Crateva roxburghii
+  9854 : arSoGnavalkalA : Xanthoxylon rhetsa : Zanthoxylum rhetsa
+ 98566 : varuRa : Crataeva roxburghii : Crateva roxburghii
+ 98567 : varuRaka : Crataeva roxburghii : Crateva roxburghii
+ 98603 : varuRArizwakamaya : Crataeva roxburgii : Crateva roxburghii
+ 99119 : valkadruma : Betula bhojpatra : Betula bhojpattra
+ 99144 : valgulA : Serratula anthelminthica : Serratula anthelmintica
+ 99187 : vallari : Trigonella foenum graecum : Trigonella foenum-graecum
+ 99192 : vallikaRwakArikA : Jasminum jacquini : Jasminum jacquemontii
+ 99415 : vasuka : Colotropis gigantea : Calotropis gigantea
+ 99719 : vahnidamanI : Solanum jacquini : Solanum jacquinii
+ 99750 : vahniSiKara : Calosia cristata : Celosia cristata
+ 99784 : vAkucI : Vernonia anthelminthica : Vernonia anthelmintica
+100142 : vAjiBojana : Phaseolus mango : Phaseolus mungo
+100143 : vAjimant : Trichosanthes dioeca : Trichosanthes dioica
+100401 : vAtAri : Ptychotis ajowan : Ptychotis ajawain
+100574 : vAnIraka : Saccharum munjia : Saccharum munja
+100581 : vAntikft : Vanguiera spinosa : Vangueria spinosa
+100850 : vAraRa : Crataeva roxburghii : Crateva roxburghii
+100916 : vArAhANgI : Croton polyandrum : Croton polyandrus
+101333 : vAsaka : Adhadota vasica : Adhatoda vasica
+101339 : vAsata : Terminalia bellerica : Terminalia bellirica
+102037 : vicitra : Jocesia asoca : Jonesia asoca
+102038 : vicitraka : Betula bhojpatra : Betula bhojpattra
+102451 : vitunna : Marsilia quadrifolia : Marsilea quadrifolia
+102651 : vidDakarRa : Clypea hermandifolia : Clypea hernandiifolia
+102680 : vidyAdala : Betula bhojpatra : Betula bhojpattra
+103404 : vipUya : Saccharum munjia : Saccharum munja
+103419 : viprakAzWa : Thespesia populneiodes : Thespesia populneoides
+103657 : viBIta : Terminalia bellerica : Terminalia bellirica
+103751 : vimarda : Cassia sophora : Cassia sophera
+104044 : virAtaka : Terminalia arunja : Terminalia arjuna
+104122 : virocana : Andersonia rohitaka : Andersonia rohituka
+104446 : vivizA : Kyllingia monocephala : Kyllinga monocephala
+104533 : viSalya : Croton polyandrum : Croton polyandrus
+104535 : viSalyakft : Echites dichotoma : Echites dichotomus
+104669 : viSoka : Jonesia asoka : Jonesia asoca
+104678 : viSoDana : Croton polyandrum : Croton polyandrus
+105134 : vizaGAtin : Mimosa secressa : Mimosa seeressa
+105151 : vizatindu : Strychnos nux vomica : Strychnos nux-vomica
+105163 : vizadruma : Strychnos nux vomica : Strychnos nux-vomica
+105235 : vizamuzwi : Vanguiera spinosa : Vangueria spinosa
+105288 : vizavEriRI : Kyllingia monocephala : Kyllinga monocephala
+105297 : vizaha : Kyllingia monocephala : Kyllinga monocephala
+105298 : vizahan : Hingcha repens : Hingtsha repens
+105299 : vizahantar : Kyllingia monocephala : Kyllinga monocephala
+105330 : vizApaha : Aristologhia indica : Aristolochia indica
+105334 : vizABAvA : Kyllingia monocephala : Kyllinga monocephala
+105497 : vizRuparRikA : Hadysarum logopodioides : Hedysarum lagopodioides 
+105644 : visarpin : Ptychotis ajowan : Ptychotis ajawain
+105899 : vINKA : Carpopogon prurtens : Carpopogon pruriens
+105971 : vItaSoka : Jonesia asoka : Jonesia asoca
+106004 : vIra : Terminalia arunja : Terminalia arjuna
+106038 : vIrataru : Terminalia arunja : Terminalia arjuna
+106046 : vIradru : Terminalia arunja : Terminalia arjuna
+106130 : vIravfkza : Terminalia arunja : Terminalia arjuna
+106222 : vfka : Clypea hernandifolia : Clypea hernandiifolia
+106269 : vfkzaka : Wrightia antidytsenterica : Wrightia antidysenterica
+106388 : vfttaparRI : Clypea hernandifolia : Clypea hernandiifolia
+106533 : vfdDatiktA : Clypea hernandifolia : Clypea hernandiifolia
+106664 : vfza : Boerhavia variegata : Boerhavia virgata
+106664 : vfza : Gendarussa adhatoda : Gendarussa adhadota
+106664 : vfza : Macuna pruritus : Mucuna prurita
+106784 : vfzAkapAyI : Aspargus racemosus : Asparagus racemosus
+106863 : vega : Trichsanthes palmata : Trichosanthes palmata
+106917 : vejAnI : Vernonia anthelminthica : Vernonia anthelmintica
+107294 : veDana : Trigonella foenum graecum : Trigonella foenum-graecum
+107304 : veDin : Trigonlla foenum : Trigonella foenum-graecum
+107413 : veSya : Clypea hernandifolia : Clypea hernandiifolia
+107446 : vezwaka : Beninkasa cerifera : Benincasa cerifera
+107814 : vEBIta : Terminalia bellerica : Terminalia bellirica
+107937 : vErAtaNka : Terminalia arunja : Terminalia arjuna
+107942 : vErAntaka : Terminalia arunja : Terminalia arjuna
+108581 : vyAGra : Solanum jacquini : Solanum jacquinii
+108594 : vyAGranaKa : Tithymalus antiquorum : Tithymalus antiquorus
+108955 : vyomavallikA : Cassyta filiformis : Cassytha filiformis
+109013 : vraRajitA : Schoenandthus indicus : Schoenanthus indicus
+109016 : vraRadviz : Clerodendrum siphonantus : Clerodendrum siphonanthus
+109401 : Sakra : Terminalia arunja : Terminalia arjuna
+109424 : Sakradruma : Terminalia arunja : Terminalia arjuna
+109431 : SakrapAdapa : Pinus deodora : Pinus deodara
+109599 : SaNKaDara : Hingcha repens : Hingtsha repens
+109683 : SaWAmbA : Clypea hernandifolia : Clypea hernandiifolia
+109688 : SaRa : Crotolaria juncea : Crotalaria juncea
+109698 : SaRapuzpikA : Crotolaria verrucosa : Crotalaria verrucosa
+110090 : SatruBaNga : Saccharum munjia : Saccharum munja
+110391 : Sambara : Croton polyandrum : Croton polyandrus
+110391 : Sambara : Terminalia arunja : Terminalia arjuna
+110549 : Saratpuzpa : Tacrnaemontana coronaria : Tabernaemontana coronaria
+110827 : SarvAkza : Ganitrues sphaerica : Ganitrus sphaerica
+110851 : SalAka : Vanguiera spinosa : Vangueria spinosa
+110884 : Salyaka : Vangueira spinosa : Vangueria spinosa
+111039 : SaSileKA : Vernonia anthelminthica : Vernonia anthelmintica
+111643 : SAMBava : Pinus deodora : Pinus deodara
+111643 : SAMBava : Sesbana grandiflora : Sesbania grandiflora
+111776 : SAla : Artocarpus locucha : Artocarpus lacucha
+111802 : SAlapuzpa : Hibiscus mutablilis : Hibiscus mutabilis
+111930 : SAlmalika : Andersonia rohitaka : Andersonia rohituka
+111936 : SAlmalIvezwa : Salmaria malabarica : Salmalia malabarica
+112160 : SiKin : Trigonella foenum graecum : Trigonella foenum-graecum
+112163 : SiKimaRqala : Crataeva roxburghii : Crateva roxburghii
+112166 : SiKivarDaka : Beninkasa cerifera : Benincasa cerifera
+112172 : Sigru : Moringa pteryhosprma : Moringa pterygosperma
+112174 : Sigruja : Moringa ptergosperma : Moringa pterygosperma
+112206 : Siti : Betula bhojpatra : Betula bhojpattra
+112287 : Sibi : Betula bhojpatra : Betula bhojpattra
+112310 : Simbi : Mucuna pruritus : Mucuna pruriens
+112320 : Sira : Betula bhojpatra : Betula bhojpattra
+112497 : Sili : Betula bhojpatra : Betula bhojpattra
+112600 : SivadAru : Pinus deodora : Pinus deodara
+112636 : Sivapriya : Elaeovarpus gantitrus : Elaeocarpus ganitrus
+112652 : Sivamallaka : Terminalia arunja : Terminalia arjuna
+112868 : SIGra : Croton polyandrum : Croton polyandrus
+112952 : SItamaYjarI : Nyctanthes arbor : Nyctanthes arbor-tristis
+113332 : SuklANga : Nyctanthes arber tristis : Nyctanthes arbor tristis
+113750 : SUka : Mucuna pruritus : Mucuna pruriens
+113758 : SUkapiRqi : Mucuna pruritus : Mucuna pruriens
+113762 : SUkavant : Mucuna pruritus : Mucuna pruriens
+113764 : SUkaSimbA : Mucuna pruritus : Mucuna pruriens
+113842 : SUra : Artocarpus locucha : Artocarpus lacucha
+113926 : SUlahantrI : Ptychotis ajowan : Ptychotis ajawain
+113943 : SUlotTA : Serratula anthelminthica : Serratula anthelmintica
+113951 : SfNKala : Aseracantha longifolia : Asteracantha longifolia
+113981 : SfNgaverABamUlaka : Typha angusitifolia : Typha angustifolia
+114073 : SePAli : Nyctanthes arbor : Nyctanthes arbor-tristis
+114216 : SElaBeda : Coleus scutellaroides : Coleus scutellarioides
+114270 : SEleya : Aethum graveolens : Anethum graveolens
+114336 : SokanASa : Jonesia asoka : Jonesia asoca
+114686 : SyAmala : Terminalia arunja : Terminalia arjuna
+114765 : SyenaGaRwA : Croton polyandrum : Croton polyandrus
+114897 : SravaRaSIrzikA : Spaeranthus mollis : Sphaeranthus mollis
+115473 : SreyaMs : Clypea hernandifolia : Clypea hernandiifolia
+115737 : Svan : Beninkasa cerifera : Benincasa cerifera
+115802 : Svasana : Vanguiera spinosa : Vangueria spinosa
+115808 : SvasaneSvara : Terminalia arunja : Terminalia arjuna
+115938 : Svetadruma : Crataeva roxburghis : Crateva roxburghii
+115965 : Svetapuzpa : Crataeva roxburghii : Crateva roxburghii
+116020 : Svetavfkza : Crataeva roxburghii : Crateva roxburghii
+116031 : Svetasarpa : Crataeva roxburghii : Crateva roxburghii
+116157 : zawpadAnandavarDana : Jonesia asoka : Jonesia asoca
+116676 : saMvarta : Terminalia bellerica : Terminalia bellirica
+116677 : saMvartaka : Terminalia bellerica : Terminalia bellirica
+117172 : sakawa : Tropis aspera : Trophis aspera
+118530 : sadAprasUna : Andersonia rohitaka : Andersonia rohituka
+118650 : sadyaHSoTa : Mucuna pruritus : Mucuna pruriens
+121146 : saMBavya : Feronia elephanteum : Feronia elephantum
+121588 : sarpadaMzwra : Croton polyandrum : Croton polyandrus
+121708 : sarvakesara : Minusops elengi : Mimusops elengi
+122615 : savyasAcin : Terminalia arunja : Terminalia arjuna
+122839 : sahacara : Barleria priontis : Barleria prionitis
+122878 : sahadeva : Echites frutesecens : Echites frutescens
+123818 : sADuvfkza : Crataeva roxburghii : Crateva roxburghii
+123872 : sAnuja : Xanthoxylon alatum : Zanthoxylum alatum
+123934 : sAndrapuzpa : Terminalia bellerica : Terminalia bellirica
+124488 : sAriva : Ichnocarpus frutecens : Ichnocarpus frutescens
+124832 : siMha : Gedarussa vulgaris : Gendarussa vulgaris
+124832 : siMha : Solanum jacquini : Solanum jacquinii
+124891 : siMhamuKa : Clycine debilis : Glycine debilis
+124918 : siMhavinnA : Clycine debilis : Glycine debilis
+124938 : siMhAnana : Gedarussa vulgaris : Gendarussa vulgaris
+125003 : sita : Vernonia anthelminthica : Vernonia anthelmintica
+125079 : sitasAra : Acyranthes triandra : Achyranthes triandra
+125115 : sitAvara : Vernonia anthelminthica : Vernonia anthelmintica
+125379 : sinDuputra : Dospyros tomentosa : Diospyros tomentosa
+125463 : silhaka : Liquidambar orientale : Liquidambar orientalis
+125528 : sIDupuzpa : Crislea tomentosa : Grislea tomentosa
+125661 : sukAzWaka : Pinus deodora : Pinus deodara
+125953 : suKozita : Sanseviera roxvurgiana : Sansevieria roxburghiana
+125973 : suganDa : Anderopogon schoenanthus : Andropogon schoenanthus
+126028 : sugupta : Mucuna pruritus : Mucuna pruriens
+126087 : sucarman : Betula bhojpatra : Betula bhojpattra
+126192 : sutapta : Mucuna pruritus : Mucuna pruriens
+126741 : suparRaka : Vernonia anthelminthica : Vernonia anthelmintica
+126823 : supuzpa : Vitoria ternatea : Clitoria ternatea
+126900 : supratizWita : Fiscus glomerata : Ficus glomerata
+126924 : supraBa : Vernonia anthelminthica : Vernonia anthelmintica
+126989 : suPala : Beninkasa cerifera : Benincasa cerifera
+127046 : suBaga : Jonesia asoka : Jonesia asoca
+127291 : sumeKala : Saccharum munjia : Saccharum munja
+127295 : sumeDas : Cardiospermum halicabum : Cardiospermum halicacabum
+127362 : surakAzWa : Pinus deodora : Pinus deodara
+127389 : surajaHPala : Artocarpus integrifolia : Artocarpus integrifolius
+127420 : suradAru : Pinus deodora : Pinus deodara
+127421 : suradArumaya : Pinus deodora : Pinus deodara
+127465 : suraBi : Prospis spicigera : Prosopis spicigera
+127504 : suraBUruha : Pinus deodora : Pinus deodara
+127558 : surasa : Anethum dill : Anethum graveolens
+127666 : surAhva : Pinus deodora : Pinus deodara
+127667 : surAhvaya : Pinus deodora : Pinus deodara
+127717 : surezwa : Elaeocarpus ganitruss : Elaeocarpus ganitrus
+127924 : suvalli : Vernonia anthelminthica : Vernonia anthelmintica
+127925 : suvallikA : Vernonia anthelminthica : Vernonia anthelmintica
+128139 : suSiKa : Celsia cristata : Celosia cristata
+128644 : sUcipuzpa : Pandanus odoratissinus : Pandanus odoratissimus
+128660 : sUcIdala : Marsilia quardrifolia : Marsilea quadrifoliata
+128852 : sUpaparRI : Phaseolus trillobus : Phaseolus trilobus
+129055 : sUryAvarta : Polanissia icosandra : Polanisia icosandra
+129200 : setu : Crataeva roxburghii : Crateva roxburghii
+129201 : setuka : Crataeva roxburghii : Crateva roxburghii
+129211 : setuBedin : Croton polyandrum : Croton polyandrus
+129213 : setuvfkza : Crataeva roxburghii : Crateva roxburghii
+129646 : somarAjI : Vernonia anthelminthica : Vernonia anthelmintica
+129667 : somavallikA : Vernonia anthelminthica : Vernonia anthelmintica
+129668 : somavallI : Vernonia anthelminthica : Vernonia anthelmintica
+129970 : sOBadreya : Terminalia bellerica : Terminalia bellirica
+129990 : sOBAYjana : Moringa pterugosperma : Moringa pterygosperma
+130050 : sOmya : Clycine debilis : Glycine debilis
+130069 : sOra : Zanthoxylon alatum : Zanthoxylum alatum
+130073 : sOraRa : Amorphophallus companulatus : Amorphophallus campanulatus
+130833 : sTalanalinI : Hibicus mutabilis : Hibiscus mutabilis
+130862 : sTalotpalinI : Hibicus mutabilis : Hibiscus mutabilis
+130952 : sTApana : Clypea hernandifolia : Clypea hernandiifolia
+131025 : sTiraganDa : Michlia champaca : Michelia champaca
+131029 : sTiracCada : Betula bhojpatra : Betula bhojpattra
+131048 : sTiraPalA : Beninkasa cerifera : Benincasa cerifera
+131118 : sTUla : Artocarpus integrifolia : Artocarpus integrifolius
+131147 : sTUladarBa : Saccharum munjia : Saccharum munja
+131184 : sTUlavartmakft : Clerodendrum siphonathus : Clerodendrum siphonanthus
+131209 : sTUlaskanDa : Artocarpus locucha : Artocarpus lacucha
+131320 : snigDadAru : Pinus deodora : Pinus deodara
+131379 : snehavidDa : Pinus deodora : Pinus deodara
+131480 : spfSa : Solanum jacquini : Solanum jacquinii
+131602 : sPUrjaka : Strychnos nux vomica : Strychnos nux-vomica
+131621 : sPowalatA : Gynandropis pentaphylla : Gynandropsis pentaphylla
+131697 : smarADivAsa : Jonesia asoka : Jonesia asoca
+131995 : svaguptA : Mucuna pruritus : Mucuna pruriens
+132324 : svayaMgupta : Mucuna pruritus : Mucuna pruriens
+132749 : svalpaPalA : Andersonia rohitaka : Andersonia rohituka
+132838 : svastika : Marsila quadrifolia : Marsilea quadrifolia
+133565 : hayASanA : Boswelli thurifera : Boswellia thurifera
+133692 : haritakaSAka : Moringa pterygospermum : Moringa pterygosperma
+133709 : haritaSAka : Moringa pterygospermum : Moringa pterygosperma
+133753 : haridru : Curcum aromatica : Curcuma aromatica
+134246 : hastikarRa : Arum macrorrhizum : Arum macrorrhizon
+134471 : hArya : Terminalia bellerica : Terminalia bellirica
+134579 : hiNgulaka : Solanum jacquini : Solanum jacquinii
+134703 : himavant : Hoya viriflora : Hoya viridiflora
+134743 : himAlaya : Flacourtia cataphrcata : Flacourtia cataphracta
+134919 : hilamoci : Enhydra hingcha : Enydra hingcha
+135225 : hfdrogavErin : Terminalia arunja : Terminalia arjuna
+135367 : hemapuzpa : Cuculigo orchioides : Curculigo orchioides
+135367 : hemapuzpa : Jonesia asoka : Jonesia asoca
+135368 : hemapuzpaka : Linum usitatissmum : Linum usitatissimum
+135446 : helaYcI : Enhydra hingcha : Enydra hingcha
+135485 : hEma : Gentiana cherayta : Gentiana chirayita
+208167 : rOdrAkza : Galaeocarpus ganitrus : Elaeocarpus ganitrus
+208779 : karmakaRwaka : Gardenia latiflora : Gardenia lateriflora
+220538 : muYjAjyAbalbajamaya : Saccharum munjia : Saccharum munja
+126989 : suPala : Zizyphus jujuba : Ziziphus jujuba
+130170 : sOvIraka : Zizyphus jujuba : Ziziphus jujuba
+129103 : sfgAlakoli : Zizyphus oenoplia : Ziziphus oenopolia
+113166 : Suka : Zizyphus scandens : Ziziphus scandens
+109725 : SatakaRwaka : Zizyphus xylopyrus : Ziziphus xylopyrus
+111812 : SAlava : Zymplocos racemosa : Symplocos racemosa

@@ -1,0 +1,73 @@
+9102	arizwa	33975	<bot>Azadirachta indica A. Juss.</bot>
+9114	arizwaPala	34034	<bot>Azadirachta indica A. Juss.</bot>
+8358	amfta	31065	<bot>Phaseolus trilobus Ait.</bot>
+11856	aSvapucCA	44636	<bot>Glycine debilis Ait.</bot>
+11878	aSvamAra	44708	<bot>Nerium odorum Ait.</bot>
+11909	aSvaroDaka	44828	<bot>Nerium odorum Ait.</bot>
+11964	aSvahantar	45025	<bot>Nerium odorum Ait.</bot>
+15431	AraRyamudrA	58435	<bot>Phaseolus trilobus Ait.</bot>
+16478	AsPota	62580	<bot>Jasminum sambac Ait.</bot>
+20872	uzwrapAdikA	80805	<bot>Jasminum sambac Ait.</bot>
+8927	arawu	33316	<bot>Calosanthes indica Bl.</bot>
+9023	aralu	33659	<bot>Calosanthes indica Bl.</bot>
+15862	Aluka	60083	<bot>Amorphophallus campanulatus Bl.</bot>
+16634	ikzuganDa	63731	<bot>Batatas paniculata Chois.</bot>
+16635	ikzuganDikA	63735	<bot>Batatas paniculata Chois.</bot>
+21283	fkzaganDikA	82582	<bot>Batatas paniculata Chois.</bot>
+55702	DUsarapattrikA	229022	<bot>Heliophytum indicum Dec.</bot>
+15209	Amupa	57540	<bot>Bambusa spinosa Hamilt. Roxb.</bot>
+8371	amftajawA	31138	<bot>Valeriana jatamansi Jon.</bot>
+8905	araka	33244	<bot>Gardenia enneandra Koen.</bot>
+1086	aNGrikaraka	4107	<bot>Carissa carandas Lin.</bot>
+1500	awwahAsaka	5796	<bot>Jasminum hirsutum Lin.</bot>
+2606	adrikarRI	9745	<bot>Clitoria ternatea Lin.</bot>
+3651	analapraBA	13609	<bot>Cardiospermum halicacabum Lin.</bot>
+4042	anikzu	14966	<bot>Saccharum spontaneum Lin.</bot>
+4142	anirmAlyA	15331	<bot>Trigonella corniculata Lin.</bot>
+4200	anizwa	15539	<bot>Sida alba Lin.</bot>
+6091	aparAjita	22588	<bot>Clitoria ternatea Lin.</bot>
+6091	aparAjita	22588	<bot>Marsilea quadrifolia Lin.</bot>
+6249	apavizA	23150	<bot>Kyllinga monocephala Lin.</bot>
+7805	aBIzwa	28921	<bot>Piper betle Lin.</bot>
+8455	amftopahitA	31440	<bot>Smilax china Lin.</bot>
+8672	amlaloRikA	32296	<bot>Oxalis corniculata Lin.</bot>
+10010	aliganDa	37697	<bot>Michelia champaca Lin.</bot>
+10026	aliparRI	37766	<bot>Tragia involucrata Lin.</bot>
+17682	ugrakARqa	68193	<bot>Momordica charantia Lin.</bot>
+23191	kakKawapattraka	90026	<bot>Corchorus olitorius Lin.</bot>
+1005	aNgAraparRa	3791	<bot>Clerodendrum siphonanthus R. Br.</bot>
+1014	aNgAravallarI	3821	<bot>Clerodendrum siphonanthus R. Br.</bot>
+3347	ananta	12574	<bot>Hemidesmus indicus R. Br.</bot>
+7083	abala	26164	<bot>Crateva roxburghii R. Br.</bot>
+8531	ambazWikA	31730	<bot>Clerodendrum siphonanthus R. Br.</bot>
+8817	ayukCada	32839	<bot>Alstonia scholaris R. Br.</bot>
+9144	aruRa	34160	<bot>Ipomoea turpethum R. Br.</bot>
+11701	aSmarIGna	44049	<bot>Crateva roxburghii R. Br.</bot>
+16882	indukalA	64722	<bot>Sarcostemma viminale R. Br.</bot>
+16915	induvallI	64840	<bot>Sarcostemma viminale R. Br.</bot>
+16982	indradru	65093	<bot>Wrightia antidysenterica R. Br.</bot>
+18095	uttama	69804	<bot>Oxystelma esculentum R. Br.</bot>
+18102	uttamaPalinI	69830	<bot>Oxystelma esculentum R. Br.</bot>
+19007	uddAla	73333	<bot>Paspalum frumentaceum Rottl.</bot>
+17179	iBakaRA	65814	<bot>Scindapsus officinalis Sch.</bot>
+6582	apUraRa	24395	<bot>Salmalia malabarica Sch. u. Endl.</bot>
+13196	ahikA	49754	<bot>Salmalia malabarica Sch. u. Endl.</bot>
+19525	upacitra	75497	<bot>Croton polyandrum Spr.</bot>
+22279	eraRqaPalA	86462	<bot>Croton polyandrum Spr.</bot>
+3347	ananta	12574	<bot>Alhagi maurorum Tournef.</bot>
+14224	AtmamUlI	53674	<bot>Alhagi maurorum Tournef.</bot>
+8529	ambazWa	31724	<bot>Clypea hernandifolia W. u. A.</bot>
+9098	arimeda	33949	<bot>Vachellia farnesiana W. u. A.</bot>
+9237	arkakAntA	34527	<bot>Polanisia icosandra W. u. A.</bot>
+9269	arkaBaktA	34651	<bot>Polanisia icosandra W. u. A.</bot>
+9294	arkahitA	34732	<bot>Polanisia icosandra W. u. A.</bot>
+9352	arjuna	35041	<bot>Terminalia arjuna W. u. A.</bot>
+11794	aSvakarRa	44388	<bot>Vatica robusta W. u. A.</bot>
+12350	asana	46597	<bot>Terminalia tomentosa W. u. A.</bot>
+12643	asimeda	47701	<bot>Vachellia farnesiana W. u. A.</bot>
+16982	indradru	65092	<bot>Terminalia arjuna W. u. A.</bot>
+17081	indrasuta	65432	<bot>Terminalia arjuna W. u. A.</bot>
+19827	upameta	76667	<bot>Vatica robusta W. u. A.</bot>
+22727	ozWa	88190	<bot>Coccinia grandis W. u. A.</bot>
+22738	ozWopamaPalA	88225	<bot>Coccinia grandis W. u. A.</bot>
+13023	asrapattraka	49071	<bot>Abelmoschus esculentus W. und A.</bot>

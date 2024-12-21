@@ -1,0 +1,83 @@
+<bot>Aethiops mineralis</bot> 1 gs=0,g=0,s=0 notbot material
+<bot>Anas casarca</bot> 33 gs=0,g=0,s=0 zoo
+<bot>Arthocarpus locucha</bot> 1 gs=0,g=0,s=0 bot sp. "Artocarpus lacucha"
+<bot>Artocarpus locucha</bot> 13 gs=0,g=226,s=0 bot sp. "Artocarpus lacucha"
+<bot>Boa constrictor</bot> 1 gs=0,g=0,s=0 zoo 
+<bot>Bola cuja</bot> 1 gs=0,g=0,s=0 zoo
+<bot>Bos gaurus</bot> 5 gs=0,g=0,s=0 zoo
+<bot>Bos gavaeus</bot> 15 gs=0,g=0,s=0 zoo
+<bot>Bos grunniens</bot> 15 gs=0,g=0,s=0 zoo
+<bot>Caesalpina banducella</bot> 1 gs=0,g=0,s=0 bot sp. "Caesalpinia bonducella"
+<bot>Caruncula lacrymalis</bot> 1 gs=0,g=0,s=0 notbot anatomy
+<bot>Cassalpina banducella</bot> 1 gs=0,g=0,s=0 bot sp. "Caesalpinia bonducella"
+<bot>Cauterium actuale</bot> 1 gs=0,g=0,s=0 notbot med
+<bot>Cauterium potentiale</bot> 1 gs=0,g=0,s=0 notbot med
+<bot>Centropus pyropterus</bot> 1 gs=0,g=0,s=0 zoo
+<bot>Cerausus pudum</bot> 1 gs=0,g=0,s=0 bot sp. "Cerasus pudum"
+<bot>Cittoria ternatca</bot> 1 gs=0,g=0,s=0 bot sp. "Clitoria ternatea"
+<bot>Clerodenrum siphonantus</bot> 1 gs=0,g=0,s=0 bot sp. "Clerodendrum siphonantus"
+<bot>Clupea alosa</bot> 6 gs=0,g=0,s=0 zoo
+<bot>Cojus cobojus</bot> 2 gs=0,g=0,s=0 zoo
+<bot>Columba hariola</bot> 2 gs=0,g=0,s=0 zoo sp. ? Columba hariala
+<bot>Columba hurriyala</bot> 1 gs=0,g=0,s=0 zoo sp. ? Columba hariala
+<bot>Corcharus editorius</bot> 1 gs=0,g=0,s=0 bot sp. "Corchorus olitorius"
+<bot>Cordiospermum halicacabumm</bot> 1 gs=0,g=0,s=0 bot sp. "Cardiospermum halicacabum"
+<bot>Crataeva roxburghis</bot> 1 gs=0,g=0,s=0 bot sp. "Crateva roxburghii"
+<bot>Crataeva roxburgii</bot> 1 gs=0,g=0,s=0 bot sp. "Crateva roxburghii"
+<bot>Cyprinus banggana</bot> 1 gs=0,g=0,s=0 zoo sp. ? Bangana
+<bot>Cyprinus catla</bot> 3 gs=0,g=0,s=0 zoo
+<bot>Cyprinus curchius</bot> 1 gs=0,g=0,s=0 zoo
+<bot>Cyprinus rishi</bot> 1 gs=0,g=0,s=0 zoo
+<bot>Cyprinus rohita</bot> 12 gs=0,g=0,s=0 zoo
+<bot>Cyprinus sophore</bot> 2 gs=0,g=0,s=0 zoo
+<bot>Delphinus gandgeticus</bot> 1 gs=0,g=0,s=0 zoo sp.?
+<bot>Elaeovarpus gantitrus</bot> 1 gs=0,g=0,s=0 bot sp. "Elaeocarpus ganitrus"
+<bot>Elater noctilucus</bot> 3 gs=0,g=0,s=0 zoo ?
+<bot>Enhydra hingtscha DC.</bot> 1 gs=0,g=0,s=0 zoo
+<bot>Esox kankila</bot> 5 gs=0,g=0,s=0 zoo
+<bot>Falco ponticerianus</bot> 1 gs=0,g=0,s=0 zoo
+<bot>Gemeiner anis</bot> 1 gs=0,g=0,s=0 notbot German (common anis)
+<bot>Getiana chiraita</bot> 1 gs=0,g=0,s=0  (print change) bot sp. "Gentiana chirayita"
+<bot>Hadysarum logopodioides</bot> 1 gs=0,g=0,s=0 bot sp. "Hedysarum lagopodioides "
+<bot>Indica royle</bot> 1 gs=0,g=0,s=0 bot sp. "Aloe indica Royle"
+<bot>Joncesia asoka Roxb.</bot> 1 gs=0,g=0,s=0 (print change) bot sp. "Jonesia asoca Roxb."
+<bot>Langer pfeffer</bot> 1 gs=0,g=0,s=0 notbot German long pepper
+<bot>Larus ridibundus</bot> 3 gs=0,g=0,s=0  zoo
+<bot>Lea stophylea</bot> 1 gs=0,g=0,s=0 bot sp. "Leea staphylea"
+<bot>Loxia philipponsis</bot> 1 gs=0,g=0,s=0 zoo sp. Loxia philippensis
+<bot>Macropteronatus magur</bot> 3 gs=0,g=0,s=0 zoo 
+<bot>Macuna pruritus</bot> 2 gs=0,g=0,s=0  (pr. chg.) bot sp. "Mucuna prurita"
+<bot>Marsilia quardrifolia</bot> 1 gs=0,g=0,s=0 bot sp. "Marsilea quadrifoliata"
+<bot>Mystus chitala</bot> 2 gs=0,g=0,s=0 zoo
+<bot>Mystus karpirat</bot> 1 gs=0,g=0,s=0 zoo
+<bot>Ophicephalus kurrawey</bot> 1 gs=0,g=0,s=0 zoo
+<bot>Os sepiae</bot> 4 gs=0,g=0,s=0 notbot material
+<bot>Os coccygis</bot> 1 gs=0,g=0,s=0 notbot anatomy
+<bot>Pelcanus fusicollis</bot> 1 gs=0,g=0,s=0 zoo
+<bot>Phasianus gallus</bot> 9 gs=0,g=0,s=0 zoo
+<bot>Pimelodus gagora</bot> 4 gs=0,g=0,s=0 zoo
+<bot>Polynemus paradiseus</bot> 1 gs=0,g=0,s=0 zoo
+<bot>Polynemus risua</bot> 1 gs=0,g=0,s=0 zoo
+<bot>Portulacca olercea</bot> 1 gs=0,g=0,s=0 bot sp. "Portulaca oleracea"
+<bot>Saccharu munjia</bot> 1 gs=0,g=0,s=0 bot sp. "Saccharum munja "
+<bot>Sanseviera roxvurgiana</bot> 1 gs=0,g=0,s=0 bot sp. "Sansevieria roxburghiana"
+<bot>Schreberia swietenoides</bot> 2 gs=0,g=0,s=0 bot sp. "Schrebera swietenioides"
+<bot>Silurus boalis</bot> 1 gs=0,g=0,s=0 zoo
+<bot>Silurus pabda</bot> 3 gs=0,g=0,s=0 zoo
+<bot>Silurus pelorius</bot> 4 gs=0,g=0,s=0 zoo
+<bot>Silurus pungentissimus</bot> 1 gs=0,g=0,s=0 zoo
+<bot>Silurus singio</bot> 3 gs=0,g=0,s=0 zoo
+<bot>Sinus versus</bot> 3 gs=0,g=0,s=0 notbot math.
+<bot>Status gastricus</bot> 1 gs=0,g=0,s=0 notbot med.
+<bot>Sylvia sutoria</bot> 3 gs=0,g=0,s=0 zoo
+<bot>Syvia sutoria</bot> 1 gs=0,g=0,s=0 zoo sp. Sylvia
+<bot>Terminali bellerica</bot> 1 gs=0,g=0,s=0 bot sp. "Terminalia bellirica"
+<bot>Tora l.</bot> 1 gs=0,g=0,s=0 bot sp. "Cassia tora L."
+<bot>Trichopodus golisa</bot> 1 gs=0,g=0,s=0 zoo
+<bot>Trigonalla foenum graecum</bot> 1 gs=0,g=0,s=0 bot sp. "Trigonella foenum-graecum"
+<bot>Trigonilla foenum grecum</bot> 1 gs=0,g=0,s=0 bot sp. "Trigonella foenum-graecum"
+<bot>Trigonilla foenum</bot> 1 gs=0,g=0,s=0 bot sp. "Trigonella foenum-graecum"
+<bot>Trigonlla foenum</bot> 1 gs=0,g=0,s=0 bot sp. "Trigonella foenum-graecum"
+<bot>Ungius adoratus</bot> 1 gs=0,g=0,s=0 zoo
+<bot>Viverra ichmneumon</bot> 1 gs=0,g=0,s=0 zoo Viverra ichneumon 
+<bot>Viverra ichneumon</bot> 1 gs=0,g=0,s=0 zoo Viverra ichneumon 

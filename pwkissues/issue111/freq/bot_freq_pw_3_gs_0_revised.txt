@@ -1,0 +1,49 @@
+<bot>Adelia nereifolia</bot> 2 gs=0,g=76,s=2 bot sp. "Adelia neriifolia" print change
+<bot>Agathotes chirayta</bot> 7 gs=0,g=4,s=1 bot sp. "Agathotes chirayita" print change
+<bot>Agati grandiflorum Desv.</bot> 1 gs=0,g=10,s=636 bot sp. "Agati grandiflora Desv." print change
+<bot>Artocarpus integrifolia L.</bot> 1 gs=0,g=226,s=823 bot sp. "Artocarpus integrifolius L." print change
+<bot>Artocarpus integrifolia</bot> 10 gs=0,g=226,s=823 bot sp. "Artocarpus integrifolius" print change
+<bot>Arum macrorrhizum</bot> 1 gs=0,g=423,s=20 bot sp. "Arum macrorrhizon" print change
+<bot>Barleria coerulea</bot> 2 gs=0,g=620,s=244 bot sp. "Barleria caerulea" print change
+<bot>Boerhavia variegata</bot> 1 gs=0,g=297,s=440 bot sp. "Boerhavia virgata" print change
+<bot>Celsia cristata</bot> 1 gs=0,g=177,s=472 bot sp. "Celosia cristata" 
+<bot>Clypea hernandifolia Vahl</bot> 1 gs=0,g=21,s=2 bot sp. "Clypea hernandiifolia Vahl" print change
+<bot>Clypea hernandifolia W. u. A.</bot> 1 gs=0,g=21,s=2 bot sp. "Clypea hernandiifolia W. u. A." print change
+<bot>Clypea hernandifolia</bot> 30 gs=0,g=21,s=2 bot sp. "Clypea hernandiifolia" print change
+<bot>Commelina bengalensis</bot> 1 gs=0,g=742,s=73 bot sp. "Commelina benghalensis" print change
+<bot>Corydalis goveniana</bot> 1 gs=0,g=1361,s=21 bot sp. "Corydalis govaniana" print change
+<bot>Croton polyandra Roxb.</bot> 1 gs=0,g=2871,s=108 bot sp. "Croton polyandrus Roxb." print change
+<bot>Croton polyandrum Spr.</bot> 2 gs=0,g=2871,s=26 bot sp. "Croton polyandrus Spr." print change
+<bot>Croton polyandrum</bot> 33 gs=0,g=2871,s=26 bot sp. "Croton polyandrus" print change
+<bot>Curcuma xanthorrhiza</bot> 8 gs=0,g=213,s=2 bot sp. "Curcuma zanthorrhiza" print change
+<bot>Echites dichotoma</bot> 1 gs=0,g=510,s=645 bot sp. "Echites dichotomus" print change
+<bot>Eclipta prostata</bot> 1 gs=0,g=85,s=2 bot sp. "Eclipta prostrata"
+<bot>Erythraea centaureoides</bot> 2 gs=0,g=248,s=3 bot sp. "Erythraea centaurioides" print change
+<bot>Erythroxylon sideroxyloides</bot> 1 gs=0,g=1,s=23 bot sp. "Erythroxylum sideroxyloides" print change
+<bot>Gaertneria racemosa</bot> 1 gs=0,g=24,s=1274 bot sp. "Gaertnera racemosa"
+<bot>Gardenia latiflora</bot> 1 gs=0,g=519,s=60 bot sp. "Gardenia lateriflora" print change
+<bot>Gendarussa adhatoda</bot> 2 gs=0,g=58,s=4 bot sp. "Gendarussa adhadota" print change
+<bot>Gentiana chirata</bot> 4 gs=0,g=2454,s=1 bot sp. "Gentiana chirayita" print change
+<bot>Liquidambar orientale</bot> 2 gs=0,g=40,s=338 bot sp. "Liquidambar orientalis" print change
+<bot>Melilotus parviflora</bot> 1 gs=0,g=231,s=2041 bot sp. "Melilotus parviflorus" print change
+<bot>Nyctanthes arbor</bot> 11 gs=0,g=19,s=3 bot sp. "Nyctanthes arbor-tristis" print change  MANUAL
+<bot>Phaseolus mango</bot> 1 gs=0,g=1006,s=2 bot sp. "Phaseolus mungo" 
+<bot>Phoenix silvestris</bot> 1 gs=0,g=80,s=136 bot sp. "Phoenix sylvestris" print change
+<bot>Physalis flexuosus</bot> 1 gs=0,g=460,s=132 bot sp. "Physalis flexuosa" print change
+<bot>Premna langifolia</bot> 1 gs=0,g=428,s=1 bot sp. "Premna longifolia"
+<bot>Ptychotis ajowan</bot> 18 gs=0,g=44,s=3 bot sp. "Ptychotis ajawain" print change
+<bot>Sansevieria ceylanica Roxb.</bot> 1 gs=0,g=185,s=108 bot sp. "Sansevieria ceylonica Roxb." print change
+<bot>Sansevieria ceylanica</bot> 2 gs=0,g=185,s=108 bot sp. "Sansevieria ceylonica" print change
+<bot>Serratula anthelminthica</bot> 11 gs=0,g=389,s=10 bot sp. "Serratula anthelmintica" print change
+<bot>Sida rhomboides</bot> 3 gs=0,g=1439,s=5 bot sp. "Sida rhomboidea" print change
+<bot>Sinapis racemosa</bot> 1 gs=0,g=220,s=1274 bot sp. "Sinapis ramosa" print change
+<bot>Siphonanthus indica</bot> 1 gs=0,g=34,s=1027 bot sp. "Siphonanthus indicus" print change
+<bot>Terminalis altata</bot> 1 gs=0,g=19,s=1 bot sp. "Terminalia alata"
+<bot>Tithymalus antiquorum</bot> 9 gs=0,g=753,s=50 bot sp. "Tithymalus antiquorus" print change
+<bot>Trichosanthes dioeca Roxb.</bot> 1 gs=0,g=309,s=18 bot sp. "Trichosanthes dioica Roxb." print change
+<bot>Trichosanthes dioeca</bot> 34 gs=0,g=309,s=18 bot sp. "Trichosanthes dioica" print change
+<bot>Vallaris dichotomus Wall.</bot> 1 gs=0,g=31,s=112 bot sp. "Vallaris dichotoma Wall." print change
+<bot>Vallaris dichotomus</bot> 2 gs=0,g=31,s=112 bot sp. "Vallaris dichotoma" print change
+<bot>Vernonia anthelminthica Willd.</bot> 1 gs=0,g=2469,s=10 bot sp. "Vernonia anthelmintica Willd." print change
+<bot>Vernonia anthelminthica</bot> 33 gs=0,g=2469,s=10 bot sp. "Vernonia anthelmintica" print change
+<bot>Xanthoxylum alatum</bot> 1 gs=0,g=1,s=281 bot sp. "Zanthoxylum alatum" print change

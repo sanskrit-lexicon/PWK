@@ -1,0 +1,12 @@
+<bot>Amphidonax karka</bot> 9 gs=0,g=5,s=5
+<bot>Artemisia sternutatoria Roxb.</bot> 1 gs=0,g=2045,s=1
+<bot>Artemisia sternutatoria</bot> 5 gs=0,g=2045,s=1
+<bot>Basilicum pilosum Benth.</bot> 1 gs=0,g=6,s=338
+<bot>Chenopodium vasica</bot> 1 gs=0,g=1225,s=1
+<bot>Clerodendrum phlomoides</bot> 16 gs=0,g=993,s=87
+<bot>Cucumis sulcatus</bot> 1 gs=0,g=581,s=106
+<bot>Curcuma amhaldi</bot> 9 gs=0,g=213,s=0
+<bot>Daemia extensa</bot> 1 gs=0,g=0,s=92
+<bot>Schoenanthus indicus</bot> 1 gs=0,g=1,s=164
+<bot>Wrightia sirissa</bot> 1 gs=0,g=95,s=0
+<bot>Zanthoxylum hastile</bot> 2 gs=0,g=752,s=8

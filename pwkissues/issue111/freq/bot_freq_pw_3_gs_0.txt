@@ -1,0 +1,65 @@
+<bot>Acacia sirissa Buch</bot> 1 gs=0,g=3626,s=1  bot sp.
+<bot>Acacia sirissa</bot> 37 gs=0,g=3626,s=1  bot sp.
+<bot>Adelia nereifolia</bot> 2 gs=0,g=76,s=2  bot sp.
+<bot>Agathotes chirayta</bot> 7 gs=0,g=4,s=1  bot sp.
+<bot>Agati grandiflorum Desv.</bot> 1 gs=0,g=10,s=636  bot sp.
+<bot>Amphidonax karka</bot> 9 gs=0,g=5,s=5  bot sp.
+<bot>Artemisia sternutatoria Roxb.</bot> 1 gs=0,g=2045,s=1  bot sp.
+<bot>Artemisia sternutatoria</bot> 5 gs=0,g=2045,s=1  bot sp.
+<bot>Artocarpus integrifolia L.</bot> 1 gs=0,g=226,s=823  bot sp.
+<bot>Artocarpus integrifolia</bot> 10 gs=0,g=226,s=823  bot sp.
+<bot>Arum macrorrhizum</bot> 1 gs=0,g=423,s=20  bot sp.
+<bot>Barleria coerulea</bot> 2 gs=0,g=620,s=244  bot sp.
+<bot>Basilicum pilosum Benth.</bot> 1 gs=0,g=6,s=338  bot sp.
+<bot>Boerhavia variegata</bot> 1 gs=0,g=297,s=440  bot sp.
+<bot>Capparis ceylanica</bot> 1 gs=0,g=873,s=108  bot sp.
+<bot>Celsia cristata</bot> 1 gs=0,g=177,s=472  bot sp.
+<bot>Chenopodium vasica</bot> 1 gs=0,g=1225,s=1  bot sp.
+<bot>Clerodendrum phlomoides</bot> 16 gs=0,g=993,s=87  bot sp.
+<bot>Clypea hernandifolia Vahl</bot> 1 gs=0,g=21,s=2  bot sp.
+<bot>Clypea hernandifolia W. u. A.</bot> 1 gs=0,g=21,s=2  bot sp.
+<bot>Clypea hernandifolia</bot> 30 gs=0,g=21,s=2  bot sp.
+<bot>Commelina bengalensis</bot> 1 gs=0,g=742,s=73  bot sp.
+<bot>Corydalis goveniana</bot> 1 gs=0,g=1361,s=21  bot sp.
+<bot>Croton polyandra Roxb.</bot> 1 gs=0,g=2871,s=108  bot sp.
+<bot>Croton polyandrum Spr.</bot> 2 gs=0,g=2871,s=26  bot sp.
+<bot>Croton polyandrum</bot> 33 gs=0,g=2871,s=26  bot sp.
+<bot>Cucumis sulcatus</bot> 1 gs=0,g=581,s=106  bot sp.
+<bot>Curcuma amhaldi</bot> 9 gs=0,g=213,s=0  bot sp.
+<bot>Curcuma xanthorrhiza</bot> 8 gs=0,g=213,s=2  bot sp.
+<bot>Daemia extensa</bot> 1 gs=0,g=0,s=92  bot sp.
+<bot>Echites dichotoma</bot> 1 gs=0,g=510,s=645  bot sp.
+<bot>Eclipta prostata</bot> 1 gs=0,g=85,s=2  bot sp.
+<bot>Erythraea centaureoides</bot> 2 gs=0,g=248,s=3  bot sp.
+<bot>Erythroxylon sideroxyloides</bot> 1 gs=0,g=1,s=23  bot sp.
+<bot>Gaertneria racemosa</bot> 1 gs=0,g=24,s=1274  bot sp.
+<bot>Gardenia latiflora</bot> 1 gs=0,g=519,s=60  bot sp.
+<bot>Gendarussa adhatoda</bot> 2 gs=0,g=58,s=4  bot sp.
+<bot>Gentiana chirata</bot> 4 gs=0,g=2454,s=1  bot sp.
+<bot>Liquidambar orientale</bot> 2 gs=0,g=40,s=338  bot sp.
+<bot>Melilotus parviflora</bot> 1 gs=0,g=231,s=2041  bot sp.
+<bot>Nyctanthes arbor</bot> 11 gs=0,g=19,s=3  bot sp.
+<bot>Phaseolus mango</bot> 1 gs=0,g=1006,s=2  bot sp.
+<bot>Phlomis ceylanica</bot> 2 gs=0,g=414,s=108  bot sp.
+<bot>Phoenix silvestris</bot> 1 gs=0,g=80,s=136  bot sp.
+<bot>Physalis flexuosus</bot> 1 gs=0,g=460,s=132  bot sp.
+<bot>Premna langifolia</bot> 1 gs=0,g=428,s=1  bot sp.
+<bot>Ptychotis ajowan</bot> 18 gs=0,g=44,s=3  bot sp.
+<bot>Sansevieria ceylanica Roxb.</bot> 1 gs=0,g=185,s=108  bot sp.
+<bot>Sansevieria ceylanica</bot> 2 gs=0,g=185,s=108  bot sp.
+<bot>Schoenanthus indicus</bot> 1 gs=0,g=1,s=164  bot sp.
+<bot>Serratula anthelminthica</bot> 11 gs=0,g=389,s=10  bot sp.
+<bot>Sida rhomboides</bot> 3 gs=0,g=1439,s=5  bot sp.
+<bot>Sinapis racemosa</bot> 1 gs=0,g=220,s=1274  bot sp.
+<bot>Siphonanthus indica</bot> 1 gs=0,g=34,s=1027  bot sp.
+<bot>Terminalis altata</bot> 1 gs=0,g=19,s=1  bot sp.
+<bot>Tithymalus antiquorum</bot> 9 gs=0,g=753,s=50  bot sp.
+<bot>Trichosanthes dioeca Roxb.</bot> 1 gs=0,g=309,s=18  bot sp.
+<bot>Trichosanthes dioeca</bot> 34 gs=0,g=309,s=18  bot sp.
+<bot>Vallaris dichotomus Wall.</bot> 1 gs=0,g=31,s=112  bot sp.
+<bot>Vallaris dichotomus</bot> 2 gs=0,g=31,s=112  bot sp.
+<bot>Vernonia anthelminthica Willd.</bot> 1 gs=0,g=2469,s=10  bot sp.
+<bot>Vernonia anthelminthica</bot> 33 gs=0,g=2469,s=10  bot sp.
+<bot>Wrightia sirissa</bot> 1 gs=0,g=95,s=1  bot sp.
+<bot>Xanthoxylum alatum</bot> 1 gs=0,g=1,s=281  bot sp.
+<bot>Zanthoxylum hastile</bot> 2 gs=0,g=752,s=8  bot sp.

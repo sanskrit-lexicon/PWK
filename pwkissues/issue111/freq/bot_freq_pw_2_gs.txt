@@ -1,0 +1,1301 @@
+<bot>Abelmoschus esculentus W. und A.</bot> 1 gs=1,g=121,s=51
+<bot>Abelmoschus esculentus</bot> 7 gs=1,g=121,s=51
+<bot>Abrus precatorius</bot> 49 gs=11,g=71,s=13
+<bot>Acacia arabica</bot> 19 gs=10,g=3626,s=374
+<bot>Acacia catechu Willd.</bot> 2 gs=12,g=3626,s=22
+<bot>Acacia catechu</bot> 51 gs=12,g=3626,s=22
+<bot>Acacia concinna</bot> 5 gs=4,g=3626,s=417
+<bot>Acacia farnesiana</bot> 2 gs=13,g=3626,s=28
+<bot>Acacia sirissa Buch.</bot> 1 gs=0,g=3626,s=1
+<bot>Acacia sirissa</bot> 37 gs=0,g=3626,s=1
+<bot>Acampe papillosa</bot> 1 gs=2,g=36,s=247
+<bot>Achyranthes aquatica</bot> 3 gs=1,g=366,s=571
+<bot>Achyranthes aspera</bot> 47 gs=34,g=366,s=758
+<bot>Achyranthes atropurpurea</bot> 4 gs=1,g=366,s=453
+<bot>Achyranthes triandra</bot> 6 gs=1,g=366,s=211
+<bot>Aconitum ferox Wall.</bot> 1 gs=9,g=1935,s=254
+<bot>Aconitum ferox</bot> 12 gs=9,g=1935,s=254
+<bot>Aconitum heterophyllum</bot> 3 gs=4,g=1935,s=356
+<bot>Acorus calamus</bot> 7 gs=12,g=53,s=14
+<bot>Acyranthes triandra</bot> 1 gs=0,g=0,s=211
+<bot>Adeanthera pavonina</bot> 1 gs=0,g=0,s=14
+<bot>Adelia nereifolia</bot> 2 gs=0,g=76,s=2
+<bot>Adhadota vasica</bot> 1 gs=0,g=0,s=1
+<bot>Adhatoda vasica Nees</bot> 1 gs=1,g=153,s=1
+<bot>Adhatoda vasica</bot> 5 gs=1,g=153,s=1
+<bot>Aegle marmelos</bot> 53 gs=3,g=11,s=6
+<bot>Aeschynomene sesban</bot> 1 gs=2,g=488,s=15
+<bot>Aethiops mineralis</bot> 1 gs=0,g=0,s=0
+<bot>Aethum graveolens</bot> 1 gs=0,g=0,s=422
+<bot>Agathotes chirayt</bot> 1 gs=0,g=4,s=0
+<bot>Agathotes chirayta</bot> 6 gs=0,g=4,s=1
+<bot>Agati grandiflora Desc.</bot> 1 gs=3,g=10,s=2068
+<bot>Agati grandiflora</bot> 33 gs=3,g=10,s=2068
+<bot>Agati grandiflorum Desv.</bot> 1 gs=0,g=10,s=636
+<bot>Aglaia odeorata</bot> 1 gs=0,g=542,s=0
+<bot>Aglaia odorata</bot> 3 gs=3,g=542,s=735
+<bot>Aglaia roxburghiana</bot> 1 gs=7,g=542,s=108
+<bot>Agrostis linearis L.</bot> 1 gs=1,g=2008,s=1012
+<bot>Alangium decapetalum</bot> 4 gs=1,g=180,s=1
+<bot>Alangium hexapetalum</bot> 20 gs=1,g=180,s=7
+<bot>Alangu hexapetalum</bot> 1 gs=0,g=0,s=7
+<bot>Alhage maurorum</bot> 2 gs=0,g=0,s=22
+<bot>Alhagi maurorum Tournef.</bot> 2 gs=9,g=34,s=22
+<bot>Alhagi maurorum</bot> 46 gs=9,g=34,s=22
+<bot>Alhagi murorum</bot> 1 gs=0,g=34,s=667
+<bot>Alhagi murrorum</bot> 1 gs=0,g=34,s=0
+<bot>Allium ascalonicum</bot> 5 gs=7,g=3018,s=8
+<bot>Aloe indica Royle</bot> 2 gs=1,g=1521,s=1027
+<bot>Aloe indica</bot> 8 gs=1,g=1521,s=1027
+<bot>Aloe perfoliata L.</bot> 1 gs=19,g=1521,s=228
+<bot>Aloe perfoliata</bot> 17 gs=19,g=1521,s=228
+<bot>Alpinia galanga</bot> 5 gs=2,g=517,s=8
+<bot>Alpinia nutans</bot> 8 gs=4,g=517,s=916
+<bot>Alstonia scholaris R. Br.</bot> 1 gs=4,g=157,s=8
+<bot>Alstonia scholaris</bot> 36 gs=4,g=157,s=8
+<bot>Amaranthus oleraceus</bot> 4 gs=3,g=664,s=35
+<bot>Amaranthus polygamus L.</bot> 1 gs=2,g=664,s=19
+<bot>Amaranthus polygamus</bot> 3 gs=2,g=664,s=19
+<bot>Amaranthus polygonoides</bot> 13 gs=6,g=664,s=153
+<bot>Amaryllis zeylanica</bot> 1 gs=1,g=592,s=355
+<bot>Amomum subulatum</bot> 1 gs=1,g=485,s=127
+<bot>Amomum zingiber</bot> 1 gs=1,g=485,s=3
+<bot>Amoora rohitaka</bot> 2 gs=0,g=81,s=0
+<bot>Amorphophallus campanulatus Bl.</bot> 1 gs=3,g=379,s=72
+<bot>Amorphophallus campanulatus</bot> 16 gs=3,g=379,s=72
+<bot>Amorphophallus companulatus</bot> 1 gs=0,g=379,s=0
+<bot>Amorphophallus compunilatus</bot> 1 gs=0,g=379,s=0
+<bot>Amphidonax karka</bot> 9 gs=0,g=5,s=5
+<bot>Amranthus polygonoides</bot> 1 gs=0,g=0,s=153
+<bot>Amyris agallocha</bot> 4 gs=1,g=152,s=16
+<bot>Anacardium officinarum</bot> 1 gs=1,g=44,s=122
+<bot>Anas casarca</bot> 33 gs=0,g=0,s=0
+<bot>Anderopogon bicolor</bot> 1 gs=0,g=0,s=1392
+<bot>Anderopogon schoenanthus</bot> 1 gs=0,g=0,s=21
+<bot>Andersonia rohitaka</bot> 20 gs=0,g=66,s=0
+<bot>Andrographis paniculata</bot> 6 gs=2,g=58,s=1564
+<bot>Andropogon aciculatus</bot> 22 gs=1,g=1837,s=13
+<bot>Andropogon bicolor</bot> 11 gs=2,g=1837,s=1392
+<bot>Andropogon jawarancusa</bot> 1 gs=0,g=1837,s=0
+<bot>Andropogon muricatus</bot> 48 gs=2,g=1837,s=103
+<bot>Andropogon saccharatus</bot> 2 gs=1,g=1837,s=5
+<bot>Andropogon schoenanthus</bot> 15 gs=11,g=1837,s=21
+<bot>Andropogon serratus</bot> 6 gs=6,g=1837,s=104
+<bot>Andropogon sorghum</bot> 2 gs=123,g=1837,s=140
+<bot>Anemis pyrethrum</bot> 1 gs=0,g=0,s=9
+<bot>Anethum dill</bot> 2 gs=0,g=47,s=0
+<bot>Anethum graveolens</bot> 4 gs=15,g=47,s=422
+<bot>Anethum panmori</bot> 5 gs=1,g=47,s=1
+<bot>Anethum panmorium</bot> 6 gs=1,g=47,s=2
+<bot>Anethum sowa Roxb.</bot> 2 gs=1,g=47,s=2
+<bot>Anethum sowa</bot> 35 gs=1,g=47,s=2
+<bot>Anogeissus latifolia</bot> 8 gs=5,g=31,s=2091
+<bot>Anona reticulata</bot> 6 gs=0,g=0,s=980
+<bot>Anona squamosa</bot> 2 gs=0,g=0,s=137
+<bot>Anthemis pyrethrum</bot> 1 gs=2,g=908,s=9
+<bot>Anthericum tuberosum</bot> 11 gs=3,g=690,s=345
+<bot>Apium involucratum</bot> 5 gs=1,g=228,s=124
+<bot>Aprus precatorius</bot> 1 gs=0,g=0,s=13
+<bot>Aquilaria agallocha</bot> 1 gs=2,g=47,s=16
+<bot>Ardea nivea</bot> 1 gs=0,g=0,s=503
+<bot>Ardisia humilis</bot> 2 gs=5,g=1612,s=1616
+<bot>Ardisia solanacea</bot> 3 gs=4,g=1612,s=32
+<bot>Areca catechu</bot> 2 gs=7,g=194,s=22
+<bot>Areca faufel Gaertn.</bot> 1 gs=1,g=194,s=1
+<bot>Areca faufel</bot> 2 gs=1,g=194,s=1
+<bot>Areca triandra</bot> 3 gs=5,g=194,s=211
+<bot>Argemone mexicana</bot> 1 gs=27,g=141,s=1067
+<bot>Argyreia argentea Sweet</bot> 1 gs=2,g=247,s=880
+<bot>Argyreia argentea</bot> 16 gs=2,g=247,s=880
+<bot>Argyreia speciosa</bot> 22 gs=1,g=247,s=1324
+<bot>Aristolochia indica</bot> 3 gs=4,g=1079,s=1027
+<bot>Aristologhia indica</bot> 1 gs=0,g=0,s=1027
+<bot>Arsenicum flavum</bot> 1 gs=0,g=0,s=309
+<bot>Artemisia abrotanum</bot> 3 gs=1,g=2045,s=2
+<bot>Artemisia indica</bot> 20 gs=10,g=2045,s=1027
+<bot>Artemisia sternutatoria Roxb.</bot> 1 gs=0,g=2045,s=1
+<bot>Artemisia sternutatoria</bot> 5 gs=0,g=2045,s=1
+<bot>Artemisia vulgaris</bot> 10 gs=76,g=2045,s=2906
+<bot>Arthocarpus locucha</bot> 1 gs=0,g=0,s=0
+<bot>Artocarpus integrifolia L.</bot> 1 gs=0,g=226,s=823
+<bot>Artocarpus integrifolia</bot> 10 gs=0,g=226,s=823
+<bot>Artocarpus lacucha Roxb.</bot> 1 gs=1,g=226,s=1
+<bot>Artocarpus lacucha</bot> 4 gs=1,g=226,s=1
+<bot>Artocarpus locucha</bot> 13 gs=0,g=226,s=0
+<bot>Artocarpus locutscha Roxb.</bot> 2 gs=0,g=226,s=0
+<bot>Arum campanulatum Roxb.</bot> 1 gs=1,g=423,s=129
+<bot>Arum campanulatum</bot> 4 gs=1,g=423,s=129
+<bot>Arum colocasia</bot> 5 gs=1,g=423,s=4
+<bot>Arum indicum</bot> 5 gs=1,g=423,s=413
+<bot>Arum macrorrhizum</bot> 1 gs=0,g=423,s=20
+<bot>Arum orixense</bot> 2 gs=2,g=423,s=7
+<bot>Arundo bengalensis</bot> 5 gs=1,g=298,s=73
+<bot>Arundo tibialis</bot> 1 gs=1,g=298,s=3
+<bot>Asa foetida</bot> 41 gs=0,g=0,s=454
+<bot>Asclepias curassavica</bot> 1 gs=6,g=825,s=45
+<bot>Asclepias echinata</bot> 1 gs=3,g=825,s=293
+<bot>Asclepias geminata</bot> 1 gs=1,g=825,s=133
+<bot>Asclepias gigantea</bot> 4 gs=2,g=825,s=686
+<bot>Asclepias lactifera</bot> 1 gs=1,g=825,s=7
+<bot>Asclepias rosca</bot> 1 gs=0,g=825,s=0
+<bot>Aseracantha longifolia</bot> 1 gs=0,g=0,s=2056
+<bot>Asparagus racemosus Willd.</bot> 4 gs=7,g=577,s=233
+<bot>Asparagus racemosus</bot> 65 gs=7,g=577,s=233
+<bot>Aspargus racemosus</bot> 1 gs=0,g=0,s=233
+<bot>Asteracantha longifolia Nees</bot> 4 gs=1,g=5,s=2056
+<bot>Asteracantha longifolia</bot> 62 gs=1,g=5,s=2056
+<bot>Authericum tuberosum</bot> 1 gs=0,g=0,s=345
+<bot>Averrhoa acida</bot> 4 gs=1,g=15,s=59
+<bot>Averrhoa carambola</bot> 14 gs=1,g=15,s=1
+<bot>Averrhoa corambola</bot> 3 gs=0,g=15,s=0
+<bot>Azadirachta indica A. Juss.</bot> 2 gs=4,g=8,s=1027
+<bot>Azadirachta indica Juss.</bot> 1 gs=4,g=8,s=1027
+<bot>Azadirachta indica</bot> 34 gs=4,g=8,s=1027
+<bot>Azadriachta indica</bot> 1 gs=0,g=0,s=1027
+<bot>Balanites indica</bot> 1 gs=1,g=57,s=1027
+<bot>Balanites roxburghii</bot> 3 gs=2,g=57,s=297
+<bot>Bambax heptaphyllum</bot> 1 gs=0,g=0,s=25
+<bot>Bambus spinosa</bot> 1 gs=0,g=0,s=988
+<bot>Bambusa spinosa Hamilt. Roxb.</bot> 1 gs=2,g=575,s=988
+<bot>Bambusa spinosa</bot> 4 gs=2,g=575,s=988
+<bot>Barleria caerulea Roxb.</bot> 1 gs=1,g=620,s=479
+<bot>Barleria caerulea</bot> 6 gs=1,g=620,s=479
+<bot>Barleria coerulea</bot> 2 gs=0,g=620,s=244
+<bot>Barleria cristata</bot> 5 gs=6,g=620,s=472
+<bot>Barleria priontis</bot> 1 gs=0,g=620,s=0
+<bot>Barringtonia acutangula Gaertn.</bot> 4 gs=3,g=213,s=128
+<bot>Barringtonia acutangula</bot> 14 gs=3,g=213,s=128
+<bot>Basella cordifolia Lam.</bot> 4 gs=1,g=36,s=858
+<bot>Basella cordifolia</bot> 4 gs=1,g=36,s=858
+<bot>Basella lucida</bot> 5 gs=1,g=36,s=730
+<bot>Basella rubra</bot> 6 gs=2,g=36,s=1088
+<bot>Basilicum pilosum Benth.</bot> 1 gs=0,g=6,s=338
+<bot>Bassia latifolia</bot> 20 gs=2,g=272,s=2091
+<bot>Batata edulis</bot> 1 gs=0,g=0,s=479
+<bot>Batatas edulis</bot> 5 gs=6,g=57,s=479
+<bot>Batatas paniculata Chois.</bot> 3 gs=1,g=57,s=1564
+<bot>Batatas paniculata</bot> 25 gs=1,g=57,s=1564
+<bot>Bauhinia candida</bot> 2 gs=2,g=986,s=333
+<bot>Bauhinia purpurea</bot> 1 gs=4,g=986,s=1339
+<bot>Bauhinia tomentosa</bot> 13 gs=5,g=986,s=2038
+<bot>Bauhinia variegata</bot> 41 gs=7,g=986,s=440
+<bot>Beninkasa cerifera</bot> 20 gs=0,g=0,s=50
+<bot>Berberis asiatica</bot> 2 gs=3,g=1552,s=227
+<bot>Beta bengalensis</bot> 18 gs=1,g=164,s=73
+<bot>Betula bhojpatra</bot> 29 gs=0,g=1097,s=0
+<bot>Bignonia chelonoides</bot> 4 gs=1,g=605,s=15
+<bot>Bignonia indica</bot> 19 gs=2,g=605,s=1027
+<bot>Bignonia suaveolens Roxb.</bot> 1 gs=1,g=605,s=689
+<bot>Bignonia suaveolens</bot> 58 gs=1,g=605,s=689
+<bot>Bigonia indica</bot> 1 gs=0,g=0,s=1027
+<bot>Blumea lacera DC.</bot> 1 gs=10,g=349,s=109
+<bot>Blumea lacera</bot> 6 gs=10,g=349,s=109
+<bot>Blyxa octandra belet</bot> 1 gs=1,g=44,s=105
+<bot>Blyxa octandra Rich.</bot> 3 gs=1,g=44,s=105
+<bot>Blyxa octandra</bot> 30 gs=1,g=44,s=105
+<bot>Blyxa saivala</bot> 3 gs=1,g=44,s=1
+<bot>Boa constrictor</bot> 1 gs=0,g=0,s=0
+<bot>Boerhavia diffusa</bot> 2 gs=28,g=297,s=739
+<bot>Boerhavia erecta</bot> 1 gs=4,g=297,s=663
+<bot>Boerhavia procumbens</bot> 22 gs=1,g=297,s=896
+<bot>Boerhavia variegata</bot> 1 gs=0,g=297,s=440
+<bot>Bola cuja</bot> 1 gs=0,g=0,s=0
+<bot>Bombax heptaphyllum</bot> 15 gs=2,g=212,s=25
+<bot>Borassus flabelliformis L.</bot> 1 gs=1,g=24,s=67
+<bot>Borassus flabelliformis</bot> 5 gs=1,g=24,s=67
+<bot>Bos gaurus</bot> 6 gs=0,g=0,s=0
+<bot>Bos gavaeus</bot> 15 gs=0,g=0,s=0
+<bot>Bos grunniens</bot> 15 gs=0,g=0,s=0
+<bot>Boswelli thurifera</bot> 1 gs=0,g=0,s=34
+<bot>Boswellia serrata Stackh.</bot> 1 gs=3,g=52,s=713
+<bot>Boswellia serrata</bot> 2 gs=3,g=52,s=713
+<bot>Boswellia thurifera</bot> 39 gs=1,g=52,s=34
+<bot>Bryonia grandis</bot> 1 gs=1,g=214,s=761
+<bot>Buchanania latifolia Roxb.</bot> 1 gs=1,g=99,s=2091
+<bot>Buchanania latifolia</bot> 30 gs=1,g=99,s=2091
+<bot>Butea frondosa</bot> 62 gs=1,g=45,s=165
+<bot>Cactus indicus</bot> 4 gs=1,g=676,s=164
+<bot>Cactus opuntia</bot> 6 gs=10,g=676,s=20
+<bot>Caesalpina banducella</bot> 1 gs=0,g=0,s=0
+<bot>Caesalpina bonducella</bot> 5 gs=0,g=0,s=6
+<bot>Caesalpina sappan</bot> 8 gs=0,g=0,s=2
+<bot>Caesalpinia pulcherrima</bot> 1 gs=3,g=433,s=349
+<bot>Caesalpinia sappan</bot> 6 gs=1,g=433,s=2
+<bot>Cajanus indicus Spreng.</bot> 1 gs=4,g=68,s=164
+<bot>Cajanus indicus</bot> 5 gs=4,g=68,s=164
+<bot>Calamus fasciculatus</bot> 2 gs=5,g=1002,s=137
+<bot>Calamus rotang</bot> 34 gs=1,g=1002,s=2
+<bot>Calophyllum inophyllum</bot> 1 gs=5,g=390,s=15
+<bot>Calosanthes indica Bl.</bot> 1 gs=1,g=2,s=1027
+<bot>Calosanthes indica</bot> 20 gs=1,g=2,s=1027
+<bot>Calosia cristata</bot> 1 gs=0,g=0,s=472
+<bot>Calotrapis gigantea</bot> 1 gs=0,g=0,s=686
+<bot>Calotropis gigantea alba</bot> 3 gs=2,g=15,s=686
+<bot>Calotropis gigantea</bot> 68 gs=2,g=15,s=686
+<bot>Calotropis giganten</bot> 1 gs=0,g=15,s=0
+<bot>Calumus rotang</bot> 1 gs=0,g=0,s=2
+<bot>Calvosanthes indica</bot> 1 gs=0,g=0,s=1027
+<bot>Canna indica</bot> 1 gs=19,g=248,s=1027
+<bot>Cannabis sativa</bot> 6 gs=21,g=37,s=929
+<bot>Canscora decussata</bot> 1 gs=1,g=51,s=146
+<bot>Capparis aphylla</bot> 14 gs=1,g=873,s=248
+<bot>Capparis ceylanica</bot> 1 gs=0,g=873,s=108
+<bot>Capparis divaricata</bot> 1 gs=1,g=873,s=830
+<bot>Capparis sepiaria</bot> 6 gs=12,g=873,s=45
+<bot>Capparis sepiarioa</bot> 1 gs=0,g=873,s=0
+<bot>Capparis sepiarla</bot> 1 gs=0,g=873,s=0
+<bot>Capparis sepiartia</bot> 1 gs=0,g=873,s=0
+<bot>Capparis spinosa L.</bot> 3 gs=40,g=873,s=988
+<bot>Capparis trifliata</bot> 1 gs=0,g=873,s=0
+<bot>Capparis trifoliata</bot> 6 gs=2,g=873,s=304
+<bot>Cardiospermum halicabum</bot> 1 gs=0,g=95,s=0
+<bot>Cardiospermum halicacabum Lin.</bot> 1 gs=4,g=95,s=7
+<bot>Cardiospermum halicacabum</bot> 40 gs=4,g=95,s=7
+<bot>Careya arborea</bot> 12 gs=2,g=15,s=582
+<bot>Carissa carandas L.</bot> 1 gs=5,g=118,s=8
+<bot>Carissa carandas Lin.</bot> 1 gs=5,g=118,s=8
+<bot>Carissa carandas</bot> 17 gs=5,g=118,s=8
+<bot>Carissa carnadas</bot> 1 gs=0,g=118,s=0
+<bot>Carpopogon prurens</bot> 1 gs=0,g=10,s=0
+<bot>Carpopogon pruriens</bot> 23 gs=1,g=10,s=66
+<bot>Carpopogon prurtens</bot> 1 gs=0,g=10,s=0
+<bot>Carrissa carandas</bot> 1 gs=0,g=0,s=8
+<bot>Carthamus tinctorius L.</bot> 1 gs=2,g=131,s=29
+<bot>Carthamus tinctorius</bot> 7 gs=2,g=131,s=29
+<bot>Carum carvi</bot> 4 gs=9,g=293,s=18
+<bot>Caruncula lacrymalis</bot> 1 gs=0,g=0,s=0
+<bot>Caryota urens</bot> 6 gs=1,g=57,s=148
+<bot>Cassalpina banducella</bot> 1 gs=0,g=0,s=0
+<bot>Cassia alata</bot> 6 gs=3,g=1728,s=657
+<bot>Cassia auriculata</bot> 3 gs=1,g=1728,s=559
+<bot>Cassia fistula</bot> 18 gs=2,g=1728,s=5
+<bot>Cassia senna</bot> 2 gs=3,g=1728,s=18
+<bot>Cassia sophora</bot> 10 gs=0,g=1728,s=0
+<bot>Cassia tora</bot> 26 gs=4,g=1728,s=9
+<bot>Cassyta filiformis L.</bot> 2 gs=0,g=0,s=823
+<bot>Cassyta filiformis</bot> 3 gs=0,g=0,s=823
+<bot>Cathartocarpus fistula</bot> 30 gs=1,g=25,s=5
+<bot>Caucumis utilissimus</bot> 1 gs=0,g=0,s=2
+<bot>Cauterium actuale</bot> 1 gs=0,g=0,s=0
+<bot>Cauterium potentiale</bot> 1 gs=0,g=0,s=0
+<bot>Cedrela toona</bot> 18 gs=26,g=155,s=31
+<bot>Celastrus paniculatus</bot> 1 gs=9,g=411,s=231
+<bot>Celeia coromandelina</bot> 1 gs=0,g=0,s=22
+<bot>Celosia cristata</bot> 12 gs=3,g=223,s=472
+<bot>Celosia eristata</bot> 1 gs=0,g=223,s=0
+<bot>Celosia tristata</bot> 1 gs=0,g=223,s=0
+<bot>Celsia cristata</bot> 1 gs=0,g=177,s=472
+<bot>Celtis orientalis</bot> 1 gs=1,g=453,s=992
+<bot>Centropus pyropterus</bot> 1 gs=0,g=0,s=0
+<bot>Cerasus puddum</bot> 12 gs=1,g=743,s=8
+<bot>Cerausus pudum</bot> 1 gs=0,g=0,s=0
+<bot>Cerazus puddum</bot> 1 gs=0,g=0,s=8
+<bot>Cesalpina sappan</bot> 1 gs=0,g=0,s=2
+<bot>Chenopodium album</bot> 4 gs=123,g=1225,s=487
+<bot>Chenopodium vasica</bot> 1 gs=0,g=1225,s=1
+<bot>Chloroxylon swietenia</bot> 2 gs=1,g=6,s=1
+<bot>Chrysanthemum indicum</bot> 2 gs=18,g=744,s=413
+<bot>Chrysopogon acicularis</bot> 1 gs=1,g=133,s=242
+<bot>Chrysopogon aciculatus</bot> 5 gs=4,g=133,s=13
+<bot>Cicca disticha</bot> 1 gs=1,g=35,s=300
+<bot>Cicer arietinum</bot> 1 gs=16,g=112,s=27
+<bot>Cicer lens</bot> 2 gs=1,g=112,s=15
+<bot>Cinnamomum albiflorum</bot> 1 gs=4,g=754,s=129
+<bot>Cissampelos hexandra</bot> 1 gs=1,g=212,s=182
+<bot>Cissus pedata</bot> 15 gs=3,g=1115,s=161
+<bot>Cissus quadrangularis</bot> 2 gs=4,g=1115,s=195
+<bot>Citrus acida</bot> 1 gs=2,g=724,s=59
+<bot>Citrus aurantium</bot> 1 gs=126,g=724,s=142
+<bot>Citrus decumana</bot> 2 gs=5,g=724,s=15
+<bot>Citrus medica L.</bot> 1 gs=35,g=724,s=52
+<bot>Citrus medica</bot> 6 gs=35,g=724,s=52
+<bot>Cittoria ternatca</bot> 1 gs=0,g=0,s=0
+<bot>Cleome felina</bot> 3 gs=1,g=608,s=19
+<bot>Cleome pentaphylla</bot> 2 gs=3,g=608,s=177
+<bot>Clerdendrum siphonanthus</bot> 2 gs=0,g=0,s=4
+<bot>Clerodendrum phlomoides</bot> 16 gs=0,g=993,s=87
+<bot>Clerodendrum sinhonnthus</bot> 1 gs=0,g=993,s=0
+<bot>Clerodendrum siphoananthus R. Br.</bot> 1 gs=0,g=993,s=0
+<bot>Clerodendrum siphoanathus</bot> 1 gs=0,g=993,s=0
+<bot>Clerodendrum siphonanthus R. Br.</bot> 2 gs=2,g=993,s=4
+<bot>Clerodendrum siphonanthus</bot> 35 gs=2,g=993,s=4
+<bot>Clerodendrum siphonantus</bot> 1 gs=0,g=993,s=0
+<bot>Clerodendrum siphonathus</bot> 1 gs=0,g=993,s=0
+<bot>Clerodendrum siphononthus</bot> 1 gs=0,g=993,s=0
+<bot>Clerodendrum siponanthus</bot> 1 gs=0,g=993,s=0
+<bot>Clerodenrum siphonanthus</bot> 1 gs=0,g=0,s=4
+<bot>Clerodenrum siphonantus</bot> 1 gs=0,g=0,s=0
+<bot>Clitoria ternatea L.</bot> 1 gs=13,g=240,s=21
+<bot>Clitoria ternatea Lin.</bot> 2 gs=13,g=240,s=21
+<bot>Clitoria ternatea</bot> 40 gs=13,g=240,s=21
+<bot>Clitroia ternatea</bot> 1 gs=0,g=0,s=21
+<bot>Clupea alosa</bot> 6 gs=0,g=0,s=0
+<bot>Clycine debilis</bot> 4 gs=0,g=0,s=523
+<bot>Clypa hernandifolia</bot> 1 gs=0,g=0,s=2
+<bot>Clypea hermandifolia</bot> 1 gs=0,g=21,s=0
+<bot>Clypea hernandifolia Vahl.</bot> 1 gs=0,g=21,s=2
+<bot>Clypea hernandifolia W. u. A.</bot> 1 gs=0,g=21,s=2
+<bot>Clypea hernandifolia</bot> 28 gs=0,g=21,s=2
+<bot>Cnidium diffusum</bot> 1 gs=1,g=91,s=202
+<bot>Coccinia grandis W. u. A.</bot> 2 gs=3,g=93,s=761
+<bot>Coccinia grandis</bot> 4 gs=3,g=93,s=761
+<bot>Cocculus cordifolius DC.</bot> 5 gs=1,g=166,s=117
+<bot>Cocculus cordifolius</bot> 54 gs=1,g=166,s=117
+<bot>Cocculus tomentosus</bot> 8 gs=2,g=166,s=343
+<bot>Coelogyne ovalis</bot> 1 gs=1,g=869,s=376
+<bot>Coix barbata</bot> 13 gs=1,g=56,s=628
+<bot>Cojanus indicus</bot> 1 gs=0,g=0,s=164
+<bot>Cojus cobojus</bot> 2 gs=0,g=0,s=0
+<bot>Colamus rotang</bot> 1 gs=0,g=0,s=2
+<bot>Colcus amboinicus</bot> 1 gs=0,g=0,s=7
+<bot>Coleus scutellarioides Benth.</bot> 2 gs=14,g=612,s=45
+<bot>Coleus scutellaroides</bot> 1 gs=0,g=612,s=0
+<bot>Colocasia antiquorum</bot> 7 gs=20,g=109,s=50
+<bot>Colosanthes indica Bl.</bot> 1 gs=0,g=0,s=1027
+<bot>Colosanthes indica</bot> 1 gs=0,g=0,s=1027
+<bot>Colotropis gigantea</bot> 1 gs=0,g=0,s=686
+<bot>Columba hariola</bot> 2 gs=0,g=0,s=0
+<bot>Columba hurriyala</bot> 1 gs=0,g=0,s=0
+<bot>Commelina bengalensis</bot> 1 gs=0,g=742,s=73
+<bot>Commelina salicifolia</bot> 14 gs=3,g=742,s=727
+<bot>Comphrena globosa</bot> 1 gs=0,g=0,s=388
+<bot>Convolulus turpethum</bot> 1 gs=0,g=0,s=10
+<bot>Convolvulus argentens</bot> 1 gs=0,g=1844,s=0
+<bot>Convolvulus argenteus</bot> 4 gs=4,g=1844,s=222
+<bot>Convolvulus paniculatus</bot> 2 gs=4,g=1844,s=231
+<bot>Convolvulus repens</bot> 5 gs=2,g=1844,s=1497
+<bot>Convolvulus trupethum</bot> 1 gs=0,g=1844,s=0
+<bot>Convolvulus turpethum</bot> 8 gs=1,g=1844,s=10
+<bot>Conyza lacera</bot> 2 gs=1,g=805,s=109
+<bot>Coracias indica</bot> 4 gs=0,g=0,s=1027
+<bot>Corcharus editorius</bot> 1 gs=0,g=0,s=0
+<bot>Corchorus capsularis</bot> 2 gs=1,g=229,s=26
+<bot>Corchorus olitorius Lin.</bot> 1 gs=5,g=229,s=6
+<bot>Corchorus olitorius</bot> 2 gs=5,g=229,s=6
+<bot>Cordia latifolia</bot> 12 gs=3,g=873,s=2091
+<bot>Cordia myxa</bot> 18 gs=3,g=873,s=5
+<bot>Cordiospermum halicacabumm</bot> 1 gs=0,g=0,s=0
+<bot>Coriandrum sativum L.</bot> 1 gs=14,g=34,s=305
+<bot>Coriandrum sativum</bot> 2 gs=14,g=34,s=305
+<bot>Corydalis goveniana</bot> 1 gs=0,g=1361,s=21
+<bot>Corypha taliera</bot> 4 gs=1,g=48,s=1
+<bot>Corypha umbraculifera</bot> 1 gs=2,g=48,s=33
+<bot>Costus arabicus</bot> 47 gs=1,g=301,s=62
+<bot>Costus speciosus</bot> 57 gs=10,g=301,s=253
+<bot>Crataeva religiosa</bot> 1 gs=0,g=0,s=40
+<bot>Crataeva roxburghii R. Br.</bot> 2 gs=0,g=0,s=297
+<bot>Crataeva roxburghii</bot> 19 gs=0,g=0,s=297
+<bot>Crataeva roxburghis</bot> 1 gs=0,g=0,s=0
+<bot>Crataeva roxburgii</bot> 1 gs=0,g=0,s=0
+<bot>Crislea tomentosa</bot> 1 gs=0,g=0,s=2038
+<bot>Crissa carandas</bot> 1 gs=0,g=0,s=8
+<bot>Crocus sativus</bot> 2 gs=12,g=900,s=202
+<bot>Crotolaria juncea</bot> 8 gs=0,g=0,s=419
+<bot>Crotolaria verrucosa</bot> 1 gs=0,g=0,s=435
+<bot>Crotom polyandrum</bot> 1 gs=0,g=0,s=26
+<bot>Croton jamalgota</bot> 12 gs=1,g=2871,s=1
+<bot>Croton jamlagota</bot> 1 gs=0,g=2871,s=0
+<bot>Croton polyandra Roxb.</bot> 1 gs=0,g=2871,s=108
+<bot>Croton polyandrum Spr.</bot> 2 gs=0,g=2871,s=26
+<bot>Croton polyandrum</bot> 32 gs=0,g=2871,s=26
+<bot>Croton tiglicum</bot> 1 gs=0,g=2871,s=0
+<bot>Croton tiglium</bot> 16 gs=3,g=2871,s=5
+<bot>Cucculus melanoleucus</bot> 1 gs=0,g=0,s=1
+<bot>Cuculigo orchioides</bot> 1 gs=0,g=0,s=47
+<bot>Cuculus indicus</bot> 1 gs=0,g=0,s=164
+<bot>Cuculus melanoleucus</bot> 7 gs=0,g=0,s=1
+<bot>Cucuma longa</bot> 1 gs=0,g=0,s=71
+<bot>Cucumis acutangulus</bot> 1 gs=1,g=581,s=27
+<bot>Cucumis maderaspatanus</bot> 7 gs=1,g=581,s=4
+<bot>Cucumis momordica Roxb.</bot> 1 gs=1,g=581,s=1
+<bot>Cucumis sativus</bot> 5 gs=58,g=581,s=202
+<bot>Cucumis sulcatus</bot> 1 gs=0,g=581,s=106
+<bot>Cucumis utilissimus Roxb.</bot> 1 gs=1,g=581,s=2
+<bot>Cucumis utilissimus</bot> 29 gs=1,g=581,s=2
+<bot>Cucurbita citrullus</bot> 1 gs=6,g=359,s=15
+<bot>Cucurbita hispida</bot> 1 gs=1,g=359,s=1032
+<bot>Cucurbita lagenaria</bot> 1 gs=3,g=359,s=25
+<bot>Cucurbita pepo</bot> 2 gs=115,g=359,s=118
+<bot>Cuilandina bonducella</bot> 1 gs=0,g=0,s=6
+<bot>Curculgo orchioides</bot> 1 gs=0,g=0,s=47
+<bot>Curculigo orchioides L.</bot> 1 gs=2,g=84,s=47
+<bot>Curculigo orchioides</bot> 11 gs=2,g=84,s=47
+<bot>Curcum aromatica</bot> 1 gs=0,g=0,s=223
+<bot>Curcuma amada</bot> 2 gs=2,g=213,s=2
+<bot>Curcuma amhaldi</bot> 9 gs=0,g=213,s=0
+<bot>Curcuma aromatica</bot> 20 gs=1,g=213,s=223
+<bot>Curcuma longa</bot> 6 gs=2,g=213,s=71
+<bot>Curcuma longe</bot> 1 gs=0,g=213,s=0
+<bot>Curcuma reclinata</bot> 2 gs=1,g=213,s=116
+<bot>Curcuma xanthorrhiza</bot> 8 gs=0,g=213,s=2
+<bot>Curcuma zedoaria</bot> 15 gs=2,g=213,s=3
+<bot>Curcuma zerumbet Roxb.</bot> 2 gs=1,g=213,s=13
+<bot>Curcuma zerumbet</bot> 22 gs=1,g=213,s=13
+<bot>Cynandropsis pentaphylla</bot> 1 gs=0,g=0,s=177
+<bot>Cyperus hexastachyus communis Nees</bot> 3 gs=1,g=4111,s=3
+<bot>Cyperus hexastachyus communis</bot> 2 gs=1,g=4111,s=3
+<bot>Cyperus hexastachyus Nees</bot> 1 gs=1,g=4111,s=3
+<bot>Cyperus hexastachyus</bot> 1 gs=1,g=4111,s=3
+<bot>Cyperus pertenuis</bot> 8 gs=1,g=4111,s=19
+<bot>Cyperus rotundus</bot> 52 gs=41,g=4111,s=57
+<bot>Cypeus rotundus</bot> 1 gs=0,g=0,s=57
+<bot>Cypraca moneta</bot> 1 gs=0,g=0,s=4
+<bot>Cypraea moneta</bot> 1 gs=0,g=0,s=4
+<bot>Cyprea moneta</bot> 1 gs=0,g=0,s=4
+<bot>Cyprinus banggana</bot> 1 gs=0,g=0,s=0
+<bot>Cyprinus catla</bot> 3 gs=0,g=0,s=0
+<bot>Cyprinus curchius</bot> 1 gs=0,g=0,s=0
+<bot>Cyprinus denticulatus</bot> 2 gs=0,g=0,s=63
+<bot>Cyprinus rishi</bot> 1 gs=0,g=0,s=0
+<bot>Cyprinus rohita</bot> 12 gs=0,g=0,s=0
+<bot>Cyprinus sophore</bot> 2 gs=0,g=0,s=0
+<bot>Cytisus cajan</bot> 3 gs=1,g=912,s=5
+<bot>Daemia extensa</bot> 1 gs=0,g=0,s=92
+<bot>Dalbergia ougeinensis</bot> 20 gs=1,g=646,s=1
+<bot>Dalbergia sissoo Roxb.</bot> 2 gs=1,g=646,s=4
+<bot>Dalbergia sissoo</bot> 27 gs=1,g=646,s=4
+<bot>Datura alba</bot> 1 gs=3,g=145,s=1605
+<bot>Datura fastuosa</bot> 4 gs=9,g=145,s=72
+<bot>Datura metel</bot> 1 gs=11,g=145,s=12
+<bot>Datura stechafel</bot> 1 gs=0,g=145,s=0
+<bot>Daucus carota</bot> 7 gs=87,g=404,s=89
+<bot>Delphinus gandgeticus</bot> 1 gs=0,g=0,s=0
+<bot>Delphinus gangeticus</bot> 20 gs=0,g=0,s=18
+<bot>Demodium gangeticum</bot> 1 gs=0,g=0,s=9
+<bot>Desmochaeta atropurpurea DC.</bot> 1 gs=1,g=23,s=453
+<bot>Desmochaeta atropurpurea</bot> 2 gs=1,g=23,s=453
+<bot>Desmodium gangeticum DC.</bot> 1 gs=2,g=980,s=9
+<bot>Desmodium gangeticum</bot> 23 gs=2,g=980,s=9
+<bot>Desmodium gangetium</bot> 1 gs=0,g=980,s=0
+<bot>Dillenia indica</bot> 4 gs=3,g=147,s=1027
+<bot>Dillenia speciosa</bot> 2 gs=2,g=147,s=1324
+<bot>Dillenin speciosa</bot> 1 gs=0,g=0,s=1324
+<bot>Dioscorea aculeadta</bot> 1 gs=0,g=1564,s=0
+<bot>Dioscorea alata</bot> 1 gs=5,g=1564,s=657
+<bot>Dioscorea globosa</bot> 5 gs=1,g=1564,s=388
+<bot>Dioscorea purpurea</bot> 4 gs=1,g=1564,s=1339
+<bot>Diospyros embryopteris</bot> 19 gs=3,g=1647,s=3
+<bot>Diospyros glutinosa</bot> 4 gs=1,g=1647,s=535
+<bot>Diospyros tomentosa</bot> 9 gs=2,g=1647,s=2038
+<bot>Dispyros tomentosa</bot> 1 gs=0,g=0,s=2038
+<bot>Dolichos biflorus</bot> 4 gs=2,g=472,s=146
+<bot>Dolichos bulbosus</bot> 1 gs=1,g=472,s=124
+<bot>Dolichos catjang</bot> 9 gs=2,g=472,s=4
+<bot>Dolichos lablab</bot> 3 gs=9,g=472,s=11
+<bot>Dolichos pruriens</bot> 2 gs=1,g=472,s=66
+<bot>Dolichos sinensis</bot> 3 gs=6,g=472,s=656
+<bot>Dolichos uniflorus</bot> 10 gs=2,g=472,s=136
+<bot>Dospyros tomentosa</bot> 1 gs=0,g=0,s=2038
+<bot>Echinops echinatus</bot> 6 gs=1,g=430,s=98
+<bot>Echites dichotoma</bot> 1 gs=0,g=510,s=645
+<bot>Echites frutescens</bot> 3 gs=1,g=510,s=570
+<bot>Echites frutesecens</bot> 1 gs=0,g=510,s=0
+<bot>Eclipta prostata</bot> 1 gs=0,g=85,s=2
+<bot>Eclipta prostrata</bot> 17 gs=5,g=85,s=714
+<bot>Edysarum lagopodioides</bot> 1 gs=0,g=0,s=26
+<bot>Elaeocarpus ganitrus</bot> 14 gs=1,g=945,s=1
+<bot>Elaeocarpus ganitruss</bot> 1 gs=0,g=945,s=0
+<bot>Elaeovarpus gantitrus</bot> 1 gs=0,g=0,s=0
+<bot>Elater noctilucus</bot> 3 gs=0,g=0,s=0
+<bot>Elephantopus scaber</bot> 4 gs=11,g=89,s=198
+<bot>Eleusine coracana</bot> 2 gs=4,g=126,s=4
+<bot>Eleusine corocana</bot> 2 gs=0,g=126,s=0
+<bot>Eleusine indica Gaertn.</bot> 1 gs=17,g=126,s=1027
+<bot>Eleusine indica</bot> 10 gs=17,g=126,s=1027
+<bot>Embelia ribes</bot> 41 gs=8,g=266,s=24
+<bot>Emblica officinalis Gaertn.</bot> 4 gs=1,g=11,s=929
+<bot>Emblica officinalis</bot> 21 gs=1,g=11,s=929
+<bot>Enhydra heloncha</bot> 1 gs=0,g=0,s=2
+<bot>Enhydra hingcha</bot> 3 gs=0,g=0,s=1
+<bot>Enhydra hingtscha DC.</bot> 1 gs=0,g=0,s=0
+<bot>Ervum lens</bot> 1 gs=2,g=168,s=15
+<bot>Erythraea centaureoides</bot> 2 gs=0,g=248,s=3
+<bot>Erythraoxylon sideroxyloides</bot> 1 gs=0,g=0,s=23
+<bot>Erythrina fulgens</bot> 3 gs=1,g=347,s=259
+<bot>Erythrina indica</bot> 5 gs=4,g=347,s=1027
+<bot>Esox kankila</bot> 5 gs=0,g=0,s=0
+<bot>Eugenia jambalana</bot> 1 gs=0,g=3760,s=0
+<bot>Eugenia jambolana</bot> 11 gs=3,g=3760,s=4
+<bot>Eugenia jambos</bot> 1 gs=2,g=3760,s=11
+<bot>Eugenta jambolana</bot> 1 gs=0,g=0,s=4
+<bot>Euphorbia antiquorum</bot> 25 gs=2,g=5675,s=50
+<bot>Euphorbia lactea</bot> 1 gs=2,g=5675,s=189
+<bot>Euphorbia ligularia</bot> 2 gs=1,g=5675,s=2
+<bot>Euphorbia neriifolia</bot> 2 gs=2,g=5675,s=120
+<bot>Euphorbia tirucalli L.</bot> 1 gs=2,g=5675,s=4
+<bot>Euphorbia tirucalli</bot> 2 gs=2,g=5675,s=4
+<bot>Euphorbia tortilis</bot> 2 gs=1,g=5675,s=93
+<bot>Euryala ferox</bot> 2 gs=0,g=0,s=254
+<bot>Euryale ferox</bot> 1 gs=2,g=9,s=254
+<bot>Evolvulus alsinoides</bot> 2 gs=38,g=379,s=124
+<bot>Falco cheela</bot> 11 gs=0,g=0,s=1
+<bot>Falco ponticerianus</bot> 1 gs=0,g=0,s=0
+<bot>Ferinia elephantum</bot> 1 gs=0,g=0,s=5
+<bot>Feronia elephanteum</bot> 2 gs=0,g=7,s=0
+<bot>Feronia elephantum</bot> 48 gs=1,g=7,s=5
+<bot>Ferula asa</bot> 3 gs=0,g=466,s=0
+<bot>Ficus benjamina</bot> 4 gs=7,g=3908,s=11
+<bot>Ficus elastica</bot> 1 gs=10,g=3908,s=67
+<bot>Ficus glomerata</bot> 37 gs=6,g=3908,s=951
+<bot>Ficus heterophylla</bot> 20 gs=7,g=3908,s=1248
+<bot>Ficus hierophylla</bot> 1 gs=0,g=3908,s=0
+<bot>Ficus indica</bot> 30 gs=8,g=3908,s=1027
+<bot>Ficus infectoria Willd.</bot> 1 gs=12,g=3908,s=51
+<bot>Ficus infectoria</bot> 37 gs=12,g=3908,s=51
+<bot>Ficus oppositifolia</bot> 29 gs=1,g=3908,s=402
+<bot>Ficus religiosa L.</bot> 1 gs=4,g=3908,s=40
+<bot>Ficus religiosa</bot> 59 gs=4,g=3908,s=40
+<bot>Fiscus glomerata</bot> 1 gs=0,g=0,s=951
+<bot>Flacomurtia cataphracta</bot> 1 gs=0,g=0,s=20
+<bot>Flacourtia cataphrachta</bot> 1 gs=0,g=104,s=0
+<bot>Flacourtia cataphracta Roxb.</bot> 2 gs=2,g=104,s=20
+<bot>Flacourtia cataphracta</bot> 41 gs=2,g=104,s=20
+<bot>Flacourtia cataphraeta</bot> 1 gs=0,g=104,s=0
+<bot>Flacourtia cataphrcata</bot> 1 gs=0,g=104,s=0
+<bot>Flacourtia cotaphracta</bot> 1 gs=0,g=104,s=0
+<bot>Flacourtia sapida</bot> 23 gs=1,g=104,s=26
+<bot>Flacourtia savida</bot> 1 gs=0,g=104,s=0
+<bot>Flacourtia sopida</bot> 1 gs=0,g=104,s=0
+<bot>Fumaria parviflora</bot> 2 gs=22,g=535,s=2041
+<bot>Gaertnera racemasa</bot> 1 gs=0,g=188,s=0
+<bot>Gaertnera racemosa</bot> 26 gs=1,g=188,s=1274
+<bot>Gaertneria racemosa</bot> 1 gs=0,g=24,s=1274
+<bot>Galaeocarpus ganitrus</bot> 1 gs=0,g=0,s=1
+<bot>Galedupa piscidia Roxb.</bot> 1 gs=1,g=24,s=13
+<bot>Galedupa piscidia</bot> 8 gs=1,g=24,s=13
+<bot>Galega purpurea</bot> 2 gs=1,g=119,s=1339
+<bot>Ganitrues sphaerica</bot> 1 gs=0,g=0,s=59
+<bot>Garcinia cambogia</bot> 2 gs=4,g=676,s=6
+<bot>Garcinia purpurea</bot> 1 gs=1,g=676,s=1339
+<bot>Gardenia enneandra Koen.</bot> 1 gs=1,g=519,s=20
+<bot>Gardenia enneandra</bot> 1 gs=1,g=519,s=20
+<bot>Gardenia florida</bot> 1 gs=12,g=519,s=293
+<bot>Gardenia gummifera</bot> 8 gs=2,g=519,s=94
+<bot>Gardenia latiflora</bot> 1 gs=0,g=519,s=60
+<bot>Gardenia latifolia</bot> 2 gs=2,g=519,s=2091
+<bot>Garewia asiatica</bot> 1 gs=0,g=0,s=227
+<bot>Gedarussa vulgaris</bot> 2 gs=0,g=0,s=2906
+<bot>Gedrela toona</bot> 1 gs=0,g=0,s=31
+<bot>Gemeiner anis</bot> 2 gs=0,g=0,s=0
+<bot>Gendarussa adhatoda</bot> 2 gs=0,g=58,s=4
+<bot>Gendarussa vulgaris Nees</bot> 2 gs=1,g=58,s=2906
+<bot>Gendarussa vulgaris</bot> 20 gs=1,g=58,s=2906
+<bot>Gentiana cherayta</bot> 3 gs=0,g=2454,s=0
+<bot>Gentiana chiraita Wall.</bot> 1 gs=0,g=2454,s=0
+<bot>Gentiana chirata</bot> 4 gs=0,g=2454,s=1
+<bot>Gentiana chirayita</bot> 1 gs=1,g=2454,s=5
+<bot>Germinalia tomentosa</bot> 1 gs=0,g=0,s=2038
+<bot>Getiana chiraita</bot> 1 gs=0,g=0,s=0
+<bot>Getonia floribunda</bot> 6 gs=1,g=6,s=1211
+<bot>Gissampelos hexandra</bot> 1 gs=0,g=0,s=182
+<bot>Gloriosa superba</bot> 2 gs=6,g=47,s=237
+<bot>Glycine debilis Ait.</bot> 1 gs=1,g=367,s=523
+<bot>Glycine debilis Roxb.</bot> 2 gs=1,g=367,s=523
+<bot>Glycine debilis</bot> 28 gs=1,g=367,s=523
+<bot>Glycine labialis L.</bot> 1 gs=1,g=367,s=10
+<bot>Glycine labialis</bot> 3 gs=1,g=367,s=10
+<bot>Glycyrrhiza echinata</bot> 1 gs=7,g=112,s=293
+<bot>Glycyrrhiza glabra</bot> 2 gs=13,g=112,s=1531
+<bot>Glyeine debilis</bot> 1 gs=0,g=0,s=523
+<bot>Gmelina arborea</bot> 47 gs=4,g=99,s=582
+<bot>Gomphraena globosa</bot> 1 gs=0,g=0,s=388
+<bot>Gomphrena globosa</bot> 2 gs=7,g=514,s=388
+<bot>Gossampinus rumphii</bot> 1 gs=1,g=18,s=132
+<bot>Gossampinus rumphit</bot> 1 gs=0,g=18,s=0
+<bot>Grewia asiatica</bot> 13 gs=4,g=702,s=227
+<bot>Grewia elastica</bot> 7 gs=1,g=702,s=67
+<bot>Grewia orientalis</bot> 1 gs=5,g=702,s=992
+<bot>Grislea tomentosa</bot> 38 gs=1,g=14,s=2038
+<bot>Grislea tometonsa</bot> 1 gs=0,g=14,s=0
+<bot>Guilandina bonduc.</bot> 6 gs=0,g=46,s=0
+<bot>Guilandina bonduc</bot> 12 gs=3,g=46,s=5
+<bot>Guilandina bonducella</bot> 6 gs=1,g=46,s=6
+<bot>Guilandina bondue</bot> 1 gs=0,g=46,s=0
+<bot>Guilandina moringa</bot> 2 gs=1,g=46,s=4
+<bot>Gymnema sylverstre</bot> 1 gs=0,g=123,s=0
+<bot>Gymnema sylvestre</bot> 4 gs=6,g=123,s=192
+<bot>Gynandropis pentaphylla</bot> 1 gs=0,g=0,s=177
+<bot>Gynandropsis penaphylla</bot> 1 gs=0,g=48,s=0
+<bot>Gynandropsis pentaphylla DC.</bot> 1 gs=2,g=48,s=177
+<bot>Gynandropsis pentaphylla</bot> 10 gs=2,g=48,s=177
+<bot>Hadysarum logopodioides</bot> 1 gs=0,g=0,s=0
+<bot>Haemionites cordifolia Roxb.</bot> 1 gs=0,g=0,s=858
+<bot>Halicacabum cardiospermum</bot> 1 gs=0,g=0,s=4
+<bot>Hedyotis burmanniana</bot> 1 gs=2,g=1086,s=20
+<bot>Hedyotis burnanniana</bot> 1 gs=0,g=1086,s=0
+<bot>Hedysarum alhagi</bot> 3 gs=1,g=1059,s=2
+<bot>Hedysarum athoagi</bot> 1 gs=0,g=1059,s=0
+<bot>Hedysarum gangeticum</bot> 8 gs=1,g=1059,s=9
+<bot>Hedysarum lagopodioides</bot> 5 gs=2,g=1059,s=26
+<bot>Helianthus annuus</bot> 1 gs=43,g=510,s=119
+<bot>Heliophytum indicum Dec.</bot> 1 gs=1,g=39,s=413
+<bot>Heliotropium indicum</bot> 9 gs=1,g=1010,s=413
+<bot>Helleborus niger L.</bot> 2 gs=10,g=236,s=106
+<bot>Helleborus niger</bot> 19 gs=10,g=236,s=106
+<bot>Helminthostachys laciniata</bot> 2 gs=1,g=8,s=521
+<bot>Helminthostachys lawiniata</bot> 1 gs=0,g=8,s=0
+<bot>Hemidesmus indicus R. Br.</bot> 1 gs=2,g=6,s=164
+<bot>Hemidesmus indicus</bot> 4 gs=2,g=6,s=164
+<bot>Heminonitis cordifolia</bot> 1 gs=0,g=0,s=858
+<bot>Hemionita cordifolia</bot> 1 gs=0,g=0,s=858
+<bot>Hemionites cordifolia</bot> 1 gs=0,g=0,s=858
+<bot>Hemionitis cordifolia</bot> 32 gs=2,g=583,s=858
+<bot>Hemionits cordifolia</bot> 1 gs=0,g=0,s=858
+<bot>Herlicteres isora</bot> 1 gs=0,g=0,s=4
+<bot>Herpestes monniera</bot> 1 gs=0,g=0,s=1
+<bot>Herpestis monnieria</bot> 2 gs=1,g=132,s=5
+<bot>Hibicus mutabilis</bot> 2 gs=0,g=0,s=448
+<bot>Hibiscus abelmoschus</bot> 2 gs=5,g=1544,s=6
+<bot>Hibiscus cannabinus</bot> 15 gs=7,g=1544,s=11
+<bot>Hibiscus esculentus</bot> 1 gs=7,g=1544,s=51
+<bot>Hibiscus hirtus</bot> 1 gs=5,g=1544,s=519
+<bot>Hibiscus moschatus</bot> 1 gs=2,g=1544,s=49
+<bot>Hibiscus mutabilis L.</bot> 1 gs=4,g=1544,s=448
+<bot>Hibiscus mutabilis</bot> 39 gs=4,g=1544,s=448
+<bot>Hibiscus mutablilis</bot> 1 gs=0,g=1544,s=0
+<bot>Hibiscus phoeniceus</bot> 2 gs=4,g=1544,s=19
+<bot>Hibiscus populneoides</bot> 7 gs=1,g=1544,s=3
+<bot>Hibiscus rosa sinensis L.</bot> 1 gs=0,g=1544,s=5
+<bot>Hibiscus rosa sinensis</bot> 19 gs=0,g=1544,s=5
+<bot>Hibiscus vitifolius</bot> 1 gs=11,g=1544,s=33
+<bot>Hibisus mutabilis</bot> 1 gs=0,g=0,s=448
+<bot>Hingcha repens</bot> 8 gs=0,g=0,s=1497
+<bot>Hingtscha repens Roxb.</bot> 1 gs=0,g=0,s=1497
+<bot>Hingtscha repens</bot> 4 gs=0,g=0,s=1497
+<bot>Holcus sorghum</bot> 2 gs=9,g=185,s=140
+<bot>Hoya viridiflora</bot> 24 gs=1,g=885,s=383
+<bot>Hoya viriflora</bot> 1 gs=0,g=885,s=0
+<bot>Hydrocotile asiatica</bot> 3 gs=0,g=0,s=227
+<bot>Hyoscyamus niger</bot> 1 gs=12,g=109,s=106
+<bot>Hyperanthera moringa</bot> 16 gs=1,g=15,s=4
+<bot>Hyrica sapida</bot> 1 gs=0,g=0,s=26
+<bot>Ichnocarpous frutescens</bot> 1 gs=0,g=0,s=570
+<bot>Ichnocarpus frutecens</bot> 1 gs=0,g=60,s=0
+<bot>Ichnocarpus frutescens Roxb.</bot> 1 gs=7,g=60,s=570
+<bot>Ichnocarpus frutescens</bot> 12 gs=7,g=60,s=570
+<bot>Imora undulata</bot> 1 gs=0,g=0,s=653
+<bot>Impatiens balsamina</bot> 2 gs=18,g=1830,s=20
+<bot>Imperata cylindrica</bot> 1 gs=14,g=73,s=340
+<bot>Indica royle</bot> 1 gs=0,g=0,s=0
+<bot>Indigofera tinctoria</bot> 2 gs=10,g=1825,s=492
+<bot>Indigofera tintoria</bot> 1 gs=0,g=1825,s=0
+<bot>Indigogera tinctoria</bot> 1 gs=0,g=0,s=492
+<bot>Ipomoa atropurpurea</bot> 1 gs=0,g=0,s=453
+<bot>Ipomoea atropurpurea</bot> 1 gs=1,g=2728,s=453
+<bot>Ipomoea pes-caprae Roth.</bot> 1 gs=9,g=2728,s=18
+<bot>Ipomoea turopethum</bot> 1 gs=0,g=2728,s=0
+<bot>Ipomoea turpethum R. Br.</bot> 1 gs=3,g=2728,s=10
+<bot>Ipomoea turpethum</bot> 37 gs=3,g=2728,s=10
+<bot>Iragia involucrata</bot> 1 gs=0,g=0,s=507
+<bot>Iris pseudacorus</bot> 1 gs=18,g=1655,s=22
+<bot>Isora corylifolia</bot> 2 gs=1,g=3,s=57
+<bot>Ixora bandhucca</bot> 1 gs=0,g=1103,s=0
+<bot>Jasminum auriculatum Vahl.</bot> 1 gs=3,g=802,s=197
+<bot>Jasminum auriculatum</bot> 11 gs=3,g=802,s=197
+<bot>Jasminum grandiflorum</bot> 18 gs=4,g=802,s=636
+<bot>Jasminum heterophyllum Roxb.</bot> 1 gs=4,g=802,s=356
+<bot>Jasminum hirsutum Lin.</bot> 1 gs=2,g=802,s=530
+<bot>Jasminum jacquini</bot> 1 gs=0,g=802,s=0
+<bot>Jasminum multiflorum</bot> 6 gs=6,g=802,s=338
+<bot>Jasminum pubescens</bot> 7 gs=3,g=802,s=2589
+<bot>Jasminum pubescenz</bot> 1 gs=0,g=802,s=0
+<bot>Jasminum sambac Ait.</bot> 2 gs=14,g=802,s=16
+<bot>Jasminum sambac</bot> 41 gs=14,g=802,s=16
+<bot>Jasminum zambac</bot> 1 gs=1,g=802,s=1
+<bot>Jasminus sambac</bot> 1 gs=0,g=0,s=16
+<bot>Jocesia asoca</bot> 1 gs=0,g=0,s=2
+<bot>Joncesia asoka Roxb.</bot> 1 gs=0,g=0,s=0
+<bot>Joneisia asoca</bot> 1 gs=0,g=0,s=2
+<bot>Jonesia asoca</bot> 9 gs=1,g=12,s=2
+<bot>Jonesia asoka Roxb.</bot> 1 gs=0,g=12,s=0
+<bot>Jonesia asoka</bot> 27 gs=0,g=12,s=0
+<bot>Juglans regia</bot> 1 gs=36,g=244,s=141
+<bot>Jussiaea repens</bot> 8 gs=34,g=410,s=1497
+<bot>Jussiaed repens</bot> 1 gs=0,g=0,s=1497
+<bot>Justicia gendarussa</bot> 1 gs=4,g=2232,s=6
+<bot>Kaempferia rotunda</bot> 4 gs=2,g=151,s=68
+<bot>Kylligia monocephala</bot> 1 gs=0,g=0,s=93
+<bot>Kyllingia monocephala Lin.</bot> 1 gs=0,g=0,s=93
+<bot>Kyllingia monocephala</bot> 6 gs=0,g=0,s=93
+<bot>Lablab vulgaris</bot> 5 gs=3,g=31,s=2906
+<bot>Lagenaria vulgaris</bot> 1 gs=13,g=50,s=2906
+<bot>Langer pfeffer</bot> 1 gs=0,g=0,s=0
+<bot>Larus ridibundus</bot> 3 gs=0,g=0,s=0
+<bot>Lathyrus sativus</bot> 1 gs=21,g=1219,s=202
+<bot>Lauratus cassia</bot> 1 gs=0,g=0,s=41
+<bot>Laurus cassia</bot> 30 gs=7,g=464,s=41
+<bot>Lawsonia alba</bot> 2 gs=3,g=12,s=1605
+<bot>Lea stophylea</bot> 1 gs=0,g=0,s=0
+<bot>Leea hirta</bot> 14 gs=2,g=200,s=1014
+<bot>Leea macrophylla</bot> 1 gs=3,g=200,s=1614
+<bot>Lepeocercis serrata Trin.</bot> 1 gs=1,g=8,s=713
+<bot>Lepeocercis serrata</bot> 4 gs=1,g=8,s=713
+<bot>Lepidium sativum</bot> 1 gs=12,g=977,s=305
+<bot>Leucas linifolia</bot> 1 gs=2,g=354,s=430
+<bot>Ligeuticum ajowan</bot> 1 gs=0,g=0,s=3
+<bot>Ligusticum ajowan Roxb.</bot> 1 gs=1,g=377,s=3
+<bot>Ligusticum ajowan</bot> 2 gs=1,g=377,s=3
+<bot>Ligusticum ajwan</bot> 1 gs=0,g=377,s=0
+<bot>Limonia scandens</bot> 1 gs=1,g=82,s=1172
+<bot>Linum usitatisimum</bot> 1 gs=0,g=1033,s=0
+<bot>Linum usitatissimum</bot> 16 gs=37,g=1033,s=37
+<bot>Linum usitatissmum</bot> 1 gs=0,g=1033,s=0
+<bot>Lipenocerci serrata</bot> 1 gs=0,g=0,s=713
+<bot>Lipeocercis serrata Trin.</bot> 4 gs=0,g=0,s=713
+<bot>Lipeocercis serrata</bot> 11 gs=0,g=0,s=713
+<bot>Lipeocereis serrata</bot> 1 gs=0,g=0,s=713
+<bot>Lipeoceris serrata</bot> 2 gs=0,g=0,s=713
+<bot>Liquidambar orientale</bot> 2 gs=0,g=40,s=338
+<bot>Loxia philippensis</bot> 3 gs=0,g=0,s=57
+<bot>Loxia philipponsis</bot> 1 gs=0,g=0,s=0
+<bot>Luffa acutangula und pentandra</bot> 1 gs=5,g=78,s=128
+<bot>Luffa acutangula</bot> 6 gs=5,g=78,s=128
+<bot>Luffa cylindrica</bot> 1 gs=6,g=78,s=340
+<bot>Luffa foetida</bot> 13 gs=2,g=78,s=454
+<bot>Luffa pentandra</bot> 1 gs=1,g=78,s=270
+<bot>Lycopodium cimbricatum</bot> 1 gs=0,g=1217,s=0
+<bot>Lycopodium imbricatum</bot> 3 gs=2,g=1217,s=136
+<bot>Macropteronatus magur</bot> 3 gs=0,g=0,s=0
+<bot>Macuna pruritus</bot> 2 gs=0,g=0,s=0
+<bot>Mangifera indica</bot> 9 gs=21,g=168,s=1027
+<bot>Mangifera sylvatica</bot> 8 gs=1,g=168,s=553
+<bot>Mangifera sylvativa</bot> 1 gs=0,g=168,s=0
+<bot>Mangifera sylvtica</bot> 1 gs=0,g=168,s=0
+<bot>Maranta dichotoma</bot> 1 gs=1,g=302,s=645
+<bot>Marsila quadrifolia</bot> 1 gs=0,g=0,s=74
+<bot>Marsilea quadrifolia Lin.</bot> 1 gs=3,g=181,s=74
+<bot>Marsilea quadrifolia</bot> 16 gs=3,g=181,s=74
+<bot>Marsilia quadrifolia</bot> 1 gs=0,g=0,s=74
+<bot>Marsilia quardrifolia</bot> 1 gs=0,g=0,s=0
+<bot>Medicago esculenta</bot> 7 gs=1,g=1262,s=191
+<bot>Melia azadirachta</bot> 2 gs=1,g=87,s=2
+<bot>Melia azedarach</bot> 1 gs=26,g=87,s=26
+<bot>Melia bukayun</bot> 13 gs=1,g=87,s=1
+<bot>Melia sempervirens Sw.</bot> 1 gs=1,g=87,s=417
+<bot>Melia sempervirens</bot> 8 gs=1,g=87,s=417
+<bot>Melilotus parviflora</bot> 1 gs=0,g=231,s=2041
+<bot>Melongena incurva</bot> 1 gs=1,g=6,s=125
+<bot>Melthonica superba</bot> 1 gs=0,g=0,s=237
+<bot>Menispermum calumba</bot> 1 gs=1,g=96,s=2
+<bot>Menispermum cocculus</bot> 1 gs=1,g=96,s=3
+<bot>Menispermum cordifolium</bot> 2 gs=1,g=96,s=218
+<bot>Menispermum glabrum</bot> 3 gs=2,g=96,s=334
+<bot>Meriandra bengalensis</bot> 1 gs=1,g=5,s=73
+<bot>Mesua ferra</bot> 2 gs=0,g=76,s=0
+<bot>Mesua ferrea</bot> 11 gs=7,g=76,s=130
+<bot>Mesua roxburghii Wight.</bot> 1 gs=1,g=76,s=297
+<bot>Mesua roxburghii</bot> 36 gs=1,g=76,s=297
+<bot>Methonia superba</bot> 1 gs=0,g=0,s=237
+<bot>Methonica superba Lam.</bot> 2 gs=1,g=13,s=237
+<bot>Methonica superba</bot> 26 gs=1,g=13,s=237
+<bot>Michelia champaca Lin.</bot> 1 gs=3,g=237,s=6
+<bot>Michelia champaca</bot> 36 gs=3,g=237,s=6
+<bot>Michlia champaca</bot> 1 gs=0,g=0,s=6
+<bot>Milletia piscidia</bot> 1 gs=0,g=0,s=13
+<bot>Mimosa abstergens</bot> 3 gs=1,g=2124,s=3
+<bot>Mimosa arabica</bot> 2 gs=1,g=2124,s=374
+<bot>Mimosa catechu</bot> 3 gs=1,g=2124,s=22
+<bot>Mimosa concinna</bot> 3 gs=2,g=2124,s=417
+<bot>Mimosa octandra Roxb.</bot> 1 gs=1,g=2124,s=105
+<bot>Mimosa octandra</bot> 4 gs=1,g=2124,s=105
+<bot>Mimosa pudica L.</bot> 1 gs=8,g=2124,s=73
+<bot>Mimosa pudica</bot> 31 gs=8,g=2124,s=73
+<bot>Mimosa secressa</bot> 1 gs=0,g=2124,s=0
+<bot>Mimosa seeressa</bot> 1 gs=1,g=2124,s=2
+<bot>Mimosa suma Roxb.</bot> 2 gs=1,g=2124,s=5
+<bot>Mimosa suma</bot> 20 gs=1,g=2124,s=5
+<bot>Mimusops elengi</bot> 32 gs=5,g=265,s=6
+<bot>Mimusops hexandra</bot> 4 gs=2,g=265,s=182
+<bot>Mimusops kanki</bot> 1 gs=0,g=265,s=0
+<bot>Mimusops kauki</bot> 8 gs=3,g=265,s=5
+<bot>Minusops elengi</bot> 1 gs=0,g=0,s=6
+<bot>Minusops hexandra</bot> 1 gs=0,g=0,s=182
+<bot>Mirabilis jalapa</bot> 3 gs=16,g=195,s=24
+<bot>Molluga pentaphylla</bot> 1 gs=0,g=0,s=177
+<bot>Mollugo spergula</bot> 1 gs=1,g=149,s=7
+<bot>Momordica charantia L.</bot> 1 gs=12,g=213,s=12
+<bot>Momordica charantia Lin.</bot> 1 gs=12,g=213,s=12
+<bot>Momordica charantia</bot> 18 gs=12,g=213,s=12
+<bot>Momordica cochinchinensis Spreng.</bot> 1 gs=2,g=213,s=330
+<bot>Momordica mixta</bot> 10 gs=1,g=213,s=152
+<bot>Momordica monadelpha</bot> 14 gs=1,g=213,s=61
+<bot>Momoridica monadelpha</bot> 1 gs=0,g=0,s=61
+<bot>Momosa pudica</bot> 1 gs=0,g=0,s=73
+<bot>Morinda tinctoria</bot> 2 gs=5,g=270,s=492
+<bot>Moringa ptergosperma</bot> 1 gs=0,g=34,s=0
+<bot>Moringa pterugosperma</bot> 1 gs=0,g=34,s=0
+<bot>Moringa pterygosperma Gaertn.</bot> 1 gs=1,g=34,s=8
+<bot>Moringa pterygosperma Willd.</bot> 1 gs=1,g=34,s=8
+<bot>Moringa pterygosperma</bot> 35 gs=1,g=34,s=8
+<bot>Moringa pterygospermum</bot> 2 gs=0,g=34,s=0
+<bot>Moringa pteryhosprma</bot> 1 gs=0,g=34,s=0
+<bot>Morodica monadelpha</bot> 1 gs=0,g=0,s=61
+<bot>Mucuna praritus</bot> 1 gs=0,g=264,s=0
+<bot>Mucuna pruitus</bot> 1 gs=0,g=264,s=0
+<bot>Mucuna pruriens</bot> 1 gs=11,g=264,s=66
+<bot>Mucuna pruritus Hook.</bot> 1 gs=0,g=264,s=0
+<bot>Mucuna pruritus</bot> 33 gs=0,g=264,s=0
+<bot>Mucuna ruritus</bot> 1 gs=0,g=264,s=0
+<bot>Musa paradisiaca L.</bot> 1 gs=59,g=467,s=72
+<bot>Musa paradisiaca</bot> 1 gs=59,g=467,s=72
+<bot>Musa sapientam</bot> 1 gs=0,g=467,s=0
+<bot>Musa sapientum</bot> 38 gs=65,g=467,s=65
+<bot>Mussaenda frondosa</bot> 1 gs=12,g=389,s=165
+<bot>Myrica sapida</bot> 13 gs=2,g=210,s=26
+<bot>Myristica malabarica</bot> 1 gs=1,g=620,s=155
+<bot>Myrobalanus chebula</bot> 1 gs=1,g=94,s=7
+<bot>Mystus chitala</bot> 2 gs=0,g=0,s=0
+<bot>Mystus karpirat</bot> 1 gs=0,g=0,s=0
+<bot>Nageia putranjiva</bot> 3 gs=1,g=104,s=1
+<bot>Naravelia zeylanica</bot> 1 gs=3,g=19,s=355
+<bot>Nardostachys jatamansi</bot> 38 gs=2,g=6,s=10
+<bot>Nardostachys jatamanzi</bot> 1 gs=0,g=6,s=0
+<bot>Nardostachys jatamnsi</bot> 1 gs=0,g=6,s=0
+<bot>Nardostachys jatmansi</bot> 1 gs=0,g=6,s=0
+<bot>Nauclea cadamaba</bot> 2 gs=0,g=231,s=0
+<bot>Nauclea cadamba Roxb.</bot> 1 gs=1,g=231,s=5
+<bot>Nauclea cadamba</bot> 31 gs=1,g=231,s=5
+<bot>Nauclea cordifolia</bot> 7 gs=1,g=231,s=858
+<bot>Nauclea cordifoloa</bot> 1 gs=0,g=231,s=0
+<bot>Nelumbium speciosum</bot> 27 gs=6,g=26,s=358
+<bot>Nericum odorum rubro</bot> 1 gs=0,g=0,s=43
+<bot>Nerium odorum Ait.</bot> 3 gs=2,g=76,s=43
+<bot>Nerium odorum rubro</bot> 2 gs=2,g=76,s=43
+<bot>Nerium odorum</bot> 35 gs=2,g=76,s=43
+<bot>Nigella indica Roxb.</bot> 2 gs=1,g=151,s=1027
+<bot>Nigella indica</bot> 17 gs=1,g=151,s=1027
+<bot>Nyctanthes arber tristis</bot> 1 gs=0,g=19,s=0
+<bot>Nyctanthes arbor tristis</bot> 1 gs=0,g=19,s=3
+<bot>Nyctanthes arbor</bot> 10 gs=0,g=19,s=3
+<bot>Nyetanthes arbor</bot> 1 gs=0,g=0,s=3
+<bot>Nymphaea cyanca</bot> 1 gs=0,g=499,s=0
+<bot>Nymphaea esculenta</bot> 5 gs=1,g=499,s=191
+<bot>Nymphaea lotus</bot> 1 gs=14,g=499,s=33
+<bot>Nymphaea nelumbo</bot> 1 gs=1,g=499,s=4
+<bot>Nymphaea rubra</bot> 5 gs=6,g=499,s=1088
+<bot>Ocimmum pilosum</bot> 1 gs=0,g=0,s=338
+<bot>Ocimum basilicum pilosum</bot> 1 gs=19,g=395,s=21
+<bot>Ocimum gratissimum</bot> 2 gs=9,g=395,s=16
+<bot>Ocimum pilosum</bot> 10 gs=2,g=395,s=338
+<bot>Ocimum pilosun</bot> 1 gs=0,g=395,s=0
+<bot>Ocimum sanctum</bot> 18 gs=4,g=395,s=36
+<bot>Ocimum sanetum</bot> 1 gs=0,g=395,s=0
+<bot>Ocimum villosum</bot> 7 gs=3,g=395,s=487
+<bot>Odina pinnata L.</bot> 1 gs=1,g=49,s=610
+<bot>Odina pinnata</bot> 31 gs=1,g=49,s=610
+<bot>Odina wodier</bot> 8 gs=3,g=49,s=6
+<bot>Oldenlandia biflora</bot> 3 gs=2,g=745,s=584
+<bot>Oldenlandia herbacea</bot> 7 gs=13,g=745,s=257
+<bot>Ophicephalus kurrawey</bot> 1 gs=0,g=0,s=0
+<bot>Ophicocephalus aurantiacus</bot> 1 gs=0,g=0,s=105
+<bot>Ophiocephalus wrahl</bot> 1 gs=0,g=2,s=0
+<bot>Ophiorrhiza mungos</bot> 1 gs=4,g=516,s=4
+<bot>Opuntia dillenii</bot> 1 gs=5,g=1489,s=48
+<bot>Oryza sativa</bot> 1 gs=322,g=442,s=929
+<bot>Os coccygis</bot> 1 gs=0,g=0,s=0
+<bot>Os sepiae</bot> 4 gs=0,g=0,s=0
+<bot>Oxalis corniculata Lin.</bot> 1 gs=64,g=2161,s=293
+<bot>Oxalis corniculata</bot> 6 gs=64,g=2161,s=293
+<bot>Oxalis pusila</bot> 1 gs=0,g=2161,s=0
+<bot>Oxalis pusilla</bot> 9 gs=4,g=2161,s=886
+<bot>Oxlis corniculata</bot> 1 gs=0,g=0,s=293
+<bot>Oxystelma esculentum R. Br.</bot> 2 gs=4,g=22,s=102
+<bot>Oxystelma esculentum</bot> 1 gs=4,g=22,s=102
+<bot>Paederia foetida</bot> 24 gs=4,g=122,s=454
+<bot>Paedersa foetida</bot> 1 gs=0,g=0,s=454
+<bot>Paerospermum acerifolium</bot> 1 gs=0,g=0,s=21
+<bot>Palanisia icosandra</bot> 1 gs=0,g=0,s=27
+<bot>Pandanus odoratissimus</bot> 45 gs=20,g=1415,s=47
+<bot>Pandanus odoratissinus</bot> 1 gs=0,g=1415,s=0
+<bot>Pangamia glabra</bot> 1 gs=0,g=0,s=1531
+<bot>Panicum dactylon</bot> 12 gs=1,g=3969,s=42
+<bot>Panicum frumentaceum</bot> 8 gs=3,g=3969,s=4
+<bot>Panicum italicum</bot> 15 gs=19,g=3969,s=147
+<bot>Panicum miliaceum</bot> 11 gs=29,g=3969,s=42
+<bot>Panicum uliginosum</bot> 1 gs=2,g=3969,s=134
+<bot>Panicum verticillatum</bot> 4 gs=18,g=3969,s=238
+<bot>Parra goensis</bot> 7 gs=0,g=0,s=4
+<bot>Parra jacana</bot> 7 gs=0,g=0,s=1
+<bot>Paspalum frumentaceum Rottl.</bot> 1 gs=1,g=1384,s=4
+<bot>Paspalum scrabiculatum</bot> 1 gs=0,g=1384,s=0
+<bot>Paspalum scrobiculatum</bot> 1 gs=20,g=1384,s=28
+<bot>Pasplum scrobiculatum</bot> 1 gs=0,g=0,s=28
+<bot>Pavo bicalcaratus</bot> 1 gs=0,g=0,s=1
+<bot>Pavonia odorata</bot> 4 gs=1,g=692,s=735
+<bot>Peintapetes phoenicea</bot> 1 gs=0,g=0,s=66
+<bot>Pelanisia icosandra W. u. A.</bot> 1 gs=0,g=0,s=27
+<bot>Pelcanus fusicollis</bot> 1 gs=0,g=0,s=0
+<bot>Penicillaria spicat Willd.</bot> 1 gs=0,g=35,s=0
+<bot>Pentapetes phoenicea L.</bot> 1 gs=1,g=26,s=66
+<bot>Pentapetes phoenicea</bot> 16 gs=1,g=26,s=66
+<bot>Pentapetes phoenicen</bot> 1 gs=0,g=26,s=0
+<bot>Pentaptera arjuna</bot> 1 gs=1,g=24,s=3
+<bot>Pentaptera tomentosa</bot> 1 gs=1,g=24,s=2038
+<bot>Pentoptera tomentosa</bot> 1 gs=0,g=0,s=2038
+<bot>Perdix chinensis</bot> 6 gs=0,g=0,s=1328
+<bot>Perdix rufa</bot> 5 gs=0,g=0,s=336
+<bot>Perdix sylvatica</bot> 2 gs=0,g=0,s=553
+<bot>Pertapetes phoenicea</bot> 1 gs=0,g=0,s=66
+<bot>Phaseolus aconitifolius</bot> 2 gs=2,g=1006,s=28
+<bot>Phaseolus aconitifolus</bot> 1 gs=0,g=1006,s=0
+<bot>Phaseolus aconittifolius</bot> 1 gs=0,g=1006,s=0
+<bot>Phaseolus irilobus</bot> 1 gs=0,g=1006,s=0
+<bot>Phaseolus mango</bot> 1 gs=0,g=1006,s=2
+<bot>Phaseolus max</bot> 1 gs=1,g=1006,s=9
+<bot>Phaseolus mungo</bot> 32 gs=2,g=1006,s=6
+<bot>Phaseolus radiatus</bot> 16 gs=2,g=1006,s=60
+<bot>Phaseolus trillobus</bot> 1 gs=0,g=1006,s=0
+<bot>Phaseolus trilobus Ait.</bot> 1 gs=2,g=1006,s=61
+<bot>Phaseolus trilobus</bot> 24 gs=2,g=1006,s=61
+<bot>Phasianus gallus</bot> 9 gs=0,g=0,s=0
+<bot>Phazeolus radiatus</bot> 1 gs=0,g=0,s=60
+<bot>Phlomis ceylanica</bot> 2 gs=0,g=414,s=108
+<bot>Phlomis esculenta</bot> 4 gs=1,g=414,s=191
+<bot>Phlomis zeylanica</bot> 6 gs=1,g=414,s=355
+<bot>Phoenix paludosa Roxb.</bot> 1 gs=1,g=80,s=387
+<bot>Phoenix paludosa</bot> 15 gs=1,g=80,s=387
+<bot>Phoenix silvestris</bot> 1 gs=0,g=80,s=136
+<bot>Phoenix sylverstris</bot> 4 gs=0,g=80,s=0
+<bot>Phoenix sylvestris</bot> 9 gs=1,g=80,s=913
+<bot>Phyllanthus embelica</bot> 1 gs=0,g=2236,s=0
+<bot>Phyllanthus emblica</bot> 6 gs=1,g=2236,s=3
+<bot>Phyllanthus niruir</bot> 1 gs=0,g=2236,s=0
+<bot>Phyllanthus niruri</bot> 1 gs=11,g=2236,s=14
+<bot>Physalis flexuosa L.</bot> 5 gs=1,g=460,s=788
+<bot>Physalis flexuosa</bot> 34 gs=1,g=460,s=788
+<bot>Physalis flexuosus</bot> 1 gs=0,g=460,s=132
+<bot>Physalis flexuousa</bot> 2 gs=0,g=460,s=0
+<bot>Phyttanthus niruri</bot> 1 gs=0,g=0,s=14
+<bot>Picrorhiza kurroa Royle.</bot> 1 gs=1,g=8,s=1
+<bot>Picus bengalensis</bot> 3 gs=0,g=0,s=73
+<bot>Pimelodus gagora</bot> 4 gs=0,g=0,s=0
+<bot>Pimenta acris</bot> 2 gs=3,g=62,s=171
+<bot>Pimpinella anisum</bot> 1 gs=5,g=671,s=15
+<bot>Pinus deodera</bot> 1 gs=0,g=1804,s=0
+<bot>Pinus deodora Roxb.</bot> 2 gs=0,g=1804,s=0
+<bot>Pinus deodora</bot> 39 gs=0,g=1804,s=0
+<bot>Pinus longifolia</bot> 49 gs=2,g=1804,s=2056
+<bot>Pinus webbiana</bot> 4 gs=1,g=1804,s=65
+<bot>Piper aurantiacum</bot> 6 gs=4,g=4750,s=158
+<bot>Piper betle L.</bot> 1 gs=8,g=4750,s=9
+<bot>Piper betle Lin.</bot> 1 gs=8,g=4750,s=9
+<bot>Piper betle</bot> 11 gs=8,g=4750,s=9
+<bot>Piper chaba</bot> 22 gs=2,g=4750,s=4
+<bot>Piper chapa</bot> 1 gs=0,g=4750,s=0
+<bot>Piper langeum</bot> 1 gs=0,g=4750,s=0
+<bot>Piper longum L.</bot> 2 gs=2,g=4750,s=26
+<bot>Piper longum</bot> 16 gs=2,g=4750,s=26
+<bot>Pistia stratiotes L.</bot> 1 gs=5,g=27,s=12
+<bot>Pistia stratiotes</bot> 30 gs=5,g=27,s=12
+<bot>Pisum arvense</bot> 1 gs=12,g=256,s=370
+<bot>Placourtia sapida</bot> 1 gs=0,g=0,s=26
+<bot>Plaseolus trilobus Ait.</bot> 1 gs=0,g=0,s=61
+<bot>Plectranthus scutellaioides</bot> 1 gs=0,g=839,s=0
+<bot>Plectranthus scutellarioides</bot> 4 gs=2,g=839,s=45
+<bot>Plumbago rosea</bot> 7 gs=2,g=76,s=1031
+<bot>Plumbago zeylanica</bot> 28 gs=4,g=76,s=355
+<bot>Plychotis ajowan</bot> 1 gs=0,g=0,s=3
+<bot>Poa cynosuroides</bot> 4 gs=1,g=3399,s=30
+<bot>Polanisia icaosandra</bot> 1 gs=0,g=68,s=0
+<bot>Polanisia icosandra W. u. A.</bot> 2 gs=2,g=68,s=27
+<bot>Polanisia icosandra</bot> 18 gs=2,g=68,s=27
+<bot>Polanisia incosandra</bot> 1 gs=0,g=68,s=0
+<bot>Polanissia icosandra</bot> 1 gs=0,g=0,s=27
+<bot>Polianthes tuberosa</bot> 3 gs=3,g=56,s=386
+<bot>Polynemus paradiseus</bot> 1 gs=0,g=0,s=0
+<bot>Polynemus risua</bot> 1 gs=0,g=0,s=0
+<bot>Pongamia glabra</bot> 29 gs=3,g=82,s=1531
+<bot>Portulaca oleracea</bot> 1 gs=40,g=542,s=327
+<bot>Portulaca quadrifida</bot> 4 gs=3,g=542,s=81
+<bot>Portulacca olercea</bot> 1 gs=0,g=0,s=0
+<bot>Pothos officinalis</bot> 2 gs=1,g=262,s=929
+<bot>Pothos officinatis Roxb.</bot> 1 gs=0,g=262,s=0
+<bot>Potos officinalis</bot> 1 gs=0,g=0,s=929
+<bot>Premna esculenta</bot> 1 gs=1,g=428,s=191
+<bot>Premna herbacea</bot> 4 gs=1,g=428,s=257
+<bot>Premna langifolia</bot> 1 gs=0,g=428,s=1
+<bot>Premna longifolia</bot> 4 gs=1,g=428,s=2056
+<bot>Premna spinosa</bot> 40 gs=1,g=428,s=988
+<bot>Prosopis spicigera</bot> 26 gs=1,g=156,s=49
+<bot>Prospis spicigera</bot> 1 gs=0,g=0,s=49
+<bot>Psoralea corylifolia</bot> 1 gs=1,g=482,s=57
+<bot>Pterocarpus santalinus</bot> 2 gs=3,g=252,s=3
+<bot>Pterospermum acerifolium Willd.</bot> 1 gs=2,g=85,s=21
+<bot>Pterospermum acerifolium</bot> 17 gs=2,g=85,s=21
+<bot>Pterospermum suberifolium</bot> 10 gs=1,g=85,s=3
+<bot>Ptychotis ajowan</bot> 17 gs=0,g=44,s=3
+<bot>Putranjiva roxburghii</bot> 12 gs=1,g=8,s=297
+<bot>Pythonium bulbiferum Schott.</bot> 1 gs=1,g=6,s=61
+<bot>Quamoclit pennata</bot> 1 gs=2,g=67,s=109
+<bot>Rauhinia variegata</bot> 1 gs=0,g=0,s=440
+<bot>Rhinacanthus communis</bot> 1 gs=2,g=53,s=1418
+<bot>Rhinacnathus communis</bot> 1 gs=0,g=0,s=1418
+<bot>Rhus succedanea</bot> 2 gs=10,g=879,s=24
+<bot>Ricinus communis L.</bot> 2 gs=152,g=236,s=1418
+<bot>Ricinus communis</bot> 32 gs=152,g=236,s=1418
+<bot>Rosa alba</bot> 1 gs=26,g=11467,s=1605
+<bot>Rosa glandulifera</bot> 12 gs=2,g=11467,s=292
+<bot>Rosa moschata</bot> 7 gs=30,g=11467,s=220
+<bot>Rotteria tinctoria</bot> 1 gs=0,g=0,s=492
+<bot>Rottleria tinctoria</bot> 26 gs=0,g=0,s=492
+<bot>Rubia manjith</bot> 1 gs=1,g=325,s=1
+<bot>Rubia munjista</bot> 49 gs=1,g=325,s=1
+<bot>Ruellia longifolia</bot> 4 gs=7,g=1162,s=2056
+<bot>Rumex vesicarius</bot> 24 gs=7,g=1303,s=36
+<bot>Rumex vesicorius</bot> 1 gs=0,g=1303,s=0
+<bot>Ruta graveolens</bot> 13 gs=14,g=136,s=422
+<bot>Ruta graveoloens</bot> 1 gs=0,g=136,s=0
+<bot>Saccharu munjia</bot> 1 gs=0,g=0,s=0
+<bot>Saccharum cylindricum</bot> 7 gs=3,g=252,s=79
+<bot>Saccharum munjia Roxb.</bot> 1 gs=0,g=252,s=0
+<bot>Saccharum munjia</bot> 17 gs=0,g=252,s=0
+<bot>Saccharum officinarum L.</bot> 1 gs=27,g=252,s=122
+<bot>Saccharum officinarum</bot> 1 gs=27,g=252,s=122
+<bot>Saccharum percerum</bot> 1 gs=0,g=252,s=0
+<bot>Saccharum sara Roxb.</bot> 1 gs=1,g=252,s=3
+<bot>Saccharum sara</bot> 21 gs=1,g=252,s=3
+<bot>Saccharum sponataneum L.</bot> 1 gs=0,g=252,s=0
+<bot>Saccharum spontaneum L.</bot> 11 gs=14,g=252,s=34
+<bot>Saccharum spontaneum Lin.</bot> 1 gs=14,g=252,s=34
+<bot>Saccharum spontaneum</bot> 22 gs=14,g=252,s=34
+<bot>Saivinia cucullata</bot> 1 gs=0,g=0,s=220
+<bot>Salmalia malabarica Sch. u. Endl.</bot> 2 gs=1,g=5,s=155
+<bot>Salmalia malabarica</bot> 22 gs=1,g=5,s=155
+<bot>Salmaria malabarica</bot> 2 gs=0,g=0,s=155
+<bot>Salvadora persica</bot> 12 gs=11,g=31,s=463
+<bot>Salvinia cuculata</bot> 1 gs=0,g=35,s=0
+<bot>Salvinia cucullata Roxb.</bot> 2 gs=1,g=35,s=220
+<bot>Salvinia cucullata</bot> 32 gs=1,g=35,s=220
+<bot>Sanseviera ceylanica Roxb.</bot> 1 gs=0,g=0,s=108
+<bot>Sanseviera ceylanica</bot> 2 gs=0,g=0,s=108
+<bot>Sanseviera guineensis</bot> 2 gs=0,g=0,s=276
+<bot>Sanseviera roxburghiana</bot> 34 gs=0,g=0,s=108
+<bot>Sanseviera roxvurgiana</bot> 1 gs=0,g=0,s=0
+<bot>Sanseviera zeylanica</bot> 15 gs=0,g=0,s=355
+<bot>Sansevira zeylanica</bot> 1 gs=0,g=0,s=355
+<bot>Sapindus detergens Roxb.</bot> 1 gs=2,g=153,s=11
+<bot>Sapindus detergens</bot> 4 gs=2,g=153,s=11
+<bot>Sarcostemma viminale R. Br.</bot> 2 gs=9,g=120,s=38
+<bot>Sarcostemma viminale</bot> 1 gs=9,g=120,s=38
+<bot>Saussurea uricutata</bot> 1 gs=0,g=1107,s=0
+<bot>Schirpus kysoor</bot> 1 gs=0,g=0,s=2
+<bot>Schoenandthus indicus</bot> 1 gs=0,g=0,s=164
+<bot>Schrebera swietenioides</bot> 8 gs=2,g=48,s=5
+<bot>Schreberia swietenoides</bot> 2 gs=0,g=0,s=0
+<bot>Scindapsus officinalis Sch.</bot> 1 gs=1,g=91,s=929
+<bot>Scindapsus officinalis</bot> 27 gs=1,g=91,s=929
+<bot>Scirpus kysoor Roxb.</bot> 1 gs=1,g=1865,s=2
+<bot>Scirpus kysoor</bot> 15 gs=1,g=1865,s=2
+<bot>Scirpus maximus</bot> 3 gs=1,g=1865,s=110
+<bot>Scripus kysoor</bot> 1 gs=0,g=0,s=2
+<bot>Semecarpus anacardium L.</bot> 5 gs=5,g=176,s=8
+<bot>Semecarpus anacardium</bot> 38 gs=5,g=176,s=8
+<bot>Senna esculenta</bot> 1 gs=1,g=567,s=191
+<bot>Senna obtusa</bot> 1 gs=1,g=567,s=584
+<bot>Serratula anthelminthica</bot> 11 gs=0,g=389,s=10
+<bot>Sesamum indicum</bot> 3 gs=7,g=94,s=413
+<bot>Sesamum orientale</bot> 1 gs=1,g=94,s=338
+<bot>Sesbana grandiflora</bot> 1 gs=0,g=0,s=2068
+<bot>Sesbania aegyptiaca Pers.</bot> 2 gs=4,g=191,s=170
+<bot>Sesbania aegyptiaca</bot> 15 gs=4,g=191,s=170
+<bot>Sesbania grandiflora</bot> 1 gs=1,g=191,s=2068
+<bot>Shorea harz</bot> 1 gs=0,g=349,s=0
+<bot>Shorea robusta</bot> 46 gs=4,g=349,s=779
+<bot>Sida alba</bot> 1 gs=2,g=1439,s=1605
+<bot>Sida albe Lin.</bot> 1 gs=0,g=1439,s=0
+<bot>Sida cordifolia und rhombifolia</bot> 1 gs=12,g=1439,s=858
+<bot>Sida cordifolia</bot> 33 gs=12,g=1439,s=858
+<bot>Sida rhombifolia</bot> 7 gs=33,g=1439,s=185
+<bot>Sida rhomboidea</bot> 6 gs=1,g=1439,s=139
+<bot>Sida rhomboides</bot> 3 gs=0,g=1439,s=5
+<bot>Sida spinosa</bot> 1 gs=7,g=1439,s=988
+<bot>Silurus boalis</bot> 1 gs=0,g=0,s=0
+<bot>Silurus pabda</bot> 3 gs=0,g=0,s=0
+<bot>Silurus pelorius</bot> 4 gs=0,g=0,s=0
+<bot>Silurus pungentissimus</bot> 1 gs=0,g=0,s=0
+<bot>Silurus singio</bot> 3 gs=0,g=0,s=0
+<bot>Silurus unitus</bot> 1 gs=0,g=0,s=6
+<bot>Simia erythraea</bot> 1 gs=0,g=0,s=52
+<bot>Sinapis dichotoma</bot> 6 gs=1,g=220,s=645
+<bot>Sinapis glauca</bot> 2 gs=1,g=220,s=1856
+<bot>Sinapis racemosa</bot> 1 gs=0,g=220,s=1274
+<bot>Sinapis ramosa Roxb.</bot> 2 gs=1,g=220,s=487
+<bot>Sinapis ramosa</bot> 10 gs=1,g=220,s=487
+<bot>Sindapsus officinalis</bot> 1 gs=0,g=0,s=929
+<bot>Sinus versus</bot> 3 gs=0,g=0,s=0
+<bot>Siphonanthus indica</bot> 1 gs=0,g=34,s=1027
+<bot>Smilax china Lin.</bot> 1 gs=24,g=955,s=26
+<bot>Smilax china</bot> 3 gs=24,g=955,s=26
+<bot>Solanum diffusum</bot> 5 gs=5,g=5956,s=202
+<bot>Solanum indicum und Jacquini</bot> 1 gs=56,g=5956,s=413
+<bot>Solanum indicum</bot> 15 gs=56,g=5956,s=413
+<bot>Solanum jacquini Willd.</bot> 1 gs=0,g=5956,s=0
+<bot>Solanum jacquini</bot> 39 gs=0,g=5956,s=0
+<bot>Solanum longum</bot> 1 gs=1,g=5956,s=26
+<bot>Solanum melongena</bot> 22 gs=30,g=5956,s=31
+<bot>Solanum trilobatum</bot> 1 gs=3,g=5956,s=44
+<bot>Sorex moschatus</bot> 2 gs=0,g=0,s=49
+<bot>Sorghum cernuum</bot> 1 gs=8,g=570,s=168
+<bot>Soymida febrifuga</bot> 1 gs=1,g=3,s=45
+<bot>Spaeranthus mollis</bot> 1 gs=0,g=0,s=1648
+<bot>Sphacranthus mollis</bot> 1 gs=0,g=0,s=1648
+<bot>Sphaeranthus hirtus</bot> 4 gs=1,g=115,s=519
+<bot>Sphaeranthus indicus</bot> 2 gs=3,g=115,s=164
+<bot>Sphaeranthus mollis</bot> 5 gs=1,g=115,s=1648
+<bot>Sphex asiatica</bot> 1 gs=0,g=0,s=227
+<bot>Spondias managifera</bot> 1 gs=0,g=103,s=0
+<bot>Spondias mangifera</bot> 26 gs=2,g=103,s=4
+<bot>Status gastricus</bot> 1 gs=0,g=0,s=0
+<bot>Steracantha longifolia</bot> 1 gs=0,g=0,s=2056
+<bot>Strychnos nux vomica</bot> 11 gs=0,g=585,s=0
+<bot>Strychnos patatorum</bot> 1 gs=0,g=585,s=0
+<bot>Strychnos potatorum L.</bot> 1 gs=1,g=585,s=4
+<bot>Strychnos potatorum</bot> 13 gs=1,g=585,s=4
+<bot>Sulmalia malabarica</bot> 1 gs=0,g=0,s=155
+<bot>Sylvia sutoria</bot> 3 gs=0,g=0,s=0
+<bot>Symplocos racemosa</bot> 33 gs=4,g=1210,s=1274
+<bot>Syvia sutoria</bot> 1 gs=0,g=0,s=0
+<bot>Tabernaemontana coronaria Willd.</bot> 1 gs=2,g=483,s=135
+<bot>Tabernaemontana coronaria</bot> 40 gs=2,g=483,s=135
+<bot>Tacrnaemontana coronaria</bot> 1 gs=0,g=0,s=135
+<bot>Tamarindas indica</bot> 1 gs=0,g=0,s=1027
+<bot>Tamarindus indica</bot> 8 gs=2,g=9,s=1027
+<bot>Tamarix indica</bot> 5 gs=1,g=351,s=1027
+<bot>Tectona grandis</bot> 22 gs=6,g=12,s=761
+<bot>Terminali bellerica</bot> 1 gs=0,g=0,s=0
+<bot>Terminalia alata</bot> 2 gs=5,g=661,s=657
+<bot>Terminalia arjuna W. u. A.</bot> 2 gs=2,g=661,s=3
+<bot>Terminalia arjuna</bot> 7 gs=2,g=661,s=3
+<bot>Terminalia arunja W. u. A.</bot> 1 gs=0,g=661,s=0
+<bot>Terminalia arunja</bot> 26 gs=0,g=661,s=0
+<bot>Terminalia bellerica Roxb.</bot> 1 gs=0,g=661,s=0
+<bot>Terminalia bellerica</bot> 35 gs=0,g=661,s=0
+<bot>Terminalia catappa</bot> 22 gs=6,g=661,s=10
+<bot>Terminalia chebula</bot> 38 gs=5,g=661,s=7
+<bot>Terminalia citrina Roxb.</bot> 3 gs=2,g=661,s=150
+<bot>Terminalia citrina</bot> 10 gs=2,g=661,s=150
+<bot>Terminalia glabra</bot> 1 gs=3,g=661,s=1531
+<bot>Terminalia tomentosa W. u. A.</bot> 1 gs=3,g=661,s=2038
+<bot>Terminalia tomentosa</bot> 26 gs=3,g=661,s=2038
+<bot>Terminalica chebula</bot> 1 gs=0,g=0,s=7
+<bot>Terminalica citrina</bot> 1 gs=0,g=0,s=150
+<bot>Terminalis altata</bot> 1 gs=0,g=19,s=1
+<bot>Tetanus rectus</bot> 1 gs=0,g=0,s=11
+<bot>Thepesia populneoides</bot> 1 gs=0,g=0,s=3
+<bot>Thespesia populnea</bot> 3 gs=7,g=45,s=81
+<bot>Thespesia populneiodes</bot> 1 gs=0,g=45,s=0
+<bot>Thespesia populneoides Wall.</bot> 1 gs=1,g=45,s=3
+<bot>Thespesia populneoides</bot> 12 gs=1,g=45,s=3
+<bot>Thespesia populnes</bot> 1 gs=0,g=45,s=0
+<bot>Tiaridium indicum Lehm.</bot> 1 gs=2,g=9,s=413
+<bot>Tiaridium indicum</bot> 19 gs=2,g=9,s=413
+<bot>Tiaridum indicum</bot> 1 gs=0,g=0,s=413
+<bot>Tiridium indicum</bot> 1 gs=0,g=0,s=413
+<bot>Tithymalus antiguorum</bot> 1 gs=0,g=753,s=0
+<bot>Tithymalus antiquorum</bot> 8 gs=0,g=753,s=50
+<bot>Tora l.</bot> 1 gs=0,g=0,s=0
+<bot>Tragia involucrata L.</bot> 1 gs=9,g=412,s=507
+<bot>Tragia involucrata Lin.</bot> 1 gs=9,g=412,s=507
+<bot>Tragia involucrata</bot> 20 gs=9,g=412,s=507
+<bot>Tragta involucrata</bot> 1 gs=0,g=0,s=507
+<bot>Trapa bispinasa</bot> 1 gs=0,g=212,s=0
+<bot>Trapa bispinosa</bot> 30 gs=6,g=212,s=26
+<bot>Trewia nudiflora</bot> 1 gs=0,g=0,s=174
+<bot>Tribulus lanuginosus L.</bot> 1 gs=3,g=185,s=128
+<bot>Tribulus lanuginosus</bot> 11 gs=3,g=185,s=128
+<bot>Tribulus terrestris</bot> 2 gs=24,g=185,s=87
+<bot>Trichodesma zeylanicum</bot> 1 gs=14,g=127,s=172
+<bot>Trichopodus golisa</bot> 1 gs=0,g=0,s=0
+<bot>Trichosanthe dioeca</bot> 2 gs=0,g=0,s=18
+<bot>Trichosanthes anguina</bot> 2 gs=1,g=309,s=20
+<bot>Trichosanthes bracteata</bot> 1 gs=4,g=309,s=703
+<bot>Trichosanthes dioeca Roxb.</bot> 1 gs=0,g=309,s=18
+<bot>Trichosanthes dioeca</bot> 32 gs=0,g=309,s=18
+<bot>Trichosanthes palmata</bot> 1 gs=6,g=309,s=306
+<bot>Trichsanthes palmata</bot> 1 gs=0,g=0,s=306
+<bot>Trigionella corniculata</bot> 1 gs=0,g=0,s=293
+<bot>Trigonalla foenum graecum</bot> 1 gs=0,g=0,s=0
+<bot>Trigonella corniculata Lin.</bot> 1 gs=9,g=485,s=293
+<bot>Trigonella corniculata</bot> 43 gs=9,g=485,s=293
+<bot>Trigonella foenum graecum</bot> 23 gs=0,g=485,s=0
+<bot>Trigonilla foenum grecum</bot> 1 gs=0,g=0,s=0
+<bot>Trigonilla foenum</bot> 1 gs=0,g=0,s=0
+<bot>Trigonlla foenum</bot> 1 gs=0,g=0,s=0
+<bot>Trilobus lanuginosus</bot> 1 gs=0,g=0,s=128
+<bot>Trogai involucrata</bot> 1 gs=0,g=0,s=507
+<bot>Trophis aspera</bot> 21 gs=1,g=48,s=758
+<bot>Tropis aspera</bot> 1 gs=0,g=0,s=758
+<bot>Typha angusitifolia</bot> 1 gs=0,g=213,s=0
+<bot>Typha angustifolia</bot> 4 gs=28,g=213,s=2575
+<bot>Ungius adoratus</bot> 1 gs=0,g=0,s=0
+<bot>Unguis odoratus</bot> 3 gs=0,g=0,s=111
+<bot>Uraria lagopadioides</bot> 1 gs=0,g=78,s=0
+<bot>Uraria lagopodioides</bot> 22 gs=2,g=78,s=26
+<bot>Urtica interrupta</bot> 1 gs=3,g=799,s=240
+<bot>Uvaria longifolia</bot> 1 gs=2,g=549,s=2056
+<bot>Vachellia farnesiana W. u. A.</bot> 2 gs=12,g=265,s=28
+<bot>Vachellia farnesiana</bot> 4 gs=12,g=265,s=28
+<bot>Vachellia farnestana</bot> 1 gs=0,g=265,s=0
+<bot>Valeriana jatamansi Jon.</bot> 1 gs=6,g=1186,s=10
+<bot>Valeriana jatamansi Jones</bot> 1 gs=6,g=1186,s=10
+<bot>Valeriana jatamansi</bot> 1 gs=6,g=1186,s=10
+<bot>Vallaris dichotomus Wall.</bot> 1 gs=0,g=31,s=112
+<bot>Vallaris dichotomus</bot> 2 gs=0,g=31,s=112
+<bot>Vallisneria octandra</bot> 1 gs=1,g=55,s=105
+<bot>Vanda roxburghii</bot> 20 gs=3,g=258,s=297
+<bot>Vangueira spinosa</bot> 1 gs=0,g=0,s=988
+<bot>Vangueria spinasa</bot> 1 gs=0,g=205,s=0
+<bot>Vangueria spinosa</bot> 15 gs=3,g=205,s=988
+<bot>Vanguerta spinosa</bot> 1 gs=0,g=0,s=988
+<bot>Vanguiera spinosa Roxb.</bot> 1 gs=0,g=0,s=988
+<bot>Vanguiera spinosa</bot> 11 gs=0,g=0,s=988
+<bot>Vanguierd spinosa</bot> 1 gs=0,g=0,s=988
+<bot>Vatica robusta W. u. A.</bot> 2 gs=1,g=208,s=779
+<bot>Vatica robusta</bot> 36 gs=1,g=208,s=779
+<bot>Ventilago madraspatana</bot> 1 gs=3,g=71,s=7
+<bot>Verbesina prostrata.</bot> 1 gs=0,g=618,s=0
+<bot>Verbesina scandens Roxb.</bot> 1 gs=1,g=618,s=1172
+<bot>Verbesina scandens</bot> 2 gs=1,g=618,s=1172
+<bot>Vernonia anthelminthica Willd.</bot> 1 gs=0,g=2469,s=10
+<bot>Vernonia anthelminthica</bot> 33 gs=0,g=2469,s=10
+<bot>Vespa solitaria</bot> 2 gs=0,g=0,s=45
+<bot>Villarsia cristata</bot> 2 gs=1,g=67,s=472
+<bot>Vitem negundo</bot> 1 gs=0,g=0,s=100
+<bot>Viter negundo</bot> 1 gs=0,g=0,s=100
+<bot>Vitex alata Roxb.</bot> 1 gs=4,g=728,s=657
+<bot>Vitex negundo L.</bot> 2 gs=21,g=728,s=100
+<bot>Vitex negundo</bot> 31 gs=21,g=728,s=100
+<bot>Vitex paniculata</bot> 1 gs=1,g=728,s=1564
+<bot>Vitis pedata Wall.</bot> 1 gs=1,g=1194,s=161
+<bot>Vitis quadrangularis Wall.</bot> 1 gs=1,g=1194,s=195
+<bot>Vitis quadrangularis</bot> 4 gs=1,g=1194,s=195
+<bot>Vitoria ternatea</bot> 1 gs=0,g=0,s=21
+<bot>Viverra ichmneumon</bot> 1 gs=0,g=0,s=0
+<bot>Viverra ichneumon</bot> 1 gs=0,g=0,s=0
+<bot>Webera corymbosa</bot> 1 gs=1,g=92,s=839
+<bot>Wedelia calenduiacea</bot> 1 gs=0,g=406,s=0
+<bot>Wedelia calendulacea</bot> 1 gs=2,g=406,s=26
+<bot>Wightia antidysanterica</bot> 1 gs=0,g=13,s=0
+<bot>Wrighia antidysenterica</bot> 1 gs=0,g=0,s=14
+<bot>Wrightia antidysenterica R. Br.</bot> 1 gs=1,g=95,s=14
+<bot>Wrightia antidysenterica</bot> 39 gs=1,g=95,s=14
+<bot>Wrightia antidytsenterica</bot> 1 gs=0,g=95,s=0
+<bot>Wrightia sirissa</bot> 1 gs=0,g=95,s=1
+<bot>Wrigthia antidysenterica</bot> 2 gs=0,g=0,s=14
+<bot>Wrigtia antidysenterica</bot> 1 gs=0,g=0,s=14
+<bot>Xanthochymus pictorius</bot> 21 gs=1,g=16,s=1
+<bot>Xanthophyllum virens</bot> 1 gs=1,g=203,s=322
+<bot>Xanthoxylon alatum</bot> 1 gs=0,g=0,s=281
+<bot>Xanthoxylon hastile</bot> 2 gs=0,g=0,s=8
+<bot>Xanthoxylon rhetsa</bot> 2 gs=0,g=0,s=2
+<bot>Xanthoxylum alatum</bot> 1 gs=0,g=1,s=281
+<bot>Ximenia aegyptiaca</bot> 1 gs=1,g=56,s=170
+<bot>Xylocarpus granatum</bot> 4 gs=1,g=23,s=35
+<bot>Zanthoxylon alatum</bot> 1 gs=0,g=0,s=281
+<bot>Zanthoxylon rhetsa</bot> 2 gs=0,g=0,s=2
+<bot>Zingiber zerumbet</bot> 1 gs=7,g=335,s=13
+<bot>Zizyphus jujuba</bot> 16 gs=0,g=0,s=24
+<bot>Zizyphus oenoplia</bot> 1 gs=0,g=0,s=1
+<bot>Zizyphus scandens</bot> 1 gs=0,g=0,s=1172
+<bot>Zizyphus xylopyrus</bot> 1 gs=0,g=0,s=3
+<bot>Zymplocos racemosa</bot> 1 gs=0,g=0,s=1274

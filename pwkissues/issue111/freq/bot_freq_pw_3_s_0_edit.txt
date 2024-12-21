@@ -1,0 +1,164 @@
+<bot>Agathotes chirayt</bot> 1 gs=0,g=4,s=0 bot sp. "Agathotes chirayta"
+<bot>Aglaia odeorata</bot> 1 gs=0,g=542,s=0 bot sp. "Aglaia odorata"
+<bot>Alhagi murrorum</bot> 1 gs=0,g=34,s=0 bot sp. "Alhagi maurorum"
+<bot>Alhagi murorum</bot> 1 gs=0,g=34,s=0 bot sp. "Alhagi maurorum"
+<bot>Amoora rohitaka</bot> 2 gs=0,g=81,s=0 bot sp. "Amoora rohituka"
+<bot>Amorphophallus companulatus</bot> 1 gs=0,g=379,s=0 bot sp. "Amorphophallus campanulatus"
+<bot>Amorphophallus compunilatus</bot> 1 gs=0,g=379,s=0 bot sp. "Amorphophallus campunilatus"
+<bot>Andersonia rohitaka</bot> 20 gs=0,g=66,s=0 bot sp. "Andersonia rohituka" print change
+<bot>Andropogon jawarancusa</bot> 1 gs=0,g=1837,s=0 bot sp. "Andropogon jwarancusa"
+<bot>Anethum dill</bot> 2 gs=0,g=47,s=0 bot sp. "Anethum graveolens" print change. ?
+<bot>Artocarpus locutscha Roxb.</bot> 2 gs=0,g=226,s=0 bot sp. "Artocarpus lacucha Roxb." print change
+<bot>Asclepias rosca</bot> 1 gs=0,g=825,s=0 bot sp. "Asclepias rosea"
+<bot>Averrhoa corambola</bot> 3 gs=0,g=15,s=0 bot sp. "Averrhoa carambola"
+<bot>Barleria priontis</bot> 1 gs=0,g=620,s=0 bot sp. "Barleria prionitis"
+<bot>Betula bhojpatra</bot> 29 gs=0,g=1097,s=0 bot sp. "Betula bhojpattra" print change
+<bot>Calotropis giganten</bot> 1 gs=0,g=15,s=0 bot sp. "Calotropis gigantea"
+<bot>Capparis sepiarioa</bot> 1 gs=0,g=873,s=0 bot sp. "Capparis sepiaria"
+<bot>Capparis sepiarla</bot> 1 gs=0,g=873,s=0 bot sp. "Capparis sepiaria"
+<bot>Capparis sepiartia</bot> 1 gs=0,g=873,s=0 bot sp. "Capparis sepiaria"
+<bot>Capparis trifliata</bot> 1 gs=0,g=873,s=0 bot sp. "Capparis trifoliata"
+<bot>Cardiospermum halicabum</bot> 1 gs=0,g=95,s=0 bot sp. "Cardiospermum halicacabum"
+<bot>Carissa carnadas</bot> 1 gs=0,g=118,s=0 bot sp. "Carissa carandas"
+<bot>Carpopogon prurens</bot> 1 gs=0,g=10,s=0 bot sp. "Carpopogon pruriens"
+<bot>Carpopogon prurtens</bot> 1 gs=0,g=10,s=0 bot sp. "Carpopogon pruriens"
+<bot>Cassia sophora</bot> 10 gs=0,g=1728,s=0 bot sp. "Cassia sophera" print change
+<bot>Celosia eristata</bot> 1 gs=0,g=223,s=0 bot sp. "Celosia cristata"
+<bot>Celosia tristata</bot> 1 gs=0,g=223,s=0 bot sp. "Celosia cristata"
+<bot>Cerasus pudum</bot> 1 gs=0,g=743,s=0 bot sp. "Cerasus puddum"
+<bot>Clerodendrum sinhonnthus</bot> 1 gs=0,g=993,s=0 bot sp. "Clerodendrum siphonanthus"
+<bot>Clerodendrum siphoananthus R. Br.</bot> 1 gs=0,g=993,s=0 bot sp. "Clerodendrum siphonanthus R. Br."
+<bot>Clerodendrum siphoanathus</bot> 1 gs=0,g=993,s=0 bot sp. "Clerodendrum siphonanthus"
+<bot>Clerodendrum siphonantus</bot> 2 gs=0,g=993,s=0 bot sp. "Clerodendrum siphonanthus"
+<bot>Clerodendrum siphonathus</bot> 1 gs=0,g=993,s=0 bot sp. "Clerodendrum siphonanthus"
+<bot>Clerodendrum siphononthus</bot> 1 gs=0,g=993,s=0 bot sp. "Clerodendrum siphonanthus"
+<bot>Clerodendrum siponanthus</bot> 1 gs=0,g=993,s=0 bot sp. "Clerodendrum siphonanthus"
+<bot>Clypea hermandifolia</bot> 1 gs=0,g=21,s=0 bot sp. "Clypea hernandifolia"
+<bot>Coleus scutellaroides</bot> 1 gs=0,g=612,s=0 bot sp. "Coleus scutellarioides"
+<bot>Convolvulus argentens</bot> 1 gs=0,g=1844,s=0 bot sp. "Convolvulus argenteus"
+<bot>Convolvulus trupethum</bot> 1 gs=0,g=1844,s=0 bot sp. "Convolvulus turpethum"
+<bot>Croton jamlagota</bot> 1 gs=0,g=2871,s=0 bot sp. "Croton jamalgota"
+<bot>Croton tiglicum</bot> 1 gs=0,g=2871,s=0 bot sp. "Croton tiglium"
+<bot>Curcuma amhaldi</bot> 9 gs=0,g=213,s=0 bot sp. "Curcuma amhaldi"? not found. Same as 'C. amada'?
+<bot>Curcuma longe</bot> 1 gs=0,g=213,s=0 bot sp. "Curcuma longa"
+<bot>Datura stechafel</bot> 1 gs=0,g=145,s=0 bot sp. "Datura stechafel"? de.wikipedia Stech(a-umlaut)pfel
+<bot>Desmodium gangetium</bot> 1 gs=0,g=980,s=0 bot sp. "Desmodium gangeticum"
+<bot>Dioscorea aculeadta</bot> 1 gs=0,g=1564,s=0 bot sp. "Dioscorea aculeata"
+<bot>Echites frutesecens</bot> 1 gs=0,g=510,s=0 bot sp. "Echites frutescens"
+<bot>Elaeocarpus ganitruss</bot> 1 gs=0,g=945,s=0 bot sp. "Elaeocarpus ganitrus"
+<bot>Eleusine corocana</bot> 2 gs=0,g=126,s=0 bot sp. "Eleusine coracana" print change
+<bot>Eugenia jambalana</bot> 1 gs=0,g=3760,s=0 bot sp. "Eugenia jambolana"
+<bot>Feronia elephanteum</bot> 2 gs=0,g=7,s=0 bot sp. "Feronia elephantum"
+<bot>Ferula asa</bot> 3 gs=0,g=466,s=0 bot sp. "Ferula asa"? Ferula asafoetida
+<bot>Ficus hierophylla</bot> 1 gs=0,g=3908,s=0 bot sp. "Ficus heterophylla"
+<bot>Flacourtia cataphrachta</bot> 1 gs=0,g=104,s=0 bot sp. "Flacourtia cataphracta"
+<bot>Flacourtia cataphraeta</bot> 1 gs=0,g=104,s=0 bot sp. "Flacourtia cataphracta"
+<bot>Flacourtia cataphrcata</bot> 1 gs=0,g=104,s=0 bot sp. "Flacourtia cataphracta"
+<bot>Flacourtia cotaphracta</bot> 1 gs=0,g=104,s=0 bot sp. "Flacourtia cataphracta"
+<bot>Flacourtia savida</bot> 1 gs=0,g=104,s=0 bot sp. "Flacourtia sapida"
+<bot>Flacourtia sopida</bot> 1 gs=0,g=104,s=0 bot sp. "Flacourtia sapida"
+<bot>Gaertnera racemasa</bot> 1 gs=0,g=188,s=0 bot sp. "Gaertnera racemosa"
+<bot>Gentiana cherayta</bot> 3 gs=0,g=2454,s=0 bot sp. "Gentiana chirayita" print change
+<bot>Gentiana chiraita Wall.</bot> 1 gs=0,g=2454,s=0 bot sp. "Gentiana chirayita Wall."  print change
+<bot>Gossampinus rumphit</bot> 1 gs=0,g=18,s=0 bot sp. "Gossampinus rumphii"
+<bot>Grislea tometonsa</bot> 1 gs=0,g=14,s=0 bot sp. "Grislea tomentosa"
+<bot>Guilandina bonduc.</bot> 6 gs=0,g=46,s=0 bot sp. "Guilandina bonduc." period after </bot>
+<bot>Guilandina bondue</bot> 1 gs=0,g=46,s=0 bot sp. "Guilandina bonduc"
+<bot>Gymnema sylverstre</bot> 1 gs=0,g=123,s=0 bot sp. "Gymnema sylvestre"
+<bot>Gynandropsis penaphylla</bot> 1 gs=0,g=48,s=0 bot sp. "Gynandropsis pentaphylla"
+<bot>Hedyotis burnanniana</bot> 1 gs=0,g=1086,s=0 bot sp. "Hedyotis burmanniana"
+<bot>Hedysarum athoagi</bot> 1 gs=0,g=1059,s=0 bot sp. "Hedysarum athagi"
+<bot>Helminthostachys lawiniata</bot> 1 gs=0,g=8,s=0 bot sp. "Helminthostachys laciniata"
+<bot>Hibiscus mutablilis</bot> 1 gs=0,g=1544,s=0 bot sp. "Hibiscus mutabilis"
+<bot>Hoya viriflora</bot> 1 gs=0,g=885,s=0 bot sp. "Hoya viridiflora"
+<bot>Ichnocarpus frutecens</bot> 1 gs=0,g=60,s=0 bot sp. "Ichnocarpus frutescens"
+<bot>Indigofera tintoria</bot> 1 gs=0,g=1825,s=0 bot sp. "Indigofera tinctoria"
+<bot>Ipomoea turopethum</bot> 1 gs=0,g=2728,s=0 bot sp. "Ipomoea turpethum"
+<bot>Ixora bandhucca</bot> 1 gs=0,g=1103,s=0 bot sp. "Ixora bandhuca" print change
+<bot>Jasminum jacquini</bot> 1 gs=0,g=802,s=0 bot sp. "Jasminum jacquemontii" print change
+<bot>Jasminum pubescenz</bot> 1 gs=0,g=802,s=0 bot sp. "Jasminum pubescens"
+<bot>Jonesia asoka Roxb.</bot> 1 gs=0,g=12,s=0 bot sp. "Jonesia asoca Roxb." print change (modern spelling)
+<bot>Jonesia asoka</bot> 27 gs=0,g=12,s=0 bot sp. "Jonesia asoca" print change (modern spelling)
+<bot>Ligusticum ajwan</bot> 1 gs=0,g=377,s=0 bot sp. "Ligusticum ajowan"
+<bot>Linum usitatisimum</bot> 1 gs=0,g=1033,s=0 bot sp. "Linum usitatissimum"
+<bot>Linum usitatissmum</bot> 1 gs=0,g=1033,s=0 bot sp. "Linum usitatissimum"
+<bot>Lycopodium cimbricatum</bot> 1 gs=0,g=1217,s=0 bot sp. "Lycopodium imbricatum"
+<bot>Mangifera sylvativa</bot> 1 gs=0,g=168,s=0 bot sp. "Mangifera sylvatica"
+<bot>Mangifera sylvtica</bot> 1 gs=0,g=168,s=0 bot sp. "Mangifera sylvatica"
+<bot>Mesua ferra</bot> 2 gs=0,g=76,s=0 bot sp. "Mesua ferrea"
+<bot>Mimosa secressa</bot> 1 gs=0,g=2124,s=0 bot sp. "Mimosa seeressa"
+<bot>Mimusops kanki</bot> 1 gs=0,g=265,s=0 bot sp. "Mimusops kanki"?
+<bot>Moringa ptergosperma</bot> 1 gs=0,g=34,s=0 bot sp. "Moringa pterygosperma"
+<bot>Moringa pterugosperma</bot> 1 gs=0,g=34,s=0 bot sp. "Moringa pterygosperma"
+<bot>Moringa pterygospermum</bot> 2 gs=0,g=34,s=0 bot sp. "Moringa pterygosperma" print change 
+<bot>Moringa pteryhosprma</bot> 1 gs=0,g=34,s=0 bot sp. "Moringa pterygosperma"
+<bot>Mucuna praritus</bot> 1 gs=0,g=264,s=0 bot sp. "Mucuna pruriens" print change modern
+<bot>Mucuna pruitus</bot> 1 gs=0,g=264,s=0 bot sp. "Mucuna pruriens" print change modern
+<bot>Mucuna pruritus Hook.</bot> 1 gs=0,g=264,s=0 bot sp. "Mucuna pruriens Hook." print change modern
+<bot>Mucuna pruritus</bot> 33 gs=0,g=264,s=0 bot sp. "Mucuna pruriens" print change modern
+<bot>Mucuna ruritus</bot> 1 gs=0,g=264,s=0 bot sp. "Mucuna pruriens" print change modern
+<bot>Musa sapientam</bot> 1 gs=0,g=467,s=0 bot sp. "Musa sapientum"
+<bot>Nardostachys jatamanzi</bot> 1 gs=0,g=6,s=0 bot sp. "Nardostachys jatamansi"
+<bot>Nardostachys jatamnsi</bot> 1 gs=0,g=6,s=0 bot sp. "Nardostachys jatamansi"
+<bot>Nardostachys jatmansi</bot> 1 gs=0,g=6,s=0 bot sp. "Nardostachys jatamansi"
+<bot>Nauclea cadamaba</bot> 2 gs=0,g=231,s=0 bot sp. "Nauclea cadamba"
+<bot>Nauclea cordifoloa</bot> 1 gs=0,g=231,s=0 bot sp. "Nauclea cordifolia"
+<bot>Nyctanthes arber tristis</bot> 1 gs=0,g=19,s=0 bot sp. "Nyctanthes arbor tristis"
+<bot>Nymphaea cyanca</bot> 1 gs=0,g=499,s=0 bot sp. "Nymphaea cyanea"
+<bot>Ocimum pilosun</bot> 1 gs=0,g=395,s=0 bot sp. "Ocimum pilosum"
+<bot>Ocimum sanetum</bot> 1 gs=0,g=395,s=0 bot sp. "Ocimum sanctum"
+<bot>Ophiocephalus wrahl</bot> 1 gs=0,g=2,s=0 zoo fish 
+<bot>Oxalis pusila</bot> 1 gs=0,g=2161,s=0 bot sp. "Oxalis pusilla"
+<bot>Pandanus odoratissinus</bot> 1 gs=0,g=1415,s=0 bot sp. "Pandanus odoratissimus"
+<bot>Paspalum scrabiculatum</bot> 1 gs=0,g=1384,s=0 bot sp. "Paspalum scrobiculatum"
+<bot>Penicillaria spicat Willd.</bot> 1 gs=0,g=35,s=0 bot sp. "Penicillaria spicata Willd."
+<bot>Pentapetes phoenicen</bot> 1 gs=0,g=26,s=0 bot sp. "Pentapetes phoenicea"
+<bot>Phaseolus aconitifolus</bot> 1 gs=0,g=1006,s=0 bot sp. "Phaseolus aconitifolius"
+<bot>Phaseolus aconittifolius</bot> 1 gs=0,g=1006,s=0 bot sp. "Phaseolus aconitifolius"
+<bot>Phaseolus irilobus</bot> 1 gs=0,g=1006,s=0 bot sp. "Phaseolus trilobus"
+<bot>Phaseolus trillobus</bot> 1 gs=0,g=1006,s=0 bot sp. "Phaseolus trilobus"
+<bot>Phoenix sylverstris</bot> 4 gs=0,g=80,s=0 bot sp. "Phoenix sylvestris"
+<bot>Phyllanthus embelica</bot> 1 gs=0,g=2236,s=0 bot sp. "Phyllanthus emblica"
+<bot>Phyllanthus niruir</bot> 1 gs=0,g=2236,s=0 bot sp. "Phyllanthus niruri"
+<bot>Physalis flexuousa</bot> 2 gs=0,g=460,s=0 bot sp. "Physalis flexuosa"?
+<bot>Pinus deodera</bot> 1 gs=0,g=1804,s=0 bot sp. "Pinus deodara" print change modern
+<bot>Pinus deodora Roxb.</bot> 2 gs=0,g=1804,s=0 bot sp. "Pinus deodara Roxb." print change modern
+<bot>Pinus deodora</bot> 39 gs=0,g=1804,s=0 bot sp. "Pinus deodara" print change modern
+<bot>Piper chapa</bot> 1 gs=0,g=4750,s=0 bot sp. "Piper chaba"
+<bot>Piper langeum</bot> 1 gs=0,g=4750,s=0 bot sp. "Piper longum"
+<bot>Plectranthus scutellaioides</bot> 1 gs=0,g=839,s=0 bot sp. "Plectranthus scutellarioides"
+<bot>Polanisia icaosandra</bot> 1 gs=0,g=68,s=0 bot sp. "Polanisia icosandra"
+<bot>Polanisia incosandra</bot> 1 gs=0,g=68,s=0 bot sp. "Polanisia icosandra"
+<bot>Pothos officinatis Roxb.</bot> 1 gs=0,g=262,s=0 bot sp. "Pothos officinalis Roxb."
+<bot>Rumex vesicorius</bot> 1 gs=0,g=1303,s=0 bot sp. "Rumex vesicarius"
+<bot>Ruta graveoloens</bot> 1 gs=0,g=136,s=0 bot sp. "Ruta graveolens"
+<bot>Saccharum munjia Roxb.</bot> 1 gs=0,g=252,s=0 bot sp. "Saccharum munja Roxb." print change modern
+<bot>Saccharum munjia</bot> 17 gs=0,g=252,s=0 bot sp. "Saccharum munja"? print change modern
+<bot>Saccharum percerum</bot> 1 gs=0,g=252,s=0 bot sp. "Saccharum procerum"
+<bot>Saccharum sponataneum L.</bot> 1 gs=0,g=252,s=0 bot sp. "Saccharum spontaneum L."
+<bot>Salvinia cuculata</bot> 1 gs=0,g=35,s=0 bot sp. "Salvinia cucullata"
+<bot>Saussurea uricutata</bot> 1 gs=0,g=1107,s=0 bot sp. "Saussurea auriculata"
+<bot>Shorea harz</bot> 1 gs=0,g=349,s=0 notbot material resin
+<bot>Sida albe Lin.</bot> 1 gs=0,g=1439,s=0 bot sp. "Sida alba Lin."
+<bot>Solanum jacquini Willd.</bot> 1 gs=0,g=5956,s=0 bot sp. "Solanum jacquinii Willd." print change modern
+<bot>Solanum jacquini</bot> 39 gs=0,g=5956,s=0 bot sp. "Solanum jacquinii" print change modern
+<bot>Spondias managifera</bot> 1 gs=0,g=103,s=0 bot sp. "Spondias mangifera"
+<bot>Strychnos nux vomica</bot> 11 gs=0,g=585,s=0 bot sp. "Strychnos nux-vomica" print change modern
+<bot>Strychnos patatorum</bot> 1 gs=0,g=585,s=0 bot sp. "Strychnos potatorum"
+<bot>Terminalia arunja W. u. A.</bot> 1 gs=0,g=661,s=0 bot sp. "Terminalia arjuna W. u. A." print change modern
+<bot>Terminalia arunja</bot> 26 gs=0,g=661,s=0 bot sp. "Terminalia arjuna" print change modern
+<bot>Terminalia bellerica Roxb.</bot> 1 gs=0,g=661,s=0 bot sp. "Terminalia bellirica Roxb." print change modern
+<bot>Terminalia bellerica</bot> 35 gs=0,g=661,s=0 bot sp. "Terminalia bellirica" print change modern
+<bot>Thespesia populneiodes</bot> 1 gs=0,g=45,s=0 bot sp. "Thespesia populneoiodes"
+<bot>Thespesia populnes</bot> 1 gs=0,g=45,s=0 bot sp. "Thespesia populnea" 
+<bot>Tithymalus antiguorum</bot> 1 gs=0,g=753,s=0 bot sp. "Tithymalus antiquorum"
+<bot>Trapa bispinasa</bot> 1 gs=0,g=212,s=0 bot sp. "Trapa bispinosa"
+<bot>Trigonella foenum graecum</bot> 23 gs=0,g=485,s=0 bot sp. "Trigonella foenum-graecum"
+<bot>Typha angusitifolia</bot> 1 gs=0,g=213,s=0 bot sp. "Typha angustifolia"
+<bot>Uraria lagopadioides</bot> 1 gs=0,g=78,s=0 bot sp. "Uraria lagopodioides"
+<bot>Vachellia farnestana</bot> 1 gs=0,g=265,s=0 bot sp. "Vachellia farnesiana"
+<bot>Vangueria spinasa</bot> 1 gs=0,g=205,s=0 bot sp. "Vangueria spinosa"
+<bot>Verbesina prostrata.</bot> 1 gs=0,g=618,s=0 bot sp. "Verbesina prostrata"
+<bot>Wedelia calenduiacea</bot> 1 gs=0,g=406,s=0 bot sp. "Wedelia calendulacea"
+<bot>Wightia antidysanterica</bot> 1 gs=0,g=13,s=0 bot sp. "Wrightia antidysenterica"
+<bot>Wrightia antidytsenterica</bot> 1 gs=0,g=95,s=0 bot sp. "Wrightia antidysenterica"

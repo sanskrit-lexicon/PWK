@@ -1,0 +1,205 @@
+215	akowa	787	<bot>Catechu</bot>
+375	akzIba	1411	<bot>Hyperanthera (guilandian) Moringa</bot>
+1704	aticCattra	6563	<bot>gemeiner anis</bot>
+1705	aticCattraka	6568	<bot>gemeiner anis</bot>
+3646	anala	13590	<bot>rosea</bot>
+8111	amara	30123	<bot>indica royle</bot>
+8310	amirI	30852	<bot>rubra</bot>
+14314	Atreya	54025	<bot>Chylus</bot>
+14314	Atreya	54029	<bot>Chylus</bot>
+15000	Apya	56735	<bot>arabicus</bot>
+15064	ABA	56965	<bot>Asparagus</bot>
+15064	ABA	56965	<bot>Zizyphus</bot>
+15409	AragvaDa	58359	<bot>Cathartocarpus (cassia) fistula</bot>
+16027	Avega	60751	<bot>argentea</bot>
+18071	utkzipta	69698	<bot>fastuosa</bot>
+19007	uddAla	73334	<bot>latifolia</bot>
+20585	uraRAkza	79603	<bot>Tora</bot>
+20834	uzaRa	80655	<bot>Chaba</bot>
+21680	fzyaproktA	84150	<bot>rhombifolia</bot>
+22185	eqagaja	86083	<bot>alata</bot>
+23458	kawuka	91201	<bot>ramosa</bot>
+23476	kawukvARa	91269	<bot>goensis</bot>
+23608	kaRika	91814	<bot>langifolia</bot>
+24085	kandArha	93780	<bot>amorphophallus campanulatus</bot>
+24210	kapikA	94293	<bot>vitex negundo</bot>
+24905	karRaka	97645	<bot>longifolia</bot>
+25177	karbudAraka	98744	<bot>cordia latifolia</bot>
+25178	karbura	98752	<bot>Zerumbet</bot>
+26275	kARqapuzpa	103676	<bot n="Artemisia indica">A. i.</bot>
+26575	kAmapriyakarI	104915	<bot>physalis flexuosa</bot>
+27047	kArzmaryamaya	106842	<bot n="Gmelina arborea">Gm. arb.</bot>
+28151	kukola	111294	<bot>zizyphus jujuba</bot>
+28375	kuWika	112300	<bot>arabicus</bot>
+28539	kutsa	113048	<bot>arabicus</bot>
+28648	kunda	113461	<bot>Pubescens</bot>
+29503	kuzWa	116861	<bot>arabicus</bot>
+30270	kfSAnuga	119999	<bot>naravelia zeylanica</bot>
+30808	keSavarDana	122090	<bot>sida rhomboides</bot>
+30884	kEtaka	122439	<bot n="Pandanus odoratissimus">P. o.</bot>
+31061	koWarapuzpI	123201	<bot>convolvulus argenteus</bot>
+31124	koyazwi	123438	<bot>goensis</bot>
+31195	koSavant	123780	<bot>sulcatus</bot>
+31401	kObera	124578	<bot>arabicus</bot>
+32127	klItaka	127902	<bot>echinata</bot>
+32232	kzataviDvaMsin	128350	<bot>argentea</bot>
+33157	kzveqa	132293	<bot>acutangula</bot>
+33568	KarjUGna	134064	<bot>Tora</bot>
+34118	gajaskanDa	136365	<bot>Tora</bot>
+34314	gaRqagAtra	137215	<bot>squamosa</bot>
+34419	gadAKya	137686	<bot>arabicus</bot>
+34431	gadAhva	137726	<bot>arabicus</bot>
+34468	ganDa	137904	<bot>Zerumbet</bot>
+34523	ganDapalASI	138115	<bot>Zerumbet</bot>
+34554	ganDamUla	138249	<bot>Zerumbet</bot>
+34598	ganDavaDU	138440	<bot>Zerumbet</bot>
+34608	ganDaSawI	138495	<bot>Zerumbet</bot>
+34652	ganDoli	138673	<bot>Zerumbet</bot>
+36497	gojihvA	146755	<bot>Phlomis</bot>
+37187	gOrAvaskandin	149553	<bot n="Bos Gaurus">B. G.</bot>
+37305	granTila	150031	<bot>capparis aphylla</bot>
+37724	GaRwa	152134	<bot>rhombifolia</bot>
+38231	cakranaKa	154390	<bot>unguis odoratus</bot>
+38337	cakrin	154813	<bot>unguis odoratus</bot>
+38390	cakzuzya	155106	<bot>pandanus odoratissimus</bot>
+39429	cala	159664	<bot>unguis odoratus</bot>
+39963	citra	161978	<bot>Tiglium</bot>
+40505	cUqAmaRi	164275	<bot>der same</bot>
+40838	Cagala	165749	<bot>argentea</bot>
+40843	CagalAntrI	165770	<bot>argentea</bot>
+41763	jaya	169919	<bot>longifolia</bot>
+41887	jaraRa	170497	<bot>arabicus</bot>
+41986	jalakukkuBa	170864	<bot>goensis</bot>
+42921	jImUtamUla	174705	<bot>Zerumbet</bot>
+43142	juNga	175648	<bot>argentea</bot>
+43841	wiwwiBa	178826	<bot>goensis</bot>
+44569	tapaHkara	182371	<bot>paradiseus</bot>
+44599	tapasya	182524	<bot>pubescens</bot>
+44844	taruRa	183747	<bot>alba</bot>
+44844	taruRa	183748	<bot>Tiglium</bot>
+48894	dantamUlikA	200417	<bot>Tiglium</bot>
+49208	dalAQaka	202030	<bot>Pubescens</bot>
+49426	daSAnika	202836	<bot>Tiglium</bot>
+49861	dArva	204949	<bot>xanthorrhiza</bot>
+49862	dArvaka	204958	<bot>xanthorrhiza</bot>
+50536	dIpavfkza	207857	<bot>Deodora</bot>
+50677	dIrGamuKa	208515	<bot>goensis</bot>
+51354	durlaBa	211058	<bot>Zerumbet</bot>
+51583	duzwa	211933	<bot>arabicus</bot>
+54352	DattUra	222637	<bot>Stechafel</bot>
+55526	DUnaka	228309	<bot>Harz</bot>
+57038	nalina	234755	<bot n="Nelumbium speciosum">N. sp.</bot>
+60384	nistriMSapattraka	248019	<bot>tortilis</bot>
+61774	pacaMpacA	254168	<bot>xanthorrhiza</bot>
+62708	paTya	258238	<bot>citrina</bot>
+62708	paTya	258242	<bot>citrina</bot>
+62846	padmaka	259282	<bot>arabicus</bot>
+62892	padmapattra	259457	<bot>arabicus</bot>
+62894	padmaparRa	259463	<bot>arabicus</bot>
+62933	padmavarRaka	259620	<bot>arabicus</bot>
+64626	parjanI	266630	<bot>xanthorrhiza</bot>
+65375	pAkala	269790	<bot>arabicus</bot>
+66345	pAriBadraka	273693	<bot>arabicus</bot>
+66347	pAriBAvya	273701	<bot>arabicus</bot>
+66771	picCala	275613	<bot>rubra</bot>
+66777	picCila	275640	<bot>rubra</bot>
+66779	picCilacCadA	275652	<bot>portulaca quadrifida</bot>
+68487	puzkara	282575	<bot>arabicus</bot>
+68502	puzkarabIja	282656	<bot>arabicus</bot>
+68506	puzkaramUla	282668	<bot>arabicus</bot>
+68507	puzkaramUlaka	282671	<bot>arabicus</bot>
+68511	puzkaraSikA	282683	<bot>arabicus</bot>
+68513	puzkarasAgara	282689	<bot>arabicus</bot>
+68524	puzkarANGrija	282726	<bot>arabicus</bot>
+68532	puzkarAhva	282754	<bot>arabicus</bot>
+68535	puzkarin	282775	<bot>arabicus</bot>
+69658	pfzWajAha	287195	<bot>os coccygis</bot>
+69906	potaka	288158	<bot>rubra</bot>
+69906	potaka	288163	<bot>rubra</bot>
+70157	pOzkara	289150	<bot>arabicus</bot>
+70157	pOzkara	289152	<bot>arabicus</bot>
+71838	pratyakSreRI	295880	<bot>Tiglicum</bot>
+72444	prapaTya	298269	<bot>citrina</bot>
+72695	pramaTa	299350	<bot>citrina</bot>
+76063	balika	313489	<bot>rhombifolia</bot>
+76154	bastAntrI	313824	<bot>argentea</bot>
+76407	bahubIja	314750	<bot>squamosa</bot>
+76601	bAkula	315520	<bot n="Mimusops Elengi">M. E.</bot>
+76721	bAla	316084	<bot>Rohita</bot>
+77697	bokaqI	319942	<bot>argentea</bot>
+77877	brahmatIrTa	320680	<bot>arabicus</bot>
+79723	BAsura	328889	<bot>arabicus</bot>
+79752	BAsvara	329016	<bot>speciosus</bot>
+80684	BUruha	333136	<bot>glabra</bot>
+82321	maDuka	340335	<bot>goensis</bot>
+82587	maDUka	341414	<bot n="Bassia latifolia">B. l.</bot>
+83043	manohara	343346	<bot>pubescens</bot>
+84143	mahAkarRikAra	348181	<bot>Cathartocarpus (cassia) fistula</bot>
+85676	mAGya	354231	<bot>Pubescenz</bot>
+87039	miSreyA	359901	<bot>Dill</bot>
+87206	muktApuzpa	360678	<bot>pubescens</bot>
+87597	muniBezaja	362406	<bot>citrina</bot>
+87933	mUla	363929	<bot>arabicus</bot>
+87973	mUlapuzkara	364094	<bot>arabicus</bot>
+88381	mftPalI	365676	<bot>arabicus</bot>
+88891	mezAntrI	367697	<bot>argentea</bot>
+90447	yavanAla	374225	<bot>Sorghum</bot>
+92164	raYjanadruma	381977	<bot>Shorea (vatica) robusta</bot>
+93050	rasAyana	385774	<bot>langer pfeffer</bot>
+93052	rasAyanaPalA	385780	<bot>citrina</bot>
+93072	rasika	385884	<bot>Chylus</bot>
+93424	rAjaBadraka	387352	<bot>arabicus</bot>
+93594	rAjAtana	387961	<bot>Kanki</bot>
+93650	rAjIvinI	388183	<bot n="Nelumbium speciosum">Nel. Sp.</bot>
+94397	ruja	391467	<bot>arabicus</bot>
+94623	rUkza	392760	<bot>Tiglium</bot>
+94902	roga	393954	<bot>arabicus</bot>
+94940	rogAhvaya	394075	<bot>arabicus</bot>
+97411	vajrakaRwa	405211	<bot>antiquorum</bot>
+98308	vayaHsTa	409077	<bot>citrina</bot>
+99143	valgupodakI	413947	<bot>oleraceus</bot>
+99321	vasantakusuma	414898	<bot>Myxa</bot>
+99415	vasuka	415286	<bot>Chenopodium</bot>
+100187	vAwyapuzpikA	418589	<bot>cordifolia</bot>
+100575	vAnIraja	420109	<bot>arabicus</bot>
+100607	vApya	420225	<bot>arabicus</bot>
+100935	vAricAmara	421576	<bot>Vallisneria (blyxa) octandra</bot>
+102356	viqaNga	427520	<bot n="Embelia Ribes">E. R.</bot>
+104678	viSoDana	437769	<bot>Tiglium</bot>
+105312	vizARa	440362	<bot>arabicus</bot>
+106503	vfdDa	445130	<bot>argentea</bot>
+106535	vfdDadAra	445238	<bot>argentea</bot>
+106664	vfza	445778	<bot>Adhatoda</bot>
+106664	vfza	445794	<bot>Adhatoda</bot>
+106676	vfzaganDA	445849	<bot>argentea</bot>
+106712	vfzapattrikA	446005	<bot>argentea</bot>
+106854	vfzyaganDA	446593	<bot>argentea</bot>
+106855	vfzyaganDikA	446596	<bot>rhombifolia</bot>
+107708	vEdyabanDu	450076	<bot>Cathartocarpus (cassia) fistula</bot>
+108198	vorawa	452085	<bot>pubescens</bot>
+108664	vyADi	454226	<bot>arabicus</bot>
+108716	vyApya	454428	<bot>arabicus</bot>
+108720	vyAma	454447	<bot>arabicus</bot>
+109708	SaRAlu	458608	<bot>Cathartocarpus (cassia) fistula</bot>
+111321	SAKAkaRwa	465204	<bot>antiquorum</bot>
+112123	SiKarin	468619	<bot>goensis</bot>
+112554	Siva	470301	<bot>citrina</bot>
+112868	SIGra	471721	<bot>Tiglium</bot>
+112970	SItala	472143	<bot>arabicus</bot>
+113728	SuzkasaMBava	475350	<bot>arabicus</bot>
+114180	SErIza	477248	<bot n="Acacia Sirissa">A. S.</bot>
+114675	SyAma	479179	<bot>argentea</bot>
+115158	SrIparRa	481476	<bot>longifolia</bot>
+115158	SrIparRa	481478	<bot>longifolia</bot>
+115473	SreyaMs	482840	<bot>citrina</bot>
+115871	SvAsAri	484467	<bot>arabicus</bot>
+116037	SvetaspandA	485091	<bot n="Clitoria ternatea">Cl. t.</bot>
+121588	sarpadaMzwra	508073	<bot>Tiglium</bot>
+124832	siMha	520494	<bot>melangena</bot>
+125989	suganDika	525350	<bot>Arabicus</bot>
+126824	supuzpaka	528826	<bot>argentea</bot>
+127558	surasa	531807	<bot>Dill</bot>
+127818	suvarRa	532863	<bot>cordifolia</bot>
+128594	sUkzmapattra	535898	<bot>argentea</bot>
+129211	setuBedin	538358	<bot>Tiglium</bot>
+130979	sTAlIdruma	546285	<bot>indica</bot>

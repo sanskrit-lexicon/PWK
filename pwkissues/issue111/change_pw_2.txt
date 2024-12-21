@@ -1,0 +1,1254 @@
+; ****************************************************
+; case 1: (11) revert <bot n="X">Y</bot> to <bot>X</bot>
+; case 2: (20) capitalize genus:
+; case 3: (7) instances alternate genus names [paren]
+; case 4: (167) alternate species name. Nearly all are print changes.
+; ****************************************************
+; ****************************************************
+; 26275	kARqapuzpa	103676	<bot n="Artemisia indica">A. i.</bot>
+103676 old <div n="1">— 2〉 <lex>f.</lex> {#A#} wohl {%die Pflanze <bot n="Artemisia indica">A. i.</bot>%}
+103676 new <div n="1">— 2〉 <lex>f.</lex> {#A#} wohl {%die Pflanze <bot>Artemisia indica</bot>%}
+; --------------------------------------
+; 27047	kArzmaryamaya	106842	<bot n="Gmelina arborea">Gm. arb.</bot>
+106842 old {#kArzmaryama/ya#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#I#}) {%aus dem Holz der <bot n="Gmelina arborea">Gm. arb.</bot> bestehend%}.
+;
+106842 new {#kArzmaryama/ya#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#I#}) {%aus dem Holz der <bot>Gmelina arborea</bot> bestehend%}.
+; --------------------------------------
+; 30884	kEtaka	122439	<bot n="Pandanus odoratissimus">P. o.</bot>
+122439 old <div n="1">— 2〉 *<lex>n.</lex> {%die Blüthe von <bot n="Pandanus odoratissimus">P. o.</bot>%}
+;
+122439 new <div n="1">— 2〉 *<lex>n.</lex> {%die Blüthe von <bot>Pandanus odoratissimus</bot>%}
+; --------------------------------------
+; 37187	gOrAvaskandin	149553	<bot n="Bos Gaurus">B. G.</bot>
+149553 old {#gOrAvaskandin#}¦ <lex>m.</lex> <ab>Bein.</ab> <is>Indra</is>ʼs ({%als <bot>Bos gaurus</bot> bespringend%} oder {%einen <bot n="Bos Gaurus">B. G.</bot> angreifend%}) <ls>ŚAT. BR.</ls> <ls>Comm. zu NYĀYAM. 9,1,21</ls>.
+;
+149553 new {#gOrAvaskandin#}¦ <lex>m.</lex> <ab>Bein.</ab> <is>Indra</is>ʼs ({%als <bot>Bos gaurus</bot> bespringend%} oder {%einen <bot>Bos gaurus</bot> angreifend%}) <ls>ŚAT. BR.</ls> <ls>Comm. zu NYĀYAM. 9,1,21</ls>.
+; --------------------------------------
+; 57038	nalina	234755	<bot n="Nelumbium speciosum">N. sp.</bot>
+234755 old <div n="2">— a〉 {%<bot>Nelumbium speciosum</bot> (die Pflanze), eine Gruppe von <bot n="Nelumbium speciosum">N. sp.</bot>, ein damit bewachsener Teich%} <ab>u. s. w.</ab>
+;
+234755 new <div n="2">— a〉 {%<bot>Nelumbium speciosum</bot> (die Pflanze), eine Gruppe von <bot>Nelumbium speciosum</bot>, ein damit bewachsener Teich%} <ab>u. s. w.</ab>
+; --------------------------------------
+; 76601	bAkula	315520	<bot n="Mimusops Elengi">M. E.</bot>
+315520 old <div n="1">— 2〉 <lex>n.</lex> {%die Frucht der <bot n="Mimusops Elengi">M. E.</bot>%}
+;
+315520 new <div n="1">— 2〉 <lex>n.</lex> {%die Frucht der <bot>Mimusops elengi</bot>%}
+; --------------------------------------
+; 82587	maDUka	341414	<bot n="Bassia latifolia">B. l.</bot>
+341414 old <div n="2">— b〉 *{%die Frucht der <bot n="Bassia latifolia">B. l.</bot>%} <ls>RĀJAN. 13,75</ls>.
+;
+341414 new <div n="2">— b〉 *{%die Frucht der <bot>Bassia latifolia</bot>%} <ls>RĀJAN. 13,75</ls>.
+; --------------------------------------
+; 93650	rAjIvinI	388183	<bot n="Nelumbium speciosum">Nel. Sp.</bot>
+388183 old {#rAjIvinI#}¦ <lex>f.</lex> {%<bot>Nelumbium speciosum</bot>%} [Page5-182-c] (die Pflanze selbst), {%eine Gruppe von <bot n="Nelumbium speciosum">Nel. Sp.</bot>%}
+;
+388183 new {#rAjIvinI#}¦ <lex>f.</lex> {%<bot>Nelumbium speciosum</bot>%} [Page5-182-c] (die Pflanze selbst), {%eine Gruppe von <bot>Nelumbium speciosum</bot>%}
+; --------------------------------------
+; 102356	viqaNga	427520	<bot n="Embelia Ribes">E. R.</bot>
+427520 old <div n="1">— 2〉 <lex>n.</lex> {%die Frucht von <bot n="Embelia Ribes">E. R.</bot>,%} ein Wurmmittel.
+;
+427520 new <div n="1">— 2〉 <lex>n.</lex> {%die Frucht von <bot>Embelia ribes</bot>,%} ein Wurmmittel.
+; --------------------------------------
+; 114180	SErIza	477248	<bot n="Acacia Sirissa">A. S.</bot>
+477248 old <div n="2">— b〉 {%von der Farbe der Blüthe von, <bot n="Acacia Sirissa">A. S.</bot>%} [Page6-260-a]
+;
+477248 new <div n="2">— b〉 {%von der Farbe der Blüthe von, <bot>Acacia sirissa</bot>%} [Page6-260-a]
+; --------------------------------------
+; 116037	SvetaspandA	485091	<bot n="Clitoria ternatea">Cl. t.</bot>
+485091 old *{#SvetaspandA#}¦ <lex>f.</lex> {%<bot>Clitoria ternatea</bot>%} oder {%eine weiss blühende <bot n="Clitoria ternatea">Cl. t.</bot>%} <ls>RĀJAN. 3,75</ls>.
+;
+485091 new *{#SvetaspandA#}¦ <lex>f.</lex> {%<bot>Clitoria ternatea</bot>%} oder {%eine weiss blühende <bot>Clitoria ternatea</bot>%} <ls>RĀJAN. 3,75</ls>.
+; --------------------------------------
+; ****************************************************
+; case 2: capitalize genus:
+; <bot>genus species</bot> -> <bot>Genus species</bot>
+; <L>1704<pc>1-021-a<k1>aticCattra<k2>aticCattra
+; <bot>gemeiner anis</bot> -> <bot>Gemeiner anis</bot> 
+6563 old <div n="1">— 2〉 <lex>f.</lex> {#A#} {%<bot>Anethum sowa</bot>%} oder {%<bot>gemeiner anis</bot>; *<bot>Asteracantha longifolia Nees</bot>%}.
+;
+6563 new <div n="1">— 2〉 <lex>f.</lex> {#A#} {%<bot>Anethum sowa</bot>%} oder {%<bot>Gemeiner anis</bot>; *<bot>Asteracantha longifolia Nees</bot>%}.
+; --------------------------------------------------
+; <L>1705<pc>1-021-a<k1>aticCattraka<k2>aticCattraka
+; <bot>gemeiner anis</bot> -> <bot>Gemeiner anis</bot> 
+6568 old <div n="1">— 2〉 <lex>f.</lex> {#A#} {%<bot>Anethum sowa</bot>%} oder {%<bot>gemeiner anis</bot>%}.
+;
+6568 new <div n="1">— 2〉 <lex>f.</lex> {#A#} {%<bot>Anethum sowa</bot>%} oder {%<bot>Gemeiner anis</bot>%}.
+; --------------------------------------------------
+; <L>8111<pc>1-095-a<k1>amara<k2>ama/ra
+; <bot>indica royle</bot> -> <bot>Indica royle</bot> 
+30123 old <div n="2">— d〉 *{%<bot>Panicum dactylon</bot>, *<bot>Cocculus cordifolius DC.</bot>, *Coloquinten-Gurke, *<bot>Aloe perfoliata L.</bot>%} und {%<bot>indica royle</bot>%} <ab>u. s. w.</ab> Nach dem <ls>RUDRAYĀMALA</ls>: <is>Dūrvā</is>-{%Gras, <bot>Vitex negundo L.</bot>, schwarzes Basilienkraut%}.
+;
+30123 new <div n="2">— d〉 *{%<bot>Panicum dactylon</bot>, *<bot>Cocculus cordifolius DC.</bot>, *Coloquinten-Gurke, *<bot>Aloe perfoliata L.</bot>%} und {%<bot>Indica royle</bot>%} <ab>u. s. w.</ab> Nach dem <ls>RUDRAYĀMALA</ls>: <is>Dūrvā</is>-{%Gras, <bot>Vitex negundo L.</bot>, schwarzes Basilienkraut%}.
+; --------------------------------------------------
+; <L>24085<pc>2-013-b<k1>kandArha<k2>*kandArha
+; <bot>amorphophallus campanulatus</bot> -> <bot>Amorphophallus campanulatus</bot> 
+93780 old *{#kandArha#}¦ <lex>m.</lex> {%<bot>amorphophallus campanulatus</bot>%}. <ls>RĀJAN. 7,63</ls>.
+;
+93780 new *{#kandArha#}¦ <lex>m.</lex> {%<bot>Amorphophallus campanulatus</bot>%}. <ls>RĀJAN. 7,63</ls>.
+; --------------------------------------------------
+; <L>24210<pc>2-014-c<k1>kapikA<k2>*kapikA
+; <bot>vitex negundo</bot> -> <bot>Vitex negundo</bot> 
+94293 old *{#kapikA#}¦ <lex>f.</lex> {%<bot>vitex negundo</bot>%}.
+;
+94293 new *{#kapikA#}¦ <lex>f.</lex> {%<bot>Vitex negundo</bot>%}.
+; --------------------------------------------------
+; <L>25177<pc>2-029-a<k1>karbudAraka<k2>*karbudAraka
+; <bot>cordia latifolia</bot> -> <bot>Cordia latifolia</bot> 
+98744 old *{#karbudAraka#}¦ <lex>m.</lex> {%<bot>cordia latifolia</bot>%} <ls>RĀJAN. 11,205</ls>.
+;
+98744 new *{#karbudAraka#}¦ <lex>m.</lex> {%<bot>Cordia latifolia</bot>%} <ls>RĀJAN. 11,205</ls>.
+; --------------------------------------------------
+; <L>26575<pc>2-049-a<k1>kAmapriyakarI<k2>*kAmapriyakarI
+; <bot>physalis flexuosa</bot> -> <bot>Physalis flexuosa</bot> 
+104915 old *{#kAmapriyakarI#}¦ <lex>f.</lex> {%<bot>physalis flexuosa</bot>%} <ls>RĀJAN. 4,113</ls>.
+;
+104915 new *{#kAmapriyakarI#}¦ <lex>f.</lex> {%<bot>Physalis flexuosa</bot>%} <ls>RĀJAN. 4,113</ls>.
+; --------------------------------------------------
+; <L>28151<pc>2-069-a<k1>kukola<k2>*kukola
+; <bot>zizyphus jujuba</bot> -> <bot>Zizyphus jujuba</bot> 
+111294 old *{#kukola#}¦ <lex>m.</lex> {%<bot>zizyphus jujuba</bot>%}.
+;
+111294 new *{#kukola#}¦ <lex>m.</lex> {%<bot>Zizyphus jujuba</bot>%}.
+; --------------------------------------------------
+; <L>30270<pc>2-094-c<k1>kfSAnuga<k2>*kfSAnuga
+; <bot>naravelia zeylanica</bot> -> <bot>Naravelia zeylanica</bot> 
+119999 old *{#kfSAnuga#}¦ <lex>m.</lex> {%<bot>naravelia zeylanica</bot>%} <ls>NIGH. PR.</ls>
+;
+119999 new *{#kfSAnuga#}¦ <lex>m.</lex> {%<bot>Naravelia zeylanica</bot>%} <ls>NIGH. PR.</ls>
+; --------------------------------------------------
+; <L>30808<pc>2-100-c<k1>keSavarDana<k2>keSava/rDana
+; <bot>sida rhomboides</bot> -> <bot>Sida rhomboides</bot> 
+122090 old <div n="1">— 2〉 *<lex>f.</lex> {#°varDanI#} {%<bot>sida rhomboides</bot>%} <ls>RĀJAN. 4,100</ls>.
+;
+122090 new <div n="1">— 2〉 *<lex>f.</lex> {#°varDanI#} {%<bot>Sida rhomboides</bot>%} <ls>RĀJAN. 4,100</ls>.
+; --------------------------------------------------
+; <L>31061<pc>2-103-c<k1>koWarapuzpI<k2>*koWarapuzpI
+; <bot>convolvulus argenteus</bot> -> <bot>Convolvulus argenteus</bot> 
+123201 old *{#koWarapuzpI#}¦ <lex>f.</lex> {%<bot>convolvulus argenteus</bot>%}. <ab>Vgl.</ab> {#kowarapuzpa#}.
+;
+123201 new *{#koWarapuzpI#}¦ <lex>f.</lex> {%<bot>Convolvulus argenteus</bot>%}. <ab>Vgl.</ab> {#kowarapuzpa#}.
+; --------------------------------------------------
+; <L>37305<pc>2-188-c<k1>granTila<k2>granTila
+; <bot>capparis aphylla</bot> -> <bot>Capparis aphylla</bot> 
+150031 old <div n="2">— b〉 {%<bot>capparis aphylla</bot>%}.
+;
+150031 new <div n="2">— b〉 {%<bot>Capparis aphylla</bot>%}.
+; --------------------------------------------------
+; <L>38231<pc>2-203-c<k1>cakranaKa<k2>*cakranaKa
+; <bot>unguis odoratus</bot> -> <bot>Unguis odoratus</bot> 
+154390 old *{#cakranaKa#}¦ <lex>m.</lex> {%<bot>unguis odoratus</bot>%}.
+;
+154390 new *{#cakranaKa#}¦ <lex>m.</lex> {%<bot>Unguis odoratus</bot>%}.
+; --------------------------------------------------
+; <L>38337<pc>2-205-a<k1>cakrin<k2>cakrin
+; <bot>unguis odoratus</bot> -> <bot>Unguis odoratus</bot> 
+154813 old <div n="2">— p〉 *{%<bot>unguis odoratus</bot>%} <ls>RĀJAN. 12,131</ls>.
+;
+154813 new <div n="2">— p〉 *{%<bot>Unguis odoratus</bot>%} <ls>RĀJAN. 12,131</ls>.
+; --------------------------------------------------
+; <L>38390<pc>2-205-c<k1>cakzuzya<k2>cakzuzya
+; <bot>pandanus odoratissimus</bot> -> <bot>Pandanus odoratissimus</bot> 
+155106 old <div n="2">— b〉 {%<bot>pandanus odoratissimus</bot>%}.
+;
+155106 new <div n="2">— b〉 {%<bot>Pandanus odoratissimus</bot>%}.
+; --------------------------------------------------
+; <L>39429<pc>2-220-c<k1>cala<k2>cala
+; <bot>unguis odoratus</bot> -> <bot>Unguis odoratus</bot> 
+159664 old <div n="2">— d〉 *{%<bot>unguis odoratus</bot>%} <ls>RĀJAN. 12,128</ls>.
+;
+159664 new <div n="2">— d〉 *{%<bot>Unguis odoratus</bot>%} <ls>RĀJAN. 12,128</ls>.
+; --------------------------------------------------
+; <L>40505<pc>2-235-b<k1>cUqAmaRi<k2>cUqAmaRi
+; <bot>der same</bot> -> der Same
+164275 old <div n="1">— 3〉 *{%<bot>der same</bot> von <bot>Abrus precatorius</bot>%} <ls>RĀJAN. 3,101</ls>.
+;
+164275 new <div n="1">— 3〉 *{%der Same von <bot>Abrus precatorius</bot>%} <ls>RĀJAN. 3,101</ls>.
+; --------------------------------------------------
+; <L>66779<pc>4-080-b<k1>picCilacCadA<k2>*picCilacCadA
+; <bot>portulaca quadrifida</bot> -> <bot>Portulaca quadrifida</bot> 
+275652 old *{#picCilacCadA#}¦ <lex>f.</lex> {%<bot>portulaca quadrifida</bot>%} <ls>RĀJAN. 7,135</ls>.
+;
+275652 new *{#picCilacCadA#}¦ <lex>f.</lex> {%<bot>Portulaca quadrifida</bot>%} <ls>RĀJAN. 7,135</ls>.
+; --------------------------------------------------
+; <L>69658<pc>4-120-a<k1>pfzWajAha<k2>*pfzWajAha
+; <bot>os coccygis</bot> -> <bot>Os coccygis</bot> 
+287195 old *{#pfzWajAha#}¦ <lex>n.</lex> wohl {%<bot>os coccygis</bot>%}.
+;
+287195 new *{#pfzWajAha#}¦ <lex>n.</lex> wohl {%<bot>Os coccygis</bot>%}.
+; --------------------------------------------------
+; <L>93050<pc>5-175-a<k1>rasAyana<k2>rasAyana
+; <bot>langer pfeffer</bot> -> <bot>Langer pfeffer</bot> 
+385774 old <div n="2">— d〉 *{%<bot>langer pfeffer</bot>%}.
+;
+385774 new <div n="2">— d〉 *{%<bot>Langer pfeffer</bot>%}.
+; --------------------------------------------------
+; ****************************************************
+; case 3: 7 instances Alternate genus names paren
+; ****************************************************
+; <L>375<pc>1-005-b<k1>akzIba<k2>*akzIba
+; <bot>Hyperanthera (guilandian) Moringa</bot> ->
+; <bot>Hyperanthera moringa</bot> (<bot>Guilandian moringa</bot>)
+; Note spelling change Guilandian -> Guilandina (typo)
+; wikipedia
+1411 old <div n="1">— 2〉 <lex>n.</lex> {%<bot>Hyperanthera (guilandian) Moringa</bot>%}.
+;
+1411 new <div n="1">— 2〉 <lex>n.</lex> {%<bot>Hyperanthera moringa</bot> (<bot>Guilandina moringa</bot>)%}.
+; --------------------------------------------------
+; <L>15409<pc>1-182-b<k1>AragvaDa<k2>AragvaDa
+; <bot>Cathartocarpus (cassia) fistula</bot> ->
+; <bot>Cathartocarpus fistula</bot> (<bot>Cassia fistula</bot>)
+; wikipedia
+58359 old {#AragvaDa#}¦ <lex>m.</lex> {%<bot>Cathartocarpus (cassia) fistula</bot>;%} <lex>n.</lex> {%die Frucht%}. Davon <lex>Adj.</lex> {#°DIya#} {%darüber handelnd%} <ls>CARAKA. 1,3</ls>.
+;
+58359 new {#AragvaDa#}¦ <lex>m.</lex> {%<bot>Cathartocarpus fistula</bot> (<bot>Cassia fistula</bot>);%} <lex>n.</lex> {%die Frucht%}. Davon <lex>Adj.</lex> {#°DIya#} {%darüber handelnd%} <ls>CARAKA. 1,3</ls>.
+; --------------------------------------------------
+; <L>84143<pc>5-041-c<k1>mahAkarRikAra<k2>*mahAkarRikAra
+; <bot>Cathartocarpus (cassia) fistula</bot> ->
+; <bot>Cathartocarpus fistula</bot> (<bot>Cassia fistula</bot>) 
+; wikipedia
+348181 old *{#mahAkarRikAra#}¦ <lex>m.</lex> {%<bot>Cathartocarpus (cassia) fistula</bot>%} <ls>RĀJAN. 9,46</ls>.
+;
+348181 new *{#mahAkarRikAra#}¦ <lex>m.</lex> {%<bot>Cathartocarpus fistula</bot> (<bot>Cassia fistula</bot>)%} <ls>RĀJAN. 9,46</ls>.
+; --------------------------------------------------
+; <L>92164<pc>5-162-b<k1>raYjanadruma<k2>*raYjanadruma
+; <bot>Shorea (vatica) robusta</bot> ->
+; <bot>Shorea robusta</bot> (<bot>Vatica robusta</bot>) 
+; wikipedia
+381977 old *{#raYjanadruma#}¦ <lex>m.</lex> {%<bot>Shorea (vatica) robusta</bot>%}.
+;
+381977 new *{#raYjanadruma#}¦ <lex>m.</lex> {%<bot>Shorea robusta</bot> (<bot>Vatica robusta</bot>)%}.
+; --------------------------------------------------
+; <L>100935<pc>6-067-c<k1>vAricAmara<k2>*vAricAmara
+; <bot>Vallisneria (blyxa) octandra</bot> ->
+; <bot>Vallisneria octandra</bot> (<bot>Blyxa octandra</bot>)
+; https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:324513-2
+421576 old *{#vAricAmara#}¦ <lex>m.</lex> {%<bot>Vallisneria (blyxa) octandra</bot>%}.
+;
+421576 new *{#vAricAmara#}¦ <lex>m.</lex> {%<bot>Vallisneria octandra</bot> (<bot>Blyxa octandra</bot>)%}.
+; --------------------------------------------------
+; <L>107708<pc>6-167-a<k1>vEdyabanDu<k2>*vEdyabanDu
+; <bot>Cathartocarpus (cassia) fistula</bot> ->
+; <bot>Cathartocarpus fistula</bot> (<bot>Cassia fistula</bot>) 
+; wikipedia
+450076 old *{#vEdyabanDu#}¦ <lex>m.</lex> {%<bot>Cathartocarpus (cassia) fistula</bot>%}.
+;
+450076 new *{#vEdyabanDu#}¦ <lex>m.</lex> {%<bot>Cathartocarpus fistula</bot> (<bot>Cassia fistula</bot>)%}.
+; --------------------------------------------------
+; <L>109708<pc>6-198-a<k1>SaRAlu<k2>*SaRAlu
+; <bot>Cathartocarpus (cassia) fistula</bot> ->
+; <bot>Cathartocarpus fistula</bot> (<bot>Cassia fistula</bot>)
+; wikipedia
+458608 old *{#SaRAlu#} und *{#°ka#}¦ <lex>m.</lex> {%<bot>Cathartocarpus (cassia) fistula</bot>%}.
+;
+458608 new *{#SaRAlu#} und *{#°ka#}¦ <lex>m.</lex> {%<bot>Cathartocarpus fistula</bot> (<bot>Cassia fistula</bot>)%}.
+; --------------------------------------------------
+; 
+; ****************************************************
+; case 4: (167) alternate species name.
+; ****************************************************
+; <L>215<pc>1-003-b<k1>akowa<k2>*akowa
+; <bot>Catechu</bot> -> <bot>Areca catechu</bot> 
+787 old *{#akowa#}¦ <lex>m.</lex> {%<bot>Areca faufel</bot>%} oder {%<bot>Catechu</bot>%}.
+;
+787 new *{#akowa#}¦ <lex>m.</lex> {%<bot>Areca faufel</bot>%} oder {%<bot>Areca catechu</bot>%}.
+; --------------------------------------------------
+; <L>3646<pc>1-043-a<k1>anala<k2>anala
+; <bot>rosea</bot> -> <bot>Plumbago rosea</bot> 
+13590 old <div n="2">— f〉 *{%<bot>Plumbago zeylanica</bot>%} und *{%<bot>rosea</bot>, *<bot>Semecarpus anacardium</bot>%}.
+;
+13590 new <div n="2">— f〉 *{%<bot>Plumbago zeylanica</bot>%} und *{%<bot>Plumbago rosea</bot>, *<bot>Semecarpus anacardium</bot>%}.
+; --------------------------------------------------
+; <L>8310<pc>1-097-a<k1>amirI<k2>*amirI
+; <bot>rubra</bot> -> <bot>Basella rubra</bot> 
+30852 old *{#amirI#}¦ <lex>f.</lex> {%<bot>Basella lucida</bot>%} oder {%<bot>rubra</bot>%} <ls>GAL.</ls>
+;
+30852 new *{#amirI#}¦ <lex>f.</lex> {%<bot>Basella lucida</bot>%} oder {%<bot>Basella rubra</bot>%} <ls>GAL.</ls>
+; --------------------------------------------------
+; <L>14314<pc>1-169-b<k1>Atreya<k2>Atreya/<h>1
+; <bot>Chylus</bot> -> Chylus [not bot]
+54025 old <div n="2">— d〉 *{%<bot>Chylus</bot>%}.
+;
+54025 new <div n="2">— d〉 *{%Chylus%}.
+; --------------------------------------------------
+; <L>14314<pc>1-169-b<k1>Atreya<k2>Atreya/<h>1
+; <bot>Chylus</bot> -> Chylus [not bot] 
+54029 old <div n="2">— c〉 *{%<bot>Chylus</bot>%} <ls>GAL.</ls>
+;
+54029 new <div n="2">— c〉 *{%Chylus%} <ls>GAL.</ls>
+; --------------------------------------------------
+; <L>15000<pc>1-177-c<k1>Apya<k2>*Apya<h>4
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+56735 old <hom>4.</hom> *{#Apya#}¦ <lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%}.
+;
+56735 new <hom>4.</hom> *{#Apya#}¦ <lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%}.
+; --------------------------------------------------
+; <L>15064<pc>1-178-b<k1>ABA<k2>ABA
+; <bot>Asparagus</bot> -> Asparagus [not bot]
+; <bot>Zizyphus</bot> -> Zizyphus [not bot]
+56965 old <div n="1">— 3〉 *{%eine Art <bot>Asparagus</bot>%} und *— {%<bot>Zizyphus</bot>%} <ls>NIGH. PR.</ls>
+;
+56965 new <div n="1">— 3〉 *{%eine Art Asparagus%} und *— {%Zizyphus%} <ls>NIGH. PR.</ls>
+; --------------------------------------------------
+; <L>16027<pc>1-189-c<k1>Avega<k2>Avega
+; <bot>argentea</bot> -> <bot>Argyreia argentea</bot> 
+60751 old <div n="1">— 2〉 *<lex>f.</lex> {#I#} {%<bot>Argyreia speciosa</bot>%} oder {%<bot>argentea</bot>%} <ls>RĀJAN. 3,105</ls>.
+;
+60751 new <div n="1">— 2〉 *<lex>f.</lex> {#I#} {%<bot>Argyreia speciosa</bot>%} oder {%<bot>Argyreia argentea</bot>%} <ls>RĀJAN. 3,105</ls>.
+; --------------------------------------------------
+; <L>18071<pc>1-220-c<k1>utkzipta<k2>utkzipta
+; <bot>fastuosa</bot> -> <bot>Datura fastuosa</bot> 
+69698 old {#utkzipta#}¦ <lex>m.</lex> (!) {%die Frucht der <bot>Datura metel</bot>%} oder {%<bot>fastuosa</bot>%}.
+;
+69698 new {#utkzipta#}¦ <lex>m.</lex> (!) {%die Frucht der <bot>Datura metel</bot>%} oder {%<bot>Datura fastuosa</bot>%}.
+; --------------------------------------------------
+; <L>19007<pc>1-232-a<k1>uddAla<k2>uddAla
+; <bot>latifolia</bot> -> <bot>Cordia latifolia</bot> 
+73334 old <div n="1">— 2〉 *{%<bot>Cordia myxa</bot>%} oder {%<bot>latifolia</bot>%}.
+;
+73334 new <div n="1">— 2〉 *{%<bot>Cordia myxa</bot>%} oder {%<bot>Cordia latifolia</bot>%}.
+; --------------------------------------------------
+; <L>20585<pc>1-251-b<k1>uraRAkza<k2>*uraRAkza
+; <bot>Tora</bot> -> <bot>Cassia tora</bot> 
+79603 old *{#uraRAkza#} und *{#°ka#}, *{#uraRAKya#} und *{#°ka#}¦ <lex>m.</lex> {%<bot>Cassia alata</bot>%} oder {%<bot>Tora</bot>%}.
+;
+79603 new *{#uraRAkza#} und *{#°ka#}, *{#uraRAKya#} und *{#°ka#}¦ <lex>m.</lex> {%<bot>Cassia alata</bot>%} oder {%<bot>Cassia tora</bot>%}.
+; --------------------------------------------------
+; <L>20834<pc>1-254-b<k1>uzaRa<k2>*uzaRa
+; <bot>Chaba</bot> -> <bot>Piper chaba</bot> 
+80655 old <div n="2">— a〉 {%<bot>Piper longum</bot>%} oder {%<bot>Chaba</bot>%}. [Page1-254-c]
+;
+80655 new <div n="2">— a〉 {%<bot>Piper longum</bot>%} oder {%<bot>Piper chaba</bot>%}. [Page1-254-c]
+; --------------------------------------------------
+; <L>21680<pc>1-265-a<k1>fzyaproktA<k2>fzyaproktA
+; <bot>rhombifolia</bot> -> <bot>Sida rhombifolia</bot> 
+84150 old <div n="1">— 3〉 {%<bot>Sida cordifolia</bot>%} oder {%<bot>rhombifolia</bot>%} <ls>CARAKA. 1,4</ls> (= {#mAzaparRI#} <ab>Comm.</ab>). <ls n="Chr.">4,1</ls>.
+;
+84150 new <div n="1">— 3〉 {%<bot>Sida cordifolia</bot>%} oder {%<bot>Sida rhombifolia</bot>%} <ls>CARAKA. 1,4</ls> (= {#mAzaparRI#} <ab>Comm.</ab>). <ls n="Chr.">4,1</ls>.
+; --------------------------------------------------
+; <L>22185<pc>1-271-b<k1>eqagaja<k2>eqagaja
+; <bot>alata</bot> -> <bot>Cassia alata</bot> 
+86083 old {#eqagaja#}¦ <lex>m.</lex> {%<bot>Cassia tora</bot>%} oder {%<bot>alata</bot>%} <ls>CARAKA. 6,7</ls>.
+;
+86083 new {#eqagaja#}¦ <lex>m.</lex> {%<bot>Cassia tora</bot>%} oder {%<bot>Cassia alata</bot>%} <ls>CARAKA. 6,7</ls>.
+; --------------------------------------------------
+; <L>23458<pc>2-005-c<k1>kawuka<k2>ka/wuka
+; <bot>ramosa</bot> -> <bot>Sinapis ramosa</bot> 
+91201 old <div n="2">— d〉 {%<bot>Sinapis dichotoma</bot>%} oder {%<bot>ramosa</bot>%}.
+;
+91201 new <div n="2">— d〉 {%<bot>Sinapis dichotoma</bot>%} oder {%<bot>Sinapis ramosa</bot>%}.
+; --------------------------------------------------
+; <L>23476<pc>2-005-c<k1>kawukvARa<k2>*kawukvARa
+; <bot>goensis</bot> -> <bot>Parra goensis</bot> 
+91269 old *{#kawukvARa#}¦ <lex>m.</lex> {%<bot>Parra jacana</bot>%} oder {%<bot>goensis</bot>%}.
+;
+91269 new *{#kawukvARa#}¦ <lex>m.</lex> {%<bot>Parra jacana</bot>%} oder {%<bot>Parra goensis</bot>%}.
+; --------------------------------------------------
+; <L>23608<pc>2-007-a<k1>kaRika<k2>kaRika
+; <bot>langifolia</bot> -> <bot>Premna langifolia</bot> 
+91814 old <div n="2">— e〉 *{%<bot>Premna spinosa</bot>%} oder {%<bot>langifolia</bot>%}.
+;
+91814 new <div n="2">— e〉 *{%<bot>Premna spinosa</bot>%} oder {%<bot>Premna langifolia</bot>%}.
+; --------------------------------------------------
+; <L>24905<pc>2-025-c<k1>karRaka<k2>ka/rRaka
+; <bot>longifolia</bot> -> <bot>Premna longifolia</bot> 
+97645 old <div n="2">— i〉 *{%<bot>Premna spinosa</bot>%} oder {%<bot>longifolia</bot>%} und *{%<bot>Odina pinnata</bot>%}.
+;
+97645 new <div n="2">— i〉 *{%<bot>Premna spinosa</bot>%} oder {%<bot>Premna longifolia</bot>%} und *{%<bot>Odina pinnata</bot>%}.
+; --------------------------------------------------
+; <L>25178<pc>2-029-a<k1>karbura<k2>karbura
+; <bot>Zerumbet</bot> -> <bot>Curcuma zerumbet</bot> 
+98752 old <div n="2">— c〉 {%<bot>Curcuma amhaldi</bot>%} oder {%<bot>Zerumbet</bot>%}.
+;
+98752 new <div n="2">— c〉 {%<bot>Curcuma amhaldi</bot>%} oder {%<bot>Curcuma zerumbet</bot>%}.
+; --------------------------------------------------
+; <L>28375<pc>2-072-a<k1>kuWika<k2>*kuWika
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+112300 old *{#kuWika#}¦ <lex>m.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%}.
+;
+112300 new *{#kuWika#}¦ <lex>m.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%}.
+; --------------------------------------------------
+; <L>28539<pc>2-074-b<k1>kutsa<k2>ku/tsa
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+113048 old <div n="1">— 2〉 *<lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%} <ls>RĀJAN. 12,123</ls>. — {#kutsA#} <ab>s.</ab> <ab>bes.</ab>
+;
+113048 new <div n="1">— 2〉 *<lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%} <ls>RĀJAN. 12,123</ls>. — {#kutsA#} <ab>s.</ab> <ab>bes.</ab>
+; --------------------------------------------------
+; <L>28648<pc>2-075-b<k1>kunda<k2>kunda
+; <bot>Pubescens</bot> -> <bot>Jasminum pubescens</bot> 
+113461 old <div n="1">— 1〉 {%<bot>Jasminum multiflorum</bot>%} oder {%<bot>Pubescens</bot>;%} <lex>n.</lex> {%die Blüthe%}.
+;
+113461 new <div n="1">— 1〉 {%<bot>Jasminum multiflorum</bot>%} oder {%<bot>Jasminum pubescens</bot>;%} <lex>n.</lex> {%die Blüthe%}.
+; --------------------------------------------------
+; <L>29503<pc>2-085-c<k1>kuzWa<k2>ku/zWa
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+116861 old <div n="1">— 1〉 <lex>m.</lex> <lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%}. Nach <ls>Mat. med. 180</ls>. {%<bot>Saussurea uricutata</bot>%}.
+;
+116861 new <div n="1">— 1〉 <lex>m.</lex> <lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%}. Nach <ls>Mat. med. 180</ls>. {%<bot>Saussurea uricutata</bot>%}.
+; --------------------------------------------------
+; <L>31124<pc>2-104-b<k1>koyazwi<k2>koyazwi
+; <bot>goensis</bot> -> <bot>Parra goensis</bot> 
+123438 old {#koyazwi#}, {#°ka#} und {#koyazwiBa#}¦ <lex>m.</lex> {%<bot>Parra jacana</bot>%} oder {%<bot>goensis</bot>%}.
+;
+123438 new {#koyazwi#}, {#°ka#} und {#koyazwiBa#}¦ <lex>m.</lex> {%<bot>Parra jacana</bot>%} oder {%<bot>Parra goensis</bot>%}.
+; --------------------------------------------------
+; <L>31195<pc>2-105-a<k1>koSavant<k2>koSavant
+; <bot>sulcatus</bot> -> <bot>Cucumis sulcatus</bot> 
+123780 old <div n="1">— 3〉 <lex>f.</lex> {#°vatI#} {%<bot>Cucumis acutangulus</bot>%} oder {%<bot>sulcatus</bot>%}.
+;
+123780 new <div n="1">— 3〉 <lex>f.</lex> {#°vatI#} {%<bot>Cucumis acutangulus</bot>%} oder {%<bot>Cucumis sulcatus</bot>%}.
+; --------------------------------------------------
+; <L>31401<pc>2-107-c<k1>kObera<k2>kObera
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+124578 old <div n="1">— 3〉 *<lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%}.
+;
+124578 new <div n="1">— 3〉 *<lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%}.
+; --------------------------------------------------
+; <L>32127<pc>2-118-c<k1>klItaka<k2>klItaka
+; <bot>echinata</bot> -> <bot>Glycyrrhiza echinata</bot> 
+127902 old <div n="2">— c〉 {%<bot>Glycyrrhiza glabra</bot>%} oder {%<bot>echinata</bot>%} <ls>CARAKA. 1,1</ls>.
+;
+127902 new <div n="2">— c〉 {%<bot>Glycyrrhiza glabra</bot>%} oder {%<bot>Glycyrrhiza echinata</bot>%} <ls>CARAKA. 1,1</ls>.
+; --------------------------------------------------
+; <L>32232<pc>2-120-b<k1>kzataviDvaMsin<k2>*kzataviDvaMsin
+; <bot>argentea</bot> -> <bot>Argyreia argentea</bot> 
+128350 old *{#kzataviDvaMsin#}¦ <lex>m.</lex> {%<bot>Argyreia speciosa</bot>%} oder {%<bot>argentea</bot>%}.
+;
+128350 new *{#kzataviDvaMsin#}¦ <lex>m.</lex> {%<bot>Argyreia speciosa</bot>%} oder {%<bot>Argyreia argentea</bot>%}.
+; --------------------------------------------------
+; <L>33157<pc>2-133-a<k1>kzveqa<k2>kzveqa
+; <bot>acutangula</bot> -> <bot>Luffa acutangula</bot> 
+132293 old <div n="2">— d〉 {%<bot>Luffa pentandra</bot>%} oder {%<bot>acutangula</bot>%} <ls>CARAKA. 7,6. 8,10</ls>.
+;
+132293 new <div n="2">— d〉 {%<bot>Luffa pentandra</bot>%} oder {%<bot>Luffa acutangula</bot>%} <ls>CARAKA. 7,6. 8,10</ls>.
+; --------------------------------------------------
+; <L>33568<pc>2-138-a<k1>KarjUGna<k2>*KarjUGna
+; <bot>Tora</bot> -> <bot>Cassia tora</bot> 
+134064 old <div n="1">— 2〉 {%<bot>Cassia alata</bot>%} oder {%<bot>Tora</bot>%} <ls>RĀJAN. 4,203</ls>.
+;
+134064 new <div n="1">— 2〉 {%<bot>Cassia alata</bot>%} oder {%<bot>Cassia tora</bot>%} <ls>RĀJAN. 4,203</ls>.
+; --------------------------------------------------
+; <L>34118<pc>2-144-c<k1>gajaskanDa<k2>*gajaskanDa
+; <bot>Tora</bot> -> <bot>Cassia tora</bot> 
+136365 old *{#gajaskanDa#}¦ <lex>m.</lex> {%<bot>Cassia alata</bot>%} oder {%<bot>Tora</bot>%}.
+;
+136365 new *{#gajaskanDa#}¦ <lex>m.</lex> {%<bot>Cassia alata</bot>%} oder {%<bot>Cassia tora</bot>%}.
+; --------------------------------------------------
+; <L>34314<pc>2-147-b<k1>gaRqagAtra<k2>*gaRqagAtra
+; <bot>squamosa</bot> -> <bot>Anona squamosa</bot> 
+137215 old *{#gaRqagAtra#}¦ <lex>n.</lex> {%die Frucht der <bot>Anona reticulata</bot>%} oder {%<bot>squamosa</bot>%}.
+;
+137215 new *{#gaRqagAtra#}¦ <lex>n.</lex> {%die Frucht der <bot>Anona reticulata</bot>%} oder {%<bot>Anona squamosa</bot>%}.
+; --------------------------------------------------
+; <L>34419<pc>2-149-a<k1>gadAKya<k2>*gadAKya
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+137686 old *{#gadAKya#}¦ <lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%}.
+;
+137686 new *{#gadAKya#}¦ <lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%}.
+; --------------------------------------------------
+; <L>34431<pc>2-149-a<k1>gadAhva<k2>*gadAhva
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+137726 old *{#gadAhva#} und *{#°ya#}¦ <lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%}.
+;
+137726 new *{#gadAhva#} und *{#°ya#}¦ <lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%}.
+; --------------------------------------------------
+; <L>34468<pc>2-149-b<k1>ganDa<k2>ganDa/
+; <bot>Zerumbet</bot> -> <bot>Curcuma zerumbet</bot> 
+137904 old <div n="2">— a〉 *{%<bot>Curcuma amhaldi</bot>%} oder {%<bot>Zerumbet</bot>%}.
+;
+137904 new <div n="2">— a〉 *{%<bot>Curcuma amhaldi</bot>%} oder {%<bot>Curcuma zerumbet</bot>%}.
+; --------------------------------------------------
+; <L>34523<pc>2-150-a<k1>ganDapalASI<k2>*ganDapalASI
+; <bot>Zerumbet</bot> -> <bot>Curcuma zerumbet</bot> 
+138115 old *{#ganDapalASI#}¦ <lex>f.</lex> {%<bot>Curcuma amhaldi</bot>%} oder {%<bot>Zerumbet</bot>%}.
+;
+138115 new *{#ganDapalASI#}¦ <lex>f.</lex> {%<bot>Curcuma amhaldi</bot>%} oder {%<bot>Curcuma zerumbet</bot>%}.
+; --------------------------------------------------
+; <L>34554<pc>2-150-c<k1>ganDamUla<k2>*ganDamUla
+; <bot>Zerumbet</bot> -> <bot>Curcuma zerumbet</bot> 
+138249 old <div n="2">— a〉 {%<bot>Curcuma amhaldi</bot>%} oder {%<bot>Zerumbet</bot>%}.
+;
+138249 new <div n="2">— a〉 {%<bot>Curcuma amhaldi</bot>%} oder {%<bot>Curcuma zerumbet</bot>%}.
+; --------------------------------------------------
+; <L>34598<pc>2-151-a<k1>ganDavaDU<k2>*ganDavaDU
+; <bot>Zerumbet</bot> -> <bot>Curcuma zerumbet</bot> 
+138440 old <div n="1">— 1〉 {%<bot>Curcuma amhaldi</bot>%} oder {%<bot>Zerumbet</bot>%}.
+;
+138440 new <div n="1">— 1〉 {%<bot>Curcuma amhaldi</bot>%} oder {%<bot>Curcuma zerumbet</bot>%}.
+; --------------------------------------------------
+; <L>34608<pc>2-151-b<k1>ganDaSawI<k2>*ganDaSawI
+; <bot>Zerumbet</bot> -> <bot>Curcuma zerumbet</bot> 
+138495 old *{#ganDaSawI#}¦ <lex>f.</lex> {%<bot>Curcuma amhaldi</bot>%} oder {%<bot>Zerumbet</bot>%}.
+;
+138495 new *{#ganDaSawI#}¦ <lex>f.</lex> {%<bot>Curcuma amhaldi</bot>%} oder {%<bot>Curcuma zerumbet</bot>%}.
+; --------------------------------------------------
+; <L>34652<pc>2-151-c<k1>ganDoli<k2>*ganDoli
+; <bot>Zerumbet</bot> -> <bot>Curcuma zerumbet</bot> 
+138673 old *{#ganDoli#}¦ <lex>f.</lex> {%<bot>Curcuma amhaldi</bot>%} oder {%<bot>Zerumbet</bot>%}.
+;
+138673 new *{#ganDoli#}¦ <lex>f.</lex> {%<bot>Curcuma amhaldi</bot>%} oder {%<bot>Curcuma zerumbet</bot>%}.
+; --------------------------------------------------
+; <L>36497<pc>2-179-b<k1>gojihvA<k2>gojihvA
+; <bot>Phlomis</bot> -> <bot>Phlomis esculenta</bot> 
+146755 old {#gojihvA#}¦ <lex>f.</lex> {%eine <ab>best.</ab> Pflanze%}. Nach den Lexicographen {%<bot>Phlomis</bot>%} oder {%<bot>Premna esculenta</bot>, <bot>Elephantopus scaber</bot>, <bot>Coix barbata</bot> oder ein Hieracium%}.
+;
+146755 new {#gojihvA#}¦ <lex>f.</lex> {%eine <ab>best.</ab> Pflanze%}. Nach den Lexicographen {%<bot>Phlomis esculenta</bot>%} oder {%<bot>Premna esculenta</bot>, <bot>Elephantopus scaber</bot>, <bot>Coix barbata</bot> oder ein Hieracium%}.
+; --------------------------------------------------
+; <L>37724<pc>2-196-c<k1>GaRwa<k2>GaRwa
+; <bot>rhombifolia</bot> -> <bot>Sida rhombifolia</bot> 
+152134 old <div n="2">— d〉 *{%<bot>Sida cordifolia</bot>%} oder {%<bot>rhombifolia</bot>%} <ls>RĀJAN. 4,103</ls>.
+;
+152134 new <div n="2">— d〉 *{%<bot>Sida cordifolia</bot>%} oder {%<bot>Sida rhombifolia</bot>%} <ls>RĀJAN. 4,103</ls>.
+; --------------------------------------------------
+; <L>39963<pc>2-228-a<k1>citra<k2>citra/
+; <bot>Tiglium</bot> -> <bot>Croton tiglium</bot> 
+161978 old <div n="2">— c〉 <ab>Bez.</ab> {%verschiedener Pflanzen%} <ls>CARAKA. 7,12</ls>. (= {#dravantI#}). Nach den Lexicographen: {%<bot>Salvinia cucullata</bot>, <bot>Cucumis maderaspatanus</bot>, Koloquinthe, <bot>Ricinus communis</bot>, <bot>Croton polyandrum</bot>%} oder {%<bot>Tiglium</bot>, Myrobalanenbaum, <bot>Rubia munjista</bot>%} und {%ein <ab>best.</ab> Gras%} ({#gaRqadUrvA#}).
+;
+161978 new <div n="2">— c〉 <ab>Bez.</ab> {%verschiedener Pflanzen%} <ls>CARAKA. 7,12</ls>. (= {#dravantI#}). Nach den Lexicographen: {%<bot>Salvinia cucullata</bot>, <bot>Cucumis maderaspatanus</bot>, Koloquinthe, <bot>Ricinus communis</bot>, <bot>Croton polyandrum</bot>%} oder {%<bot>Croton tiglium</bot>, Myrobalanenbaum, <bot>Rubia munjista</bot>%} und {%ein <ab>best.</ab> Gras%} ({#gaRqadUrvA#}).
+; --------------------------------------------------
+; <L>40838<pc>2-240-b<k1>Cagala<k2>Cagala/
+; <bot>argentea</bot> -> <bot>Argyreia argentea</bot> 
+165749 old <div n="1">— 2〉 *<lex>f.</lex> {#A#} und {#I#} {%<bot>Argyreia speciosa</bot>%} oder {%<bot>argentea</bot>%}.
+;
+165749 new <div n="1">— 2〉 *<lex>f.</lex> {#A#} und {#I#} {%<bot>Argyreia speciosa</bot>%} oder {%<bot>Argyreia argentea</bot>%}.
+; --------------------------------------------------
+; <L>40843<pc>2-240-b<k1>CagalAntrI<k2>*CagalAntrI
+; <bot>argentea</bot> -> <bot>Argyreia argentea</bot> 
+165770 old <div n="1">— 1〉 {%<bot>Argyreia speciosa</bot>%} oder {%<bot>argentea</bot>%}.
+;
+165770 new <div n="1">— 1〉 {%<bot>Argyreia speciosa</bot>%} oder {%<bot>Argyreia argentea</bot>%}.
+; --------------------------------------------------
+; <L>41763<pc>2-254-b<k1>jaya<k2>jaya
+; <bot>longifolia</bot> -> <bot>Premna longifolia</bot> 
+169919 old <div n="2">— c〉 *{%<bot>Premna spinosa</bot>%} oder {%<bot>longifolia</bot>%}.
+;
+169919 new <div n="2">— c〉 *{%<bot>Premna spinosa</bot>%} oder {%<bot>Premna longifolia</bot>%}.
+; --------------------------------------------------
+; <L>41887<pc>2-256-b<k1>jaraRa<k2>jaraRa/
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+170497 old <div n="2">— e〉 *{%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%}.
+;
+170497 new <div n="2">— e〉 *{%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%}.
+; --------------------------------------------------
+; <L>41986<pc>2-257-b<k1>jalakukkuBa<k2>*jalakukkuBa
+; <bot>goensis</bot> -> <bot>Parra goensis</bot> 
+170864 old *{#jalakukkuBa#}¦ <lex>m.</lex> {%<bot>Parra jacana</bot>%} oder {%<bot>goensis</bot>%}.
+;
+170864 new *{#jalakukkuBa#}¦ <lex>m.</lex> {%<bot>Parra jacana</bot>%} oder {%<bot>Parra goensis</bot>%}.
+; --------------------------------------------------
+; <L>42921<pc>2-269-a<k1>jImUtamUla<k2>*jImUtamUla
+; <bot>Zerumbet</bot> -> <bot>Curcuma zerumbet</bot> 
+174705 old *{#jImUtamUla#}¦ <lex>n.</lex> {%<bot>Curcuma amhaldi</bot>%} oder {%<bot>Zerumbet</bot>%}.
+;
+174705 new *{#jImUtamUla#}¦ <lex>n.</lex> {%<bot>Curcuma amhaldi</bot>%} oder {%<bot>Curcuma zerumbet</bot>%}.
+; --------------------------------------------------
+; <L>43142<pc>2-272-a<k1>juNga<k2>*juNga
+; <bot>argentea</bot> -> <bot>Argyreia argentea</bot> 
+175648 old *{#juNga#} <lex>m.</lex>, *{#juNgaka#} <lex>m.</lex> (<ls>JAṬĀDH.</ls> in <ls>ŚKDR.</ls>) und *{#juNgA#} <lex>f.</lex>¦ {%<bot>Argyreia speciosa</bot>%} oder {%<bot>argentea</bot>%}.
+;
+175648 new *{#juNga#} <lex>m.</lex>, *{#juNgaka#} <lex>m.</lex> (<ls>JAṬĀDH.</ls> in <ls>ŚKDR.</ls>) und *{#juNgA#} <lex>f.</lex>¦ {%<bot>Argyreia speciosa</bot>%} oder {%<bot>Argyreia argentea</bot>%}.
+; --------------------------------------------------
+; <L>43841<pc>2-282-c<k1>wiwwiBa<k2>wiwwiBa
+; <bot>goensis</bot> -> <bot>Parra goensis</bot> 
+178826 old <div n="2">— a〉 {%<bot>Parra jacana</bot>%} oder {%<bot>goensis</bot>%} <ls>GAUT.</ls>
+;
+178826 new <div n="2">— a〉 {%<bot>Parra jacana</bot>%} oder {%<bot>Parra goensis</bot>%} <ls>GAUT.</ls>
+; --------------------------------------------------
+; <L>44569<pc>3-011-a<k1>tapaHkara<k2>*tapaHkara
+; <bot>paradiseus</bot> -> <bot>Polynemus paradiseus</bot> 
+182371 old *{#tapaHkara#}¦ <lex>m.</lex> {%<bot>Polynemus risua</bot>%} oder {%<bot>paradiseus</bot>%} (ein Fisch).
+;
+182371 new *{#tapaHkara#}¦ <lex>m.</lex> {%<bot>Polynemus risua</bot>%} oder {%<bot>Polynemus paradiseus</bot>%} (ein Fisch).
+; --------------------------------------------------
+; <L>44599<pc>3-011-b<k1>tapasya<k2>tapasya^
+; <bot>pubescens</bot> -> <bot>Jasminum pubescens</bot> 
+182524 old <div n="2">— b〉 *{%die Blüthe von <bot>Jasminum multiflorum</bot>%} oder {%<bot>pubescens</bot>%}.
+;
+182524 new <div n="2">— b〉 *{%die Blüthe von <bot>Jasminum multiflorum</bot>%} oder {%<bot>Jasminum pubescens</bot>%}.
+; --------------------------------------------------
+; <L>44844<pc>3-016-a<k1>taruRa<k2>ta/ruRa
+; <bot>alba</bot> -> <bot>Rosa alba</bot> 
+183747 old <div n="2">— d〉 *{%<bot>Rosa glandulifera</bot>%} oder {%<bot>alba</bot>%} (<ls>Mat. med. 320</ls>).
+;
+183747 new <div n="2">— d〉 *{%<bot>Rosa glandulifera</bot>%} oder {%<bot>Rosa alba</bot>%} (<ls>Mat. med. 320</ls>).
+; --------------------------------------------------
+; <L>44844<pc>3-016-a<k1>taruRa<k2>ta/ruRa
+; <bot>Tiglium</bot> -> <bot>Croton tiglium</bot> 
+183748 old <div n="2">— e〉 {%<bot>Croton polyandrum</bot>%} oder {%<bot>Tiglium</bot>%}.
+;
+183748 new <div n="2">— e〉 {%<bot>Croton polyandrum</bot>%} oder {%<bot>Croton tiglium</bot>%}.
+; --------------------------------------------------
+; <L>48894<pc>3-068-a<k1>dantamUlikA<k2>*dantamUlikA
+; <bot>Tiglium</bot> -> <bot>Croton tiglium</bot> 
+200417 old *{#dantamUlikA#}¦ <lex>f.</lex> {%<bot>Croton polyandrum</bot>%} oder {%<bot>Tiglium</bot>%}.
+;
+200417 new *{#dantamUlikA#}¦ <lex>f.</lex> {%<bot>Croton polyandrum</bot>%} oder {%<bot>Croton tiglium</bot>%}.
+; --------------------------------------------------
+; <L>49208<pc>3-074-a<k1>dalAQaka<k2>*dalAQaka
+; <bot>Pubescens</bot> -> <bot>Jasminum pubescens</bot> 
+202030 old <div n="1">— 2〉 {%<bot>Jasminum multiflorum</bot>%} oder {%<bot>Pubescens</bot>%}.
+;
+202030 new <div n="1">— 2〉 {%<bot>Jasminum multiflorum</bot>%} oder {%<bot>Jasminum pubescens</bot>%}.
+; --------------------------------------------------
+; <L>49426<pc>3-076-b<k1>daSAnika<k2>*daSAnika
+; <bot>Tiglium</bot> -> <bot>Croton tiglium</bot> 
+202836 old *{#daSAnika#}¦ <lex>m.</lex> {%<bot>Croton polyandrum</bot>%} oder {%<bot>Tiglium</bot>%}.
+;
+202836 new *{#daSAnika#}¦ <lex>m.</lex> {%<bot>Croton polyandrum</bot>%} oder {%<bot>Croton tiglium</bot>%}.
+; --------------------------------------------------
+; <L>49861<pc>3-084-a<k1>dArva<k2>dArva
+; <bot>xanthorrhiza</bot> -> <bot>Curcuma xanthorrhiza</bot> 
+204949 old <div n="2">— a〉 {%<bot>Curcuma aromatica</bot>%} oder {%<bot>xanthorrhiza</bot>%}. Auch {%ein daraus bereitetes Collyrium%}.
+;
+204949 new <div n="2">— a〉 {%<bot>Curcuma aromatica</bot>%} oder {%<bot>Curcuma xanthorrhiza</bot>%}. Auch {%ein daraus bereitetes Collyrium%}.
+; --------------------------------------------------
+; <L>49862<pc>3-084-a<k1>dArvaka<k2>dArvaka
+; <bot>xanthorrhiza</bot> -> <bot>Curcuma xanthorrhiza</bot> 
+204958 old <div n="2">— b〉 {%ein Collyrium aus <bot>Curcuma aromatica</bot>%} oder {%<bot>xanthorrhiza</bot>%}.
+;
+204958 new <div n="2">— b〉 {%ein Collyrium aus <bot>Curcuma aromatica</bot>%} oder {%<bot>Curcuma xanthorrhiza</bot>%}.
+; --------------------------------------------------
+; <L>50536<pc>3-094-a<k1>dIpavfkza<k2>dIpavfkza
+; <bot>Deodora</bot> -> <bot>Pinus deodora</bot> 
+207857 old <div n="1">— 2〉 *{%<bot>Pinus longifolia</bot>%} oder {%<bot>Deodora</bot>%}.
+;
+207857 new <div n="1">— 2〉 *{%<bot>Pinus longifolia</bot>%} oder {%<bot>Pinus deodora</bot>%}.
+; --------------------------------------------------
+; <L>50677<pc>3-096-a<k1>dIrGamuKa<k2>dIrGamuKa
+; <bot>goensis</bot> -> <bot>Parra goensis</bot> 
+208515 old <div n="2">— a〉 {%<bot>Parra jacana</bot>%} oder {%<bot>goensis</bot>%} (nach dem <ab>Comm.</ab>) <ls>ĀPAST. ŚR. 15,19,4</ls>.
+;
+208515 new <div n="2">— a〉 {%<bot>Parra jacana</bot>%} oder {%<bot>Parra goensis</bot>%} (nach dem <ab>Comm.</ab>) <ls>ĀPAST. ŚR. 15,19,4</ls>.
+; --------------------------------------------------
+; <L>51354<pc>3-104-a<k1>durlaBa<k2>durlaBa
+; <bot>Zerumbet</bot> -> <bot>Curcuma zerumbet</bot> 
+211058 old <div n="2">— a〉 *{%<bot>Curcuma amhaldi</bot>%} oder {%<bot>Zerumbet</bot>%} <ls>RĀJAN. 6,119</ls>.
+;
+211058 new <div n="2">— a〉 *{%<bot>Curcuma amhaldi</bot>%} oder {%<bot>Curcuma zerumbet</bot>%} <ls>RĀJAN. 6,119</ls>.
+; --------------------------------------------------
+; <L>51583<pc>3-107-a<k1>duzwa<k2>duzwa
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+211933 old <div n="2">— b〉 *{%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%}.
+;
+211933 new <div n="2">— b〉 *{%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%}.
+; --------------------------------------------------
+; <L>54352<pc>3-140-b<k1>DattUra<k2>DattUra
+; <bot>Stechafel</bot> -> <bot>Datura stechafel</bot>
+; This is revised in change_pw_3.txt
+222637 old <div n="1">— 1〉 {%<bot>Datura alba</bot>%} oder {%<bot>Stechafel</bot>%} <ab>überh.</ab> <ls>RĀJAN. 10,17</ls>. <ls>BHĀVAPR. 1,203</ls>. <ls>Spr. 7716</ls>. <lex>n.</lex> {%die Frucht%}.
+;
+222637 new <div n="1">— 1〉 {%<bot>Datura alba</bot>%} oder {%<bot>Datura stechafel</bot>%} <ab>überh.</ab> <ls>RĀJAN. 10,17</ls>. <ls>BHĀVAPR. 1,203</ls>. <ls>Spr. 7716</ls>. <lex>n.</lex> {%die Frucht%}.
+; --------------------------------------------------
+; <L>55526<pc>3-163-b<k1>DUnaka<k2>*DUnaka
+; <bot>Harz</bot> -> <bot>Shorea harz</bot> 
+228309 old *{#DUnaka#}¦ <lex>m.</lex> {%das Harz der <bot>Shorea robusta</bot>%} oder {%<bot>Harz</bot>%} <ab>überh.</ab>
+;
+228309 new *{#DUnaka#}¦ <lex>m.</lex> {%das Harz der <bot>Shorea robusta</bot>%} oder {%<bot>Shorea harz</bot>%} <ab>überh.</ab>
+; --------------------------------------------------
+; <L>60384<pc>3-229-c<k1>nistriMSapattraka<k2>nistriMSapattraka
+; <bot>tortilis</bot> -> <bot>Euphorbia tortilis</bot> 
+248019 old {#nistriMSapattraka#} <lex>m.</lex> (<ls>CARAKA. 7,10</ls>) und *{#°pattrikA#} <lex>f.</lex>¦ {%<bot>Euphorbia antiquorum</bot>%} oder {%<bot>tortilis</bot>%} <ls>RĀJAN. 8,50</ls>.
+;
+248019 new {#nistriMSapattraka#} <lex>m.</lex> (<ls>CARAKA. 7,10</ls>) und *{#°pattrikA#} <lex>f.</lex>¦ {%<bot>Euphorbia antiquorum</bot>%} oder {%<bot>Euphorbia tortilis</bot>%} <ls>RĀJAN. 8,50</ls>.
+; --------------------------------------------------
+; <L>61774<pc>4-004-b<k1>pacaMpacA<k2>pacaMpacA
+; <bot>xanthorrhiza</bot> -> <bot>Curcuma xanthorrhiza</bot> 
+254168 old {#pacaMpacA#} (<ls>RĀJAN. 6,203</ls>. <ls>BHĀVAPR. 1,177. 3,95</ls>) und *{#pacaMbacA#}¦ <lex>f.</lex> {%<bot>Curcuma aromatica</bot>%} oder {%<bot>xanthorrhiza</bot>%}.
+;
+254168 new {#pacaMpacA#} (<ls>RĀJAN. 6,203</ls>. <ls>BHĀVAPR. 1,177. 3,95</ls>) und *{#pacaMbacA#}¦ <lex>f.</lex> {%<bot>Curcuma aromatica</bot>%} oder {%<bot>Curcuma xanthorrhiza</bot>%}.
+; --------------------------------------------------
+; <L>62708<pc>4-018-b<k1>paTya<k2>paTya
+; <bot>citrina</bot> -> <bot>Terminalia citrina</bot> 
+258238 old <div n="2">— a〉 *{%<bot>Terminalia chebula</bot>%} oder {%<bot>citrina</bot>%}.
+;
+258238 new <div n="2">— a〉 *{%<bot>Terminalia chebula</bot>%} oder {%<bot>Terminalia citrina</bot>%}.
+; --------------------------------------------------
+; <L>62708<pc>4-018-b<k1>paTya<k2>paTya
+; <bot>citrina</bot> -> <bot>Terminalia citrina</bot> 
+258242 old <div n="2">— b〉 {%<bot>Terminalia chebula</bot>%} oder {%<bot>citrina</bot>%}.
+;
+258242 new <div n="2">— b〉 {%<bot>Terminalia chebula</bot>%} oder {%<bot>Terminalia citrina</bot>%}.
+; --------------------------------------------------
+; <L>62846<pc>4-023-c<k1>padmaka<k2>padmaka
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+259282 old <div n="2">— a〉 *{%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%} <ls>RĀJAN. 12,123</ls>.
+;
+259282 new <div n="2">— a〉 *{%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%} <ls>RĀJAN. 12,123</ls>.
+; --------------------------------------------------
+; <L>62892<pc>4-024-b<k1>padmapattra<k2>padmapattra<h>2
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+259457 old <hom>2.</hom> {#padmapattra#}¦ <lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%} <ls>RĀJAN. 6,154</ls>. <ls>BHĀVAPR. 1,175</ls>.
+;
+259457 new <hom>2.</hom> {#padmapattra#}¦ <lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%} <ls>RĀJAN. 6,154</ls>. <ls>BHĀVAPR. 1,175</ls>.
+; --------------------------------------------------
+; <L>62894<pc>4-024-b<k1>padmaparRa<k2>*padmaparRa
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+259463 old *{#padmaparRa#}¦ <lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%}.
+;
+259463 new *{#padmaparRa#}¦ <lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%}.
+; --------------------------------------------------
+; <L>62933<pc>4-025-a<k1>padmavarRaka<k2>*padmavarRaka
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+259620 old *{#padmavarRaka#}¦ <lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%}.
+;
+259620 new *{#padmavarRaka#}¦ <lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%}.
+; --------------------------------------------------
+; <L>64626<pc>4-050-a<k1>parjanI<k2>parjanI
+; <bot>xanthorrhiza</bot> -> <bot>Curcuma xanthorrhiza</bot> 
+266630 old {#parjanI#}¦ <lex>f.</lex> {%<bot>Curcuma aromatica</bot>%} oder {%<bot>xanthorrhiza</bot>%} <ls>BHĀVAPR. 1,177</ls>.
+;
+266630 new {#parjanI#}¦ <lex>f.</lex> {%<bot>Curcuma aromatica</bot>%} oder {%<bot>Curcuma xanthorrhiza</bot>%} <ls>BHĀVAPR. 1,177</ls>.
+; --------------------------------------------------
+; <L>65375<pc>4-061-b<k1>pAkala<k2>pAkala/
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+269790 old <div n="1">— 5〉 <lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%}. Hierher wohl <ls>CARAKA. 6,7. 23</ls>.
+;
+269790 new <div n="1">— 5〉 <lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%}. Hierher wohl <ls>CARAKA. 6,7. 23</ls>.
+; --------------------------------------------------
+; <L>66345<pc>4-074-a<k1>pAriBadraka<k2>pAriBadraka
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+273693 old <div n="1">— 2〉 *<lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%}.
+;
+273693 new <div n="1">— 2〉 *<lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%}.
+; --------------------------------------------------
+; <L>66347<pc>4-074-a<k1>pAriBAvya<k2>pAriBAvya
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+273701 old <div n="1">— 2〉 *{%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%}.
+;
+273701 new <div n="1">— 2〉 *{%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%}.
+; --------------------------------------------------
+; <L>66771<pc>4-080-b<k1>picCala<k2>picCala
+; <bot>rubra</bot> -> <bot>Basella rubra</bot> 
+275613 old <div n="2">— c〉 *{%<bot>Basella lucida</bot>%} oder {%<bot>rubra</bot>%}.
+;
+275613 new <div n="2">— c〉 *{%<bot>Basella lucida</bot>%} oder {%<bot>Basella rubra</bot>%}.
+; --------------------------------------------------
+; <L>66777<pc>4-080-b<k1>picCila<k2>picCila
+; <bot>rubra</bot> -> <bot>Basella rubra</bot> 
+275640 old <div n="2">— c〉 *{%<bot>Basella lucida</bot>%} oder {%<bot>rubra</bot>%}.
+;
+275640 new <div n="2">— c〉 *{%<bot>Basella lucida</bot>%} oder {%<bot>Basella rubra</bot>%}.
+; --------------------------------------------------
+; <L>68487<pc>4-104-b<k1>puzkara<k2>pu/zkara
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+282575 old <div n="2">— n〉 *{%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%}.
+;
+282575 new <div n="2">— n〉 *{%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%}.
+; --------------------------------------------------
+; <L>68502<pc>4-104-c<k1>puzkarabIja<k2>*puzkarabIja<h>2
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+282656 old <hom>2.</hom> *{#puzkarabIja#}¦ <lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%}.
+;
+282656 new <hom>2.</hom> *{#puzkarabIja#}¦ <lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%}.
+; --------------------------------------------------
+; <L>68506<pc>4-104-c<k1>puzkaramUla<k2>puzkaramUla
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+282668 old {#puzkaramUla#}¦ <lex>n.</lex> {%die Wurzel von <bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%} <ls>RĀJAN. 6,154</ls>. <ls>Mat. med. 314</ls>. <ls>BHĀVAPR. 3,28</ls>.
+;
+282668 new {#puzkaramUla#}¦ <lex>n.</lex> {%die Wurzel von <bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%} <ls>RĀJAN. 6,154</ls>. <ls>Mat. med. 314</ls>. <ls>BHĀVAPR. 3,28</ls>.
+; --------------------------------------------------
+; <L>68507<pc>4-104-c<k1>puzkaramUlaka<k2>*puzkaramUlaka
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+282671 old *{#puzkaramUlaka#}¦ <lex>n.</lex> {%die Wurzel von%} {%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%}.
+;
+282671 new *{#puzkaramUlaka#}¦ <lex>n.</lex> {%die Wurzel von%} {%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%}.
+; --------------------------------------------------
+; <L>68511<pc>4-104-c<k1>puzkaraSikA<k2>*puzkaraSikA
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+282683 old *{#puzkaraSikA#}¦ <lex>f.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%}.
+;
+282683 new *{#puzkaraSikA#}¦ <lex>f.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%}.
+; --------------------------------------------------
+; <L>68513<pc>4-104-c<k1>puzkarasAgara<k2>*puzkarasAgara
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+282689 old *{#puzkarasAgara#}¦ {%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%}.
+;
+282689 new *{#puzkarasAgara#}¦ {%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%}.
+; --------------------------------------------------
+; <L>68524<pc>4-104-c<k1>puzkarANGrija<k2>*puzkarANGrija
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+282726 old *{#puzkarANGrija#}¦ {%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%}.
+;
+282726 new *{#puzkarANGrija#}¦ {%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%}.
+; --------------------------------------------------
+; <L>68532<pc>4-105-a<k1>puzkarAhva<k2>puzkarAhva
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+282754 old <div n="1">— 2〉 <lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%} <ls>CARAKA. 6,19</ls>.
+;
+282754 new <div n="1">— 2〉 <lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%} <ls>CARAKA. 6,19</ls>.
+; --------------------------------------------------
+; <L>68535<pc>4-105-a<k1>puzkarin<k2>puzkarin
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+282775 old <div n="2">— b〉 *{%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%}.
+;
+282775 new <div n="2">— b〉 *{%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%}.
+; --------------------------------------------------
+; <L>69906<pc>4-122-c<k1>potaka<k2>potaka
+; <bot>rubra</bot> -> <bot>Basella rubra</bot> 
+288158 old <div n="2">— b〉 *{%<bot>Basella lucida</bot>%} oder {%<bot>rubra</bot>%}.
+;
+288158 new <div n="2">— b〉 *{%<bot>Basella lucida</bot>%} oder {%<bot>Basella rubra</bot>%}.
+; --------------------------------------------------
+; <L>69906<pc>4-122-c<k1>potaka<k2>potaka
+; <bot>rubra</bot> -> <bot>Basella rubra</bot> 
+288163 old <div n="2">— b〉 *{%<bot>Basella lucida</bot>%} oder {%<bot>rubra</bot>%} <ls>RĀJAN. 7,140</ls>.
+;
+288163 new <div n="2">— b〉 *{%<bot>Basella lucida</bot>%} oder {%<bot>Basella rubra</bot>%} <ls>RĀJAN. 7,140</ls>.
+; --------------------------------------------------
+; <L>70157<pc>4-125-c<k1>pOzkara<k2>pOzkara
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+289150 old <div n="2">— b〉 {%zum <bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot> gehörig, davon kommend%} <ab>u. s. w.</ab>
+;
+289150 new <div n="2">— b〉 {%zum <bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot> gehörig, davon kommend%} <ab>u. s. w.</ab>
+; --------------------------------------------------
+; <L>70157<pc>4-125-c<k1>pOzkara<k2>pOzkara
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+289152 old <div n="2">— a〉 {%die Frucht von <bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%}.
+;
+289152 new <div n="2">— a〉 {%die Frucht von <bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%}.
+; --------------------------------------------------
+; <L>71838<pc>4-150-b<k1>pratyakSreRI<k2>pratyakSreRI
+; <bot>Tiglicum</bot> -> <bot>Croton tiglicum</bot> 
+295880 old {#pratyakSreRI#}¦ <lex>f.</lex> {%eine <ab>best.</ab> Pflanze%} <ls>CARAKA. 1,1. 7,11</ls>. Nach den Lexicographen {%<bot>Anthericum tuberosum</bot>%} (<ls>RĀJAN. 5,135</ls>), {%<bot>Croton polyandrum</bot>%} oder {%<bot>Tiglicum</bot>%} und {%<bot>Salvinia cucullata</bot>%} (<ls>RĀJAN. 3,55</ls>).
+;
+295880 new {#pratyakSreRI#}¦ <lex>f.</lex> {%eine <ab>best.</ab> Pflanze%} <ls>CARAKA. 1,1. 7,11</ls>. Nach den Lexicographen {%<bot>Anthericum tuberosum</bot>%} (<ls>RĀJAN. 5,135</ls>), {%<bot>Croton polyandrum</bot>%} oder {%<bot>Croton tiglicum</bot>%} und {%<bot>Salvinia cucullata</bot>%} (<ls>RĀJAN. 3,55</ls>).
+; --------------------------------------------------
+; <L>72444<pc>4-159-b<k1>prapaTya<k2>prapaTya^
+; <bot>citrina</bot> -> <bot>Terminalia citrina</bot> 
+298269 old <div n="1">— 2〉 *<lex>f.</lex> {#A#} = {#paTyA#} {%<bot>Terminalia chebula</bot>%} oder {%<bot>citrina</bot>%}.
+;
+298269 new <div n="1">— 2〉 *<lex>f.</lex> {#A#} = {#paTyA#} {%<bot>Terminalia chebula</bot>%} oder {%<bot>Terminalia citrina</bot>%}.
+; --------------------------------------------------
+; <L>72695<pc>4-163-a<k1>pramaTa<k2>pramaTa
+; <bot>citrina</bot> -> <bot>Terminalia citrina</bot> 
+299350 old <div n="2">— a〉 *{%<bot>Terminalia chebula</bot>%} oder {%<bot>citrina</bot>%}.
+;
+299350 new <div n="2">— a〉 *{%<bot>Terminalia chebula</bot>%} oder {%<bot>Terminalia citrina</bot>%}.
+; --------------------------------------------------
+; <L>76063<pc>4-212-c<k1>balika<k2>*balika
+; <bot>rhombifolia</bot> -> <bot>Sida rhombifolia</bot> 
+313489 old <div n="1">— 2〉 <lex>f.</lex> {#A#} {%<bot>Sida cordifolia</bot>%} und {%<bot>rhombifolia</bot>%} <ls>RĀJAN. 4,103</ls>.
+;
+313489 new <div n="1">— 2〉 <lex>f.</lex> {#A#} {%<bot>Sida cordifolia</bot>%} und {%<bot>Sida rhombifolia</bot>%} <ls>RĀJAN. 4,103</ls>.
+; --------------------------------------------------
+; <L>76154<pc>4-213-c<k1>bastAntrI<k2>bastAntrI
+; <bot>argentea</bot> -> <bot>Argyreia argentea</bot> 
+313824 old {#bastAntrI#}¦ <lex>f.</lex> {%<bot>Argyreia speciosa</bot>%} oder {%<bot>argentea</bot>%}.
+;
+313824 new {#bastAntrI#}¦ <lex>f.</lex> {%<bot>Argyreia speciosa</bot>%} oder {%<bot>Argyreia argentea</bot>%}.
+; --------------------------------------------------
+; <L>76407<pc>4-217-a<k1>bahubIja<k2>bahubIja
+; <bot>squamosa</bot> -> <bot>Anona squamosa</bot> 
+314750 old <div n="1">— 1〉 *<lex>n.</lex> {%die Frucht der <bot>Anona reticulata</bot>%} oder {%<bot>squamosa</bot>%}.
+;
+314750 new <div n="1">— 1〉 *<lex>n.</lex> {%die Frucht der <bot>Anona reticulata</bot>%} oder {%<bot>Anona squamosa</bot>%}.
+; --------------------------------------------------
+; <L>76721<pc>4-221-b<k1>bAla<k2>bAla<h>1
+; <bot>Rohita</bot> -> <bot>Cyprinus rohita</bot> 
+316084 old <div n="2">— d〉 *{%<bot>Cyprinus denticulatus</bot>%} oder {%<bot>Rohita</bot>%} <ls>RĀJAN. 17,56</ls>.
+;
+316084 new <div n="2">— d〉 *{%<bot>Cyprinus denticulatus</bot>%} oder {%<bot>Cyprinus rohita</bot>%} <ls>RĀJAN. 17,56</ls>.
+; --------------------------------------------------
+; <L>77697<pc>4-233-c<k1>bokaqI<k2>*bokaqI
+; <bot>argentea</bot> -> <bot>Argyreia argentea</bot> 
+319942 old *{#bokaqI#}¦ <lex>f.</lex> {%<bot>Argyreia speciosa</bot>%} oder {%<bot>argentea</bot>%} <ls>RĀJAN. 3,84</ls>.
+;
+319942 new *{#bokaqI#}¦ <lex>f.</lex> {%<bot>Argyreia speciosa</bot>%} oder {%<bot>Argyreia argentea</bot>%} <ls>RĀJAN. 3,84</ls>.
+; --------------------------------------------------
+; <L>77877<pc>4-236-b<k1>brahmatIrTa<k2>brahmatIrTa
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+320680 old <div n="1">— 2〉 {%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%} <ls>RĀJAN. 6,155</ls>.
+;
+320680 new <div n="1">— 2〉 {%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%} <ls>RĀJAN. 6,155</ls>.
+; --------------------------------------------------
+; <L>79723<pc>4-265-a<k1>BAsura<k2>BAsura
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+328889 old <div n="1">— 3〉 *<lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%}.
+;
+328889 new <div n="1">— 3〉 *<lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%}.
+; --------------------------------------------------
+; <L>79752<pc>4-265-b<k1>BAsvara<k2>BAsvara/
+; <bot>speciosus</bot> -> <bot>Costus speciosus</bot> 
+329016 old <div n="1">— 3〉 *<lex>n.</lex> {%<bot>Costus arabicus</bot>%} oder {%<bot>speciosus</bot>%}.
+;
+329016 new <div n="1">— 3〉 *<lex>n.</lex> {%<bot>Costus arabicus</bot>%} oder {%<bot>Costus speciosus</bot>%}.
+; --------------------------------------------------
+; <L>80684<pc>4-280-c<k1>BUruha<k2>BUruha
+; <bot>glabra</bot> -> <bot>Terminalia glabra</bot> 
+333136 old <div n="2">— b〉 *{%<bot>Terminalia arjuna</bot>%} und {%<bot>glabra</bot>%}.
+;
+333136 new <div n="2">— b〉 *{%<bot>Terminalia arjuna</bot>%} und {%<bot>Terminalia glabra</bot>%}.
+; --------------------------------------------------
+; <L>82321<pc>5-015-a<k1>maDuka<k2>maDuka
+; <bot>goensis</bot> -> <bot>Parra goensis</bot> 
+340335 old <div n="2">— b〉 *{%<bot>Parra jacana</bot>%} oder {%<bot>goensis</bot>%}.
+;
+340335 new <div n="2">— b〉 *{%<bot>Parra jacana</bot>%} oder {%<bot>Parra goensis</bot>%}.
+; --------------------------------------------------
+; <L>83043<pc>5-025-b<k1>manohara<k2>manohara
+; <bot>pubescens</bot> -> <bot>Jasminum pubescens</bot> 
+343346 old <div n="2">— a〉 *{%<bot>Jasminum multiflorum</bot>%} oder {%<bot>pubescens</bot>%}.
+;
+343346 new <div n="2">— a〉 *{%<bot>Jasminum multiflorum</bot>%} oder {%<bot>Jasminum pubescens</bot>%}.
+; --------------------------------------------------
+; <L>85676<pc>5-061-b<k1>mAGya<k2>*mAGya
+; <bot>Pubescenz</bot> -> <bot>Jasminum pubescenz</bot> 
+354231 old *{#mAGya#}¦ <lex>n.</lex> {%die Blüthe von <bot>Jasminum grandiflorum</bot>%} oder {%<bot>Pubescenz</bot>%}.
+;
+354231 new *{#mAGya#}¦ <lex>n.</lex> {%die Blüthe von <bot>Jasminum grandiflorum</bot>%} oder {%<bot>Jasminum pubescenz</bot>%}.
+; --------------------------------------------------
+; <L>87039<pc>5-081-a<k1>miSreyA<k2>*miSreyA
+; <bot>Dill</bot> -> <bot>Anethum dill</bot> 
+359901 old *{#miSreyA#}¦ <lex>f.</lex> {%<bot>Anethum panmori</bot>%} oder {%<bot>Dill</bot>%} <ls>Mat. med. 173</ls>. <ls>RĀJAN. 4,15</ls>.
+;
+359901 new *{#miSreyA#}¦ <lex>f.</lex> {%<bot>Anethum panmori</bot>%} oder {%<bot>Anethum dill</bot>%} <ls>Mat. med. 173</ls>. <ls>RĀJAN. 4,15</ls>.
+; --------------------------------------------------
+; <L>87206<pc>5-083-c<k1>muktApuzpa<k2>*muktApuzpa
+; <bot>pubescens</bot> -> <bot>Jasminum pubescens</bot> 
+360678 old *{#muktApuzpa#}¦ <lex>m.</lex> {%<bot>Jasminum multiflorum</bot>%} oder {%<bot>pubescens</bot>%} <ls>RĀJAN. 10,113</ls>.
+;
+360678 new *{#muktApuzpa#}¦ <lex>m.</lex> {%<bot>Jasminum multiflorum</bot>%} oder {%<bot>Jasminum pubescens</bot>%} <ls>RĀJAN. 10,113</ls>.
+; --------------------------------------------------
+; <L>87597<pc>5-090-c<k1>muniBezaja<k2>*muniBezaja
+; <bot>citrina</bot> -> <bot>Terminalica citrina</bot> 
+362406 old <div n="1">— 3〉 {%<bot>Terminalica chebula</bot>%} oder {%<bot>citrina</bot>%}.
+;
+362406 new <div n="1">— 3〉 {%<bot>Terminalica chebula</bot>%} oder {%<bot>Terminalica citrina</bot>%}.
+; --------------------------------------------------
+; <L>87933<pc>5-095-c<k1>mUla<k2>mU/la
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+363929 old <div n="3">— γ〉 {%von <bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%}.
+;
+363929 new <div n="3">— γ〉 {%von <bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%}.
+; --------------------------------------------------
+; <L>87973<pc>5-096-b<k1>mUlapuzkara<k2>*mUlapuzkara
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+364094 old *{#mUlapuzkara#}¦ <lex>n.</lex> {%die Wurzel von <bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%} <ls>RĀJAN. 6,155</ls>.
+;
+364094 new *{#mUlapuzkara#}¦ <lex>n.</lex> {%die Wurzel von <bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%} <ls>RĀJAN. 6,155</ls>.
+; --------------------------------------------------
+; <L>88381<pc>5-101-a<k1>mftPalI<k2>*mftPalI
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+365676 old *{#mftPalI#}¦ <lex>f.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%}.
+;
+365676 new *{#mftPalI#}¦ <lex>f.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%}.
+; --------------------------------------------------
+; <L>88891<pc>5-107-b<k1>mezAntrI<k2>*mezAntrI
+; <bot>argentea</bot> -> <bot>Argyreia argentea</bot> 
+367697 old *{#mezAntrI#}¦ <lex>f.</lex> {%<bot>Argyreia speciosa</bot>%} oder {%<bot>argentea</bot>%} <ls>RĀJAN. 3,84</ls>.
+;
+367697 new *{#mezAntrI#}¦ <lex>f.</lex> {%<bot>Argyreia speciosa</bot>%} oder {%<bot>Argyreia argentea</bot>%} <ls>RĀJAN. 3,84</ls>.
+; --------------------------------------------------
+; <L>90447<pc>5-132-a<k1>yavanAla<k2>yavanAla
+; <bot>Sorghum</bot> -> <bot>Andropogon sorghum</bot> 
+374225 old {#yavanAla#}¦ <lex>m.</lex> {%<bot>Andropogon bicolor</bot>%} oder {%<bot>Sorghum</bot>%} <ls>RĀJAN. 16,25</ls>. <ls>Mat. med. 324</ls>.
+;
+374225 new {#yavanAla#}¦ <lex>m.</lex> {%<bot>Andropogon bicolor</bot>%} oder {%<bot>Andropogon sorghum</bot>%} <ls>RĀJAN. 16,25</ls>. <ls>Mat. med. 324</ls>.
+; --------------------------------------------------
+; <L>92087<pc>5-161-a<k1>rajanI<k2>rajanI
+; <bot>aromatica</bot> -> <bot>Curcuma aromatica</bot> 
+381639 old <div n="1">— 2〉 {%<bot>Curcuma longa</bot>%}. <ab>Du.</ab> und {#°dvaya#} <lex>n.</lex> {%<bot>Curcuma longa</bot>%} und {%<bot>aromatica</bot>%}.
+;
+381639 new <div n="1">— 2〉 {%<bot>Curcuma longa</bot>%}. <ab>Du.</ab> und {#°dvaya#} <lex>n.</lex> {%<bot>Curcuma longa</bot>%} und {%<bot>Curcuma aromatica</bot>%}.
+; --------------------------------------------------
+; <L>93052<pc>5-175-a<k1>rasAyanaPalA<k2>*rasAyanaPalA
+; <bot>citrina</bot> -> <bot>Terminalia citrina</bot> 
+385780 old *{#rasAyanaPalA#}¦ <lex>f.</lex> {%<bot>Terminalia chebula</bot>%} oder {%<bot>citrina</bot>%}.
+;
+385780 new *{#rasAyanaPalA#}¦ <lex>f.</lex> {%<bot>Terminalia chebula</bot>%} oder {%<bot>Terminalia citrina</bot>%}.
+; --------------------------------------------------
+; <L>93072<pc>5-175-b<k1>rasika<k2>rasika
+; <bot>Chylus</bot> -> Chylus [not bot]
+385884 old <div n="2">— d〉 *{%<bot>Chylus</bot>%} <ls>RĀJAN. 18,65</ls>.
+;
+385884 new <div n="2">— d〉 *{%Chylus%} <ls>RĀJAN. 18,65</ls>.
+; --------------------------------------------------
+; <L>93424<pc>5-180-a<k1>rAjaBadraka<k2>*rAjaBadraka
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+387352 old <div n="1">— 1〉 {%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%}.
+;
+387352 new <div n="1">— 1〉 {%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%}.
+; --------------------------------------------------
+; <L>93594<pc>5-182-a<k1>rAjAtana<k2>*rAjAtana
+; <bot>Kanki</bot> -> <bot>Mimusops kanki</bot> 
+387961 old <div n="1">— 3〉 {%<bot>Mimusops kauki</bot>%} (oder {%<bot>Kanki</bot>%}).
+;
+387961 new <div n="1">— 3〉 {%<bot>Mimusops kauki</bot>%} (oder {%<bot>Mimusops kanki</bot>%}).
+; --------------------------------------------------
+; <L>94397<pc>5-193-c<k1>ruja<k2>ruja/
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+391467 old <div n="2">— c〉 *{%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%}.
+;
+391467 new <div n="2">— c〉 *{%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%}.
+; --------------------------------------------------
+; <L>94623<pc>5-199-c<k1>rUkza<k2>rUkza/<h>1
+; <bot>Tiglium</bot> -> <bot>Croton tiglium</bot> 
+392760 old <div n="1">— 3〉 *<lex>f.</lex> {#A#} {%<bot>Croton polyandrum</bot>%} oder {%<bot>Tiglium</bot>%} <ls>RĀJAN. 6,160</ls>.
+;
+392760 new <div n="1">— 3〉 *<lex>f.</lex> {#A#} {%<bot>Croton polyandrum</bot>%} oder {%<bot>Croton tiglium</bot>%} <ls>RĀJAN. 6,160</ls>.
+; --------------------------------------------------
+; <L>94902<pc>5-203-c<k1>roga<k2>ro/ga
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+393954 old <div n="1">— 3〉 *{%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%}.
+;
+393954 new <div n="1">— 3〉 *{%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%}.
+; --------------------------------------------------
+; <L>94940<pc>5-204-a<k1>rogAhvaya<k2>*rogAhvaya
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+394075 old *{#rogAhvaya#}¦ <lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%} <ls>BHĀVAPR. 1,175</ls>.
+;
+394075 new *{#rogAhvaya#}¦ <lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%} <ls>BHĀVAPR. 1,175</ls>.
+; --------------------------------------------------
+; <L>97411<pc>6-006-a<k1>vajrakaRwa<k2>*vajrakaRwa
+; <bot>antiquorum</bot> -> <bot>Euphorbia antiquorum</bot> 
+405211 old *{#vajrakaRwa#}¦ <lex>m.</lex> {%<bot>Euphorbia neriifolia</bot>%} oder {%<bot>antiquorum</bot>%}.
+;
+405211 new *{#vajrakaRwa#}¦ <lex>m.</lex> {%<bot>Euphorbia neriifolia</bot>%} oder {%<bot>Euphorbia antiquorum</bot>%}.
+; --------------------------------------------------
+; <L>98308<pc>6-019-c<k1>vayaHsTa<k2>vayaHsTa
+; <bot>citrina</bot> -> <bot>Terminalia citrina</bot> 
+409077 old <div n="2">— b〉 <ab>Bez.</ab> {%verschiedener Pflanzen%} <ls>CARAKA. 3,8</ls>. Nach den Lexicographen {%<bot>Emblica officinalis</bot>, <bot>Terminalia chebula</bot>%} oder {%<bot>citrina</bot>, <bot>Cocculus cordifolius</bot>, <bot>Bombax heptaphyllum</bot>,%} = {#atyamlaparRI#}, {#kAkolI#}, {#kzIrakAkolI#} und {#brAhmI#}.
+;
+409077 new <div n="2">— b〉 <ab>Bez.</ab> {%verschiedener Pflanzen%} <ls>CARAKA. 3,8</ls>. Nach den Lexicographen {%<bot>Emblica officinalis</bot>, <bot>Terminalia chebula</bot>%} oder {%<bot>Terminalia citrina</bot>, <bot>Cocculus cordifolius</bot>, <bot>Bombax heptaphyllum</bot>,%} = {#atyamlaparRI#}, {#kAkolI#}, {#kzIrakAkolI#} und {#brAhmI#}.
+; --------------------------------------------------
+; <L>99143<pc>6-040-a<k1>valgupodakI<k2>*valgupodakI
+; <bot>oleraceus</bot> -> <bot>Amaranthus oleraceus</bot> 
+413947 old *{#valgupodakI#}¦ <lex>f.</lex> {%<bot>Amaranthus polygamus</bot>%} oder {%<bot>oleraceus</bot>%}.
+;
+413947 new *{#valgupodakI#}¦ <lex>f.</lex> {%<bot>Amaranthus polygamus</bot>%} oder {%<bot>Amaranthus oleraceus</bot>%}.
+; --------------------------------------------------
+; <L>99321<pc>6-044-c<k1>vasantakusuma<k2>*vasantakusuma
+; <bot>Myxa</bot> -> <bot>Cordia myxa</bot> 
+414898 old *{#vasantakusuma#}¦ <lex>m.</lex> {%<bot>Cordia latifolia</bot>%} oder {%<bot>Myxa</bot>%}.
+;
+414898 new *{#vasantakusuma#}¦ <lex>m.</lex> {%<bot>Cordia latifolia</bot>%} oder {%<bot>Cordia myxa</bot>%}.
+; --------------------------------------------------
+; <L>99415<pc>6-046-a<k1>vasuka<k2>vasuka/
+; <bot>Chenopodium</bot> -> <bot>Chenopodium vasica</bot> 
+415286 old <div n="2">— b〉 <ab>Bez.</ab> {%verschiedener Pflanzen%} <ls>CARAKA. 1,4</ls> (= {#baka#} <ab>Comm.</ab>). Nach den Lexicographen {%<bot>Colotropis gigantea</bot>, <bot>Agati grandiflora</bot>, <bot>Adhatoda vasica</bot>%} und {%<bot>Chenopodium</bot>%}.
+;
+415286 new <div n="2">— b〉 <ab>Bez.</ab> {%verschiedener Pflanzen%} <ls>CARAKA. 1,4</ls> (= {#baka#} <ab>Comm.</ab>). Nach den Lexicographen {%<bot>Colotropis gigantea</bot>, <bot>Agati grandiflora</bot>, <bot>Adhatoda vasica</bot>%} und {%<bot>Chenopodium vasica</bot>%}.
+; --------------------------------------------------
+; <L>100187<pc>6-058-a<k1>vAwyapuzpikA<k2>*vAwyapuzpikA
+; <bot>cordifolia</bot> -> <bot>Sida cordifolia</bot> 
+418589 old *{#vAwyapuzpikA#} (<ls>RĀJAN. 4,103</ls>) und {#°puzpI#} (<ls>CARAKA. 1,4</ls>)¦ <lex>f.</lex> {%<bot>Sida rhomboidea</bot>%} oder {%<bot>cordifolia</bot>%}.
+;
+418589 new *{#vAwyapuzpikA#} (<ls>RĀJAN. 4,103</ls>) und {#°puzpI#} (<ls>CARAKA. 1,4</ls>)¦ <lex>f.</lex> {%<bot>Sida rhomboidea</bot>%} oder {%<bot>Sida cordifolia</bot>%}.
+; --------------------------------------------------
+; <L>100575<pc>6-062-c<k1>vAnIraja<k2>*vAnIraja
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+420109 old <div n="1">— 2〉 <lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%} <ls>RĀJAN. 12,122</ls>.
+;
+420109 new <div n="1">— 2〉 <lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%} <ls>RĀJAN. 12,122</ls>.
+; --------------------------------------------------
+; <L>100607<pc>6-063-a<k1>vApya<k2>*vApya<h>3
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+420225 old <hom>3.</hom> *{#vApya#}¦ <lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%} <ls>RĀJAN. 12,122</ls>. <ls>BHĀVAPR. 1,175</ls>. <ab>Vgl.</ab> {#vyApya#}.
+;
+420225 new <hom>3.</hom> *{#vApya#}¦ <lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%} <ls>RĀJAN. 12,122</ls>. <ls>BHĀVAPR. 1,175</ls>. <ab>Vgl.</ab> {#vyApya#}.
+; --------------------------------------------------
+; <L>104678<pc>6-126-a<k1>viSoDana<k2>viSoDana
+; <bot>Tiglium</bot> -> <bot>Croton tiglium</bot> 
+437769 old <div n="2">— a〉 {%<bot>Croton polyandrum</bot>%} oder {%<bot>Tiglium</bot>%} <ls>RĀJAN. 6,162</ls>.
+;
+437769 new <div n="2">— a〉 {%<bot>Croton polyandrum</bot>%} oder {%<bot>Croton tiglium</bot>%} <ls>RĀJAN. 6,162</ls>.
+; --------------------------------------------------
+; <L>105312<pc>6-134-b<k1>vizARa<k2>vizA/Ra<h>2
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+440362 old <div n="1">— 3〉 *<lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%}.
+;
+440362 new <div n="1">— 3〉 *<lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%}.
+; --------------------------------------------------
+; <L>106503<pc>6-150-b<k1>vfdDa<k2>vfdDa/<h>1
+; <bot>argentea</bot> -> <bot>Argyreia argentea</bot> 
+445130 old <div n="2">— e〉 *{%<bot>Argyreia speciosa</bot>%} oder {%<bot>argentea</bot>%}
+;
+445130 new <div n="2">— e〉 *{%<bot>Argyreia speciosa</bot>%} oder {%<bot>Argyreia argentea</bot>%}
+; --------------------------------------------------
+; <L>106535<pc>6-150-c<k1>vfdDadAra<k2>*vfdDadAra
+; <bot>argentea</bot> -> <bot>Argyreia argentea</bot> 
+445238 old *{#vfdDadAra#} <lex>m.</lex>, *{#°ka#} <lex>m.</lex> und *{#°dAru#} <lex>n.</lex> (<ls>RĀJAN. 3,105</ls>. <ls>Mat. med. 206</ls>)¦ {%<bot>Argyreia speciosa</bot>%} oder {%<bot>argentea</bot>%}.
+;
+445238 new *{#vfdDadAra#} <lex>m.</lex>, *{#°ka#} <lex>m.</lex> und *{#°dAru#} <lex>n.</lex> (<ls>RĀJAN. 3,105</ls>. <ls>Mat. med. 206</ls>)¦ {%<bot>Argyreia speciosa</bot>%} oder {%<bot>Argyreia argentea</bot>%}.
+; --------------------------------------------------
+; <L>106664<pc>6-152-b<k1>vfza<k2>vfza
+; <bot>Adhatoda</bot> -> <bot>Gendarussa adhatoda</bot> 
+445778 old <div n="2">— l〉 <ab>Bez.</ab> {%verschiedener [Page6-152-c] Pflanzen%}. Nach den Lexicographen {%<bot>Gendarussa vulgaris</bot>%} oder {%<bot>Adhatoda</bot>%} (in dieser <ab>Bed.</ab> <ls>CARAKA. 6,5</ls>), {%<bot>Boerhavia variegata</bot>%} und {%eine <ab>best.</ab> auf dem%} <is>Himavant</is> {%wachsende Knolle%}.
+;
+445778 new <div n="2">— l〉 <ab>Bez.</ab> {%verschiedener [Page6-152-c] Pflanzen%}. Nach den Lexicographen {%<bot>Gendarussa vulgaris</bot>%} oder {%<bot>Gendarussa adhatoda</bot>%} (in dieser <ab>Bed.</ab> <ls>CARAKA. 6,5</ls>), {%<bot>Boerhavia variegata</bot>%} und {%eine <ab>best.</ab> auf dem%} <is>Himavant</is> {%wachsende Knolle%}.
+; --------------------------------------------------
+; <L>106664<pc>6-152-b<k1>vfza<k2>vfza
+; <bot>Adhatoda</bot> -> <bot>Gendarussa adhatoda</bot> 
+445794 old <div n="2">— a〉 *{%<bot>Gendarussa vulgaris</bot>%} oder {%<bot>Adhatoda</bot>%}.
+;
+445794 new <div n="2">— a〉 *{%<bot>Gendarussa vulgaris</bot>%} oder {%<bot>Gendarussa adhatoda</bot>%}.
+; --------------------------------------------------
+; <L>106676<pc>6-152-c<k1>vfzaganDA<k2>*vfzaganDA
+; <bot>argentea</bot> -> <bot>Argyreia argentea</bot> 
+445849 old *{#vfzaganDA#}¦ <lex>f.</lex> {%<bot>Argyreia speciosa</bot>%} oder {%<bot>argentea</bot>%} <ls>RĀJAN. 3,84</ls>.
+;
+445849 new *{#vfzaganDA#}¦ <lex>f.</lex> {%<bot>Argyreia speciosa</bot>%} oder {%<bot>Argyreia argentea</bot>%} <ls>RĀJAN. 3,84</ls>.
+; --------------------------------------------------
+; <L>106712<pc>6-153-b<k1>vfzapattrikA<k2>*vfzapattrikA
+; <bot>argentea</bot> -> <bot>Argyreia argentea</bot> 
+446005 old *{#vfzapattrikA#}¦ <lex>f.</lex> {%<bot>Argyreia speciosa</bot>%} oder {%<bot>argentea</bot>%} <ls>RĀJAN. 3,84</ls>.
+;
+446005 new *{#vfzapattrikA#}¦ <lex>f.</lex> {%<bot>Argyreia speciosa</bot>%} oder {%<bot>Argyreia argentea</bot>%} <ls>RĀJAN. 3,84</ls>.
+; --------------------------------------------------
+; <L>106854<pc>6-155-a<k1>vfzyaganDA<k2>*vfzyaganDA
+; <bot>argentea</bot> -> <bot>Argyreia argentea</bot> 
+446593 old *{#vfzyaganDA#}¦ <lex>f.</lex> {%<bot>Argyreia speciosa</bot>%} oder {%<bot>argentea</bot>%}.
+;
+446593 new *{#vfzyaganDA#}¦ <lex>f.</lex> {%<bot>Argyreia speciosa</bot>%} oder {%<bot>Argyreia argentea</bot>%}.
+; --------------------------------------------------
+; <L>106855<pc>6-155-a<k1>vfzyaganDikA<k2>*vfzyaganDikA
+; <bot>rhombifolia</bot> -> <bot>Sida rhombifolia</bot> 
+446596 old *{#vfzyaganDikA#}¦ <lex>f.</lex> {%<bot>Sida cordifolia</bot>%} oder {%<bot>rhombifolia</bot>%} <ls>RĀJAN. 4,103</ls>.
+;
+446596 new *{#vfzyaganDikA#}¦ <lex>f.</lex> {%<bot>Sida cordifolia</bot>%} oder {%<bot>Sida rhombifolia</bot>%} <ls>RĀJAN. 4,103</ls>.
+; --------------------------------------------------
+; <L>108198<pc>6-173-c<k1>vorawa<k2>*vorawa
+; <bot>pubescens</bot> -> <bot>Jasminum pubescens</bot> 
+452085 old *{#vorawa#}¦ <lex>m.</lex> {%<bot>Jasminum multiflorum</bot>%} oder {%<bot>pubescens</bot>%}.
+;
+452085 new *{#vorawa#}¦ <lex>m.</lex> {%<bot>Jasminum multiflorum</bot>%} oder {%<bot>Jasminum pubescens</bot>%}.
+; --------------------------------------------------
+; <L>108664<pc>6-182-a<k1>vyADi<k2>vyADi
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+454226 old <div n="1">— 2〉 *{%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%} <ls>RĀJAN. 12,122</ls>.
+;
+454226 new <div n="1">— 2〉 *{%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%} <ls>RĀJAN. 12,122</ls>.
+; --------------------------------------------------
+; <L>108716<pc>6-182-c<k1>vyApya<k2>vyApya
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+454428 old <div n="2">— b〉 {%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%}.
+;
+454428 new <div n="2">— b〉 {%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%}.
+; --------------------------------------------------
+; <L>108720<pc>6-183-a<k1>vyAma<k2>vyAma<h>2
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+454447 old <hom>2.</hom> {#vyAma#}¦ <ls>VARĀH. BṚH. S. 77,7</ls> {%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>;%} <ab>vgl.</ab> die Note zur Uebersetzung.
+;
+454447 new <hom>2.</hom> {#vyAma#}¦ <ls>VARĀH. BṚH. S. 77,7</ls> {%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>;%} <ab>vgl.</ab> die Note zur Uebersetzung.
+; --------------------------------------------------
+; <L>111321<pc>6-220-a<k1>SAKAkaRwa<k2>*SAKAkaRwa
+; <bot>antiquorum</bot> -> <bot>Euphorbia antiquorum</bot> 
+465204 old *{#SAKAkaRwa#}¦ <lex>m.</lex> {%<bot>Euphorbia neriifolia</bot>%} oder {%<bot>antiquorum</bot>%} <ls>RĀJAN. 8,50</ls>.
+;
+465204 new *{#SAKAkaRwa#}¦ <lex>m.</lex> {%<bot>Euphorbia neriifolia</bot>%} oder {%<bot>Euphorbia antiquorum</bot>%} <ls>RĀJAN. 8,50</ls>.
+; --------------------------------------------------
+; <L>112123<pc>6-231-a<k1>SiKarin<k2>SiKarin
+; <bot>goensis</bot> -> <bot>Parra goensis</bot> 
+468619 old <div n="2">— g〉 *{%<bot>Parra jacana</bot>%} oder {%<bot>goensis</bot>%}.
+;
+468619 new <div n="2">— g〉 *{%<bot>Parra jacana</bot>%} oder {%<bot>Parra goensis</bot>%}.
+; --------------------------------------------------
+; <L>112554<pc>6-236-b<k1>Siva<k2>Siva/
+; <bot>citrina</bot> -> <bot>Terminalia citrina</bot> 
+470301 old <div n="2">— d〉 <ab>Bez.</ab> {%verschiedener Pflanzen%}. Nach den Lexicographen {%<bot>Prosopis spicigera</bot>%} oder {%<bot>Mimosa suma</bot>, <bot>Terminalia chebula</bot>%} oder {%<bot>citrina</bot>, <bot>Emblica officinalis</bot>, <bot>Jasminum auriculatum</bot>, Gelbwurz,%} <is>Dūrvā</is>-{%Gras%} und = {#SyAmA#}.
+;
+470301 new <div n="2">— d〉 <ab>Bez.</ab> {%verschiedener Pflanzen%}. Nach den Lexicographen {%<bot>Prosopis spicigera</bot>%} oder {%<bot>Mimosa suma</bot>, <bot>Terminalia chebula</bot>%} oder {%<bot>Terminalia citrina</bot>, <bot>Emblica officinalis</bot>, <bot>Jasminum auriculatum</bot>, Gelbwurz,%} <is>Dūrvā</is>-{%Gras%} und = {#SyAmA#}.
+; --------------------------------------------------
+; <L>112868<pc>6-241-c<k1>SIGra<k2>SIGra
+; <bot>Tiglium</bot> -> <bot>Croton tiglium</bot> 
+471721 old <div n="2">— a〉 *{%<bot>Croton polyandrum</bot>%} oder {%<bot>Tiglium</bot>%} <ls>RĀJAN. 6,160</ls>.
+;
+471721 new <div n="2">— a〉 *{%<bot>Croton polyandrum</bot>%} oder {%<bot>Croton tiglium</bot>%} <ls>RĀJAN. 6,160</ls>.
+; --------------------------------------------------
+; <L>112970<pc>6-243-a<k1>SItala<k2>SItala
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+472143 old <div n="2">— d〉 *{%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%}.
+;
+472143 new <div n="2">— d〉 *{%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%}.
+; --------------------------------------------------
+; <L>113728<pc>6-253-c<k1>SuzkasaMBava<k2>*SuzkasaMBava
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+475350 old *{#SuzkasaMBava#}¦ <lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%}.
+;
+475350 new *{#SuzkasaMBava#}¦ <lex>n.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%}.
+; --------------------------------------------------
+; <L>114675<pc>6-265-c<k1>SyAma<k2>SyAma/
+; <bot>argentea</bot> -> <bot>Argyreia argentea</bot> 
+479179 old <div n="2">— c〉 *{%wohlriechendes Gras, <bot>Artemisia indica</bot>, Stechapfel, <bot>Careya arborea</bot>%} oder {%<bot>Salvadora persica</bot>, <bot>Argyreia speciosa</bot>%} oder {%<bot>argentea</bot>%} und {%<bot>Panicum frumentaceum</bot>%} <ls>RĀJAN. 10,17. 11,81</ls>.
+;
+479179 new <div n="2">— c〉 *{%wohlriechendes Gras, <bot>Artemisia indica</bot>, Stechapfel, <bot>Careya arborea</bot>%} oder {%<bot>Salvadora persica</bot>, <bot>Argyreia speciosa</bot>%} oder {%<bot>Argyreia argentea</bot>%} und {%<bot>Panicum frumentaceum</bot>%} <ls>RĀJAN. 10,17. 11,81</ls>.
+; --------------------------------------------------
+; <L>115158<pc>6-274-c<k1>SrIparRa<k2>SrIparRa
+; <bot>longifolia</bot> -> <bot>Premna longifolia</bot> 
+481476 old <div n="2">— a〉 {%<bot>Premna spinosa</bot>%} oder {%<bot>longifolia</bot>%} <ls>HEMĀDRI 1,560,3</ls>. Geschlecht unbestimmt.
+;
+481476 new <div n="2">— a〉 {%<bot>Premna spinosa</bot>%} oder {%<bot>Premna longifolia</bot>%} <ls>HEMĀDRI 1,560,3</ls>. Geschlecht unbestimmt.
+; --------------------------------------------------
+; <L>115158<pc>6-274-c<k1>SrIparRa<k2>SrIparRa
+; <bot>longifolia</bot> -> <bot>Premna longifolia</bot> 
+481478 old <div n="1">— 2〉 <lex>f.</lex> {#I#} {%<bot>Gmelina arborea</bot>%} <ls>RĀJAN. 9,35</ls>. <ls>HEMĀDRI 1,173,6</ls>. Nach den Lexicographen auch {%<bot>Premna spinosa</bot>%} oder {%<bot>longifolia</bot>, <bot>Pistia stratiotes</bot>, <bot>Salmalia malabarica</bot>%} und {%eine Art Solanum%} <ls>RĀJAN. 9,20. 22</ls>.
+;
+481478 new <div n="1">— 2〉 <lex>f.</lex> {#I#} {%<bot>Gmelina arborea</bot>%} <ls>RĀJAN. 9,35</ls>. <ls>HEMĀDRI 1,173,6</ls>. Nach den Lexicographen auch {%<bot>Premna spinosa</bot>%} oder {%<bot>Premna longifolia</bot>, <bot>Pistia stratiotes</bot>, <bot>Salmalia malabarica</bot>%} und {%eine Art Solanum%} <ls>RĀJAN. 9,20. 22</ls>.
+; --------------------------------------------------
+; <L>115473<pc>6-279-b<k1>SreyaMs<k2>Sre/yaMs
+; <bot>citrina</bot> -> <bot>Terminalia citrina</bot> 
+482840 old <div n="2">— a〉 <ab>Bez.</ab> {%verschiedener Pflanzen%}. Nach den Lexicographen {%<bot>Terminalia chebula</bot>%} oder {%<bot>citrina</bot>,<bot>Clypea hernandifolia</bot>, <bot>Scindapsus officinalis</bot>,%} = {#rAsnA#}, {#ambazWA#} und {#priyaNgu#} <ls>RĀJAN. 4,80. 6,4. 121. 11,222. 12,45</ls>. <ls>BHĀVAPR. 1,174. 4,27</ls>.
+;
+482840 new <div n="2">— a〉 <ab>Bez.</ab> {%verschiedener Pflanzen%}. Nach den Lexicographen {%<bot>Terminalia chebula</bot>%} oder {%<bot>Terminalia citrina</bot>,<bot>Clypea hernandifolia</bot>, <bot>Scindapsus officinalis</bot>,%} = {#rAsnA#}, {#ambazWA#} und {#priyaNgu#} <ls>RĀJAN. 4,80. 6,4. 121. 11,222. 12,45</ls>. <ls>BHĀVAPR. 1,174. 4,27</ls>.
+; --------------------------------------------------
+; <L>115871<pc>6-285-b<k1>SvAsAri<k2>*SvAsAri
+; <bot>arabicus</bot> -> <bot>Costus arabicus</bot> 
+484467 old *{#SvAsAri#}¦ <lex>m.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>arabicus</bot>%}.
+;
+484467 new *{#SvAsAri#}¦ <lex>m.</lex> {%<bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%}.
+; --------------------------------------------------
+; <L>121588<pc>7-083-b<k1>sarpadaMzwra<k2>*sarpadaMzwra
+; <bot>Tiglium</bot> -> <bot>Croton tiglium</bot> 
+508073 old <div n="1">— 1〉 <lex>m.</lex> {%<bot>Croton polyandrum</bot>%} oder {%<bot>Tiglium</bot>%}.
+;
+508073 new <div n="1">— 1〉 <lex>m.</lex> {%<bot>Croton polyandrum</bot>%} oder {%<bot>Croton tiglium</bot>%}.
+; --------------------------------------------------
+; <L>124832<pc>7-127-a<k1>siMha<k2>siMha/
+; <bot>melangena</bot> -> <bot>Solanum melongena</bot> 
+520494 old <div n="2">— b〉 <ab>Bez.</ab> {%verschiedener Pflanzen%}. Nach den Lexicographen {%<bot>Solanum jacquini</bot>%} und {%<bot>melangena</bot>, <bot>Gedarussa vulgaris</bot>, <bot>Hemionitis cordifolia</bot>%} und {%<bot>Phaseolus trilobus</bot>%}.
+;
+520494 new <div n="2">— b〉 <ab>Bez.</ab> {%verschiedener Pflanzen%}. Nach den Lexicographen {%<bot>Solanum jacquini</bot>%} und {%<bot>Solanum melongena</bot>, <bot>Gedarussa vulgaris</bot>, <bot>Hemionitis cordifolia</bot>%} und {%<bot>Phaseolus trilobus</bot>%}.
+; --------------------------------------------------
+; <L>125989<pc>7-142-c<k1>suganDika<k2>suganDika
+; <bot>Arabicus</bot> -> <bot>Costus arabicus</bot> 
+525350 old <div n="2">— c〉 {%die Wurzel von <bot>Costus speciosus</bot>%} oder {%<bot>Arabicus</bot>%}.
+;
+525350 new <div n="2">— c〉 {%die Wurzel von <bot>Costus speciosus</bot>%} oder {%<bot>Costus arabicus</bot>%}.
+; --------------------------------------------------
+; <L>126824<pc>7-153-c<k1>supuzpaka<k2>*supuzpaka
+; <bot>argentea</bot> -> <bot>Argyreia argentea</bot> 
+528826 old <div n="2">— a〉 {%<bot>Argyreia speciosa</bot>%} oder {%<bot>argentea</bot>%}.
+;
+528826 new <div n="2">— a〉 {%<bot>Argyreia speciosa</bot>%} oder {%<bot>Argyreia argentea</bot>%}.
+; --------------------------------------------------
+; <L>127558<pc>7-162-c<k1>surasa<k2>surasa
+; <bot>Dill</bot> -> <bot>Anethum dill</bot> 
+531807 old <div n="2">— a〉 <ab>Bez.</ab> verschiedener Pflanzen; {%<bot>Anethum panmori</bot>%} oder {%<bot>Dill</bot>, <bot>Vitex negundo</bot>, eine Art Jasmin,%} = {#rAsnA#} {#parRASa#} {#mahASatAvarI#} {#brAhmI#} {#kapitTaparRI#} und {#anDAka#}.
+;
+531807 new <div n="2">— a〉 <ab>Bez.</ab> verschiedener Pflanzen; {%<bot>Anethum panmori</bot>%} oder {%<bot>Anethum dill</bot>, <bot>Vitex negundo</bot>, eine Art Jasmin,%} = {#rAsnA#} {#parRASa#} {#mahASatAvarI#} {#brAhmI#} {#kapitTaparRI#} und {#anDAka#}.
+; --------------------------------------------------
+; <L>127818<pc>7-166-a<k1>suvarRa<k2>suva/rRa
+; <bot>cordifolia</bot> -> <bot>Sida cordifolia</bot> 
+532863 old <div n="2">— b〉 {%<bot>Sida rhomboidea</bot>%} oder {%<bot>cordifolia</bot>%}.
+;
+532863 new <div n="2">— b〉 {%<bot>Sida rhomboidea</bot>%} oder {%<bot>Sida cordifolia</bot>%}.
+; --------------------------------------------------
+; <L>128594<pc>7-176-a<k1>sUkzmapattra<k2>*sUkzmapattra
+; <bot>argentea</bot> -> <bot>Argyreia argentea</bot> 
+535898 old <div n="1">— 2〉 <lex>f.</lex> {#A#} {%<bot>Asparagus racemosus</bot>%} und {%<bot>Argyreia speciosa</bot>%} oder {%<bot>argentea</bot>%}.
+;
+535898 new <div n="1">— 2〉 <lex>f.</lex> {#A#} {%<bot>Asparagus racemosus</bot>%} und {%<bot>Argyreia speciosa</bot>%} oder {%<bot>Argyreia argentea</bot>%}.
+; --------------------------------------------------
+; <L>129211<pc>7-183-c<k1>setuBedin<k2>*setuBedin
+; <bot>Tiglium</bot> -> <bot>Croton tiglium</bot> 
+538358 old *{#setuBedin#}¦ <lex>m.</lex> {%<bot>Croton polyandrum</bot>%} oder {%<bot>Tiglium</bot>%}.
+;
+538358 new *{#setuBedin#}¦ <lex>m.</lex> {%<bot>Croton polyandrum</bot>%} oder {%<bot>Croton tiglium</bot>%}.
+; --------------------------------------------------
+; <L>130979<pc>7-214-b<k1>sTAlIdruma<k2>*sTAlIdruma
+; <bot>indica</bot> -> <bot>Ficus indica</bot> 
+546285 old *{#sTAlIdruma#}¦ <lex>m.</lex> {%<bot>Ficus benjamina</bot>%} oder {%<bot>indica</bot>%}.
+;
+546285 new *{#sTAlIdruma#}¦ <lex>m.</lex> {%<bot>Ficus benjamina</bot>%} oder {%<bot>Ficus indica</bot>%}.
+; --------------------------------------------------
+; 
+; ****************************************************

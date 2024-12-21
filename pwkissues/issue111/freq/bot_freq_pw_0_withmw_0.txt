@@ -1,0 +1,1388 @@
+bot_freq_pw_0_withmw_0.txt
+0001 <bot>Abelmoschus esculentus W. und A.</bot> 1 MW 0 -> <bot>Abelmoschus esculentus W. und A.</bot>
+0002 <bot>Abelmoschus esculentus</bot> 7 MW 2 -> <bot>Abelmoschus esculentus</bot>
+0003 <bot>Abrus precatorius</bot> 49 MW 32 -> <bot>Abrus precatorius</bot>
+0004 <bot>Acacia arabica</bot> 19 MW 6 -> <bot>Acacia arabica</bot>
+0005 <bot>Acacia Catechu Willd.</bot> 2 MW 0 -> <bot>Acacia Catechu Willd.</bot>
+0006 <bot>Acacia Catechu</bot> 48 MW 44 -> <bot>Acacia Catechu</bot>
+0007 <bot>Acacia catechu</bot> 3 MW 0 -> <bot>Acacia catechu</bot>
+0008 <bot>Acacia concinna</bot> 5 MW 0 -> <bot>Acacia concinna</bot>
+0009 <bot>Acacia farnesiana</bot> 2 MW 1 -> <bot>Acacia farnesiana</bot>
+0010 <bot>Acacia Sirissa Buch.</bot> 1 MW 0 -> <bot>Acacia Sirissa Buch.</bot>
+0011 <bot>Acacia Sirissa</bot> 36 MW 36 -> <bot>Acacia Sirissa</bot>
+0012 <bot>Acampe papillosa</bot> 1 MW 0 -> <bot>Acampe papillosa</bot>
+0013 <bot>Achyranthes aquatica</bot> 3 MW 1 -> <bot>Achyranthes aquatica</bot>
+0014 <bot>Achyranthes aspera</bot> 47 MW 12 -> <bot>Achyranthes aspera</bot>
+0015 <bot>Achyranthes atropurpurea</bot> 4 MW 0 -> <bot>Achyranthes atropurpurea</bot>
+0016 <bot>Achyranthes triandra</bot> 6 MW 0 -> <bot>Achyranthes triandra</bot>
+0017 <bot>Aconitum ferox Wall.</bot> 1 MW 0 -> <bot>Aconitum ferox Wall.</bot>
+0018 <bot>Aconitum ferox</bot> 12 MW 2 -> <bot>Aconitum ferox</bot>
+0019 <bot>Aconitum heterophyllum</bot> 3 MW 0 -> <bot>Aconitum heterophyllum</bot>
+0020 <bot>Acorus Calamus</bot> 6 MW 9 -> <bot>Acorus Calamus</bot>
+0021 <bot>Acorus calamus</bot> 1 MW 0 -> <bot>Acorus calamus</bot>
+0022 <bot>acutangula</bot> 1 MW 1 -> <bot>acutangula</bot>
+0023 <bot>Acyranthes triandra</bot> 1 MW 0 -> <bot>Acyranthes triandra</bot>
+0024 <bot>Adeanthera pavonina</bot> 1 MW 0 -> <bot>Adeanthera pavonina</bot>
+0025 <bot>Adelia nereifolia</bot> 2 MW 0 -> <bot>Adelia nereifolia</bot>
+0026 <bot>Adhadota Vasica</bot> 1 MW 0 -> <bot>Adhadota Vasica</bot>
+0027 <bot>Adhatoda Vasica Nees</bot> 1 MW 0 -> <bot>Adhatoda Vasica Nees</bot>
+0028 <bot>Adhatoda Vasica</bot> 5 MW 2 -> <bot>Adhatoda Vasica</bot>
+0029 <bot>Adhatoda</bot> 2 MW 2 -> <bot>Adhatoda</bot>
+0030 <bot>Aegle Marmelos</bot> 53 MW 44 -> <bot>Aegle Marmelos</bot>
+0031 <bot>Aeschynomene Sesban</bot> 1 MW 1 -> <bot>Aeschynomene Sesban</bot>
+0032 <bot>Aethiops mineralis</bot> 1 MW 0 -> <bot>Aethiops mineralis</bot>
+0033 <bot>Aethum graveolens</bot> 1 MW 0 -> <bot>Aethum graveolens</bot>
+0034 <bot>Agathotes Chirayt</bot> 1 MW 0 -> <bot>Agathotes Chirayt</bot>
+0035 <bot>Agathotes Chirayta</bot> 6 MW 7 -> <bot>Agathotes Chirayta</bot>
+0036 <bot>Agati grandiflora Desc.</bot> 1 MW 0 -> <bot>Agati grandiflora Desc.</bot>
+0037 <bot>Agati grandiflora</bot> 33 MW 2 -> <bot>Agati grandiflora</bot>
+0038 <bot>Agati grandiflorum Desv.</bot> 1 MW 0 -> <bot>Agati grandiflorum Desv.</bot>
+0039 <bot>Aglaia odeorata</bot> 1 MW 0 -> <bot>Aglaia odeorata</bot>
+0040 <bot>Aglaia odorata</bot> 3 MW 0 -> <bot>Aglaia odorata</bot>
+0041 <bot>Aglaia Roxburghiana</bot> 1 MW 1 -> <bot>Aglaia Roxburghiana</bot>
+0042 <bot>Agrostis linearis L.</bot> 1 MW 0 -> <bot>Agrostis linearis L.</bot>
+0043 <bot>Alangium decapetalum</bot> 4 MW 2 -> <bot>Alangium decapetalum</bot>
+0044 <bot>Alangium hexapetalum</bot> 20 MW 6 -> <bot>Alangium hexapetalum</bot>
+0045 <bot>Alangu hexapetalum</bot> 1 MW 0 -> <bot>Alangu hexapetalum</bot>
+0046 <bot>alata</bot> 1 MW 1 -> <bot>alata</bot>
+0047 <bot>alba</bot> 1 MW 0 -> <bot>alba</bot>
+0048 <bot>Alhage Maurorum</bot> 2 MW 0 -> <bot>Alhage Maurorum</bot>
+0049 <bot>Alhagi Maurorum Tournef.</bot> 2 MW 0 -> <bot>Alhagi Maurorum Tournef.</bot>
+0050 <bot>Alhagi maurorum</bot> 5 MW 0 -> <bot>Alhagi maurorum</bot>
+0051 <bot>Alhagi Maurorum</bot> 41 MW 46 -> <bot>Alhagi Maurorum</bot>
+0052 <bot>Alhagi Murorum</bot> 1 MW 0 -> <bot>Alhagi Murorum</bot>
+0053 <bot>Alhagi Murrorum</bot> 1 MW 0 -> <bot>Alhagi Murrorum</bot>
+0054 <bot>Allium ascalonicum</bot> 5 MW 0 -> <bot>Allium ascalonicum</bot>
+0055 <bot>Aloe indica Royle</bot> 2 MW 0 -> <bot>Aloe indica Royle</bot>
+0056 <bot>Aloe indica</bot> 8 MW 1 -> <bot>Aloe indica</bot>
+0057 <bot>Aloe perfoliata L.</bot> 1 MW 0 -> <bot>Aloe perfoliata L.</bot>
+0058 <bot>Aloe perfoliata</bot> 17 MW 4 -> <bot>Aloe perfoliata</bot>
+0059 <bot>Alpinia Galanga</bot> 5 MW 4 -> <bot>Alpinia Galanga</bot>
+0060 <bot>Alpinia nutans</bot> 8 MW 1 -> <bot>Alpinia nutans</bot>
+0061 <bot>Alstonia scholaris R. Br.</bot> 1 MW 0 -> <bot>Alstonia scholaris R. Br.</bot>
+0062 <bot>Alstonia scholaris</bot> 36 MW 6 -> <bot>Alstonia scholaris</bot>
+0063 <bot>Amaranthus oleraceus</bot> 3 MW 0 -> <bot>Amaranthus oleraceus</bot>
+0064 <bot>Amaranthus polygamus L.</bot> 1 MW 0 -> <bot>Amaranthus polygamus L.</bot>
+0065 <bot>Amaranthus polygamus</bot> 3 MW 2 -> <bot>Amaranthus polygamus</bot>
+0066 <bot>Amaranthus polygonoides</bot> 13 MW 4 -> <bot>Amaranthus polygonoides</bot>
+0067 <bot>Amaryllis zeylanica</bot> 1 MW 1 -> <bot>Amaryllis zeylanica</bot>
+0068 <bot>Amomum subulatum</bot> 1 MW 0 -> <bot>Amomum subulatum</bot>
+0069 <bot>Amomum Zingiber</bot> 1 MW 0 -> <bot>Amomum Zingiber</bot>
+0070 <bot>Amoora Rohitaka</bot> 2 MW 2 -> <bot>Amoora Rohitaka</bot>
+0071 <bot>Amorphophallus campanulatus Bl.</bot> 1 MW 0 -> <bot>Amorphophallus campanulatus Bl.</bot>
+0072 <bot>Amorphophallus campanulatus</bot> 15 MW 0 -> <bot>Amorphophallus campanulatus</bot>
+0073 <bot>amorphophallus campanulatus</bot> 1 MW 0 -> <bot>amorphophallus campanulatus</bot>
+0074 <bot>Amorphophallus companulatus</bot> 1 MW 0 -> <bot>Amorphophallus companulatus</bot>
+0075 <bot>Amorphophallus compunilatus</bot> 1 MW 0 -> <bot>Amorphophallus compunilatus</bot>
+0076 <bot>Amphidonax karka</bot> 1 MW 0 -> <bot>Amphidonax karka</bot>
+0077 <bot>Amphidonax Karka</bot> 8 MW 7 -> <bot>Amphidonax Karka</bot>
+0078 <bot>Amranthus polygonoides</bot> 1 MW 0 -> <bot>Amranthus polygonoides</bot>
+0079 <bot>Amyris Agallocha</bot> 4 MW 5 -> <bot>Amyris Agallocha</bot>
+0080 <bot>Anacardium officinarum</bot> 1 MW 1 -> <bot>Anacardium officinarum</bot>
+0081 <bot>Anas Casarca</bot> 32 MW 11 -> <bot>Anas Casarca</bot>
+0082 <bot>Anas casarca</bot> 1 MW 0 -> <bot>Anas casarca</bot>
+0083 <bot>Anderopogon bicolor</bot> 1 MW 0 -> <bot>Anderopogon bicolor</bot>
+0084 <bot>Anderopogon schoenanthus</bot> 1 MW 0 -> <bot>Anderopogon schoenanthus</bot>
+0085 <bot>Andersonia Rohitaka</bot> 20 MW 21 -> <bot>Andersonia Rohitaka</bot>
+0086 <bot>Andrographis paniculata</bot> 6 MW 1 -> <bot>Andrographis paniculata</bot>
+0087 <bot>Andropogon aciculatus</bot> 22 MW 5 -> <bot>Andropogon aciculatus</bot>
+0088 <bot>Andropogon bicolor</bot> 11 MW 4 -> <bot>Andropogon bicolor</bot>
+0089 <bot>Andropogon Jawarancusa</bot> 1 MW 0 -> <bot>Andropogon Jawarancusa</bot>
+0090 <bot>Andropogon muricatus</bot> 48 MW 3 -> <bot>Andropogon muricatus</bot>
+0091 <bot>Andropogon saccharatus</bot> 2 MW 0 -> <bot>Andropogon saccharatus</bot>
+0092 <bot>Andropogon Schoenanthus</bot> 15 MW 16 -> <bot>Andropogon Schoenanthus</bot>
+0093 <bot>Andropogon serratus</bot> 6 MW 3 -> <bot>Andropogon serratus</bot>
+0094 <bot>Andropogon Sorghum</bot> 1 MW 0 -> <bot>Andropogon Sorghum</bot>
+0095 <bot>Anemis pyrethrum</bot> 1 MW 0 -> <bot>Anemis pyrethrum</bot>
+0096 <bot>Anethum graveolens</bot> 4 MW 3 -> <bot>Anethum graveolens</bot>
+0097 <bot>Anethum Panmori</bot> 5 MW 6 -> <bot>Anethum Panmori</bot>
+0098 <bot>Anethum Panmorium</bot> 6 MW 4 -> <bot>Anethum Panmorium</bot>
+0099 <bot>Anethum Sowa Roxb.</bot> 2 MW 2 -> <bot>Anethum Sowa Roxb.</bot>
+0100 <bot>Anethum Sowa</bot> 35 MW 33 -> <bot>Anethum Sowa</bot>
+0101 <bot>Anogeissus latifolia</bot> 8 MW 0 -> <bot>Anogeissus latifolia</bot>
+0102 <bot>Anona reticulata</bot> 6 MW 2 -> <bot>Anona reticulata</bot>
+0103 <bot>Anthemis pyrethrum</bot> 1 MW 0 -> <bot>Anthemis pyrethrum</bot>
+0104 <bot>Anthericum tuberosum</bot> 11 MW 0 -> <bot>Anthericum tuberosum</bot>
+0105 <bot>antiquorum</bot> 2 MW 0 -> <bot>antiquorum</bot>
+0106 <bot>Apium involucratum</bot> 5 MW 1 -> <bot>Apium involucratum</bot>
+0107 <bot>Aprus precatorius</bot> 1 MW 0 -> <bot>Aprus precatorius</bot>
+0108 <bot>Aquilaria Agallocha</bot> 1 MW 1 -> <bot>Aquilaria Agallocha</bot>
+0109 <bot>arabicus</bot> 45 MW 5 -> <bot>arabicus</bot>
+0110 <bot>Arabicus</bot> 1 MW 35 -> <bot>Arabicus</bot>
+0111 <bot>Ardea nivea</bot> 1 MW 8 -> <bot>Ardea nivea</bot>
+0112 <bot>Ardisia humilis</bot> 2 MW 2 -> <bot>Ardisia humilis</bot>
+0113 <bot>Ardisia solanacea</bot> 3 MW 1 -> <bot>Ardisia solanacea</bot>
+0114 <bot>Areca Catechu</bot> 1 MW 4 -> <bot>Areca Catechu</bot>
+0115 <bot>Areca Faufel Gaertn.</bot> 1 MW 0 -> <bot>Areca Faufel Gaertn.</bot>
+0116 <bot>Areca Faufel</bot> 2 MW 2 -> <bot>Areca Faufel</bot>
+0117 <bot>Areca triandra</bot> 3 MW 0 -> <bot>Areca triandra</bot>
+0118 <bot>Argemone mexicana</bot> 1 MW 0 -> <bot>Argemone mexicana</bot>
+0119 <bot>argentea</bot> 16 MW 2 -> <bot>argentea</bot>
+0120 <bot>Argyreia argentea Sweet</bot> 1 MW 0 -> <bot>Argyreia argentea Sweet</bot>
+0121 <bot>Argyreia speciosa</bot> 22 MW 4 -> <bot>Argyreia speciosa</bot>
+0122 <bot>Aristolochia indica</bot> 3 MW 0 -> <bot>Aristolochia indica</bot>
+0123 <bot>Aristologhia indica</bot> 1 MW 0 -> <bot>Aristologhia indica</bot>
+0124 <bot>aromatica</bot> 1 MW 0 -> <bot>aromatica</bot>
+0125 <bot>Arsenicum flavum</bot> 1 MW 0 -> <bot>Arsenicum flavum</bot>
+0126 <bot>Artemisia Abrotanum</bot> 3 MW 2 -> <bot>Artemisia Abrotanum</bot>
+0127 <bot>Artemisia indica</bot> 19 MW 7 -> <bot>Artemisia indica</bot>
+0128 <bot>Artemisia sternutatoria Roxb.</bot> 1 MW 0 -> <bot>Artemisia sternutatoria Roxb.</bot>
+0129 <bot>Artemisia sternutatoria</bot> 5 MW 4 -> <bot>Artemisia sternutatoria</bot>
+0130 <bot>Artemisia vulgaris</bot> 10 MW 2 -> <bot>Artemisia vulgaris</bot>
+0131 <bot>Arthocarpus Locucha</bot> 1 MW 0 -> <bot>Arthocarpus Locucha</bot>
+0132 <bot>Artocarpus integrifolia L.</bot> 1 MW 0 -> <bot>Artocarpus integrifolia L.</bot>
+0133 <bot>Artocarpus integrifolia</bot> 10 MW 1 -> <bot>Artocarpus integrifolia</bot>
+0134 <bot>Artocarpus Lacucha Roxb.</bot> 1 MW 1 -> <bot>Artocarpus Lacucha Roxb.</bot>
+0135 <bot>Artocarpus Lacucha</bot> 3 MW 18 -> <bot>Artocarpus Lacucha</bot>
+0136 <bot>Artocarpus lacucha</bot> 1 MW 0 -> <bot>Artocarpus lacucha</bot>
+0137 <bot>Artocarpus Locucha</bot> 13 MW 0 -> <bot>Artocarpus Locucha</bot>
+0138 <bot>Artocarpus locutscha Roxb.</bot> 1 MW 0 -> <bot>Artocarpus locutscha Roxb.</bot>
+0139 <bot>Artocarpus Locutscha Roxb.</bot> 1 MW 0 -> <bot>Artocarpus Locutscha Roxb.</bot>
+0140 <bot>Arum campanulatum Roxb.</bot> 1 MW 0 -> <bot>Arum campanulatum Roxb.</bot>
+0141 <bot>Arum campanulatum</bot> 4 MW 0 -> <bot>Arum campanulatum</bot>
+0142 <bot>Arum Colocasia</bot> 5 MW 8 -> <bot>Arum Colocasia</bot>
+0143 <bot>Arum indicum</bot> 5 MW 0 -> <bot>Arum indicum</bot>
+0144 <bot>Arum macrorrhizum</bot> 1 MW 0 -> <bot>Arum macrorrhizum</bot>
+0145 <bot>Arum orixense</bot> 2 MW 2 -> <bot>Arum orixense</bot>
+0146 <bot>Arundo bengalensis</bot> 5 MW 0 -> <bot>Arundo bengalensis</bot>
+0147 <bot>Arundo tibialis</bot> 1 MW 1 -> <bot>Arundo tibialis</bot>
+0148 <bot>Asa foetida</bot> 41 MW 12 -> <bot>Asa foetida</bot>
+0149 <bot>Asclepias curassavica</bot> 1 MW 0 -> <bot>Asclepias curassavica</bot>
+0150 <bot>Asclepias echinata</bot> 1 MW 0 -> <bot>Asclepias echinata</bot>
+0151 <bot>Asclepias geminata</bot> 1 MW 0 -> <bot>Asclepias geminata</bot>
+0152 <bot>Asclepias gigantea</bot> 4 MW 2 -> <bot>Asclepias gigantea</bot>
+0153 <bot>Asclepias lactifera</bot> 1 MW 0 -> <bot>Asclepias lactifera</bot>
+0154 <bot>Asclepias rosca</bot> 1 MW 0 -> <bot>Asclepias rosca</bot>
+0155 <bot>Aseracantha longifolia</bot> 1 MW 0 -> <bot>Aseracantha longifolia</bot>
+0156 <bot>Asparagus racemosus Willd.</bot> 4 MW 0 -> <bot>Asparagus racemosus Willd.</bot>
+0157 <bot>Asparagus racemosus</bot> 65 MW 3 -> <bot>Asparagus racemosus</bot>
+0158 <bot>Asparagus</bot> 1 MW 1 -> <bot>Asparagus</bot>
+0159 <bot>Aspargus racemosus</bot> 1 MW 0 -> <bot>Aspargus racemosus</bot>
+0160 <bot>Asteracantha longifolia Nees</bot> 4 MW 0 -> <bot>Asteracantha longifolia Nees</bot>
+0161 <bot>Asteracantha longifolia</bot> 62 MW 10 -> <bot>Asteracantha longifolia</bot>
+0162 <bot>Authericum tuberosum</bot> 1 MW 0 -> <bot>Authericum tuberosum</bot>
+0163 <bot>Averrhoa acida</bot> 4 MW 0 -> <bot>Averrhoa acida</bot>
+0164 <bot>Averrhoa Carambola</bot> 14 MW 18 -> <bot>Averrhoa Carambola</bot>
+0165 <bot>Averrhoa corambola</bot> 3 MW 0 -> <bot>Averrhoa corambola</bot>
+0166 <bot>Azadirachta indica A. Juss.</bot> 2 MW 0 -> <bot>Azadirachta indica A. Juss.</bot>
+0167 <bot>Azadirachta indica Juss.</bot> 1 MW 0 -> <bot>Azadirachta indica Juss.</bot>
+0168 <bot>Azadirachta indica</bot> 34 MW 4 -> <bot>Azadirachta indica</bot>
+0169 <bot>Azadriachta indica</bot> 1 MW 0 -> <bot>Azadriachta indica</bot>
+0170 <bot>Balanites indica</bot> 1 MW 0 -> <bot>Balanites indica</bot>
+0171 <bot>Balanites Roxburghii</bot> 3 MW 2 -> <bot>Balanites Roxburghii</bot>
+0172 <bot>Bambax heptaphyllum</bot> 1 MW 0 -> <bot>Bambax heptaphyllum</bot>
+0173 <bot>Bambus spinosa</bot> 1 MW 0 -> <bot>Bambus spinosa</bot>
+0174 <bot>Bambusa spinosa Hamilt. Roxb.</bot> 1 MW 0 -> <bot>Bambusa spinosa Hamilt. Roxb.</bot>
+0175 <bot>Bambusa spinosa</bot> 4 MW 0 -> <bot>Bambusa spinosa</bot>
+0176 <bot>Barleria caerulea Roxb.</bot> 1 MW 0 -> <bot>Barleria caerulea Roxb.</bot>
+0177 <bot>Barleria caerulea</bot> 6 MW 2 -> <bot>Barleria caerulea</bot>
+0178 <bot>Barleria coerulea</bot> 2 MW 0 -> <bot>Barleria coerulea</bot>
+0179 <bot>Barleria cristata</bot> 5 MW 2 -> <bot>Barleria cristata</bot>
+0180 <bot>Barleria priontis</bot> 1 MW 0 -> <bot>Barleria priontis</bot>
+0181 <bot>Barringtonia acutangula Gaertn.</bot> 4 MW 0 -> <bot>Barringtonia acutangula Gaertn.</bot>
+0182 <bot>Barringtonia acutangula</bot> 14 MW 1 -> <bot>Barringtonia acutangula</bot>
+0183 <bot>Basella cordifolia Lam.</bot> 4 MW 0 -> <bot>Basella cordifolia Lam.</bot>
+0184 <bot>Basella cordifolia</bot> 4 MW 0 -> <bot>Basella cordifolia</bot>
+0185 <bot>Basella lucida</bot> 5 MW 0 -> <bot>Basella lucida</bot>
+0186 <bot>Basella rubra</bot> 1 MW 0 -> <bot>Basella rubra</bot>
+0187 <bot>Basilicum pilosum Benth.</bot> 1 MW 0 -> <bot>Basilicum pilosum Benth.</bot>
+0188 <bot>Bassia latifolia</bot> 19 MW 2 -> <bot>Bassia latifolia</bot>
+0189 <bot>Batata edulis</bot> 1 MW 0 -> <bot>Batata edulis</bot>
+0190 <bot>Batatas edulis</bot> 5 MW 3 -> <bot>Batatas edulis</bot>
+0191 <bot>Batatas paniculata Chois.</bot> 3 MW 0 -> <bot>Batatas paniculata Chois.</bot>
+0192 <bot>Batatas paniculata</bot> 24 MW 3 -> <bot>Batatas paniculata</bot>
+0193 <bot>Batatas Paniculata</bot> 1 MW 21 -> <bot>Batatas Paniculata</bot>
+0194 <bot>Bauhinia candida</bot> 2 MW 1 -> <bot>Bauhinia candida</bot>
+0195 <bot>Bauhinia purpurea</bot> 1 MW 0 -> <bot>Bauhinia purpurea</bot>
+0196 <bot>Bauhinia tomentosa</bot> 13 MW 1 -> <bot>Bauhinia tomentosa</bot>
+0197 <bot>Bauhinia variegata</bot> 41 MW 16 -> <bot>Bauhinia variegata</bot>
+0198 <bot>Beninkasa cerifera</bot> 20 MW 5 -> <bot>Beninkasa cerifera</bot>
+0199 <bot>Berberis asiatica</bot> 2 MW 0 -> <bot>Berberis asiatica</bot>
+0200 <bot>Beta bengalensis</bot> 18 MW 5 -> <bot>Beta bengalensis</bot>
+0201 <bot>Betula Bhojpatra</bot> 29 MW 23 -> <bot>Betula Bhojpatra</bot>
+0202 <bot>Bignonia chelonoides</bot> 4 MW 0 -> <bot>Bignonia chelonoides</bot>
+0203 <bot>Bignonia indica</bot> 19 MW 2 -> <bot>Bignonia indica</bot>
+0204 <bot>Bignonia suaveolens Roxb.</bot> 1 MW 0 -> <bot>Bignonia suaveolens Roxb.</bot>
+0205 <bot>Bignonia suaveolens</bot> 58 MW 28 -> <bot>Bignonia suaveolens</bot>
+0206 <bot>Bigonia indica</bot> 1 MW 0 -> <bot>Bigonia indica</bot>
+0207 <bot>Blumea lacera DC.</bot> 1 MW 0 -> <bot>Blumea lacera DC.</bot>
+0208 <bot>Blumea lacera</bot> 6 MW 3 -> <bot>Blumea lacera</bot>
+0209 <bot>Blyxa octandra belet</bot> 1 MW 0 -> <bot>Blyxa octandra belet</bot>
+0210 <bot>Blyxa octandra Rich.</bot> 3 MW 0 -> <bot>Blyxa octandra Rich.</bot>
+0211 <bot>Blyxa octandra</bot> 29 MW 3 -> <bot>Blyxa octandra</bot>
+0212 <bot>Blyxa Saivala</bot> 3 MW 1 -> <bot>Blyxa Saivala</bot>
+0213 <bot>Boa constrictor</bot> 1 MW 0 -> <bot>Boa constrictor</bot>
+0214 <bot>Boerhavia diffusa</bot> 2 MW 0 -> <bot>Boerhavia diffusa</bot>
+0215 <bot>Boerhavia erecta</bot> 1 MW 1 -> <bot>Boerhavia erecta</bot>
+0216 <bot>Boerhavia procumbens</bot> 22 MW 1 -> <bot>Boerhavia procumbens</bot>
+0217 <bot>Boerhavia variegata</bot> 1 MW 0 -> <bot>Boerhavia variegata</bot>
+0218 <bot>Bola Cuja</bot> 1 MW 0 -> <bot>Bola Cuja</bot>
+0219 <bot>Bombax heptaphyllum</bot> 15 MW 2 -> <bot>Bombax heptaphyllum</bot>
+0220 <bot>Borassus flabelliformis L.</bot> 1 MW 0 -> <bot>Borassus flabelliformis L.</bot>
+0221 <bot>Borassus flabelliformis</bot> 5 MW 1 -> <bot>Borassus flabelliformis</bot>
+0222 <bot>Bos Gaurus</bot> 5 MW 0 -> <bot>Bos Gaurus</bot>
+0223 <bot>Bos Gavaeus</bot> 15 MW 0 -> <bot>Bos Gavaeus</bot>
+0224 <bot>Bos grunniens</bot> 15 MW 0 -> <bot>Bos grunniens</bot>
+0225 <bot>Boswelli thurifera</bot> 1 MW 0 -> <bot>Boswelli thurifera</bot>
+0226 <bot>Boswellia serrata Stackh.</bot> 1 MW 0 -> <bot>Boswellia serrata Stackh.</bot>
+0227 <bot>Boswellia serrata</bot> 2 MW 1 -> <bot>Boswellia serrata</bot>
+0228 <bot>Boswellia thurifera</bot> 39 MW 14 -> <bot>Boswellia thurifera</bot>
+0229 <bot>Bryonia grandis</bot> 1 MW 0 -> <bot>Bryonia grandis</bot>
+0230 <bot>Buchanania latifolia Roxb.</bot> 1 MW 0 -> <bot>Buchanania latifolia Roxb.</bot>
+0231 <bot>Buchanania latifolia</bot> 30 MW 5 -> <bot>Buchanania latifolia</bot>
+0232 <bot>Butea frondosa</bot> 62 MW 11 -> <bot>Butea frondosa</bot>
+0233 <bot>Cactus indicus</bot> 4 MW 0 -> <bot>Cactus indicus</bot>
+0234 <bot>Cactus Opuntia</bot> 6 MW 4 -> <bot>Cactus Opuntia</bot>
+0235 <bot>Caesalpina Banducella</bot> 1 MW 0 -> <bot>Caesalpina Banducella</bot>
+0236 <bot>Caesalpina Bonducella</bot> 5 MW 6 -> <bot>Caesalpina Bonducella</bot>
+0237 <bot>Caesalpina Sappan</bot> 8 MW 12 -> <bot>Caesalpina Sappan</bot>
+0238 <bot>Caesalpinia pulcherrima</bot> 1 MW 1 -> <bot>Caesalpinia pulcherrima</bot>
+0239 <bot>Caesalpinia Sappan</bot> 4 MW 3 -> <bot>Caesalpinia Sappan</bot>
+0240 <bot>Caesalpinia sappan</bot> 2 MW 0 -> <bot>Caesalpinia sappan</bot>
+0241 <bot>Cajanus indicus Spreng.</bot> 1 MW 0 -> <bot>Cajanus indicus Spreng.</bot>
+0242 <bot>Cajanus indicus</bot> 5 MW 2 -> <bot>Cajanus indicus</bot>
+0243 <bot>Calamus fasciculatus</bot> 2 MW 1 -> <bot>Calamus fasciculatus</bot>
+0244 <bot>Calamus Rotang</bot> 34 MW 31 -> <bot>Calamus Rotang</bot>
+0245 <bot>Calophyllum Inophyllum</bot> 1 MW 1 -> <bot>Calophyllum Inophyllum</bot>
+0246 <bot>Calosanthes indica Bl.</bot> 1 MW 0 -> <bot>Calosanthes indica Bl.</bot>
+0247 <bot>Calosanthes indica</bot> 20 MW 2 -> <bot>Calosanthes indica</bot>
+0248 <bot>Calosia cristata</bot> 1 MW 0 -> <bot>Calosia cristata</bot>
+0249 <bot>Calotrapis gigantea</bot> 1 MW 0 -> <bot>Calotrapis gigantea</bot>
+0250 <bot>Calotropis gigantea alba</bot> 3 MW 0 -> <bot>Calotropis gigantea alba</bot>
+0251 <bot>Calotropis gigantea</bot> 68 MW 7 -> <bot>Calotropis gigantea</bot>
+0252 <bot>Calotropis giganten</bot> 1 MW 0 -> <bot>Calotropis giganten</bot>
+0253 <bot>Calumus Rotang</bot> 1 MW 0 -> <bot>Calumus Rotang</bot>
+0254 <bot>Calvosanthes indica</bot> 1 MW 0 -> <bot>Calvosanthes indica</bot>
+0255 <bot>Canna indica</bot> 1 MW 0 -> <bot>Canna indica</bot>
+0256 <bot>Cannabis sativa</bot> 6 MW 0 -> <bot>Cannabis sativa</bot>
+0257 <bot>Canscora decussata</bot> 1 MW 0 -> <bot>Canscora decussata</bot>
+0258 <bot>Capparis aphylla</bot> 13 MW 9 -> <bot>Capparis aphylla</bot>
+0259 <bot>capparis aphylla</bot> 1 MW 0 -> <bot>capparis aphylla</bot>
+0260 <bot>Capparis ceylanica</bot> 1 MW 0 -> <bot>Capparis ceylanica</bot>
+0261 <bot>Capparis divaricata</bot> 1 MW 0 -> <bot>Capparis divaricata</bot>
+0262 <bot>Capparis sepiaria</bot> 6 MW 1 -> <bot>Capparis sepiaria</bot>
+0263 <bot>Capparis sepiarioa</bot> 1 MW 0 -> <bot>Capparis sepiarioa</bot>
+0264 <bot>Capparis sepiarla</bot> 1 MW 0 -> <bot>Capparis sepiarla</bot>
+0265 <bot>Capparis sepiartia</bot> 1 MW 0 -> <bot>Capparis sepiartia</bot>
+0266 <bot>Capparis spinosa L.</bot> 3 MW 0 -> <bot>Capparis spinosa L.</bot>
+0267 <bot>Capparis trifliata</bot> 1 MW 0 -> <bot>Capparis trifliata</bot>
+0268 <bot>Capparis trifoliata</bot> 6 MW 4 -> <bot>Capparis trifoliata</bot>
+0269 <bot>Cardiospermum Halicabum</bot> 1 MW 0 -> <bot>Cardiospermum Halicabum</bot>
+0270 <bot>Cardiospermum halicacabum Lin.</bot> 1 MW 0 -> <bot>Cardiospermum halicacabum Lin.</bot>
+0271 <bot>Cardiospermum Halicacabum</bot> 38 MW 39 -> <bot>Cardiospermum Halicacabum</bot>
+0272 <bot>Cardiospermum halicacabum</bot> 2 MW 2 -> <bot>Cardiospermum halicacabum</bot>
+0273 <bot>Careya arborea</bot> 12 MW 1 -> <bot>Careya arborea</bot>
+0274 <bot>Carissa Carandas L.</bot> 1 MW 0 -> <bot>Carissa Carandas L.</bot>
+0275 <bot>Carissa Carandas Lin.</bot> 1 MW 0 -> <bot>Carissa Carandas Lin.</bot>
+0276 <bot>Carissa Carandas</bot> 17 MW 22 -> <bot>Carissa Carandas</bot>
+0277 <bot>Carissa Carnadas</bot> 1 MW 0 -> <bot>Carissa Carnadas</bot>
+0278 <bot>Carpopogon prurens</bot> 1 MW 0 -> <bot>Carpopogon prurens</bot>
+0279 <bot>Carpopogon pruriens</bot> 23 MW 5 -> <bot>Carpopogon pruriens</bot>
+0280 <bot>Carpopogon prurtens</bot> 1 MW 0 -> <bot>Carpopogon prurtens</bot>
+0281 <bot>Carrissa Carandas</bot> 1 MW 0 -> <bot>Carrissa Carandas</bot>
+0282 <bot>Carthamus tinctorius L.</bot> 1 MW 0 -> <bot>Carthamus tinctorius L.</bot>
+0283 <bot>Carthamus tinctorius</bot> 7 MW 2 -> <bot>Carthamus tinctorius</bot>
+0284 <bot>Carum Carvi</bot> 4 MW 1 -> <bot>Carum Carvi</bot>
+0285 <bot>Caruncula lacrymalis</bot> 1 MW 0 -> <bot>Caruncula lacrymalis</bot>
+0286 <bot>Caryota urens</bot> 6 MW 0 -> <bot>Caryota urens</bot>
+0287 <bot>Cassalpina Banducella</bot> 1 MW 0 -> <bot>Cassalpina Banducella</bot>
+0288 <bot>Cassia alata</bot> 5 MW 0 -> <bot>Cassia alata</bot>
+0289 <bot>Cassia auriculata</bot> 3 MW 3 -> <bot>Cassia auriculata</bot>
+0290 <bot>Cassia fistula</bot> 14 MW 2 -> <bot>Cassia fistula</bot>
+0291 <bot>Cassia Senna</bot> 2 MW 2 -> <bot>Cassia Senna</bot>
+0292 <bot>Cassia Sophora</bot> 10 MW 10 -> <bot>Cassia Sophora</bot>
+0293 <bot>Cassia Tora</bot> 23 MW 13 -> <bot>Cassia Tora</bot>
+0294 <bot>Cassyta filiformis L.</bot> 2 MW 0 -> <bot>Cassyta filiformis L.</bot>
+0295 <bot>Cassyta filiformis</bot> 3 MW 1 -> <bot>Cassyta filiformis</bot>
+0296 <bot>Catechu</bot> 1 MW 7 -> <bot>Catechu</bot>
+0297 <bot>Cathartocarpus (Cassia) fistula</bot> 4 MW 0 -> <bot>Cathartocarpus (Cassia) fistula</bot>
+0298 <bot>Cathartocarpus fistula</bot> 20 MW 6 -> <bot>Cathartocarpus fistula</bot>
+0299 <bot>Cathartocarpus Fistula</bot> 6 MW 17 -> <bot>Cathartocarpus Fistula</bot>
+0300 <bot>Caucumis utilissimus</bot> 1 MW 0 -> <bot>Caucumis utilissimus</bot>
+0301 <bot>Cauterium actuale</bot> 1 MW 0 -> <bot>Cauterium actuale</bot>
+0302 <bot>Cauterium potentiale</bot> 1 MW 0 -> <bot>Cauterium potentiale</bot>
+0303 <bot>Cedrela Toona</bot> 18 MW 17 -> <bot>Cedrela Toona</bot>
+0304 <bot>Celastrus paniculatus</bot> 1 MW 0 -> <bot>Celastrus paniculatus</bot>
+0305 <bot>Celeia coromandelina</bot> 1 MW 0 -> <bot>Celeia coromandelina</bot>
+0306 <bot>Celosia cristata</bot> 12 MW 4 -> <bot>Celosia cristata</bot>
+0307 <bot>Celosia eristata</bot> 1 MW 0 -> <bot>Celosia eristata</bot>
+0308 <bot>Celosia tristata</bot> 1 MW 0 -> <bot>Celosia tristata</bot>
+0309 <bot>Celsia cristata</bot> 1 MW 0 -> <bot>Celsia cristata</bot>
+0310 <bot>Celtis orientalis</bot> 1 MW 4 -> <bot>Celtis orientalis</bot>
+0311 <bot>Centropus pyropterus</bot> 1 MW 0 -> <bot>Centropus pyropterus</bot>
+0312 <bot>Cerasus puddum</bot> 5 MW 0 -> <bot>Cerasus puddum</bot>
+0313 <bot>Cerasus Puddum</bot> 7 MW 13 -> <bot>Cerasus Puddum</bot>
+0314 <bot>Cerausus Pudum</bot> 1 MW 0 -> <bot>Cerausus Pudum</bot>
+0315 <bot>Cerazus Puddum</bot> 1 MW 0 -> <bot>Cerazus Puddum</bot>
+0316 <bot>Cesalpina Sappan</bot> 1 MW 0 -> <bot>Cesalpina Sappan</bot>
+0317 <bot>Chaba</bot> 1 MW 0 -> <bot>Chaba</bot>
+0318 <bot>Chenopodium album</bot> 4 MW 5 -> <bot>Chenopodium album</bot>
+0319 <bot>Chenopodium</bot> 1 MW 11 -> <bot>Chenopodium</bot>
+0320 <bot>Chloroxylon Swietenia</bot> 2 MW 3 -> <bot>Chloroxylon Swietenia</bot>
+0321 <bot>Chrysanthemum indicum</bot> 2 MW 0 -> <bot>Chrysanthemum indicum</bot>
+0322 <bot>Chrysopogon acicularis</bot> 1 MW 0 -> <bot>Chrysopogon acicularis</bot>
+0323 <bot>Chrysopogon aciculatus</bot> 5 MW 3 -> <bot>Chrysopogon aciculatus</bot>
+0324 <bot>Chylus</bot> 3 MW 0 -> <bot>Chylus</bot>
+0325 <bot>Cicca disticha</bot> 1 MW 1 -> <bot>Cicca disticha</bot>
+0326 <bot>Cicer arietinum</bot> 1 MW 0 -> <bot>Cicer arietinum</bot>
+0327 <bot>Cicer lens</bot> 2 MW 0 -> <bot>Cicer lens</bot>
+0328 <bot>Cinnamomum albiflorum</bot> 1 MW 0 -> <bot>Cinnamomum albiflorum</bot>
+0329 <bot>Cissampelos hexandra</bot> 1 MW 1 -> <bot>Cissampelos hexandra</bot>
+0330 <bot>Cissus pedata</bot> 15 MW 9 -> <bot>Cissus pedata</bot>
+0331 <bot>Cissus quadrangularis</bot> 2 MW 2 -> <bot>Cissus quadrangularis</bot>
+0332 <bot>citrina</bot> 9 MW 0 -> <bot>citrina</bot>
+0333 <bot>Citrus acida</bot> 1 MW 0 -> <bot>Citrus acida</bot>
+0334 <bot>Citrus Aurantium</bot> 1 MW 0 -> <bot>Citrus Aurantium</bot>
+0335 <bot>Citrus decumana</bot> 2 MW 0 -> <bot>Citrus decumana</bot>
+0336 <bot>Citrus medica L.</bot> 1 MW 0 -> <bot>Citrus medica L.</bot>
+0337 <bot>Citrus medica</bot> 6 MW 0 -> <bot>Citrus medica</bot>
+0338 <bot>Cittoria ternatca</bot> 1 MW 0 -> <bot>Cittoria ternatca</bot>
+0339 <bot>Cleome felina</bot> 3 MW 1 -> <bot>Cleome felina</bot>
+0340 <bot>Cleome pentaphylla</bot> 2 MW 0 -> <bot>Cleome pentaphylla</bot>
+0341 <bot>Clerdendrum siphonanthus</bot> 2 MW 0 -> <bot>Clerdendrum siphonanthus</bot>
+0342 <bot>Clerodendrum phlomoides</bot> 16 MW 3 -> <bot>Clerodendrum phlomoides</bot>
+0343 <bot>Clerodendrum Sinhonnthus</bot> 1 MW 0 -> <bot>Clerodendrum Sinhonnthus</bot>
+0344 <bot>Clerodendrum Siphoananthus R. Br.</bot> 1 MW 0 -> <bot>Clerodendrum Siphoananthus R. Br.</bot>
+0345 <bot>Clerodendrum siphoanathus</bot> 1 MW 0 -> <bot>Clerodendrum siphoanathus</bot>
+0346 <bot>Clerodendrum Siphonanthus R. Br.</bot> 2 MW 0 -> <bot>Clerodendrum Siphonanthus R. Br.</bot>
+0347 <bot>Clerodendrum Siphonanthus</bot> 4 MW 10 -> <bot>Clerodendrum Siphonanthus</bot>
+0348 <bot>Clerodendrum siphonanthus</bot> 31 MW 2 -> <bot>Clerodendrum siphonanthus</bot>
+0349 <bot>Clerodendrum Siphonantus</bot> 1 MW 29 -> <bot>Clerodendrum Siphonantus</bot>
+0350 <bot>Clerodendrum siphonathus</bot> 1 MW 0 -> <bot>Clerodendrum siphonathus</bot>
+0351 <bot>Clerodendrum siphononthus</bot> 1 MW 0 -> <bot>Clerodendrum siphononthus</bot>
+0352 <bot>Clerodendrum siponanthus</bot> 1 MW 0 -> <bot>Clerodendrum siponanthus</bot>
+0353 <bot>Clerodenrum siphonanthus</bot> 1 MW 0 -> <bot>Clerodenrum siphonanthus</bot>
+0354 <bot>Clerodenrum siphonantus</bot> 1 MW 0 -> <bot>Clerodenrum siphonantus</bot>
+0355 <bot>Clitoria Ternatea L.</bot> 1 MW 0 -> <bot>Clitoria Ternatea L.</bot>
+0356 <bot>Clitoria Ternatea Lin.</bot> 2 MW 0 -> <bot>Clitoria Ternatea Lin.</bot>
+0357 <bot>Clitoria ternatea</bot> 28 MW 4 -> <bot>Clitoria ternatea</bot>
+0358 <bot>Clitoria Ternatea</bot> 11 MW 39 -> <bot>Clitoria Ternatea</bot>
+0359 <bot>Clitroia Ternatea</bot> 1 MW 0 -> <bot>Clitroia Ternatea</bot>
+0360 <bot>Clupea alosa</bot> 5 MW 0 -> <bot>Clupea alosa</bot>
+0361 <bot>Clupea Alosa</bot> 1 MW 0 -> <bot>Clupea Alosa</bot>
+0362 <bot>Clycine debilis</bot> 4 MW 0 -> <bot>Clycine debilis</bot>
+0363 <bot>Clypa hernandifolia</bot> 1 MW 0 -> <bot>Clypa hernandifolia</bot>
+0364 <bot>Clypea hermandifolia</bot> 1 MW 0 -> <bot>Clypea hermandifolia</bot>
+0365 <bot>Clypea hernandifolia Vahl.</bot> 1 MW 0 -> <bot>Clypea hernandifolia Vahl.</bot>
+0366 <bot>Clypea hernandifolia W. u. A.</bot> 1 MW 0 -> <bot>Clypea hernandifolia W. u. A.</bot>
+0367 <bot>Clypea hernandifolia</bot> 28 MW 6 -> <bot>Clypea hernandifolia</bot>
+0368 <bot>Cnidium diffusum</bot> 1 MW 0 -> <bot>Cnidium diffusum</bot>
+0369 <bot>Coccinia grandis W. u. A.</bot> 2 MW 0 -> <bot>Coccinia grandis W. u. A.</bot>
+0370 <bot>Coccinia grandis</bot> 4 MW 1 -> <bot>Coccinia grandis</bot>
+0371 <bot>Cocculus cordifolius DC.</bot> 5 MW 0 -> <bot>Cocculus cordifolius DC.</bot>
+0372 <bot>Cocculus cordifolius</bot> 54 MW 15 -> <bot>Cocculus cordifolius</bot>
+0373 <bot>Cocculus tomentosus</bot> 8 MW 3 -> <bot>Cocculus tomentosus</bot>
+0374 <bot>Coelogyne ovalis</bot> 1 MW 1 -> <bot>Coelogyne ovalis</bot>
+0375 <bot>Coix barbata</bot> 13 MW 8 -> <bot>Coix barbata</bot>
+0376 <bot>Cojanus indicus</bot> 1 MW 0 -> <bot>Cojanus indicus</bot>
+0377 <bot>Cojus Cobojus</bot> 2 MW 0 -> <bot>Cojus Cobojus</bot>
+0378 <bot>Colamus Rotang</bot> 1 MW 0 -> <bot>Colamus Rotang</bot>
+0379 <bot>Colcus amboinicus</bot> 1 MW 0 -> <bot>Colcus amboinicus</bot>
+0380 <bot>Coleus scutellarioides Benth.</bot> 2 MW 0 -> <bot>Coleus scutellarioides Benth.</bot>
+0381 <bot>Coleus scutellaroides</bot> 1 MW 0 -> <bot>Coleus scutellaroides</bot>
+0382 <bot>Colocasia antiquorum</bot> 7 MW 3 -> <bot>Colocasia antiquorum</bot>
+0383 <bot>Colosanthes indica Bl.</bot> 1 MW 0 -> <bot>Colosanthes indica Bl.</bot>
+0384 <bot>Colosanthes indica</bot> 1 MW 0 -> <bot>Colosanthes indica</bot>
+0385 <bot>Colotropis gigantea</bot> 1 MW 0 -> <bot>Colotropis gigantea</bot>
+0386 <bot>Columba Hariola</bot> 2 MW 1 -> <bot>Columba Hariola</bot>
+0387 <bot>Columba Hurriyala</bot> 1 MW 0 -> <bot>Columba Hurriyala</bot>
+0388 <bot>Commelina bengalensis</bot> 1 MW 0 -> <bot>Commelina bengalensis</bot>
+0389 <bot>Commelina salicifolia</bot> 14 MW 3 -> <bot>Commelina salicifolia</bot>
+0390 <bot>Comphrena globosa</bot> 1 MW 0 -> <bot>Comphrena globosa</bot>
+0391 <bot>Convolulus Turpethum</bot> 1 MW 0 -> <bot>Convolulus Turpethum</bot>
+0392 <bot>Convolvulus argentens</bot> 1 MW 0 -> <bot>Convolvulus argentens</bot>
+0393 <bot>Convolvulus argenteus</bot> 3 MW 1 -> <bot>Convolvulus argenteus</bot>
+0394 <bot>convolvulus argenteus</bot> 1 MW 0 -> <bot>convolvulus argenteus</bot>
+0395 <bot>Convolvulus paniculatus</bot> 2 MW 0 -> <bot>Convolvulus paniculatus</bot>
+0396 <bot>Convolvulus repens</bot> 5 MW 4 -> <bot>Convolvulus repens</bot>
+0397 <bot>Convolvulus Trupethum</bot> 1 MW 0 -> <bot>Convolvulus Trupethum</bot>
+0398 <bot>Convolvulus Turpethum</bot> 8 MW 11 -> <bot>Convolvulus Turpethum</bot>
+0399 <bot>Conyza lacera</bot> 2 MW 1 -> <bot>Conyza lacera</bot>
+0400 <bot>Coracias indica</bot> 4 MW 0 -> <bot>Coracias indica</bot>
+0401 <bot>Corcharus editorius</bot> 1 MW 0 -> <bot>Corcharus editorius</bot>
+0402 <bot>Corchorus capsularis</bot> 2 MW 1 -> <bot>Corchorus capsularis</bot>
+0403 <bot>Corchorus olitorius Lin.</bot> 1 MW 0 -> <bot>Corchorus olitorius Lin.</bot>
+0404 <bot>Corchorus olitorius</bot> 2 MW 0 -> <bot>Corchorus olitorius</bot>
+0405 <bot>Cordia latifolia</bot> 10 MW 1 -> <bot>Cordia latifolia</bot>
+0406 <bot>cordia latifolia</bot> 1 MW 0 -> <bot>cordia latifolia</bot>
+0407 <bot>Cordia Myxa</bot> 17 MW 21 -> <bot>Cordia Myxa</bot>
+0408 <bot>cordifolia</bot> 2 MW 0 -> <bot>cordifolia</bot>
+0409 <bot>Cordiospermum Halicacabumm</bot> 1 MW 0 -> <bot>Cordiospermum Halicacabumm</bot>
+0410 <bot>Coriandrum sativum L.</bot> 1 MW 0 -> <bot>Coriandrum sativum L.</bot>
+0411 <bot>Coriandrum sativum</bot> 2 MW 1 -> <bot>Coriandrum sativum</bot>
+0412 <bot>Corydalis Goveniana</bot> 1 MW 1 -> <bot>Corydalis Goveniana</bot>
+0413 <bot>Corypha Taliera</bot> 4 MW 3 -> <bot>Corypha Taliera</bot>
+0414 <bot>Corypha umbraculifera</bot> 1 MW 1 -> <bot>Corypha umbraculifera</bot>
+0415 <bot>Costus arabicus</bot> 1 MW 0 -> <bot>Costus arabicus</bot>
+0416 <bot>Costus speciosus</bot> 56 MW 10 -> <bot>Costus speciosus</bot>
+0417 <bot>Crataeva religiosa</bot> 1 MW 0 -> <bot>Crataeva religiosa</bot>
+0418 <bot>Crataeva Roxburghii R. Br.</bot> 2 MW 0 -> <bot>Crataeva Roxburghii R. Br.</bot>
+0419 <bot>Crataeva Roxburghii</bot> 19 MW 21 -> <bot>Crataeva Roxburghii</bot>
+0420 <bot>Crataeva Roxburghis</bot> 1 MW 0 -> <bot>Crataeva Roxburghis</bot>
+0421 <bot>Crataeva Roxburgii</bot> 1 MW 0 -> <bot>Crataeva Roxburgii</bot>
+0422 <bot>Crislea tomentosa</bot> 1 MW 0 -> <bot>Crislea tomentosa</bot>
+0423 <bot>Crissa Carandas</bot> 1 MW 0 -> <bot>Crissa Carandas</bot>
+0424 <bot>Crocus sativus</bot> 2 MW 2 -> <bot>Crocus sativus</bot>
+0425 <bot>Crotolaria juncea</bot> 8 MW 0 -> <bot>Crotolaria juncea</bot>
+0426 <bot>Crotolaria verrucosa</bot> 1 MW 0 -> <bot>Crotolaria verrucosa</bot>
+0427 <bot>Crotom polyandrum</bot> 1 MW 0 -> <bot>Crotom polyandrum</bot>
+0428 <bot>Croton Jamalgota</bot> 12 MW 10 -> <bot>Croton Jamalgota</bot>
+0429 <bot>Croton Jamlagota</bot> 1 MW 0 -> <bot>Croton Jamlagota</bot>
+0430 <bot>Croton polyandra Roxb.</bot> 1 MW 0 -> <bot>Croton polyandra Roxb.</bot>
+0431 <bot>Croton polyandrum Spr.</bot> 2 MW 0 -> <bot>Croton polyandrum Spr.</bot>
+0432 <bot>Croton polyandrum</bot> 32 MW 5 -> <bot>Croton polyandrum</bot>
+0433 <bot>Croton Tiglium</bot> 7 MW 3 -> <bot>Croton Tiglium</bot>
+0434 <bot>Cucculus melanoleucus</bot> 1 MW 0 -> <bot>Cucculus melanoleucus</bot>
+0435 <bot>Cuculigo orchioides</bot> 1 MW 0 -> <bot>Cuculigo orchioides</bot>
+0436 <bot>Cuculus indicus</bot> 1 MW 0 -> <bot>Cuculus indicus</bot>
+0437 <bot>Cuculus melanoleucus</bot> 7 MW 0 -> <bot>Cuculus melanoleucus</bot>
+0438 <bot>Cucuma longa</bot> 1 MW 0 -> <bot>Cucuma longa</bot>
+0439 <bot>Cucumis acutangulus</bot> 1 MW 1 -> <bot>Cucumis acutangulus</bot>
+0440 <bot>Cucumis maderaspatanus</bot> 7 MW 4 -> <bot>Cucumis maderaspatanus</bot>
+0441 <bot>Cucumis momordica Roxb.</bot> 1 MW 0 -> <bot>Cucumis momordica Roxb.</bot>
+0442 <bot>Cucumis sativus</bot> 5 MW 2 -> <bot>Cucumis sativus</bot>
+0443 <bot>Cucumis utilissimus Roxb.</bot> 1 MW 0 -> <bot>Cucumis utilissimus Roxb.</bot>
+0444 <bot>Cucumis utilissimus</bot> 29 MW 8 -> <bot>Cucumis utilissimus</bot>
+0445 <bot>Cucurbita Citrullus</bot> 1 MW 1 -> <bot>Cucurbita Citrullus</bot>
+0446 <bot>Cucurbita hispida</bot> 1 MW 0 -> <bot>Cucurbita hispida</bot>
+0447 <bot>Cucurbita lagenaria</bot> 1 MW 0 -> <bot>Cucurbita lagenaria</bot>
+0448 <bot>Cucurbita Pepo</bot> 2 MW 3 -> <bot>Cucurbita Pepo</bot>
+0449 <bot>Cuilandina Bonducella</bot> 1 MW 0 -> <bot>Cuilandina Bonducella</bot>
+0450 <bot>Curculgo orchioides</bot> 1 MW 0 -> <bot>Curculgo orchioides</bot>
+0451 <bot>Curculigo orchioides L.</bot> 1 MW 0 -> <bot>Curculigo orchioides L.</bot>
+0452 <bot>Curculigo orchioides</bot> 11 MW 6 -> <bot>Curculigo orchioides</bot>
+0453 <bot>Curcum aromatica</bot> 1 MW 0 -> <bot>Curcum aromatica</bot>
+0454 <bot>Curcuma Amada</bot> 2 MW 0 -> <bot>Curcuma Amada</bot>
+0455 <bot>Curcuma Amhaldi</bot> 9 MW 5 -> <bot>Curcuma Amhaldi</bot>
+0456 <bot>Curcuma aromatica</bot> 19 MW 1 -> <bot>Curcuma aromatica</bot>
+0457 <bot>Curcuma longa</bot> 6 MW 0 -> <bot>Curcuma longa</bot>
+0458 <bot>Curcuma longe</bot> 1 MW 0 -> <bot>Curcuma longe</bot>
+0459 <bot>Curcuma reclinata</bot> 2 MW 0 -> <bot>Curcuma reclinata</bot>
+0460 <bot>Curcuma xanthorrhiza</bot> 4 MW 3 -> <bot>Curcuma xanthorrhiza</bot>
+0461 <bot>Curcuma Zedoaria</bot> 15 MW 18 -> <bot>Curcuma Zedoaria</bot>
+0462 <bot>Curcuma Zerumbet Roxb.</bot> 2 MW 2 -> <bot>Curcuma Zerumbet Roxb.</bot>
+0463 <bot>Curcuma Zerumbet</bot> 13 MW 13 -> <bot>Curcuma Zerumbet</bot>
+0464 <bot>Cynandropsis pentaphylla</bot> 1 MW 0 -> <bot>Cynandropsis pentaphylla</bot>
+0465 <bot>Cyperus hexastachyus communis Nees</bot> 3 MW 0 -> <bot>Cyperus hexastachyus communis Nees</bot>
+0466 <bot>Cyperus hexastachyus communis</bot> 2 MW 0 -> <bot>Cyperus hexastachyus communis</bot>
+0467 <bot>Cyperus hexastachyus Nees</bot> 1 MW 0 -> <bot>Cyperus hexastachyus Nees</bot>
+0468 <bot>Cyperus hexastachyus</bot> 1 MW 0 -> <bot>Cyperus hexastachyus</bot>
+0469 <bot>Cyperus pertenuis</bot> 8 MW 4 -> <bot>Cyperus pertenuis</bot>
+0470 <bot>Cyperus rotundus</bot> 52 MW 19 -> <bot>Cyperus rotundus</bot>
+0471 <bot>Cypeus rotundus</bot> 1 MW 0 -> <bot>Cypeus rotundus</bot>
+0472 <bot>Cypraca moneta</bot> 1 MW 0 -> <bot>Cypraca moneta</bot>
+0473 <bot>Cypraea moneta</bot> 1 MW 5 -> <bot>Cypraea moneta</bot>
+0474 <bot>Cyprea moneta</bot> 1 MW 0 -> <bot>Cyprea moneta</bot>
+0475 <bot>Cyprinus Banggana</bot> 1 MW 0 -> <bot>Cyprinus Banggana</bot>
+0476 <bot>Cyprinus Catla</bot> 3 MW 0 -> <bot>Cyprinus Catla</bot>
+0477 <bot>Cyprinus Curchius</bot> 1 MW 0 -> <bot>Cyprinus Curchius</bot>
+0478 <bot>Cyprinus denticulatus</bot> 2 MW 0 -> <bot>Cyprinus denticulatus</bot>
+0479 <bot>Cyprinus Rishi</bot> 1 MW 0 -> <bot>Cyprinus Rishi</bot>
+0480 <bot>Cyprinus Rohita</bot> 11 MW 0 -> <bot>Cyprinus Rohita</bot>
+0481 <bot>Cyprinus Sophore</bot> 2 MW 0 -> <bot>Cyprinus Sophore</bot>
+0482 <bot>Cytisus Cajan</bot> 3 MW 3 -> <bot>Cytisus Cajan</bot>
+0483 <bot>Daemia extensa</bot> 1 MW 0 -> <bot>Daemia extensa</bot>
+0484 <bot>Dalbergia ougeinensis</bot> 20 MW 0 -> <bot>Dalbergia ougeinensis</bot>
+0485 <bot>Dalbergia Sissoo Roxb.</bot> 2 MW 0 -> <bot>Dalbergia Sissoo Roxb.</bot>
+0486 <bot>Dalbergia Sissoo</bot> 27 MW 20 -> <bot>Dalbergia Sissoo</bot>
+0487 <bot>Datura alba</bot> 1 MW 0 -> <bot>Datura alba</bot>
+0488 <bot>Datura fastuosa</bot> 3 MW 3 -> <bot>Datura fastuosa</bot>
+0489 <bot>Datura Metel</bot> 1 MW 3 -> <bot>Datura Metel</bot>
+0490 <bot>Daucus Carota</bot> 6 MW 6 -> <bot>Daucus Carota</bot>
+0491 <bot>Daucus carota</bot> 1 MW 0 -> <bot>Daucus carota</bot>
+0492 <bot>Delphinus gandgeticus</bot> 1 MW 0 -> <bot>Delphinus gandgeticus</bot>
+0493 <bot>Delphinus gangeticus</bot> 20 MW 1 -> <bot>Delphinus gangeticus</bot>
+0494 <bot>Demodium gangeticum</bot> 1 MW 0 -> <bot>Demodium gangeticum</bot>
+0495 <bot>Deodora</bot> 1 MW 0 -> <bot>Deodora</bot>
+0496 <bot>der Same</bot> 1 MW 0 -> <bot>der Same</bot>
+0497 <bot>Desmochaeta atropurpurea DC.</bot> 1 MW 0 -> <bot>Desmochaeta atropurpurea DC.</bot>
+0498 <bot>Desmochaeta atropurpurea</bot> 2 MW 2 -> <bot>Desmochaeta atropurpurea</bot>
+0499 <bot>Desmodium gangeticum DC.</bot> 1 MW 0 -> <bot>Desmodium gangeticum DC.</bot>
+0500 <bot>Desmodium gangeticum</bot> 23 MW 5 -> <bot>Desmodium gangeticum</bot>
+0501 <bot>Desmodium gangetium</bot> 1 MW 0 -> <bot>Desmodium gangetium</bot>
+0502 <bot>Dill</bot> 2 MW 0 -> <bot>Dill</bot>
+0503 <bot>Dillenia indica</bot> 4 MW 0 -> <bot>Dillenia indica</bot>
+0504 <bot>Dillenia speciosa</bot> 2 MW 0 -> <bot>Dillenia speciosa</bot>
+0505 <bot>Dillenin speciosa</bot> 1 MW 0 -> <bot>Dillenin speciosa</bot>
+0506 <bot>Dioscorea aculeadta</bot> 1 MW 0 -> <bot>Dioscorea aculeadta</bot>
+0507 <bot>Dioscorea alata</bot> 1 MW 1 -> <bot>Dioscorea alata</bot>
+0508 <bot>Dioscorea globosa</bot> 5 MW 1 -> <bot>Dioscorea globosa</bot>
+0509 <bot>Dioscorea purpurea</bot> 4 MW 0 -> <bot>Dioscorea purpurea</bot>
+0510 <bot>Diospyros embryopteris</bot> 19 MW 9 -> <bot>Diospyros embryopteris</bot>
+0511 <bot>Diospyros glutinosa</bot> 4 MW 2 -> <bot>Diospyros glutinosa</bot>
+0512 <bot>Diospyros tomentosa</bot> 9 MW 10 -> <bot>Diospyros tomentosa</bot>
+0513 <bot>Dispyros tomentosa</bot> 1 MW 0 -> <bot>Dispyros tomentosa</bot>
+0514 <bot>Dolichos biflorus</bot> 4 MW 4 -> <bot>Dolichos biflorus</bot>
+0515 <bot>Dolichos bulbosus</bot> 1 MW 0 -> <bot>Dolichos bulbosus</bot>
+0516 <bot>Dolichos Catjang</bot> 9 MW 10 -> <bot>Dolichos Catjang</bot>
+0517 <bot>Dolichos Lablab</bot> 3 MW 3 -> <bot>Dolichos Lablab</bot>
+0518 <bot>Dolichos pruriens</bot> 2 MW 1 -> <bot>Dolichos pruriens</bot>
+0519 <bot>Dolichos sinensis</bot> 3 MW 0 -> <bot>Dolichos sinensis</bot>
+0520 <bot>Dolichos uniflorus</bot> 10 MW 5 -> <bot>Dolichos uniflorus</bot>
+0521 <bot>Dospyros tomentosa</bot> 1 MW 0 -> <bot>Dospyros tomentosa</bot>
+0522 <bot>echinata</bot> 1 MW 1 -> <bot>echinata</bot>
+0523 <bot>Echinops echinatus</bot> 6 MW 0 -> <bot>Echinops echinatus</bot>
+0524 <bot>Echites dichotoma</bot> 1 MW 0 -> <bot>Echites dichotoma</bot>
+0525 <bot>Echites frutescens</bot> 3 MW 0 -> <bot>Echites frutescens</bot>
+0526 <bot>Echites frutesecens</bot> 1 MW 0 -> <bot>Echites frutesecens</bot>
+0527 <bot>Eclipta prostata</bot> 1 MW 0 -> <bot>Eclipta prostata</bot>
+0528 <bot>Eclipta prostrata</bot> 17 MW 6 -> <bot>Eclipta prostrata</bot>
+0529 <bot>Edysarum lagopodioides</bot> 1 MW 0 -> <bot>Edysarum lagopodioides</bot>
+0530 <bot>Elaeocarpus Ganitrus</bot> 14 MW 17 -> <bot>Elaeocarpus Ganitrus</bot>
+0531 <bot>Elaeocarpus Ganitruss</bot> 1 MW 0 -> <bot>Elaeocarpus Ganitruss</bot>
+0532 <bot>Elaeovarpus Gantitrus</bot> 1 MW 0 -> <bot>Elaeovarpus Gantitrus</bot>
+0533 <bot>Elater noctilucus</bot> 3 MW 0 -> <bot>Elater noctilucus</bot>
+0534 <bot>Elephantopus scaber</bot> 4 MW 1 -> <bot>Elephantopus scaber</bot>
+0535 <bot>Eleusine coracana</bot> 2 MW 0 -> <bot>Eleusine coracana</bot>
+0536 <bot>Eleusine corocana</bot> 2 MW 0 -> <bot>Eleusine corocana</bot>
+0537 <bot>Eleusine indica Gaertn.</bot> 1 MW 0 -> <bot>Eleusine indica Gaertn.</bot>
+0538 <bot>Eleusine indica</bot> 10 MW 1 -> <bot>Eleusine indica</bot>
+0539 <bot>Embelia Ribes</bot> 40 MW 26 -> <bot>Embelia Ribes</bot>
+0540 <bot>Emblica officinalis Gaertn.</bot> 4 MW 0 -> <bot>Emblica officinalis Gaertn.</bot>
+0541 <bot>Emblica officinalis</bot> 21 MW 5 -> <bot>Emblica officinalis</bot>
+0542 <bot>Enhydra Heloncha</bot> 1 MW 1 -> <bot>Enhydra Heloncha</bot>
+0543 <bot>Enhydra Hingcha</bot> 3 MW 2 -> <bot>Enhydra Hingcha</bot>
+0544 <bot>Enhydra Hingtscha DC.</bot> 1 MW 0 -> <bot>Enhydra Hingtscha DC.</bot>
+0545 <bot>Ervum lens</bot> 1 MW 1 -> <bot>Ervum lens</bot>
+0546 <bot>Erythraea centaureoides</bot> 2 MW 2 -> <bot>Erythraea centaureoides</bot>
+0547 <bot>Erythraoxylon sideroxyloides</bot> 1 MW 0 -> <bot>Erythraoxylon sideroxyloides</bot>
+0548 <bot>Erythrina fulgens</bot> 3 MW 1 -> <bot>Erythrina fulgens</bot>
+0549 <bot>Erythrina indica</bot> 5 MW 0 -> <bot>Erythrina indica</bot>
+0550 <bot>Esox Kankila</bot> 5 MW 0 -> <bot>Esox Kankila</bot>
+0551 <bot>Eugenia Jambalana</bot> 1 MW 0 -> <bot>Eugenia Jambalana</bot>
+0552 <bot>Eugenia Jambolana</bot> 10 MW 11 -> <bot>Eugenia Jambolana</bot>
+0553 <bot>Eugenia jambolana</bot> 1 MW 0 -> <bot>Eugenia jambolana</bot>
+0554 <bot>Eugenia jambos</bot> 1 MW 0 -> <bot>Eugenia jambos</bot>
+0555 <bot>Eugenta Jambolana</bot> 1 MW 0 -> <bot>Eugenta Jambolana</bot>
+0556 <bot>Euphorbia antiquorum</bot> 23 MW 5 -> <bot>Euphorbia antiquorum</bot>
+0557 <bot>Euphorbia lactea</bot> 1 MW 1 -> <bot>Euphorbia lactea</bot>
+0558 <bot>Euphorbia ligularia</bot> 2 MW 0 -> <bot>Euphorbia ligularia</bot>
+0559 <bot>Euphorbia neriifolia</bot> 2 MW 0 -> <bot>Euphorbia neriifolia</bot>
+0560 <bot>Euphorbia Tirucalli L.</bot> 1 MW 0 -> <bot>Euphorbia Tirucalli L.</bot>
+0561 <bot>Euphorbia Tirucalli</bot> 2 MW 4 -> <bot>Euphorbia Tirucalli</bot>
+0562 <bot>Euphorbia tortilis</bot> 1 MW 1 -> <bot>Euphorbia tortilis</bot>
+0563 <bot>Euryala ferox</bot> 2 MW 0 -> <bot>Euryala ferox</bot>
+0564 <bot>Euryale ferox</bot> 1 MW 0 -> <bot>Euryale ferox</bot>
+0565 <bot>Evolvulus alsinoides</bot> 2 MW 0 -> <bot>Evolvulus alsinoides</bot>
+0566 <bot>Falco Cheela</bot> 11 MW 0 -> <bot>Falco Cheela</bot>
+0567 <bot>Falco Ponticerianus</bot> 1 MW 0 -> <bot>Falco Ponticerianus</bot>
+0568 <bot>fastuosa</bot> 1 MW 0 -> <bot>fastuosa</bot>
+0569 <bot>Ferinia elephantum</bot> 1 MW 0 -> <bot>Ferinia elephantum</bot>
+0570 <bot>Feronia elephanteum</bot> 2 MW 0 -> <bot>Feronia elephanteum</bot>
+0571 <bot>Feronia elephantum</bot> 48 MW 16 -> <bot>Feronia elephantum</bot>
+0572 <bot>Ferula Asa</bot> 1 MW 0 -> <bot>Ferula Asa</bot>
+0573 <bot>Ferula asa</bot> 2 MW 0 -> <bot>Ferula asa</bot>
+0574 <bot>Ficus benjamina</bot> 4 MW 1 -> <bot>Ficus benjamina</bot>
+0575 <bot>Ficus elastica</bot> 1 MW 1 -> <bot>Ficus elastica</bot>
+0576 <bot>Ficus glomerata</bot> 37 MW 8 -> <bot>Ficus glomerata</bot>
+0577 <bot>Ficus heterophylla</bot> 20 MW 2 -> <bot>Ficus heterophylla</bot>
+0578 <bot>Ficus hierophylla</bot> 1 MW 0 -> <bot>Ficus hierophylla</bot>
+0579 <bot>Ficus indica</bot> 29 MW 1 -> <bot>Ficus indica</bot>
+0580 <bot>Ficus infectoria Willd.</bot> 1 MW 0 -> <bot>Ficus infectoria Willd.</bot>
+0581 <bot>Ficus infectoria</bot> 37 MW 5 -> <bot>Ficus infectoria</bot>
+0582 <bot>Ficus oppositifolia</bot> 29 MW 9 -> <bot>Ficus oppositifolia</bot>
+0583 <bot>Ficus religiosa L.</bot> 1 MW 0 -> <bot>Ficus religiosa L.</bot>
+0584 <bot>Ficus religiosa</bot> 59 MW 9 -> <bot>Ficus religiosa</bot>
+0585 <bot>Fiscus glomerata</bot> 1 MW 0 -> <bot>Fiscus glomerata</bot>
+0586 <bot>Flacomurtia cataphracta</bot> 1 MW 0 -> <bot>Flacomurtia cataphracta</bot>
+0587 <bot>Flacourtia cataphrachta</bot> 1 MW 0 -> <bot>Flacourtia cataphrachta</bot>
+0588 <bot>Flacourtia cataphracta Roxb.</bot> 2 MW 0 -> <bot>Flacourtia cataphracta Roxb.</bot>
+0589 <bot>Flacourtia cataphracta</bot> 41 MW 14 -> <bot>Flacourtia cataphracta</bot>
+0590 <bot>Flacourtia cataphraeta</bot> 1 MW 0 -> <bot>Flacourtia cataphraeta</bot>
+0591 <bot>Flacourtia cataphrcata</bot> 1 MW 0 -> <bot>Flacourtia cataphrcata</bot>
+0592 <bot>Flacourtia cotaphracta</bot> 1 MW 0 -> <bot>Flacourtia cotaphracta</bot>
+0593 <bot>Flacourtia sapida</bot> 22 MW 4 -> <bot>Flacourtia sapida</bot>
+0594 <bot>Flacourtia Sapida</bot> 1 MW 19 -> <bot>Flacourtia Sapida</bot>
+0595 <bot>Flacourtia savida</bot> 1 MW 0 -> <bot>Flacourtia savida</bot>
+0596 <bot>Flacourtia sopida</bot> 1 MW 0 -> <bot>Flacourtia sopida</bot>
+0597 <bot>Fumaria parviflora</bot> 2 MW 0 -> <bot>Fumaria parviflora</bot>
+0598 <bot>Gaertnera racemasa</bot> 1 MW 0 -> <bot>Gaertnera racemasa</bot>
+0599 <bot>Gaertnera racemosa</bot> 26 MW 3 -> <bot>Gaertnera racemosa</bot>
+0600 <bot>Gaertneria racemosa</bot> 1 MW 0 -> <bot>Gaertneria racemosa</bot>
+0601 <bot>Galaeocarpus Ganitrus</bot> 1 MW 0 -> <bot>Galaeocarpus Ganitrus</bot>
+0602 <bot>Galedupa piscidia Roxb.</bot> 1 MW 0 -> <bot>Galedupa piscidia Roxb.</bot>
+0603 <bot>Galedupa piscidia</bot> 8 MW 0 -> <bot>Galedupa piscidia</bot>
+0604 <bot>Galega purpurea</bot> 2 MW 1 -> <bot>Galega purpurea</bot>
+0605 <bot>Ganitrues sphaerica</bot> 1 MW 0 -> <bot>Ganitrues sphaerica</bot>
+0606 <bot>Garcinia Cambogia</bot> 2 MW 2 -> <bot>Garcinia Cambogia</bot>
+0607 <bot>Garcinia purpurea</bot> 1 MW 0 -> <bot>Garcinia purpurea</bot>
+0608 <bot>Gardenia enneandra Koen.</bot> 1 MW 0 -> <bot>Gardenia enneandra Koen.</bot>
+0609 <bot>Gardenia enneandra</bot> 1 MW 0 -> <bot>Gardenia enneandra</bot>
+0610 <bot>Gardenia florida</bot> 1 MW 1 -> <bot>Gardenia florida</bot>
+0611 <bot>Gardenia gummifera</bot> 8 MW 0 -> <bot>Gardenia gummifera</bot>
+0612 <bot>Gardenia latiflora</bot> 1 MW 0 -> <bot>Gardenia latiflora</bot>
+0613 <bot>Gardenia latifolia</bot> 2 MW 0 -> <bot>Gardenia latifolia</bot>
+0614 <bot>Garewia asiatica</bot> 1 MW 0 -> <bot>Garewia asiatica</bot>
+0615 <bot>Gedarussa vulgaris</bot> 2 MW 0 -> <bot>Gedarussa vulgaris</bot>
+0616 <bot>Gedrela Toona</bot> 1 MW 0 -> <bot>Gedrela Toona</bot>
+0617 <bot>gemeiner Anis</bot> 2 MW 0 -> <bot>gemeiner Anis</bot>
+0618 <bot>Gendarussa vulgaris Nees</bot> 2 MW 0 -> <bot>Gendarussa vulgaris Nees</bot>
+0619 <bot>Gendarussa vulgaris</bot> 20 MW 1 -> <bot>Gendarussa vulgaris</bot>
+0620 <bot>Gentiana Cherayta</bot> 3 MW 4 -> <bot>Gentiana Cherayta</bot>
+0621 <bot>Gentiana Chiraita Wall.</bot> 1 MW 0 -> <bot>Gentiana Chiraita Wall.</bot>
+0622 <bot>Gentiana Chirata</bot> 4 MW 4 -> <bot>Gentiana Chirata</bot>
+0623 <bot>Gentiana Chirayita</bot> 1 MW 3 -> <bot>Gentiana Chirayita</bot>
+0624 <bot>Germinalia tomentosa</bot> 1 MW 0 -> <bot>Germinalia tomentosa</bot>
+0625 <bot>Getiana Chiraita</bot> 1 MW 0 -> <bot>Getiana Chiraita</bot>
+0626 <bot>Getonia floribunda</bot> 6 MW 1 -> <bot>Getonia floribunda</bot>
+0627 <bot>Gissampelos hexandra</bot> 1 MW 0 -> <bot>Gissampelos hexandra</bot>
+0628 <bot>glabra</bot> 1 MW 0 -> <bot>glabra</bot>
+0629 <bot>Gloriosa superba</bot> 2 MW 0 -> <bot>Gloriosa superba</bot>
+0630 <bot>Glycine debilis Ait.</bot> 1 MW 0 -> <bot>Glycine debilis Ait.</bot>
+0631 <bot>Glycine debilis Roxb.</bot> 2 MW 0 -> <bot>Glycine debilis Roxb.</bot>
+0632 <bot>Glycine debilis</bot> 28 MW 4 -> <bot>Glycine debilis</bot>
+0633 <bot>Glycine labialis L.</bot> 1 MW 0 -> <bot>Glycine labialis L.</bot>
+0634 <bot>Glycine labialis</bot> 3 MW 3 -> <bot>Glycine labialis</bot>
+0635 <bot>Glycyrrhiza glabra</bot> 2 MW 1 -> <bot>Glycyrrhiza glabra</bot>
+0636 <bot>Glyeine debilis</bot> 1 MW 0 -> <bot>Glyeine debilis</bot>
+0637 <bot>Gmelina arborea</bot> 46 MW 10 -> <bot>Gmelina arborea</bot>
+0638 <bot>goensis</bot> 7 MW 1 -> <bot>goensis</bot>
+0639 <bot>Gomphraena globosa</bot> 1 MW 0 -> <bot>Gomphraena globosa</bot>
+0640 <bot>Gomphrena globosa</bot> 2 MW 3 -> <bot>Gomphrena globosa</bot>
+0641 <bot>Gossampinus Rumphii</bot> 1 MW 2 -> <bot>Gossampinus Rumphii</bot>
+0642 <bot>Gossampinus Rumphit</bot> 1 MW 0 -> <bot>Gossampinus Rumphit</bot>
+0643 <bot>Grewia asiatica</bot> 13 MW 1 -> <bot>Grewia asiatica</bot>
+0644 <bot>Grewia elastica</bot> 7 MW 0 -> <bot>Grewia elastica</bot>
+0645 <bot>Grewia orientalis</bot> 1 MW 0 -> <bot>Grewia orientalis</bot>
+0646 <bot>Grislea tomentosa</bot> 38 MW 11 -> <bot>Grislea tomentosa</bot>
+0647 <bot>Grislea tometonsa</bot> 1 MW 0 -> <bot>Grislea tometonsa</bot>
+0648 <bot>Guilandina Bonduc.</bot> 6 MW 0 -> <bot>Guilandina Bonduc.</bot>
+0649 <bot>Guilandina Bonduc</bot> 12 MW 21 -> <bot>Guilandina Bonduc</bot>
+0650 <bot>Guilandina Bonducella</bot> 6 MW 6 -> <bot>Guilandina Bonducella</bot>
+0651 <bot>Guilandina Bondue</bot> 1 MW 0 -> <bot>Guilandina Bondue</bot>
+0652 <bot>Guilandina Moringa</bot> 1 MW 1 -> <bot>Guilandina Moringa</bot>
+0653 <bot>Gymnema sylverstre</bot> 1 MW 0 -> <bot>Gymnema sylverstre</bot>
+0654 <bot>Gymnema sylvestre</bot> 4 MW 1 -> <bot>Gymnema sylvestre</bot>
+0655 <bot>Gynandropis pentaphylla</bot> 1 MW 0 -> <bot>Gynandropis pentaphylla</bot>
+0656 <bot>Gynandropsis penaphylla</bot> 1 MW 0 -> <bot>Gynandropsis penaphylla</bot>
+0657 <bot>Gynandropsis pentaphylla DC.</bot> 1 MW 0 -> <bot>Gynandropsis pentaphylla DC.</bot>
+0658 <bot>Gynandropsis pentaphylla</bot> 10 MW 5 -> <bot>Gynandropsis pentaphylla</bot>
+0659 <bot>Hadysarum logopodioides</bot> 1 MW 0 -> <bot>Hadysarum logopodioides</bot>
+0660 <bot>Haemionites cordifolia Roxb.</bot> 1 MW 0 -> <bot>Haemionites cordifolia Roxb.</bot>
+0661 <bot>Halicacabum cardiospermum</bot> 1 MW 0 -> <bot>Halicacabum cardiospermum</bot>
+0662 <bot>Harz</bot> 1 MW 0 -> <bot>Harz</bot>
+0663 <bot>Hedyotis burmanniana</bot> 1 MW 0 -> <bot>Hedyotis burmanniana</bot>
+0664 <bot>Hedyotis burnanniana</bot> 1 MW 0 -> <bot>Hedyotis burnanniana</bot>
+0665 <bot>Hedysarum Alhagi</bot> 3 MW 5 -> <bot>Hedysarum Alhagi</bot>
+0666 <bot>Hedysarum Athoagi</bot> 1 MW 0 -> <bot>Hedysarum Athoagi</bot>
+0667 <bot>Hedysarum gangeticum</bot> 8 MW 0 -> <bot>Hedysarum gangeticum</bot>
+0668 <bot>Hedysarum lagopodioides</bot> 5 MW 2 -> <bot>Hedysarum lagopodioides</bot>
+0669 <bot>Helianthus annuus</bot> 1 MW 0 -> <bot>Helianthus annuus</bot>
+0670 <bot>Heliophytum indicum Dec.</bot> 1 MW 0 -> <bot>Heliophytum indicum Dec.</bot>
+0671 <bot>Heliotropium indicum</bot> 9 MW 2 -> <bot>Heliotropium indicum</bot>
+0672 <bot>Helleborus niger L.</bot> 2 MW 0 -> <bot>Helleborus niger L.</bot>
+0673 <bot>Helleborus niger</bot> 19 MW 6 -> <bot>Helleborus niger</bot>
+0674 <bot>Helminthostachys laciniata</bot> 2 MW 0 -> <bot>Helminthostachys laciniata</bot>
+0675 <bot>Helminthostachys lawiniata</bot> 1 MW 0 -> <bot>Helminthostachys lawiniata</bot>
+0676 <bot>Hemidesmus indicus R. Br.</bot> 1 MW 0 -> <bot>Hemidesmus indicus R. Br.</bot>
+0677 <bot>Hemidesmus indicus</bot> 4 MW 1 -> <bot>Hemidesmus indicus</bot>
+0678 <bot>Heminonitis cordifolia</bot> 1 MW 0 -> <bot>Heminonitis cordifolia</bot>
+0679 <bot>Hemionita cordifolia</bot> 1 MW 0 -> <bot>Hemionita cordifolia</bot>
+0680 <bot>Hemionites cordifolia</bot> 1 MW 0 -> <bot>Hemionites cordifolia</bot>
+0681 <bot>Hemionitis cordifolia</bot> 32 MW 9 -> <bot>Hemionitis cordifolia</bot>
+0682 <bot>Hemionits cordifolia</bot> 1 MW 0 -> <bot>Hemionits cordifolia</bot>
+0683 <bot>Herlicteres Isora</bot> 1 MW 0 -> <bot>Herlicteres Isora</bot>
+0684 <bot>Herpestes Monniera</bot> 1 MW 0 -> <bot>Herpestes Monniera</bot>
+0685 <bot>Herpestis Monnieria</bot> 2 MW 0 -> <bot>Herpestis Monnieria</bot>
+0686 <bot>Hibicus mutabilis</bot> 2 MW 0 -> <bot>Hibicus mutabilis</bot>
+0687 <bot>Hibiscus Abelmoschus</bot> 2 MW 2 -> <bot>Hibiscus Abelmoschus</bot>
+0688 <bot>Hibiscus cannabinus</bot> 15 MW 3 -> <bot>Hibiscus cannabinus</bot>
+0689 <bot>Hibiscus esculentus</bot> 1 MW 0 -> <bot>Hibiscus esculentus</bot>
+0690 <bot>Hibiscus hirtus</bot> 1 MW 0 -> <bot>Hibiscus hirtus</bot>
+0691 <bot>Hibiscus moschatus</bot> 1 MW 0 -> <bot>Hibiscus moschatus</bot>
+0692 <bot>Hibiscus mutabilis L.</bot> 1 MW 0 -> <bot>Hibiscus mutabilis L.</bot>
+0693 <bot>Hibiscus mutabilis</bot> 39 MW 5 -> <bot>Hibiscus mutabilis</bot>
+0694 <bot>Hibiscus mutablilis</bot> 1 MW 0 -> <bot>Hibiscus mutablilis</bot>
+0695 <bot>Hibiscus phoeniceus</bot> 2 MW 1 -> <bot>Hibiscus phoeniceus</bot>
+0696 <bot>Hibiscus populneoides</bot> 7 MW 3 -> <bot>Hibiscus populneoides</bot>
+0697 <bot>Hibiscus rosa sinensis L.</bot> 1 MW 0 -> <bot>Hibiscus rosa sinensis L.</bot>
+0698 <bot>Hibiscus rosa sinensis</bot> 19 MW 1 -> <bot>Hibiscus rosa sinensis</bot>
+0699 <bot>Hibiscus vitifolius</bot> 1 MW 0 -> <bot>Hibiscus vitifolius</bot>
+0700 <bot>Hibisus mutabilis</bot> 1 MW 0 -> <bot>Hibisus mutabilis</bot>
+0701 <bot>Hingcha repens</bot> 8 MW 3 -> <bot>Hingcha repens</bot>
+0702 <bot>Hingtscha repens Roxb.</bot> 1 MW 0 -> <bot>Hingtscha repens Roxb.</bot>
+0703 <bot>Hingtscha repens</bot> 4 MW 0 -> <bot>Hingtscha repens</bot>
+0704 <bot>Holcus Sorghum</bot> 2 MW 2 -> <bot>Holcus Sorghum</bot>
+0705 <bot>Hoya viridiflora</bot> 24 MW 2 -> <bot>Hoya viridiflora</bot>
+0706 <bot>Hoya viriflora</bot> 1 MW 0 -> <bot>Hoya viriflora</bot>
+0707 <bot>Hydrocotile asiatica</bot> 3 MW 0 -> <bot>Hydrocotile asiatica</bot>
+0708 <bot>Hyoscyamus niger</bot> 1 MW 0 -> <bot>Hyoscyamus niger</bot>
+0709 <bot>Hyperanthera (Guilandian) Moringa</bot> 1 MW 0 -> <bot>Hyperanthera (Guilandian) Moringa</bot>
+0710 <bot>Hyperanthera Moringa</bot> 15 MW 23 -> <bot>Hyperanthera Moringa</bot>
+0711 <bot>Hyrica sapida</bot> 1 MW 0 -> <bot>Hyrica sapida</bot>
+0712 <bot>Ichnocarpous frutescens</bot> 1 MW 0 -> <bot>Ichnocarpous frutescens</bot>
+0713 <bot>Ichnocarpus frutecens</bot> 1 MW 0 -> <bot>Ichnocarpus frutecens</bot>
+0714 <bot>Ichnocarpus frutescens Roxb.</bot> 1 MW 0 -> <bot>Ichnocarpus frutescens Roxb.</bot>
+0715 <bot>Ichnocarpus frutescens</bot> 12 MW 3 -> <bot>Ichnocarpus frutescens</bot>
+0716 <bot>Imora undulata</bot> 1 MW 0 -> <bot>Imora undulata</bot>
+0717 <bot>Impatiens balsamina</bot> 2 MW 1 -> <bot>Impatiens balsamina</bot>
+0718 <bot>Imperata cylindrica</bot> 1 MW 0 -> <bot>Imperata cylindrica</bot>
+0719 <bot>indica Royle</bot> 1 MW 0 -> <bot>indica Royle</bot>
+0720 <bot>indica</bot> 1 MW 0 -> <bot>indica</bot>
+0721 <bot>Indigofera tinctoria</bot> 2 MW 1 -> <bot>Indigofera tinctoria</bot>
+0722 <bot>Indigofera tintoria</bot> 1 MW 0 -> <bot>Indigofera tintoria</bot>
+0723 <bot>Indigogera tinctoria</bot> 1 MW 0 -> <bot>Indigogera tinctoria</bot>
+0724 <bot>Ipomoa atropurpurea</bot> 1 MW 0 -> <bot>Ipomoa atropurpurea</bot>
+0725 <bot>Ipomoea atropurpurea</bot> 1 MW 2 -> <bot>Ipomoea atropurpurea</bot>
+0726 <bot>Ipomoea pes-caprae Roth.</bot> 1 MW 0 -> <bot>Ipomoea pes-caprae Roth.</bot>
+0727 <bot>Ipomoea Turopethum</bot> 1 MW 0 -> <bot>Ipomoea Turopethum</bot>
+0728 <bot>Ipomoea Turpethum R. Br.</bot> 1 MW 0 -> <bot>Ipomoea Turpethum R. Br.</bot>
+0729 <bot>Ipomoea Turpethum</bot> 37 MW 29 -> <bot>Ipomoea Turpethum</bot>
+0730 <bot>Iragia involucrata</bot> 1 MW 0 -> <bot>Iragia involucrata</bot>
+0731 <bot>Iris pseudacorus</bot> 1 MW 0 -> <bot>Iris pseudacorus</bot>
+0732 <bot>Isora corylifolia</bot> 2 MW 0 -> <bot>Isora corylifolia</bot>
+0733 <bot>Ixora Bandhucca</bot> 1 MW 1 -> <bot>Ixora Bandhucca</bot>
+0734 <bot>Jasminum auriculatum Vahl.</bot> 1 MW 0 -> <bot>Jasminum auriculatum Vahl.</bot>
+0735 <bot>Jasminum auriculatum</bot> 11 MW 2 -> <bot>Jasminum auriculatum</bot>
+0736 <bot>Jasminum grandiflorum</bot> 18 MW 4 -> <bot>Jasminum grandiflorum</bot>
+0737 <bot>Jasminum heterophyllum Roxb.</bot> 1 MW 0 -> <bot>Jasminum heterophyllum Roxb.</bot>
+0738 <bot>Jasminum hirsutum Lin.</bot> 1 MW 0 -> <bot>Jasminum hirsutum Lin.</bot>
+0739 <bot>Jasminum Jacquini</bot> 1 MW 1 -> <bot>Jasminum Jacquini</bot>
+0740 <bot>Jasminum multiflorum</bot> 6 MW 3 -> <bot>Jasminum multiflorum</bot>
+0741 <bot>Jasminum pubescens</bot> 1 MW 0 -> <bot>Jasminum pubescens</bot>
+0742 <bot>Jasminum Sambac Ait.</bot> 2 MW 0 -> <bot>Jasminum Sambac Ait.</bot>
+0743 <bot>Jasminum Sambac</bot> 41 MW 26 -> <bot>Jasminum Sambac</bot>
+0744 <bot>Jasminum Zambac</bot> 1 MW 11 -> <bot>Jasminum Zambac</bot>
+0745 <bot>Jasminus Sambac</bot> 1 MW 0 -> <bot>Jasminus Sambac</bot>
+0746 <bot>Jocesia Asoca</bot> 1 MW 0 -> <bot>Jocesia Asoca</bot>
+0747 <bot>Joncesia Asoka Roxb.</bot> 1 MW 0 -> <bot>Joncesia Asoka Roxb.</bot>
+0748 <bot>Joneisia Asoca</bot> 1 MW 0 -> <bot>Joneisia Asoca</bot>
+0749 <bot>Jonesia Asoca</bot> 8 MW 1 -> <bot>Jonesia Asoca</bot>
+0750 <bot>Jonesia asoca</bot> 1 MW 0 -> <bot>Jonesia asoca</bot>
+0751 <bot>Jonesia Asoka Roxb.</bot> 1 MW 1 -> <bot>Jonesia Asoka Roxb.</bot>
+0752 <bot>Jonesia Asoka</bot> 26 MW 22 -> <bot>Jonesia Asoka</bot>
+0753 <bot>Jonesia asoka</bot> 1 MW 0 -> <bot>Jonesia asoka</bot>
+0754 <bot>Juglans regia</bot> 1 MW 0 -> <bot>Juglans regia</bot>
+0755 <bot>Jussiaea repens</bot> 8 MW 1 -> <bot>Jussiaea repens</bot>
+0756 <bot>Jussiaed repens</bot> 1 MW 0 -> <bot>Jussiaed repens</bot>
+0757 <bot>Justicia Gendarussa</bot> 1 MW 1 -> <bot>Justicia Gendarussa</bot>
+0758 <bot>Kaempferia rotunda</bot> 4 MW 1 -> <bot>Kaempferia rotunda</bot>
+0759 <bot>Kanki</bot> 1 MW 0 -> <bot>Kanki</bot>
+0760 <bot>Kylligia monocephala</bot> 1 MW 0 -> <bot>Kylligia monocephala</bot>
+0761 <bot>Kyllingia monocephala Lin.</bot> 1 MW 0 -> <bot>Kyllingia monocephala Lin.</bot>
+0762 <bot>Kyllingia monocephala</bot> 6 MW 0 -> <bot>Kyllingia monocephala</bot>
+0763 <bot>Lablab vulgaris</bot> 5 MW 0 -> <bot>Lablab vulgaris</bot>
+0764 <bot>Lagenaria vulgaris</bot> 1 MW 1 -> <bot>Lagenaria vulgaris</bot>
+0765 <bot>langer Pfeffer</bot> 1 MW 0 -> <bot>langer Pfeffer</bot>
+0766 <bot>langifolia</bot> 1 MW 0 -> <bot>langifolia</bot>
+0767 <bot>Larus ridibundus</bot> 3 MW 0 -> <bot>Larus ridibundus</bot>
+0768 <bot>Lathyrus sativus</bot> 1 MW 0 -> <bot>Lathyrus sativus</bot>
+0769 <bot>latifolia</bot> 1 MW 0 -> <bot>latifolia</bot>
+0770 <bot>Lauratus Cassia</bot> 1 MW 0 -> <bot>Lauratus Cassia</bot>
+0771 <bot>Laurus Cassia</bot> 30 MW 29 -> <bot>Laurus Cassia</bot>
+0772 <bot>Lawsonia alba</bot> 2 MW 0 -> <bot>Lawsonia alba</bot>
+0773 <bot>Lea stophylea</bot> 1 MW 0 -> <bot>Lea stophylea</bot>
+0774 <bot>Leea hirta</bot> 14 MW 2 -> <bot>Leea hirta</bot>
+0775 <bot>Leea macrophylla</bot> 1 MW 1 -> <bot>Leea macrophylla</bot>
+0776 <bot>Lepeocercis serrata Trin.</bot> 1 MW 0 -> <bot>Lepeocercis serrata Trin.</bot>
+0777 <bot>Lepeocercis serrata</bot> 4 MW 1 -> <bot>Lepeocercis serrata</bot>
+0778 <bot>Lepidium sativum</bot> 1 MW 1 -> <bot>Lepidium sativum</bot>
+0779 <bot>Leucas linifolia</bot> 1 MW 0 -> <bot>Leucas linifolia</bot>
+0780 <bot>Ligeuticum Ajowan</bot> 1 MW 0 -> <bot>Ligeuticum Ajowan</bot>
+0781 <bot>Ligusticum Ajowan Roxb.</bot> 1 MW 0 -> <bot>Ligusticum Ajowan Roxb.</bot>
+0782 <bot>Ligusticum Ajowan</bot> 2 MW 7 -> <bot>Ligusticum Ajowan</bot>
+0783 <bot>Ligusticum Ajwan</bot> 1 MW 0 -> <bot>Ligusticum Ajwan</bot>
+0784 <bot>Limonia scandens</bot> 1 MW 0 -> <bot>Limonia scandens</bot>
+0785 <bot>Linum usitatisimum</bot> 1 MW 0 -> <bot>Linum usitatisimum</bot>
+0786 <bot>Linum usitatissimum</bot> 16 MW 3 -> <bot>Linum usitatissimum</bot>
+0787 <bot>Linum usitatissmum</bot> 1 MW 0 -> <bot>Linum usitatissmum</bot>
+0788 <bot>Lipenocerci serrata</bot> 1 MW 0 -> <bot>Lipenocerci serrata</bot>
+0789 <bot>Lipeocercis serrata Trin.</bot> 4 MW 0 -> <bot>Lipeocercis serrata Trin.</bot>
+0790 <bot>Lipeocercis serrata</bot> 11 MW 6 -> <bot>Lipeocercis serrata</bot>
+0791 <bot>Lipeocereis serrata</bot> 1 MW 0 -> <bot>Lipeocereis serrata</bot>
+0792 <bot>Lipeoceris serrata</bot> 2 MW 0 -> <bot>Lipeoceris serrata</bot>
+0793 <bot>Liquidambar orientale</bot> 2 MW 1 -> <bot>Liquidambar orientale</bot>
+0794 <bot>longifolia</bot> 4 MW 3 -> <bot>longifolia</bot>
+0795 <bot>Loxia philippensis</bot> 3 MW 2 -> <bot>Loxia philippensis</bot>
+0796 <bot>Loxia philipponsis</bot> 1 MW 0 -> <bot>Loxia philipponsis</bot>
+0797 <bot>Luffa acutangula und pentandra</bot> 1 MW 0 -> <bot>Luffa acutangula und pentandra</bot>
+0798 <bot>Luffa acutangula</bot> 5 MW 3 -> <bot>Luffa acutangula</bot>
+0799 <bot>Luffa cylindrica</bot> 1 MW 0 -> <bot>Luffa cylindrica</bot>
+0800 <bot>Luffa foetida</bot> 13 MW 5 -> <bot>Luffa foetida</bot>
+0801 <bot>Luffa pentandra</bot> 1 MW 2 -> <bot>Luffa pentandra</bot>
+0802 <bot>Lycopodium cimbricatum</bot> 1 MW 0 -> <bot>Lycopodium cimbricatum</bot>
+0803 <bot>Lycopodium imbricatum</bot> 3 MW 0 -> <bot>Lycopodium imbricatum</bot>
+0804 <bot>Macropteronatus Magur</bot> 3 MW 0 -> <bot>Macropteronatus Magur</bot>
+0805 <bot>Macuna pruritus</bot> 2 MW 0 -> <bot>Macuna pruritus</bot>
+0806 <bot>Mangifera indica</bot> 9 MW 2 -> <bot>Mangifera indica</bot>
+0807 <bot>Mangifera sylvatica</bot> 8 MW 5 -> <bot>Mangifera sylvatica</bot>
+0808 <bot>Mangifera sylvativa</bot> 1 MW 0 -> <bot>Mangifera sylvativa</bot>
+0809 <bot>Mangifera sylvtica</bot> 1 MW 0 -> <bot>Mangifera sylvtica</bot>
+0810 <bot>Maranta dichotoma</bot> 1 MW 0 -> <bot>Maranta dichotoma</bot>
+0811 <bot>Marsila quadrifolia</bot> 1 MW 0 -> <bot>Marsila quadrifolia</bot>
+0812 <bot>Marsilea quadrifolia Lin.</bot> 1 MW 0 -> <bot>Marsilea quadrifolia Lin.</bot>
+0813 <bot>Marsilea quadrifolia</bot> 16 MW 9 -> <bot>Marsilea quadrifolia</bot>
+0814 <bot>Marsilia quadrifolia</bot> 1 MW 0 -> <bot>Marsilia quadrifolia</bot>
+0815 <bot>Marsilia quardrifolia</bot> 1 MW 0 -> <bot>Marsilia quardrifolia</bot>
+0816 <bot>Medicago esculenta</bot> 7 MW 3 -> <bot>Medicago esculenta</bot>
+0817 <bot>melangena</bot> 1 MW 0 -> <bot>melangena</bot>
+0818 <bot>Melia azadirachta</bot> 1 MW 0 -> <bot>Melia azadirachta</bot>
+0819 <bot>Melia Azadirachta</bot> 1 MW 2 -> <bot>Melia Azadirachta</bot>
+0820 <bot>Melia Azedarach</bot> 1 MW 1 -> <bot>Melia Azedarach</bot>
+0821 <bot>Melia Bukayun</bot> 13 MW 13 -> <bot>Melia Bukayun</bot>
+0822 <bot>Melia sempervirens Sw.</bot> 1 MW 0 -> <bot>Melia sempervirens Sw.</bot>
+0823 <bot>Melia sempervirens</bot> 8 MW 1 -> <bot>Melia sempervirens</bot>
+0824 <bot>Melilotus parviflora</bot> 1 MW 0 -> <bot>Melilotus parviflora</bot>
+0825 <bot>Melongena incurva</bot> 1 MW 0 -> <bot>Melongena incurva</bot>
+0826 <bot>Melthonica superba</bot> 1 MW 0 -> <bot>Melthonica superba</bot>
+0827 <bot>Menispermum calumba</bot> 1 MW 0 -> <bot>Menispermum calumba</bot>
+0828 <bot>Menispermum Cocculus</bot> 1 MW 1 -> <bot>Menispermum Cocculus</bot>
+0829 <bot>Menispermum cordifolium</bot> 2 MW 0 -> <bot>Menispermum cordifolium</bot>
+0830 <bot>Menispermum glabrum</bot> 3 MW 1 -> <bot>Menispermum glabrum</bot>
+0831 <bot>Meriandra bengalensis</bot> 1 MW 0 -> <bot>Meriandra bengalensis</bot>
+0832 <bot>Mesua ferra</bot> 2 MW 0 -> <bot>Mesua ferra</bot>
+0833 <bot>Mesua ferrea</bot> 11 MW 9 -> <bot>Mesua ferrea</bot>
+0834 <bot>Mesua Roxburghii Wight.</bot> 1 MW 0 -> <bot>Mesua Roxburghii Wight.</bot>
+0835 <bot>Mesua Roxburghii</bot> 36 MW 32 -> <bot>Mesua Roxburghii</bot>
+0836 <bot>Methonia superba</bot> 1 MW 0 -> <bot>Methonia superba</bot>
+0837 <bot>Methonica superba Lam.</bot> 2 MW 0 -> <bot>Methonica superba Lam.</bot>
+0838 <bot>Methonica superba</bot> 26 MW 4 -> <bot>Methonica superba</bot>
+0839 <bot>Michelia Champaca Lin.</bot> 1 MW 0 -> <bot>Michelia Champaca Lin.</bot>
+0840 <bot>Michelia Champaca</bot> 36 MW 7 -> <bot>Michelia Champaca</bot>
+0841 <bot>Michlia Champaca</bot> 1 MW 0 -> <bot>Michlia Champaca</bot>
+0842 <bot>Milletia piscidia</bot> 1 MW 0 -> <bot>Milletia piscidia</bot>
+0843 <bot>Mimosa abstergens</bot> 3 MW 3 -> <bot>Mimosa abstergens</bot>
+0844 <bot>Mimosa arabica</bot> 2 MW 0 -> <bot>Mimosa arabica</bot>
+0845 <bot>Mimosa Catechu</bot> 3 MW 6 -> <bot>Mimosa Catechu</bot>
+0846 <bot>Mimosa concinna</bot> 3 MW 1 -> <bot>Mimosa concinna</bot>
+0847 <bot>Mimosa octandra Roxb.</bot> 1 MW 0 -> <bot>Mimosa octandra Roxb.</bot>
+0848 <bot>Mimosa octandra</bot> 4 MW 1 -> <bot>Mimosa octandra</bot>
+0849 <bot>Mimosa pudica L.</bot> 1 MW 0 -> <bot>Mimosa pudica L.</bot>
+0850 <bot>Mimosa pudica</bot> 31 MW 8 -> <bot>Mimosa pudica</bot>
+0851 <bot>Mimosa Secressa</bot> 1 MW 0 -> <bot>Mimosa Secressa</bot>
+0852 <bot>Mimosa Seeressa</bot> 1 MW 0 -> <bot>Mimosa Seeressa</bot>
+0853 <bot>Mimosa Suma Roxb.</bot> 2 MW 0 -> <bot>Mimosa Suma Roxb.</bot>
+0854 <bot>Mimosa Suma</bot> 20 MW 19 -> <bot>Mimosa Suma</bot>
+0855 <bot>Mimusops Elengi</bot> 31 MW 30 -> <bot>Mimusops Elengi</bot>
+0856 <bot>Mimusops hexandra</bot> 4 MW 1 -> <bot>Mimusops hexandra</bot>
+0857 <bot>Mimusops Kauki</bot> 8 MW 8 -> <bot>Mimusops Kauki</bot>
+0858 <bot>Minusops Elengi</bot> 1 MW 1 -> <bot>Minusops Elengi</bot>
+0859 <bot>Minusops hexandra</bot> 1 MW 0 -> <bot>Minusops hexandra</bot>
+0860 <bot>Mirabilis Jalapa</bot> 3 MW 2 -> <bot>Mirabilis Jalapa</bot>
+0861 <bot>Molluga pentaphylla</bot> 1 MW 0 -> <bot>Molluga pentaphylla</bot>
+0862 <bot>Mollugo spergula</bot> 1 MW 1 -> <bot>Mollugo spergula</bot>
+0863 <bot>Momordica Charantia L.</bot> 1 MW 0 -> <bot>Momordica Charantia L.</bot>
+0864 <bot>Momordica Charantia Lin.</bot> 1 MW 0 -> <bot>Momordica Charantia Lin.</bot>
+0865 <bot>Momordica Charantia</bot> 18 MW 20 -> <bot>Momordica Charantia</bot>
+0866 <bot>Momordica cochinchinensis Spreng.</bot> 1 MW 0 -> <bot>Momordica cochinchinensis Spreng.</bot>
+0867 <bot>Momordica mixta</bot> 10 MW 1 -> <bot>Momordica mixta</bot>
+0868 <bot>Momordica monadelpha</bot> 14 MW 3 -> <bot>Momordica monadelpha</bot>
+0869 <bot>Momoridica monadelpha</bot> 1 MW 0 -> <bot>Momoridica monadelpha</bot>
+0870 <bot>Momosa pudica</bot> 1 MW 0 -> <bot>Momosa pudica</bot>
+0871 <bot>Morinda tinctoria</bot> 2 MW 0 -> <bot>Morinda tinctoria</bot>
+0872 <bot>Moringa ptergosperma</bot> 1 MW 0 -> <bot>Moringa ptergosperma</bot>
+0873 <bot>Moringa pterugosperma</bot> 1 MW 0 -> <bot>Moringa pterugosperma</bot>
+0874 <bot>Moringa pterygosperma Gaertn.</bot> 1 MW 0 -> <bot>Moringa pterygosperma Gaertn.</bot>
+0875 <bot>Moringa pterygosperma Willd.</bot> 1 MW 0 -> <bot>Moringa pterygosperma Willd.</bot>
+0876 <bot>Moringa pterygosperma</bot> 32 MW 5 -> <bot>Moringa pterygosperma</bot>
+0877 <bot>Moringa Pterygosperma</bot> 3 MW 24 -> <bot>Moringa Pterygosperma</bot>
+0878 <bot>Moringa pterygospermum</bot> 2 MW 0 -> <bot>Moringa pterygospermum</bot>
+0879 <bot>Moringa pteryhosprma</bot> 1 MW 0 -> <bot>Moringa pteryhosprma</bot>
+0880 <bot>Morodica monadelpha</bot> 1 MW 0 -> <bot>Morodica monadelpha</bot>
+0881 <bot>Mucuna praritus</bot> 1 MW 0 -> <bot>Mucuna praritus</bot>
+0882 <bot>Mucuna pruitus</bot> 1 MW 0 -> <bot>Mucuna pruitus</bot>
+0883 <bot>Mucuna pruriens</bot> 1 MW 0 -> <bot>Mucuna pruriens</bot>
+0884 <bot>Mucuna pruritus Hook.</bot> 1 MW 0 -> <bot>Mucuna pruritus Hook.</bot>
+0885 <bot>Mucuna pruritus</bot> 33 MW 10 -> <bot>Mucuna pruritus</bot>
+0886 <bot>Mucuna ruritus</bot> 1 MW 0 -> <bot>Mucuna ruritus</bot>
+0887 <bot>Musa paradisiaca L.</bot> 1 MW 0 -> <bot>Musa paradisiaca L.</bot>
+0888 <bot>Musa paradisiaca</bot> 1 MW 0 -> <bot>Musa paradisiaca</bot>
+0889 <bot>Musa sapientam</bot> 1 MW 0 -> <bot>Musa sapientam</bot>
+0890 <bot>Musa sapientum</bot> 38 MW 8 -> <bot>Musa sapientum</bot>
+0891 <bot>Mussaenda frondosa</bot> 1 MW 0 -> <bot>Mussaenda frondosa</bot>
+0892 <bot>Myrica sapida</bot> 13 MW 8 -> <bot>Myrica sapida</bot>
+0893 <bot>Myristica malabarica</bot> 1 MW 0 -> <bot>Myristica malabarica</bot>
+0894 <bot>Myrobalanus Chebula</bot> 1 MW 1 -> <bot>Myrobalanus Chebula</bot>
+0895 <bot>Mystus Chitala</bot> 2 MW 0 -> <bot>Mystus Chitala</bot>
+0896 <bot>Mystus Karpirat</bot> 1 MW 0 -> <bot>Mystus Karpirat</bot>
+0897 <bot>Myxa</bot> 1 MW 2 -> <bot>Myxa</bot>
+0898 <bot>Nageia Putranjiva</bot> 2 MW 1 -> <bot>Nageia Putranjiva</bot>
+0899 <bot>Nageia putranjiva</bot> 1 MW 0 -> <bot>Nageia putranjiva</bot>
+0900 <bot>naravelia zeylanica</bot> 1 MW 0 -> <bot>naravelia zeylanica</bot>
+0901 <bot>Nardostachys Jatamansi</bot> 37 MW 20 -> <bot>Nardostachys Jatamansi</bot>
+0902 <bot>Nardostachys jatamansi</bot> 1 MW 0 -> <bot>Nardostachys jatamansi</bot>
+0903 <bot>Nardostachys Jatamanzi</bot> 1 MW 0 -> <bot>Nardostachys Jatamanzi</bot>
+0904 <bot>Nardostachys Jatamnsi</bot> 1 MW 0 -> <bot>Nardostachys Jatamnsi</bot>
+0905 <bot>Nardostachys Jatmansi</bot> 1 MW 0 -> <bot>Nardostachys Jatmansi</bot>
+0906 <bot>Nauclea Cadamaba</bot> 2 MW 0 -> <bot>Nauclea Cadamaba</bot>
+0907 <bot>Nauclea Cadamba Roxb.</bot> 1 MW 0 -> <bot>Nauclea Cadamba Roxb.</bot>
+0908 <bot>Nauclea Cadamba</bot> 31 MW 31 -> <bot>Nauclea Cadamba</bot>
+0909 <bot>Nauclea cordifolia</bot> 7 MW 1 -> <bot>Nauclea cordifolia</bot>
+0910 <bot>Nauclea cordifoloa</bot> 1 MW 0 -> <bot>Nauclea cordifoloa</bot>
+0911 <bot>Nelumbium speciosum</bot> 25 MW 0 -> <bot>Nelumbium speciosum</bot>
+0912 <bot>Nericum odorum rubro</bot> 1 MW 0 -> <bot>Nericum odorum rubro</bot>
+0913 <bot>Nerium odorum Ait.</bot> 3 MW 0 -> <bot>Nerium odorum Ait.</bot>
+0914 <bot>Nerium odorum rubro</bot> 2 MW 0 -> <bot>Nerium odorum rubro</bot>
+0915 <bot>Nerium odorum</bot> 35 MW 5 -> <bot>Nerium odorum</bot>
+0916 <bot>Nigella indica Roxb.</bot> 2 MW 0 -> <bot>Nigella indica Roxb.</bot>
+0917 <bot>Nigella indica</bot> 17 MW 9 -> <bot>Nigella indica</bot>
+0918 <bot>Nyctanthes arber tristis</bot> 1 MW 0 -> <bot>Nyctanthes arber tristis</bot>
+0919 <bot>Nyctanthes arbor tristis</bot> 1 MW 0 -> <bot>Nyctanthes arbor tristis</bot>
+0920 <bot>Nyctanthes arbor</bot> 10 MW 0 -> <bot>Nyctanthes arbor</bot>
+0921 <bot>Nyetanthes arbor</bot> 1 MW 0 -> <bot>Nyetanthes arbor</bot>
+0922 <bot>Nymphaea cyanca</bot> 1 MW 0 -> <bot>Nymphaea cyanca</bot>
+0923 <bot>Nymphaea esculenta</bot> 5 MW 3 -> <bot>Nymphaea esculenta</bot>
+0924 <bot>Nymphaea lotus</bot> 1 MW 0 -> <bot>Nymphaea lotus</bot>
+0925 <bot>Nymphaea nelumbo</bot> 1 MW 0 -> <bot>Nymphaea nelumbo</bot>
+0926 <bot>Nymphaea rubra</bot> 5 MW 2 -> <bot>Nymphaea rubra</bot>
+0927 <bot>Ocimmum pilosum</bot> 1 MW 0 -> <bot>Ocimmum pilosum</bot>
+0928 <bot>Ocimum basilicum pilosum</bot> 1 MW 0 -> <bot>Ocimum basilicum pilosum</bot>
+0929 <bot>Ocimum gratissimum</bot> 2 MW 2 -> <bot>Ocimum gratissimum</bot>
+0930 <bot>Ocimum pilosum</bot> 10 MW 2 -> <bot>Ocimum pilosum</bot>
+0931 <bot>Ocimum pilosun</bot> 1 MW 0 -> <bot>Ocimum pilosun</bot>
+0932 <bot>Ocimum sanctum</bot> 18 MW 4 -> <bot>Ocimum sanctum</bot>
+0933 <bot>Ocimum sanetum</bot> 1 MW 0 -> <bot>Ocimum sanetum</bot>
+0934 <bot>Ocimum villosum</bot> 7 MW 0 -> <bot>Ocimum villosum</bot>
+0935 <bot>Odina pinnata L.</bot> 1 MW 0 -> <bot>Odina pinnata L.</bot>
+0936 <bot>Odina pinnata</bot> 31 MW 5 -> <bot>Odina pinnata</bot>
+0937 <bot>Odina Wodier</bot> 7 MW 6 -> <bot>Odina Wodier</bot>
+0938 <bot>Odina wodier</bot> 1 MW 0 -> <bot>Odina wodier</bot>
+0939 <bot>Oldenlandia biflora</bot> 3 MW 2 -> <bot>Oldenlandia biflora</bot>
+0940 <bot>Oldenlandia herbacea</bot> 7 MW 2 -> <bot>Oldenlandia herbacea</bot>
+0941 <bot>oleraceus</bot> 1 MW 0 -> <bot>oleraceus</bot>
+0942 <bot>Ophicephalus Kurrawey</bot> 1 MW 0 -> <bot>Ophicephalus Kurrawey</bot>
+0943 <bot>Ophicocephalus aurantiacus</bot> 1 MW 0 -> <bot>Ophicocephalus aurantiacus</bot>
+0944 <bot>Ophiocephalus Wrahl</bot> 1 MW 0 -> <bot>Ophiocephalus Wrahl</bot>
+0945 <bot>Ophiorrhiza Mungos</bot> 1 MW 1 -> <bot>Ophiorrhiza Mungos</bot>
+0946 <bot>Opuntia Dillenii</bot> 1 MW 1 -> <bot>Opuntia Dillenii</bot>
+0947 <bot>Oryza sativa</bot> 1 MW 0 -> <bot>Oryza sativa</bot>
+0948 <bot>os coccygis</bot> 1 MW 0 -> <bot>os coccygis</bot>
+0949 <bot>Os Sepiae</bot> 1 MW 0 -> <bot>Os Sepiae</bot>
+0950 <bot>Os sepiae</bot> 3 MW 0 -> <bot>Os sepiae</bot>
+0951 <bot>Oxalis corniculata Lin.</bot> 1 MW 0 -> <bot>Oxalis corniculata Lin.</bot>
+0952 <bot>Oxalis corniculata</bot> 6 MW 3 -> <bot>Oxalis corniculata</bot>
+0953 <bot>Oxalis pusila</bot> 1 MW 0 -> <bot>Oxalis pusila</bot>
+0954 <bot>Oxalis pusilla</bot> 9 MW 5 -> <bot>Oxalis pusilla</bot>
+0955 <bot>Oxlis corniculata</bot> 1 MW 0 -> <bot>Oxlis corniculata</bot>
+0956 <bot>Oxystelma esculentum R. Br.</bot> 2 MW 0 -> <bot>Oxystelma esculentum R. Br.</bot>
+0957 <bot>Oxystelma esculentum</bot> 1 MW 0 -> <bot>Oxystelma esculentum</bot>
+0958 <bot>Paederia foetida</bot> 24 MW 5 -> <bot>Paederia foetida</bot>
+0959 <bot>Paedersa foetida</bot> 1 MW 0 -> <bot>Paedersa foetida</bot>
+0960 <bot>Paerospermum acerifolium</bot> 1 MW 0 -> <bot>Paerospermum acerifolium</bot>
+0961 <bot>Palanisia icosandra</bot> 1 MW 0 -> <bot>Palanisia icosandra</bot>
+0962 <bot>Pandanus odoratissimus</bot> 43 MW 16 -> <bot>Pandanus odoratissimus</bot>
+0963 <bot>pandanus odoratissimus</bot> 1 MW 0 -> <bot>pandanus odoratissimus</bot>
+0964 <bot>Pandanus odoratissinus</bot> 1 MW 0 -> <bot>Pandanus odoratissinus</bot>
+0965 <bot>Pangamia glabra</bot> 1 MW 0 -> <bot>Pangamia glabra</bot>
+0966 <bot>Panicum Dactylon</bot> 12 MW 10 -> <bot>Panicum Dactylon</bot>
+0967 <bot>Panicum frumentaceum</bot> 8 MW 4 -> <bot>Panicum frumentaceum</bot>
+0968 <bot>Panicum italicum</bot> 15 MW 1 -> <bot>Panicum italicum</bot>
+0969 <bot>Panicum miliaceum</bot> 11 MW 4 -> <bot>Panicum miliaceum</bot>
+0970 <bot>Panicum uliginosum</bot> 1 MW 0 -> <bot>Panicum uliginosum</bot>
+0971 <bot>Panicum verticillatum</bot> 4 MW 0 -> <bot>Panicum verticillatum</bot>
+0972 <bot>paradiseus</bot> 1 MW 0 -> <bot>paradiseus</bot>
+0973 <bot>Parra jacana</bot> 7 MW 2 -> <bot>Parra jacana</bot>
+0974 <bot>Paspalum frumentaceum Rottl.</bot> 1 MW 0 -> <bot>Paspalum frumentaceum Rottl.</bot>
+0975 <bot>Paspalum scrabiculatum</bot> 1 MW 0 -> <bot>Paspalum scrabiculatum</bot>
+0976 <bot>Paspalum scrobiculatum</bot> 1 MW 1 -> <bot>Paspalum scrobiculatum</bot>
+0977 <bot>Pasplum scrobiculatum</bot> 1 MW 0 -> <bot>Pasplum scrobiculatum</bot>
+0978 <bot>Pavo bicalcaratus</bot> 1 MW 0 -> <bot>Pavo bicalcaratus</bot>
+0979 <bot>Pavonia odorata</bot> 4 MW 1 -> <bot>Pavonia odorata</bot>
+0980 <bot>Peintapetes phoenicea</bot> 1 MW 0 -> <bot>Peintapetes phoenicea</bot>
+0981 <bot>Pelanisia icosandra W. u. A.</bot> 1 MW 0 -> <bot>Pelanisia icosandra W. u. A.</bot>
+0982 <bot>Pelcanus fusicollis</bot> 1 MW 0 -> <bot>Pelcanus fusicollis</bot>
+0983 <bot>Penicillaria spicat Willd.</bot> 1 MW 0 -> <bot>Penicillaria spicat Willd.</bot>
+0984 <bot>Pentapetes phoenicea L.</bot> 1 MW 0 -> <bot>Pentapetes phoenicea L.</bot>
+0985 <bot>Pentapetes phoenicea</bot> 15 MW 0 -> <bot>Pentapetes phoenicea</bot>
+0986 <bot>Pentapetes Phoenicea</bot> 1 MW 18 -> <bot>Pentapetes Phoenicea</bot>
+0987 <bot>Pentapetes phoenicen</bot> 1 MW 0 -> <bot>Pentapetes phoenicen</bot>
+0988 <bot>Pentaptera Arjuna</bot> 1 MW 5 -> <bot>Pentaptera Arjuna</bot>
+0989 <bot>Pentaptera tomentosa</bot> 1 MW 0 -> <bot>Pentaptera tomentosa</bot>
+0990 <bot>Pentoptera tomentosa</bot> 1 MW 0 -> <bot>Pentoptera tomentosa</bot>
+0991 <bot>Perdix chinensis</bot> 6 MW 1 -> <bot>Perdix chinensis</bot>
+0992 <bot>Perdix rufa</bot> 5 MW 0 -> <bot>Perdix rufa</bot>
+0993 <bot>Perdix sylvatica</bot> 2 MW 0 -> <bot>Perdix sylvatica</bot>
+0994 <bot>Pertapetes phoenicea</bot> 1 MW 0 -> <bot>Pertapetes phoenicea</bot>
+0995 <bot>Phaseolus aconitifolius</bot> 2 MW 1 -> <bot>Phaseolus aconitifolius</bot>
+0996 <bot>Phaseolus aconitifolus</bot> 1 MW 0 -> <bot>Phaseolus aconitifolus</bot>
+0997 <bot>Phaseolus aconittifolius</bot> 1 MW 0 -> <bot>Phaseolus aconittifolius</bot>
+0998 <bot>Phaseolus irilobus</bot> 1 MW 0 -> <bot>Phaseolus irilobus</bot>
+0999 <bot>Phaseolus Mango</bot> 1 MW 0 -> <bot>Phaseolus Mango</bot>
+1000 <bot>Phaseolus Max</bot> 1 MW 0 -> <bot>Phaseolus Max</bot>
+1001 <bot>Phaseolus Mungo</bot> 32 MW 30 -> <bot>Phaseolus Mungo</bot>
+1002 <bot>Phaseolus radiatus</bot> 16 MW 1 -> <bot>Phaseolus radiatus</bot>
+1003 <bot>Phaseolus trillobus</bot> 1 MW 0 -> <bot>Phaseolus trillobus</bot>
+1004 <bot>Phaseolus trilobus Ait.</bot> 1 MW 0 -> <bot>Phaseolus trilobus Ait.</bot>
+1005 <bot>Phaseolus trilobus</bot> 24 MW 6 -> <bot>Phaseolus trilobus</bot>
+1006 <bot>Phasianus gallus</bot> 9 MW 0 -> <bot>Phasianus gallus</bot>
+1007 <bot>Phazeolus radiatus</bot> 1 MW 0 -> <bot>Phazeolus radiatus</bot>
+1008 <bot>Phlomis ceylanica</bot> 2 MW 3 -> <bot>Phlomis ceylanica</bot>
+1009 <bot>Phlomis esculenta</bot> 3 MW 1 -> <bot>Phlomis esculenta</bot>
+1010 <bot>Phlomis zeylanica</bot> 6 MW 0 -> <bot>Phlomis zeylanica</bot>
+1011 <bot>Phlomis</bot> 1 MW 1 -> <bot>Phlomis</bot>
+1012 <bot>Phoenix paludosa Roxb.</bot> 1 MW 0 -> <bot>Phoenix paludosa Roxb.</bot>
+1013 <bot>Phoenix paludosa</bot> 15 MW 2 -> <bot>Phoenix paludosa</bot>
+1014 <bot>Phoenix silvestris</bot> 1 MW 0 -> <bot>Phoenix silvestris</bot>
+1015 <bot>Phoenix sylverstris</bot> 4 MW 0 -> <bot>Phoenix sylverstris</bot>
+1016 <bot>Phoenix sylvestris</bot> 9 MW 6 -> <bot>Phoenix sylvestris</bot>
+1017 <bot>Phyllanthus Embelica</bot> 1 MW 0 -> <bot>Phyllanthus Embelica</bot>
+1018 <bot>Phyllanthus emblica</bot> 5 MW 1 -> <bot>Phyllanthus emblica</bot>
+1019 <bot>Phyllanthus Emblica</bot> 1 MW 5 -> <bot>Phyllanthus Emblica</bot>
+1020 <bot>Phyllanthus Niruir</bot> 1 MW 0 -> <bot>Phyllanthus Niruir</bot>
+1021 <bot>Phyllanthus Niruri</bot> 1 MW 3 -> <bot>Phyllanthus Niruri</bot>
+1022 <bot>Physalis flexuosa L.</bot> 5 MW 0 -> <bot>Physalis flexuosa L.</bot>
+1023 <bot>Physalis flexuosa</bot> 33 MW 5 -> <bot>Physalis flexuosa</bot>
+1024 <bot>physalis flexuosa</bot> 1 MW 0 -> <bot>physalis flexuosa</bot>
+1025 <bot>Physalis Flexuosus</bot> 1 MW 1 -> <bot>Physalis Flexuosus</bot>
+1026 <bot>Physalis flexuousa</bot> 2 MW 0 -> <bot>Physalis flexuousa</bot>
+1027 <bot>Phyttanthus Niruri</bot> 1 MW 0 -> <bot>Phyttanthus Niruri</bot>
+1028 <bot>Picrorhiza Kurroa Royle.</bot> 1 MW 0 -> <bot>Picrorhiza Kurroa Royle.</bot>
+1029 <bot>Picus bengalensis</bot> 3 MW 0 -> <bot>Picus bengalensis</bot>
+1030 <bot>Pimelodus Gagora</bot> 4 MW 0 -> <bot>Pimelodus Gagora</bot>
+1031 <bot>Pimenta acris</bot> 2 MW 1 -> <bot>Pimenta acris</bot>
+1032 <bot>Pimpinella Anisum</bot> 1 MW 1 -> <bot>Pimpinella Anisum</bot>
+1033 <bot>Pinus Deodera</bot> 1 MW 0 -> <bot>Pinus Deodera</bot>
+1034 <bot>Pinus Deodora Roxb.</bot> 2 MW 0 -> <bot>Pinus Deodora Roxb.</bot>
+1035 <bot>Pinus Deodora</bot> 38 MW 29 -> <bot>Pinus Deodora</bot>
+1036 <bot>Pinus longifolia</bot> 49 MW 10 -> <bot>Pinus longifolia</bot>
+1037 <bot>Pinus Webbiana</bot> 4 MW 4 -> <bot>Pinus Webbiana</bot>
+1038 <bot>Piper aurantiacum</bot> 6 MW 1 -> <bot>Piper aurantiacum</bot>
+1039 <bot>Piper Betle L.</bot> 1 MW 0 -> <bot>Piper Betle L.</bot>
+1040 <bot>Piper Betle Lin.</bot> 1 MW 0 -> <bot>Piper Betle Lin.</bot>
+1041 <bot>Piper Betle</bot> 11 MW 6 -> <bot>Piper Betle</bot>
+1042 <bot>Piper Chaba</bot> 20 MW 23 -> <bot>Piper Chaba</bot>
+1043 <bot>Piper chaba</bot> 1 MW 0 -> <bot>Piper chaba</bot>
+1044 <bot>Piper Chapa</bot> 1 MW 0 -> <bot>Piper Chapa</bot>
+1045 <bot>Piper langeum</bot> 1 MW 0 -> <bot>Piper langeum</bot>
+1046 <bot>Piper longum L.</bot> 2 MW 0 -> <bot>Piper longum L.</bot>
+1047 <bot>Piper longum</bot> 16 MW 6 -> <bot>Piper longum</bot>
+1048 <bot>Pistia Stratiotes L.</bot> 1 MW 0 -> <bot>Pistia Stratiotes L.</bot>
+1049 <bot>Pistia Stratiotes</bot> 30 MW 31 -> <bot>Pistia Stratiotes</bot>
+1050 <bot>Pisum arvense</bot> 1 MW 0 -> <bot>Pisum arvense</bot>
+1051 <bot>Placourtia sapida</bot> 1 MW 0 -> <bot>Placourtia sapida</bot>
+1052 <bot>Plaseolus trilobus Ait.</bot> 1 MW 0 -> <bot>Plaseolus trilobus Ait.</bot>
+1053 <bot>Plectranthus scutellaioides</bot> 1 MW 0 -> <bot>Plectranthus scutellaioides</bot>
+1054 <bot>Plectranthus scutellarioides</bot> 4 MW 1 -> <bot>Plectranthus scutellarioides</bot>
+1055 <bot>Plumbago rosea</bot> 6 MW 2 -> <bot>Plumbago rosea</bot>
+1056 <bot>Plumbago zeylanica</bot> 28 MW 8 -> <bot>Plumbago zeylanica</bot>
+1057 <bot>Plychotis Ajowan</bot> 1 MW 0 -> <bot>Plychotis Ajowan</bot>
+1058 <bot>Poa cynosuroides</bot> 4 MW 3 -> <bot>Poa cynosuroides</bot>
+1059 <bot>Polanisia icaosandra</bot> 1 MW 0 -> <bot>Polanisia icaosandra</bot>
+1060 <bot>Polanisia icosandra W. u. A.</bot> 2 MW 0 -> <bot>Polanisia icosandra W. u. A.</bot>
+1061 <bot>Polanisia icosandra</bot> 18 MW 0 -> <bot>Polanisia icosandra</bot>
+1062 <bot>Polanisia incosandra</bot> 1 MW 0 -> <bot>Polanisia incosandra</bot>
+1063 <bot>Polanissia icosandra</bot> 1 MW 0 -> <bot>Polanissia icosandra</bot>
+1064 <bot>Polianthes tuberosa</bot> 3 MW 0 -> <bot>Polianthes tuberosa</bot>
+1065 <bot>Polynemus risua</bot> 1 MW 0 -> <bot>Polynemus risua</bot>
+1066 <bot>Pongamia glabra</bot> 29 MW 8 -> <bot>Pongamia glabra</bot>
+1067 <bot>Portulaca oleracea</bot> 1 MW 1 -> <bot>Portulaca oleracea</bot>
+1068 <bot>portulaca quadrifida</bot> 1 MW 0 -> <bot>portulaca quadrifida</bot>
+1069 <bot>Portulaca quadrifida</bot> 3 MW 0 -> <bot>Portulaca quadrifida</bot>
+1070 <bot>Portulacca olercea</bot> 1 MW 0 -> <bot>Portulacca olercea</bot>
+1071 <bot>Pothos officinalis</bot> 2 MW 1 -> <bot>Pothos officinalis</bot>
+1072 <bot>Pothos officinatis Roxb.</bot> 1 MW 0 -> <bot>Pothos officinatis Roxb.</bot>
+1073 <bot>Potos officinalis</bot> 1 MW 0 -> <bot>Potos officinalis</bot>
+1074 <bot>Premna esculenta</bot> 1 MW 1 -> <bot>Premna esculenta</bot>
+1075 <bot>Premna herbacea</bot> 4 MW 1 -> <bot>Premna herbacea</bot>
+1076 <bot>Premna spinosa</bot> 40 MW 14 -> <bot>Premna spinosa</bot>
+1077 <bot>Prosopis spicigera</bot> 26 MW 3 -> <bot>Prosopis spicigera</bot>
+1078 <bot>Prospis spicigera</bot> 1 MW 0 -> <bot>Prospis spicigera</bot>
+1079 <bot>Psoralea corylifolia</bot> 1 MW 1 -> <bot>Psoralea corylifolia</bot>
+1080 <bot>Pterocarpus santalinus</bot> 2 MW 3 -> <bot>Pterocarpus santalinus</bot>
+1081 <bot>Pterospermum acerifolium Willd.</bot> 1 MW 0 -> <bot>Pterospermum acerifolium Willd.</bot>
+1082 <bot>Pterospermum acerifolium</bot> 17 MW 5 -> <bot>Pterospermum acerifolium</bot>
+1083 <bot>Pterospermum suberifolium</bot> 10 MW 2 -> <bot>Pterospermum suberifolium</bot>
+1084 <bot>Ptychotis Ajowan</bot> 17 MW 21 -> <bot>Ptychotis Ajowan</bot>
+1085 <bot>Pubescens</bot> 2 MW 4 -> <bot>Pubescens</bot>
+1086 <bot>pubescens</bot> 4 MW 3 -> <bot>pubescens</bot>
+1087 <bot>Pubescenz</bot> 1 MW 0 -> <bot>Pubescenz</bot>
+1088 <bot>Putranjiva Roxburghii</bot> 12 MW 5 -> <bot>Putranjiva Roxburghii</bot>
+1089 <bot>Pythonium bulbiferum Schott.</bot> 1 MW 0 -> <bot>Pythonium bulbiferum Schott.</bot>
+1090 <bot>Quamoclit pennata</bot> 1 MW 0 -> <bot>Quamoclit pennata</bot>
+1091 <bot>ramosa</bot> 1 MW 0 -> <bot>ramosa</bot>
+1092 <bot>Rauhinia variegata</bot> 1 MW 0 -> <bot>Rauhinia variegata</bot>
+1093 <bot>Rhinacanthus communis</bot> 1 MW 0 -> <bot>Rhinacanthus communis</bot>
+1094 <bot>Rhinacnathus communis</bot> 1 MW 0 -> <bot>Rhinacnathus communis</bot>
+1095 <bot>rhombifolia</bot> 4 MW 1 -> <bot>rhombifolia</bot>
+1096 <bot>Rhus succedanea</bot> 2 MW 0 -> <bot>Rhus succedanea</bot>
+1097 <bot>Ricinus communis L.</bot> 2 MW 0 -> <bot>Ricinus communis L.</bot>
+1098 <bot>Ricinus communis</bot> 32 MW 8 -> <bot>Ricinus communis</bot>
+1099 <bot>Rohita</bot> 1 MW 0 -> <bot>Rohita</bot>
+1100 <bot>Rosa glandulifera</bot> 12 MW 2 -> <bot>Rosa glandulifera</bot>
+1101 <bot>Rosa moschata</bot> 7 MW 2 -> <bot>Rosa moschata</bot>
+1102 <bot>rosea</bot> 1 MW 0 -> <bot>rosea</bot>
+1103 <bot>Rotteria tinctoria</bot> 1 MW 0 -> <bot>Rotteria tinctoria</bot>
+1104 <bot>Rottleria tinctoria</bot> 26 MW 8 -> <bot>Rottleria tinctoria</bot>
+1105 <bot>Rubia Manjith</bot> 1 MW 2 -> <bot>Rubia Manjith</bot>
+1106 <bot>Rubia Munjista</bot> 49 MW 44 -> <bot>Rubia Munjista</bot>
+1107 <bot>rubra</bot> 5 MW 0 -> <bot>rubra</bot>
+1108 <bot>Ruellia longifolia</bot> 4 MW 2 -> <bot>Ruellia longifolia</bot>
+1109 <bot>Rumex vesicarius</bot> 24 MW 1 -> <bot>Rumex vesicarius</bot>
+1110 <bot>Rumex vesicorius</bot> 1 MW 0 -> <bot>Rumex vesicorius</bot>
+1111 <bot>Ruta graveolens</bot> 13 MW 1 -> <bot>Ruta graveolens</bot>
+1112 <bot>Ruta graveoloens</bot> 1 MW 0 -> <bot>Ruta graveoloens</bot>
+1113 <bot>Saccharu Munjia</bot> 1 MW 0 -> <bot>Saccharu Munjia</bot>
+1114 <bot>Saccharum cylindricum</bot> 7 MW 3 -> <bot>Saccharum cylindricum</bot>
+1115 <bot>Saccharum Munjia Roxb.</bot> 1 MW 0 -> <bot>Saccharum Munjia Roxb.</bot>
+1116 <bot>Saccharum Munjia</bot> 17 MW 11 -> <bot>Saccharum Munjia</bot>
+1117 <bot>Saccharum officinarum L.</bot> 1 MW 0 -> <bot>Saccharum officinarum L.</bot>
+1118 <bot>Saccharum officinarum</bot> 1 MW 0 -> <bot>Saccharum officinarum</bot>
+1119 <bot>Saccharum percerum</bot> 1 MW 0 -> <bot>Saccharum percerum</bot>
+1120 <bot>Saccharum Sara Roxb.</bot> 1 MW 1 -> <bot>Saccharum Sara Roxb.</bot>
+1121 <bot>Saccharum Sara</bot> 21 MW 17 -> <bot>Saccharum Sara</bot>
+1122 <bot>Saccharum sponataneum L.</bot> 1 MW 0 -> <bot>Saccharum sponataneum L.</bot>
+1123 <bot>Saccharum spontaneum L.</bot> 11 MW 0 -> <bot>Saccharum spontaneum L.</bot>
+1124 <bot>Saccharum spontaneum Lin.</bot> 1 MW 0 -> <bot>Saccharum spontaneum Lin.</bot>
+1125 <bot>Saccharum spontaneum</bot> 22 MW 12 -> <bot>Saccharum spontaneum</bot>
+1126 <bot>Saivinia cucullata</bot> 1 MW 0 -> <bot>Saivinia cucullata</bot>
+1127 <bot>Salmalia malabarica Sch. u. Endl.</bot> 2 MW 0 -> <bot>Salmalia malabarica Sch. u. Endl.</bot>
+1128 <bot>Salmalia malabarica</bot> 22 MW 4 -> <bot>Salmalia malabarica</bot>
+1129 <bot>Salmaria malabarica</bot> 2 MW 0 -> <bot>Salmaria malabarica</bot>
+1130 <bot>Salvadora persica</bot> 12 MW 1 -> <bot>Salvadora persica</bot>
+1131 <bot>Salvinia cuculata</bot> 1 MW 0 -> <bot>Salvinia cuculata</bot>
+1132 <bot>Salvinia cucullata Roxb.</bot> 2 MW 0 -> <bot>Salvinia cucullata Roxb.</bot>
+1133 <bot>Salvinia cucullata</bot> 32 MW 4 -> <bot>Salvinia cucullata</bot>
+1134 <bot>Sanseviera ceylanica Roxb.</bot> 1 MW 0 -> <bot>Sanseviera ceylanica Roxb.</bot>
+1135 <bot>Sanseviera ceylanica</bot> 2 MW 0 -> <bot>Sanseviera ceylanica</bot>
+1136 <bot>Sanseviera guineensis</bot> 2 MW 0 -> <bot>Sanseviera guineensis</bot>
+1137 <bot>Sanseviera Roxburghiana</bot> 34 MW 33 -> <bot>Sanseviera Roxburghiana</bot>
+1138 <bot>Sanseviera Roxvurgiana</bot> 1 MW 0 -> <bot>Sanseviera Roxvurgiana</bot>
+1139 <bot>Sanseviera zeylanica</bot> 15 MW 3 -> <bot>Sanseviera zeylanica</bot>
+1140 <bot>Sansevira zeylanica</bot> 1 MW 0 -> <bot>Sansevira zeylanica</bot>
+1141 <bot>Sapindus detergens Roxb.</bot> 1 MW 0 -> <bot>Sapindus detergens Roxb.</bot>
+1142 <bot>Sapindus detergens</bot> 4 MW 0 -> <bot>Sapindus detergens</bot>
+1143 <bot>Sarcostemma viminale R. Br.</bot> 2 MW 0 -> <bot>Sarcostemma viminale R. Br.</bot>
+1144 <bot>Sarcostemma viminale</bot> 1 MW 1 -> <bot>Sarcostemma viminale</bot>
+1145 <bot>Saussurea uricutata</bot> 1 MW 0 -> <bot>Saussurea uricutata</bot>
+1146 <bot>Schirpus Kysoor</bot> 1 MW 0 -> <bot>Schirpus Kysoor</bot>
+1147 <bot>Schoenandthus indicus</bot> 1 MW 0 -> <bot>Schoenandthus indicus</bot>
+1148 <bot>Schrebera Swietenioides</bot> 8 MW 7 -> <bot>Schrebera Swietenioides</bot>
+1149 <bot>Schreberia Swietenoides</bot> 2 MW 2 -> <bot>Schreberia Swietenoides</bot>
+1150 <bot>Scindapsus officinalis Sch.</bot> 1 MW 0 -> <bot>Scindapsus officinalis Sch.</bot>
+1151 <bot>Scindapsus officinalis</bot> 27 MW 10 -> <bot>Scindapsus officinalis</bot>
+1152 <bot>Scirpus Kysoor Roxb.</bot> 1 MW 1 -> <bot>Scirpus Kysoor Roxb.</bot>
+1153 <bot>Scirpus Kysoor</bot> 13 MW 19 -> <bot>Scirpus Kysoor</bot>
+1154 <bot>Scirpus kysoor</bot> 2 MW 0 -> <bot>Scirpus kysoor</bot>
+1155 <bot>Scirpus maximus</bot> 3 MW 0 -> <bot>Scirpus maximus</bot>
+1156 <bot>Scripus Kysoor</bot> 1 MW 0 -> <bot>Scripus Kysoor</bot>
+1157 <bot>Semecarpus Anacardium L.</bot> 5 MW 0 -> <bot>Semecarpus Anacardium L.</bot>
+1158 <bot>Semecarpus Anacardium</bot> 38 MW 37 -> <bot>Semecarpus Anacardium</bot>
+1159 <bot>Senna esculenta</bot> 1 MW 0 -> <bot>Senna esculenta</bot>
+1160 <bot>Senna obtusa</bot> 1 MW 0 -> <bot>Senna obtusa</bot>
+1161 <bot>Serratula anthelminthica</bot> 11 MW 7 -> <bot>Serratula anthelminthica</bot>
+1162 <bot>Sesamum indicum</bot> 3 MW 2 -> <bot>Sesamum indicum</bot>
+1163 <bot>Sesamum orientale</bot> 1 MW 0 -> <bot>Sesamum orientale</bot>
+1164 <bot>Sesbana grandiflora</bot> 1 MW 0 -> <bot>Sesbana grandiflora</bot>
+1165 <bot>Sesbania aegyptiaca Pers.</bot> 2 MW 0 -> <bot>Sesbania aegyptiaca Pers.</bot>
+1166 <bot>Sesbania aegyptiaca</bot> 15 MW 4 -> <bot>Sesbania aegyptiaca</bot>
+1167 <bot>Sesbania grandiflora</bot> 1 MW 1 -> <bot>Sesbania grandiflora</bot>
+1168 <bot>Shorea (Vatica) robusta</bot> 1 MW 0 -> <bot>Shorea (Vatica) robusta</bot>
+1169 <bot>Shorea robusta</bot> 45 MW 14 -> <bot>Shorea robusta</bot>
+1170 <bot>Sida alba</bot> 1 MW 1 -> <bot>Sida alba</bot>
+1171 <bot>Sida albe Lin.</bot> 1 MW 0 -> <bot>Sida albe Lin.</bot>
+1172 <bot>Sida cordifolia und rhombifolia</bot> 1 MW 0 -> <bot>Sida cordifolia und rhombifolia</bot>
+1173 <bot>Sida cordifolia</bot> 31 MW 2 -> <bot>Sida cordifolia</bot>
+1174 <bot>Sida rhombifolia</bot> 3 MW 0 -> <bot>Sida rhombifolia</bot>
+1175 <bot>Sida rhomboidea</bot> 6 MW 1 -> <bot>Sida rhomboidea</bot>
+1176 <bot>sida rhomboides</bot> 1 MW 0 -> <bot>sida rhomboides</bot>
+1177 <bot>Sida rhomboides</bot> 2 MW 1 -> <bot>Sida rhomboides</bot>
+1178 <bot>Sida spinosa</bot> 1 MW 0 -> <bot>Sida spinosa</bot>
+1179 <bot>Silurus boalis</bot> 1 MW 0 -> <bot>Silurus boalis</bot>
+1180 <bot>Silurus pabda</bot> 3 MW 0 -> <bot>Silurus pabda</bot>
+1181 <bot>Silurus pelorius</bot> 3 MW 0 -> <bot>Silurus pelorius</bot>
+1182 <bot>Silurus Pelorius</bot> 1 MW 0 -> <bot>Silurus Pelorius</bot>
+1183 <bot>Silurus pungentissimus</bot> 1 MW 0 -> <bot>Silurus pungentissimus</bot>
+1184 <bot>Silurus Singio</bot> 3 MW 0 -> <bot>Silurus Singio</bot>
+1185 <bot>Silurus unitus</bot> 1 MW 0 -> <bot>Silurus unitus</bot>
+1186 <bot>Simia erythraea</bot> 1 MW 0 -> <bot>Simia erythraea</bot>
+1187 <bot>Sinapis dichotoma</bot> 6 MW 2 -> <bot>Sinapis dichotoma</bot>
+1188 <bot>Sinapis glauca</bot> 2 MW 1 -> <bot>Sinapis glauca</bot>
+1189 <bot>Sinapis racemosa</bot> 1 MW 0 -> <bot>Sinapis racemosa</bot>
+1190 <bot>Sinapis ramosa Roxb.</bot> 2 MW 0 -> <bot>Sinapis ramosa Roxb.</bot>
+1191 <bot>Sinapis ramosa</bot> 9 MW 2 -> <bot>Sinapis ramosa</bot>
+1192 <bot>Sindapsus officinalis</bot> 1 MW 0 -> <bot>Sindapsus officinalis</bot>
+1193 <bot>Sinus versus</bot> 3 MW 0 -> <bot>Sinus versus</bot>
+1194 <bot>Siphonanthus indica</bot> 1 MW 0 -> <bot>Siphonanthus indica</bot>
+1195 <bot>Smilax China Lin.</bot> 1 MW 0 -> <bot>Smilax China Lin.</bot>
+1196 <bot>Smilax China</bot> 3 MW 2 -> <bot>Smilax China</bot>
+1197 <bot>Solanum diffusum</bot> 5 MW 2 -> <bot>Solanum diffusum</bot>
+1198 <bot>Solanum indicum und Jacquini</bot> 1 MW 0 -> <bot>Solanum indicum und Jacquini</bot>
+1199 <bot>Solanum indicum</bot> 15 MW 6 -> <bot>Solanum indicum</bot>
+1200 <bot>Solanum Jacquini Willd.</bot> 1 MW 0 -> <bot>Solanum Jacquini Willd.</bot>
+1201 <bot>Solanum Jacquini</bot> 39 MW 36 -> <bot>Solanum Jacquini</bot>
+1202 <bot>Solanum longum</bot> 1 MW 2 -> <bot>Solanum longum</bot>
+1203 <bot>Solanum Melongena</bot> 21 MW 22 -> <bot>Solanum Melongena</bot>
+1204 <bot>Solanum trilobatum</bot> 1 MW 1 -> <bot>Solanum trilobatum</bot>
+1205 <bot>Sorex moschatus</bot> 2 MW 0 -> <bot>Sorex moschatus</bot>
+1206 <bot>Sorghum cernuum</bot> 1 MW 0 -> <bot>Sorghum cernuum</bot>
+1207 <bot>Sorghum</bot> 1 MW 3 -> <bot>Sorghum</bot>
+1208 <bot>Soymida febrifuga</bot> 1 MW 0 -> <bot>Soymida febrifuga</bot>
+1209 <bot>Spaeranthus mollis</bot> 1 MW 0 -> <bot>Spaeranthus mollis</bot>
+1210 <bot>speciosus</bot> 1 MW 0 -> <bot>speciosus</bot>
+1211 <bot>Sphacranthus mollis</bot> 1 MW 0 -> <bot>Sphacranthus mollis</bot>
+1212 <bot>Sphaeranthus hirtus</bot> 4 MW 0 -> <bot>Sphaeranthus hirtus</bot>
+1213 <bot>Sphaeranthus indicus</bot> 2 MW 0 -> <bot>Sphaeranthus indicus</bot>
+1214 <bot>Sphaeranthus mollis</bot> 5 MW 1 -> <bot>Sphaeranthus mollis</bot>
+1215 <bot>Sphex asiatica</bot> 1 MW 0 -> <bot>Sphex asiatica</bot>
+1216 <bot>Spondias managifera</bot> 1 MW 0 -> <bot>Spondias managifera</bot>
+1217 <bot>Spondias mangifera</bot> 26 MW 1 -> <bot>Spondias mangifera</bot>
+1218 <bot>squamosa</bot> 2 MW 1 -> <bot>squamosa</bot>
+1219 <bot>Status gastricus</bot> 1 MW 0 -> <bot>Status gastricus</bot>
+1220 <bot>Stechafel</bot> 1 MW 0 -> <bot>Stechafel</bot>
+1221 <bot>Steracantha longifolia</bot> 1 MW 0 -> <bot>Steracantha longifolia</bot>
+1222 <bot>Strychnos nux vomica</bot> 11 MW 4 -> <bot>Strychnos nux vomica</bot>
+1223 <bot>Strychnos patatorum</bot> 1 MW 0 -> <bot>Strychnos patatorum</bot>
+1224 <bot>Strychnos potatorum L.</bot> 1 MW 0 -> <bot>Strychnos potatorum L.</bot>
+1225 <bot>Strychnos potatorum</bot> 13 MW 5 -> <bot>Strychnos potatorum</bot>
+1226 <bot>sulcatus</bot> 1 MW 1 -> <bot>sulcatus</bot>
+1227 <bot>Sulmalia malabarica</bot> 1 MW 0 -> <bot>Sulmalia malabarica</bot>
+1228 <bot>Sylvia sutoria</bot> 3 MW 0 -> <bot>Sylvia sutoria</bot>
+1229 <bot>Symplocos racemosa</bot> 33 MW 11 -> <bot>Symplocos racemosa</bot>
+1230 <bot>Syvia sutoria</bot> 1 MW 0 -> <bot>Syvia sutoria</bot>
+1231 <bot>Tabernaemontana coronaria Willd.</bot> 1 MW 0 -> <bot>Tabernaemontana coronaria Willd.</bot>
+1232 <bot>Tabernaemontana coronaria</bot> 40 MW 9 -> <bot>Tabernaemontana coronaria</bot>
+1233 <bot>Tacrnaemontana coronaria</bot> 1 MW 0 -> <bot>Tacrnaemontana coronaria</bot>
+1234 <bot>Tamarindas indica</bot> 1 MW 0 -> <bot>Tamarindas indica</bot>
+1235 <bot>Tamarindus indica</bot> 8 MW 0 -> <bot>Tamarindus indica</bot>
+1236 <bot>Tamarix indica</bot> 5 MW 1 -> <bot>Tamarix indica</bot>
+1237 <bot>Tectona grandis</bot> 22 MW 3 -> <bot>Tectona grandis</bot>
+1238 <bot>Terminali Bellerica</bot> 1 MW 0 -> <bot>Terminali Bellerica</bot>
+1239 <bot>Terminalia alata</bot> 2 MW 1 -> <bot>Terminalia alata</bot>
+1240 <bot>Terminalia Arjuna W. u. A.</bot> 2 MW 0 -> <bot>Terminalia Arjuna W. u. A.</bot>
+1241 <bot>Terminalia Arjuna</bot> 7 MW 27 -> <bot>Terminalia Arjuna</bot>
+1242 <bot>Terminalia Arunja W. u. A.</bot> 1 MW 0 -> <bot>Terminalia Arunja W. u. A.</bot>
+1243 <bot>Terminalia Arunja</bot> 26 MW 7 -> <bot>Terminalia Arunja</bot>
+1244 <bot>Terminalia Bellerica Roxb.</bot> 1 MW 0 -> <bot>Terminalia Bellerica Roxb.</bot>
+1245 <bot>Terminalia Bellerica</bot> 34 MW 30 -> <bot>Terminalia Bellerica</bot>
+1246 <bot>Terminalia bellerica</bot> 1 MW 1 -> <bot>Terminalia bellerica</bot>
+1247 <bot>Terminalia Catappa</bot> 21 MW 20 -> <bot>Terminalia Catappa</bot>
+1248 <bot>Terminalia catappa</bot> 1 MW 0 -> <bot>Terminalia catappa</bot>
+1249 <bot>Terminalia Chebula</bot> 37 MW 33 -> <bot>Terminalia Chebula</bot>
+1250 <bot>Terminalia chebula</bot> 1 MW 0 -> <bot>Terminalia chebula</bot>
+1251 <bot>Terminalia citrina Roxb.</bot> 3 MW 0 -> <bot>Terminalia citrina Roxb.</bot>
+1252 <bot>Terminalia citrina</bot> 2 MW 0 -> <bot>Terminalia citrina</bot>
+1253 <bot>Terminalia tomentosa W. u. A.</bot> 1 MW 0 -> <bot>Terminalia tomentosa W. u. A.</bot>
+1254 <bot>Terminalia tomentosa</bot> 26 MW 3 -> <bot>Terminalia tomentosa</bot>
+1255 <bot>Terminalica Chebula</bot> 1 MW 0 -> <bot>Terminalica Chebula</bot>
+1256 <bot>Terminalis altata</bot> 1 MW 0 -> <bot>Terminalis altata</bot>
+1257 <bot>Tetanus rectus</bot> 1 MW 0 -> <bot>Tetanus rectus</bot>
+1258 <bot>Thepesia populneoides</bot> 1 MW 0 -> <bot>Thepesia populneoides</bot>
+1259 <bot>Thespesia populnea</bot> 3 MW 0 -> <bot>Thespesia populnea</bot>
+1260 <bot>Thespesia populneiodes</bot> 1 MW 0 -> <bot>Thespesia populneiodes</bot>
+1261 <bot>Thespesia populneoides Wall.</bot> 1 MW 0 -> <bot>Thespesia populneoides Wall.</bot>
+1262 <bot>Thespesia populneoides</bot> 12 MW 3 -> <bot>Thespesia populneoides</bot>
+1263 <bot>Thespesia populnes</bot> 1 MW 0 -> <bot>Thespesia populnes</bot>
+1264 <bot>Tiaridium indicum Lehm.</bot> 1 MW 0 -> <bot>Tiaridium indicum Lehm.</bot>
+1265 <bot>Tiaridium indicum</bot> 19 MW 2 -> <bot>Tiaridium indicum</bot>
+1266 <bot>Tiaridum indicum</bot> 1 MW 0 -> <bot>Tiaridum indicum</bot>
+1267 <bot>Tiglicum</bot> 1 MW 0 -> <bot>Tiglicum</bot>
+1268 <bot>Tiglium</bot> 9 MW 9 -> <bot>Tiglium</bot>
+1269 <bot>Tiridium indicum</bot> 1 MW 0 -> <bot>Tiridium indicum</bot>
+1270 <bot>Tithymalus antiguorum</bot> 1 MW 0 -> <bot>Tithymalus antiguorum</bot>
+1271 <bot>Tithymalus antiquorum</bot> 8 MW 4 -> <bot>Tithymalus antiquorum</bot>
+1272 <bot>Tora L.</bot> 1 MW 0 -> <bot>Tora L.</bot>
+1273 <bot>Tora</bot> 3 MW 8 -> <bot>Tora</bot>
+1274 <bot>tortilis</bot> 1 MW 0 -> <bot>tortilis</bot>
+1275 <bot>Tragia involucrata L.</bot> 1 MW 0 -> <bot>Tragia involucrata L.</bot>
+1276 <bot>Tragia involucrata Lin.</bot> 1 MW 0 -> <bot>Tragia involucrata Lin.</bot>
+1277 <bot>Tragia involucrata</bot> 20 MW 2 -> <bot>Tragia involucrata</bot>
+1278 <bot>Tragta involucrata</bot> 1 MW 0 -> <bot>Tragta involucrata</bot>
+1279 <bot>Trapa bispinasa</bot> 1 MW 0 -> <bot>Trapa bispinasa</bot>
+1280 <bot>Trapa bispinosa</bot> 30 MW 8 -> <bot>Trapa bispinosa</bot>
+1281 <bot>Trewia nudiflora</bot> 1 MW 0 -> <bot>Trewia nudiflora</bot>
+1282 <bot>Tribulus lanuginosus L.</bot> 1 MW 0 -> <bot>Tribulus lanuginosus L.</bot>
+1283 <bot>Tribulus lanuginosus</bot> 11 MW 4 -> <bot>Tribulus lanuginosus</bot>
+1284 <bot>Tribulus terrestris</bot> 2 MW 0 -> <bot>Tribulus terrestris</bot>
+1285 <bot>Trichodesma zeylanicum</bot> 1 MW 0 -> <bot>Trichodesma zeylanicum</bot>
+1286 <bot>Trichopodus Golisa</bot> 1 MW 0 -> <bot>Trichopodus Golisa</bot>
+1287 <bot>Trichosanthe dioeca</bot> 2 MW 0 -> <bot>Trichosanthe dioeca</bot>
+1288 <bot>Trichosanthes anguina</bot> 2 MW 2 -> <bot>Trichosanthes anguina</bot>
+1289 <bot>Trichosanthes bracteata</bot> 1 MW 0 -> <bot>Trichosanthes bracteata</bot>
+1290 <bot>Trichosanthes dioeca Roxb.</bot> 1 MW 0 -> <bot>Trichosanthes dioeca Roxb.</bot>
+1291 <bot>Trichosanthes dioeca</bot> 31 MW 10 -> <bot>Trichosanthes dioeca</bot>
+1292 <bot>Trichosanthes Dioeca</bot> 1 MW 23 -> <bot>Trichosanthes Dioeca</bot>
+1293 <bot>Trichosanthes palmata</bot> 1 MW 2 -> <bot>Trichosanthes palmata</bot>
+1294 <bot>Trichsanthes palmata</bot> 1 MW 0 -> <bot>Trichsanthes palmata</bot>
+1295 <bot>Trigionella corniculata</bot> 1 MW 0 -> <bot>Trigionella corniculata</bot>
+1296 <bot>Trigonalla foenum graecum</bot> 1 MW 0 -> <bot>Trigonalla foenum graecum</bot>
+1297 <bot>Trigonella corniculata Lin.</bot> 1 MW 0 -> <bot>Trigonella corniculata Lin.</bot>
+1298 <bot>Trigonella corniculata</bot> 43 MW 6 -> <bot>Trigonella corniculata</bot>
+1299 <bot>Trigonella foenum graecum</bot> 23 MW 11 -> <bot>Trigonella foenum graecum</bot>
+1300 <bot>Trigonilla foenum grecum</bot> 1 MW 0 -> <bot>Trigonilla foenum grecum</bot>
+1301 <bot>Trigonilla Foenum</bot> 1 MW 0 -> <bot>Trigonilla Foenum</bot>
+1302 <bot>Trigonlla foenum</bot> 1 MW 0 -> <bot>Trigonlla foenum</bot>
+1303 <bot>Trilobus lanuginosus</bot> 1 MW 2 -> <bot>Trilobus lanuginosus</bot>
+1304 <bot>Trogai involucrata</bot> 1 MW 0 -> <bot>Trogai involucrata</bot>
+1305 <bot>Trophis aspera</bot> 21 MW 5 -> <bot>Trophis aspera</bot>
+1306 <bot>Tropis aspera</bot> 1 MW 0 -> <bot>Tropis aspera</bot>
+1307 <bot>Typha angusitifolia</bot> 1 MW 0 -> <bot>Typha angusitifolia</bot>
+1308 <bot>Typha angustifolia</bot> 4 MW 1 -> <bot>Typha angustifolia</bot>
+1309 <bot>Ungius adoratus</bot> 1 MW 0 -> <bot>Ungius adoratus</bot>
+1310 <bot>unguis odoratus</bot> 3 MW 1 -> <bot>unguis odoratus</bot>
+1311 <bot>Uraria lagopadioides</bot> 1 MW 0 -> <bot>Uraria lagopadioides</bot>
+1312 <bot>Uraria lagopodioides</bot> 22 MW 6 -> <bot>Uraria lagopodioides</bot>
+1313 <bot>Urtica interrupta</bot> 1 MW 0 -> <bot>Urtica interrupta</bot>
+1314 <bot>Uvaria longifolia</bot> 1 MW 0 -> <bot>Uvaria longifolia</bot>
+1315 <bot>Vachellia farnesiana W. u. A.</bot> 2 MW 0 -> <bot>Vachellia farnesiana W. u. A.</bot>
+1316 <bot>Vachellia farnesiana</bot> 4 MW 2 -> <bot>Vachellia farnesiana</bot>
+1317 <bot>Vachellia farnestana</bot> 1 MW 0 -> <bot>Vachellia farnestana</bot>
+1318 <bot>Valeriana Jatamansi Jon.</bot> 1 MW 0 -> <bot>Valeriana Jatamansi Jon.</bot>
+1319 <bot>Valeriana jatamansi Jones</bot> 1 MW 0 -> <bot>Valeriana jatamansi Jones</bot>
+1320 <bot>Valeriana Jatamansi</bot> 1 MW 0 -> <bot>Valeriana Jatamansi</bot>
+1321 <bot>Vallaris dichotomus Wall.</bot> 1 MW 0 -> <bot>Vallaris dichotomus Wall.</bot>
+1322 <bot>Vallaris dichotomus</bot> 2 MW 0 -> <bot>Vallaris dichotomus</bot>
+1323 <bot>Vallisneria (Blyxa) octandra</bot> 1 MW 0 -> <bot>Vallisneria (Blyxa) octandra</bot>
+1324 <bot>Vanda Roxburghii</bot> 20 MW 15 -> <bot>Vanda Roxburghii</bot>
+1325 <bot>Vangueira spinosa</bot> 1 MW 0 -> <bot>Vangueira spinosa</bot>
+1326 <bot>Vangueria spinasa</bot> 1 MW 0 -> <bot>Vangueria spinasa</bot>
+1327 <bot>Vangueria spinosa</bot> 15 MW 7 -> <bot>Vangueria spinosa</bot>
+1328 <bot>Vanguerta spinosa</bot> 1 MW 0 -> <bot>Vanguerta spinosa</bot>
+1329 <bot>Vanguiera spinosa Roxb.</bot> 1 MW 0 -> <bot>Vanguiera spinosa Roxb.</bot>
+1330 <bot>Vanguiera spinosa</bot> 11 MW 0 -> <bot>Vanguiera spinosa</bot>
+1331 <bot>Vanguierd spinosa</bot> 1 MW 0 -> <bot>Vanguierd spinosa</bot>
+1332 <bot>Vatica robusta W. u. A.</bot> 2 MW 0 -> <bot>Vatica robusta W. u. A.</bot>
+1333 <bot>Vatica robusta</bot> 35 MW 3 -> <bot>Vatica robusta</bot>
+1334 <bot>Ventilago madraspatana</bot> 1 MW 0 -> <bot>Ventilago madraspatana</bot>
+1335 <bot>Verbesina prostrata.</bot> 1 MW 0 -> <bot>Verbesina prostrata.</bot>
+1336 <bot>Verbesina scandens Roxb.</bot> 1 MW 0 -> <bot>Verbesina scandens Roxb.</bot>
+1337 <bot>Verbesina scandens</bot> 2 MW 0 -> <bot>Verbesina scandens</bot>
+1338 <bot>Vernonia anthelminthica Willd.</bot> 1 MW 0 -> <bot>Vernonia anthelminthica Willd.</bot>
+1339 <bot>Vernonia anthelminthica</bot> 33 MW 10 -> <bot>Vernonia anthelminthica</bot>
+1340 <bot>Vespa solitaria</bot> 2 MW 1 -> <bot>Vespa solitaria</bot>
+1341 <bot>Villarsia cristata</bot> 2 MW 0 -> <bot>Villarsia cristata</bot>
+1342 <bot>Vitem Negundo</bot> 1 MW 0 -> <bot>Vitem Negundo</bot>
+1343 <bot>Viter Negundo</bot> 1 MW 0 -> <bot>Viter Negundo</bot>
+1344 <bot>Vitex alata Roxb.</bot> 1 MW 0 -> <bot>Vitex alata Roxb.</bot>
+1345 <bot>Vitex Negundo L.</bot> 1 MW 0 -> <bot>Vitex Negundo L.</bot>
+1346 <bot>Vitex negundo L.</bot> 1 MW 0 -> <bot>Vitex negundo L.</bot>
+1347 <bot>Vitex Negundo</bot> 30 MW 32 -> <bot>Vitex Negundo</bot>
+1348 <bot>vitex Negundo</bot> 1 MW 0 -> <bot>vitex Negundo</bot>
+1349 <bot>Vitex paniculata</bot> 1 MW 0 -> <bot>Vitex paniculata</bot>
+1350 <bot>Vitis pedata Wall.</bot> 1 MW 0 -> <bot>Vitis pedata Wall.</bot>
+1351 <bot>Vitis quadrangularis Wall.</bot> 1 MW 0 -> <bot>Vitis quadrangularis Wall.</bot>
+1352 <bot>Vitis quadrangularis</bot> 4 MW 0 -> <bot>Vitis quadrangularis</bot>
+1353 <bot>Vitoria ternatea</bot> 1 MW 0 -> <bot>Vitoria ternatea</bot>
+1354 <bot>Viverra ichmneumon</bot> 1 MW 0 -> <bot>Viverra ichmneumon</bot>
+1355 <bot>Viverra ichneumon</bot> 1 MW 0 -> <bot>Viverra ichneumon</bot>
+1356 <bot>Webera corymbosa</bot> 1 MW 0 -> <bot>Webera corymbosa</bot>
+1357 <bot>Wedelia calenduiacea</bot> 1 MW 0 -> <bot>Wedelia calenduiacea</bot>
+1358 <bot>Wedelia calendulacea</bot> 1 MW 1 -> <bot>Wedelia calendulacea</bot>
+1359 <bot>Wightia antidysanterica</bot> 1 MW 0 -> <bot>Wightia antidysanterica</bot>
+1360 <bot>Wrighia antidysenterica</bot> 1 MW 0 -> <bot>Wrighia antidysenterica</bot>
+1361 <bot>Wrightia antidysenterica R. Br.</bot> 1 MW 0 -> <bot>Wrightia antidysenterica R. Br.</bot>
+1362 <bot>Wrightia antidysenterica</bot> 39 MW 17 -> <bot>Wrightia antidysenterica</bot>
+1363 <bot>Wrightia antidytsenterica</bot> 1 MW 0 -> <bot>Wrightia antidytsenterica</bot>
+1364 <bot>Wrightia Sirissa</bot> 1 MW 0 -> <bot>Wrightia Sirissa</bot>
+1365 <bot>Wrigthia antidysenterica</bot> 2 MW 0 -> <bot>Wrigthia antidysenterica</bot>
+1366 <bot>Wrigtia antidysenterica</bot> 1 MW 0 -> <bot>Wrigtia antidysenterica</bot>
+1367 <bot>Xanthochymus pictorius</bot> 21 MW 13 -> <bot>Xanthochymus pictorius</bot>
+1368 <bot>Xanthophyllum virens</bot> 1 MW 1 -> <bot>Xanthophyllum virens</bot>
+1369 <bot>xanthorrhiza</bot> 4 MW 0 -> <bot>xanthorrhiza</bot>
+1370 <bot>Xanthoxylon alatum</bot> 1 MW 0 -> <bot>Xanthoxylon alatum</bot>
+1371 <bot>Xanthoxylon hastile</bot> 2 MW 0 -> <bot>Xanthoxylon hastile</bot>
+1372 <bot>Xanthoxylon Rhetsa</bot> 2 MW 0 -> <bot>Xanthoxylon Rhetsa</bot>
+1373 <bot>Xanthoxylum alatum</bot> 1 MW 0 -> <bot>Xanthoxylum alatum</bot>
+1374 <bot>Ximenia aegyptiaca</bot> 1 MW 0 -> <bot>Ximenia aegyptiaca</bot>
+1375 <bot>Xylocarpus granatum</bot> 4 MW 0 -> <bot>Xylocarpus granatum</bot>
+1376 <bot>Zanthoxylon alatum</bot> 1 MW 0 -> <bot>Zanthoxylon alatum</bot>
+1377 <bot>Zanthoxylon Rhetsa</bot> 2 MW 1 -> <bot>Zanthoxylon Rhetsa</bot>
+1378 <bot>Zerumbet</bot> 9 MW 6 -> <bot>Zerumbet</bot>
+1379 <bot>Zingiber Zerumbet</bot> 1 MW 1 -> <bot>Zingiber Zerumbet</bot>
+1380 <bot>Zizyphus Jujuba</bot> 13 MW 15 -> <bot>Zizyphus Jujuba</bot>
+1381 <bot>zizyphus Jujuba</bot> 1 MW 0 -> <bot>zizyphus Jujuba</bot>
+1382 <bot>Zizyphus jujuba</bot> 2 MW 0 -> <bot>Zizyphus jujuba</bot>
+1383 <bot>Zizyphus Oenoplia</bot> 1 MW 0 -> <bot>Zizyphus Oenoplia</bot>
+1384 <bot>Zizyphus scandens</bot> 1 MW 0 -> <bot>Zizyphus scandens</bot>
+1385 <bot>Zizyphus xylopyrus</bot> 1 MW 0 -> <bot>Zizyphus xylopyrus</bot>
+1386 <bot>Zizyphus</bot> 1 MW 3 -> <bot>Zizyphus</bot>
+1387 <bot>Zymplocos racemosa</bot> 1 MW 0 -> <bot>Zymplocos racemosa</bot>
