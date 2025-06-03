@@ -1,0 +1,88 @@
+issue84/readme.txt
+05-30-2025 begun ejf
+
+MBH. BOMBAY edition
+pdfs: /e/pdfwork/mbhbomb/pdfs (pages rotated)
+  There are 6 volumes:  mbhbomb1.pdf , ... , mbhbomb6.pdf  
+  Also mbhbomb_titular.pdf.
+  
+indexes:
+ index1_orig.txt, ..., index6_orig.txt
+ 
+Ref: https://github.com/sanskrit-lexicon/PWK/pwkissues/84
+
+This issue84 directory in local file system:
+cd /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue84
+
+----------------------------------------
+cd /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue84
+mkdir indexes
+cd indexes
+cp /e/pdfwork/mbhbomb/index?_orig.txt .
+
+# index_orig.txt
+# concatenate the indexes, make minor adjustments.
+cd /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue84
+python make_index_orig.py indexes index_orig.txt
+41 lines with non-empty remark
+6519 cases written to index_orig.txt
+
+# index.txt
+numerous adjustments (mostly for missing data ---)
+a few corrections
+
+python make_index.py index_orig.txt index.txt
+6519 cases written to index.txt
+
+----------------------------------------
+Format observations:
+vol.	page	parva	adhy.	from v.	to v.	ipage	optional-remark
+
+
+----------------------------------------
+index.txt changes
+
+python make_index.py index_orig.txt index.txt
+6518 Success: Page records read from index.txt
+
+
+----------------------------------------
+# construct index.js, and check for internal consistencies
+
+python make_js_index.py index.txt index.js
+72 Success: Page records read from index.txt
+
+Note title line of index.txt does not contribute to index.js
+
+----------------------------------------
+ preliminary check of pwg links
+ 5 Checks succeeded.  See readme_checks.txt
+
+----------------------------------------
+'ready for repo' message in https://github.com/sanskrit-lexicon/PWG/issues/149
+----------------------------------------
+
+----------------------------------------
+ADDITIONAL STEPS   NOT YET DONE -- THESE NOTES TO BE REVISED.
+
+app construction.
+2 apps needed:  see readme_app.txt
+app1 -- (shloka)
+app0 -- ipage
+app2 -- ipage, linenum
+app3 -- anka,shloka  (for MW only)
+
+----------------------------------------
+modify basicadjust.php for pwg, pw, pwkvn, sch, mw
+see readme_websanlexicon.txt
+
+----------------------------------------
+checks of links from dictionaries
+see readme_checks.txt  (one NOT FOUND).
+
+sync to github:  csl-websanlexicon, csl-apidev, csl-orig, csl-corrections
+pull github to cologne server
+regenerate displays for pwg, pw, pwkvn, sch, mw
+=============================================================
+THE END
+

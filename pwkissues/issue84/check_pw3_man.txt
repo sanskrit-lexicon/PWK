@@ -1,0 +1,29 @@
+key (1, 71, 24): 1	201	1	71	21	38	95b
+L= 221916, hw= sudurDarza, pc=7-383-a
+check: ok
+----------------------------------------------
+
+key (1, 109, 23): 1	285	1	109	14	26	137b
+L= 218782, hw= nirvacana, pc=7-353-b
+check: ok
+----------------------------------------------
+
+key (3, 99, 53): 2	221	3	99	36	57	105b
+L= 201491, hw= AkarRadeSAntam, pc=1-296-c
+check: ok
+----------------------------------------------
+
+key (5, 63, 8): 3	285	5	63	5	20	78b
+L= 202140, hw= anaritra, pc=2-288-c
+check: not found {%ohne Ruder%} [without rudder] <ls>MBH. 5,63,8</ls>, <ab>v. l.</ab>
+  Also in sch
+  in verse 7 'ataritra'  (MW rudderless)
+  compare: pwg, mw taritra
+     https://sanskrit-lexicon-scans.github.io/mbhcalc/?5.2436
+----------------------------------------------
+
+key (7, 188, 8): 4	391	7	188	1	21	190b
+L= 221245, hw= vizaktatva, pc=7-375-d
+check: ok
+----------------------------------------------
+
