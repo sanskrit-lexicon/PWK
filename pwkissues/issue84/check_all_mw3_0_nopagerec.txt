@@ -1,0 +1,90 @@
+key (1, 11, 15): pagerec not found
+L= 76735, hw= jan, pc=410,1
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=410,1
+----------------------------------------------
+
+key (1, 21, 88): pagerec not found
+L= 26002, hw= Artimat, pc=149,2
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=149,2
+----------------------------------------------
+
+key (1, 36, 38): pagerec not found
+L= 74508, hw= cIvara, pc=399,3
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=399,3
+----------------------------------------------
+
+key (1, 40, 53): pagerec not found
+L= 59033, hw= kzantavya, pc=326,2
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=326,2
+----------------------------------------------
+
+key (1, 59, 21): pagerec not found
+L= 58231, hw= kruD, pc=322,1
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=322,1
+----------------------------------------------
+
+key (1, 803, 8237): pagerec not found
+L= 20049, hw= aSvasena, pc=115,3
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=115,3
+----------------------------------------------
+
+key (2, 53, 2): pagerec not found
+L= 46928, hw= kAMsyadohana, pc=266,3
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=266,3
+----------------------------------------------
+
+key (3, 6, 52): pagerec not found
+L= 104423, hw= nalopAKyAna, pc=530,2
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=530,2
+----------------------------------------------
+
+key (3, 11, 238): pagerec not found
+L= 226924, hw= saMsarga, pc=1120,1
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=1120,1
+----------------------------------------------
+
+key (3, 100, 75): pagerec not found
+L= 222597, hw= SrAvaRa, pc=1097,1
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=1097,1
+----------------------------------------------
+
+key (3, 1657, 16215): pagerec not found
+L= 22275, hw= Akara, pc=127,3
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=127,3
+----------------------------------------------
+
+key (5, 4622, 4627): pagerec not found
+L= 93279, hw= dIrRa, pc=482,3
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=482,3
+----------------------------------------------
+
+key (6, 144, 146): pagerec not found
+L= 93278, hw= dIrRa, pc=482,3
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=482,3
+----------------------------------------------
+
+key (8, 3384, 1): pagerec not found
+L= 70640, hw= cakz, pc=381,3
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=381,3
+----------------------------------------------
+
+key (13, 94, 91): pagerec not found
+L= 46915, hw= kAMsya, pc=266,2
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=266,2
+----------------------------------------------
+

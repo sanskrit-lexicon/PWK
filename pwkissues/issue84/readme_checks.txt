@@ -118,7 +118,7 @@ NOT FOUND.  low print quality. NÄ«lak. zu MBH.
 
 
 =====================================================
-generate all
+pw generate all
 
 python generate_random.py ALL pw3 temp_pw.txt index.txt check_all_pw3_0.txt check_all_pw3_0_nopagerec.txt
 
@@ -134,6 +134,31 @@ get_examples: 68 pagerecs not found
 
 cp pw.txt pw1.txt
 # make manual changes to pw1.txt for the 19.
+97934 : vanajapattrAkza : (1,17,43)   : (1,171,43)
+105868 : vihewaka       : (1,20,76)   : (1,3076)
+72767 : pramARAyAmatas  : (1,22,31)   : (1,222,31)
+72767 : pramARAyAmatas  : (1,22,31)   : (1,222,31)
+79806 : Bid             : (2,24,83)   : (2,2483)
+24001 : kanapa          : (2,30,34)   : (3,20,34)
+20257 : upahvara        : (2,165,5)   : (3,165,5)
+99469 : vasuDArA        : (3,2000,41) : (3,200,41)
+20071 : upaSruti        : (5,14,26)   : (5,13,26)
+117928 : saYj           : (5,45,72)   : (6,45,72)
+44998 : talanizpeza     : (5,448,52)  : (5,48,52)
+28461 : kuRqala         : (6,6,63)    : (6,9,63)
+64793 : paryAya         : (6,37,45)   : (6,3745)
+92561 : raTayoDa        : (8,117,55)  : (6,117,55)
+90760 : yAdavIputra     : (12,96,71)  : (12,69,71)
+55351 : DAv             : (12,380,45) : (12,280,45) 
+106757 : vfzalayAjaka   : (13,200,6)  : (13,200,7)
+117746 : sacakropaskara : (14,79,156) : (14,79,15)
+39232  : car            : (18,3,45)   : (18,3,15)
+
+# change file pw -> pw1
+python diff_to_changes_dict.py temp_pw.txt temp_pw1.txt change_pw_pw1.txt
+19 changes written to change_pw_pw1.txt
+NOTE: These are all typos
+
 
 # rerun, using temp_pw1.txt
 
@@ -142,8 +167,63 @@ python generate_random.py ALL pw3 temp_pw1.txt index.txt check_all_pw3_1.txt che
 
 All in this random sample checked.
 
+=====================================================
+pw generate all using MBH. ed. Bomb.
 
----------------------------------
+python generate_random.py ALL pw3a temp_pw.txt index.txt check_all_pw3a_0.txt check_all_pw3a_0_nopagerec.txt
+
+regex_raw = <ls>MBH. ed. Bomb. ([0-9]+),([0-9]+),([0-9]+)
+found 9 instances in kosha
+found 9 distinct in kosha
+write_examples: 9 written to check_all_pw3a_0.txt
+write_examples: 1 written to check_all_pw3a_0_nopagerec.txt
+
+One pagerec not found: 6,21,21 dASat
+Others ok (but some are indirect) 
+
+=====================================================
+ changes from AB
+ Ref: https://github.com/sanskrit-lexicon/PWK/issues/84#issuecomment-2945143071
+L-27585 : kASyapadvIpa:  <ls>MBH. 6,6</ls> : <ls>MBH. 6,6,55</ls> ;;print_change
+L-114323 : SESupAli : <ls>MBH. 254,6</ls> : <ls>MBH. 3,254,16</ls> ;;print_change
+L-123397 : sAMsa : <ls>MBH. 6,6</ls> : <ls>MBH. 6,64</ls> ;;print_change
+  (also fehlerhaft für {#sAMsa#} : fehlerhaft für {#mAMsa#} ;; typo
+L-130874 : sTA : <ls>MBH. 6,9</ls> : <ls>MBH. 6,93</ls> ;;print_change
+
+L-220999 : vas : <ls>MBH. 13,4</ls>. <ls n="MBH. 13,">10</ls> : <ls>MBH. 13,4,10</ls> ;;typo
+
+cp temp_pw1.txt temp_pw2.txt
+
+python diff_to_changes_dict.py temp_pw1.txt temp_pw2.txt change_pw1_pw2.txt
+5 changes written to change_pw1_pw2.txt
+
+
+-------------
+install temp_pw2.txt
+cp temp_pw2.txt /c/xampp/htdocs/cologne/csl-orig/v02/pw/pw.txt
+cd /c/xampp/htdocs/cologne/csl-orig/v02
+git add .
+git commit -m "PW: misc changes re mbhbomb.
+Ref: https://github.com/sanskrit-lexicon/PWK/issues/84"
+git push
+
+# Also update csl-corrections/dictionaries/pw/pw_printchange.txt
+
+# return to this directory
+cd /c/xampp/htdocs/sanskrit-lexicon/pwk/pwkissues/issue84
+=====================================================
+index_AB.txt  see readme.txt  A revision of index_orig.txt by AB.
+
+
+=====================================================
+mw generate all
+
+python generate_random.py ALL mw3 temp_mw.txt index.txt check_all_mw3_0.txt check_all_mw3_0_nopagerec.txt
+regex_raw = <ls>MBh. ([vix]+), *([0-9]+), *([0-9]+)
+found 232 instances in kosha
+found 219 distinct in kosha
+write_examples: 232 written to check_all_mw3_0.txt
+write_examples: 15 written to check_all_mw3_0_nopagerec.txt
 
 
 ---------------------------------

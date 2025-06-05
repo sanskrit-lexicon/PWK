@@ -1,0 +1,95 @@
+; <L>20071<pc>1-245-b<k1>upaSruti<k2>u/paSruti
+77612 old <div n="2">— f〉 <ab>N. pr.</ab> einer Göttin, die Verborgenes enthüllt, <ls>MBH. 5,14,26. 27</ls>.
+;
+77612 new <div n="2">— f〉 <ab>N. pr.</ab> einer Göttin, die Verborgenes enthüllt, <ls>MBH. 5,13,26. 27</ls>.
+;---------------------------------------------------
+; <L>20257<pc>1-247-b<k1>upahvara<k2>upahvara/
+78324 old <div n="2">— b〉 {%Nähe%}. Nur {#°re#} {%in der Nähe, nahebei%} <ls>MBH. 2,165,5. 12,29,68. 15,5,7</ls>.
+;
+78324 new <div n="2">— b〉 {%Nähe%}. Nur {#°re#} {%in der Nähe, nahebei%} <ls>MBH. 3,165,5. 12,29,68. 15,5,7</ls>.
+;---------------------------------------------------
+; <L>24001<pc>2-012-a<k1>kanapa<k2>kanapa
+93402 old <div n="1">— 1〉 = {#kaRapa#} <ls>MBH. 2,30,34</ls>.
+;
+93402 new <div n="1">— 1〉 = {#kaRapa#} <ls>MBH. 3,20,34</ls>.
+;---------------------------------------------------
+; <L>28461<pc>2-073-a<k1>kuRqala<k2>kuRqala
+112698 old <div n="3">— β〉 <ab>Pl.</ab> eines Volkes <ls>MBH. 6,6,63</ls>. {#kuRWaka#} <ab>v. l.</ab>
+;
+112698 new <div n="3">— β〉 <ab>Pl.</ab> eines Volkes <ls>MBH. 6,9,63</ls>. {#kuRWaka#} <ab>v. l.</ab>
+;---------------------------------------------------
+; <L>36426<pc>2-178-c<k1>gokarRaSiTila<k2>gokarRaSiTila
+146465 old {#gokarRaSiTila#}¦ <lex>Adj.</lex> {%wie Kuhohren unstät,%} so <ab>v. a.</ab> {%sowohl auf die Seite Dieses, als auch auf die Jenes sich neigend%} (von einem Zeugen) <ls>MBH. 2,8,75</ls>.
+;
+146465 new {#gokarRaSiTila#}¦ <lex>Adj.</lex> {%wie Kuhohren unstät,%} so <ab>v. a.</ab> {%sowohl auf die Seite Dieses, als auch auf die Jenes sich neigend%} (von einem Zeugen) <ls>MBH. 2,68,75</ls>.
+;---------------------------------------------------
+; <L>39232<pc>2-216-a<k1>car<k2>car
+158650 old <div n="1">— 2〉 {%hinzutreten zu Jmd%} (<ab>Acc.</ab>) {%um zu bedienen, Jmd an die Hand gehen, bedienen%} (<ls>KĀD. 44,9</ls>), {%aufwarten, — mit%} (<ab>Instr.</ab>) etwas Gutem oder Bösem <ls>MBH. 18,3,45</ls>.
+;
+158650 new <div n="1">— 2〉 {%hinzutreten zu Jmd%} (<ab>Acc.</ab>) {%um zu bedienen, Jmd an die Hand gehen, bedienen%} (<ls>KĀD. 44,9</ls>), {%aufwarten, — mit%} (<ab>Instr.</ab>) etwas Gutem oder Bösem <ls>MBH. 18,3,15</ls>.
+;---------------------------------------------------
+; <L>44998<pc>3-018-b<k1>talanizpeza<k2>talanizpeza
+184553 old {#talanizpeza#}¦ <lex>m.</lex> {%das Anprallen%} (der Bogensehne) [Page3-018-c] {%an%} {#tala#} 3〉 <ls>MBH. 5,448,52</ls>.
+;
+184553 new {#talanizpeza#}¦ <lex>m.</lex> {%das Anprallen%} (der Bogensehne) [Page3-018-c] {%an%} {#tala#} 3〉 <ls>MBH. 5,48,52</ls>.
+;---------------------------------------------------
+; <L>55351<pc>3-159-c<k1>DAv<k2>DAv<h>1
+227457 old <div n="1">— 3〉 {%hinlaufen zu,%} so <ab>v. a.</ab> {%gelangen zu%} (<ab>Acc.</ab>) <ls>MBH. 12,380,45</ls>.
+;
+227457 new <div n="1">— 3〉 {%hinlaufen zu,%} so <ab>v. a.</ab> {%gelangen zu%} (<ab>Acc.</ab>) <ls>MBH. 12,280,45</ls>.
+;---------------------------------------------------
+; <L>64793<pc>4-052-b<k1>paryAya<k2>paryAya
+267270 old <div n="1">— 14〉 *{%Bildung, Schöpfung%}. <ls>MBH. 6,37,45</ls>. Fehlerhaft für {#anaya#}, wie <ls>MBH. ed. Bomb. 6,84,50</ls> und <ls>MBH. ed. Vardh. 6,81,50</ls>. lesen.
+;
+267270 new <div n="1">— 14〉 *{%Bildung, Schöpfung%}. <ls>MBH. 6,3745</ls>. Fehlerhaft für {#anaya#}, wie <ls>MBH. ed. Bomb. 6,84,50</ls> und <ls>MBH. ed. Vardh. 6,81,50</ls>. lesen.
+;---------------------------------------------------
+; <L>72767<pc>4-164-a<k1>pramARAyAmatas<k2>pramARAyAmatas
+299676 old {#pramARAyAmatas#}¦ <lex>Adv.</lex> {%dem Umfange und der Länge nach%} <ls>MBH. 1,22,31</ls>.
+;
+299676 new {#pramARAyAmatas#}¦ <lex>Adv.</lex> {%dem Umfange und der Länge nach%} <ls>MBH. 1,222,31</ls>.
+;---------------------------------------------------
+; <L>79806<pc>4-266-a<k1>Bid<k2>Bid<h>1
+329252 old <div n="1">— 2〉 <ab>Pass.</ab> {%sich öffnen%}. — {#ko 'nuBindyAt#} <ls>MBH. 2,24,83</ls> fehlerhaft für {#ko nu Bi°#}.
+;
+329252 new <div n="1">— 2〉 <ab>Pass.</ab> {%sich öffnen%}. — {#ko 'nuBindyAt#} <ls>MBH. 2,2483</ls> fehlerhaft für {#ko nu Bi°#}.
+;---------------------------------------------------
+; <L>90760<pc>5-138-c<k1>yAdavIputra<k2>yAdavIputra
+375777 old {#yAdavIputra#}¦ <lex>m.</lex> <ab>Metron.</ab> <is>Yudhiṣṭhira</is>ʼs <ls>MBH. 12,96,71</ls>.
+;
+375777 new {#yAdavIputra#}¦ <lex>m.</lex> <ab>Metron.</ab> <is>Yudhiṣṭhira</is>ʼs <ls>MBH. 12,69,71</ls>.
+;---------------------------------------------------
+; <L>92561<pc>5-167-a<k1>raTayoDa<k2>raTayoDa
+383477 old {#raTayoDa#}¦ <lex>m.</lex> {%ein Kämpfer zu Wagen%} <ls>MBH. 8,117,55</ls>.
+;
+383477 new {#raTayoDa#}¦ <lex>m.</lex> {%ein Kämpfer zu Wagen%} <ls>MBH. 6,117,55</ls>.
+;---------------------------------------------------
+; <L>97934<pc>6-014-a<k1>vanajapattrAkza<k2>vanajapattrAkza
+407486 old {#vanajapattrAkza#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#I#}) {%lotusäugig%} <ls>MBH. 1,17,43</ls>.
+;
+407486 new {#vanajapattrAkza#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#I#}) {%lotusäugig%} <ls>MBH. 1,171,43</ls>.
+;---------------------------------------------------
+; <L>99469<pc>6-046-c<k1>vasuDArA<k2>vasuDArA<h>2
+415503 old <hom>2.</hom> {#vasuDArA#}¦ <lex>f.</lex> {%ein Strom von Gütern, — Gaben%} <ls>MBH. 15,14,11</ls>. <ls>HARṢAC. 102,17</ls>. <ls>HEM. PAR. 1,426</ls>. <ab>Vgl.</ab> {#DArAM vasUnAm#} <ls>MBH. 3,2000,41</ls> und {#va/sorDA/rA#} unter <hom>1.</hom> {#va/su#} 5〉a〉.
+;
+415503 new <hom>2.</hom> {#vasuDArA#}¦ <lex>f.</lex> {%ein Strom von Gütern, — Gaben%} <ls>MBH. 15,14,11</ls>. <ls>HARṢAC. 102,17</ls>. <ls>HEM. PAR. 1,426</ls>. <ab>Vgl.</ab> {#DArAM vasUnAm#} <ls>MBH. 3,200,41</ls> und {#va/sorDA/rA#} unter <hom>1.</hom> {#va/su#} 5〉a〉.
+;---------------------------------------------------
+; <L>105868<pc>6-142-a<k1>vihewaka<k2>vihewaka
+442589 old {#vihewaka#}¦ <ls>MBH. 1,20,76</ls> fehlerhaft für {#viheWaka#}.
+;
+442589 new {#vihewaka#}¦ <ls>MBH. 1,3076</ls> fehlerhaft für {#viheWaka#}.
+;---------------------------------------------------
+; <L>106757<pc>6-154-a<k1>vfzalayAjaka<k2>vfzalayAjaka
+446203 old {#vfzalayAjaka#}¦ <lex>Adj.</lex> {%der für einen%} <is>Śūdra</is> {%opfert%} <ls>MBH. 13,200,6</ls>.
+;
+446203 new {#vfzalayAjaka#}¦ <lex>Adj.</lex> {%der für einen%} <is>Śūdra</is> {%opfert%} <ls>MBH. 13,200,7</ls>.
+;---------------------------------------------------
+; <L>117746<pc>7-021-c<k1>sacakropaskara<k2>sacakropaskara
+492048 old {#sacakropaskara#}¦ <lex>Adj.</lex> {%mit Rädern und Zubehör%} <ls>MBH. 14,79,156</ls>. Passender wäre {#su°#}.
+;
+492048 new {#sacakropaskara#}¦ <lex>Adj.</lex> {%mit Rädern und Zubehör%} <ls>MBH. 14,79,15</ls>. Passender wäre {#su°#}.
+;---------------------------------------------------
+; <L>117928<pc>7-024-a<k1>saYj<k2>saYj
+492901 old <div n="2">— c〉 {%Jmd%} (<ab>Acc.</ab>) {%angreifen%}. <ab>Perf.</ab> {#saMsajjatus#} <ls>MBH. 5,45,72</ls>.
+;
+492901 new <div n="2">— c〉 {%Jmd%} (<ab>Acc.</ab>) {%angreifen%}. <ab>Perf.</ab> {#saMsajjatus#} <ls>MBH. 6,45,72</ls>.
+;---------------------------------------------------

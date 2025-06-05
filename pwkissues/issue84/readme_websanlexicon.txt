@@ -1,22 +1,27 @@
 
 =================================================
-activating links to malavikagni app1 
+activating links to mbhbomb app1 
 =================================================
-/c/xampp/htdocs/sanskrit-lexicon-scans/malavikagni
+/c/xampp/htdocs/sanskrit-lexicon-scans/mbhbomb
 local urls:
-localhost/sanskrit-lexicon-scans/malavikagni/app1/?N,N
+localhost/sanskrit-lexicon-scans/mbhbomb/app1/?N,N
 
 Github url:
-https://sanskrit-lexicon-scans.github.io/malavikagni/app1/?N,N
+https://sanskrit-lexicon-scans.github.io/mbhbomb/app1/?N,N
 
-https://sanskrit-lexicon-scans.github.io/malavikagni/
+https://sanskrit-lexicon-scans.github.io/mbhbomb/
 shows README.md  (with markdown converted to html)
 # link abbreviations in xxxauth.txt
-pwg MĀLAV.
-pw  MĀLAV.
-pwkvn MĀLAV.
-sch Mālav.
-mw  Mālav.
+
+3-parameter references 
+pwg MBH. 
+pw  MBH. N,N,N : 3471 
+pw  MBH. ed. Bomb. N,N,N : 9
+pwkvn MBH. 
+sch Mbh.
+mw  MBh. R,N,N : 232
+mw  MBh. (ed. Bomb.) N,N,N : 2
+mw  MBh. (ed. Bombay) N,N,N : 1
 
 # -------------------
 

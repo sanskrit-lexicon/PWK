@@ -50,20 +50,30 @@ python make_index.py index_orig.txt index.txt
 # construct index.js, and check for internal consistencies
 
 python make_js_index.py index.txt index.js
-72 Success: Page records read from index.txt
+6518 Success: Page records read from index.txt
 
 Note title line of index.txt does not contribute to index.js
 
-----------------------------------------
  preliminary check of pwg links
  5 Checks succeeded.  See readme_checks.txt
 
 ----------------------------------------
 'ready for repo' message in https://github.com/sanskrit-lexicon/PWG/issues/149
 ----------------------------------------
+index_AB.txt
+https://github.com/sanskrit-lexicon/PWK/issues/84#issuecomment-2943060552
 
+python make_js_index.py index_AB.txt index_AB.js
+6529 Success: Page records read from index_AB.txt
+
+diff index.js index_AB.js | wc -l
+781
+
+Note: In construction of app1, use index_AB.txt.
+  See readme_app.txt
+  
 ----------------------------------------
-ADDITIONAL STEPS   NOT YET DONE -- THESE NOTES TO BE REVISED.
+ADDITIONAL STEPS   
 
 app construction.
 2 apps needed:  see readme_app.txt

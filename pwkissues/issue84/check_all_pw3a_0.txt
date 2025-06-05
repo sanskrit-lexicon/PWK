@@ -1,0 +1,50 @@
+key (5, 124, 24): 3	369	5	124	21	43	120b
+L= 74060, hw= prAYc, pc=4-183-a
+check: ok prAk
+----------------------------------------------
+
+key (6, 16, 12): 3	535	6	16	9	27	19b
+L= 56037, hw= DvajAroha, pc=3-170-c
+check: ok.
+ {#gajArohAH#} (fehlerhaft) <ls>MBH. ed. Bomb. 6,16,12</ls>.
+ gajArohAH found
+----------------------------------------------
+
+key (6, 21, 21): pagerec not found.  NOT a typo
+L= 49925, hw= dASat, pc=3-084-c
+check: NOT FOUND
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=PW&page=3-084-c
+----------------------------------------------
+
+key (6, 54, 54): 3	725	6	54	37	57	114b
+L= 64409, hw= paristoma, pc=4-047-a
+check: ok
+----------------------------------------------
+
+key (6, 84, 50): 3	786	6	84	33	55	145a
+L= 64793, hw= paryAya, pc=4-052-b
+check: NOT FOUND
+----------------------------------------------
+
+key (7, 175, 108): 4	365	7	175	106	114	177b
+L= 70378, hw= prakza, pc=4-129-c
+check: ok prekzya
+  fehlerhaft; Mbh. ed. Bomb. 7,175,108 liest nagarāḍiva duṣprekṣyaḥ 
+  ed. Vardh. 106 . nāgarāḍiva na prakhyaḥ.
+----------------------------------------------
+
+key (12, 25, 8): 5	144	12	25	7	21	23a
+L= 68729, hw= puzpy, pc=4-107-c
+check: ok, probably ok,  but complicated
+----------------------------------------------
+
+key (12, 105, 10): 5	309	12	105	1	13	105b
+L= 70462, hw= pragrahaRa, pc=4-131-a
+check: ok ca grahaṇaṃ gataḥ st. pragra° Mbh. ed. Bomb. 12,105,10. 
+----------------------------------------------
+
+key (12, 261, 38): 5	682	12	261	19	42	123a
+L= 72422, hw= pranIqa, pc=4-158-c
+check: ok pralIna
+----------------------------------------------
+

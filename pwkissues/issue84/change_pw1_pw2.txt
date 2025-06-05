@@ -1,0 +1,25 @@
+; <L>27585<pc>2-062-b<k1>kASyapadvIpa<k2>kASyapadvIpa
+109037 old {#kASyapadvIpa#}¦ <lex>m.</lex> <ab>N. pr.</ab> eines <is>Dvīpa</is> <ls>MBH. 6,6</ls>.
+;
+109037 new {#kASyapadvIpa#}¦ <lex>m.</lex> <ab>N. pr.</ab> eines <is>Dvīpa</is> <ls>MBH. 6,6,55</ls>.
+;---------------------------------------------------
+; <L>114323<pc>6-261-b<k1>SESupAli<k2>SESupAli
+477828 old {#SESupAli#}¦ <lex>m.</lex> <ab>Patron.</ab> von {#SiSupAla#} <ls>MBH. 254,6</ls>.
+;
+477828 new {#SESupAli#}¦ <lex>m.</lex> <ab>Patron.</ab> von {#SiSupAla#} <ls>MBH. 3,254,16</ls>.
+;---------------------------------------------------
+; <L>123397<pc>7-107-a<k1>sAMsa<k2>sAMsa
+514789 old {#sAMsa#}¦ <ls>MBH. 6,6</ls> fehlerhaft für {#sAMsa#}.
+;
+514789 new {#sAMsa#}¦ <ls>MBH. 6,64</ls> fehlerhaft für {#mAMsa#}.
+;---------------------------------------------------
+; <L>130874<pc>7-207-a<k1>sTA<k2>sTA<h>1
+545780 old <div n="2">— s〉 {#saMsTitA#} <ls>MBH. 6,9</ls> fehlerhaft für {#saMprati#}.
+;
+545780 new <div n="2">— s〉 {#saMsTitA#} <ls>MBH. 6,93</ls> fehlerhaft für {#saMprati#}.
+;---------------------------------------------------
+; <L>220999<pc>7-373-a<k1>vas<k2>vas<h>5
+638128 old <hom>5.</hom> √{#vas#}¦ VI. <ab>Aor.</ab> {#avAksam#} (so alle [Page7-373-b] <ab>Hdschrr.</ab> nach <ls>AUFRECHT</ls>) <ls>AIT. BR. 1,28,16</ls> im Wortspiel mit {#vAk#} <ab>st.</ab> {#avAtsam#} (so <ls>HAUG</ls>). 2〉 mit <ab>Acc.</ab> des Weibes <ls>MBH. 13,4</ls>. <ls n="MBH. 13,">10</ls>.
+;
+638128 new <hom>5.</hom> √{#vas#}¦ VI. <ab>Aor.</ab> {#avAksam#} (so alle [Page7-373-b] <ab>Hdschrr.</ab> nach <ls>AUFRECHT</ls>) <ls>AIT. BR. 1,28,16</ls> im Wortspiel mit {#vAk#} <ab>st.</ab> {#avAtsam#} (so <ls>HAUG</ls>). 2〉 mit <ab>Acc.</ab> des Weibes <ls>MBH. 13,4,10</ls>.
+;---------------------------------------------------

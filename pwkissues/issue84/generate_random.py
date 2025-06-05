@@ -67,7 +67,8 @@ def get_dict_key2(m,dictcode):
   exit(1)
 
 def get_dict_key3(m,dictcode):
- if dictcode in ('pwg3','pw3','pwkvn3','sch3'):
+ if dictcode in ('pwg3','pw3','pwkvn3','sch3',
+                 'pw3a'):
   a1 = int(m.group(1))
   a2 = int(m.group(2))
   a3 = int(m.group(3))
@@ -183,6 +184,8 @@ def set_pagerec_key(pagerecs,dictcode):
   elif dictcode.endswith('2'):
    set_pagerec_key2(rec,dictcode)
   elif dictcode.endswith('3'):
+   set_pagerec_key3(rec,dictcode)
+  elif dictcode.endswith('3a'):
    set_pagerec_key3(rec,dictcode)
   else:
    print('set_pagerec_key: invalid dictcode',dictcode)
@@ -314,6 +317,9 @@ def get_dict_regex(dictcode):
   'sch3':r'<ls>MBh. ([0-9]+),([0-9]+),([0-9]+)',
   'mw3':r'<ls>MBh. ([vix]+), *([0-9]+), *([0-9]+)',   # 
 
+  # alternate 3-parameters
+  'pw3a':r'<ls>MBH. ed. Bomb. ([0-9]+),([0-9]+),([0-9]+)',
+   
    }
  if dictcode not in d:
   print('get_dict_regex Error',dictcode)
