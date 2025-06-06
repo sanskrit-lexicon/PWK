@@ -932,8 +932,9 @@ vol	page	parva	adhy	from verse	to verse	ipage
 1	663	2	78	1	6	78b	
 1	664	2	78	7	24	79a	
 1	664	2	79	1	2	79a	
-1	664x	2	79	1	2	79b	remark=no scan
-1	664y	2	79	1	2	80a	remark=no scan
+1	664x	2	79	3	20	79b	remark=no scan
+1	664y	2	79	21	27	80a	remark=no scan
+1	664y	2	80	1	6	80a	remark=no scan
 1	665	2	80	7	29	80b	
 1	666	2	80	30	51	81a	
 1	667	2	80	52	52	81b	
@@ -3640,9 +3641,9 @@ vol	page	parva	adhy	from verse	to verse	ipage
 4	408	7	193	70	70	198b	
 4	408	7	194	1	15	198b	
 4	408	7	195	1	5	198b	
-4	408x	7	195	1	5	199a	remark=no scan
-4	408y	7	195	1	5	199b	remark=no scan
-4	408z	7	195	1	5	200a	remark=no scan
+4	408x	7	195	6	29	199a	remark=no scan
+4	408y	7	195	30	50	199b	remark=no scan
+4	408z	7	0	0	0	200a	remark=no scan
 4	409	7	196	1	23	200b	
 4	410	7	196	24	47	201a	
 4	411	7	196	48	53	201b	

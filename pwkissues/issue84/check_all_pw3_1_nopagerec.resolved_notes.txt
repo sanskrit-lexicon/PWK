@@ -1,0 +1,339 @@
+Summary  
+ 47  items
+ pc     34   print change
+ noscan 11
+ index   2
+ typo    1
+ 217978  : triveRa : triveRa : triveRu  pc (jim addition)
+
+* DONE 001
+TODO key (1,3,317): pagerec not found
+L= 208210, hw= atikaruRa, pc=6-293-a
+check: ?
+AB: (1,2,317) ;;print_change
+208210 : atikaruRa : MBH. 1,3,317 : MBH. 1,2,317 : pc
+----------------------------------------------
+* DONE 002
+TODO key (1,127,72): pagerec not found
+L= 57387, hw= nAgadanta, pc=3-189-c
+check: ?
+AB: (1,128,72) ;; print_change
+57387 : nAgadanta : MBH. 1,127,72 : MBH. 1,128,72 : pc
+
+* DONE 003
+TODO key (1,146,78): pagerec not found
+L= 21091, hw= UrDvagati, pc=1-257-b
+check: ?
+AB: (3,146,78) ;;print_change
+21091 : UrDvagati : MBH. 1,146,78 : MBH. 3,146,78 : pc
+----------------------------------------------
+* DONE 004
+TODO key (1,176,37): pagerec not found
+L= 208352, hw= anuvyAhfta, pc=6-294-c
+check: ?
+AB: (1,176,37) ;;index file correction
+208352 : anuvyAhfta : MBH. 1,176,37 : MBH. 1,176,37 : index
+----------------------------------------------
+* DONE 005
+TODO key (1,176,41): pagerec not found
+L= 109353, hw= Saktin, pc=6-193-a
+check: ?
+AB: (1,176,41) ;;index file correction
+109353 : Saktin : MBH. 1,176,41 : MBH. 1,176,41 : index
+----------------------------------------------
+* TOD? 006
+TODO key (1,191,27): pagerec not found
+L= 69288, hw= pUrvendra, pc=4-115-b
+check: ?
+AB: (1,196,27) ;;print_change  jim: 1,196,27 NOT IN INDEX
+69288 : pUrvendra : MBH. 1,191,27 : MBH. 1,196,27 : pc
+----------------------------------------------
+* DONE 007
+TODO key (1,269,21): pagerec not found
+L= 3145, hw= aDvaraga, pc=1-037-b
+check: ?
+AB: (3,269,21) ;;typo
+3145 : aDvaraga : MBH. 1,269,21 : MBH. 3,269,21 : typo
+----------------------------------------------
+* DONE 008
+TODO key (1,281,21): pagerec not found
+L= 9945, hw= alaBya, pc=1-117-b
+check: ?
+AB: (3,281,21) ;; print change VN entry at pwk-5 (ID=206471) [as such, no change required here (for now)].
+9945 : alaBya : MBH. 1,281,21 : MBH. 3,281,21 : pc
+----------------------------------------------
+* DONE 009
+TODO key (2,25,19): pagerec not found
+L= 7739, hw= aBisAra, pc=1-090-c
+check: ?
+AB: (2,27,19) ;;print_change
+7739 : aBisAra : MBH. 2,25,19 : MBH. 2,27,19 : pc
+----------------------------------------------
+* DONE 010
+TODO key (2,53,2): pagerec not found
+L= 25961, hw= kAMsyadohana, pc=2-041-c
+check: ?
+AB: (2,53,3) ;;page scan missed  print change
+25961 : kAMsyadohana : MBH. 2,53,2 : MBH. 2,53,3 : pc
+----------------------------------------------
+* DONE 011
+TODO key (2,53,9): pagerec not found
+L= 126279, hw= sutsaru, pc=7-146-b
+check: ?
+AB: (2,53,9) ;;page scan missed
+126279 : sutsaru : MBH. 2,53,9 : MBH. 2,53,9 : noscan
+----------------------------------------------
+* DONE 012
+TODO key (2,53,20): pagerec not found
+L= 135398, hw= hemavizARin, pc=7-283-b
+check: ?
+AB: (2,53,20) ;;page scan missed
+135398 : hemavizARin : MBH. 2,53,20 : MBH. 2,53,20 : noscan
+----------------------------------------------
+* DONE 013
+TODO key (2,54,2): pagerec not found
+L= 203448, hw= advizant, pc=3-248-c
+check: ?
+AB: (2,54,2) ;;page scan missed
+203448 : advizant : MBH. 2,54,2 : MBH. 2,54,2 : noscan
+----------------------------------------------
+* DONE 014
+TODO key (2,64,18): pagerec not found
+L= 23481, hw= kawuja, pc=2-005-c
+check: ?
+AB: (2,64,18) ;;page scan missed
+23481 : kawuja : MBH. 2,64,18 : MBH. 2,64,18 : noscan
+----------------------------------------------
+* DONE 015
+TODO key (2,64,18): pagerec not found
+L= 201355, hw= avyADija, pc=1-295-b
+check: ?
+AB: (2,64,18) ;;page scan missed
+201355 : avyADija : MBH. 2,64,18 : MBH. 2,64,18 : noscan
+----------------------------------------------
+* DONE 017
+TODO key (2,200,123): pagerec not found
+L= 84431, hw= mahADur, pc=5-045-a
+check: ?
+AB: (3,200,123) ;;print_change
+84431 : mahADur : MBH. 2,200,123 : MBH. 3,200,123 : pc
+----------------------------------------------
+* DONE 018
+TODO key (3,40,52): pagerec not found
+L= 99302, hw= vas, pc=6-043-a
+check: ?
+AB: (3,70,23) ;;print_change (has अध्यावासि, as in the pwk citation)
+99302 : vas : MBH. 3,40,52 : MBH. 3,70,23 : pc
+----------------------------------------------
+* DONE 019
+TODO key (3,82,185): pagerec not found
+L= 26655, hw= kAmAKya, pc=2-050-a
+check: ?
+AB: (3,82,105) ;;print_change
+26655 : kAmAKya : MBH. 3,82,185 : MBH. 3,82,105 : pc
+----------------------------------------------
+* DONE 020
+TODO key (3,140,62): pagerec not found
+L= 75625, hw= bakAlIna, pc=4-205-a
+check: ?
+AB: (12,140,62) ;;print_change
+75625 : bakAlIna : MBH. 3,140,62 : MBH. 12,140,62 : pc
+----------------------------------------------
+* DONE 021
+TODO key (3,166,41): pagerec not found
+L= 2575, hw= adButopama, pc=1-030-b
+check: ?
+AB: (3,167,41) ;;print_change
+2575 : adButopama : MBH. 3,166,41 : MBH. 3,167,41 : pc
+----------------------------------------------
+* DONE 022
+TODO key (4,57,14): pagerec not found
+L= 126732, hw= suparizkfta, pc=7-152-b
+check: ?
+AB: (4,57,40) ;;print_change ;;page scan missed
+126732 : suparizkfta : MBH. 4,57,14 : MBH. 4,57,40 : pc
+----------------------------------------------
+* DONE 023
+TODO key (4,57,37): pagerec not found
+L= 208968, hw= triveRa, pc=6-302-a
+check: ?
+AB: (4,57,37) ;;the entry (HW) has a print error, to be corrected as "triveRu"!
+208968 : triveRa : triveRa : triveRu : pc 
+217978   : triveRa : triveRa : triveRu : pc 
+
+----------------------------------------------
+* DONE 024
+TODO key (4,57,40): pagerec not found
+L= 71338, hw= pratimArga, pc=4-143-c
+check: ?
+AB: (4,57,40) ;;page scan missed
+71338 : pratimArga : MBH. 4,57,40 : MBH. 4,57,40 : noscan
+----------------------------------------------
+* DONE 025
+TODO key (4,72,22): pagerec not found
+L= 59846, hw= niSaWa, pc=3-222-c
+check: ?
+AB: (4,72,22) ;;page scan missed
+59846 : niSaWa : MBH. 4,72,22 : MBH. 4,72,22 : noscan
+----------------------------------------------
+* DONE 026
+TODO key (5,40,35): pagerec not found
+L= 756, hw= agrapradAyin, pc=1-009-c
+check: ?
+AB: (5,135,35) ;;print_change
+756 : agrapradAyin : MBH. 5,40,35 : MBH. 5,135,35 : pc
+----------------------------------------------
+* DONE 027
+TODO key (5,191,51): pagerec not found
+L= 58756, hw= nimezAntaracArin, pc=3-207-b
+check: ?
+AB: (5,192,51) ;;print_change
+58756 : nimezAntaracArin : MBH. 5,191,51 : MBH. 5,192,51 : pc
+----------------------------------------------
+* DONE 028
+TODO key (7,62,65): pagerec not found
+L= 49485, hw= dah, pc=3-077-a
+check: ?
+AB: (7,72,65) ;;print_change (has अधाक्षं, as in the pwk  citation)
+49485 : dah : MBH. 7,62,65 : MBH. 7,72,65 : pc
+----------------------------------------------
+* DONE 029
+TODO key (7,195,11): pagerec not found
+L= 102888, hw= viDarmaka, pc=6-096-b
+check: ?
+AB: (7,195,11) ;;page scan missed
+102888 : viDarmaka : MBH. 7,195,11 : MBH. 7,195,11 : noscan
+----------------------------------------------
+* DONE 030
+TODO key (7,211,17): pagerec not found
+L= 49485, hw= dah, pc=3-077-a
+check: ?
+AB: (12,211,17) ;;print_change (has उपदग्ध, as in the pwk citation)
+49485 : dah : MBH. 7,211,17 : MBH. 12,211,17 : pc
+----------------------------------------------
+* DONE 031
+TODO key (8,56,103): pagerec not found
+L= 215960, hw= kAdraveya, pc=7-331-b
+check: ?
+AB: (8,56,103) ;;page scan missed
+215960 : kAdraveya : MBH. 8,56,103 : MBH. 8,56,103 : noscan
+----------------------------------------------
+* DONE 032
+TODO key (8,78,67): pagerec not found
+L= 117279, hw= saketu, pc=7-013-c
+check: ?
+AB: (8,89,67) ;;print_change
+117279 : saketu : MBH. 8,78,67 : MBH. 8,89,67 : pc
+----------------------------------------------
+* DONE 033
+TODO key (8,78,67): pagerec not found
+L= 121387, hw= saraTa, pc=7-078-a
+check: ?
+AB: (8,89,67) ;;print_change
+121387 : saraTa : MBH. 8,78,67 : MBH. 8,89,67 : pc
+----------------------------------------------
+* DONE 034
+TODO key (8,82,31): pagerec not found
+L= 104497, hw= viS, pc=6-120-a
+check: ?
+AB: (8,82,31) ;;page scan missed (has अभिनिविष्ट, as in the pwk  citation)
+104497 : viS : MBH. 8,82,31 : MBH. 8,82,31 : noscan How does AB know this?
+----------------------------------------------
+* DONE 035
+TODO key (8,86,23): pagerec not found
+L= 220755, hw= raTAgratas, pc=7-370-d
+check: ?
+AB: (8,86,23) ;;page scan missed
+220755 : raTAgratas : MBH. 8,86,23 : MBH. 8,86,23 : noscan
+----------------------------------------------
+* DONE 036
+TODO key (11,262,36): pagerec not found
+L= 60490, hw= nihnava, pc=3-231-a
+check: ?
+AB: (12,262,36) ;;print_change
+60490 : nihnava : MBH. 11,262,36 : MBH. 12,262,36 : pc
+----------------------------------------------
+* DONE 037
+TODO key (12,94,15): pagerec not found
+L= 203457, hw= aDarmasaMgara, pc=3-249-a
+check: ?
+AB: (12,95,15) ;;print_change
+203457 : aDarmasaMgara : MBH. 12,94,15 : MBH. 12,95,15 : pc
+----------------------------------------------
+* DONE 038
+TODO key (12,98,58): pagerec not found
+L= 61167, hw= nEkamAya, pc=3-241-b
+check: ?
+AB: (12,98,50) ;;print_change
+61167 : nEkamAya : MBH. 12,98,58 : MBH. 12,98,50 : pc
+----------------------------------------------
+* DONE 039
+TODO key (12,137,64): pagerec not found
+L= 17429, hw= Ikz, pc=1-211-a
+check: ?
+AB: (12,138,64)  ;;print_change (has न्यवेक्ष्य, as in the pwk  citation)
+17429 : Ikz : MBH. 12,137,64 : MBH. 12,138,64 : pc
+----------------------------------------------
+* DONE 040
+TODO key (12,159,18): pagerec not found
+L= 206626, hw= avisaMvAda, pc=5-247-b
+check: ?
+AB: (12,259,11) ;;print_change
+206626 : avisaMvAda : MBH. 12,159,18 : MBH. 12,259,11 : pc
+----------------------------------------------
+* DONE 041
+TODO key (12,173,58): pagerec not found
+L= 51027, hw= durAsada, pc=3-100-a
+check: ?
+AB: (5,175,28) ;;print_change
+51027 : durAsada : MBH. 12,173,58 : MBH. 5,175,28 : pc How does AB know this?
+----------------------------------------------
+* DONE 042
+TODO key (12,338,60): pagerec not found
+L= 201996, hw= atikfcCra, pc=2-287-a
+check: ?
+AB: (12,338,3) ;;(12,338,3.[1]60) ::: p.952, line 5 (160th name out of the 200 names listed);; this long text (after v.3) is kind of a daṇḍaka, and is at 12,12864 (Calc. ed.) ;; jim:  तिकृच्छ्र is at page 50952
+201996 : atikfcCra : MBH. 12,338,60 : MBH. 12,338,3 : pc
+----------------------------------------------
+* DONE 043
+TODO key (13,3,30): pagerec not found
+L= 69301, hw= pUrvopapanna, pc=4-115-c
+check: ?
+AB: (13,4,30) ;;print_change
+69301 : pUrvopapanna : MBH. 13,3,30 : MBH. 13,4,30 : pc
+----------------------------------------------
+* DONE 044
+TODO key (13,13,53): pagerec not found
+L= 92727, hw= ram, pc=5-169-c
+check: ?
+AB: (13,12,53) ;;print_change (has रमित, as in the pwk  citation)
+92727 : ram : MBH. 13,13,53 : MBH. 13,12,53 : pc
+----------------------------------------------
+* DONE 045
+TODO key (13,61,40): pagerec not found
+L= 55032, hw= DA, pc=3-151-b
+check: ?
+AB: (13,40,40) ;;print_change (has उपहित, as in the pwk  citation)
+55032 : DA : MBH. 13,61,40 : MBH. 13,40,40 : pc
+----------------------------------------------
+* DONE 046
+046
+TODO key (13,150,45): pagerec not found
+L= 123561, hw= sAMKya, pc=7-109-a
+check: ?
+AB: (13,151,45) ;; print_change
+123561 : sAMKya : MBH. 13,150,45 : 13,151,45 : pc
+* DONE 048
+TODO key (13,200,7): pagerec not found
+L= 106757, hw= vfzalayAjaka, pc=6-154-a
+check: ?
+AB: (3,200,7) ;;Jim's corrrection to be reverted and corrected == print chg
+106757 : vfzalayAjaka : MBH. 13,200,7 : MBH. 3,200,7 : pc
+----------------------------------------------
+* DONE 049
+TODO key (13,207,42): pagerec not found
+L= 40492, hw= cUcuka, pc=2-235-a
+check: ?
+AB: (12,207,42) ;;print_change
+40492 : cUcuka : MBH. 13,207,42 : MBH. 12,207,42 : pc
+----------------------------------------------

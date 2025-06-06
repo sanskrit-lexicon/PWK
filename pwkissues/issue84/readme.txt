@@ -60,6 +60,7 @@ Note title line of index.txt does not contribute to index.js
 ----------------------------------------
 'ready for repo' message in https://github.com/sanskrit-lexicon/PWG/issues/149
 ----------------------------------------
+2025-06-05
 index_AB.txt
 https://github.com/sanskrit-lexicon/PWK/issues/84#issuecomment-2943060552
 
@@ -71,16 +72,23 @@ diff index.js index_AB.js | wc -l
 
 Note: In construction of app1, use index_AB.txt.
   See readme_app.txt
-  
+
+2025-06-06
+ index_AB.txt revised
+Ref: https://github.com/sanskrit-lexicon/PWK/issues/84#issuecomment-2948211955
+# remake index.js
+python make_js_index.py index_AB.txt index_AB.js
+# 6530 Success: Page records read from index_AB.txt
+
+# copy to mbhbomb/app1/pywork/index.txt
+
 ----------------------------------------
 ADDITIONAL STEPS   
 
 app construction.
 2 apps needed:  see readme_app.txt
-app1 -- (shloka)
-app0 -- ipage
-app2 -- ipage, linenum
-app3 -- anka,shloka  (for MW only)
+app1 -- parvan,adhyaya,verse
+app0 -- all pages
 
 ----------------------------------------
 modify basicadjust.php for pwg, pw, pwkvn, sch, mw

@@ -1,0 +1,24 @@
+key (1, 196, 27): pagerec not found
+L= 69288, hw= pUrvendra, pc=4-115-b
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=PW&page=4-115-b
+----------------------------------------------
+
+key (2, 79, 32): pagerec not found
+L= 53258, hw= dyUtamaRqala, pc=3-126-c
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=PW&page=3-126-c
+----------------------------------------------
+
+key (13, 169, 80): pagerec not found
+L= 111981, hw= SAs, pc=6-228-b
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=PW&page=6-228-b
+----------------------------------------------
+
+key (13, 313, 54): pagerec not found
+L= 209163, hw= prARa, pc=6-304-a
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=PW&page=6-304-a
+----------------------------------------------
+

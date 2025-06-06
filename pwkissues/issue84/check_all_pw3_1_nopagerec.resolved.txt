@@ -1,0 +1,270 @@
+001
+TODO key (1,3,317): pagerec not found
+L= 208210, hw= atikaruRa, pc=6-293-a
+check: ?
+AB: (1,2,317) ;;print_change
+----------------------------------------------
+003
+TODO key (1,146,78): pagerec not found
+L= 21091, hw= UrDvagati, pc=1-257-b
+check: ?
+AB: (3,146,78) ;;print_change
+----------------------------------------------
+004
+TODO key (1,176,37): pagerec not found
+L= 208352, hw= anuvyAhfta, pc=6-294-c
+check: ?
+AB: (1,176,37) ;;index file correction
+----------------------------------------------
+005
+TODO key (1,176,41): pagerec not found
+L= 109353, hw= Saktin, pc=6-193-a
+check: ?
+AB: (1,176,41) ;;index file correction
+----------------------------------------------
+006
+TODO key (1,191,27): pagerec not found
+L= 69288, hw= pUrvendra, pc=4-115-b
+check: ?
+AB: (1,196,27) ;;print_change
+----------------------------------------------
+007
+TODO key (1,269,21): pagerec not found
+L= 3145, hw= aDvaraga, pc=1-037-b
+check: ?
+AB: (3,269,21) ;;typo
+----------------------------------------------
+008
+TODO key (1,281,21): pagerec not found
+L= 9945, hw= alaBya, pc=1-117-b
+check: ?
+AB: (3,281,21) ;;VN entry at pwk-5 (ID=206471) [as such, no change required here (for now)].
+----------------------------------------------
+009
+TODO key (2,25,19): pagerec not found
+L= 7739, hw= aBisAra, pc=1-090-c
+check: ?
+AB: (2,27,19) ;;print_change
+----------------------------------------------
+010
+TODO key (2,53,2): pagerec not found
+L= 25961, hw= kAMsyadohana, pc=2-041-c
+check: ?
+AB: (2,53,3) ;;page scan missed
+----------------------------------------------
+011
+TODO key (2,53,9): pagerec not found
+L= 126279, hw= sutsaru, pc=7-146-b
+check: ?
+AB: (2,53,9) ;;page scan missed
+----------------------------------------------
+012
+TODO key (2,53,20): pagerec not found
+L= 135398, hw= hemavizARin, pc=7-283-b
+check: ?
+AB: (2,53,20) ;;page scan missed
+----------------------------------------------
+013
+TODO key (2,54,2): pagerec not found
+L= 203448, hw= advizant, pc=3-248-c
+check: ?
+AB: (2,54,2) ;;page scan missed
+----------------------------------------------
+014
+TODO key (2,64,18): pagerec not found
+L= 23481, hw= kawuja, pc=2-005-c
+check: ?
+AB: (2,64,18) ;;page scan missed
+----------------------------------------------
+015
+TODO key (2,64,18): pagerec not found
+L= 201355, hw= avyADija, pc=1-295-b
+check: ?
+AB: (2,64,18) ;;page scan missed
+----------------------------------------------
+017
+TODO key (2,200,123): pagerec not found
+L= 84431, hw= mahADur, pc=5-045-a
+check: ?
+AB: (3,200,123) ;;print_change
+----------------------------------------------
+018
+TODO key (3,40,52): pagerec not found
+L= 99302, hw= vas, pc=6-043-a
+check: ?
+AB: (3,70,23) ;;print_change (has अध्यावासि, as in the pwk citation)
+----------------------------------------------
+019
+TODO key (3,82,185): pagerec not found
+L= 26655, hw= kAmAKya, pc=2-050-a
+check: ?
+AB: (3,82,105) ;;print_change
+----------------------------------------------
+020
+TODO key (3,140,62): pagerec not found
+L= 75625, hw= bakAlIna, pc=4-205-a
+check: ?
+AB: (12,140,62) ;;print_change
+----------------------------------------------
+021
+TODO key (3,166,41): pagerec not found
+L= 2575, hw= adButopama, pc=1-030-b
+check: ?
+AB: (3,167,41) ;;print_change
+----------------------------------------------
+022
+TODO key (4,57,14): pagerec not found
+L= 126732, hw= suparizkfta, pc=7-152-b
+check: ?
+AB: (4,57,40) ;;print_change ;;page scan missed
+----------------------------------------------
+023
+TODO key (4,57,37): pagerec not found
+L= 208968, hw= triveRa, pc=6-302-a
+check: ?
+AB: (4,57,37) ;;the entry (HW) has a print error, to be corrected as "triveRu"!
+----------------------------------------------
+024
+TODO key (4,57,40): pagerec not found
+L= 71338, hw= pratimArga, pc=4-143-c
+check: ?
+AB: (4,57,40) ;;page scan missed
+----------------------------------------------
+025
+TODO key (4,72,22): pagerec not found
+L= 59846, hw= niSaWa, pc=3-222-c
+check: ?
+AB: (4,72,22) ;;page scan missed
+----------------------------------------------
+026
+TODO key (5,40,35): pagerec not found
+L= 756, hw= agrapradAyin, pc=1-009-c
+check: ?
+AB: (5,135,35) ;;print_change
+----------------------------------------------
+027
+TODO key (5,191,51): pagerec not found
+L= 58756, hw= nimezAntaracArin, pc=3-207-b
+check: ?
+AB: (5,192,51) ;;print_change
+----------------------------------------------
+028
+TODO key (7,62,65): pagerec not found
+L= 49485, hw= dah, pc=3-077-a
+check: ?
+AB: (7,72,65) ;;print_change (has अधाक्षं, as in the pwk  citation)
+----------------------------------------------
+029
+TODO key (7,195,11): pagerec not found
+L= 102888, hw= viDarmaka, pc=6-096-b
+check: ?
+AB: (7,195,11) ;;page scan missed
+----------------------------------------------
+030
+TODO key (7,211,17): pagerec not found
+L= 49485, hw= dah, pc=3-077-a
+check: ?
+AB: (12,211,17) ;;print_change (has उपदग्ध, as in the pwk citation)
+----------------------------------------------
+031
+TODO key (8,56,103): pagerec not found
+L= 215960, hw= kAdraveya, pc=7-331-b
+check: ?
+AB: (8,56,103) ;;page scan missed
+----------------------------------------------
+032
+TODO key (8,78,67): pagerec not found
+L= 117279, hw= saketu, pc=7-013-c
+check: ?
+AB: (8,89,67) ;;print_change
+----------------------------------------------
+033
+TODO key (8,78,67): pagerec not found
+L= 121387, hw= saraTa, pc=7-078-a
+check: ?
+AB: (8,89,67) ;;print_change
+----------------------------------------------
+034
+TODO key (8,82,31): pagerec not found
+L= 104497, hw= viS, pc=6-120-a
+check: ?
+AB: (8,82,31) ;;page scan missed (has अभिनिविष्ट, as in the pwk  citation)
+----------------------------------------------
+035
+TODO key (8,86,23): pagerec not found
+L= 220755, hw= raTAgratas, pc=7-370-d
+check: ?
+AB: (8,86,23) ;;page scan missed
+----------------------------------------------
+036
+TODO key (11,262,36): pagerec not found
+L= 60490, hw= nihnava, pc=3-231-a
+check: ?
+AB: (12,262,36) ;;print_change
+----------------------------------------------
+037
+TODO key (12,94,15): pagerec not found
+L= 203457, hw= aDarmasaMgara, pc=3-249-a
+check: ?
+AB: (12,95,15) ;;print_change
+----------------------------------------------
+038
+TODO key (12,98,58): pagerec not found
+L= 61167, hw= nEkamAya, pc=3-241-b
+check: ?
+AB: (12,98,50) ;;print_change
+----------------------------------------------
+039
+TODO key (12,137,64): pagerec not found
+L= 17429, hw= Ikz, pc=1-211-a
+check: ?
+AB: (12,138,64)  ;;print_change (has न्यवेक्ष्य, as in the pwk  citation)
+----------------------------------------------
+040
+TODO key (12,159,18): pagerec not found
+L= 206626, hw= avisaMvAda, pc=5-247-b
+check: ?
+AB: (12,259,11) ;;print_change
+----------------------------------------------
+041
+TODO key (12,173,58): pagerec not found
+L= 51027, hw= durAsada, pc=3-100-a
+check: ?
+AB: (5,175,28) ;;print_change
+----------------------------------------------
+042
+TODO key (12,338,60): pagerec not found
+L= 201996, hw= atikfcCra, pc=2-287-a
+check: ?
+AB: (12,338,3) ;;(12,338,3.[1]60) ::: p.952, line 5 (160th name out of the 200 names listed);; this long text (after v.3) is kind of a daṇḍaka, and is at 12,12864 (Calc. ed.)
+----------------------------------------------
+043
+TODO key (13,3,30): pagerec not found
+L= 69301, hw= pUrvopapanna, pc=4-115-c
+check: ?
+AB: (13,4,30) ;;print_change
+----------------------------------------------
+044
+TODO key (13,13,53): pagerec not found
+L= 92727, hw= ram, pc=5-169-c
+check: ?
+AB: (13,12,53) ;;print_change (has रमित, as in the pwk  citation)
+----------------------------------------------
+045
+TODO key (13,61,40): pagerec not found
+L= 55032, hw= DA, pc=3-151-b
+check: ?
+AB: (13,40,40) ;;print_change (has उपहित, as in the pwk  citation)
+----------------------------------------------
+048
+TODO key (13,200,7): pagerec not found
+L= 106757, hw= vfzalayAjaka, pc=6-154-a
+check: ?
+AB: (3,200,7) ;;Jim's corrrection to be reverted and corrected
+----------------------------------------------
+049
+TODO key (13,207,42): pagerec not found
+L= 40492, hw= cUcuka, pc=2-235-a
+check: ?
+AB: (12,207,42) ;;print_change
+----------------------------------------------

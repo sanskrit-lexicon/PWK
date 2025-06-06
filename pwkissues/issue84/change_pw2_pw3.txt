@@ -1,0 +1,185 @@
+; <L>756<pc>1-009-c<k1>agrapradAyin<k2>agrapradAyin
+2839 old {#agrapradAyin#}¦ <lex>Adj.</lex> {%zuerst reichend%} <ls>MBH. 5,40,35</ls>.
+;
+2839 new {#agrapradAyin#}¦ <lex>Adj.</lex> {%zuerst reichend%} <ls>MBH. 5,135,35</ls>.
+;---------------------------------------------------
+; <L>2575<pc>1-030-b<k1>adButopama<k2>adButopama
+9629 old {#adButopama#}¦ <lex>Adj.</lex> {%einem Wunder gleichend%} <ls>MBH. 3,166,41</ls>.
+;
+9629 new {#adButopama#}¦ <lex>Adj.</lex> {%einem Wunder gleichend%} <ls>MBH. 3,167,41</ls>.
+;---------------------------------------------------
+; <L>3145<pc>1-037-b<k1>aDvaraga<k2>aDvaraga
+11847 old {#aDvaraga#}¦ <lex>Adj.</lex> {%zum Opfer bestimmt%} {#soma#} <ls>MBH. 1,269,21</ls>.
+;
+11847 new {#aDvaraga#}¦ <lex>Adj.</lex> {%zum Opfer bestimmt%} {#soma#} <ls>MBH. 3,269,21</ls>.
+;---------------------------------------------------
+; <L>7739<pc>1-090-c<k1>aBisAra<k2>aBisAra
+28675 old <div n="1">— 2〉 <lex>f.</lex> {#I#} <ab>N. pr.</ab> einer Stadt <ls>MBH. 2,25,19</ls>.
+;
+28675 new <div n="1">— 2〉 <lex>f.</lex> {#I#} <ab>N. pr.</ab> einer Stadt <ls>MBH. 2,27,19</ls>.
+;---------------------------------------------------
+; <L>9945<pc>1-117-b<k1>alaBya<k2>alaBya
+37441 old {#alaBya#}¦ <lex>Adj.</lex> {%nicht zu erlangen, — haben, dessen man nicht theilhaftig werden kann oder daf%} <ls>MBH. 1,281,21</ls>. <ls>KUMĀRAS. 5,43</ls>.
+;
+37441 new {#alaBya#}¦ <lex>Adj.</lex> {%nicht zu erlangen, — haben, dessen man nicht theilhaftig werden kann oder daf%} <ls>MBH. 3,281,21</ls>. <ls>KUMĀRAS. 5,43</ls>.
+;---------------------------------------------------
+; <L>17429<pc>1-211-a<k1>Ikz<k2>Ikz
+66886 old <div n="p">— Mit {#nyava#} {%erwägen%} <ls>MBH. 12,137,64</ls>.
+;
+66886 new <div n="p">— Mit {#nyava#} {%erwägen%} <ls>MBH. 12,138,64</ls>.
+;---------------------------------------------------
+; <L>21091<pc>1-257-b<k1>UrDvagati<k2>UrDvagati<h>2
+81719 old <div n="2">— a〉 {%in die Höhe stehend%} <ls>MBH. 1,146,78</ls>.
+;
+81719 new <div n="2">— a〉 {%in die Höhe stehend%} <ls>MBH. 3,146,78</ls>.
+;---------------------------------------------------
+; <L>25961<pc>2-041-c<k1>kAMsyadohana<k2>kAMsyadohana
+102388 old {#kAMsyadohana#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) <ab>dass.</ab> <ls>MBH. 2,53,2</ls>. <ls>R. 1,72,23</ls>
+;
+102388 new {#kAMsyadohana#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) <ab>dass.</ab> <ls>MBH. 2,53,3</ls>. <ls>R. 1,72,23</ls>
+;---------------------------------------------------
+; <L>26655<pc>2-050-a<k1>kAmAKya<k2>kAmAKya
+105216 old <div n="1">— 1〉 <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is> <ls>MBH. 3,82,185</ls>.
+;
+105216 new <div n="1">— 1〉 <lex>n.</lex> <ab>N. pr.</ab> eines <is>Tīrtha</is> <ls>MBH. 3,82,105</ls>.
+;---------------------------------------------------
+; <L>40492<pc>2-235-a<k1>cUcuka<k2>cUcuka
+164210 old <div n="1">— 2〉 <lex>m.</lex> <ab>Pl.</ab> <ab>N. pr.</ab> eines Volke <ls>MBH. 13,207,42</ls>.
+;
+164210 new <div n="1">— 2〉 <lex>m.</lex> <ab>Pl.</ab> <ab>N. pr.</ab> eines Volke <ls>MBH. 12,207,42</ls>.
+;---------------------------------------------------
+; <L>49485<pc>3-077-a<k1>dah<k2>dah<h>1
+203108 old <div n="2">— b〉 {%verbrennen, versengen,%} so <ab>v. a.</ab> {%vollständig vernichten%}. {#aDAkzam#} <ls>MBH. 7,62,65</ls>.
+;
+203108 new <div n="2">— b〉 {%verbrennen, versengen,%} so <ab>v. a.</ab> {%vollständig vernichten%}. {#aDAkzam#} <ls>MBH. 7,72,65</ls>.
+;---------------------------------------------------
+; <L>49485<pc>3-077-a<k1>dah<k2>dah<h>1
+203151 old <div n="p">— Mit {#upa#} {%anbrennen%} <ls>MBH. 7,211,17</ls>. {%Feuer anlegen an%} (<ab>Acc.</ab>).
+;
+203151 new <div n="p">— Mit {#upa#} {%anbrennen%} <ls>MBH. 12,211,17</ls>. {%Feuer anlegen an%} (<ab>Acc.</ab>).
+;---------------------------------------------------
+; <L>51027<pc>3-100-a<k1>durAsada<k2>durAsada
+209766 old <div n="2">— c〉 {%schwer auszuführen%} <ls>MBH. 12,173,58</ls>.
+;
+209766 new <div n="2">— c〉 {%schwer auszuführen%} <ls>MBH. 5,175,28</ls>.
+;---------------------------------------------------
+; <L>55032<pc>3-151-b<k1>DA<k2>DA<h>1
+225830 old <div n="2">— b〉 {%unternommen%} <ls>MBH. 13,61,40</ls>.
+;
+225830 new <div n="2">— b〉 {%unternommen%} <ls>MBH. 13,40,40</ls>.
+;---------------------------------------------------
+; <L>57387<pc>3-189-c<k1>nAgadanta<k2>nAgadanta<h>2
+236210 old <div n="1">— 1〉 <lex>Adj.</lex> {%elfenbeinern%} <ls>MBH. 1,127,72</ls> (anders <ls>NĪLAK.</ls>).
+;
+236210 new <div n="1">— 1〉 <lex>Adj.</lex> {%elfenbeinern%} <ls>MBH. 1,128,72</ls> (anders <ls>NĪLAK.</ls>).
+;---------------------------------------------------
+; <L>58756<pc>3-207-b<k1>nimezAntaracArin<k2>nimezAntaracArin
+241591 old {#nimezAntaracArin#}¦ <lex>Adj.</lex> {%der in einem Augenblick einen Weg vollbringt%} <ls>MBH. 5,191,51</ls>. <ls>HARIV. 9139</ls>.
+;
+241591 new {#nimezAntaracArin#}¦ <lex>Adj.</lex> {%der in einem Augenblick einen Weg vollbringt%} <ls>MBH. 5,192,51</ls>. <ls>HARIV. 9139</ls>.
+;---------------------------------------------------
+; <L>60490<pc>3-231-a<k1>nihnava<k2>nihnava
+248428 old <div n="1">— 3〉 {%Widerspruch%}. {#bahu°#} <lex>Adj.</lex> {%viele Widersprüche enthaltend%} <ls>MBH. 11,262,36</ls>.
+;
+248428 new <div n="1">— 3〉 {%Widerspruch%}. {#bahu°#} <lex>Adj.</lex> {%viele Widersprüche enthaltend%} <ls>MBH. 12,262,36</ls>.
+;---------------------------------------------------
+; <L>61167<pc>3-241-b<k1>nEkamAya<k2>nEkamAya
+251454 old {#nEkamAya#}¦ <lex>Adj.</lex> {%mannichfache Blendwerke anwendend%} <ls>MBH. 12,98,58</ls>.
+;
+251454 new {#nEkamAya#}¦ <lex>Adj.</lex> {%mannichfache Blendwerke anwendend%} <ls>MBH. 12,98,50</ls>.
+;---------------------------------------------------
+; <L>69288<pc>4-115-b<k1>pUrvendra<k2>pUrvendra
+285774 old {#pUrvendra#}¦ <lex>m.</lex> {%ein ehemaliger%} <is>Indra</is> <ls>MBH. 1,191,27</ls>; <ab>vgl.</ab> <ls n="MBH. 1,191,">35</ls>.
+;
+285774 new {#pUrvendra#}¦ <lex>m.</lex> {%ein ehemaliger%} <is>Indra</is> <ls>MBH. 1,196,27</ls>; <ab>vgl.</ab> <ls n="MBH. 1,196,">35</ls>.
+;---------------------------------------------------
+; <L>69301<pc>4-115-c<k1>pUrvopapanna<k2>pUrvopapanna
+285815 old {#pUrvopapanna#}¦ <lex>Adj.</lex> wohl {%frühere Anrechte habend%} <ls>MBH. 13,3,30</ls>.
+;
+285815 new {#pUrvopapanna#}¦ <lex>Adj.</lex> wohl {%frühere Anrechte habend%} <ls>MBH. 13,4,30</ls>.
+;---------------------------------------------------
+; <L>75625<pc>4-205-a<k1>bakAlIna<k2>bakAlIna
+311480 old {#bakAlIna#}¦ <lex>Adj.</lex> {%wie ein Reiher kauernd, — sich versteckt haltend%} <ls>MBH. 3,140,62</ls>.
+;
+311480 new {#bakAlIna#}¦ <lex>Adj.</lex> {%wie ein Reiher kauernd, — sich versteckt haltend%} <ls>MBH. 12,140,62</ls>.
+;---------------------------------------------------
+; <L>84431<pc>5-045-a<k1>mahADur<k2>mahADur
+349277 old {#mahADur#}¦ <ls>MBH. 2,200,123</ls> nach <ls>NĪLAK.</ls> = {#mahAnDuHsadaSaH#} {#pravAhaH#}.
+;
+349277 new {#mahADur#}¦ <ls>MBH. 3,200,123</ls> nach <ls>NĪLAK.</ls> = {#mahAnDuHsadaSaH#} {#pravAhaH#}.
+;---------------------------------------------------
+; <L>92727<pc>5-169-c<k1>ram<k2>ram
+384269 old <div n="2">— a〉 {%ergötzen,%} <ab>insbes.</ab> {%durch Befriedigung der Liebeslust%}. {#ramayatitarAm#} <ls n="Chr.">312,17</ls>. {#ramita#} <ls>MBH. 13,13,53</ls>.
+;
+384269 new <div n="2">— a〉 {%ergötzen,%} <ab>insbes.</ab> {%durch Befriedigung der Liebeslust%}. {#ramayatitarAm#} <ls n="Chr.">312,17</ls>. {#ramita#} <ls>MBH. 13,12,53</ls>.
+;---------------------------------------------------
+; <L>99302<pc>6-043-a<k1>vas<k2>vas<h>5
+414702 old <div n="1">— 1〉 {%beziehen, [Page6-043-c] zum Aufenthaltsort wählen, bewohnen%} <ls>MBH. 3,40,52</ls>.
+;
+414702 new <div n="1">— 1〉 {%beziehen, [Page6-043-c] zum Aufenthaltsort wählen, bewohnen%} <ls>MBH. 3,70,23</ls>.
+;---------------------------------------------------
+; <L>106757<pc>6-154-a<k1>vfzalayAjaka<k2>vfzalayAjaka
+446203 old {#vfzalayAjaka#}¦ <lex>Adj.</lex> {%der für einen%} <is>Śūdra</is> {%opfert%} <ls>MBH. 13,200,7</ls>.
+;
+446203 new {#vfzalayAjaka#}¦ <lex>Adj.</lex> {%der für einen%} <is>Śūdra</is> {%opfert%} <ls>MBH. 3,200,7</ls>.
+;---------------------------------------------------
+; <L>117279<pc>7-013-c<k1>saketu<k2>saketu
+490028 old {#saketu#}¦ <lex>Adj.</lex> {%mit einem Banner versehen, nebst Banner%} <ls>NAIṢ. 7,60</ls>. <ls>MBH. 8,78,67</ls>.
+;
+490028 new {#saketu#}¦ <lex>Adj.</lex> {%mit einem Banner versehen, nebst Banner%} <ls>NAIṢ. 7,60</ls>. <ls>MBH. 8,89,67</ls>.
+;---------------------------------------------------
+; <L>121387<pc>7-078-a<k1>saraTa<k2>sa/raTa
+506838 old {#sa/raTa#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%sammt Wagen%} <ls>MBH. 8,78,67</ls>.
+;
+506838 new {#sa/raTa#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%sammt Wagen%} <ls>MBH. 8,89,67</ls>.
+;---------------------------------------------------
+; <L>123561<pc>7-109-a<k1>sAMKya<k2>sAMKya
+515404 old <div n="2">— b〉 <ab>N. pr.</ab> eines Mannes <ls>MBH. 13,150,45</ls>.
+;
+515404 new <div n="2">— b〉 <ab>N. pr.</ab> eines Mannes <ls>MBH. 13,151,45</ls>.
+;---------------------------------------------------
+; <L>126732<pc>7-152-b<k1>suparizkfta<k2>suparizkfta
+528418 old <div n="1">— 2〉 {%schön geschmückt%} <ls>MBH. 4,57,14</ls>.
+;
+528418 new <div n="1">— 2〉 {%schön geschmückt%} <ls>MBH. 4,57,40</ls>.
+;---------------------------------------------------
+; <L>201996<pc>2-287-a<k1>atikfcCra<k2>atikfcCra
+573669 old {#atikfcCra#}¦ 1〉 <lex>Adj.</lex> als <ab>Beiw.</ab> <is>Viṣṇu</is>ʼs <ls>MBH. 12,338,60</ls>. — 2〉 {#°m#} <lex>Adv.</lex> {%mit grosser Mühe%} <ls>BHĀG. P. 5,13,10</ls>.<info n="sup_2"/>
+;
+573669 new {#atikfcCra#}¦ 1〉 <lex>Adj.</lex> als <ab>Beiw.</ab> <is>Viṣṇu</is>ʼs <ls>MBH. 12,338,3</ls>. — 2〉 {#°m#} <lex>Adv.</lex> {%mit grosser Mühe%} <ls>BHĀG. P. 5,13,10</ls>.<info n="sup_2"/>
+;---------------------------------------------------
+; <L>203457<pc>3-249-a<k1>aDarmasaMgara<k2>aDarmasaMgara
+579410 old {#aDarmasaMgara#}¦ <lex>Adj.</lex> {%unredlich kämpfend%} <ls>MBH. 12,94,15</ls>.<info n="sup_3"/>
+;
+579410 new {#aDarmasaMgara#}¦ <lex>Adj.</lex> {%unredlich kämpfend%} <ls>MBH. 12,95,15</ls>.<info n="sup_3"/>
+;---------------------------------------------------
+; <L>206626<pc>5-247-b<k1>avisaMvAda<k2>avisaMvAda
+589114 old {#avisaMvAda#}¦ <lex>m.</lex> {%das Worthalten%} <ls>MBH. 12,159,18</ls>.<info n="sup_5"/>
+;
+589114 new {#avisaMvAda#}¦ <lex>m.</lex> {%das Worthalten%} <ls>MBH. 12,259,18</ls>.<info n="sup_5"/>
+;---------------------------------------------------
+; <L>208210<pc>6-293-a<k1>atikaruRa<k2>atikaruRa
+594038 old {#atikaruRa#}¦ <lex>Adj.</lex> {%überaus kläglich%} <ls>MBH. 1,3,317</ls>.<info n="sup_6"/>
+;
+594038 new {#atikaruRa#}¦ <lex>Adj.</lex> {%überaus kläglich%} <ls>MBH. 1,2,317</ls>.<info n="sup_6"/>
+;---------------------------------------------------
+; <L>208968<pc>6-302-a<k1>triveRa<k2>triveRa
+596354 old <L>208968<pc>6-302-a<k1>triveRa<k2>triveRa
+;
+596354 new <L>208968<pc>6-302-a<k1>triveRu<k2>triveRu
+;---------------------------------------------------
+; <L>208968<pc>6-302-a<k1>triveRa<k2>triveRa
+596355 old {#triveRa#}¦ 2〉 <lex>m.</lex> <ls>MBH. 4,57,37</ls>.<info n="sup_6"/>
+;
+596355 new {#triveRu#}¦ 2〉 <lex>m.</lex> <ls>MBH. 4,57,37</ls>.<info n="sup_6"/>
+;---------------------------------------------------
+; <L>217978<pc>7-346-d<k1>triveRa<k2>triveRa
+627993 old <L>217978<pc>7-346-d<k1>triveRa<k2>triveRa
+;
+627993 new <L>217978<pc>7-346-d<k1>triveRu<k2>triveRu
+;---------------------------------------------------
+; <L>217978<pc>7-346-d<k1>triveRa<k2>triveRa
+627994 old {#triveRa#}¦ III. 6.<info n="sup_7"/>
+;
+627994 new {#triveRu#}¦ III. 6.<info n="sup_7"/>
+;---------------------------------------------------

@@ -214,6 +214,42 @@ cd /c/xampp/htdocs/sanskrit-lexicon/pwk/pwkissues/issue84
 =====================================================
 index_AB.txt  see readme.txt  A revision of index_orig.txt by AB.
 
+=====================================================
+temp_pw3.txt
+
+cp temp_pw2.txt temp_pw3.txt
+# apply changes to temp_pw3.txt from check_all_pw3_1_nopagerec.resolved.txt
+
+Jim's work in check_all_pw3_1_nopagerec.resolved_notes.txt
+
+# make change file
+python diff_to_changes_dict.py temp_pw2.txt temp_pw3.txt change_pw2_pw3.txt
+37 changes written to change_pw2_pw3.txt
+
+-----------------------------------------
+install temp_pw3.txt
+cp temp_pw3.txt /c/xampp/htdocs/cologne/csl-orig/v02/pw/pw.txt
+cd /c/xampp/htdocs/cologne/csl-orig/v02
+git add .
+git commit -m "PW: misc changes re mbhbomb 'pagerec not found'
+Ref: https://github.com/sanskrit-lexicon/PWK/issues/84"
+git push
+
+# Also update csl-corrections/dictionaries/pw/pw_printchange.txt
+
+# return to this directory
+cd /c/xampp/htdocs/sanskrit-lexicon/pwk/pwkissues/issue84
+
+----------------------------------------
+generate all with temp_pw3.txt and index_AB.txt
+
+python generate_random.py ALL pw3 temp_pw3.txt index_AB.txt check_all_pw3_2.txt check_all_pw3_2_nopagerec.txt
+
+regex_raw = <ls>MBH. ([0-9]+),([0-9]+),([0-9]+)
+found 3474 instances in kosha
+found 3052 distinct in kosha
+write_examples: 3472 written to check_all_pw3_2.txt
+write_examples: 4 written to check_all_pw3_2_nopagerec.txt
 
 =====================================================
 mw generate all
