@@ -83,6 +83,12 @@ python make_js_index.py index_AB.txt index_AB.js
 # copy to mbhbomb/app1/pywork/index.txt
 
 ----------------------------------------
+06-07-2025  index_AB1_missing.txt
+proposal for missing scans in index
+
+python make_index_AB1_missing.py index_AB1.txt index_AB1_missing.txt
+
+----------------------------------------
 ADDITIONAL STEPS   
 
 app construction.
