@@ -339,13 +339,12 @@ if __name__=="__main__":
  pagerecs = init_pagerecs(filein1)
  entries = digentry.init(filein)
 
- #regex = get_dict_regex(dictcode)
-
  verseentries = init_verseentries(entries, dictcode)
  if randomcode == 'ALL':
   examples = get_examples_all(verseentries,pagerecs,dictcode)
   examples_nopagerecs = [x for x in examples if x.pagerec == None]
   write_examples(fileout,examples,dictcode)
+  print(len(examples_nopagerecs),"instances of 'pagerec not found'")
   if examples_nopagerecs != []:
    if 6 < len(sys.argv):
     fileout1 = sys.argv[6]

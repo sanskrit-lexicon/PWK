@@ -252,6 +252,52 @@ write_examples: 3472 written to check_all_pw3_2.txt
 write_examples: 4 written to check_all_pw3_2_nopagerec.txt
 
 =====================================================
+index_AB1.txt  a revision to index_AB.txt by AB.
+Ref: https://github.com/sanskrit-lexicon/PWK/issues/84#issuecomment-2952029107
+
+=====================================================
+temp_pw4.txt
+
+cp temp_pw3.txt temp_pw4.txt
+# apply changes to temp_pw4.txt from
+Ref: https://github.com/sanskrit-lexicon/PWK/issues/84#issuecomment-2951951066
+111981 : SAs : MBH. 13,169,80 : MBH. 3,168,80 : pc
+209163 : prARa : MBH. 13,313,54 : MBH. 3,313,54 : pc
+69288  : pUrvendra : MBH. 1,191,27 : MBH. 1,197,27 
+
+# make change file
+python diff_to_changes_dict.py temp_pw3.txt temp_pw4.txt change_pw3_pw4.txt
+3 changes written to change_pw3_pw4.txt
+
+-----------------------------------------
+install temp_pw4.txt
+cp temp_pw4.txt /c/xampp/htdocs/cologne/csl-orig/v02/pw/pw.txt
+cd /c/xampp/htdocs/cologne/csl-orig/v02
+git add .
+git commit -m "PW: misc changes re mbhbomb 'pagerec not found', continue
+Ref: https://github.com/sanskrit-lexicon/PWK/issues/84"
+git push
+
+# Also update csl-corrections/dictionaries/pw/pw_printchange.txt
+
+# return to this directory
+cd /c/xampp/htdocs/sanskrit-lexicon/pwk/pwkissues/issue84
+
+----------------------------------------
+generate all with temp_pw4.txt and index_AB1.txt
+
+python generate_random.py ALL pw3 temp_pw4.txt index_AB1.txt check_all_pw3_3.txt check_all_pw3_3_nopagerec.txt
+
+regex_raw = <ls>MBH. ([0-9]+),([0-9]+),([0-9]+)
+found 3474 instances in kosha
+found 3051 distinct in kosha
+write_examples: 3472 written to check_all_pw3_3.txt
+0 instances of 'pagerec not found'
+
+------
+revise readme_app.txt  to use index_AB1.txt  for app1
+
+=====================================================
 mw generate all
 
 python generate_random.py ALL mw3 temp_mw.txt index.txt check_all_mw3_0.txt check_all_mw3_0_nopagerec.txt

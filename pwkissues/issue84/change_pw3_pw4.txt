@@ -1,0 +1,15 @@
+; <L>69288<pc>4-115-b<k1>pUrvendra<k2>pUrvendra
+285774 old {#pUrvendra#}¦ <lex>m.</lex> {%ein ehemaliger%} <is>Indra</is> <ls>MBH. 1,196,27</ls>; <ab>vgl.</ab> <ls n="MBH. 1,196,">35</ls>.
+;
+285774 new {#pUrvendra#}¦ <lex>m.</lex> {%ein ehemaliger%} <is>Indra</is> <ls>MBH. 1,197,27</ls>; <ab>vgl.</ab> <ls n="MBH. 1,197,">35</ls>.
+;---------------------------------------------------
+; <L>111981<pc>6-228-b<k1>SAs<k2>SAs<h>1
+467965 old <div n="1">— 1〉 <ab>Med.</ab> (<ab>Act.</ab> <ls>SUPARṆ. 6,5</ls>. metrisch <ls>MBH. 13,169,80</ls>. <ls>ŚAT. BR. 14,4,1,33</ls> ist {#ASA/ asti#} gemeint) {%erwünschen, erbitten, erhoffen, erwarten, — von%} (<ab>Abl.</ab>), {%wünschen, — für Jmd%} (<ab>Dat.</ab> oder <ab>Loc.</ab>); {%in Aussicht stellen%} <ls>MAITR. S. 2,1,8 (10,4)</ls>. {#ASi/zam#} und {#ASizas#} {%einen Wunsch —, Wünsche wünschen, für Jmd%} (<ab>Dat.</ab>). Mit <ab>Acc.</ab> der Person {%Jmd alles Gute wünschen%}. {#AtmAnamaSIrBirASasAnaH#} <ls>CARAKA. 1,8</ls>.
+;
+467965 new <div n="1">— 1〉 <ab>Med.</ab> (<ab>Act.</ab> <ls>SUPARṆ. 6,5</ls>. metrisch <ls>MBH. 3,168,80</ls>. <ls>ŚAT. BR. 14,4,1,33</ls> ist {#ASA/ asti#} gemeint) {%erwünschen, erbitten, erhoffen, erwarten, — von%} (<ab>Abl.</ab>), {%wünschen, — für Jmd%} (<ab>Dat.</ab> oder <ab>Loc.</ab>); {%in Aussicht stellen%} <ls>MAITR. S. 2,1,8 (10,4)</ls>. {#ASi/zam#} und {#ASizas#} {%einen Wunsch —, Wünsche wünschen, für Jmd%} (<ab>Dat.</ab>). Mit <ab>Acc.</ab> der Person {%Jmd alles Gute wünschen%}. {#AtmAnamaSIrBirASasAnaH#} <ls>CARAKA. 1,8</ls>.
+;---------------------------------------------------
+; <L>209163<pc>6-304-a<k1>prARa<k2>prARa<h>1
+596966 old <hom>1.</hom> {#prARa#}¦ 14〉 <ab>vgl.</ab> <ls>MBH. 13,313,54</ls>.<info n="sup_6"/>
+;
+596966 new <hom>1.</hom> {#prARa#}¦ 14〉 <ab>vgl.</ab> <ls>MBH. 3,313,54</ls>.<info n="sup_6"/>
+;---------------------------------------------------

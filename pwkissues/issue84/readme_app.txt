@@ -95,9 +95,9 @@ https://sanskrit-lexicon-scans.github.io/mbhbomb/app1/?N,N,N
 cd /c/xampp/htdocs/sanskrit-lexicon-scans/mbhbomb
 cp -r ../ramayanabom/app1 .
 
-# get the index for mbhbomb.  Use index_AB.txt from issue84
+# get the index for mbhbomb.  Use index_AB1.txt from issue84
 
-cp /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue84/index_AB.txt app1/pywork/index.txt
+cp /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue84/index_AB1.txt app1/pywork/index.txt
 # get the program to convert index.txt to index.js
 cp /c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue84/make_js_index.py app1/pywork/
 
