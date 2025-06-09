@@ -83,7 +83,7 @@ vol	page	parva	adhy	from verse	to verse	ipage
 1	93	1	9	1	15	41b	
 1	94	1	9	16	23	42a	
 1	94	1	10	1	10	42a	
-1	95	1	11	1	11	42b	
+1	95	1	11	1	19	42b	
 1	95	1	12	1	1	42b	
 1	96	1	12	2	12	43a	
 1	96	1	13	1	13	43a	

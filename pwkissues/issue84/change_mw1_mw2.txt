@@ -1,0 +1,30 @@
+; <L>20049<pc>115,3<k1>aSvasena<k2>aSva—sena<e>3
+71706 old <s>aSva—sena</s> ¦ <lex>m.</lex> <ab>N.</ab> of a <s1>Nāga</s1>, <ls>MBh. i, 803, 8237</ls><info lex="m"/>
+;
+71706 new <s>aSva—sena</s> ¦ <lex>m.</lex> <ab>N.</ab> of a <s1>Nāga</s1>, <ls>MBh. i, 803</ls>, <ls n="MBh. i,">8237</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>22275<pc>127,3<k1>Akara<k2>A-kara/<e>2A
+79449 old ¦ (<ab>ifc.</ab> <lex type="hwifc">f(<s>A</s>). </lex>, <ls>MBh. iii, 1657, 16215</ls>) a mine, <ls>Mn.</ls>; <ls>Yājñ.</ls> &c.<info lex="f#A"/><info lex="inh"/>
+;
+79449 new ¦ (<ab>ifc.</ab> <lex type="hwifc">f(<s>A</s>). </lex>, <ls>MBh. iii, 1657</ls>, <ls n="MBh. iii,">16215</ls>) a mine, <ls>Mn.</ls>; <ls>Yājñ.</ls> &c.<info lex="f#A"/><info lex="inh"/>
+;---------------------------------------------------
+; <L>46915<pc>266,2<k1>kAMsya<k2>kAMsya<e>2
+162979 old <s>kAMsya</s> ¦ <lex>mf(<s>A</s>)n.</lex> (<ab>fr.</ab> <s>kaMsa</s>) consisting of white-copper or bell-metal or brass, <ls>KātyŚr.</ls>; <ls>MBh. xiii, 94, 91</ls>; <ls>R.</ls>; <ls>Mn. iv, 65</ls><info lex="m:f#A:n"/>
+;
+162979 new <s>kAMsya</s> ¦ <lex>mf(<s>A</s>)n.</lex> (<ab>fr.</ab> <s>kaMsa</s>) consisting of white-copper or bell-metal or brass, <ls>KātyŚr.</ls>; <ls>MBh. xiii, 94, 41</ls>; <ls>R.</ls>; <ls>Mn. iv, 65</ls><info lex="m:f#A:n"/>
+;---------------------------------------------------
+; <L>93278<pc>482,3<k1>dIrRa<k2>dIrRa<e>1A
+313235 old ¦ scattered, dispersed (army), <ls>MBh. vi, 144, 146</ls><info lex="inh"/>
+;
+313235 new ¦ scattered, dispersed (army), <ls>MBh. vi, 144</ls>, <ls n="MBh. vi,">146</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>93279<pc>482,3<k1>dIrRa<k2>dIrRa<e>1A
+313238 old ¦ frightened, afraid, <ls>MBh. v, 4622, 4627.</ls><info lex="inh"/>
+;
+313238 new ¦ frightened, afraid, <ls>MBh. v, 4622</ls>, <ls n="MBh. v,">4627.</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>104423<pc>530,2<k1>nalopAKyAna<k2>nalopAKyAna<e>3
+349996 old <s>nalo<srs/>pA<srs/>KyAna</s> ¦ <lex>n.</lex> ‘the story of <s1 n="Nala">N°</s1>’ in <ls>MBh. iii, 6, 52</ls>-<ls n="MBh. iii, 6,">77.</ls><info lex="n"/>
+;
+349996 new <s>nalo<srs/>pA<srs/>KyAna</s> ¦ <lex>n.</lex> ‘the story of <s1 n="Nala">N°</s1>’ in <ls>MBh.</ls> iii, 6, 52-77<info lex="n"/>
+;---------------------------------------------------

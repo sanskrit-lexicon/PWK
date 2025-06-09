@@ -1,0 +1,36 @@
+key (1, 3, 317): pagerec not found
+L= 978, hw= atikaruRa, pc=014-2
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=SCH&page=014-2
+978  : atikaruRa : MBh. 1,3,317 : MBh. 1,2,317 : pc
+----------------------------------------------
+
+key (12, 94, 15): pagerec not found
+L= 1672, hw= aDarmasaMgara, pc=023-2
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=SCH&page=023-2
+1672 : aDarmasaMgara : MBh. 12,94,15 : MBh. 12,95,15 
+
+----------------------------------------------
+
+key (12, 159, 18): pagerec not found
+L= 5685, hw= avisaMvAda, pc=077-3
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=SCH&page=077-3
+5685 : avisaMvAda : MBh. 12,159,18 : MBh. 12,259,11 
+----------------------------------------------
+
+key (12, 338, 60): pagerec not found
+L= 992, hw= atikfcCra, pc=014-2
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=SCH&page=014-2
+992  : atikfcCra : MBh. 12,338,60 : MBh. 12,338,3 
+----------------------------------------------
+
+key (13, 313, 54): pagerec not found
+L= 19727, hw= prARa, pc=272-2
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=SCH&page=272-2
+19727 : prARa : MBh. 13,313,54 : MBh. 3,313,54 
+----------------------------------------------
+

@@ -1,0 +1,35 @@
+key (1, 3, 317): pagerec not found
+L= 8210, hw= atikaruRa, pc=6-293-a
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=PW&page=6-293-a
+8210 : atikaruRa : MBH. 1,3,317 : MBH. 1,2,317 : pc
+----------------------------------------------
+
+key (12, 94, 15): pagerec not found
+L= 3457, hw= aDarmasaMgara, pc=3-249-a
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=PW&page=3-249-a
+3457 : aDarmasaMgara : MBH. 12,94,15 : MBH. 12,95,15 : pc
+----------------------------------------------
+
+key (12, 159, 18): pagerec not found
+L= 6626, hw= avisaMvAda, pc=5-247-b
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=PW&page=5-247-b
+6626 : avisaMvAda : MBH. 12,159,18 : MBH. 12,259,11 : pc
+----------------------------------------------
+
+key (12, 338, 60): pagerec not found
+L= 1996, hw= atikfcCra, pc=2-287-a
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=PW&page=2-287-a
+1996 : atikfcCra : MBH. 12,338,60 : MBH. 12,338,3  : pc
+----------------------------------------------
+
+key (13, 313, 54): pagerec not found
+L= 9163, hw= prARa, pc=6-304-a
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=PW&page=6-304-a
+9163 : prARa : MBH. 13,313,54 : MBH. 3,313,54 : pc
+----------------------------------------------
+

@@ -1,0 +1,25 @@
+; <L>978<pc>014-2<k1>atikaruRa<k2>atikaruRa
+3045 old {%atikaruṇa%}¦ Adj. überaus kläglich, <ls>MBh. 1,3,317.</ls> {part=,seq=1000,type=,n=2}
+;
+3045 new {%atikaruṇa%}¦ Adj. überaus kläglich, <ls>MBh. 1,2,317.</ls> {part=,seq=1000,type=,n=2}
+;---------------------------------------------------
+; <L>992<pc>014-2<k1>atikfcCra<k2>atikfcCra
+3087 old {%atikṛcchra%}¦ 1. Adj. als Bein. Viṣṇu's, <ls>MBh. 12,338,60.</ls> — 2. {%°m%} Adv. mit großer Mühe, <ls>Bhāg. P. 5,13,10.</ls> {part=,seq=1014,type=,n=3}
+;
+3087 new {%atikṛcchra%}¦ 1. Adj. als Bein. Viṣṇu's, <ls>MBh. 12,338,3.</ls> — 2. {%°m%} Adv. mit großer Mühe, <ls>Bhāg. P. 5,13,10.</ls> {part=,seq=1014,type=,n=3}
+;---------------------------------------------------
+; <L>1672<pc>023-2<k1>aDarmasaMgara<k2>aDarmasaMgara
+5169 old {%adharmasaṃgara%}¦ Adj. unredlich kämpfend, <ls>MBh. 12,94,15.</ls> {part=,seq=1698,type=,n=2}
+;
+5169 new {%adharmasaṃgara%}¦ Adj. unredlich kämpfend, <ls>MBh. 12,95,15.</ls> {part=,seq=1698,type=,n=2}
+;---------------------------------------------------
+; <L>5685<pc>077-3<k1>avisaMvAda<k2>avisaMvAda
+17530 old {%avisaṃvāda%}¦ m. das Worthalten, <ls>MBh. 12,159,18.</ls> {part=,seq=5761,type=,n=2}
+;
+17530 new {%avisaṃvāda%}¦ m. das Worthalten, <ls>MBh. 12,259,11.</ls> {part=,seq=5761,type=,n=2}
+;---------------------------------------------------
+; <L>19727<pc>272-2<k1>prARa<k2>prARa
+60919 old 1. {%prāṇa%}¦ 14. vgl. <ls>MBh. 13,313,54.</ls> {part=,seq=20002,type=,n=1}
+;
+60919 new 1. {%prāṇa%}¦ 14. vgl. <ls>MBh. 3,313,54.</ls> {part=,seq=20002,type=,n=1}
+;---------------------------------------------------

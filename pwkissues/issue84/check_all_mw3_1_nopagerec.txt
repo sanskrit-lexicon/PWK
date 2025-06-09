@@ -1,0 +1,42 @@
+* TODO key (1, 11, 14): pagerec not found
+L= 76735, hw= jan, pc=410,1
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=410,1
+----------------------------------------------
+
+* TODO key (1, 803, 8237): pagerec not found
+L= 20049, hw= aSvasena, pc=115,3
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=115,3
+----------------------------------------------
+
+* TODO key (3, 6, 52): pagerec not found
+L= 104423, hw= nalopAKyAna, pc=530,2
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=530,2
+----------------------------------------------
+
+* TODO key (3, 1657, 16215): pagerec not found
+L= 22275, hw= Akara, pc=127,3
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=127,3
+----------------------------------------------
+
+* TODO key (5, 4622, 4627): pagerec not found
+L= 93279, hw= dIrRa, pc=482,3
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=482,3
+----------------------------------------------
+
+* TODO key (6, 144, 146): pagerec not found
+L= 93278, hw= dIrRa, pc=482,3
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=482,3
+----------------------------------------------
+
+* TODO key (13, 94, 91): pagerec not found
+L= 46915, hw= kAMsya, pc=266,2
+check: ?
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=266,2
+----------------------------------------------
+

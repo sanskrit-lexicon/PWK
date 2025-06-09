@@ -308,6 +308,171 @@ write_examples: 232 written to check_all_mw3_0.txt
 write_examples: 15 written to check_all_mw3_0_nopagerec.txt
 
 
+=====================================================
+cp temp_mw.txt temp_mw1.txt
+# Apply changes from 
+check_all_mw3_0_nopagerec.AB.txt
+# changes are the 9 cases at top of file
+
+# generate change file
+python diff_to_changes_dict.py temp_mw.txt temp_mw1.txt change_mw_mw1.txt
+9 changes written to change_mw_mw1.txt
+
+-------------
+install temp_mw1.txt
+cp temp_mw1.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-orig/v02
+git add .
+git commit -m "MW: misc changes re mbhbomb.
+Ref: https://github.com/sanskrit-lexicon/PWK/issues/84"
+git push
+
+# Also update csl-corrections/dictionaries/mw/mw_printchange.txt
+
+# return to this directory
+cd /c/xampp/htdocs/sanskrit-lexicon/pwk/pwkissues/issue84
+
+# Look for remaining 'pagerec not found' cases for mw,
+#  using temp_mw1.txt and index_AB1.txt
+python generate_random.py ALL mw3 temp_mw1.txt index_AB1.txt check_all_mw3_1.txt check_all_mw3_1_nopagerec.txt
+
+regex_raw = <ls>MBh. ([vix]+), *([0-9]+), *([0-9]+)
+found 226 instances in kosha
+write_examples: 226 written to check_all_mw3_1.txt
+7 instances of 'pagerec not found'
+write_examples: 7 written to check_all_mw3_1_nopagerec.txt
+
+=====================================================
+cp temp_mw1.txt temp_mw2.txt
+# Apply changes from 
+check_all_mw3_0_nopagerec.AB.txt
+# changes for "Type-2"
+
+# generate change file
+python diff_to_changes_dict.py temp_mw1.txt temp_mw2.txt change_mw1_mw2.txt
+6 changes written to change_mw1_mw2.txt
+
+-------------
+install temp_mw2.txt
+cp temp_mw2.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-orig/v02
+git add .
+git commit -m "MW: misc changes re mbhbomb.
+Ref: https://github.com/sanskrit-lexicon/PWK/issues/84"
+git push
+
+# Also update csl-corrections/dictionaries/mw/mw_printchange.txt
+
+# return to this directory
+cd /c/xampp/htdocs/sanskrit-lexicon/pwk/pwkissues/issue84
+
+# Look for remaining 'pagerec not found' cases for mw,
+#  using temp_mw2.txt and index_AB1.txt
+python generate_random.py ALL mw3 temp_mw2.txt index_AB1.txt check_all_mw3_2.txt check_all_mw3_2_nopagerec.txt
+
+regex_raw = <ls>MBh. ([vix]+), *([0-9]+), *([0-9]+)
+found 221 instances in kosha
+found 208 distinct in kosha
+write_examples: 221 written to check_all_mw3_2.txt
+0 instances of 'pagerec not found'   <<<< GOOD!
+
+
+=====================================================
+check pwkvn references using temp_pwkvn.txt and index_AB1.txt
+
+# Look for remaining 'pagerec not found' cases for pwkvn,
+python generate_random.py ALL pwkvn3 temp_pwkvn.txt index_AB1.txt check_all_pwkvn3_0.txt check_all_pwkvn3_0_nopagerec.txt
+
+regex_raw = <ls>MBH. ([0-9]+),([0-9]+),([0-9]+)
+found 777 instances in kosha
+found 735 distinct in kosha
+write_examples: 777 written to check_all_pwkvn3_0.txt
+5 instances of 'pagerec not found'
+write_examples: 5 written to check_all_pwkvn3_0_nopagerec.txt
+
+-------------
+cp temp_pwkvn.txt temp_pwkvn1.txt
+make changes to temp_pwkvn1.txt based on 5 items in
+check_all_pwkvn3_0_nopagerec.txt
+
+# generate change file
+python diff_to_changes_dict.py temp_pwkvn.txt temp_pwkvn1.txt change_pwkvn_pwkvn1.txt
+5 changes written to change_pwkvn_pwkvn1.txt
+
+-------------
+install temp_pwkvn1.txt
+cp temp_pwkvn1.txt /c/xampp/htdocs/cologne/csl-orig/v02/pwkvn/pwkvn.txt
+cd /c/xampp/htdocs/cologne/csl-orig/v02
+git add .
+git commit -m "PWKVN: misc changes re mbhbomb.
+Ref: https://github.com/sanskrit-lexicon/PWK/issues/84"
+git push
+
+# Also update csl-corrections/dictionaries/mw/mw_printchange.txt
+
+# return to this directory
+cd /c/xampp/htdocs/sanskrit-lexicon/pwk/pwkissues/issue84
+
+# Look for remaining 'pagerec not found' cases for pwkvn,
+#  using temp_pwkvn1.txt and index_AB1.txt
+
+python generate_random.py ALL pwkvn3 temp_pwkvn1.txt index_AB1.txt check_all_pwkvn3_1.txt check_all_pwkvn3_1_nopagerec.txt
+
+regex_raw = <ls>MBH. ([0-9]+),([0-9]+),([0-9]+)
+found 777 instances in kosha
+found 734 distinct in kosha
+write_examples: 777 written to check_all_pwkvn3_1.txt
+0 instances of 'pagerec not found'  <<<< GOOD!
+
+=====================================================
+check sch references using temp_sch.txt and index_AB1.txt
+
+# Look for remaining 'pagerec not found' cases for sch,
+python generate_random.py ALL sch3 temp_sch.txt index_AB1.txt check_all_sch3_0.txt check_all_sch3_0_nopagerec.txt
+
+regex_raw = <ls>MBh. ([0-9]+),([0-9]+),([0-9]+)
+found 772 instances in kosha
+found 733 distinct in kosha
+write_examples: 772 written to check_all_sch3_0.txt
+5 instances of 'pagerec not found'
+write_examples: 5 written to check_all_sch3_0_nopagerec.txt
+
+
+-------------
+cp temp_sch.txt temp_sch1.txt
+make changes to temp_sch1.txt based on 5 items in
+check_all_sch3_0_nopagerec.txt
+
+# generate change file
+python diff_to_changes_dict.py temp_sch.txt temp_sch1.txt change_sch_sch1.txt
+5 changes written to change_sch_sch1.txt
+
+-------------
+install temp_sch1.txt
+cp temp_sch1.txt /c/xampp/htdocs/cologne/csl-orig/v02/sch/sch.txt
+cd /c/xampp/htdocs/cologne/csl-orig/v02
+git add .
+git commit -m "SCH: misc changes re mbhbomb.
+Ref: https://github.com/sanskrit-lexicon/PWK/issues/84"
+git push
+
+# Also update csl-corrections/dictionaries/mw/mw_printchange.txt
+
+# return to this directory
+cd /c/xampp/htdocs/sanskrit-lexicon/pwk/pwkissues/issue84
+
+# Look for remaining 'pagerec not found' cases for sch,
+#  using temp_sch1.txt and index_AB1.txt
+
+python generate_random.py ALL sch3 temp_sch1.txt index_AB1.txt check_all_sch3_1.txt check_all_sch3_1_nopagerec.txt
+
+regex_raw = <ls>MBh. ([0-9]+),([0-9]+),([0-9]+)
+found 772 instances in kosha
+found 732 distinct in kosha
+write_examples: 772 written to check_all_sch3_1.txt
+0 instances of 'pagerec not found'  Good!
+
+
 ---------------------------------
 All (almost) checks favorable.
 Ready to install:

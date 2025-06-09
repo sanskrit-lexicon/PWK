@@ -1,0 +1,45 @@
+; <L>26002<pc>149,2<k1>Artimat<k2>Arti—mat<e>3B
+92155 old <s>Arti—mat</s> ¦ <lex>m.</lex> a <s1>Mantra</s1> or spell (against snakes), <ls>MBh. i, 21, 88.</ls><info lex="m"/>
+;
+92155 new <s>Arti—mat</s> ¦ <lex>m.</lex> a <s1>Mantra</s1> or spell (against snakes), <ls>MBh. i, 2188.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>46928<pc>266,3<k1>kAMsyadohana<k2>kAMsya—dohana<e>3
+163018 old <s>kAMsya—dohana</s> ¦ <lex>mf(<s>A</s>)n.</lex> <ab>id.</ab>, <ls>MBh. ii, 53, 2</ls>; <ls>R. i, 72, 23.</ls><info lex="m:f#A:n"/>
+;
+163018 new <s>kAMsya—dohana</s> ¦ <lex>mf(<s>A</s>)n.</lex> <ab>id.</ab>, <ls>MBh. ii, 53, 3</ls>; <ls>R. i, 72, 23.</ls><info lex="m:f#A:n"/>
+;---------------------------------------------------
+; <L>58231<pc>322,1<k1>kruD<k2>kruD<h>1<e>1
+199037 old <hom>1.</hom> <s>kruD</s> ¦ <ab>cl.</ab> 4. <ab>P.</ab> <s>kru/Dyati</s> (<lang>ep.</lang> rarely <ab>Ā.</ab> <s>°te</s>, <ls>MBh. i, 59, 21</ls>; (see also <s>kruDyamAna</s>); <ab>perf.</ab> <s>cukroDa</s>, <ls>ŚBr.</ls>; <ls>MBh.</ls> &c.; <ab>fut.</ab> 2nd <s>krotsyati</s>, <ls>Pāṇ. viii, 2, 37</ls>, <ls>Kāś.</ls>; <ab>fut.</ab> 1st <s>krodDA</s>, <ls>Pāṇ. vii, 2, 10</ls>; <ls>Siddh.</ls>; <ab>aor.</ab> <ab>Subj.</ab> 2. <ab>sg.</ab> <s>kruDas</s>, <ls>AV.</ls>; <ls>MBh.</ls>; <ab>inf.</ab> <s>krodDum</s>, <ls>Nal.</ls>),
+;
+199037 new <hom>1.</hom> <s>kruD</s> ¦ <ab>cl.</ab> 4. <ab>P.</ab> <s>kru/Dyati</s> (<lang>ep.</lang> rarely <ab>Ā.</ab> <s>°te</s>, <ls>MBh. i, 5921</ls>; (see also <s>kruDyamAna</s>); <ab>perf.</ab> <s>cukroDa</s>, <ls>ŚBr.</ls>; <ls>MBh.</ls> &c.; <ab>fut.</ab> 2nd <s>krotsyati</s>, <ls>Pāṇ. viii, 2, 37</ls>, <ls>Kāś.</ls>; <ab>fut.</ab> 1st <s>krodDA</s>, <ls>Pāṇ. vii, 2, 10</ls>; <ls>Siddh.</ls>; <ab>aor.</ab> <ab>Subj.</ab> 2. <ab>sg.</ab> <s>kruDas</s>, <ls>AV.</ls>; <ls>MBh.</ls>; <ab>inf.</ab> <s>krodDum</s>, <ls>Nal.</ls>),
+;---------------------------------------------------
+; <L>59033<pc>326,2<k1>kzantavya<k2>kzantavya<e>2B
+201679 old <s>kzantavya</s> ¦ <lex>n.</lex> <ab>impers.</ab> pardon to be given by any one (<ab>gen.</ab>) for (<ab>abl.</ab>), <ls>MBh. i, 40, 53</ls>; <ls>Kathās. cxix, 53.</ls><info lex="n"/>
+;
+201679 new <s>kzantavya</s> ¦ <lex>n.</lex> <ab>impers.</ab> pardon to be given by any one (<ab>gen.</ab>) for (<ab>abl.</ab>), <ls>MBh. i, 41, 22</ls>; <ls>Kathās. cxix, 53.</ls><info lex="n"/>
+;---------------------------------------------------
+; <L>70640<pc>381,3<k1>cakz<k2>cakz<e>1
+239086 old a<s>cakz</s> ¦ (a reduplicated form of √ <s>kAS</s> = <s>kSA</s>; in the non-conjugational tenses √ <s>KyA</s> is substituted, <ls>Pāṇ. ii, 4, 54 f.</ls>; some <ab>pf.</ab> forms, however, are found) <ab>cl.</ab> 2. <ab>Ā.</ab> <s>ca/zwe</s> (2. <ab>du.</ab> <s>cakzATe</s>, <ls>RV.</ls>; <ab>pf.</ab> <ab>p.</ab> <s>ca/kzARa</s>, <ls>RV.</ls>; <ls>BhP. i, 18, 25</ls> [<s>a-</s> <ab>neg.</ab>]; rarely <ab>P.</ab> <ab>impf.</ab> 2. <ab>sg.</ab> <s>acakzas</s>, <ls>MBh. viii, 3384, 1.</ls> <ab>pl.</ab> <s>acakzma</s>, <ls>Naigh. iii, 11</ls>; <lang>Ved.</lang> <ab>inf.</ab> <s>ca/kzase</s>, <ls>RV.</ls>; <ls>AV. vi, 68, 2</ls>),
+;
+239086 new a<s>cakz</s> ¦ (a reduplicated form of √ <s>kAS</s> = <s>kSA</s>; in the non-conjugational tenses √ <s>KyA</s> is substituted, <ls>Pāṇ. ii, 4, 54 f.</ls>; some <ab>pf.</ab> forms, however, are found) <ab>cl.</ab> 2. <ab>Ā.</ab> <s>ca/zwe</s> (2. <ab>du.</ab> <s>cakzATe</s>, <ls>RV.</ls>; <ab>pf.</ab> <ab>p.</ab> <s>ca/kzARa</s>, <ls>RV.</ls>; <ls>BhP. i, 18, 25</ls> [<s>a-</s> <ab>neg.</ab>]; rarely <ab>P.</ab> <ab>impf.</ab> 2. <ab>sg.</ab> <s>acakzas</s>, <ls>MBh. viii, 3384</ls>, 1. <ab>pl.</ab> <s>acakzma</s>, <ls>Naigh. iii, 11</ls>; <lang>Ved.</lang> <ab>inf.</ab> <s>ca/kzase</s>, <ls>RV.</ls>; <ls>AV. vi, 68, 2</ls>),
+;---------------------------------------------------
+; <L>74508<pc>399,3<k1>cIvara<k2>cIvara<e>1B
+251842 old <s>cIvara</s> ¦ <lex>n.</lex> the dress or rags of a religious (<ab>esp.</ab> <ns>Buddhist</ns> or <ns>Jain</ns>) monk, <ls>ŚāṅkhŚr. ii, 16, 2</ls>; <ls>Pāṇ. iii, 1, 20</ls>; <ls>MBh. i, 36, 38</ls>; <ls>Mṛcch.</ls> &c.<info lex="n"/>
+;
+251842 new <s>cIvara</s> ¦ <lex>n.</lex> the dress or rags of a religious (<ab>esp.</ab> <ns>Buddhist</ns> or <ns>Jain</ns>) monk, <ls>ŚāṅkhŚr. ii, 16, 2</ls>; <ls>Pāṇ. iii, 1, 20</ls>; <ls>MBh. i, 3638</ls>; <ls>Mṛcch.</ls> &c.<info lex="n"/>
+;---------------------------------------------------
+; <L>76735<pc>410,1<k1>jan<k2>jan<e>1
+258951 old <div n="to"/>to be born as, be by birth or nature (with double <ab>nom.</ab>), <ls>MBh. i, 11, 15</ls>; <ls>Pañcat. iv, 1, 5</ls>;
+;
+258951 new <div n="to"/>to be born as, be by birth or nature (with double <ab>nom.</ab>), <ls>MBh. i, 11, 14</ls>; <ls>Pañcat. iv, 1, 5</ls>;
+;---------------------------------------------------
+; <L>222597<pc>1097,1<k1>SrAvaRa<k2>SrAvaRa<e>2A
+738329 old ¦ taught or enjoined in the <s1>Veda</s1> (<ab>cf.</ab> <s>SrOta</s>), <ls>MBh. iii, 100, 75</ls><info lex="inh"/>
+;
+738329 new ¦ taught or enjoined in the <s1>Veda</s1> (<ab>cf.</ab> <s>SrOta</s>), <ls>MBh. iii, 10075</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>226924<pc>1120,1<k1>saMsarga<k2>saM-sarga<e>2B
+752745 old ¦ duration, <ls>MBh. iii, 11, 238</ls><info lex="inh"/>
+;
+752745 new ¦ duration, <ls>MBh. iii, 11238</ls><info lex="inh"/>
+;---------------------------------------------------
