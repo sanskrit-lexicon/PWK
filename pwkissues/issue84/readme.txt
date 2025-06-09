@@ -89,6 +89,33 @@ proposal for missing scans in index
 python make_index_AB1_missing.py index_AB1.txt index_AB1_missing.txt
 
 ----------------------------------------
+06-09-2025  index_AB2.txt
+
+renamed from index_AB.revised.txt
+Ref: https://github.com/sanskrit-lexicon/PWK/issues/84#issuecomment-2954404516
+This to be used instead of index_AB1_missing.txt.
+
+# construct index
+python make_js_index.py index_AB2.txt index_AB2.js
+6529 Success: Page records read from index_AB2.txt
+
+Andhrabharati also proposes names for the 22 missing scan pages.
+
+1-624x 1-624y
+1-638x 1-638y
+1-664x 1-664y
+2-288x 2-288y
+3-66x  3-66y
+3-104x 3-104y
+3-126x 3-126y
+4-408x 4-408y
+4-570x 4-570y
+4-632x 4-632y
+4-638x 4-638y
+
+Revise readme_app.txt  to use index_AB2.txt for app1
+And revise sanskrit-lexicon-scans/mbhbomb/app1
+----------------------------------------
 ADDITIONAL STEPS   
 
 app construction.
