@@ -1,0 +1,180 @@
+
+
+lamb	<ls n="R. GORR.">7,23,1,18.</ls>  link problem
+  Link goes to 7,23,1  But should go to 7,23,18
+saBAjay	<ls n="R. GORR.">7,37,5,61.</ls>  link problem
+  Link goes to  7,37,5 There is no 7,37,61 !
+
+
+link problem with 3-parm kanda 7 refs.
+  The reference word is (often, always) not found in the verse
+  Example: vijvara  not found in
+  https://sanskrit-lexicon-scans.github.io/ramayanagorr/?7,81,14
+
+139 matches for "GORR.">7,"
+Some are found.  e.g. yATAtaTya	<ls n="R. GORR.">7,12,13.</ls>
+Some not found.  e.g. lakzmi	<ls n="R. GORR.">7,46,13.</ls>
+    Not found: https://sanskrit-lexicon-scans.github.io/ramayanagorr/?7,46,13
+    Found Bomb.  https://sanskrit-lexicon-scans.github.io/ramayanabom/app1/?7,46,13
+
+727179	yat	<ls n="R. GORR. 7,">98,6.</ls>	
+727179	yat	<ls n="R. GORR. 7,96,">8.</ls>	
+782213	lavaRa	<ls n="R. GORR. 7,">67,13.</ls>	
+811669	varD	<ls n="R. GORR. 7,">106,4.</ls>	
+839246	vijayin	<ls n="R. GORR. 7,">22,1.</ls>	
+840177	vijvara	<ls n="R. GORR. 7,">81,14.</ls>	  example
+852235	vimarda	<ls n="R. GORR. 7,20,">32.</ls>	
+858999	viS	<ls n="R. GORR. 7,">70,17.</ls>	
+858999	viS	<ls n="R. GORR. 7,">79,17.</ls>	
+868448	vistara	<ls n="R. GORR. 7,">100,8.</ls>	
+883675	vEDavya	<ls n="R. GORR. 7,">25,43.</ls>	
+907153	SaravaRa	<ls n="R. GORR. 7,16,">2.</ls>	
+907153	SaravaRa	<ls n="R. GORR. 7,">35,22.</ls>	
+916336	SAs	<ls n="R. GORR. 7,">99,13.</ls>	
+962765	sajja	<ls n="R. GORR. 7,">46,32.</ls>	
+965644	sattva	<ls n="R. GORR. 7,4,">10.</ls>	
+992159	sarj	<ls n="R. GORR. 7,">95,16.</ls>	
+992159	sarj	<ls n="R. GORR. 7,">106,13</ls>	
+1020875	sukfta	<ls n="R. GORR. 7,">55,6.</ls>	
+1048661	sOBrAtra	<ls n="R. GORR. 7,">13,12.</ls>	
+
+632751	ArADanIya	<ls n="R. GORR.">7,108,27.</ls>	
+725904	yajYadIkzA	<ls n="R. GORR.">7,57,10.</ls>	
+726283	yajYavAwa	<ls n="R. GORR.">7,91,15.</ls>	
+727179	yat	<ls n="R. GORR.">7,30,26.</ls>	
+727179	yat	<ls n="R. GORR.">7,59,10.</ls>	
+729140	yaTAyogam	<ls n="R. GORR.">7,93,9.</ls>	
+730110	yaToddizwa	<ls n="R. GORR.">7,52,8.</ls>	
+732163	yam	<ls n="R. GORR.">7,83,8.</ls>	
+736067	yA	<ls n="R. GORR.">7,14,2.</ls>	
+737369	yATAtaTya	<ls n="R. GORR.">7,12,13.</ls>	
+740437	yuj	<ls n="R. GORR.">7,106,16.</ls>	
+740734	yuj	<ls n="R. GORR.">7,20,25.</ls>	
+749241	raj	<ls n="R. GORR.">7,109,14.</ls>	
+749419	raj	<ls n="R. GORR.">7,8,2.</ls>	
+762470	rAD	<ls n="R. GORR.">7,102,4.</ls>	
+762482	rAD	<ls n="R. GORR.">7,36,28.</ls>	
+764028	rAvaRa	<ls n="R. GORR.">7,16,38.</ls>	
+766767	ruc	<ls n="R. GORR.">7,37,23.</ls>	
+767704	rud	<ls n="R. GORR.">7,49,5.</ls>	
+768970	ruD	<ls n="R. GORR.">7,24,26.</ls>	
+770378	ruh	<ls n="R. GORR.">7,12,20.</ls>	
+770380	ruh	<ls n="R. GORR.">7,46,33.</ls>	
+776432	lakzay	<ls n="R. GORR.">7,34,15.</ls>	
+776798	lakzmi	<ls n="R. GORR.">7,46,13.</ls>	
+778330	laGuvikrama	<ls n="R. GORR.">7,107,8.</ls>	
+778705	laNG	<ls n="R. GORR.">7,27,1.</ls>	
+779871	lap	<ls n="R. GORR.">7,24,23.</ls>	
+None	3	780981	lamb	<ls n="R. GORR.">7,23,1,18.</ls>	
+782213	lavaRa	<ls n="R. GORR.">7,61,17.</ls>	
+783179	lANgala	<ls n="R. GORR.">7,7,47.</ls>	
+784564	liK	<ls n="R. GORR.">7,9,17.</ls>	
+785153	lip	<ls n="R. GORR.">7,17,21.</ls>	
+788868	lokanATa	<ls n="R. GORR.">7,83,11.</ls>	
+790514	lomaharzaRa	<ls n="R. GORR.">7,28,30.</ls>	
+798243	vad	<ls n="R. GORR.">7,60,1.</ls>	
+798570	vaD	<ls n="R. GORR.">7,29,23.</ls>	
+803947	var	<ls n="R. GORR.">7,80,11.</ls>	
+808792	vart	<ls n="R. GORR.">7,9,8.</ls>	
+808864	vart	<ls n="R. GORR.">7,59,22.</ls>	
+808976	vart	<ls n="R. GORR.">7,21,9.</ls>	
+809613	vart	<ls n="R. GORR.">7,13,32.</ls>	
+809756	vart	<ls n="R. GORR.">7,22,45.</ls>	
+809847	vart	<ls n="R. GORR.">7,23,53.</ls>	
+811669	varD	<ls n="R. GORR.">7,99,19</ls>	
+812123	varDakin	<ls n="R. GORR.">7,91,24.</ls>	
+813299	varzavara	<ls n="R. GORR.">7,109,10.</ls>	
+815606	vaSavartin	<ls n="R. GORR.">7,89,6.</ls>	
+815911	vaSya	<ls n="R. GORR.">7,75,7.</ls>	
+816562	vas	<ls n="R. GORR.">7,23,4.</ls>	
+819975	vah	<ls n="R. GORR.">7,28,19.</ls>	
+833652	vAhana	<ls n="R. GORR.">7,16,7.</ls>	
+836379	viklava	<ls n="R. GORR.">7,32,45.</ls>	
+837241	viGAta	<ls n="R. GORR.">7,63,21.</ls>	
+837917	vicAraRa	<ls n="R. GORR.">7,104,19.</ls>	
+837978	vicArin	<ls n="R. GORR.">7,18,29.</ls>	
+839246	vijayin	<ls n="R. GORR.">7,1,19.</ls>	
+840177	vijvara	<ls n="R. GORR.">7,6,21.</ls>	
+846853	vinASana	<ls n="R. GORR.">7,102,4.</ls>	
+849971	vipravAsana	<ls n="R. GORR.">7,50,7.</ls>	
+852235	vimarda	<ls n="R. GORR.">7,20,5.</ls>	
+857087	vivarDana	<ls n="R. GORR.">7,29,38.</ls>	
+857099	vivarDana	<ls n="R. GORR.">7,26,7</ls>	
+858999	viS	<ls n="R. GORR.">7,11,48. fg.</ls>	
+868407	vistara	<ls n="R. GORR.">7,101,15.</ls>	
+868447	vistara	<ls n="R. GORR.">7,55,1.</ls>	
+872023	vIrAsana	<ls n="R. GORR.">7,10,4.</ls>	
+880495	velA	<ls n="R. GORR.">7,8,1.</ls>	
+882489	vEjayanta	<ls n="R. GORR.">7,55,6.</ls>	
+883311	vEdeha	<ls n="R. GORR.">7,38,2.</ls>	
+883675	vEDavya	<ls n="R. GORR.">7,24,30.</ls>	
+896102	SaMs	<ls n="R. GORR.">7,63,18.</ls>	
+903145	Sap	<ls n="R. GORR.">7,107,6.</ls>	
+903146	Sap	<ls n="R. GORR.">7,97,17.</ls>	
+903192	Sap	<ls n="R. GORR.">7,47,9.</ls>	
+903195	Sap	<ls n="R. GORR.">7,45,21.</ls>	
+904681	Sam	<ls n="R. GORR.">7,71,8.</ls>	
+907153	SaravaRa	<ls n="R. GORR.">7,16,1.</ls>	
+915405	SAlin	<ls n="R. GORR.">7,26,43.</ls>	
+916233	SAs	<ls n="R. GORR.">7,30,50.</ls>	
+916336	SAs	<ls n="R. GORR.">7,35,19.</ls>	
+921860	SiSira	<ls n="R. GORR.">7,42,26.</ls>	
+928401	SuB	<ls n="R. GORR.">7,70,12.</ls>	
+938441	Sram	<ls n="R. GORR.">7,26,26.</ls>	
+938867	SravaRa	<ls n="R. GORR.">7,20,6.</ls>	
+942973	Sru	<ls n="R. GORR.">7,79,14.</ls>	
+944992	Srotavya	<ls n="R. GORR.">7,18,15.</ls>	
+945648	SlAGin	<ls n="R. GORR.">7,23,1.</ls>	
+947155	Svas	<ls n="R. GORR.">7,7,46.</ls>	
+953221	saMvarta	<ls n="R. GORR.">7,101,7.</ls>	
+962765	sajja	<ls n="R. GORR.">7,6,63.</ls>	
+965644	sattva	<ls n="R. GORR.">7,4,9.</ls>	
+968994	sadasya	<ls n="R. GORR.">7,36,56.</ls>	
+None	3	977193	saBAjay	<ls n="R. GORR.">7,37,5,61.</ls>	
+977476	sama	<ls n="R. GORR.">7,17,24.</ls>	
+978875	samaya	<ls n="R. GORR.">7,104,3.</ls>	
+986650	saMbanDaka	<ls n="R. GORR.">7,38,4.</ls>	
+986805	saMbADa	<ls n="R. GORR.">7,104,6.</ls>	
+991184	sarga	<ls n="R. GORR.">7,93,10.</ls>	
+991777	sarj	<ls n="R. GORR.">7,56,17.</ls>	
+992159	sarj	<ls n="R. GORR.">7,82,19.</ls>	
+992559	sarp	<ls n="R. GORR.">7,19,31</ls>	
+996310	sarvasva	<ls n="R. GORR.">7,44,19.</ls>	
+1002741	sahya	<ls n="R. GORR.">7,84,18.</ls>	
+1004375	sAgra	<ls n="R. GORR.">7,23,9.</ls>	
+1006521	sADu	<ls n="R. GORR.">7,32,28.</ls>	
+1006548	sADu	<ls n="R. GORR.">7,29,11.</ls>	
+1008478	sAman	<ls n="R. GORR.">7,30,2.</ls>	
+1010231	sAyAhna	<ls n="R. GORR.">7,111,9.</ls>	
+1020875	sukfta	<ls n="R. GORR.">7,54,18.</ls>	
+1022826	suganDi	<ls n="R. GORR.">7,31,29.</ls>	
+1028120	suptaGna	<ls n="R. GORR.">7,5,36.</ls>	
+1036098	suvela	<ls n="R. GORR.">7,5,23.</ls>	
+1040217	sUtra	<ls n="R. GORR.">7,36,45.</ls>	
+1044097	sev	<ls n="R. GORR.">7,20,13.</ls>	
+1044248	sev	<ls n="R. GORR.">7,78,16.</ls>	
+1044957	sEnika	<ls n="R. GORR.">7,21,11.</ls>	
+1048661	sOBrAtra	<ls n="R. GORR.">7,11,13.</ls>	
+1049013	sOmya	<ls n="R. GORR.">7,37,2.</ls>	
+1049170	sOmyatva	<ls n="R. GORR.">7,37,7.</ls>	
+1052819	star	<ls n="R. GORR.">7,37,11.</ls>	
+1056325	sTA	<ls n="R. GORR.">7,63,2.</ls>	
+1057209	sTA	<ls n="R. GORR.">7,34,25.</ls>	
+1058182	sTA	<ls n="R. GORR.">7,22,3.</ls>	
+1058774	sTA	<ls n="R. GORR.">7,25,3</ls>	
+1058809	sTA	<ls n="R. GORR.">7,19,10</ls>	
+1058852	sTA	<ls n="R. GORR.">7,25,44.</ls>	
+1064036	sparS	<ls n="R. GORR.">7,77,16.</ls>	
+1065811	sPur	<ls n="R. GORR.">7,80,16.</ls>	
+1068228	sraMs	<ls n="R. GORR.">7,69,12.</ls>	
+1070368	svaj	<ls n="R. GORR.">7,72,5.</ls>	
+1071308	svana	<ls n="R. GORR.">7,8,10.</ls>	
+1073221	svara	<ls n="R. GORR.">7,94,5.</ls>	
+1074075	svargapurI	<ls n="R. GORR.">7,102,9.</ls>	
+1075707	svasti	<ls n="R. GORR.">7,10,39.</ls>	
+1080592	han	<ls n="R. GORR.">7,21,30.</ls>	
+1081240	han	<ls n="R. GORR.">7,59,14.</ls>	
+1082247	hayameDa	<ls n="R. GORR.">7,92,10.</ls>	
+1083235	har	<ls n="R. GORR.">7,65,26.</ls>	
+1101625	hlAd	<ls n="R. GORR.">7,97,11.</ls>	
+ 

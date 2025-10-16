@@ -1,0 +1,55 @@
+; <L>31165<pc>3-0445<k1>triSata<k2>triSata/
+302697 old <ls>R. GORR. 2. 6</ls> in den Unterschrr. der <is>Adhyāya</is>.
+;
+302697 new <ls>R. GORR. 2.</ls> <ls n="R. GORR.">6</ls> in den Unterschrr. der <is>Adhyāya</is>.
+;---------------------------------------------------
+; <L>31167<pc>3-0446<k1>triSatatama<k2>triSatatama
+302712 old <ls>R. GORR. 2. 6</ls> in den Unterschrr. der <is>Adhyāya</is>.
+;
+302712 new <ls>R. GORR. 2.</ls> <ls n="R. GORR.">6</ls> in den Unterschrr. der <is>Adhyāya</is>.
+;---------------------------------------------------
+; <L>35523<pc>3-0821<k1>dvAcatvAriMSa<k2>dvAcatvAriMSa
+343889 old <ls>MBH. 1. 8. 9. 13</ls> und <ls>R. GORR. 2. 3</ls> in den Unterschrr. der <is>Adhyāya</is> und <is>Sarga</is>.
+;
+343889 new <ls>MBH. 1. 8. 9. 13</ls> und <ls>R. GORR. 2.</ls> <ls n="R. GORR.">3</ls> in den Unterschrr. der <is>Adhyāya</is> und <is>Sarga</is>.
+;---------------------------------------------------
+; <L>35858<pc>3-0842<k1>dvizazwitama<k2>dvizazwitama
+346528 old <ls>R. GORR. 1. 2. 3. 5. 6</ls> in den Unterschrr. der <is>Adhyāya</is> und <is>Sārga</is>.
+;
+346528 new <ls>R. GORR. 1.</ls> <ls n="R. GORR.">2.</ls> <ls n="R. GORR.">3.</ls> <ls n="R. GORR.">5.</ls> <ls n="R. GORR.">6</ls> in den Unterschrr. der <is>Adhyāya</is> und <is>Sārga</is>.
+;---------------------------------------------------
+; <L>35871<pc>3-0842<k1>dvisaptatitama<k2>dvisaptatitama
+346611 old <ls>R. GORR. 1. 2. 3. 5. 6</ls> in den Unterschrr. der <is>Adhyāya</is> und <is>Sarga</is>.
+;
+346611 new <ls>R. GORR. 1.</ls> <ls n="R. GORR.">2.</ls> <ls n="R. GORR.">3.</ls> <ls n="R. GORR.">5.</ls> <ls n="R. GORR.">6</ls> in den Unterschrr. der <is>Adhyāya</is> und <is>Sarga</is>.
+;---------------------------------------------------
+; <L>35976<pc>3-0849<k1>dvyaSItitama<k2>dvyaSItitama
+347439 old <ls>R. GORR. 2. 5. 6</ls> in den Unterschrr. der <is>Sarga</is>.
+;
+347439 new <ls>R. GORR. 2.</ls> <ls n="R. GORR.">5.</ls> <ls n="R. GORR.">6</ls> in den Unterschrr. der <is>Sarga</is>.
+;---------------------------------------------------
+; <L>56235<pc>5-0425<k1>maNgala<k2>maNgala/
+547418 old <ls>R. 2,25,30. fgg.</ls> (<ls n="GORR. 2,25,">24 fg.</ls> <ls>GORR.</ls>). {#maNgalecCu#}
+;
+547418 new <ls>R. 2,25,30. fgg.</ls> (<ls n="GORR. 2,25,">24. fg.</ls> <ls>GORR.</ls>). {#maNgalecCu#}
+;---------------------------------------------------
+; <L>58787<pc>5-0644<k1>mahAmAya<k2>mahAmAya
+572398 old <ls>R. 1,29</ls> (<ls n="GORR. 1,">30 GORR.</ls>), <ls n="R. 1,">18.</ls> {%grossen Trug anwendend, gross im Täuschen%}: {#rAkzasa#}
+;
+572398 new <ls>R. 1,29</ls> (<ls>GORR. 1,30</ls>), <ls n="R. 1,">18.</ls> {%grossen Trug anwendend, gross im Täuschen%}: {#rAkzasa#}
+;---------------------------------------------------
+; <L>85877<pc>6-0488<k1>laNGana<k2>laNGana
+778881 old <ls n="R. GORR.">4,70. 4,1,2. 58,36. 62,3. 63,27.</ls> {#yojanAnAM sahasrasya#}
+;
+778881 new <ls n="R. GORR. 1,">4,70. 4,1,2. 58,36. 62,3. 63,27.</ls> {#yojanAnAM sahasrasya#}
+;---------------------------------------------------
+; <L>104657<pc>7-0635<k1>saMdarSana<k2>saMdarSana
+972472 old <ls>R. GORR. 1,66,13.</ls> <ls n="R. GORR.">2,12,2.</ls> <ls n="R. GORR.">72</ls> in der Unterschr.
+;
+972472 new <ls>R. GORR. 1,66,13.</ls> <ls n="R. GORR.">2,12,2.</ls> <ls n="R. GORR. 2,">72</ls> in der Unterschr.
+;---------------------------------------------------
+; <L>110201<pc>7-1054<k1>sutIrTa<k2>sutIrTa/<h>2
+1024354 old <ls>R. 2,56,33.</ls> <ls n="R. 2,">91,71.</ls> <ls n="R. 2,">103,24</ls> (<ls n="GORR. 2,">111,30</ls> <ls>GORR.</ls>). <ls>R. GORR. 2,87,15.</ls> <ls n="R. GORR. 2,">98,5. <is>Śiva</is></ls> <ls>MBH. 14,195</ls> nach der Lesart der <ls>ed. Bomb.</ls>
+;
+1024354 new <ls>R. 2,56,33.</ls> <ls n="R. 2,">91,71.</ls> <ls n="R. 2,">103,24</ls> (<ls n="GORR. 2,">111,30</ls> <ls>GORR.</ls>). <ls>R. GORR. 2,87,15.</ls> <ls n="R. GORR. 2,">98,5.</ls> <is>Śiva</is> <ls>MBH. 14,195</ls> nach der Lesart der <ls>ed. Bomb.</ls>
+;---------------------------------------------------

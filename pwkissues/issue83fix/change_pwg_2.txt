@@ -1,0 +1,25 @@
+; <L>37174<pc>3-1004<k1>DvaMs<k2>DvaMs
+362532 old <ls n="R. GORR.">5,26,37. 6,1,34.</ls> <ls>PAÑCAT. ed. orn. 55,14.</ls> <ls>MĀRK. P. 20,43.</ls> <ls>BHAṬṬ. 12,23.</ls> {#(kftAntaH) viSvaM viDvaMsayanvIryaSOryavisPUrjitaBruvA#}
+;
+362532 new <ls n="R. GORR.">5,26,37.</ls> <ls n="R. GORR.">6,1,34.</ls> <ls>PAÑCAT. ed. orn. 55,14.</ls> <ls>MĀRK. P. 20,43.</ls> <ls>BHAṬṬ. 12,23.</ls> {#(kftAntaH) viSvaM viDvaMsayanvIryaSOryavisPUrjitaBruvA#}
+;---------------------------------------------------
+; <L>85877<pc>6-0488<k1>laNGana<k2>laNGana
+778881 old <ls n="R. GORR. 1,">4,70. 4,1,2. 58,36. 62,3. 63,27.</ls> {#yojanAnAM sahasrasya#}
+;
+778881 new <ls n="R. GORR. 1,">4,70.</ls> <ls n="R. GORR.">4,1,2.</ls> <ls n="R. GORR. 4,">58,36.</ls> <ls n="R. GORR. 4,">62,3.</ls> <ls n="R. GORR. 4,">63,27.</ls> {#yojanAnAM sahasrasya#}
+;---------------------------------------------------
+; <L>85877<pc>6-0488<k1>laNGana<k2>laNGana
+778882 old <ls n="R. GORR.">5,1,64. 2,41. 6,100,7.</ls> <ls>Verz. d. Oxf. H. 85,b,5. 24.</ls> <ls n="Verz. d. Oxf. H.">344,a,13.</ls> <ls>Spr. 2460.</ls> <ls n="Spr.">3392.</ls> <ls>KATHĀS. 109,45.</ls> <ls>RĀJA-TAR. 3,68.</ls> <ls n="RĀJA-TAR.">6,226.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 183,1.</ls> <ls>SĀH. D. 26,13. 16.</ls> {#maryAdA°#}
+;
+778882 new <ls n="R. GORR.">5,1,64.</ls> <ls n="R. GORR. 5,">2,41.</ls> <ls n="R. GORR.">6,100,7.</ls> <ls>Verz. d. Oxf. H. 85,b,5. 24.</ls> <ls n="Verz. d. Oxf. H.">344,a,13.</ls> <ls>Spr. 2460.</ls> <ls n="Spr.">3392.</ls> <ls>KATHĀS. 109,45.</ls> <ls>RĀJA-TAR. 3,68.</ls> <ls n="RĀJA-TAR.">6,226.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 183,1.</ls> <ls>SĀH. D. 26,13. 16.</ls> {#maryAdA°#}
+;---------------------------------------------------
+; <L>96987.36<pc>6-1511<k1>vart<k2>vart
+895727 old {#vart#}¦ [vgl. [Page6-0751]] mit {#ati#} 1〉 Z. 24. <ls>R. GORR. 2,30,30. 6,103,18</ls> bedeutet das Wort {%überschreiten%} ({#velAm#} {%das Ufer%}, und an der ersten Stelle zugleich {#Darmam#}).<info n="rev"/>
+;
+895727 new {#vart#}¦ [vgl. [Page6-0751]] mit {#ati#} 1〉 Z. 24. <ls>R. GORR. 2,30,30.</ls> <ls n="R. GORR.">6,103,18</ls> bedeutet das Wort {%überschreiten%} ({#velAm#} {%das Ufer%}, und an der ersten Stelle zugleich {#Darmam#}).<info n="rev"/>
+;---------------------------------------------------
+; <L>109138<pc>7-0979<k1>sic<k2>sic
+1014793 old <ls n="R. GORR. 2,3,">22.</ls> <ls n="R. GORR. 2,">61,6. 3,53,7. 4,25,34. fg.</ls> <ls>RAGH. 17,13.</ls> <ls n="RAGH.">19,1.</ls> <ls>VARĀH. BṚH. S. 48,50.</ls> <ls n="VARĀH. BṚH. S. 48,">54. fg.</ls> <ls>KATHĀS. 20,111.</ls> <ls>MĀRK. P. 25,8.</ls> <ls>Verz. d. Oxf. H. 268,b,3.</ls> <ls>RĀJA-TAR. 5,413.</ls> <ls n="RĀJA-TAR. 5,">462.</ls> <ls>BHĀG. P. 1,15,38.</ls> <ls n="BHĀG. P.">4,14,2.</ls> <ls n="BHĀG. P.">5,9,16.</ls> <ls n="BHĀG. P. 5,">15,8.</ls> <ls n="BHĀG. P.">9,4,31.</ls> {#AryapAduke#} acc. du.
+;
+1014793 new <ls n="R. GORR. 2,3,">22.</ls> <ls n="R. GORR. 2,">61,6.</ls> <ls n="R. GORR.">3,53,7.</ls> <ls n="R. GORR.">4,25,34. fg.</ls> <ls>RAGH. 17,13.</ls> <ls n="RAGH.">19,1.</ls> <ls>VARĀH. BṚH. S. 48,50.</ls> <ls n="VARĀH. BṚH. S. 48,">54. fg.</ls> <ls>KATHĀS. 20,111.</ls> <ls>MĀRK. P. 25,8.</ls> <ls>Verz. d. Oxf. H. 268,b,3.</ls> <ls>RĀJA-TAR. 5,413.</ls> <ls n="RĀJA-TAR. 5,">462.</ls> <ls>BHĀG. P. 1,15,38.</ls> <ls n="BHĀG. P.">4,14,2.</ls> <ls n="BHĀG. P.">5,9,16.</ls> <ls n="BHĀG. P. 5,">15,8.</ls> <ls n="BHĀG. P.">9,4,31.</ls> {#AryapAduke#} acc. du.
+;---------------------------------------------------
