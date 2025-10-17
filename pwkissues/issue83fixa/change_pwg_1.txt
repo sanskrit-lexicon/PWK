@@ -1,0 +1,130 @@
+; <L>33327<pc>3-0662<k1>duHKa<k2>duHKa/
+325551 old <ls n="R. SCHL.">28,7.</ls>
+;
+325551 new <ls n="R. SCHL. 2,">28,7.</ls>
+;---------------------------------------------------
+; <L>38896<pc>4-0150<k1>nideSa<k2>nideSa
+379993 old <ls n="R. SCHL.">52. 77.</ls> {#°BAj#}
+;
+379993 new <ls n="R. SCHL. 2,">52,77.</ls> {#°BAj#}
+;---------------------------------------------------
+; <L>42307<pc>4-0470<k1>par<k2>par<h>1
+414260 old ({#pUrayitum#} <ls n="R. SCHL.">69,9</ls> <ls>GORR.</ls>). {#pUrayasva (DanuH) SareREva#}
+;
+414260 new ({#pUrayitum#} <ls>GORR. 1,69,9 </ls>). {#pUrayasva (DanuH) SareREva#}
+;---------------------------------------------------
+; <L>43531<pc>4-0578<k1>paryAkula<k2>paryAkula
+425740 old <ls n="R. SCHL.">58,6. 59,12.</ls>
+;
+425740 new <ls n="R. SCHL. 1,">58,6.</ls> <ls n="R. SCHL. 1,">59,12.</ls>
+;---------------------------------------------------
+; <L>45122<pc>4-0707<k1>piwaka<k2>piwaka
+440812 old <ls n="R. SCHL.">36,25.</ls> {#dAtrapiwaka#} <lex>n.</lex>
+;
+440812 new <ls n="R. SCHL. 2,">36,25.</ls> {#dAtrapiwaka#} <lex>n.</lex>
+;---------------------------------------------------
+; <L>49122<pc>4-1016<k1>pradakziRa<k2>pradakziRa
+477162 old <ls n="R. SCHL.">3,78,12.</ls> {#SakunAH#}
+;
+477162 new <ls n="R. GORR.">3,78,12.</ls> {#SakunAH#}
+;---------------------------------------------------
+; <L>52900<pc>5-0099<k1>budDi<k2>budDi
+512236 old <ls n="R. SCHL.">3,48,16.</ls> {#nahyezA budDirAsTeyA hanUmannaNgadaM prati#}
+;
+512236 new <ls n="R.">3,48,16.</ls> {#nahyezA budDirAsTeyA hanUmannaNgadaM prati#}
+;---------------------------------------------------
+; <L>52900<pc>5-0099<k1>budDi<k2>budDi
+512237 old <ls n="R. SCHL.">4,23,11.</ls> {#evaM me niScitA budDirmanaScApi samAhitam#}
+;
+512237 new <ls n="R.">4,23,11.</ls> {#evaM me niScitA budDirmanaScApi samAhitam#}
+;---------------------------------------------------
+; <L>52900<pc>5-0099<k1>budDi<k2>budDi
+512238 old <ls n="R. SCHL.">2,19,11.</ls> {#DarmamASritya sadbudDimanuvartitumarhasi#}
+;
+512238 new <ls n="R. GORR.">2,19,11.</ls> {#DarmamASritya sadbudDimanuvartitumarhasi#}
+;---------------------------------------------------
+; <L>52900<pc>5-0099<k1>budDi<k2>budDi
+512239 old <ls n="R. SCHL.">18,51.</ls> {#na ca me kroDamutsrazwuM budDirBavati#}
+;
+512239 new <ls n="R. GORR. 2,">18,51.</ls> {#na ca me kroDamutsrazwuM budDirBavati#}
+;---------------------------------------------------
+; <L>52900<pc>5-0099<k1>budDi<k2>budDi
+512241 old <ls n="R. SCHL.">41,9.</ls> {#evaM tasya tadA budDirdamayantyAM nyavartata . — damayantyA visarjane#}
+;
+512241 new <ls n="R. SCHL. 1,">41,9.</ls> {#evaM tasya tadA budDirdamayantyAM nyavartata . — damayantyA visarjane#}
+;---------------------------------------------------
+; <L>69471<pc>5-1240<k1>kataka<k2>kataka
+650719 old <ls>R.</ls> ed. <ls>SCHL. I, XXXI.</ls>
+;
+650719 new <ls>R. ed. SCHL. I, XXXI.</ls>
+;---------------------------------------------------
+; <L>81276<pc>6-0043<k1>yaTAbalam<k2>yaTAbala/m
+728894 old <ls>R.</ls> ed. <ls>SCHL. 1,51,16</ls> ist {#yaTA balaM#} zu schreiben.
+;
+728894 new <ls>R. ed. SCHL. 1,51,16</ls> ist {#yaTA balaM#} zu schreiben.
+;---------------------------------------------------
+; <L>82186<pc>6-0149<k1>yuj<k2>yuj<h>1
+740331 old <ls n="R. SCHL.">2,69,15. 18.</ls> {#vAjinaH#}
+;
+740331 new <ls n="R. SCHL.">2,69,15.</ls> <ls n="R. SCHL. 2,69,">18.</ls> {#vAjinaH#}
+;---------------------------------------------------
+; <L>87163<pc>6-0610<k1>vaktavya<k2>vakta/vya
+792903 old <ls>R.</ls> ed. <ls>SCHL. 2,58,14.</ls> <ls>VARĀH. BṚH. S. 44,7.</ls> <ls>BHAṬṬ. 7,19.</ls>
+;
+792903 new <ls>R. ed. SCHL. 2,58,14.</ls> <ls>VARĀH. BṚH. S. 44,7.</ls> <ls>BHAṬṬ. 7,19.</ls>
+;---------------------------------------------------
+; <L>88503<pc>6-0746<k1>vart<k2>vart
+809009 old <ls>R. SCHL. 2,65,3.</ls> {#sADu sADviti SabdaSca antarIkze #}
+;
+809009 new <ls>R. SCHL. 2,65,3.</ls> {#sADu sADviti SabdaSca antarIkze 'Byavartata#}
+;---------------------------------------------------
+; <L>88503<pc>6-0746<k1>vart<k2>vart
+809011 old {# 'Byavartata#}
+;
+809011 new 
+;---------------------------------------------------
+; <L>88503<pc>6-0746<k1>vart<k2>vart
+809012 old <ls n="R. SCHL.">3,35,95.</ls>
+;
+809012 new <ls n="R. GORR.">3,35,95.</ls>
+;---------------------------------------------------
+; <L>88503<pc>6-0746<k1>vart<k2>vart
+810809 old <ls n="R. SCHL.">42,22.</ls> {#vArttAM nfRAM yaH (vESyaH) samavartayat#}
+;
+810809 new <ls n="R. SCHL. 1,">42,22.</ls> {#vArttAM nfRAM yaH (vESyaH) samavartayat#}
+;---------------------------------------------------
+; <L>88612<pc>6-0799<k1>varza<k2>varza/
+812977 old <ls n="R. SCHL.">22.</ls> {#Sara°#}
+;
+812977 new <ls n="R. SCHL. 1,28,">22.</ls> {#Sara°#}
+;---------------------------------------------------
+; <L>96268<pc>6-1435<k1>vyaT<k2>vyaT
+887877 old <ls n="R. SCHL.">63,23.</ls> {#ativyaTitakarRamUlahfdaya#}
+;
+887877 new <ls n="R. SCHL. 2,">63,23.</ls> {#ativyaTitakarRamUlahfdaya#}
+;---------------------------------------------------
+; <L>96319<pc>6-1446<k1>vyapekzA<k2>vyapekzA
+888802 old <ls n="R. SCHL.">45,26.</ls>
+;
+888802 new <ls n="R. SCHL. 2,">45,26.</ls>
+;---------------------------------------------------
+; <L>104617<pc>7-0631<k1>saMtApa<k2>saMtApa/
+972082 old <ls n="R. SCHL.">3,68,39.</ls> {#na saMtApamApnuyAt#}
+;
+972082 new <ls n="R.">3,68,39.</ls> {#na saMtApamApnuyAt#}
+;---------------------------------------------------
+; <L>108997<pc>7-0971<k1>sAhya<k2>sAhya
+1013508 old <ls>R.</ls> ed. <ls>SCHL. 1,59,3.</ls> in den folgenden Stellen haben die älteren Ausgaben {#sahya#}
+;
+1013508 new <ls>R. ed. SCHL. 1,59,3.</ls> in den folgenden Stellen haben die älteren Ausgaben {#sahya#}
+;---------------------------------------------------
+; <L>109803<pc>7-1033<k1>suKa<k2>suKa/
+1021285 old <ls n="R. 3,">30,16</ls> (<ls n="SCHL. 3,30,">14</ls> <ls>SCHL.</ls>). {#pAlane na ca te (arTAH) suKAH#} so v. a. {%leicht zu hüten%}
+;
+1021285 new <ls n="R. 3,">30,16</ls> (<ls n="R. 2,30,">14</ls> <ls>SCHL.</ls>). {#pAlane na ca te (arTAH) suKAH#} so v. a. {%leicht zu hüten%}
+;---------------------------------------------------
+; <L>113928<pc>7-1285<k1>sTA<k2>sTA<h>1
+1058205 old <ls n="R. SCHL.">32,15.</ls>
+;
+1058205 new <ls n="R. SCHL. 2,">32,15.</ls>
+;---------------------------------------------------

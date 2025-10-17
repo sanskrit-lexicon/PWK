@@ -1,0 +1,245 @@
+True	3	80528	AleKya	<ls>R. SCHL. 1,5,12.</ls>	
+True	3	278051	tantra	<ls>R. SCHL. 2,112,25.</ls>	
+True	3	289098	timiDvaja	<ls>R. SCHL. 2,44,11.</ls>	
+True	3	312586	darSana	<ls>R. SCHL. 2,35,25.</ls>	
+True	3	312586	darSana	<ls n="R. SCHL. 2,">73,5.</ls>	
+True	3	315021	dah	<ls>R. SCHL. 2,7,14.</ls>	
+True	3	315984	dA	<ls>R. SCHL. 2,96,36.</ls>	
+True	3	322239	diS	<ls>R. SCHL. 1,59,6.</ls>	
+True	3	322813	dizwAnta	<ls>R. SCHL. 2,65,28</ls>	
+True	3	325550	duHKa	<ls>R. SCHL. 2,78,20.</ls>	
+True	3	325551	duHKa	<ls n="R. SCHL. 2,">28,7.</ls>	
+True	3	325558	duHKa	<ls>R. SCHL. 2,28,9. fgg.</ls>	
+True	3	328831	durmeDa	<ls>R. SCHL. 2,37,21.</ls>	
+True	3	342273	dru	<ls>R. SCHL. 2,96,45.</ls>	
+True	3	343685	dvaMdva	<ls>R. SCHL. 2,77,23.</ls>	
+True	3	349487	Dar	<ls>R. SCHL. 2,24,28.</ls>	
+True	3	350006	Dara	<ls>R. SCHL. 2,108,8.</ls>	
+True	3	352002	DarmAraRya	<ls>R. SCHL. 1,34,7</ls>	
+True	3	353675	DA	<ls>R. SCHL. 2,42,16.</ls>	
+True	3	356652	DArAntaracara	<ls>R. SCHL. 2,96,39.</ls>	
+True	3	356907	DArmika	<ls>R. SCHL. 1,11,11.</ls>	
+True	3	356908	DArmika	<ls n="R. SCHL.">2,106,1</ls>	
+True	3	362404	DvaMs	<ls>R. SCHL. 1,58,10.</ls>	
+True	3	362512	DvaMs	<ls>R. SCHL. 2,69,12.</ls>	
+True	3	362531	DvaMs	<ls>R. SCHL. 1,66,9.</ls>	
+True	3	368405	nam	<ls>R. SCHL. 2,91,38</ls>	
+True	3	368406	nam	<ls n="R. SCHL.">1,39,15.</ls>	
+True	3	379992	nideSa	<ls>R. SCHL. 2,34,43.</ls>	
+True	3	379993	nideSa	<ls n="R. SCHL. 2,">52,77.</ls>	
+True	3	380350	niDi	<ls>R. SCHL. 1,1,5.</ls>	
+True	3	382375	niratyaya	<ls>R. SCHL. 2,22,4.</ls>	
+True	3	389277	niScaya	<ls>R. SCHL. 1,8,22.</ls>	
+True	3	389677	niHSeza	<ls>R. SCHL. 2,78,14.</ls>	
+True	3	393206	nI	<ls>R. SCHL. 1,40,9.</ls>	
+True	3	393442	nI	<ls>R. SCHL. 2,14,21.</ls>	
+True	3	410819	pad	<ls>R. SCHL. 1,28,31.</ls>	
+True	3	412426	padmaka	<ls>R. SCHL. 2,76,16.</ls>	
+True	3	414236	par	<ls>R. SCHL. 2,80,9.</ls>	
+True	3	414259	par	<ls>R. SCHL. 1,67,17.</ls>	
+True	3	414261	par	<ls n="R. SCHL. 1,">75,3</ls>	
+True	3	414263	par	<ls n="R. SCHL.">6,79,16.</ls>	
+True	3	414264	par	<ls n="R. SCHL. 6,">67,28.</ls>	
+True	3	414681	para	<ls>R. SCHL. 2,55,6.</ls>	
+True	3	417688	parAvara	<ls>R. SCHL. 2,39,31.</ls>	
+True	3	418870	pariGa	<ls>R. SCHL. 1,70,1</ls>	
+True	3	419764	paritApa	<ls>R. SCHL. 2,22,26.</ls>	
+True	3	425739	paryAkula	<ls>R. SCHL. 1,23,1.</ls>	
+True	3	425740	paryAkula	<ls n="R. SCHL. 1,">58,6.</ls>	
+True	3	425740	paryAkula	<ls n="R. SCHL. 1,">59,12.</ls>	
+True	3	426588	parvan	<ls>R. SCHL. 2,43,5.</ls>	
+True	3	439376	pASa	<ls>R. SCHL. 1,29,9.</ls>	
+True	3	440811	piwaka	<ls>R. SCHL. 2,31,25.</ls>	
+True	3	440812	piwaka	<ls n="R. SCHL. 2,">36,25.</ls>	
+True	3	443609	piSitASana	<ls>R. SCHL. 1,32,15.</ls>	
+True	3	446816	puRya	<ls>R. SCHL. 2,27,4.</ls>	
+True	3	447966	punar	<ls>R. SCHL. 1,1,39.</ls>	
+True	3	449139	puradvAra	<ls>R. SCHL. 2,88,19</ls>	
+True	3	454355	puzya	<ls>R. SCHL. 1,19,8.</ls>	
+True	3	455707	pUra	<ls>R. SCHL. 2,91,66.</ls>	
+True	3	456520	pUrva	<ls>R. SCHL. 2,109,34.</ls>	
+True	3	456669	pUrvaka	<ls>R. SCHL. 2,2,3.</ls>	
+True	3	475087	pratyanantara	<ls>R. SCHL. 2,65,12.</ls>	
+True	3	477161	pradakziRa	<ls>R. SCHL. 1,74,10</ls>	
+True	3	488789	prAkfta	<ls>R. SCHL. 2,22,19.</ls>	
+True	3	495090	prItidAya	<ls n="R. SCHL. 1,">29,4</ls>	
+True	3	497491	plu	<ls n="R. SCHL. 2,">95,10</ls>	
+True	3	505709	bahis	<ls>R. SCHL. 2,27,8.</ls>	
+True	3	512235	budDi	<ls>R. SCHL. 2,34,32.</ls>	
+True	3	512240	budDi	<ls>R. SCHL. 1,21,7.</ls>	
+True	3	512241	budDi	<ls n="R. SCHL. 1,">41,9.</ls>	
+True	3	512244	budDi	<ls>R. SCHL. 1,7,9.</ls>	
+True	3	519614	Bakz	<ls>R. SCHL. 2,91,50.</ls>	
+True	3	529768	BAva	<ls>R. SCHL. 1,3,11.</ls>	
+True	3	532233	Bid	<ls>R. SCHL. 1,64,7.</ls>	
+True	3	540456	BUz	<ls>R. SCHL. 2,39,17.</ls>	
+True	3	544239	BraMS	<ls>R. SCHL. 2,22,23.</ls>	
+True	3	550106	maRqala	<ls>R. SCHL. 2,77,8.</ls>	
+True	3	550707	mati	<ls>R. SCHL. 2,28,24.</ls>	
+True	3	550708	mati	<ls n="R. SCHL.">1,9,55</ls>	
+True	3	560415	mantray	<ls>R. SCHL. 1,59,3.</ls>	
+True	3	563093	mar	<ls>R. SCHL. 2,12,84.</ls>	
+True	3	564479	marj	<ls>R. SCHL. 2,83,17.</ls>	
+True	3	592965	mud	<ls>R. SCHL. 1,1,84.</ls>	
+True	3	594627	musala	<ls>R. SCHL. 1,29,13.</ls>	
+True	3	730943	yantra	<ls>R. SCHL. 2,77,9.</ls>	
+True	3	731341	yam	<ls>R. SCHL. 2,28,17.</ls>	
+True	3	734550	yaSohara	<ls>R. SCHL. 2,101,7.</ls>	
+True	3	735387	yA	<ls>R. SCHL. 2,49,2.</ls>	
+True	3	735475	yA	<ls>R. SCHL. 2,55,19.</ls>	
+True	3	735930	yA	<ls>R. SCHL. 2,69,15.</ls>	
+True	3	740321	yuj	<ls>R. SCHL. 2,70,12.</ls>	
+True	3	740330	yuj	<ls>R. SCHL. 2,92,31.</ls>	
+True	3	740331	yuj	<ls n="R. SCHL.">2,69,15.</ls>	
+True	3	740331	yuj	<ls n="R. SCHL. 2,69,">18.</ls>	
+True	3	741027	yuj	<ls>R. SCHL. 2,36,14.</ls>	
+True	3	741028	yuj	<ls n="R. SCHL.">5,2,3.</ls>	
+True	3	741127	yuj	<ls>R. SCHL. 2,26,23.</ls>	
+True	3	741236	yuj	<ls>R. SCHL. 1,38,23.</ls>	
+True	3	749422	raj	<ls>R. SCHL. 1,4,17.</ls>	
+True	3	753938	raB	<ls>R. SCHL. 1,65,5.</ls>	
+True	3	754056	raB	<ls>R. SCHL. 1,45,13.</ls>	
+True	3	754445	ram	<ls>R. SCHL. 2,96,9.</ls>	
+True	3	766705	ruc	<ls>R. SCHL. 2,29,19.</ls>	
+True	3	770218	ruh	<ls>R. SCHL. 2,52,69.</ls>	
+True	3	770448	ruh	<ls>R. SCHL. 2,78,4.</ls>	
+True	3	771083	rUpa	<ls>R. SCHL. 2,42,1.</ls>	
+True	3	774545	roza	<ls>R. SCHL. 2,96,50.</ls>	
+True	3	776799	lakzmi	<ls>R. SCHL. 1,19,21.</ls>	
+True	3	777552	lag	<ls>R. SCHL. 2,78,26.</ls>	
+True	3	779009	lajj	<ls>R. SCHL. 2,37,11.</ls>	
+True	3	781024	lamb	<ls>R. SCHL. 2,77,22.</ls>	
+True	3	783718	lABa	<ls>R. SCHL. 2,44,5.</ls>	
+True	3	797417	vatsala	<ls>R. SCHL. 2,24,16.</ls>	
+True	3	803255	var	<ls>R. SCHL. 2,56,15.</ls>	
+True	3	803397	var	<ls>R. SCHL. 1,9,12.</ls>	
+True	3	803735	var	<ls>R. SCHL. 2,80,19.</ls>	
+True	3	803934	var	<ls>R. SCHL. 1,10,9.</ls>	
+True	3	803948	var	<ls>R. SCHL. 1,11,2.</ls>	
+True	3	806890	varcas	<ls>R. SCHL. 1,4,28</ls>	
+True	3	806890	varcas	<ls n="R. SCHL.">2,110,20.</ls>	
+True	3	808614	vart	<ls>R. SCHL. 2,82,18.</ls>	
+True	3	808667	vart	<ls>R. SCHL. 1,59,21.</ls>	
+True	3	808747	vart	<ls>R. SCHL. 2,21,42.</ls>	
+True	3	808857	vart	<ls>R. SCHL. 2,106,15.</ls>	
+True	3	808931	vart	<ls>R. SCHL. 2,14,8.</ls>	
+True	3	808932	vart	<ls n="R. SCHL.">6,82,45.</ls>	
+True	3	808977	vart	<ls>R. SCHL. 1,26,10.</ls>	
+True	3	809009	vart	<ls>R. SCHL. 2,65,3.</ls>	
+True	3	809680	vart	<ls>R. SCHL. 2,52,28.</ls>	
+True	3	810128	vart	<ls>R. SCHL. 1,77,27.</ls>	
+True	3	810129	vart	<ls n="R. SCHL.">4,34,31.</ls>	
+True	3	810167	vart	<ls>R. SCHL. 2,96,17.</ls>	
+True	3	810382	vart	<ls>R. SCHL. 2,64,45.</ls>	
+True	3	810808	vart	<ls>R. SCHL. 1,15,17.</ls>	
+True	3	810809	vart	<ls n="R. SCHL. 1,">42,22.</ls>	
+True	3	811633	varD	<ls>R. SCHL. 1,28,20.</ls>	
+True	3	811852	varD	<ls>R. SCHL. 2,56,10.</ls>	
+True	3	812976	varza	<ls>R. SCHL. 1,28,15. fg.</ls>	
+True	3	812977	varza	<ls n="R. SCHL. 1,28,">22.</ls>	
+True	3	816433	vas	<ls>R. SCHL. 2,75,3.</ls>	
+True	3	816468	vas	<ls>R. SCHL. 2,54,36.</ls>	
+True	3	816568	vas	<ls>R. SCHL. 2,30,8.</ls>	
+True	3	832739	vAsas	<ls>R. SCHL. 1,13,27.</ls>	
+True	3	832739	vAsas	<ls n="R. SCHL. 1,13,">29.</ls>	
+True	3	841931	vid	<ls n="R. SCHL. 1,">67,26</ls>	
+True	3	841932	vid	<ls>R. SCHL. 2,82,25.</ls>	
+True	3	852414	vimala	<ls>R. SCHL. 2,54,1.</ls>	
+True	3	852415	vimala	<ls n="R. SCHL. 2,">86,21.</ls>	
+True	3	852416	vimala	<ls n="R. SCHL.">1,26,1.</ls>	
+True	3	852416	vimala	<ls n="R. SCHL. 1,">45,5</ls>	
+True	3	859719	viS	<ls>R. SCHL. 2,34,20.</ls>	
+True	3	864882	vizama	<ls>R. SCHL. 2,108,7.</ls>	
+True	3	864883	vizama	<ls n="R. SCHL.">5,9,27.</ls>	
+True	3	868473	vistara	<ls>R. SCHL. 1,21,1.</ls>	
+True	3	874659	vfdDa	<ls>R. SCHL. 2,1,9.</ls>	
+True	3	879714	veditva	<ls>R. SCHL. 1,2,17.</ls>	
+True	3	882109	vEkfta	<ls>R. SCHL. 1,24,12.</ls>	
+True	3	887833	vyaT	<ls>R. SCHL. 2,87,4.</ls>	
+True	3	887876	vyaT	<ls>R. SCHL. 2,42,5.</ls>	
+True	3	887877	vyaT	<ls n="R. SCHL. 2,">63,23.</ls>	
+True	3	888015	vyaTA	<ls>R. SCHL. 2,63,48.</ls>	
+True	3	888801	vyapekzA	<ls>R. SCHL. 2,46,19.</ls>	
+True	3	888802	vyapekzA	<ls n="R. SCHL. 2,">45,26.</ls>	
+True	3	904649	Sam	<ls>R. SCHL. 2,40,33.</ls>	
+True	3	904749	Sam	<ls>R. SCHL. 2,69,13.</ls>	
+True	3	922770	SI	<ls>R. SCHL. 2,64,29.</ls>	
+True	3	929142	SuBra	<ls>R. SCHL. 2,78,5.</ls>	
+True	3	940090	Sri	<ls>R. SCHL. 2,72,52.</ls>	
+True	3	940255	Sri	<ls>R. SCHL. 2,84,7.</ls>	
+True	3	940328	Sri	<ls>R. SCHL. 2,73,13.</ls>	
+True	3	940672	Sri	<ls>R. SCHL. 2,70,11.</ls>	
+True	3	940718	Sri	<ls>R. SCHL. 2,21,40.</ls>	
+True	3	945028	Srotra	<ls>R. SCHL. 2,91,28.</ls>	
+True	3	945029	Srotra	<ls n="R. SCHL.">1,4,30.</ls>	
+True	3	945030	Srotra	<ls n="R. SCHL.">5,31,45.</ls>	
+True	3	947277	Svas	<ls>R. SCHL. 2,20,8.</ls>	
+True	3	947277	Svas	<ls n="R. SCHL. 2,">101,16</ls>	
+True	3	947305	Svas	<ls>R. SCHL. 2,42,17.</ls>	
+True	3	958382	saKitva	<ls>R. SCHL. 1,10,19.</ls>	
+True	3	958964	saMkara	<ls>R. SCHL. 1,6,17.</ls>	
+True	3	961222	saMgraha	<ls>R. SCHL. 2,56,25.</ls>	
+True	3	961979	saMGAta	<ls>R. SCHL. 2,91,32.</ls>	
+True	3	963791	saYj	<ls>R. SCHL. 2,64,9.</ls>	
+True	3	964349	saMjYA	<ls>R. SCHL. 2,85,19.</ls>	
+True	3	964364	saMjYA	<ls>R. SCHL. 2,62,3.</ls>	
+True	3	964368	saMjYA	<ls>R. SCHL. 2,39,3.</ls>	
+True	3	965534	sattva	<ls>R. SCHL. 2,83,8.</ls>	
+True	3	966095	satya	<ls>R. SCHL. 2,21,16.</ls>	
+True	3	966103	satya	<ls>R. SCHL. 2,34,49.</ls>	
+True	3	966393	satyaDarma	<ls>R. SCHL. 1,35,11.</ls>	
+True	3	966394	satyaDarma	<ls n="R. SCHL.">2,30,38.</ls>	
+True	3	967608	sad	<ls>R. SCHL. 2,64,67.</ls>	
+True	3	968456	sad	<ls>R. SCHL. 2,100,16.</ls>	
+True	3	969523	sadfSa	<ls>R. SCHL. 1,48,5.</ls>	
+True	3	971651	sant	<ls>R. SCHL. 2,39,33.</ls>	
+True	3	972081	saMtApa	<ls>R. SCHL. 2,72,52.</ls>	
+True	3	972752	saMdeSa	<ls>R. SCHL. 2,72,35.</ls>	
+True	3	977791	samagra	<ls>R. SCHL. 2,101,12.</ls>	
+True	3	980488	samAcAra	<ls>R. SCHL. 2,65,7.</ls>	
+True	3	981454	samApti	<ls>R. SCHL. 1,21,5.</ls>	
+True	3	981455	samApti	<ls n="R. SCHL.">5,1,57.</ls>	
+True	3	986612	saMbanDa	<ls>R. SCHL. 1,72,10.</ls>	
+True	3	988072	saMmAnya	<ls>R. SCHL. 2,50,14.</ls>	
+True	3	989010	sar	<ls>R. SCHL. 2,56,10.</ls>	
+True	3	990733	sarit	<ls>R. SCHL. 1,1,78.</ls>	
+True	3	1016846	sidDASrama	<ls n="R. SCHL. 1,">31,3</ls>	
+True	3	1020892	sukfta	<ls>R. SCHL. 2,64,2.</ls>	
+True	3	1021298	suKa	<ls>R. SCHL. 2,91,28.</ls>	
+True	3	1026722	suniScita	<ls>R. SCHL. 1,8,3.</ls>	
+True	3	1032949	surasuta	<ls>R. SCHL. 2,96,17.</ls>	
+True	3	1039008	sUkzma	<ls>R. SCHL. 2,74,14.</ls>	
+True	3	1043698	senAgra	<ls>R. SCHL. 1,1,73.</ls>	
+True	3	1044076	sev	<ls>R. SCHL. 2,44,9.</ls>	
+True	3	1050532	skand	<ls>R. SCHL. 2,11,4.</ls>	
+True	3	1055430	sTa	<ls>R. SCHL. 2,35,32.</ls>	
+True	3	1056186	sTA	<ls>R. SCHL. 1,9,7.</ls>	
+True	3	1056187	sTA	<ls n="R. SCHL.">2,84,6.</ls>	
+True	3	1057396	sTA	<ls>R. SCHL. 2,45,11.</ls>	
+True	3	1057511	sTA	<ls>R. SCHL. 2,73,9.</ls>	
+True	3	1058157	sTA	<ls>R. SCHL. 2,85,16.</ls>	
+True	3	1058204	sTA	<ls>R. SCHL. 2,65,1.</ls>	
+True	3	1058205	sTA	<ls n="R. SCHL. 2,">32,15.</ls>	
+True	3	1058776	sTA	<ls>R. SCHL. 1,44,20</ls>	
+True	3	1058777	sTA	<ls n="R. SCHL.">2,58,30.</ls>	
+True	3	1058780	sTA	<ls>R. SCHL. 1,36,10.</ls>	
+True	3	1058781	sTA	<ls n="R. SCHL.">4,61,39.</ls>	
+True	3	1060341	sTita	<ls>R. SCHL. 2,96,28.</ls>	
+True	3	1060342	sTita	<ls n="R. SCHL.">5,90,36.</ls>	
+True	3	1064015	sparS	<ls>R. SCHL. 1,67,14.</ls>	
+True	3	1067284	smfti	<ls>R. SCHL. 2,58,1.</ls>	
+True	3	1068898	sru	<ls>R. SCHL. 2,63,18.</ls>	
+True	3	1068899	sru	<ls n="R. SCHL.">1,26,9.</ls>	
+True	3	1068902	sru	<ls>R. SCHL. 2,40,34.</ls>	
+True	3	1070341	svaj	<ls>R. SCHL. 2,83,10.</ls>	
+True	3	1071502	svap	<ls>R. SCHL. 1,47,19.</ls>	
+True	3	1071503	svap	<ls n="R. SCHL.">2,28,11.</ls>	
+True	3	1072443	svayaMkfta	<ls>R. SCHL. 2,63,11.</ls>	
+True	3	1079981	han	<ls>R. SCHL. 2,44,19.</ls>	
+True	3	1081816	hanta	<ls>R. SCHL. 2,97,8.</ls>	
+True	3	1083117	har	<ls>R. SCHL. 2,60,20.</ls>	
+True	3	1083118	har	<ls n="R. SCHL.">6,12,10.</ls>	
+True	3	1083344	har	<ls>R. SCHL. 1,30,3.</ls>	
+True	3	1083344	har	<ls n="R. SCHL.">2,11,3.</ls>	
+True	3	1090156	hahA	<ls>R. SCHL. 2,91,16.</ls>	
+True	3	1092122	hAsa	<ls>R. SCHL. 2,35,19.</ls>	

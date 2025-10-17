@@ -1,0 +1,10 @@
+; <L>7559<pc>1-088-c<k1>aBiruta<k2>aBiruta
+27998 old {#aBiruta#}¦ <lex>n.</lex> {%Gesang%} <ls>R. GORR. 1,9,15</ls> (<ls>R. ed. SCHL. 17</ls>). {%Geschrei%} <ls n="R. GORR.">6,70,19</ls>.
+;
+27998 new {#aBiruta#}¦ <lex>n.</lex> {%Gesang%} <ls>R. GORR. 1,9,15</ls> (<ls>R. ed. SCHL. 1,9,17</ls>). {%Geschrei%} <ls n="R. GORR.">6,70,19</ls>.
+;---------------------------------------------------
+; <L>212301<pc>7-306-c<k1>aBiziYcana<k2>aBiziYcana
+608090 old {#aBiziYcana#}¦ <lex>n.</lex> = {#aBizecana#} (so <ls>SCHL.</ls>) 2〉 <ls>R. ed. Bomb. 2,107,9</ls>.<info n="sup_7"/>
+;
+608090 new {#aBiziYcana#}¦ <lex>n.</lex> = {#aBizecana#} (so <ls>SCHL. 2,107,9</ls>) 2〉 <ls>R. ed. Bomb. 2,107,9</ls>.<info n="sup_7"/>
+;---------------------------------------------------

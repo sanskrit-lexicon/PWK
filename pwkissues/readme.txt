@@ -1,4 +1,5 @@
-* iaauw83fix open Ramayana Gorresio link splitting
+* issue83fix Ramayana Gorresio link splitting
+* issue83fixa Ramayana Schlegel link splitting
 * issue84  open   MBH Bombay edition links
 * issue88  closed unmarked abbreviations
 * issue91  closed remove sanskrit italics

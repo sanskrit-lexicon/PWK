@@ -1,0 +1,122 @@
+True	3	3325	agnidAyaka	<ls>SCHL. 2,75,32.</ls>	
+True	3	22326	anukampA	<ls>SCHL. 2,109,31</ls>	
+True	3	25946	anfRatva	<ls>SCHL. 2,94,17</ls>	
+True	3	27407	antarApaRa	<ls>SCHL. 1,5,10</ls>	
+True	3	80068	AlamBanIya	<ls>SCHL. 2,65,9</ls>	
+True	3	80069	AlamBanIya	<ls>SCHL. 1,77,12</ls>	
+True	3	92413	izIkA	<ls>SCHL. 2,96,44</ls>	
+True	3	128584	kakza	<ls>SCHL. 2,32,36</ls>	
+True	3	138475	kar	<ls>SCHL. 2,43,13</ls>	
+True	3	281175	tar	<ls>SCHL. 2,103,31</ls>	
+True	2	281538	taraRa	<ls>SCHL. 2,49</ls>	
+True	3	305139	tvar	<ls>SCHL. 2,77,26</ls>	
+True	3	312342	darS	<ls>SCHL. 1,2,22</ls>	
+True	3	337255	devAsura	<ls>SCHL. 2,107,4.</ls>	
+True	3	349707	Dar	<ls>SCHL. 1,60,28</ls>	
+True	3	353675	DA	<ls n="SCHL. 2,">61,7.</ls>	
+True	3	356104	DAraka	<ls n="SCHL. 2,">83,13</ls>	
+True	3	356652	DArAntaracara	<ls n="SCHL. 2,96,">45.</ls>	
+True	3	387883	nivartayitavya	<ls n="SCHL. 2,31,">8</ls>	
+True	3	392612	niHsADvasa	<ls n="SCHL. 1,">62,16</ls>	
+True	3	393498	nI	<ls n="SCHL. 2,">85,13</ls>	
+True	3	407364	pat	<ls n="SCHL. 1,">56,18</ls>	
+True	3	410819	pad	<ls n="SCHL. 1,15,">25</ls>	
+True	3	417687	parAvara	<ls n="SCHL. 2,">62,9</ls>	
+True	3	428534	paS	<ls n="SCHL. 1,">58,24</ls>	
+True	3	429658	pahlava	<ls n="SCHL. 1,">54,18</ls>	
+True	3	433178	pAtra	<ls n="SCHL. 1,15,">9</ls>	
+True	3	438784	pAlASa	<ls n="SCHL. 1,13,">24</ls>	
+True	3	439376	pASa	<ls n="SCHL. 1,">56,8.</ls>	
+True	3	444470	pIq	<ls n="SCHL. 2,">10,38</ls>	
+True	3	447966	punar	<ls n="SCHL. 1,">58,5.</ls>	
+True	3	454904	pUj	<ls n="SCHL. 2,">70,6</ls>	
+True	3	461062	pEWara	<ls n="SCHL. 2,">91,65</ls>	
+True	3	462898	pOrRamAsa	<ls n="SCHL. 1,">53,24</ls>	
+True	3	483307	pravara	<ls n="SCHL. 2,">94,12</ls>	
+True	3	489184	prAguttara	<ls n="SCHL. 1,">50,1</ls>	
+True	3	493642	prASin	<ls n="SCHL. 1,">47,9</ls>	
+True	3	502113	banDaka	<ls n="SCHL. 2,">91,58</ls>	
+True	3	512809	buD	<ls n="SCHL. 1,">28,6</ls>	
+True	3	532480	Bid	<ls n="SCHL. 2,">7,18</ls>	
+True	3	540456	BUz	<ls n="SCHL. 2,">80,16.</ls>	
+True	3	550721	mati	<ls n="SCHL. 1,18,">7</ls>	
+True	3	555639	maDusyanda	<ls>SCHL. 1,57,3.</ls>	
+True	3	590383	muktAhAra	<ls n="SCHL. 2,">9,47</ls>	
+True	3	592965	mud	<ls n="SCHL. 1,">44,61</ls>	
+True	3	594627	musala	<ls n="SCHL. 1,">56,11</ls>	
+True	3	732253	yam	<ls n="SCHL. 2,">46,11</ls>	
+True	3	735660	yA	<ls n="SCHL. 1,">20,8</ls>	
+True	3	736034	yA	<ls n="SCHL. 2,">45,22</ls>	
+True	3	738922	yAvant	<ls n="SCHL. 2,">9,43</ls>	
+True	3	739694	yuktimant	<ls>SCHL. 2,91,27.</ls>	
+True	3	742639	yuvanASva	<ls n="SCHL.">2,110,13</ls>	
+True	3	743754	yogakzema	<ls>SCHL. 2,115,14.</ls>	
+True	3	748514	raGuvaMSa	<ls n="SCHL. 2,">95,19</ls>	
+True	3	749230	raj	<ls n="SCHL. 1,">52,7</ls>	
+True	3	754133	raB	<ls n="SCHL. 1,">53,16</ls>	
+True	3	754525	ram	<ls>SCHL. 2,110,18</ls>	
+True	3	754571	ram	<ls n="SCHL. 2,">110,19</ls>	
+True	3	766196	ru	<ls n="SCHL. 1,9,">17</ls>	
+True	3	766709	ruc	<ls n="SCHL. 1,">36,2</ls>	
+True	3	767704	rud	<ls n="SCHL. 1,17,">22</ls>	
+True	3	769594	ruz	<ls n="SCHL. 2,">23,2</ls>	
+True	3	778880	laNGana	<ls n="SCHL. 1,3,">26</ls>	
+True	3	780788	lamb	<ls n="SCHL. 1,">65,34</ls>	
+True	3	780789	lamb	<ls n="SCHL. 1,">33,20</ls>	
+True	3	803735	var	<ls n="SCHL. 2,">80,19</ls>	
+True	3	806898	varcas	<ls n="SCHL. 2,">23,33</ls>	
+True	3	809752	vart	<ls n="SCHL. 2,">58,24</ls>	
+True	3	811848	varD	<ls n="SCHL. 1,">70,38</ls>	
+True	3	816943	vas	<ls n="SCHL. 2,">103,38</ls>	
+True	3	821314	vA	<ls n="SCHL. 2,">114,10</ls>	
+True	3	832435	vAsay	<ls n="SCHL. 1,5,">15</ls>	
+True	3	849253	vipula	<ls n="SCHL. 2,">75,19</ls>	
+True	3	856982	vivarRatA	<ls n="SCHL. 2,23,">9</ls>	
+True	3	872023	vIrAsana	<ls n="SCHL. 2,">100,14</ls>	
+True	3	876427	vfzaBa	<ls n="SCHL. 1,">20,24</ls>	
+True	3	876428	vfzaBa	<ls n="SCHL. 2,">21,63</ls>	
+True	3	898572	SaNk	<ls n="SCHL. 2,">65,14</ls>	
+True	3	898573	SaNk	<ls n="SCHL. 1,">48,23</ls>	
+True	3	904749	Sam	<ls n="SCHL. 2,">66,1</ls>	
+True	3	916216	SAs	<ls>SCHL. 2,27,10.</ls>	
+True	3	922770	SI	<ls n="SCHL. 2,">72,24.</ls>	
+True	3	924085	SItIkar	<ls>SCHL. 2,71,7.</ls>	
+True	3	930673	SUnya	<ls>SCHL. 2,32,24.</ls>	
+True	3	935575	SozaRa	<ls n="SCHL. 1,">29,16</ls>	
+True	3	935575	SozaRa	<ls n="SCHL. 1,">56,8</ls>	
+True	3	940339	Sri	<ls n="SCHL. 1,">35,9</ls>	
+True	3	942974	Sru	<ls n="SCHL. 2,">21,23</ls>	
+True	3	943098	Sru	<ls n="SCHL. 1,">4,25</ls>	
+True	3	963656	saYj	<ls n="SCHL. 2,">94,12</ls>	
+True	3	966095	satya	<ls n="SCHL. 2,">34,36.</ls>	
+True	3	966095	satya	<ls n="SCHL. 2,34,">47.</ls>	
+True	3	966095	satya	<ls n="SCHL. 2,">51,4.</ls>	
+True	3	976297	saptaSata	<ls n="SCHL. 2,">34,13</ls>	
+True	3	976788	saPala	<ls n="SCHL. 1,">49,4</ls>	
+True	3	982860	samIpa	<ls n="SCHL. 1,18,">22</ls>	
+True	3	983282	samutTa	<ls n="SCHL. 2,">45,22</ls>	
+True	3	983343	samutpatti	<ls n="SCHL. 2,">110,2</ls>	
+True	3	984732	samfdDi	<ls n="SCHL. 1,">50,2</ls>	
+True	3	986330	saMprApti	<ls n="SCHL. 1,">20,16</ls>	
+True	3	996310	sarvasva	<ls n="SCHL. 1,">53,23</ls>	
+True	3	1001200	sahasrada	<ls n="SCHL. 1,6,">15</ls>	
+True	3	1006775	sADuvftta	<ls n="SCHL. 2,">50,27</ls>	
+True	3	1029070	subAla	<ls n="SCHL. 2,63,">31.</ls>	
+True	3	1049238	sOra	<ls n="SCHL. 1,">29,18</ls>	
+True	3	1056619	sTA	<ls n="SCHL. 1,">31,19</ls>	
+True	3	1058769	sTA	<ls n="SCHL. 2,">45,31</ls>	
+True	3	1062123	sTErya	<ls n="SCHL. 1,1,">18</ls>	
+True	3	1063987	sparS	<ls n="SCHL. 1,9,">38.</ls>	
+True	3	1063987	sparS	<ls n="SCHL. 1,9,">47</ls>	
+True	3	1067159	smi	<ls n="SCHL. 1,1,">63</ls>	
+True	3	1070317	svaj	<ls n="SCHL. 2,25,">44</ls>	
+True	3	1079830	han	<ls n="SCHL. 2,">66,17</ls>	
+True	3	1082247	hayameDa	<ls n="SCHL. 1,11,">8</ls>	
+True	3	1082298	hayaSiras	<ls n="SCHL. 1,">29,12</ls>	
+True	3	1082298	hayaSiras	<ls n="SCHL. 1,">56,10</ls>	
+True	3	1083049	har	<ls n="SCHL. 1,">31,18</ls>	
+True	3	1083344	har	<ls n="SCHL. 1,">33,25</ls>	
+True	3	1090852	hA	<ls n="SCHL. 2,">102,1</ls>	
+True	3	1098468	hemakakzya	<ls n="SCHL. 2,92,">32.</ls>	
+True	3	1099648	hEmavata	<ls n="SCHL. 1,">65,1</ls>	
+True	3	1099755	hEraRya	<ls n="SCHL. 1,">53,18</ls>	
