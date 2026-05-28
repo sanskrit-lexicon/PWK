@@ -2,11 +2,11 @@
 # Excluded dirs contain Python 2 legacy scripts (pre-2020 research artifacts).
 
 exclude = [
-    "convertwork/",,
-    "pw_ls/",,
-    "pwkissues/",,
-    "pwkvn/",,
-    "verbs01/",,
+    "convertwork/",
+    "pw_ls/",
+    "pwkissues/",
+    "pwkvn/",
+    "verbs01/",
     "vn-sch/",
 ]
 
