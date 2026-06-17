@@ -18,6 +18,33 @@ This repository holds corrections, enhancements, and tooling for the [Cologne di
 | `pwkvn/` | PWKVN (variant supplement) data — `step0/`, `step1/`, `install/` |
 | `vn-sch/` | VN vs. Schmidt comparison and correction work |
 | `pw_iast/` | IAST transcoding of `pw.txt` |
+| `prefaces/` | Front-matter OCR (title page, *Vorwort*, *Verzeichniss der citirten Werke*) with English + Russian translations — see below |
+
+## Front matter (`prefaces/`)
+
+Faithful OCR of the five front-matter scan pages of vol. 1 (*Erster Theil — Die Vocale*, St. Petersburg 1879), each in the German source plus English and Russian translations, with consolidated single-file editions and a [`prefaces/README.md`](prefaces/README.md) index. Source: the Cologne [csldoc preface scans](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/pwpref.html). The *Verzeichniss* is a 304-entry bibliographic key list (100 + 106 + 98). Böhtlingk's romanization is preserved as printed (`â î û` = long vowels, `ç` = ś, `sh` = ṣ, `j` = y, `ḱ` = c, `ǵ` = j); Devanāgarī and Vikrama-Saṃvat dates (e.g. *Benares 1921*) are kept verbatim. The Foreword sign-off (*Jena, den 1sten Mai 1879. — O. Böhtlingk.*) is preserved; digitizer header/footer stamps are omitted.
+
+<details>
+<summary><strong>OCR run notes (2026-06-17)</strong> — cost, timing, and technical lessons</summary>
+
+Produced by the `/cologne-preface-ocr` skill (vision OCR + translation subagents). Process retrospective, not part of the deliverable.
+
+**Cost.** Subagents (exact, from harness telemetry): 6 agents, ≈413,100 output tokens, 89 tool calls — OCR page 4 (92.6k / 40 calls / 356 s), OCR page 5 (66.3k / 194 s), RU 3–5 (77.3k / 199 s), EN 3–5 (76.6k / 184 s), RU 1–2 (50.7k / 64 s), EN 1–2 (49.6k / 44 s). Main thread (estimate, dominated by ~30 native-resolution image-crop reads): ≈80–120k tokens. **Total ≈500–550k tokens.**
+
+**Time.** Wall-clock ≈18–22 min. The two OCR agents overlapped (gated by the 356 s page-4 agent) and the four translation agents overlapped (gated by the 199 s RU agent); the foreground crop→read loop for pages 1–3 was sequential by nature.
+
+**Technical lessons (reusable):**
+
+1. **Crop boundaries are iterative, not one-shot.** Justified prose lines reach the column edge while list lines don't; set the column `x1` at the **divider** (~x1700 on these 3304-px pages), not at the apparent text edge. Pages 2–3 needed 2–3 re-crops each.
+2. **Reverse-engineer the romanization key before the dense pages.** Confirmed `ḱ`=c, `ǵ`=j, `ç`=ś, `j`=y from internal evidence (*Prâjaçḱitta* = Prāyaścitta, *Ǵjotisha* = Jyotiṣa) by zooming individual glyphs — which made it safe to delegate pages 4–5.
+3. **Machine-verify completeness; don't trust agent self-reports.** Subagents miscounted their own output (claimed 45/64 entries for page 3 vs. the true 100). A scripted `^\*\*` key-count across source + both translations gave 100/106/98 exact match.
+4. **Subagents silently drop "non-list" content.** The page-5 agent omitted the sign-off as "not an entry"; it sits below the columns on the last list page. Always re-add place/date/signature.
+5. **Fidelity vs. correctness, resolved by parallel evidence.** *"Benares 1921"* looked wrong but is a real Saṃvat date (kept verbatim); *"Mahâbhâsuja"* looked real but was a scan artifact of *"Mahâbhâshja"* (fixed, confirmed by the adjacent *Mahâbh. (K.)* entry). The discriminator was always another occurrence on the same page.
+6. **Encoding.** All 20 `.md` files written UTF-8 **no BOM**; git's LF→CRLF warning on Windows is cosmetic (committed blobs are LF).
+7. **Push raced a moved remote** — resolved with an add-only `fetch` + `rebase origin/master` + `push` (conflict-free, all files new).
+8. **Repo-name trap:** dict code `pw` lives in repo **PWK**, not "PW".
+
+</details>
 
 ## Timeline
 
@@ -34,6 +61,7 @@ This repository holds corrections, enhancements, and tooling for the [Cologne di
 | Aug 2023 | Abbreviation markup continued (issue88 workflow) |
 | 2024 | Bot tags (#111); BHĀGAVATAPURĀṆA LS markup (#109, #110); display revisions (#97) |
 | Jun–Oct 2025 | MBH Bombay links (#84); Ramayana Gorresio/Schlegel link splitting (#83fix, #83fixa) |
+| Jun 2026 | Front-matter OCR + EN/RU translations of vol. 1 prefaces (`prefaces/`) |
 
 ## Projects & Milestones
 
