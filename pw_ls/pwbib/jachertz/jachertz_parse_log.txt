@@ -1,0 +1,9 @@
+jachertz_parse.py run summary
+entries parsed: 1169  by type: {'work': 503, 'xref': 626, 'abbrev': 40}
+total editions: 522   with I.O. shelfmark: 155   with Gild. shelfmark: 32
+pwbib unresolved stubs (flag=0/'?'): 287
+backfill candidates: 37  by method: {'exact': 12, 'prefix': 8, 'xref': 17}
+
+NOTE: candidates are for HUMAN REVIEW; nothing is written back to
+mergebibnew.txt or any canonical pwbib file. 'prefix' matches are the
+least certain (stub abbreviation is a prefix of exactly one work key).
