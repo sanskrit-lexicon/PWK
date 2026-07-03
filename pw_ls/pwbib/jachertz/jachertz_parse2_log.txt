@@ -1,0 +1,9 @@
+jachertz_parse2.py run summary
+live stub source: C:\Users\user\Documents\GitHub\csl-pywork\v02\distinctfiles\pw\pywork\pwauth\pwbib_input.txt
+live unresolved stubs ('[unknown literary source]'): 352
+backfill candidates: 55  by method: {'prefix': 18, 'xref': 16, 'exact': 21}
+
+NOTE: candidates are for HUMAN REVIEW; nothing is written back to
+pwbib_input.txt or any canonical file. Compare against
+jachertz_backfill_candidates.tsv (the earlier run against the stale
+2016 mergebibnew.txt, 287 stubs) to see how much the live baseline changes results.
