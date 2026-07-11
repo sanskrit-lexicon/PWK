@@ -12,6 +12,7 @@ Corrections to the Cologne source text are never committed directly to `csl-orig
 
 | Directory | Description |
 |-----------|-------------|
+| [`docs/PIPELINE_MANUAL.md`](https://github.com/sanskrit-lexicon/PWK/blob/main/docs/PIPELINE_MANUAL.md) | **Operator manual** — the universal correction loop, link-target, bibliography, abbreviation, verbs and supplement pipelines end-to-end (cheat-sheet, walkthroughs, symptom→cure, maintainer appendix); metadoc at [`docs/PIPELINE_MANUAL.meta.md`](https://github.com/sanskrit-lexicon/PWK/blob/main/docs/PIPELINE_MANUAL.meta.md) |
 | [`pw_ls/`](https://github.com/sanskrit-lexicon/PWK/tree/main/pw_ls) | Bibliography and literary-source analysis: `pwbib*.txt` tables, `crefmatch.py`, fuzzy-match pipelines |
 | [`pwkissues/`](https://github.com/sanskrit-lexicon/PWK/tree/main/pwkissues) | Per-issue correction workflows and documentation (`issueNNN/` pattern) |
 | [`abbrev/`](https://github.com/sanskrit-lexicon/PWK/tree/main/abbrev) | General abbreviation (`<ab>`) markup pipeline |
