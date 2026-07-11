@@ -70,6 +70,61 @@ csl-orig batched-PR delivery rule.
 - The historical XAMPP-path remapping guidance assumes the current flat
   `GitHub/` checkout convention; other layouts need their own remap.
 
+## Intended use / known misuse
+
+- **Intended use:** onboarding reading for a new operator/contributor opening
+  a `pwkissues/issueNNN/` folder, running one of the two re-runnable pipelines
+  (`verbs01/redo.sh`, `pw_ls/pwbib/redo.sh`), or verifying a historical
+  pipeline's claims (pwkvn, vn-sch, convertwork) without reading source first;
+  also the reference the org's own agents/skills
+  ([/cologne-correction-queue](https://github.com/gasyoun/claude-config/blob/main/commands/cologne-correction-queue.md),
+  [/cologne-batch-pr](https://github.com/gasyoun/claude-config/blob/main/commands/cologne-batch-pr.md))
+  point to for the PWK-specific command sequences.
+- **Known misuse:**
+  - Treating the quoted command sequences as re-verified/live-tested — they
+    are transcription-verified from in-repo readmes only (see Known
+    limitations); running them blind against the current tree without the
+    snapshot→validate→restore discipline can mutate the sibling `csl-orig`
+    working copy.
+  - Using this manual to justify a **direct push to csl-orig** — the
+    Delivery section is explicit that agent/operator sessions must queue
+    through `/cologne-correction-queue` and ship via the monthly
+    `/cologne-batch-pr`, never push directly.
+  - Re-running `convertwork/` (Python 2, 2014, one-time historical) or
+    `pwkvn/`/`vn-sch/` build steps expecting them to be idempotent against
+    today's `csl-orig` state — they were one-shot builds against a since-moved
+    target and are not safe to replay without re-deriving their preconditions.
+  - Citing the reconciliation counts (`bibminuscref.txt`/`crefminusbib.txt`
+    empty, ~287 title-less stubs) as current — they are a point-in-time
+    snapshot from 11-07-2026, not a live figure; backlog item 1 is the
+    open task to make them live-verified.
+
+## Maintenance & sunset plan
+
+- **Trigger for re-verification:** any of `updateByLine.py`, `digentry.py`,
+  `transcoder.py`, `verbs01/redo.sh`, or `pw_ls/pwbib/redo.sh` changes shape,
+  or backlog items 1–2 (live-verify the two re-runnable pipelines; deduplicate
+  the vendored engine) close — re-run the affected walkthrough and update
+  the manual's quoted output.
+- **Owner:** whoever next touches a PWK pipeline in an operator/maintainer
+  role picks up open backlog items opportunistically; no dedicated maintainer
+  is assigned (repo pattern — see
+  [CLAUDE.md](https://github.com/sanskrit-lexicon/PWK/blob/main/CLAUDE.md)).
+- **Staleness signal:** if `pwkissues/readme.txt`'s folder index or any
+  workspace's own `readme` diverges from what this manual quotes verbatim,
+  the manual is stale for that section — re-survey with the same three
+  parallel Explore-agent pattern used to author it (see Provenance).
+- **Sunset condition:** none planned. This manual retires only if PWK's
+  pipeline family is itself consolidated/rewritten (e.g. backlog item 2's
+  vendored-engine dedupe lands org-wide via
+  [sanskrit-util](https://github.com/sanskrit-lexicon/sanskrit-util)), at
+  which point it would be superseded by whatever manual documents the
+  consolidated tooling.
+
+## Deprecation status
+
+`active`
+
 ## Related documents
 
 - [readme.md](https://github.com/sanskrit-lexicon/PWK/blob/main/readme.md) — repo overview, timeline, issue typology
@@ -83,5 +138,6 @@ csl-orig batched-PR delivery rule.
 | Date | Change | By |
 |---|---|---|
 | 11-07-2026 | Initial manual + this metadoc authored (H530); 3-agent survey of all 9 workspaces; commands quoted verbatim from in-repo readmes, paths verified on disk | Fable 5 (`claude-fable-5`) |
+| 11-07-2026 | template v2 backfill (H663) | Sonnet 5 (`claude-sonnet-5`) |
 
 _Dr. Mārcis Gasūns_
