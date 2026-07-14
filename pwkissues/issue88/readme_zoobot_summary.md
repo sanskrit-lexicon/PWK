@@ -7,7 +7,7 @@ temp_pw_ab_9.txt   161 lines changed from previous version temp_pw_ab_8.txt
 ---------------------------------------------------------
 ### local file temp_pw_9.txt
 508 lines changed
-[change_pw_9.txt](https://github.com/sanskrit-lexicon/PWK/blob/master/pwkissues/issue88/change_pw_9.txt)
+[change_pw_9.txt](https://github.com/sanskrit-lexicon/PWK/blob/main/pwkissues/issue88/change_pw_9.txt)
 ```
 ; Part 1: 262  remove '_' in <bot>X</bot>
 ; Part 2: 61   Align count of 'bot' tags
@@ -25,14 +25,14 @@ temp_pw_ab_9.txt   161 lines changed from previous version temp_pw_ab_8.txt
 --------------------------------------------------------
 ### local file temp_pw_9b.txt
 16 lines changed
-[change_pw_9b.txt](https://github.com/sanskrit-lexicon/PWK/blob/master/pwkissues/issue88/change_pw_9b.txt)
+[change_pw_9b.txt](https://github.com/sanskrit-lexicon/PWK/blob/main/pwkissues/issue88/change_pw_9b.txt)
 ```
 ; Part 1: 15 resolve *{% differences, and a few random others
 ```
 --------------------------------------------------------
 ### local file temp_pw_9c.txt
 6320 lines changed
-[change_pw_9c.txt](https://github.com/sanskrit-lexicon/PWK/blob/master/pwkissues/issue88/change_pw_9c.txt)
+[change_pw_9c.txt](https://github.com/sanskrit-lexicon/PWK/blob/main/pwkissues/issue88/change_pw_9c.txt)
 ```
 ; Part 1: 5478 changes for number of headwords.  change_multiple_headwrds.py
 ; Part 2: 50 {#X = Y#} -> {#X#} = {#Y#}
@@ -56,7 +56,7 @@ Change ' to ʼ in Non-Devanagari text.  See zoobot/readme.txt
 --------------------------------------------------------
 ### local file temp_pw_9e.txt
 59 lines changed
-[change_pw_9.txt](https://github.com/sanskrit-lexicon/PWK/blob/master/pwkissues/issue88/change_pw_9.txt)  resolve differences between cdsl and ab version
+[change_pw_9.txt](https://github.com/sanskrit-lexicon/PWK/blob/main/pwkissues/issue88/change_pw_9.txt)  resolve differences between cdsl and ab version
 ```
 ; Part 1: 44  ' and  ʼ
 ; Part 2: 16  "ʼs"
@@ -64,7 +64,7 @@ Change ' to ʼ in Non-Devanagari text.  See zoobot/readme.txt
 --------------------------------------------------------
 ### local file temp_pw_ab_9.txt  
 161 lines changed
-[change_pw_ab_9.txt](https://github.com/sanskrit-lexicon/PWK/blob/master/pwkissues/issue88/change_pw_ab_9.txt)
+[change_pw_ab_9.txt](https://github.com/sanskrit-lexicon/PWK/blob/main/pwkissues/issue88/change_pw_ab_9.txt)
 resolve differences between cdsl and ab version
 ```
 ; Part 1: 0  remove '_' in <bot>X</bot>
