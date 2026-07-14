@@ -17,7 +17,7 @@ The third step (done elsewhere) is to modify webtc/disp.php to interface
  with that sqlite link file.
 
 The best version of the PW bibliography to work with seems to be 
- [mergebibnew.txt](https://github.com/sanskrit-lexicon/PWK/blob/master/pw_ls/pwbib/pwbib_new_work/mergebibnew.txt).
+ [mergebibnew.txt](https://github.com/sanskrit-lexicon/PWK/blob/main/pw_ls/pwbib/pwbib_new_work/mergebibnew.txt).
 
 mergebibnew is essentially a csv file (with the colon character `:` as value separator), with the following fields:
 * abbrvsort = a simplified abbreviation. Probably not useful here
