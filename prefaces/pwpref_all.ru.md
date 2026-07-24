@@ -70,7 +70,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 В заключение привожу список произведений, цитируемых в этой первой части. Два числа без указания книги отсылают ко второму изданию моей Хрестоматии. Стоящее в скобках в конце заглавия имя обозначает учёного, который полностью или по большей части предоставил вклады для этого словаря из указанной книги.
 
-**Âçv. Çr.** = Âçvalâjana's Çrautasûtra в Bibl. ind.
+**Âśv. Śr.** = Âçvalâjana's Çrautasûtra в Bibl. ind.
 
 **Âçv. Gṛhj.** = Âçvalâjana's Gṛhjasûtra; изд. Штенцлер.
 
@@ -98,7 +98,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Âpast. Śr.** = Âpastamba's Çrautasûtra, рукоп. (Гарбе и Рот).
 
-**Ârjabh.** = Ârjabhaṭa, изд. Керн (Керн).
+**Âryabh.** = Ârjabhaṭa, изд. Керн (Керн).
 
 **Ârjav.** = Ârjavidjâsudhâkara, Бомбей 1868 (Керн).
 
@@ -148,7 +148,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Bibl. ind.** = Bibliotheca indica.
 
-**Bîǵag.** = Bîǵaganita, Калькутта 1846 (Керн).
+**Bîjag.** = Bîǵaganita, Калькутта 1846 (Керн).
 
 **Brahmabindûp.** = Brahmabindûpanishad в Bibl. ind. (Гельднер и Рот).
 
@@ -170,7 +170,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Çâk.** = Çâkuntala, изд. Бётлингк, если явно не добавлено Pisch. (Пишель) или Premaḱ. (Premaḱandra).
 
-**Çaṃk.** = Çaṃkaràḱârja как комментатор к различным Upanishad.
+**Śaṃk.** = Çaṃkaràḱârja как комментатор к различным Upanishad.
 
 **Çâṇḍ.** = The Aphorisms of Sâṇḍilya в Bibl. ind.
 
@@ -186,7 +186,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Śârñg. Saṃh.** = Çârñgadhara's Saṃhitâ, Бомбей 1853 (Рот).
 
-**Çat. Br.** = Çatapathabrâhmaṇa, по указателю Вебера.
+**Śat. Br.** = Çatapathabrâhmaṇa, по указателю Вебера.
 
 **Cat. C. Pr.** = A Catalogue of S. Mss. existing in the Central Provinces. Ed. by F. Kielhorn. Нагпур 1874 (Рот).
 
@@ -200,7 +200,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Çiç.** = Çiçupâlavadha, Калькутта 1815.
 
-**Çira-Up.** = Çiraupanishad в Bibl. ind. (Гельднер и Рот).
+**Śira-Up.** = Çiraupanishad в Bibl. ind. (Гельднер и Рот).
 
 **Colebr. Alg.** = Colebrooke, Algebra with Arithmetic and Mensuration и т. д. Лондон 1817.
 
@@ -208,7 +208,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Çrîp.** = Çrîpati.
 
-**Çulbas.** = Çulbasûtra в журнале The Pandit IX. X и New Series I (Каппеллер).
+**Śulbas.** = Çulbasûtra в журнале The Pandit IX. X и New Series I (Каппеллер).
 
 **Śvetâśv. Up.** = Çvetâçvataropanishad в Bibl. ind.
 
@@ -234,11 +234,11 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Dh. V.** = Dhanaṃǵajaviǵaja, Калькутта 1871 (Каппеллер).
 
-**Divjâv.** = Divjâvadâna, рукоп. (Шифнер).
+**Divyâv.** = Divjâvadâna, рукоп. (Шифнер).
 
-**Gâbâlop.** = Gâbâlopanishad в Bibl. ind. (Гельднер и Рот).
+**Jâbâlop.** = Gâbâlopanishad в Bibl. ind. (Гельднер и Рот).
 
-**Ǵaim.** = Ǵaimini's Mîmâṃsâdarçana в Bibl. ind.
+**Jaim.** = Ǵaimini's Mîmâṃsâdarçana в Bibl. ind.
 
 **Jaim. Bhâr.** = Ǵaimini's Bhârata, по цитатам в Ind. St.
 
@@ -299,7 +299,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Harshaḱ.** = Harshaḱarita, Калькутта 1876 (Керн).
 
-**Hâsj.** = Hâsjârnava, Бомбей 1757 и рукоп. (Каппеллер).
+**Hâsy.** = Hâsjârnava, Бомбей 1757 и рукоп. (Каппеллер).
 
 **Haug, Acc.** = Haug, Ueber das Wesen und den Werth des vedischen Accents. Мюнхен 1874.
 
@@ -323,7 +323,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Ind. St.** = Indische Studien von Weber.
 
-**Jogas.** = Jogasûtra.
+**Yogas.** = Jogasûtra.
 
 **Yogat. Up.** = Jogatattvopanishad в Bibl. ind. (Гельднер и Рот).
 
@@ -365,7 +365,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Kâty. Snânas.** = Kâtjâjana's Snânasûtra (Штенцлер).
 
-**Kauç.** = Kauçika's Sûtra к AV., рукоп. (мн.) (Рот и Вебер).
+**Kauś.** = Kauçika's Sûtra к AV., рукоп. (мн.) (Рот и Вебер).
 
 **Ḱaurap.** = Ḱaurapaṅḱâçikâ, изд. Болленсен.
 
@@ -375,7 +375,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Kautuḱar.** = Kautukaratnâkara, рукоп. (Каппеллер).
 
-**Kâvjapr.** = Kâvjaprakâça, Калькутта 1866. Цитируется по Ullâsa и Sûtra, если не добавлены S. (страница) и Z. (строка).
+**Kâvyapr.** = Kâvjaprakâça, Калькутта 1866. Цитируется по Ullâsa и Sûtra, если не добавлены S. (страница) и Z. (строка).
 
 **Kenop.** = Kenopanishad в Bibl. ind.
 
@@ -399,7 +399,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Kusum.** = Kusumânǵali, изд. Кауэлл.
 
-**Kuvalaj.** = Kuvalajânanda, по двум литогр. изданиям.
+**Kuvalay.** = Kuvalajânanda, по двум литогр. изданиям.
 
 **LA.** = Lassen's Anthologie 3-е изд.
 
@@ -407,7 +407,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Lalit.** = Lalitavistarapurâna в Bibl. ind. (Керн).
 
-**Lâṭj.** = Lâṭjâjana's Çrautasûtra в Bibl. ind.
+**Lâṭy.** = Lâṭjâjana's Çrautasûtra в Bibl. ind.
 
 **Lîlâv.** = Bhâskara's Lîlâvatî, Калькутта 1846 (Керн).
 
@@ -455,7 +455,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Med.** = Medinîkoça.
 
-**Med. avj.** = Avjajânekârthavarga в конце Medinîkoça.
+**Med. avy.** = Avjajânekârthavarga в конце Medinîkoça.
 
 **Megh.** = Meghadûta, изд. Штенцлер.
 
@@ -524,17 +524,17 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Prab.** = Prabodhaḱandrodaja, изд. Брокгауз.
 
-**Praçnop.** = Praçnopanishad в Bibl. ind.
+**Praśnop.** = Praçnopanishad в Bibl. ind.
 
 **Prâjaçḱittat.** = Prâjaçḱittatattva (Рот).
 
-**Prajogar.** = Nârâjaṇabhaṭṭa's Prajogaratna (Штенцлер).
+**Prayogar.** = Nârâjaṇabhaṭṭa's Prajogaratna (Штенцлер).
 
 **Prasannar.** = Ǵajadeva's Prasannarâghava (Керн).
 
 **Pratâpar.** = Pratâparudrîja.
 
-**Prij.** = Prijadarçikâ, Калькутта 1874 (Каппеллер).
+**Priy.** = Prijadarçikâ, Калькутта 1874 (Каппеллер).
 
 **Procc. A. S. B.** = Proceedings of the Asiatic Society of Bengal.
 
@@ -568,7 +568,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Saṁhitopan.** = Saṁhitopanishad, изд. Бернелл.
 
-**Sâṁkhjak.** = Sâṁkhjakârikâ, изд. Уилсон.
+**Sâṁkhyak.** = Sâṁkhjakârikâ, изд. Уилсон.
 
 **Saṁny. Up.** = Saṁnjâsopanishad в Bibl. ind. (Гельднер и Рот).
 
@@ -594,13 +594,13 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Subhâshitar.** = Subhâshitaratnâkara, Бомбей 1872.
 
-**Suçr.** = Suçruta (Рот).
+**Suśr.** = Suçruta (Рот).
 
 **Suparṇ. und Suparṇâdhj.** = Suparṇâdhjâja, издано Элимар Грубе в Ind. St. 14.
 
-**Sûrjad.** = Sûrjadevajaǵvan (Керн).
+**Sûryad.** = Sûrjadevajaǵvan (Керн).
 
-**Sûrjas.** = Sûrjasiddhânta в Bibl. ind.
+**Sûryas.** = Sûrjasiddhânta в Bibl. ind.
 
 **SV.** = Sâmaveda (Рот).
 
@@ -634,17 +634,17 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Vaǵras.** = Vaǵrasûḱî, изд. Вебер.
 
-**Vaidjabh.** = Vaidjabhâshja (Рот).
+**Vaidyabh.** = Vaidjabhâshja (Рот).
 
 **Vaitân.** = Vaitânasûtra, изд. Гарбе.
 
-**Vâju-P.** = Vâjupurâṇa, по цитатам в других сочинениях.
+**Vâyu-P.** = Vâjupurâṇa, по цитатам в других сочинениях.
 
 **Vâlakh.** = Vâlakhilja, вставленные между ṚV. 8,48 и 49 песни (Рот).
 
 **Vâmana** = Vâmana's Kâvjâlaṁkâravṛtti, изд. Каппеллер.
 
-**Vaṁçabr.** = Vaṁçabrâhmaṇa, изд. Бернелл (Рот).
+**Vaṁśabr.** = Vaṁçabrâhmaṇa, изд. Бернелл (Рот).
 
 **Varâh. Bṛh.** = Varâhamihira's Bṛhaǵǵâtaka (Керн).
 

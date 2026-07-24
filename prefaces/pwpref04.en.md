@@ -31,7 +31,7 @@ translation_of: pwpref04.md
 
 **Harshaḱ.** = Harshaḱarita, Calcutta 1876 (Kern).
 
-**Hâsj.** = Hâsjârnava, Bombay 1757 and Ms. (Cappeller).
+**Hâsy.** = Hâsjârnava, Bombay 1757 and Ms. (Cappeller).
 
 **Haug, Acc.** = Haug, Ueber das Wesen und den Werth des vedischen Accents. München 1874.
 
@@ -55,7 +55,7 @@ translation_of: pwpref04.md
 
 **Ind. St.** = Indische Studien von Weber.
 
-**Jogas.** = Jogasûtra.
+**Yogas.** = Jogasûtra.
 
 **Yogat. Up.** = Jogatattvopanishad in the Bibl. ind. (Geldner and Roth).
 
@@ -97,7 +97,7 @@ translation_of: pwpref04.md
 
 **Kâty. Snânas.** = Kâtjâjana's Snânasûtra (Stenzler).
 
-**Kauç.** = Kauçika's Sûtra to the AV., Mss. (Roth and Weber).
+**Kauś.** = Kauçika's Sûtra to the AV., Mss. (Roth and Weber).
 
 **Ḱaurap.** = Ḱaurapaṅḱâçikâ, ed. by Boulen.
 
@@ -107,7 +107,7 @@ translation_of: pwpref04.md
 
 **Kautuḱar.** = Kautukaratnâkara, Ms. (Cappeller).
 
-**Kâvjapr.** = Kâvjaprakâça, Calcutta 1866. Cited by Ullâsa and Sûtra, unless S. (page) and Z. (line) are added.
+**Kâvyapr.** = Kâvjaprakâça, Calcutta 1866. Cited by Ullâsa and Sûtra, unless S. (page) and Z. (line) are added.
 
 **Kenop.** = Kenopanishad in the Bibl. ind.
 
@@ -131,7 +131,7 @@ translation_of: pwpref04.md
 
 **Kusum.** = Kusumânǵali, ed. by Cowell.
 
-**Kuvalaj.** = Kuvalajânanda, according to two lithographed editions.
+**Kuvalay.** = Kuvalajânanda, according to two lithographed editions.
 
 **LA.** = Lassen's Anthologie 3rd ed.
 
@@ -139,7 +139,7 @@ translation_of: pwpref04.md
 
 **Lalit.** = Lalitavistarapurâna in the Bibl. ind. (Kern).
 
-**Lâṭj.** = Lâṭjâjana's Çrautasûtra in the Bibl. ind.
+**Lâṭy.** = Lâṭjâjana's Çrautasûtra in the Bibl. ind.
 
 **Lîlâv.** = Bhâskara's Lîlâvatî, Calcutta 1846 (Kern).
 
@@ -187,7 +187,7 @@ translation_of: pwpref04.md
 
 **Med.** = Medinîkoça.
 
-**Med. avj.** = Avjajânekârthavarga at the end of the Medinîkoça.
+**Med. avy.** = Avjajânekârthavarga at the end of the Medinîkoça.
 
 **Megh.** = Meghadûta, ed. by Stenzler.
 
