@@ -35,17 +35,17 @@ translation_of: pwpref05.md
 
 **Prab.** = Prabodhaḱandrodaja, изд. Брокгауз.
 
-**Praçnop.** = Praçnopanishad в Bibl. ind.
+**Praśnop.** = Praçnopanishad в Bibl. ind.
 
 **Prâjaçḱittat.** = Prâjaçḱittatattva (Рот).
 
-**Prajogar.** = Nârâjaṇabhaṭṭa's Prajogaratna (Штенцлер).
+**Prayogar.** = Nârâjaṇabhaṭṭa's Prajogaratna (Штенцлер).
 
 **Prasannar.** = Ǵajadeva's Prasannarâghava (Керн).
 
 **Pratâpar.** = Pratâparudrîja.
 
-**Prij.** = Prijadarçikâ, Калькутта 1874 (Каппеллер).
+**Priy.** = Prijadarçikâ, Калькутта 1874 (Каппеллер).
 
 **Procc. A. S. B.** = Proceedings of the Asiatic Society of Bengal.
 
@@ -79,7 +79,7 @@ translation_of: pwpref05.md
 
 **Saṁhitopan.** = Saṁhitopanishad, изд. Бернелл.
 
-**Sâṁkhjak.** = Sâṁkhjakârikâ, изд. Уилсон.
+**Sâṁkhyak.** = Sâṁkhjakârikâ, изд. Уилсон.
 
 **Saṁny. Up.** = Saṁnjâsopanishad в Bibl. ind. (Гельднер и Рот).
 
@@ -105,13 +105,13 @@ translation_of: pwpref05.md
 
 **Subhâshitar.** = Subhâshitaratnâkara, Бомбей 1872.
 
-**Suçr.** = Suçruta (Рот).
+**Suśr.** = Suçruta (Рот).
 
 **Suparṇ. und Suparṇâdhj.** = Suparṇâdhjâja, издано Элимар Грубе в Ind. St. 14.
 
-**Sûrjad.** = Sûrjadevajaǵvan (Керн).
+**Sûryad.** = Sûrjadevajaǵvan (Керн).
 
-**Sûrjas.** = Sûrjasiddhânta в Bibl. ind.
+**Sûryas.** = Sûrjasiddhânta в Bibl. ind.
 
 **SV.** = Sâmaveda (Рот).
 
@@ -145,17 +145,17 @@ translation_of: pwpref05.md
 
 **Vaǵras.** = Vaǵrasûḱî, изд. Вебер.
 
-**Vaidjabh.** = Vaidjabhâshja (Рот).
+**Vaidyabh.** = Vaidjabhâshja (Рот).
 
 **Vaitân.** = Vaitânasûtra, изд. Гарбе.
 
-**Vâju-P.** = Vâjupurâṇa, по цитатам в других сочинениях.
+**Vâyu-P.** = Vâjupurâṇa, по цитатам в других сочинениях.
 
 **Vâlakh.** = Vâlakhilja, вставленные между ṚV. 8,48 и 49 песни (Рот).
 
 **Vâmana** = Vâmana's Kâvjâlaṁkâravṛtti, изд. Каппеллер.
 
-**Vaṁçabr.** = Vaṁçabrâhmaṇa, изд. Бернелл (Рот).
+**Vaṁśabr.** = Vaṁçabrâhmaṇa, изд. Бернелл (Рот).
 
 **Varâh. Bṛh.** = Varâhamihira's Bṛhaǵǵâtaka (Керн).
 

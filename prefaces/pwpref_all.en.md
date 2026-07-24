@@ -72,7 +72,7 @@ That the addenda have grown so extensive is for the most part explained by the f
 
 In conclusion, I append the list of works cited in this first part. Two numbers without indication of a book refer to the second edition of my Chrestomathie. The name in parentheses at the end of a title designates the scholar who supplied the contributions for this dictionary from the indicated book, wholly or for the most part.
 
-**Âçv. Çr.** = Âçvalâjana's Çrautasûtra in the Bibl. ind.
+**Âśv. Śr.** = Âçvalâjana's Çrautasûtra in the Bibl. ind.
 
 **Âçv. Gṛhj.** = Âçvalâjana's Gṛhjasûtra; ed. by Stenzler.
 
@@ -100,7 +100,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Âpast. Śr.** = Âpastamba's Çrautasûtra, Ms. (Garbe and Roth).
 
-**Ârjabh.** = Ârjabhaṭa, ed. by Kern (Kern).
+**Âryabh.** = Ârjabhaṭa, ed. by Kern (Kern).
 
 **Ârjav.** = Ârjavidjâsudhâkara, Bombay 1868 (Kern).
 
@@ -150,7 +150,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Bibl. ind.** = Bibliotheca indica.
 
-**Bîǵag.** = Bîǵaganita, Calcutta 1846 (Kern).
+**Bîjag.** = Bîǵaganita, Calcutta 1846 (Kern).
 
 **Brahmabindûp.** = Brahmabindûpanishad in the Bibl. ind. (Geldner and Roth).
 
@@ -172,7 +172,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Çâk.** = Çâkuntala, ed. by Böhtlingk, unless Pisch. (Pischel) or Premaḱ. (Premaḱandra) is expressly added.
 
-**Çaṃk.** = Çaṃkaràḱârja as commentator on various Upanishad.
+**Śaṃk.** = Çaṃkaràḱârja as commentator on various Upanishad.
 
 **Çâṇḍ.** = The Aphorisms of Sâṇḍilya in the Bibl. ind.
 
@@ -188,7 +188,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Śârñg. Saṃh.** = Çârñgadhara's Saṃhitâ, Bombay 1853 (Roth).
 
-**Çat. Br.** = Çatapathabrâhmaṇa, according to Weber's Index.
+**Śat. Br.** = Çatapathabrâhmaṇa, according to Weber's Index.
 
 **Cat. C. Pr.** = A Catalogue of S. Mss. existing in the Central Provinces. Ed. by F. Kielhorn. Nagpur 1874 (Roth).
 
@@ -202,7 +202,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Çiç.** = Çiçupâlavadha, Calcutta 1815.
 
-**Çira-Up.** = Çiraupanishad in the Bibl. ind. (Geldner and Roth).
+**Śira-Up.** = Çiraupanishad in the Bibl. ind. (Geldner and Roth).
 
 **Colebr. Alg.** = Colebrooke, Algebra with Arithmetic and Mensuration etc. London 1817.
 
@@ -210,7 +210,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Çrîp.** = Çrîpati.
 
-**Çulbas.** = Çulbasûtra in the journal The Pandit IX. X and New Series I (Cappeller).
+**Śulbas.** = Çulbasûtra in the journal The Pandit IX. X and New Series I (Cappeller).
 
 **Śvetâśv. Up.** = Çvetâçvataropanishad in the Bibl. ind.
 
@@ -236,11 +236,11 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Dh. V.** = Dhanaṃǵajaviǵaja, Calcutta 1871 (Cappeller).
 
-**Divjâv.** = Divjâvadâna, Ms. (Schiefner).
+**Divyâv.** = Divjâvadâna, Ms. (Schiefner).
 
-**Gâbâlop.** = Gâbâlopanishad in the Bibl. ind. (Geldner and Roth).
+**Jâbâlop.** = Gâbâlopanishad in the Bibl. ind. (Geldner and Roth).
 
-**Ǵaim.** = Ǵaimini's Mîmâṃsâdarçana in the Bibl. ind.
+**Jaim.** = Ǵaimini's Mîmâṃsâdarçana in the Bibl. ind.
 
 **Jaim. Bhâr.** = Ǵaimini's Bhârata, according to citations in Ind. St.
 
@@ -301,7 +301,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Harshaḱ.** = Harshaḱarita, Calcutta 1876 (Kern).
 
-**Hâsj.** = Hâsjârnava, Bombay 1757 and Ms. (Cappeller).
+**Hâsy.** = Hâsjârnava, Bombay 1757 and Ms. (Cappeller).
 
 **Haug, Acc.** = Haug, Ueber das Wesen und den Werth des vedischen Accents. München 1874.
 
@@ -325,7 +325,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Ind. St.** = Indische Studien von Weber.
 
-**Jogas.** = Jogasûtra.
+**Yogas.** = Jogasûtra.
 
 **Yogat. Up.** = Jogatattvopanishad in the Bibl. ind. (Geldner and Roth).
 
@@ -367,7 +367,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Kâty. Snânas.** = Kâtjâjana's Snânasûtra (Stenzler).
 
-**Kauç.** = Kauçika's Sûtra to the AV., Mss. (Roth and Weber).
+**Kauś.** = Kauçika's Sûtra to the AV., Mss. (Roth and Weber).
 
 **Ḱaurap.** = Ḱaurapaṅḱâçikâ, ed. by Boulen.
 
@@ -377,7 +377,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Kautuḱar.** = Kautukaratnâkara, Ms. (Cappeller).
 
-**Kâvjapr.** = Kâvjaprakâça, Calcutta 1866. Cited by Ullâsa and Sûtra, unless S. (page) and Z. (line) are added.
+**Kâvyapr.** = Kâvjaprakâça, Calcutta 1866. Cited by Ullâsa and Sûtra, unless S. (page) and Z. (line) are added.
 
 **Kenop.** = Kenopanishad in the Bibl. ind.
 
@@ -401,7 +401,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Kusum.** = Kusumânǵali, ed. by Cowell.
 
-**Kuvalaj.** = Kuvalajânanda, according to two lithographed editions.
+**Kuvalay.** = Kuvalajânanda, according to two lithographed editions.
 
 **LA.** = Lassen's Anthologie 3rd ed.
 
@@ -409,7 +409,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Lalit.** = Lalitavistarapurâna in the Bibl. ind. (Kern).
 
-**Lâṭj.** = Lâṭjâjana's Çrautasûtra in the Bibl. ind.
+**Lâṭy.** = Lâṭjâjana's Çrautasûtra in the Bibl. ind.
 
 **Lîlâv.** = Bhâskara's Lîlâvatî, Calcutta 1846 (Kern).
 
@@ -457,7 +457,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Med.** = Medinîkoça.
 
-**Med. avj.** = Avjajânekârthavarga at the end of the Medinîkoça.
+**Med. avy.** = Avjajânekârthavarga at the end of the Medinîkoça.
 
 **Megh.** = Meghadûta, ed. by Stenzler.
 
@@ -526,17 +526,17 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Prab.** = Prabodhaḱandrodaja, ed. by Brockhaus.
 
-**Praçnop.** = Praçnopanishad in the Bibl. ind.
+**Praśnop.** = Praçnopanishad in the Bibl. ind.
 
 **Prâjaçḱittat.** = Prâjaçḱittatattva (Roth).
 
-**Prajogar.** = Nârâjaṇabhaṭṭa's Prajogaratna (Stenzler).
+**Prayogar.** = Nârâjaṇabhaṭṭa's Prajogaratna (Stenzler).
 
 **Prasannar.** = Ǵajadeva's Prasannarâghava (Kern).
 
 **Pratâpar.** = Pratâparudrîja.
 
-**Prij.** = Prijadarçikâ, Calcutta 1874 (Cappeller).
+**Priy.** = Prijadarçikâ, Calcutta 1874 (Cappeller).
 
 **Procc. A. S. B.** = Proceedings of the Asiatic Society of Bengal.
 
@@ -570,7 +570,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Saṁhitopan.** = Saṁhitopanishad, ed. by Burnell.
 
-**Sâṁkhjak.** = Sâṁkhjakârikâ, ed. by Wilson.
+**Sâṁkhyak.** = Sâṁkhjakârikâ, ed. by Wilson.
 
 **Saṁny. Up.** = Saṁnjâsopanishad in the Bibl. ind. (Geldner and Roth).
 
@@ -596,13 +596,13 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Subhâshitar.** = Subhâshitaratnâkara, Bombay 1872.
 
-**Suçr.** = Suçruta (Roth).
+**Suśr.** = Suçruta (Roth).
 
 **Suparṇ. und Suparṇâdhj.** = Suparṇâdhjâja, edited by Elimar Grube in Ind. St. 14.
 
-**Sûrjad.** = Sûrjadevajaǵvan (Kern).
+**Sûryad.** = Sûrjadevajaǵvan (Kern).
 
-**Sûrjas.** = Sûrjasiddhânta in the Bibl. ind.
+**Sûryas.** = Sûrjasiddhânta in the Bibl. ind.
 
 **SV.** = Sâmaveda (Roth).
 
@@ -636,17 +636,17 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Vaǵras.** = Vaǵrasûḱî, ed. by Weber.
 
-**Vaidjabh.** = Vaidjabhâshja (Roth).
+**Vaidyabh.** = Vaidjabhâshja (Roth).
 
 **Vaitân.** = Vaitânasûtra, ed. by Garbe.
 
-**Vâju-P.** = Vâjupurâṇa, according to citations in other works.
+**Vâyu-P.** = Vâjupurâṇa, according to citations in other works.
 
 **Vâlakh.** = Vâlakhilja, the songs inserted between ṚV. 8,48 and 49 (Roth).
 
 **Vâmana** = Vâmana's Kâvjâlaṁkâravṛtti, ed. by Cappeller.
 
-**Vaṁçabr.** = Vaṁçabrâhmaṇa, ed. by Burnell (Roth).
+**Vaṁśabr.** = Vaṁçabrâhmaṇa, ed. by Burnell (Roth).
 
 **Varâh. Bṛh.** = Varâhamihira's Bṛhaǵǵâtaka (Kern).
 

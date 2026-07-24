@@ -15,7 +15,7 @@ translation_of: pwpref03.md
 
 В заключение привожу список произведений, цитируемых в этой первой части. Два числа без указания книги отсылают ко второму изданию моей Хрестоматии. Стоящее в скобках в конце заглавия имя обозначает учёного, который полностью или по большей части предоставил вклады для этого словаря из указанной книги.
 
-**Âçv. Çr.** = Âçvalâjana's Çrautasûtra в Bibl. ind.
+**Âśv. Śr.** = Âçvalâjana's Çrautasûtra в Bibl. ind.
 
 **Âçv. Gṛhj.** = Âçvalâjana's Gṛhjasûtra; изд. Штенцлер.
 
@@ -43,7 +43,7 @@ translation_of: pwpref03.md
 
 **Âpast. Śr.** = Âpastamba's Çrautasûtra, рукоп. (Гарбе и Рот).
 
-**Ârjabh.** = Ârjabhaṭa, изд. Керн (Керн).
+**Âryabh.** = Ârjabhaṭa, изд. Керн (Керн).
 
 **Ârjav.** = Ârjavidjâsudhâkara, Бомбей 1868 (Керн).
 
@@ -93,7 +93,7 @@ translation_of: pwpref03.md
 
 **Bibl. ind.** = Bibliotheca indica.
 
-**Bîǵag.** = Bîǵaganita, Калькутта 1846 (Керн).
+**Bîjag.** = Bîǵaganita, Калькутта 1846 (Керн).
 
 **Brahmabindûp.** = Brahmabindûpanishad в Bibl. ind. (Гельднер и Рот).
 
@@ -115,7 +115,7 @@ translation_of: pwpref03.md
 
 **Çâk.** = Çâkuntala, изд. Бётлингк, если явно не добавлено Pisch. (Пишель) или Premaḱ. (Premaḱandra).
 
-**Çaṃk.** = Çaṃkaràḱârja как комментатор к различным Upanishad.
+**Śaṃk.** = Çaṃkaràḱârja как комментатор к различным Upanishad.
 
 **Çâṇḍ.** = The Aphorisms of Sâṇḍilya в Bibl. ind.
 
@@ -131,7 +131,7 @@ translation_of: pwpref03.md
 
 **Śârñg. Saṃh.** = Çârñgadhara's Saṃhitâ, Бомбей 1853 (Рот).
 
-**Çat. Br.** = Çatapathabrâhmaṇa, по указателю Вебера.
+**Śat. Br.** = Çatapathabrâhmaṇa, по указателю Вебера.
 
 **Cat. C. Pr.** = A Catalogue of S. Mss. existing in the Central Provinces. Ed. by F. Kielhorn. Нагпур 1874 (Рот).
 
@@ -145,7 +145,7 @@ translation_of: pwpref03.md
 
 **Çiç.** = Çiçupâlavadha, Калькутта 1815.
 
-**Çira-Up.** = Çiraupanishad в Bibl. ind. (Гельднер и Рот).
+**Śira-Up.** = Çiraupanishad в Bibl. ind. (Гельднер и Рот).
 
 **Colebr. Alg.** = Colebrooke, Algebra with Arithmetic and Mensuration и т. д. Лондон 1817.
 
@@ -153,7 +153,7 @@ translation_of: pwpref03.md
 
 **Çrîp.** = Çrîpati.
 
-**Çulbas.** = Çulbasûtra в журнале The Pandit IX. X и New Series I (Каппеллер).
+**Śulbas.** = Çulbasûtra в журнале The Pandit IX. X и New Series I (Каппеллер).
 
 **Śvetâśv. Up.** = Çvetâçvataropanishad в Bibl. ind.
 
@@ -179,11 +179,11 @@ translation_of: pwpref03.md
 
 **Dh. V.** = Dhanaṃǵajaviǵaja, Калькутта 1871 (Каппеллер).
 
-**Divjâv.** = Divjâvadâna, рукоп. (Шифнер).
+**Divyâv.** = Divjâvadâna, рукоп. (Шифнер).
 
-**Gâbâlop.** = Gâbâlopanishad в Bibl. ind. (Гельднер и Рот).
+**Jâbâlop.** = Gâbâlopanishad в Bibl. ind. (Гельднер и Рот).
 
-**Ǵaim.** = Ǵaimini's Mîmâṃsâdarçana в Bibl. ind.
+**Jaim.** = Ǵaimini's Mîmâṃsâdarçana в Bibl. ind.
 
 **Jaim. Bhâr.** = Ǵaimini's Bhârata, по цитатам в Ind. St.
 

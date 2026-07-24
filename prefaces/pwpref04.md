@@ -29,7 +29,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Harshaḱ.** = Harshaḱarita, Calcutta 1876 (Kern).
 
-**Hâsj.** = Hâsjârnava, Bombay 1757 und Hdschr. (Cappeller).
+**Hâsy.** = Hâsjârnava, Bombay 1757 und Hdschr. (Cappeller).
 
 **Haug, Acc.** = Haug, Ueber das Wesen und den Werth des vedischen Accents. München 1874.
 
@@ -53,7 +53,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Ind. St.** = Indische Studien von Weber.
 
-**Jogas.** = Jogasûtra.
+**Yogas.** = Jogasûtra.
 
 **Yogat. Up.** = Jogatattvopanishad in der Bibl. ind. (Geldner und Roth).
 
@@ -95,7 +95,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Kâty. Snânas.** = Kâtjâjana's Snânasûtra (Stenzler).
 
-**Kauç.** = Kauçika's Sûtra zum AV., Hdschrr. (Roth und Weber).
+**Kauś.** = Kauçika's Sûtra zum AV., Hdschrr. (Roth und Weber).
 
 **Ḱaurap.** = Ḱaurapaṅḱâçikâ, Ausg. von Boulen.
 
@@ -105,7 +105,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Kautuḱar.** = Kautukaratnâkara, Hdschr. (Cappeller).
 
-**Kâvjapr.** = Kâvjaprakâça, Calcutta 1866. Nach Ullâsa und Sûtra citirt, wenn nicht S. (Seite) und Z. (Zeile) hinzugefügt werden.
+**Kâvyapr.** = Kâvjaprakâça, Calcutta 1866. Nach Ullâsa und Sûtra citirt, wenn nicht S. (Seite) und Z. (Zeile) hinzugefügt werden.
 
 **Kenop.** = Kenopanishad in der Bibl. ind.
 
@@ -129,7 +129,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Kusum.** = Kusumânǵali, Ausg. von Cowell.
 
-**Kuvalaj.** = Kuvalajânanda, nach zwei lithogr. Ausgg.
+**Kuvalay.** = Kuvalajânanda, nach zwei lithogr. Ausgg.
 
 **LA.** = Lassen's Anthologie 3te Ausg.
 
@@ -137,7 +137,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Lalit.** = Lalitavistarapurâna in der Bibl. ind. (Kern).
 
-**Lâṭj.** = Lâṭjâjana's Çrautasûtra in der Bibl. ind.
+**Lâṭy.** = Lâṭjâjana's Çrautasûtra in der Bibl. ind.
 
 **Lîlâv.** = Bhâskara's Lîlâvatî, Calcutta 1846 (Kern).
 
@@ -185,7 +185,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Med.** = Medinîkoça.
 
-**Med. avj.** = Avjajânekârthavarga am Ende des Medinîkoça.
+**Med. avy.** = Avjajânekârthavarga am Ende des Medinîkoça.
 
 **Megh.** = Meghadûta, Ausg. von Stenzler.
 

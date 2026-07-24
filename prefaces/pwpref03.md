@@ -13,7 +13,7 @@ Dass die Nachträge so stark geworden sind, erklärt sich zum grössten Theil da
 
 Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werke folgen. Zwei Zahlen ohne Angabe eines Buches verweisen auf die zweite Auflage meiner Chrestomathie. Der am Ende eines Titels in Klammern stehende Name bezeichnet den Gelehrten, der die Beiträge für dieses Wörterbuch aus dem angegebenen Buche ganz oder zum grössten Theile geliefert hat.
 
-**Âçv. Çr.** = Âçvalâjana's Çrautasûtra in der Bibl. ind.
+**Âśv. Śr.** = Âçvalâjana's Çrautasûtra in der Bibl. ind.
 
 **Âçv. Gṛhj.** = Âçvalâjana's Gṛhjasûtra; Ausg. von Stenzler.
 
@@ -41,7 +41,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Âpast. Śr.** = Âpastamba's Çrautasûtra, Hdschr. (Garbe und Roth).
 
-**Ârjabh.** = Ârjabhaṭa, Ausg. von Kern (Kern).
+**Âryabh.** = Ârjabhaṭa, Ausg. von Kern (Kern).
 
 **Ârjav.** = Ârjavidjâsudhâkara, Bombay 1868 (Kern).
 
@@ -91,7 +91,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Bibl. ind.** = Bibliotheca indica.
 
-**Bîǵag.** = Bîǵaganita, Calcutta 1846 (Kern).
+**Bîjag.** = Bîǵaganita, Calcutta 1846 (Kern).
 
 **Brahmabindûp.** = Brahmabindûpanishad in der Bibl. ind. (Geldner und Roth).
 
@@ -113,7 +113,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Çâk.** = Çâkuntala, Ausg. von Böhtlingk, wenn nicht ausdrücklich Pisch. (Pischel) oder Premaḱ. (Premaḱandra) hinzugefügt wird.
 
-**Çaṃk.** = Çaṃkaràḱârja als Commentator verschiedener Upanishad.
+**Śaṃk.** = Çaṃkaràḱârja als Commentator verschiedener Upanishad.
 
 **Çâṇḍ.** = The Aphorisms of Sâṇḍilya in der Bibl. ind.
 
@@ -129,7 +129,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Śârñg. Saṃh.** = Çârñgadhara's Saṃhitâ, Bombay 1853 (Roth).
 
-**Çat. Br.** = Çatapathabrâhmaṇa, nach Weber's Index.
+**Śat. Br.** = Çatapathabrâhmaṇa, nach Weber's Index.
 
 **Cat. C. Pr.** = A Catalogue of S. Mss. existing in the Central Provinces. Ed. by F. Kielhorn. Nagpur 1874 (Roth).
 
@@ -143,7 +143,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Çiç.** = Çiçupâlavadha, Calcutta 1815.
 
-**Çira-Up.** = Çiraupanishad in der Bibl. ind. (Geldner und Roth).
+**Śira-Up.** = Çiraupanishad in der Bibl. ind. (Geldner und Roth).
 
 **Colebr. Alg.** = Colebrooke, Algebra with Arithmetic and Mensuration u. s. w. London 1817.
 
@@ -151,7 +151,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Çrîp.** = Çrîpati.
 
-**Çulbas.** = Çulbasûtra in der Zeitschrift The Pandit IX. X und New Series I (Cappeller).
+**Śulbas.** = Çulbasûtra in der Zeitschrift The Pandit IX. X und New Series I (Cappeller).
 
 **Śvetâśv. Up.** = Çvetâçvataropanishad in der Bibl. ind.
 
@@ -177,11 +177,11 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Dh. V.** = Dhanaṃǵajaviǵaja, Calcutta 1871 (Cappeller).
 
-**Divjâv.** = Divjâvadâna, Hdschr. (Schiefner).
+**Divyâv.** = Divjâvadâna, Hdschr. (Schiefner).
 
-**Gâbâlop.** = Gâbâlopanishad in der Bibl. ind. (Geldner und Roth).
+**Jâbâlop.** = Gâbâlopanishad in der Bibl. ind. (Geldner und Roth).
 
-**Ǵaim.** = Ǵaimini's Mîmâṃsâdarçana in der Bibl. ind.
+**Jaim.** = Ǵaimini's Mîmâṃsâdarçana in der Bibl. ind.
 
 **Jaim. Bhâr.** = Ǵaimini's Bhârata, nach Citaten in Ind. St.
 

@@ -33,17 +33,17 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Prab.** = Prabodhaḱandrodaja, Ausg. von Brockhaus.
 
-**Praçnop.** = Praçnopanishad in der Bibl. ind.
+**Praśnop.** = Praçnopanishad in der Bibl. ind.
 
 **Prâjaçḱittat.** = Prâjaçḱittatattva (Roth).
 
-**Prajogar.** = Nârâjaṇabhaṭṭa's Prajogaratna (Stenzler).
+**Prayogar.** = Nârâjaṇabhaṭṭa's Prajogaratna (Stenzler).
 
 **Prasannar.** = Ǵajadeva's Prasannarâghava (Kern).
 
 **Pratâpar.** = Pratâparudrîja.
 
-**Prij.** = Prijadarçikâ, Calcutta 1874 (Cappeller).
+**Priy.** = Prijadarçikâ, Calcutta 1874 (Cappeller).
 
 **Procc. A. S. B.** = Proceedings of the Asiatic Society of Bengal.
 
@@ -77,7 +77,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Saṁhitopan.** = Saṁhitopanishad, Ausg. von Burnell.
 
-**Sâṁkhjak.** = Sâṁkhjakârikâ, Ausg. von Wilson.
+**Sâṁkhyak.** = Sâṁkhjakârikâ, Ausg. von Wilson.
 
 **Saṁny. Up.** = Saṁnjâsopanishad in der Bibl. ind. (Geldner und Roth).
 
@@ -103,13 +103,13 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Subhâshitar.** = Subhâshitaratnâkara, Bombay 1872.
 
-**Suçr.** = Suçruta (Roth).
+**Suśr.** = Suçruta (Roth).
 
 **Suparṇ. und Suparṇâdhj.** = Suparṇâdhjâja, herausg. von Elimar Grube in Ind. St. 14.
 
-**Sûrjad.** = Sûrjadevajaǵvan (Kern).
+**Sûryad.** = Sûrjadevajaǵvan (Kern).
 
-**Sûrjas.** = Sûrjasiddhânta in der Bibl. ind.
+**Sûryas.** = Sûrjasiddhânta in der Bibl. ind.
 
 **SV.** = Sâmaveda (Roth).
 
@@ -143,17 +143,17 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Vaǵras.** = Vaǵrasûḱî, Ausg. von Weber.
 
-**Vaidjabh.** = Vaidjabhâshja (Roth).
+**Vaidyabh.** = Vaidjabhâshja (Roth).
 
 **Vaitân.** = Vaitânasûtra, Ausg. von Garbe.
 
-**Vâju-P.** = Vâjupurâṇa, nach Citaten in andern Werken.
+**Vâyu-P.** = Vâjupurâṇa, nach Citaten in andern Werken.
 
 **Vâlakh.** = Vâlakhilja, die zwischen ṚV. 8,48 und 49 eingeschobenen Lieder (Roth).
 
 **Vâmana** = Vâmana's Kâvjâlaṁkâravṛtti, Ausg. von Cappeller.
 
-**Vaṁçabr.** = Vaṁçabrâhmaṇa, Ausg. von Burnell (Roth).
+**Vaṁśabr.** = Vaṁçabrâhmaṇa, Ausg. von Burnell (Roth).
 
 **Varâh. Bṛh.** = Varâhamihira's Bṛhaǵǵâtaka (Kern).
 

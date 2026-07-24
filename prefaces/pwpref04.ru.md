@@ -31,7 +31,7 @@ translation_of: pwpref04.md
 
 **Harshaḱ.** = Harshaḱarita, Калькутта 1876 (Керн).
 
-**Hâsj.** = Hâsjârnava, Бомбей 1757 и рукоп. (Каппеллер).
+**Hâsy.** = Hâsjârnava, Бомбей 1757 и рукоп. (Каппеллер).
 
 **Haug, Acc.** = Haug, Ueber das Wesen und den Werth des vedischen Accents. Мюнхен 1874.
 
@@ -55,7 +55,7 @@ translation_of: pwpref04.md
 
 **Ind. St.** = Indische Studien von Weber.
 
-**Jogas.** = Jogasûtra.
+**Yogas.** = Jogasûtra.
 
 **Yogat. Up.** = Jogatattvopanishad в Bibl. ind. (Гельднер и Рот).
 
@@ -97,7 +97,7 @@ translation_of: pwpref04.md
 
 **Kâty. Snânas.** = Kâtjâjana's Snânasûtra (Штенцлер).
 
-**Kauç.** = Kauçika's Sûtra к AV., рукоп. (мн.) (Рот и Вебер).
+**Kauś.** = Kauçika's Sûtra к AV., рукоп. (мн.) (Рот и Вебер).
 
 **Ḱaurap.** = Ḱaurapaṅḱâçikâ, изд. Болленсен.
 
@@ -107,7 +107,7 @@ translation_of: pwpref04.md
 
 **Kautuḱar.** = Kautukaratnâkara, рукоп. (Каппеллер).
 
-**Kâvjapr.** = Kâvjaprakâça, Калькутта 1866. Цитируется по Ullâsa и Sûtra, если не добавлены S. (страница) и Z. (строка).
+**Kâvyapr.** = Kâvjaprakâça, Калькутта 1866. Цитируется по Ullâsa и Sûtra, если не добавлены S. (страница) и Z. (строка).
 
 **Kenop.** = Kenopanishad в Bibl. ind.
 
@@ -131,7 +131,7 @@ translation_of: pwpref04.md
 
 **Kusum.** = Kusumânǵali, изд. Кауэлл.
 
-**Kuvalaj.** = Kuvalajânanda, по двум литогр. изданиям.
+**Kuvalay.** = Kuvalajânanda, по двум литогр. изданиям.
 
 **LA.** = Lassen's Anthologie 3-е изд.
 
@@ -139,7 +139,7 @@ translation_of: pwpref04.md
 
 **Lalit.** = Lalitavistarapurâna в Bibl. ind. (Керн).
 
-**Lâṭj.** = Lâṭjâjana's Çrautasûtra в Bibl. ind.
+**Lâṭy.** = Lâṭjâjana's Çrautasûtra в Bibl. ind.
 
 **Lîlâv.** = Bhâskara's Lîlâvatî, Калькутта 1846 (Керн).
 
@@ -187,7 +187,7 @@ translation_of: pwpref04.md
 
 **Med.** = Medinîkoça.
 
-**Med. avj.** = Avjajânekârthavarga в конце Medinîkoça.
+**Med. avy.** = Avjajânekârthavarga в конце Medinîkoça.
 
 **Megh.** = Meghadûta, изд. Штенцлер.
 

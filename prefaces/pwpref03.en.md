@@ -15,7 +15,7 @@ That the addenda have grown so extensive is for the most part explained by the f
 
 In conclusion, I append the list of works cited in this first part. Two numbers without indication of a book refer to the second edition of my Chrestomathie. The name in parentheses at the end of a title designates the scholar who supplied the contributions for this dictionary from the indicated book, wholly or for the most part.
 
-**Âçv. Çr.** = Âçvalâjana's Çrautasûtra in the Bibl. ind.
+**Âśv. Śr.** = Âçvalâjana's Çrautasûtra in the Bibl. ind.
 
 **Âçv. Gṛhj.** = Âçvalâjana's Gṛhjasûtra; ed. by Stenzler.
 
@@ -43,7 +43,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Âpast. Śr.** = Âpastamba's Çrautasûtra, Ms. (Garbe and Roth).
 
-**Ârjabh.** = Ârjabhaṭa, ed. by Kern (Kern).
+**Âryabh.** = Ârjabhaṭa, ed. by Kern (Kern).
 
 **Ârjav.** = Ârjavidjâsudhâkara, Bombay 1868 (Kern).
 
@@ -93,7 +93,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Bibl. ind.** = Bibliotheca indica.
 
-**Bîǵag.** = Bîǵaganita, Calcutta 1846 (Kern).
+**Bîjag.** = Bîǵaganita, Calcutta 1846 (Kern).
 
 **Brahmabindûp.** = Brahmabindûpanishad in the Bibl. ind. (Geldner and Roth).
 
@@ -115,7 +115,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Çâk.** = Çâkuntala, ed. by Böhtlingk, unless Pisch. (Pischel) or Premaḱ. (Premaḱandra) is expressly added.
 
-**Çaṃk.** = Çaṃkaràḱârja as commentator on various Upanishad.
+**Śaṃk.** = Çaṃkaràḱârja as commentator on various Upanishad.
 
 **Çâṇḍ.** = The Aphorisms of Sâṇḍilya in the Bibl. ind.
 
@@ -131,7 +131,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Śârñg. Saṃh.** = Çârñgadhara's Saṃhitâ, Bombay 1853 (Roth).
 
-**Çat. Br.** = Çatapathabrâhmaṇa, according to Weber's Index.
+**Śat. Br.** = Çatapathabrâhmaṇa, according to Weber's Index.
 
 **Cat. C. Pr.** = A Catalogue of S. Mss. existing in the Central Provinces. Ed. by F. Kielhorn. Nagpur 1874 (Roth).
 
@@ -145,7 +145,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Çiç.** = Çiçupâlavadha, Calcutta 1815.
 
-**Çira-Up.** = Çiraupanishad in the Bibl. ind. (Geldner and Roth).
+**Śira-Up.** = Çiraupanishad in the Bibl. ind. (Geldner and Roth).
 
 **Colebr. Alg.** = Colebrooke, Algebra with Arithmetic and Mensuration etc. London 1817.
 
@@ -153,7 +153,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Çrîp.** = Çrîpati.
 
-**Çulbas.** = Çulbasûtra in the journal The Pandit IX. X and New Series I (Cappeller).
+**Śulbas.** = Çulbasûtra in the journal The Pandit IX. X and New Series I (Cappeller).
 
 **Śvetâśv. Up.** = Çvetâçvataropanishad in the Bibl. ind.
 
@@ -179,11 +179,11 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Dh. V.** = Dhanaṃǵajaviǵaja, Calcutta 1871 (Cappeller).
 
-**Divjâv.** = Divjâvadâna, Ms. (Schiefner).
+**Divyâv.** = Divjâvadâna, Ms. (Schiefner).
 
-**Gâbâlop.** = Gâbâlopanishad in the Bibl. ind. (Geldner and Roth).
+**Jâbâlop.** = Gâbâlopanishad in the Bibl. ind. (Geldner and Roth).
 
-**Ǵaim.** = Ǵaimini's Mîmâṃsâdarçana in the Bibl. ind.
+**Jaim.** = Ǵaimini's Mîmâṃsâdarçana in the Bibl. ind.
 
 **Jaim. Bhâr.** = Ǵaimini's Bhârata, according to citations in Ind. St.
 

@@ -72,7 +72,7 @@ Dass die Nachträge so stark geworden sind, erklärt sich zum grössten Theil da
 
 Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werke folgen. Zwei Zahlen ohne Angabe eines Buches verweisen auf die zweite Auflage meiner Chrestomathie. Der am Ende eines Titels in Klammern stehende Name bezeichnet den Gelehrten, der die Beiträge für dieses Wörterbuch aus dem angegebenen Buche ganz oder zum grössten Theile geliefert hat.
 
-**Âçv. Çr.** = Âçvalâjana's Çrautasûtra in der Bibl. ind.
+**Âśv. Śr.** = Âçvalâjana's Çrautasûtra in der Bibl. ind.
 
 **Âçv. Gṛhj.** = Âçvalâjana's Gṛhjasûtra; Ausg. von Stenzler.
 
@@ -100,7 +100,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Âpast. Śr.** = Âpastamba's Çrautasûtra, Hdschr. (Garbe und Roth).
 
-**Ârjabh.** = Ârjabhaṭa, Ausg. von Kern (Kern).
+**Âryabh.** = Ârjabhaṭa, Ausg. von Kern (Kern).
 
 **Ârjav.** = Ârjavidjâsudhâkara, Bombay 1868 (Kern).
 
@@ -150,7 +150,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Bibl. ind.** = Bibliotheca indica.
 
-**Bîǵag.** = Bîǵaganita, Calcutta 1846 (Kern).
+**Bîjag.** = Bîǵaganita, Calcutta 1846 (Kern).
 
 **Brahmabindûp.** = Brahmabindûpanishad in der Bibl. ind. (Geldner und Roth).
 
@@ -172,7 +172,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Çâk.** = Çâkuntala, Ausg. von Böhtlingk, wenn nicht ausdrücklich Pisch. (Pischel) oder Premaḱ. (Premaḱandra) hinzugefügt wird.
 
-**Çaṃk.** = Çaṃkaràḱârja als Commentator verschiedener Upanishad.
+**Śaṃk.** = Çaṃkaràḱârja als Commentator verschiedener Upanishad.
 
 **Çâṇḍ.** = The Aphorisms of Sâṇḍilya in der Bibl. ind.
 
@@ -188,7 +188,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Śârñg. Saṃh.** = Çârñgadhara's Saṃhitâ, Bombay 1853 (Roth).
 
-**Çat. Br.** = Çatapathabrâhmaṇa, nach Weber's Index.
+**Śat. Br.** = Çatapathabrâhmaṇa, nach Weber's Index.
 
 **Cat. C. Pr.** = A Catalogue of S. Mss. existing in the Central Provinces. Ed. by F. Kielhorn. Nagpur 1874 (Roth).
 
@@ -202,7 +202,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Çiç.** = Çiçupâlavadha, Calcutta 1815.
 
-**Çira-Up.** = Çiraupanishad in der Bibl. ind. (Geldner und Roth).
+**Śira-Up.** = Çiraupanishad in der Bibl. ind. (Geldner und Roth).
 
 **Colebr. Alg.** = Colebrooke, Algebra with Arithmetic and Mensuration u. s. w. London 1817.
 
@@ -210,7 +210,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Çrîp.** = Çrîpati.
 
-**Çulbas.** = Çulbasûtra in der Zeitschrift The Pandit IX. X und New Series I (Cappeller).
+**Śulbas.** = Çulbasûtra in der Zeitschrift The Pandit IX. X und New Series I (Cappeller).
 
 **Śvetâśv. Up.** = Çvetâçvataropanishad in der Bibl. ind.
 
@@ -236,11 +236,11 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Dh. V.** = Dhanaṃǵajaviǵaja, Calcutta 1871 (Cappeller).
 
-**Divjâv.** = Divjâvadâna, Hdschr. (Schiefner).
+**Divyâv.** = Divjâvadâna, Hdschr. (Schiefner).
 
-**Gâbâlop.** = Gâbâlopanishad in der Bibl. ind. (Geldner und Roth).
+**Jâbâlop.** = Gâbâlopanishad in der Bibl. ind. (Geldner und Roth).
 
-**Ǵaim.** = Ǵaimini's Mîmâṃsâdarçana in der Bibl. ind.
+**Jaim.** = Ǵaimini's Mîmâṃsâdarçana in der Bibl. ind.
 
 **Jaim. Bhâr.** = Ǵaimini's Bhârata, nach Citaten in Ind. St.
 
@@ -301,7 +301,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Harshaḱ.** = Harshaḱarita, Calcutta 1876 (Kern).
 
-**Hâsj.** = Hâsjârnava, Bombay 1757 und Hdschr. (Cappeller).
+**Hâsy.** = Hâsjârnava, Bombay 1757 und Hdschr. (Cappeller).
 
 **Haug, Acc.** = Haug, Ueber das Wesen und den Werth des vedischen Accents. München 1874.
 
@@ -325,7 +325,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Ind. St.** = Indische Studien von Weber.
 
-**Jogas.** = Jogasûtra.
+**Yogas.** = Jogasûtra.
 
 **Yogat. Up.** = Jogatattvopanishad in der Bibl. ind. (Geldner und Roth).
 
@@ -367,7 +367,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Kâty. Snânas.** = Kâtjâjana's Snânasûtra (Stenzler).
 
-**Kauç.** = Kauçika's Sûtra zum AV., Hdschrr. (Roth und Weber).
+**Kauś.** = Kauçika's Sûtra zum AV., Hdschrr. (Roth und Weber).
 
 **Ḱaurap.** = Ḱaurapaṅḱâçikâ, Ausg. von Boulen.
 
@@ -377,7 +377,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Kautuḱar.** = Kautukaratnâkara, Hdschr. (Cappeller).
 
-**Kâvjapr.** = Kâvjaprakâça, Calcutta 1866. Nach Ullâsa und Sûtra citirt, wenn nicht S. (Seite) und Z. (Zeile) hinzugefügt werden.
+**Kâvyapr.** = Kâvjaprakâça, Calcutta 1866. Nach Ullâsa und Sûtra citirt, wenn nicht S. (Seite) und Z. (Zeile) hinzugefügt werden.
 
 **Kenop.** = Kenopanishad in der Bibl. ind.
 
@@ -401,7 +401,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Kusum.** = Kusumânǵali, Ausg. von Cowell.
 
-**Kuvalaj.** = Kuvalajânanda, nach zwei lithogr. Ausgg.
+**Kuvalay.** = Kuvalajânanda, nach zwei lithogr. Ausgg.
 
 **LA.** = Lassen's Anthologie 3te Ausg.
 
@@ -409,7 +409,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Lalit.** = Lalitavistarapurâna in der Bibl. ind. (Kern).
 
-**Lâṭj.** = Lâṭjâjana's Çrautasûtra in der Bibl. ind.
+**Lâṭy.** = Lâṭjâjana's Çrautasûtra in der Bibl. ind.
 
 **Lîlâv.** = Bhâskara's Lîlâvatî, Calcutta 1846 (Kern).
 
@@ -457,7 +457,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Med.** = Medinîkoça.
 
-**Med. avj.** = Avjajânekârthavarga am Ende des Medinîkoça.
+**Med. avy.** = Avjajânekârthavarga am Ende des Medinîkoça.
 
 **Megh.** = Meghadûta, Ausg. von Stenzler.
 
@@ -526,17 +526,17 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Prab.** = Prabodhaḱandrodaja, Ausg. von Brockhaus.
 
-**Praçnop.** = Praçnopanishad in der Bibl. ind.
+**Praśnop.** = Praçnopanishad in der Bibl. ind.
 
 **Prâjaçḱittat.** = Prâjaçḱittatattva (Roth).
 
-**Prajogar.** = Nârâjaṇabhaṭṭa's Prajogaratna (Stenzler).
+**Prayogar.** = Nârâjaṇabhaṭṭa's Prajogaratna (Stenzler).
 
 **Prasannar.** = Ǵajadeva's Prasannarâghava (Kern).
 
 **Pratâpar.** = Pratâparudrîja.
 
-**Prij.** = Prijadarçikâ, Calcutta 1874 (Cappeller).
+**Priy.** = Prijadarçikâ, Calcutta 1874 (Cappeller).
 
 **Procc. A. S. B.** = Proceedings of the Asiatic Society of Bengal.
 
@@ -570,7 +570,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Saṁhitopan.** = Saṁhitopanishad, Ausg. von Burnell.
 
-**Sâṁkhjak.** = Sâṁkhjakârikâ, Ausg. von Wilson.
+**Sâṁkhyak.** = Sâṁkhjakârikâ, Ausg. von Wilson.
 
 **Saṁny. Up.** = Saṁnjâsopanishad in der Bibl. ind. (Geldner und Roth).
 
@@ -596,13 +596,13 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Subhâshitar.** = Subhâshitaratnâkara, Bombay 1872.
 
-**Suçr.** = Suçruta (Roth).
+**Suśr.** = Suçruta (Roth).
 
 **Suparṇ. und Suparṇâdhj.** = Suparṇâdhjâja, herausg. von Elimar Grube in Ind. St. 14.
 
-**Sûrjad.** = Sûrjadevajaǵvan (Kern).
+**Sûryad.** = Sûrjadevajaǵvan (Kern).
 
-**Sûrjas.** = Sûrjasiddhânta in der Bibl. ind.
+**Sûryas.** = Sûrjasiddhânta in der Bibl. ind.
 
 **SV.** = Sâmaveda (Roth).
 
@@ -636,17 +636,17 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Vaǵras.** = Vaǵrasûḱî, Ausg. von Weber.
 
-**Vaidjabh.** = Vaidjabhâshja (Roth).
+**Vaidyabh.** = Vaidjabhâshja (Roth).
 
 **Vaitân.** = Vaitânasûtra, Ausg. von Garbe.
 
-**Vâju-P.** = Vâjupurâṇa, nach Citaten in andern Werken.
+**Vâyu-P.** = Vâjupurâṇa, nach Citaten in andern Werken.
 
 **Vâlakh.** = Vâlakhilja, die zwischen ṚV. 8,48 und 49 eingeschobenen Lieder (Roth).
 
 **Vâmana** = Vâmana's Kâvjâlaṁkâravṛtti, Ausg. von Cappeller.
 
-**Vaṁçabr.** = Vaṁçabrâhmaṇa, Ausg. von Burnell (Roth).
+**Vaṁśabr.** = Vaṁçabrâhmaṇa, Ausg. von Burnell (Roth).
 
 **Varâh. Bṛh.** = Varâhamihira's Bṛhaǵǵâtaka (Kern).
 
