@@ -135,7 +135,7 @@ translation_of: pwpref05.md
 
 **TS. Prât.** = Prâtiçâkhja к TS., изд. Уитни.
 
-**Uǵǵval.** = Uǵǵvaladatta, комментатор к Uṇâdisûtra.
+**Ujjval.** = Uǵǵvaladatta, комментатор к Uṇâdisûtra.
 
 **Uṇâdis.** = Uṇâdisûtra, издано Ауфрехт.
 

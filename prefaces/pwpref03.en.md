@@ -17,9 +17,9 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Âśv. Śr.** = Âçvalâjana's Çrautasûtra in the Bibl. ind.
 
-**Âçv. Gṛhj.** = Âçvalâjana's Gṛhjasûtra; ed. by Stenzler.
+**Âśv. Gṛhy.** = Âçvalâjana's Gṛhjasûtra; ed. by Stenzler.
 
-**Âçv. Gṛhj. Pariç.** = Pariçishṭa to Âçv. Gṛhj. in the Bibl. ind.
+**Âśv. Gṛhy. Pariś.** = Pariçishṭa to Âçv. Gṛhj. in the Bibl. ind.
 
 **Agni-P.** = Agnipurâṇa in the Bibl. ind.
 
@@ -77,7 +77,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Bhâg. P.** = Bhâgavatapurâṇa. The first 9 Skandha according to Burnouf's edition, unless ed. Bomb. is expressly added; the last Skandha according to the ed. Bomb. Numbers enclosed in parentheses refer to ed. Bomb.
 
-**Bhar. Nâṭjaç.** = Bhâratîjanâṭjaçâstra at the end of Daçar. in the Bibl. ind.
+**Bhar. Nâṭyaś.** = Bhâratîjanâṭjaçâstra at the end of Daçar. in the Bibl. ind.
 
 **Bhâshâp.** = Bhâshâpariḱḱheda in the Bibl. ind.
 
@@ -89,7 +89,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Bhoǵa-Ḱar.** = Bhoǵakaritra, Madras 1862 (Stenzler).
 
-**Bhoǵa-Pr.** = Bhoǵaprabandha, Benares 1925 (Kern).
+**Bhoja-Pr.** = Bhoǵaprabandha, Benares 1925 (Kern).
 
 **Bibl. ind.** = Bibliotheca indica.
 
@@ -123,7 +123,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Śâṅkh. Śr.** = Çâṅkhâjana's Çrautasûtra (Weber).
 
-**Çâṅkh. Gṛhj.** = Çâṅkhâjana's Gṛhjasûtra, edited by Oldenberg in Ind. St. 15.
+**Śâṅkh. Gṛhy.** = Çâṅkhâjana's Gṛhjasûtra, edited by Oldenberg in Ind. St. 15.
 
 **Çânt.** = Çântanava's Phiṭsûtra, ed. by Kielhorn.
 

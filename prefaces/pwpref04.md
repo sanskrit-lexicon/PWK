@@ -89,7 +89,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Kathâs.** = Kathâsaritsâgara, Ausg. von Brockhaus.
 
-**Kâtj. Çr.** = Kâtjâjana's Çrautasûtra, nach Weber's Index.
+**Kâty. Śr.** = Kâtjâjana's Çrautasûtra, nach Weber's Index.
 
 **Kâty. Dh.** = Kâtjâjana's Dharmaçâstra (Stenzler).
 
@@ -97,7 +97,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Kauś.** = Kauçika's Sûtra zum AV., Hdschrr. (Roth und Weber).
 
-**Ḱaurap.** = Ḱaurapaṅḱâçikâ, Ausg. von Boulen.
+**Caurap.** = Ḱaurapaṅḱâçikâ, Ausg. von Boulen.
 
 **Kaush. Âr.** = Kaushîtakâranjaka (Weber).
 
@@ -109,7 +109,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Kenop.** = Kenopanishad in der Bibl. ind.
 
-**Ḱhandom.** = Ḱhandomanǵarî, herausg. von Brockhaus in Berichte über die Verhandlungen der Kön. Sächsischen Gesellschaft der Wissenschaften zu Leipzig. Phil.-hist. Kl. Bd. VI, 1854.
+**Chandom.** = Ḱhandomanǵarî, herausg. von Brockhaus in Berichte über die Verhandlungen der Kön. Sächsischen Gesellschaft der Wissenschaften zu Leipzig. Phil.-hist. Kl. Bd. VI, 1854.
 
 **Chând. Up.** = Ḱhândogjopanishad in der Bibl. ind.
 
@@ -155,7 +155,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Mahâbh. (K.)** = Kielhorn's Ausg. des Mahâbhâshja.
 
-**Mahâvîraḱ.** = Mahâvîraḱarita, Ausg. von Trithen.
+**Mahâvîrac.** = Mahâvîraḱarita, Ausg. von Trithen.
 
 **Mahîdh.** = Mahîdhara, Commentator der VS.
 
@@ -193,7 +193,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **M. K. S.** = Mân. K. S.
 
-**Mṛḱḱh.** = Mṛḱḱhakaṭika, Ausg. von Stenzler. Comm. zu Mṛḱḱh. sind die Auszüge in den Anmerkungen zu meiner Uebersetzung dieses Schauspiels.
+**Mṛcch.** = Mṛḱḱhakaṭika, Ausg. von Stenzler. Comm. zu Mṛḱḱh. sind die Auszüge in den Anmerkungen zu meiner Uebersetzung dieses Schauspiels.
 
 **Mudrâr.** = Mudrârâkshasa, nach zwei Ausgaben, Calcutta 1831 und 1926 (Cappeller).
 

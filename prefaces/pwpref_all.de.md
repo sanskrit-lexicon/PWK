@@ -74,9 +74,9 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Âśv. Śr.** = Âçvalâjana's Çrautasûtra in der Bibl. ind.
 
-**Âçv. Gṛhj.** = Âçvalâjana's Gṛhjasûtra; Ausg. von Stenzler.
+**Âśv. Gṛhy.** = Âçvalâjana's Gṛhjasûtra; Ausg. von Stenzler.
 
-**Âçv. Gṛhj. Pariç.** = Pariçishṭa zu Âçv. Gṛhj. in der Bibl. ind.
+**Âśv. Gṛhy. Pariś.** = Pariçishṭa zu Âçv. Gṛhj. in der Bibl. ind.
 
 **Agni-P.** = Agnipurâṇa in der Bibl. ind.
 
@@ -134,7 +134,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Bhâg. P.** = Bhâgavatapurâṇa. Die 9 ersten Skandha nach Burnouf's Ausgabe, wenn nicht ausdrücklich ed. Bomb. hinzugefügt wird; die letzten Skandha nach der ed. Bomb. In Klammern eingeschlossene Zahlen verweisen auf ed. Bomb.
 
-**Bhar. Nâṭjaç.** = Bhâratîjanâṭjaçâstra am Schluss von Daçar. in der Bibl. ind.
+**Bhar. Nâṭyaś.** = Bhâratîjanâṭjaçâstra am Schluss von Daçar. in der Bibl. ind.
 
 **Bhâshâp.** = Bhâshâpariḱḱheda in der Bibl. ind.
 
@@ -146,7 +146,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Bhoǵa-Ḱar.** = Bhoǵakaritra, Madras 1862 (Stenzler).
 
-**Bhoǵa-Pr.** = Bhoǵaprabandha, Benares 1925 (Kern).
+**Bhoja-Pr.** = Bhoǵaprabandha, Benares 1925 (Kern).
 
 **Bibl. ind.** = Bibliotheca indica.
 
@@ -180,7 +180,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Śâṅkh. Śr.** = Çâṅkhâjana's Çrautasûtra (Weber).
 
-**Çâṅkh. Gṛhj.** = Çâṅkhâjana's Gṛhjasûtra, herausg. von Oldenberg in Ind. St. 15.
+**Śâṅkh. Gṛhy.** = Çâṅkhâjana's Gṛhjasûtra, herausg. von Oldenberg in Ind. St. 15.
 
 **Çânt.** = Çântanava's Phiṭsûtra, Ausg. von Kielhorn.
 
@@ -361,7 +361,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Kathâs.** = Kathâsaritsâgara, Ausg. von Brockhaus.
 
-**Kâtj. Çr.** = Kâtjâjana's Çrautasûtra, nach Weber's Index.
+**Kâty. Śr.** = Kâtjâjana's Çrautasûtra, nach Weber's Index.
 
 **Kâty. Dh.** = Kâtjâjana's Dharmaçâstra (Stenzler).
 
@@ -369,7 +369,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Kauś.** = Kauçika's Sûtra zum AV., Hdschrr. (Roth und Weber).
 
-**Ḱaurap.** = Ḱaurapaṅḱâçikâ, Ausg. von Boulen.
+**Caurap.** = Ḱaurapaṅḱâçikâ, Ausg. von Boulen.
 
 **Kaush. Âr.** = Kaushîtakâranjaka (Weber).
 
@@ -381,7 +381,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Kenop.** = Kenopanishad in der Bibl. ind.
 
-**Ḱhandom.** = Ḱhandomanǵarî, herausg. von Brockhaus in Berichte über die Verhandlungen der Kön. Sächsischen Gesellschaft der Wissenschaften zu Leipzig. Phil.-hist. Kl. Bd. VI, 1854.
+**Chandom.** = Ḱhandomanǵarî, herausg. von Brockhaus in Berichte über die Verhandlungen der Kön. Sächsischen Gesellschaft der Wissenschaften zu Leipzig. Phil.-hist. Kl. Bd. VI, 1854.
 
 **Chând. Up.** = Ḱhândogjopanishad in der Bibl. ind.
 
@@ -427,7 +427,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Mahâbh. (K.)** = Kielhorn's Ausg. des Mahâbhâshja.
 
-**Mahâvîraḱ.** = Mahâvîraḱarita, Ausg. von Trithen.
+**Mahâvîrac.** = Mahâvîraḱarita, Ausg. von Trithen.
 
 **Mahîdh.** = Mahîdhara, Commentator der VS.
 
@@ -465,7 +465,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **M. K. S.** = Mân. K. S.
 
-**Mṛḱḱh.** = Mṛḱḱhakaṭika, Ausg. von Stenzler. Comm. zu Mṛḱḱh. sind die Auszüge in den Anmerkungen zu meiner Uebersetzung dieses Schauspiels.
+**Mṛcch.** = Mṛḱḱhakaṭika, Ausg. von Stenzler. Comm. zu Mṛḱḱh. sind die Auszüge in den Anmerkungen zu meiner Uebersetzung dieses Schauspiels.
 
 **Mudrâr.** = Mudrârâkshasa, nach zwei Ausgaben, Calcutta 1831 und 1926 (Cappeller).
 
@@ -626,7 +626,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **TS. Prât.** = Prâtiçâkhja zur TS., Ausg. von Whitney.
 
-**Uǵǵval.** = Uǵǵvaladatta, Commentator der Uṇâdisûtra.
+**Ujjval.** = Uǵǵvaladatta, Commentator der Uṇâdisûtra.
 
 **Uṇâdis.** = Uṇâdisûtra, herausg. von Aufrecht.
 

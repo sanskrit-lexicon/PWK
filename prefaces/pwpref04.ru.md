@@ -91,7 +91,7 @@ translation_of: pwpref04.md
 
 **Kathâs.** = Kathâsaritsâgara, изд. Брокгауз.
 
-**Kâtj. Çr.** = Kâtjâjana's Çrautasûtra, по указателю Вебера.
+**Kâty. Śr.** = Kâtjâjana's Çrautasûtra, по указателю Вебера.
 
 **Kâty. Dh.** = Kâtjâjana's Dharmaçâstra (Штенцлер).
 
@@ -99,7 +99,7 @@ translation_of: pwpref04.md
 
 **Kauś.** = Kauçika's Sûtra к AV., рукоп. (мн.) (Рот и Вебер).
 
-**Ḱaurap.** = Ḱaurapaṅḱâçikâ, изд. Болленсен.
+**Caurap.** = Ḱaurapaṅḱâçikâ, изд. Болленсен.
 
 **Kaush. Âr.** = Kaushîtakâranjaka (Вебер).
 
@@ -111,7 +111,7 @@ translation_of: pwpref04.md
 
 **Kenop.** = Kenopanishad в Bibl. ind.
 
-**Ḱhandom.** = Ḱhandomanǵarî, издано Брокгауз в Berichte über die Verhandlungen der Kön. Sächsischen Gesellschaft der Wissenschaften zu Leipzig. Phil.-hist. Kl. Bd. VI, 1854.
+**Chandom.** = Ḱhandomanǵarî, издано Брокгауз в Berichte über die Verhandlungen der Kön. Sächsischen Gesellschaft der Wissenschaften zu Leipzig. Phil.-hist. Kl. Bd. VI, 1854.
 
 **Chând. Up.** = Ḱhândogjopanishad в Bibl. ind.
 
@@ -157,7 +157,7 @@ translation_of: pwpref04.md
 
 **Mahâbh. (K.)** = Kielhorn's Ausg. des Mahâbhâshja.
 
-**Mahâvîraḱ.** = Mahâvîraḱarita, изд. Тритен.
+**Mahâvîrac.** = Mahâvîraḱarita, изд. Тритен.
 
 **Mahîdh.** = Mahîdhara, комментатор к VS.
 
@@ -195,7 +195,7 @@ translation_of: pwpref04.md
 
 **M. K. S.** = Mân. K. S.
 
-**Mṛḱḱh.** = Mṛḱḱhakaṭika, изд. Штенцлер. Comm. к Mṛḱḱh. — это выдержки в примечаниях к моему переводу этой пьесы.
+**Mṛcch.** = Mṛḱḱhakaṭika, изд. Штенцлер. Comm. к Mṛḱḱh. — это выдержки в примечаниях к моему переводу этой пьесы.
 
 **Mudrâr.** = Mudrârâkshasa, по двум изданиям, Калькутта 1831 и 1926 (Каппеллер).
 

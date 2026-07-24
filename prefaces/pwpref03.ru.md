@@ -17,9 +17,9 @@ translation_of: pwpref03.md
 
 **Âśv. Śr.** = Âçvalâjana's Çrautasûtra в Bibl. ind.
 
-**Âçv. Gṛhj.** = Âçvalâjana's Gṛhjasûtra; изд. Штенцлер.
+**Âśv. Gṛhy.** = Âçvalâjana's Gṛhjasûtra; изд. Штенцлер.
 
-**Âçv. Gṛhj. Pariç.** = Pariçishṭa к Âçv. Gṛhj. в Bibl. ind.
+**Âśv. Gṛhy. Pariś.** = Pariçishṭa к Âçv. Gṛhj. в Bibl. ind.
 
 **Agni-P.** = Agnipurâṇa в Bibl. ind.
 
@@ -77,7 +77,7 @@ translation_of: pwpref03.md
 
 **Bhâg. P.** = Bhâgavatapurâṇa. Первые 9 скандх по изданию Бюрнуфа, если явно не добавлено ed. Bomb.; последние скандхи по ed. Bomb. Заключённые в скобки числа отсылают к ed. Bomb.
 
-**Bhar. Nâṭjaç.** = Bhâratîjanâṭjaçâstra в конце Daçar. в Bibl. ind.
+**Bhar. Nâṭyaś.** = Bhâratîjanâṭjaçâstra в конце Daçar. в Bibl. ind.
 
 **Bhâshâp.** = Bhâshâpariḱḱheda в Bibl. ind.
 
@@ -89,7 +89,7 @@ translation_of: pwpref03.md
 
 **Bhoǵa-Ḱar.** = Bhoǵakaritra, Мадрас 1862 (Штенцлер).
 
-**Bhoǵa-Pr.** = Bhoǵaprabandha, Бенарес 1925 (Керн).
+**Bhoja-Pr.** = Bhoǵaprabandha, Бенарес 1925 (Керн).
 
 **Bibl. ind.** = Bibliotheca indica.
 
@@ -123,7 +123,7 @@ translation_of: pwpref03.md
 
 **Śâṅkh. Śr.** = Çâṅkhâjana's Çrautasûtra (Вебер).
 
-**Çâṅkh. Gṛhj.** = Çâṅkhâjana's Gṛhjasûtra, издано Ольденберг в Ind. St. 15.
+**Śâṅkh. Gṛhy.** = Çâṅkhâjana's Gṛhjasûtra, издано Ольденберг в Ind. St. 15.
 
 **Çânt.** = Çântanava's Phiṭsûtra, изд. Кильхорн.
 

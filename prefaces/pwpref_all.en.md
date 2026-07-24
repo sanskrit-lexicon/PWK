@@ -74,9 +74,9 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Âśv. Śr.** = Âçvalâjana's Çrautasûtra in the Bibl. ind.
 
-**Âçv. Gṛhj.** = Âçvalâjana's Gṛhjasûtra; ed. by Stenzler.
+**Âśv. Gṛhy.** = Âçvalâjana's Gṛhjasûtra; ed. by Stenzler.
 
-**Âçv. Gṛhj. Pariç.** = Pariçishṭa to Âçv. Gṛhj. in the Bibl. ind.
+**Âśv. Gṛhy. Pariś.** = Pariçishṭa to Âçv. Gṛhj. in the Bibl. ind.
 
 **Agni-P.** = Agnipurâṇa in the Bibl. ind.
 
@@ -134,7 +134,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Bhâg. P.** = Bhâgavatapurâṇa. The first 9 Skandha according to Burnouf's edition, unless ed. Bomb. is expressly added; the last Skandha according to the ed. Bomb. Numbers enclosed in parentheses refer to ed. Bomb.
 
-**Bhar. Nâṭjaç.** = Bhâratîjanâṭjaçâstra at the end of Daçar. in the Bibl. ind.
+**Bhar. Nâṭyaś.** = Bhâratîjanâṭjaçâstra at the end of Daçar. in the Bibl. ind.
 
 **Bhâshâp.** = Bhâshâpariḱḱheda in the Bibl. ind.
 
@@ -146,7 +146,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Bhoǵa-Ḱar.** = Bhoǵakaritra, Madras 1862 (Stenzler).
 
-**Bhoǵa-Pr.** = Bhoǵaprabandha, Benares 1925 (Kern).
+**Bhoja-Pr.** = Bhoǵaprabandha, Benares 1925 (Kern).
 
 **Bibl. ind.** = Bibliotheca indica.
 
@@ -180,7 +180,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Śâṅkh. Śr.** = Çâṅkhâjana's Çrautasûtra (Weber).
 
-**Çâṅkh. Gṛhj.** = Çâṅkhâjana's Gṛhjasûtra, edited by Oldenberg in Ind. St. 15.
+**Śâṅkh. Gṛhy.** = Çâṅkhâjana's Gṛhjasûtra, edited by Oldenberg in Ind. St. 15.
 
 **Çânt.** = Çântanava's Phiṭsûtra, ed. by Kielhorn.
 
@@ -361,7 +361,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Kathâs.** = Kathâsaritsâgara, ed. by Brockhaus.
 
-**Kâtj. Çr.** = Kâtjâjana's Çrautasûtra, according to Weber's Index.
+**Kâty. Śr.** = Kâtjâjana's Çrautasûtra, according to Weber's Index.
 
 **Kâty. Dh.** = Kâtjâjana's Dharmaçâstra (Stenzler).
 
@@ -369,7 +369,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Kauś.** = Kauçika's Sûtra to the AV., Mss. (Roth and Weber).
 
-**Ḱaurap.** = Ḱaurapaṅḱâçikâ, ed. by Boulen.
+**Caurap.** = Ḱaurapaṅḱâçikâ, ed. by Boulen.
 
 **Kaush. Âr.** = Kaushîtakâranjaka (Weber).
 
@@ -381,7 +381,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Kenop.** = Kenopanishad in the Bibl. ind.
 
-**Ḱhandom.** = Ḱhandomanǵarî, edited by Brockhaus in Berichte über die Verhandlungen der Kön. Sächsischen Gesellschaft der Wissenschaften zu Leipzig. Phil.-hist. Kl. Bd. VI, 1854.
+**Chandom.** = Ḱhandomanǵarî, edited by Brockhaus in Berichte über die Verhandlungen der Kön. Sächsischen Gesellschaft der Wissenschaften zu Leipzig. Phil.-hist. Kl. Bd. VI, 1854.
 
 **Chând. Up.** = Ḱhândogjopanishad in the Bibl. ind.
 
@@ -427,7 +427,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Mahâbh. (K.)** = Kielhorn's edition of the Mahâbhâshja.
 
-**Mahâvîraḱ.** = Mahâvîraḱarita, ed. by Trithen.
+**Mahâvîrac.** = Mahâvîraḱarita, ed. by Trithen.
 
 **Mahîdh.** = Mahîdhara, commentator on the VS.
 
@@ -465,7 +465,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **M. K. S.** = Mân. K. S.
 
-**Mṛḱḱh.** = Mṛḱḱhakaṭika, ed. by Stenzler. Comm. to Mṛḱḱh. are the extracts in the notes to my translation of this drama.
+**Mṛcch.** = Mṛḱḱhakaṭika, ed. by Stenzler. Comm. to Mṛḱḱh. are the extracts in the notes to my translation of this drama.
 
 **Mudrâr.** = Mudrârâkshasa, according to two editions, Calcutta 1831 and 1926 (Cappeller).
 
@@ -626,7 +626,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **TS. Prât.** = Prâtiçâkhja to the TS., ed. by Whitney.
 
-**Uǵǵval.** = Uǵǵvaladatta, commentator on the Uṇâdisûtra.
+**Ujjval.** = Uǵǵvaladatta, commentator on the Uṇâdisûtra.
 
 **Uṇâdis.** = Uṇâdisûtra, edited by Aufrecht.
 
