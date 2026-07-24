@@ -37,7 +37,7 @@ translation_of: pwpref04.md
 
 **Hemâdri** = Hemâdri's Ḱaturvargaḱintâmani в Bibl. ind.
 
-**Hem. Jog.** = Hemaḱandra's Jogaçâstra в Z. d. d. m. G. 28. Из рукописного Comm. Виндиш весьма любезно предоставил мне многие исправления и пояснения.
+**Hem. Yog.** = Hemaḱandra's Jogaçâstra в Z. d. d. m. G. 28. Из рукописного Comm. Виндиш весьма любезно предоставил мне многие исправления и пояснения.
 
 **Hem. Pr. Gr. ed. Bomb.** = Hemaḱandra's Prâkrit-Grammatik, Бомбей (Штенцлер).
 
@@ -57,7 +57,7 @@ translation_of: pwpref04.md
 
 **Jogas.** = Jogasûtra.
 
-**Jogat. Up.** = Jogatattvopanishad в Bibl. ind. (Гельднер и Рот).
+**Yogat. Up.** = Jogatattvopanishad в Bibl. ind. (Гельднер и Рот).
 
 **Jolly, Schuld.** = Jolly, Ueber das indische Schuldrecht, в Münchener philos.-philol. Abh. 1877, с. 287. и сл.
 
@@ -93,9 +93,9 @@ translation_of: pwpref04.md
 
 **Kâtj. Çr.** = Kâtjâjana's Çrautasûtra, по указателю Вебера.
 
-**Kâtj. Dh.** = Kâtjâjana's Dharmaçâstra (Штенцлер).
+**Kâty. Dh.** = Kâtjâjana's Dharmaçâstra (Штенцлер).
 
-**Kâtj. Snânas.** = Kâtjâjana's Snânasûtra (Штенцлер).
+**Kâty. Snânas.** = Kâtjâjana's Snânasûtra (Штенцлер).
 
 **Kauç.** = Kauçika's Sûtra к AV., рукоп. (мн.) (Рот и Вебер).
 
@@ -113,7 +113,7 @@ translation_of: pwpref04.md
 
 **Ḱhandom.** = Ḱhandomanǵarî, издано Брокгауз в Berichte über die Verhandlungen der Kön. Sächsischen Gesellschaft der Wissenschaften zu Leipzig. Phil.-hist. Kl. Bd. VI, 1854.
 
-**Ḱhând. Up.** = Ḱhândogjopanishad в Bibl. ind.
+**Chând. Up.** = Ḱhândogjopanishad в Bibl. ind.
 
 **Kir.** = Kirâtârǵunîja, Калькутта 1814.
 
@@ -161,7 +161,7 @@ translation_of: pwpref04.md
 
 **Mahîdh.** = Mahîdhara, комментатор к VS.
 
-**Maitrjup.** = Maitrjupanishad в Bibl. ind. Акценты, которые из-за их ошибочности часто опускались или обозначались знаком (!) как сомнительные, Шрёдер заимствовал из рукописи.
+**Maitryup.** = Maitrjupanishad в Bibl. ind. Акценты, которые из-за их ошибочности часто опускались или обозначались знаком (!) как сомнительные, Шрёдер заимствовал из рукописи.
 
 **Maitr. S.** = Maitrâjanî Saṁhitâ, подготовлено к изданию Л. Шрёдер. Так как акцентуированные рукоп. (мн.) не были под рукой с самого начала, некоторые акценты удалось указать лишь в добавлениях (Шрёдер).
 
@@ -171,7 +171,7 @@ translation_of: pwpref04.md
 
 **Mâṇḍ. Çikshâ** = Mâṇḍûkî Çikshâ (Вебер).
 
-**Mân. Gṛhj.** = Mânavagṛhjasûtra, по рукописи в университетской библиотеке в Бомбее (Шрёдер).
+**Mân. Gṛhy.** = Mânavagṛhjasûtra, по рукописи в университетской библиотеке в Бомбее (Шрёдер).
 
 **Mân. K. S.** = Mânavakalpasûtra, по цитатам у Gold.
 

@@ -21,7 +21,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Parâç.** = Parâçara's Dharmaçâstra (Stenzler).
 
-**Pâr. Gṛhj.** = Pâraskara's Gṛhjasûtra, Ausg. von Stenzler.
+**Pâr. Gṛhy.** = Pâraskara's Gṛhjasûtra, Ausg. von Stenzler.
 
 **Paribh.** = Paribhâshâ in Paribhâshenduçekhara, Ausg. von Kielhorn.
 
@@ -79,7 +79,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Sâṁkhjak.** = Sâṁkhjakârikâ, Ausg. von Wilson.
 
-**Saṁnj. Up.** = Saṁnjâsopanishad in der Bibl. ind. (Geldner und Roth).
+**Saṁny. Up.** = Saṁnjâsopanishad in der Bibl. ind. (Geldner und Roth).
 
 **Saṁsk. K.** = Anantadeva's Saṁskârakaustubha, obl. fol.
 
@@ -95,7 +95,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Shaḍv. Br.** = Shaḍviṁçabrâhmaṇa (Weber).
 
-**Siddh. Çir.** = Siddhântaçiromaṇi (Kern).
+**Siddh. Śir.** = Siddhântaçiromaṇi (Kern).
 
 **Spr.** = Indische Sprüche, herausg. von O. Böhtlingk. 2te Aufl. Von 7614 an in Mélanges asiatiques, T. VIII, S. 217. fgg. Ebendaselbst S. 203. fgg. stehen die durch «zu Spr.» bezeichneten Varianten.
 
@@ -119,7 +119,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Taitt. Up.** = Taittirîjopanishad in der Bibl. ind.
 
-**Tâṇḍja-Br.** = Tâṇḍjabrâhmaṇa in der Bibl. ind. Im grossen Wörterbuch als Pañḱav. Br. citirt.
+**Tâṇḍya-Br.** = Tâṇḍjabrâhmaṇa in der Bibl. ind. Im grossen Wörterbuch als Pañḱav. Br. citirt.
 
 **Tarkas.** = Tarkasaṁgraha, Allahabad 1849 (Roth).
 
@@ -159,7 +159,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Varâh. Bṛh. S.** = Varâhamihira's Bṛhatsaṁhitâ (Kern).
 
-**Varâh. Jogaj.** = Varâhamihira's Jogajâtrâ, herausg. von Kern in Ind. St. 10. 14 und 15.
+**Varâh. Yogay.** = Varâhamihira's Jogajâtrâ, herausg. von Kern in Ind. St. 10. 14 und 15.
 
 **Varâh. Lagu.** = Varâhamihira's Laghuǵâtaka. Die zwei ersten Adhjâja herausgegeben von Weber in Ind. St. 2.
 
@@ -193,7 +193,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **VS. Prât.** = Prâtiçâkhja zu VS. in Ind. St. 4.
 
-**Weber, Ǵjot.** = Weber, Ueber den Vedakalender, Namens Ǵjotisham.
+**Weber, Jyot.** = Weber, Ueber den Vedakalender, Namens Ǵjotisham.
 
 **Weber, Kṛshṇaǵ.** = Weber, Ueber die Kṛshṇaǵanmâshṭamî. Berlin 1868.
 

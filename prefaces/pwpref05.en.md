@@ -23,7 +23,7 @@ translation_of: pwpref05.md
 
 **Parâç.** = Parâçara's Dharmaçâstra (Stenzler).
 
-**Pâr. Gṛhj.** = Pâraskara's Gṛhjasûtra, ed. by Stenzler.
+**Pâr. Gṛhy.** = Pâraskara's Gṛhjasûtra, ed. by Stenzler.
 
 **Paribh.** = Paribhâshâ in Paribhâshenduçekhara, ed. by Kielhorn.
 
@@ -81,7 +81,7 @@ translation_of: pwpref05.md
 
 **Sâṁkhjak.** = Sâṁkhjakârikâ, ed. by Wilson.
 
-**Saṁnj. Up.** = Saṁnjâsopanishad in the Bibl. ind. (Geldner and Roth).
+**Saṁny. Up.** = Saṁnjâsopanishad in the Bibl. ind. (Geldner and Roth).
 
 **Saṁsk. K.** = Anantadeva's Saṁskârakaustubha, obl. fol.
 
@@ -97,7 +97,7 @@ translation_of: pwpref05.md
 
 **Shaḍv. Br.** = Shaḍviṁçabrâhmaṇa (Weber).
 
-**Siddh. Çir.** = Siddhântaçiromaṇi (Kern).
+**Siddh. Śir.** = Siddhântaçiromaṇi (Kern).
 
 **Spr.** = Indische Sprüche, edited by O. Böhtlingk. 2nd ed. From 7614 onwards in Mélanges asiatiques, T. VIII, p. 217. ff. In the same place p. 203. ff. stand the variants designated by «zu Spr.».
 
@@ -121,7 +121,7 @@ translation_of: pwpref05.md
 
 **Taitt. Up.** = Taittirîjopanishad in the Bibl. ind.
 
-**Tâṇḍja-Br.** = Tâṇḍjabrâhmaṇa in the Bibl. ind. Cited in the large dictionary as Pañḱav. Br.
+**Tâṇḍya-Br.** = Tâṇḍjabrâhmaṇa in the Bibl. ind. Cited in the large dictionary as Pañḱav. Br.
 
 **Tarkas.** = Tarkasaṁgraha, Allahabad 1849 (Roth).
 
@@ -161,7 +161,7 @@ translation_of: pwpref05.md
 
 **Varâh. Bṛh. S.** = Varâhamihira's Bṛhatsaṁhitâ (Kern).
 
-**Varâh. Jogaj.** = Varâhamihira's Jogajâtrâ, edited by Kern in Ind. St. 10. 14 and 15.
+**Varâh. Yogay.** = Varâhamihira's Jogajâtrâ, edited by Kern in Ind. St. 10. 14 and 15.
 
 **Varâh. Lagu.** = Varâhamihira's Laghuǵâtaka. The first two Adhjâja edited by Weber in Ind. St. 2.
 
@@ -195,7 +195,7 @@ translation_of: pwpref05.md
 
 **VS. Prât.** = Prâtiçâkhja to VS. in Ind. St. 4.
 
-**Weber, Ǵjot.** = Weber, Ueber den Vedakalender, Namens Ǵjotisham.
+**Weber, Jyot.** = Weber, Ueber den Vedakalender, Namens Ǵjotisham.
 
 **Weber, Kṛshṇaǵ.** = Weber, Ueber die Kṛshṇaǵanmâshṭamî. Berlin 1868.
 

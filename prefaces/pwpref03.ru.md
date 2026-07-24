@@ -41,7 +41,7 @@ translation_of: pwpref03.md
 
 **Âpast.** = Âpastamba's Dharmasûtra, изд. Бюлер.
 
-**Âpast. Çr.** = Âpastamba's Çrautasûtra, рукоп. (Гарбе и Рот).
+**Âpast. Śr.** = Âpastamba's Çrautasûtra, рукоп. (Гарбе и Рот).
 
 **Ârjabh.** = Ârjabhaṭa, изд. Керн (Керн).
 
@@ -55,11 +55,11 @@ translation_of: pwpref03.md
 
 **AV.** = Atharvaveda, изд. Рот и Уитни (Рот).
 
-**AV. Ǵjot.** = Ǵjotisha к AV., рукоп. (Рот).
+**AV. Jyot.** = Ǵjotisha к AV., рукоп. (Рот).
 
 **AV. Paipp.** = AV. школы Paippalâda, рукоп. (Рот).
 
-**AV. Pariç.** = Pariçishṭa к AV., рукоп. (Рот).
+**AV. Pariś.** = Pariçishṭa к AV., рукоп. (Рот).
 
 **AV. Prâjaçḱ.** = Prâjaçḱitta к AV., рукоп. (Рот).
 
@@ -119,17 +119,17 @@ translation_of: pwpref03.md
 
 **Çâṇḍ.** = The Aphorisms of Sâṇḍilya в Bibl. ind.
 
-**Çâṅkh. Br.** = Çâṅkhâjana's Brâhmaṇa (Вебер).
+**Śâṅkh. Br.** = Çâṅkhâjana's Brâhmaṇa (Вебер).
 
-**Çâṅkh. Çr.** = Çâṅkhâjana's Çrautasûtra (Вебер).
+**Śâṅkh. Śr.** = Çâṅkhâjana's Çrautasûtra (Вебер).
 
 **Çâṅkh. Gṛhj.** = Çâṅkhâjana's Gṛhjasûtra, издано Ольденберг в Ind. St. 15.
 
 **Çânt.** = Çântanava's Phiṭsûtra, изд. Кильхорн.
 
-**Çârñg. Paddh.** = Çârñgadhara's Paddhati, рукоп. в Азиатском музее Императорской Академии наук в Санкт-Петербурге.
+**Śârñg. Paddh.** = Çârñgadhara's Paddhati, рукоп. в Азиатском музее Императорской Академии наук в Санкт-Петербурге.
 
-**Çârñg. Saṃh.** = Çârñgadhara's Saṃhitâ, Бомбей 1853 (Рот).
+**Śârñg. Saṃh.** = Çârñgadhara's Saṃhitâ, Бомбей 1853 (Рот).
 
 **Çat. Br.** = Çatapathabrâhmaṇa, по указателю Вебера.
 
@@ -155,7 +155,7 @@ translation_of: pwpref03.md
 
 **Çulbas.** = Çulbasûtra в журнале The Pandit IX. X и New Series I (Каппеллер).
 
-**Çvetâçv. Up.** = Çvetâçvataropanishad в Bibl. ind.
+**Śvetâśv. Up.** = Çvetâçvataropanishad в Bibl. ind.
 
 **Daçak.** = Daçakumâra, изд. Бюлер (Каппеллер).
 
@@ -163,7 +163,7 @@ translation_of: pwpref03.md
 
 **Daiv. Br.** = Daivatabrâhmaṇa, Калькутта 1875 и изд. Бернелл, Мангалор 1873 (Рот).
 
-**Devatâdhj. Brâhm.** = Daiv. Br.
+**Devatâdhy. Brâhm.** = Daiv. Br.
 
 **Dhammap.** = Dhammapada, изд. Фаусбёлль.
 
@@ -171,7 +171,7 @@ translation_of: pwpref03.md
 
 **Dhâtup.** = Dhâtupâṭha, изд. Вестергор.
 
-**Dhjânab. Up.** = Dhjânabindûpanishad в Bibl. ind. (Гельднер и Рот).
+**Dhyânab. Up.** = Dhjânabindûpanishad в Bibl. ind. (Гельднер и Рот).
 
 **Dhûrtan.** = Dhûrtanartaka, рукоп. (Каппеллер).
 
@@ -185,7 +185,7 @@ translation_of: pwpref03.md
 
 **Ǵaim.** = Ǵaimini's Mîmâṃsâdarçana в Bibl. ind.
 
-**Ǵaim. Bhâr.** = Ǵaimini's Bhârata, по цитатам в Ind. St.
+**Jaim. Bhâr.** = Ǵaimini's Bhârata, по цитатам в Ind. St.
 
 **Gal.** = Galanos' Wörterbuch, копия Вебера; ср. Monatsbericht der Kön. Pr. Akad. der Wissensch. 1876, с. 801. и сл. (Каппеллер).
 
@@ -201,7 +201,7 @@ translation_of: pwpref03.md
 
 **Gaṇit. Grah.** = Gaṇita, Grahâṇajanâdhjâja (Керн).
 
-**Gaṇit. Pratjabd.** = Gaṇita, Pratjabdaçuddi (Керн).
+**Gaṇit. Pratyabd.** = Gaṇita, Pratjabdaçuddi (Керн).
 
 **Gaṇit. Tripr.** = Gaṇita, Tripraçnâdhikâra (Керн).
 

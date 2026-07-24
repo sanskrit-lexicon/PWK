@@ -39,7 +39,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Âpast.** = Âpastamba's Dharmasûtra, Ausg. von Bühler.
 
-**Âpast. Çr.** = Âpastamba's Çrautasûtra, Hdschr. (Garbe und Roth).
+**Âpast. Śr.** = Âpastamba's Çrautasûtra, Hdschr. (Garbe und Roth).
 
 **Ârjabh.** = Ârjabhaṭa, Ausg. von Kern (Kern).
 
@@ -53,11 +53,11 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **AV.** = Atharvaveda, Ausg. von Roth und Whitney (Roth).
 
-**AV. Ǵjot.** = Ǵjotisha zum AV., Hdschr. (Roth).
+**AV. Jyot.** = Ǵjotisha zum AV., Hdschr. (Roth).
 
 **AV. Paipp.** = AV. der Paippalâda-Schule, Hdschr. (Roth).
 
-**AV. Pariç.** = Pariçishṭa zum AV., Hdschr. (Roth).
+**AV. Pariś.** = Pariçishṭa zum AV., Hdschr. (Roth).
 
 **AV. Prâjaçḱ.** = Prâjaçḱitta zum AV., Hdschr. (Roth).
 
@@ -117,17 +117,17 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Çâṇḍ.** = The Aphorisms of Sâṇḍilya in der Bibl. ind.
 
-**Çâṅkh. Br.** = Çâṅkhâjana's Brâhmaṇa (Weber).
+**Śâṅkh. Br.** = Çâṅkhâjana's Brâhmaṇa (Weber).
 
-**Çâṅkh. Çr.** = Çâṅkhâjana's Çrautasûtra (Weber).
+**Śâṅkh. Śr.** = Çâṅkhâjana's Çrautasûtra (Weber).
 
 **Çâṅkh. Gṛhj.** = Çâṅkhâjana's Gṛhjasûtra, herausg. von Oldenberg in Ind. St. 15.
 
 **Çânt.** = Çântanava's Phiṭsûtra, Ausg. von Kielhorn.
 
-**Çârñg. Paddh.** = Çârñgadhara's Paddhati, Hdschr. im Asiatischen Museum der Kais. Ak. d. Ww. in St. Petersburg.
+**Śârñg. Paddh.** = Çârñgadhara's Paddhati, Hdschr. im Asiatischen Museum der Kais. Ak. d. Ww. in St. Petersburg.
 
-**Çârñg. Saṃh.** = Çârñgadhara's Saṃhitâ, Bombay 1853 (Roth).
+**Śârñg. Saṃh.** = Çârñgadhara's Saṃhitâ, Bombay 1853 (Roth).
 
 **Çat. Br.** = Çatapathabrâhmaṇa, nach Weber's Index.
 
@@ -153,7 +153,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Çulbas.** = Çulbasûtra in der Zeitschrift The Pandit IX. X und New Series I (Cappeller).
 
-**Çvetâçv. Up.** = Çvetâçvataropanishad in der Bibl. ind.
+**Śvetâśv. Up.** = Çvetâçvataropanishad in der Bibl. ind.
 
 **Daçak.** = Daçakumâra, Ausg. von Bühler (Cappeller).
 
@@ -161,7 +161,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Daiv. Br.** = Daivatabrâhmaṇa, Calcutta 1875 und Ausg. von Burnell, Mangalore 1873 (Roth).
 
-**Devatâdhj. Brâhm.** = Daiv. Br.
+**Devatâdhy. Brâhm.** = Daiv. Br.
 
 **Dhammap.** = Dhammapada, Ausg. von Fausböll.
 
@@ -169,7 +169,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Dhâtup.** = Dhâtupâṭha, Ausg. von Westergaard.
 
-**Dhjânab. Up.** = Dhjânabindûpanishad in der Bibl. ind. (Geldner und Roth).
+**Dhyânab. Up.** = Dhjânabindûpanishad in der Bibl. ind. (Geldner und Roth).
 
 **Dhûrtan.** = Dhûrtanartaka, Hdschr. (Cappeller).
 
@@ -183,7 +183,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Ǵaim.** = Ǵaimini's Mîmâṃsâdarçana in der Bibl. ind.
 
-**Ǵaim. Bhâr.** = Ǵaimini's Bhârata, nach Citaten in Ind. St.
+**Jaim. Bhâr.** = Ǵaimini's Bhârata, nach Citaten in Ind. St.
 
 **Gal.** = Galanos' Wörterbuch, Abschrift von Weber; vgl. Monatsbericht der Kön. Pr. Akad. der Wissensch. 1876, S. 801. fgg. (Cappeller).
 
@@ -199,7 +199,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Gaṇit. Grah.** = Gaṇita, Grahâṇajanâdhjâja (Kern).
 
-**Gaṇit. Pratjabd.** = Gaṇita, Pratjabdaçuddi (Kern).
+**Gaṇit. Pratyabd.** = Gaṇita, Pratjabdaçuddi (Kern).
 
 **Gaṇit. Tripr.** = Gaṇita, Tripraçnâdhikâra (Kern).
 
