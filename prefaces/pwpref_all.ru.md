@@ -72,9 +72,9 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Âśv. Śr.** = Âçvalâjana's Çrautasûtra в Bibl. ind.
 
-**Âçv. Gṛhj.** = Âçvalâjana's Gṛhjasûtra; изд. Штенцлер.
+**Âśv. Gṛhy.** = Âçvalâjana's Gṛhjasûtra; изд. Штенцлер.
 
-**Âçv. Gṛhj. Pariç.** = Pariçishṭa к Âçv. Gṛhj. в Bibl. ind.
+**Âśv. Gṛhy. Pariś.** = Pariçishṭa к Âçv. Gṛhj. в Bibl. ind.
 
 **Agni-P.** = Agnipurâṇa в Bibl. ind.
 
@@ -132,7 +132,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Bhâg. P.** = Bhâgavatapurâṇa. Первые 9 скандх по изданию Бюрнуфа, если явно не добавлено ed. Bomb.; последние скандхи по ed. Bomb. Заключённые в скобки числа отсылают к ed. Bomb.
 
-**Bhar. Nâṭjaç.** = Bhâratîjanâṭjaçâstra в конце Daçar. в Bibl. ind.
+**Bhar. Nâṭyaś.** = Bhâratîjanâṭjaçâstra в конце Daçar. в Bibl. ind.
 
 **Bhâshâp.** = Bhâshâpariḱḱheda в Bibl. ind.
 
@@ -144,7 +144,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Bhoǵa-Ḱar.** = Bhoǵakaritra, Мадрас 1862 (Штенцлер).
 
-**Bhoǵa-Pr.** = Bhoǵaprabandha, Бенарес 1925 (Керн).
+**Bhoja-Pr.** = Bhoǵaprabandha, Бенарес 1925 (Керн).
 
 **Bibl. ind.** = Bibliotheca indica.
 
@@ -178,7 +178,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Śâṅkh. Śr.** = Çâṅkhâjana's Çrautasûtra (Вебер).
 
-**Çâṅkh. Gṛhj.** = Çâṅkhâjana's Gṛhjasûtra, издано Ольденберг в Ind. St. 15.
+**Śâṅkh. Gṛhy.** = Çâṅkhâjana's Gṛhjasûtra, издано Ольденберг в Ind. St. 15.
 
 **Çânt.** = Çântanava's Phiṭsûtra, изд. Кильхорн.
 
@@ -359,7 +359,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Kathâs.** = Kathâsaritsâgara, изд. Брокгауз.
 
-**Kâtj. Çr.** = Kâtjâjana's Çrautasûtra, по указателю Вебера.
+**Kâty. Śr.** = Kâtjâjana's Çrautasûtra, по указателю Вебера.
 
 **Kâty. Dh.** = Kâtjâjana's Dharmaçâstra (Штенцлер).
 
@@ -367,7 +367,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Kauś.** = Kauçika's Sûtra к AV., рукоп. (мн.) (Рот и Вебер).
 
-**Ḱaurap.** = Ḱaurapaṅḱâçikâ, изд. Болленсен.
+**Caurap.** = Ḱaurapaṅḱâçikâ, изд. Болленсен.
 
 **Kaush. Âr.** = Kaushîtakâranjaka (Вебер).
 
@@ -379,7 +379,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Kenop.** = Kenopanishad в Bibl. ind.
 
-**Ḱhandom.** = Ḱhandomanǵarî, издано Брокгауз в Berichte über die Verhandlungen der Kön. Sächsischen Gesellschaft der Wissenschaften zu Leipzig. Phil.-hist. Kl. Bd. VI, 1854.
+**Chandom.** = Ḱhandomanǵarî, издано Брокгауз в Berichte über die Verhandlungen der Kön. Sächsischen Gesellschaft der Wissenschaften zu Leipzig. Phil.-hist. Kl. Bd. VI, 1854.
 
 **Chând. Up.** = Ḱhândogjopanishad в Bibl. ind.
 
@@ -425,7 +425,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Mahâbh. (K.)** = Kielhorn's Ausg. des Mahâbhâshja.
 
-**Mahâvîraḱ.** = Mahâvîraḱarita, изд. Тритен.
+**Mahâvîrac.** = Mahâvîraḱarita, изд. Тритен.
 
 **Mahîdh.** = Mahîdhara, комментатор к VS.
 
@@ -463,7 +463,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **M. K. S.** = Mân. K. S.
 
-**Mṛḱḱh.** = Mṛḱḱhakaṭika, изд. Штенцлер. Comm. к Mṛḱḱh. — это выдержки в примечаниях к моему переводу этой пьесы.
+**Mṛcch.** = Mṛḱḱhakaṭika, изд. Штенцлер. Comm. к Mṛḱḱh. — это выдержки в примечаниях к моему переводу этой пьесы.
 
 **Mudrâr.** = Mudrârâkshasa, по двум изданиям, Калькутта 1831 и 1926 (Каппеллер).
 
@@ -624,7 +624,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **TS. Prât.** = Prâtiçâkhja к TS., изд. Уитни.
 
-**Uǵǵval.** = Uǵǵvaladatta, комментатор к Uṇâdisûtra.
+**Ujjval.** = Uǵǵvaladatta, комментатор к Uṇâdisûtra.
 
 **Uṇâdis.** = Uṇâdisûtra, издано Ауфрехт.
 

@@ -15,9 +15,9 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Âśv. Śr.** = Âçvalâjana's Çrautasûtra in der Bibl. ind.
 
-**Âçv. Gṛhj.** = Âçvalâjana's Gṛhjasûtra; Ausg. von Stenzler.
+**Âśv. Gṛhy.** = Âçvalâjana's Gṛhjasûtra; Ausg. von Stenzler.
 
-**Âçv. Gṛhj. Pariç.** = Pariçishṭa zu Âçv. Gṛhj. in der Bibl. ind.
+**Âśv. Gṛhy. Pariś.** = Pariçishṭa zu Âçv. Gṛhj. in der Bibl. ind.
 
 **Agni-P.** = Agnipurâṇa in der Bibl. ind.
 
@@ -75,7 +75,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Bhâg. P.** = Bhâgavatapurâṇa. Die 9 ersten Skandha nach Burnouf's Ausgabe, wenn nicht ausdrücklich ed. Bomb. hinzugefügt wird; die letzten Skandha nach der ed. Bomb. In Klammern eingeschlossene Zahlen verweisen auf ed. Bomb.
 
-**Bhar. Nâṭjaç.** = Bhâratîjanâṭjaçâstra am Schluss von Daçar. in der Bibl. ind.
+**Bhar. Nâṭyaś.** = Bhâratîjanâṭjaçâstra am Schluss von Daçar. in der Bibl. ind.
 
 **Bhâshâp.** = Bhâshâpariḱḱheda in der Bibl. ind.
 
@@ -87,7 +87,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Bhoǵa-Ḱar.** = Bhoǵakaritra, Madras 1862 (Stenzler).
 
-**Bhoǵa-Pr.** = Bhoǵaprabandha, Benares 1925 (Kern).
+**Bhoja-Pr.** = Bhoǵaprabandha, Benares 1925 (Kern).
 
 **Bibl. ind.** = Bibliotheca indica.
 
@@ -121,7 +121,7 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Śâṅkh. Śr.** = Çâṅkhâjana's Çrautasûtra (Weber).
 
-**Çâṅkh. Gṛhj.** = Çâṅkhâjana's Gṛhjasûtra, herausg. von Oldenberg in Ind. St. 15.
+**Śâṅkh. Gṛhy.** = Çâṅkhâjana's Gṛhjasûtra, herausg. von Oldenberg in Ind. St. 15.
 
 **Çânt.** = Çântanava's Phiṭsûtra, Ausg. von Kielhorn.
 

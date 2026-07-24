@@ -91,7 +91,7 @@ translation_of: pwpref04.md
 
 **Kathâs.** = Kathâsaritsâgara, ed. by Brockhaus.
 
-**Kâtj. Çr.** = Kâtjâjana's Çrautasûtra, according to Weber's Index.
+**Kâty. Śr.** = Kâtjâjana's Çrautasûtra, according to Weber's Index.
 
 **Kâty. Dh.** = Kâtjâjana's Dharmaçâstra (Stenzler).
 
@@ -99,7 +99,7 @@ translation_of: pwpref04.md
 
 **Kauś.** = Kauçika's Sûtra to the AV., Mss. (Roth and Weber).
 
-**Ḱaurap.** = Ḱaurapaṅḱâçikâ, ed. by Boulen.
+**Caurap.** = Ḱaurapaṅḱâçikâ, ed. by Boulen.
 
 **Kaush. Âr.** = Kaushîtakâranjaka (Weber).
 
@@ -111,7 +111,7 @@ translation_of: pwpref04.md
 
 **Kenop.** = Kenopanishad in the Bibl. ind.
 
-**Ḱhandom.** = Ḱhandomanǵarî, edited by Brockhaus in Berichte über die Verhandlungen der Kön. Sächsischen Gesellschaft der Wissenschaften zu Leipzig. Phil.-hist. Kl. Bd. VI, 1854.
+**Chandom.** = Ḱhandomanǵarî, edited by Brockhaus in Berichte über die Verhandlungen der Kön. Sächsischen Gesellschaft der Wissenschaften zu Leipzig. Phil.-hist. Kl. Bd. VI, 1854.
 
 **Chând. Up.** = Ḱhândogjopanishad in the Bibl. ind.
 
@@ -157,7 +157,7 @@ translation_of: pwpref04.md
 
 **Mahâbh. (K.)** = Kielhorn's edition of the Mahâbhâshja.
 
-**Mahâvîraḱ.** = Mahâvîraḱarita, ed. by Trithen.
+**Mahâvîrac.** = Mahâvîraḱarita, ed. by Trithen.
 
 **Mahîdh.** = Mahîdhara, commentator on the VS.
 
@@ -195,7 +195,7 @@ translation_of: pwpref04.md
 
 **M. K. S.** = Mân. K. S.
 
-**Mṛḱḱh.** = Mṛḱḱhakaṭika, ed. by Stenzler. Comm. to Mṛḱḱh. are the extracts in the notes to my translation of this drama.
+**Mṛcch.** = Mṛḱḱhakaṭika, ed. by Stenzler. Comm. to Mṛḱḱh. are the extracts in the notes to my translation of this drama.
 
 **Mudrâr.** = Mudrârâkshasa, according to two editions, Calcutta 1831 and 1926 (Cappeller).
 

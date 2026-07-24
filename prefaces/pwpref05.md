@@ -133,7 +133,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **TS. Prât.** = Prâtiçâkhja zur TS., Ausg. von Whitney.
 
-**Uǵǵval.** = Uǵǵvaladatta, Commentator der Uṇâdisûtra.
+**Ujjval.** = Uǵǵvaladatta, Commentator der Uṇâdisûtra.
 
 **Uṇâdis.** = Uṇâdisûtra, herausg. von Aufrecht.
 
