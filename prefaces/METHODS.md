@@ -79,9 +79,10 @@ Preserved in source and left verbatim in translations: `â î û` = long vowels,
 
 ## Translation policy
 
-- Source `.md` keeps 19th-c. German orthography (*Theil, Litteratur, dass, citirt, accentuirt …*).
+- Source `.md` keeps 19th-c. German orthography in **prose** (*Theil, Litteratur, dass, citirt, accentuirt …*).
 - `.en.md` / `.ru.md` translate German prose scaffolding only (full Foreword; short Foreword-tail paragraphs on page 3; list headings/notes).
-- Left **verbatim** in all languages: Sanskrit (Devanāgarī and romanization), personal names, work titles, bibliographic abbreviation keys, years, and references.
+- Left **verbatim** in all languages: Sanskrit in expansions, personal names, work **titles**, years, and references.
+- **Abbreviation keys (sigla):** aligned to the **human-edited body** `csl-orig/v02/pw/pw.txt` naming of the same works (H1569). OCR alone is not the authority for how a work is *named* in the legend. Every key rewrite is logged in the csl-guides change-log meta doc ([pw_pref_key_body_align_changes.md](https://github.com/sanskrit-lexicon/csl-guides/blob/main/scripts/out/pw_pref_key_body_align_changes.md)). Policy: [pref-body-naming-authority](https://github.com/sanskrit-lexicon/csl-guides/blob/main/docs/dictionaries/pref-body-naming-authority.md).
 - In Russian files, personal surnames are rendered in Cyrillic without redundant Latin parentheses (Latin form remains in the source `.md`); author names inside English book titles stay Latin.
 
 ---

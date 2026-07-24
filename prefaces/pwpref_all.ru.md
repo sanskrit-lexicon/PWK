@@ -96,7 +96,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Âpast.** = Âpastamba's Dharmasûtra, изд. Бюлер.
 
-**Âpast. Çr.** = Âpastamba's Çrautasûtra, рукоп. (Гарбе и Рот).
+**Âpast. Śr.** = Âpastamba's Çrautasûtra, рукоп. (Гарбе и Рот).
 
 **Ârjabh.** = Ârjabhaṭa, изд. Керн (Керн).
 
@@ -110,11 +110,11 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **AV.** = Atharvaveda, изд. Рот и Уитни (Рот).
 
-**AV. Ǵjot.** = Ǵjotisha к AV., рукоп. (Рот).
+**AV. Jyot.** = Ǵjotisha к AV., рукоп. (Рот).
 
 **AV. Paipp.** = AV. школы Paippalâda, рукоп. (Рот).
 
-**AV. Pariç.** = Pariçishṭa к AV., рукоп. (Рот).
+**AV. Pariś.** = Pariçishṭa к AV., рукоп. (Рот).
 
 **AV. Prâjaçḱ.** = Prâjaçḱitta к AV., рукоп. (Рот).
 
@@ -174,17 +174,17 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Çâṇḍ.** = The Aphorisms of Sâṇḍilya в Bibl. ind.
 
-**Çâṅkh. Br.** = Çâṅkhâjana's Brâhmaṇa (Вебер).
+**Śâṅkh. Br.** = Çâṅkhâjana's Brâhmaṇa (Вебер).
 
-**Çâṅkh. Çr.** = Çâṅkhâjana's Çrautasûtra (Вебер).
+**Śâṅkh. Śr.** = Çâṅkhâjana's Çrautasûtra (Вебер).
 
 **Çâṅkh. Gṛhj.** = Çâṅkhâjana's Gṛhjasûtra, издано Ольденберг в Ind. St. 15.
 
 **Çânt.** = Çântanava's Phiṭsûtra, изд. Кильхорн.
 
-**Çârñg. Paddh.** = Çârñgadhara's Paddhati, рукоп. в Азиатском музее Императорской Академии наук в Санкт-Петербурге.
+**Śârñg. Paddh.** = Çârñgadhara's Paddhati, рукоп. в Азиатском музее Императорской Академии наук в Санкт-Петербурге.
 
-**Çârñg. Saṃh.** = Çârñgadhara's Saṃhitâ, Бомбей 1853 (Рот).
+**Śârñg. Saṃh.** = Çârñgadhara's Saṃhitâ, Бомбей 1853 (Рот).
 
 **Çat. Br.** = Çatapathabrâhmaṇa, по указателю Вебера.
 
@@ -210,7 +210,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Çulbas.** = Çulbasûtra в журнале The Pandit IX. X и New Series I (Каппеллер).
 
-**Çvetâçv. Up.** = Çvetâçvataropanishad в Bibl. ind.
+**Śvetâśv. Up.** = Çvetâçvataropanishad в Bibl. ind.
 
 **Daçak.** = Daçakumâra, изд. Бюлер (Каппеллер).
 
@@ -218,7 +218,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Daiv. Br.** = Daivatabrâhmaṇa, Калькутта 1875 и изд. Бернелл, Мангалор 1873 (Рот).
 
-**Devatâdhj. Brâhm.** = Daiv. Br.
+**Devatâdhy. Brâhm.** = Daiv. Br.
 
 **Dhammap.** = Dhammapada, изд. Фаусбёлль.
 
@@ -226,7 +226,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Dhâtup.** = Dhâtupâṭha, изд. Вестергор.
 
-**Dhjânab. Up.** = Dhjânabindûpanishad в Bibl. ind. (Гельднер и Рот).
+**Dhyânab. Up.** = Dhjânabindûpanishad в Bibl. ind. (Гельднер и Рот).
 
 **Dhûrtan.** = Dhûrtanartaka, рукоп. (Каппеллер).
 
@@ -240,7 +240,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Ǵaim.** = Ǵaimini's Mîmâṃsâdarçana в Bibl. ind.
 
-**Ǵaim. Bhâr.** = Ǵaimini's Bhârata, по цитатам в Ind. St.
+**Jaim. Bhâr.** = Ǵaimini's Bhârata, по цитатам в Ind. St.
 
 **Gal.** = Galanos' Wörterbuch, копия Вебера; ср. Monatsbericht der Kön. Pr. Akad. der Wissensch. 1876, с. 801. и сл. (Каппеллер).
 
@@ -256,7 +256,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Gaṇit. Grah.** = Gaṇita, Grahâṇajanâdhjâja (Керн).
 
-**Gaṇit. Pratjabd.** = Gaṇita, Pratjabdaçuddi (Керн).
+**Gaṇit. Pratyabd.** = Gaṇita, Pratjabdaçuddi (Керн).
 
 **Gaṇit. Tripr.** = Gaṇita, Tripraçnâdhikâra (Керн).
 
@@ -305,7 +305,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Hemâdri** = Hemâdri's Ḱaturvargaḱintâmani в Bibl. ind.
 
-**Hem. Jog.** = Hemaḱandra's Jogaçâstra в Z. d. d. m. G. 28. Из рукописного Comm. Виндиш весьма любезно предоставил мне многие исправления и пояснения.
+**Hem. Yog.** = Hemaḱandra's Jogaçâstra в Z. d. d. m. G. 28. Из рукописного Comm. Виндиш весьма любезно предоставил мне многие исправления и пояснения.
 
 **Hem. Pr. Gr. ed. Bomb.** = Hemaḱandra's Prâkrit-Grammatik, Бомбей (Штенцлер).
 
@@ -325,7 +325,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Jogas.** = Jogasûtra.
 
-**Jogat. Up.** = Jogatattvopanishad в Bibl. ind. (Гельднер и Рот).
+**Yogat. Up.** = Jogatattvopanishad в Bibl. ind. (Гельднер и Рот).
 
 **Jolly, Schuld.** = Jolly, Ueber das indische Schuldrecht, в Münchener philos.-philol. Abh. 1877, с. 287. и сл.
 
@@ -361,9 +361,9 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Kâtj. Çr.** = Kâtjâjana's Çrautasûtra, по указателю Вебера.
 
-**Kâtj. Dh.** = Kâtjâjana's Dharmaçâstra (Штенцлер).
+**Kâty. Dh.** = Kâtjâjana's Dharmaçâstra (Штенцлер).
 
-**Kâtj. Snânas.** = Kâtjâjana's Snânasûtra (Штенцлер).
+**Kâty. Snânas.** = Kâtjâjana's Snânasûtra (Штенцлер).
 
 **Kauç.** = Kauçika's Sûtra к AV., рукоп. (мн.) (Рот и Вебер).
 
@@ -381,7 +381,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Ḱhandom.** = Ḱhandomanǵarî, издано Брокгауз в Berichte über die Verhandlungen der Kön. Sächsischen Gesellschaft der Wissenschaften zu Leipzig. Phil.-hist. Kl. Bd. VI, 1854.
 
-**Ḱhând. Up.** = Ḱhândogjopanishad в Bibl. ind.
+**Chând. Up.** = Ḱhândogjopanishad в Bibl. ind.
 
 **Kir.** = Kirâtârǵunîja, Калькутта 1814.
 
@@ -429,7 +429,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Mahîdh.** = Mahîdhara, комментатор к VS.
 
-**Maitrjup.** = Maitrjupanishad в Bibl. ind. Акценты, которые из-за их ошибочности часто опускались или обозначались знаком (!) как сомнительные, Шрёдер заимствовал из рукописи.
+**Maitryup.** = Maitrjupanishad в Bibl. ind. Акценты, которые из-за их ошибочности часто опускались или обозначались знаком (!) как сомнительные, Шрёдер заимствовал из рукописи.
 
 **Maitr. S.** = Maitrâjanî Saṁhitâ, подготовлено к изданию Л. Шрёдер. Так как акцентуированные рукоп. (мн.) не были под рукой с самого начала, некоторые акценты удалось указать лишь в добавлениях (Шрёдер).
 
@@ -439,7 +439,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Mâṇḍ. Çikshâ** = Mâṇḍûkî Çikshâ (Вебер).
 
-**Mân. Gṛhj.** = Mânavagṛhjasûtra, по рукописи в университетской библиотеке в Бомбее (Шрёдер).
+**Mân. Gṛhy.** = Mânavagṛhjasûtra, по рукописи в университетской библиотеке в Бомбее (Шрёдер).
 
 **Mân. K. S.** = Mânavakalpasûtra, по цитатам у Gold.
 
@@ -512,7 +512,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Parâç.** = Parâçara's Dharmaçâstra (Штенцлер).
 
-**Pâr. Gṛhj.** = Pâraskara's Gṛhjasûtra, изд. Штенцлер.
+**Pâr. Gṛhy.** = Pâraskara's Gṛhjasûtra, изд. Штенцлер.
 
 **Paribh.** = Paribhâshâ в Paribhâshenduçekhara, изд. Кильхорн.
 
@@ -570,7 +570,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Sâṁkhjak.** = Sâṁkhjakârikâ, изд. Уилсон.
 
-**Saṁnj. Up.** = Saṁnjâsopanishad в Bibl. ind. (Гельднер и Рот).
+**Saṁny. Up.** = Saṁnjâsopanishad в Bibl. ind. (Гельднер и Рот).
 
 **Saṁsk. K.** = Anantadeva's Saṁskârakaustubha, obl. fol.
 
@@ -586,7 +586,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Shaḍv. Br.** = Shaḍviṁçabrâhmaṇa (Вебер).
 
-**Siddh. Çir.** = Siddhântaçiromaṇi (Керн).
+**Siddh. Śir.** = Siddhântaçiromaṇi (Керн).
 
 **Spr.** = Indische Sprüche, издано О. Бётлингк. 2-е изд. Начиная с 7614 — в Mélanges asiatiques, T. VIII, с. 217. и сл. Там же, с. 203. и сл., помещены варианты, обозначенные через «zu Spr.».
 
@@ -610,7 +610,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Taitt. Up.** = Taittirîjopanishad в Bibl. ind.
 
-**Tâṇḍja-Br.** = Tâṇḍjabrâhmaṇa в Bibl. ind. В большом словаре цитируется как Pañḱav. Br.
+**Tâṇḍya-Br.** = Tâṇḍjabrâhmaṇa в Bibl. ind. В большом словаре цитируется как Pañḱav. Br.
 
 **Tarkas.** = Tarkasaṁgraha, Аллахабад 1849 (Рот).
 
@@ -650,7 +650,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Varâh. Bṛh. S.** = Varâhamihira's Bṛhatsaṁhitâ (Керн).
 
-**Varâh. Jogaj.** = Varâhamihira's Jogajâtrâ, издано Керн в Ind. St. 10. 14 и 15.
+**Varâh. Yogay.** = Varâhamihira's Jogajâtrâ, издано Керн в Ind. St. 10. 14 и 15.
 
 **Varâh. Lagu.** = Varâhamihira's Laghuǵâtaka. Первые две Adhjâja изданы Вебер в Ind. St. 2.
 
@@ -684,7 +684,7 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **VS. Prât.** = Prâtiçâkhja к VS. в Ind. St. 4.
 
-**Weber, Ǵjot.** = Weber, Ueber den Vedakalender, Namens Ǵjotisham.
+**Weber, Jyot.** = Weber, Ueber den Vedakalender, Namens Ǵjotisham.
 
 **Weber, Kṛshṇaǵ.** = Weber, Ueber die Kṛshṇaǵanmâshṭamî. Берлин 1868.
 

@@ -41,7 +41,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Âpast.** = Âpastamba's Dharmasûtra, ed. by Bühler.
 
-**Âpast. Çr.** = Âpastamba's Çrautasûtra, Ms. (Garbe and Roth).
+**Âpast. Śr.** = Âpastamba's Çrautasûtra, Ms. (Garbe and Roth).
 
 **Ârjabh.** = Ârjabhaṭa, ed. by Kern (Kern).
 
@@ -55,11 +55,11 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **AV.** = Atharvaveda, ed. by Roth and Whitney (Roth).
 
-**AV. Ǵjot.** = Ǵjotisha to the AV., Ms. (Roth).
+**AV. Jyot.** = Ǵjotisha to the AV., Ms. (Roth).
 
 **AV. Paipp.** = AV. of the Paippalâda school, Ms. (Roth).
 
-**AV. Pariç.** = Pariçishṭa to the AV., Ms. (Roth).
+**AV. Pariś.** = Pariçishṭa to the AV., Ms. (Roth).
 
 **AV. Prâjaçḱ.** = Prâjaçḱitta to the AV., Ms. (Roth).
 
@@ -119,17 +119,17 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Çâṇḍ.** = The Aphorisms of Sâṇḍilya in the Bibl. ind.
 
-**Çâṅkh. Br.** = Çâṅkhâjana's Brâhmaṇa (Weber).
+**Śâṅkh. Br.** = Çâṅkhâjana's Brâhmaṇa (Weber).
 
-**Çâṅkh. Çr.** = Çâṅkhâjana's Çrautasûtra (Weber).
+**Śâṅkh. Śr.** = Çâṅkhâjana's Çrautasûtra (Weber).
 
 **Çâṅkh. Gṛhj.** = Çâṅkhâjana's Gṛhjasûtra, edited by Oldenberg in Ind. St. 15.
 
 **Çânt.** = Çântanava's Phiṭsûtra, ed. by Kielhorn.
 
-**Çârñg. Paddh.** = Çârñgadhara's Paddhati, Ms. in the Asiatic Museum of the Imperial Academy of Sciences in St. Petersburg.
+**Śârñg. Paddh.** = Çârñgadhara's Paddhati, Ms. in the Asiatic Museum of the Imperial Academy of Sciences in St. Petersburg.
 
-**Çârñg. Saṃh.** = Çârñgadhara's Saṃhitâ, Bombay 1853 (Roth).
+**Śârñg. Saṃh.** = Çârñgadhara's Saṃhitâ, Bombay 1853 (Roth).
 
 **Çat. Br.** = Çatapathabrâhmaṇa, according to Weber's Index.
 
@@ -155,7 +155,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Çulbas.** = Çulbasûtra in the journal The Pandit IX. X and New Series I (Cappeller).
 
-**Çvetâçv. Up.** = Çvetâçvataropanishad in the Bibl. ind.
+**Śvetâśv. Up.** = Çvetâçvataropanishad in the Bibl. ind.
 
 **Daçak.** = Daçakumâra, ed. by Bühler (Cappeller).
 
@@ -163,7 +163,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Daiv. Br.** = Daivatabrâhmaṇa, Calcutta 1875 and ed. by Burnell, Mangalore 1873 (Roth).
 
-**Devatâdhj. Brâhm.** = Daiv. Br.
+**Devatâdhy. Brâhm.** = Daiv. Br.
 
 **Dhammap.** = Dhammapada, ed. by Fausböll.
 
@@ -171,7 +171,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Dhâtup.** = Dhâtupâṭha, ed. by Westergaard.
 
-**Dhjânab. Up.** = Dhjânabindûpanishad in the Bibl. ind. (Geldner and Roth).
+**Dhyânab. Up.** = Dhjânabindûpanishad in the Bibl. ind. (Geldner and Roth).
 
 **Dhûrtan.** = Dhûrtanartaka, Ms. (Cappeller).
 
@@ -185,7 +185,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Ǵaim.** = Ǵaimini's Mîmâṃsâdarçana in the Bibl. ind.
 
-**Ǵaim. Bhâr.** = Ǵaimini's Bhârata, according to citations in Ind. St.
+**Jaim. Bhâr.** = Ǵaimini's Bhârata, according to citations in Ind. St.
 
 **Gal.** = Galanos' Wörterbuch, transcript by Weber; cf. Monatsbericht der Kön. Pr. Akad. der Wissensch. 1876, p. 801. ff. (Cappeller).
 
@@ -201,7 +201,7 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Gaṇit. Grah.** = Gaṇita, Grahâṇajanâdhjâja (Kern).
 
-**Gaṇit. Pratjabd.** = Gaṇita, Pratjabdaçuddi (Kern).
+**Gaṇit. Pratyabd.** = Gaṇita, Pratjabdaçuddi (Kern).
 
 **Gaṇit. Tripr.** = Gaṇita, Tripraçnâdhikâra (Kern).
 

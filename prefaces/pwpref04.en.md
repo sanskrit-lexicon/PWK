@@ -37,7 +37,7 @@ translation_of: pwpref04.md
 
 **Hemâdri** = Hemâdri's Ḱaturvargaḱintâmani in the Bibl. ind.
 
-**Hem. Jog.** = Hemaḱandra's Jogaçâstra in Z. d. d. m. G. 28. From a manuscript Comm. Windisch most obligingly sent me many corrections and explanations.
+**Hem. Yog.** = Hemaḱandra's Jogaçâstra in Z. d. d. m. G. 28. From a manuscript Comm. Windisch most obligingly sent me many corrections and explanations.
 
 **Hem. Pr. Gr. ed. Bomb.** = Hemaḱandra's Prâkrit-Grammatik, Bombay (Stenzler).
 
@@ -57,7 +57,7 @@ translation_of: pwpref04.md
 
 **Jogas.** = Jogasûtra.
 
-**Jogat. Up.** = Jogatattvopanishad in the Bibl. ind. (Geldner and Roth).
+**Yogat. Up.** = Jogatattvopanishad in the Bibl. ind. (Geldner and Roth).
 
 **Jolly, Schuld.** = Jolly, Ueber das indische Schuldrecht, in Münchener philos.-philol. Abh. 1877, p. 287. ff.
 
@@ -93,9 +93,9 @@ translation_of: pwpref04.md
 
 **Kâtj. Çr.** = Kâtjâjana's Çrautasûtra, according to Weber's Index.
 
-**Kâtj. Dh.** = Kâtjâjana's Dharmaçâstra (Stenzler).
+**Kâty. Dh.** = Kâtjâjana's Dharmaçâstra (Stenzler).
 
-**Kâtj. Snânas.** = Kâtjâjana's Snânasûtra (Stenzler).
+**Kâty. Snânas.** = Kâtjâjana's Snânasûtra (Stenzler).
 
 **Kauç.** = Kauçika's Sûtra to the AV., Mss. (Roth and Weber).
 
@@ -113,7 +113,7 @@ translation_of: pwpref04.md
 
 **Ḱhandom.** = Ḱhandomanǵarî, edited by Brockhaus in Berichte über die Verhandlungen der Kön. Sächsischen Gesellschaft der Wissenschaften zu Leipzig. Phil.-hist. Kl. Bd. VI, 1854.
 
-**Ḱhând. Up.** = Ḱhândogjopanishad in the Bibl. ind.
+**Chând. Up.** = Ḱhândogjopanishad in the Bibl. ind.
 
 **Kir.** = Kirâtârǵunîja, Calcutta 1814.
 
@@ -161,7 +161,7 @@ translation_of: pwpref04.md
 
 **Mahîdh.** = Mahîdhara, commentator on the VS.
 
-**Maitrjup.** = Maitrjupanishad in the Bibl. ind. The accents, which on account of their faultiness were often omitted or marked as suspect by (!), Schröder took from a Ms.
+**Maitryup.** = Maitrjupanishad in the Bibl. ind. The accents, which on account of their faultiness were often omitted or marked as suspect by (!), Schröder took from a Ms.
 
 **Maitr. S.** = Maitrâjanî Saṁhitâ, being prepared for publication by L. Schröder. Since the accented Mss. were not at hand right at the beginning, some accents could only be supplied in the addenda (Schröder).
 
@@ -171,7 +171,7 @@ translation_of: pwpref04.md
 
 **Mâṇḍ. Çikshâ** = Mâṇḍûkî Çikshâ (Weber).
 
-**Mân. Gṛhj.** = Mânavagṛhjasûtra, according to a Ms. in the University Library at Bombay (Schröder).
+**Mân. Gṛhy.** = Mânavagṛhjasûtra, according to a Ms. in the University Library at Bombay (Schröder).
 
 **Mân. K. S.** = Mânavakalpasûtra, according to citations in Gold.
 

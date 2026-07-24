@@ -23,7 +23,7 @@ translation_of: pwpref05.md
 
 **Parâç.** = Parâçara's Dharmaçâstra (Штенцлер).
 
-**Pâr. Gṛhj.** = Pâraskara's Gṛhjasûtra, изд. Штенцлер.
+**Pâr. Gṛhy.** = Pâraskara's Gṛhjasûtra, изд. Штенцлер.
 
 **Paribh.** = Paribhâshâ в Paribhâshenduçekhara, изд. Кильхорн.
 
@@ -81,7 +81,7 @@ translation_of: pwpref05.md
 
 **Sâṁkhjak.** = Sâṁkhjakârikâ, изд. Уилсон.
 
-**Saṁnj. Up.** = Saṁnjâsopanishad в Bibl. ind. (Гельднер и Рот).
+**Saṁny. Up.** = Saṁnjâsopanishad в Bibl. ind. (Гельднер и Рот).
 
 **Saṁsk. K.** = Anantadeva's Saṁskârakaustubha, obl. fol.
 
@@ -97,7 +97,7 @@ translation_of: pwpref05.md
 
 **Shaḍv. Br.** = Shaḍviṁçabrâhmaṇa (Вебер).
 
-**Siddh. Çir.** = Siddhântaçiromaṇi (Керн).
+**Siddh. Śir.** = Siddhântaçiromaṇi (Керн).
 
 **Spr.** = Indische Sprüche, издано О. Бётлингк. 2-е изд. Начиная с 7614 — в Mélanges asiatiques, T. VIII, с. 217. и сл. Там же, с. 203. и сл., помещены варианты, обозначенные через «zu Spr.».
 
@@ -121,7 +121,7 @@ translation_of: pwpref05.md
 
 **Taitt. Up.** = Taittirîjopanishad в Bibl. ind.
 
-**Tâṇḍja-Br.** = Tâṇḍjabrâhmaṇa в Bibl. ind. В большом словаре цитируется как Pañḱav. Br.
+**Tâṇḍya-Br.** = Tâṇḍjabrâhmaṇa в Bibl. ind. В большом словаре цитируется как Pañḱav. Br.
 
 **Tarkas.** = Tarkasaṁgraha, Аллахабад 1849 (Рот).
 
@@ -161,7 +161,7 @@ translation_of: pwpref05.md
 
 **Varâh. Bṛh. S.** = Varâhamihira's Bṛhatsaṁhitâ (Керн).
 
-**Varâh. Jogaj.** = Varâhamihira's Jogajâtrâ, издано Керн в Ind. St. 10. 14 и 15.
+**Varâh. Yogay.** = Varâhamihira's Jogajâtrâ, издано Керн в Ind. St. 10. 14 и 15.
 
 **Varâh. Lagu.** = Varâhamihira's Laghuǵâtaka. Первые две Adhjâja изданы Вебер в Ind. St. 2.
 
@@ -195,7 +195,7 @@ translation_of: pwpref05.md
 
 **VS. Prât.** = Prâtiçâkhja к VS. в Ind. St. 4.
 
-**Weber, Ǵjot.** = Weber, Ueber den Vedakalender, Namens Ǵjotisham.
+**Weber, Jyot.** = Weber, Ueber den Vedakalender, Namens Ǵjotisham.
 
 **Weber, Kṛshṇaǵ.** = Weber, Ueber die Kṛshṇaǵanmâshṭamî. Берлин 1868.
 

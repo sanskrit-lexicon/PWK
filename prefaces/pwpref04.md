@@ -35,7 +35,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Hemâdri** = Hemâdri's Ḱaturvargaḱintâmani in der Bibl. ind.
 
-**Hem. Jog.** = Hemaḱandra's Jogaçâstra in Z. d. d. m. G. 28. Aus einem hdschr. Comm. hat Windisch manche Berichtigung und Erklärung mir bereitwilligst zukommen lassen.
+**Hem. Yog.** = Hemaḱandra's Jogaçâstra in Z. d. d. m. G. 28. Aus einem hdschr. Comm. hat Windisch manche Berichtigung und Erklärung mir bereitwilligst zukommen lassen.
 
 **Hem. Pr. Gr. ed. Bomb.** = Hemaḱandra's Prâkrit-Grammatik, Bombay (Stenzler).
 
@@ -55,7 +55,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Jogas.** = Jogasûtra.
 
-**Jogat. Up.** = Jogatattvopanishad in der Bibl. ind. (Geldner und Roth).
+**Yogat. Up.** = Jogatattvopanishad in der Bibl. ind. (Geldner und Roth).
 
 **Jolly, Schuld.** = Jolly, Ueber das indische Schuldrecht, in Münchener philos.-philol. Abh. 1877, S. 287. fgg.
 
@@ -91,9 +91,9 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Kâtj. Çr.** = Kâtjâjana's Çrautasûtra, nach Weber's Index.
 
-**Kâtj. Dh.** = Kâtjâjana's Dharmaçâstra (Stenzler).
+**Kâty. Dh.** = Kâtjâjana's Dharmaçâstra (Stenzler).
 
-**Kâtj. Snânas.** = Kâtjâjana's Snânasûtra (Stenzler).
+**Kâty. Snânas.** = Kâtjâjana's Snânasûtra (Stenzler).
 
 **Kauç.** = Kauçika's Sûtra zum AV., Hdschrr. (Roth und Weber).
 
@@ -111,7 +111,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Ḱhandom.** = Ḱhandomanǵarî, herausg. von Brockhaus in Berichte über die Verhandlungen der Kön. Sächsischen Gesellschaft der Wissenschaften zu Leipzig. Phil.-hist. Kl. Bd. VI, 1854.
 
-**Ḱhând. Up.** = Ḱhândogjopanishad in der Bibl. ind.
+**Chând. Up.** = Ḱhândogjopanishad in der Bibl. ind.
 
 **Kir.** = Kirâtârǵunîja, Calcutta 1814.
 
@@ -159,7 +159,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Mahîdh.** = Mahîdhara, Commentator der VS.
 
-**Maitrjup.** = Maitrjupanishad in der Bibl. ind. Die Accente, die wegen ihrer Fehlerhaftigkeit oft weggelassen oder durch (!) als verdächtig bezeichnet wurden, hat Schröder einer Hdschr. entnommen.
+**Maitryup.** = Maitrjupanishad in der Bibl. ind. Die Accente, die wegen ihrer Fehlerhaftigkeit oft weggelassen oder durch (!) als verdächtig bezeichnet wurden, hat Schröder einer Hdschr. entnommen.
 
 **Maitr. S.** = Maitrâjanî Saṁhitâ, zur Herausgabe vorbereitet von L. Schröder. Da die accentuirten Hdschrr. nicht gleich zu Anfang zur Hand waren, konnten einige Accente erst in den Nachträgen angegeben werden (Schröder).
 
@@ -169,7 +169,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Mâṇḍ. Çikshâ** = Mâṇḍûkî Çikshâ (Weber).
 
-**Mân. Gṛhj.** = Mânavagṛhjasûtra, nach einer Hdschr. in der Universitätsbibliothek zu Bombay (Schröder).
+**Mân. Gṛhy.** = Mânavagṛhjasûtra, nach einer Hdschr. in der Universitätsbibliothek zu Bombay (Schröder).
 
 **Mân. K. S.** = Mânavakalpasûtra, nach Citaten bei Gold.
 
