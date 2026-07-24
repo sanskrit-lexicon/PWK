@@ -1,11 +1,23 @@
 cff-version: 1.2.0
 type: dataset
 title: Böhtlingk Sanskrit-Wörterbuch in kürzerer Fassung
-message: If you use this dataset, please cite both the digital edition and the printed source it digitises.
+message: >-
+  If you use the dictionary digitisation, cite preferred-citation (printed PW)
+  and the Cologne Digital Sanskrit Lexicon project. If you use the front-matter
+  OCR editions under prefaces/ (DE transcription + EN/RU translations), also
+  cite that package as described in prefaces/METHODS.md (scan source, OCR
+  engines A/B, translation policy, BibTeX). Cologne code is PW; this repository
+  is named PWK. Zenodo DOI for the OCR package may be added when a release is cut.
 license: CC-BY-SA-4.0
 repository-code: https://github.com/sanskrit-lexicon/PWK
+url: https://sanskrit-lexicon.github.io/PWK/
 date-released: 1879-01-01
 version: 1.0.0
+abstract: >-
+  Scripts and data for the PW (Sanskrit-Wörterbuch in kürzerer Fassung,
+  Otto Böhtlingk, from 1879) in the Cologne Digital Sanskrit Lexicon, plus
+  OCR'd front matter of vol. 1 (5 pages: title, Vorwort, Verzeichniss der
+  citirten Werke) with English and Russian translations under prefaces/.
 keywords:
   - sanskrit
   - lexicon
@@ -13,9 +25,27 @@ keywords:
   - cologne-digital-sanskrit-lexicon
   - dictionary
   - skt-ger
+  - ocr
+  - front-matter
+  - prefaces
+  - pw
 authors:
   - name: "Cologne Digital Sanskrit Lexicon project contributors"
     website: https://www.sanskrit-lexicon.uni-koeln.de/
+  - family-names: "Gasuns"
+    given-names: "Marcis"
+    orcid: "https://orcid.org/0000-0003-4513-884X"
+    website: https://github.com/gasyoun
+identifiers:
+  - type: url
+    value: https://github.com/sanskrit-lexicon/PWK/tree/main/prefaces
+    description: Front-matter OCR package (DE/EN/RU)
+  - type: url
+    value: https://github.com/sanskrit-lexicon/PWK/blob/main/prefaces/METHODS.md
+    description: Methods note and how to cite the front-matter OCR
+  - type: url
+    value: https://sanskrit-lexicon.github.io/PWK/prefaces/pwpref_all.en.md
+    description: Consolidated English front-matter edition (GitHub Pages)
 preferred-citation:
   type: book
   title: Böhtlingk Sanskrit-Wörterbuch in kürzerer Fassung
@@ -23,4 +53,4 @@ preferred-citation:
   authors:
     - family-names: "Böhtlingk"
       given-names: "Otto"
-  notes: "Same as PW; Cologne uses PW shorthand"
+  notes: "Same as PW; Cologne uses PW shorthand; repo is PWK. For the 2026 front-matter OCR (prefaces/), see prefaces/METHODS.md."
