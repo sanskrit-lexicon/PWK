@@ -214,3 +214,5 @@ translation_of: pwpref03.md
 **Git.** = Gîtagovinda, изд. Лассен.
 
 **Gobh.** = Gobhila's Gṛhjasûtra в Bibl. ind. (Рот).
+
+**Golâdhj.** = Bhâskara's Golâdhjâja (Керн).

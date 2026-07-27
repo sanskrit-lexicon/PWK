@@ -272,6 +272,8 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 
 **Gobh.** = Gobhila's Gṛhjasûtra in the Bibl. ind. (Roth).
 
+**Golâdhj.** = Bhâskara's Golâdhjâja (Kern).
+
 
 ---
 

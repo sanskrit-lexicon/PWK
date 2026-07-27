@@ -270,6 +270,8 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 
 **Gobh.** = Gobhila's Gṛhjasûtra в Bibl. ind. (Рот).
 
+**Golâdhj.** = Bhâskara's Golâdhjâja (Керн).
+
 
 ---
 

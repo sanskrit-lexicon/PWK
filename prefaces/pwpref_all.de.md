@@ -272,6 +272,8 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 
 **Gobh.** = Gobhila's Gṛhjasûtra in der Bibl. ind. (Roth).
 
+**Golâdhj.** = Bhâskara's Golâdhjâja (Kern).
+
 
 ---
 
