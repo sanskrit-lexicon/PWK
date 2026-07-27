@@ -214,3 +214,5 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 **Git.** = Gîtagovinda, ed. by Lassen.
 
 **Gobh.** = Gobhila's Gṛhjasûtra in the Bibl. ind. (Roth).
+
+**Golâdhj.** = Bhâskara's Golâdhjâja (Kern).
