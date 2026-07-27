@@ -1,6 +1,6 @@
 # PW (PWK) front-matter OCR — methods and citation
 
-_Created: 24-07-2026 · Last updated: 24-07-2026_
+_Created: 24-07-2026 · Last updated: 27-07-2026_
 
 This note documents how the **PW** front-matter editions under `prefaces/` (repo **PWK**) were produced so they can be treated as citable research objects. Page inventory and reading notes live in [README.md](README.md). Public index: [OCR'd prefaces](https://sanskrit-lexicon.github.io/csl-guides/dictionaries/ocr-prefaces). Operator manual: [Preface OCR pipeline](https://sanskrit-lexicon.github.io/csl-guides/dictionaries/preface-ocr-pipeline).
 
@@ -84,6 +84,24 @@ Preserved in source and left verbatim in translations: `â î û` = long vowels,
 - Left **verbatim** in all languages: Sanskrit in expansions, personal names, work **titles**, years, and references.
 - **Abbreviation keys (sigla):** aligned to the **human-edited body** `csl-orig/v02/pw/pw.txt` naming of the same works (H1569). OCR alone is not the authority for how a work is *named* in the legend. Every key rewrite is logged in the csl-guides change-log meta doc ([pw_pref_key_body_align_changes.md](https://github.com/sanskrit-lexicon/csl-guides/blob/main/scripts/out/pw_pref_key_body_align_changes.md)). Policy: [pref-body-naming-authority](https://github.com/sanskrit-lexicon/csl-guides/blob/main/docs/dictionaries/pref-body-naming-authority.md).
 - In Russian files, personal surnames are rendered in Cyrillic without redundant Latin parentheses (Latin form remains in the source `.md`); author names inside English book titles stay Latin.
+
+---
+
+## Legend store join (csl-guides)
+
+Pages 3–5 here (`pwpref03.md`–`pwpref05.md`, the *Verzeichniss der citirten Werke*) remain the **source of truth** for the abbreviation-key expansions surfaced by the csl-guides legend emit — the machine pipeline that turns this OCR into the public Abbreviations page does not re-derive expansions independently; it reads them from these pages.
+
+| Step | Artifact |
+|---|---|
+| 1. Census keys vs. body | [`pref_abbr_crosscheck.py`](https://github.com/sanskrit-lexicon/csl-guides/blob/main/scripts/pref_abbr_crosscheck.py) |
+| 2. Emit machine legend | [`pref_legend_emit.py`](https://github.com/sanskrit-lexicon/csl-guides/blob/main/scripts/pref_legend_emit.py) → [`legend.schema.json`](https://github.com/sanskrit-lexicon/csl-guides/blob/main/scripts/legend.schema.json) |
+| 3. Legend store (this dict) | [`pw_legend.json`](https://github.com/sanskrit-lexicon/csl-guides/blob/main/scripts/out/pw_legend.json) (302 rows, generated 2026-07-24) |
+| 4. Site feed | [`src/data/pref-legends.json`](https://github.com/sanskrit-lexicon/csl-guides/blob/main/src/data/pref-legends.json) → [Abbreviations & citations](https://sanskrit-lexicon.github.io/csl-guides/dictionaries/abbreviations-and-citations) |
+| 5. Naming-authority ruling | [pref-body-naming-authority.md](https://github.com/sanskrit-lexicon/csl-guides/blob/main/docs/dictionaries/pref-body-naming-authority.md) — body `.txt` wins for siglum orthography; a pref **key** is corrected *toward* body when a rewrite is warranted, but the **expansion** (full title) stays scan-faithful to this repo's pages |
+
+Each `pw_legend.json` row carries a `sources` field of the form `pwprefNN.md:LINE` pointing back at the exact line in this repo's `prefaces/` — that field is the join key between the legend store and this repo. Spot-check evidence confirming the join holds: [PW_LEGEND_SPOTCHECK_2026-07-27.md](PW_LEGEND_SPOTCHECK_2026-07-27.md).
+
+No bulk key rewrites are authorized by this note — a key rewrite still requires its own named handoff and change log (the H1569 / H1571 / H1580 pattern).
 
 ---
 

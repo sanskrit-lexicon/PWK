@@ -2,7 +2,7 @@
 
 OCR transcriptions **and English + Russian translations** of the front matter of the **Sanskrit-Wörterbuch in kürzerer Fassung** (Otto Böhtlingk, the *kleines/kürzeres Petersburger Wörterbuch*), **Erster Theil — Die Vocale**, St. Petersburg, Buchdruckerei der Kaiserlichen Akademie der Wissenschaften, **1879**. Foreword signed *Jena, den 1sten Mai 1879. O. Böhtlingk.*
 
-**Methods and how to cite:** [METHODS.md](METHODS.md) (scan source, page inventory, OCR engines A/B, translation policy, BibTeX). Root cite metadata: [CITATION.cff](../CITATION.cff).
+**Methods and how to cite:** [METHODS.md](METHODS.md) (scan source, page inventory, OCR engines A/B, translation policy, BibTeX, csl-guides legend store join). Root cite metadata: [CITATION.cff](../CITATION.cff). **Legend store spot-check (H1597):** [PW_LEGEND_SPOTCHECK_2026-07-27.md](PW_LEGEND_SPOTCHECK_2026-07-27.md).
 
 Source: the Cologne digitization scan pages under
 [pwpref.html](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/pwpref.html).
