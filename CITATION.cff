@@ -11,8 +11,8 @@ message: >-
 license: CC-BY-SA-4.0
 repository-code: https://github.com/sanskrit-lexicon/PWK
 url: https://sanskrit-lexicon.github.io/PWK/
-date-released: 1879-01-01
-version: 1.0.0
+date-released: 2026-08-30
+version: 1.0.1
 abstract: >-
   Scripts and data for the PW (Sanskrit-Wörterbuch in kürzerer Fassung,
   Otto Böhtlingk, from 1879) in the Cologne Digital Sanskrit Lexicon, plus

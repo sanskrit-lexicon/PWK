@@ -8,6 +8,7 @@ ready for a dated entry.
 
 ## [Unreleased]
 
+## [1.0.1] - 2026-08-30
 ### Added
 - Front-matter OCR methods note and cite path: [`prefaces/METHODS.md`](prefaces/METHODS.md) (scan source, engines A/B, translation policy, BibTeX); root [`CITATION.cff`](CITATION.cff) expanded with OCR identifiers and dual-cite message (H1558).
 - METHODS.md: documented the join between this repo's pref pages and the csl-guides legend store (`pw_legend.json`) + naming-authority ruling; spot-checked 16 sampled legend keys against `prefaces/pwpref03–05.md` — all match exactly, no key rewrite warranted ([`prefaces/PW_LEGEND_SPOTCHECK_2026-07-27.md`](prefaces/PW_LEGEND_SPOTCHECK_2026-07-27.md), H1597).
