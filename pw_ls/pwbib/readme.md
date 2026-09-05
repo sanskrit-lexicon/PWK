@@ -1,3 +1,5 @@
+_Created: 16-11-2015 · Last updated: 05-09-2026_
+
 
 # pwbib
 
@@ -57,3 +59,4 @@ python sortbib.py ../pwbib_new_work/mergebibnew.txt sortbib.txt
 sortbib.txt is used by the pywork/pwauth to integrate the bibliographies
 in the web displays of the PW dictionary.
 
+_Dr. Mārcis Gasūns_

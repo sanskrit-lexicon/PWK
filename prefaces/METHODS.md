@@ -1,8 +1,8 @@
 # PW (PWK) front-matter OCR — methods and citation
 
-_Created: 24-07-2026 · Last updated: 27-07-2026_
+_Created: 24-07-2026 · Last updated: 05-09-2026_
 
-This note documents how the **PW** front-matter editions under `prefaces/` (repo **PWK**) were produced so they can be treated as citable research objects. Page inventory and reading notes live in [README.md](README.md). Public index: [OCR'd prefaces](https://sanskrit-lexicon.github.io/csl-guides/dictionaries/ocr-prefaces). Operator manual: [Preface OCR pipeline](https://sanskrit-lexicon.github.io/csl-guides/dictionaries/preface-ocr-pipeline).
+This note documents how the **PW** front-matter editions under `prefaces/` (repo **PWK**) were produced so they can be treated as citable research objects. Page inventory and reading notes live in [README.md](https://github.com/sanskrit-lexicon/PWK/blob/main/prefaces/README.md). Public index: [OCR'd prefaces](https://sanskrit-lexicon.github.io/csl-guides/dictionaries/ocr-prefaces). Operator manual: [Preface OCR pipeline](https://sanskrit-lexicon.github.io/csl-guides/dictionaries/preface-ocr-pipeline).
 
 ---
 
@@ -17,7 +17,7 @@ Faithful Markdown OCR of the **front matter** of the *Sanskrit-Wörterbuch in k�
 | Source language | German (19th-c. orthography preserved) |
 | Page count | **5** scan pages |
 | Languages shipped | DE (source) · EN · RU |
-| Consolidated editions | [pwpref_all.de.md](pwpref_all.de.md) · [pwpref_all.en.md](pwpref_all.en.md) · [pwpref_all.ru.md](pwpref_all.ru.md) |
+| Consolidated editions | [pwpref_all.de.md](https://github.com/sanskrit-lexicon/PWK/blob/main/prefaces/pwpref_all.de.md) · [pwpref_all.en.md](https://github.com/sanskrit-lexicon/PWK/blob/main/prefaces/pwpref_all.en.md) · [pwpref_all.ru.md](https://github.com/sanskrit-lexicon/PWK/blob/main/prefaces/pwpref_all.ru.md) |
 | GitHub Pages (EN) | https://sanskrit-lexicon.github.io/PWK/prefaces/pwpref_all.en.md |
 | Sibling notice | [PWG#210](https://github.com/sanskrit-lexicon/PWG/issues/210) (PWG + PW English OCR links) |
 
@@ -99,7 +99,7 @@ Pages 3–5 here (`pwpref03.md`–`pwpref05.md`, the *Verzeichniss der citirten 
 | 4. Site feed | [`src/data/pref-legends.json`](https://github.com/sanskrit-lexicon/csl-guides/blob/main/src/data/pref-legends.json) → [Abbreviations & citations](https://sanskrit-lexicon.github.io/csl-guides/dictionaries/abbreviations-and-citations) |
 | 5. Naming-authority ruling | [pref-body-naming-authority.md](https://github.com/sanskrit-lexicon/csl-guides/blob/main/docs/dictionaries/pref-body-naming-authority.md) — body `.txt` wins for siglum orthography; a pref **key** is corrected *toward* body when a rewrite is warranted, but the **expansion** (full title) stays scan-faithful to this repo's pages |
 
-Each `pw_legend.json` row carries a `sources` field of the form `pwprefNN.md:LINE` pointing back at the exact line in this repo's `prefaces/` — that field is the join key between the legend store and this repo. Spot-check evidence confirming the join holds: [PW_LEGEND_SPOTCHECK_2026-07-27.md](PW_LEGEND_SPOTCHECK_2026-07-27.md).
+Each `pw_legend.json` row carries a `sources` field of the form `pwprefNN.md:LINE` pointing back at the exact line in this repo's `prefaces/` — that field is the join key between the legend store and this repo. Spot-check evidence confirming the join holds: [PW_LEGEND_SPOTCHECK_2026-07-27.md](https://github.com/sanskrit-lexicon/PWK/blob/main/prefaces/PW_LEGEND_SPOTCHECK_2026-07-27.md).
 
 No bulk key rewrites are authorized by this note — a key rewrite still requires its own named handoff and change log (the H1569 / H1571 / H1580 pattern).
 
@@ -126,7 +126,7 @@ Optional: `DICT=pw python build_combined.py`. Edit `pwprefNN.md` / `.en.md` / `.
 | First landed (approx.) | Jun–Jul 2026 (see repo history for `prefaces/`) |
 | Methods note | 24-07-2026 (H1558) |
 | Agent attribution | Production path = Claude Code vision skill (default tier Fable 5 / Opus 4.8 fallback); commits may land under the maintainer account after agent runs — see [preface-ocr-pipeline](https://sanskrit-lexicon.github.io/csl-guides/dictionaries/preface-ocr-pipeline) |
-| License of this repo’s digital work | CC-BY-SA-4.0 (see root [CITATION.cff](../CITATION.cff) and [LICENSE](../LICENSE)) |
+| License of this repo’s digital work | CC-BY-SA-4.0 (see root [CITATION.cff](https://github.com/sanskrit-lexicon/PWK/blob/main/CITATION.cff) and [LICENSE](https://github.com/sanskrit-lexicon/PWK/blob/main/LICENSE)) |
 | Printed source | Public-domain 19th-c. imprint; always cite the book as well as the OCR |
 
 ---
@@ -156,7 +156,7 @@ Gasūns, Mārcis, and Cologne Digital Sanskrit Lexicon project contributors. 202
 }
 ```
 
-Root [CITATION.cff](../CITATION.cff) points at both the printed book (`preferred-citation`) and this OCR package (`message` + `identifiers`). A Zenodo DOI may be added later when a release is cut; until then use the GitHub / Pages URLs above.
+Root [CITATION.cff](https://github.com/sanskrit-lexicon/PWK/blob/main/CITATION.cff) points at both the printed book (`preferred-citation`) and this OCR package (`message` + `identifiers`). A Zenodo DOI may be added later when a release is cut; until then use the GitHub / Pages URLs above.
 
 ---
 

@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pw1-000-1.png
 source_page: Title, vol. 1
@@ -36,3 +38,5 @@ Printing-house of the Imperial Academy of Sciences.
 To be obtained from Eggers & Comp. in St. Petersburg and from Leopold Voss in Leipzig.
 
 Price of this part: 3 Rbl. 50 Cop. Silver = 11 Mark 70 Pf.
+
+_Dr. Mārcis Gasūns_

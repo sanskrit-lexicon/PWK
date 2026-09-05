@@ -1,6 +1,8 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 # Front matter — complete (English)
 
-Per-page files: `pwprefNN.en.md`. Index: [README.md](README.md).
+Per-page files: `pwprefNN.en.md`. Index: [README.md](https://github.com/sanskrit-lexicon/PWK/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -703,3 +705,5 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 Jena, 1 May 1879.
 
 O. Böhtlingk.
+
+_Dr. Mārcis Gasūns_

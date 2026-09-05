@@ -1,3 +1,5 @@
+_Created: 26-07-2016 · Last updated: 05-09-2026_
+
 
 Documentation regarding preparing material for a display of the
 PW bibliography.
@@ -72,3 +74,4 @@ in the 'scanned display'. For instance, for the bibliographic entries from
 volume 1, see page3 of the Preface for
  [vol. 1](http://www.sanskrit-lexicon.uni-koeln.de/scans/PWScan/index.php?sfx=jpg&vol=1)
 
+_Dr. Mārcis Gasūns_

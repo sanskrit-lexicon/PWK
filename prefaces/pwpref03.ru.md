@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pw1-000-3.png
 source_page: Abbreviations of Works, 1
@@ -216,3 +218,5 @@ translation_of: pwpref03.md
 **Gobh.** = Gobhila's Gṛhjasûtra в Bibl. ind. (Рот).
 
 **Golâdhj.** = Bhâskara's Golâdhjâja (Керн).
+
+_Dr. Mārcis Gasūns_

@@ -1,6 +1,8 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 # Предварительные материалы — полностью (русский)
 
-Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
+Per-page files: `pwprefNN.ru.md`. Index: [README.md](https://github.com/sanskrit-lexicon/PWK/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -701,3 +703,5 @@ Per-page files: `pwprefNN.ru.md`. Index: [README.md](README.md).
 Йена, 1 мая 1879 г.
 
 О. Бётлингк.
+
+_Dr. Mārcis Gasūns_

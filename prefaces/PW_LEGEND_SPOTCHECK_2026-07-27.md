@@ -1,8 +1,8 @@
 # PW legend store spot-check (H1597)
 
-_Created: 27-07-2026 · Last updated: 27-07-2026_
+_Created: 27-07-2026 · Last updated: 05-09-2026_
 
-**Handoff:** [H1597](https://github.com/gasyoun/Uprava/blob/main/handoffs/H1597-Sonnet_PWK_pref-enrichment-methods-spotcheck_24.07.26.md) · **Plan:** [PLAN_PWK_preface_enrichment_support_2026-07.md](../docs/PLAN_PWK_preface_enrichment_support_2026-07.md) · **Parent:** [csl-guides PLAN P0](https://github.com/sanskrit-lexicon/csl-guides/blob/main/docs/plans/PLAN_csl-guides_preface_enrichment_P0_2026-07.md) · **See also:** [METHODS.md § Legend store join](METHODS.md#legend-store-join-csl-guides)
+**Handoff:** [H1597](https://github.com/gasyoun/Uprava/blob/main/handoffs/H1597-Sonnet_PWK_pref-enrichment-methods-spotcheck_24.07.26.md) · **Plan:** [PLAN_PWK_preface_enrichment_support_2026-07.md](https://github.com/sanskrit-lexicon/PWK/blob/main/docs/PLAN_PWK_preface_enrichment_support_2026-07.md) · **Parent:** [csl-guides PLAN P0](https://github.com/sanskrit-lexicon/csl-guides/blob/main/docs/plans/PLAN_csl-guides_preface_enrichment_P0_2026-07.md) · **See also:** [METHODS.md § Legend store join](METHODS.md#legend-store-join-csl-guides)
 
 ## Purpose
 

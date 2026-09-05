@@ -1,3 +1,5 @@
+_Created: 31-08-2018 · Last updated: 05-09-2026_
+
 
 ### pw_iast
 This pw_iast section is intended to foster contributions to corrections of suspicious
@@ -36,3 +38,4 @@ The lines of this html file correspond to the cases.
 For each case, there is a link to the headword(s) of the PWK dictionary where 
  the IAST spelling occurs.
 
+_Dr. Mārcis Gasūns_

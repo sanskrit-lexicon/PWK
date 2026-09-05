@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pw1-000-4.png
 source_page: Abbreviations of Works, 2
@@ -222,3 +224,5 @@ translation_of: pwpref04.md
 **Njâs.** = Gotama's Njâjadarçana в Bibl. ind. Изд. Калькутта 1828 обозначается добавлением (1828). (Керн).
 
 **N. K.** = Njâjakoça or Dictionary of the technical Terms of the Njâja Philosophy, by Bhîmâḱârja Jhalakîkar. Бомбей 1875.
+
+_Dr. Mārcis Gasūns_

@@ -1,8 +1,10 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 # PW — Front Matter (Title Page, Foreword, Abbreviation List)
 
 OCR transcriptions **and English + Russian translations** of the front matter of the **Sanskrit-Wörterbuch in kürzerer Fassung** (Otto Böhtlingk, the *kleines/kürzeres Petersburger Wörterbuch*), **Erster Theil — Die Vocale**, St. Petersburg, Buchdruckerei der Kaiserlichen Akademie der Wissenschaften, **1879**. Foreword signed *Jena, den 1sten Mai 1879. O. Böhtlingk.*
 
-**Methods and how to cite:** [METHODS.md](METHODS.md) (scan source, page inventory, OCR engines A/B, translation policy, BibTeX, csl-guides legend store join). Root cite metadata: [CITATION.cff](../CITATION.cff). **Legend store spot-check (H1597):** [PW_LEGEND_SPOTCHECK_2026-07-27.md](PW_LEGEND_SPOTCHECK_2026-07-27.md).
+**Methods and how to cite:** [METHODS.md](https://github.com/sanskrit-lexicon/PWK/blob/main/prefaces/METHODS.md) (scan source, page inventory, OCR engines A/B, translation policy, BibTeX, csl-guides legend store join). Root cite metadata: [CITATION.cff](https://github.com/sanskrit-lexicon/PWK/blob/main/CITATION.cff). **Legend store spot-check (H1597):** [PW_LEGEND_SPOTCHECK_2026-07-27.md](https://github.com/sanskrit-lexicon/PWK/blob/main/prefaces/PW_LEGEND_SPOTCHECK_2026-07-27.md).
 
 Source: the Cologne digitization scan pages under
 [pwpref.html](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/pwpref.html).
@@ -23,21 +25,21 @@ The complete front matter is also assembled into one file per language (all 5 pa
 
 | language | file |
 |---|---|
-| German (Deutsch) | [pwpref_all.de.md](pwpref_all.de.md) |
-| English | [pwpref_all.en.md](pwpref_all.en.md) |
-| Russian (русский) | [pwpref_all.ru.md](pwpref_all.ru.md) |
+| German (Deutsch) | [pwpref_all.de.md](https://github.com/sanskrit-lexicon/PWK/blob/main/prefaces/pwpref_all.de.md) |
+| English | [pwpref_all.en.md](https://github.com/sanskrit-lexicon/PWK/blob/main/prefaces/pwpref_all.en.md) |
+| Russian (русский) | [pwpref_all.ru.md](https://github.com/sanskrit-lexicon/PWK/blob/main/prefaces/pwpref_all.ru.md) |
 
-These are generated from the per-page files by [build_combined.py](build_combined.py) (`python build_combined.py`); edit the per-page files and re-run to regenerate.
+These are generated from the per-page files by [build_combined.py](https://github.com/sanskrit-lexicon/PWK/blob/main/prefaces/build_combined.py) (`python build_combined.py`); edit the per-page files and re-run to regenerate.
 
 ## Contents
 
 | # | Section | Vol. | German | English | Russian |
 |---|---------|------|--------|---------|---------|
-| 1 | Title, vol. 1 (*Die Vocale*, 1879) | 1 | [de](pwpref01.md) | [en](pwpref01.en.md) | [ru](pwpref01.ru.md) |
-| 2 | Foreword (*Vorwort*) | 1 | [de](pwpref02.md) | [en](pwpref02.en.md) | [ru](pwpref02.ru.md) |
-| 3 | Abbreviations of Works, 1 (page IV) | 1 | [de](pwpref03.md) | [en](pwpref03.en.md) | [ru](pwpref03.ru.md) |
-| 4 | Abbreviations of Works, 2 (page V) | 1 | [de](pwpref04.md) | [en](pwpref04.en.md) | [ru](pwpref04.ru.md) |
-| 5 | Abbreviations of Works, 3 (page VI) | 1 | [de](pwpref05.md) | [en](pwpref05.en.md) | [ru](pwpref05.ru.md) |
+| 1 | Title, vol. 1 (*Die Vocale*, 1879) | 1 | [de](https://github.com/sanskrit-lexicon/PWK/blob/main/prefaces/pwpref01.md) | [en](https://github.com/sanskrit-lexicon/PWK/blob/main/prefaces/pwpref01.en.md) | [ru](https://github.com/sanskrit-lexicon/PWK/blob/main/prefaces/pwpref01.ru.md) |
+| 2 | Foreword (*Vorwort*) | 1 | [de](https://github.com/sanskrit-lexicon/PWK/blob/main/prefaces/pwpref02.md) | [en](https://github.com/sanskrit-lexicon/PWK/blob/main/prefaces/pwpref02.en.md) | [ru](https://github.com/sanskrit-lexicon/PWK/blob/main/prefaces/pwpref02.ru.md) |
+| 3 | Abbreviations of Works, 1 (page IV) | 1 | [de](https://github.com/sanskrit-lexicon/PWK/blob/main/prefaces/pwpref03.md) | [en](https://github.com/sanskrit-lexicon/PWK/blob/main/prefaces/pwpref03.en.md) | [ru](https://github.com/sanskrit-lexicon/PWK/blob/main/prefaces/pwpref03.ru.md) |
+| 4 | Abbreviations of Works, 2 (page V) | 1 | [de](https://github.com/sanskrit-lexicon/PWK/blob/main/prefaces/pwpref04.md) | [en](https://github.com/sanskrit-lexicon/PWK/blob/main/prefaces/pwpref04.en.md) | [ru](https://github.com/sanskrit-lexicon/PWK/blob/main/prefaces/pwpref04.ru.md) |
+| 5 | Abbreviations of Works, 3 (page VI) | 1 | [de](https://github.com/sanskrit-lexicon/PWK/blob/main/prefaces/pwpref05.md) | [en](https://github.com/sanskrit-lexicon/PWK/blob/main/prefaces/pwpref05.en.md) | [ru](https://github.com/sanskrit-lexicon/PWK/blob/main/prefaces/pwpref05.ru.md) |
 
 ## Notes
 
@@ -46,3 +48,5 @@ These are generated from the per-page files by [build_combined.py](build_combine
 - The Foreword closes with the place/date **Jena, den 1sten Mai 1879.** and the signature **O. Böhtlingk.** (printed below the columns at the end of page 5); both are preserved.
 - In the Russian files, personal surnames are rendered in Cyrillic with no redundant Latin in parentheses (the Latin form already lives in the source `.md`); author names embedded inside English book-titles are left in Latin.
 - The small running header (*O. Boehtlingk, Sanskrit-Wörterbuch, Erster Theil, St. Petersburg 1879*) and the *Institute of Indology & Tamil Studies Cologne University Germany 10/1/07* digitizer footer/stamp are omitted from all files.
+
+_Dr. Mārcis Gasūns_

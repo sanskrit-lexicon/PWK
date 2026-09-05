@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pw1-000-1.png
 source_page: Title, vol. 1
@@ -34,3 +36,5 @@ BUCHDRUCKEREI DER KAISERLICHEN AKADEMIE DER WISSENSCHAFTEN.
 Zu beziehen durch Eggers & Comp. in St. Petersburg und durch Leopold Voss in Leipzig.
 
 Preis dieses Theiles: 3 Rbl. 50 Cop. Silb. = 11 Mark 70 Pf.
+
+_Dr. Mārcis Gasūns_

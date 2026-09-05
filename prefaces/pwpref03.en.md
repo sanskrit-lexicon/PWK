@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pw1-000-3.png
 source_page: Abbreviations of Works, 1
@@ -216,3 +218,5 @@ In conclusion, I append the list of works cited in this first part. Two numbers 
 **Gobh.** = Gobhila's Gṛhjasûtra in the Bibl. ind. (Roth).
 
 **Golâdhj.** = Bhâskara's Golâdhjâja (Kern).
+
+_Dr. Mārcis Gasūns_

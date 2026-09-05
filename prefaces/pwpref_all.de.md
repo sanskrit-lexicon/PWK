@@ -1,6 +1,8 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 # Front matter — complete (German, source language)
 
-Per-page files: `pwprefNN.md`. Index: [README.md](README.md).
+Per-page files: `pwprefNN.md`. Index: [README.md](https://github.com/sanskrit-lexicon/PWK/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -703,3 +705,5 @@ Zum Schluss lasse ich das Verzeichniss der in diesem ersten Theile citirten Werk
 Jena, den 1sten Mai 1879.
 
 O. Böhtlingk.
+
+_Dr. Mārcis Gasūns_

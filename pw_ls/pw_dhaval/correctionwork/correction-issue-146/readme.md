@@ -1,3 +1,5 @@
+_Created: 16-11-2015 · Last updated: 05-09-2026_
+
 # PW Abbreviations correction
 
 See [this issue](https://github.com/sanskrit-lexicon/CORRECTIONS/issues/147) for the discussion.
@@ -33,3 +35,5 @@ Append pwabbrvupd.txt at the end of pywork/manualByLine02.txt
 `sh redo_xml.sh`
 
 This will regenerate pw.xml with corrections.
+
+_Dr. Mārcis Gasūns_

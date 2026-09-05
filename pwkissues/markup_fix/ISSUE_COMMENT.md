@@ -1,3 +1,5 @@
+_Created: 21-05-2026 · Last updated: 05-09-2026_
+
 ### Location
 
 Counterpart of https://github.com/sanskrit-lexicon/PWG/issues/175 for `pw.txt`.
@@ -88,3 +90,5 @@ The five non-zero findings (4,171 adjacent `</ab> <ab>`, 2 nested `<ls>` in corr
 ### Severity
 
 minor — handful of entries.
+
+_Dr. Mārcis Gasūns_

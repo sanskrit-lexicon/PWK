@@ -1,3 +1,5 @@
+_Created: 16-11-2015 · Last updated: 05-09-2026_
+
 # Abbreviations of PW
 Run `makeabbrv.sh` from pywork/abbrvwork directory to regenerate the lists.
 
@@ -67,3 +69,4 @@ rm pwxml.zip
 
 2. After removing terminal period(.) i.e. `clean = clean.strip('.')` - 3341 entries
 
+_Dr. Mārcis Gasūns_

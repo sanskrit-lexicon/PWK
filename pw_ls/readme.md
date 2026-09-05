@@ -1,3 +1,5 @@
+_Created: 16-11-2015 · Last updated: 05-09-2026_
+
 ## pw_ls 
 
 'ls' = literary sources
@@ -21,3 +23,5 @@ occuring in the PW dictionary.
 * **summary**  Generate a summary of counts of ls references for pwk
 
 * **pw_ls/gorr**  improve link markup for references to Gorresio version of Ramayana.
+
+_Dr. Mārcis Gasūns_

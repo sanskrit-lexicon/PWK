@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pw1-000-4.png
 source_page: Abbreviations of Works, 2
@@ -220,3 +222,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Njâs.** = Gotama's Njâjadarçana in der Bibl. ind. Die Ausg. Calcutta 1828 wird durch Beifügung von (1828) bezeichnet. (Kern).
 
 **N. K.** = Njâjakoça or Dictionary of the technical Terms of the Njâja Philosophy, by Bhîmâḱârja Jhalakîkar. Bombay 1875.
+
+_Dr. Mārcis Gasūns_

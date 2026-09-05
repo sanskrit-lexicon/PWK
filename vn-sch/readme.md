@@ -1,3 +1,5 @@
+_Created: 22-09-2021 · Last updated: 05-09-2026_
+
 ## VN-SCH
 
 Goal:  make VN records for PWK  from Schmidt dictionary.
@@ -19,3 +21,5 @@ See the readme for step2.
 
 ## step3
 Compare Schmidt text to a sample digitization of 10 pages of PWK VN.
+
+_Dr. Mārcis Gasūns_

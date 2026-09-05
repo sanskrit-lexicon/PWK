@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pw1-000-5.png
 source_page: Abbreviations of Works, 3
@@ -210,3 +212,5 @@ translation_of: pwpref05.md
 Йена, 1 мая 1879 г.
 
 О. Бётлингк.
+
+_Dr. Mārcis Gasūns_

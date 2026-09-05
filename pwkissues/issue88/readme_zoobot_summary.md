@@ -1,3 +1,5 @@
+_Created: 18-10-2023 · Last updated: 05-09-2026_
+
 ## temp_pw_9e.txt and temp_pw_ab_9.txt
 See zoobot/readme.txt for more procedural details.
 ``` 
@@ -80,4 +82,4 @@ resolve differences between cdsl and ab version
 
 ```
 
-
+_Dr. Mārcis Gasūns_

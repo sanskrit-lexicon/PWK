@@ -1,3 +1,5 @@
+_Created: 07-05-2026 · Last updated: 05-09-2026_
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
@@ -96,3 +98,4 @@ python updateByLine.py temp_pw_0.txt change_1.txt temp_pw_1.txt
 - **lxml** — XML parsing (`pip install lxml`)
 - **pw.txt** — in `$BASE/cologne/csl-orig/v02/pw/pw.txt`
 
+_Dr. Mārcis Gasūns_
