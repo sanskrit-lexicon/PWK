@@ -22,7 +22,7 @@ Command sequences below are quoted **verbatim from the in-repo `readme` notes**
 of each workspace (the same notes the original operators ran from); paths were
 verified to exist in the tree on 11-07-2026. A full end-to-end re-run was not
 attempted — several pipelines are one-time-historical and overwrite the sibling
-`csl-orig` working tree (see the [lifecycle table](#lifecycle--which-pipelines-are-live)).
+`csl-orig` working tree (see the [lifecycle table](#lifecycle-which-pipelines-are-live)).
 
 ## Cheat-sheet: the universal correction loop
 
