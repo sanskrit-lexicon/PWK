@@ -1,13 +1,13 @@
 PW=../../../../pwxml/pw.xml
 #PW=../../../../Cologne_localcopy/pw/pywork/pw.xml
-if !([ -e $PW ])
+if [ ! -e "$PW" ]
  then
   echo "path to PW does not exist: $PW"
   echo "See pw_dhaval/readme.md for where to get pw.xml"
   exit 1
 fi
 
-python abbrv.py $PW
+python abbrv.py "$PW"
 echo "Converting the Anglicized Sanskrit to IAST"
 echo 
 python transcoder/as_roman.py abbrvoutput/sortedcrefs.txt abbrvoutput/sortedcrefsiast.txt as roman
