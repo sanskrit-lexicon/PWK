@@ -1,5 +1,7 @@
 # PWK
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22170448.svg)](https://doi.org/10.5281/zenodo.22170448)
+
 _Created: 08-03-2020 · Last updated: 11-07-2026_
 
 Böhtlingk, Otto; *Sanskrit-Wörterbuch in kürzerer Fassung*, 7 Bände. St. Petersburg, 1879–1889.
