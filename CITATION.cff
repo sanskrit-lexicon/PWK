@@ -1,4 +1,9 @@
 cff-version: 1.2.0
+doi: 10.5281/zenodo.22170448
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22170448
+    description: Zenodo concept DOI (always resolves to the latest version)
 type: dataset
 title: Böhtlingk Sanskrit-Wörterbuch in kürzerer Fassung
 message: >-
