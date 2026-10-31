@@ -58,7 +58,7 @@ Production skill: **`/cologne-preface-ocr`** (Claude Code command; Codex twin av
 | **A — Vision band OCR** | **Author** of canonical `pwprefNN.md` | Native-resolution column/band crops (longest side ≲ ~1900 px); vision model → faithful transcription. Never OCR a full downsampled page (fabricates text). |
 | **B — Tesseract crop-then-OCR** | **Audit only** on CDSL | Optional comparison layer; **must not** auto-overwrite Engine A. |
 
-Hard rule: Engine B text is never promoted into canonical pages without a human/vision re-check of the scan band. Related bake-off (PWG, A as gold): [PD COMPARISON_PWG_OCR_A_VS_B.md](https://github.com/sanskrit-lexicon/PD/blob/main/COMPARISON_PWG_OCR_A_VS_B.md).
+Hard rule: Engine B text is never promoted into canonical pages without a human/vision re-check of the scan band. Related bake-off (PWG, A as gold): [PD COMPARISON_PWG_OCR_A_VS_B.md](https://github.com/sanskrit-lexicon/PD/blob/main/docs/COMPARISON_PWG_OCR_A_VS_B.md).
 
 PD’s `feat/ocr-v2-pipeline` is a **sibling** pipeline for Deccan College PDF front matter — not a second author for CDSL PW pages.
 
