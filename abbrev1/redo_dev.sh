@@ -16,7 +16,7 @@ echo
 devdir=/c/xampp/htdocs/sanskrit-lexicon/PWK/abbrev1/dev$sfx
 echo "BEGIN Generate display in $devdir"
 echo "-------------------------------------------------"
-cd /c/xampp/htdocs/cologne/csl-pywork/v02/
+cd /c/xampp/htdocs/cologne/csl-pywork/v02/ || exit 1
 root=dev_$sfx
 echo
 pwd
@@ -25,12 +25,12 @@ echo
 echo "END generate display in $devdir"
 echo "-------------------------------------------------"
 
-cd $origdir
+cd $origdir || exit 1
 echo "restoring $orig"
 git restore pw.txt
 #echo "restoring $origx"
 #git restore $filex
 
 echo "check xmlvalidity"
-cd $devdir
+cd $devdir || exit 1
 python /c/xampp/htdocs/cologne/xmlvalidate.py pywork/pw.xml pywork/pw.dtd
