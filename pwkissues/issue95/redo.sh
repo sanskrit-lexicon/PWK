@@ -17,7 +17,7 @@ echo
 devdir=/c/xampp/htdocs/sanskrit-lexicon/PWK/pwkissues/issue95/dev$sfx
 echo "BEGIN Generate display in $devdir"
 echo "-------------------------------------------------"
-cd /c/xampp/htdocs/cologne/csl-pywork/v02/
+cd /c/xampp/htdocs/cologne/csl-pywork/v02/ || exit 1
 root=dev_$sfx
 echo
 pwd
@@ -26,7 +26,7 @@ echo
 echo "END generate display in $devdir"
 echo "-------------------------------------------------"
 
-cd $origdir
+cd $origdir || exit 1
 echo "restoring $orig"
 git restore pw.txt
 #echo "restoring $origx"
